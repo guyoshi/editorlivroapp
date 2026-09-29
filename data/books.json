@@ -1,0 +1,10 @@
+{
+  "books": [
+    {
+      "id": "ruinas-dos-ceus",
+      "title": "Ruínas dos Céus",
+      "subtitle": "Ciclo de Jesed — Livro 1",
+      "manifest": "data/ruinas-dos-ceus.json"
+    }
+  ]
+}
