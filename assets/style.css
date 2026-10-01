@@ -113,6 +113,15 @@ body{
   font-size:1.5rem; font-weight:600; margin: 0 0 .9em; line-height:1.3;
 }
 
+.next-chapter-btn{
+  display:flex; align-items:center; justify-content:center; gap:8px;
+  width:calc(100% - 44px); max-width:640px; margin:12px auto 24px;
+  padding:14px 18px; border-radius:999px; border:none;
+  background:var(--accent); color:var(--accent-ink);
+  font:inherit; font-weight:600; font-size:.96rem; cursor:pointer;
+}
+.next-chapter-btn[hidden]{ display:none !important; }
+
 body.focus-mode .topbar,
 body.focus-mode .player-bar{ display:none !important; }
 body.focus-mode .reader-scroll{ background:var(--focus-bg); }

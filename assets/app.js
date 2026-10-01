@@ -121,6 +121,7 @@ async function openChapter(idx){
   $("#chapterText").innerHTML = `<p class="empty-hint">Carregando…</p>`;
   showView("reader");
   exitFocus();
+  updateNextChapterUI();
 
   // texto
   try{
@@ -165,6 +166,20 @@ function renderChapterText(ch, raw){
     .concat(paras.map(p => `<p>${escapeHtml(p).replace(/\n/g,"<br>")}</p>`))
     .join("");
   $("#chapterText").innerHTML = html;
+}
+
+// ---------------- navegação entre capítulos ----------------
+function updateNextChapterUI(){
+  const book = state.currentBook;
+  const hasNext = !!(book && book.chapters[state.currentChapterIdx + 1]);
+  const topBtn = $("#btnNextChapterTop");
+  const endBtn = $("#btnNextChapterEnd");
+  topBtn.hidden = !hasNext;
+  endBtn.hidden = !hasNext;
+  if(hasNext){
+    const next = book.chapters[state.currentChapterIdx + 1];
+    $("#nextChapterLabel").textContent = `Próximo: ${next.title}`;
+  }
 }
 function escapeHtml(s){
   return s.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
@@ -300,6 +315,8 @@ function initNav(){
   });
   $("#btnFocus").addEventListener("click", enterFocus);
   $("#focusExit").addEventListener("click", exitFocus);
+  $("#btnNextChapterTop").addEventListener("click", ()=> changeChapter(1));
+  $("#btnNextChapterEnd").addEventListener("click", ()=> changeChapter(1));
 }
 
 // ---------------- service worker ----------------
