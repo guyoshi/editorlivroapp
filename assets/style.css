@@ -98,7 +98,7 @@ body{
 }
 
 /* ---------- leitura ---------- */
-.reader-topbar{ padding-bottom:8px; border-bottom:1px solid var(--line); }
+.reader-topbar{ position:relative; padding-bottom:8px; }
 .reader-heading{ flex:1; min-width:0; display:flex; flex-direction:column; align-items:center; text-align:center; }
 .reader-book{ font-size:.72rem; color:var(--ink-soft); text-transform:uppercase; letter-spacing:.06em; }
 .reader-chapter{ font-family:var(--serif); font-size:.98rem; font-weight:600; }
@@ -122,16 +122,16 @@ body{
 }
 .next-chapter-btn[hidden]{ display:none !important; }
 
-/* ---------- barra de progresso de leitura ---------- */
+/* ---------- barra de progresso de leitura (dentro do cabeçalho) ---------- */
 .reader-progress{
-  position:relative; height:3px; background:var(--line);
+  position:absolute; left:0; right:0; bottom:0; height:3px; background:var(--line);
 }
 .reader-progress-fill{
   height:100%; width:0%; background:var(--accent); transition:width .12s linear;
 }
 .reader-progress-label{
-  position:absolute; top:6px; right:10px; font-size:.7rem; color:var(--ink-soft);
-  font-variant-numeric: tabular-nums;
+  font-size:.74rem; font-weight:700; color:var(--accent);
+  font-variant-numeric: tabular-nums; flex:0 0 auto;
 }
 
 /* ---------- conclusão de capítulo ---------- */
@@ -200,7 +200,6 @@ body{
 
 body.focus-mode .topbar,
 body.focus-mode .player-bar,
-body.focus-mode .reader-progress,
 body.focus-mode .chapter-notes,
 body.focus-mode .para-actions,
 body.focus-mode .comment-panel,
