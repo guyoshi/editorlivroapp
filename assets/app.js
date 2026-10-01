@@ -7,6 +7,7 @@
 const CFG_KEY = "jesed:cfgBase";
 const POS_KEY = (bookId, n) => `jesed:pos:${bookId}:${n}`;
 const LASTCH_KEY = (bookId) => `jesed:last:${bookId}`;
+const DONE_KEY = (bookId, n) => `jesed:done:${bookId}:${n}`;
 
 function baseUrl(){
   const v = localStorage.getItem(CFG_KEY);
@@ -64,21 +65,42 @@ async function openBook(bookId){
   const manifest = await res.json();
   state.currentBook = { ...meta, chapters: manifest.chapters || [] };
 
+  renderBookView();
+  showView("book");
+  checkAudioAvailability(); // não bloqueia a tela — só liga os pontinhos que existirem
+}
+
+// Redesenha a tela do livro (título, % do livro, lista de capítulos com
+// marcas de concluído). Reutilizável: chamada ao abrir o livro e de novo
+// ao voltar da leitura, pra refletir capítulos recém-concluídos.
+function renderBookView(){
+  const book = state.currentBook;
+  if(!book) return;
+  const meta = state.books.find(b=>b.id===book.id) || book;
+
   $("#bookTitle").textContent = meta.title;
   $("#bookSubtitle").textContent = meta.subtitle || "";
 
-  const lastCh = Number(localStorage.getItem(LASTCH_KEY(bookId)) || -1);
+  const lastCh = Number(localStorage.getItem(LASTCH_KEY(book.id)) || -1);
+  const prog = bookProgress(book);
+  const progLine = prog.total ? `${prog.done}/${prog.total} capítulos lidos · ${prog.pct}% do livro` : "";
+  $("#bookProgress").textContent = progLine;
 
   const listEl = $("#chapterList");
-  listEl.innerHTML = state.currentBook.chapters.map((c, i) => {
-    const pos = readPos(bookId, c.n);
+  listEl.innerHTML = book.chapters.map((c, i) => {
+    const pos = readPos(book.id, c.n);
     const isLast = i===lastCh;
+    const done = isChapterDone(book.id, c.n);
+    let statusTxt = "";
+    if(done) statusTxt = "concluído";
+    else if(pos) statusTxt = "continuar · "+fmtTime(pos.t||0);
+    else if(isLast) statusTxt = "última lida";
     return `
-      <div class="chapter-row" data-idx="${i}">
-        <div class="chapter-num">${c.n}</div>
+      <div class="chapter-row${done ? " chapter-done" : ""}" data-idx="${i}">
+        <div class="chapter-num">${done ? checkIconSvg() : c.n}</div>
         <div class="chapter-info">
           <h4>${c.title}</h4>
-          <span>${pos ? "continuar · "+fmtTime(pos.t||0) : (isLast ? "última lida" : "")}</span>
+          <span>${statusTxt}</span>
         </div>
         <div class="chapter-audio-dot" data-idx="${i}" hidden title="Tem áudio"></div>
       </div>`;
@@ -86,9 +108,9 @@ async function openBook(bookId){
   $$(".chapter-row", listEl).forEach(row=>{
     row.addEventListener("click", ()=> openChapter(Number(row.dataset.idx)));
   });
-
-  showView("book");
-  checkAudioAvailability(); // não bloqueia a tela — só liga os pontinhos que existirem
+}
+function checkIconSvg(){
+  return `<svg viewBox="0 0 24 24" width="15" height="15"><path fill="currentColor" d="M9 16.2l-3.5-3.5L4 14.2 9 19.2 20 8.2l-1.4-1.4z"/></svg>`;
 }
 
 // Verifica em segundo plano quais capítulos já têm áudio enviado (alguns
@@ -122,12 +144,15 @@ async function openChapter(idx){
   showView("reader");
   exitFocus();
   updateNextChapterUI();
+  updateCompleteUI();
+  resetReaderProgress();
 
   // texto
   try{
     const res = await fetch(resolve(ch.text), {cache:"no-cache"});
     const raw = await res.text();
     renderChapterText(ch, raw);
+    Comments.attachChapter(book.id, ch.n, $("#chapterText"), $("#chapterNotes"));
   }catch(e){
     $("#chapterText").innerHTML = `<p class="empty-hint">Não consegui carregar o texto deste capítulo.</p>`;
   }
@@ -163,7 +188,10 @@ async function openChapter(idx){
 function renderChapterText(ch, raw){
   const paras = raw.replace(/\r\n/g,"\n").trim().split(/\n{2,}/).filter(Boolean);
   const html = [`<p class="cap-title">${ch.title}</p>`]
-    .concat(paras.map(p => `<p>${escapeHtml(p).replace(/\n/g,"<br>")}</p>`))
+    .concat(paras.map((p, i) => `
+      <div class="para-block" data-para-idx="${i}">
+        <p>${escapeHtml(p).replace(/\n/g,"<br>")}</p>
+      </div>`))
     .join("");
   $("#chapterText").innerHTML = html;
 }
@@ -183,6 +211,52 @@ function updateNextChapterUI(){
 }
 function escapeHtml(s){
   return s.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+}
+
+// ---------------- % de leitura do capítulo ----------------
+function resetReaderProgress(){
+  $("#readerProgressFill").style.width = "0%";
+  $("#readerProgressLabel").textContent = "0%";
+}
+function updateReaderProgressBar(){
+  const scroller = $("#readerScroll");
+  const max = scroller.scrollHeight - scroller.clientHeight;
+  const pct = max > 0 ? Math.min(100, Math.max(0, Math.round((scroller.scrollTop / max) * 100))) : 100;
+  $("#readerProgressFill").style.width = pct + "%";
+  $("#readerProgressLabel").textContent = pct + "%";
+  if(pct >= 96) setChapterDone(true, {silent:true});
+}
+
+// ---------------- conclusão de capítulo ----------------
+function isChapterDone(bookId, n){
+  return localStorage.getItem(DONE_KEY(bookId, n)) === "1";
+}
+function setChapterDone(done, opts={}){
+  const book = state.currentBook;
+  const ch = book && book.chapters[state.currentChapterIdx];
+  if(!book || !ch) return;
+  const already = isChapterDone(book.id, ch.n);
+  if(already === done) { if(!opts.silent) updateCompleteUI(); return; }
+  if(done) localStorage.setItem(DONE_KEY(book.id, ch.n), "1");
+  else localStorage.removeItem(DONE_KEY(book.id, ch.n));
+  updateCompleteUI();
+}
+function updateCompleteUI(){
+  const book = state.currentBook;
+  const ch = book && book.chapters[state.currentChapterIdx];
+  if(!book || !ch) return;
+  const done = isChapterDone(book.id, ch.n);
+  const btn = $("#btnCompleteChapter");
+  btn.classList.toggle("done", done);
+  $("#completeBtnLabel").textContent = done ? "Capítulo concluído" : "Concluir capítulo";
+  const prog = bookProgress(book);
+  $("#bookProgressEnd").textContent = prog.total ? `${prog.done}/${prog.total} capítulos lidos · ${prog.pct}% do livro` : "";
+}
+function bookProgress(book){
+  const total = book.chapters.length;
+  const done = book.chapters.filter(c => isChapterDone(book.id, c.n)).length;
+  const pct = total ? Math.round((done/total)*100) : 0;
+  return { total, done, pct };
 }
 
 // ---------------- posição salva ----------------
@@ -309,6 +383,7 @@ function initNav(){
       if(to==="book"){
         audioEl().pause();
         exitFocus();
+        renderBookView();
         showView("book");
       }
     });
@@ -317,6 +392,13 @@ function initNav(){
   $("#focusExit").addEventListener("click", exitFocus);
   $("#btnNextChapterTop").addEventListener("click", ()=> changeChapter(1));
   $("#btnNextChapterEnd").addEventListener("click", ()=> changeChapter(1));
+  $("#readerScroll").addEventListener("scroll", updateReaderProgressBar, {passive:true});
+  $("#btnCompleteChapter").addEventListener("click", ()=>{
+    const book = state.currentBook;
+    const ch = book && book.chapters[state.currentChapterIdx];
+    if(!book || !ch) return;
+    setChapterDone(!isChapterDone(book.id, ch.n));
+  });
 }
 
 // ---------------- service worker ----------------

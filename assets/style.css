@@ -122,8 +122,89 @@ body{
 }
 .next-chapter-btn[hidden]{ display:none !important; }
 
+/* ---------- barra de progresso de leitura ---------- */
+.reader-progress{
+  position:relative; height:3px; background:var(--line);
+}
+.reader-progress-fill{
+  height:100%; width:0%; background:var(--accent); transition:width .12s linear;
+}
+.reader-progress-label{
+  position:absolute; top:6px; right:10px; font-size:.7rem; color:var(--ink-soft);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- conclusão de capítulo ---------- */
+.chapter-complete-area{
+  max-width:640px; margin:0 auto; padding: 4px 22px 18px; display:flex; flex-direction:column; align-items:center; gap:8px;
+}
+.complete-btn{
+  display:flex; align-items:center; justify-content:center; gap:8px;
+  width:100%; padding:13px 18px; border-radius:999px;
+  border:1px solid var(--line); background:var(--bg-elev); color:var(--ink);
+  font:inherit; font-weight:600; font-size:.94rem; cursor:pointer;
+}
+.complete-btn.done{
+  background: color-mix(in srgb, var(--accent) 16%, transparent);
+  border-color:var(--accent); color:var(--accent);
+}
+.book-progress-end{ margin:0; font-size:.78rem; color:var(--ink-soft); }
+.book-progress-line{ margin: -10px 16px 14px; color:var(--accent); font-size:.8rem; font-weight:600; }
+
+/* ---------- comentários ---------- */
+.para-block{ position:relative; }
+.para-actions{ display:flex; justify-content:flex-end; margin:-4px 0 10px; }
+.comment-toggle{
+  display:flex; align-items:center; gap:5px; border:none; background:transparent;
+  color:var(--ink-soft); font:inherit; font-size:.76rem; cursor:pointer; padding:4px 6px; border-radius:8px;
+}
+.comment-toggle:active{ background:var(--line); }
+.comment-count{
+  background:var(--accent); color:var(--accent-ink); border-radius:999px;
+  min-width:16px; height:16px; padding:0 4px; font-size:.68rem; line-height:16px; text-align:center;
+}
+.comment-panel{
+  background:var(--focus-bg); border:1px solid var(--line); border-radius:10px;
+  padding:10px 12px; margin:-2px 0 14px; font-family:var(--sans);
+}
+.comment-list{ display:flex; flex-direction:column; gap:8px; margin-bottom:8px; }
+.comment-empty{ margin:0; color:var(--ink-soft); font-size:.78rem; }
+.comment-item{ display:flex; flex-direction:column; gap:2px; font-size:.84rem; }
+.comment-author{ font-weight:700; font-size:.72rem; color:var(--accent); }
+.comment-text{ color:var(--ink); line-height:1.4; }
+.comment-form{ display:flex; gap:8px; }
+.comment-form input{
+  flex:1; font:inherit; font-size:.84rem; padding:8px 10px; border-radius:8px;
+  border:1px solid var(--line); background:var(--bg-elev); color:var(--ink);
+}
+.comment-form button{
+  font:inherit; font-size:.82rem; font-weight:600; border:none; border-radius:8px;
+  padding:8px 14px; background:var(--accent); color:var(--accent-ink); cursor:pointer;
+}
+.chapter-notes{
+  max-width:640px; margin:0 auto; padding:0 22px; display:flex; flex-direction:column; gap:8px;
+}
+.chapter-notes[hidden]{ display:none; }
+.chapter-note-label{ font-size:.76rem; font-weight:700; color:var(--ink-soft); text-transform:uppercase; letter-spacing:.04em; margin-top:18px; }
+
+/* ---------- capítulo concluído (lista) ---------- */
+.chapter-row.chapter-done .chapter-num{ background:var(--accent); color:var(--accent-ink); }
+
+/* ---------- modo admin ---------- */
+.admin-box{ margin: -4px 0 14px; }
+.field-check{ display:flex; align-items:center; gap:8px; font-size:.86rem; }
+.link-btn{
+  display:block; margin:0 0 16px; background:none; border:none; color:var(--accent);
+  font:inherit; font-size:.82rem; font-weight:600; padding:0; cursor:pointer;
+}
+
 body.focus-mode .topbar,
-body.focus-mode .player-bar{ display:none !important; }
+body.focus-mode .player-bar,
+body.focus-mode .reader-progress,
+body.focus-mode .chapter-notes,
+body.focus-mode .para-actions,
+body.focus-mode .comment-panel,
+body.focus-mode .chapter-complete-area{ display:none !important; }
 body.focus-mode .reader-scroll{ background:var(--focus-bg); }
 body.focus-mode .chapter-text{ padding-top:56px; padding-bottom:56px; }
 .focus-exit{
