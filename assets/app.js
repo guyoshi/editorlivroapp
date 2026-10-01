@@ -1,8 +1,8 @@
-// ================= Leitor do Ciclo de Jesed =================
-// App leve, sem framework. Puxa texto (.md) e áudio (.mp3) dos capítulos
-// de arquivos estáticos (por padrão, deste mesmo site — dá pra apontar
-// pra outro endereço nos Ajustes). Guarda progresso de leitura e áudio
-// no localStorage do aparelho.
+// ================= Leitor de Livros =================
+// App leve, sem framework, pra todos os livros (um ou vários). Puxa texto
+// (.md) e áudio (.mp3) dos capítulos de arquivos estáticos (por padrão,
+// deste mesmo site — dá pra apontar pra outro endereço nos Ajustes).
+// Guarda progresso de leitura e áudio no localStorage do aparelho.
 
 const CFG_KEY = "jesed:cfgBase";
 const POS_KEY = (bookId, n) => `jesed:pos:${bookId}:${n}`;
@@ -201,7 +201,7 @@ function setMediaSession(book, ch){
   navigator.mediaSession.metadata = new MediaMetadata({
     title: `Cap. ${ch.n} — ${ch.title}`,
     artist: book.title,
-    album: "Ciclo de Jesed",
+    album: book.subtitle || book.title,
   });
   navigator.mediaSession.setActionHandler("play", ()=> audioEl().play());
   navigator.mediaSession.setActionHandler("pause", ()=> audioEl().pause());

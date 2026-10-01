@@ -1,9 +1,15 @@
-# Jesed — Leitor (App Mobile)
+# Meus Livros — Leitor (App Mobile)
 
 App leve (PWA — instala no celular direto do navegador, sem loja de apps)
-pra ler e ouvir os livros do Ciclo de Jesed. Lê texto e toca o áudio do
-capítulo inteiro, funciona com a tela desligada, guarda de onde você parou,
-tem modo foco de leitura e um botão opcional de música de fundo.
+pra ler e ouvir TODOS os seus livros, não só um ciclo/série específica —
+cada livro é uma entrada independente na biblioteca do app. Lê texto e
+toca o áudio do capítulo inteiro, funciona com a tela desligada, guarda de
+onde você parou, tem modo foco de leitura e um botão opcional de música de
+fundo.
+
+No momento só "Ruínas dos Céus" (Ciclo de Jesed, Livro 1) está carregado,
+mas a estrutura já suporta qualquer quantidade de livros e séries — basta
+seguir "Adicionando mais livros depois", abaixo.
 
 ## Como colocar isso no ar (uma vez só)
 
@@ -59,18 +65,22 @@ ffmpeg -i "Ruínas dos Céus - Capítulo 1 - O Sopro de Etérea.wav" -codec:a li
 preferir, também dá pra converter vários de uma vez com uma ferramenta
 gráfica (ex. o próprio VLC tem opção de "Convert").
 
-## Adicionando o Livro 2 e o Livro 3 depois
+## Adicionando mais livros depois
 
-1. Duplique a pasta `content/ruinas-dos-ceus/` pra, por exemplo,
-   `content/guerras-de-sangue/`, com as mesmas subpastas `capitulos/` e
-   `audio/`.
-2. Duplique `data/ruinas-dos-ceus.json` pra `data/guerras-de-sangue.json`
-   e ajuste os títulos/nomes de arquivo dos 30 capítulos.
+Vale pra qualquer livro novo, seja outro livro do Ciclo de Jesed ou de uma
+história completamente diferente — o app não é amarrado a nenhuma série:
+
+1. Crie uma pasta nova em `content/`, ex. `content/nome-do-livro/`, com as
+   mesmas subpastas `capitulos/` e `audio/`.
+2. Crie `data/nome-do-livro.json` (mesmo formato de
+   `data/ruinas-dos-ceus.json`) com os títulos/nomes de arquivo dos
+   capítulos desse livro.
 3. Acrescente uma entrada nova em `data/books.json`, apontando pro
-   manifesto novo.
+   manifesto novo — o `subtitle` de cada livro é livre (pode citar a série
+   dele, ou nada, se for avulso).
 
-Se quiser, é só me avisar quando estiver pronto pra isso que eu gero o
-`.json` do livro 2/3 igual fiz com o 1, a partir dos nomes de arquivo reais.
+Se quiser, é só me avisar quando estiver pronto que eu gero o `.json` do
+próximo livro igual fiz com o 1, a partir dos nomes de arquivo reais.
 
 ## Música de fundo (opcional)
 

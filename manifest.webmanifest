@@ -1,7 +1,7 @@
 {
-  "name": "Jesed — Leitor",
-  "short_name": "Jesed",
-  "description": "Leitor e narrador do Ciclo de Jesed",
+  "name": "Meus Livros — Leitor",
+  "short_name": "Meus Livros",
+  "description": "Leitor e narrador dos seus livros",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
