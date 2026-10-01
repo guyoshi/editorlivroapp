@@ -1,8 +1,8 @@
 Todos dormiam. Jokara, no entanto, fingia dormir.
 
-Era a terceira noite em que prestava atenção ao mesmo padrão. Gabasteri esperava as respirações ficarem profundas, conferia o entorno do abrigo e desaparecia entre as árvores. Nunca dizia aonde ia.
+Era a terceira Sopro do Silêncio em que prestava atenção ao mesmo padrão. Gabasteri esperava as respirações ficarem profundas, conferia o entorno do abrigo e desaparecia entre as árvores. Nunca dizia aonde ia.
 
-Naquela noite, levou consigo o saco onde guardava parte dos alimentos, ferramentas e as armas que recolhia antes do descanso, inclusive a adaga de Jokara.
+Naquela Sopro do Silêncio, levou consigo o saco onde guardava parte dos alimentos, ferramentas e as armas que recolhia antes do descanso, inclusive a adaga de Jokara.
 
 Ela esperou alguns instantes antes de se erguer.
 
@@ -32,7 +32,7 @@ Beijo-da-Noite concentrado.
 
 A primeira lembrança foi Platisa, segurando o zélon contra o peito e dizendo que alguma coisa naquele homem a incomodava.
 
-Depois vieram outras, sem ordem: a noite do incêndio; a comida desaparecida; as pedras riscadas na clareira; Gabasteri voltando sozinho depois de Platisa; Maletar tossindo cada vez mais.
+Depois vieram outras, sem ordem: o Sopro do Silêncio do incêndio; a comida desaparecida; as pedras riscadas na clareira; Gabasteri voltando sozinho depois de Platisa; Maletar tossindo cada vez mais.
 
 E, por último, o cantil escuro tombado ao lado do corpo.
 
@@ -56,7 +56,7 @@ Ela fechou o recipiente na mão.
 
 Gabasteri não respondeu.
 
-— No dia em que nos conhecemos, você quis saber quantos éramos. Perguntou da água, do fogo, da comida, de onde caçávamos. Depois viu o abrigo. Foi embora… e naquela mesma noite ele queimou.
+— No sopro em que nos conhecemos, você quis saber quantos éramos. Perguntou da água, do fogo, da comida, de onde caçávamos. Depois viu o abrigo. Foi embora… e naquela mesmo Sopro do Silêncio ele queimou.
 
 Silêncio.
 
@@ -66,13 +66,13 @@ Gabasteri inclinou levemente a cabeça.
 
 Jokara abriu a mão e mostrou o recipiente.
 
-— Depois a comida desapareceu. Platisa começou a desconfiar de você. Mais tarde seguimos por uma rota que você conhecia e ela morreu.
+— Depois a comida desapareceu. Platisa começou a desconfiar de você. Quando saímos dali, foi você quem indicou a rota. A fera apareceu. Você levou Platisa sozinho para a mata e voltou sem ela.
 
 O sorriso dele diminuiu.
 
-— Está tentando transformar azar em crime?
+— Eu tirei aquela garota dali quando ela mal conseguia ficar em pé.
 
-— Estou tentando descobrir quanto daquele azar você conhecia antes de nós.
+— E ninguém viu o que aconteceu depois que você desapareceu com ela — respondeu Jokara. — Estou tentando descobrir quanto daquele azar você conhecia antes de nós.
 
 Jokara destampou o recipiente. O pó azul concentrado apareceu sob a pouca luz.
 
@@ -94,19 +94,19 @@ Gabasteri permaneceu parado.
 
 Jokara continuou antes que ele pudesse desmontar a linha inteira.
 
-— Platisa conhecia plantas. Conhecia venenos. E desconfiava de você. Se você conhecia aquela região tão bem quanto dizia... talvez também soubesse o que caçava por lá.
+— Platisa conhecia plantas. Conhecia venenos. E desconfiava de você. Você conhecia aquela região melhor do que qualquer um de nós e escolheu o caminho mesmo assim.
 
 Ela observou o rosto dele.
 
-— Foi por isso que nos levou até aquele caminho?
+— Foi por isso que nos levou até lá?
 
 Gabasteri soltou um riso curto, sem humor.
 
-— E você acha que eu teria como saber onde aquela criatura caçava?
+— Agora também sou responsável pelos animais da floresta?
 
-Jokara não respondeu de imediato.
+— Não. Pela rota, sim. E por ter sido a última pessoa a ver Platisa viva.
 
-— Acho que você conhece esta floresta há tempo demais para ter escolhido aquela rota por acaso.
+O rosto dele endureceu.
 
 O rosto dele endureceu.
 
@@ -192,7 +192,7 @@ Ele soltou um riso curto.
 
 O sorriso desapareceu.
 
-— Cuidado, Jokara.
+— Não me compare a eles.
 
 — Foi para isso que eu vim. Buscar o que é nosso e impedir que você volte para eles como se nada tivesse acontecido.
 
@@ -222,7 +222,7 @@ Ele não respondeu.
 
 Jokara apertou a adaga e ajustou o bastão sob o braço.
 
-Ela sabia que não podia trocar força com ele. Nem velocidade. Já aprendera isso com a floresta muito antes daquela noite.
+Ela sabia que não podia trocar força com ele. Nem velocidade. Já aprendera isso com a floresta muito antes daquela Sopro do Silêncio.
 
 Quando Gabasteri avançou, Jokara não foi ao encontro do corpo dele. Plantou o bastão na diagonal entre os dois. A lâmina dele passou por cima da madeira; Jokara girou o punho e bateu com a extremidade do bastão no joelho do homem.
 
@@ -290,13 +290,13 @@ Jokara se arrastou alguns passos para trás. Sangrava pelo nariz e pela boca.
 
 Sorriu com o lábio partido.
 
-— Agora somos iguais… olha só. — Ambos só temos uma perna forte.
+— Agora somos iguais… olha só. Ambos só temos uma perna forte.
 
 Gabasteri tossia, os olhos ardendo e a respiração curta, mas ainda avançava.
 
 Jokara rastejou até o bastão, puxou-o para perto e o fincou no chão. Uma vez. Falhou em se erguer. Na segunda, encaixou a madeira sob o braço, colocou a perna direita sob o corpo e ficou de pé. Seus braços tremiam.
 
-Ela ergueu a adaga, pronta para atravessá-lo, quando uma voz cortou a noite:
+Ela ergueu a adaga, pronta para atravessá-lo, quando uma voz cortou o Sopro do Silêncio:
 
 — Jokara! — o grito de Nestira, aflito, acompanhado dos passos de Mariv, que surgia logo atrás.
 
@@ -316,23 +316,39 @@ Gabasteri tombou de lado, cambaleando, arfando, os olhos e a garganta ainda arde
 
 — Não — sussurrou. Então gritou, correndo até a irmã: — Não!
 
-Jokara tossiu sangue, o olhar trêmulo buscando o rosto da irmã. Nestira a alcançou e a arrastou para longe de Gabasteri.
+Jokara tossiu sangue, procurando o rosto da irmã com os olhos já sem firmeza. Nestira chegou antes que ela tombasse de lado, passou um braço por trás de seus ombros e a puxou para longe de Gabasteri até poder deitá-la contra as próprias pernas.
 
-Com a mão fraca, Jokara agarrou a da irmã.
+— Não, não, não… — repetia, sem perceber que falava. — Olha pra mim. Jokara, olha pra mim.
 
-— Foi ele… — o sangue subiu-lhe à boca. — Maletar… Platisa… foi ele. Fuja, Nestira… fuja com Mariv…
+A lâmina continuava cravada no abdômen. Nestira levou a mão até ela por instinto, mas parou antes de tocar. Em vez disso, arrancou um pedaço do próprio tecido e o pressionou ao redor da ferida. O pano escureceu quase imediatamente. Ela dobrou outra parte por cima, apertando mais forte.
 
-— Não — disse Nestira, olhando para a faca cravada na irmã. — Não, não, não… Jokara… Jokara…
+— Vai parar. Vai parar… só fica comigo.
 
+Jokara tentou erguer a mão. Os dedos alcançaram o pulso da irmã.
 
+— Foi ele… — disse, e o sangue voltou à boca. Nestira limpou-o com a manga antes que escorresse pelo queixo. — Maletar… Platisa… foi ele. Fuja, Nestira. Fuja com Mariv.
 
-— Escuta… — disse Jokara, rouca. — Eu carrego o teu peso… e você carrega o meu sopro.
+— Cala a boca. — Nestira apertou o tecido contra a ferida com as duas mãos. Chorava tanto que mal enxergava o que fazia. — Você não vai me mandar embora. Eu vou tirar você daqui. A gente encontra água, eu faço um curativo, eu… eu sei fazer. Eu vi Platisa fazer. Eu consigo.
 
-Nestira apertou a mão ensanguentada da irmã contra o rosto.
+Jokara respirou curto, com esforço. Seus dedos ainda seguravam o pulso da irmã.
 
-— Eu te amo, Jokara. Por Arion… por favor. Não me deixa. Eu não sei viver sem você.
+— Nestira…
 
-Jokara tentou sorrir.
+— Não fecha os olhos.
+
+— Escuta.
+
+— Eu estou escutando. Estou aqui.
+
+Jokara esperou até que a irmã a olhasse de verdade.
+
+— Eu carrego o teu peso… e você carrega o meu sopro.
+
+O rosto de Nestira desmoronou. Ela soltou o pano por um instante apenas para segurar o rosto da irmã entre as mãos, encostando a testa na dela.
+
+— Eu carrego. — A voz saiu quebrada. — Eu prometo que carrego. Mas você fica comigo, está ouvindo? Eu te amo, Jokara. Por Arion… fica comigo. Eu não sei viver sem você.
+
+Jokara tentou sorrir. Uma das mãos subiu alguns dedos e tocou o rosto molhado de Nestira, deixando uma mancha de sangue junto à sua bochecha.
 
 — Sabe, sim.
 
@@ -340,40 +356,110 @@ Jokara tentou sorrir.
 
 — Então aprende.
 
-Nestira soltou um som entre riso e choro.
+Nestira soltou um som quebrado, entre um riso e um soluço, e tornou a pressionar a ferida como se força bastante pudesse obrigar o sangue a voltar para dentro.
 
-Jokara fechou os olhos por um instante. Quando tornou a abri-los, pareciam procurar alguma coisa muito distante.
+Uma brisa atravessou a mata. Foi fraca, quase nada, mas mexeu os cabelos grudados na testa de Jokara.
 
-— Se encontrar o pai… a mãe… o Efepar…
+Os olhos dela se moveram para as folhas acima.
 
-A voz falhou.
+— O pai… — murmurou.
 
-— Diz você mesma quando chegar lá — respondeu Nestira, desesperada.
+Nestira balançou a cabeça imediatamente.
 
-Jokara sorriu de novo, menor.
+— Não.
+
+— Ele dizia que… um sopro… a gente voltava a ser vento.
+
+— Não. — Nestira segurou o rosto dela outra vez, obrigando-a a encará-la. — Não é esse sopro. Está me ouvindo? Não é esse.
+
+O sorriso de Jokara apareceu de novo, pequeno e cansado.
 
 — Teimosa.
 
-Foi a última palavra inteira que conseguiu dizer.
+Nestira soluçou e beijou a testa dela.
 
-A mão dela afrouxou na de Nestira. O olhar perdeu o foco. O peito não se ergueu outra vez.
+— Pode me chamar do que quiser. Só fica.
 
-Nestira encostou o rosto no dela e a abraçou. Não ia sair dali.
+Jokara ficou em silêncio por alguns instantes. A respiração vinha cada vez mais espaçada. Nestira contava cada uma sem perceber, esperando a próxima antes mesmo de a anterior terminar.
 
-Mariv a puxava pelos ombros.
+Então Jokara apertou muito de leve os dedos da irmã.
 
-— Nestira, precisamos ir!
+— Nestira…
 
-Gabasteri começava a se levantar ao longe, mancando, os olhos cheios de ódio.
+— Estou aqui.
 
-— Eu não vou, eu não vou deixá-la! — Nestira berrava, tentando agarrar o corpo de Jokara.
+Jokara voltou os olhos para as folhas que se moviam acima delas.
 
-— Nestira… Ela se foi! — Mariv gritou, forçando-a a se erguer. — Ela morreu para nos salvar! Por favor… não faça com que a morte dela seja em vão.
+— Eu consigo ouvir.
 
-A garota iria responder, mas então sentiu uma brisa no rosto. Respirou fundo e fechou os olhos, murmurando uma pequena oração.
+Nestira prendeu a respiração.
 
-Mariv a puxou com força, e ela se levantou, soltando a mão da irmã. Olhou para Jokara mais uma vez. Depois virou-se e correu com Mariv.
+— O quê?
 
-Atrás deles, o corpo de Jokara ficou no chão da floresta.
+Jokara demorou tanto a responder que Nestira chamou seu nome outra vez.
+
+— O vento.
+
+O ar deixou o peito de Jokara numa expiração longa e fraca. Nestira esperou que ele voltasse.
+
+Não voltou.
+
+— Jokara?
+
+Ela passou a mão pelo rosto da irmã.
+
+— Jokara.
+
+Apertou o pano contra a ferida outra vez, mesmo sem saber por quê.
+
+— Não. Respira. Vai. Respira.
+
+Encostou o ouvido perto da boca dela. Depois no peito. Tornou a erguer o rosto de Jokara entre as mãos e deu dois tapinhas leves em sua bochecha.
+
+— Olha pra mim. Você mandou eu aprender, então olha pra mim. Eu estou aprendendo. Jokara…
+
+Nada.
+
+Nestira puxou a irmã contra o peito e a abraçou com tanta força que o próprio corpo tremia. Enterrou o rosto nos cabelos dela.
+
+— Não me deixa aqui. Por favor… não me deixa aqui.
+
+Mariv chegou até as duas e se ajoelhou por um instante. Atrás deles, Gabasteri começava a se levantar, mancando, os olhos cheios de ódio.
+
+— Nestira, precisamos ir.
+
+Ela apertou Jokara ainda mais.
+
+— Não.
+
+— Ele está levantando.
+
+— Eu não vou deixá-la!
+
+Mariv tentou puxá-la pelos ombros. Nestira se debateu, agarrando-se à roupa da irmã.
+
+— Ela odeia ficar sozinha! Solta! JOKARA!
+
+— Nestira! — Mariv segurou os dois braços dela e a obrigou a olhar para ele. A própria voz falhou antes que conseguisse continuar. — Ela morreu para você sair daqui.
+
+Nestira negava com a cabeça.
+
+— Não.
+
+— Você ouviu o que ela pediu.
+
+Ela olhou outra vez para Jokara. A brisa ainda passava pelos cabelos da irmã, movendo alguns fios sobre seu rosto como se nada tivesse acontecido.
+
+Nestira inclinou-se uma última vez, afastou esses fios com os dedos e beijou-lhe a testa.
+
+— Eu prometi — sussurrou.
+
+Só então deixou Mariv puxá-la de pé.
+
+Deu dois passos e voltou o rosto.
+
+Jokara permaneceu entre as folhas, imóvel, enquanto o vento passava por ela.
+
+Nestira chorou sem som e correu com Mariv.
 
 

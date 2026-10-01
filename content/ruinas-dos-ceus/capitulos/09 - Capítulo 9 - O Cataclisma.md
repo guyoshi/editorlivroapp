@@ -12,7 +12,7 @@ Jokara não hesitou.
 
 Ninguém em Etérea dizia aquilo em voz alta.
 
-Maletar engoliu em seco. Efepar não disse nada, apenas baixou os olhos e levou a mão ao ferimento no peito, que começava a enrijecer com o frio da noite.
+Maletar engoliu em seco. Efepar não disse nada, apenas baixou os olhos e levou a mão ao ferimento no peito, que começava a enrijecer com o frio do Sopro do Silêncio.
 
 Desceram os degraus tortuosos da Ilha da Memória. Havia nuvens demais para tão pouco vento.
 
@@ -128,7 +128,7 @@ A nota cessou por um momento.
 
 — Passei a vida inteira dizendo aos outros que um Sopro deve saber quando se entregar à Corrente. Seria estranho abandonar essa fé justamente quando ela exige algo de mim.
 
-Jokara queria arrancá-la dali. Queria dizer que aquilo não era fé, era desistência. Mas Yrisea tinha o mesmo rosto da noite das velas, e Jokara teve medo dela.
+Jokara queria arrancá-la dali. Queria dizer que aquilo não era fé, era desistência. Mas Yrisea tinha o mesmo rosto do Sopro do Silêncio das velas, e Jokara teve medo dela.
 
 Yrisea abriu os olhos uma última vez.
 
@@ -172,7 +172,7 @@ Jokara parou na porta, arfando, o suor escorrendo pela nuca.
 
 A irmã não se moveu. Continuou a orar. Lágrimas escorriam por baixo das pálpebras fechadas.
 
-— Nestira. — Está me ouvindo?
+— Nestira. Está me ouvindo?
 
 — Estou — respondeu a outra, sem abrir os olhos. — É a espiral do silêncio, Jokara. Estou pedindo para que os ventos nos protejam.
 
@@ -320,7 +320,17 @@ Fechou os olhos. Quando abriu de novo, não havia mais torres.
 
 Não via mais nenhum planador no céu. Só o dela, e Loutes agarrado à armação.
 
-E antes que pudessem lamentar, uma pedra colossal, desprendida de uma das poucas ilhas restantes acima, passou rente a eles. O impacto abriu um rasgo no tecido. O ar entrou pelo rasgo e o planador começou a girar.
+Os gritos foram sumindo, um a um, até que não restou nenhum. Só o vento preso nas cordas do planador, e a respiração dos dois. Abaixo, as nuvens já tinham engolido Etérea inteira. O sol descia atrás do que restava das ilhas, pintando os cacos de pedra e vidro flutuante de um laranja que não deveria ser bonito, mas era. Loutes não dizia nada. Só respirava perto dela, o rosto virado para aquela luz.
+
+Por um instante, pareciam os últimos dois seres vivos no mundo.
+
+Foi Loutes quem ergueu o rosto primeiro. Apontou para cima, sem voz.
+
+Jokara seguiu o dedo dele. Acima deles, recortada contra o que sobrava do céu, vinha caindo uma ilha inteira, árvores ainda presas às raízes, devagar demais para ser real e rápido demais para escapar dela.
+
+Puxou as cordas com tudo que lhe restava de força, forçando o planador para o lado. O tecido gemeu, obedeceu um pouco.
+
+Não foi a ilha que os atingiu. Foi um fragmento dela, arrancado no caminho da queda, que passou de raspão pelo tecido do planador. O rasgo se abriu antes que Jokara pudesse gritar. O ar entrou, e o planador começou a girar.
 
 Loutes escorregou, os dedos soltando-se da armação. Jokara agarrou-lhe a mão.
 
@@ -336,7 +346,7 @@ A queda não acabava.
 
 Até que as nuvens se abriram. Embaixo delas não havia mais céu azul, mas um escuro salpicado de luzes distantes. E, mais embaixo ainda, alguma coisa.
 
-Uma floresta, vasta, negra, de árvores enormes. Mais adiante, um lago imenso refletindo a noite. Nadirion. Existia.
+Uma floresta, vasta, negra, de árvores enormes. Mais adiante, um lago imenso refletindo o Sopro do Silêncio. Nadirion. Existia.
 
 O impacto veio como gelo. Jokara atingiu a água, e o frio lhe arrancou o ar dos pulmões. Os sons se calaram. Bolhas. Escuro. Ela afundava.
 

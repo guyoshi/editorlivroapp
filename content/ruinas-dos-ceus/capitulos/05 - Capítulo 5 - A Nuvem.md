@@ -192,7 +192,7 @@ Jokara ficou com os dedos parados na tigela. Tinha sido ali perto que encontrara
 
 — Limos de Arion...? — repetiu, fingindo que o nome era apenas curioso.
 
-— Um lugar antigo. Os Oradores não falam muito sobre ele. É uma zona de escuta, uma dobra de silêncio, como chamam. Dizem que foi ali que Arion ouviu pela primeira vez a Voz-Pedra. Onde o Vento ficou imóvel por três dias — respondeu a mãe. — Por isso ninguém deve entrar. Nem mesmo Oradores sem autorização.
+— Um lugar antigo. Os Oradores não falam muito sobre ele. É uma zona de escuta, uma dobra de silêncio, como chamam. Dizem que foi ali que Arion ouviu pela primeira vez a Voz-Pedra. Onde o Vento ficou imóvel por três sopros — respondeu a mãe. — Por isso ninguém deve entrar. Nem mesmo Oradores sem autorização.
 
 — Mas o que ela foi fazer lá?
 
@@ -216,7 +216,7 @@ Ela encostou os dedos na testa de Jokara com ternura.
 
 Jokara sorriu, para não ter de responder. Pegou a agulha da mãe e continuou o símbolo de onde ela tinha parado.
 
-Durante a noite, os ventos se aquietaram. Jokara demorou a adormecer. Ouvia a respiração de Nestira no quarto ao lado, regular, e tinha inveja dela.
+Durante o Sopro do Silêncio, os ventos se aquietaram. Jokara demorou a adormecer. Ouvia a respiração de Nestira no quarto ao lado, regular, e tinha inveja dela.
 
 No meio da madrugada, ouviu um estalo seco, de algo pequeno batendo contra a madeira. Depois outro. E mais um. Jokara se levantou.
 

@@ -6,7 +6,7 @@ Ali, cada jovem recebia seu planador: uma estrutura de seda-das-alturas tensiona
 
 Aquela Corrente não era escolhida na manhã do voo. Era atribuída ainda nos primeiros sopros de vida, depois que os Oradores observavam qual vento tocava a criança durante o ritual de apresentação. Alguns eterís passavam a vida reconhecendo-se naquela leitura. Outros cresciam desconfiando de que os ventos haviam sido interpretados depressa demais. Jokara nunca soubera se Arion realmente a escolhera ou se alguém apenas precisara gravar um símbolo sobre sua história antes que ela pudesse falar.
 
-— O planador é apenas um lembrete — dissera seu pai, anos antes. — Não é ele que te faz voar. É o sopro em ti que reconhece o do mundo.
+— O planador é apenas um lembrete — dissera seu pai, ciclos antes. — Não é ele que te faz voar. É o sopro em ti que reconhece o do mundo.
 
 Mas naquela manhã, nenhum sopro parecia reconhecê-la.
 
@@ -200,7 +200,7 @@ Jokara não respondeu. Ninguém a apressou.
 
 Efepar se recostou na viga de madeira, girando algo entre os dedos.
 
-— Tua irmã falou com a gente ontem à noite.
+— Tua irmã falou com a gente ontem ao Sopro do Silêncio.
 
 Jokara franziu o cenho, sem responder.
 

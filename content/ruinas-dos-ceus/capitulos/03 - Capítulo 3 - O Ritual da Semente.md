@@ -20,7 +20,7 @@ Nestira tentou contar uma pequena história dos ventos, como aprendera com a mã
 
 Ele não estava resistindo. Estava exausto.
 
-Mirel então retirou de dentro de um baú um velho manto de linho, bordado nas pontas com o símbolo da Corrente de Arion. Estendeu-o próximo à lareira apagada, onde a pedra ainda guardava o calor da noite anterior.
+Mirel então retirou de dentro de um baú um velho manto de linho, bordado nas pontas com o símbolo da Corrente de Arion. Estendeu-o próximo à lareira apagada, onde a pedra ainda guardava o calor do Sopro do Silêncio anterior.
 
 — Deitem-no aqui. O vento conhece este lugar.
 
@@ -41,6 +41,7 @@ Nestira, inquieta, passava por ele com o colar de penas entre os dedos. Murmurav
 Nestira balançou a cabeça devagar.
 
 — Como se não pertencesse aos nossos ventos.
+
 
 
 Na manhã seguinte, Sersi retornou com folhas secas e uma infusão morna.
@@ -65,7 +66,7 @@ Sersi deu de ombros.
 
 — Então os ventos contam o resto quando quiserem.
 
-— Vamos levá-lo até Yrisea — disse Mirel, enquanto amarrava os cabelos com uma fita azul escura, usada apenas em ocasiões solenes. A fita era de Raviera, um tecido que absorvia calor e vento, presente apenas entre os mais velhos da ilha. Mirel só a usava em dias assim.
+— Vamos levá-lo até Yrisea — disse Mirel, enquanto amarrava os cabelos com uma fita azul escura, usada apenas em ocasiões solenes. A fita era de Raviera, um tecido que absorvia calor e vento, presente apenas entre os mais velhos da ilha. Mirel só a usava em sopros assim.
 
 Mirel Amarëa não era uma mulher comum. Havia sido aprendiz de Ovenar, o antigo Orador da Terceira Corrente, e por duas espirais servira como Guardiã de Palavras na Câmara das Vozes, antes de recusar o posto e retornar à vida simples de Nivelia para criar as filhas. As mais velhas ainda falavam dela com respeito, e poucas entendiam por que tinha largado o posto. Raramente decidia algo em voz alta. Quando decidia, ninguém discutia.
 
@@ -83,7 +84,7 @@ Yrisea os aguardava ali, envolta num manto que parecia feito de névoa compacta,
 
 Yrisea não pediu explicações. Fez um gesto para que o menino se aproximasse. Ele o fez, lentamente. Parou diante dela. E ergueu o olhar para ela, direto, como ainda não tinha feito com ninguém.
 
-Yrisea tocou o ar entre eles, sem encostar. Seus lábios moveram-se num murmúrio antigo, irreconhecível. Depois, pousou a mão sobre o peito do menino e fechou os olhos por longos segundos. Quando os abriu, estavam úmidos.
+Yrisea tocou o ar entre eles, sem encostar. Seus lábios moveram-se num murmúrio antigo, quase irreconhecível. Entre as palavras, Jokara distinguiu Aeloris, o nome ancestral com que os textos mais velhos chamavam os eterí: os soprados pela origem. Depois, Yrisea pousou a mão sobre o peito do menino e fechou os olhos por longos segundos. Quando os abriu, estavam úmidos.
 
 — Ele é um perdido — disse, por fim. — Mas não parece ter sido abandonado por alguém. Talvez tenha se afastado por escolha.
 
@@ -91,7 +92,7 @@ Yrisea tocou o ar entre eles, sem encostar. Seus lábios moveram-se num murmúri
 
 Yrisea afastou a mão do peito do menino. Respirava com alguma dificuldade. Sentou-se de novo sobre as almofadas circulares, feitas com fios de celvra trançados, e ajeitou as dobras do manto sobre os joelhos.
 
-A Alcova do Eco, onde atendia, era um espaço de pedra polida no centro da colina de Vellarin, esculpida muitos ciclos antes. O teto era aberto em uma espiral de vidro azul, onde o vento podia entrar sem perturbar. Nas paredes, runas antigas vibravam com a luz do dia. E num nicho discreto, atrás de três véus de seda lilás, repousava o que só os oradores podiam tocar: o Verbo da Corrente.
+A Alcova do Eco, onde atendia, era um espaço de pedra polida no centro da colina de Vellarin, esculpida muitos ciclos antes. O teto era aberto em uma espiral de vidro azul, onde o vento podia entrar sem perturbar. Nas paredes, runas antigas vibravam com a luz do sopro. E num nicho discreto, atrás de três véus de seda lilás, repousava o que só os oradores podiam tocar: o Verbo da Corrente.
 
 Era um livro de tábuas entalhadas, presas por anéis de vento endurecido. Cada orador recebia o direito de acrescentar uma linha, uma única vez, após profunda meditação, e o restante podia apenas ser lido. As tábuas vibravam ao toque de Yrisea, que removeu os véus com uma reverência quase maternal.
 
@@ -187,7 +188,7 @@ Platisa caminhou até o centro com passos leves. Trazia nos ombros uma estola bo
 
 Ela se ajoelhou à frente do menino, que a observava com olhos enormes, atentos.
 
-— Durante dias — disse ela, com a voz clara, quase cantada — observamos o silêncio deste sopro. Ele não gritou, mas também não fugiu. Não falou, mas também não fechou os olhos. Ele ouviu.
+— Durante sopros — disse ela, com a voz clara, quase cantada — observamos o silêncio deste sopro. Ele não gritou, mas também não fugiu. Não falou, mas também não fechou os olhos. Ele ouviu.
 
 Platisa retirou do bolso uma pequena concha de cristal, onde haviam guardado um fiapo do primeiro cabelo cortado do menino, uma gota do mel que ele aceitou, e um pedaço do pano que rasgara ao dormir.
 
@@ -195,7 +196,15 @@ Platisa retirou do bolso uma pequena concha de cristal, onde haviam guardado um 
 
 Ela então olhou para o céu. Os sinos pendurados entre as árvores começaram a tocar com suavidade, empurrados por uma brisa que surgira do nada. A Corrente soprava.
 
-— Ouvi seu gesto — disse Platisa. — E o gesto falou mais do que muitas palavras. Como filho dos céus, uma nova semente nos é abençoada. Xar, Livia e Arion, tragam suas correntes para que possa nomear este garoto. E que seu nome prevaleça até o dia de seu primeiro voo, quando os ventos lhe darão a oportunidade de escolher um nome de vento.
+Platisa fechou os olhos e pronunciou a fórmula antiga dos Ecoantes:
+
+— Sorai, sela hai yana. Liretema sara e sei.
+
+Jokara conhecia a tradução desde criança: Correntes, protejam esta criança. Ouçam seu nome.
+
+— Ouvi seu gesto — disse Platisa. — E o gesto falou mais do que muitas palavras. Como filho dos céus, uma nova semente nos é abençoada. Xar, Livia e Arion, tragam suas correntes para que possa nomear este garoto. E que seu nome prevaleça até o sopro de seu primeiro voo, quando os ventos lhe darão a oportunidade de escolher um nome de vento.
+
+Para os eterí, Xar, Livia e Arion eram mais que nomes do vento: eram as três grandes Correntes invocadas em preces, juramentos e ritos.
 
 Ela se aproximou um pouco mais e pousou a mão direita sobre o ombro do menino.
 
@@ -215,7 +224,7 @@ Platisa, emocionada, respirou fundo e concluiu:
 
 Então um dos oradores se aproximou, e encerrou o ritual:
 
-— Que o vento te conduza, Loutes. E que tua raiz, um dia, escolha florir.
+— Que o vento te conduza, Loutes. E que tua raiz, um sopro, escolha florir.
 
 Jokara sentiu um arrepio subir pela espinha. Fazia muito tempo que não se sentia parte de alguma coisa.
 

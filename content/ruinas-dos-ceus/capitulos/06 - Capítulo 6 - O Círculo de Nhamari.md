@@ -48,7 +48,23 @@ Jokara inclinou a folha para observá-la melhor.
 
 — E uma menina esperta assim precisa de guardiã?
 
-Liri assentiu com toda a seriedade que uma criança podia reunir. Então deram-se as mãos. E entraram.
+Liri assentiu com toda a seriedade que uma criança podia reunir.
+
+Depois ergueu as duas mãos e começou a contar nos dedos.
+
+— Quantos sopros faltam pra Corrente da Colheita?
+
+Jokara foi dobrando um dedo de cada vez, junto com ela.
+
+— Sete sopros fecham uma corrente. Faltam só dois.
+
+— E pra fechar uma espiral inteira?
+
+Jokara riu, bagunçando o cabelo da menina.
+
+— Aí não tem dedo que chegue. Trinta sopros. Pra isso já se conta pelas luas, não pelas mãos.
+
+Então deram-se as mãos. E entraram.
 
 Mirel mexia uma infusão quente feita de flores de cerco, os olhos marcados pelo cansaço dos que oram mais do que dormem, mas ainda assim acolhedores. Sobre a mesa, limpava uma pequena ave caída do ninho, com gestos lentos e cerimoniosos, quase sagrados.
 
@@ -122,6 +138,7 @@ Levou o menino até a beira da ilha e pediu que colhesse uma folha qualquer. Ele
 
 O menino fechou os olhos, contou a verdade ao Vazio e soltou a folha.
 
+
 Na manhã seguinte, não havia pedra alguma nos bolsos.
 
 Ele correu. Subiu. Riu. E sua vintela voou mais alto do que antes.
@@ -164,7 +181,7 @@ Jokara arqueou a sobrancelha, provocativa.
 
 — Vai virar sermão agora?
 
-— Não é sermão — respondeu Nestira. — Toda criança eterí precisa aprender a respirar as preces, escutar os silêncios e... — ela apontou para os lábios de Liri — …ter mel na boca ao nascer do dia. É isso que sela a doçura das palavras. É isso que ensina a brisa a confiar na tua voz.
+— Não é sermão — respondeu Nestira. — Toda criança eterí precisa aprender a respirar as preces, escutar os silêncios e... — ela apontou para os lábios de Liri — …ter mel na boca ao nascer do sopro. É isso que sela a doçura das palavras. É isso que ensina a brisa a confiar na tua voz.
 
 Liri baixou o olhar.
 
@@ -186,16 +203,16 @@ Mirel ajoelhou-se diante dela.
 
 A menina assentiu e levantou-se, bocejando mais uma vez. Mirel ajeitou seu manto fino e trançou de novo a pena azul que se soltara do cabelo.
 
-— Já está ficando tarde, é melhor seguir para casa. Os oradores já já vão começar a patrulha — disse Mirel.
+— Já está ficando tarde, é melhor seguir para casa. Os oradores já vão começar a patrulha — disse Mirel.
 
-— Ta bom — disse a pequena Liri — Que o Vento te conduza, Joka. E a você também Nestira.
+— Tá bom — disse a pequena Liri. — Que o Vento te conduza, Joka. E a você também, Nestira.
 
 — E a ti também, minha vintela de penas.
 
 Jokara acariciou-lhe os cabelos.
 
 
-Liri tirou do bolso um dente-de-mor quase desfeito e soprou a flor em direcção à janela. Pequenas sementes brancas espalharam-se pelo quarto.
+Liri tirou do bolso um dente-de-mor quase desfeito e soprou a flor em direção à janela. Pequenas sementes brancas espalharam-se pelo quarto.
 
 — Quantas coisas guarda nesse bolso?
 
@@ -240,21 +257,27 @@ Ele deu um passo. Depois outro.
 
 Jokara olhou para o céu, exalando com impaciência.
 
-— Tu é teimoso como raiz de fundo de ilha, sabia?
+— Você é teimoso como raiz de fundo de ilha, sabia?
 
 Loutes sorriu de leve, sem zombaria.
 
 Ela cedeu.
 
-— Então vem. Mas fica perto. E se eu mandar parar, tu para. Entendido?
+— Então vem. Mas fica perto. E se eu mandar parar, você para. Entendido?
 
 Loutes assentiu.
 
 Atravessaram o limite da aldeia por rotas menos iluminadas, trilhas que só os eterís antigos ainda conheciam bem. Jokara ia com o coração aos pulos. Não havia vento.
 
-Passaram pelas pontes de raízes, aquelas entrelaçadas de ilha a ilha, que rangiam sob o peso mesmo de quem é leve. Jokara ia à frente, testando cada passo antes de seguir. Loutes ia atrás, sem fazer barulho. Andar à noite por Etérea era arriscado. Qualquer passo em falso nas pontes, e eles parariam em nadírion.
+Passaram pelas pontes de raízes, aquelas entrelaçadas de ilha a ilha, que rangiam sob o peso mesmo de quem é leve. Jokara ia à frente, testando cada passo antes de seguir. Loutes ia atrás, sem fazer barulho. Andar ao Sopro do Silêncio por Etérea era arriscado. Qualquer passo em falso nas pontes, e eles parariam em nadírion.
 
 Quando alcançaram o limite do bosque, Jokara parou. Havia tochas acesas entre as árvores, luzes estáticas demais para serem de caçadores ou andarilhos. Ouviam-se vozes abafadas de oradores.
+
+Entre elas, uma fórmula em Levis se repetia:
+
+— Sorai, liretema. Eira tai.
+
+Jokara conhecia o sentido da frase curta. Correntes, escutem. Lembrem-se disto. Ao lado dela, Loutes ergueu o rosto ao ouvir a última palavra. Foi só um instante. Depois voltou a ficar imóvel.
 
 Ela se abaixou, puxando Loutes consigo atrás de uma moita de folhas largas.
 

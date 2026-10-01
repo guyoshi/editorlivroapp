@@ -2,7 +2,7 @@
 
 Sinos tilintavam. A brisa trazia um cheiro doce de frutas recém-colhidas misturado ao pó das madeiras secando ao sol. Jokara reconheceu a varanda: o chão em espiral, o corrimão tecido em cordas leves, as flores pendendo em jarros trançados pelas mãos da mãe.
 
-Avançou alguns passos, os pés roçando o chão gasto de tanto ser pisado por gerações. E então a viu. A si mesma, com oito anos, sentada no chão, as pernas cruzadas, os cabelos trançados caindo até os ombros. O rosto infantil franzido em curiosidade, as mãos inquietas demais para ficarem paradas.
+Avançou alguns passos, os pés roçando o chão gasto de tanto ser pisado por gerações. E então a viu. A si mesma, com oito ciclos, sentada no chão, as pernas cruzadas, os cabelos trançados caindo até os ombros. O rosto infantil franzido em curiosidade, as mãos inquietas demais para ficarem paradas.
 
 A pequena se levantou, contornou a varanda, e Jokara a seguiu. Ao virar a curva da casa, Jokara parou.
 
@@ -26,7 +26,7 @@ A menina apertou, a madeira rangeu e se partiu. A pequena Jokara ficou imóvel, 
 
 O homem não levantou a voz. Pegou o pedaço partido, examinou-o como se fosse parte do trabalho, e depois segurou a mão da filha, ainda fechada em punho. Colocou sobre ela a seda leve, deixando que o tecido dançasse ao menor sopro. Depois, na outra mão, depositou uma das pedras polidas.
 
-— Está vendo? — O vento ama a seda. Mas se não há peso, ela voa sem rumo.
+— Está vendo? O vento ama a seda. Mas se não há peso, ela voa sem rumo.
 
 A menina olhava para um lado e para o outro, confusa.
 
@@ -106,7 +106,7 @@ Yoral deixou a pedra escorregar da palma da filha de volta para a sua, e então 
 
 Com um fio trançado de seda, amarrou-o firme no tornozelo de Jokara.
 
-— O sopro é livre, minha pequena. — Mas precisa de algo que o faça voltar para casa.
+— O sopro é livre, minha pequena. Mas precisa de algo que o faça voltar para casa.
 
 Ele deu um leve puxão no fio para mostrar que estava seguro.
 
@@ -244,7 +244,7 @@ Nestira assentiu, sem soltar a mão dela.
 
 As duas voltaram pela floresta. Em alguns trechos acharam que haviam perdido o caminho, até avistarem uma pequena brasa entre as árvores. Quando chegaram ao acampamento, Gabasteri estava acordado.
 
-— Andando sozinhas na floresta? É muito perigoso, ainda mais à noite… e sozinhas… onde está o menino?
+— Andando sozinhas na floresta? É muito perigoso, ainda mais ao Sopro do Silêncio… e sozinhas… onde está o menino?
 
 Jokara olhou para a escuridão atrás delas antes de responder.
 
@@ -288,7 +288,7 @@ Ele ia discordar, mas a respiração falhou, e ele apenas assentiu e sentou-se d
 
 Jokara sentiu o olhar da irmã sobre ela.
 
-— Ele foi embora durante a noite.
+— Ele foi embora durante o Sopro do Silêncio.
 
 Maletar franziu o cenho. Mariv olhou para elas. Não tinha reparado.
 
@@ -434,7 +434,7 @@ Nestira parou por um momento. Respirou fundo, mas não respondeu.
 
 A irmã fechou os olhos.
 
-— Eu vi um mundo diferente do nosso, Jokara. Vi muitas pessoas vivendo aqui embaixo… vi lutas, guerras… e vi que Mariv estava certo. — Os ventos nos trouxeram para cá com um objetivo. E eu agora tenho o meu.
+— Eu vi um mundo diferente do nosso, Jokara. Vi muitas pessoas vivendo aqui embaixo… vi lutas, guerras… e vi que Mariv estava certo. Os ventos nos trouxeram para cá com um objetivo. E eu agora tenho o meu.
 
 — E qual é?
 
@@ -448,6 +448,7 @@ Nestira deu o nó final na trança, pousou o queixo no ombro da irmã e sorriu.
 
 — Agora sim. Como uma verdadeira eterí.
 
+
 Mais tarde, Nestira e Mariv saíram juntos, desaparecendo entre as árvores com cestos improvisados, em busca de frutas. Gabasteri estava sozinho num canto. Jokara reparou em Maletar, sentado, a cabeça baixa. Suava apesar do frio, e respirava arrastado.
 
 — Está bem? — perguntou Jokara, aproximando-se.
@@ -458,7 +459,7 @@ Ele ergueu o rosto pálido e tentou sorrir.
 
 Ela negou com a cabeça.
 
-— Não. Não está. — Se Platisa estivesse ali, saberia o que dar a ele.
+— Não. Não está. Se Platisa estivesse ali, saberia o que dar a ele.
 
 Maletar desviou o olhar.
 
@@ -502,7 +503,8 @@ Jokara se ofereceu para ir junto. Esperava que ele recusasse. Ele assentiu. Fora
 
 Quando voltaram, Gabasteri cuidava do fogo. Nestira e Mariv chegaram logo depois com algumas raízes e frutas magras. Foi pouco, mas foi o primeiro jantar desde o alagado.
 
-Naquela noite, conversaram sobre Etérea. Sobre coisas boas. Nestira imitou a voz do Mestre dos Voos, e até Maletar riu.
+
+Naquela Sopro do Silêncio, conversaram sobre Etérea. Sobre coisas boas. Nestira imitou a voz do Mestre dos Voos, e até Maletar riu.
 
 Jokara adormeceu tarde. Sonhou com nuvens, pedras caindo, e o pai sorrindo para ela no fim de tudo.
 

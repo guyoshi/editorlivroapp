@@ -1,8 +1,16 @@
 
 
-A chuva da noite anterior ainda pingava das folhas grossas, em gotas lentas que batiam no teto improvisado do abrigo. O fogo ainda estalava baixo no círculo de pedras.
+A chuva do Sopro do Silêncio anterior ainda pingava das folhas grossas, em gotas lentas que batiam no teto improvisado do abrigo. O fogo ainda estalava baixo no círculo de pedras.
 
-O teto continuava de pé por causa de Maletar, embora não tivesse ficado de pé na primeira tentativa. Acostumado à madeira viva de Etérea, ele havia montado as primeiras junções esperando que os galhos cedessem sob tensão e voltassem ao lugar. A madeira de Nadirion simplesmente rachara. Maletar desmontara metade da estrutura sob chuva, praguejara durante um sopro inteiro e recomeçara usando travas cruzadas, cordas mais curtas e apoios enterrados no barro. Na segunda noite, uma das laterais afundara. Na terceira, a água finalmente escorreu para fora em vez de cair sobre eles.
+O teto continuava de pé por causa de Maletar, embora não tivesse ficado de pé na primeira tentativa. Acostumado à madeira viva de Etérea, ele havia montado as primeiras junções esperando que os galhos cedessem sob tensão e voltassem ao lugar. A madeira de Nadirion simplesmente rachara. Maletar desmontara metade da estrutura sob chuva, praguejara durante um sopro inteiro e recomeçara usando travas cruzadas, cordas mais curtas e apoios enterrados no barro. Mariv o ajudara na segunda tentativa. Tentou prender dois galhos lado a lado, e Maletar desfez o nó.
+
+— Cruza os maiores primeiro. O peso se divide. Depois fecha os vãos.
+
+— Em Etérea não fazíamos assim.
+
+— Aqui não é Etérea.
+
+Mariv refez o nó. Na segunda Sopro do Silêncio, uma das laterais afundara. Na terceira, a água finalmente escorreu para fora em vez de cair sobre eles.
 
 Naquela manhã, Maletar estava de pé diante deles, braços cruzados. Todos estavam acordados, esperando. Gabasteri, recostado contra uma das estacas do abrigo, tinha um meio sorriso no rosto.
 
@@ -54,7 +62,7 @@ Mas Mariv se adiantou.
 
 Nestira falou depressa:
 
-— E eu cuidarei da comida. E do armazenamento. — E do fogo. Caso precisemos de lenha, posso ir buscar.
+— E eu cuidarei da comida. E do armazenamento. E do fogo. Caso precisemos de lenha, posso ir buscar.
 
 — E eu a ajudo — disse Platisa.
 
@@ -102,7 +110,7 @@ Maletar assentiu.
 
 Gabasteri deu um riso abafado, mas calou-se quando Maletar se voltou para ele.
 
-— E você, Gabasteri — O que acha de caçar e patrulhar comigo? Como você deixou transparecer, é necessário alguém forte pra cuidar das tarefas mais pesadas.
+— E você, Gabasteri? O que acha de caçar e patrulhar comigo? Como você deixou transparecer, é necessário alguém forte pra cuidar das tarefas mais pesadas.
 
 Gabasteri ergueu o queixo, mas não respondeu. Maletar continuou.
 
@@ -116,7 +124,18 @@ Maletar assentiu.
 
 — Cada um cuida da sua tarefa. Quem terminar, ajuda quem não terminou.
 
+
 Nos sopros seguintes, as coisas começaram a funcionar. O abrigo ganhou reforços: galhos firmes, fibras trançadas e paredes improvisadas que já não deixavam a chuva entrar tão fácil. A água era buscada cedo, em recipientes improvisados, e mantida em jarros de pedra e folhas largas.
+
+Na primeira manhã em que Jokara e Mariv foram juntos ao rio, ele encheu o cantil e o levou à boca. Ela segurou o pulso dele.
+
+— Não bebe direto.
+
+Contou da febre de Loutes. De volta ao abrigo, mostrou como aquecia pedras no fogo e as mergulhava no recipiente até a água ferver.
+
+— Dá trabalho — disse Mariv.
+
+— Febre dá mais.
 
 Nestira transformou o canto da comida num pequeno sistema. Trançou suportes para manter raízes longe do chão úmido, separou frutas maduras das que ainda podiam esperar e criou nós diferentes nas fibras dos cestos para que qualquer um soubesse o que precisava ser usado primeiro. Pendurou folhas aromáticas perto da carne seca para afastar insetos e reservou uma pedra limpa só para o preparo dos alimentos.
 
@@ -134,9 +153,9 @@ Nestira ergueu os olhos, sem saber se aquilo era elogio.
 
 Ele se afastou sem acrescentar nada.
 
-Platisa nunca dizia que sabia muito, mas foi ela quem mostrou quais frutos deviam ser evitados: os de casca leitosa que queimavam a língua como brasa; foi ela quem revelou raízes que sustentavam um dia inteiro de fome, quando tudo parecia deserto; foi ela quem ensinou que certas folhas, mastigadas, traziam frescor à febre, e outras, queimadas, afastavam enxames de insetos famintos.
+Platisa nunca dizia que sabia muito, mas foi ela quem mostrou quais frutos deviam ser evitados: os de casca leitosa que queimavam a língua como brasa; foi ela quem revelou raízes que sustentavam um sopro inteiro de fome, quando tudo parecia deserto; foi ela quem ensinou que certas folhas, mastigadas, traziam frescor à febre, e outras, queimadas, afastavam enxames de insetos famintos.
 
-— NÃO TOQUE NESSA! — gritou Platisa certa vez, quando Jokara se abaixava diante de uma flor azulada, coberta de pelos prateados finos. Até Gabasteri e Loutes se viraram. Platisa avançou com a mão erguida:
+— NÃO TOQUE NESSA! — gritou Platisa certa vez, quando Jokara se abaixava diante de uma flor azulada, coberta de pelos prateados finos. O grito atravessou a clareira, onde os demais cuidavam de suas tarefas. Platisa avançou com a mão erguida:
 
 — É um Beijo-da-Noite. Os pelos soltam um pó que irrita pele, olhos e garganta. Se respirar muito, pode ficar sem forças ou pior. E não coloquem isso na boca. Ingerido é muito mais perigoso.
 
@@ -144,15 +163,16 @@ Jokara recuou mais um passo.
 
 Platisa apontou para a base da flor.
 
-— Em Etérea, alguns preparadores sabiam macerar e concentrar o pó. Assim ele podia matar com uma quantidade muito menor. Eu nunca aprendi a fazer. Só aprendi a reconhecer.
+— Em Etérea, alguns preparadores sabiam macerar e concentrar o pó. Usavam pequenas quantidades para combater pragas nos jardins e nos depósitos de alimento. Depois de preparado, porém, muito pouco já podia ser fatal se ingerido. Eu nunca aprendi a preparar. Só a reconhecer.
 
 Jokara assentiu, com o coração aos pulos.
 
 Nestira, quase sempre junto de Platisa, carregava os cestos, perguntava nomes, observava cada gesto. Via como Platisa testava o cheiro de uma seiva, como roçava uma raiz contra a pele antes de aceitá-la. Juntas, organizavam pequenos feixes de ervas, separando-os pela cor, pelo aroma, pela densidade das fibras. Nestira ouvia Platisa explicar como antes ouvia os Oradores.
 
+
 Naquela manhã, Jokara acordara mais cedo do que os outros. Os cortes do rosto já haviam fechado, mas repuxavam quando franzia a testa ou abria demais a boca, deixando linhas escuras sobre a pele. Pegou o bastão, a lança e o cesto vazio. Não conseguia ficar deitada.
 
-Seguiu por uma trilha estreita, aberta por eles em dias anteriores, que serpenteava entre raízes e moitas baixas. O caminho até o rio era simples, mas ela preferiu dar uma volta mais larga, passando por uma clareira onde a luz se filtrava em fios esbranquiçados. Voltaria antes do Sopro Pleno. Só queria ficar um pouco sozinha.
+Seguiu por uma trilha estreita, aberta por eles em sopros anteriores, que serpenteava entre raízes e moitas baixas. O caminho até o rio era simples, mas ela preferiu dar uma volta mais larga, passando por uma clareira onde a luz se filtrava em fios esbranquiçados. Voltaria antes do Sopro Pleno. Só queria ficar um pouco sozinha.
 
 Alguma coisa se mexeu atrás de uma árvore. Achou que fosse bicho. Era Nestira, encostada no tronco, e Mariv junto dela, as mãos na cintura dela, beijando-a. Sem pressa nenhuma, como quem já tinha feito aquilo muitas vezes.
 
@@ -210,11 +230,11 @@ Mariv abriu a boca, mas ela continuou:
 
 Mariv ficou vermelho.
 
-— Olha — eu não tô aqui pra controlar o que você e minha irmã façam. Se vocês se beijam, se… fazem outras coisas. Não é da minha conta. Mas saiba de uma coisa: se um dia você fizer mal a ela… eu te mato.
+— Olha, eu não tô aqui pra controlar o que você e minha irmã façam. Se vocês se beijam, se… fazem outras coisas. Não é da minha conta. Mas saiba de uma coisa: se um sopro você fizer mal a ela… eu te mato.
 
 Mariv não recuou. Ficou um instante olhando para ela. Então suspirou.
 
-— Desde o dia em que te vi no riacho, quando reencontrou Nestira — começou ele — você me ataca. Acho que tem medo de que eu roube alguma coisa sua. — Deu um meio sorriso. — E eu entendo.
+— Desde o sopro em que te vi no riacho, quando reencontrou Nestira — começou ele — você me ataca. Acho que tem medo de que eu roube alguma coisa sua. — Deu um meio sorriso. — E eu entendo.
 
 Jokara abriu a boca, mas ele continuou.
 

@@ -1,12 +1,10 @@
 
 
-Ninguém falou mais nada naquela noite. Jokara fechava os olhos e via o zélon apertado contra o peito de Platisa.
+Ninguém falou mais nada naquela Sopro do Silêncio. Jokara fechava os olhos e via o zélon apertado contra o peito de Platisa.
 
 Quando o primeiro clarão de cinza riscou o céu, Jokara despertou. Gabasteri voltava, trazendo a água. Parecia o mesmo de sempre. Desde que Platisa enfraquecera, ele vinha ajudando mais com o abastecimento.
 
 Passou pelos recipientes, completando-os um a um. Encheu também o cantil escuro de Maletar e o devolveu ao lado dele.
-
-Jokara acompanhou o movimento apenas porque estava acordada e não havia muito mais para onde olhar. Quando Gabasteri terminou, ela tornou a atenção ao fogo quase morto.
 
 Maletar não disse nada. Bebeu um gole lento do cantil e ficou olhando o chão. Mariv ainda gemia de dor, e Nestira não saía do lado dele. Loutes não tinha dormido: estava de pé, olhando para longe. Jokara não teve forças para perguntar o que ele tinha.
 
@@ -68,7 +66,7 @@ Ela não agradeceu. Ainda assim, continuou usando aquele bastão.
 
 — Vamos apertar o passo… — murmurou Maletar, apoiado na lança, ofegante. — Precisamos atravessar essas águas.
 
-No fim do dia, chegaram de novo a chão firme.
+No fim do sopro, chegaram de novo a chão firme.
 
 Anoiteceu, e mais uma vez ninguém comeu. Encolheram-se entre raízes úmidas.
 
@@ -92,19 +90,19 @@ Ela baixou a cabeça.
 
 — Eu… sinto tanta saudade de casa. Do vento nos sinos, do orvalho fresco pela manhã, do riso da minha mãe, das canções de Nestira quando eu não conseguia dormir. — Parou. — Às vezes não lembro mais a voz da minha mãe.
 
-Loutes continuou quieto.
+Loutes puxou os joelhos contra o peito.
 
 — Não sei de onde você é… nem o que carrega dentro de si — insistiu ela. — Mas… quando olho pra você, sinto como se tivéssemos raízes comuns. Como se fosse meu irmão.
 
 Ela esperou. Nada.
 
-— Platisa… — Sabe… eu não consigo tirar ela da cabeça. Cada vez que fecho os olhos, vejo o jeito como ela sorria, mesmo quando estava fraca… vejo as mãos dela mexendo nas ervas. E não consigo entender como você, depois de tudo isso, consegue ficar tão sereno.
+— Platisa… Sabe… eu não consigo tirar ela da cabeça. Cada vez que fecho os olhos, vejo o jeito como ela sorria, mesmo quando estava fraca… vejo as mãos dela mexendo nas ervas. E não consigo entender como você, depois de tudo isso, consegue ficar tão sereno.
 
 
 
 — Queria ouvir sua voz, Loutes. Nem que fosse uma palavra só. Queria saber o que pensa, o que sente. Você... consegue falar. Eu sei que consegue… se tentar.
 
-O menino não respondeu. Não tirou os olhos do escuro.
+O menino manteve os olhos fixos no escuro.
 
 Jokara quis sacudi-lo. Quis abraçá-lo. Não fez nenhuma das duas coisas.
 
@@ -128,7 +126,7 @@ No acampamento, ninguém mais tinha acordado. Gabasteri roncava baixo, Mariv dor
 
 Nestira ia protestar, mas Jokara não deixou. Apontou para a escuridão entre as árvores.
 
-— Ontem à noite, ele ficou olhando naquela direção… como se visse algo.
+— Ontem ao Sopro do Silêncio, ele ficou olhando naquela direção… como se visse algo.
 
 Jokara entrou na mata fechada, com Nestira atrás. Cada galho que quebravam parecia alto demais.
 
@@ -140,7 +138,7 @@ Não demoraram a avistá-lo entre os troncos, na névoa da madrugada. Parado, de
 
 — Loutes…? — chamou Nestira.
 
-O menino não respondeu. Apenas começou a andar.
+O menino virou as costas e começou a andar.
 
 — Espere! — gritou Jokara.
 
@@ -152,33 +150,79 @@ A base alargada do bastão afundava menos na lama agora.
 
 — Ele não está fugindo — respondeu Jokara, entre dentes. — Ele quer nos mostrar algo.
 
-O menino dobrava por entre árvores, e logo o terreno começou a mudar. Começaram a aparecer rochas quebradas no caminho. Jokara firmou-se nelas, e Nestira olhava em volta, de olhos arregalados.
+O menino dobrava por entre árvores, e logo o terreno começou a mudar. Primeiro vieram pedras retas demais para terem quebrado daquele jeito. Depois, lajes encaixadas sob o musgo. Jokara firmou o bastão numa delas e ouviu um som oco sob a pedra.
 
-— Isso são… — A voz dela falhou. — Ruínas de Etérea…
+Mais adiante, um sulco estreito corria ao lado do caminho, descendo com inclinação constante até desaparecer sob raízes grossas.
 
-Continuaram. As pedras se tornavam muros partidos, arcos quebrados, degraus que levavam a lugar nenhum. Restos de colunas inclinavam-se sob raízes grossas.
+Nestira parou.
 
-À primeira vista, lembravam Etérea. Havia espirais gravadas em algumas pedras e aberturas circulares nas paredes. Mas quanto mais avançavam, mais as diferenças apareciam.
+— Isso são… ruínas.
 
-As construções não pareciam ter sido moldadas para acompanhar o vento. Eram pesadas na base, com paredes grossas apoiadas diretamente no solo e lintéis enormes sustentando o peso acima das portas. A madeira restante aparecia encaixada como suporte morto, seca e apodrecida, não entrelaçada às raízes como a madeira viva de Etérea. Até as espirais eram diferentes: mais angulares, algumas abertas para baixo, como uma escrita antiga da qual os símbolos eterís talvez tivessem descendido.
+Olhou em volta, procurando alguma coisa familiar.
 
-— Isso parece nosso — murmurou Nestira.
+— De Etérea?
 
-Jokara passou os dedos por uma espiral coberta de musgo.
+Jokara não respondeu.
 
-— Parece antes de nós.
+Não havia madeira viva, raízes trançadas ou estruturas moldadas para ceder ao vento. Os muros saíam do chão em linhas retas, feitos de blocos grandes assentados uns sobre os outros. Algumas bases alargavam-se perto do solo, como se toda a construção tivesse sido pensada para empurrar o próprio peso para baixo. Portas retangulares ainda conservavam lintéis de pedra inteira. Em certos trechos, canais cortados no piso conduziam água para cavidades enterradas.
 
-Por fim, chegaram a uma clareira. Ali repousava a maior ruína que já tinham visto: uma construção colossal de pedra e madeira, afundada no solo e tomada por raízes. Parte das paredes ainda estava erguida. As janelas circulares eram menores e mais espessas que as de Etérea; o teto rachado deixava ver vigas pesadas, e o que um dia fora uma praça ou templo agora era entulho misturado à floresta.
+Aquilo não tentava ser leve.
 
-Jokara parou, sem fôlego. E então viu: Loutes, pequeno e imóvel, entrando pela abertura escura daquela massa caída e desaparecendo na escuridão.
+Continuaram. Encontraram restos de uma rua estreita, degraus gastos no centro e paredes reforçadas por pilares quadrados. Onde Etérea abria espaço para o ar, aquele lugar fechava, sustentava, drenava, apoiava.
 
-— Vamos — sussurrou.
+— Nunca vi nada construído assim — disse Nestira.
 
-Seguiram-no. Dentro, o ar era frio, úmido, impregnado pelo cheiro de pedra molhada. A escuridão dominava, mas pela fenda da entrada ainda penetrava uma réstia de luz, o suficiente para revelar a base de uma escadaria antiga, de degraus gastos, que descia em curva.
+Jokara passou os dedos por uma junta entre duas pedras.
+
+— Porque isso foi feito para ficar no chão.
+
+Havia registros por toda parte.
+
+Não em folhas de cristal nem em tábuas como as dos Oradores. Linhas de sinais pequenos e compactos tinham sido entalhadas em placas junto às portas, nos cantos dos muros e em pedras caídas. Eram angulares, cheias de cortes curtos e encontros que não lembravam a escrita eterí.
+
+Nestira se ajoelhou diante de uma das placas.
+
+— Levis? — perguntou Jokara.
+
+Ela demorou antes de responder.
+
+— Não.
+
+Passou o dedo por uma sequência.
+
+— Nem parece uma forma antiga dele.
+
+Uma inscrição aparecia inteira num lintel partido:
+
+“Je sed. Min lu riv sa ul.”
+
+Para as duas, aquilo não tinha som nem significado.
+
+Loutes, alguns passos adiante, parou.
+
+Voltou até o lintel e tocou os dois primeiros grupos de sinais. Seus lábios se moveram uma vez, sem voz. Quando Jokara chamou seu nome, ele retirou a mão e continuou andando.
+
+— Loutes?
+
+O menino não olhou para trás.
+
+Por fim, chegaram a uma clareira. Ali repousava a maior ruína que tinham visto: uma construção colossal de pedra, afundada no solo e tomada por raízes. O que restava da fachada era largo e baixo. Havia contrafortes nas laterais, vãos estreitos nas paredes e um pátio retangular quase soterrado por folhas. Sob uma arcada quebrada, um canal de pedra seguia para uma cisterna coberta.
+
+Nenhuma parte parecia suspensa. Nenhuma parede dependia de uma raiz viva para continuar de pé.
+
+Era uma construção feita para suportar peso.
+
+Jokara parou, sem fôlego.
+
+Loutes atravessou a abertura escura da fachada e desapareceu lá dentro.
+
+— Vamos — sussurrou ela.
+
+Seguiram-no. O ar no interior era frio e úmido, impregnado pelo cheiro de pedra molhada. A luz da entrada alcançava apenas parte do salão. Pilares quadrados sustentavam o que restava do teto, e o piso descia em pequenos níveis até a base de uma escadaria.
 
 Jokara estendeu a mão, procurando a irmã no breu. Nestira a segurou firme.
 
-— Estamos juntas — disse Jokara, apertando a mão da irmã.
+— Estamos juntas — disse Jokara, apertando a mão dela.
 
 Desceram devagar. Cada passo ecoava. No fim da escada, dobraram a curva.
 
@@ -188,71 +232,71 @@ Era um cristal irregular, do tamanho de uma mão, que pulsava em azul. Jokara se
 
 — Não… — murmurou.
 
-Mas Jokara já havia decidido. Os dedos tocaram a superfície fria do cristal. No mesmo instante, a luz cresceu e encheu a sala. As paredes estavam cobertas de gravuras.
+Mas Jokara já havia decidido. Os dedos tocaram a superfície fria do cristal. No mesmo instante, a luz cresceu e encheu a sala.
 
-Jokara recuou um passo. Nestira se aproximou da parede.
+As paredes estavam cobertas de gravuras.
 
-Eram desenhos grandes e simples. Fileiras inteiras de figuras humanas ocupavam a base das gravuras, sempre de pé sobre um chão sólido, cercadas por árvores e rios. Mais acima, as mesmas figuras eram mostradas tossindo, caindo, os rostos contorcidos. Acima delas, correntes sinuosas de vento subiam da terra em espirais escuras.
+Jokara recuou um passo. Nestira aproximou-se.
 
-Nestira seguia as imagens, uma depois da outra. Num dos painéis, blocos de terra se erguiam no ar, sustentados pelos ventos. Pequenas figuras humanas escalavam essas massas, fugindo do chão abaixo, onde corpos jaziam deitados em posturas de agonia.
+Eram desenhos grandes e simples. Fileiras de figuras humanas ocupavam a base dos painéis, todas de pé sobre chão sólido, cercadas por árvores, rios e construções de pedra. Em seguida, as mesmas figuras apareciam curvadas, tossindo ou caídas.
 
-Mais adiante, as ilhas estavam povoadas. As figuras erguiam casas circulares, erguiam braços ao vento, como se celebrassem.
+Acima delas, três linhas compridas atravessavam o painel antes de se separarem em direções diferentes.
 
-— Jokara… — a voz de Nestira falhou. — O que isso significa?
+Nestira tocou uma delas.
 
-O cristal pulsava mais forte na mão de Jokara.
+— Três…
 
-Na última imagem, as espirais de fumaça escura se dissipavam, deixando o solo vazio. Nenhuma figura permanecia abaixo, apenas silêncio e deserto.
+Não terminou.
 
-Nestira recuou. Virou-se para dizer alguma coisa e prendeu a respiração.
+No painel seguinte, correntes sinuosas subiam da terra. Grandes blocos de solo erguiam-se no ar. Pequenas figuras humanas escalavam aquelas massas enquanto, abaixo, outras permaneciam deitadas no chão.
 
-No canto, encostado contra a parede, estava um esqueleto humano. O corpo seco, despedaçado pelo tempo, mantinha ainda a postura de alguém sentado. Os ossos estavam cobertos por trapos quase desfeitos, e nas mãos ossudas havia algo que o tempo não consumira: um livro, escrito à mão, as páginas amareladas presas por uma capa de couro rachado.
+Mais adiante, as terras suspensas estavam povoadas. Casas surgiam sobre elas. Pessoas erguiam os braços para o céu.
 
-A mandíbula estava aberta.
+Jokara olhou para trás, para a escadaria de pedra, depois para as imagens.
 
-Nestira levou a mão à boca. Jokara estendeu a mão e puxou o livro dos dedos do morto. O couro estalou e soltou um pó com cheiro de raiz queimada.
+— Este lugar não caiu.
 
-Tentou ler e não conseguiu.
+Nestira continuava olhando para o painel.
 
-— Está em Levis — murmurou Jokara, olhando para a irmã.
+— Não.
 
-Nestira tinha estudado Levis com os Oradores. Hesitou, depois começou a ler, baixo:
+— Já estava aqui.
 
-— No princípio, havia apenas o Vazio.
+Nestira assentiu devagar.
 
-Nestira continuou, a voz falhando:
+— Antes das ilhas.
 
-— O Sopro Primordial: o Vazio foi então atravessado pelo Sopro Eterno, que jamais fala, apenas sopra, representando o destino.
+No canto da sala havia restos humanos encostados à parede. O tempo deixara pouco além de ossos escurecidos e fragmentos de tecido. Junto às mãos repousavam placas finas de pedra escura, perfuradas numa das extremidades e presas por dois aros corroídos.
 
-Parou. Arregalou os olhos.
+Jokara pegou a primeira.
 
-— Jokara… isto… isto é o Verbo da Corrente.
+Os mesmos sinais das paredes cobriam quase toda a superfície. Algumas linhas estavam gastas; outras permaneciam profundas.
 
-Fechou o livro de súbito, como se queimasse em suas mãos.
+— Consegue ler? — perguntou.
 
-— Não deveríamos estar lendo isso.
+Nestira recebeu a placa e a virou.
 
-— Continue — disse Jokara.
+— Não é Levis.
 
-Nestira mordeu o lábio, e lentamente abriu as páginas de novo.
+Tentou comparar um sinal a outro, como fazia diante dos textos antigos dos Oradores. Nada se encaixava.
 
-— O Sopro Primordial deu origem às Três Correntes: Livia, Arion e Xar. Com as Correntes, vieram as ilhas e os primeiros ventos. As ilhas de Etérea foram moldadas pelo Sopro. Elas não voavam, mas pairavam — como suspiros petrificados de um tempo que jamais aprendeu a cair.
+Na borda inferior, duas palavras apareciam outra vez:
 
+“Je sed.”
 
+Nestira devolveu a placa.
 
-— A terra abaixo foi deixada para os que recusaram o ar. Este lugar foi chamado pelos Oradores Noturnos de Nadirion — “onde o sopro não sobe” —, onde habitavam os Vazios.
+— Seja lá quem viveu aqui, escrevia de um jeito que nós perdemos.
 
-Na margem, em letra pequena e torta, havia outra coisa escrita:
+Jokara voltou os olhos às gravuras. Pessoas no chão. Pessoas subindo. Terras erguidas.
 
-— O povo da terra foi abandonado. Eles subiram… e nós ficamos. Nos obrigaram a escrever... E depois... Nos quebraram. A terra está morta... Não consigo respirar.
+— Então Etérea não foi o começo.
 
-Nestira levou a mão à cabeça.
+Nestira ficou em silêncio por tanto tempo que Jokara pensou que ela não responderia.
 
-— Eles… nós… Jokara, Etérea não foi o começo. Nossos ancestrais vieram daqui de baixo. — A voz dela se quebrou. — O Verbo… foi escrito ainda aqui, embaixo.
+— Talvez nunca tenha sido.
 
-Voltou os olhos às figuras nas paredes: a doença, a subida, as ilhas.
-
-— Não fomos criados no céu… fugimos da terra. — A voz saiu quase num soluço. — Este lugar não caiu de Etérea. Já estava aqui.
+O cristal pulsou mais forte na mão de Jokara.
 
 Jokara arquejou. O cristal estava quente na mão dela, quente demais.
 

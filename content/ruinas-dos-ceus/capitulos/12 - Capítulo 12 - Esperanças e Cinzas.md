@@ -1,6 +1,6 @@
 
 
-O dia amanhecera cinzento, e a fome mais uma vez arrastava Jokara pela floresta. 
+O sopro amanhecera cinzento, e a fome mais uma vez arrastava Jokara pela floresta. 
 
 Já conhecia bem aquele pedaço de floresta. Sabia onde as árvores se inclinavam mais, criando sombras que escondiam cogumelos rasteiros; sabia a curva dos troncos maiores, que guardavam ninhos em fendas altas, sempre com dois ou três ovos que ela aprendia a colher sem quebrar. Sabia onde o chão ficava fofo demais e escondia lodo.
 
@@ -30,7 +30,7 @@ O homem ergueu a cabeça, alerta. Ao vê-la, sorriu largo.
 
 As lágrimas vieram rápidas aos olhos de Jokara. Ela apertou o bastão contra o peito e riu entre soluços.
 
-— Você também achava? Eu pensei que só restávamos eu e… e uma criança. — Que bom, ventos, que bom que há mais alguém.
+— Você também achava? Eu pensei que só restávamos eu e… e uma criança. Que bom, ventos, que bom que há mais alguém.
 
 O homem nadou até a margem, mas não saiu da água. Ficou com metade do corpo dentro d'água. Os cabelos molhados caíam pelos ombros. Tinha olhos escuros e uma cicatriz pequena no maxilar.
 
@@ -50,7 +50,7 @@ Jokara assentiu, apertando o bastão contra o ombro.
 
 — O que quer dizer com isso? — perguntou ele, baixo.
 
-— Os oradores escondiam de todos. O último dia. Eles não queriam que soubéssemos. Era para todos morrer. Era para o vento acolher todos os espíritos.
+— Os oradores escondiam de todos. O último sopro. Eles não queriam que soubéssemos. Era para todos morrer. Era para o vento acolher todos os espíritos.
 
 — Os oradores sujaram os ventos. — Por um instante, a voz dele esfriou. — Perdi minha família toda no cataclisma, Jokara. Eu pedi ajuda aos Oradores e líderes, mas eles se recusaram a destinar recursos. Disseram que era o ciclo. Deixaram-nos cair. Depois disso, encontrei um grupo. Quase todos morreram, atacados por predadores porque estavam fracos demais para se defender.
 
@@ -102,7 +102,7 @@ Foi só quando ele saiu da água que se lembrou. Estava nu. Jokara corou e virou
 
 — Vamos? — disse, ajeitando a túnica puída sobre o ombro.
 
-No caminho, Jokara não parava de falar. Contou sobre a fome que nunca cessava, sobre a criatura do rio que não a deixava pescar, sobre a criatura enorme de olhos amarelos que encontrara três vezes na floresta. Contou até sobre a noite em que cantou para corpos eterianos mortos na casa.
+No caminho, Jokara não parava de falar. Contou sobre a fome que nunca cessava, sobre a criatura do rio que não a deixava pescar, sobre a criatura enorme de olhos amarelos que encontrara três vezes na floresta. Contou até sobre o Sopro do Silêncio em que cantou para corpos eterianos mortos na casa.
 
 Gabasteri ouvia com atenção, rindo aqui e ali quando ela descrevia suas trapalhadas, como a vez em que quase caiu de uma árvore atrás de frutos, ou quando o peixe lhe escapou por entre as mãos.
 
@@ -206,7 +206,7 @@ Gabasteri lambeu os dedos e perguntou:
 
 — Mas pelo menos está viva. Você e o garoto — disse Gabasteri.
 
-— Era para mais pessoas estarem… se eu tivesse… eu sabia que algo assim aconteceria… mas ninguém acreditou em mim… nem minha própria irmã — Jokara hesitou — No dia do cataclisma, quando cheguei em casa, minha irmã estava orando aos ventos… dizia que os ventos a salvariam. Eu a puxei. Fugimos. Ela estava comigo… era para continuar comigo… mas ela caiu…
+— Era para mais pessoas estarem… se eu tivesse… eu sabia que algo assim aconteceria… mas ninguém acreditou em mim… nem minha própria irmã — Jokara hesitou — No sopro do cataclisma, quando cheguei em casa, minha irmã estava orando aos ventos… dizia que os ventos a salvariam. Eu a puxei. Fugimos. Ela estava comigo… era para continuar comigo… mas ela caiu…
 
 Jokara não continuou. Gabasteri não insistiu. Loutes olhava para as chamas com os ombros duros.
 
@@ -240,7 +240,7 @@ Mas ele sorriu e passou pela abertura do abrigo. Sumiu entre as árvores.
 
 Jokara ficou olhando a entrada vazia. Depois começou a arrumar o que restava: raízes, algumas frutas murchas, tecido rasgado. Loutes a observava. Não parecia surpreso.
 
-Naquela noite, havia pouco para dividir. O fogo ardeu baixo, e Jokara deitou-se encolhida, pensando que tinha deixado o único eterí vivo que encontrara ir embora.
+Naquela Sopro do Silêncio, havia pouco para dividir. O fogo ardeu baixo, e Jokara deitou-se encolhida, pensando que tinha deixado o único eterí vivo que encontrara ir embora.
 
 Foi a tosse que a despertou. A garganta ardia e ela suava. Quando abriu os olhos, viu o clarão: a parede de galhos brilhava em chamas. O abrigo queimava.
 
@@ -258,17 +258,20 @@ No alto da encosta, pararam, ofegantes. Jokara apoiou-se no bastão, os pulmões
 
 Jokara caiu de joelhos. Uma espiral de trabalho.
 
+
 No sopro seguinte, Jokara não quis acordar. Ficou deitada no chão frio da montanha, encolhida, de olhos fechados.
 
 “Então é isso Nadirion”, pensou. Talvez fosse assim que alguém virava um Vazio: parando de se mexer.
 
 Quando abriu os olhos, Loutes não estava. Ela não foi procurá-lo.
 
-Passou metade do dia largada ali, pensando se os oradores estavam certos e ela errada. Eles não queriam alertar as pessoas para que não chegassem vivas ao nadírion. Para que definhassem antes, e se juntassem ao vento. Ela estava aos poucos se tornando um vazio… enquanto a irmã, a mãe, o professor Taliver, o pai, todos agora eram vento.
+Passou metade do sopro largada ali, pensando se os oradores estavam certos e ela errada. Eles não queriam alertar as pessoas para que não chegassem vivas ao nadírion. Para que definhassem antes, e se juntassem ao vento. Ela estava aos poucos se tornando um vazio… enquanto a irmã, a mãe, o professor Taliver, o pai, todos agora eram vento.
 
 Então ouviu passos leves. Loutes voltava curvado pelo peso do que carregava: um monte de peixes ainda úmidos, dois animais pequenos amarrados por cipós, e raízes arrancadas da terra. O menino largou tudo diante dela e sorriu.
 
 Jokara olhou para os peixes, para os bichos amarrados, para as mãos arranhadas do menino. Ele tinha passado a manhã inteira caçando sozinho. Por ela.
+
+Lembrou da voz de Taliver, calma como sempre: educar é ensinar a cair sem esquecer como se levanta.
 
 Sentou-se. Lembrou-se do planador na queda, sem vento nenhum, e dos próprios braços puxando as cordas até queimarem. Não tinha sido Corrente nenhuma.
 

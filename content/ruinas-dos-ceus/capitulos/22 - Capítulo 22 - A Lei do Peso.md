@@ -1,4 +1,4 @@
-Ninguém dormiu mais naquela noite. De tarde, Maletar ainda estava deitado onde havia morrido, o corpo já começando a adquirir a rigidez que nenhum deles queria reconhecer. Durante muitos sopros, ele parecera grande demais para aquele mundo. Era o homem que erguia abrigos, carregava feridos, segurava cordas que escapavam das mãos dos outros. Morto, ocupava pouco espaço. Nestira permanecia ajoelhada ao lado dele, os olhos inchados. Mariv não conseguia olhar por muito tempo. Jokara estava de pé, apoiada no bastão.
+Ninguém dormiu mais naquela Sopro do Silêncio. De tarde, Maletar ainda estava deitado onde havia morrido, o corpo já começando a adquirir a rigidez que nenhum deles queria reconhecer. Durante muitos sopros, ele parecera grande demais para aquele mundo. Era o homem que erguia abrigos, carregava feridos, segurava cordas que escapavam das mãos dos outros. Morto, ocupava pouco espaço. Nestira permanecia ajoelhada ao lado dele, os olhos inchados. Mariv não conseguia olhar por muito tempo. Jokara estava de pé, apoiada no bastão.
 
 Gabasteri foi o primeiro a quebrar o silêncio.
 
@@ -106,7 +106,7 @@ Nestira ergueu o queixo.
 
 Gabasteri demorou um pouco para responder.
 
-— Quem souber o que precisa ser feito naquele dia.
+— Quem souber o que precisa ser feito naquele sopro.
 
 — Você.
 
@@ -130,7 +130,7 @@ Mariv foi conferir e retornou algum tempo depois com o rosto diferente.
 
 — Tem um riacho.
 
-Gabasteri assentiu como se não houvesse dúvida. Jokara sentiu o mesmo desconforto que sentia sempre que ele fazia aquilo. Era difícil odiar a presença de alguém que tornava a floresta mais compreensível. Naquela noite, Gabasteri reorganizou o acampamento. Mariv dormiria perto da entrada mais estreita. Nestira ficaria no lado protegido pelas raízes. Jokara, próxima ao fogo, teria espaço suficiente para apoiar o bastão sem tropeçar nos outros.
+Gabasteri assentiu como se não houvesse dúvida. Jokara sentiu o mesmo desconforto que sentia sempre que ele fazia aquilo. Era difícil odiar a presença de alguém que tornava a floresta mais compreensível. Naquela Sopro do Silêncio, Gabasteri reorganizou o acampamento. Mariv dormiria perto da entrada mais estreita. Nestira ficaria no lado protegido pelas raízes. Jokara, próxima ao fogo, teria espaço suficiente para apoiar o bastão sem tropeçar nos outros.
 
 — E você? — perguntou Jokara.
 
@@ -164,7 +164,10 @@ Ele ergueu os olhos para Mariv.
 
 — O suficiente.
 
-Foi a única resposta. Nos sopros seguintes, as regras começaram a surgir sem que ninguém tivesse concordado formalmente com elas. Ao amanhecer, Gabasteri contava a comida. Antes de caminhar, verificava os pés, as armas e as amarras dos sacos. Ninguém entrava em água que ele não tivesse examinado. Ninguém comia uma fruta nova sem observar primeiro se algum animal da região a consumia. Quem estivesse de vigia mantinha a lança. As outras armas ficavam reunidas perto de Gabasteri. Mariv reclamou na primeira noite.
+Foi a única resposta.
+
+
+Nos sopros seguintes, as regras começaram a surgir sem que ninguém tivesse concordado formalmente com elas. Ao amanhecer, Gabasteri contava a comida. Antes de caminhar, verificava os pés, as armas e as amarras dos sacos. Ninguém entrava em água que ele não tivesse examinado. Ninguém comia uma fruta nova sem observar primeiro se algum animal da região a consumia. Quem estivesse de vigia mantinha a lança. As outras armas ficavam reunidas perto de Gabasteri. Mariv reclamou na primeira Sopro do Silêncio.
 
 — Minha lança fica comigo.
 
@@ -180,7 +183,10 @@ A pergunta saiu antes que Mariv percebesse. Gabasteri olhou para ele por tempo d
 
 — É exatamente por isso que as armas ficam onde eu possa vê-las.
 
-Mariv não respondeu. Gabasteri voltou a organizar as coisas. Na manhã seguinte, ninguém comentou a conversa. Mas o sistema funcionava. Mariv aprendeu a montar uma armadilha simples entre duas árvores. No primeiro dia não pegou nada. No segundo, encontrou um animal pequeno preso por uma das patas. Gabasteri o fez observar o nó antes de matar a presa.
+Mariv não respondeu. Gabasteri voltou a organizar as coisas.
+
+
+Na manhã seguinte, ninguém comentou a conversa. Mas o sistema funcionava. Mariv aprendeu a montar uma armadilha simples entre duas árvores. Gabasteri lhe mostrou como escolher o ponto pelas fezes e pelos galhos quebrados. No primeiro sopro não pegou nada. No segundo, Mariv trocou a isca por um fruto marcado por mordidas e cruzou os galhos de sustentação antes de apertar o nó. Encontrou um animal pequeno preso por uma das patas. Gabasteri o fez observar o nó antes de matar a presa.
 
 — Vê onde cedeu?
 
@@ -200,7 +206,7 @@ Ela ergueu o rosto.
 
 — Quer uma canção?
 
-Jokara quase riu. Naquela noite comeram melhor do que em muitos sopros. Gabasteri entregou a Mariv uma porção maior. O garoto olhou para a carne, depois para Nestira.
+Jokara quase riu. Naquela Sopro do Silêncio comeram melhor do que em muitos sopros. Gabasteri entregou a Mariv uma porção maior. O garoto olhou para a carne, depois para Nestira.
 
 — Divide a minha com ela.
 
@@ -254,7 +260,7 @@ Gabasteri olhou para ele.
 
 — Aí descobrimos por quê.
 
-Durante alguns sopros, foi assim. E, para horror de Jokara, funcionou. Eles deixaram de passar dias inteiros sem alimento. O abrigo seguinte foi construído num ponto mais alto e seco. Gabasteri ensinou Mariv a ler fezes e galhos quebrados para distinguir trilhas de animais. Mostrou a Nestira quais folhas mantinham o fogo aceso mesmo depois da chuva. Adaptou o bastão de Jokara com uma bifurcação de madeira na base para que afundasse menos na lama. Quando terminou, entregou-o a ela.
+Durante alguns sopros, foi assim. E, para horror de Jokara, funcionou. Eles deixaram de passar sopros inteiros sem alimento. O abrigo seguinte foi construído num ponto mais alto e seco. Gabasteri ensinou Mariv a ler fezes e galhos quebrados para distinguir trilhas de animais. Mostrou a Nestira quais folhas mantinham o fogo aceso mesmo depois da chuva. Adaptou o bastão de Jokara com uma bifurcação de madeira na base para que afundasse menos na lama. Quando terminou, entregou-o a ela.
 
 — Testa.
 
@@ -332,7 +338,10 @@ Ele a encarou.
 
 — Principalmente eu.
 
-Foi a primeira vez que ela ouviu Gabasteri colocar a si mesmo dentro da crítica. Naquela noite, ele falou mais do que de costume. Não contou sua história. Contou pedaços. Falou de um abrigo antigo que havia construído sozinho e perdido numa tempestade. De uma vez em que guardou comida perto demais de uma árvore e acordou cercado por animais pequenos. De uma ferida na coxa que infeccionou porque ele não conhecia a planta certa. Mariv ouviu tudo como se fossem lições.
+Foi a primeira vez que ela ouviu Gabasteri colocar a si mesmo dentro da crítica.
+
+
+Naquela Sopro do Silêncio, ele falou mais do que de costume. Não contou sua história. Contou pedaços. Falou de um abrigo antigo que havia construído sozinho e perdido numa tempestade. De uma vez em que guardou comida perto demais de uma árvore e acordou cercado por animais pequenos. De uma ferida na coxa que infeccionou porque ele não conhecia a planta certa. Mariv ouviu tudo como se fossem lições.
 
 — Como conseguiu sobreviver tanto tempo sozinho? — perguntou.
 
@@ -344,7 +353,19 @@ O rosto de Gabasteri mudou por um instante.
 
 — E aprendendo que silêncio demais também faz barulho.
 
-Mariv não entendeu. Jokara talvez tenha entendido um pouco. Mais tarde, já durante o Sopro do Silêncio, Nestira e Mariv conversavam baixo perto do fogo. Jokara não conseguia ouvir o assunto. Mariv disse alguma coisa que fez Nestira sorrir. Um estalo veio da pedra onde Gabasteri dormia. Ele estava sentado.
+Mariv não entendeu. Jokara talvez tenha entendido um pouco. Mais tarde, já durante o Sopro do Silêncio, Nestira e Mariv conversavam baixo perto do fogo. Jokara não conseguia ouvir o assunto. Mariv disse alguma coisa que fez Nestira sorrir.
+
+— Ele sabe muita coisa — murmurou ela, olhando de relance para Gabasteri.
+
+— Sabe.
+
+— Então por que você ainda olha para ele desse jeito?
+
+Mariv mexeu numa brasa com a ponta de um galho.
+
+— Porque confiar no que alguém sabe não é a mesma coisa que confiar no que ele faz com isso.
+
+Um estalo veio da pedra onde Gabasteri dormia. Ele estava sentado.
 
 — O que estão falando?
 
@@ -392,7 +413,10 @@ Gabasteri demorou a responder.
 
 — Aconteceu perto o bastante.
 
-Voltou para a pedra. Ninguém retomou a conversa. Na manhã seguinte, ele havia mudado o lugar onde guardava a comida. Jokara percebeu porque foi buscar raízes para o desjejum e encontrou o saco vazio.
+Voltou para a pedra. Ninguém retomou a conversa.
+
+
+Na manhã seguinte, ele havia mudado o lugar onde guardava a comida. Jokara percebeu porque foi buscar raízes para o desjejum e encontrou o saco vazio.
 
 — Onde está?
 
@@ -404,7 +428,7 @@ Voltou para a pedra. Ninguém retomou a conversa. Na manhã seguinte, ele havia 
 
 — Seguro de quê?
 
-Gabasteri não respondeu. Mais tarde, Mariv descobriu que as armas também tinham mudado de lugar. A partir daquele sopro, Gabasteri passou a dormir cada noite num ponto diferente do acampamento. Às vezes desaparecia por longos períodos. Voltava antes do amanhecer. Nunca explicava aonde fora. O estranho era que, durante o dia, continuava sendo útil. Quando Nestira cortou o pé numa pedra, foi ele quem encontrou uma folha larga para pressionar a ferida. Quando Jokara caiu numa descida, Gabasteri não correu para levantá-la. Ficou perto e disse:
+Gabasteri não respondeu. Mais tarde, Mariv descobriu que as armas também tinham mudado de lugar. A partir daquele sopro, Gabasteri passou a dormir cada Sopro do Silêncio num ponto diferente do acampamento. Às vezes desaparecia por longos períodos. Voltava antes do amanhecer. Nunca explicava aonde fora. O estranho era que, durante o sopro, continuava sendo útil. Quando Nestira cortou o pé numa pedra, foi ele quem encontrou uma folha larga para pressionar a ferida. Quando Jokara caiu numa descida, Gabasteri não correu para levantá-la. Ficou perto e disse:
 
 — Encontra primeiro onde apoiar o bastão.
 
@@ -414,7 +438,7 @@ Ela o odiou naquele momento. Depois encontrou. E levantou sozinha.
 
 Jokara não respondeu. Gabasteri sorriu, mas não parecia zombar. A cada sopro, ele ocupava um espaço maior sem precisar dizer que era líder. Decidia quando partir porque era quem conhecia o caminho. Decidia onde dormir porque era quem encontrava os lugares mais seguros. Decidia a comida porque era quem mantinha a contagem. Decidia as armas porque era quem sabia onde guardá-las. E, pouco a pouco, perguntar “por quê?” começou a parecer mais cansativo do que obedecer. Foi Jokara quem percebeu isso primeiro. Talvez porque ela própria estivesse fingindo concordar mais do que os outros. Quando Gabasteri dizia que Mariv precisava comer mais, ela assentia.
 
-Quando dizia que deveriam mudar de rota, ela não questionava. Quando recolhia as armas antes da noite, Jokara entregava a sua sem resistência. Mariv a confrontou quando ficaram sozinhos buscando lenha.
+Quando dizia que deveriam mudar de rota, ela não questionava. Quando recolhia as armas antes do Sopro do Silêncio, Jokara entregava a sua sem resistência. Mariv a confrontou quando ficaram sozinhos buscando lenha.
 
 — Você está concordando com tudo.
 
@@ -436,7 +460,7 @@ Ele estudou o rosto dela.
 
 — Em carregar lenha.
 
-Mariv quase insistiu, mas desistiu. Naquela mesma noite, Gabasteri reuniu todos ao redor do fogo. Havia comida suficiente. Isso por si só tornou a cena estranha. Quatro porções. Nenhuma barriga completamente vazia. Gabasteri olhou para cada um deles.
+Mariv quase insistiu, mas desistiu. Naquela mesmo Sopro do Silêncio, Gabasteri reuniu todos ao redor do fogo. Havia comida suficiente. Isso por si só tornou a cena estranha. Quatro porções. Nenhuma barriga completamente vazia. Gabasteri olhou para cada um deles.
 
 — Isso é o que eu quero.
 
@@ -496,4 +520,4 @@ Ele desapareceu entre as árvores. Demorou. Quando Gabasteri voltou, não havia 
 
 Mariv soltou o ar. Gabasteri não. Ele refez a corda, colocou mais dois ossos nela e verificou toda a borda do abrigo. Depois verificou de novo. Naquela madrugada, Jokara acordou e percebeu que ele não estava ali. O saco de comida também havia sumido. Na seguinte, aconteceu o mesmo. E na outra. Sempre depois que todos pareciam dormir. Sempre levando parte das provisões, algumas ferramentas e as armas. Jokara não sabia se era medo de roubo, hábito ou alguma coisa que ainda não entendia. Também não sabia por que a lembrança de Platisa voltava quando pensava nisso.
 
-Talvez porque Platisa tivesse sido a primeira a desconfiar dele. Talvez porque os mortos ganhassem sabedoria demais quando já não podiam ser questionados. Jokara não queria transformar suspeitas em verdades só porque era mais fácil odiar Gabasteri dessa forma. Mas também não queria continuar ignorando tudo que a incomodava só porque o grupo estava comendo. Na terceira noite, ela decidiu não dormir.
+Talvez porque Platisa tivesse sido a primeira a desconfiar dele. Talvez porque os mortos ganhassem sabedoria demais quando já não podiam ser questionados. Jokara não queria transformar suspeitas em verdades só porque era mais fácil odiar Gabasteri dessa forma. Mas também não queria continuar ignorando tudo que a incomodava só porque o grupo estava comendo. Na terceira Sopro do Silêncio, ela decidiu não dormir.

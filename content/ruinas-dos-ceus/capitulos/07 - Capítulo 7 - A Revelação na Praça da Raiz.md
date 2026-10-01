@@ -1,10 +1,9 @@
-
-
 Jokara ficou ali por quase meio sopro pleno, entre as pedras e o escuro, onde os ventos não chegavam e o frio se acumulava nas entranhas da terra. O sangue secava ao redor da pedra que lhe atravessava a perna, formando uma crosta negra.
 
 Então luzes azuis dançaram na borda da abertura, carregadas por mãos trêmulas. Sersi vinha à frente, acompanhada de Nestira e Mirel. Jokara tentou erguer os olhos, mas tudo girava.
 
 Antes de tudo apagar, viu Loutes. Os olhos grandes, molhados, as mãos juntas no peito. Depois, nada.
+
 
 Quando despertou, haviam se passado alguns sopros. O teto era feito de véus de vento translúcido, oscilando suavemente com a brisa morna. Estava deitada sobre folhas de naruth, usadas apenas em tratamentos sagrados, e o quarto cheirava a resina.
 
@@ -100,7 +99,7 @@ Efepar, parado ao canto, se afastou discretamente. Nestira permaneceu ajoelhada,
 
 Uma das curandeiras aproximou-se quando a respiração de Jokara enfim desacelerou. Explicou que a resina de naruth usada nas bandagens ajudava a conter o sangue e fazia a pele fechar mais depressa do que uma ferida comum. Ainda assim, o corpo precisaria de tempo. A resina não devolveria músculo, equilíbrio ou força. E haveria dores estranhas.
 
-Jokara entendeu isso na mesma noite.
+Jokara entendeu isso na mesmo Sopro do Silêncio.
 
 Acordou certa de que os dedos do pé esquerdo estavam dobrados sob o lençol. Tentou movê-los. A sensação permaneceu. Levou a mão até onde imaginava encontrar a canela e tocou apenas bandagens.
 
@@ -115,6 +114,7 @@ Jokara demorou a responder.
 — Na perna que não está mais aqui.
 
 — Não há vento que cure isso, Nestira — disse depois, olhando para o alto.
+
 
 Durante muitos sopros, Jokara permaneceu entre os corredores de cura e a casa. Quando tentou se levantar sozinha pela primeira vez, o corpo repetiu um hábito antigo: jogou o peso para a esquerda. Não encontrou chão. Caiu de ombro antes que alguém pudesse segurá-la.
 
@@ -192,7 +192,7 @@ Liri abriu os olhos devagar e perguntou, num sussurro:
 
 — Você não quer que eu fique?
 
-— Quero — respondeu Jokara com sinceridade —, mas o mundo também precisa de ti. E a noite já se ergueu.
+— Quero — respondeu Jokara com sinceridade —, mas o mundo também precisa de ti. E o Sopro do Silêncio já se ergueu.
 
 A menina levantou-se sonolenta e caminhou em direção à porta. Ao virar-se por um instante, disse com ternura:
 
@@ -200,9 +200,9 @@ A menina levantou-se sonolenta e caminhou em direção à porta. Ao virar-se por
 
 E saiu.
 
-Jokara adormeceu tarde naquela noite.
+Jokara adormeceu tarde naquela Sopro do Silêncio.
 
-Acordou sem saber por quê. A janela, ligeiramente entreaberta, revelava a noite limpa, pontuada por estrelas. Jokara ergueu-se o suficiente para espiar.
+Acordou sem saber por quê. A janela, ligeiramente entreaberta, revelava o Sopro do Silêncio limpa, pontuada por estrelas. Jokara ergueu-se o suficiente para espiar.
 
 Na distância, além da neblina que cobria os vales profundos entre as ilhas flutuantes, uma das plataformas distantes, talvez Velhara ou Tinor, tremia. Um tremor pequeno, quase imperceptível. Então um pedaço da borda daquela ilha, grande como uma aldeia inteira, rompeu-se em silêncio e desabou para o abismo.
 
@@ -212,7 +212,7 @@ Jokara ficou olhando para o lugar onde ela estivera. Nenhum sino tocou. Nenhuma 
 
 Quando amanheceu, Jokara ainda estava acordada, sentada na cama com as mãos suadas.
 
-— Nestira — chamou. A irmã entrou no quarto ainda com o semblante cansado da noite anterior. — Preciso ir até a Praça da Raiz.
+— Nestira — chamou. A irmã entrou no quarto ainda com o semblante cansado do Sopro do Silêncio anterior. — Preciso ir até a Praça da Raiz.
 
 Nestira franziu o cenho.
 
@@ -232,7 +232,7 @@ Na praça, Jokara esperou. Observou tudo: os grupos reunidos, os oradores em tra
 
 O sussurro do povo se ergueu, mas ela continuou:
 
-— Vi um pedaço de uma das ilhas cair esta noite. Um pedaço de terra, inteiro, rompeu-se e despencou para o abismo. E antes disso... antes disso, eu vi... O que os oradores querem esconder de todos. Etérea está se partindo.
+— Vi um pedaço de uma das ilhas cair este Sopro do Silêncio. Um pedaço de terra, inteiro, rompeu-se e despencou para o abismo. E antes disso... antes disso, eu vi... O que os oradores querem esconder de todos. Etérea está se partindo.
 
 Nestira não se mexia.
 
@@ -252,7 +252,7 @@ Yrisea olhou para as pessoas reunidas antes de voltar os olhos para ela.
 
 — E se for verdade?
 
-— Então me diga o que espera que façam agora. Que abandonem suas casas? Que coloquem crianças em planadores e saltem para onde ninguém sabe se existe chão? Que atravessem pontes em pânico? — Yrisea falou sem dureza. — O medo também pesa, Jokara. Às vezes mais depressa do que a verdade consegue orientar.
+— Então me diga o que espera que façam agora. — Yrisea falou sem dureza. — O medo também pesa, Jokara. Às vezes mais depressa do que a verdade consegue orientar.
 
 Ninguém respondeu. Jokara olhou em volta e viu mães segurando filhos, idosos apoiados em corrimões vivos, jovens que talvez corressem se ela gritasse mais uma vez.
 
@@ -317,5 +317,3 @@ Jokara desviou o olhar. Então ouviu uma voz.
 “Eles não vão te ouvir.”
 
 Jokara ergueu a cabeça. Loutes continuava à porta, a boca fechada, olhando para ela como sempre.
-
-

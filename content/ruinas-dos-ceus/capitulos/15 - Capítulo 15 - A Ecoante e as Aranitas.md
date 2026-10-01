@@ -132,6 +132,7 @@ Jokara quase riu. Não tinha sido ele a falar em limite de gente no grupo? Mas o
 
 Jokara não se sentia família de Gabasteri nem de Mariv, mas sorriu, como a irmã. Platisa voltou com eles para o abrigo.
 
+
 Na manhã seguinte, Gabasteri foi o primeiro a levantar.
 
 — Precisamos de comida — disse, seco, apontando para o leste. — Há um rio não muito longe daqui.
@@ -158,7 +159,7 @@ Jokara abriu a boca e fechou de novo. Olhou para Loutes e Mariv e se levantou.
 
 O caminho até o rio era estreito, cheio de raízes altas. Platisa vinha um pouco atrás, ofegante.
 
-— Não se preocupe com as tarefas — disse Nestira, sem olhar para trás. — Ninguém te julgaria se preferisse dormir mais um pouco. Deve ter passado duros dias na floresta.
+— Não se preocupe com as tarefas — disse Nestira, sem olhar para trás. — Ninguém te julgaria se preferisse dormir mais um pouco. Deve ter passado duros sopros na floresta.
 
 Platisa apressou o passo, até ficar lado a lado.
 
@@ -218,7 +219,7 @@ Um animal pequeno se aproximava da água. Tinha o corpo alongado, coberto por pe
 
 — Ali… — murmurou Nestira, já em posição de caça. — É nossa chance, Platisa.
 
-Ela ergueu a faca de pedra lascada que tinha feito dias antes e apontou para a lança nas mãos de Platisa.
+Ela ergueu a faca de pedra lascada que tinha feito sopros antes e apontou para a lança nas mãos de Platisa.
 
 — Segura firme. Vamos cercá-lo.
 
@@ -272,7 +273,7 @@ Gabasteri soltou um riso breve, sem humor.
 
 Suspirou.
 
-— É melhor eu mesmo ir pescar. Precisamos estar fortes para os próximos dias.
+— É melhor eu mesmo ir pescar. Precisamos estar fortes para os próximos sopros.
 
 Gabasteri apanhou a lança ao lado de Nestira e se retirou. Platisa engoliu em seco, os olhos marejados.
 
@@ -298,19 +299,19 @@ Esfriava. Gabasteri não voltava.
 
 Platisa ergueu a cabeça de repente.
 
-— Não… não falem assim. — Ele voltará. Ele não teria nos abandonado sem levar qualquer recurso.
+— Não… não falem assim. Ele voltará. Ele não teria nos abandonado sem levar qualquer recurso.
 
 Ninguém respondeu.
 
-Já era quase noite quando Gabasteri voltou pela trilha. Tinha folhas coladas aos braços, e o rosto limpo, sem uma gota de suor. Dois peixes médios pendiam em suas mãos. Jogou-os sobre uma pedra, sentou-se e disse:
+Já era quase Sopro do Silêncio quando Gabasteri voltou pela trilha. Tinha folhas coladas aos braços, e o rosto limpo, sem uma gota de suor. Dois peixes médios pendiam em suas mãos. Jogou-os sobre uma pedra, sentou-se e disse:
 
 — O jantar não irá se preparar sozinho.
 
 Ninguém se moveu. Por fim, Nestira suspirou, levantou-se e recolheu os peixes.
 
-— Achei que alguém iria esperar eu preparar — disse ele, enquanto Jokara começava a limpar as escamas. — Estando o dia inteiro pescando alimento pra vocês.
+— Achei que alguém iria esperar eu preparar — disse ele, enquanto Jokara começava a limpar as escamas. — Estando o sopro inteiro pescando alimento pra vocês.
 
-— O dia inteiro? — disse Jokara. — E só conseguiu isso?
+— O sopro inteiro? — disse Jokara. — E só conseguiu isso?
 
 Gabasteri lançou-lhe um olhar rápido, mas não sorriu. Sentou-se junto ao abrigo, onde tinham deixado um pedaço do peixe do almoço separado para ele. Comeu tudo sem dizer nada.
 
@@ -378,7 +379,7 @@ Gabasteri se inclinou, apanhou a folha grossa e, sem dizer nada, mordeu o peixe 
 
 Gabasteri ergueu os olhos.
 
-— Vocês passaram o dia inteiro sentados enquanto eu estava pescando. Gastei muito mais energia do que todos vocês juntos.
+— Vocês passaram o sopro inteiro sentados enquanto eu estava pescando. Gastei muito mais energia do que todos vocês juntos.
 
 E, sem esperar resposta, terminou de comer a porção até o fim.
 
@@ -434,9 +435,9 @@ E calou-se.
 
 Nestira fechou os olhos.
 
-— Boa noite.
+— Bom Sopro do Silêncio.
 
-— Boa noite — Jokara respondeu.
+— Bom Sopro do Silêncio — Jokara respondeu.
 
 O fogo baixou até as brasas. Platisa continuava de costas, o zélon apertado contra o peito. Mariv estava de olhos abertos, olhando o escuro. Do lado de Gabasteri, a respiração não era de quem dormia.
 

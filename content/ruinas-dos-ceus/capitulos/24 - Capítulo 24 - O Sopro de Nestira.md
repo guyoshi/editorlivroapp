@@ -30,23 +30,47 @@ Mariv ainda os fez caminhar mais um pouco antes de se permitir cair junto a uma 
 
 — Acho que perdemos ele.
 
-Nestira não respondeu. Tombou contra o peito de Mariv e começou a chorar.
+Nestira não respondeu. As pernas simplesmente deixaram de sustentá-la, e Mariv mal teve tempo de segurá-la antes que desabasse contra seu peito.
 
-Ele a abraçou sem dizer nada. Ficaram um tempo só respirando, escutando a floresta e esperando que algum ruído provasse que estavam errados.
+O choro veio diferente do que viera enquanto corriam. Não havia mais fôlego para gritar. O corpo dela se fechou sobre si mesmo, os dedos agarrados à roupa de Mariv, e por alguns instantes tudo o que conseguiu fazer foi tentar respirar entre soluços que doíam no peito.
 
-Nada veio.
+Levou a mão ao rosto e sentiu, junto à bochecha, a mancha já pegajosa que os dedos ensanguentados de Jokara tinham deixado ali.
 
-Quando o choro diminuiu, Mariv falou baixo:
+A lembrança voltou inteira demais: a testa da irmã sob seus lábios, o pano escurecendo em suas mãos, aquela última expiração que ela esperara ver retornar. E a voz, tão fraca que quase tinha sido só ar: “O vento.”
 
-— Sua irmã me explicou o que Polar significava.
+Nestira apertou os olhos.
+
+— Eu prometi que ia carregar o sopro dela — conseguiu dizer.
+
+Mariv não respondeu.
+
+— Mas eu não quero carregar sem ela.
+
+A frase se partiu no fim. Nestira enterrou o rosto no peito dele e chorou de novo, agora sem conseguir conter o som. Por um instante quis levantar, refazer todo o caminho, encontrar Jokara entre as folhas e trazê-la consigo, mesmo sabendo exatamente o que encontraria quando chegasse.
+
+Mariv apenas a abraçou com mais força.
+
+A floresta continuava ao redor deles, indiferente. Folhas se moviam no alto, água pingava dos galhos e, de vez em quando, algum inseto retomava o canto. Entre um soluço e outro, Nestira escutava tudo. Odiou o vento por continuar soprando.
+
+Ficaram assim por algum tempo, atentos também a qualquer passo ou galho partido que denunciasse Gabasteri. Nenhum veio.
+
+Quando o choro diminuiu o bastante para que Nestira conseguisse respirar sem se engasgar, Mariv falou baixo:
+
+— Sua irmã me pediu uma coisa.
 
 Nestira ergueu o rosto.
 
-— Quando?
+— O quê?
 
-— Antes de tudo isso. Ela disse que você era o sopro dela. E que ela era o seu peso.
+— Que eu não tentasse transformar você em mim.
 
-Nestira fechou os olhos. A última fala de Jokara voltou inteira: “Eu carrego o teu peso… e você carrega o meu sopro.”
+— Quando ela disse isso?
+
+— No rio. Antes de tudo isso. Disse que, quando você voasse alto demais, eu devia puxar um pouco. Quando ficasse presa no chão, empurrar. E deixar você fazer o mesmo comigo.
+
+Nestira fechou os olhos. As palavras de Jokara voltaram inteiras: “Eu carrego o teu peso… e você carrega o meu sopro.”
+
+— Ela chamou isso de ser polar — disse Mariv.
 
 — Ela sempre achou que precisava me manter no chão — murmurou Nestira.
 
@@ -124,25 +148,51 @@ Entre os ossos, pedaços de roupas rasgadas, um colar eterí partido e, jogada c
 
 O estômago de Nestira se revirou. Alguma coisa morava ali.
 
-— Nestira! — a voz de Mariv veio de cima. Ele desceu apressado pelo barranco, escorregando até alcançá-la. Arregalou os olhos ao ver os ossos. Agarrou a lança do chão. — Temos que sair daqui… agora.
+— Nestira! — a voz de Mariv veio de cima. Ele desceu apressado pelo barranco, escorregando até alcançá-la. — Você está bem? Se machucou?
+
+Nestira balançou a cabeça, ainda sem conseguir tirar os olhos das carcaças. Mariv seguiu o olhar dela. Só então pareceu perceber o que havia ao redor. Pegou a lança caída entre os ossos e se aproximou mais.
+
+— Consegue andar?
 
 Ela assentiu, a respiração ainda curta, e juntos correram de volta para a mata. Mas, poucos passos depois, a mata terminou num desfiladeiro estreito. A trilha que seguiam simplesmente desaparecia na borda. À esquerda, a parede de pedra subia lisa e íngreme; à direita, o terreno desabava junto com o precipício. Não havia como contornar sem retornar pelo caminho por onde tinham vindo.
 
-O vento subia do abismo, úmido e frio. A lua, quase inteira, surgia entre as nuvens, prateando as pedras e o musgo brilhante nas bordas.
+O vento subia do abismo, úmido e frio. A lua maior, quase inteira, surgia entre as nuvens, prateando as pedras e o musgo brilhante nas bordas.
 
 Mariv recuou, puxando Nestira pelo braço.
 
 — Não dá pra continuar. Temos que voltar.
 
-Nestira ficou olhando o vazio lá embaixo. Mariv a puxou com mais força.
+Nestira ficou olhando o vazio lá embaixo por mais um instante. Então deixou que ele a conduzisse de volta para a floresta.
 
-Voltaram para a floresta. Cada passo parecia alto demais.
+Não seguiram exatamente pelo mesmo caminho. Mariv desviou entre raízes grossas e puxou Nestira por um trecho mais fechado, tentando contornar o ponto por onde haviam chegado. Caminhavam depressa, mas sem correr às cegas. Folhas molhadas roçavam seus braços, e cada galho quebrado sob os pés parecia anunciar onde estavam.
 
-Um galho estalou. Depois outro. E Gabasteri surgiu entre as árvores.
+A voz de Gabasteri atravessou a mata ao longe.
 
-Gabasteri mancava, o sangue escorrendo da perna perfurada e marcando a terra em cada passo. Estava pálido, ofegante, e avançou assim que os viu.
+— NESTIRA!
 
-Foi direto em Mariv. Antes que o garoto erguesse a lança, Gabasteri se jogou sobre ele.
+Os dois pararam ao mesmo tempo.
+
+Mariv ergueu a mão, pedindo silêncio, e escutou. A voz não veio de novo. Alguns passos pesados esmagaram folhas em algum lugar atrás deles, seguidos pelo arrastar irregular de uma perna ferida.
+
+Mariv apontou para a esquerda.
+
+Seguiram por ali, abaixados entre dois troncos caídos. Nestira prendia a respiração sempre que alguma folha tocava seu ombro. Depois de alguns instantes, os passos desapareceram.
+
+Mariv não relaxou. Continuou avançando até alcançarem uma fileira de árvores muito juntas, onde precisaram passar de lado. Quando saíram do outro lado, ele parou tão abruptamente que Nestira quase bateu em suas costas.
+
+Gabasteri estava à frente deles, apoiado com uma das mãos num tronco, como se também tivesse acabado de chegar ali. O sangue da perna perfurada escorria até o tornozelo, e o peito subia e descia depressa.
+
+Por um instante, ninguém se moveu.
+
+Gabasteri ergueu os olhos primeiro para Mariv, depois para Nestira. Um sorriso pequeno apareceu em seu rosto, quase satisfeito por tê-los encontrado.
+
+Mariv levou a lança para a frente e ajustou os pés no chão.
+
+Gabasteri acompanhou o movimento. O sorriso sumiu devagar, e o peso de seu corpo mudou sobre a perna ainda firme.
+
+Mariv percebeu tarde demais.
+
+Gabasteri se lançou contra ele antes que conseguisse firmar a arma.
 
 Mariv caiu de costas, a lança escapando da mão e batendo contra as pedras. A cabeça do garoto bateu forte no chão, e ele ficou imóvel.
 
@@ -178,7 +228,7 @@ O sorriso desapareceu.
 
 Os olhos dele se fixaram nela.
 
-— Cuidado.
+— Você não sabe do que está falando.
 
 — Platisa. Maletar. Jokara.
 
@@ -190,11 +240,7 @@ Ele deu um passo.
 
 — Quer saber uma coisa, Nestira? Quando entendeu que ia morrer, toda aquela certeza sumiu muito rápido.
 
-Era mentira. Ela sabia.
-
-Mesmo assim, doeu.
-
-Gabasteri percebeu.
+Nestira sabia que era mentira, mas isso não impediu que as palavras doessem. Gabasteri percebeu pela mudança em seu rosto.
 
 E dessa vez o sorriso voltou de verdade.
 
@@ -211,6 +257,8 @@ Mariv começou a se mover no chão.
 Gabasteri lançou um olhar para ele e depois voltou a Nestira.
 
 — Cinco ciclos aqui embaixo me ensinaram uma coisa. Todo mundo quebra. A única diferença é quanto tempo leva.
+
+No chão, Mariv parou de se mexer. Não foi por causa da pancada na cabeça.
 
 — Não. Ensinaram você a enxergar todo mundo como coisa que precisa quebrar antes de quebrar você.
 
@@ -238,31 +286,21 @@ A risada dele atravessou a mata.
 
 Duas passagens se abriram entre as árvores. À direita, o terreno subia e desaparecia entre raízes claras. À esquerda, um tronco partido ao meio formava um arco baixo.
 
-Nestira reconheceu o tronco.
+Nestira quase fechou os olhos para pedir direção aos ventos. Não havia tempo para esperar resposta.
 
-Foi por ali que escapara da clareira de carcaças.
+O cheiro de podridão vinha da esquerda. Reconheceu o tronco. Foi por ali que escapara da clareira de carcaças.
 
-Hesitou apenas um instante e tomou a esquerda.
+— Xar, rivabasa mei — sussurrou.
 
-Não olhou para trás.
+A frase antiga lhe veio inteira. Xar, só me acompanhe.
 
-Correu mais fundo. Passou pela pedra coberta de fungos brancos que vira antes, depois por uma raiz em forma de gancho. O cheiro começou a chegar devagar.
+Tomou a esquerda sem olhar para trás e correu mais fundo na mata. Passou pela pedra coberta de fungos brancos que vira antes, depois pela raiz em forma de gancho. O cheiro de podridão começou a chegar aos poucos, primeiro misturado à umidade da floresta, depois mais espesso a cada passo.
 
-Podridão.
+Nestira apertou o ritmo. A vegetação foi ficando mais rala até se abrir diante dela, revelando a clareira de carcaças. Entrou tropeçando entre os primeiros ossos e precisou parar por um instante para recuperar o ar.
 
-Nestira apertou o passo.
+Um rugido veio do escuro e fez as moscas se erguerem das carcaças numa nuvem. Nestira reconheceu o som antes mesmo de enxergar a criatura. Era o mesmo do Sopro do Silêncio em que Platisa morreu.
 
-A vegetação se abriu, e ali estava a clareira de carcaças.
-
-Nestira entrou tropeçando e parou, arfando.
-
-Do escuro veio um rugido. As moscas levantaram em nuvem.
-
-Nestira conhecia aquele rugido. A noite em que Platisa morreu.
-
-Ouviu a criatura se mexer entre os ossos.
-
-Atrás dela, galhos se romperam.
+Alguma coisa pesada se moveu entre os ossos. Quase ao mesmo tempo, atrás dela, galhos se romperam.
 
 Gabasteri vinha mancando, o sangue da perna deixando rastro, a lâmina na mão.
 
@@ -282,61 +320,121 @@ Deu mais um passo.
 
 — Jokara morta. Mariv ferido. Você encurralada num monte de carcaças. E ainda acha que ela estava certa.
 
-Atrás dele, um osso rolou entre os restos.
+Atrás dele, alguma coisa deslocou um osso entre os restos. O som foi pequeno, quase perdido sob a respiração de Gabasteri.
 
-— Eu sobrevivi cinco ciclos aqui — continuou Gabasteri. — Vi gente boa morrer. Vi gente forte morrer. Vi gente implorar. Sabe o que aprendi?
+— Eu sobrevivi cinco ciclos aqui — continuou ele. — Vi gente boa morrer. Vi gente forte morrer. Vi gente implorar. Sabe o que aprendi?
 
-Os lábios dele se curvaram.
+Outro osso raspou contra a pedra, dessa vez mais longe. Gabasteri ainda falava quando Nestira viu dois olhos amarelos surgirem por um instante entre as carcaças. Sumiram antes que pudesse distinguir o resto do corpo.
 
 — No fim, ninguém é especial.
 
-Nestira não desviou o olhar.
+Nestira não respondeu. Seus olhos permaneceram presos ao ponto onde a criatura desaparecera.
 
-— Nem você.
+Gabasteri percebeu.
 
-O sorriso dele cresceu um pouco.
+— O quê?
 
-— Talvez. Mas você vai descobrir antes de mim.
+Seguiu o olhar dela e virou apenas a cabeça. Atrás dele havia ossos, moscas e sombras imóveis. Por alguns segundos, nada aconteceu.
 
-Ergueu a lâmina.
+Então uma costela estalou à esquerda.
 
-— E quando eu voltar para buscar Mariv, vou contar exatamente quanto tempo você aguentou.
+Gabasteri girou o corpo inteiro. A lâmina subiu por reflexo.
 
-Nestira não recuou.
+Outra coisa se moveu entre duas pilhas de carcaças, baixa demais para que ele enxergasse mais do que o contorno do dorso. O animal não vinha diretamente até eles. Circulava.
 
-Gabasteri inclinou a cabeça.
+O sorriso de Gabasteri desapareceu.
 
-— Vamos. Me mostra essa força toda que sua irmã achava que vocês tinham.
+Ele não correu. A experiência conteve o primeiro impulso. Afastou a perna ferida, firmou a outra e começou a recuar devagar, procurando com os olhos a borda da clareira. A cada passo, porém, gotas escuras deixavam uma linha sobre as pedras e os ossos.
 
-Nestira não olhava para ele. Olhava para trás dele. Gabasteri percebeu e se virou devagar.
+Um focinho surgiu entre as carcaças.
 
-A criatura emergiu das sombras do monte de restos, enorme, os olhos amarelos presos nele. O rugido atravessou a clareira e fez as moscas erguerem-se de uma vez.
+A criatura cheirou o ar.
 
-Nestira recuou.
+Depois abaixou a cabeça exatamente sobre uma das manchas de sangue.
 
-— Você tinha razão… os fortes comem primeiro.
+Gabasteri olhou para a própria perna.
 
-Gabasteri mal teve tempo de olhar para ela.
+Foi a primeira vez que Nestira viu medo verdadeiro em seu rosto.
 
-A criatura avançou.
+A fera saiu das sombras aos poucos. Primeiro apareceram as patas cobertas de lama, depois os ombros largos e o pelo grudado ao corpo por umidade e sangue antigo. Por fim, a cabeça ergueu-se acima de uma pilha de costelas, e a mandíbula se abriu numa respiração pesada.
 
-O impacto o derrubou entre os ossos. A adaga escapou de sua mão. Ele tentou se arrastar, depois golpeou o focinho do animal com os braços, mas a mandíbula fechou-se sobre seu tronco e o grito desapareceu sob o rugido.
+Gabasteri recuou um passo, e a criatura acompanhou. Quando ele parou, ela também parou. Durante alguns instantes, ouviram apenas a respiração dos dois e o zumbido das moscas voltando às carcaças. Gabasteri mudou a lâmina de mão e lançou um olhar rápido para uma abertura entre as árvores; a fera moveu a cabeça junto com ele, como se tivesse acompanhado a intenção.
 
-Nestira não esperou para ver mais.
+— Você tinha razão… — disse Nestira, quase sem voz. — Os fortes comem primeiro.
 
-Virou-se e correu. Passou perto demais da fera, e a pata a atingiu de lado e a jogou longe. Caiu sobre os ossos grandes, e a dor veio branca.
+Os olhos de Gabasteri se desviaram até ela, e por um instante a raiva pareceu vencer o medo.
 
-O ar fugiu-lhe dos pulmões. O grito não saiu.
+— Cala a boca.
 
-Uma das costelas grossas da carcaça havia atravessado a lateral inferior de seu abdômen. Parte do osso desaparecia sob a túnica rasgada; a outra permanecia presa ao esqueleto abaixo dela. O sangue escorria ao redor da perfuração, quente demais contra a pele fria.
+A criatura soltou um som baixo. Gabasteri tornou a encará-la e tentou avançar de lado, devagar, buscando a borda da clareira. A fera imitou o movimento. Ele mudou outra vez, e ela acompanhou de novo. Só então percebeu que não chegaria à mata sem passar por ela.
 
-Nestira tentou se mover.
+Respirou fundo, baixou o centro do corpo e ergueu a lâmina. A fera avançou meio passo, fazendo-o reagir, mas parou antes do ataque. O movimento falso arrancou de Gabasteri uma expiração curta, e os dedos dele se fecharam ainda mais em torno do cabo.
 
-A dor explodiu.
+Quando o salto veio, não houve rugido.
 
-Parou imediatamente.
+Gabasteri conseguiu sair da linha do ataque por pouco. Uma das patas rasgou seu ombro, mas ele girou junto ao corpo do animal e enterrou a lâmina na lateral do focinho. O urro sacudiu a clareira. A fera recuou, batendo a cabeça contra uma carcaça, enquanto sangue escuro escorria pelo corte.
 
-O corpo começou a tremer de frio.
+Gabasteri permaneceu de pé, ofegante, esperando a segunda investida. Ela não veio. A criatura recuou mais uma vez e desapareceu atrás de uma pilha de ossos.
+
+O silêncio voltou.
+
+Ele esperou um pouco, sem baixar a arma. Nada se moveu. Aos poucos, a tensão em seus ombros cedeu, e Gabasteri começou a recuar em direção à abertura entre as árvores. Um passo, depois outro, sempre olhando para o ponto onde a fera havia sumido. Quando já estava perto o bastante para acreditar que sairia dali, um ruído pesado veio do outro lado da clareira.
+
+Gabasteri parou.
+
+Os olhos amarelos reapareceram entre ele e a saída.
+
+A fera não tinha fugido. Tinha contornado as carcaças.
+
+Gabasteri soltou o ar devagar e procurou outra passagem com os olhos. Não havia nenhuma que sua perna ferida conseguisse alcançar antes do animal. A criatura começou a se aproximar sem pressa, farejando o sangue deixado sobre as pedras, e algo mudou no rosto dele quando percebeu que aquele rastro conduzia diretamente até seus pés.
+
+Recuou com a lâmina erguida. O calcanhar bateu numa mandíbula caída; ao tentar mudar o apoio, a perna ferida cedeu e ele precisou se segurar numa pilha de costelas para não cair. A fera acelerou no mesmo instante.
+
+Gabasteri recebeu o impacto de lado e ainda conseguiu cravar a lâmina no ombro do animal, mas o peso o lançou contra os ossos. Rolou sem soltar a arma e tentou se erguer antes que a criatura se virasse. A perna falhou.
+
+— Anda… — rosnou, agarrando-se aos ossos para puxar o próprio corpo. — Anda!
+
+A fera sacudiu-se e arrancou a lâmina do ferimento. O golpe arrancou a arma da mão de Gabasteri e a lançou alguns passos adiante. Ele se arrastou atrás dela, raspando o joelho ruim nas pedras, e chegou a tocar o cabo antes que uma pata o atingisse nas costas e o derrubasse de peito contra o chão.
+
+O ar saiu de seus pulmões. Gabasteri tentou virar, mas a pata permaneceu sobre ele. Pela primeira vez desde que Nestira o conhecera, não havia ameaça, ordem ou argumento em sua boca. Havia apenas esforço para respirar.
+
+A criatura abaixou a cabeça. O hálito quente moveu seus cabelos, e saliva caiu sobre as pedras ao lado de seu rosto.
+
+Gabasteri fechou os dedos em torno da lâmina que ainda conseguia alcançar. Esperou a mandíbula se aproximar mais um pouco e golpeou de baixo para cima. A ponta entrou sob o queixo da fera. O animal urrou e recuou, libertando-o.
+
+Gabasteri rolou para o lado e conseguiu ficar de joelhos. Sangue escorria de sua boca e do ombro, mas ele ainda ergueu a arma diante do corpo. Durante um breve instante, homem e fera ficaram feridos frente a frente, ambos respirando com dificuldade.
+
+Ele soltou uma risada curta, quase sem ar.
+
+— Vem.
+
+A fera veio.
+
+Gabasteri tentou se levantar para receber o ataque, mas a perna dobrou antes que conseguisse firmar o corpo. A criatura o atingiu no peito e o lançou para trás. A lâmina desapareceu entre os ossos.
+
+Dessa vez ele não conseguiu alcançá-la. Tentou rastejar, procurando apoio com uma mão e tateando as pedras com a outra, enquanto a sombra da criatura cobria seu corpo. Quando ergueu o rosto, o sorriso já tinha desaparecido por completo.
+
+A fera se aproximou devagar o bastante para que ele entendesse.
+
+Gabasteri ainda tentou se afastar, arrastando a perna inútil entre as carcaças, mas não havia mais para onde ir. O homem que passara cinco ciclos repetindo que os fracos eram peso agora só conseguia empurrar o próprio corpo alguns dedos de cada vez.
+
+Nestira não sentiu alegria. Sentiu algo mais frio, quase vazio, ao vê-lo perceber que nenhuma regra inventada por ele mudaria o que estava prestes a acontecer.
+
+A criatura abaixou a cabeça.
+
+O grito de Gabasteri começou junto com o rugido e terminou no meio. Nestira permaneceu imóvel, incapaz de desviar os olhos, até que a fera ergueu a cabeça por um instante e tornou a se curvar sobre o corpo.
+
+Só então ela conseguiu se mover.
+
+Nestira virou-se e correu, mas passou perto demais da criatura. A pata a atingiu de lado e a lançou contra uma das carcaças. O impacto expulsou o ar de seus pulmões, e por alguns segundos ela nem conseguiu compreender por que não conseguia rolar para longe.
+
+Quando tentou apoiar o cotovelo no chão e erguer o tronco, a dor atravessou o abdômen inteira, quente e profunda, obrigando-a a cair de volta. Só então olhou para baixo.
+
+Uma das costelas grossas da carcaça havia atravessado a lateral inferior de seu abdômen. Parte do osso desaparecia sob a túnica rasgada; a outra ainda permanecia presa ao esqueleto abaixo dela. O sangue escorria lentamente ao redor da perfuração, quente contra a pele que começava a esfriar.
+
+Nestira tentou mover apenas uma das pernas, depois o quadril, procurando algum ângulo que lhe permitisse escapar sem tocar no osso. Bastou a pequena mudança de peso para a dor subir pelo corpo e roubar-lhe outra vez a respiração. Ela parou, os dedos se fechando sobre os ossos ao redor, e percebeu que começava a tremer. Não sabia se era frio, choque ou medo.
+
+Por alguns instantes ficou assim, respirando em golpes curtos, com receio até de encher demais os pulmões. O cheiro de sangue e podridão parecia muito mais forte deitada tão perto das carcaças.
 
 Então viu Mariv surgindo da escuridão, ofegante, de olhos arregalados ao encontrá-la caída entre as carcaças.
 

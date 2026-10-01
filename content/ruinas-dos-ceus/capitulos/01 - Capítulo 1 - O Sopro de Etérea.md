@@ -1,18 +1,20 @@
 Esta história não começa com uma guerra, nem com um herói. Começa com o vento. Não o vento que conhecemos, esse que sopra folhas e vira páginas. Mas aquele outro, mais antigo, que sopra lembranças.
 
-Durante muitos ciclos, houve um povo que viveu suspenso entre o silêncio e o céu. Eles se chamavam eterí, ou em seu dialeto ancestral, Aeloris, que significa "os soprados pela origem". Não temiam as alturas, pois as ilhas onde pisavam haviam sido moldadas pelo Sopro. Etérea, assim chamavam seu lar, funcionava menos como reino ou nação do que como um pacto de leveza selado com o vento.
+Durante muitos ciclos, houve um povo que viveu suspenso entre o silêncio e o céu. Eles se chamavam eterí. Não temiam as alturas, pois as ilhas onde pisavam haviam sido moldadas pelo Sopro. Etérea era o nome de seu lar.
 
-Etérea era um lugar onde nada tocava o chão. As ilhas não voavam. Pairavam, como suspiros petrificados de um tempo que jamais aprendeu a cair... Seus salões eram esculpidos em espiral, como o desenho que o orvalho deixava ao amanhecer. Os sinos nas portas não serviam para avisar chegadas, mas para lembrar que o vento passava. E quando ele cessava, todos silenciavam. Pois o silêncio era reverência.
+Etérea era um lugar onde nada tocava o chão. As ilhas não voavam. Pairavam, como suspiros petrificados de um tempo que jamais aprendera a cair. Os sinos nas portas não serviam para avisar chegadas, mas para lembrar que o vento passava. Quando ele cessava, todos silenciavam. Pois o silêncio era reverência.
 
 Naquela tarde, as ilhas ressoavam suavemente com o canto das Correntes. Cristais pendiam de cipós vivos, filtrando a luz poente em tons dourados e azulados.
 
-As crianças terminavam seus cantos na Ilha dos Pequenos, enquanto as primeiras gôndolas de raízes trançadas se aproximavam para levá-las de volta às ilhas habitadas. Algumas seguiam em pequenos assentos de fibra transportados por aves domesticadas de dorso largo, acenando para os pais antes mesmo de alcançarem as pontes.
+As crianças terminavam seus cantos na Ilha dos Pequenos, enquanto as primeiras gôndolas de raízes trançadas se aproximavam para levá-las de volta às ilhas habitadas.
 
 Entre elas, dois sopros vivos atravessavam as ilhotas correndo: uma menina de cabelos trançados e seu pai, de passos largos e olhos gastos pelo sol. A menina arrastava uma fita dourada que o vento erguia atrás dela.
 
-Ao redor dos dois, Etérea seguia seu ritmo. Jardineiros Sonoros recolhiam folhas que vibravam em harmonia com o ar; Tecelões de Vento ajustavam os véus de uma ponte entre ilhas distantes; Fermentadores de Cristais verificavam peças de luz amadurecidas em recipientes de névoa; e Oradores da Corrente entoavam preces nas Salas de Raiz.
+Ao redor dos dois, Etérea seguia seu ritmo. Jardineiros Sonoros recolhiam folhas que vibravam em harmonia com o ar, enquanto Tecelões de Vento ajustavam os véus de uma ponte entre ilhas distantes.
 
-Ao passarem por um balcão comunitário, Yoral deixou duas peças de madeira que havia entalhado no sopro anterior e recolheu um pequeno cesto de selnara. A mulher do balcão apenas conferiu a marca gravada nas peças, empurrou o cesto para ele e voltou a separar raízes para a próxima família. Ninguém contou moedas ou discutiu preço. Cada função devolvia alguma coisa às ilhas, e os recursos circulavam conforme o que havia sido produzido e o que cada casa precisava.
+Ao passarem por um balcão comunitário, Yoral deixou duas peças de madeira que havia entalhado no sopro anterior. A mulher conferiu a marca nelas, guardou-as junto às demais contribuições e lhe entregou um pequeno cesto de selnara, uma planta comum na alimentação eterí.
+
+Não havia moedas nem preços em Etérea. Cada família entregava à comunidade parte do que produzia e recebia dela aquilo de que precisava.
 
 Tudo estava em paz. Os sinos soavam como deviam.
 
@@ -40,17 +42,17 @@ A menina encostou a cabeça no ombro dele.
 
 O pai riu baixo.
 
-— Mas o vento é uma pessoa, minha pequena. O vento sou eu, você, a Nestira, sua mãe. Todos nós fazemos parte do vento. Nascemos do vento, e voltaremos a ser vento um dia.
+— Mas o vento é uma pessoa, minha pequena. O vento sou eu, você, a Nestira, sua mãe. Todos nós fazemos parte do vento. Nascemos do vento, e voltaremos a ser vento um sopro.
 
 Ela ficou um instante em silêncio, os olhos passeando pelas nuvens abaixo. Estavam tão distantes, tão macias... pareciam convidar.
 
 Então, apertou o braço dele e perguntou com o cuidado de quem ainda não entendia o tempo:
 
-— Pai... o senhor... um dia vai virar vento?
+— Pai... o senhor... um sopro vai virar vento?
 
 Ele demorou a responder.
 
-— Um dia, sim. — Olhou para o céu. — Todos nós somos sopros emprestados, filha. Nascemos do vento, caminhamos por um tempo... e depois retornamos à Corrente.
+— Um sopro, sim. — Olhou para o céu. — Todos nós somos sopros emprestados, filha. Nascemos do vento, caminhamos por um tempo... e depois retornamos à Corrente.
 
 — Como a vovó?
 
@@ -90,9 +92,11 @@ O pai sorriu de lado.
 
 Os sinos ainda balançavam ao longe quando Jokara adormeceu no colo do pai.
 
-Dez ciclos haviam passado, mas Jokara ainda caminhava até aquele mesmo platô na Ilha da Memória com a mesma cadência de antes. Suas tranças estavam presas em meias luas que balançavam com a brisa, e as vestes traziam o selo da Ilha dos Oradores, embora ela nunca houvesse aceitado, de fato, aquele chamado. Os pés descalços tocavam as espirais de raízes secas com familiaridade, e o vento, ali, era mais denso. A brisa cruzava os sinos suspensos, e o som que saía deles era mais oco que antes, como se tivesse esquecido parte da melodia.
 
-Jokara se aproximou de um entalhe rústico numa pedra de orvalho, onde um nome, Yoral, fora marcado anos atrás por um Orador em silêncio. Não precisou tocá-lo. Bastava estar perto. Ajoelhou-se devagar, depositou um pedaço de selnara seca sobre a superfície gasta, e ficou ali, calada, por um bom tempo. Em uma das mãos, apertava o caderno dobrado, cujas folhas já haviam registrado, há muito, os contornos de um rosto que ela se recusava a desenhar de novo.
+
+Dez ciclos depois, Jokara ainda caminhava até aquele mesmo platô na Ilha da Memória com a mesma cadência de antes. Suas tranças estavam presas em meias luas que balançavam com a brisa, e as vestes traziam o selo da Ilha dos Oradores, embora ela nunca houvesse aceitado, de fato, aquele chamado. Os pés descalços tocavam as espirais de raízes secas com familiaridade, e o vento, ali, era mais denso. A brisa cruzava os sinos suspensos, e o som que saía deles era mais oco que antes, como se tivesse esquecido parte da melodia.
+
+Jokara se aproximou de um entalhe rústico numa pedra de orvalho, onde um nome, Yoral, fora marcado ciclos atrás por um Orador em silêncio. Não precisou tocá-lo. Bastava estar perto. Ajoelhou-se devagar, depositou um pedaço de selnara seca sobre a superfície gasta, e ficou ali, calada, por um bom tempo. Em uma das mãos, apertava o caderno dobrado, cujas folhas já haviam registrado, há muito, os contornos de um rosto que ela se recusava a desenhar de novo.
 
 Lembrou-se do luto formal que não teve. Quando havia um corpo, os familiares envolviam-no em tecidos claros, deitavam-no num balão funerário e soltavam-no diante das Correntes. Depois caminhavam lentamente contra o vento enquanto o balão desaparecia entre as nuvens, devolvendo o corpo ao céu para que o Sopro seguisse sozinho até Iliora. De Yoral, porém, não restara corpo algum. Jokara não soltara balão, não caminhara contra a Corrente, não vira o céu levá-lo. Tivera apenas aquele entalhe rústico.
 
@@ -130,7 +134,7 @@ Com um gesto firme, Jokara se postou. Murmurou uma prece breve aos ventos, pediu
 
 Enquanto separava a ave com precisão, ouviu algo. Um som breve, um estalo de madeira ou de galho. Seguiu a trilha, descendo por um pequeno desnível da ilha, até encontrar, entre arbustos silenciosos, um ninho. Três filhotes frágeis se aninhavam ali, com os olhos fechados e os bicos entreabertos, esperando por uma mãe que jamais voltaria. Jokara ficou parada. Parte dela quis colocar os filhotes nas mãos e levá-los consigo, mas sabia que isso seria ainda mais cruel. Deixou o ninho onde estava.
 
-Com a carne cuidadosamente embrulhada num tecido branco, retornou pelas pontes até sua casa, situada na encosta da Ilha de Nivelia, onde viviam os cuidadores de raízes. A casa dos Amarëa era redonda, de três níveis, feita de madeira clara e tecido de seda vegetal entrelaçada, com sinos pendurados em cada batente. Antes de dormir, Mirel sempre verificava se pelo menos um deles ainda respondia ao vento; uma casa cujo sino não tocasse durante a noite era considerada fechada às Correntes. Uma varanda em espiral abria-se para o leste, onde o sol nascia, e no interior o cheiro de raiz aquecida e pétala seca perfumava o ar.
+Com a carne cuidadosamente embrulhada num tecido branco, retornou pelas pontes até sua casa, situada na encosta da Ilha de Nivelia, onde viviam os cuidadores de raízes. A casa dos Amarëa era redonda, de três níveis, feita de madeira clara e tecido de seda vegetal entrelaçada, com sinos pendurados em cada batente. Antes de dormir, Mirel sempre verificava se pelo menos um deles ainda respondia ao vento; uma casa cujo sino não tocasse durante o Sopro do Silêncio era considerada fechada às Correntes. Uma varanda em espiral abria-se para o leste, onde o sol nascia, e no interior o cheiro de raiz aquecida e pétala seca perfumava o ar.
 
 A mãe, Mirel, provavelmente estava supervisionando os círculos de escuta no Santuário de Helion. Nestira, como sempre às vésperas da Espiral da Luz, deveria estar no Salão dos Ecos, orando com os Oradores em silêncio, antes da procissão da corrente. Jokara atravessou a sala central, passou pelas escadas espiraladas e subiu até seu quarto.
 
@@ -144,7 +148,7 @@ Quando o sol terminou de mergulhar sob as ilhas, os sinos tocaram mais suavement
 
 A Procissão do Sopro Brando estava prestes a começar.
 
-Celebrado a cada três espirais, era um antigo rito onde os Oradores da Corrente percorriam a ilha em silêncio, entoando apenas em pensamento suas preces à Corrente dominante do ciclo. O corpo principal dos Oradores era responsável pelos ritos diurnos e escrituras, mas à noite, a vigília cabia aos Oradores Noturnos. Estes monges do silêncio percorriam as passagens suspensas, patrulhando as ilhas para que os Arrancados, as almas que ainda circulavam, não perdessem o caminho de ascensão. O Sopro do Silêncio era um tempo de proteção, onde apenas os vigilantes tinham permissão para andar.
+Celebrado a cada três espirais, era um antigo rito onde os Oradores da Corrente percorriam a ilha em silêncio, entoando apenas em pensamento suas preces à Corrente dominante do ciclo. O corpo principal dos Oradores era responsável pelos ritos diurnos e escrituras, mas ao Sopro do Silêncio, a vigília cabia aos Oradores Noturnos. Estes monges do silêncio percorriam as passagens suspensas, patrulhando as ilhas para que os Arrancados, as almas que ainda circulavam, não perdessem o caminho de ascensão. O Sopro do Silêncio era um tempo de proteção, onde apenas os vigilantes tinham permissão para andar.
 
 Lá fora, a luz branca se espalhava como um rio sereno, e as vestes dos Oradores flutuavam em ondas. Jokara reconheceu vizinhos de toda a encosta: um velho de ombros largos com os olhos marejados, uma mãe que caminhava com a filha adormecida nos braços, uma cuidadora da Ilha dos Jardins cujas mãos tremiam de emoção ou idade. Entre eles estava Yrisea, a mais velha dos Oradores de Nivelia, com os dedos sempre trêmulos, mas firmes no olhar. E, por fim, Nestira, com o rosto voltado ao céu e um semblante tão em paz que fazia Jokara se perguntar como duas irmãs podiam ser tão diferentes.
 
@@ -158,7 +162,7 @@ A rua era um corredor estreito de madeira viva que se abria em espirais à medid
 
 A ancestral Yrisea, a Oradora mais velha de Nivelia, caminhava à frente do grupo, com os olhos fechados e os pés descalços. De sua boca começou a sair um som contínuo, sem palavras, quase sem melodia: um lamento antigo, sustentado numa única nota que subia e descia devagar, próximo do assobio do vento entre as raízes. Era uma prece sem nome, diferente dos cânticos formais que Jokara conhecia desde criança, como a melancólica "Livia Entoa" ou a solene "A Balada do Primeiro Sopro". Os pelos dos braços de Jokara se arrepiaram. Ela não saberia nomear o que aquele som fazia com ela.
 
-O grupo atravessou a Ponte de Folhas, que os levou da zona habitada até a parte mais alta de Nivelia, onde o vento era mais forte e a vista dava para o vazio azul profundo. Jokara já estivera ali antes, mas nunca à noite, e nunca entre tantas velas. Ao fundo, as ilhas distantes pareciam boiar sobre o horizonte, imóveis, como sentinelas adormecidas.
+O grupo atravessou a Ponte de Folhas, que os levou da zona habitada até a parte mais alta de Nivelia, onde o vento era mais forte e a vista dava para o vazio azul profundo. Jokara já estivera ali antes, mas nunca ao Sopro do Silêncio, e nunca entre tantas velas. Ao fundo, as ilhas distantes pareciam boiar sobre o horizonte, imóveis, como sentinelas adormecidas.
 
 Todos pararam à beira do precipício, os Oradores formando um semicírculo. O canto cessou, e ninguém mais fez som algum. Cada pessoa segurou sua vela com ambas as mãos, inclinou o corpo em leve reverência, e se preparou.
 

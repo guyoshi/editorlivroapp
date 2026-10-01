@@ -80,33 +80,35 @@ Nestira o olhou, alarmada.
 
 Ele apenas ergueu a mão em gesto de calma.
 
-— Já derrubei uma fera antes. Lembra Nestira? Pouco antes de cairmos.
+— Já derrubei uma fera antes. Lembra, Nestira? Pouco depois de cairmos.
 
 Maletar gritou, chamando a atenção de todos.
 
-— Muito bem… No três! — Firmem as cordas! Pés no chão!
+— Muito bem… No três! Firmem as cordas! Pés no chão!
 
 Jokara estava apoiada no bastão com uma mão e agarrada à corda com a outra. Olhou em volta e deu com Gabasteri olhando para ela. Ele desviou o olhar. Ao lado dela, Loutes não tirava os olhos do animal.
 
 — Um… dois… três!
 
-As cordas se retesaram. A corda rasgava a palma da mão de Jokara, e a perna direita tremia.
+Todos puxaram ao mesmo tempo. As cordas se retesaram até gemer, e as fibras ásperas queimaram a palma de Jokara. Ela fincou a única perna firme no barro e inclinou o corpo para trás, sentindo o ombro arder enquanto o animal se debatia no centro da armadilha.
 
-O animal se ergueu, sacudindo os chifres para todos os lados. A corda vibrou com tamanha força que Mariv, deitado para tentar ferir a criatura, foi quase pisoteado. Ele rolou, escapando por pouco.
+A fera ergueu a cabeça e sacudiu os chifres. Um dos troncos que a prendiam saltou do chão alguns dedos antes de cair de volta. Mariv esperou uma abertura e se lançou para perto do peito do animal, mas uma das patas atingiu a lama onde ele estivera um instante antes. Ele rolou para o lado, escapando por pouco.
 
 — Mariv! — gritou Nestira.
 
-Ele conseguiu girar o corpo e se erguer, o suor e a lama escorrendo no rosto, mas a adaga que segurava escapou de sua mão, voando entre raízes. Ficou de mãos vazias diante do bicho.
+Ele tentou se levantar depressa demais. A adaga escorregou de sua mão molhada e desapareceu entre as raízes. Quando ergueu o rosto, estava desarmado a poucos passos da fera.
 
-Jokara quis ir até ele, mas não podia soltar a corda.
+Jokara puxou a corda com mais força, querendo ir até ele e sabendo que não podia. Sentia cada arrancada do animal atravessar os braços até os ombros. Ao lado, alguém perdeu o apoio por um instante. A tensão mudou.
 
-No caos, Platisa recuou um passo brusco, os olhos se movendo em direção à sua bolsa de couro. Gabasteri, ao lado, fizera um gesto rápido demais com a mão, como se fosse ajudar a segurar. O rosto dela mudou, e no recuo esbarrou com violência nos ombros de Mariv e Jokara.
+Platisa recuou bruscamente, a mão indo para o zélon junto ao corpo. Gabasteri fizera um movimento rápido ao lado dela, como se tentasse segurar a corda ou impedir que escapasse. Platisa esbarrou em Mariv e depois em Jokara.
 
-As cordas escaparam das mãos deles.
+Uma das cordas afrouxou.
 
-A fera arrebentou a armadilha e investiu.
+A fera percebeu antes deles. Recuou todo o peso do corpo e puxou. O primeiro tronco rachou. Outro se soltou da lama. Jokara sentiu a corda deslizar pela mão, queimando a pele, e ouviu Maletar gritar para que segurassem.
 
-Nestira tentou se mover, mas o impacto a atingiu em cheio. Foi arremessada contra uma raiz grossa e caiu de lado. A cabeça bateu com um som seco.
+Não houve tempo.
+
+O animal rompeu a armadilha, baixou os chifres e disparou pela abertura. Nestira tentou sair da frente, mas o barro prendeu seu pé por uma fração de segundo. Foi o bastante. O impacto a arrancou do chão e a lançou contra uma raiz grossa. A cabeça bateu com um som seco.
 
 — Nestira! — gritou Jokara.
 
@@ -114,7 +116,7 @@ O animal não parou. Sumiu mata adentro, quebrando galhos.
 
 Mariv se ergueu cambaleando e correu até Nestira. Jokara já estava ajoelhada, segurando-lhe o rosto com mãos trêmulas.
 
-— Nestira, fala comigo! — NESTIRA!
+— Nestira, fala comigo! NESTIRA!
 
 Nada. Jokara sacudiu os ombros da irmã e se virou para trás. Platisa se mantinha recuada, imóvel, os olhos fixos em Gabasteri.
 
@@ -176,7 +178,7 @@ Platisa ajoelhou-se ao lado dela.
 
 — Ela precisa de água — disse Gabasteri.
 
-— Pouco de cada vez — corrigiu Platisa.
+— Sim. Mas aos poucos — disse Platisa.
 
 Jokara foi até o canto onde guardavam a comida e os jarros. As cestas estavam vazias. O jarro de água, tombado. Nenhuma fruta, nenhum peixe.
 
@@ -228,19 +230,20 @@ Gabasteri recostou-se, de braços cruzados.
 
 
 
-O resto do dia foi de fome. Os gestos ficavam lentos, os olhos pesavam.
+O resto do sopro foi de fome. Os gestos ficavam lentos, os olhos pesavam.
 
-Naquela noite, Jokara e Platisa permaneceram junto de Nestira, cuidando da irmã como podiam, enquanto Mariv e Loutes se aventuraram ao rio em busca de sustento, e Maletar partiu com Gabasteri para sondar frutos ou presas. Voltaram com um punhado de bagas. Deitaram-se todos de estômago vazio.
 
-O sopro seguinte foi ainda mais cruel. A pesca rendeu apenas um peixe magro, repartido em lascas tão finas que mais lembravam migalhas do que alimento. Platisa, abatida desde cedo, começou a vomitar. Jokara reparou que ela estava ainda mais magra do que no dia em que a encontraram. Dava para contar as costelas por baixo da túnica.
+Naquela Sopro do Silêncio, Jokara e Platisa permaneceram junto de Nestira, cuidando da irmã como podiam, enquanto Mariv e Loutes se aventuraram ao rio em busca de sustento, e Maletar partiu com Gabasteri para sondar frutos ou presas. Voltaram com um punhado de bagas. Deitaram-se todos de estômago vazio.
+
+O sopro seguinte foi ainda mais cruel. A pesca rendeu apenas um peixe magro, repartido em lascas tão finas que mais lembravam migalhas do que alimento. Platisa, abatida desde cedo, começou a vomitar. Jokara reparou que ela estava ainda mais magra do que no sopro em que a encontraram. Dava para contar as costelas por baixo da túnica.
 
 Loutes não parecia ter fome. Passava horas sentado olhando para a floresta.
 
-À noite, repartiram o peixe mirrado em pedaços iguais e mastigaram devagar, para durar mais. A caça falhara outra vez, e apenas algumas frutas foram encontradas por Loutes e Nestira, que se oferecera para acompanhá-lo, já que Platisa mal conseguia levantar-se. Jokara ficou no abrigo, cuidando da ecoante, trocando os panos úmidos na testa dela.
+Ao Sopro do Silêncio, repartiram o peixe mirrado em pedaços iguais e mastigaram devagar, para durar mais. A caça falhara outra vez, e apenas algumas frutas foram encontradas por Loutes e Nestira, que se oferecera para acompanhá-lo, já que Platisa mal conseguia levantar-se. Jokara ficou no abrigo, cuidando da ecoante, trocando os panos úmidos na testa dela.
 
 Antes de dormir, Jokara procurou a irmã. O abrigo estava silencioso, o fogo reduzido a brasas. Nestira ajeitava os panos sobre Platisa quando Jokara falou em voz baixa:
 
-— Ela precisa comer melhor… precisa de carne. — Se continuar apenas com frutas, raízes e folhas, o vento vai levá-la antes do tempo.
+— Ela precisa comer melhor… precisa de carne. Se continuar apenas com frutas, raízes e folhas, o vento vai levá-la antes do tempo.
 
 Nestira suspirou, passando a mão pelos cabelos da Ecoante.
 
@@ -252,7 +255,7 @@ Jokara abanou a cabeça.
 
 Nestira não respondeu. Deitou-se ao lado da irmã. Jokara se surpreendeu com o que disse em seguida:
 
-— Dorme ao lado de Mariv esta noite. Ele anda sozinho demais.
+— Dorme ao lado de Mariv este Sopro do Silêncio. Ele anda sozinho demais.
 
 Nestira arregalou os olhos, surpresa.
 
@@ -304,13 +307,23 @@ Jokara respirou fundo.
 
 — Às vezes fico pensando se fiz certo em mandar ele procurar os pais.
 
+Nestira franziu a testa.
+
+— Mandar? Ele foi comigo até... — parou. — Ele foi te levar em casa.
+
+— Ele quis. Eu que mandei ele voltar pra buscar vocês.
+
+Nestira ficou em silêncio.
+
+— Eu não sabia disso.
+
 Nestira apertou a mão dela.
 
 — Ele voltou com eles. Ficaram juntos no fim. Você deu isso a eles.
 
 Jokara não respondeu, mas os olhos se encheram.
 
-Nestira inclinou-se e beijou a testa da irmã.
+Nestira inclinou-se e beijou a testa da irmã. Fechou os olhos por um instante, esperando o vento responder, do jeito que a mãe fazia todo Sopro do Silêncio junto à porta de casa. Só que ali não havia porta. Nem sino.
 
 — Que o vento te conduza.
 
@@ -324,7 +337,7 @@ O menino virou o rosto para ela.
 
 — Mas é bom para ouvir.
 
-Loutes continuou em silêncio.
+Loutes se encostou mais perto dela, na escuridão.
 
 Jokara observou Nestira se acomodar perto de Mariv antes de baixar ainda mais a voz.
 
@@ -366,7 +379,7 @@ Jokara esperou.
 
 — Às vezes acho que fomos cegos demais lá em cima. Às vezes acho que só tivemos azar. E às vezes não acredito em nada.
 
-Ele passou a mão pelo rosto.
+Ele baixou os olhos para as próprias mãos.
 
 — Só sei que continuo acordando. E Ari não.
 
@@ -374,11 +387,11 @@ Jokara não sabia se devia perguntar.
 
 — Ari?
 
-Maletar passou a mão pelo rosto, esfregando a barba curta, e voltou a olhar para a floresta.
+Maletar passou a mão pela barba curta e voltou a olhar para a floresta.
 
 — Minha filha. — Ficou um tempo calado. — Tinha uns olhos enormes. E ria alto, de assustar os vizinhos.
 
-— Queria cruzar o céu como as aves, sentir o vento levar seu corpo. Falava disso todas as manhãs. “Pai, quando vou voar no planador também?”. Eu sempre prometia que um dia a levaria pelos céus. Faltavam cinco sopros ainda para que ela pudesse ter seu Primeiro Voo… mas eu queria que aquele momento fosse especial. E para isso, eu precisava que ela estivesse preparada. Por isso, eu iria ensiná-la a voar… antes da cerimônia. Para que ela passasse, e pudesse realizar seu sonho…
+— Queria cruzar o céu como as aves, sentir o vento levar seu corpo. Falava disso todas as manhãs. “Pai, quando vou voar no planador também?”. Eu sempre prometia que um sopro a levaria pelos céus. Faltavam cinco sopros ainda para que ela pudesse ter seu Primeiro Voo… mas eu queria que aquele momento fosse especial. E para isso, eu precisava que ela estivesse preparada. Por isso, eu iria ensiná-la a voar… antes da cerimônia. Para que ela passasse, e pudesse realizar seu sonho…
 
 Jokara lembrou-se de Maletar no posto dos Oradores: “Minha filha está sozinha em casa.”
 
@@ -396,7 +409,7 @@ Jokara mordeu o lábio.
 
 — Maletar… você não podia saber… Nenhum de nós…
 
-— Não. — Você sabe, Jokara… você perdeu pessoas também. Sabe que a nossa mente fica sempre se perguntando… e se… e se eu tivesse colocado ela num planador, uma única vez… talvez Etérea não seria salva, mas Ari sim. Ela teria voado. Teria sentido o vento como queria. E teria sobrevivido… em meu lugar.
+— Não. Você sabe, Jokara… você perdeu pessoas também. Sabe que a nossa mente fica sempre se perguntando… e se… e se eu tivesse colocado ela num planador, uma única vez… talvez Etérea não seria salva, mas Ari sim. Ela teria voado. Teria sentido o vento como queria. E teria sobrevivido… em meu lugar.
 
 Uma brasa estalou.
 
@@ -416,7 +429,7 @@ Jokara ficou olhando as brasas.
 
 Maletar se virou para ela.
 
-— Era uma noite limpa… eu e Nestira o víamos do mirante. Ele sorria, gritava, perseguia um nuari. O vento estava perfeito. E então… o céu virou contra ele.
+— Era um Sopro do Silêncio limpa… eu e Nestira o víamos do mirante. Ele sorria, gritava, perseguia um nuari. O vento estava perfeito. E então… o céu virou contra ele.
 
 Ela fechou os olhos.
 
@@ -428,7 +441,7 @@ Jokara mordeu o lábio até sentir gosto de sangue.
 
 Maletar não se mexeu. Jokara pensou em parar ali e não parou.
 
-— O que ninguém sabe… — disse, olhando o chão. — Que fui eu quem pedi para ele voar. Eu insisti. Ele dizia que estava cansado, mas eu… eu queria vê-lo sorrir. Queria ouvir a risada dele no céu. Se não fosse por mim, ele estaria em casa. Vivo.
+— O que eu nunca consegui admitir… — disse, olhando o chão. — Nem quando Nestira jogou isso na minha cara, no sopro da queda. Foi eu quem pedi para ele voar. Eu insisti. Ele dizia que estava cansado, mas eu… eu queria vê-lo sorrir. Queria ouvir a risada dele no céu. Se não fosse por mim, ele estaria em casa. Vivo.
 
 Não conseguiu continuar. Chorou sem fazer barulho.
 

@@ -6,7 +6,7 @@ Nadirion significa literalmente “onde o sopro não sobe”. Era ali que, segun
 
 Mas naquela tarde, nadírion era o assunto que o povo menos queria saber. A cidade espiralava em alegria. Tecidos coloridos dançavam ao vento entre as varandas, sinos tilintavam, e os corredores vivos da Ilha de Nivelia estavam tomados por aromas doces, sons de flautas e o calor de muitas vozes entrelaçadas.
 
-Era dia de Sopro Brando: uma celebração que ocorria a cada três espirais, quando as Correntes passavam mais suaves sobre as ilhas. Ninguém trabalhava muito nesses dias.
+Era Sopro Brando: uma celebração que ocorria a cada três espirais, quando as Correntes passavam mais suaves sobre as ilhas. Ninguém trabalhava muito nesses sopros.
 
 Jokara caminhava entre as pessoas com Loutes ao seu lado, ainda um pouco encabulado com o movimento ao redor.
 
@@ -14,11 +14,11 @@ Jokara caminhava entre as pessoas com Loutes ao seu lado, ainda um pouco encabul
 
 — Loutes, está mais forte, hein? — dizia outra, enquanto um velho com sobrancelhas enormes oferecia a ele um doce de raiz envolto em pétalas.
 
-Ninguém pagava nem vendia nada ali; quem tinha, dava.
+Mais adiante, Fermentadores de Cristais retiravam pequenas peças de luz de recipientes de névoa e as distribuíam entre as casas que precisavam substituir as antigas.
 
 Jokara retribuía os cumprimentos com um sorriso tímido. Não gostava de atenção, mas em Nivelia todos se conheciam, e todos sabiam da queda no Primeiro Voo.
 
-Crianças corriam pelas espirais, segurando suas vintelas, pipas feitas de folhas e seda brilhante, que rodopiavam no céu. Planadores passavam acima, conduzidos por jovens em treino ou por adultos que apenas queriam sentir a leveza por alguns instantes.
+Crianças corriam pelas espirais, segurando suas vintelas, pipas feitas de folhas e seda brilhante, que rodopiavam no céu. Entre as varandas, pequenos assentos de fibra passavam sustentados por aves domesticadas de dorso largo, enquanto planadores cruzavam mais alto, conduzidos por jovens em treino ou por adultos que apenas queriam sentir a leveza por alguns instantes.
 
 Ao longe, alguém tocava uma flauta em ritmo saltitante, e dois Oradores mais jovens dançavam em círculos, imitando o movimento das Correntes com os braços. Havia gente rindo por toda parte.
 
@@ -122,7 +122,7 @@ O professor Taliver forçou um sorriso, e continuou:
 
 Jokara baixou os olhos, pressionando o planador contra o peito. Então fechou os olhos… e as imagens vieram.
 
-Naquela noite, o céu estava limpo. Ele planava alto, sorrindo, gritando de alegria enquanto perseguia o brilho rarefeito de um nuari, e ela, ao lado de Nestira, olhava do mirante com olhos cheios de luz. Ele ainda ria quando a primeira rajada veio. Então o céu escureceu.
+Naquela Sopro do Silêncio, o céu estava limpo. Ele planava alto, sorrindo, gritando de alegria enquanto perseguia o brilho rarefeito de um nuari, e ela, ao lado de Nestira, olhava do mirante com olhos cheios de luz. Ele ainda ria quando a primeira rajada veio. Então o céu escureceu.
 
 A tempestade surgiu do nada, e ele tentou descer. Ficou muito tempo lutando contra o vento, os pés balançando, as mãos agarradas às alças, até que soltou. Não gritou. O planador seguiu sozinho, como uma folha, enquanto elas gritavam o nome dele até perder a voz. Depois só se ouviam as vintelas penduradas no mirante, batendo com o vento.
 
@@ -132,7 +132,7 @@ Jokara voltou a si quando sentiu os olhos do professor sobre ela.
 
 Ela não completou. Não precisou.
 
-— Não, Jokara. Não vale a pena pensar nisso. Seu pai foi levado pelos ventos. Ele não está em nadírion. Nadirion é uma terra amaldiçoada, um lugar onde nenhum eterí merece estar. Seu pai… é o vento que sopra todos os dias o seu rosto.
+— Não, Jokara. Não vale a pena pensar nisso. Seu pai foi levado pelos ventos. Ele não está em nadírion. Nadirion é uma terra amaldiçoada, um lugar onde nenhum eterí merece estar. Seu pai… é o vento que sopra todos os sopros o seu rosto.
 
 — Mas eu não consigo sentir isso — disse ela — eu não o sinto comigo. Eu só sinto… vento. Frio e gelado. E a cada vez que bate em meu rosto… ele leva mais um pedaço de mim pelos ares.
 
@@ -147,6 +147,7 @@ Loutes observava-os com curiosidade, distante, sem entender o que acontecia ali.
 O festival seguiu até o Sopro Pleno, quando os sinos silenciaram conversas, instrumentos e até as crianças por três cantos inteiros. Depois, Nivelia voltou a encher-se de música, comida e vintelas.
 
 Nestira, porém, reparava em quem não disputava o centro da festa. Seu olhar acompanhou Mariv e depois Maletar, um homem corpulento de mãos grossas que passava de grupo em grupo ajudando no que fosse preciso.
+
 
 No terceiro sopro após a visita de Jokara ao Professor Taliver, Mirel pediu que a filha a acompanhasse a uma cerimônia incomum. Era o Círculo do Peso, um dos mais antigos ritos eterí, raramente presenciado por jovens e quase nunca realizado em público. Pelas passagens de Nivelia, o nome da acusada corria acompanhado de rumores. Alguns diziam que Yndra apenas entrara onde não devia. Outros juravam que ela escutava os Vazios em vez das Correntes e que se reunia com um culto secreto dedicado aos Sopros perdidos. Ninguém sabia onde esse culto se encontrava, quem pertencia a ele ou se realmente existia.
 
@@ -224,9 +225,9 @@ Yndra ouviu o veredito sem pestanejar.
 
 O público começou a se dispersar. Primeiro os mais jovens, em passos rápidos e nervosos. Depois os anciãos, murmurando preces de proteção entre dentes cerrados. Jokara permaneceu. Mesmo quando Mirel a puxou suavemente pelo braço, ela ainda lançou um último olhar para o centro do círculo. Yndra a olhava de volta. Não parecia zangada.
 
-Naquela noite, Etérea não dormiu. Havia música em algumas casas, mas ninguém dançava. Até os pássaros noturnos ficaram quietos.
+Naquela Sopro do Silêncio, Etérea não dormiu. Havia música em algumas casas, mas ninguém dançava. Até os pássaros noturnos ficaram quietos.
 
-Deitada em sua cama trançada com fios de luz dourada, Jokara fitava o teto translúcido, por onde as duas luas se arrastavam devagar. Quando se aproximavam uma da outra, as famílias enchiam as varandas com frutas e flautas para celebrar a lua dupla. Naquela noite, estavam afastadas.
+Deitada em sua cama trançada com fios de luz dourada, Jokara fitava o teto translúcido, por onde as duas luas se arrastavam devagar. Quando se aproximavam uma da outra, as famílias enchiam as varandas com frutas e flautas para celebrar a lua dupla. Naquela Sopro do Silêncio, estavam afastadas.
 
 As palavras de Yndra voltavam:
 

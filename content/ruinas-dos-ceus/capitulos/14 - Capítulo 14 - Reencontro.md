@@ -2,9 +2,9 @@
 
 Os sopros seguintes trouxeram chuva. A floresta pingava sem cessar: folhas encharcadas, troncos escorregadios, o solo virando lama espessa sob seus pés. O abrigo improvisado cedia em alguns pontos, e todos tiveram de reforçar a estrutura com pedras e raízes. Jokara trabalhava junto, mesmo quando a água escorria por baixo das bandagens e fazia o coto arder.
 
-À noite, reuniam-se sob o teto molhado, partilhando frutos úmidos e raízes cozidas no fogo fraco que Mariv se dedicava a manter aceso contra a umidade. Nestira cantava baixinho, e Loutes não tirava os olhos dela. Jokara se perguntava se a irmã ainda acreditava nos ventos ou se cantava só para não enlouquecer.
+Ao Sopro do Silêncio, reuniam-se sob o teto molhado, partilhando frutos úmidos e raízes cozidas no fogo fraco que Mariv se dedicava a manter aceso contra a umidade. Nestira cantava baixinho, e Loutes não tirava os olhos dela. Jokara se perguntava se a irmã ainda acreditava nos ventos ou se cantava só para não enlouquecer.
 
-Certo dia, quando a chuva rareou, Jokara decidiu tentar a pesca. Caminhou até o rio, com a lança improvisada numa mão e o bastão de apoio na outra. 
+Certo sopro, quando a chuva rareou, Jokara decidiu tentar a pesca. Caminhou até o rio, com a lança improvisada numa mão e o bastão de apoio na outra. 
 
 Então a água tremeu. Uma sombra atravessou o rio e emergiu.
 
@@ -34,6 +34,7 @@ Jokara levantou o peixe, ofegante.
 
 A criatura afundou. Jokara voltou para o abrigo com o peixe e com a lança inteira.
 
+
 Quase uma corrente depois, as chuvas tinham passado. No fim de uma tarde, Jokara e Mariv procuravam frutos entre as raízes, com cestos improvisados.
 
 Jokara falou primeiro:
@@ -48,7 +49,7 @@ Jokara ergueu o olhar.
 
 — Como assim?
 
-— Talvez guardassem a tua mãe pendurando os cestos. Por isso tu ainda sentes o cheiro.
+— Talvez guardassem a sua mãe pendurando os cestos. Por isso você ainda sente o cheiro.
 
 Jokara apertou o cesto nas mãos.
 
@@ -58,7 +59,7 @@ Jokara apertou o cesto nas mãos.
 
 Ela parou, virando-se para ele.
 
-— E todas as pessoas que morreram? — E a pequena Liri? Qual foi o propósito de ela cair? De minha irmã perder uma criança nos braços?
+— E todas as pessoas que morreram? E a pequena Liri? Qual foi o propósito de ela cair? De minha irmã perder uma criança nos braços?
 
 Mariv hesitou, mas não desviou o olhar.
 
@@ -116,7 +117,7 @@ Ela fingiu não ouvir.
 
 Jokara abriu caminho pelas raízes e pedras até a clareira onde Nestira e Loutes estavam. O menino empilhava gravetos perto da fogueira, enquanto Nestira organizava roupas estendidas sobre uma pedra.
 
-— Nestira… — quero te apresentar alguém.
+— Nestira… quero te apresentar alguém.
 
 A irmã ergueu os olhos, surpresa ao ver a silhueta que surgia atrás dela. Gabasteri vinha com calma, sorrindo.
 
@@ -172,11 +173,11 @@ Jokara a olhou de lado, sem comentar.
 
 Gabasteri inclinou-se para frente, apoiando os cotovelos nos joelhos.
 
-— Não tiro a razão de sua irmã. — Eu passei muito tempo sozinho… e achava que conseguiria sobreviver. Mas acho que se quisermos reerguer uma nova Etérea aqui embaixo, precisamos estar juntos. E precisamos principalmente colaborar, para sermos fortes.
+— Não tiro a razão de sua irmã. Eu passei muito tempo sozinho… e achava que conseguiria sobreviver. Mas acho que se quisermos reerguer uma nova Etérea aqui embaixo, precisamos estar juntos. E precisamos principalmente colaborar, para sermos fortes.
 
 — Uma nova Etérea? — Jokara ergueu as sobrancelhas.
 
-— Por que não? — Não como antes, talvez. Não nas alturas. Mas um lugar onde os filhos do vento ainda possam viver com dignidade. Um povo não nasce só porque algumas pessoas dividem uma fogueira. Precisa de gente capaz, funções claras… alguém que saiba manter todos caminhando na mesma direção.
+— Por que não? Não como antes, talvez. Não nas alturas. Mas um lugar onde os filhos do vento ainda possam viver com dignidade. Um povo não nasce só porque algumas pessoas dividem uma fogueira. Precisa de gente capaz, funções claras… alguém que saiba manter todos caminhando na mesma direção.
 
 — Reerguer Etérea… — repetiu Nestira, baixinho. — Isso seria… um milagre.
 
@@ -214,11 +215,11 @@ Gabasteri viu, e falou de novo:
 
 Nestira sorriu e inclinou a cabeça. Jokara sentiu alívio, um alívio quase infantil, de ter um adulto ali. Mariv olhava para o fogo.
 
-A noite caiu. Nestira murmurava um cântico antigo.
+O Sopro do Silêncio caiu. Nestira murmurava um cântico antigo.
 
 Gabasteri sentou-se entre as irmãs. Pegou um dos galhos mais grossos e, com cuidado, posicionou-o no fogo de modo que queimasse de forma constante.
 
-— Assim, dura mais tempo. — Sorriu, simples. — Não precisamos gastar energia recolhendo madeira durante a noite.
+— Assim, dura mais tempo. — Sorriu, simples. — Não precisamos gastar energia recolhendo madeira durante o Sopro do Silêncio.
 
 Nestira sorriu. Jokara assentiu. Mariv não disse nada.
 
@@ -254,7 +255,7 @@ Gabasteri sorriu.
 
 Mariv não respondeu. Apenas deitou-se mais afastado, mantendo a lança encostada ao ombro.
 
-Naquela noite, Nestira chamou por Liri dormindo.
+Naquela Sopro do Silêncio, Nestira chamou por Liri dormindo.
 
 Amanheceu com neblina. Gabasteri foi o primeiro a se levantar. Já havia recolhido galhos secos antes que os outros despertassem.
 
