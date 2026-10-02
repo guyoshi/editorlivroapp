@@ -4,6 +4,8 @@
 // Guarda progresso de leitura e áudio no localStorage do aparelho.
 
 const FONT_KEY = "jesed:readerFontScale";
+const HIDE_ART_KEY = "jesed:hideChapterArt";
+const THEME_KEY = "jesed:theme";
 const POS_KEY = (bookId, n) => `jesed:pos:${bookId}:${n}`;
 const LASTCH_KEY = (bookId) => `jesed:last:${bookId}`;
 const DONE_KEY = (bookId, n) => `jesed:done:${bookId}:${n}`;
@@ -12,13 +14,17 @@ function resolve(path){
   return "./" + path;
 }
 
+// Aplica o tema salvo o quanto antes, pra evitar flash da cor errada.
+const savedTheme = localStorage.getItem(THEME_KEY);
+if(savedTheme) document.documentElement.dataset.theme = savedTheme;
+
 // Imagens (capas e artes de capítulo) vêm referenciadas direto do site
 // Dimensões Infinitas — se atualizar lá, atualiza aqui também, sem duplicar.
 const ART_BASE = "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/";
 function coverUrl(bookId){ return ART_BASE + bookId + "/cover.webp"; }
 function chapterArtUrl(bookId, n){ return ART_BASE + bookId + "/chapters/chapter-" + String(n).padStart(2,"0") + ".webp"; }
 
-const state = { books: [], currentBook: null, currentChapterIdx: -1 };
+const state = { books: [], currentBook: null, currentChapterIdx: -1, ambientSrc: null };
 
 const $ = (sel, root=document) => root.querySelector(sel);
 const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
@@ -154,14 +160,19 @@ async function openChapter(idx){
   $("#chapterText").innerHTML = `<p class="empty-hint">Carregando…</p>`;
   const art = $("#chapterArt");
   art.hidden = true;
-  art.onerror = () => { art.hidden = true; };
-  art.onload = () => { art.hidden = false; };
-  art.src = chapterArtUrl(book.id, ch.n);
+  if(localStorage.getItem(HIDE_ART_KEY) === "1"){
+    art.removeAttribute("src");
+  }else{
+    art.onerror = () => { art.hidden = true; };
+    art.onload = () => { art.hidden = false; };
+    art.src = chapterArtUrl(book.id, ch.n);
+  }
   showView("reader");
   exitFocus();
   updateNextChapterUI();
   updateCompleteUI();
   resetReaderProgress();
+  updateAmbientForChapter(ch);
 
   // texto
   try{
@@ -376,17 +387,15 @@ function initPlayerControls(){
   });
   $("#btnBack15").addEventListener("click", ()=> skip(-15));
 
-  // música de fundo (opcional — só ativa se o arquivo existir)
+  // música de fundo do capítulo (cada capítulo pode ter a sua, campo
+  // "ambient" no manifesto — veja updateAmbientForChapter)
   const ambientBtn = $("#btnAmbient");
   const ambientEl = $("#ambientEl");
   ambientEl.volume = 0.22;
-  let ambientTried = false;
+  ambientEl.loop = true;
   ambientBtn.addEventListener("click", async ()=>{
+    if(!state.ambientSrc){ ambientBtn.classList.remove("active"); return; }
     if(ambientEl.paused){
-      if(!ambientTried){
-        ambientTried = true;
-        ambientEl.src = resolve("content/_shared/ambient.mp3");
-      }
       try{ await ambientEl.play(); ambientBtn.classList.add("active"); }
       catch(e){ ambientBtn.classList.remove("active"); }
     }else{
@@ -394,6 +403,30 @@ function initPlayerControls(){
       ambientBtn.classList.remove("active");
     }
   });
+}
+
+// Chama-se ao abrir/trocar de capítulo: troca (ou para) a música ambiente
+// conforme o capítulo tenha ou não o campo "ambient" no manifesto.
+function updateAmbientForChapter(ch){
+  const ambientBtn = $("#btnAmbient");
+  const ambientEl = $("#ambientEl");
+  const wasPlaying = !ambientEl.paused;
+  ambientEl.pause();
+  if(ch && ch.ambient){
+    state.ambientSrc = ch.ambient;
+    ambientBtn.hidden = false;
+    ambientEl.src = resolve(ch.ambient);
+    if(wasPlaying){
+      ambientEl.play().then(()=>ambientBtn.classList.add("active")).catch(()=>ambientBtn.classList.remove("active"));
+    }else{
+      ambientBtn.classList.remove("active");
+    }
+  }else{
+    state.ambientSrc = null;
+    ambientBtn.hidden = true;
+    ambientBtn.classList.remove("active");
+    ambientEl.removeAttribute("src");
+  }
 }
 
 // ---------------- modo foco ----------------
@@ -500,11 +533,51 @@ async function openLocation(bookId, chapterN, paraIdx, paragraphKey, commentId){
 }
 window.BookReader = { openLocation, getBooks:()=>state.books.slice() };
 
+const THEMES = [
+  {id:"papel",    name:"Papel",         swatch:"#faf6ef"},
+  {id:"ambar",    name:"Âmbar Noturno", swatch:"#221d17"},
+  {id:"grafite",  name:"Grafite",       swatch:"#242426"},
+  {id:"azul",     name:"Noite Azul",    swatch:"#1c2433"},
+  {id:"floresta", name:"Verde Floresta",swatch:"#1c2820"},
+  {id:"vinho",    name:"Vinho",         swatch:"#28181b"},
+];
+function applyTheme(id){
+  if(id==="papel") delete document.documentElement.dataset.theme;
+  else document.documentElement.dataset.theme = id;
+  localStorage.setItem(THEME_KEY, id);
+  updateThemePicker();
+}
+function updateThemePicker(){
+  const current = localStorage.getItem(THEME_KEY) || "papel";
+  $$(".theme-swatch").forEach(b=> b.classList.toggle("active", b.dataset.themeId===current));
+}
+function initThemePicker(){
+  const picker = $("#themePicker");
+  if(!picker) return;
+  picker.innerHTML = THEMES.map(t=>
+    `<button type="button" class="theme-swatch" data-theme-id="${t.id}" style="background:${t.swatch}">
+       <span class="theme-swatch-name">${t.name}</span>
+     </button>`
+  ).join("");
+  $$(".theme-swatch", picker).forEach(b=>{
+    b.addEventListener("click", ()=> applyTheme(b.dataset.themeId));
+  });
+  updateThemePicker();
+}
+
 function initSettings(){
   const sheet = $("#settingsSheet");
-  $("#btnSettings").addEventListener("click", ()=>{ sheet.hidden = false; });
+  const hideArt = $("#cfgHideArt");
+  $("#btnSettings").addEventListener("click", ()=>{
+    if(hideArt) hideArt.checked = localStorage.getItem(HIDE_ART_KEY)==="1";
+    sheet.hidden = false;
+  });
   $("#cfgClose").addEventListener("click", ()=> sheet.hidden = true);
-  $("#cfgSave").addEventListener("click", ()=>{ sheet.hidden = true; });
+  $("#cfgSave").addEventListener("click", ()=>{
+    if(hideArt) localStorage.setItem(HIDE_ART_KEY, hideArt.checked ? "1" : "0");
+    sheet.hidden = true;
+  });
+  initThemePicker();
 }
 
 // ---------------- navegação ----------------

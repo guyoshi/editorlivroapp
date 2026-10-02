@@ -12,8 +12,11 @@
   --serif: "Lora", Georgia, serif;
 }
 
+/* Sem tema escolhido ainda: segue a preferência do sistema (Âmbar Noturno
+   como padrão escuro). Escolher um tema nos Ajustes passa a mandar,
+   via [data-theme] abaixo, que tem mais especificidade. */
 @media (prefers-color-scheme: dark){
-  :root{
+  :root:not([data-theme]){
     --bg: #191510;
     --bg-elev: #221d17;
     --ink: #f1ebe0;
@@ -25,7 +28,30 @@
   }
 }
 
+/* ---------- temas de leitura ---------- */
+:root[data-theme="ambar"]{
+  --bg: #191510; --bg-elev: #221d17; --ink: #f1ebe0; --ink-soft: #b3a794;
+  --line: #352e24; --accent: #e08a5c; --accent-ink: #1a1410; --focus-bg: #14100c;
+}
+:root[data-theme="grafite"]{
+  --bg: #1a1a1c; --bg-elev: #242426; --ink: #ececea; --ink-soft: #a8a7a5;
+  --line: #343436; --accent: #d9a441; --accent-ink: #1a1a1c; --focus-bg: #141415;
+}
+:root[data-theme="azul"]{
+  --bg: #141a24; --bg-elev: #1c2433; --ink: #e7ecf2; --ink-soft: #9fb0c2;
+  --line: #2b3647; --accent: #e0a458; --accent-ink: #141a24; --focus-bg: #101520;
+}
+:root[data-theme="floresta"]{
+  --bg: #141d18; --bg-elev: #1c2820; --ink: #e8efe9; --ink-soft: #a0b5a8;
+  --line: #2b3a30; --accent: #e0a458; --accent-ink: #141d18; --focus-bg: #101a14;
+}
+:root[data-theme="vinho"]{
+  --bg: #1e1315; --bg-elev: #28181b; --ink: #f0e4e2; --ink-soft: #b89a96;
+  --line: #3a2227; --accent: #e0a458; --accent-ink: #1e1315; --focus-bg: #180f11;
+}
+
 *{ box-sizing: border-box; }
+button{ color:inherit; font-family:inherit; }
 html,body{ height:100%; }
 body{
   margin:0;
@@ -265,6 +291,16 @@ body.focus-mode .focus-exit{ display:flex; }
 .field input{
   font:inherit; padding:10px 12px; border-radius:10px; border:1px solid var(--line);
   background:var(--bg); color:var(--ink);
+}
+.theme-picker{ display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-top:4px; }
+.theme-swatch{
+  position:relative; height:52px; border-radius:10px; border:2px solid var(--line);
+  cursor:pointer; display:flex; align-items:flex-end; padding:6px; overflow:hidden;
+}
+.theme-swatch.active{ border-color:var(--accent); box-shadow:0 0 0 1px var(--accent); }
+.theme-swatch-name{
+  font-size:.66rem; font-weight:600; line-height:1.2; color:#fff;
+  text-shadow:0 1px 3px rgba(0,0,0,.6);
 }
 .sheet-actions{ display:flex; gap:10px; justify-content:flex-end; }
 .announce-list{ display:flex; flex-direction:column; gap:10px; margin:0 0 16px; max-height:50vh; overflow-y:auto; }
