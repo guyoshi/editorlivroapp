@@ -8,7 +8,7 @@
   const NAME_KEY="jesed:username";
   const PROFILE_HASH_KEY="jesed:readerCodeHash";
   const HEARTBEAT_MS=15000;
-  const ACTIVE_WINDOW_MS=120000;
+  const ACTIVE_WINDOW_MS=180000;
 
   let currentView="library";
   let context=null;
