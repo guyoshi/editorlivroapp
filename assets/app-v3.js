@@ -842,6 +842,9 @@ function initSettings(){
     sheet.hidden = false;
   });
   $("#cfgClose").addEventListener("click", ()=> sheet.hidden = true);
+  sheet.addEventListener("click", e=>{
+    if(e.target===sheet) sheet.hidden = true;
+  });
   $("#cfgSave").addEventListener("click", ()=>{
     if(hideArt) localStorage.setItem(HIDE_ART_KEY, hideArt.checked ? "1" : "0");
     if(autoAmbient) localStorage.setItem(AUTO_AMBIENT_KEY, autoAmbient.checked ? "1" : "0");
