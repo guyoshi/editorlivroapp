@@ -221,20 +221,26 @@ const Comments = (() => {
     const codeHash=await sha256(normalizeAccessCode(code));
     localStorage.setItem(CODEHASH_KEY,codeHash);
     const ref=db.collection(PROFILE_COLLECTION).doc(codeHash);
-    let profileDoc=null,exists=false;
-    try{profileDoc=await ref.get();exists=profileDoc.exists;}catch(e){}
+    let profileDoc=null,exists=false,profileReadOk=false;
+    try{
+      profileDoc=await ref.get();
+      exists=profileDoc.exists;
+      profileReadOk=true;
+    }catch(e){
+      console.warn("Não foi possível verificar o perfil no Firestore:",e);
+    }
 
     // Perfil apagado pelo painel: nunca recriar silenciosamente a identidade
     // antiga no próximo acesso.
-    if(exists&&profileDoc?.data()?.deleted){
+    if(profileReadOk&&exists&&profileDoc?.data()?.deleted){
       resetDeletedReaderProfile();
       throw profileDeletedError();
     }
 
-    // Se este aparelho já possuía um código mas o documento desapareceu do
-    // Firestore (por exemplo, exclusão manual no Console), trate igualmente
-    // como perfil removido em vez de ressuscitá-lo.
-    if(hadExistingCode&&!exists){
+    // Se este aparelho já possuía um código mas o documento realmente
+    // desapareceu do Firestore (por exemplo, exclusão manual no Console),
+    // trate igualmente como perfil removido. Falha de rede NÃO apaga o perfil.
+    if(profileReadOk&&hadExistingCode&&!exists){
       resetDeletedReaderProfile();
       throw profileDeletedError();
     }
