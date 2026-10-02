@@ -2,63 +2,268 @@ rules_version = '2';
 
 service cloud.firestore {
   match /databases/{database}/documents {
+
+    // Admin real: além de estar autenticado, o UID precisa existir em /admins.
     function isAdmin() {
       return request.auth != null
-        && exists(/databases/$(database)/documents/admins/$(request.auth.uid));
+        && exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+        && get(/databases/$(database)/documents/admins/$(request.auth.uid)).data.get('disabled', false) != true;
     }
 
-    // Admin allowlist. The client may only check its own UID.
-    // Bootstrap the first admin from the Firebase Console by creating:
-    // admins/{AUTH_UID}
+    function isProfileHash(value) {
+      return value.matches('^[0-9a-f]{64}$');
+    }
+
+    function validAuthor(data) {
+      return data.author is string
+        && data.author.size() >= 1
+        && data.author.size() <= 40
+        && data.authorId is string
+        && data.authorId.size() >= 16
+        && data.authorId.size() <= 80;
+    }
+
+    function validLocation(data) {
+      return data.bookId is string
+        && data.bookId.size() >= 1
+        && data.bookId.size() <= 120
+        && data.chapter is int
+        && data.paraIdx is int
+        && data.paraIdx >= -1
+        && (data.get('paragraphKey', null) == null || data.get('paragraphKey', null) is string)
+        && data.get('quote', '') is string
+        && data.get('quote', '').size() <= 220;
+    }
+
+    function validReaderRole(data) {
+      return isAdmin() || data.get('role', 'reader') == 'reader';
+    }
+
+    // ---------------------------------------------------------
+    // ADMIN ALLOWLIST
+    // Crie manualmente o primeiro documento:
+    // /admins/SEU_FIREBASE_AUTH_UID
+    // ---------------------------------------------------------
     match /admins/{uid} {
+      // O utilizador autenticado precisa conseguir consultar apenas o próprio
+      // UID para o app validar se aquela conta é administradora.
       allow get: if request.auth != null && request.auth.uid == uid;
+
+      // Depois do primeiro bootstrap pelo Console, admins existentes podem
+      // gerir a allowlist.
       allow list, create, update, delete: if isAdmin();
     }
 
+    // ---------------------------------------------------------
+    // COMENTÁRIOS / RESPOSTAS / REAÇÕES
+    // ---------------------------------------------------------
+    match /comments/{commentId} {
+      allow read: if true;
+
+      // Comentário raiz.
+      allow create: if request.resource.data.kind == 'comment'
+        && request.resource.data.keys().hasOnly([
+          'kind','bookId','chapter','paraIdx','paragraphKey','quote',
+          'author','authorId','role','text','status','adminSeen','at','updatedAt'
+        ])
+        && validLocation(request.resource.data)
+        && validAuthor(request.resource.data)
+        && validReaderRole(request.resource.data)
+        && request.resource.data.text is string
+        && request.resource.data.text.size() > 0
+        && request.resource.data.text.size() <= 500
+        && request.resource.data.status == 'open'
+        && request.resource.data.adminSeen is bool
+        && (isAdmin() || request.resource.data.adminSeen == false)
+        && request.resource.data.at is int
+        && request.resource.data.updatedAt is int;
+
+      // Resposta.
+      allow create: if request.resource.data.kind == 'reply'
+        && request.resource.data.keys().hasOnly([
+          'kind','parentId','rootId','bookId','chapter','paraIdx',
+          'paragraphKey','quote','author','authorId','role','text','at','updatedAt'
+        ])
+        && request.resource.data.parentId is string
+        && request.resource.data.rootId is string
+        && validLocation(request.resource.data)
+        && validAuthor(request.resource.data)
+        && validReaderRole(request.resource.data)
+        && request.resource.data.text is string
+        && request.resource.data.text.size() > 0
+        && request.resource.data.text.size() <= 500
+        && request.resource.data.at is int
+        && request.resource.data.updatedAt is int;
+
+      // Reação.
+      allow create: if request.resource.data.kind == 'reaction'
+        && request.resource.data.keys().hasOnly([
+          'kind','bookId','chapter','paraIdx','paragraphKey','quote',
+          'author','authorId','emoji','at','updatedAt'
+        ])
+        && validLocation(request.resource.data)
+        && validAuthor(request.resource.data)
+        && request.resource.data.emoji in ['😍','😂','😱','😢','🤔']
+        && request.resource.data.at is int
+        && request.resource.data.updatedAt is int;
+
+      // Admin pode editar qualquer feedback.
+      allow update: if isAdmin();
+
+      // Leitor: editar texto próprio no formato que o app usa.
+      // Como os beta readers ainda não usam Firebase Auth, authorId não é uma
+      // identidade criptograficamente verificável. Mantemos os campos de
+      // identidade/localização imutáveis e limitamos o que pode ser alterado.
+      allow update: if resource.data.get('role', '') == 'reader'
+        && request.resource.data.authorId == resource.data.authorId
+        && request.resource.data.bookId == resource.data.bookId
+        && request.resource.data.chapter == resource.data.chapter
+        && request.resource.data.paraIdx == resource.data.paraIdx
+        && request.resource.data.diff(resource.data).affectedKeys()
+          .hasOnly(['text','editedAt','updatedAt','adminSeen'])
+        && request.resource.data.text is string
+        && request.resource.data.text.size() > 0
+        && request.resource.data.text.size() <= 500
+        && request.resource.data.get('adminSeen', false) == false
+        && request.resource.data.updatedAt is int;
+
+      // Quando um leitor responde, o app reabre o comentário raiz e marca-o
+      // como não lido para o autor.
+      allow update: if resource.data.kind == 'comment'
+        && request.resource.data.diff(resource.data).affectedKeys()
+          .hasOnly(['status','adminSeen','updatedAt'])
+        && request.resource.data.status == 'open'
+        && request.resource.data.adminSeen == false
+        && request.resource.data.updatedAt is int;
+
+      // Alterar reação já existente.
+      allow update: if resource.data.kind == 'reaction'
+        && request.resource.data.authorId == resource.data.authorId
+        && request.resource.data.bookId == resource.data.bookId
+        && request.resource.data.chapter == resource.data.chapter
+        && request.resource.data.paraIdx == resource.data.paraIdx
+        && request.resource.data.diff(resource.data).affectedKeys()
+          .hasOnly(['emoji','updatedAt','paragraphKey','quote'])
+        && request.resource.data.emoji in ['😍','😂','😱','😢','🤔']
+        && request.resource.data.updatedAt is int
+        && request.resource.data.get('quote', '') is string
+        && request.resource.data.get('quote', '').size() <= 220;
+
+      // Admin apaga qualquer item. Leitores precisam conseguir apagar os
+      // próprios comentários/respostas/reações no desenho atual do app.
+      allow delete: if isAdmin()
+        || resource.data.get('role', '') == 'reader'
+        || resource.data.kind == 'reaction';
+    }
+
+    // ---------------------------------------------------------
+    // CONFIGURAÇÃO GLOBAL
+    // ---------------------------------------------------------
     match /config/{docId} {
       allow read: if true;
-      allow write: if isAdmin();
+      allow write: if isAdmin()
+        && request.resource.data.keys().hasOnly(['showAllComments'])
+        && request.resource.data.showAllComments is bool;
     }
 
-    match /announcements/{docId} {
-      allow read: if true;
-      allow write: if isAdmin();
-    }
-
-    // Reader profiles use the hash of the private access code as document ID.
-    // Readers can fetch/update a profile when they know that code; only admins can list them.
-    match /readerProfiles/{profileId} {
-      allow get: if true;
+    // ---------------------------------------------------------
+    // PERFIS PORTÁTEIS DOS LEITORES
+    // O ID do documento é SHA-256 do código de acesso.
+    // ---------------------------------------------------------
+    match /readerProfiles/{profileHash} {
+      allow get: if isProfileHash(profileHash);
       allow list: if isAdmin();
-      allow create: if true;
-      allow update: if isAdmin() || resource.data.deleted != true;
+
+      allow create: if isProfileHash(profileHash)
+        && request.resource.data.keys().hasOnly([
+          'readerId','name','createdAt','updatedAt','allowedBooks','initialBookId'
+        ])
+        && request.resource.data.readerId is string
+        && request.resource.data.readerId.size() >= 16
+        && request.resource.data.readerId.size() <= 80
+        && request.resource.data.name is string
+        && request.resource.data.name.size() >= 1
+        && request.resource.data.name.size() <= 40
+        && request.resource.data.createdAt is int
+        && request.resource.data.updatedAt is int
+        && request.resource.data.get('allowedBooks', []) is list
+        && request.resource.data.get('allowedBooks', []).size() <= 1
+        && request.resource.data.get('initialBookId', '') is string
+        && (
+          (request.resource.data.get('initialBookId', '') == ''
+            && request.resource.data.get('allowedBooks', []).size() == 0)
+          ||
+          (request.resource.data.get('initialBookId', '') != ''
+            && request.resource.data.get('allowedBooks', []).size() == 1
+            && request.resource.data.get('allowedBooks', [])[0]
+              == request.resource.data.get('initialBookId', ''))
+        );
+
+      // Admin libera livros ou transforma o perfil numa lápide de exclusão.
+      allow update: if isAdmin();
+
+      // O próprio app do leitor pode atualizar apenas nome + timestamp.
+      // readerId, livros liberados e livro inicial permanecem imutáveis.
+      allow update: if isProfileHash(profileHash)
+        && resource.data.get('deleted', false) != true
+        && request.resource.data.readerId == resource.data.readerId
+        && request.resource.data.createdAt == resource.data.createdAt
+        && request.resource.data.diff(resource.data).affectedKeys()
+          .hasOnly(['name','updatedAt'])
+        && request.resource.data.name is string
+        && request.resource.data.name.size() >= 1
+        && request.resource.data.name.size() <= 40
+        && request.resource.data.updatedAt is int;
+
+      // O app mantém uma lápide em vez de apagar o documento.
+      allow delete: if false;
+    }
+
+    // ---------------------------------------------------------
+    // RECADOS GERAIS LEGADOS
+    // ---------------------------------------------------------
+    match /announcements/{announceId} {
+      allow read: if true;
+
+      allow create: if isAdmin()
+        && request.resource.data.keys().hasOnly(['text','createdAt','authorId'])
+        && request.resource.data.text is string
+        && request.resource.data.text.size() > 0
+        && request.resource.data.text.size() <= 2000
+        && request.resource.data.createdAt is int;
+
+      allow update: if false;
       allow delete: if isAdmin();
     }
 
-    // Beta readers are intentionally not Firebase-authenticated yet.
-    // Prevent them from forging admin-role feedback; admin operations require isAdmin().
-    match /comments/{commentId} {
-      allow read: if true;
-      allow create: if isAdmin()
-        || !request.resource.data.keys().hasAny(['role'])
-        || request.resource.data.role == 'reader';
-      allow update, delete: if isAdmin()
-        || !resource.data.keys().hasAny(['role'])
-        || resource.data.role == 'reader';
-    }
-
+    // ---------------------------------------------------------
+    // MODELOS DE POPUP
+    // ---------------------------------------------------------
     match /popupTemplates/{templateId} {
-      allow read, write: if isAdmin();
+      allow read, create, update, delete: if isAdmin();
     }
 
+    // ---------------------------------------------------------
+    // POPUPS INDIVIDUAIS
+    // ---------------------------------------------------------
     match /popupMessages/{messageId} {
+      // Necessário no desenho atual porque leitores não usam Firebase Auth.
       allow read: if true;
+
       allow create, delete: if isAdmin();
-      allow update: if isAdmin()
-        || request.resource.data.diff(resource.data).affectedKeys()
-          .hasOnly(['shownAt', 'readAt', 'updatedAt']);
+      allow update: if isAdmin();
+
+      // O leitor só pode marcar uma mensagem como exibida/lida.
+      allow update: if request.resource.data.diff(resource.data).affectedKeys()
+          .hasOnly(['shownAt','readAt','updatedAt'])
+        && (request.resource.data.get('shownAt', null) == null
+          || request.resource.data.get('shownAt', null) is int)
+        && (request.resource.data.get('readAt', null) == null
+          || request.resource.data.get('readAt', null) is int)
+        && request.resource.data.updatedAt is int;
     }
 
+    // Tudo que não foi explicitamente permitido fica bloqueado.
     match /{document=**} {
       allow read, write: if false;
     }
