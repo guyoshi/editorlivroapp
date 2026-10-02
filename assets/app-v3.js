@@ -8,9 +8,20 @@ const FONT_FAMILY_KEY = "jesed:readerFontFamily";
 const HIDE_ART_KEY = "jesed:hideChapterArt";
 const THEME_KEY = "jesed:theme";
 const AUTO_AMBIENT_KEY = "jesed:autoAmbient";
-const POS_KEY = (bookId, n) => `jesed:pos:${bookId}:${n}`;
-const LASTCH_KEY = (bookId) => `jesed:last:${bookId}`;
-const DONE_KEY = (bookId, n) => `jesed:done:${bookId}:${n}`;
+const READER_ID_KEY = "jesed:readerId";
+
+// Progresso precisa pertencer ao perfil, não ao aparelho. O readerId é
+// único mesmo quando duas pessoas escolhem exatamente o mesmo nome.
+// Admin sem perfil de leitor usa um namespace próprio.
+function progressOwner(){
+  const readerId = String(localStorage.getItem(READER_ID_KEY) || "").trim();
+  if(readerId) return "reader:" + readerId;
+  if(window.Comments?.isAdmin?.()) return "admin";
+  return "guest";
+}
+const POS_KEY = (bookId, n) => `jesed:pos:${progressOwner()}:${bookId}:${n}`;
+const LASTCH_KEY = (bookId) => `jesed:last:${progressOwner()}:${bookId}`;
+const DONE_KEY = (bookId, n) => `jesed:done:${progressOwner()}:${bookId}:${n}`;
 
 function resolve(path){
   return "./" + path;
