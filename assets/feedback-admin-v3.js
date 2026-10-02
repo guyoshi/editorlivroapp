@@ -42,12 +42,13 @@
   function ensureAdminHome(){
     if(document.getElementById("authorAdminSheet"))return;
     const el=document.createElement("div");el.id="authorAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Gerencie leitores, acompanhe a leitura e centralize o feedback.</p></div><div class="admin-head-actions"><button id="authorAdminLogout" class="link-btn" type="button">Sair do admin</button><button id="authorAdminClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-home-grid"><button id="openReaderAccess" class="admin-home-card" type="button"><strong>Leitores e acessos</strong><span>Libere livros, envie popup ou remova leitores.</span></button><button id="openAnalyticsDashboard" class="admin-home-card" type="button"><strong>Relatórios beta</strong><span>Veja avanço, tempo de leitura, narração, música e preferências.</span></button><button id="openPopupDashboard" class="admin-home-card" type="button"><strong>Mensagens popup</strong><span>Veja pendentes, disparadas, lidas e seus modelos.</span></button><button id="openCommentDashboard" class="admin-home-card" type="button"><strong>Comentários</strong><span>Leia e responda ao feedback dos capítulos.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button></div></section>';
+    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Gerencie leitores, acompanhe a leitura e centralize o feedback.</p></div><div class="admin-head-actions"><button id="authorAdminLogout" class="link-btn" type="button">Sair do admin</button><button id="authorAdminClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-home-grid"><button id="openReaderAccess" class="admin-home-card" type="button"><strong>Leitores e acessos</strong><span>Libere livros, envie popup ou remova leitores.</span></button><button id="openAnalyticsDashboard" class="admin-home-card" type="button"><strong>Relatórios beta</strong><span>Veja avanço, tempo de leitura, narração, música e preferências.</span></button><button id="openBetaFeedbackDashboard" class="admin-home-card" type="button"><strong>Avaliações beta</strong><span>Capa, feedback por capítulo, opinião final e dados para IA.</span></button><button id="openPopupDashboard" class="admin-home-card" type="button"><strong>Mensagens popup</strong><span>Veja pendentes, disparadas, lidas e seus modelos.</span></button><button id="openCommentDashboard" class="admin-home-card" type="button"><strong>Comentários</strong><span>Leia e responda ao feedback dos capítulos.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button></div></section>';
     document.body.appendChild(el);
     el.querySelector("#authorAdminClose").onclick=hideAdminHome;
     el.querySelector("#authorAdminLogout").onclick=()=>{hideAdminHome();document.dispatchEvent(new CustomEvent("beta:admin-logout"));};
     el.querySelector("#openReaderAccess").onclick=()=>{hideAdminHome();showAccess();};
     el.querySelector("#openAnalyticsDashboard").onclick=()=>{hideAdminHome();showAnalytics();};
+    el.querySelector("#openBetaFeedbackDashboard").onclick=()=>{hideAdminHome();showBetaFeedbackAdmin();};
     el.querySelector("#openPopupDashboard").onclick=()=>{hideAdminHome();window.PopupMessages?.openAdmin?.();};
     el.querySelector("#openCommentDashboard").onclick=()=>{hideAdminHome();show();};
     el.onclick=e=>{if(e.target===el)hideAdminHome();};
@@ -448,6 +449,243 @@
     if(x)x.hidden=true;
   }
 
+
+  // ---------------- Avaliações beta estruturadas ----------------
+  let betaFeedbackRows=[],betaFeedbackProfiles=[],betaFeedbackAnalytics=[],betaFeedbackExportPayload=null;
+
+  function meanFeedback(values){
+    const nums=values.map(Number).filter(Number.isFinite);
+    return nums.length?nums.reduce((a,b)=>a+b,0)/nums.length:0;
+  }
+  function starsText(value){
+    const n=Math.max(0,Math.min(5,Number(value)||0));
+    return n?n.toFixed(1)+"/5":"—";
+  }
+  function countBy(rows,key){
+    const map=new Map();
+    rows.forEach(row=>{
+      const value=typeof key==="function"?key(row):row?.[key];
+      if(value)map.set(String(value),(map.get(String(value))||0)+1);
+    });
+    return [...map.entries()].sort((a,b)=>b[1]-a[1]);
+  }
+  function paceLabel(v){return v==="slow"?"Lento":v==="balanced"?"Equilibrado":v==="fast"?"Rápido":"Sem resposta";}
+  function tagLabel(v){return v==="loved"?"Gostei muito":v==="confused"?"Fiquei confuso":v==="slow"?"Ritmo lento":v;}
+
+  function ensureBetaFeedbackAdminSheet(){
+    if(document.getElementById("betaFeedbackAdminSheet"))return;
+    const el=document.createElement("div");
+    el.id="betaFeedbackAdminSheet";
+    el.className="admin-dashboard-sheet";
+    el.hidden=true;
+    el.innerHTML='<section class="admin-dashboard beta-feedback-admin">'
+      +'<header class="admin-dashboard-head"><div><h2>Avaliações beta</h2><p>Capa, capítulos, opinião final e cruzamento com comportamento de leitura.</p></div>'
+      +'<div class="admin-head-actions"><button id="betaFeedbackBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="betaFeedbackRefresh" class="link-btn" type="button">Atualizar</button><button id="betaFeedbackClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<div class="beta-feedback-admin-tools"><button id="betaFeedbackCopyJson" class="btn-ghost" type="button">Copiar JSON para IA</button><button id="betaFeedbackDownloadJson" class="btn-ghost" type="button">Baixar JSON</button><span>Exporta apenas dados de leitura e feedback. Códigos de acesso ficam de fora.</span></div>'
+      +'<div id="betaFeedbackAdminBody" class="admin-dashboard-list"><p class="admin-empty">Carregando…</p></div>'
+      +'</section>';
+    document.body.appendChild(el);
+    el.querySelector("#betaFeedbackBack").onclick=()=>{hideBetaFeedbackAdmin();showAdminHome();};
+    el.querySelector("#betaFeedbackClose").onclick=hideBetaFeedbackAdmin;
+    el.querySelector("#betaFeedbackRefresh").onclick=loadBetaFeedbackAdmin;
+    el.onclick=e=>{if(e.target===el)hideBetaFeedbackAdmin();};
+    el.querySelector("#betaFeedbackCopyJson").onclick=async()=>{
+      if(!betaFeedbackExportPayload)return;
+      const raw=JSON.stringify(betaFeedbackExportPayload,null,2);
+      try{
+        await navigator.clipboard.writeText(raw);
+        const btn=el.querySelector("#betaFeedbackCopyJson"),old=btn.textContent;
+        btn.textContent="JSON copiado!";
+        setTimeout(()=>btn.textContent=old,1500);
+      }catch(e){alert("Não foi possível copiar automaticamente. Use Baixar JSON.");}
+    };
+    el.querySelector("#betaFeedbackDownloadJson").onclick=()=>{
+      if(!betaFeedbackExportPayload)return;
+      const blob=new Blob([JSON.stringify(betaFeedbackExportPayload,null,2)],{type:"application/json"});
+      const url=URL.createObjectURL(blob),a=document.createElement("a");
+      a.href=url;a.download="beta-reading-dados-"+new Date().toISOString().slice(0,10)+".json";
+      document.body.appendChild(a);a.click();a.remove();
+      setTimeout(()=>URL.revokeObjectURL(url),1000);
+    };
+  }
+
+  function renderBetaFeedbackAdmin(){
+    const body=document.getElementById("betaFeedbackAdminBody");
+    if(!body)return;
+    const profileByReader=new Map(betaFeedbackProfiles.map(p=>[p.readerId,p]));
+    const validReaderIds=new Set(betaFeedbackProfiles.filter(p=>!p.analyticsIgnored).map(p=>p.readerId));
+    const validFeedback=betaFeedbackRows.filter(x=>validReaderIds.has(x.readerId));
+    const ignoredCount=betaFeedbackProfiles.filter(p=>p.analyticsIgnored).length;
+    const books=[...new Set(validFeedback.map(x=>x.bookId).concat(betaFeedbackAnalytics.map(x=>x.bookId)).filter(Boolean))];
+
+    const coverRows=validFeedback.filter(x=>x.type==="cover");
+    const chapterRows=validFeedback.filter(x=>x.type==="chapter");
+    const bookRows=validFeedback.filter(x=>x.type==="book");
+    const overallAvg=meanFeedback(bookRows.map(x=>x.overallRating));
+    const continueAvg=meanFeedback(bookRows.map(x=>x.continueRating));
+
+    let html='<div class="analytics-overview">'
+      +'<div class="analytics-kpi"><span>Avaliações de capa</span><strong>'+coverRows.length+'</strong><small>respostas</small></div>'
+      +'<div class="analytics-kpi"><span>Feedbacks de capítulo</span><strong>'+chapterRows.length+'</strong><small>respostas</small></div>'
+      +'<div class="analytics-kpi"><span>Opiniões finais</span><strong>'+bookRows.length+'</strong><small>livros concluídos</small></div>'
+      +'<div class="analytics-kpi"><span>Nota geral</span><strong>'+starsText(overallAvg)+'</strong><small>média da amostra</small></div>'
+      +'<div class="analytics-kpi"><span>Vontade de continuar</span><strong>'+starsText(continueAvg)+'</strong><small>métrica de série</small></div>'
+      +'</div>'
+      +'<p class="analytics-note">As médias excluem '+ignoredCount+' leitor(es) marcado(s) como ignorados nas estatísticas. As respostas continuam preservadas no banco.</p>';
+
+    if(!books.length){
+      body.innerHTML=html+'<p class="admin-empty">Ainda não há avaliações beta. Elas aparecerão aqui conforme os leitores responderem.</p>';
+      betaFeedbackExportPayload=makeBetaFeedbackExport(validFeedback,validReaderIds);
+      return;
+    }
+
+    books.forEach(bookId=>{
+      const allForBook=validFeedback.filter(x=>x.bookId===bookId);
+      const cover=allForBook.filter(x=>x.type==="cover");
+      const chapters=allForBook.filter(x=>x.type==="chapter");
+      const finals=allForBook.filter(x=>x.type==="book");
+      const bookTitle=(allForBook[0]?.bookTitle)||betaFeedbackAnalytics.find(x=>x.bookId===bookId)?.bookTitle||bookId;
+      const visualAvg=meanFeedback(cover.map(x=>x.visualRating));
+      const openAvg=meanFeedback(cover.map(x=>x.openInterestRating));
+      const coverFitAvg=meanFeedback(finals.map(x=>x.coverRepresentationRating).filter(Boolean));
+      const generalAvg=meanFeedback(finals.map(x=>x.overallRating));
+      const nextAvg=meanFeedback(finals.map(x=>x.continueRating));
+      const pace=countBy(finals,x=>paceLabel(x.pace));
+      const chars=countBy(finals,"favoriteCharacter").slice(0,5);
+
+      const analyticsForBook=betaFeedbackAnalytics.filter(x=>x.bookId===bookId&&validReaderIds.has(x.readerId));
+      const chapterNums=[...new Set(analyticsForBook.map(x=>Number(x.chapter)).concat(chapters.map(x=>Number(x.chapter))).filter(Boolean))].sort((a,b)=>a-b);
+      const chapterCross=chapterNums.map(n=>{
+        const ar=analyticsForBook.filter(x=>Number(x.chapter)===n);
+        const fr=chapters.filter(x=>Number(x.chapter)===n);
+        const timed=ar.filter(x=>x.completed&&(Number(x.activeSec)||0)>=FEATURE_MIN_SEC);
+        const tagCounts=new Map();
+        fr.forEach(row=>(row.tags||[]).forEach(tag=>tagCounts.set(tag,(tagCounts.get(tag)||0)+1)));
+        const title=fr[0]?.chapterTitle||ar[0]?.chapterTitle||"";
+        return '<article class="beta-cross-card">'
+          +'<div class="beta-cross-title"><div><strong>Cap. '+n+(title?" · "+esc(title):"")+'</strong><span>'+ar.filter(x=>x.completed).length+' concluíram · '+fr.length+' feedback(s)</span></div><b>'+(timed.length?fmtDuration(meanFeedback(timed.map(x=>x.activeSec))):"—")+' <small>média</small></b></div>'
+          +'<div class="beta-cross-tags">'
+            +([...tagCounts.entries()].length?[...tagCounts.entries()].sort((a,b)=>b[1]-a[1]).map(([tag,count])=>'<span>'+esc(tagLabel(tag))+' <b>'+count+'</b></span>').join(""):'<span>Sem marcações</span>')
+            +(fr.filter(x=>String(x.text||"").trim()).length?'<span>Comentários <b>'+fr.filter(x=>String(x.text||"").trim()).length+'</b></span>':"")
+          +'</div>'
+        +'</article>';
+      }).join("");
+
+      const finalCards=finals.length?finals.map(row=>{
+        const ignored=!!profileByReader.get(row.readerId)?.analyticsIgnored;
+        return '<article class="beta-response-card'+(ignored?" is-ignored":"")+'">'
+          +'<div class="beta-response-head"><strong>'+esc(row.name||"Leitor")+'</strong><span>★ '+esc(row.overallRating)+'/5 · Próximo '+esc(row.continueRating)+'/5</span></div>'
+          +(row.favoriteCharacter?'<p><b>Personagem favorito:</b> '+esc(row.favoriteCharacter)+'</p>':"")
+          +(row.memorableMoment?'<p><b>Momento mais memorável:</b> '+esc(row.memorableMoment)+'</p>':"")
+          +(row.hookMoment?'<p><b>Quando precisou continuar:</b> '+esc(row.hookMoment)+'</p>':"")
+          +(row.difficultPart?'<p><b>Parte confusa/cansativa:</b> '+esc(row.difficultPart)+'</p>':"")
+          +(row.finalComment?'<p><b>Opinião final:</b> '+esc(row.finalComment)+'</p>':"")
+        +'</article>';
+      }).join(""):'<p class="admin-empty">Ainda não há opiniões finais deste livro.</p>';
+
+      const coverNotes=cover.filter(x=>String(x.note||"").trim()).map(row=>'<div class="beta-mini-quote"><strong>'+esc(row.name||"Leitor")+'</strong><span>'+esc(row.note)+'</span></div>').join("");
+
+      html+='<section class="analytics-section beta-book-report">'
+        +'<div class="analytics-section-head"><h3>'+esc(bookTitle)+'</h3><span>'+allForBook.length+' resposta(s) estruturada(s)</span></div>'
+        +'<div class="beta-book-score-grid">'
+          +'<div><span>Visual da capa</span><strong>'+starsText(visualAvg)+'</strong><small>'+cover.length+' respostas</small></div>'
+          +'<div><span>Faria abrir</span><strong>'+starsText(openAvg)+'</strong><small>força de clique</small></div>'
+          +'<div><span>Capa representa</span><strong>'+starsText(coverFitAvg)+'</strong><small>após a leitura</small></div>'
+          +'<div><span>Nota do livro</span><strong>'+starsText(generalAvg)+'</strong><small>'+finals.length+' respostas</small></div>'
+          +'<div><span>Quer continuar</span><strong>'+starsText(nextAvg)+'</strong><small>próximo livro</small></div>'
+        +'</div>'
+        +'<div class="beta-feedback-distributions">'
+          +'<div><h4>Ritmo</h4>'+(pace.length?pace.map(([label,count])=>'<span>'+esc(label)+' <b>'+count+'</b></span>').join(""):'<span>Sem respostas</span>')+'</div>'
+          +'<div><h4>Personagens favoritos</h4>'+(chars.length?chars.map(([label,count])=>'<span>'+esc(label)+' <b>'+count+'</b></span>').join(""):'<span>Sem respostas</span>')+'</div>'
+        +'</div>'
+        +(coverNotes?'<details class="beta-report-details"><summary>Comentários sobre a capa ('+cover.filter(x=>String(x.note||"").trim()).length+')</summary>'+coverNotes+'</details>':"")
+        +'<details class="beta-report-details" open><summary>Capítulos: comportamento + feedback</summary><div class="beta-cross-list">'+(chapterCross||'<p class="admin-empty">Ainda não há dados de capítulo.</p>')+'</div></details>'
+        +'<details class="beta-report-details"><summary>Opiniões finais ('+finals.length+')</summary>'+finalCards+'</details>'
+      +'</section>';
+    });
+
+    body.innerHTML=html;
+    betaFeedbackExportPayload=makeBetaFeedbackExport(validFeedback,validReaderIds);
+  }
+
+  function makeBetaFeedbackExport(validFeedback,validReaderIds){
+    const analytics=betaFeedbackAnalytics.filter(x=>validReaderIds.has(x.readerId)).map(x=>({
+      readerId:x.readerId,
+      name:x.name||"",
+      bookId:x.bookId,
+      bookTitle:x.bookTitle||"",
+      chapter:Number(x.chapter)||0,
+      chapterTitle:x.chapterTitle||"",
+      currentPct:Number(x.currentPct)||0,
+      activeSec:Number(x.activeSec)||0,
+      narrationSec:Number(x.narrationSec)||0,
+      musicSec:Number(x.musicSec)||0,
+      completed:!!x.completed
+    }));
+    const feedback=validFeedback.map(x=>{
+      const copy={...x};
+      delete copy.id;
+      delete copy.profileHash;
+      return copy;
+    });
+    return {
+      schemaVersion:1,
+      generatedAt:new Date().toISOString(),
+      purpose:"Dados estruturados de beta reading para análise narrativa e de experiência.",
+      definitions:{
+        activeSec:"Tempo ativo medido no capítulo; não equivale necessariamente a leitura ocular.",
+        cover_visualRating:"Avaliação visual da capa, 1 a 5.",
+        cover_openInterestRating:"Quanto a capa faria o leitor abrir o livro sem conhecer a história, 1 a 5.",
+        book_overallRating:"Nota geral do livro, 1 a 5.",
+        book_continueRating:"Vontade de continuar para o próximo livro, 1 a 5.",
+        book_coverRepresentationRating:"Quanto a capa representa a história após a leitura, 0 a 5.",
+        chapter_tags:["loved=Gostei muito","confused=Fiquei confuso","slow=Ritmo lento"]
+      },
+      feedback,
+      chapterAnalytics:analytics
+    };
+  }
+
+  async function loadBetaFeedbackAdmin(){
+    const body=document.getElementById("betaFeedbackAdminBody");
+    if(!body||!db())return;
+    body.innerHTML='<p class="admin-empty">Cruzando respostas com os dados de leitura…</p>';
+    try{
+      const [profiles,feedbackSnap,analyticsSnap]=await Promise.all([
+        Comments.listReaderProfiles(),
+        db().collection("betaFeedback").get(),
+        db().collection("readerAnalytics").get()
+      ]);
+      betaFeedbackProfiles=profiles;
+      betaFeedbackRows=[];
+      feedbackSnap.forEach(d=>betaFeedbackRows.push({id:d.id,...d.data()}));
+      const analyticsSummaries=[];
+      analyticsSnap.forEach(d=>analyticsSummaries.push({id:d.id,...d.data()}));
+      betaFeedbackAnalytics=[];
+      await Promise.all(analyticsSummaries.map(async summary=>{
+        try{
+          const snap=await db().collection("readerAnalytics").doc(summary.readerId||summary.id).collection("chapters").get();
+          snap.forEach(d=>betaFeedbackAnalytics.push({readerId:summary.readerId||summary.id,name:summary.name||"",...d.data()}));
+        }catch(e){console.warn("Falha ao cruzar capítulos do leitor:",e);}
+      }));
+      renderBetaFeedbackAdmin();
+    }catch(e){
+      console.warn("Não foi possível carregar avaliações beta:",e);
+      body.innerHTML='<p class="admin-empty">Não foi possível carregar as avaliações. Confira se as Rules mais recentes do Firestore foram publicadas.</p>';
+    }
+  }
+
+  function showBetaFeedbackAdmin(){
+    if(!Comments?.isAdmin?.())return;
+    ensureBetaFeedbackAdminSheet();
+    document.getElementById("betaFeedbackAdminSheet").hidden=false;
+    loadBetaFeedbackAdmin();
+  }
+  function hideBetaFeedbackAdmin(){
+    const x=document.getElementById("betaFeedbackAdminSheet");
+    if(x)x.hidden=true;
+  }
+
   // ---------------- Exclusão segura de leitor ----------------
   let pendingDeleteProfile=null;
   let deletingReader=false;
@@ -649,7 +887,7 @@
   function showAccess(){if(!Comments?.isAdmin?.())return;ensureAccessSheet();document.getElementById("bookAccessSheet").hidden=false;renderAccess();}
   function hideAccess(){const x=document.getElementById("bookAccessSheet");if(x)x.hidden=true;}
 
-  document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on)subscribe();else{stop();hide();hideAccess();hideAnalytics();hideAdminHome();}});
+  document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on)subscribe();else{stop();hide();hideAccess();hideAnalytics();hideBetaFeedbackAdmin();hideAdminHome();}});
   document.addEventListener("beta:admin-home",()=>{if(Comments?.isAdmin?.())showAdminHome();});
-  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureDeleteReaderConfirm();if(Comments?.isAdmin?.())subscribe();});
+  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureBetaFeedbackAdminSheet();ensureDeleteReaderConfirm();if(Comments?.isAdmin?.())subscribe();});
 })();
