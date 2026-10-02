@@ -603,7 +603,10 @@ const Comments = (() => {
         authReady=true;
         emitAdminState();
         setStatus("Acesso autorizado.");
-        setTimeout(close,250);
+        setTimeout(()=>{
+          close();
+          document.dispatchEvent(new CustomEvent("beta:admin-home"));
+        },250);
       }catch(e){
         setStatus(adminAuthMessage(e),true);
       }finally{
@@ -659,22 +662,39 @@ const Comments = (() => {
     el.id="readerSwitchSheet";
     el.className="sheet";
     el.hidden=true;
-    el.innerHTML='<div class="sheet-card">'
+    el.innerHTML='<div class="sheet-card reader-switch-card">'
       +'<h2>Trocar usuário</h2>'
-      +'<p class="sheet-hint">Entre com o código de acesso de outro perfil. O perfil atual neste aparelho será substituído pelo perfil desse código.</p>'
       +'<p id="readerSwitchCurrent" class="reader-switch-current"></p>'
+      +'<div class="reader-switch-section">'
+      +'<strong>Entrar em outro perfil</strong>'
+      +'<p class="sheet-hint">Use o código de acesso de um perfil que já existe.</p>'
       +'<label class="field"><span>Código de acesso</span><input id="readerSwitchCode" type="text" inputmode="text" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="ex.: DE2E40" maxlength="24"></label>'
       +'<p id="readerSwitchStatus" class="reader-code-status" aria-live="polite"></p>'
-      +'<div class="sheet-actions">'
-      +'<button id="readerSwitchSubmit" class="btn-primary" type="button">Entrar com outro código</button>'
-      +'<button id="readerSwitchCancel" class="btn-ghost" type="button">Cancelar</button>'
+      +'<button id="readerSwitchSubmit" class="btn-primary reader-switch-wide" type="button">Entrar com outro código</button>'
       +'</div>'
+      +'<div class="reader-switch-section">'
+      +'<strong>Novo perfil</strong>'
+      +'<p class="sheet-hint">Crie outro usuário neste aparelho. O perfil atual não será apagado e poderá ser recuperado pelo código dele.</p>'
+      +'<button id="readerSwitchCreate" class="btn-ghost reader-switch-wide" type="button">Criar novo usuário</button>'
+      +'</div>'
+      +'<div class="reader-switch-section reader-switch-admin-section">'
+      +'<strong>Autor</strong>'
+      +'<button id="readerSwitchAdmin" class="btn-ghost reader-switch-wide" type="button">Entrar como administrador</button>'
+      +'</div>'
+      +'<div class="sheet-actions"><button id="readerSwitchCancel" class="btn-ghost" type="button">Fechar</button></div>'
       +'</div>';
     document.body.appendChild(el);
 
     const input=el.querySelector("#readerSwitchCode");
     const status=el.querySelector("#readerSwitchStatus");
     const submit=el.querySelector("#readerSwitchSubmit");
+    const adminBtn=el.querySelector("#readerSwitchAdmin");
+
+    const refreshAdminButton=()=>{
+      adminBtn.textContent=admin()?"Abrir painel do autor":"Entrar como administrador";
+      adminBtn.classList.toggle("active",admin());
+    };
+
     const close=()=>{
       el.hidden=true;
       input.value="";
@@ -704,6 +724,24 @@ const Comments = (() => {
 
     submit.addEventListener("click",go);
     input.addEventListener("keydown",e=>{if(e.key==="Enter")go();});
+
+    el.querySelector("#readerSwitchCreate").addEventListener("click",()=>{
+      close();
+      clearReaderIdentity();
+      location.reload();
+    });
+
+    adminBtn.addEventListener("click",()=>{
+      close();
+      if(admin()){
+        document.dispatchEvent(new CustomEvent("beta:admin-home"));
+      }else{
+        openAdminLoginSheet();
+      }
+    });
+
+    document.addEventListener("beta:admin",refreshAdminButton);
+    refreshAdminButton();
     return el;
   }
 
@@ -712,17 +750,25 @@ const Comments = (() => {
     if(!btn)return;
 
     const refresh=()=>{
-      btn.hidden=!name();
-      btn.title=name()?"Trocar usuário / código":"Entrar com código";
-      btn.setAttribute("aria-label",btn.title);
+      btn.hidden=false;
+      btn.title="Trocar usuário";
+      btn.setAttribute("aria-label","Trocar usuário");
     };
 
     btn.addEventListener("click",()=>{
       const el=ensureReaderSwitchSheet();
       const current=el.querySelector("#readerSwitchCurrent");
+      const adminBtn=el.querySelector("#readerSwitchAdmin");
+
       current.textContent=name()
         ? "Perfil atual: "+name()+(accessCode()?" · #"+accessCode():"")
-        : "Nenhum perfil ativo neste aparelho.";
+        : "Nenhum perfil de leitor ativo neste aparelho.";
+
+      if(adminBtn){
+        adminBtn.textContent=admin()?"Abrir painel do autor":"Entrar como administrador";
+        adminBtn.classList.toggle("active",admin());
+      }
+
       el.hidden=false;
       setTimeout(()=>el.querySelector("#readerSwitchCode")?.focus(),0);
     });
@@ -734,27 +780,15 @@ const Comments = (() => {
 
   function wireSettings(){
     const n=document.getElementById("cfgName"),box=document.getElementById("adminBox"),all=document.getElementById("cfgShowAll");
-    const toggle=document.getElementById("btnAdminTop"),settings=document.getElementById("btnSettings"),save=document.getElementById("cfgSave");
+    const settings=document.getElementById("btnSettings"),save=document.getElementById("cfgSave");
     if(!n)return;
     async function refresh(){
       if(admin()){
         box.hidden=false;
-        if(toggle){
-          toggle.classList.add("active");
-          toggle.setAttribute("aria-pressed","true");
-          toggle.setAttribute("aria-label","Abrir painel do autor");
-          toggle.title="Abrir painel do autor";
-        }
         if(enabled){try{const d=await db.collection("config").doc("settings").get();showAll=d.exists&&!!d.data().showAllComments;}catch(e){}all.checked=showAll;}
         document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:true}}));
       }else{
         box.hidden=true;
-        if(toggle){
-          toggle.classList.remove("active");
-          toggle.setAttribute("aria-pressed","false");
-          toggle.setAttribute("aria-label","Entrar no modo admin");
-          toggle.title="Entrar no modo admin";
-        }
         document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:false}}));
       }
     }
@@ -763,15 +797,6 @@ const Comments = (() => {
       if(!admin())return;
       document.dispatchEvent(new CustomEvent("beta:popup-admin"));
     });
-    toggle?.addEventListener("click",async()=>{
-      if(!auth){alert("Login de admin indisponível neste momento.");return;}
-      if(admin()){
-        document.dispatchEvent(new CustomEvent("beta:admin-home"));
-        return;
-      }
-      openAdminLoginSheet();
-    });
-
     document.addEventListener("beta:admin-logout",async()=>{
       if(!auth||!admin())return;
       await auth.signOut();
