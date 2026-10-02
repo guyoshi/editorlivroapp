@@ -136,6 +136,8 @@ const Comments = (() => {
     }
   }
   function emitAdminState(){
+    const nameSheet=document.getElementById("nameSheet");
+    if(nameSheet&&!name()) nameSheet.hidden=admin();
     document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:admin()}}));
     render();
     updateIdentityBar();
@@ -190,7 +192,7 @@ const Comments = (() => {
         +'<div class="top-nav-intro-grid">'
         +'<div class="top-nav-intro-item">'+topNavIcon("hub")+'<div><strong>Minha central</strong><span>Seu perfil, código de acesso, novas respostas do autor e suas anotações.</span></div></div>'
         +'<div class="top-nav-intro-item">'+topNavIcon("settings")+'<div><strong>Ajustes</strong><span>Tema, fonte, imagens dos capítulos e preferências de música.</span></div></div>'
-        +'<div class="top-nav-intro-item">'+topNavIcon("switch")+'<div><strong>Trocar usuário</strong><span>Entre com outro código, crie um novo perfil ou acesse a área de administrador.</span></div></div>'
+        +'<div class="top-nav-intro-item">'+topNavIcon("switch")+'<div><strong>Trocar usuário</strong><span>Entre com outro código ou crie um novo perfil neste aparelho.</span></div></div>'
         +'</div>'
         +'<div class="sheet-actions"><button id="topNavIntroOk" class="btn-primary" type="button">Entendi</button></div>'
         +'</div>';
@@ -498,7 +500,7 @@ const Comments = (() => {
 
   function wireName(){
     const sheet=document.getElementById("nameSheet"),input=document.getElementById("nameInput"),save=document.getElementById("nameSave");
-    const useCode=document.getElementById("nameUseCode"),codeBox=document.getElementById("nameCodeBox");
+    const useCode=document.getElementById("nameUseCode"),adminLogin=document.getElementById("nameAdminLogin"),codeBox=document.getElementById("nameCodeBox");
     const codeInput=document.getElementById("nameCodeInput"),codeLogin=document.getElementById("nameCodeLogin"),codeStatus=document.getElementById("nameCodeStatus");
     const bookField=document.getElementById("initialBookField"),bookPicker=document.getElementById("initialBookPicker");
     if(!sheet||!input||!save)return;
@@ -575,11 +577,30 @@ const Comments = (() => {
     save.addEventListener("click",go);
     input.addEventListener("keydown",e=>{if(e.key==="Enter")go();});
 
+    const resetNameChoice=()=>{
+      if(codeBox)codeBox.hidden=true;
+      if(bookField)bookField.hidden=false;
+      save.hidden=false;
+      if(codeStatus){
+        codeStatus.textContent="";
+        codeStatus.classList.remove("error");
+      }
+      if(codeInput)codeInput.value="";
+    };
+
     useCode?.addEventListener("click",()=>{
       codeBox.hidden=false;
       if(bookField)bookField.hidden=true;
       save.hidden=true;
       codeInput?.focus();
+    });
+    adminLogin?.addEventListener("click",()=>{
+      resetNameChoice();
+      sheet.hidden=true;
+      openAdminLoginSheet({returnToName:true});
+    });
+    sheet.addEventListener("click",e=>{
+      if(e.target===sheet&&codeBox&&!codeBox.hidden) resetNameChoice();
     });
     codeLogin?.addEventListener("click",async()=>{
       if(!codeInput?.value.trim()) return codeInput?.focus();
@@ -643,9 +664,15 @@ const Comments = (() => {
       status.classList.toggle("error",!!isError);
     };
     const close=()=>{
+      const returnToName=el.dataset.returnToName==="1";
       el.hidden=true;
+      el.dataset.returnToName="";
       pass.value="";
       setStatus("");
+      if(returnToName&&!name()&&!admin()){
+        const nameSheet=document.getElementById("nameSheet");
+        if(nameSheet)nameSheet.hidden=false;
+      }
     };
 
     el.querySelector("#adminLoginCancel").addEventListener("click",close);
@@ -708,9 +735,10 @@ const Comments = (() => {
     return el;
   }
 
-  function openAdminLoginSheet(){
+  function openAdminLoginSheet({returnToName=false}={}){
     if(!auth){alert("Login de admin indisponível neste momento.");return;}
     const el=ensureAdminLoginSheet();
+    el.dataset.returnToName=returnToName?"1":"";
     const email=el.querySelector("#adminLoginEmail");
     const pass=el.querySelector("#adminLoginPassword");
     const status=el.querySelector("#adminLoginStatus");
@@ -745,10 +773,7 @@ const Comments = (() => {
       +'<p class="sheet-hint">Crie outro usuário neste aparelho. O perfil atual não será apagado e poderá ser recuperado pelo código dele.</p>'
       +'<button id="readerSwitchCreate" class="btn-ghost reader-switch-wide" type="button">Criar novo usuário</button>'
       +'</div>'
-      +'<div class="reader-switch-section reader-switch-admin-section">'
-      +'<strong>Autor</strong>'
-      +'<button id="readerSwitchAdmin" class="btn-ghost reader-switch-wide" type="button">Entrar como administrador</button>'
-      +'</div>'
+
       +'<div class="sheet-actions"><button id="readerSwitchCancel" class="btn-ghost" type="button">Fechar</button></div>'
       +'</div>';
     document.body.appendChild(el);
@@ -756,12 +781,6 @@ const Comments = (() => {
     const input=el.querySelector("#readerSwitchCode");
     const status=el.querySelector("#readerSwitchStatus");
     const submit=el.querySelector("#readerSwitchSubmit");
-    const adminBtn=el.querySelector("#readerSwitchAdmin");
-
-    const refreshAdminButton=()=>{
-      adminBtn.textContent=admin()?"Abrir painel do autor":"Entrar como administrador";
-      adminBtn.classList.toggle("active",admin());
-    };
 
     const close=()=>{
       el.hidden=true;
@@ -799,17 +818,6 @@ const Comments = (() => {
       location.reload();
     });
 
-    adminBtn.addEventListener("click",()=>{
-      close();
-      if(admin()){
-        document.dispatchEvent(new CustomEvent("beta:admin-home"));
-      }else{
-        openAdminLoginSheet();
-      }
-    });
-
-    document.addEventListener("beta:admin",refreshAdminButton);
-    refreshAdminButton();
     return el;
   }
 
@@ -826,16 +834,10 @@ const Comments = (() => {
     btn.addEventListener("click",()=>{
       const el=ensureReaderSwitchSheet();
       const current=el.querySelector("#readerSwitchCurrent");
-      const adminBtn=el.querySelector("#readerSwitchAdmin");
 
       current.textContent=name()
         ? "Perfil atual: "+name()+(accessCode()?" · #"+accessCode():"")
         : "Nenhum perfil de leitor ativo neste aparelho.";
-
-      if(adminBtn){
-        adminBtn.textContent=admin()?"Abrir painel do autor":"Entrar como administrador";
-        adminBtn.classList.toggle("active",admin());
-      }
 
       el.hidden=false;
       setTimeout(()=>el.querySelector("#readerSwitchCode")?.focus(),0);
