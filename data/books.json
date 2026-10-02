@@ -11,6 +11,13 @@
       "title": "Guerras de Sangue",
       "subtitle": "Ciclo de Jesed — Livro 2",
       "manifest": "data/guerras-de-sangue.json"
+    },
+    {
+      "id": "dinastia-polar",
+      "title": "Dinastia Polar",
+      "subtitle": "Ciclo de Jesed",
+      "manifest": "data/dinastia-polar.json",
+      "signupAvailable": false
     }
   ]
 }
