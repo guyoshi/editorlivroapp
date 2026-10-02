@@ -50,6 +50,18 @@
             <button id="readerHubClose" type="button" class="icon-btn" aria-label="Fechar">✕</button>
           </header>
 
+          <div class="reader-access-card">
+            <div class="reader-access-copy">
+              <span>Código de acesso</span>
+              <strong id="readerAccessCode">Gerando…</strong>
+              <small>Use este código para entrar no seu perfil em outro aparelho. Não compartilhe publicamente.</small>
+            </div>
+            <div class="reader-access-actions">
+              <button id="readerAccessCopy" type="button">Copiar código</button>
+              <button id="readerAccessSwitch" type="button">Entrar com outro código</button>
+            </div>
+          </div>
+
           <div id="readerHubStats" class="reader-hub-stats"></div>
 
           <div class="reader-hub-filters">
@@ -84,6 +96,40 @@
     if(btn && !btn.dataset.readerHubWired){
       btn.dataset.readerHubWired = "1";
       btn.addEventListener("click", open);
+    }
+
+    const copyBtn=document.getElementById("readerAccessCopy");
+    if(copyBtn && !copyBtn.dataset.wired){
+      copyBtn.dataset.wired="1";
+      copyBtn.addEventListener("click",async()=>{
+        const code=window.Comments?.getAccessCode?.()||"";
+        if(!code)return;
+        try{
+          await navigator.clipboard.writeText(code);
+          copyBtn.textContent="Copiado!";
+          setTimeout(()=>copyBtn.textContent="Copiar código",1400);
+        }catch(e){
+          prompt("Copie seu código de acesso:",code);
+        }
+      });
+    }
+
+    const switchBtn=document.getElementById("readerAccessSwitch");
+    if(switchBtn && !switchBtn.dataset.wired){
+      switchBtn.dataset.wired="1";
+      switchBtn.addEventListener("click",async()=>{
+        const code=prompt("Digite o código de acesso do perfil:");
+        if(!code)return;
+        switchBtn.disabled=true;
+        try{
+          const profile=await window.Comments?.loginWithCode?.(code);
+          alert("Perfil encontrado: "+profile.name);
+          location.reload();
+        }catch(e){
+          alert(e.message||"Não foi possível entrar com esse código.");
+          switchBtn.disabled=false;
+        }
+      });
     }
   }
 
@@ -319,6 +365,8 @@
       identity.textContent = (window.Comments?.getUserName?.() || "Leitor") +
         " · perfil #" + shortId(window.Comments?.getUserId?.());
     }
+    const codeEl=document.getElementById("readerAccessCode");
+    if(codeEl) codeEl.textContent=window.Comments?.getAccessCode?.()||"Indisponível";
 
     fillBookFilter();
     renderStats();
@@ -349,6 +397,7 @@
     document.body.classList.add("reader-hub-open");
     const list = document.getElementById("readerHubList");
     list.innerHTML = '<div class="reader-hub-empty"><span>Carregando suas anotações…</span></div>';
+    try{await window.Comments?.ensureAccessProfile?.();}catch(e){console.warn("Código de acesso indisponível:",e);}
     await refresh();
 
     // Abrir a central significa que o leitor teve acesso às respostas.
