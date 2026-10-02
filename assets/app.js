@@ -38,18 +38,30 @@ function showView(name){
 }
 
 // ---------------- Biblioteca ----------------
+let allBooksCache = null;
 async function loadLibrary(){
   const listEl = $("#bookList");
-  try{
-    const res = await fetch(resolve("data/books.json"), {cache:"no-cache"});
-    const data = await res.json();
-    state.books = data.books || [];
-  }catch(e){
-    listEl.innerHTML = `<p class="empty-hint">Não consegui carregar a biblioteca. Confira o endereço em Ajustes (⚙).</p>`;
-    return;
+  if(!allBooksCache){
+    try{
+      const res = await fetch(resolve("data/books.json"), {cache:"no-cache"});
+      const data = await res.json();
+      allBooksCache = data.books || [];
+    }catch(e){
+      listEl.innerHTML = `<p class="empty-hint">Não consegui carregar a biblioteca. Tente novamente em breve.</p>`;
+      return;
+    }
   }
+
+  // Controle de acesso: leitor novo não vê nenhum livro até o admin liberar.
+  // Admin (ou se o recurso de comentários estiver desligado) vê tudo.
+  let allowed = null;
+  try{ allowed = await window.Comments?.getAllowedBooks?.() ?? null; }catch(e){ allowed = []; }
+  state.books = (allowed===null) ? allBooksCache.slice() : allBooksCache.filter(b=>allowed.includes(b.id));
+
   if(!state.books.length){
-    listEl.innerHTML = `<p class="empty-hint">Nenhum livro cadastrado ainda.</p>`;
+    listEl.innerHTML = allowed===null
+      ? `<p class="empty-hint">Nenhum livro cadastrado ainda.</p>`
+      : `<p class="empty-hint">Você ainda não tem nenhum livro liberado. Peça ao administrador para liberar o acesso a um livro.</p>`;
     return;
   }
   listEl.innerHTML = state.books.map(b => `
@@ -665,3 +677,8 @@ initPlayerControls();
 initSettings();
 initReaderZoom();
 loadLibrary();
+// Re-filtra a biblioteca quando o status de admin ou o perfil do leitor
+// mudar (ex.: autenticação admin resolve async, login por código, etc.)
+document.addEventListener("beta:admin", loadLibrary);
+document.addEventListener("beta:profile-login", loadLibrary);
+document.addEventListener("beta:profile-ready", loadLibrary);
