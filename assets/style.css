@@ -712,3 +712,53 @@ body.reader-hub-open{ overflow:hidden; }
   .reader-access-actions{ flex-direction:row; }
   .reader-access-actions button{ flex:1; white-space:normal; }
 }
+
+
+/* ================= Mensagens popup do autor ================= */
+.popup-admin-tabs{
+  display:grid; grid-template-columns:1fr 1fr; gap:7px; padding:10px 12px 0;
+}
+.popup-admin-tabs button{
+  border:1px solid var(--line); border-radius:10px; padding:9px 10px;
+  background:var(--bg-elev); color:var(--ink-soft); font:inherit; font-size:.76rem; font-weight:700; cursor:pointer;
+}
+.popup-admin-tabs button.active{
+  color:var(--accent); border-color:color-mix(in srgb,var(--accent) 55%,var(--line));
+  background:color-mix(in srgb,var(--accent) 10%,var(--bg-elev));
+}
+.popup-admin-tools{
+  display:flex; flex-wrap:wrap; gap:7px; padding:10px 12px; border-bottom:1px solid var(--line);
+}
+.popup-admin-tools .btn-primary,.popup-admin-tools .btn-ghost{ font-size:.72rem; padding:8px 10px; }
+.popup-message-card h3,.popup-template-card h3{
+  margin:9px 0 5px; font-family:var(--serif); font-size:.94rem;
+}
+.popup-message-text{ white-space:pre-wrap; }
+.popup-message-times{
+  display:flex; flex-wrap:wrap; gap:5px 12px; margin-top:8px; color:var(--ink-soft); font-size:.65rem;
+}
+.popup-status{
+  display:inline-flex; align-items:center; border-radius:999px; padding:3px 7px; font-size:.62rem; font-weight:800; white-space:nowrap;
+}
+.popup-status.pending{ background:color-mix(in srgb,#bf8b2e 17%,transparent); color:#a96f12; }
+.popup-status.shown{ background:color-mix(in srgb,var(--accent) 17%,transparent); color:var(--accent); }
+.popup-status.read{ background:color-mix(in srgb,#4c8b5b 17%,transparent); color:#4c8b5b; }
+.popup-compose-form{
+  flex:1; overflow:auto; padding:14px 14px max(28px,env(safe-area-inset-bottom));
+}
+.popup-compose-form textarea,.popup-compose-form select{
+  width:100%; box-sizing:border-box; border:1px solid var(--line); border-radius:10px;
+  background:var(--bg-elev); color:var(--ink); font:inherit; padding:10px;
+}
+.popup-compose-form textarea{ resize:vertical; min-height:150px; line-height:1.45; }
+.popup-template-status,.popup-compose-note{
+  margin:5px 0 12px; color:var(--ink-soft); font-size:.7rem; line-height:1.4;
+}
+.popup-compose-note{
+  padding:9px 10px; border-radius:9px; background:var(--focus-bg); border:1px solid var(--line);
+}
+.popup-reader-card{ max-height:min(78dvh,620px); overflow:auto; }
+.popup-reader-message strong{
+  display:block; margin-bottom:5px; color:var(--accent); font-family:var(--serif);
+}
+#popupMessageFilters[hidden]{ display:none; }
