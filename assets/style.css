@@ -1021,3 +1021,103 @@ body.focus-mode .para-actions{ display:none !important; }
   border-color:var(--accent);
   background:color-mix(in srgb,var(--accent) 10%,var(--bg-elev));
 }
+
+
+/* ---------- perfil da Minha central ---------- */
+.reader-profile-content{ padding:10px 12px 12px; }
+.reader-profile-name-field{ margin:0 0 10px; }
+.reader-profile-name-row{
+  display:flex;
+  gap:7px;
+  align-items:center;
+}
+.reader-profile-name-row input{
+  flex:1;
+  min-width:0;
+  border:1px solid var(--line);
+  border-radius:9px;
+  background:var(--bg);
+  color:var(--ink);
+  font:inherit;
+  padding:9px 10px;
+}
+.reader-profile-name-row button{
+  flex:0 0 auto;
+  border:1px solid var(--line);
+  border-radius:9px;
+  background:var(--focus-bg);
+  color:var(--ink);
+  font:inherit;
+  font-size:.72rem;
+  font-weight:700;
+  padding:9px 11px;
+  cursor:pointer;
+}
+.reader-profile-name-status{
+  display:block;
+  min-height:1.2em;
+  margin-top:5px;
+  color:var(--ink-soft);
+  font-size:.66rem;
+}
+.reader-profile-name-status.error{ color:#b63f3f; }
+.reader-profile-content .reader-access-card{
+  margin:0;
+  padding:10px 0 0;
+  border:0;
+  border-top:1px solid var(--line);
+  border-radius:0;
+}
+.reader-profile-card{
+  order:0;
+  margin:9px 12px 10px;
+}
+.reader-hub-primary{ order:1; }
+.reader-hub-filters{ order:2; }
+.reader-hub-list{ order:3; }
+
+/* ---------- tutorial dos botões do topo ---------- */
+.top-nav-intro-card{ max-width:620px; margin:0 auto; }
+.top-nav-intro-grid{
+  display:grid;
+  gap:10px;
+  margin:14px 0 4px;
+}
+.top-nav-intro-item{
+  display:grid;
+  grid-template-columns:46px 1fr;
+  align-items:center;
+  gap:11px;
+  padding:10px 11px;
+  border:1px solid var(--line);
+  border-radius:12px;
+  background:var(--focus-bg);
+}
+.top-nav-intro-item>div:last-child{
+  display:flex;
+  flex-direction:column;
+  gap:2px;
+}
+.top-nav-intro-item strong{ font-size:.84rem; color:var(--ink); }
+.top-nav-intro-item span:not(.top-nav-intro-icon){
+  color:var(--ink-soft);
+  font-size:.76rem;
+  line-height:1.42;
+}
+.top-nav-intro-icon{
+  width:42px;
+  height:42px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:var(--bg-elev);
+  color:var(--ink-soft);
+  border:1px solid var(--line);
+}
+.top-nav-intro-icon svg{ width:21px; height:21px; }
+
+@media(max-width:520px){
+  .reader-profile-name-row{ align-items:stretch; flex-direction:column; }
+  .reader-profile-name-row button{ width:100%; }
+}
