@@ -344,7 +344,6 @@
     if(!keys.length)return;
     batch.set(summaryRef,{
       ...summaryBase(id,stamp),
-      lastActiveAt:stamp,
       completedChapters:FV.arrayUnion(...keys),
       ...prefs()
     },{merge:true});
