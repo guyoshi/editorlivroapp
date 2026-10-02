@@ -5,6 +5,12 @@
       "title": "Ruínas dos Céus",
       "subtitle": "Ciclo de Jesed — Livro 1",
       "manifest": "data/ruinas-dos-ceus.json"
+    },
+    {
+      "id": "guerras-de-sangue",
+      "title": "Guerras de Sangue",
+      "subtitle": "Ciclo de Jesed — Livro 2",
+      "manifest": "data/guerras-de-sangue.json"
     }
   ]
 }
