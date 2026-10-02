@@ -567,6 +567,13 @@ body.focus-mode .reaction-picker{ display:none !important; }
 
 /* ================= Central do Leitor ================= */
 .reader-hub-launch{ position:relative; }
+.admin-top-btn{ position:relative; }
+.admin-top-btn.active{
+  color:var(--accent);
+  background:color-mix(in srgb,var(--accent) 12%,transparent);
+}
+.admin-head-actions{ display:flex; align-items:center; gap:6px; }
+.admin-head-actions .link-btn{ margin:0; white-space:nowrap; }
 .reader-hub-launch-badge{
   position:absolute; top:1px; right:0; min-width:16px; height:16px; padding:0 4px;
   border-radius:999px; display:flex; align-items:center; justify-content:center;
@@ -769,3 +776,7 @@ body.reader-hub-open{ overflow:hidden; }
   display:block; margin-bottom:5px; color:var(--accent); font-family:var(--serif);
 }
 #popupMessageFilters[hidden]{ display:none; }
+
+/* estado dos players: nunca exibir ícones ocultos simultaneamente */
+.play-btn svg[hidden],
+.ambient-player-btn svg[hidden]{ display:none !important; }
