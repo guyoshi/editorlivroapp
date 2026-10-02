@@ -56,8 +56,9 @@
   function ensureSheet(){
     if(document.getElementById("commentAdminSheet"))return;
     const el=document.createElement("div");el.id="commentAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Central de comentários</h2><p>Novos primeiro. Responda, resolva ou vá direto ao trecho.</p></div><button id="adminDashClose" class="icon-btn" type="button">✕</button></header><div class="admin-dashboard-filters"><select id="afStatus"><option value="all">Todos</option><option value="new">Novos</option><option value="open">Em aberto</option><option value="resolved">Resolvidos</option></select><select id="afBook"><option value="">Todos os livros</option></select><select id="afChapter"><option value="">Todos os capítulos</option></select><select id="afAuthor"><option value="">Todos os leitores</option></select><input id="afSearch" type="search" placeholder="Buscar comentário…"></div><div class="admin-dashboard-bulk"><button id="afMarkReadAll" type="button" class="link-btn">Marcar exibidos como lidos</button><button id="afMarkUnreadAll" type="button" class="link-btn">Marcar exibidos como não lidos</button></div><div id="adminDashboardList" class="admin-dashboard-list"></div></section>';
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Central de comentários</h2><p>Novos primeiro. Responda, resolva ou vá direto ao trecho.</p></div><div class="admin-head-actions"><button id="adminDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="adminDashClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-dashboard-filters"><select id="afStatus"><option value="all">Todos</option><option value="new">Novos</option><option value="open">Em aberto</option><option value="resolved">Resolvidos</option></select><select id="afBook"><option value="">Todos os livros</option></select><select id="afChapter"><option value="">Todos os capítulos</option></select><select id="afAuthor"><option value="">Todos os leitores</option></select><input id="afSearch" type="search" placeholder="Buscar comentário…"></div><div class="admin-dashboard-bulk"><button id="afMarkReadAll" type="button" class="link-btn">Marcar exibidos como lidos</button><button id="afMarkUnreadAll" type="button" class="link-btn">Marcar exibidos como não lidos</button></div><div id="adminDashboardList" class="admin-dashboard-list"></div></section>';
     document.body.appendChild(el);
+    el.querySelector("#adminDashBack").onclick=()=>{hide();showAdminHome();};
     el.querySelector("#adminDashClose").onclick=hide;
     el.onclick=e=>{if(e.target===el)hide();};
     ["afStatus","afBook","afChapter","afAuthor","afSearch"].forEach(id=>{
@@ -155,7 +156,7 @@
     el.className="admin-dashboard-sheet";
     el.hidden=true;
     el.innerHTML='<section class="admin-dashboard analytics-dashboard">'
-      +'<header class="admin-dashboard-head"><div><h2>Relatórios beta</h2><p>Avanço dos leitores e uso real das ferramentas do app.</p></div><div class="admin-head-actions"><button id="analyticsRefresh" class="link-btn" type="button">Atualizar</button><button id="analyticsClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<header class="admin-dashboard-head"><div><h2>Relatórios beta</h2><p>Avanço dos leitores e uso real das ferramentas do app.</p></div><div class="admin-head-actions"><button id="analyticsBackHome" class="link-btn admin-back-btn" type="button">← Painel</button><button id="analyticsRefresh" class="link-btn" type="button">Atualizar</button><button id="analyticsClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<div id="analyticsMain" class="analytics-scroll">'
       +'<p class="analytics-note">As médias ignoram os usuários marcados como teste. Uso de narração/música conta após 15 segundos. Capítulos antigos concluídos são importados quando o leitor abre o livro, mas tempos históricos não podem ser reconstruídos.</p>'
       +'<div id="analyticsOverview" class="analytics-overview"></div>'
@@ -166,6 +167,7 @@
       +'<div id="analyticsDetail" class="analytics-scroll" hidden></div>'
       +'</section>';
     document.body.appendChild(el);
+    el.querySelector("#analyticsBackHome").onclick=()=>{hideAnalytics();showAdminHome();};
     el.querySelector("#analyticsClose").onclick=hideAnalytics;
     el.querySelector("#analyticsRefresh").onclick=loadAnalytics;
     el.onclick=e=>{if(e.target===el)hideAnalytics();};
@@ -463,8 +465,9 @@
   function ensureAccessSheet(){
     if(document.getElementById("bookAccessSheet"))return;
     const el=document.createElement("div");el.id="bookAccessSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Leitores e acessos</h2><p>Cada leitor escolhe o primeiro livro. Marque outros para ampliar a biblioteca dele.</p></div><button id="accessDashClose" class="icon-btn" type="button">✕</button></header><div id="bookAccessList" class="admin-dashboard-list"></div></section>';
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Leitores e acessos</h2><p>Cada leitor escolhe o primeiro livro. Marque outros para ampliar a biblioteca dele.</p></div><div class="admin-head-actions"><button id="accessDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="accessDashClose" class="icon-btn" type="button">✕</button></div></header><div id="bookAccessList" class="admin-dashboard-list"></div></section>';
     document.body.appendChild(el);
+    el.querySelector("#accessDashBack").onclick=()=>{hideAccess();showAdminHome();};
     el.querySelector("#accessDashClose").onclick=hideAccess;
     el.onclick=e=>{if(e.target===el)hideAccess();};
   }
