@@ -27,6 +27,17 @@ const Comments = (() => {
   const admin=()=>!!adminUser;
   const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const when=t=>t?new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"";
+  function shortId(id){const v=String(id||"").replace(/[^a-z0-9]/gi,"").toUpperCase();return v?v.slice(-6):"LEGADO";}
+  function updateIdentityBar(){
+    const el=document.getElementById("readerIdentityBar");
+    if(!el)return;
+    if(name()){
+      el.hidden=false;
+      el.textContent=name()+" · #"+shortId(uid());
+    }else{
+      el.hidden=true;
+    }
+  }
   function pInfo(block){const p=block.querySelector("p");const raw=p?p.textContent:block.textContent;const q=norm(raw);return {key:"p_"+hashText(q),quote:q.slice(0,220)};}
   function loc(x,ch,i,key){if(Number(x.chapter)!==Number(ch))return false;if(key&&x.paragraphKey&&x.paragraphKey===key)return true;return Number(x.paraIdx)===Number(i);}
   function own(x){return admin()||(x.authorId?x.authorId===uid():norm(x.author)===norm(name()));}
@@ -91,6 +102,9 @@ const Comments = (() => {
       }catch(e){console.warn(e);}
     }
     uid(); wireName(); wireSettings();
+    updateIdentityBar();
+    document.addEventListener("beta:profile-ready",updateIdentityBar);
+    document.addEventListener("beta:profile-login",updateIdentityBar);
     if(name()) ensureAccessProfile().catch(e=>console.warn("Perfil portátil indisponível:",e));
   }
 
