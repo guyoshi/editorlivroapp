@@ -178,7 +178,7 @@ A roupa escorregou da mão dela e a correnteza levou.
 
 — Nestira… — disse Jokara.
 
-Nenhuma das duas se mexeu. Depois Jokara deu um passo, e outro, apoiando o bastão nas pedras molhadas, até ficarem frente a frente. Ergueu a mão e tocou o rosto da irmã. Estava quente.
+Nenhuma das duas se mexeu. Depois Jokara deu um passo, e outro, apoiando o bastão nas pedras molhadas, até ficarem frente a frente. De perto, viu quanto a superfície já havia deixado marcas na irmã: lama e pequenos arranhões quebravam os círculos brancos que antes se destacavam limpos contra a pele escura, e a água que ainda escorria por seu rosto abria caminhos claros entre a sujeira. Jokara ergueu a mão e tocou-lhe a face. Estava quente.
 
 Nestira desabou. Jogou-se nos braços de Jokara, chorando alto.
 

@@ -270,13 +270,17 @@ Ele estava acordado, mas não falava. Nem se movia com clareza. Apenas olhava. J
 
 — Ei, ei, tá tudo bem... — disse Jokara com um curto sorriso.
 
-Sersi se aproximou, já preparando um unguento de folhas frescas.
+Sersi chegou logo atrás e tocou de leve o ombro dela.
+
+— Me dê espaço.
+
+A curandeira se ajoelhou diante do menino sem tentar agarrá-lo. Primeiro observou a respiração. Depois aproximou dois dedos do pulso, examinou os olhos e passou as mãos pelos braços e pelas pernas em busca de inchaços ou ossos fora do lugar.
 
 — Como você se chama, pequeno? — perguntou, com voz suave.
 
 Não houve resposta.
 
-— Você… está ferido?
+— Você está ferido?
 
 Ainda sem resposta.
 
@@ -284,13 +288,15 @@ Ainda sem resposta.
 
 O garoto não parecia ouvi-la. Desviou o olhar. Uma única lágrima escorreu pelo rosto sujo.
 
-Sersi examinou os pulsos, o peito, os olhos. Não havia febre nem marcas graves. Ainda assim, franziu a testa.
+Sersi retirou do cinto um pequeno embrulho de folhas frescas, mas tornou a guardá-lo.
 
-— Não entendo — murmurou Sersi. — Ele não parece ferido demais. Mas também... não parece estar aqui.
+— Nada quebrado. Sem febre. Os arranhões são rasos. — Franziu a testa. — O corpo dele está cansado, mas isso não explica o resto.
 
 — Como assim? — perguntou Jokara.
 
-— É como se… ele não pertencesse a este lugar.
+Sersi tornou a olhar para o menino.
+
+— Ele está acordado e reage ao que fazemos, mas parece muito longe daqui.
 
 Efepar olhava em volta, tenso.
 
@@ -298,7 +304,9 @@ Efepar olhava em volta, tenso.
 
 — De onde ele viria? — perguntou Jokara. — A clareira é isolada. Ninguém vive perto daqui. Não tem ilhas acima… no máximo, abaixo.
 
-— E mesmo se caísse... como ainda estaria vivo? — completou Sersi, num sussurro.
+Sersi ergueu os olhos para o céu vazio sobre a clareira.
+
+— E mesmo que tivesse caído, não estaria assim. Estaria morto ou com o corpo partido.
 
 Nestira se aproximou por fim, os olhos fixos no menino.
 
@@ -306,30 +314,32 @@ Ela se ajoelhou diante dele e ficou um tempo só olhando. O menino a fitou de vo
 
 — Ele... não está vazio — disse Nestira, finalmente. — Está... deslocado. Como se estivesse perdido.
 
+Sersi olhou para ela, sem rir nem concordar.
+
+— Talvez. Mas perdido ou não, não fica aqui. Vamos levá-lo para Nivelia. Mirel pode acomodá-lo, e eu o examino de novo quando estiver aquecido, alimentado e descansado.
+
+— Ele nem sabe quem é. Não fala — disse Efepar.
+
+— Justamente por isso não vai passar outro sopro sozinho no bosque — respondeu Sersi.
+
 Jokara franziu o cenho.
 
-— E isso quer dizer o quê?
+— E se ele for perigoso?
 
-Nestira não respondeu. Apenas colocou a mão no ombro do garoto com cuidado.
+Sersi tornou a olhar para o menino encolhido entre as pedras.
 
-— Vamos levá-lo.
+— Então descobriremos depois que ele puder ficar de pé sem tremer.
 
-— Levar pra onde? — questionou Efepar. — Ele nem sabe quem é. Não fala.
+Nestira estendeu a mão.
 
-— Ele precisa de abrigo — cortou Nestira. — De alguém que o veja. E o entenda.
+— Eu posso tentar fazê-lo entender.
 
-— E você o entende? — perguntou Jokara, num tom quase desafiador.
+O menino não se moveu, mas não tirava os olhos dela.
 
-Nestira respirou fundo.
+Jokara ainda queria dizer que era loucura. Não sabiam quem era, nem de onde vinha. Então as folhas em volta se mexeram. O vento tinha voltado, bem ali.
 
-— Não. Mas posso tentar.
+— Tá bom — murmurou. — Vamos levá-lo.
 
-O menino não se moveu, mas não tirava os olhos de Nestira.
-
-Jokara queria dizer que era loucura. Não sabiam quem era, nem de onde vinha. Então as folhas em volta se mexeram. O vento tinha voltado, bem ali.
-
-— Tá bom. Vamos levá-lo — disse, contra a própria vontade.
-
-Nestira estendeu a mão. O menino olhou para os dedos dela por um momento e, enfim, deu o primeiro passo com os três.
+O menino olhou para os dedos de Nestira por um momento e, enfim, deu o primeiro passo com eles.
 
 

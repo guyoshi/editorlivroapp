@@ -264,7 +264,7 @@ Não sabia se a visão de Nestira tinha sido verdade ou apenas alguma coisa em q
 
 Alguns sopros depois, a floresta se abriu diante dele.
 
-Embaixo havia um vale largo, sob a primeira luz da manhã. Colinas baixas cobertas de capim alto, que o vento deitava para um lado só. Árvores enormes nas encostas. Um rio largo no fundo. Bandos de aves brancas cruzavam de uma margem à outra.
+Embaixo havia um vale largo sob a luz ainda jovem da manhã. O sol já tinha ultrapassado o horizonte, mas permanecia baixo, derramando um amarelo suave através da névoa e dourando as pontas do capim. Colinas baixas se estendiam até um rio largo no fundo, enquanto árvores enormes ocupavam as encostas. Uma delas, mais próxima da borda do vale, recortava-se escura contra a claridade dourada ao longe. Bandos de aves brancas cruzavam de uma margem à outra.
 
 Nestira teria cantado alguma coisa. Mariv não sabia nenhuma canção inteira.
 

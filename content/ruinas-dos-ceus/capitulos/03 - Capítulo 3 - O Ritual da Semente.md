@@ -1,6 +1,8 @@
 
 
-Na casa dos Amarëa, ninguém sabia bem o que fazer com o menino. Ele não havia dito uma só palavra. Não perguntara nomes, não chorara. Só observava.
+Na casa dos Amarëa, ninguém sabia de onde o menino viera. Quanto ao corpo, Sersi deixara instruções simples antes de partir: água em pequenos goles, comida leve, descanso e nenhuma multidão de perguntas ao redor dele. Se piorasse durante o Sopro do Silêncio, deveriam chamá-la.
+
+Ele não havia dito uma só palavra. Não perguntara nomes, não chorara. Só observava.
 
 Fitava a lamparina suspensa, o vaso trincado com flores secas, os livros costurados à mão, e Jokara percebeu antes dos outros que ele não sabia o que eram aquelas coisas. Tocou a madeira da mesa com a ponta dos dedos, tenso. Franziu o cenho quando o fogo estalou.
 
@@ -52,11 +54,11 @@ Na manhã seguinte, Sersi retornou com folhas secas e uma infusão morna.
 
 — Ela está em silêncio.
 
-— Mas não está vazia — disse a curandeira, mexendo o bastão de raízes com o pé. — Ele ouve, entende, mas não sabe responder. Da minha parte, não vejo nada que eu possa fazer.
+— Mas não está vazia — disse a curandeira, mexendo o bastão de raízes com o pé. — Ele ouve, entende alguma coisa, mas não sabe responder.
 
 — Então ele não está... ferido? — perguntou Nestira.
 
-— Não da forma que os Oradores chamariam de ferida. — Sersi fitou o menino. — Talvez um dos oradores possa entendê-lo. Talvez descubram de onde vem.
+— O corpo, eu sei tratar. Posso cuidar dos arranhões, do cansaço e da fome. Mas nada disso explica esse silêncio. — Sersi fitou o menino. — Talvez um dos Oradores possa enxergar o que não é do meu ofício. Talvez descubram de onde vem.
 
 Nestira inclinou-se, observando as mãos do garoto.
 
