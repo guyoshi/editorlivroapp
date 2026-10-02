@@ -197,7 +197,7 @@
     if(musicPlaying)musicStartedAt=now();
   }
 
-  function openChapter(book,ch){
+  function openChapter(book,ch,initialPct=0){
     if(!book||!ch)return;
     context={
       bookId:String(book.id||""),
@@ -205,8 +205,9 @@
       chapter:Number(ch.n)||0,
       chapterTitle:String(ch.title||"")
     };
-    lastProgressSent=-1;
-    maxProgressSeen=0;
+    const knownPct=Math.max(0,Math.min(100,Math.round(Number(initialPct)||0)));
+    lastProgressSent=knownPct;
+    maxProgressSeen=knownPct;
     noteInteraction();
     const stamp=now();
     const p=prefs();
@@ -216,11 +217,11 @@
       currentBookTitle:context.bookTitle,
       currentChapter:context.chapter,
       currentChapterTitle:context.chapterTitle,
-      currentChapterPct:0,
+      currentChapterPct:knownPct,
       ...p
     },{
       lastOpenedAt:stamp,
-      currentPct:0
+      currentPct:knownPct
     }).catch(e=>console.warn("Não foi possível registrar a abertura do capítulo:",e));
     if(narrationPlaying)narrationStartedAt=stamp;
     if(musicPlaying)musicStartedAt=stamp;
