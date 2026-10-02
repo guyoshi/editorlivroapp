@@ -197,10 +197,12 @@ const Comments = (() => {
         +'<div class="sheet-actions"><button id="topNavIntroOk" class="btn-primary" type="button">Entendi</button></div>'
         +'</div>';
       document.body.appendChild(el);
-      el.querySelector("#topNavIntroOk").addEventListener("click",()=>{
+      const closeIntro=()=>{
         localStorage.setItem(topNavHintKey(),"1");
         el.hidden=true;
-      });
+      };
+      el.querySelector("#topNavIntroOk").addEventListener("click",closeIntro);
+      el.addEventListener("click",e=>{if(e.target===el)closeIntro();});
     }
     el.hidden=false;
     playUiPop();
@@ -221,10 +223,12 @@ const Comments = (() => {
         +'<button id="accessCodeOk" class="btn-primary" type="button">Entendi</button>'
         +'</div></div>';
       document.body.appendChild(el);
-      el.querySelector("#accessCodeOk").addEventListener("click",()=>{
+      const closeAccessCode=()=>{
         el.hidden=true;
         setTimeout(showTopNavigationIntro,130);
-      });
+      };
+      el.querySelector("#accessCodeOk").addEventListener("click",closeAccessCode);
+      el.addEventListener("click",e=>{if(e.target===el)closeAccessCode();});
       el.querySelector("#accessCodeCopy").addEventListener("click",async()=>{
         const btn=el.querySelector("#accessCodeCopy");
         try{await navigator.clipboard.writeText(el.dataset.code||"");btn.textContent="Copiado!";setTimeout(()=>btn.textContent="Copiar código",1500);}
