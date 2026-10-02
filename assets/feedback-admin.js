@@ -25,10 +25,11 @@
   function ensureAdminHome(){
     if(document.getElementById("authorAdminSheet"))return;
     const el=document.createElement("div");el.id="authorAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Gerencie leitores e comentários em áreas separadas.</p></div><button id="authorAdminClose" class="icon-btn" type="button">✕</button></header><div class="admin-home-grid"><button id="openReaderAccess" class="admin-home-card" type="button"><strong>Leitores e acessos</strong><span>Libere novos livros para cada leitor.</span></button><button id="openCommentDashboard" class="admin-home-card" type="button"><strong>Comentários</strong><span>Leia e responda ao feedback dos capítulos.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button></div></section>';
+    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Gerencie leitores, mensagens e comentários em áreas separadas.</p></div><button id="authorAdminClose" class="icon-btn" type="button">✕</button></header><div class="admin-home-grid"><button id="openReaderAccess" class="admin-home-card" type="button"><strong>Leitores e acessos</strong><span>Libere livros, envie popup ou remova leitores.</span></button><button id="openPopupDashboard" class="admin-home-card" type="button"><strong>Mensagens popup</strong><span>Veja pendentes, disparadas, lidas e seus modelos.</span></button><button id="openCommentDashboard" class="admin-home-card" type="button"><strong>Comentários</strong><span>Leia e responda ao feedback dos capítulos.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button></div></section>';
     document.body.appendChild(el);
     el.querySelector("#authorAdminClose").onclick=hideAdminHome;
     el.querySelector("#openReaderAccess").onclick=()=>{hideAdminHome();showAccess();};
+    el.querySelector("#openPopupDashboard").onclick=()=>{hideAdminHome();window.PopupMessages?.openAdmin?.();};
     el.querySelector("#openCommentDashboard").onclick=()=>{hideAdminHome();show();};
     el.onclick=e=>{if(e.target===el)hideAdminHome();};
   }
@@ -153,7 +154,7 @@
         const checked=allowed.includes(b.id)?"checked":"";
         return '<label class="field-check"><input type="checkbox" data-profile="'+esc(p.id)+'" data-book="'+esc(b.id)+'" '+checked+'><span>'+esc(b.title)+'</span></label>';
       }).join("");
-      return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+checks+'<div class="admin-card-actions"><button type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button></div></article>';
+      return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+checks+'<div class="admin-card-actions"><button type="button" data-popup-profile="'+esc(p.id)+'">Enviar popup</button><button type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button></div></article>';
     }).join("");
     list.querySelectorAll("input[type=checkbox]").forEach(cb=>{
       cb.addEventListener("change",async()=>{
@@ -164,6 +165,12 @@
         try{await Comments.setAllowedBooks(profileId,current);}
         catch(e){alert("Não foi possível salvar: "+(e.message||"tente de novo."));cb.checked=!cb.checked;}
         finally{cb.disabled=false;}
+      });
+    });
+    list.querySelectorAll("[data-popup-profile]").forEach(btn=>{
+      btn.addEventListener("click",()=>{
+        const profile=profiles.find(p=>p.id===btn.dataset.popupProfile);
+        if(profile)window.PopupMessages?.openCompose?.(profile);
       });
     });
     list.querySelectorAll("[data-delete-profile]").forEach(btn=>{
