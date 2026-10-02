@@ -1,0 +1,156 @@
+{
+  "id": "guerras-de-sangue",
+  "title": "Guerras de Sangue",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Talismã Negro",
+      "text": "content/guerras-de-sangue/capitulos/01 - Capítulo 1 - Talismã Negro.md"
+    },
+    {
+      "n": 2,
+      "title": "A Lei do Portão",
+      "text": "content/guerras-de-sangue/capitulos/02 - Capítulo 2 - A Lei do Portão.md"
+    },
+    {
+      "n": 3,
+      "title": "O Olho da Fera",
+      "text": "content/guerras-de-sangue/capitulos/03 - Capítulo 3 - O Olho da Fera.md"
+    },
+    {
+      "n": 4,
+      "title": "A Mesa da Raiz",
+      "text": "content/guerras-de-sangue/capitulos/04 - Capítulo 4 - A Mesa da Raiz.md"
+    },
+    {
+      "n": 5,
+      "title": "Homens das Areias",
+      "text": "content/guerras-de-sangue/capitulos/05 - Capítulo 5 - Homens das Areias.md"
+    },
+    {
+      "n": 6,
+      "title": "Pão, Sal e Sangue",
+      "text": "content/guerras-de-sangue/capitulos/06 - Capítulo 6 - Pão, Sal e Sangue.md"
+    },
+    {
+      "n": 7,
+      "title": "O Esconderijo das Crianças",
+      "text": "content/guerras-de-sangue/capitulos/07 - Capítulo 7 - O Esconderijo das Crianças.md"
+    },
+    {
+      "n": 8,
+      "title": "O Túnel dos Ancestrais",
+      "text": "content/guerras-de-sangue/capitulos/08 - Capítulo 8 - O Túnel dos Ancestrais.md"
+    },
+    {
+      "n": 9,
+      "title": "A Semente Rubra",
+      "text": "content/guerras-de-sangue/capitulos/09 - Capítulo 9 - A Semente Rubra.md"
+    },
+    {
+      "n": 10,
+      "title": "A Voz da Mentira",
+      "text": "content/guerras-de-sangue/capitulos/10 - Capítulo 10 - A Voz da Mentira.md"
+    },
+    {
+      "n": 11,
+      "title": "Os Comerciantes de Fogo",
+      "text": "content/guerras-de-sangue/capitulos/11 - Capítulo 11 - Os Comerciantes de Fogo.md"
+    },
+    {
+      "n": 12,
+      "title": "O Punho Fechado",
+      "text": "content/guerras-de-sangue/capitulos/12 - Capítulo 12 - O Punho Fechado.md"
+    },
+    {
+      "n": 13,
+      "title": "Sombras da Verdade",
+      "text": "content/guerras-de-sangue/capitulos/13 - Capítulo 13 - Sombras da Verdade.md"
+    },
+    {
+      "n": 14,
+      "title": "A Coroa Partida",
+      "text": "content/guerras-de-sangue/capitulos/14 - Capítulo 14 - A Coroa Partida.md"
+    },
+    {
+      "n": 15,
+      "title": "O Preço da Areia",
+      "text": "content/guerras-de-sangue/capitulos/15 - Capítulo 15 - O Preço da Areia.md"
+    },
+    {
+      "n": 16,
+      "title": "Os Urtistar na Tempestade",
+      "text": "content/guerras-de-sangue/capitulos/16 - Capítulo 16 - Os Urtistar na Tempestade.md"
+    },
+    {
+      "n": 17,
+      "title": "Os Clãs na Terra Preta",
+      "text": "content/guerras-de-sangue/capitulos/17 - Capítulo 17 - Os Clãs na Terra Preta.md"
+    },
+    {
+      "n": 18,
+      "title": "O Nome do Pai",
+      "text": "content/guerras-de-sangue/capitulos/18 - Capítulo 18 - O Nome do Pai.md"
+    },
+    {
+      "n": 19,
+      "title": "Noreval",
+      "text": "content/guerras-de-sangue/capitulos/19 - Capítulo 19 - Noreval.md"
+    },
+    {
+      "n": 20,
+      "title": "A Plataforma do Sol Alto",
+      "text": "content/guerras-de-sangue/capitulos/20 - Capítulo 20 - A Plataforma do Sol Alto.md"
+    },
+    {
+      "n": 21,
+      "title": "Margem dos Zírrios",
+      "text": "content/guerras-de-sangue/capitulos/21 - Capítulo 21 - Margem dos Zírrios.md"
+    },
+    {
+      "n": 22,
+      "title": "Soberanas ao Sol",
+      "text": "content/guerras-de-sangue/capitulos/22 - Capítulo 22 - Soberanas ao Sol.md"
+    },
+    {
+      "n": 23,
+      "title": "A Marcha dos Tondrar",
+      "text": "content/guerras-de-sangue/capitulos/23 - Capítulo 23 - A Marcha dos Tondrar.md"
+    },
+    {
+      "n": 24,
+      "title": "A Câmara do Primeiro Abrigo",
+      "text": "content/guerras-de-sangue/capitulos/24 - Capítulo 24 - A Câmara do Primeiro Abrigo.md"
+    },
+    {
+      "n": 25,
+      "title": "De Volta à Kaendar",
+      "text": "content/guerras-de-sangue/capitulos/25 - Capítulo 25 - De Volta à Kaendar.md"
+    },
+    {
+      "n": 26,
+      "title": "O Segredo de Daryon",
+      "text": "content/guerras-de-sangue/capitulos/26 - Capítulo 26 - O Segredo de Daryon.md"
+    },
+    {
+      "n": 27,
+      "title": "A Mão de Fogo",
+      "text": "content/guerras-de-sangue/capitulos/27 - Capítulo 27 - A Mão de Fogo.md"
+    },
+    {
+      "n": 28,
+      "title": "A Caça do Caçador",
+      "text": "content/guerras-de-sangue/capitulos/28 - Capítulo 28 - A Caça do Caçador.md"
+    },
+    {
+      "n": 29,
+      "title": "Guerra de Sangue",
+      "text": "content/guerras-de-sangue/capitulos/29 - Capítulo 29 - Guerra de Sangue.md"
+    },
+    {
+      "n": 30,
+      "title": "A Soberana",
+      "text": "content/guerras-de-sangue/capitulos/30 - Capítulo 30 - A Soberana.md"
+    }
+  ]
+}
