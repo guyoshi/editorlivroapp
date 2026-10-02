@@ -97,7 +97,7 @@
     scheduleWrite(100);
   }
 
-  function openChapter(book,ch){
+  function openChapter(book,ch,initialPct=0){
     if(!book||!ch)return;
     context={
       bookId:String(book.id||""),
@@ -105,7 +105,7 @@
       chapter:Number(ch.n)||0,
       chapterTitle:String(ch.title||"")
     };
-    currentPct=0;
+    currentPct=Math.max(0,Math.min(100,Number(initialPct)||0));
     noteInteraction();
     scheduleWrite(100);
   }
