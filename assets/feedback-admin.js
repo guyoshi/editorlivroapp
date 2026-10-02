@@ -14,9 +14,9 @@
   function db(){return window.Comments?.getDb?.();}
 
   function ensureButton(){
-    // O acesso principal ao admin agora fica no topo da biblioteca.
-    // O badge usa o #adminNewCount que já existe dentro desse botão.
-    return document.getElementById("btnAdminTop");
+    // O admin agora fica dentro do menu "Trocar usuário".
+    // O botão do topo serve apenas como âncora do badge de novos comentários.
+    return document.getElementById("btnSwitchReader");
   }
 
   function ensureAdminHome(){
