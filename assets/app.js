@@ -452,7 +452,7 @@ function initPlayerControls(){
     updateTimes();
     if(Math.floor(a.currentTime) % 5 === 0) savePos(a.currentTime);
   });
-  a.addEventListener("ended", ()=>{ savePos(0); });
+  a.addEventListener("ended", ()=>{ setNarrationButtonState(false); savePos(0); });
 
   $("#seek").addEventListener("input", (e)=>{
     if(!a.duration) return;
