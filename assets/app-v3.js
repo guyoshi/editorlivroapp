@@ -725,11 +725,12 @@ function initReaderDisplay(){
   let scale = Number(localStorage.getItem(FONT_KEY) || "1");
   if(!Number.isFinite(scale)) scale = 1;
   const applyScale = (track=false)=>{
+    const previous=Number(localStorage.getItem(FONT_KEY)||"1");
     scale = Math.max(.8, Math.min(1.6, Math.round(scale*10)/10));
     document.documentElement.style.setProperty("--reader-font-scale", String(scale));
     localStorage.setItem(FONT_KEY, String(scale));
     $("#readerSizeLabel").textContent = Math.round(scale*100) + "%";
-    if(track) window.BetaAnalytics?.preferenceChanged?.("fontScale");
+    if(track&&Math.abs(previous-scale)>.001) window.BetaAnalytics?.preferenceChanged?.("fontScale");
   };
   applyScale(false);
   btn.addEventListener("click",()=>{
@@ -819,10 +820,11 @@ const READER_FONTS = [
   {id:"atkinson", name:"Atkinson", note:"Alta distinção entre letras"},
 ];
 function applyTheme(id,{track=true}={}){
+  const previous=localStorage.getItem(THEME_KEY)||"ambar";
   document.documentElement.dataset.theme = id;
   localStorage.setItem(THEME_KEY, id);
   updateThemePicker();
-  if(track) window.BetaAnalytics?.preferenceChanged?.("theme");
+  if(track&&previous!==id) window.BetaAnalytics?.preferenceChanged?.("theme");
 }
 function updateThemePicker(){
   const current = localStorage.getItem(THEME_KEY) || "ambar";
@@ -843,9 +845,10 @@ function initThemePicker(picker){
 
 function applyReaderFont(id,{track=true}={}){
   if(!READER_FONTS.some(f=>f.id===id)) id = "lora";
+  const previous=localStorage.getItem(FONT_FAMILY_KEY)||"lora";
   document.documentElement.dataset.readerFont = id;
   localStorage.setItem(FONT_FAMILY_KEY, id);
-  if(track) window.BetaAnalytics?.preferenceChanged?.("font");
+  if(track&&previous!==id) window.BetaAnalytics?.preferenceChanged?.("font");
   $$("[data-reader-font]").forEach(b=>{
     const active = b.dataset.readerFont===id;
     b.classList.toggle("active", active);
