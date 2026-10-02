@@ -114,6 +114,7 @@ async function openBook(bookId){
 
   renderBookView();
   showView("book");
+  document.dispatchEvent(new CustomEvent("beta:book-open",{detail:{book:state.currentBook}}));
   checkAudioAvailability(); // não bloqueia a tela — só liga os pontinhos que existirem
 }
 
@@ -223,6 +224,7 @@ async function openChapter(idx){
   updateCompleteUI();
   resetReaderProgress();
   updateAmbientForChapter(ch);
+  document.dispatchEvent(new CustomEvent("beta:chapter-open",{detail:{book,chapter:ch,index:idx,isLast:idx===book.chapters.length-1}}));
 
   // texto
   try{
@@ -374,6 +376,7 @@ function setChapterDone(done, opts={}){
     if(readChapterPct(book.id,ch.n)>=96) saveChapterPct(95,{force:true});
   }
   window.BetaAnalytics?.completed?.(done);
+  document.dispatchEvent(new CustomEvent("beta:chapter-complete",{detail:{book,chapter:ch,done,index:state.currentChapterIdx,isLast:state.currentChapterIdx===book.chapters.length-1}}));
   if(done) playChapterCompleteSound();
   updateCompleteUI();
 }
