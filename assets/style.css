@@ -29,6 +29,10 @@
 }
 
 /* ---------- temas de leitura ---------- */
+:root[data-theme="papel"]{
+  --bg: #faf6ef; --bg-elev: #ffffff; --ink: #2a241d; --ink-soft: #6e6357;
+  --line: #e7ddcd; --accent: #c4693b; --accent-ink: #ffffff; --focus-bg: #f3ead9;
+}
 :root[data-theme="ambar"]{
   --bg: #191510; --bg-elev: #221d17; --ink: #f1ebe0; --ink-soft: #b3a794;
   --line: #352e24; --accent: #e08a5c; --accent-ink: #1a1410; --focus-bg: #14100c;

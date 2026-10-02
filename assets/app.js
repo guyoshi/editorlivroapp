@@ -15,9 +15,10 @@ function resolve(path){
   return "./" + path;
 }
 
-// Aplica o tema salvo o quanto antes, pra evitar flash da cor errada.
+// Aplica o tema salvo (ou o padrão, Âmbar Noturno) o quanto antes, pra
+// evitar flash da cor errada.
 const savedTheme = localStorage.getItem(THEME_KEY);
-if(savedTheme) document.documentElement.dataset.theme = savedTheme;
+document.documentElement.dataset.theme = savedTheme || "ambar";
 
 // Imagens (capas e artes de capítulo) vêm referenciadas direto do site
 // Dimensões Infinitas — se atualizar lá, atualiza aqui também, sem duplicar.
@@ -584,13 +585,12 @@ const THEMES = [
   {id:"vinho",    name:"Vinho",         swatch:"#28181b"},
 ];
 function applyTheme(id){
-  if(id==="papel") delete document.documentElement.dataset.theme;
-  else document.documentElement.dataset.theme = id;
+  document.documentElement.dataset.theme = id;
   localStorage.setItem(THEME_KEY, id);
   updateThemePicker();
 }
 function updateThemePicker(){
-  const current = localStorage.getItem(THEME_KEY) || "papel";
+  const current = localStorage.getItem(THEME_KEY) || "ambar";
   $$(".theme-swatch").forEach(b=> b.classList.toggle("active", b.dataset.themeId===current));
 }
 function initThemePicker(){
