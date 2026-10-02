@@ -9,7 +9,7 @@ const Comments = (() => {
   const ANNOUNCE_COLLECTION="announcements";
   const PUBLIC_BOOK_IDS=["ruinas-dos-ceus"];
   const EMOJIS=["😍","😂","😱","😢","🤔"];
-  let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false;
+  let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false, readerResetting=false;
   const cCache={}, rCache={};
 
   const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
@@ -34,6 +34,29 @@ const Comments = (() => {
   function uid(){let id=localStorage.getItem(USER_KEY);if(!id){id=(crypto.randomUUID?crypto.randomUUID():"r_"+Date.now().toString(36)+Math.random().toString(36).slice(2));localStorage.setItem(USER_KEY,id);}return id;}
   const name=()=>String(localStorage.getItem(NAME_KEY)||"").trim();
   const admin=()=>!!adminUser;
+
+  function resetDeletedReaderProfile(){
+    if(readerResetting)return;
+    readerResetting=true;
+
+    // Apaga somente a identidade do beta reader. Preferências de leitura e
+    // progresso dos livros ficam preservados no aparelho.
+    localStorage.removeItem(NAME_KEY);
+    localStorage.removeItem(USER_KEY);
+    localStorage.removeItem(ACCESS_KEY);
+    localStorage.removeItem(CODEHASH_KEY);
+    localStorage.removeItem(SEEN_ANNOUNCE_KEY);
+
+    // Recarrega já como visitante novo. O próximo cadastro gera novo nome,
+    // readerId, código de acesso e documento de perfil.
+    setTimeout(()=>location.reload(),0);
+  }
+
+  function profileDeletedError(){
+    const err=new Error("Este perfil foi removido pelo autor. Crie um novo perfil para continuar.");
+    err.code="app/profile-deleted";
+    return err;
+  }
   async function authorizedAdminUser(user,{throwOnFailure=false}={}){
     if(user?.uid===OWNER_ADMIN_UID)return true;
     if(!user||!db){
@@ -190,6 +213,7 @@ const Comments = (() => {
   async function ensureAccessProfile(initialBookId){
     if(!enabled||!db||!name()) return null;
     let code=accessCode();
+    const hadExistingCode=!!code;
     if(!code){
       code=generateAccessCode();
       localStorage.setItem(ACCESS_KEY,code);
@@ -199,7 +223,21 @@ const Comments = (() => {
     const ref=db.collection(PROFILE_COLLECTION).doc(codeHash);
     let profileDoc=null,exists=false;
     try{profileDoc=await ref.get();exists=profileDoc.exists;}catch(e){}
-    if(exists&&profileDoc?.data()?.deleted) throw new Error("Este perfil foi removido pelo autor.");
+
+    // Perfil apagado pelo painel: nunca recriar silenciosamente a identidade
+    // antiga no próximo acesso.
+    if(exists&&profileDoc?.data()?.deleted){
+      resetDeletedReaderProfile();
+      throw profileDeletedError();
+    }
+
+    // Se este aparelho já possuía um código mas o documento desapareceu do
+    // Firestore (por exemplo, exclusão manual no Console), trate igualmente
+    // como perfil removido em vez de ressuscitá-lo.
+    if(hadExistingCode&&!exists){
+      resetDeletedReaderProfile();
+      throw profileDeletedError();
+    }
     const payload={
       readerId:uid(),
       name:name(),
@@ -227,7 +265,10 @@ const Comments = (() => {
       const doc=await db.collection(PROFILE_COLLECTION).doc(codeHash).get();
       if(!doc.exists)return [];
       const data=doc.data()||{};
-      if(data.deleted)return [];
+      if(data.deleted){
+        resetDeletedReaderProfile();
+        return [];
+      }
       const granted=Array.isArray(data.allowedBooks)?data.allowedBooks:[];
       // Ruínas dos Céus fica liberado para todo leitor já cadastrado.
       return [...new Set([...PUBLIC_BOOK_IDS,...granted])];
@@ -308,7 +349,7 @@ const Comments = (() => {
     const doc=await db.collection(PROFILE_COLLECTION).doc(codeHash).get();
     if(!doc.exists) throw new Error("Código não encontrado.");
     const profile=doc.data()||{};
-    if(profile.deleted) throw new Error("Este código de acesso foi removido pelo autor.");
+    if(profile.deleted) throw new Error("Este código foi removido pelo autor. Crie um novo perfil para continuar.");
     if(!profile.readerId||!profile.name) throw new Error("Este perfil está incompleto.");
     localStorage.setItem(USER_KEY,String(profile.readerId));
     localStorage.setItem(NAME_KEY,String(profile.name));
