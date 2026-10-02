@@ -8,6 +8,7 @@
   let data = { all:[], roots:[], reactions:[], repliesByRoot:new Map(), books:[] };
   let isOpen = false;
   let loading = false;
+  let activeView = "unread";
 
   const norm = s => String(s||"").replace(/\s+/g," ").trim().toLowerCase();
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({
@@ -50,30 +51,29 @@
             <button id="readerHubClose" type="button" class="icon-btn" aria-label="Fechar">✕</button>
           </header>
 
-          <div class="reader-access-card">
-            <div class="reader-access-copy">
-              <span>Código de acesso</span>
-              <strong id="readerAccessCode">Gerando…</strong>
-              <small>Use este código para entrar no seu perfil em outro aparelho. Não compartilhe publicamente.</small>
-            </div>
-            <div class="reader-access-actions">
-              <button id="readerAccessCopy" type="button">Copiar código</button>
-              <button id="readerAccessSwitch" type="button">Entrar com outro código</button>
-            </div>
-          </div>
+          <nav class="reader-hub-primary" aria-label="Conteúdo da central">
+            <button type="button" data-hub-view="unread" class="active">
+              Novas respostas <span id="readerHubNewCount" hidden></span>
+            </button>
+            <button type="button" data-hub-view="annotations">Minhas anotações</button>
+          </nav>
 
-          <div id="readerHubStats" class="reader-hub-stats"></div>
+          <details class="reader-profile-card">
+            <summary>Meu perfil</summary>
+            <div class="reader-access-card">
+              <div class="reader-access-copy">
+                <span>Código de acesso</span>
+                <strong id="readerAccessCode">Gerando…</strong>
+                <small>Use este código para entrar no seu perfil em outro aparelho. Não compartilhe publicamente.</small>
+              </div>
+              <div class="reader-access-actions">
+                <button id="readerAccessCopy" type="button">Copiar código</button>
+                <button id="readerAccessSwitch" type="button">Entrar com outro código</button>
+              </div>
+            </div>
+          </details>
 
           <div class="reader-hub-filters">
-            <select id="readerHubType">
-              <option value="all">Tudo</option>
-              <option value="comments">Comentários</option>
-              <option value="unread">Novas respostas</option>
-              <option value="replied">Com resposta do autor</option>
-              <option value="unanswered">Aguardando resposta</option>
-              <option value="resolved">Resolvidos</option>
-              <option value="reactions">Reações</option>
-            </select>
             <select id="readerHubBook">
               <option value="">Todos os livros</option>
             </select>
@@ -86,9 +86,15 @@
 
       sheet.querySelector("#readerHubClose").addEventListener("click", close);
       sheet.addEventListener("click", e => { if(e.target===sheet) close(); });
-      ["readerHubType","readerHubBook","readerHubSearch"].forEach(id=>{
+      ["readerHubBook","readerHubSearch"].forEach(id=>{
         const el = sheet.querySelector("#"+id);
         el.addEventListener(el.tagName==="INPUT" ? "input" : "change", render);
+      });
+      sheet.querySelectorAll("[data-hub-view]").forEach(btn=>{
+        btn.addEventListener("click",()=>{
+          activeView = btn.dataset.hubView;
+          render();
+        });
       });
     }
 
@@ -213,18 +219,6 @@
     return {replies, authorReplies, unread};
   }
 
-  function renderStats(){
-    const el = document.getElementById("readerHubStats");
-    if(!el) return;
-    const answered = data.roots.filter(r=>replyFlags(r).authorReplies.length).length;
-    const unread = unreadReplies().length;
-    el.innerHTML =
-      '<div><strong>'+data.roots.length+'</strong><span>comentários</span></div>'+
-      '<div><strong>'+data.reactions.length+'</strong><span>reações</span></div>'+
-      '<div><strong>'+answered+'</strong><span>respondidos</span></div>'+
-      '<div class="'+(unread?"has-new":"")+'"><strong>'+unread+'</strong><span>novas respostas</span></div>';
-  }
-
   function renderComment(root){
     const flags = replyFlags(root);
     const unread = flags.unread.length;
@@ -269,30 +263,18 @@
   }
 
   function filteredItems(){
-    const type = document.getElementById("readerHubType")?.value || "all";
     const book = document.getElementById("readerHubBook")?.value || "";
     const q = norm(document.getElementById("readerHubSearch")?.value || "");
 
     const comments = data.roots.filter(root=>{
       if(book && root.bookId!==book) return false;
       const flags = replyFlags(root);
-      if(type==="reactions") return false;
-      if(type==="unread" && !flags.unread.length) return false;
-      if(type==="replied" && !flags.authorReplies.length) return false;
-      if(type==="unanswered" && (flags.authorReplies.length || root.status==="resolved")) return false;
-      if(type==="resolved" && root.status!=="resolved") return false;
+      if(activeView==="unread" && !flags.unread.length) return false;
       if(q && !norm((root.text||"")+" "+(root.quote||"")+" "+bookTitle(root.bookId)).includes(q)) return false;
       return true;
     }).map(item=>({kind:"comment",item,sortAt:item.updatedAt||item.at||0}));
 
-    const reactions = data.reactions.filter(r=>{
-      if(type!=="all" && type!=="reactions") return false;
-      if(book && r.bookId!==book) return false;
-      if(q && !norm((r.quote||"")+" "+(r.emoji||"")+" "+bookTitle(r.bookId)).includes(q)) return false;
-      return true;
-    }).map(item=>({kind:"reaction",item,sortAt:item.updatedAt||item.at||0}));
-
-    return [...comments,...reactions].sort((a,b)=>{
+    return comments.sort((a,b)=>{
       if(a.kind==="comment" && b.kind==="comment"){
         const au = replyFlags(a.item).unread.length ? 1 : 0;
         const bu = replyFlags(b.item).unread.length ? 1 : 0;
@@ -369,13 +351,27 @@
     if(codeEl) codeEl.textContent=window.Comments?.getAccessCode?.()||"Indisponível";
 
     fillBookFilter();
-    renderStats();
+    const unread = unreadReplies().length;
+    const newCount = document.getElementById("readerHubNewCount");
+    if(newCount){
+      newCount.hidden = unread===0;
+      newCount.textContent = unread>99 ? "99+" : String(unread);
+    }
+    document.querySelectorAll("[data-hub-view]").forEach(btn=>{
+      const selected = btn.dataset.hubView===activeView;
+      btn.classList.toggle("active", selected);
+      btn.setAttribute("aria-current", selected ? "page" : "false");
+    });
+    const filters = document.querySelector(".reader-hub-filters");
+    if(filters) filters.hidden = activeView==="unread";
 
     const list = document.getElementById("readerHubList");
     const items = filteredItems();
 
     if(!items.length){
-      list.innerHTML = '<div class="reader-hub-empty"><strong>Nada por aqui ainda.</strong><span>Seus comentários, respostas e reações vão aparecer nesta central.</span></div>';
+      list.innerHTML = activeView==="unread"
+        ? '<div class="reader-hub-empty"><strong>Você está em dia.</strong><span>Quando o autor responder uma anotação, ela aparece aqui.</span></div>'
+        : '<div class="reader-hub-empty"><strong>Nenhuma anotação ainda.</strong><span>Seus comentários nos capítulos vão aparecer aqui.</span></div>';
     }else{
       list.innerHTML = items.map(x=>x.kind==="comment" ? renderComment(x.item) : renderReaction(x.item)).join("");
       wireActions();
@@ -398,7 +394,9 @@
     const list = document.getElementById("readerHubList");
     list.innerHTML = '<div class="reader-hub-empty"><span>Carregando suas anotações…</span></div>';
     try{await window.Comments?.ensureAccessProfile?.();}catch(e){console.warn("Código de acesso indisponível:",e);}
-    await refresh();
+    await loadData();
+    activeView = unreadReplies().length ? "unread" : "annotations";
+    render();
 
     // Abrir a central significa que o leitor teve acesso às respostas.
     // Marcamos as respostas do autor exibidas agora como vistas localmente.

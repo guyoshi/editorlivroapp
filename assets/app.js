@@ -4,6 +4,7 @@
 // Guarda progresso de leitura e áudio no localStorage do aparelho.
 
 const FONT_KEY = "jesed:readerFontScale";
+const FONT_FAMILY_KEY = "jesed:readerFontFamily";
 const HIDE_ART_KEY = "jesed:hideChapterArt";
 const THEME_KEY = "jesed:theme";
 const AUTO_AMBIENT_KEY = "jesed:autoAmbient";
@@ -18,6 +19,7 @@ function resolve(path){
 // Aplica o tema salvo o quanto antes, pra evitar flash da cor errada.
 const savedTheme = localStorage.getItem(THEME_KEY);
 if(savedTheme) document.documentElement.dataset.theme = savedTheme;
+document.documentElement.dataset.readerFont = localStorage.getItem(FONT_FAMILY_KEY) || "lora";
 
 // Imagens (capas e artes de capítulo) vêm referenciadas direto do site
 // Dimensões Infinitas — se atualizar lá, atualiza aqui também, sem duplicar.
@@ -156,8 +158,7 @@ async function openChapter(idx){
   state.currentChapterIdx = idx;
   localStorage.setItem(LASTCH_KEY(book.id), String(idx));
 
-  $("#readerBook").textContent = book.title;
-  $("#readerChapter").textContent = `Cap. ${ch.n} — ${ch.title}`;
+  $("#readerChapter").textContent = `Cap. ${ch.n} · ${ch.title}`;
   $("#chapterText").innerHTML = `<p class="empty-hint">Carregando…</p>`;
   const art = $("#chapterArt");
   art.hidden = true;
@@ -192,6 +193,7 @@ async function openChapter(idx){
   bar.classList.remove("player-missing");
   if(ch.audio){
     bar.hidden = false;
+    views.reader.classList.add("has-narration");
     player.src = resolve(ch.audio);
     const saved = readPos(book.id, ch.n);
     player.addEventListener("loadedmetadata", function once(){
@@ -205,11 +207,14 @@ async function openChapter(idx){
       // áudio deste capítulo ainda não foi enviado — some com a barra em
       // vez de deixar um player quebrado na tela
       bar.hidden = true;
+      views.reader.classList.remove("has-narration");
       player.removeEventListener("error", onErr);
     }, {once:true});
     setMediaSession(book, ch);
   }else{
     bar.hidden = true;
+    views.reader.classList.remove("has-narration");
+    player.removeAttribute("src");
   }
 }
 
@@ -230,7 +235,7 @@ function updateNextChapterUI(){
   const hasNext = !!(book && book.chapters[state.currentChapterIdx + 1]);
   const topBtn = $("#btnNextChapterTop");
   const endBtn = $("#btnNextChapterEnd");
-  topBtn.hidden = !hasNext;
+  if(topBtn) topBtn.hidden = !hasNext;
   endBtn.hidden = !hasNext;
   if(hasNext){
     const next = book.chapters[state.currentChapterIdx + 1];
@@ -483,44 +488,36 @@ function exitFocus(){
 
 // ---------------- ajustes ----------------
 
-function initReaderZoom(){
-  const bar = $("#view-reader .reader-topbar");
-  if(!bar || $("#btnReaderZoom")) return;
-  const btn = document.createElement("button");
-  btn.id = "btnReaderZoom";
-  btn.className = "icon-btn";
-  btn.type = "button";
-  btn.title = "Tamanho do texto";
-  btn.setAttribute("aria-label","Tamanho do texto");
-  btn.innerHTML = '<svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M9.5 3a6.5 6.5 0 104.03 11.6L19.94 21 21 19.94l-6.4-6.41A6.5 6.5 0 009.5 3zm0 2a4.5 4.5 0 110 9 4.5 4.5 0 010-9z"/><path fill="currentColor" d="M8.8 7h1.4v1.8H12v1.4h-1.8V12H8.8v-1.8H7V8.8h1.8z"/></svg>';
-  const focus = $("#btnFocus");
-  bar.insertBefore(btn, focus || null);
-
-  const pop = document.createElement("div");
-  pop.id = "readerZoomPop";
-  pop.className = "reader-zoom-pop";
-  pop.hidden = true;
-  pop.innerHTML = '<button type="button" data-z="-">A−</button><span id="readerZoomLabel">100%</span><button type="button" data-z="+">A+</button><button type="button" data-z="reset">Padrão</button>';
-  $("#view-reader").appendChild(pop);
-
+function initReaderDisplay(){
+  const btn = $("#btnReaderDisplay");
+  const pop = $("#readerDisplayPop");
+  if(!btn || !pop) return;
   let scale = Number(localStorage.getItem(FONT_KEY) || "1");
   if(!Number.isFinite(scale)) scale = 1;
-  const apply = ()=>{
+  const applyScale = ()=>{
     scale = Math.max(.8, Math.min(1.6, Math.round(scale*10)/10));
     document.documentElement.style.setProperty("--reader-font-scale", String(scale));
     localStorage.setItem(FONT_KEY, String(scale));
-    $("#readerZoomLabel").textContent = Math.round(scale*100) + "%";
+    $("#readerSizeLabel").textContent = Math.round(scale*100) + "%";
   };
-  apply();
-  btn.addEventListener("click",()=>{ pop.hidden = !pop.hidden; });
-  pop.querySelectorAll("[data-z]").forEach(b=>b.addEventListener("click",()=>{
-    if(b.dataset.z==="+") scale += .1;
-    else if(b.dataset.z==="-") scale -= .1;
-    else scale = 1;
-    apply();
+  applyScale();
+  btn.addEventListener("click",()=>{
+    pop.hidden = !pop.hidden;
+    btn.setAttribute("aria-expanded", String(!pop.hidden));
+  });
+  $("#readerDisplayClose").addEventListener("click",()=>{
+    pop.hidden = true;
+    btn.setAttribute("aria-expanded", "false");
+  });
+  pop.querySelectorAll("[data-reader-size]").forEach(b=>b.addEventListener("click",()=>{
+    scale += b.dataset.readerSize==="+" ? .1 : -.1;
+    applyScale();
   }));
   document.addEventListener("click",e=>{
-    if(!pop.hidden && !pop.contains(e.target) && e.target!==btn && !btn.contains(e.target)) pop.hidden=true;
+    if(!pop.hidden && !pop.contains(e.target) && !btn.contains(e.target)){
+      pop.hidden=true;
+      btn.setAttribute("aria-expanded", "false");
+    }
   });
 }
 
@@ -583,6 +580,13 @@ const THEMES = [
   {id:"floresta", name:"Verde Floresta",swatch:"#1c2820"},
   {id:"vinho",    name:"Vinho",         swatch:"#28181b"},
 ];
+const READER_FONTS = [
+  {id:"lora", name:"Lora", note:"Equilibrada e familiar"},
+  {id:"literata", name:"Literata", note:"Criada para leitura digital"},
+  {id:"merriweather", name:"Merriweather", note:"Clara em telas pequenas"},
+  {id:"garamond", name:"EB Garamond", note:"Clássica de livros impressos"},
+  {id:"atkinson", name:"Atkinson", note:"Alta distinção entre letras"},
+];
 function applyTheme(id){
   if(id==="papel") delete document.documentElement.dataset.theme;
   else document.documentElement.dataset.theme = id;
@@ -593,8 +597,7 @@ function updateThemePicker(){
   const current = localStorage.getItem(THEME_KEY) || "papel";
   $$(".theme-swatch").forEach(b=> b.classList.toggle("active", b.dataset.themeId===current));
 }
-function initThemePicker(){
-  const picker = $("#themePicker");
+function initThemePicker(picker){
   if(!picker) return;
   picker.innerHTML = THEMES.map(t=>
     `<button type="button" class="theme-swatch" data-theme-id="${t.id}" style="background:${t.swatch}">
@@ -605,6 +608,27 @@ function initThemePicker(){
     b.addEventListener("click", ()=> applyTheme(b.dataset.themeId));
   });
   updateThemePicker();
+}
+
+function applyReaderFont(id){
+  if(!READER_FONTS.some(f=>f.id===id)) id = "lora";
+  document.documentElement.dataset.readerFont = id;
+  localStorage.setItem(FONT_FAMILY_KEY, id);
+  $$("[data-reader-font]").forEach(b=>{
+    const active = b.dataset.readerFont===id;
+    b.classList.toggle("active", active);
+    b.setAttribute("aria-pressed", String(active));
+  });
+}
+function initFontPicker(picker, compact=false){
+  if(!picker) return;
+  picker.innerHTML = READER_FONTS.map(f=>
+    `<button type="button" data-reader-font="${f.id}" aria-pressed="false">
+       <span>${f.name}</span>${compact ? "" : `<small>${f.note}</small>`}
+     </button>`
+  ).join("");
+  $$('[data-reader-font]', picker).forEach(b=>b.addEventListener("click",()=>applyReaderFont(b.dataset.readerFont)));
+  applyReaderFont(localStorage.getItem(FONT_FAMILY_KEY) || "lora");
 }
 
 function initSettings(){
@@ -622,7 +646,10 @@ function initSettings(){
     if(autoAmbient) localStorage.setItem(AUTO_AMBIENT_KEY, autoAmbient.checked ? "1" : "0");
     sheet.hidden = true;
   });
-  initThemePicker();
+  initThemePicker($("#themePicker"));
+  initThemePicker($("#readerThemePicker"));
+  initFontPicker($("#readerFontPicker"), true);
+  initFontPicker($("#settingsFontPicker"));
 }
 
 // ---------------- navegação ----------------
@@ -639,9 +666,9 @@ function initNav(){
       }
     });
   });
-  $("#btnFocus").addEventListener("click", enterFocus);
+  $("#btnFocus")?.addEventListener("click", enterFocus);
   $("#focusExit").addEventListener("click", exitFocus);
-  $("#btnNextChapterTop").addEventListener("click", ()=>{ playNextChapterSound(); changeChapter(1); });
+  $("#btnNextChapterTop")?.addEventListener("click", ()=>{ playNextChapterSound(); changeChapter(1); });
   $("#btnNextChapterEnd").addEventListener("click", ()=>{ playNextChapterSound(); changeChapter(1); });
   $("#readerScroll").addEventListener("scroll", updateReaderProgressBar, {passive:true});
   $("#btnCompleteChapter").addEventListener("click", ()=>{
@@ -663,5 +690,5 @@ if("serviceWorker" in navigator){
 initNav();
 initPlayerControls();
 initSettings();
-initReaderZoom();
+initReaderDisplay();
 loadLibrary();
