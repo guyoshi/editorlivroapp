@@ -85,6 +85,28 @@ body{
 .brand.small{ font-size:1.05rem; }
 .brand-sub{ margin: 0 16px 14px; color:var(--ink-soft); font-size:.88rem; }
 .reader-identity-bar{ margin: -8px 16px 14px; color:var(--accent); font-size:.8rem; font-weight:600; }
+.author-admin-home-bar{ margin:-4px 16px 14px; }
+.author-admin-home-btn{
+  width:100%; display:flex; align-items:center; gap:11px;
+  border:1px solid color-mix(in srgb,var(--accent) 45%,var(--line));
+  border-radius:13px; padding:11px 13px;
+  background:color-mix(in srgb,var(--accent) 8%,var(--bg-elev));
+  color:var(--ink); text-align:left; cursor:pointer;
+}
+.author-admin-home-btn:active{ transform:scale(.995); }
+.author-admin-home-icon{
+  width:34px; height:34px; border-radius:10px; flex:0 0 auto;
+  display:grid; place-items:center;
+  background:color-mix(in srgb,var(--accent) 14%,var(--bg-elev));
+  color:var(--accent); font-size:1rem;
+}
+.author-admin-home-copy{ min-width:0; display:flex; flex-direction:column; gap:1px; }
+.author-admin-home-copy strong{ font-family:var(--serif); font-size:.94rem; }
+.author-admin-home-copy small{ color:var(--ink-soft); font-size:.69rem; }
+.author-admin-home-btn .admin-new-count{ margin-left:auto; flex:0 0 auto; }
+.name-sheet-actions{ flex-wrap:wrap; }
+.name-sheet-actions .btn-primary{ flex:1 1 100%; }
+.name-sheet-actions .btn-ghost{ flex:1 1 calc(50% - 5px); }
 .spacer{ flex:1; }
 .icon-btn{
   border:none; background:transparent; color:var(--ink);
