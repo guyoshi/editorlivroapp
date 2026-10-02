@@ -156,6 +156,9 @@
   });
   window.addEventListener("focus",()=>{noteInteraction();scheduleWrite(50);});
   window.addEventListener("pagehide",()=>{scheduleWrite(0);});
+  // Reparo manual (disparado ao avançar de capítulo, por exemplo): força uma
+  // escrita de presença agora, em vez de esperar o próximo heartbeat.
+  document.addEventListener("beta:force-resync",()=>{noteInteraction();scheduleWrite(0);});
   document.addEventListener("pointerdown",noteInteraction,{passive:true});
   document.addEventListener("keydown",noteInteraction);
 

@@ -986,8 +986,8 @@ function initNav(){
   });
   $("#btnFocus")?.addEventListener("click", enterFocus);
   $("#focusExit").addEventListener("click", exitFocus);
-  $("#btnNextChapterTop")?.addEventListener("click", ()=>{ playNextChapterSound(); changeChapter(1); });
-  $("#btnNextChapterEnd").addEventListener("click", ()=>{ playNextChapterSound(); changeChapter(1); });
+  $("#btnNextChapterTop")?.addEventListener("click", ()=>{ playNextChapterSound(); window.Comments?.forceResync?.(); changeChapter(1); });
+  $("#btnNextChapterEnd").addEventListener("click", ()=>{ playNextChapterSound(); window.Comments?.forceResync?.(); changeChapter(1); });
   $("#readerScroll").addEventListener("scroll", ()=>{
     window.BetaAnalytics?.noteInteraction?.();
     window.BetaPresence?.noteInteraction?.();

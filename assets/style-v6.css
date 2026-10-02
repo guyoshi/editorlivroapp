@@ -418,6 +418,17 @@ body{
   background:var(--focus-bg); border:1px solid var(--line); border-radius:10px;
   padding:10px 12px; margin:-2px 0 14px; font-family:var(--sans);
 }
+.comment-panel-head{
+  display:flex; align-items:center; justify-content:space-between; gap:8px;
+  margin-bottom:8px;
+}
+.comment-panel-head strong{ font-size:.78rem; color:var(--ink-soft); }
+.comment-panel-close{
+  flex:0 0 auto; border:none; background:transparent; color:var(--ink-soft);
+  font-size:.9rem; line-height:1; padding:4px 6px; border-radius:6px; cursor:pointer;
+}
+.comment-panel-close:hover,
+.comment-panel-close:focus-visible{ background:var(--line); color:var(--ink); outline:none; }
 .comment-list{ display:flex; flex-direction:column; gap:8px; margin-bottom:8px; }
 .comment-empty{ margin:0; color:var(--ink-soft); font-size:.78rem; }
 .comment-item{ display:flex; flex-direction:column; gap:2px; font-size:.84rem; }

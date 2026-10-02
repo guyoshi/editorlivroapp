@@ -1195,6 +1195,9 @@ const Comments = (() => {
         if(picker)picker.hidden=true;
       }
     });
+    document.querySelectorAll(".comment-panel").forEach(panel=>{
+      if(panel!==except)panel.hidden=true;
+    });
   }
 
   function wireParagraphInteractionGlobals(){
@@ -1427,7 +1430,8 @@ const Comments = (() => {
         panel=document.createElement("div");
         panel.className="comment-panel";
         panel.hidden=true;
-        panel.innerHTML='<div class="comment-list"></div><form class="comment-form"><input maxlength="500" placeholder="Escreva um comentário…" required><button>Enviar</button></form>';
+        panel.innerHTML='<div class="comment-panel-head"><strong>Comentários</strong><button type="button" class="comment-panel-close" aria-label="Fechar comentários" title="Fechar">✕</button></div>'
+          +'<div class="comment-list"></div><form class="comment-form"><input maxlength="500" placeholder="Escreva um comentário…" required><button>Enviar</button></form>';
         block.appendChild(panel);
       }
 
@@ -1453,6 +1457,11 @@ const Comments = (() => {
           panel.querySelector("input")?.focus();
           if(admin())vr.forEach(seen);
         }
+      };
+
+      panel.querySelector(".comment-panel-close").onclick=e=>{
+        e.stopPropagation();
+        panel.hidden=true;
       };
 
       reactionBtn.onclick=e=>{
@@ -1499,9 +1508,27 @@ const Comments = (() => {
     setTimeout(showReaderOnboarding,180);
   }
 
+  // Ponto de "reparo" manual: chamado em momentos naturais de leitura (ex.:
+  // avançar de capítulo) para forçar o perfil, o código de acesso e as
+  // métricas a tentarem sincronizar de novo, mesmo que a primeira tentativa,
+  // lá atrás, tenha ficado presa num erro de permissão que não se repetiu.
+  let resyncing=false;
+  async function forceResync(){
+    if(!enabled||!db||!name()||resyncing)return;
+    resyncing=true;
+    try{
+      await ensureAccessProfile();
+      document.dispatchEvent(new CustomEvent("beta:force-resync"));
+    }catch(e){
+      console.warn("Não foi possível forçar a ressincronização do perfil:",e);
+    }finally{
+      resyncing=false;
+    }
+  }
+
   return {
     init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,getAccessCode:accessCode,
-    loginWithCode,ensureAccessProfile,updateReaderName,hashText,
+    loginWithCode,ensureAccessProfile,updateReaderName,hashText,forceResync,
     getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen,unseen,markAllSeen,
     sendAnnouncement,getAllowedBooks,listReaderProfiles,setAllowedBooks,rotateReaderAccessCode,deleteReaderProfile
   };

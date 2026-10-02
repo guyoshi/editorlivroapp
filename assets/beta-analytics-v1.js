@@ -397,6 +397,9 @@
   });
   window.addEventListener("focus",()=>syncPreferences());
   window.addEventListener("pagehide",flushUsage);
+  // Reparo manual (disparado ao avançar de capítulo, por exemplo): força uma
+  // escrita agora, em vez de esperar o próximo ciclo normal.
+  document.addEventListener("beta:force-resync",()=>{syncPreferences();flushUsage();});
   document.addEventListener("pointerdown",noteInteraction,{passive:true});
   document.addEventListener("keydown",noteInteraction);
 
