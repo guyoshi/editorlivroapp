@@ -51,27 +51,36 @@
             <button id="readerHubClose" type="button" class="icon-btn" aria-label="Fechar">✕</button>
           </header>
 
+          <details class="reader-profile-card" open>
+            <summary>Meu perfil</summary>
+            <div class="reader-profile-content">
+              <label class="field reader-profile-name-field">
+                <span>Seu nome</span>
+                <div class="reader-profile-name-row">
+                  <input id="readerProfileName" type="text" maxlength="40" autocomplete="name">
+                  <button id="readerProfileNameSave" type="button">Salvar nome</button>
+                </div>
+                <small id="readerProfileNameStatus" class="reader-profile-name-status" aria-live="polite"></small>
+              </label>
+              <div class="reader-access-card">
+                <div class="reader-access-copy">
+                  <span>Código de acesso</span>
+                  <strong id="readerAccessCode">Gerando…</strong>
+                  <small>Use este código para entrar no seu perfil em outro aparelho. Não compartilhe publicamente.</small>
+                </div>
+                <div class="reader-access-actions">
+                  <button id="readerAccessCopy" type="button">Copiar código</button>
+                </div>
+              </div>
+            </div>
+          </details>
+
           <nav class="reader-hub-primary" aria-label="Conteúdo da central">
             <button type="button" data-hub-view="unread" class="active">
               Novas respostas <span id="readerHubNewCount" hidden></span>
             </button>
             <button type="button" data-hub-view="annotations">Minhas anotações</button>
           </nav>
-
-          <details class="reader-profile-card">
-            <summary>Meu perfil</summary>
-            <div class="reader-access-card">
-              <div class="reader-access-copy">
-                <span>Código de acesso</span>
-                <strong id="readerAccessCode">Gerando…</strong>
-                <small>Use este código para entrar no seu perfil em outro aparelho. Não compartilhe publicamente.</small>
-              </div>
-              <div class="reader-access-actions">
-                <button id="readerAccessCopy" type="button">Copiar código</button>
-                <button id="readerAccessSwitch" type="button">Entrar com outro código</button>
-              </div>
-            </div>
-          </details>
 
           <div class="reader-hub-filters">
             <select id="readerHubBook">
@@ -120,23 +129,31 @@
       });
     }
 
-    const switchBtn=document.getElementById("readerAccessSwitch");
-    if(switchBtn && !switchBtn.dataset.wired){
-      switchBtn.dataset.wired="1";
-      switchBtn.addEventListener("click",async()=>{
-        const code=prompt("Digite o código de acesso do perfil:");
-        if(!code)return;
-        switchBtn.disabled=true;
+    const nameInput=document.getElementById("readerProfileName");
+    const nameSave=document.getElementById("readerProfileNameSave");
+    const nameStatus=document.getElementById("readerProfileNameStatus");
+    if(nameSave && !nameSave.dataset.wired){
+      nameSave.dataset.wired="1";
+      nameSave.addEventListener("click",async()=>{
+        const next=nameInput?.value.trim()||"";
+        if(!next){nameInput?.focus();return;}
+        nameSave.disabled=true;
+        if(nameStatus){nameStatus.textContent="Salvando…";nameStatus.classList.remove("error");}
         try{
-          const profile=await window.Comments?.loginWithCode?.(code);
-          alert("Perfil encontrado: "+profile.name);
-          location.reload();
+          await window.Comments?.updateReaderName?.(next);
+          if(nameStatus)nameStatus.textContent="Nome atualizado.";
+          const identity=document.getElementById("readerHubIdentity");
+          if(identity)identity.textContent=next+" · perfil #"+shortId(window.Comments?.getUserId?.());
+          setTimeout(()=>{if(nameStatus)nameStatus.textContent="";},1500);
         }catch(e){
-          alert(e.message||"Não foi possível entrar com esse código.");
-          switchBtn.disabled=false;
+          if(nameStatus){nameStatus.textContent=e?.message||"Não foi possível salvar o nome.";nameStatus.classList.add("error");}
+        }finally{
+          nameSave.disabled=false;
         }
       });
+      nameInput?.addEventListener("keydown",e=>{if(e.key==="Enter")nameSave.click();});
     }
+
   }
 
   async function loadData(){
@@ -347,6 +364,8 @@
       identity.textContent = (window.Comments?.getUserName?.() || "Leitor") +
         " · perfil #" + shortId(window.Comments?.getUserId?.());
     }
+    const nameInput=document.getElementById("readerProfileName");
+    if(nameInput && document.activeElement!==nameInput)nameInput.value=window.Comments?.getUserName?.()||"";
     const codeEl=document.getElementById("readerAccessCode");
     if(codeEl) codeEl.textContent=window.Comments?.getAccessCode?.()||"Indisponível";
 
