@@ -192,6 +192,7 @@ async function openChapter(idx){
   state.currentChapterIdx = idx;
   localStorage.setItem(LASTCH_KEY(book.id), String(idx));
   window.BetaAnalytics?.openChapter?.(book,ch);
+  if(isChapterDone(book.id,ch.n)) window.BetaAnalytics?.progress?.(100);
 
   $("#readerChapter").textContent = `Cap. ${ch.n} · ${ch.title}`;
   $("#chapterText").innerHTML = `<p class="empty-hint">Carregando…</p>`;
@@ -591,11 +592,14 @@ function initPlayerControls(){
   });
   a.addEventListener("timeupdate", ()=>{
     updateTimes();
+    if(a.duration) window.BetaAnalytics?.progress?.((a.currentTime/a.duration)*100);
     if(Math.floor(a.currentTime) % 5 === 0) savePos(a.currentTime);
   });
   a.addEventListener("ended", ()=>{
     setNarrationButtonState(false);
     window.BetaAnalytics?.narration?.(false);
+    window.BetaAnalytics?.progress?.(100);
+    setChapterDone(true,{silent:true});
     setAmbientDuck(1);
     savePos(0);
   });
