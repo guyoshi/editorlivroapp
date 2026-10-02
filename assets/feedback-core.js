@@ -874,29 +874,217 @@ const Comments = (() => {
     el.querySelectorAll(".feedback-reply-form").forEach(f=>f.onsubmit=async e=>{e.preventDefault();const x=findItem(book,f.dataset.root),inp=f.querySelector("input");if(x&&inp.value.trim()){await reply(x,inp.value.trim());inp.value="";}});
   }
 
+  const PARAGRAPH_FEEDBACK_HINT_KEY="jesed:paragraphFeedbackHintV2";
+  let paragraphInteractionGlobalsWired=false;
+
+  function closeParagraphMenus(except=null){
+    document.querySelectorAll(".para-actions.context-open").forEach(menu=>{
+      if(menu!==except){
+        menu.classList.remove("context-open","below");
+        const picker=menu.querySelector(".reaction-picker");
+        if(picker)picker.hidden=true;
+      }
+    });
+  }
+
+  function wireParagraphInteractionGlobals(){
+    if(paragraphInteractionGlobalsWired)return;
+    paragraphInteractionGlobalsWired=true;
+
+    document.addEventListener("pointerdown",e=>{
+      if(e.target.closest(".para-actions,.comment-panel"))return;
+      closeParagraphMenus();
+    },true);
+
+    document.getElementById("readerScroll")?.addEventListener("scroll",()=>{
+      closeParagraphMenus();
+    },{passive:true});
+  }
+
+  function openParagraphMenu(block,x,y){
+    const menu=block.querySelector(".para-actions");
+    if(!menu)return;
+
+    closeParagraphMenus(menu);
+    const rect=block.getBoundingClientRect();
+    const localX=Math.max(46,Math.min(rect.width-46,x-rect.left));
+    const localY=Math.max(4,Math.min(rect.height-4,y-rect.top));
+
+    menu.style.left=localX+"px";
+    menu.style.top=localY+"px";
+    menu.classList.toggle("below",localY<56);
+    menu.classList.add("context-open");
+  }
+
+  function wireParagraphTap(block){
+    if(block.dataset.feedbackTapWired==="1")return;
+    block.dataset.feedbackTapWired="1";
+
+    const paragraph=block.querySelector("p");
+    if(!paragraph)return;
+
+    let gesture=null;
+    const scroller=document.getElementById("readerScroll");
+
+    paragraph.addEventListener("pointerdown",e=>{
+      if(e.pointerType==="mouse" && e.button!==0)return;
+      gesture={
+        id:e.pointerId,
+        x:e.clientX,
+        y:e.clientY,
+        started:performance.now(),
+        scrollTop:scroller?.scrollTop||0,
+        moved:false
+      };
+    },{passive:true});
+
+    paragraph.addEventListener("pointermove",e=>{
+      if(!gesture||gesture.id!==e.pointerId)return;
+      const dist=Math.hypot(e.clientX-gesture.x,e.clientY-gesture.y);
+      const scrollDist=Math.abs((scroller?.scrollTop||0)-gesture.scrollTop);
+      if(dist>9||scrollDist>3)gesture.moved=true;
+    },{passive:true});
+
+    paragraph.addEventListener("pointercancel",()=>{gesture=null;},{passive:true});
+
+    paragraph.addEventListener("pointerup",e=>{
+      if(!gesture||gesture.id!==e.pointerId)return;
+      const g=gesture;
+      gesture=null;
+
+      const dist=Math.hypot(e.clientX-g.x,e.clientY-g.y);
+      const scrollDist=Math.abs((scroller?.scrollTop||0)-g.scrollTop);
+      const duration=performance.now()-g.started;
+
+      // Um toque para rolar/arrastar nunca deve abrir os controles.
+      if(g.moved||dist>9||scrollDist>3||duration>650)return;
+
+      const x=e.clientX,y=e.clientY;
+      setTimeout(()=>{
+        const selection=window.getSelection?.();
+        if(selection && !selection.isCollapsed && String(selection).trim())return;
+        openParagraphMenu(block,x,y);
+      },0);
+    },{passive:true});
+  }
+
+  function showParagraphFeedbackIntro(){
+    if(admin()||!name()||localStorage.getItem(PARAGRAPH_FEEDBACK_HINT_KEY))return;
+
+    let el=document.getElementById("paragraphFeedbackIntro");
+    if(!el){
+      el=document.createElement("div");
+      el.id="paragraphFeedbackIntro";
+      el.className="sheet";
+      el.hidden=true;
+      el.innerHTML='<div class="sheet-card feedback-intro-card">'
+        +'<div class="feedback-intro-icons" aria-hidden="true"><span>💬</span><span>☺</span></div>'
+        +'<h2>Comentar e reagir</h2>'
+        +'<p class="sheet-hint">Toque rapidamente em qualquer parágrafo para abrir dois botões: comentário e reação. No computador, basta clicar no parágrafo.</p>'
+        +'<p class="sheet-hint">Se você estiver arrastando a página para rolar ou selecionando texto, nada será aberto.</p>'
+        +'<div class="sheet-actions"><button id="paragraphFeedbackIntroOk" class="btn-primary" type="button">Entendi</button></div>'
+        +'</div>';
+      document.body.appendChild(el);
+      el.querySelector("#paragraphFeedbackIntroOk").addEventListener("click",()=>{
+        localStorage.setItem(PARAGRAPH_FEEDBACK_HINT_KEY,"1");
+        el.hidden=true;
+      });
+    }
+    el.hidden=false;
+  }
+
   function render(){
     if(!active)return;
+    wireParagraphInteractionGlobals();
+
     const {bookId:book,chapterN:ch,containerEl,notesEl}=active, rr=roots(book), reactions=rCache[book]||[];
     const general=rr.filter(x=>x.chapter===ch&&Number(x.paraIdx)===-1&&rootVisible(x));
     if(notesEl){notesEl.hidden=!general.length;notesEl.innerHTML=general.length?'<div class="chapter-note-label">Notas do capítulo</div>'+general.map(x=>thread(x,book)).join(""):"";if(general.length)wireThreads(notesEl,book);}
+
     containerEl.querySelectorAll(".para-block").forEach(block=>{
       const i=Number(block.dataset.paraIdx),info=pInfo(block);block.dataset.paragraphKey=info.key;
       const vr=rr.filter(x=>loc(x,ch,i,info.key)&&rootVisible(x)), rx=reactions.filter(x=>loc(x,ch,i,info.key)), mine=rx.find(x=>x.authorId===uid());
-      let a=block.querySelector(".para-actions"),panel=block.querySelector(".comment-panel");
-      if(!a){
-        a=document.createElement("div");a.className="para-actions";a.innerHTML='<button class="comment-toggle" title="Comentários"><svg viewBox="0 0 24 24" width="15" height="15"><path fill="currentColor" d="M4 4h16v12H7l-3 3V4z"/></svg><span class="comment-count" hidden></span></button><button class="reaction-toggle" title="Reagir"><span class="reaction-face">☺</span></button><div class="reaction-summary"></div><div class="reaction-picker" hidden></div>';block.appendChild(a);
-        panel=document.createElement("div");panel.className="comment-panel";panel.hidden=true;panel.innerHTML='<div class="comment-list"></div><form class="comment-form"><input maxlength="500" placeholder="Escreva um comentário…" required><button>Enviar</button></form>';block.appendChild(panel);
-        a.querySelector(".comment-toggle").onclick=()=>{panel.hidden=!panel.hidden;if(!panel.hidden&&admin())vr.forEach(seen);};
-        a.querySelector(".reaction-toggle").onclick=()=>{const p=a.querySelector(".reaction-picker");p.hidden=!p.hidden;};
-        panel.querySelector(".comment-form").onsubmit=async e=>{e.preventDefault();const inp=e.currentTarget.querySelector("input");if(inp.value.trim()){await addRoot(book,ch,i,info.key,info.quote,inp.value.trim());inp.value="";}};
+
+      let actions=block.querySelector(".para-actions"),panel=block.querySelector(".comment-panel");
+      if(!actions){
+        actions=document.createElement("div");
+        actions.className="para-actions";
+        actions.setAttribute("role","toolbar");
+        actions.setAttribute("aria-label","Ações do parágrafo");
+        actions.innerHTML='<button class="comment-toggle" type="button" title="Comentar" aria-label="Comentar">'
+          +'<svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true"><path fill="currentColor" d="M4 4h16v12H7l-3 3V4zm2 2v8.17L6.17 14H18V6H6z"/></svg>'
+          +'<span class="comment-count" hidden></span></button>'
+          +'<button class="reaction-toggle" type="button" title="Reagir" aria-label="Reagir">'
+          +'<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 100 20 10 10 0 000-20zm-3 7.25a1.25 1.25 0 110 2.5 1.25 1.25 0 010-2.5zm6 0a1.25 1.25 0 110 2.5 1.25 1.25 0 010-2.5zM12 17c-2.2 0-4.05-1.2-5-3h2.1c.7.75 1.7 1.2 2.9 1.2s2.2-.45 2.9-1.2H17c-.95 1.8-2.8 3-5 3z"/></svg>'
+          +'</button>'
+          +'<div class="reaction-picker" hidden></div>';
+        block.appendChild(actions);
+
+        panel=document.createElement("div");
+        panel.className="comment-panel";
+        panel.hidden=true;
+        panel.innerHTML='<div class="comment-list"></div><form class="comment-form"><input maxlength="500" placeholder="Escreva um comentário…" required><button>Enviar</button></form>';
+        block.appendChild(panel);
       }
-      a=block.querySelector(".para-actions");panel=block.querySelector(".comment-panel");
-      const cnt=a.querySelector(".comment-count");cnt.hidden=!vr.length;if(vr.length)cnt.textContent=vr.length;
-      a.querySelector(".reaction-face").textContent=mine?.emoji||"☺";
-      const counts={};rx.forEach(x=>counts[x.emoji]=(counts[x.emoji]||0)+1);
-      a.querySelector(".reaction-summary").innerHTML=EMOJIS.filter(e=>counts[e]).map(e=>'<span class="reaction-count '+(mine?.emoji===e?"mine":"")+'">'+e+' '+counts[e]+'</span>').join("");
-      const pick=a.querySelector(".reaction-picker");pick.innerHTML=EMOJIS.map(e=>'<button type="button" data-e="'+e+'" class="'+(mine?.emoji===e?"selected":"")+'">'+e+'</button>').join("");pick.querySelectorAll("button").forEach(b=>b.onclick=async()=>{pick.hidden=true;await react(book,ch,i,info.key,info.quote,b.dataset.e);});
-      const list=panel.querySelector(".comment-list");list.innerHTML=vr.length?vr.sort((a,b)=>(a.at||0)-(b.at||0)).map(x=>thread(x,book)).join(""):'<p class="comment-empty">Nenhum comentário ainda.</p>';wireThreads(panel,book);
+
+      wireParagraphTap(block);
+
+      actions=block.querySelector(".para-actions");
+      panel=block.querySelector(".comment-panel");
+
+      const commentBtn=actions.querySelector(".comment-toggle");
+      const reactionBtn=actions.querySelector(".reaction-toggle");
+      const picker=actions.querySelector(".reaction-picker");
+      const cnt=actions.querySelector(".comment-count");
+
+      cnt.hidden=!vr.length;
+      if(vr.length)cnt.textContent=vr.length;
+
+      commentBtn.onclick=e=>{
+        e.stopPropagation();
+        picker.hidden=true;
+        actions.classList.remove("context-open","below");
+        panel.hidden=!panel.hidden;
+        if(!panel.hidden){
+          panel.querySelector("input")?.focus();
+          if(admin())vr.forEach(seen);
+        }
+      };
+
+      reactionBtn.onclick=e=>{
+        e.stopPropagation();
+        picker.hidden=!picker.hidden;
+      };
+
+      const counts={};
+      rx.forEach(x=>counts[x.emoji]=(counts[x.emoji]||0)+1);
+      picker.innerHTML=EMOJIS.map(emoji=>{
+        const count=counts[emoji]||0;
+        const label=count?emoji+" "+count:emoji;
+        return '<button type="button" data-e="'+emoji+'" class="'+(mine?.emoji===emoji?"selected":"")+'" aria-label="'+esc(label)+'"><span>'+emoji+'</span>'+(count?'<small>'+count+'</small>':"")+'</button>';
+      }).join("");
+
+      picker.querySelectorAll("button").forEach(btn=>{
+        btn.onclick=async e=>{
+          e.stopPropagation();
+          picker.hidden=true;
+          actions.classList.remove("context-open","below");
+          await react(book,ch,i,info.key,info.quote,btn.dataset.e);
+        };
+      });
+
+      panel.querySelector(".comment-form").onsubmit=async e=>{
+        e.preventDefault();
+        const inp=e.currentTarget.querySelector("input");
+        if(inp.value.trim()){
+          await addRoot(book,ch,i,info.key,info.quote,inp.value.trim());
+          inp.value="";
+        }
+      };
+
+      const list=panel.querySelector(".comment-list");
+      list.innerHTML=vr.length?vr.sort((a,b)=>(a.at||0)-(b.at||0)).map(x=>thread(x,book)).join(""):'<p class="comment-empty">Nenhum comentário ainda.</p>';
+      wireThreads(panel,book);
     });
   }
 
@@ -904,6 +1092,7 @@ const Comments = (() => {
     if(!enabled)return;active={bookId,chapterN,containerEl,notesEl};
     try{const d=await db.collection("config").doc("settings").get();showAll=d.exists&&!!d.data().showAllComments;}catch(e){}
     await load(bookId);subscribe(bookId);render();
+    setTimeout(showParagraphFeedbackIntro,180);
   }
 
   return {
