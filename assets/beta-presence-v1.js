@@ -39,7 +39,7 @@
     const stamp=now();
     const readerOpen=currentView==="reader"&&!!context;
     const recentlyActive=stamp-lastInteractionAt<=ACTIVE_WINDOW_MS;
-    const active=visible()&&readerOpen&&(recentlyActive||narrationOn);
+    const active=readerOpen&&(narrationOn||(visible()&&recentlyActive));
     return {
       readerId:id.readerId,
       profileHash:id.profileHash,
@@ -138,7 +138,7 @@
   }
 
   setInterval(()=>{
-    if(visible())writePresence();
+    if(visible()||narrationOn||musicOn)writePresence();
   },HEARTBEAT_MS);
 
   document.addEventListener("visibilitychange",()=>{
