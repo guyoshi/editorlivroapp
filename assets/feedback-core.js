@@ -6,6 +6,7 @@ const Comments = (() => {
   const PROFILE_COLLECTION="readerProfiles";
   const ADMIN_COLLECTION="admins";
   const ANNOUNCE_COLLECTION="announcements";
+  const PUBLIC_BOOK_IDS=["ruinas-dos-ceus"];
   const EMOJIS=["😍","😂","😱","😢","🤔"];
   let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false;
   const cCache={}, rCache={};
@@ -225,8 +226,15 @@ const Comments = (() => {
       if(!doc.exists)return [];
       const data=doc.data()||{};
       if(data.deleted)return [];
-      return Array.isArray(data.allowedBooks)?data.allowedBooks:[];
-    }catch(e){console.warn("Não foi possível carregar os livros liberados:",e);return [];}
+      const granted=Array.isArray(data.allowedBooks)?data.allowedBooks:[];
+      // Ruínas dos Céus fica liberado para todo leitor já cadastrado.
+      return [...new Set([...PUBLIC_BOOK_IDS,...granted])];
+    }catch(e){
+      console.warn("Não foi possível carregar os livros liberados:",e);
+      // Se o perfil local já existe, mantém o livro público disponível mesmo
+      // durante uma falha temporária de leitura do Firestore.
+      return name()&&codeHash?PUBLIC_BOOK_IDS.slice():[];
+    }
   }
   async function listReaderProfiles(){
     if(!admin()||!db)return [];
