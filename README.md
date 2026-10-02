@@ -7,9 +7,7 @@ toca o áudio do capítulo inteiro, funciona com a tela desligada, guarda de
 onde você parou, tem modo foco de leitura e um botão opcional de música de
 fundo.
 
-No momento só "Ruínas dos Céus" (Ciclo de Jesed, Livro 1) está carregado,
-mas a estrutura já suporta qualquer quantidade de livros e séries — basta
-seguir "Adicionando mais livros depois", abaixo.
+No momento "Ruínas dos Céus" (Ciclo de Jesed, Livro 1) e "Guerras de Sangue" (Livro 2) estão carregados. A estrutura já suporta qualquer quantidade de livros e séries — basta seguir "Adicionando mais livros depois", abaixo.
 
 ## Como colocar isso no ar (uma vez só)
 
