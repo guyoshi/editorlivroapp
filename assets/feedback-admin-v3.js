@@ -218,6 +218,8 @@
         btn.disabled=true;
         try{
           await setAnalyticsIgnored(profileId,readerId,next);
+          const detail=btn.closest("#analyticsDetail");
+          if(detail&&!detail.hidden)showAnalyticsReader(readerId);
         }catch(e){
           console.warn("Não foi possível alterar a amostra dos relatórios:",e);
           alert("Não foi possível alterar este leitor nas estatísticas.");
@@ -297,7 +299,13 @@
       return;
     }
 
-    list.innerHTML=analyticsRows.map(row=>{
+    const displayRows=analyticsRows.slice().sort((a,b)=>{
+      const ignored=Number(!!a.profile?.analyticsIgnored)-Number(!!b.profile?.analyticsIgnored);
+      if(ignored)return ignored;
+      return (b.analytics?.lastActiveAt||b.analytics?.updatedAt||0)-(a.analytics?.lastActiveAt||a.analytics?.updatedAt||0);
+    });
+
+    list.innerHTML=displayRows.map(row=>{
       const p=row.profile||{},a=row.analytics,ignored=!!p.analyticsIgnored;
       const label=esc(p.name||a?.name||"Anônimo")+" · #"+shortId(p.readerId||a?.readerId);
       const ignoreBtn='<button class="link-btn analytics-ignore-btn" type="button" data-analytics-ignore="'+(ignored?"0":"1")+'" data-profile-id="'+esc(p.id||"")+'" data-reader-id="'+esc(p.readerId||a?.readerId||"")+'">'+(ignored?"Incluir nas estatísticas":"Ignorar nas estatísticas")+'</button>';
