@@ -7,7 +7,6 @@ const Comments = (() => {
   const ADMIN_COLLECTION="admins";
   const OWNER_ADMIN_UID="KfNaJsvIUMgpsPMPYRQ6017T1Ct2";
   const ANNOUNCE_COLLECTION="announcements";
-  const PUBLIC_BOOK_IDS=["ruinas-dos-ceus"];
   const EMOJIS=["😍","😂","😱","😢","🤔"];
   let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false, readerResetting=false;
   const cCache={}, rCache={};
@@ -275,12 +274,12 @@ const Comments = (() => {
       name:name(),
       updatedAt:Date.now()
     };
-    // Mantemos o cadastro básico compatível também com as Rules antigas que
-    // já estão publicadas no Firebase. Livros públicos são liberados no
-    // cliente; permissões extras continuam em allowedBooks quando o admin
-    // voltar a funcionar.
     if(!exists){
+      const firstBook=String(initialBookId||"").trim();
+      if(!firstBook)throw new Error("Escolha o primeiro livro antes de criar o perfil.");
       payload.createdAt=Date.now();
+      payload.initialBookId=firstBook;
+      payload.allowedBooks=[firstBook];
     }
     await ref.set(payload,{merge:true});
     return code;
@@ -302,13 +301,10 @@ const Comments = (() => {
         return [];
       }
       const granted=Array.isArray(data.allowedBooks)?data.allowedBooks:[];
-      // Ruínas dos Céus fica liberado para todo leitor já cadastrado.
-      return [...new Set([...PUBLIC_BOOK_IDS,...granted])];
+      return [...new Set(granted)];
     }catch(e){
       console.warn("Não foi possível carregar os livros liberados:",e);
-      // Se o perfil local já existe, mantém o livro público disponível mesmo
-      // durante uma falha temporária de leitura do Firestore.
-      return name()&&codeHash?PUBLIC_BOOK_IDS.slice():[];
+      return [];
     }
   }
   async function listReaderProfiles(){
@@ -447,15 +443,15 @@ const Comments = (() => {
       try{
         const res=await fetch("data/books.json",{cache:"no-cache"});
         if(!res.ok)throw new Error("Não foi possível carregar os livros.");
-        const books=((await res.json()).books||[]).filter(book=>PUBLIC_BOOK_IDS.includes(book.id));
-        if(!books.length)throw new Error("Nenhum livro público está disponível no momento.");
-        bookPicker.innerHTML=books.map((book,index)=>
-          '<label class="initial-book-option '+(index===0?'selected':'')+'">'+
-            '<input type="radio" name="initialBook" value="'+esc(book.id)+'" '+(index===0?'checked':'')+'>'+
+        const books=(await res.json()).books||[];
+        if(!books.length)throw new Error("Nenhum livro está disponível no momento.");
+        bookPicker.innerHTML=books.map(book=>
+          '<label class="initial-book-option">'+
+            '<input type="radio" name="initialBook" value="'+esc(book.id)+'">'+
             '<span><strong>'+esc(book.title||"Livro")+'</strong><small>'+esc(book.subtitle||"")+'</small></span>'+
           '</label>'
         ).join("");
-        save.disabled=false;
+        save.disabled=true;
         bookPicker.querySelectorAll('input[name="initialBook"]').forEach(radio=>{
           radio.addEventListener("change",()=>{
             save.disabled=false;
@@ -471,7 +467,11 @@ const Comments = (() => {
       const v=input.value.trim();
       if(!v)return input.focus();
       const isNew=!name();
-      const initialBook=bookPicker?.querySelector('input[name="initialBook"]:checked')?.value||PUBLIC_BOOK_IDS[0]||"";
+      const initialBook=bookPicker?.querySelector('input[name="initialBook"]:checked')?.value||"";
+      if(isNew&&!initialBook){
+        bookPicker?.querySelector("input")?.focus();
+        return;
+      }
       save.disabled=true;
       localStorage.setItem(NAME_KEY,v);
       // perfil novo: não precisa ver recados antigos, só os futuros
