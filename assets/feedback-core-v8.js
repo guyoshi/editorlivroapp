@@ -418,8 +418,26 @@ const Comments = (() => {
         ids.slice(i,i+400).forEach(id=>batch.delete(db.collection("comments").doc(id)));
         await batch.commit();
       }
+
+      let analyticsCleanupFailed=false;
+      try{
+        const analyticsRef=db.collection("readerAnalytics").doc(rid);
+        const chaptersSnap=await analyticsRef.collection("chapters").get();
+        const chapterIds=[];
+        chaptersSnap.forEach(d=>chapterIds.push(d.id));
+        for(let i=0;i<chapterIds.length;i+=400){
+          const batch=db.batch();
+          chapterIds.slice(i,i+400).forEach(id=>batch.delete(analyticsRef.collection("chapters").doc(id)));
+          await batch.commit();
+        }
+        await analyticsRef.delete();
+      }catch(e){
+        analyticsCleanupFailed=true;
+        console.warn("Leitor removido, mas a limpeza dos relatórios falhou:",e);
+      }
+
       if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
-      return {deletedFeedback:ids.length,cleanupFailed:false};
+      return {deletedFeedback:ids.length,cleanupFailed:analyticsCleanupFailed};
     }catch(e){
       console.warn("Leitor removido, mas a limpeza do feedback falhou:",e);
       if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
