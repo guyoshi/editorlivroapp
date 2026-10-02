@@ -3,7 +3,7 @@ const Comments = (() => {
   const NAME_KEY="jesed:username", USER_KEY="jesed:readerId", ADMIN_KEY="jesed:isAdmin";
   const ADMIN_HASH="117ccff39696ab27035b58ff732b2c5e61b399e7a366b38c3276eb04302521f7";
   const EMOJIS=["😍","😂","😱","😢","🤔"];
-  let db=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, unsubR=null;
+  let db=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null;
   const cCache={}, rCache={};
 
   const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
@@ -64,24 +64,34 @@ const Comments = (() => {
     refresh();
   }
 
+  function splitFeedback(book,list){
+    cCache[book]=list;
+    rCache[book]=list.filter(x=>x.kind==="reaction");
+  }
+
   async function load(book){
-    if(!enabled)return;
-    const [cs,rs]=await Promise.all([
-      db.collection("comments").where("bookId","==",book).get(),
-      db.collection("reactions").where("bookId","==",book).get()
-    ]);
-    cCache[book]=[];cs.forEach(d=>cCache[book].push({id:d.id,...d.data()}));
-    rCache[book]=[];rs.forEach(d=>rCache[book].push({id:d.id,...d.data()}));
+    if(!enabled){ cCache[book]=[]; rCache[book]=[]; return; }
+    try{
+      const snap=await db.collection("comments").where("bookId","==",book).get();
+      const list=[];snap.forEach(d=>list.push({id:d.id,...d.data()}));
+      splitFeedback(book,list);
+    }catch(e){
+      console.warn("Não foi possível carregar o feedback:",e);
+      cCache[book]=cCache[book]||[];
+      rCache[book]=rCache[book]||[];
+    }
   }
 
   function subscribe(book){
     if(!enabled||subBook===book)return;
-    unsubC?.();unsubR?.();subBook=book;
-    unsubC=db.collection("comments").where("bookId","==",book).onSnapshot(s=>{cCache[book]=[];s.forEach(d=>cCache[book].push({id:d.id,...d.data()}));render();});
-    unsubR=db.collection("reactions").where("bookId","==",book).onSnapshot(s=>{rCache[book]=[];s.forEach(d=>rCache[book].push({id:d.id,...d.data()}));render();});
+    unsubC?.();subBook=book;
+    unsubC=db.collection("comments").where("bookId","==",book).onSnapshot(s=>{
+      const list=[];s.forEach(d=>list.push({id:d.id,...d.data()}));
+      splitFeedback(book,list);render();
+    },e=>console.warn("Atualização de feedback indisponível:",e));
   }
 
-  const roots=book=>(cCache[book]||[]).filter(x=>!x.parentId&&x.kind!=="reply");
+  const roots=book=>(cCache[book]||[]).filter(x=>!x.parentId&&x.kind!=="reply"&&x.kind!=="reaction");
   const replies=(book,id)=>(cCache[book]||[]).filter(x=>x.parentId===id||x.rootId===id).sort((a,b)=>(a.at||0)-(b.at||0));
   function findItem(book,id){return (cCache[book]||[]).find(x=>x.id===id);}
 
@@ -109,9 +119,9 @@ const Comments = (() => {
 
   async function react(book,ch,i,key,quote,emoji){
     const mine=(rCache[book]||[]).find(x=>x.authorId===uid()&&loc(x,ch,i,key));
-    if(mine&&mine.emoji===emoji)return db.collection("reactions").doc(mine.id).delete();
-    const p={bookId:book,chapter:ch,paraIdx:i,paragraphKey:key,quote,author:name()||"Anônimo",authorId:uid(),emoji,updatedAt:Date.now(),at:mine?.at||Date.now()};
-    if(mine)await db.collection("reactions").doc(mine.id).set(p,{merge:true});else await db.collection("reactions").add(p);
+    if(mine&&mine.emoji===emoji)return db.collection("comments").doc(mine.id).delete();
+    const p={kind:"reaction",bookId:book,chapter:ch,paraIdx:i,paragraphKey:key,quote,author:name()||"Anônimo",authorId:uid(),emoji,updatedAt:Date.now(),at:mine?.at||Date.now()};
+    if(mine)await db.collection("comments").doc(mine.id).set(p,{merge:true});else await db.collection("comments").add(p);
   }
 
   function thread(root,book){
