@@ -47,6 +47,7 @@ const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
 const views = { library: $("#view-library"), book: $("#view-book"), reader: $("#view-reader") };
 function showView(name){
   Object.entries(views).forEach(([k,el]) => el.hidden = k!==name);
+  window.BetaAnalytics?.setView?.(name);
   window.scrollTo(0,0);
 }
 
@@ -104,6 +105,10 @@ async function openBook(bookId){
   const res = await fetch(resolve(meta.manifest), {cache:"no-cache"});
   const manifest = await res.json();
   state.currentBook = { ...meta, chapters: manifest.chapters || [] };
+  const localCompleted = state.currentBook.chapters
+    .filter(ch=>isChapterDone(state.currentBook.id,ch.n))
+    .map(ch=>Number(ch.n));
+  window.BetaAnalytics?.syncBook?.(state.currentBook,localCompleted);
 
   renderBookView();
   showView("book");
@@ -182,8 +187,11 @@ async function openChapter(idx){
   const book = state.currentBook;
   const ch = book.chapters[idx];
   if(!ch) return;
+  audioEl().pause();
+  window.BetaAnalytics?.closeChapter?.();
   state.currentChapterIdx = idx;
   localStorage.setItem(LASTCH_KEY(book.id), String(idx));
+  window.BetaAnalytics?.openChapter?.(book,ch);
 
   $("#readerChapter").textContent = `Cap. ${ch.n} · ${ch.title}`;
   $("#chapterText").innerHTML = `<p class="empty-hint">Carregando…</p>`;
@@ -201,7 +209,6 @@ async function openChapter(idx){
   updateNextChapterUI();
   updateCompleteUI();
   resetReaderProgress();
-  audioEl().pause();
   updateAmbientForChapter(ch);
 
   // texto
@@ -284,6 +291,7 @@ function updateReaderProgressBar(){
   const pct = max > 0 ? Math.min(100, Math.max(0, Math.round((scroller.scrollTop / max) * 100))) : 100;
   $("#readerProgressFill").style.width = pct + "%";
   $("#readerProgressLabel").textContent = pct + "%";
+  window.BetaAnalytics?.progress?.(pct);
   if(pct >= 96) setChapterDone(true, {silent:true});
 }
 
@@ -330,6 +338,7 @@ function setChapterDone(done, opts={}){
   if(already === done) { if(!opts.silent) updateCompleteUI(); return; }
   if(done) localStorage.setItem(DONE_KEY(book.id, ch.n), "1");
   else localStorage.removeItem(DONE_KEY(book.id, ch.n));
+  window.BetaAnalytics?.completed?.(done);
   if(done) playChapterCompleteSound();
   updateCompleteUI();
 }
@@ -461,6 +470,7 @@ function syncAmbientButton(){
   btn.setAttribute("aria-label",label);
   btn.title=label;
   btn.setAttribute("aria-pressed",String(playing));
+  window.BetaAnalytics?.music?.(playing);
 }
 
 function stopAmbientElement(el,{clear=false}={}){
@@ -570,10 +580,12 @@ function initPlayerControls(){
   });
   a.addEventListener("play", ()=>{
     setNarrationButtonState(true);
+    window.BetaAnalytics?.narration?.(true);
     setAmbientDuck(AMBIENT_DUCK_FACTOR);
   });
   a.addEventListener("pause", ()=>{
     setNarrationButtonState(false);
+    window.BetaAnalytics?.narration?.(false);
     setAmbientDuck(1);
     savePos(a.currentTime);
   });
@@ -583,6 +595,7 @@ function initPlayerControls(){
   });
   a.addEventListener("ended", ()=>{
     setNarrationButtonState(false);
+    window.BetaAnalytics?.narration?.(false);
     setAmbientDuck(1);
     savePos(0);
   });
@@ -707,13 +720,14 @@ function initReaderDisplay(){
   if(!btn || !pop) return;
   let scale = Number(localStorage.getItem(FONT_KEY) || "1");
   if(!Number.isFinite(scale)) scale = 1;
-  const applyScale = ()=>{
+  const applyScale = (track=false)=>{
     scale = Math.max(.8, Math.min(1.6, Math.round(scale*10)/10));
     document.documentElement.style.setProperty("--reader-font-scale", String(scale));
     localStorage.setItem(FONT_KEY, String(scale));
     $("#readerSizeLabel").textContent = Math.round(scale*100) + "%";
+    if(track) window.BetaAnalytics?.preferenceChanged?.("fontScale");
   };
-  applyScale();
+  applyScale(false);
   btn.addEventListener("click",()=>{
     pop.hidden = !pop.hidden;
     btn.setAttribute("aria-expanded", String(!pop.hidden));
@@ -724,7 +738,7 @@ function initReaderDisplay(){
   });
   pop.querySelectorAll("[data-reader-size]").forEach(b=>b.addEventListener("click",()=>{
     scale += b.dataset.readerSize==="+" ? .1 : -.1;
-    applyScale();
+    applyScale(true);
   }));
   document.addEventListener("click",e=>{
     if(!pop.hidden && !pop.contains(e.target) && !btn.contains(e.target)){
@@ -800,10 +814,11 @@ const READER_FONTS = [
   {id:"garamond", name:"EB Garamond", note:"Clássica de livros impressos"},
   {id:"atkinson", name:"Atkinson", note:"Alta distinção entre letras"},
 ];
-function applyTheme(id){
+function applyTheme(id,{track=true}={}){
   document.documentElement.dataset.theme = id;
   localStorage.setItem(THEME_KEY, id);
   updateThemePicker();
+  if(track) window.BetaAnalytics?.preferenceChanged?.("theme");
 }
 function updateThemePicker(){
   const current = localStorage.getItem(THEME_KEY) || "ambar";
@@ -822,10 +837,11 @@ function initThemePicker(picker){
   updateThemePicker();
 }
 
-function applyReaderFont(id){
+function applyReaderFont(id,{track=true}={}){
   if(!READER_FONTS.some(f=>f.id===id)) id = "lora";
   document.documentElement.dataset.readerFont = id;
   localStorage.setItem(FONT_FAMILY_KEY, id);
+  if(track) window.BetaAnalytics?.preferenceChanged?.("font");
   $$("[data-reader-font]").forEach(b=>{
     const active = b.dataset.readerFont===id;
     b.classList.toggle("active", active);
@@ -839,8 +855,8 @@ function initFontPicker(picker, compact=false){
        <span>${f.name}</span>${compact ? "" : `<small>${f.note}</small>`}
      </button>`
   ).join("");
-  $$('[data-reader-font]', picker).forEach(b=>b.addEventListener("click",()=>applyReaderFont(b.dataset.readerFont)));
-  applyReaderFont(localStorage.getItem(FONT_FAMILY_KEY) || "lora");
+  $$('[data-reader-font]', picker).forEach(b=>b.addEventListener("click",()=>applyReaderFont(b.dataset.readerFont,{track:true})));
+  applyReaderFont(localStorage.getItem(FONT_FAMILY_KEY) || "lora",{track:false});
 }
 
 function initSettings(){
@@ -859,6 +875,7 @@ function initSettings(){
   $("#cfgSave").addEventListener("click", ()=>{
     if(hideArt) localStorage.setItem(HIDE_ART_KEY, hideArt.checked ? "1" : "0");
     if(autoAmbient) localStorage.setItem(AUTO_AMBIENT_KEY, autoAmbient.checked ? "1" : "0");
+    window.BetaAnalytics?.syncPreferences?.();
     sheet.hidden = true;
   });
   initThemePicker($("#themePicker"));
@@ -885,7 +902,10 @@ function initNav(){
   $("#focusExit").addEventListener("click", exitFocus);
   $("#btnNextChapterTop")?.addEventListener("click", ()=>{ playNextChapterSound(); changeChapter(1); });
   $("#btnNextChapterEnd").addEventListener("click", ()=>{ playNextChapterSound(); changeChapter(1); });
-  $("#readerScroll").addEventListener("scroll", updateReaderProgressBar, {passive:true});
+  $("#readerScroll").addEventListener("scroll", ()=>{
+    window.BetaAnalytics?.noteInteraction?.();
+    updateReaderProgressBar();
+  }, {passive:true});
   $("#btnCompleteChapter").addEventListener("click", ()=>{
     const book = state.currentBook;
     const ch = book && book.chapters[state.currentChapterIdx];
@@ -906,9 +926,17 @@ initNav();
 initPlayerControls();
 initSettings();
 initReaderDisplay();
+window.BetaAnalytics?.setView?.("library");
+setTimeout(()=>window.BetaAnalytics?.syncPreferences?.(),1200);
 loadLibrary();
 // Re-filtra a biblioteca quando o status de admin ou o perfil do leitor
 // mudar (ex.: autenticação admin resolve async, login por código, etc.)
 document.addEventListener("beta:admin", loadLibrary);
-document.addEventListener("beta:profile-login", loadLibrary);
-document.addEventListener("beta:profile-ready", loadLibrary);
+document.addEventListener("beta:profile-login", ()=>{
+  loadLibrary();
+  setTimeout(()=>window.BetaAnalytics?.syncPreferences?.(),250);
+});
+document.addEventListener("beta:profile-ready", ()=>{
+  loadLibrary();
+  setTimeout(()=>window.BetaAnalytics?.syncPreferences?.(),250);
+});
