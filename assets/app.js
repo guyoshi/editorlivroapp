@@ -4,7 +4,8 @@
 // deste mesmo site — dá pra apontar pra outro endereço nos Ajustes).
 // Guarda progresso de leitura e áudio no localStorage do aparelho.
 
-const CFG_KEY = "jesed:cfgBase";\nconst FONT_KEY = "jesed:readerFontScale";
+const CFG_KEY = "jesed:cfgBase";
+const FONT_KEY = "jesed:readerFontScale";
 const POS_KEY = (bookId, n) => `jesed:pos:${bookId}:${n}`;
 const LASTCH_KEY = (bookId) => `jesed:last:${bookId}`;
 const DONE_KEY = (bookId, n) => `jesed:done:${bookId}:${n}`;
