@@ -1927,3 +1927,14 @@ body.focus-mode .para-actions{ display:none !important; }
   .reader-profile-name-row{ align-items:stretch; flex-direction:column; }
   .reader-profile-name-row button{ width:100%; }
 }
+
+.analytics-diag{
+  display:block;
+  margin-top:3px;
+  color:var(--ink-soft);
+  font-size:.66rem;
+  line-height:1.35;
+}
+.analytics-diag.is-error{
+  color:#e0663a;
+}

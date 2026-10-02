@@ -64,7 +64,10 @@
   async function writePresence(){
     if(writing){pending=true;return;}
     const store=db(),data=payload();
-    if(!store||!data)return;
+    if(!store||!data){
+      if(store&&!data&&localStorage.getItem(USER_KEY))window.BetaDiag?.error?.("presenca:identidade",new Error("perfil incompleto neste aparelho"));
+      return;
+    }
     writing=true;
     // Mesma janela curta de "cold start" do Firestore logo após abrir o app:
     // a primeira escrita cruzando coleções às vezes esbarra em
@@ -75,9 +78,13 @@
       if(attempts[i])await sleep(attempts[i]);
       try{
         await store.collection("readerPresence").doc(data.readerId).set(data,{merge:true});
+        window.BetaDiag?.ok?.("presenca");
         break;
       }catch(e){
-        if(i===attempts.length-1)console.warn("Não foi possível sincronizar presença do leitor:",e);
+        if(i===attempts.length-1){
+          window.BetaDiag?.error?.("presenca",e);
+          console.warn("Não foi possível sincronizar presença do leitor:",e);
+        }
       }
     }
     writing=false;

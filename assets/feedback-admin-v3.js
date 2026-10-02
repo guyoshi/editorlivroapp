@@ -171,6 +171,23 @@
 
   // ---------------- Relatórios beta ----------------
   let analyticsRows=[];
+  let diagMap=new Map();
+  function lastContact(readerId,a){
+    const d=diagMap.get(String(readerId||""))||null;
+    const p=presenceFor(readerId);
+    return Math.max(Number(d?.seenAt)||0,Number(p?.heartbeatAt)||0,Number(a?.updatedAt)||0);
+  }
+  // Linha de diagnóstico: último contato do app + erro de sincronização, se houver.
+  function diagHtml(readerId,a){
+    const d=diagMap.get(String(readerId||""))||null;
+    const seen=lastContact(readerId,a);
+    let out='<small class="analytics-diag">Último contato do app: '+esc(when(seen)||"—")+(d?.appVersion?' · versão '+esc(d.appVersion):'')+'</small>';
+    const errAt=Number(d?.lastErrorAt)||0,okAt=Number(d?.lastOkAt)||0;
+    if(errAt&&errAt>=okAt){
+      out+='<small class="analytics-diag is-error">⚠ Falha de sincronização ('+esc(d.lastErrorWhere||"?")+') em '+esc(when(errAt))+': '+esc(d.lastError||"")+'</small>';
+    }
+    return out;
+  }
   let presenceMap=new Map(),presenceUnsub=null,presenceTicker=null;
   const FEATURE_MIN_SEC=15;
   const PRESENCE_FRESH_MS=45000;
@@ -233,7 +250,7 @@
       const sec=Math.max(1,Math.round(age/1000));
       return {label:sec<60?"Inativo há "+sec+"s":"Inativo há "+Math.floor(sec/60)+"min",kind:"recent"};
     }
-    return {label:"Offline",kind:"offline"};
+    return {label:p.heartbeatAt?"Offline · visto "+when(p.heartbeatAt):"Offline",kind:"offline"};
   }
   function liveLocation(p){
     if(!p||!p.chapter)return "";
@@ -429,7 +446,7 @@
       const ignoreBtn='<button class="link-btn analytics-ignore-btn" type="button" data-analytics-ignore="'+(ignored?"0":"1")+'" data-profile-id="'+esc(p.id||"")+'" data-reader-id="'+esc(p.readerId||a?.readerId||"")+'">'+(ignored?"Incluir nas estatísticas":"Ignorar nas estatísticas")+'</button>';
       if(!a){
         return '<article class="analytics-reader-card is-empty '+(ignored?"is-ignored":"")+'">'
-          +'<div class="analytics-reader-open-static"><strong>'+label+'</strong><span>Sem atividade medida ainda.</span></div>'
+          +'<div class="analytics-reader-open-static"><strong>'+label+'</strong><span>Sem atividade medida ainda.</span>'+diagHtml(p.readerId,null)+'</div>'
           +'<div class="analytics-reader-actions">'+(ignored?'<span class="analytics-ignored-badge">Ignorado</span>':'')+ignoreBtn+'</div>'
           +'</article>';
       }
@@ -449,7 +466,8 @@
           +'<div class="analytics-reader-top"><div><strong>'+label+'</strong><span>'+location+'</span><em class="presence-status '+esc(status.kind)+'">'+(status.kind==="live"?'<i></i>':"")+esc(status.label)+'</em></div><b>'+shownPct+'%</b></div>'
           +'<div class="analytics-progress"><i style="width:'+shownPct+'%"></i></div>'
           +'<div class="analytics-reader-metrics"><span>'+completed+' caps concluídos</span><span>'+fmtDuration(a.totalActiveSec)+' ativo</span><span>'+fmtDuration(a.totalNarrationSec)+' narração</span><span>'+fmtDuration(a.totalMusicSec)+' música</span></div>'
-          +'<small>Última leitura medida: '+esc(when(a.lastActiveAt||a.updatedAt)||"—")+'</small>'
+          +'<small>Última leitura medida: '+esc(when(a.lastActiveAt)||"nenhuma ainda")+'</small>'
+          +diagHtml(a.readerId,a)
         +'</button>'
         +'<div class="analytics-reader-actions">'+(ignored?'<span class="analytics-ignored-badge">Ignorado das médias</span>':'')+ignoreBtn+'</div>'
         +'</article>';
@@ -476,10 +494,16 @@
       list.innerHTML='<p class="admin-empty">Carregando relatórios…</p>';
     }
     try{
-      const [profiles,snap]=await Promise.all([
+      const [profiles,snap,diagSnap]=await Promise.all([
         Comments.listReaderProfiles(),
-        db().collection("readerAnalytics").get()
+        db().collection("readerAnalytics").get(),
+        db().collection("readerDiagnostics").get().catch(e=>{
+          console.warn("Diagnóstico dos leitores indisponível (publique as Rules novas):",e);
+          return null;
+        })
       ]);
+      diagMap=new Map();
+      diagSnap?.forEach(d=>diagMap.set(d.id,{id:d.id,...d.data()}));
       const byReader=new Map();
       snap.forEach(d=>byReader.set(d.id,{id:d.id,...d.data()}));
       analyticsRows=profiles.map(profile=>({profile,analytics:byReader.get(profile.readerId)||null,chapters:[]}));
@@ -550,7 +574,7 @@
 
     detail.innerHTML=
       '<button id="analyticsBack" class="back-link analytics-back" type="button">← Todos os leitores</button>'
-      +'<section class="analytics-reader-detail-head"><div class="analytics-reader-detail-title"><div><h3>'+label+'</h3><p>'+current+'</p><em class="presence-status '+esc(status.kind)+'">'+(status.kind==="live"?'<i></i>':"")+esc(status.label)+'</em><small>Última leitura medida: '+esc(when(a.lastActiveAt||a.updatedAt)||"—")+'</small></div>'
+      +'<section class="analytics-reader-detail-head"><div class="analytics-reader-detail-title"><div><h3>'+label+'</h3><p>'+current+'</p><em class="presence-status '+esc(status.kind)+'">'+(status.kind==="live"?'<i></i>':"")+esc(status.label)+'</em><small>Última leitura medida: '+esc(when(a.lastActiveAt)||"nenhuma ainda")+'</small>'+diagHtml(readerId,a)+'</div>'
         +'<button class="link-btn analytics-ignore-btn" type="button" data-analytics-ignore="'+(ignored?"0":"1")+'" data-profile-id="'+esc(p.id||"")+'" data-reader-id="'+esc(readerId)+'">'+(ignored?"Incluir nas estatísticas":"Ignorar nas estatísticas")+'</button>'
       +'</div></section>'
       +'<div class="analytics-overview compact">'

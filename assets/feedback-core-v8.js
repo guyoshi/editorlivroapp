@@ -315,6 +315,7 @@ const Comments = (() => {
         return true;
       }catch(e){
         if(i===attempts.length-1){
+          window.BetaDiag?.error?.("codigo",e);
           console.warn("Não foi possível sincronizar o código de acesso com o painel:",e);
         }
       }
@@ -378,7 +379,7 @@ const Comments = (() => {
       // (sem alguns campos) podem ter essa escrita recusada pelas Rules — isso
       // NÃO pode impedir o código de chegar ao painel do autor.
       try{await ref.set(payload,{merge:true});}
-      catch(e){console.warn("Não foi possível atualizar o perfil (seguindo com a sincronização do código):",e);}
+      catch(e){window.BetaDiag?.error?.("perfil",e);console.warn("Não foi possível atualizar o perfil (seguindo com a sincronização do código):",e);}
       const storedReaderId=String(profileDoc?.data()?.readerId||payload.readerId);
       await syncAccessCodeRecord(codeHash,code,storedReaderId);
     }else{
@@ -707,7 +708,7 @@ const Comments = (() => {
     window.addEventListener("load",updateIdentityBar);
     setTimeout(updateIdentityBar,0);
     if(name()){
-      ensureAccessProfile().catch(e=>console.warn("Perfil portátil indisponível:",e));
+      ensureAccessProfile().catch(e=>{window.BetaDiag?.error?.("perfil",e);console.warn("Perfil portátil indisponível:",e);});
     }
     // Enquanto o código deste aparelho não constar no painel, tenta de novo
     // ao voltar para o app e a cada 2 minutos.

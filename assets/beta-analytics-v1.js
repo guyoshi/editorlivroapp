@@ -101,9 +101,40 @@
     };
   }
 
+  // Escritas que falharam ficam guardadas (uma por capítulo, sempre com o
+  // estado mais recente) e são reenviadas no próximo ciclo, em vez de se
+  // perderem — antes, se a abertura do capítulo falhasse uma vez, o painel
+  // nunca ficava sabendo que o leitor estava naquele capítulo.
+  const failedStates=new Map();
+  let retryingStates=false;
+  function rememberFailed(summaryFields,chapterFields,ctx){
+    const key=ctx&&chapterFields?chapterKey(ctx):"__summary";
+    const prev=failedStates.get(key);
+    failedStates.set(key,{
+      summaryFields:{...(prev?.summaryFields||{}),...summaryFields},
+      chapterFields:chapterFields?{...(prev?.chapterFields||{}),...chapterFields}:(prev?.chapterFields||null),
+      ctx:ctx?{...ctx}:null
+    });
+  }
+  async function retryFailedStates(){
+    if(retryingStates||!failedStates.size)return;
+    retryingStates=true;
+    try{
+      for(const [key,item] of [...failedStates.entries()]){
+        failedStates.delete(key);
+        try{await writeState(item.summaryFields,item.chapterFields,item.ctx);}
+        catch(e){break;}
+      }
+    }finally{retryingStates=false;}
+  }
+
   async function writeState(summaryFields={},chapterFields=null,ctx=context){
     const id=identity(),store=db();
-    if(!id||!store)return false;
+    if(!id||!store){
+      if(!id)window.BetaDiag?.error?.("analytics:identidade",new Error("perfil incompleto neste aparelho (readerId/hash/nome)"));
+      rememberFailed(summaryFields,chapterFields,ctx);
+      return false;
+    }
     const stamp=now();
     const batch=store.batch();
     const summaryRef=store.collection("readerAnalytics").doc(id.readerId);
@@ -112,7 +143,14 @@
       const chapterRef=summaryRef.collection("chapters").doc(chapterDocId(ctx));
       batch.set(chapterRef,{...chapterBase(id,ctx,stamp),...chapterFields},{merge:true});
     }
-    await commitWithRetry(batch);
+    try{
+      await commitWithRetry(batch);
+    }catch(e){
+      window.BetaDiag?.error?.(ctx&&chapterFields?"analytics:capitulo":"analytics:resumo",e);
+      rememberFailed(summaryFields,chapterFields,ctx);
+      throw e;
+    }
+    window.BetaDiag?.ok?.("analytics");
     return true;
   }
 
@@ -184,6 +222,7 @@
         usageQueue.shift();
       }
     }catch(e){
+      window.BetaDiag?.error?.("analytics:tempo",e);
       console.warn("Não foi possível sincronizar as métricas do leitor:",e);
     }finally{
       sending=false;
@@ -367,7 +406,7 @@
       ...prefs()
     },{merge:true});
     try{await batch.commit();}
-    catch(e){console.warn("Não foi possível importar o progresso local:",e);}
+    catch(e){window.BetaDiag?.error?.("analytics:importar",e);console.warn("Não foi possível importar o progresso local:",e);}
   }
 
   function tick(){
@@ -382,7 +421,7 @@
     ){
       activePendingSec+=elapsed;
     }
-    if(stamp-lastFlushAt>=30000)flushUsage();
+    if(stamp-lastFlushAt>=30000){flushUsage();retryFailedStates();}
   }
 
   setInterval(tick,5000);
@@ -399,7 +438,7 @@
   window.addEventListener("pagehide",flushUsage);
   // Reparo manual (disparado ao avançar de capítulo, por exemplo): força uma
   // escrita agora, em vez de esperar o próximo ciclo normal.
-  document.addEventListener("beta:force-resync",()=>{syncPreferences();flushUsage();});
+  document.addEventListener("beta:force-resync",()=>{syncPreferences();flushUsage();retryFailedStates();});
   document.addEventListener("pointerdown",noteInteraction,{passive:true});
   document.addEventListener("keydown",noteInteraction);
 

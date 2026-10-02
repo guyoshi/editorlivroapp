@@ -397,6 +397,40 @@ service cloud.firestore {
         && get(/databases/$(database)/documents/readerProfiles/$(data.profileHash)).data.readerId == readerId;
     }
 
+    // ---------------------------------------------------------
+    // DIAGNÓSTICO DE SINCRONIZAÇÃO
+    // Sinal de vida + último erro do app do leitor. Propositalmente NÃO
+    // depende do perfil estar consistente, para o autor ver por que as
+    // métricas de um leitor não chegam. Somente admins leem.
+    // ---------------------------------------------------------
+    match /readerDiagnostics/{readerId} {
+      allow read, delete: if isAdmin();
+      allow create, update: if readerId.size() >= 16
+        && readerId.size() <= 80
+        && request.resource.data.keys().hasOnly([
+          'readerId','profileHash','name','appVersion','seenAt','visible',
+          'standalone','online','ua','lastOkAt','lastOkWhere',
+          'lastErrorAt','lastError','lastErrorWhere','errorCount'
+        ])
+        && request.resource.data.readerId == readerId
+        && request.resource.data.profileHash is string
+        && request.resource.data.profileHash.size() <= 64
+        && request.resource.data.name is string
+        && request.resource.data.name.size() <= 40
+        && request.resource.data.appVersion is string
+        && request.resource.data.appVersion.size() <= 40
+        && request.resource.data.seenAt is int
+        && request.resource.data.ua is string
+        && request.resource.data.ua.size() <= 200
+        && request.resource.data.lastError is string
+        && request.resource.data.lastError.size() <= 300
+        && request.resource.data.lastErrorWhere is string
+        && request.resource.data.lastErrorWhere.size() <= 40
+        && request.resource.data.lastOkWhere is string
+        && request.resource.data.lastOkWhere.size() <= 40
+        && request.resource.data.errorCount is int;
+    }
+
     match /readerPresence/{readerId} {
       allow read, delete: if isAdmin();
       allow create, update: if validReaderPresence(readerId, request.resource.data);
