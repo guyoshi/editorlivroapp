@@ -140,7 +140,10 @@
 
   // ---------------- Relatórios beta ----------------
   let analyticsRows=[];
+  let presenceMap=new Map(),presenceUnsub=null,presenceTicker=null;
   const FEATURE_MIN_SEC=15;
+  const PRESENCE_FRESH_MS=45000;
+  const PRESENCE_RECENT_MS=5*60*1000;
   const share=(n,total)=>total?Math.round((n/total)*100):0;
   const avg=values=>values.length?values.reduce((a,b)=>a+b,0)/values.length:0;
   const median=values=>{
@@ -160,6 +163,7 @@
       +'<header class="admin-dashboard-head"><div><h2>Relatórios beta</h2><p>Avanço dos leitores e uso real das ferramentas do app.</p></div><div class="admin-head-actions"><button id="analyticsBackHome" class="link-btn admin-back-btn" type="button">← Painel</button><button id="analyticsRefresh" class="link-btn" type="button">Atualizar</button><button id="analyticsClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<div id="analyticsMain" class="analytics-scroll">'
       +'<p class="analytics-note">As médias ignoram os usuários marcados como teste. Uso de narração/música conta após 15 segundos. Capítulos antigos concluídos são importados quando o leitor abre o livro, mas tempos históricos não podem ser reconstruídos.</p>'
+      +'<section id="analyticsLiveSection" class="analytics-section analytics-live-section"><div class="analytics-section-head"><h3>Agora</h3><span>Presença atualizada automaticamente a cada poucos segundos.</span></div><div id="analyticsLiveList" class="analytics-live-list"></div></section>'
       +'<div id="analyticsOverview" class="analytics-overview"></div>'
       +'<section class="analytics-section"><div class="analytics-section-head"><h3>Uso de recursos</h3><span>Percentual dos leitores medidos que realmente usaram narração, música, ambos ou nenhum.</span></div><div id="analyticsAdoption" class="analytics-adoption"></div></section>'
       +'<section class="analytics-section"><div class="analytics-section-head"><h3>Preferências mais usadas</h3><span>Top escolhas dos leitores válidos, em porcentagem.</span></div><div id="analyticsPreferences" class="analytics-preferences"></div></section>'
@@ -172,6 +176,79 @@
     el.querySelector("#analyticsClose").onclick=hideAnalytics;
     el.querySelector("#analyticsRefresh").onclick=loadAnalytics;
     el.onclick=e=>{if(e.target===el)hideAnalytics();};
+  }
+
+  function presenceFor(readerId){
+    return presenceMap.get(String(readerId||""))||null;
+  }
+  function presenceAge(p){
+    return p?Math.max(0,Date.now()-(Number(p.heartbeatAt)||0)):Infinity;
+  }
+  function presenceFresh(p){
+    return !!p&&presenceAge(p)<=PRESENCE_FRESH_MS;
+  }
+  function presenceStatus(p){
+    if(!p)return {label:"Offline",kind:"offline"};
+    const age=presenceAge(p);
+    if(age<=PRESENCE_FRESH_MS){
+      if(p.active){
+        const media=(p.narrationOn?" 🎧":"")+(p.musicOn?" ♪":"");
+        return {label:(p.narrationOn?"Ouvindo agora":"Lendo agora")+media,kind:"live"};
+      }
+      if(p.view==="reader"&&p.visible)return {label:"Capítulo aberto · sem atividade recente",kind:"idle"};
+      return {label:"Online no app",kind:"online"};
+    }
+    if(age<=PRESENCE_RECENT_MS){
+      const sec=Math.max(1,Math.round(age/1000));
+      return {label:sec<60?"Inativo há "+sec+"s":"Inativo há "+Math.floor(sec/60)+"min",kind:"recent"};
+    }
+    return {label:"Offline",kind:"offline"};
+  }
+  function liveLocation(p){
+    if(!p||!p.chapter)return "";
+    return esc(p.bookTitle||p.bookId||"Livro")+" · Cap. "+esc(p.chapter)+" · "+pct(p.currentPct)+"%";
+  }
+  function renderLivePresence(){
+    const list=document.getElementById("analyticsLiveList");
+    const section=document.getElementById("analyticsLiveSection");
+    if(!list||!section)return;
+    const profileByReader=new Map(analyticsRows.map(row=>[row.profile?.readerId,row.profile]));
+    const live=[...presenceMap.values()]
+      .filter(p=>presenceFresh(p)&&p.active&&!profileByReader.get(p.readerId)?.analyticsIgnored)
+      .sort((a,b)=>(Number(b.heartbeatAt)||0)-(Number(a.heartbeatAt)||0));
+    section.hidden=false;
+    if(!live.length){
+      list.innerHTML='<p class="admin-empty">Ninguém está com atividade de leitura detectada agora.</p>';
+      return;
+    }
+    list.innerHTML=live.map(p=>{
+      const profile=profileByReader.get(p.readerId)||{};
+      const label=esc(profile.name||p.name||"Leitor");
+      const status=presenceStatus(p);
+      return '<article class="analytics-live-card">'
+        +'<div><span class="presence-dot"></span><strong>'+label+'</strong><small>'+esc(status.label)+'</small></div>'
+        +'<div class="analytics-live-location"><b>'+pct(p.currentPct)+'%</b><span>'+liveLocation(p)+'</span></div>'
+      +'</article>';
+    }).join("");
+  }
+  function stopPresenceSubscription(){
+    presenceUnsub?.();presenceUnsub=null;
+    if(presenceTicker){clearInterval(presenceTicker);presenceTicker=null;}
+  }
+  function startPresenceSubscription(){
+    if(presenceUnsub||!db())return;
+    presenceUnsub=db().collection("readerPresence").onSnapshot(snap=>{
+      presenceMap=new Map();
+      snap.forEach(d=>presenceMap.set(d.id,{id:d.id,...d.data()}));
+      renderAnalytics();
+      const detail=document.getElementById("analyticsDetail");
+      if(detail&&!detail.hidden&&detail.dataset.readerId)showAnalyticsReader(detail.dataset.readerId);
+    },e=>console.warn("Presença ao vivo indisponível:",e));
+    presenceTicker=setInterval(()=>{
+      renderAnalytics();
+      const detail=document.getElementById("analyticsDetail");
+      if(detail&&!detail.hidden&&detail.dataset.readerId)showAnalyticsReader(detail.dataset.readerId);
+    },10000);
   }
 
   function distribution(rows,key,labelMap){
@@ -238,6 +315,7 @@
     const pref=document.getElementById("analyticsPreferences");
     const list=document.getElementById("analyticsReaderList");
     if(!overview||!adoption||!pref||!list)return;
+    renderLivePresence();
 
     const validRows=analyticsRows.filter(row=>!row.profile?.analyticsIgnored);
     const ignoredCount=analyticsRows.length-validRows.length;
@@ -305,6 +383,9 @@
     const displayRows=analyticsRows.slice().sort((a,b)=>{
       const ignored=Number(!!a.profile?.analyticsIgnored)-Number(!!b.profile?.analyticsIgnored);
       if(ignored)return ignored;
+      const ap=presenceFor(a.profile?.readerId||a.analytics?.readerId),bp=presenceFor(b.profile?.readerId||b.analytics?.readerId);
+      const alive=Number(!!(ap&&presenceFresh(ap)&&ap.active)),blive=Number(!!(bp&&presenceFresh(bp)&&bp.active));
+      if(alive!==blive)return blive-alive;
       return (b.analytics?.lastActiveAt||b.analytics?.updatedAt||0)-(a.analytics?.lastActiveAt||a.analytics?.updatedAt||0);
     });
 
@@ -318,16 +399,23 @@
           +'<div class="analytics-reader-actions">'+(ignored?'<span class="analytics-ignored-badge">Ignorado</span>':'')+ignoreBtn+'</div>'
           +'</article>';
       }
-      const location=a.currentChapter
-        ?esc(a.currentBookTitle||a.currentBookId||"Livro")+' · Cap. '+esc(a.currentChapter)+' · '+pct(a.currentChapterPct)+'%'
-        :'Nenhum capítulo aberto ainda';
+      const live=presenceFor(a.readerId);
+      const fresh=presenceFresh(live);
+      const liveReader=fresh&&live?.view==="reader"&&live?.chapter;
+      const shownPct=liveReader?pct(live.currentPct):pct(a.currentChapterPct);
+      const location=liveReader
+        ?liveLocation(live)
+        :a.currentChapter
+          ?esc(a.currentBookTitle||a.currentBookId||"Livro")+' · Cap. '+esc(a.currentChapter)+' · '+pct(a.currentChapterPct)+'%'
+          :'Nenhum capítulo aberto ainda';
+      const status=presenceStatus(live);
       const completed=(row.chapters||[]).filter(ch=>ch.completed).length;
-      return '<article class="analytics-reader-card '+(ignored?"is-ignored":"")+'">'
+      return '<article class="analytics-reader-card '+(ignored?"is-ignored":"")+' '+(fresh&&live?.active?"is-live":"")+'">'
         +'<button class="analytics-reader-open" type="button" data-analytics-reader="'+esc(a.readerId)+'">'
-          +'<div class="analytics-reader-top"><div><strong>'+label+'</strong><span>'+location+'</span></div><b>'+pct(a.currentChapterPct)+'%</b></div>'
-          +'<div class="analytics-progress"><i style="width:'+pct(a.currentChapterPct)+'%"></i></div>'
+          +'<div class="analytics-reader-top"><div><strong>'+label+'</strong><span>'+location+'</span><em class="presence-status '+esc(status.kind)+'">'+(status.kind==="live"?'<i></i>':"")+esc(status.label)+'</em></div><b>'+shownPct+'%</b></div>'
+          +'<div class="analytics-progress"><i style="width:'+shownPct+'%"></i></div>'
           +'<div class="analytics-reader-metrics"><span>'+completed+' caps concluídos</span><span>'+fmtDuration(a.totalActiveSec)+' ativo</span><span>'+fmtDuration(a.totalNarrationSec)+' narração</span><span>'+fmtDuration(a.totalMusicSec)+' música</span></div>'
-          +'<small>Última atividade: '+esc(when(a.lastActiveAt||a.updatedAt)||"—")+'</small>'
+          +'<small>Última leitura medida: '+esc(when(a.lastActiveAt||a.updatedAt)||"—")+'</small>'
         +'</button>'
         +'<div class="analytics-reader-actions">'+(ignored?'<span class="analytics-ignored-badge">Ignorado das médias</span>':'')+ignoreBtn+'</div>'
         +'</article>';
@@ -388,6 +476,7 @@
     const detail=document.getElementById("analyticsDetail");
     main.hidden=true;
     detail.hidden=false;
+    detail.dataset.readerId=readerId;
 
     const chapters=row.chapters||[];
     const a=row.analytics,p=row.profile||{};
@@ -398,9 +487,14 @@
     const completed=chapters.filter(ch=>ch.completed).length;
     const timedCompleted=chapters.filter(ch=>ch.completed&&(Number(ch.activeSec)||0)>=FEATURE_MIN_SEC);
     const readerAvg=avg(timedCompleted.map(ch=>Number(ch.activeSec)||0));
-    const current=a.currentChapter
-      ?esc(a.currentBookTitle||a.currentBookId||"Livro")+' · Cap. '+esc(a.currentChapter)+' · '+pct(a.currentChapterPct)+'%'
-      :'Nenhum capítulo aberto';
+    const live=presenceFor(readerId);
+    const fresh=presenceFresh(live);
+    const status=presenceStatus(live);
+    const current=(fresh&&live?.view==="reader"&&live?.chapter)
+      ?liveLocation(live)
+      :a.currentChapter
+        ?esc(a.currentBookTitle||a.currentBookId||"Livro")+' · Cap. '+esc(a.currentChapter)+' · '+pct(a.currentChapterPct)+'%'
+        :'Nenhum capítulo aberto';
 
     const chapterHtml=chapters.length?chapters.map(ch=>{
       const cp=ch.completed?100:pct(ch.currentPct);
@@ -413,7 +507,7 @@
 
     detail.innerHTML=
       '<button id="analyticsBack" class="back-link analytics-back" type="button">← Todos os leitores</button>'
-      +'<section class="analytics-reader-detail-head"><div class="analytics-reader-detail-title"><div><h3>'+label+'</h3><p>'+current+'</p><small>Última atividade: '+esc(when(a.lastActiveAt||a.updatedAt)||"—")+'</small></div>'
+      +'<section class="analytics-reader-detail-head"><div class="analytics-reader-detail-title"><div><h3>'+label+'</h3><p>'+current+'</p><em class="presence-status '+esc(status.kind)+'">'+(status.kind==="live"?'<i></i>':"")+esc(status.label)+'</em><small>Última leitura medida: '+esc(when(a.lastActiveAt||a.updatedAt)||"—")+'</small></div>'
         +'<button class="link-btn analytics-ignore-btn" type="button" data-analytics-ignore="'+(ignored?"0":"1")+'" data-profile-id="'+esc(p.id||"")+'" data-reader-id="'+esc(readerId)+'">'+(ignored?"Incluir nas estatísticas":"Ignorar nas estatísticas")+'</button>'
       +'</div></section>'
       +'<div class="analytics-overview compact">'
@@ -434,7 +528,7 @@
       +'</section>'
       +'<section class="analytics-section"><div class="analytics-section-head"><h3>Capítulo a capítulo</h3><span>Tempo ativo, narração e música podem acontecer ao mesmo tempo.</span></div>'+chapterHtml+'</section>';
 
-    detail.querySelector("#analyticsBack").onclick=()=>{detail.hidden=true;main.hidden=false;};
+    detail.querySelector("#analyticsBack").onclick=()=>{detail.hidden=true;detail.dataset.readerId="";main.hidden=false;};
     wireIgnoreButtons(detail);
   }
 
@@ -442,11 +536,13 @@
     if(!Comments?.isAdmin?.())return;
     ensureAnalyticsSheet();
     document.getElementById("betaAnalyticsSheet").hidden=false;
+    startPresenceSubscription();
     loadAnalytics();
   }
   function hideAnalytics(){
     const x=document.getElementById("betaAnalyticsSheet");
     if(x)x.hidden=true;
+    stopPresenceSubscription();
   }
 
 
