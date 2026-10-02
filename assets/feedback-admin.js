@@ -153,7 +153,7 @@
         const checked=allowed.includes(b.id)?"checked":"";
         return '<label class="field-check"><input type="checkbox" data-profile="'+esc(p.id)+'" data-book="'+esc(b.id)+'" '+checked+'><span>'+esc(b.title)+'</span></label>';
       }).join("");
-      return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+checks+'</article>';
+      return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+checks+'<div class="admin-card-actions"><button type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button></div></article>';
     }).join("");
     list.querySelectorAll("input[type=checkbox]").forEach(cb=>{
       cb.addEventListener("change",async()=>{
@@ -164,6 +164,25 @@
         try{await Comments.setAllowedBooks(profileId,current);}
         catch(e){alert("Não foi possível salvar: "+(e.message||"tente de novo."));cb.checked=!cb.checked;}
         finally{cb.disabled=false;}
+      });
+    });
+    list.querySelectorAll("[data-delete-profile]").forEach(btn=>{
+      btn.addEventListener("click",async()=>{
+        const profile=profiles.find(p=>p.id===btn.dataset.deleteProfile);
+        if(!profile)return;
+        const who=profile.name||"este leitor";
+        if(!confirm('Apagar "'+who+'"?\n\nO código de acesso será revogado e os comentários, respostas e reações desse leitor serão apagados. Esta ação não pode ser desfeita.'))return;
+        btn.disabled=true;
+        btn.textContent="Apagando…";
+        try{
+          const result=await Comments.deleteReaderProfile(profile.id,profile.readerId);
+          if(result?.cleanupFailed)alert("O leitor foi removido e o código foi revogado, mas alguns feedbacks podem ter ficado no banco.");
+          await renderAccess();
+        }catch(e){
+          alert("Não foi possível apagar o leitor: "+(e.message||"tente de novo."));
+          btn.disabled=false;
+          btn.textContent="Apagar leitor";
+        }
       });
     });
   }
