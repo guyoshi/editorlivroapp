@@ -6,7 +6,7 @@
   const when=t=>t?new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"";
   const shortId=id=>{const v=String(id||"").replace(/[^a-z0-9]/gi,"").toUpperCase();return v?v.slice(-6):"LEGADO";};
   const readerKey=x=>x.authorId||("legacy:"+norm(x.author));
-  const readerLabel=x=>(x.author||"Anônimo")+" · ID interno "+shortId(x.authorId);
+  const readerLabel=x=>(x.author||"Anônimo");
   const fmtDuration=value=>{
     const s=Math.max(0,Math.round(Number(value)||0));
     if(s<60)return s+"s";
@@ -309,7 +309,7 @@
 
     list.innerHTML=displayRows.map(row=>{
       const p=row.profile||{},a=row.analytics,ignored=!!p.analyticsIgnored;
-      const label=esc(p.name||a?.name||"Anônimo")+" · ID interno "+shortId(p.readerId||a?.readerId);
+      const label=esc(p.name||a?.name||"Anônimo")+(p.accessCode?" · Código "+esc(p.accessCode):" · Código não sincronizado");
       const ignoreBtn='<button class="link-btn analytics-ignore-btn" type="button" data-analytics-ignore="'+(ignored?"0":"1")+'" data-profile-id="'+esc(p.id||"")+'" data-reader-id="'+esc(p.readerId||a?.readerId||"")+'">'+(ignored?"Incluir nas estatísticas":"Ignorar nas estatísticas")+'</button>';
       if(!a){
         return '<article class="analytics-reader-card is-empty '+(ignored?"is-ignored":"")+'">'
@@ -391,7 +391,7 @@
     const chapters=row.chapters||[];
     const a=row.analytics,p=row.profile||{};
     const ignored=!!p.analyticsIgnored;
-    const label=esc(p.name||a.name||"Anônimo")+" · ID interno "+shortId(readerId);
+    const label=esc(p.name||a.name||"Anônimo")+(p.accessCode?" · Código "+esc(p.accessCode):" · Código não sincronizado");
     const narrationCaps=chapters.filter(ch=>(Number(ch.narrationSec)||0)>=FEATURE_MIN_SEC).length;
     const musicCaps=chapters.filter(ch=>(Number(ch.musicSec)||0)>=FEATURE_MIN_SEC).length;
     const completed=chapters.filter(ch=>ch.completed).length;
@@ -528,7 +528,7 @@
     ensureDeleteReaderConfirm();
     pendingDeleteProfile=profile;
     const el=document.getElementById("readerDeleteConfirm");
-    el.querySelector("#readerDeleteName").textContent=(profile.name||"Anônimo")+" · ID interno "+shortId(profile.readerId);
+    el.querySelector("#readerDeleteName").textContent=(profile.name||"Anônimo")+(profile.accessCode?" · Código "+profile.accessCode:"");
     el.querySelector("#readerDeleteAcknowledge").checked=false;
     el.querySelector("#readerDeleteConfirmBtn").disabled=true;
     el.querySelector("#readerDeleteStatus").textContent="";
@@ -552,7 +552,7 @@
   function ensureAccessSheet(){
     if(document.getElementById("bookAccessSheet"))return;
     const el=document.createElement("div");el.id="bookAccessSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Leitores e acessos</h2><p>Cada leitor escolhe o primeiro livro. Marque outros para ampliar a biblioteca dele. O ID interno exibido aqui não é o código de acesso.</p></div><div class="admin-head-actions"><button id="accessDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="accessDashClose" class="icon-btn" type="button">✕</button></div></header><div id="bookAccessList" class="admin-dashboard-list"></div></section>';
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Leitores e acessos</h2><p>Veja os códigos de acesso, libere livros e administre cada leitor.</p></div><div class="admin-head-actions"><button id="accessDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="accessDashClose" class="icon-btn" type="button">✕</button></div></header><div id="bookAccessList" class="admin-dashboard-list"></div></section>';
     document.body.appendChild(el);
     el.querySelector("#accessDashBack").onclick=()=>{hideAccess();showAdminHome();};
     el.querySelector("#accessDashClose").onclick=hideAccess;
@@ -567,13 +567,22 @@
     if(!books.length){list.innerHTML='<p class="admin-empty">Nenhum livro cadastrado ainda.</p>';return;}
     if(!profiles.length){list.innerHTML='<p class="admin-empty">Nenhum leitor com perfil ainda. Quando alguém criar o perfil e escolher o primeiro livro, aparecerá aqui.</p>';return;}
     list.innerHTML=profiles.map(p=>{
-      const label=esc(p.name||"Anônimo")+" · ID interno "+shortId(p.readerId);
+      const code=String(p.accessCode||"").trim();
+      const label=esc(p.name||"Anônimo");
+      const codeHtml=code
+        ? '<div class="reader-admin-code"><span>Código de acesso</span><strong>'+esc(code)+'</strong></div>'
+        : '<div class="reader-admin-code is-missing"><span>Código de acesso</span><strong>Ainda não sincronizado</strong><small>Este perfil é antigo. O código aparecerá quando o leitor abrir o app ou você pode gerar um novo.</small></div>';
       const allowed=Array.isArray(p.allowedBooks)?p.allowedBooks:[];
       const checks=books.map(b=>{
         const checked=allowed.includes(b.id)?"checked":"";
         return '<label class="field-check"><input type="checkbox" data-profile="'+esc(p.id)+'" data-book="'+esc(b.id)+'" '+checked+'><span>'+esc(b.title)+'</span></label>';
       }).join("");
-      return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+checks+'<div class="admin-card-actions reader-access-card-actions"><button type="button" data-popup-profile="'+esc(p.id)+'">Enviar popup</button><button class="reader-delete-btn" type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button></div></article>';
+      return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+codeHtml+checks+'<div class="admin-card-actions reader-access-card-actions">'
+        +(code?'<button type="button" data-copy-code="'+esc(p.id)+'">Copiar código</button>':'')
+        +'<button type="button" data-rotate-code="'+esc(p.id)+'">'+(code?'Gerar novo código':'Gerar código')+'</button>'
+        +'<button type="button" data-popup-profile="'+esc(p.id)+'">Enviar popup</button>'
+        +'<button class="reader-delete-btn" type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button>'
+        +'</div></article>';
     }).join("");
     list.querySelectorAll("input[type=checkbox]").forEach(cb=>{
       cb.addEventListener("change",async()=>{
@@ -584,6 +593,43 @@
         try{await Comments.setAllowedBooks(profileId,current);}
         catch(e){alert("Não foi possível salvar: "+(e.message||"tente de novo."));cb.checked=!cb.checked;}
         finally{cb.disabled=false;}
+      });
+    });
+    list.querySelectorAll("[data-copy-code]").forEach(btn=>{
+      btn.addEventListener("click",async()=>{
+        const profile=profiles.find(p=>p.id===btn.dataset.copyCode);
+        if(!profile?.accessCode)return;
+        try{
+          await navigator.clipboard.writeText(profile.accessCode);
+          const old=btn.textContent;
+          btn.textContent="Copiado!";
+          setTimeout(()=>btn.textContent=old,1300);
+        }catch(e){
+          alert("Código: "+profile.accessCode);
+        }
+      });
+    });
+    list.querySelectorAll("[data-rotate-code]").forEach(btn=>{
+      btn.addEventListener("click",async()=>{
+        const profile=profiles.find(p=>p.id===btn.dataset.rotateCode);
+        if(!profile)return;
+        const hadCode=!!profile.accessCode;
+        const warning=hadCode
+          ? 'Gerar um novo código para "'+(profile.name||"este leitor")+'"?\n\nO código atual '+profile.accessCode+' deixará de funcionar. O leitor, comentários e relatórios serão preservados.'
+          : 'Gerar um código de acesso para "'+(profile.name||"este leitor")+'"?\n\nIsso mantém o mesmo leitor, comentários e relatórios.';
+        if(!confirm(warning))return;
+        btn.disabled=true;
+        btn.textContent="Gerando…";
+        try{
+          const result=await Comments.rotateReaderAccessCode(profile.id);
+          if(result?.cleanupFailed)alert("Novo código: "+result.accessCode+"\n\nO código foi criado, mas parte das mensagens/relatórios pode precisar de sincronização quando o leitor abrir o app.");
+          else alert("Novo código de acesso: "+result.accessCode);
+          await renderAccess();
+        }catch(e){
+          alert("Não foi possível gerar o código: "+(e.message||"tente de novo."));
+          btn.disabled=false;
+          btn.textContent=hadCode?"Gerar novo código":"Gerar código";
+        }
       });
     });
     list.querySelectorAll("[data-popup-profile]").forEach(btn=>{
