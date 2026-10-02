@@ -1113,6 +1113,14 @@ html,body{ height:100dvh; overflow:hidden; }
   background:#23b26d;
   box-shadow:0 0 0 3px color-mix(in srgb,#23b26d 18%,transparent);
 }
+.presence-dot.presence-idle,.presence-dot.presence-online{
+  background:#e0a63a;
+  box-shadow:0 0 0 3px color-mix(in srgb,#e0a63a 18%,transparent);
+}
+.presence-dot.presence-recent{
+  background:#8a8a8a;
+  box-shadow:none;
+}
 .analytics-live-location{
   display:flex;
   flex-direction:column;

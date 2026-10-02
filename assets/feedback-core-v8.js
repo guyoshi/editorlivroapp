@@ -311,13 +311,20 @@ const Comments = (() => {
           accessCode:formatAccessCode(code),
           updatedAt:Date.now()
         },{merge:true});
-        return;
+        try{localStorage.setItem(CODE_SYNCED_KEY,codeHash);}catch(_){}
+        return true;
       }catch(e){
         if(i===attempts.length-1){
           console.warn("Não foi possível sincronizar o código de acesso com o painel:",e);
         }
       }
     }
+    return false;
+  }
+  const CODE_SYNCED_KEY="jesed:codeSyncedHash";
+  function codeNeedsSync(){
+    const h=localStorage.getItem(CODEHASH_KEY)||"";
+    return !!(name()&&accessCode()&&h&&localStorage.getItem(CODE_SYNCED_KEY)!==h);
   }
 
   async function ensureAccessProfile(initialBookId){
@@ -366,8 +373,18 @@ const Comments = (() => {
       payload.initialBookId=firstBook;
       payload.allowedBooks=[firstBook];
     }
-    await ref.set(payload,{merge:true});
-    await syncAccessCodeRecord(codeHash,code,payload.readerId);
+    if(exists){
+      // Perfil já existe: atualizar nome/horário é só cortesia. Perfis antigos
+      // (sem alguns campos) podem ter essa escrita recusada pelas Rules — isso
+      // NÃO pode impedir o código de chegar ao painel do autor.
+      try{await ref.set(payload,{merge:true});}
+      catch(e){console.warn("Não foi possível atualizar o perfil (seguindo com a sincronização do código):",e);}
+      const storedReaderId=String(profileDoc?.data()?.readerId||payload.readerId);
+      await syncAccessCodeRecord(codeHash,code,storedReaderId);
+    }else{
+      await ref.set(payload,{merge:true});
+      await syncAccessCodeRecord(codeHash,code,payload.readerId);
+    }
     return code;
   }
 
@@ -692,6 +709,11 @@ const Comments = (() => {
     if(name()){
       ensureAccessProfile().catch(e=>console.warn("Perfil portátil indisponível:",e));
     }
+    // Enquanto o código deste aparelho não constar no painel, tenta de novo
+    // ao voltar para o app e a cada 2 minutos.
+    const retryCodeSync=()=>{if(codeNeedsSync())forceResync();};
+    document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible")setTimeout(retryCodeSync,2000);});
+    setInterval(retryCodeSync,120000);
   }
 
   function wireName(){

@@ -194,7 +194,7 @@
       +'<header class="admin-dashboard-head"><div><h2>Relatórios beta</h2><p>Avanço dos leitores e uso real das ferramentas do app.</p></div><div class="admin-head-actions"><button id="analyticsBackHome" class="link-btn admin-back-btn" type="button">← Painel</button><button id="analyticsRefresh" class="link-btn" type="button">Atualizar</button><button id="analyticsClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<div id="analyticsMain" class="analytics-scroll">'
       +'<p class="analytics-note">As médias ignoram os usuários marcados como teste. Uso de narração/música conta após 15 segundos. Capítulos antigos concluídos são importados quando o leitor abre o livro, mas tempos históricos não podem ser reconstruídos.</p>'
-      +'<section id="analyticsLiveSection" class="analytics-section analytics-live-section"><div class="analytics-section-head"><h3>Agora</h3><span>Presença atualizada automaticamente a cada poucos segundos.</span></div><div id="analyticsLiveList" class="analytics-live-list"></div></section>'
+      +'<section id="analyticsLiveSection" class="analytics-section analytics-live-section"><div class="analytics-section-head"><h3>Agora</h3><span>Quem está com o app aberto agora ou saiu há menos de 5 minutos. Atualiza sozinho.</span></div><div id="analyticsLiveList" class="analytics-live-list"></div></section>'
       +'<div id="analyticsOverview" class="analytics-overview"></div>'
       +'<section class="analytics-section"><div class="analytics-section-head"><h3>Uso de recursos</h3><span>Percentual dos leitores medidos que realmente usaram narração, música, ambos ou nenhum.</span></div><div id="analyticsAdoption" class="analytics-adoption"></div></section>'
       +'<section class="analytics-section"><div class="analytics-section-head"><h3>Preferências mais usadas</h3><span>Top escolhas dos leitores válidos, em porcentagem.</span></div><div id="analyticsPreferences" class="analytics-preferences"></div></section>'
@@ -205,7 +205,7 @@
     document.body.appendChild(el);
     el.querySelector("#analyticsBackHome").onclick=()=>{hideAnalytics();showAdminHome();};
     el.querySelector("#analyticsClose").onclick=hideAnalytics;
-    el.querySelector("#analyticsRefresh").onclick=loadAnalytics;
+    el.querySelector("#analyticsRefresh").onclick=()=>loadAnalytics();
     el.onclick=e=>{if(e.target===el)hideAnalytics();};
   }
 
@@ -245,11 +245,14 @@
     if(!list||!section)return;
     const profileByReader=new Map(analyticsRows.map(row=>[row.profile?.readerId,row.profile]));
     const live=[...presenceMap.values()]
-      .filter(p=>presenceFresh(p)&&p.active&&!profileByReader.get(p.readerId)?.analyticsIgnored)
-      .sort((a,b)=>(Number(b.heartbeatAt)||0)-(Number(a.heartbeatAt)||0));
+      .filter(p=>presenceAge(p)<=PRESENCE_RECENT_MS&&!profileByReader.get(p.readerId)?.analyticsIgnored)
+      .sort((a,b)=>{
+        const rank=p=>{const k=presenceStatus(p).kind;return k==="live"?0:k==="idle"?1:k==="online"?2:3;};
+        return rank(a)-rank(b)||(Number(b.heartbeatAt)||0)-(Number(a.heartbeatAt)||0);
+      });
     section.hidden=false;
     if(!live.length){
-      list.innerHTML='<p class="admin-empty">Ninguém está com atividade de leitura detectada agora.</p>';
+      list.innerHTML='<p class="admin-empty">Nenhum leitor com o app aberto agora.</p>';
       return;
     }
     list.innerHTML=live.map(p=>{
@@ -257,7 +260,7 @@
       const label=esc(profile.name||p.name||"Leitor");
       const status=presenceStatus(p);
       return '<article class="analytics-live-card">'
-        +'<div><span class="presence-dot"></span><strong>'+label+'</strong><small>'+esc(status.label)+'</small></div>'
+        +'<div><span class="presence-dot presence-'+esc(status.kind)+'"></span><strong>'+label+'</strong><small>'+esc(status.label)+'</small></div>'
         +'<div class="analytics-live-location"><b>'+pct(p.currentPct)+'%</b><span>'+liveLocation(p)+'</span></div>'
       +'</article>';
     }).join("");
@@ -458,14 +461,20 @@
     wireIgnoreButtons(list);
   }
 
-  async function loadAnalytics(){
+  let analyticsRefreshTimer=null,analyticsLoading=false;
+  async function loadAnalytics(opts){
+    const silent=!!(opts&&opts.silent===true);
     const main=document.getElementById("analyticsMain");
     const detail=document.getElementById("analyticsDetail");
     const list=document.getElementById("analyticsReaderList");
     if(!main||!detail||!list||!db())return;
-    detail.hidden=true;
-    main.hidden=false;
-    list.innerHTML='<p class="admin-empty">Carregando relatórios…</p>';
+    if(analyticsLoading)return;
+    analyticsLoading=true;
+    if(!silent){
+      detail.hidden=true;
+      main.hidden=false;
+      list.innerHTML='<p class="admin-empty">Carregando relatórios…</p>';
+    }
     try{
       const [profiles,snap]=await Promise.all([
         Comments.listReaderProfiles(),
@@ -494,9 +503,12 @@
         return (b.analytics?.lastActiveAt||b.analytics?.updatedAt||0)-(a.analytics?.lastActiveAt||a.analytics?.updatedAt||0);
       });
       renderAnalytics();
+      if(silent&&!detail.hidden&&detail.dataset.readerId)showAnalyticsReader(detail.dataset.readerId);
     }catch(e){
       console.warn("Não foi possível carregar os relatórios beta:",e);
-      list.innerHTML='<p class="admin-empty">Não foi possível carregar os relatórios. Confira se as regras do Firestore desta versão já foram publicadas.</p>';
+      if(!silent)list.innerHTML='<p class="admin-empty">Não foi possível carregar os relatórios. Confira se as regras do Firestore desta versão já foram publicadas.</p>';
+    }finally{
+      analyticsLoading=false;
     }
   }
 
@@ -569,11 +581,18 @@
     document.getElementById("betaAnalyticsSheet").hidden=false;
     startPresenceSubscription();
     loadAnalytics();
+    // Progresso, códigos e capítulos são recarregados sozinhos enquanto o
+    // relatório estiver aberto — não é preciso tocar em "Atualizar".
+    if(analyticsRefreshTimer)clearInterval(analyticsRefreshTimer);
+    analyticsRefreshTimer=setInterval(()=>{
+      if(document.visibilityState==="visible")loadAnalytics({silent:true});
+    },30000);
   }
   function hideAnalytics(){
     const x=document.getElementById("betaAnalyticsSheet");
     if(x)x.hidden=true;
     stopPresenceSubscription();
+    if(analyticsRefreshTimer){clearInterval(analyticsRefreshTimer);analyticsRefreshTimer=null;}
   }
 
 

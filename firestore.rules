@@ -217,7 +217,7 @@ service cloud.firestore {
       allow update: if isProfileHash(profileHash)
         && resource.data.get('deleted', false) != true
         && request.resource.data.readerId == resource.data.readerId
-        && request.resource.data.createdAt == resource.data.createdAt
+        && request.resource.data.get('createdAt', null) == resource.data.get('createdAt', null)
         && request.resource.data.diff(resource.data).affectedKeys()
           .hasOnly(['name','updatedAt'])
         && request.resource.data.name is string
