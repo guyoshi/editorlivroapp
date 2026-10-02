@@ -281,7 +281,7 @@
       const pending=statusOf(m)==='pending';
       const origin=m.source==='broadcast'?'Envio geral':m.templateId?'Modelo: '+(m.templateTitle||'sem nome'):'Envio individual';
       return '<article class="admin-comment-card popup-message-card">'
-        +'<div class="admin-card-top"><div><strong>'+esc(m.recipientName||'Leitor')+' · #'+shortId(m.recipientReaderId)+'</strong><span>'+esc(origin)+' · '+when(m.createdAt)+'</span></div><span class="'+statusClass(m)+'">'+statusLabel(m)+'</span></div>'
+        +'<div class="admin-card-top"><div><strong>'+esc(m.recipientName||'Leitor')+' · ID interno '+shortId(m.recipientReaderId)+'</strong><span>'+esc(origin)+' · '+when(m.createdAt)+'</span></div><span class="'+statusClass(m)+'">'+statusLabel(m)+'</span></div>'
         +'<h3>'+esc(m.title||'Recado do autor')+'</h3>'
         +'<div class="admin-root-text popup-message-text">'+esc(m.text||'')+'</div>'
         +'<div class="popup-message-times">'+(m.shownAt?'<span>Disparada: '+when(m.shownAt)+'</span>':'<span>Aguardando o leitor abrir o app</span>')+(m.readAt?'<span>Lida: '+when(m.readAt)+'</span>':'')+'</div>'
