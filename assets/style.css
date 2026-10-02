@@ -336,21 +336,14 @@ body.focus-mode .focus-exit{ display:flex; }
   position:relative; flex:0 0 auto;
   width:44px; height:44px; border:1px solid var(--line); border-radius:999px;
   display:flex; align-items:center; justify-content:center; padding:0;
-  background:var(--focus-bg); color:var(--ink);
+  background:var(--focus-bg); color:var(--ink-soft);
   cursor:pointer; transition:color .18s ease,background .18s ease,border-color .18s ease,transform .12s ease;
 }
 .ambient-player-btn[hidden]{ display:none; }
 .ambient-player-btn.active{
-  color:var(--accent-ink); background:var(--accent); border-color:var(--accent);
+  color:var(--accent); background:color-mix(in srgb,var(--accent) 12%,var(--bg-elev)); border-color:var(--accent);
 }
 .ambient-player-btn:active{ transform:scale(.94); }
-.ambient-note-badge{
-  position:absolute; right:-2px; top:-4px;
-  min-width:17px; height:17px; padding:0 3px; border-radius:999px;
-  display:flex; align-items:center; justify-content:center;
-  background:var(--bg-elev); color:var(--accent); border:1px solid var(--line);
-  font-size:.68rem; line-height:1; font-weight:800;
-}
 
 /* ---------- ajustes (sheet) ---------- */
 .sheet{
