@@ -500,12 +500,15 @@ const Comments = (() => {
     // Mantemos somente uma lápide técnica no mesmo ID (hash do código).
     // Isso impede que um aparelho antigo recrie automaticamente o perfil
     // apagado com o mesmo código, sem conservar nome, livros ou readerId.
-    await ref.set({
+    const deleteBatch=db.batch();
+    deleteBatch.set(ref,{
       deleted:true,
       deletedAt:now,
       deletedBy:adminUser?.uid||null,
       updatedAt:now
     });
+    deleteBatch.delete(db.collection(ACCESS_CODES_COLLECTION).doc(profileId));
+    await deleteBatch.commit();
 
     if(!rid)return {deletedFeedback:0,cleanupFailed:false};
 
