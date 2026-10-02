@@ -258,6 +258,101 @@ service cloud.firestore {
     }
 
     // ---------------------------------------------------------
+    // FEEDBACK ESTRUTURADO DOS BETA READERS
+    // Capa, capítulo e opinião final do livro. Somente admins leem.
+    // ---------------------------------------------------------
+    function validBetaFeedbackIdentity(data) {
+      return data.readerId is string
+        && data.readerId.size() >= 16
+        && data.readerId.size() <= 80
+        && data.profileHash is string
+        && isProfileHash(data.profileHash)
+        && data.name is string
+        && data.name.size() >= 1
+        && data.name.size() <= 40
+        && exists(/databases/$(database)/documents/readerProfiles/$(data.profileHash))
+        && get(/databases/$(database)/documents/readerProfiles/$(data.profileHash)).data.get('deleted', false) != true
+        && get(/databases/$(database)/documents/readerProfiles/$(data.profileHash)).data.readerId == data.readerId;
+    }
+
+    function validRating(value) {
+      return value is int && value >= 0 && value <= 5;
+    }
+
+    function validBetaFeedback(data) {
+      return data.keys().hasOnly([
+          'schemaVersion','type','readerId','profileHash','name',
+          'bookId','bookTitle','chapter','chapterTitle',
+          'visualRating','openInterestRating','note',
+          'tags','text',
+          'overallRating','continueRating','pace','favoriteCharacter',
+          'coverRepresentationRating','memorableMoment','hookMoment',
+          'difficultPart','finalComment',
+          'createdAt','updatedAt'
+        ])
+        && data.schemaVersion == 1
+        && data.type in ['cover','chapter','book']
+        && data.bookId is string
+        && data.bookId.size() >= 1
+        && data.bookId.size() <= 120
+        && data.bookTitle is string
+        && data.bookTitle.size() <= 180
+        && data.createdAt is int
+        && data.updatedAt is int
+        && (
+          data.type != 'cover'
+          || (
+            validRating(data.get('visualRating', 0))
+            && data.get('visualRating', 0) >= 1
+            && validRating(data.get('openInterestRating', 0))
+            && data.get('openInterestRating', 0) >= 1
+            && data.get('note', '') is string
+            && data.get('note', '').size() <= 500
+          )
+        )
+        && (
+          data.type != 'chapter'
+          || (
+            data.chapter is int
+            && data.chapter >= 1
+            && data.chapterTitle is string
+            && data.chapterTitle.size() <= 180
+            && data.get('tags', []) is list
+            && data.get('tags', []).size() <= 8
+            && data.get('text', '') is string
+            && data.get('text', '').size() <= 1500
+          )
+        )
+        && (
+          data.type != 'book'
+          || (
+            validRating(data.get('overallRating', 0))
+            && data.get('overallRating', 0) >= 1
+            && validRating(data.get('continueRating', 0))
+            && data.get('continueRating', 0) >= 1
+            && data.get('pace', '') in ['', 'slow', 'balanced', 'fast']
+            && data.get('favoriteCharacter', '') is string
+            && data.get('favoriteCharacter', '').size() <= 100
+            && validRating(data.get('coverRepresentationRating', 0))
+            && data.get('memorableMoment', '') is string
+            && data.get('memorableMoment', '').size() <= 1200
+            && data.get('hookMoment', '') is string
+            && data.get('hookMoment', '').size() <= 1200
+            && data.get('difficultPart', '') is string
+            && data.get('difficultPart', '').size() <= 1200
+            && data.get('finalComment', '') is string
+            && data.get('finalComment', '').size() <= 1800
+          )
+        );
+    }
+
+    match /betaFeedback/{feedbackId} {
+      allow read, delete: if isAdmin();
+      allow create, update: if validBetaFeedbackIdentity(request.resource.data)
+        && validBetaFeedback(request.resource.data);
+    }
+
+    // ---------------------------------------------------------
     // ANALYTICS DOS LEITORES BETA
     // Leitor escreve apenas métricas ligadas ao próprio perfil portátil.
     // Somente admins podem ler os relatórios.
