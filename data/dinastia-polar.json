@@ -1,3 +1,228 @@
 {
-  "chapters": []
+  "id": "dinastia-polar",
+  "title": "Dinastia Polar",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "A Marca na Porta",
+      "text": "content/dinastia-polar/capitulos/01 - Capítulo 1 - A Marca na Porta.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 2,
+      "title": "Gente sem Raiz",
+      "text": "content/dinastia-polar/capitulos/02 - Capítulo 2 - Gente sem Raiz.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 3,
+      "title": "A Balança Azul",
+      "text": "content/dinastia-polar/capitulos/03 - Capítulo 3 - A Balança Azul.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 4,
+      "title": "O Nome do Campeão",
+      "text": "content/dinastia-polar/capitulos/04 - Capítulo 4 - O Nome do Campeão.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 5,
+      "title": "Quatro-Dedos",
+      "text": "content/dinastia-polar/capitulos/05 - Capítulo 5 - Quatro-Dedos.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 6,
+      "title": "Os Meninos do Vento",
+      "text": "content/dinastia-polar/capitulos/06 - Capítulo 6 - Os Meninos do Vento.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 7,
+      "title": "Vinte Anos",
+      "text": "content/dinastia-polar/capitulos/07 - Capítulo 7 - Vinte Anos.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 8,
+      "title": "A Ternura da Raiz",
+      "text": "content/dinastia-polar/capitulos/08 - Capítulo 8 - A Ternura da Raiz.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 9,
+      "title": "Debaixo do Grão",
+      "text": "content/dinastia-polar/capitulos/09 - Capítulo 9 - Debaixo do Grão.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 10,
+      "title": "Quem Não Voltou",
+      "text": "content/dinastia-polar/capitulos/10 - Capítulo 10 - Quem Não Voltou.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 11,
+      "title": "O Pão que Sobrou",
+      "text": "content/dinastia-polar/capitulos/11 - Capítulo 11 - O Pão que Sobrou.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 12,
+      "title": "Erguimento do Estandarte",
+      "text": "content/dinastia-polar/capitulos/12 - Capítulo 12 - Erguimento do Estandarte.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 13,
+      "title": "Tinta Seca",
+      "text": "content/dinastia-polar/capitulos/13 - Capítulo 13 - Tinta Seca.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 14,
+      "title": "Sangue Reconhecido",
+      "text": "content/dinastia-polar/capitulos/14 - Capítulo 14 - Sangue Reconhecido.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 15,
+      "title": "Os que Voltam",
+      "text": "content/dinastia-polar/capitulos/15 - Capítulo 15 - Os que Voltam.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 16,
+      "title": "Peso Declarado",
+      "text": "content/dinastia-polar/capitulos/16 - Capítulo 16 - Peso Declarado.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 17,
+      "title": "Antes do Nome",
+      "text": "content/dinastia-polar/capitulos/17 - Capítulo 17 - Antes do Nome.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 18,
+      "title": "O Peso da Palavra",
+      "text": "content/dinastia-polar/capitulos/18 - Capítulo 18 - O Peso da Palavra.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 19,
+      "title": "A Porta da Frente",
+      "text": "content/dinastia-polar/capitulos/19 - Capítulo 19 - A Porta da Frente.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 20,
+      "title": "A Raiz e o Estandarte",
+      "text": "content/dinastia-polar/capitulos/20 - Capítulo 20 - A Raiz e o Estandarte.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 21,
+      "title": "Dois Dias",
+      "text": "content/dinastia-polar/capitulos/21 - Capítulo 21 - Dois Dias.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 22,
+      "title": "Julgamento e Sentença",
+      "text": "content/dinastia-polar/capitulos/22 - Capítulo 22 - Julgamento e Sentença.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 23,
+      "title": "Três Flechas",
+      "text": "content/dinastia-polar/capitulos/23 - Capítulo 23 - Três Flechas.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 24,
+      "title": "O Que Permanece",
+      "text": "content/dinastia-polar/capitulos/24 - Capítulo 24 - O Que Permanece.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 25,
+      "title": "Aleris",
+      "text": "content/dinastia-polar/capitulos/25 - Capítulo 25 - Aleris.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 26,
+      "title": "A Árvore Além da Muralha",
+      "text": "content/dinastia-polar/capitulos/26 - Capítulo 26 - A Árvore Além da Muralha.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 27,
+      "title": "A Cidade Atrás",
+      "text": "content/dinastia-polar/capitulos/27 - Capítulo 27 - A Cidade Atrás.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 28,
+      "title": "Nomes e Rios",
+      "text": "content/dinastia-polar/capitulos/28 - Capítulo 28 - Nomes e Rios.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 29,
+      "title": "Além das Muralhas",
+      "text": "content/dinastia-polar/capitulos/29 - Capítulo 29 - Além das Muralhas.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 30,
+      "title": "Cendar-Vel",
+      "text": "content/dinastia-polar/capitulos/30 - Capítulo 30 - Cendar-Vel.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 31,
+      "title": "Os Dez Estandartes",
+      "text": "content/dinastia-polar/capitulos/31 - Capítulo 31 - Os Dez Estandartes.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 32,
+      "title": "Sangue na Arena",
+      "text": "content/dinastia-polar/capitulos/32 - Capítulo 32 - Sangue na Arena.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 33,
+      "title": "O Torneio Escurece",
+      "text": "content/dinastia-polar/capitulos/33 - Capítulo 33 - O Torneio Escurece.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 34,
+      "title": "Marcas na Cidade",
+      "text": "content/dinastia-polar/capitulos/34 - Capítulo 34 - Marcas na Cidade.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 35,
+      "title": "O Confronto dos Três Estandartes",
+      "text": "content/dinastia-polar/capitulos/35 - Capítulo 35 - O Confronto dos Três Estandartes.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 36,
+      "title": "O Campeão Retorna",
+      "text": "content/dinastia-polar/capitulos/36 - Capítulo 36 - O Campeão Retorna.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    },
+    {
+      "n": 37,
+      "title": "Antes da Noite",
+      "text": "content/dinastia-polar/capitulos/37 - Capítulo 37 - Antes da Noite.md",
+      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/audio.mp3"
+    }
+  ]
 }
