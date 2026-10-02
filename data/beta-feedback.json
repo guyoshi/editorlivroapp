@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "books": {
+    "ruinas-dos-ceus": {
+      "characters": ["Jokara", "Nestira", "Loutes", "Marv", "Malthar", "Platisa"]
+    },
+    "guerras-de-sangue": {
+      "characters": ["Alyra", "Kaelina", "Daryon", "Dareth", "Edran", "Ylvena", "Vetarius"]
+    },
+    "dinastia-polar": {
+      "characters": ["Karesis", "Elis", "Selina", "Ladsira", "Kaeliran", "Aleris", "Teral"]
+    }
+  },
+  "chapterTags": [
+    {"id":"loved","label":"Gostei muito"},
+    {"id":"confused","label":"Fiquei confuso"},
+    {"id":"slow","label":"Ritmo lento"}
+  ]
+}
