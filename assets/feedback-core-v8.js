@@ -777,7 +777,11 @@ const Comments = (() => {
       +'<p class="sheet-hint">Crie outro usuário neste aparelho. O perfil atual não será apagado e poderá ser recuperado pelo código dele.</p>'
       +'<button id="readerSwitchCreate" class="btn-ghost reader-switch-wide" type="button">Criar novo usuário</button>'
       +'</div>'
-
+      +'<div id="readerSwitchAdminSection" class="reader-switch-section reader-switch-admin-section">'
+      +'<strong>Autor</strong>'
+      +'<p class="sheet-hint">Acesse o painel administrativo sem trocar ou apagar este perfil de leitor.</p>'
+      +'<button id="readerSwitchAdmin" class="btn-ghost reader-switch-wide" type="button">Entrar como administrador</button>'
+      +'</div>'
       +'<div class="sheet-actions"><button id="readerSwitchCancel" class="btn-ghost" type="button">Fechar</button></div>'
       +'</div>';
     document.body.appendChild(el);
@@ -785,6 +789,8 @@ const Comments = (() => {
     const input=el.querySelector("#readerSwitchCode");
     const status=el.querySelector("#readerSwitchStatus");
     const submit=el.querySelector("#readerSwitchSubmit");
+    const adminSection=el.querySelector("#readerSwitchAdminSection");
+    const adminBtn=el.querySelector("#readerSwitchAdmin");
 
     const close=()=>{
       el.hidden=true;
@@ -822,6 +828,15 @@ const Comments = (() => {
       location.reload();
     });
 
+    adminBtn?.addEventListener("click",()=>{
+      close();
+      openAdminLoginSheet();
+    });
+
+    document.addEventListener("beta:admin",()=>{
+      if(adminSection) adminSection.hidden=admin();
+    });
+
     return el;
   }
 
@@ -838,11 +853,13 @@ const Comments = (() => {
     btn.addEventListener("click",()=>{
       const el=ensureReaderSwitchSheet();
       const current=el.querySelector("#readerSwitchCurrent");
+      const adminSection=el.querySelector("#readerSwitchAdminSection");
 
       current.textContent=name()
         ? "Perfil atual: "+name()+(accessCode()?" · #"+accessCode():"")
         : "Nenhum perfil de leitor ativo neste aparelho.";
 
+      if(adminSection) adminSection.hidden=admin();
       el.hidden=false;
       setTimeout(()=>el.querySelector("#readerSwitchCode")?.focus(),0);
     });
