@@ -203,12 +203,12 @@ const Comments = (() => {
       name:name(),
       updatedAt:Date.now()
     };
+    // Mantemos o cadastro básico compatível também com as Rules antigas que
+    // já estão publicadas no Firebase. Livros públicos são liberados no
+    // cliente; permissões extras continuam em allowedBooks quando o admin
+    // voltar a funcionar.
     if(!exists){
       payload.createdAt=Date.now();
-      if(initialBookId){
-        payload.allowedBooks=[String(initialBookId)];
-        payload.initialBookId=String(initialBookId);
-      }
     }
     await ref.set(payload,{merge:true});
     return code;
@@ -362,14 +362,15 @@ const Comments = (() => {
       try{
         const res=await fetch("data/books.json",{cache:"no-cache"});
         if(!res.ok)throw new Error("Não foi possível carregar os livros.");
-        const books=(await res.json()).books||[];
-        if(!books.length)throw new Error("Nenhum livro está disponível no momento.");
-        bookPicker.innerHTML=books.map(book=>
-          '<label class="initial-book-option">'+
-            '<input type="radio" name="initialBook" value="'+esc(book.id)+'">'+
+        const books=((await res.json()).books||[]).filter(book=>PUBLIC_BOOK_IDS.includes(book.id));
+        if(!books.length)throw new Error("Nenhum livro público está disponível no momento.");
+        bookPicker.innerHTML=books.map((book,index)=>
+          '<label class="initial-book-option '+(index===0?'selected':'')+'">'+
+            '<input type="radio" name="initialBook" value="'+esc(book.id)+'" '+(index===0?'checked':'')+'>'+
             '<span><strong>'+esc(book.title||"Livro")+'</strong><small>'+esc(book.subtitle||"")+'</small></span>'+
           '</label>'
         ).join("");
+        save.disabled=false;
         bookPicker.querySelectorAll('input[name="initialBook"]').forEach(radio=>{
           radio.addEventListener("change",()=>{
             save.disabled=false;
@@ -385,11 +386,7 @@ const Comments = (() => {
       const v=input.value.trim();
       if(!v)return input.focus();
       const isNew=!name();
-      const initialBook=bookPicker?.querySelector('input[name="initialBook"]:checked')?.value||"";
-      if(isNew&&!initialBook){
-        bookPicker?.querySelector("input")?.focus();
-        return;
-      }
+      const initialBook=bookPicker?.querySelector('input[name="initialBook"]:checked')?.value||PUBLIC_BOOK_IDS[0]||"";
       save.disabled=true;
       localStorage.setItem(NAME_KEY,v);
       // perfil novo: não precisa ver recados antigos, só os futuros
@@ -402,7 +399,11 @@ const Comments = (() => {
         console.warn("Não foi possível registrar o código de acesso:",e);
         const previous=bookPicker?.querySelector(".initial-book-status.error");
         if(previous)previous.remove();
-        bookPicker?.insertAdjacentHTML("beforeend",'<p class="initial-book-status error">Não foi possível criar o perfil. Confira sua conexão e tente novamente.</p>');
+        const code=String(e?.code||"");
+        const msg=code==="permission-denied"
+          ?"O cadastro foi bloqueado pelas permissões do servidor. Avise o autor para corrigir o acesso."
+          :(e?.message||"Não foi possível criar o perfil agora.");
+        bookPicker?.insertAdjacentHTML("beforeend",'<p class="initial-book-status error">'+esc(msg)+'</p>');
         save.disabled=false;
         return;
       }
