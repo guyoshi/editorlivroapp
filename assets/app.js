@@ -457,7 +457,7 @@ async function openLocation(bookId, chapterN, paraIdx, paragraphKey, commentId){
 
   const attempts = 15; // ~3s no total
   for(let i=0;i<attempts;i++){
-    await new Promise(r=>requestAnimationFrame(r));
+    await new Promise(r=>setTimeout(r,i===0?30:180));
     let target = findTarget();
     if(!target && i===attempts-1) target = $("#chapterNotes"); // última tentativa: cai pras notas gerais
     if(target && !target.hidden){
@@ -470,7 +470,6 @@ async function openLocation(bookId, chapterN, paraIdx, paragraphKey, commentId){
       }
       return;
     }
-    await new Promise(r=>setTimeout(r,180));
   }
 }
 window.BookReader = { openLocation, getBooks:()=>state.books.slice() };
