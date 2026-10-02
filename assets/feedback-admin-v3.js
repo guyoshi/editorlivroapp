@@ -171,17 +171,55 @@
 
   // ---------------- Relatórios beta ----------------
   let analyticsRows=[];
-  let diagMap=new Map();
+  let diagMap=new Map(),diagAvailable=false;
+  let commentMap=new Map(),bookTitles=new Map();
   function lastContact(readerId,a){
     const d=diagMap.get(String(readerId||""))||null;
     const p=presenceFor(readerId);
     return Math.max(Number(d?.seenAt)||0,Number(p?.heartbeatAt)||0,Number(a?.updatedAt)||0);
+  }
+  async function loadBookTitles(){
+    if(bookTitles.size)return;
+    try{
+      const res=await fetch("data/books.json",{cache:"no-cache"});
+      const json=await res.json();
+      (json.books||[]).forEach(b=>bookTitles.set(String(b.id),String(b.title||b.id)));
+    }catch(e){/* sem títulos: usa o id */}
+  }
+  // Comentários e reações funcionam em QUALQUER versão do app. Servem de
+  // sinal de atividade quando o aparelho do leitor ainda roda uma versão
+  // antiga que não envia métricas nem presença.
+  async function loadCommentActivity(){
+    commentMap=new Map();
+    try{
+      const snap=await db().collection("comments").orderBy("updatedAt","desc").limit(600).get();
+      snap.forEach(d=>{
+        const c=d.data()||{};
+        const id=String(c.authorId||"");
+        if(!id||c.role==="admin")return;
+        const at=Number(c.updatedAt||c.at)||0;
+        const cur=commentMap.get(id)||{count:0,lastAt:0};
+        cur.count++;
+        if(at>cur.lastAt){cur.lastAt=at;cur.bookId=c.bookId;cur.chapter=c.chapter;cur.kind=c.kind;}
+        commentMap.set(id,cur);
+      });
+    }catch(e){console.warn("Atividade de comentários indisponível:",e);}
   }
   // Linha de diagnóstico: último contato do app + erro de sincronização, se houver.
   function diagHtml(readerId,a){
     const d=diagMap.get(String(readerId||""))||null;
     const seen=lastContact(readerId,a);
     let out='<small class="analytics-diag">Último contato do app: '+esc(when(seen)||"—")+(d?.appVersion?' · versão '+esc(d.appVersion):'')+'</small>';
+    const cm=commentMap.get(String(readerId||""))||null;
+    if(cm&&cm.lastAt){
+      const kind=cm.kind==="reaction"?"reação":cm.kind==="reply"?"resposta":"comentário";
+      const where=cm.bookId?(' · '+esc(bookTitles.get(String(cm.bookId))||cm.bookId)+(cm.chapter?' cap. '+esc(cm.chapter):'')):'';
+      out+='<small class="analytics-diag">Última atividade (comentários): '+esc(kind)+' em '+esc(when(cm.lastAt))+where+'</small>';
+      const gap=cm.lastAt-(Number(d?.seenAt)||0);
+      if(diagAvailable&&gap>10*60*1000&&Date.now()-cm.lastAt<6*3600*1000){
+        out+='<small class="analytics-diag is-error">⚠ Está usando o app mas este aparelho não envia dados (versão antiga em cache). Peça para fechar o app por completo e abrir de novo.</small>';
+      }
+    }
     const errAt=Number(d?.lastErrorAt)||0,okAt=Number(d?.lastOkAt)||0;
     if(errAt&&errAt>=okAt){
       out+='<small class="analytics-diag is-error">⚠ Falha de sincronização ('+esc(d.lastErrorWhere||"?")+') em '+esc(when(errAt))+': '+esc(d.lastError||"")+'</small>';
@@ -503,7 +541,9 @@
         })
       ]);
       diagMap=new Map();
+      diagAvailable=!!diagSnap;
       diagSnap?.forEach(d=>diagMap.set(d.id,{id:d.id,...d.data()}));
+      await Promise.all([loadCommentActivity(),loadBookTitles()]);
       const byReader=new Map();
       snap.forEach(d=>byReader.set(d.id,{id:d.id,...d.data()}));
       analyticsRows=profiles.map(profile=>({profile,analytics:byReader.get(profile.readerId)||null,chapters:[]}));
