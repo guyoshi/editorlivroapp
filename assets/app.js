@@ -431,10 +431,14 @@ async function openLocation(bookId, chapterN, paraIdx, paragraphKey, commentId){
   const idx = book.chapters.findIndex(c=>Number(c.n)===Number(chapterN));
   if(idx<0) return;
   await openChapter(idx);
-  requestAnimationFrame(()=>{
+
+  // Comentários gerais do capítulo (sem parágrafo, paraIdx -1) vivem em
+  // #chapterNotes, preenchido de forma assíncrona pela assinatura do
+  // Firestore (Comments.attachChapter) — pode não estar pronto ainda no
+  // frame seguinte à troca de capítulo. Por isso tentamos por um tempo
+  // curto em vez de desistir no primeiro requestAnimationFrame.
+  const findTarget = () => {
     let target = null;
-    // comentário geral do capítulo (sem parágrafo específico, paraIdx -1):
-    // procura a thread exata pelo id, que vive em #chapterNotes
     let threadEl = commentId ? $("[data-thread-id='"+commentId+"']") : null;
     if(threadEl){
       const paraBlock = threadEl.closest(".para-block");
@@ -448,7 +452,14 @@ async function openLocation(bookId, chapterN, paraIdx, paragraphKey, commentId){
     }
     if(!target && paragraphKey) target = $("#chapterText .para-block[data-paragraph-key='"+paragraphKey+"']");
     if(!target && Number(paraIdx) >= 0) target = $("#chapterText .para-block[data-para-idx='"+Number(paraIdx)+"']");
-    if(!target) target = $("#chapterNotes"); // fallback: comentário geral, sem thread localizada
+    return target;
+  };
+
+  const attempts = 15; // ~3s no total
+  for(let i=0;i<attempts;i++){
+    await new Promise(r=>requestAnimationFrame(r));
+    let target = findTarget();
+    if(!target && i===attempts-1) target = $("#chapterNotes"); // última tentativa: cai pras notas gerais
     if(target && !target.hidden){
       target.scrollIntoView({behavior:"smooth",block:"center"});
       target.classList.add("feedback-target");
@@ -457,8 +468,10 @@ async function openLocation(bookId, chapterN, paraIdx, paragraphKey, commentId){
         const panel=target.querySelector(".comment-panel");
         if(panel) panel.hidden=false;
       }
+      return;
     }
-  });
+    await new Promise(r=>setTimeout(r,180));
+  }
 }
 window.BookReader = { openLocation, getBooks:()=>state.books.slice() };
 
