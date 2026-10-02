@@ -1,7 +1,7 @@
 // Cache leve: guarda a casca do app pra abrir offline/instantâneo, e
 // guarda em cache (sem travar a rede) os textos e áudios de capítulo
 // conforme você vai abrindo — assim, na segunda vez, funcionam offline.
-const SHELL_CACHE = "jesed-shell-v26";
+const SHELL_CACHE = "jesed-shell-v27";
 const CONTENT_CACHE = "jesed-content-v1";
 const SHELL_FILES = [
   "./",
@@ -68,8 +68,14 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // casca do app: cache-first
+  // casca do app: network-first. Isso evita que uma versão antiga de JS/CSS
+  // continue presa no aparelho depois de um deploy. Se estiver offline, cai no cache.
   event.respondWith(
-    caches.match(req).then((hit) => hit || fetch(req))
+    fetch(req).then((res) => {
+      if(res.ok && url.origin === self.location.origin){
+        caches.open(SHELL_CACHE).then((cache) => cache.put(req, res.clone()));
+      }
+      return res;
+    }).catch(() => caches.match(req))
   );
 });
