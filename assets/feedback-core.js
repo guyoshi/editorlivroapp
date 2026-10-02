@@ -130,8 +130,9 @@ const Comments = (() => {
     const codeHash=await sha256(normalizeAccessCode(code));
     localStorage.setItem(CODEHASH_KEY,codeHash);
     const ref=db.collection(PROFILE_COLLECTION).doc(codeHash);
-    let exists=false;
-    try{exists=(await ref.get()).exists;}catch(e){}
+    let profileDoc=null,exists=false;
+    try{profileDoc=await ref.get();exists=profileDoc.exists;}catch(e){}
+    if(exists&&profileDoc?.data()?.deleted) throw new Error("Este perfil foi removido pelo autor.");
     const payload={
       readerId:uid(),
       name:name(),
@@ -159,6 +160,7 @@ const Comments = (() => {
       const doc=await db.collection(PROFILE_COLLECTION).doc(codeHash).get();
       if(!doc.exists)return [];
       const data=doc.data()||{};
+      if(data.deleted)return [];
       return Array.isArray(data.allowedBooks)?data.allowedBooks:[];
     }catch(e){console.warn("Não foi possível carregar os livros liberados:",e);return [];}
   }
@@ -166,13 +168,62 @@ const Comments = (() => {
     if(!admin()||!db)return [];
     try{
       const snap=await db.collection(PROFILE_COLLECTION).orderBy("updatedAt","desc").get();
-      const out=[];snap.forEach(d=>out.push({id:d.id,...d.data()}));
+      const out=[];snap.forEach(d=>{const data=d.data()||{};if(!data.deleted)out.push({id:d.id,...data});});
       return out;
     }catch(e){console.warn("Não foi possível listar os perfis de leitores:",e);return [];}
   }
   async function setAllowedBooks(profileId,allowedBooks){
     if(!admin()||!db)return;
     await db.collection(PROFILE_COLLECTION).doc(profileId).set({allowedBooks},{merge:true});
+  }
+
+  async function deleteReaderProfile(profileId,readerId){
+    if(!admin()||!db)throw new Error("Apenas o administrador pode apagar leitores.");
+    const ref=db.collection(PROFILE_COLLECTION).doc(profileId);
+    const snap=await ref.get();
+    if(!snap.exists)return {deletedFeedback:0,cleanupFailed:false};
+    const profile=snap.data()||{};
+    const rid=String(readerId||profile.readerId||"");
+    const now=Date.now();
+
+    // Mantemos somente uma lápide técnica no mesmo ID (hash do código).
+    // Isso impede que um aparelho antigo recrie automaticamente o perfil
+    // apagado com o mesmo código, sem conservar nome, livros ou readerId.
+    await ref.set({
+      deleted:true,
+      deletedAt:now,
+      deletedBy:adminUser?.uid||null,
+      updatedAt:now
+    });
+
+    if(!rid)return {deletedFeedback:0,cleanupFailed:false};
+
+    try{
+      const commentsSnap=await db.collection("comments").get();
+      const rows=[];
+      commentsSnap.forEach(d=>rows.push({id:d.id,data:d.data()||{}}));
+
+      const ownedRootIds=new Set(
+        rows
+          .filter(x=>x.data.authorId===rid&&!x.data.parentId&&x.data.kind!=="reply"&&x.data.kind!=="reaction")
+          .map(x=>x.id)
+      );
+      const ids=[...new Set(rows.filter(x=>
+        x.data.authorId===rid||
+        ownedRootIds.has(x.data.parentId)||
+        ownedRootIds.has(x.data.rootId)
+      ).map(x=>x.id))];
+
+      for(let i=0;i<ids.length;i+=400){
+        const batch=db.batch();
+        ids.slice(i,i+400).forEach(id=>batch.delete(db.collection("comments").doc(id)));
+        await batch.commit();
+      }
+      return {deletedFeedback:ids.length,cleanupFailed:false};
+    }catch(e){
+      console.warn("Leitor removido, mas a limpeza do feedback falhou:",e);
+      return {deletedFeedback:0,cleanupFailed:true};
+    }
   }
 
   async function loginWithCode(rawCode){
@@ -183,6 +234,7 @@ const Comments = (() => {
     const doc=await db.collection(PROFILE_COLLECTION).doc(codeHash).get();
     if(!doc.exists) throw new Error("Código não encontrado.");
     const profile=doc.data()||{};
+    if(profile.deleted) throw new Error("Este código de acesso foi removido pelo autor.");
     if(!profile.readerId||!profile.name) throw new Error("Este perfil está incompleto.");
     localStorage.setItem(USER_KEY,String(profile.readerId));
     localStorage.setItem(NAME_KEY,String(profile.name));
@@ -478,7 +530,7 @@ const Comments = (() => {
     init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,getAccessCode:accessCode,
     loginWithCode,ensureAccessProfile,hashText,
     getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen,unseen,markAllSeen,
-    sendAnnouncement,getAllowedBooks,listReaderProfiles,setAllowedBooks
+    sendAnnouncement,getAllowedBooks,listReaderProfiles,setAllowedBooks,deleteReaderProfile
   };
 })();
 window.Comments=Comments;
