@@ -14,9 +14,17 @@
   function db(){return window.Comments?.getDb?.();}
 
   function ensureButton(){
-    // O admin agora fica dentro do menu "Trocar usuário".
-    // O botão do topo serve apenas como âncora do badge de novos comentários.
-    return document.getElementById("btnSwitchReader");
+    const btn=document.getElementById("btnAuthorAdmin");
+    const bar=document.getElementById("authorAdminHomeBar");
+    if(!btn)return null;
+    const on=!!window.Comments?.isAdmin?.();
+    btn.hidden=!on;
+    if(bar)bar.hidden=!on;
+    if(!btn.dataset.adminHomeWired){
+      btn.dataset.adminHomeWired="1";
+      btn.addEventListener("click",()=>showAdminHome());
+    }
+    return btn;
   }
 
   function ensureAdminHome(){
