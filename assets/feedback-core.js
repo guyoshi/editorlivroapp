@@ -285,8 +285,9 @@ const Comments = (() => {
     return code;
   }
 
-  // ---------------- Acesso a livros (controlado pelo admin) ----------------
-  // Leitor novo não vê nenhum livro até o admin liberar. Admin sempre vê tudo.
+  // ---------------- Acesso a livros ----------------
+  // O leitor escolhe exatamente um livro ao criar o perfil. Depois disso,
+  // o admin pode acrescentar ou remover outros livros. Admin sempre vê tudo.
   async function getAllowedBooks(){
     if(admin())return null; // null = sem restrição, mostra tudo
     if(!enabled||!db)return [];
@@ -480,7 +481,12 @@ const Comments = (() => {
         const code=await ensureAccessProfile(initialBook);
         if(!code)throw new Error("Não foi possível criar o perfil agora.");
       }catch(e){
-        if(isNew)localStorage.removeItem(NAME_KEY);
+        if(isNew){
+          localStorage.removeItem(NAME_KEY);
+          localStorage.removeItem(USER_KEY);
+          localStorage.removeItem(ACCESS_KEY);
+          localStorage.removeItem(CODEHASH_KEY);
+        }
         console.warn("Não foi possível registrar o código de acesso:",e);
         const previous=bookPicker?.querySelector(".initial-book-status.error");
         if(previous)previous.remove();
