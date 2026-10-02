@@ -61,9 +61,12 @@ async function loadLibrary(){
   state.books = (allowed===null) ? allBooksCache.slice() : allBooksCache.filter(b=>allowed.includes(b.id));
 
   if(!state.books.length){
+    const hasReaderProfile = !!window.Comments?.getUserName?.();
     listEl.innerHTML = allowed===null
       ? `<p class="empty-hint">Nenhum livro cadastrado ainda.</p>`
-      : `<p class="empty-hint">Você ainda não tem nenhum livro liberado. Peça ao administrador para liberar o acesso a um livro.</p>`;
+      : hasReaderProfile
+        ? `<p class="empty-hint">Seu perfil ainda não tem livros disponíveis.</p>`
+        : `<p class="empty-hint">Crie seu perfil abaixo para começar <strong>Ruínas dos Céus</strong>.</p>`;
     return;
   }
   listEl.innerHTML = state.books.map(b => `
