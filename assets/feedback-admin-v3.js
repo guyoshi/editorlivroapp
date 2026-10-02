@@ -138,6 +138,15 @@
 
   // ---------------- Relatórios beta ----------------
   let analyticsRows=[];
+  const FEATURE_MIN_SEC=15;
+  const share=(n,total)=>total?Math.round((n/total)*100):0;
+  const avg=values=>values.length?values.reduce((a,b)=>a+b,0)/values.length:0;
+  const median=values=>{
+    if(!values.length)return 0;
+    const v=values.slice().sort((a,b)=>a-b),mid=Math.floor(v.length/2);
+    return v.length%2?v[mid]:(v[mid-1]+v[mid])/2;
+  };
+  const uses=(row,key)=>(Number(row.analytics?.[key])||0)>=FEATURE_MIN_SEC;
 
   function ensureAnalyticsSheet(){
     if(document.getElementById("betaAnalyticsSheet"))return;
@@ -148,10 +157,11 @@
     el.innerHTML='<section class="admin-dashboard analytics-dashboard">'
       +'<header class="admin-dashboard-head"><div><h2>Relatórios beta</h2><p>Avanço dos leitores e uso real das ferramentas do app.</p></div><div class="admin-head-actions"><button id="analyticsRefresh" class="link-btn" type="button">Atualizar</button><button id="analyticsClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<div id="analyticsMain" class="analytics-scroll">'
-      +'<p class="analytics-note">Os dados de uso começam a ser medidos a partir desta versão do app. Capítulos já concluídos localmente são importados quando o leitor abre o livro.</p>'
+      +'<p class="analytics-note">As médias ignoram os usuários marcados como teste. Uso de narração/música conta após 15 segundos. Capítulos antigos concluídos são importados quando o leitor abre o livro, mas tempos históricos não podem ser reconstruídos.</p>'
       +'<div id="analyticsOverview" class="analytics-overview"></div>'
-      +'<section class="analytics-section"><div class="analytics-section-head"><h3>Preferências atuais</h3><span>Ajuda a enxergar padrões entre os leitores.</span></div><div id="analyticsPreferences" class="analytics-preferences"></div></section>'
-      +'<section class="analytics-section"><div class="analytics-section-head"><h3>Avanço dos leitores</h3><span>Toque em um leitor para abrir o detalhe por capítulo.</span></div><div id="analyticsReaderList"></div></section>'
+      +'<section class="analytics-section"><div class="analytics-section-head"><h3>Uso de recursos</h3><span>Percentual dos leitores medidos que realmente usaram narração, música, ambos ou nenhum.</span></div><div id="analyticsAdoption" class="analytics-adoption"></div></section>'
+      +'<section class="analytics-section"><div class="analytics-section-head"><h3>Preferências mais usadas</h3><span>Top escolhas dos leitores válidos, em porcentagem.</span></div><div id="analyticsPreferences" class="analytics-preferences"></div></section>'
+      +'<section class="analytics-section"><div class="analytics-section-head"><h3>Avanço dos leitores</h3><span>Toque em um leitor para abrir o detalhe. Contas de teste podem ser ignoradas sem serem apagadas.</span></div><div id="analyticsReaderList"></div></section>'
       +'</div>'
       +'<div id="analyticsDetail" class="analytics-scroll" hidden></div>'
       +'</section>';
@@ -172,42 +182,115 @@
     return [...counts.entries()].sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],"pt-BR"));
   }
 
-  function renderDistribution(title,items){
+  function renderTopDistribution(title,items,limit=2){
+    const total=items.reduce((sum,item)=>sum+item[1],0);
+    const top=items.slice(0,limit);
     return '<div class="analytics-pref-card"><strong>'+esc(title)+'</strong>'
-      +(items.length
-        ?'<div class="analytics-pref-values">'+items.map(([label,count])=>'<span><b>'+esc(label)+'</b> '+count+'</span>').join("")+'</div>'
+      +(top.length
+        ?'<div class="analytics-pref-values">'+top.map(([label,count],i)=>'<span><b>'+(i+1)+'º '+esc(label)+'</b> '+share(count,total)+'% <small>('+count+')</small></span>').join("")+'</div>'
         :'<small>Sem dados ainda</small>')
       +'</div>';
   }
 
+  function renderAdoption(label,count,total,note){
+    const value=share(count,total);
+    return '<div class="analytics-adoption-card"><div><strong>'+esc(label)+'</strong><b>'+value+'%</b></div><div class="analytics-progress"><i style="width:'+value+'%"></i></div><small>'+count+' de '+total+(note?' · '+esc(note):'')+'</small></div>';
+  }
+
+  async function setAnalyticsIgnored(profileId,readerId,ignored){
+    if(!db()||!profileId)return;
+    await db().collection("readerProfiles").doc(profileId).set({
+      analyticsIgnored:!!ignored,
+      updatedAt:Date.now()
+    },{merge:true});
+    const row=analyticsRows.find(item=>item.profile?.id===profileId||item.profile?.readerId===readerId);
+    if(row?.profile)row.profile.analyticsIgnored=!!ignored;
+    renderAnalytics();
+  }
+
+  function wireIgnoreButtons(root=document){
+    root.querySelectorAll("[data-analytics-ignore]").forEach(btn=>{
+      btn.onclick=async e=>{
+        e.stopPropagation();
+        const profileId=btn.dataset.profileId;
+        const readerId=btn.dataset.readerId;
+        const next=btn.dataset.analyticsIgnore==="1";
+        btn.disabled=true;
+        try{
+          await setAnalyticsIgnored(profileId,readerId,next);
+        }catch(e){
+          console.warn("Não foi possível alterar a amostra dos relatórios:",e);
+          alert("Não foi possível alterar este leitor nas estatísticas.");
+          btn.disabled=false;
+        }
+      };
+    });
+  }
+
   function renderAnalytics(){
     const overview=document.getElementById("analyticsOverview");
+    const adoption=document.getElementById("analyticsAdoption");
     const pref=document.getElementById("analyticsPreferences");
     const list=document.getElementById("analyticsReaderList");
-    if(!overview||!pref||!list)return;
+    if(!overview||!adoption||!pref||!list)return;
 
-    const measured=analyticsRows.filter(row=>row.analytics);
+    const validRows=analyticsRows.filter(row=>!row.profile?.analyticsIgnored);
+    const ignoredCount=analyticsRows.length-validRows.length;
+    const measured=validRows.filter(row=>row.analytics);
     const sum=key=>measured.reduce((acc,row)=>acc+(Number(row.analytics?.[key])||0),0);
-    const narrationUsers=measured.filter(row=>(Number(row.analytics?.totalNarrationSec)||0)>0);
-    const musicUsers=measured.filter(row=>(Number(row.analytics?.totalMusicSec)||0)>0);
-    const narrationChapters=narrationUsers.reduce((acc,row)=>acc+(Array.isArray(row.analytics?.narrationChapters)?row.analytics.narrationChapters.length:0),0);
-    const musicChapters=musicUsers.reduce((acc,row)=>acc+(Array.isArray(row.analytics?.musicChapters)?row.analytics.musicChapters.length:0),0);
+    const chapterRows=measured.flatMap(row=>Array.isArray(row.chapters)?row.chapters:[]);
+    const timedCompleted=chapterRows.filter(ch=>ch.completed&&(Number(ch.activeSec)||0)>=FEATURE_MIN_SEC);
+    const completedTimes=timedCompleted.map(ch=>Number(ch.activeSec)||0);
+    const completedTotal=chapterRows.filter(ch=>ch.completed).length;
+    const avgChapter=avg(completedTimes);
+    const medianChapter=median(completedTimes);
+    const avgCompleted=measured.length?completedTotal/measured.length:0;
+    const weekAgo=Date.now()-7*24*60*60*1000;
+    const active7=measured.filter(row=>(Number(row.analytics?.lastActiveAt)||0)>=weekAgo).length;
+
+    const narrationUsers=measured.filter(row=>uses(row,"totalNarrationSec"));
+    const musicUsers=measured.filter(row=>uses(row,"totalMusicSec"));
+    const both=measured.filter(row=>uses(row,"totalNarrationSec")&&uses(row,"totalMusicSec"));
+    const narrationOnly=measured.filter(row=>uses(row,"totalNarrationSec")&&!uses(row,"totalMusicSec"));
+    const musicOnly=measured.filter(row=>!uses(row,"totalNarrationSec")&&uses(row,"totalMusicSec"));
+    const neither=measured.filter(row=>!uses(row,"totalNarrationSec")&&!uses(row,"totalMusicSec"));
 
     overview.innerHTML=[
-      ["Leitores",analyticsRows.length,measured.length+" com atividade medida"],
-      ["Tempo ativo",fmtDuration(sum("totalActiveSec")),"tempo no capítulo em primeiro plano"],
-      ["Narração",fmtDuration(sum("totalNarrationSec")),narrationUsers.length+" leitores · "+narrationChapters+" leitor-capítulos"],
-      ["Música",fmtDuration(sum("totalMusicSec")),musicUsers.length+" leitores · "+musicChapters+" leitor-capítulos"]
+      ["Leitores válidos",validRows.length,ignoredCount?ignoredCount+" ignorado(s)":"nenhum ignorado"],
+      ["Com dados",measured.length,validRows.length?share(measured.length,validRows.length)+"% da amostra":"sem amostra"],
+      ["Tempo ativo",fmtDuration(sum("totalActiveSec")),"total medido nos capítulos"],
+      ["Média / capítulo",completedTimes.length?fmtDuration(avgChapter):"—",completedTimes.length+" capítulos concluídos com tempo"],
+      ["Mediana / capítulo",completedTimes.length?fmtDuration(medianChapter):"—","menos sensível a leituras muito longas"],
+      ["Caps / leitor",measured.length?avgCompleted.toFixed(1):"—","média de capítulos concluídos"],
+      ["Usam narração",share(narrationUsers.length,measured.length)+"%",fmtDuration(sum("totalNarrationSec"))+" reproduzidos"],
+      ["Usam música",share(musicUsers.length,measured.length)+"%",fmtDuration(sum("totalMusicSec"))+" reproduzidos"],
+      ["Ativos 7 dias",active7,measured.length?share(active7,measured.length)+"% dos medidos":"sem dados"]
     ].map(([title,value,note])=>'<div class="analytics-kpi"><span>'+esc(title)+'</span><strong>'+esc(value)+'</strong><small>'+esc(note)+'</small></div>').join("");
 
+    adoption.innerHTML=
+      renderAdoption("Narração + música",both.length,measured.length,"usaram os dois")
+      +renderAdoption("Só narração",narrationOnly.length,measured.length,"sem música")
+      +renderAdoption("Só música",musicOnly.length,measured.length,"sem narração")
+      +renderAdoption("Nenhum dos dois",neither.length,measured.length,"leitura sem áudio");
+
+    const themeDist=distribution(measured,"theme",THEME_LABELS);
+    const fontDist=distribution(measured,"font",FONT_LABELS);
     const scaleDist=distribution(measured,"fontScale").map(([value,count])=>[Math.round(Number(value)*100)+"%",count]);
     const autoMusicOn=measured.filter(row=>row.analytics?.autoAmbient===true).length;
     const hideArtOn=measured.filter(row=>row.analytics?.hideArt===true).length;
+    const changedFont=measured.filter(row=>(Number(row.analytics?.fontChanges)||0)>0).length;
+    const changedTheme=measured.filter(row=>(Number(row.analytics?.themeChanges)||0)>0).length;
+
     pref.innerHTML=
-      renderDistribution("Tema",distribution(measured,"theme",THEME_LABELS))
-      +renderDistribution("Fonte",distribution(measured,"font",FONT_LABELS))
-      +renderDistribution("Tamanho",scaleDist)
-      +'<div class="analytics-pref-card"><strong>Outras escolhas</strong><div class="analytics-pref-values"><span><b>Música automática</b> '+autoMusicOn+'/'+measured.length+'</span><span><b>Oculta imagens</b> '+hideArtOn+'/'+measured.length+'</span></div></div>';
+      renderTopDistribution("Top temas",themeDist,2)
+      +renderTopDistribution("Top fontes",fontDist,2)
+      +renderTopDistribution("Top tamanhos",scaleDist,2)
+      +'<div class="analytics-pref-card"><strong>Outras escolhas</strong><div class="analytics-pref-values">'
+        +'<span><b>Música automática</b> '+share(autoMusicOn,measured.length)+'% <small>('+autoMusicOn+')</small></span>'
+        +'<span><b>Oculta imagens</b> '+share(hideArtOn,measured.length)+'% <small>('+hideArtOn+')</small></span>'
+        +'<span><b>Já trocou de fonte</b> '+share(changedFont,measured.length)+'%</span>'
+        +'<span><b>Já trocou de tema</b> '+share(changedTheme,measured.length)+'%</span>'
+      +'</div></div>';
 
     if(!analyticsRows.length){
       list.innerHTML='<p class="admin-empty">Nenhum leitor cadastrado ainda.</p>';
@@ -215,26 +298,34 @@
     }
 
     list.innerHTML=analyticsRows.map(row=>{
-      const p=row.profile||{},a=row.analytics;
+      const p=row.profile||{},a=row.analytics,ignored=!!p.analyticsIgnored;
       const label=esc(p.name||a?.name||"Anônimo")+" · #"+shortId(p.readerId||a?.readerId);
+      const ignoreBtn='<button class="link-btn analytics-ignore-btn" type="button" data-analytics-ignore="'+(ignored?"0":"1")+'" data-profile-id="'+esc(p.id||"")+'" data-reader-id="'+esc(p.readerId||a?.readerId||"")+'">'+(ignored?"Incluir nas estatísticas":"Ignorar nas estatísticas")+'</button>';
       if(!a){
-        return '<article class="analytics-reader-card is-empty"><div><strong>'+label+'</strong><span>Sem atividade medida ainda.</span></div></article>';
+        return '<article class="analytics-reader-card is-empty '+(ignored?"is-ignored":"")+'">'
+          +'<div class="analytics-reader-open-static"><strong>'+label+'</strong><span>Sem atividade medida ainda.</span></div>'
+          +'<div class="analytics-reader-actions">'+(ignored?'<span class="analytics-ignored-badge">Ignorado</span>':'')+ignoreBtn+'</div>'
+          +'</article>';
       }
       const location=a.currentChapter
         ?esc(a.currentBookTitle||a.currentBookId||"Livro")+' · Cap. '+esc(a.currentChapter)+' · '+pct(a.currentChapterPct)+'%'
         :'Nenhum capítulo aberto ainda';
-      const completed=Array.isArray(a.completedChapters)?a.completedChapters.length:0;
-      return '<button class="analytics-reader-card" type="button" data-analytics-reader="'+esc(a.readerId)+'">'
-        +'<div class="analytics-reader-top"><div><strong>'+label+'</strong><span>'+location+'</span></div><b>'+pct(a.currentChapterPct)+'%</b></div>'
-        +'<div class="analytics-progress"><i style="width:'+pct(a.currentChapterPct)+'%"></i></div>'
-        +'<div class="analytics-reader-metrics"><span>'+completed+' caps concluídos</span><span>'+fmtDuration(a.totalActiveSec)+' ativo</span><span>'+fmtDuration(a.totalNarrationSec)+' narração</span><span>'+fmtDuration(a.totalMusicSec)+' música</span></div>'
-        +'<small>Última atividade: '+esc(when(a.lastActiveAt||a.updatedAt)||"—")+'</small>'
-        +'</button>';
+      const completed=(row.chapters||[]).filter(ch=>ch.completed).length;
+      return '<article class="analytics-reader-card '+(ignored?"is-ignored":"")+'">'
+        +'<button class="analytics-reader-open" type="button" data-analytics-reader="'+esc(a.readerId)+'">'
+          +'<div class="analytics-reader-top"><div><strong>'+label+'</strong><span>'+location+'</span></div><b>'+pct(a.currentChapterPct)+'%</b></div>'
+          +'<div class="analytics-progress"><i style="width:'+pct(a.currentChapterPct)+'%"></i></div>'
+          +'<div class="analytics-reader-metrics"><span>'+completed+' caps concluídos</span><span>'+fmtDuration(a.totalActiveSec)+' ativo</span><span>'+fmtDuration(a.totalNarrationSec)+' narração</span><span>'+fmtDuration(a.totalMusicSec)+' música</span></div>'
+          +'<small>Última atividade: '+esc(when(a.lastActiveAt||a.updatedAt)||"—")+'</small>'
+        +'</button>'
+        +'<div class="analytics-reader-actions">'+(ignored?'<span class="analytics-ignored-badge">Ignorado das médias</span>':'')+ignoreBtn+'</div>'
+        +'</article>';
     }).join("");
 
     list.querySelectorAll("[data-analytics-reader]").forEach(btn=>{
       btn.onclick=()=>showAnalyticsReader(btn.dataset.analyticsReader);
     });
+    wireIgnoreButtons(list);
   }
 
   async function loadAnalytics(){
@@ -252,8 +343,26 @@
       ]);
       const byReader=new Map();
       snap.forEach(d=>byReader.set(d.id,{id:d.id,...d.data()}));
-      analyticsRows=profiles.map(profile=>({profile,analytics:byReader.get(profile.readerId)||null}));
-      analyticsRows.sort((a,b)=>(b.analytics?.lastActiveAt||b.analytics?.updatedAt||0)-(a.analytics?.lastActiveAt||a.analytics?.updatedAt||0));
+      analyticsRows=profiles.map(profile=>({profile,analytics:byReader.get(profile.readerId)||null,chapters:[]}));
+
+      await Promise.all(analyticsRows.filter(row=>row.analytics?.readerId).map(async row=>{
+        try{
+          const chapterSnap=await db().collection("readerAnalytics").doc(row.analytics.readerId).collection("chapters").get();
+          chapterSnap.forEach(d=>row.chapters.push({id:d.id,...d.data()}));
+        }catch(e){
+          console.warn("Não foi possível carregar capítulos de "+row.analytics.readerId,e);
+        }
+      }));
+
+      analyticsRows.forEach(row=>row.chapters.sort((a,b)=>{
+        const book=String(a.bookTitle||a.bookId||"").localeCompare(String(b.bookTitle||b.bookId||""),"pt-BR");
+        return book||((Number(a.chapter)||0)-(Number(b.chapter)||0));
+      }));
+      analyticsRows.sort((a,b)=>{
+        const ignored=(Number(!!a.profile?.analyticsIgnored)-Number(!!b.profile?.analyticsIgnored));
+        if(ignored)return ignored;
+        return (b.analytics?.lastActiveAt||b.analytics?.updatedAt||0)-(a.analytics?.lastActiveAt||a.analytics?.updatedAt||0);
+      });
       renderAnalytics();
     }catch(e){
       console.warn("Não foi possível carregar os relatórios beta:",e);
@@ -261,66 +370,61 @@
     }
   }
 
-  async function showAnalyticsReader(readerId){
+  function showAnalyticsReader(readerId){
     const row=analyticsRows.find(item=>item.analytics?.readerId===readerId);
-    if(!row||!db())return;
+    if(!row)return;
     const main=document.getElementById("analyticsMain");
     const detail=document.getElementById("analyticsDetail");
     main.hidden=true;
     detail.hidden=false;
-    detail.innerHTML='<p class="admin-empty">Carregando detalhe…</p>';
-    try{
-      const snap=await db().collection("readerAnalytics").doc(readerId).collection("chapters").get();
-      const chapters=[];snap.forEach(d=>chapters.push({id:d.id,...d.data()}));
-      chapters.sort((a,b)=>{
-        const book=String(a.bookTitle||a.bookId||"").localeCompare(String(b.bookTitle||b.bookId||""),"pt-BR");
-        return book||((Number(a.chapter)||0)-(Number(b.chapter)||0));
-      });
 
-      const a=row.analytics,p=row.profile||{};
-      const label=esc(p.name||a.name||"Anônimo")+" · #"+shortId(readerId);
-      const narrationCaps=Array.isArray(a.narrationChapters)?a.narrationChapters.length:0;
-      const musicCaps=Array.isArray(a.musicChapters)?a.musicChapters.length:0;
-      const completed=Array.isArray(a.completedChapters)?a.completedChapters.length:0;
-      const current=a.currentChapter
-        ?esc(a.currentBookTitle||a.currentBookId||"Livro")+' · Cap. '+esc(a.currentChapter)+' · '+pct(a.currentChapterPct)+'%'
-        :'Nenhum capítulo aberto';
+    const chapters=row.chapters||[];
+    const a=row.analytics,p=row.profile||{};
+    const ignored=!!p.analyticsIgnored;
+    const label=esc(p.name||a.name||"Anônimo")+" · #"+shortId(readerId);
+    const narrationCaps=chapters.filter(ch=>(Number(ch.narrationSec)||0)>=FEATURE_MIN_SEC).length;
+    const musicCaps=chapters.filter(ch=>(Number(ch.musicSec)||0)>=FEATURE_MIN_SEC).length;
+    const completed=chapters.filter(ch=>ch.completed).length;
+    const timedCompleted=chapters.filter(ch=>ch.completed&&(Number(ch.activeSec)||0)>=FEATURE_MIN_SEC);
+    const readerAvg=avg(timedCompleted.map(ch=>Number(ch.activeSec)||0));
+    const current=a.currentChapter
+      ?esc(a.currentBookTitle||a.currentBookId||"Livro")+' · Cap. '+esc(a.currentChapter)+' · '+pct(a.currentChapterPct)+'%'
+      :'Nenhum capítulo aberto';
 
-      const chapterHtml=chapters.length?chapters.map(ch=>{
-        const cp=ch.completed?100:pct(ch.currentPct);
-        return '<article class="analytics-chapter-card">'
-          +'<div class="analytics-reader-top"><div><strong>'+esc(ch.bookTitle||ch.bookId||"Livro")+' · Cap. '+esc(ch.chapter)+'</strong><span>'+esc(ch.chapterTitle||"")+'</span></div><b>'+(ch.completed?"Concluído":cp+"%")+'</b></div>'
-          +'<div class="analytics-progress"><i style="width:'+cp+'%"></i></div>'
-          +'<div class="analytics-reader-metrics"><span>'+fmtDuration(ch.activeSec)+' ativo</span><span>'+fmtDuration(ch.narrationSec)+' narração</span><span>'+fmtDuration(ch.musicSec)+' música</span></div>'
-          +'</article>';
-      }).join(""):'<p class="admin-empty">Ainda não há capítulos medidos para este leitor.</p>';
+    const chapterHtml=chapters.length?chapters.map(ch=>{
+      const cp=ch.completed?100:pct(ch.currentPct);
+      return '<article class="analytics-chapter-card">'
+        +'<div class="analytics-reader-top"><div><strong>'+esc(ch.bookTitle||ch.bookId||"Livro")+' · Cap. '+esc(ch.chapter)+'</strong><span>'+esc(ch.chapterTitle||"")+'</span></div><b>'+(ch.completed?"Concluído":cp+"%")+'</b></div>'
+        +'<div class="analytics-progress"><i style="width:'+cp+'%"></i></div>'
+        +'<div class="analytics-reader-metrics"><span>'+fmtDuration(ch.activeSec)+' ativo</span><span>'+fmtDuration(ch.narrationSec)+' narração</span><span>'+fmtDuration(ch.musicSec)+' música</span></div>'
+        +'</article>';
+    }).join(""):'<p class="admin-empty">Ainda não há capítulos medidos para este leitor.</p>';
 
-      detail.innerHTML=
-        '<button id="analyticsBack" class="back-link analytics-back" type="button">← Todos os leitores</button>'
-        +'<section class="analytics-reader-detail-head"><h3>'+label+'</h3><p>'+current+'</p><small>Última atividade: '+esc(when(a.lastActiveAt||a.updatedAt)||"—")+'</small></section>'
-        +'<div class="analytics-overview compact">'
-          +'<div class="analytics-kpi"><span>Concluídos</span><strong>'+completed+'</strong><small>capítulos</small></div>'
-          +'<div class="analytics-kpi"><span>Tempo ativo</span><strong>'+fmtDuration(a.totalActiveSec)+'</strong><small>no capítulo</small></div>'
-          +'<div class="analytics-kpi"><span>Narração</span><strong>'+fmtDuration(a.totalNarrationSec)+'</strong><small>'+narrationCaps+' capítulos</small></div>'
-          +'<div class="analytics-kpi"><span>Música</span><strong>'+fmtDuration(a.totalMusicSec)+'</strong><small>'+musicCaps+' capítulos</small></div>'
+    detail.innerHTML=
+      '<button id="analyticsBack" class="back-link analytics-back" type="button">← Todos os leitores</button>'
+      +'<section class="analytics-reader-detail-head"><div class="analytics-reader-detail-title"><div><h3>'+label+'</h3><p>'+current+'</p><small>Última atividade: '+esc(when(a.lastActiveAt||a.updatedAt)||"—")+'</small></div>'
+        +'<button class="link-btn analytics-ignore-btn" type="button" data-analytics-ignore="'+(ignored?"0":"1")+'" data-profile-id="'+esc(p.id||"")+'" data-reader-id="'+esc(readerId)+'">'+(ignored?"Incluir nas estatísticas":"Ignorar nas estatísticas")+'</button>'
+      +'</div></section>'
+      +'<div class="analytics-overview compact">'
+        +'<div class="analytics-kpi"><span>Concluídos</span><strong>'+completed+'</strong><small>capítulos</small></div>'
+        +'<div class="analytics-kpi"><span>Tempo ativo</span><strong>'+fmtDuration(a.totalActiveSec)+'</strong><small>no capítulo</small></div>'
+        +'<div class="analytics-kpi"><span>Média / cap.</span><strong>'+(timedCompleted.length?fmtDuration(readerAvg):"—")+'</strong><small>'+timedCompleted.length+' capítulos com tempo</small></div>'
+        +'<div class="analytics-kpi"><span>Narração</span><strong>'+fmtDuration(a.totalNarrationSec)+'</strong><small>'+narrationCaps+' capítulos</small></div>'
+        +'<div class="analytics-kpi"><span>Música</span><strong>'+fmtDuration(a.totalMusicSec)+'</strong><small>'+musicCaps+' capítulos</small></div>'
+      +'</div>'
+      +'<section class="analytics-section"><div class="analytics-section-head"><h3>Personalização</h3><span>Estado atual e quantas vezes ele mudou as principais escolhas.</span></div>'
+        +'<div class="analytics-personalization">'
+          +'<span><b>Tema</b>'+esc(settingLabel(THEME_LABELS,a.theme))+' <small>'+Number(a.themeChanges||0)+' trocas</small></span>'
+          +'<span><b>Fonte</b>'+esc(settingLabel(FONT_LABELS,a.font))+' <small>'+Number(a.fontChanges||0)+' trocas</small></span>'
+          +'<span><b>Tamanho</b>'+Math.round(Number(a.fontScale||1)*100)+'% <small>'+Number(a.fontScaleChanges||0)+' trocas</small></span>'
+          +'<span><b>Música automática</b>'+(a.autoAmbient?"Sim":"Não")+'</span>'
+          +'<span><b>Oculta imagens</b>'+(a.hideArt?"Sim":"Não")+'</span>'
         +'</div>'
-        +'<section class="analytics-section"><div class="analytics-section-head"><h3>Personalização</h3><span>Estado atual e quantas vezes ele mudou as principais escolhas.</span></div>'
-          +'<div class="analytics-personalization">'
-            +'<span><b>Tema</b>'+esc(settingLabel(THEME_LABELS,a.theme))+' <small>'+Number(a.themeChanges||0)+' trocas</small></span>'
-            +'<span><b>Fonte</b>'+esc(settingLabel(FONT_LABELS,a.font))+' <small>'+Number(a.fontChanges||0)+' trocas</small></span>'
-            +'<span><b>Tamanho</b>'+Math.round(Number(a.fontScale||1)*100)+'% <small>'+Number(a.fontScaleChanges||0)+' trocas</small></span>'
-            +'<span><b>Música automática</b>'+(a.autoAmbient?"Sim":"Não")+'</span>'
-            +'<span><b>Oculta imagens</b>'+(a.hideArt?"Sim":"Não")+'</span>'
-          +'</div>'
-        +'</section>'
-        +'<section class="analytics-section"><div class="analytics-section-head"><h3>Capítulo a capítulo</h3><span>Tempo ativo, narração e música podem acontecer ao mesmo tempo.</span></div>'+chapterHtml+'</section>';
+      +'</section>'
+      +'<section class="analytics-section"><div class="analytics-section-head"><h3>Capítulo a capítulo</h3><span>Tempo ativo, narração e música podem acontecer ao mesmo tempo.</span></div>'+chapterHtml+'</section>';
 
-      detail.querySelector("#analyticsBack").onclick=()=>{detail.hidden=true;main.hidden=false;};
-    }catch(e){
-      console.warn("Não foi possível carregar o detalhe do leitor:",e);
-      detail.innerHTML='<button id="analyticsBack" class="back-link analytics-back" type="button">← Todos os leitores</button><p class="admin-empty">Não foi possível carregar o detalhe deste leitor.</p>';
-      detail.querySelector("#analyticsBack").onclick=()=>{detail.hidden=true;main.hidden=false;};
-    }
+    detail.querySelector("#analyticsBack").onclick=()=>{detail.hidden=true;main.hidden=false;};
+    wireIgnoreButtons(detail);
   }
 
   function showAnalytics(){
