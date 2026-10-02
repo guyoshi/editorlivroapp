@@ -37,7 +37,7 @@ const Comments = (() => {
     try{
       const snap=await db.collection(ADMIN_COLLECTION).doc(user.uid).get();
       const data=snap.exists?(snap.data()||{}):null;
-      return !!data && data.disabled!==true;
+      return !!data && data.enabled===true && data.disabled!==true;
     }catch(e){
       console.warn("Não foi possível validar a permissão de administrador:",e);
       return false;
