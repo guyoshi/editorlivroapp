@@ -998,3 +998,26 @@ body.focus-mode .para-actions{ display:none !important; }
   font-weight:700;
   color:var(--ink);
 }
+
+
+/* ---------- menu unificado de usuário ---------- */
+.reader-switch-card{ max-width:560px; margin:0 auto; }
+.reader-switch-section{
+  padding:14px 0;
+  border-top:1px solid var(--line);
+}
+.reader-switch-section:first-of-type{ border-top:0; padding-top:4px; }
+.reader-switch-section>strong{
+  display:block;
+  margin-bottom:5px;
+  font-size:.84rem;
+  color:var(--ink);
+}
+.reader-switch-section .sheet-hint{ margin-bottom:10px; }
+.reader-switch-wide{ width:100%; }
+.reader-switch-admin-section{ padding-bottom:4px; }
+.reader-switch-admin-section button.active{
+  color:var(--accent);
+  border-color:var(--accent);
+  background:color-mix(in srgb,var(--accent) 10%,var(--bg-elev));
+}
