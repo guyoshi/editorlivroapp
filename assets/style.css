@@ -773,3 +773,14 @@ body.reader-hub-open{ overflow:hidden; }
 /* estado dos players: nunca exibir ícones ocultos simultaneamente */
 .play-btn svg[hidden],
 .ambient-player-btn svg[hidden]{ display:none !important; }
+
+.switch-reader-btn{ position:relative; }
+.reader-switch-current{
+  margin:0 0 14px;
+  padding:10px 12px;
+  border:1px solid var(--line);
+  border-radius:10px;
+  background:var(--focus-bg);
+  color:var(--ink-soft);
+  font-size:.8rem;
+}
