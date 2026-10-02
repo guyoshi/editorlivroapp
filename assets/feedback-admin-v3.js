@@ -448,6 +448,93 @@
     if(x)x.hidden=true;
   }
 
+  // ---------------- Exclusão segura de leitor ----------------
+  let pendingDeleteProfile=null;
+  let deletingReader=false;
+
+  function ensureDeleteReaderConfirm(){
+    if(document.getElementById("readerDeleteConfirm"))return;
+    const el=document.createElement("div");
+    el.id="readerDeleteConfirm";
+    el.className="danger-confirm-sheet";
+    el.hidden=true;
+    el.innerHTML='<section class="danger-confirm-card" role="dialog" aria-modal="true" aria-labelledby="readerDeleteTitle">'
+      +'<div class="danger-confirm-icon" aria-hidden="true">!</div>'
+      +'<div><h2 id="readerDeleteTitle">Apagar leitor definitivamente?</h2><p>Você está prestes a apagar <strong id="readerDeleteName">este leitor</strong>.</p></div>'
+      +'<div class="danger-confirm-warning"><strong>Esta ação não pode ser desfeita.</strong><ul>'
+        +'<li>O código de acesso deste leitor será revogado.</li>'
+        +'<li>Comentários, respostas e reações desse leitor serão apagados.</li>'
+        +'<li>Relatórios e dados analíticos vinculados a ele serão removidos.</li>'
+        +'<li>Ele perderá o acesso aos livros liberados para este perfil.</li>'
+      +'</ul><p>Dados de progresso que existam apenas no aparelho do leitor podem continuar fisicamente naquele navegador, mas o perfil revogado não poderá ser recuperado pelo código antigo.</p></div>'
+      +'<label class="danger-confirm-check"><input id="readerDeleteAcknowledge" type="checkbox"><span>Entendo que esta exclusão é permanente e que os dados vinculados ao leitor serão perdidos.</span></label>'
+      +'<p id="readerDeleteStatus" class="danger-confirm-status" aria-live="polite"></p>'
+      +'<div class="danger-confirm-actions"><button id="readerDeleteCancel" class="btn-ghost" type="button">Cancelar</button><button id="readerDeleteConfirmBtn" class="btn-danger" type="button" disabled>Apagar definitivamente</button></div>'
+      +'</section>';
+    document.body.appendChild(el);
+
+    const ack=el.querySelector("#readerDeleteAcknowledge");
+    const confirmBtn=el.querySelector("#readerDeleteConfirmBtn");
+    const cancelBtn=el.querySelector("#readerDeleteCancel");
+
+    const close=()=>{
+      if(deletingReader)return;
+      pendingDeleteProfile=null;
+      ack.checked=false;
+      confirmBtn.disabled=true;
+      el.querySelector("#readerDeleteStatus").textContent="";
+      el.hidden=true;
+    };
+
+    ack.addEventListener("change",()=>{confirmBtn.disabled=!ack.checked||deletingReader;});
+    cancelBtn.onclick=close;
+    el.onclick=e=>{if(e.target===el)close();};
+
+    confirmBtn.onclick=async()=>{
+      const profile=pendingDeleteProfile;
+      if(!profile||!ack.checked||deletingReader)return;
+      deletingReader=true;
+      confirmBtn.disabled=true;
+      cancelBtn.disabled=true;
+      confirmBtn.textContent="Apagando…";
+      const status=el.querySelector("#readerDeleteStatus");
+      status.textContent="Revogando o perfil e removendo os dados vinculados…";
+      try{
+        const result=await Comments.deleteReaderProfile(profile.id,profile.readerId);
+        if(result?.cleanupFailed){
+          status.textContent="O perfil foi revogado, mas parte da limpeza pode não ter sido concluída.";
+          alert("O leitor foi removido e o código foi revogado, mas alguns dados vinculados podem ter ficado no banco.");
+        }else{
+          status.textContent="Leitor apagado.";
+        }
+        pendingDeleteProfile=null;
+        el.hidden=true;
+        await renderAccess();
+      }catch(e){
+        status.textContent="Não foi possível apagar o leitor. Nenhuma nova tentativa será feita automaticamente.";
+        alert("Não foi possível apagar o leitor: "+(e.message||"tente de novo."));
+      }finally{
+        deletingReader=false;
+        ack.checked=false;
+        cancelBtn.disabled=false;
+        confirmBtn.disabled=true;
+        confirmBtn.textContent="Apagar definitivamente";
+      }
+    };
+  }
+
+  function openDeleteReaderConfirm(profile){
+    if(!profile)return;
+    ensureDeleteReaderConfirm();
+    pendingDeleteProfile=profile;
+    const el=document.getElementById("readerDeleteConfirm");
+    el.querySelector("#readerDeleteName").textContent=(profile.name||"Anônimo")+" · #"+shortId(profile.readerId);
+    el.querySelector("#readerDeleteAcknowledge").checked=false;
+    el.querySelector("#readerDeleteConfirmBtn").disabled=true;
+    el.querySelector("#readerDeleteStatus").textContent="";
+    el.hidden=false;
+  }
+
   // ---------------- Acesso aos livros ----------------
   // Cada leitor escolhe o primeiro livro ao criar o perfil. O admin usa
   // esta área separada para liberar (ou remover) os próximos.
@@ -486,7 +573,7 @@
         const checked=allowed.includes(b.id)?"checked":"";
         return '<label class="field-check"><input type="checkbox" data-profile="'+esc(p.id)+'" data-book="'+esc(b.id)+'" '+checked+'><span>'+esc(b.title)+'</span></label>';
       }).join("");
-      return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+checks+'<div class="admin-card-actions"><button type="button" data-popup-profile="'+esc(p.id)+'">Enviar popup</button><button type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button></div></article>';
+      return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+checks+'<div class="admin-card-actions reader-access-card-actions"><button type="button" data-popup-profile="'+esc(p.id)+'">Enviar popup</button><button class="reader-delete-btn" type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button></div></article>';
     }).join("");
     list.querySelectorAll("input[type=checkbox]").forEach(cb=>{
       cb.addEventListener("change",async()=>{
@@ -506,22 +593,9 @@
       });
     });
     list.querySelectorAll("[data-delete-profile]").forEach(btn=>{
-      btn.addEventListener("click",async()=>{
+      btn.addEventListener("click",()=>{
         const profile=profiles.find(p=>p.id===btn.dataset.deleteProfile);
-        if(!profile)return;
-        const who=profile.name||"este leitor";
-        if(!confirm('Apagar "'+who+'"?\n\nO código de acesso será revogado e os comentários, respostas e reações desse leitor serão apagados. Esta ação não pode ser desfeita.'))return;
-        btn.disabled=true;
-        btn.textContent="Apagando…";
-        try{
-          const result=await Comments.deleteReaderProfile(profile.id,profile.readerId);
-          if(result?.cleanupFailed)alert("O leitor foi removido e o código foi revogado, mas alguns feedbacks podem ter ficado no banco.");
-          await renderAccess();
-        }catch(e){
-          alert("Não foi possível apagar o leitor: "+(e.message||"tente de novo."));
-          btn.disabled=false;
-          btn.textContent="Apagar leitor";
-        }
+        if(profile)openDeleteReaderConfirm(profile);
       });
     });
   }
@@ -531,5 +605,5 @@
 
   document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on)subscribe();else{stop();hide();hideAccess();hideAnalytics();hideAdminHome();}});
   document.addEventListener("beta:admin-home",()=>{if(Comments?.isAdmin?.())showAdminHome();});
-  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();if(Comments?.isAdmin?.())subscribe();});
+  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureDeleteReaderConfirm();if(Comments?.isAdmin?.())subscribe();});
 })();
