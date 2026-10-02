@@ -1031,6 +1031,84 @@ html,body{ height:100dvh; overflow:hidden; }
 }
 .analytics-chapter-card .analytics-progress{ margin:8px 0; }
 
+.analytics-live-section{
+  margin-top:10px;
+  border-top:1px solid var(--line);
+}
+.analytics-live-list{
+  display:grid;
+  gap:7px;
+}
+.analytics-live-card{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  padding:10px 11px;
+  border:1px solid color-mix(in srgb,var(--accent) 45%,var(--line));
+  border-radius:11px;
+  background:color-mix(in srgb,var(--accent) 8%,var(--bg-elev));
+}
+.analytics-live-card>div:first-child{
+  display:grid;
+  grid-template-columns:auto auto;
+  align-items:center;
+  gap:2px 7px;
+}
+.analytics-live-card strong{ font-size:.78rem; }
+.analytics-live-card small{
+  grid-column:2;
+  color:var(--ink-soft);
+  font-size:.64rem;
+}
+.presence-dot{
+  width:8px;
+  height:8px;
+  border-radius:50%;
+  background:#23b26d;
+  box-shadow:0 0 0 3px color-mix(in srgb,#23b26d 18%,transparent);
+}
+.analytics-live-location{
+  display:flex;
+  flex-direction:column;
+  align-items:flex-end;
+  gap:2px;
+  text-align:right;
+}
+.analytics-live-location b{
+  color:var(--accent);
+  font-size:.88rem;
+}
+.analytics-live-location span{
+  color:var(--ink-soft);
+  font-size:.62rem;
+}
+.presence-status{
+  display:inline-flex;
+  align-items:center;
+  gap:5px;
+  margin-top:5px;
+  font-style:normal;
+  font-size:.64rem;
+  font-weight:800;
+}
+.presence-status.live{ color:#23b26d; }
+.presence-status.online{ color:var(--accent); }
+.presence-status.idle,
+.presence-status.recent{ color:#b58b5f; }
+.presence-status.offline{ color:var(--ink-soft); }
+.presence-status.live i{
+  width:7px;
+  height:7px;
+  border-radius:50%;
+  background:currentColor;
+  box-shadow:0 0 0 3px color-mix(in srgb,currentColor 16%,transparent);
+}
+.analytics-reader-card.is-live{
+  border-color:color-mix(in srgb,#23b26d 55%,var(--line));
+}
+
+
 .beta-feedback-admin-tools{
   display:flex;
   align-items:center;
@@ -1201,6 +1279,8 @@ html,body{ height:100dvh; overflow:hidden; }
 }
 
 @media(max-width:520px){
+  .analytics-live-card{ align-items:flex-start; flex-direction:column; }
+  .analytics-live-location{ align-items:flex-start; text-align:left; }
   .beta-book-score-grid{ grid-template-columns:1fr 1fr; }
   .beta-feedback-distributions{ grid-template-columns:1fr; }
   .beta-cross-title{ flex-direction:column; }
