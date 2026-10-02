@@ -35,10 +35,7 @@ const Comments = (() => {
   const name=()=>String(localStorage.getItem(NAME_KEY)||"").trim();
   const admin=()=>!!adminUser;
 
-  function resetDeletedReaderProfile(){
-    if(readerResetting)return;
-    readerResetting=true;
-
+  function clearReaderIdentity(){
     // Apaga somente a identidade do beta reader. Preferências de leitura e
     // progresso dos livros ficam preservados no aparelho.
     localStorage.removeItem(NAME_KEY);
@@ -46,10 +43,39 @@ const Comments = (() => {
     localStorage.removeItem(ACCESS_KEY);
     localStorage.removeItem(CODEHASH_KEY);
     localStorage.removeItem(SEEN_ANNOUNCE_KEY);
+  }
 
-    // Recarrega já como visitante novo. O próximo cadastro gera novo nome,
-    // readerId, código de acesso e documento de perfil.
-    setTimeout(()=>location.reload(),0);
+  function resetDeletedReaderProfile({reload=true}={}){
+    if(readerResetting)return;
+    readerResetting=true;
+    clearReaderIdentity();
+
+    // Fora do boot, recarrega já como visitante novo. No boot podemos limpar
+    // antes de montar a interface e abrir diretamente a tela de novo perfil.
+    if(reload)setTimeout(()=>location.reload(),0);
+  }
+
+  async function validateStoredReaderProfile(){
+    if(!enabled||!db||!name())return false;
+
+    let codeHash=localStorage.getItem(CODEHASH_KEY)||"";
+    if(!codeHash&&accessCode()){
+      codeHash=await sha256(normalizeAccessCode(accessCode()));
+      localStorage.setItem(CODEHASH_KEY,codeHash);
+    }
+    if(!codeHash)return false;
+
+    try{
+      const doc=await db.collection(PROFILE_COLLECTION).doc(codeHash).get();
+      if(!doc.exists || doc.data()?.deleted===true){
+        resetDeletedReaderProfile({reload:false});
+        return true;
+      }
+    }catch(e){
+      // Falha de rede não deve expulsar um leitor válido.
+      console.warn("Não foi possível validar a identidade do leitor:",e);
+    }
+    return false;
   }
 
   function profileDeletedError(){
@@ -340,9 +366,11 @@ const Comments = (() => {
         ids.slice(i,i+400).forEach(id=>batch.delete(db.collection("comments").doc(id)));
         await batch.commit();
       }
+      if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
       return {deletedFeedback:ids.length,cleanupFailed:false};
     }catch(e){
       console.warn("Leitor removido, mas a limpeza do feedback falhou:",e);
+      if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
       return {deletedFeedback:0,cleanupFailed:true};
     }
   }
@@ -365,7 +393,7 @@ const Comments = (() => {
     return {readerId:profile.readerId,name:profile.name,accessCode:formatAccessCode(clean)};
   }
 
-  function init(){
+  async function init(){
     if(window.FIREBASE_CONFIG&&window.firebase){
       try{
         if(!firebase.apps.length)firebase.initializeApp(window.FIREBASE_CONFIG);
@@ -383,7 +411,15 @@ const Comments = (() => {
         }
       }catch(e){console.warn(e);}
     }
-    uid(); wireName(); wireSettings();
+
+    // Antes de montar a interface, confirma que o perfil local ainda existe.
+    // Se o admin o removeu, limpamos nome/ID/código primeiro, evitando o
+    // "fantasma" do utilizador apagado aparecer novamente após F5.
+    if(name())await validateStoredReaderProfile();
+
+    if(name())uid();
+    wireName();
+    wireSettings();
     updateIdentityBar();
     document.addEventListener("beta:profile-ready",updateIdentityBar);
     document.addEventListener("beta:profile-login",updateIdentityBar);
