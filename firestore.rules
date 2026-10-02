@@ -182,6 +182,8 @@ service cloud.firestore {
       allow get: if isProfileHash(profileHash);
       allow list: if isAdmin();
 
+      allow create: if isAdmin();
+
       allow create: if isProfileHash(profileHash)
         && request.resource.data.keys().hasOnly([
           'readerId','name','createdAt','updatedAt','allowedBooks','initialBookId'
@@ -225,6 +227,34 @@ service cloud.firestore {
 
       // O app mantém uma lápide em vez de apagar o documento.
       allow delete: if false;
+    }
+
+    // ---------------------------------------------------------
+    // CÓDIGOS DE ACESSO DOS LEITORES
+    // O código em texto fica separado do perfil público e só admins leem.
+    // O leitor apenas sincroniza o próprio código para o painel.
+    // ---------------------------------------------------------
+    function validAccessCodeRecord(profileHash, data) {
+      return isProfileHash(profileHash)
+        && data.keys().hasOnly(['profileHash','readerId','accessCode','updatedAt'])
+        && data.profileHash == profileHash
+        && data.readerId is string
+        && data.readerId.size() >= 16
+        && data.readerId.size() <= 80
+        && data.accessCode is string
+        && data.accessCode.size() >= 4
+        && data.accessCode.size() <= 24
+        && data.updatedAt is int
+        && exists(/databases/$(database)/documents/readerProfiles/$(profileHash))
+        && get(/databases/$(database)/documents/readerProfiles/$(profileHash)).data.get('deleted', false) != true
+        && get(/databases/$(database)/documents/readerProfiles/$(profileHash)).data.readerId == data.readerId;
+    }
+
+    match /readerAccessCodes/{profileHash} {
+      allow read, delete: if isAdmin();
+
+      allow create, update: if isAdmin()
+        || validAccessCodeRecord(profileHash, request.resource.data);
     }
 
     // ---------------------------------------------------------
