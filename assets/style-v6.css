@@ -540,6 +540,44 @@ html,body{ height:100dvh; overflow:hidden; }
   opacity:.55;
   cursor:default;
 }
+.reader-admin-code{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:baseline;
+  gap:5px 8px;
+  margin:9px 0 11px;
+  padding:9px 10px;
+  border:1px solid var(--line);
+  border-radius:10px;
+  background:var(--focus-bg);
+}
+.reader-admin-code>span{
+  color:var(--ink-soft);
+  font-size:.64rem;
+  font-weight:700;
+  text-transform:uppercase;
+  letter-spacing:.04em;
+}
+.reader-admin-code>strong{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-size:.92rem;
+  letter-spacing:.06em;
+  color:var(--accent);
+}
+.reader-admin-code>small{
+  flex-basis:100%;
+  color:var(--ink-soft);
+  font-size:.64rem;
+  line-height:1.4;
+}
+.reader-admin-code.is-missing{
+  border-style:dashed;
+}
+.reader-admin-code.is-missing>strong{
+  font-family:inherit;
+  letter-spacing:0;
+  color:var(--ink-soft);
+}
 
 .danger-confirm-sheet{
   position:fixed;
