@@ -97,3 +97,18 @@ de engrenagem (⚙) e cole o endereço base, por exemplo:
 ```
 https://raw.githubusercontent.com/SEU-USUARIO/OUTRO-REPO/main/
 ```
+
+
+## Acesso administrativo seguro
+
+O modo admin usa Firebase Authentication com e-mail/senha e uma allowlist por UID no Firestore. Não existe senha de administrador embutida no repositório.
+
+Configuração inicial, feita uma única vez:
+
+1. No Firebase Console do projeto `editorlivroapeditorlivroappp`, habilite **Authentication → E-mail/Senha**.
+2. Em **Authentication → Users**, crie a conta do administrador e copie o **UID**.
+3. Em **Firestore Database**, crie a coleção `admins` e um documento cujo ID seja exatamente esse UID. O documento pode conter apenas `enabled: true`; a existência do documento já autoriza o acesso.
+4. Publique as regras de `firestore.rules` no Firestore.
+5. No app, abra **Ajustes → Modo admin** e entre com o e-mail e a senha dessa conta.
+
+O login tem recuperação de senha por e-mail. Uma conta autenticada que não possua o documento `admins/{UID}` é desconectada e não recebe acesso ao painel.
