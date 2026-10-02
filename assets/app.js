@@ -428,14 +428,26 @@ function showHintOnce(key, title, text){
 
 function initPlayerControls(){
   const a = audioEl();
-  const btnPlay = $("#btnPlay"), iconPlay = $("#iconPlay"), iconPause = $("#iconPause");
+  const btnPlay = $("#btnPlay");
+  const narrationStatePath = $("#narrationStatePath");
+  const PLAY_PATH = "M8 5v14l11-7z";
+  const PAUSE_PATH = "M6 5h4v14H6zM14 5h4v14h-4z";
 
+  function setNarrationButtonState(playing){
+    if(narrationStatePath)narrationStatePath.setAttribute("d",playing?PAUSE_PATH:PLAY_PATH);
+    const label=playing?"Pausar narração":"Tocar narração";
+    btnPlay.setAttribute("aria-label",label);
+    btnPlay.title=label;
+    btnPlay.setAttribute("aria-pressed",String(!!playing));
+  }
+
+  setNarrationButtonState(false);
   btnPlay.addEventListener("click", ()=>{
     showHintOnce("jesed:hintPlay", "Narração do capítulo", "Toque aqui pra ouvir o capítulo narrado. Dá pra pausar e continuar de onde parou a qualquer momento, inclusive em outro aparelho.");
     a.paused ? a.play() : a.pause();
   });
-  a.addEventListener("play", ()=>{ iconPlay.hidden = true; iconPause.hidden = false; });
-  a.addEventListener("pause", ()=>{ iconPlay.hidden = false; iconPause.hidden = true; savePos(a.currentTime); });
+  a.addEventListener("play", ()=>setNarrationButtonState(true));
+  a.addEventListener("pause", ()=>{ setNarrationButtonState(false); savePos(a.currentTime); });
   a.addEventListener("timeupdate", ()=>{
     updateTimes();
     if(Math.floor(a.currentTime) % 5 === 0) savePos(a.currentTime);
@@ -452,16 +464,15 @@ function initPlayerControls(){
   // à direita da barra de narração.
   const ambientBtn = $("#btnAmbient");
   const ambientEl = $("#ambientEl");
-  const ambientIconPlay = $("#ambientIconPlay");
-  const ambientIconPause = $("#ambientIconPause");
+  const ambientStatePath = $("#ambientStatePath");
 
   function setAmbientButtonState(playing){
     ambientBtn.classList.toggle("active",!!playing);
-    if(ambientIconPlay)ambientIconPlay.hidden=!!playing;
-    if(ambientIconPause)ambientIconPause.hidden=!playing;
+    if(ambientStatePath)ambientStatePath.setAttribute("d",playing?PAUSE_PATH:PLAY_PATH);
     const label=playing?"Pausar música do capítulo":"Tocar música do capítulo";
     ambientBtn.setAttribute("aria-label",label);
     ambientBtn.title=label;
+    ambientBtn.setAttribute("aria-pressed",String(!!playing));
   }
 
   ambientEl.volume = 0.22;
@@ -487,17 +498,16 @@ function initPlayerControls(){
 function updateAmbientForChapter(ch){
   const ambientBtn = $("#btnAmbient");
   const ambientEl = $("#ambientEl");
-  const ambientIconPlay = $("#ambientIconPlay");
-  const ambientIconPause = $("#ambientIconPause");
+  const ambientStatePath = $("#ambientStatePath");
   const wasPlaying = !ambientEl.paused;
   ambientEl.pause();
 
   const setStopped=()=>{
     ambientBtn.classList.remove("active");
-    if(ambientIconPlay)ambientIconPlay.hidden=false;
-    if(ambientIconPause)ambientIconPause.hidden=true;
+    if(ambientStatePath)ambientStatePath.setAttribute("d","M8 5v14l11-7z");
     ambientBtn.setAttribute("aria-label","Tocar música do capítulo");
     ambientBtn.title="Tocar música do capítulo";
+    ambientBtn.setAttribute("aria-pressed","false");
   };
 
   if(ch && ch.ambient){
