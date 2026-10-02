@@ -190,6 +190,7 @@ async function openChapter(idx){
   updateNextChapterUI();
   updateCompleteUI();
   resetReaderProgress();
+  audioEl().pause();
   updateAmbientForChapter(ch);
 
   // texto
@@ -205,7 +206,6 @@ async function openChapter(idx){
   // áudio
   const player = $("#audioEl");
   const bar = $("#playerBar");
-  player.pause();
   bar.classList.remove("player-missing");
   if(ch.audio){
     bar.hidden = false;
@@ -392,48 +392,133 @@ function changeChapter(dir){
 
 const AMBIENT_NORMAL_VOLUME = 0.22;
 const AMBIENT_DUCKED_VOLUME = 0.075;
-let ambientVolumeTimer = null;
+const AMBIENT_DUCK_FACTOR = AMBIENT_DUCKED_VOLUME / AMBIENT_NORMAL_VOLUME;
+const AMBIENT_CROSSFADE_MS = 2200;
 
-function fadeAmbientVolume(target, ms=260){
-  const el = $("#ambientEl");
-  if(!el)return;
-  if(ambientVolumeTimer)clearInterval(ambientVolumeTimer);
-  const start = Number.isFinite(el.volume) ? el.volume : AMBIENT_NORMAL_VOLUME;
-  const steps = 10;
-  let i = 0;
-  ambientVolumeTimer=setInterval(()=>{
+let ambientDuckFactor = 1;
+let ambientDuckTimer = null;
+let ambientCrossfadeToken = 0;
+let ambientActiveEl = null;
+let ambientTrackKey = null;
+const ambientMix = new WeakMap();
+
+function ambientPlayers(){
+  return [$("#ambientEl"),$("#ambientElAlt")].filter(Boolean);
+}
+
+function ambientResolvedSrc(src){
+  if(!src)return "";
+  return /^https?:\/\//i.test(src) ? src : resolve(src);
+}
+
+function ambientMixOf(el){
+  return Math.max(0,Math.min(1,ambientMix.get(el) ?? 0));
+}
+
+function applyAmbientVolumes(){
+  ambientPlayers().forEach(el=>{
+    el.volume=Math.max(0,Math.min(1,AMBIENT_NORMAL_VOLUME * ambientDuckFactor * ambientMixOf(el)));
+  });
+}
+
+function setAmbientDuck(target,ms=280){
+  target=Math.max(0,Math.min(1,target));
+  if(ambientDuckTimer)clearInterval(ambientDuckTimer);
+  const start=ambientDuckFactor;
+  const steps=10;
+  let i=0;
+  ambientDuckTimer=setInterval(()=>{
     i++;
     const p=i/steps;
-    el.volume=Math.max(0,Math.min(1,start+(target-start)*p));
+    ambientDuckFactor=start+(target-start)*p;
+    applyAmbientVolumes();
     if(i>=steps){
-      clearInterval(ambientVolumeTimer);
-      ambientVolumeTimer=null;
-      el.volume=target;
+      clearInterval(ambientDuckTimer);
+      ambientDuckTimer=null;
+      ambientDuckFactor=target;
+      applyAmbientVolumes();
     }
   },Math.max(16,ms/steps));
 }
 
-// Diminui o volume aos poucos até parar, em vez de cortar seco.
-function fadeOutAndPause(el, ms=500){
-  if(el.paused)return;
-  if(ambientVolumeTimer){clearInterval(ambientVolumeTimer);ambientVolumeTimer=null;}
-  const startVol=el.volume;
-  const steps=10, stepMs=ms/steps;
-  let i=0;
-  const t=setInterval(()=>{
-    i++;
-    el.volume=Math.max(0,startVol*(1-i/steps));
-    if(i>=steps){
-      clearInterval(t);
-      el.pause();
-      // O próximo play recalcula o volume conforme a narração esteja tocando.
-      el.volume=AMBIENT_NORMAL_VOLUME;
-    }
-  },stepMs);
+function syncAmbientButton(){
+  const btn=$("#btnAmbient");
+  if(!btn)return;
+  const playing=!!ambientActiveEl && !ambientActiveEl.paused;
+  btn.classList.toggle("active",playing);
+  const label=playing?"Pausar música do capítulo":"Tocar música do capítulo";
+  btn.setAttribute("aria-label",label);
+  btn.title=label;
+  btn.setAttribute("aria-pressed",String(playing));
 }
 
-// Popup explicativo, mostrado só na primeira vez que a pessoa usa cada
-// controle (guardado por aparelho).
+function stopAmbientElement(el,{clear=false}={}){
+  if(!el)return;
+  try{el.pause();}catch(e){}
+  ambientMix.set(el,0);
+  if(clear){
+    el.removeAttribute("src");
+    try{el.load();}catch(e){}
+  }
+  applyAmbientVolumes();
+}
+
+function crossfadeAmbient(outEl,inEl,ms=AMBIENT_CROSSFADE_MS){
+  const token=++ambientCrossfadeToken;
+  const outStart=outEl ? ambientMixOf(outEl) : 0;
+  const inStart=inEl ? ambientMixOf(inEl) : 0;
+  const started=performance.now();
+
+  function frame(now){
+    if(token!==ambientCrossfadeToken)return;
+    const p=Math.min(1,(now-started)/ms);
+    const smooth=p*p*(3-2*p);
+    if(outEl)ambientMix.set(outEl,outStart*(1-smooth));
+    if(inEl)ambientMix.set(inEl,inStart+(1-inStart)*smooth);
+    applyAmbientVolumes();
+
+    if(p<1){
+      requestAnimationFrame(frame);
+      return;
+    }
+
+    if(outEl && outEl!==inEl)stopAmbientElement(outEl,{clear:true});
+    if(inEl)ambientMix.set(inEl,1);
+    applyAmbientVolumes();
+    syncAmbientButton();
+  }
+  requestAnimationFrame(frame);
+}
+
+function fadeOutAmbient(el,ms=1100,{clear=false}={}){
+  if(!el || el.paused){
+    stopAmbientElement(el,{clear});
+    syncAmbientButton();
+    return;
+  }
+  const token=++ambientCrossfadeToken;
+  const startMix=ambientMixOf(el) || 1;
+  const started=performance.now();
+
+  function frame(now){
+    if(token!==ambientCrossfadeToken)return;
+    const p=Math.min(1,(now-started)/ms);
+    const smooth=p*p*(3-2*p);
+    ambientMix.set(el,startMix*(1-smooth));
+    applyAmbientVolumes();
+
+    if(p<1){
+      requestAnimationFrame(frame);
+      return;
+    }
+
+    stopAmbientElement(el,{clear});
+    if(el===ambientActiveEl)ambientMix.set(el,1);
+    syncAmbientButton();
+  }
+  requestAnimationFrame(frame);
+}
+
 function showHintOnce(key, title, text){
   if(localStorage.getItem(key)) return;
   localStorage.setItem(key, "1");
@@ -474,13 +559,11 @@ function initPlayerControls(){
   });
   a.addEventListener("play", ()=>{
     setNarrationButtonState(true);
-    const music=$("#ambientEl");
-    if(music && !music.paused)fadeAmbientVolume(AMBIENT_DUCKED_VOLUME);
+    setAmbientDuck(AMBIENT_DUCK_FACTOR);
   });
   a.addEventListener("pause", ()=>{
     setNarrationButtonState(false);
-    const music=$("#ambientEl");
-    if(music && !music.paused)fadeAmbientVolume(AMBIENT_NORMAL_VOLUME);
+    setAmbientDuck(1);
     savePos(a.currentTime);
   });
   a.addEventListener("timeupdate", ()=>{
@@ -489,8 +572,7 @@ function initPlayerControls(){
   });
   a.addEventListener("ended", ()=>{
     setNarrationButtonState(false);
-    const music=$("#ambientEl");
-    if(music && !music.paused)fadeAmbientVolume(AMBIENT_NORMAL_VOLUME);
+    setAmbientDuck(1);
     savePos(0);
   });
 
@@ -500,69 +582,99 @@ function initPlayerControls(){
   });
   $("#btnBack15").addEventListener("click", ()=> skip(-15));
 
-  // música de fundo do capítulo. O botão fica como último controle,
-  // à direita da barra de narração.
-  const ambientBtn = $("#btnAmbient");
-  const ambientEl = $("#ambientEl");
+  const ambientBtn=$("#btnAmbient");
+  const players=ambientPlayers();
+  ambientActiveEl=players[0]||null;
+  players.forEach((el,i)=>{
+    el.loop=true;
+    ambientMix.set(el,i===0?1:0);
+    el.addEventListener("play",syncAmbientButton);
+    el.addEventListener("pause",syncAmbientButton);
+  });
+  applyAmbientVolumes();
 
-  function setAmbientButtonState(playing){
-    ambientBtn.classList.toggle("active",!!playing);
-    const label=playing?"Pausar música do capítulo":"Tocar música do capítulo";
-    ambientBtn.setAttribute("aria-label",label);
-    ambientBtn.title=label;
-    ambientBtn.setAttribute("aria-pressed",String(!!playing));
-  }
+  ambientBtn.addEventListener("click",async()=>{
+    if(!state.ambientSrc || !ambientActiveEl){
+      syncAmbientButton();
+      return;
+    }
+    showHintOnce("jesed:hintAmbient", "Música do capítulo", "Liga a trilha pensada para este trecho. Ela continua entre capítulos que usam a mesma música e troca suavemente quando a trilha muda.");
 
-  ambientEl.volume = AMBIENT_NORMAL_VOLUME;
-  ambientEl.loop = true;
-  ambientEl.addEventListener("play",()=>setAmbientButtonState(true));
-  ambientEl.addEventListener("pause",()=>setAmbientButtonState(false));
-
-  ambientBtn.addEventListener("click", async ()=>{
-    if(!state.ambientSrc){ setAmbientButtonState(false); return; }
-    showHintOnce("jesed:hintAmbient", "Música do capítulo", "Liga a trilha pensada para este trecho. Ela toca baixinho por baixo da narração e pode ser pausada separadamente.");
-    if(ambientEl.paused){
-      ambientEl.volume=a.paused ? AMBIENT_NORMAL_VOLUME : AMBIENT_DUCKED_VOLUME;
-      try{ await ambientEl.play(); }
-      catch(e){ setAmbientButtonState(false); }
+    if(ambientActiveEl.paused){
+      ambientCrossfadeToken++;
+      ambientMix.set(ambientActiveEl,1);
+      ambientDuckFactor=a.paused?1:AMBIENT_DUCK_FACTOR;
+      applyAmbientVolumes();
+      try{await ambientActiveEl.play();}
+      catch(e){syncAmbientButton();}
     }else{
-      fadeOutAndPause(ambientEl);
-      setAmbientButtonState(false);
+      fadeOutAmbient(ambientActiveEl,700);
     }
   });
 }
 
-// Chama-se ao abrir/trocar de capítulo: troca (ou para) a música ambiente
-// conforme o capítulo tenha ou não o campo "ambient" no manifesto.
-function updateAmbientForChapter(ch){
-  const ambientBtn = $("#btnAmbient");
-  const ambientEl = $("#ambientEl");
-  const wasPlaying = !ambientEl.paused;
-  ambientEl.pause();
+async function updateAmbientForChapter(ch){
+  const btn=$("#btnAmbient");
+  const nextKey=ch?.ambient ? String(ch.ambient) : null;
+  const autoStart=localStorage.getItem(AUTO_AMBIENT_KEY)==="1";
 
-  const setStopped=()=>{
-    ambientBtn.classList.remove("active");
-    ambientBtn.setAttribute("aria-label","Tocar música do capítulo");
-    ambientBtn.title="Tocar música do capítulo";
-    ambientBtn.setAttribute("aria-pressed","false");
-  };
+  if(nextKey && ambientTrackKey===nextKey && ambientActiveEl){
+    state.ambientSrc=nextKey;
+    btn.hidden=false;
+    syncAmbientButton();
+    return;
+  }
 
-  if(ch && ch.ambient){
-    state.ambientSrc = ch.ambient;
-    ambientBtn.hidden = false;
-    ambientEl.src = /^https?:\/\//i.test(ch.ambient) ? ch.ambient : resolve(ch.ambient);
-    const autoStart = localStorage.getItem(AUTO_AMBIENT_KEY) === "1";
-    if(wasPlaying || autoStart){
-      ambientEl.volume=audioEl().paused ? AMBIENT_NORMAL_VOLUME : AMBIENT_DUCKED_VOLUME;
-      ambientEl.play().catch(()=>setStopped());
-    }else{
-      setStopped();
-    }
-  }else{
-    state.ambientSrc = null;
-    ambientBtn.hidden = true;
-    setStopped();
-    ambientEl.removeAttribute("src");
+  const players=ambientPlayers();
+  const oldEl=ambientActiveEl;
+  const oldKey=ambientTrackKey;
+  const oldWasPlaying=!!oldEl && !oldEl.paused;
+
+  if(!nextKey){
+    state.ambientSrc=null;
+    ambientTrackKey=null;
+    btn.hidden=true;
+    if(oldEl && !oldEl.paused)fadeOutAmbient(oldEl,AMBIENT_CROSSFADE_MS,{clear:true});
+    else stopAmbientElement(oldEl,{clear:true});
+    return;
+  }
+
+  btn.hidden=false;
+  state.ambientSrc=nextKey;
+
+  let nextEl=players.find(el=>el!==oldEl) || players[0] || null;
+  if(!nextEl)return;
+
+  ambientCrossfadeToken++;
+  stopAmbientElement(nextEl,{clear:true});
+  nextEl.src=ambientResolvedSrc(nextKey);
+  nextEl.loop=true;
+  ambientMix.set(nextEl,0);
+  applyAmbientVolumes();
+
+  const shouldPlay=oldWasPlaying || autoStart;
+
+  if(!shouldPlay){
+    if(oldEl && oldEl!==nextEl)stopAmbientElement(oldEl,{clear:true});
+    ambientActiveEl=nextEl;
+    ambientTrackKey=nextKey;
+    ambientMix.set(nextEl,1);
+    applyAmbientVolumes();
+    syncAmbientButton();
+    return;
+  }
+
+  try{
+    await nextEl.play();
+    ambientActiveEl=nextEl;
+    ambientTrackKey=nextKey;
+    crossfadeAmbient(oldEl,nextEl,AMBIENT_CROSSFADE_MS);
+  }catch(e){
+    stopAmbientElement(nextEl,{clear:true});
+    ambientActiveEl=oldEl;
+    ambientTrackKey=oldKey;
+    state.ambientSrc=oldKey;
+    syncAmbientButton();
   }
 }
 
