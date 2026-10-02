@@ -111,7 +111,17 @@ async function openBook(bookId){
   const localCompleted = state.currentBook.chapters
     .filter(ch=>isChapterDone(state.currentBook.id,ch.n))
     .map(ch=>Number(ch.n));
-  window.BetaAnalytics?.syncBook?.(state.currentBook,localCompleted);
+  // Progresso parcial já guardado neste aparelho (capítulos começados e não
+  // concluídos) também é importado — assim a leitura feita antes de o leitor
+  // atualizar o app aparece no relatório sem ele precisar reler.
+  const localPartial = state.currentBook.chapters
+    .filter(ch=>!isChapterDone(state.currentBook.id,ch.n))
+    .map(ch=>({n:Number(ch.n),pct:readChapterPct(state.currentBook.id,ch.n)}))
+    .filter(x=>x.pct>0);
+  const lastRaw = localStorage.getItem(LASTCH_KEY(state.currentBook.id));
+  const lastIdx = lastRaw===null ? NaN : Number(lastRaw);
+  const lastCh = Number.isInteger(lastIdx) ? state.currentBook.chapters[lastIdx] : null;
+  window.BetaAnalytics?.syncBook?.(state.currentBook,localCompleted,localPartial,lastCh?Number(lastCh.n):0);
 
   renderBookView();
   showView("book");

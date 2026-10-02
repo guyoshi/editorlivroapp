@@ -374,39 +374,58 @@
     writeState(fields).catch(e=>console.warn("Não foi possível registrar a personalização:",e));
   }
 
-  async function syncBook(book,completedNumbers=[]){
+  async function syncBook(book,completedNumbers=[],partial=[],lastN=0){
     const id=identity(),store=db(),FV=fieldValue();
     if(!id||!store||!FV||!book||!Array.isArray(book.chapters))return;
     const completedSet=new Set(completedNumbers.map(Number));
-    if(!completedSet.size)return;
+    const partialMap=new Map((partial||[]).map(x=>[Number(x.n),Math.max(0,Math.min(99,Math.round(Number(x.pct)||0)))]));
+    completedSet.forEach(n=>partialMap.delete(n));
+    if(!completedSet.size&&!partialMap.size)return;
+
+    // Só reenvia quando algo mudou desde a última importação neste aparelho.
+    const signature=[...completedSet].sort((a,b)=>a-b).join(",")+"|"
+      +[...partialMap.entries()].sort((a,b)=>a[0]-b[0]).map(e=>e[0]+":"+e[1]).join(",")+"|"+lastN;
+    const flagKey="jesed:importV2:"+id.readerId+":"+String(book.id||"");
+    try{if(localStorage.getItem(flagKey)===signature)return;}catch(_){}
 
     const summaryRef=store.collection("readerAnalytics").doc(id.readerId);
     const batch=store.batch();
     const stamp=now();
     const keys=[];
     book.chapters.forEach(ch=>{
-      if(!completedSet.has(Number(ch.n)))return;
+      const n=Number(ch.n);
+      const done=completedSet.has(n);
+      if(!done&&!partialMap.has(n))return;
       const ctx={
         bookId:String(book.id||""),
         bookTitle:String(book.title||book.id||""),
-        chapter:Number(ch.n)||0,
+        chapter:n||0,
         chapterTitle:String(ch.title||"")
       };
-      keys.push(chapterKey(ctx));
+      if(done)keys.push(chapterKey(ctx));
       batch.set(
         summaryRef.collection("chapters").doc(chapterDocId(ctx)),
-        {...chapterBase(id,ctx,stamp),completed:true,currentPct:100},
+        {...chapterBase(id,ctx,stamp),...(done?{completed:true,currentPct:100}:{currentPct:partialMap.get(n)})},
         {merge:true}
       );
     });
-    if(!keys.length)return;
-    batch.set(summaryRef,{
-      ...summaryBase(id,stamp),
-      completedChapters:FV.arrayUnion(...keys),
-      ...prefs()
-    },{merge:true});
-    try{await batch.commit();}
-    catch(e){window.BetaDiag?.error?.("analytics:importar",e);console.warn("Não foi possível importar o progresso local:",e);}
+    const summary={...summaryBase(id,stamp),...prefs()};
+    if(keys.length)summary.completedChapters=FV.arrayUnion(...keys);
+    const last=book.chapters.find(ch=>Number(ch.n)===Number(lastN));
+    if(last){
+      const lastPct=completedSet.has(Number(last.n))?100:(partialMap.get(Number(last.n))||0);
+      summary.currentBookId=String(book.id||"");
+      summary.currentBookTitle=String(book.title||book.id||"");
+      summary.currentChapter=Number(last.n)||0;
+      summary.currentChapterTitle=String(last.title||"");
+      summary.currentChapterPct=lastPct;
+    }
+    batch.set(summaryRef,summary,{merge:true});
+    try{
+      await commitWithRetry(batch);
+      try{localStorage.setItem(flagKey,signature);}catch(_){}
+      window.BetaDiag?.ok?.("importar");
+    }catch(e){window.BetaDiag?.error?.("analytics:importar",e);console.warn("Não foi possível importar o progresso local:",e);}
   }
 
   function tick(){
