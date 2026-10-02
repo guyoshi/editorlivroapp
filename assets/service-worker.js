@@ -1,14 +1,14 @@
 // Cache leve: guarda a casca do app pra abrir offline/instantâneo, e
 // guarda em cache (sem travar a rede) os textos e áudios de capítulo
 // conforme você vai abrindo — assim, na segunda vez, funcionam offline.
-const SHELL_CACHE = "jesed-shell-v28";
+const SHELL_CACHE = "jesed-shell-v29";
 const CONTENT_CACHE = "jesed-content-v1";
 const SHELL_FILES = [
   "./",
   "index.html",
   "assets/style.css",
   "assets/app.js",
-  "assets/feedback-core.js",
+  "assets/feedback-core-v2.js",
   "assets/feedback-admin.js",
   "assets/popup-messages.js",
   "assets/reader-hub.js",
