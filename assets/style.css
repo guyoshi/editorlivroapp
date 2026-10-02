@@ -304,10 +304,12 @@ html,body{ height:100dvh; overflow:hidden; }
 }
 .reaction-count.mine{ color:var(--accent); outline:1px solid color-mix(in srgb,var(--accent) 40%,transparent); }
 .reaction-picker{
-  position:absolute; z-index:7; display:flex; gap:4px; padding:6px;
+  position:absolute; right:0; z-index:7; display:flex; gap:4px; padding:6px;
+  max-width:calc(100vw - 32px); overflow-x:auto; scrollbar-width:none;
   background:var(--bg-elev); border:1px solid var(--line); border-radius:999px;
   box-shadow:0 8px 22px rgba(0,0,0,.14); transform:translateY(32px);
 }
+.reaction-picker::-webkit-scrollbar{display:none;}
 .reaction-picker[hidden]{ display:none; }
 .reaction-picker button{
   width:34px; height:34px; border:0; border-radius:50%; background:transparent; font-size:1.15rem; padding:0;
