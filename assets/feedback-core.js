@@ -269,9 +269,7 @@ const Comments = (() => {
     setTimeout(updateIdentityBar,0);
     if(name()){
       ensureAccessProfile().catch(e=>console.warn("Perfil portátil indisponível:",e));
-      setTimeout(()=>checkAnnouncements().catch(()=>{}),900);
     }
-    document.addEventListener("beta:profile-login",()=>setTimeout(()=>checkAnnouncements().catch(()=>{}),900));
   }
 
   function wireName(){
@@ -380,12 +378,9 @@ const Comments = (() => {
       }
     }
     settings?.addEventListener("click",()=>{n.value=name();refresh();});
-    document.getElementById("btnSendAnnounce")?.addEventListener("click",async()=>{
+    document.getElementById("btnSendAnnounce")?.addEventListener("click",()=>{
       if(!admin())return;
-      const text=prompt("Recado para todos os leitores (aparece pra eles na próxima vez que abrirem o app):");
-      if(!text?.trim())return;
-      try{await sendAnnouncement(text);alert("Recado enviado.");}
-      catch(e){alert("Não foi possível enviar: "+(e.message||"tente de novo."));}
+      document.dispatchEvent(new CustomEvent("beta:popup-admin"));
     });
     toggle?.addEventListener("click",async()=>{
       if(!auth){alert("Login de admin indisponível neste momento.");return;}
