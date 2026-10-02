@@ -353,6 +353,56 @@ service cloud.firestore {
     }
 
     // ---------------------------------------------------------
+    // PRESENÇA AO VIVO DOS LEITORES BETA
+    // Heartbeat curto para o painel do autor saber se o leitor está
+    // realmente ativo no capítulo e em qual ponto está.
+    // ---------------------------------------------------------
+    function validReaderPresence(readerId, data) {
+      return data.keys().hasOnly([
+          'readerId','profileHash','name','heartbeatAt','lastInteractionAt',
+          'view','visible','active','mode',
+          'bookId','bookTitle','chapter','chapterTitle','currentPct',
+          'narrationOn','musicOn'
+        ])
+        && data.readerId is string
+        && data.readerId == readerId
+        && data.readerId.size() >= 16
+        && data.readerId.size() <= 80
+        && data.profileHash is string
+        && isProfileHash(data.profileHash)
+        && data.name is string
+        && data.name.size() >= 1
+        && data.name.size() <= 40
+        && data.heartbeatAt is int
+        && data.lastInteractionAt is int
+        && data.view in ['library','book','reader']
+        && data.visible is bool
+        && data.active is bool
+        && data.mode in ['reading','narration','idle','app']
+        && data.bookId is string
+        && data.bookId.size() <= 120
+        && data.bookTitle is string
+        && data.bookTitle.size() <= 180
+        && data.chapter is int
+        && data.chapter >= 0
+        && data.chapterTitle is string
+        && data.chapterTitle.size() <= 180
+        && data.currentPct is int
+        && data.currentPct >= 0
+        && data.currentPct <= 100
+        && data.narrationOn is bool
+        && data.musicOn is bool
+        && exists(/databases/$(database)/documents/readerProfiles/$(data.profileHash))
+        && get(/databases/$(database)/documents/readerProfiles/$(data.profileHash)).data.get('deleted', false) != true
+        && get(/databases/$(database)/documents/readerProfiles/$(data.profileHash)).data.readerId == readerId;
+    }
+
+    match /readerPresence/{readerId} {
+      allow read, delete: if isAdmin();
+      allow create, update: if validReaderPresence(readerId, request.resource.data);
+    }
+
+    // ---------------------------------------------------------
     // ANALYTICS DOS LEITORES BETA
     // Leitor escreve apenas métricas ligadas ao próprio perfil portátil.
     // Somente admins podem ler os relatórios.
