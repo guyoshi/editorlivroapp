@@ -924,7 +924,10 @@ function initNav(){
 // ---------------- service worker ----------------
 if("serviceWorker" in navigator){
   window.addEventListener("load", ()=>{
-    navigator.serviceWorker.register("assets/service-worker.js").catch(()=>{});
+    navigator.serviceWorker.register("assets/service-worker.js").then(reg=>{
+      reg.update().catch(()=>{});
+      setInterval(()=>reg.update().catch(()=>{}),300000);
+    }).catch(()=>{});
   });
 }
 
