@@ -1,0 +1,66 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isAdmin() {
+      return request.auth != null
+        && exists(/databases/$(database)/documents/admins/$(request.auth.uid));
+    }
+
+    // Admin allowlist. The client may only check its own UID.
+    // Bootstrap the first admin from the Firebase Console by creating:
+    // admins/{AUTH_UID}
+    match /admins/{uid} {
+      allow get: if request.auth != null && request.auth.uid == uid;
+      allow list, create, update, delete: if isAdmin();
+    }
+
+    match /config/{docId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /announcements/{docId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Reader profiles use the hash of the private access code as document ID.
+    // Readers can fetch/update a profile when they know that code; only admins can list them.
+    match /readerProfiles/{profileId} {
+      allow get: if true;
+      allow list: if isAdmin();
+      allow create: if true;
+      allow update: if isAdmin() || resource.data.deleted != true;
+      allow delete: if isAdmin();
+    }
+
+    // Beta readers are intentionally not Firebase-authenticated yet.
+    // Prevent them from forging admin-role feedback; admin operations require isAdmin().
+    match /comments/{commentId} {
+      allow read: if true;
+      allow create: if isAdmin()
+        || !request.resource.data.keys().hasAny(['role'])
+        || request.resource.data.role == 'reader';
+      allow update, delete: if isAdmin()
+        || !resource.data.keys().hasAny(['role'])
+        || resource.data.role == 'reader';
+    }
+
+    match /popupTemplates/{templateId} {
+      allow read, write: if isAdmin();
+    }
+
+    match /popupMessages/{messageId} {
+      allow read: if true;
+      allow create, delete: if isAdmin();
+      allow update: if isAdmin()
+        || request.resource.data.diff(resource.data).affectedKeys()
+          .hasOnly(['shownAt', 'readAt', 'updatedAt']);
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
