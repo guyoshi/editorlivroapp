@@ -1195,9 +1195,6 @@ const Comments = (() => {
         if(picker)picker.hidden=true;
       }
     });
-    document.querySelectorAll(".comment-panel").forEach(panel=>{
-      if(panel!==except)panel.hidden=true;
-    });
   }
 
   function wireParagraphInteractionGlobals(){
