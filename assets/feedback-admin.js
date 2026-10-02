@@ -5,7 +5,7 @@
   const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
   const when=t=>t?new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"";
 
-  function roots(){return all.filter(x=>!x.parentId&&x.kind!=="reply");}
+  function roots(){return all.filter(x=>!x.parentId&&x.kind!=="reply"&&x.kind!=="reaction");}
   function replies(id){return all.filter(x=>x.parentId===id||x.rootId===id).sort((a,b)=>(a.at||0)-(b.at||0));}
   function find(id){return all.find(x=>x.id===id);}
   function db(){return window.Comments?.getDb?.();}
