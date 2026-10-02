@@ -205,25 +205,61 @@ Professor Taliver pousou a mão sobre a dela.
 
 Jokara acompanhou o Professor Taliver até a porta. O vento do Sopro do Silêncio mal se mexia.
 
-O céu estava escuro demais. Os dois notaram ao mesmo tempo: nenhuma das duas luas estava lá. Não havia nuvem na frente delas. Simplesmente não estavam.
+Taliver deu dois passos para fora e parou tão de repente que Jokara quase esbarrou nele. Uma das luas permanecia clara entre as estrelas. A outra ainda estava lá também, mas alguma coisa parecia ter avançado sobre sua face. Uma curva escura cobria quase todo o disco, deixando apenas uma faixa pálida de luz na borda. Não havia nuvens ao redor, nem névoa que pudesse explicar aquilo. A parte escura era limpa demais, arredondada demais, como se a própria noite estivesse passando por cima da lua.
 
-Jokara conhecia a lenda de Orin, o Arauto: um aviso deixado nas escrituras que ninguém quis ler, e um Sopro do Silêncio sem lua em que muitos pesados caíram para Nadirion. Era história de criança.
+Jokara sentiu o estômago apertar.
 
-— Está mais tarde do que eu pensava — comentou Taliver, franzindo a testa, sem tirar os olhos do céu.
+Era o desenho do livro.
 
-— Ou talvez... o céu tenha se calado — murmurou Jokara.
+Não exatamente. O livro mostrava uma lua inteiramente negra. Aquela ainda conservava um filete de luz. Mas, enquanto observava, Jokara teve a impressão de que até esse filete diminuía.
 
-As estrelas estavam lá, imóveis.
+Taliver apoiou uma mão no batente e ergueu o rosto, completamente desperto agora.
 
-Lá fora, dezenas de pessoas estavam reunidas em pequenos grupos nas passarelas. Alguns apontavam para o alto. Crianças seguravam as mãos dos pais com força. Ninguém gritava.
+— Isso não é uma nuvem — disse.
 
-Jokara se lembrou do que a mulher de um olho dissera:
+— Então o que é?
 
-"Quando os ventos descansarem, a luz será escondida..."
+Ele demorou a responder.
 
-E do desenho no livro: o céu com a lua negra. Na página seguinte, as ilhas partidas.
+— Não sei.
 
-Quis chamar o Professor Taliver de volta, mas ele já descia as escadas, olhando para cima, e sumiu entre as casas. A porta ficou aberta, e o frio do Sopro do Silêncio entrou pelo lado onde antes ficava sua perna esquerda.
+Era a primeira vez que Jokara ouvia aquilo dele sem uma teoria logo depois.
+
+Lá fora, as portas começavam a se abrir. Pessoas surgiam nas varandas e nas passarelas, primeiro em silêncio, depois em murmúrios que corriam de casa em casa. Uma mulher puxou os dois filhos para perto e fez sobre a testa deles o sinal das Três Correntes. Mais adiante, um homem repetia que a lua estava pesada e que os Ventos tinham começado a retirar sua luz. Alguém respondeu que era apenas uma prova de Arion. Outro mandou todos pararem de dizer aquilo em voz alta.
+
+— A luz está sendo tomada — sussurrou uma velha numa varanda próxima.
+
+— Não diga isso — repreendeu a filha, agarrando-lhe o braço. — Os Ventos não apagam o que colocaram no céu.
+
+Do outro lado da passagem, um Orador tentava acalmar um pequeno grupo, dizendo que sinais do firmamento não deviam ser interpretados pelo medo. Mesmo assim, ele também olhava para cima entre uma frase e outra.
+
+Jokara conhecia a lenda de Orin, o Arauto: um aviso deixado nas escrituras que ninguém quis ler, e um Sopro do Silêncio em que a luz de uma lua teria sido escondida antes de muitos pesados caírem para Nadirion. Era história de criança. Pelo menos sempre fora.
+
+Taliver desceu um degrau sem tirar os olhos do céu.
+
+— A borda está mudando — murmurou. — Está cobrindo aos poucos.
+
+Jokara mal o ouviu. As palavras de Yndra haviam voltado inteiras:
+
+"Quando os ventos descansarem…
+
+A luz será escondida…
+
+A harmonia será quebrada…"
+
+Olhou novamente para a lua quase apagada e depois para a outra, intacta ao lado dela. O contraste tornava tudo pior.
+
+No livro, depois da lua negra, vinham as ilhas partidas.
+
+— Professor…
+
+Taliver já começava a descer as escadas, ainda olhando para cima, como se precisasse encontrar um ponto mais aberto de onde observar o céu.
+
+— Vou até a Estação de Rastros — disse. — Se alguém ainda estiver acordado lá, quero saber se viram quando isso começou.
+
+Jokara quis pedir que ficasse, mas ele já atravessava a passagem entre as casas. Ao redor, Etérea inteira parecia ter saído para olhar a mesma coisa.
+
+A porta ficou aberta, e o frio do Sopro do Silêncio entrou pelo lado onde antes ficava sua perna esquerda. Jokara fechou-a devagar e permaneceu encostada nela, com a imagem da lua quase negra ainda presa nos olhos.
 
 Jokara fechou a porta devagar e ficou encostada nela.
 
@@ -309,7 +345,7 @@ Ela suspirou e então virou-se de frente para ele, segurando o bastão com forç
 
 — Efepar... você disse que iria me ouvir. Então me ouça.
 
-Ele assentiu, e ela começou. Contou aos pedaços, voltando atrás, pulando partes. O que havia visto no bosque. As pedras caindo. A mulher de um olho. E por fim, a conversa com Professor Taliver e a ausência da lua.
+Ele assentiu, e ela começou. Contou aos pedaços, voltando atrás, pulando partes. O que havia visto no bosque. As pedras caindo. A mulher de um olho. E por fim, a conversa com Professor Taliver e a lua que escurecera diante dos dois.
 
 Enquanto falava, olhava para Efepar de vez em quando, esperando que ele dissesse alguma coisa, mesmo tendo pedido que só ouvisse. Ele andava ao lado, calado.
 
@@ -327,7 +363,7 @@ Efepar parou de sorrir.
 
 — Eu... só não sei o que pensar. É muito assustador. Pensar nisso.
 
-— Eu sei que é. Mas sabe o que me assusta mais? Não é o mundo cair. É todo mundo ver os sinais e continuar fingindo que está tudo bem. Como se a lua não tivesse sumido. Como se os ventos não estivessem errados. Como se as pedras não estivessem rachando!
+— Eu sei que é. Mas sabe o que me assusta mais? Não é o mundo cair. É todo mundo ver os sinais e continuar fingindo que está tudo bem. Como se uma das luas não tivesse quase apagado diante de todo mundo. Como se os ventos não estivessem errados. Como se as pedras não estivessem rachando!
 
 Ele desviou o olhar.
 
