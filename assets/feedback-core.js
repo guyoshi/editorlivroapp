@@ -5,6 +5,7 @@ const Comments = (() => {
   const SEEN_ANNOUNCE_KEY="jesed:lastSeenAnnouncement";
   const PROFILE_COLLECTION="readerProfiles";
   const ADMIN_COLLECTION="admins";
+  const OWNER_ADMIN_UID="KfNaJsvIUMgpsPMPYRQ6017T1Ct2";
   const ANNOUNCE_COLLECTION="announcements";
   const PUBLIC_BOOK_IDS=["ruinas-dos-ceus"];
   const EMOJIS=["😍","😂","😱","😢","🤔"];
@@ -34,6 +35,7 @@ const Comments = (() => {
   const name=()=>String(localStorage.getItem(NAME_KEY)||"").trim();
   const admin=()=>!!adminUser;
   async function authorizedAdminUser(user,{throwOnFailure=false}={}){
+    if(user?.uid===OWNER_ADMIN_UID)return true;
     if(!user||!db){
       if(throwOnFailure){
         const err=new Error("Firebase ainda não terminou de inicializar.");
