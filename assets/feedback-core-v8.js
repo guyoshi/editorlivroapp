@@ -485,6 +485,19 @@ const Comments = (() => {
       console.warn("Código renovado, mas parte dos relatórios ainda referencia o perfil anterior:",e);
     }
 
+    try{
+      const feedbackSnap=await db.collection("betaFeedback").where("readerId","==",rid).get();
+      const docs=[];feedbackSnap.forEach(d=>docs.push(d));
+      for(let i=0;i<docs.length;i+=400){
+        const b=db.batch();
+        docs.slice(i,i+400).forEach(d=>b.update(d.ref,{profileHash:newHash,updatedAt:Date.now()}));
+        await b.commit();
+      }
+    }catch(e){
+      cleanupFailed=true;
+      console.warn("Código renovado, mas parte das avaliações beta ainda referencia o perfil anterior:",e);
+    }
+
     return {profileId:newHash,readerId:rid,accessCode:formatAccessCode(code),cleanupFailed};
   }
 
@@ -551,8 +564,22 @@ const Comments = (() => {
         console.warn("Leitor removido, mas a limpeza dos relatórios falhou:",e);
       }
 
+      let surveyCleanupFailed=false;
+      try{
+        const feedbackSnap=await db.collection("betaFeedback").where("readerId","==",rid).get();
+        const feedbackDocs=[];feedbackSnap.forEach(d=>feedbackDocs.push(d));
+        for(let i=0;i<feedbackDocs.length;i+=400){
+          const batch=db.batch();
+          feedbackDocs.slice(i,i+400).forEach(d=>batch.delete(d.ref));
+          await batch.commit();
+        }
+      }catch(e){
+        surveyCleanupFailed=true;
+        console.warn("Leitor removido, mas a limpeza das avaliações beta falhou:",e);
+      }
+
       if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
-      return {deletedFeedback:ids.length,cleanupFailed:analyticsCleanupFailed};
+      return {deletedFeedback:ids.length,cleanupFailed:analyticsCleanupFailed||surveyCleanupFailed};
     }catch(e){
       console.warn("Leitor removido, mas a limpeza do feedback falhou:",e);
       if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
