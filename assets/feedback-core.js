@@ -168,4 +168,4 @@ const Comments = (() => {
     getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen
   };
 })();
-document.addEventListener("DOMContentLoaded",()=>Comments.init());
+window.Comments=Comments;\ndocument.addEventListener("DOMContentLoaded",()=>Comments.init());
