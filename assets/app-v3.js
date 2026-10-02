@@ -206,6 +206,9 @@ async function openChapter(idx){
     art.src = chapterArtUrl(book.id, ch.n);
   }
   showView("reader");
+  const readerScroll=$("#readerScroll");
+  if(readerScroll) readerScroll.scrollTop=0;
+  window.scrollTo(0,0);
   exitFocus();
   updateNextChapterUI();
   updateCompleteUI();
@@ -217,6 +220,18 @@ async function openChapter(idx){
     const res = await fetch(resolve(ch.text), {cache:"no-cache"});
     const raw = await res.text();
     renderChapterText(ch, raw);
+    // A troca de conteúdo pode fazer alguns navegadores restaurarem a posição
+    // anterior. Garante que cada capítulo novo realmente nasça no topo.
+    if(state.currentChapterIdx===idx){
+      const readerScroll=$("#readerScroll");
+      if(readerScroll) readerScroll.scrollTop=0;
+      requestAnimationFrame(()=>{
+        if(state.currentChapterIdx!==idx)return;
+        const scroller=$("#readerScroll");
+        if(scroller) scroller.scrollTop=0;
+        updateReaderProgressBar();
+      });
+    }
     Comments.attachChapter(book.id, ch.n, $("#chapterText"), $("#chapterNotes"));
   }catch(e){
     $("#chapterText").innerHTML = `<p class="empty-hint">Não consegui carregar o texto deste capítulo.</p>`;
