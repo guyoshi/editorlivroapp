@@ -66,7 +66,7 @@ async function loadLibrary(){
       ? `<p class="empty-hint">Nenhum livro cadastrado ainda.</p>`
       : hasReaderProfile
         ? `<p class="empty-hint">Seu perfil ainda não tem livros disponíveis.</p>`
-        : `<p class="empty-hint">Crie seu perfil abaixo para começar <strong>Ruínas dos Céus</strong>.</p>`;
+        : `<p class="empty-hint">Crie seu perfil abaixo e escolha qual livro quer começar lendo.</p>`;
     return;
   }
   listEl.innerHTML = state.books.map(b => `
@@ -390,20 +390,46 @@ function changeChapter(dir){
   if(book && book.chapters[next]) openChapter(next);
 }
 
-// Diminui o volume aos poucos até parar, em vez de cortar seco.
-function fadeOutAndPause(el, ms=900){
-  if(el.paused) return;
-  const steps = 18, stepMs = ms/steps, startVol = el.volume || 0.22, dec = startVol/steps;
+const AMBIENT_NORMAL_VOLUME = 0.22;
+const AMBIENT_DUCKED_VOLUME = 0.075;
+let ambientVolumeTimer = null;
+
+function fadeAmbientVolume(target, ms=260){
+  const el = $("#ambientEl");
+  if(!el)return;
+  if(ambientVolumeTimer)clearInterval(ambientVolumeTimer);
+  const start = Number.isFinite(el.volume) ? el.volume : AMBIENT_NORMAL_VOLUME;
+  const steps = 10;
   let i = 0;
-  const t = setInterval(()=>{
+  ambientVolumeTimer=setInterval(()=>{
     i++;
-    el.volume = Math.max(0, startVol - dec*i);
-    if(i >= steps){
+    const p=i/steps;
+    el.volume=Math.max(0,Math.min(1,start+(target-start)*p));
+    if(i>=steps){
+      clearInterval(ambientVolumeTimer);
+      ambientVolumeTimer=null;
+      el.volume=target;
+    }
+  },Math.max(16,ms/steps));
+}
+
+// Diminui o volume aos poucos até parar, em vez de cortar seco.
+function fadeOutAndPause(el, ms=500){
+  if(el.paused)return;
+  if(ambientVolumeTimer){clearInterval(ambientVolumeTimer);ambientVolumeTimer=null;}
+  const startVol=el.volume;
+  const steps=10, stepMs=ms/steps;
+  let i=0;
+  const t=setInterval(()=>{
+    i++;
+    el.volume=Math.max(0,startVol*(1-i/steps));
+    if(i>=steps){
       clearInterval(t);
       el.pause();
-      el.volume = startVol; // restaura pro próximo play
+      // O próximo play recalcula o volume conforme a narração esteja tocando.
+      el.volume=AMBIENT_NORMAL_VOLUME;
     }
-  }, stepMs);
+  },stepMs);
 }
 
 // Popup explicativo, mostrado só na primeira vez que a pessoa usa cada
@@ -446,13 +472,27 @@ function initPlayerControls(){
     showHintOnce("jesed:hintPlay", "Narração do capítulo", "Toque aqui pra ouvir o capítulo narrado. Dá pra pausar e continuar de onde parou a qualquer momento, inclusive em outro aparelho.");
     a.paused ? a.play() : a.pause();
   });
-  a.addEventListener("play", ()=>setNarrationButtonState(true));
-  a.addEventListener("pause", ()=>{ setNarrationButtonState(false); savePos(a.currentTime); });
+  a.addEventListener("play", ()=>{
+    setNarrationButtonState(true);
+    const music=$("#ambientEl");
+    if(music && !music.paused)fadeAmbientVolume(AMBIENT_DUCKED_VOLUME);
+  });
+  a.addEventListener("pause", ()=>{
+    setNarrationButtonState(false);
+    const music=$("#ambientEl");
+    if(music && !music.paused)fadeAmbientVolume(AMBIENT_NORMAL_VOLUME);
+    savePos(a.currentTime);
+  });
   a.addEventListener("timeupdate", ()=>{
     updateTimes();
     if(Math.floor(a.currentTime) % 5 === 0) savePos(a.currentTime);
   });
-  a.addEventListener("ended", ()=>{ setNarrationButtonState(false); savePos(0); });
+  a.addEventListener("ended", ()=>{
+    setNarrationButtonState(false);
+    const music=$("#ambientEl");
+    if(music && !music.paused)fadeAmbientVolume(AMBIENT_NORMAL_VOLUME);
+    savePos(0);
+  });
 
   $("#seek").addEventListener("input", (e)=>{
     if(!a.duration) return;
@@ -464,18 +504,16 @@ function initPlayerControls(){
   // à direita da barra de narração.
   const ambientBtn = $("#btnAmbient");
   const ambientEl = $("#ambientEl");
-  const ambientStatePath = $("#ambientStatePath");
 
   function setAmbientButtonState(playing){
     ambientBtn.classList.toggle("active",!!playing);
-    if(ambientStatePath)ambientStatePath.setAttribute("d",playing?PAUSE_PATH:PLAY_PATH);
     const label=playing?"Pausar música do capítulo":"Tocar música do capítulo";
     ambientBtn.setAttribute("aria-label",label);
     ambientBtn.title=label;
     ambientBtn.setAttribute("aria-pressed",String(!!playing));
   }
 
-  ambientEl.volume = 0.22;
+  ambientEl.volume = AMBIENT_NORMAL_VOLUME;
   ambientEl.loop = true;
   ambientEl.addEventListener("play",()=>setAmbientButtonState(true));
   ambientEl.addEventListener("pause",()=>setAmbientButtonState(false));
@@ -484,6 +522,7 @@ function initPlayerControls(){
     if(!state.ambientSrc){ setAmbientButtonState(false); return; }
     showHintOnce("jesed:hintAmbient", "Música do capítulo", "Liga a trilha pensada para este trecho. Ela toca baixinho por baixo da narração e pode ser pausada separadamente.");
     if(ambientEl.paused){
+      ambientEl.volume=a.paused ? AMBIENT_NORMAL_VOLUME : AMBIENT_DUCKED_VOLUME;
       try{ await ambientEl.play(); }
       catch(e){ setAmbientButtonState(false); }
     }else{
@@ -498,13 +537,11 @@ function initPlayerControls(){
 function updateAmbientForChapter(ch){
   const ambientBtn = $("#btnAmbient");
   const ambientEl = $("#ambientEl");
-  const ambientStatePath = $("#ambientStatePath");
   const wasPlaying = !ambientEl.paused;
   ambientEl.pause();
 
   const setStopped=()=>{
     ambientBtn.classList.remove("active");
-    if(ambientStatePath)ambientStatePath.setAttribute("d","M8 5v14l11-7z");
     ambientBtn.setAttribute("aria-label","Tocar música do capítulo");
     ambientBtn.title="Tocar música do capítulo";
     ambientBtn.setAttribute("aria-pressed","false");
@@ -516,6 +553,7 @@ function updateAmbientForChapter(ch){
     ambientEl.src = /^https?:\/\//i.test(ch.ambient) ? ch.ambient : resolve(ch.ambient);
     const autoStart = localStorage.getItem(AUTO_AMBIENT_KEY) === "1";
     if(wasPlaying || autoStart){
+      ambientEl.volume=audioEl().paused ? AMBIENT_NORMAL_VOLUME : AMBIENT_DUCKED_VOLUME;
       ambientEl.play().catch(()=>setStopped());
     }else{
       setStopped();
