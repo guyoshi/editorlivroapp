@@ -364,10 +364,16 @@
   }
 
   setInterval(tick,5000);
+  setInterval(()=>syncPreferences(),300000);
   document.addEventListener("visibilitychange",()=>{
     if(document.visibilityState==="hidden")flushUsage();
-    else{lastTickAt=now();noteInteraction();}
+    else{
+      lastTickAt=now();
+      noteInteraction();
+      syncPreferences();
+    }
   });
+  window.addEventListener("focus",()=>syncPreferences());
   window.addEventListener("pagehide",flushUsage);
   document.addEventListener("pointerdown",noteInteraction,{passive:true});
   document.addEventListener("keydown",noteInteraction);
