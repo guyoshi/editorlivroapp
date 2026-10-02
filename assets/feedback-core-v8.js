@@ -4,6 +4,7 @@ const Comments = (() => {
   const CODEHASH_KEY="jesed:readerCodeHash";
   const SEEN_ANNOUNCE_KEY="jesed:lastSeenAnnouncement";
   const PROFILE_COLLECTION="readerProfiles";
+  const ACCESS_CODES_COLLECTION="readerAccessCodes";
   const ADMIN_COLLECTION="admins";
   const OWNER_ADMIN_UID="KfNaJsvIUMgpsPMPYRQ6017T1Ct2";
   const ANNOUNCE_COLLECTION="announcements";
@@ -158,7 +159,7 @@ const Comments = (() => {
     if(name()){
       el.hidden=false;
       const code=accessCode();
-      el.textContent=code?(name()+" · Código "+code):(name()+" · ID interno "+shortId(uid()));
+      el.textContent=code?(name()+" · Código "+code):name();
     }else{
       el.hidden=true;
     }
@@ -290,6 +291,21 @@ const Comments = (() => {
     return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("");
   }
 
+  async function syncAccessCodeRecord(codeHash,code,readerId){
+    if(!enabled||!db||!codeHash||!code||!readerId)return;
+    try{
+      await db.collection(ACCESS_CODES_COLLECTION).doc(codeHash).set({
+        profileHash:codeHash,
+        readerId:String(readerId),
+        accessCode:formatAccessCode(code),
+        updatedAt:Date.now()
+      },{merge:true});
+    }catch(e){
+      // Não impede login/leitura se as novas Rules ainda não estiverem publicadas.
+      console.warn("Não foi possível sincronizar o código de acesso com o painel:",e);
+    }
+  }
+
   async function ensureAccessProfile(initialBookId){
     if(!enabled||!db||!name()) return null;
     let code=accessCode();
@@ -337,6 +353,7 @@ const Comments = (() => {
       payload.allowedBooks=[firstBook];
     }
     await ref.set(payload,{merge:true});
+    await syncAccessCodeRecord(codeHash,code,payload.readerId);
     return code;
   }
 
@@ -366,14 +383,109 @@ const Comments = (() => {
   async function listReaderProfiles(){
     if(!admin()||!db)return [];
     try{
-      const snap=await db.collection(PROFILE_COLLECTION).orderBy("updatedAt","desc").get();
-      const out=[];snap.forEach(d=>{const data=d.data()||{};if(!data.deleted)out.push({id:d.id,...data});});
+      const [snap,codeSnap]=await Promise.all([
+        db.collection(PROFILE_COLLECTION).orderBy("updatedAt","desc").get(),
+        db.collection(ACCESS_CODES_COLLECTION).get().catch(e=>{
+          console.warn("Não foi possível carregar os códigos de acesso:",e);
+          return null;
+        })
+      ]);
+      const codeMap=new Map();
+      codeSnap?.forEach(d=>{
+        const data=d.data()||{};
+        if(data.accessCode)codeMap.set(d.id,formatAccessCode(data.accessCode));
+      });
+      const out=[];
+      snap.forEach(d=>{
+        const data=d.data()||{};
+        if(!data.deleted)out.push({id:d.id,...data,accessCode:codeMap.get(d.id)||""});
+      });
       return out;
     }catch(e){console.warn("Não foi possível listar os perfis de leitores:",e);return [];}
   }
   async function setAllowedBooks(profileId,allowedBooks){
     if(!admin()||!db)return;
     await db.collection(PROFILE_COLLECTION).doc(profileId).set({allowedBooks},{merge:true});
+  }
+
+  async function rotateReaderAccessCode(profileId){
+    if(!admin()||!db)throw new Error("Apenas o administrador pode gerar um novo código.");
+    const oldRef=db.collection(PROFILE_COLLECTION).doc(profileId);
+    const oldSnap=await oldRef.get();
+    if(!oldSnap.exists||oldSnap.data()?.deleted)throw new Error("Este leitor não está mais ativo.");
+    const profile=oldSnap.data()||{};
+    const rid=String(profile.readerId||"");
+    if(!rid)throw new Error("O perfil não possui um leitor válido.");
+
+    let code="",newHash="",newRef=null;
+    for(let attempt=0;attempt<12;attempt++){
+      code=generateAccessCode();
+      newHash=await sha256(normalizeAccessCode(code));
+      if(newHash===profileId)continue;
+      newRef=db.collection(PROFILE_COLLECTION).doc(newHash);
+      const exists=await newRef.get();
+      if(!exists.exists)break;
+      newRef=null;
+    }
+    if(!newRef)throw new Error("Não foi possível gerar um código único. Tente novamente.");
+
+    const now=Date.now();
+    const nextProfile={...profile,updatedAt:now};
+    delete nextProfile.deleted;
+    delete nextProfile.deletedAt;
+    delete nextProfile.deletedBy;
+    delete nextProfile.replacedBy;
+
+    const batch=db.batch();
+    batch.set(newRef,nextProfile);
+    batch.set(oldRef,{
+      deleted:true,
+      deletedAt:now,
+      deletedBy:adminUser?.uid||null,
+      replacedBy:newHash,
+      updatedAt:now
+    });
+    batch.set(db.collection(ACCESS_CODES_COLLECTION).doc(newHash),{
+      profileHash:newHash,
+      readerId:rid,
+      accessCode:formatAccessCode(code),
+      updatedAt:now
+    });
+    batch.delete(db.collection(ACCESS_CODES_COLLECTION).doc(profileId));
+    await batch.commit();
+
+    let cleanupFailed=false;
+    try{
+      const popupSnap=await db.collection("popupMessages").where("recipientProfileId","==",profileId).get();
+      const popupDocs=[];
+      popupSnap.forEach(d=>popupDocs.push(d));
+      for(let i=0;i<popupDocs.length;i+=400){
+        const b=db.batch();
+        popupDocs.slice(i,i+400).forEach(d=>b.update(d.ref,{recipientProfileId:newHash,updatedAt:Date.now()}));
+        await b.commit();
+      }
+    }catch(e){
+      cleanupFailed=true;
+      console.warn("Código renovado, mas não foi possível migrar todas as mensagens popup:",e);
+    }
+
+    try{
+      const analyticsRef=db.collection("readerAnalytics").doc(rid);
+      const analyticsSnap=await analyticsRef.get();
+      if(analyticsSnap.exists)await analyticsRef.set({profileHash:newHash,updatedAt:Date.now()},{merge:true});
+      const chapters=await analyticsRef.collection("chapters").get();
+      const docs=[];chapters.forEach(d=>docs.push(d));
+      for(let i=0;i<docs.length;i+=400){
+        const b=db.batch();
+        docs.slice(i,i+400).forEach(d=>b.update(d.ref,{profileHash:newHash,updatedAt:Date.now()}));
+        await b.commit();
+      }
+    }catch(e){
+      cleanupFailed=true;
+      console.warn("Código renovado, mas parte dos relatórios ainda referencia o perfil anterior:",e);
+    }
+
+    return {profileId:newHash,readerId:rid,accessCode:formatAccessCode(code),cleanupFailed};
   }
 
   async function deleteReaderProfile(profileId,readerId){
@@ -479,6 +591,7 @@ const Comments = (() => {
     localStorage.setItem(NAME_KEY,String(profile.name));
     localStorage.setItem(ACCESS_KEY,formatAccessCode(clean));
     localStorage.setItem(CODEHASH_KEY,codeHash);
+    await syncAccessCodeRecord(codeHash,clean,profile.readerId);
     document.dispatchEvent(new CustomEvent("beta:profile-login",{detail:{readerId:profile.readerId,name:profile.name}}));
     return {readerId:profile.readerId,name:profile.name,accessCode:formatAccessCode(clean)};
   }
@@ -1321,7 +1434,7 @@ const Comments = (() => {
     init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,getAccessCode:accessCode,
     loginWithCode,ensureAccessProfile,updateReaderName,hashText,
     getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen,unseen,markAllSeen,
-    sendAnnouncement,getAllowedBooks,listReaderProfiles,setAllowedBooks,deleteReaderProfile
+    sendAnnouncement,getAllowedBooks,listReaderProfiles,setAllowedBooks,rotateReaderAccessCode,deleteReaderProfile
   };
 })();
 window.Comments=Comments;
