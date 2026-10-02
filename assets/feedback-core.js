@@ -417,6 +417,7 @@ const Comments = (() => {
     if(name())uid();
     wireName();
     wireSettings();
+    wireReaderSwitch();
     updateIdentityBar();
     document.addEventListener("beta:profile-ready",updateIdentityBar);
     document.addEventListener("beta:profile-login",updateIdentityBar);
@@ -648,6 +649,87 @@ const Comments = (() => {
     status.classList.remove("error");
     el.hidden=false;
     setTimeout(()=>{(email.value?pass:email).focus();},0);
+  }
+
+  function ensureReaderSwitchSheet(){
+    let el=document.getElementById("readerSwitchSheet");
+    if(el)return el;
+
+    el=document.createElement("div");
+    el.id="readerSwitchSheet";
+    el.className="sheet";
+    el.hidden=true;
+    el.innerHTML='<div class="sheet-card">'
+      +'<h2>Trocar usuário</h2>'
+      +'<p class="sheet-hint">Entre com o código de acesso de outro perfil. O perfil atual neste aparelho será substituído pelo perfil desse código.</p>'
+      +'<p id="readerSwitchCurrent" class="reader-switch-current"></p>'
+      +'<label class="field"><span>Código de acesso</span><input id="readerSwitchCode" type="text" inputmode="text" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="ex.: DE2E40" maxlength="24"></label>'
+      +'<p id="readerSwitchStatus" class="reader-code-status" aria-live="polite"></p>'
+      +'<div class="sheet-actions">'
+      +'<button id="readerSwitchSubmit" class="btn-primary" type="button">Entrar com outro código</button>'
+      +'<button id="readerSwitchCancel" class="btn-ghost" type="button">Cancelar</button>'
+      +'</div>'
+      +'</div>';
+    document.body.appendChild(el);
+
+    const input=el.querySelector("#readerSwitchCode");
+    const status=el.querySelector("#readerSwitchStatus");
+    const submit=el.querySelector("#readerSwitchSubmit");
+    const close=()=>{
+      el.hidden=true;
+      input.value="";
+      status.textContent="";
+      status.classList.remove("error");
+    };
+
+    el.querySelector("#readerSwitchCancel").addEventListener("click",close);
+    el.addEventListener("click",e=>{if(e.target===el)close();});
+
+    async function go(){
+      const code=input.value.trim();
+      if(!code){input.focus();return;}
+      submit.disabled=true;
+      status.textContent="Procurando perfil…";
+      status.classList.remove("error");
+      try{
+        const profile=await loginWithCode(code);
+        status.textContent="Entrando como "+profile.name+"…";
+        setTimeout(()=>location.reload(),180);
+      }catch(e){
+        status.textContent=e?.message||"Não foi possível entrar com esse código.";
+        status.classList.add("error");
+        submit.disabled=false;
+      }
+    }
+
+    submit.addEventListener("click",go);
+    input.addEventListener("keydown",e=>{if(e.key==="Enter")go();});
+    return el;
+  }
+
+  function wireReaderSwitch(){
+    const btn=document.getElementById("btnSwitchReader");
+    if(!btn)return;
+
+    const refresh=()=>{
+      btn.hidden=!name();
+      btn.title=name()?"Trocar usuário / código":"Entrar com código";
+      btn.setAttribute("aria-label",btn.title);
+    };
+
+    btn.addEventListener("click",()=>{
+      const el=ensureReaderSwitchSheet();
+      const current=el.querySelector("#readerSwitchCurrent");
+      current.textContent=name()
+        ? "Perfil atual: "+name()+(accessCode()?" · #"+accessCode():"")
+        : "Nenhum perfil ativo neste aparelho.";
+      el.hidden=false;
+      setTimeout(()=>el.querySelector("#readerSwitchCode")?.focus(),0);
+    });
+
+    document.addEventListener("beta:profile-ready",refresh);
+    document.addEventListener("beta:profile-login",refresh);
+    refresh();
   }
 
   function wireSettings(){
