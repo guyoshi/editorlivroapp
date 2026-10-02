@@ -316,7 +316,7 @@
           (data.repliesByRoot.get(root.id)||[]).filter(r=>r.role==="admin").forEach(r=>markSeen(r.id));
           updateBadge();
           close();
-          await window.BookReader?.openLocation?.(root.bookId,root.chapter,root.paraIdx,root.paragraphKey);
+          await window.BookReader?.openLocation?.(root.bookId,root.chapter,root.paraIdx,root.paragraphKey,root.id);
           return;
         }
         if(action==="reply"){

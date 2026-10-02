@@ -11,14 +11,17 @@ const Comments = (() => {
   function normalizeAccessCode(v){return String(v||"").toUpperCase().replace(/[^A-Z0-9]/g,"");}
   function formatAccessCode(v){
     const clean=normalizeAccessCode(v);
+    if(clean.length<=8) return clean; // código curto: sem separadores
     return clean.match(/.{1,4}/g)?.join("-")||"";
   }
   function generateAccessCode(){
-    const bytes=new Uint8Array(20);
+    // código curto (6 caracteres) — não há dado sensível por trás dele,
+    // só precisa ser fácil de guardar e compartilhar entre aparelhos.
+    const bytes=new Uint8Array(6);
     crypto.getRandomValues(bytes);
     let out="";
     for(const b of bytes) out+=ACCESS_ALPHABET[b%ACCESS_ALPHABET.length];
-    return formatAccessCode(out);
+    return out;
   }
   function accessCode(){return formatAccessCode(localStorage.getItem(ACCESS_KEY)||"");}
   function hashText(s){let h=2166136261;for(const ch of norm(s)){h^=ch.charCodeAt(0);h=Math.imul(h,16777619);}return (h>>>0).toString(36);}
@@ -33,10 +36,37 @@ const Comments = (() => {
     if(!el)return;
     if(name()){
       el.hidden=false;
-      el.textContent=name()+" · #"+shortId(uid());
+      const code=accessCode();
+      el.textContent=code?(name()+" · #"+code):(name()+" · #"+shortId(uid()));
     }else{
       el.hidden=true;
     }
+  }
+  function showAccessCodeModal(code){
+    let el=document.getElementById("accessCodeSheet");
+    if(!el){
+      el=document.createElement("div");
+      el.id="accessCodeSheet";
+      el.className="sheet";
+      el.innerHTML='<div class="sheet-card">'
+        +'<h2>Guarde seu código</h2>'
+        +'<p class="sheet-hint">Esse é o seu código de acesso. Guarde-o: é com ele que você entra nessa biblioteca por qualquer outro aparelho, usando "Já tenho um código".</p>'
+        +'<div class="access-code-display" id="accessCodeDisplay"></div>'
+        +'<div class="sheet-actions">'
+        +'<button id="accessCodeCopy" class="btn-ghost" type="button">Copiar código</button>'
+        +'<button id="accessCodeOk" class="btn-primary" type="button">Entendi</button>'
+        +'</div></div>';
+      document.body.appendChild(el);
+      el.querySelector("#accessCodeOk").addEventListener("click",()=>{el.hidden=true;});
+      el.querySelector("#accessCodeCopy").addEventListener("click",async()=>{
+        const btn=el.querySelector("#accessCodeCopy");
+        try{await navigator.clipboard.writeText(el.dataset.code||"");btn.textContent="Copiado!";setTimeout(()=>btn.textContent="Copiar código",1500);}
+        catch(e){}
+      });
+    }
+    el.dataset.code=code;
+    el.querySelector("#accessCodeDisplay").textContent="#"+code;
+    el.hidden=false;
   }
   function pInfo(block){const p=block.querySelector("p");const raw=p?p.textContent:block.textContent;const q=norm(raw);return {key:"p_"+hashText(q),quote:q.slice(0,220)};}
   function loc(x,ch,i,key){if(Number(x.chapter)!==Number(ch))return false;if(key&&x.paragraphKey&&x.paragraphKey===key)return true;return Number(x.paraIdx)===Number(i);}
@@ -72,7 +102,7 @@ const Comments = (() => {
   async function loginWithCode(rawCode){
     if(!enabled||!db) throw new Error("O login por código está indisponível neste momento.");
     const clean=normalizeAccessCode(rawCode);
-    if(clean.length!==20) throw new Error("Confira o código. Ele deve ter 20 caracteres.");
+    if(clean.length<4) throw new Error("Confira o código digitado.");
     const codeHash=await sha256(clean);
     const doc=await db.collection(PROFILE_COLLECTION).doc(codeHash).get();
     if(!doc.exists) throw new Error("Código não encontrado.");
@@ -125,6 +155,8 @@ const Comments = (() => {
       try{await ensureAccessProfile();}catch(e){console.warn("Não foi possível registrar o código de acesso:",e);}
       sheet.hidden=true;
       document.dispatchEvent(new CustomEvent("beta:profile-ready"));
+      const code=accessCode();
+      if(code) showAccessCodeModal(code);
     };
     save.addEventListener("click",go);
     input.addEventListener("keydown",e=>{if(e.key==="Enter")go();});
@@ -239,6 +271,13 @@ const Comments = (() => {
   }
   async function resolve(x,on){if(admin())await db.collection("comments").doc(x.id).set({status:on?"resolved":"open",adminSeen:true,updatedAt:Date.now()},{merge:true});}
   async function seen(x){if(admin()&&!x.adminSeen)await db.collection("comments").doc(x.id).set({adminSeen:true},{merge:true});}
+  async function unseen(x){if(admin()&&x.adminSeen)await db.collection("comments").doc(x.id).set({adminSeen:false},{merge:true});}
+  async function markAllSeen(items,seenValue){
+    if(!admin()||!items?.length)return;
+    const batch=db.batch();
+    items.forEach(x=>{if(!!x.adminSeen!==seenValue)batch.set(db.collection("comments").doc(x.id),{adminSeen:seenValue},{merge:true});});
+    await batch.commit();
+  }
 
   async function react(book,ch,i,key,quote,emoji){
     const mine=(rCache[book]||[]).find(x=>x.authorId===uid()&&loc(x,ch,i,key));
@@ -253,7 +292,7 @@ const Comments = (() => {
     if(own(root)){acts.push('<button data-act="edit" data-id="'+root.id+'">Editar</button>','<button data-act="del" data-id="'+root.id+'">Apagar</button>');}
     if(admin()){acts.push('<button data-act="resolve" data-id="'+root.id+'">'+(root.status==="resolved"?"Reabrir":"Resolver")+'</button>');if(!root.adminSeen)acts.push('<button data-act="seen" data-id="'+root.id+'">Marcar lido</button>');}
     const rh=reps.map(r=>'<div class="feedback-reply '+(r.role==="admin"?"by-admin":"")+'"><div class="feedback-meta"><strong>'+esc(r.role==="admin"?"Autor":r.author)+'</strong><span>'+when(r.at)+'</span>'+(own(r)?'<span class="feedback-mini-actions"><button data-act="edit" data-id="'+r.id+'">Editar</button><button data-act="del" data-id="'+r.id+'">Apagar</button></span>':"")+'</div><div class="feedback-text">'+esc(r.text)+'</div></div>').join("");
-    return '<div class="feedback-thread"><div class="feedback-meta"><strong>'+esc(root.author)+'</strong><span>'+when(root.at)+'</span>'+(!root.adminSeen&&admin()?'<span class="feedback-status new">Novo</span>':"")+(root.status==="resolved"?'<span class="feedback-status resolved">Resolvido</span>':"")+'</div><div class="feedback-text">'+esc(root.text)+'</div>'+(acts.length?'<div class="feedback-actions">'+acts.join("")+'</div>':"")+(rh?'<div class="feedback-replies">'+rh+'</div>':"")+'<form class="feedback-reply-form" data-root="'+root.id+'"><input maxlength="500" placeholder="Responder…" required><button>Responder</button></form></div>';
+    return '<div class="feedback-thread" data-thread-id="'+root.id+'"><div class="feedback-meta"><strong>'+esc(root.author)+'</strong><span>'+when(root.at)+'</span>'+(!root.adminSeen&&admin()?'<span class="feedback-status new">Novo</span>':"")+(root.status==="resolved"?'<span class="feedback-status resolved">Resolvido</span>':"")+'</div><div class="feedback-text">'+esc(root.text)+'</div>'+(acts.length?'<div class="feedback-actions">'+acts.join("")+'</div>':"")+(rh?'<div class="feedback-replies">'+rh+'</div>':"")+'<form class="feedback-reply-form" data-root="'+root.id+'"><input maxlength="500" placeholder="Responder…" required><button>Responder</button></form></div>';
   }
 
   function wireThreads(el,book){
@@ -299,7 +338,7 @@ const Comments = (() => {
   return {
     init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,getAccessCode:accessCode,
     loginWithCode,ensureAccessProfile,hashText,
-    getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen
+    getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen,unseen,markAllSeen
   };
 })();
 window.Comments=Comments;

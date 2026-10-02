@@ -423,7 +423,7 @@ function initReaderZoom(){
   });
 }
 
-async function openLocation(bookId, chapterN, paraIdx, paragraphKey){
+async function openLocation(bookId, chapterN, paraIdx, paragraphKey, commentId){
   if(!bookId) return;
   if(!state.currentBook || state.currentBook.id!==bookId) await openBook(bookId);
   const book = state.currentBook;
@@ -433,14 +433,30 @@ async function openLocation(bookId, chapterN, paraIdx, paragraphKey){
   await openChapter(idx);
   requestAnimationFrame(()=>{
     let target = null;
-    if(paragraphKey) target = $("#chapterText .para-block[data-paragraph-key='"+paragraphKey+"']");
-    if(!target) target = $("#chapterText .para-block[data-para-idx='"+Number(paraIdx)+"']");
-    if(target){
+    // comentário geral do capítulo (sem parágrafo específico, paraIdx -1):
+    // procura a thread exata pelo id, que vive em #chapterNotes
+    let threadEl = commentId ? $("[data-thread-id='"+commentId+"']") : null;
+    if(threadEl){
+      const paraBlock = threadEl.closest(".para-block");
+      if(paraBlock){
+        const panel = paraBlock.querySelector(".comment-panel");
+        if(panel) panel.hidden = false;
+        target = paraBlock;
+      }else{
+        target = threadEl; // já visível em #chapterNotes
+      }
+    }
+    if(!target && paragraphKey) target = $("#chapterText .para-block[data-paragraph-key='"+paragraphKey+"']");
+    if(!target && Number(paraIdx) >= 0) target = $("#chapterText .para-block[data-para-idx='"+Number(paraIdx)+"']");
+    if(!target) target = $("#chapterNotes"); // fallback: comentário geral, sem thread localizada
+    if(target && !target.hidden){
       target.scrollIntoView({behavior:"smooth",block:"center"});
       target.classList.add("feedback-target");
       setTimeout(()=>target.classList.remove("feedback-target"),1800);
-      const panel=target.querySelector(".comment-panel");
-      if(panel) panel.hidden=false;
+      if(target.classList.contains("para-block")){
+        const panel=target.querySelector(".comment-panel");
+        if(panel) panel.hidden=false;
+      }
     }
   });
 }
