@@ -299,13 +299,16 @@
   function syncPreferences(){
     const id=identity(),store=db();
     if(!id||!store)return;
-    writeState({...prefs(),lastActiveAt:now()}).catch(e=>console.warn("Não foi possível sincronizar as preferências:",e));
+    // Preferências não contam como atividade de leitura. Isso mantém
+    // "última atividade" confiável para capítulos, em vez de renovar só
+    // porque uma aba antiga ficou aberta.
+    writeState({...prefs()}).catch(e=>console.warn("Não foi possível sincronizar as preferências:",e));
   }
 
   function preferenceChanged(kind){
     const FV=fieldValue();
     if(!FV)return syncPreferences();
-    const fields={...prefs(),lastActiveAt:now()};
+    const fields={...prefs()};
     if(kind==="theme")fields.themeChanges=FV.increment(1);
     if(kind==="font")fields.fontChanges=FV.increment(1);
     if(kind==="fontScale")fields.fontScaleChanges=FV.increment(1);
