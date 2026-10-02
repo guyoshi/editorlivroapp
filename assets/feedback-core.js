@@ -445,8 +445,8 @@ const Comments = (() => {
       try{
         const res=await fetch("data/books.json",{cache:"no-cache"});
         if(!res.ok)throw new Error("Não foi possível carregar os livros.");
-        const books=(await res.json()).books||[];
-        if(!books.length)throw new Error("Nenhum livro está disponível no momento.");
+        const books=((await res.json()).books||[]).filter(book=>book.signupAvailable!==false);
+        if(!books.length)throw new Error("Nenhum livro está disponível para cadastro no momento.");
         bookPicker.innerHTML=books.map(book=>
           '<label class="initial-book-option">'+
             '<input type="radio" name="initialBook" value="'+esc(book.id)+'">'+
