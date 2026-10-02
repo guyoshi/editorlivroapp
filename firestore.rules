@@ -7,6 +7,7 @@ service cloud.firestore {
     function isAdmin() {
       return request.auth != null
         && exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+        && get(/databases/$(database)/documents/admins/$(request.auth.uid)).data.get('enabled', false) == true
         && get(/databases/$(database)/documents/admins/$(request.auth.uid)).data.get('disabled', false) != true;
     }
 
@@ -153,7 +154,8 @@ service cloud.firestore {
       // próprios comentários/respostas/reações no desenho atual do app.
       allow delete: if isAdmin()
         || resource.data.get('role', '') == 'reader'
-        || resource.data.kind == 'reaction';
+        || resource.data.get('kind', '') == 'reply'
+        || resource.data.get('kind', '') == 'reaction';
     }
 
     // ---------------------------------------------------------
