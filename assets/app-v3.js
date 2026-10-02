@@ -203,8 +203,8 @@ async function openChapter(idx){
   window.BetaPresence?.closeChapter?.();
   state.currentChapterIdx = idx;
   localStorage.setItem(LASTCH_KEY(book.id), String(idx));
-  window.BetaAnalytics?.openChapter?.(book,ch);
-  window.BetaPresence?.openChapter?.(book,ch);
+  window.BetaAnalytics?.openChapter?.(book,ch,readChapterPct(book.id,ch.n));
+  window.BetaPresence?.openChapter?.(book,ch,readScrollPct(book.id,ch.n));
   if(isChapterDone(book.id,ch.n)){
     window.BetaAnalytics?.progress?.(100);
     window.BetaPresence?.progress?.(100);
