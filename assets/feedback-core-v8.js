@@ -35,8 +35,9 @@ const Comments = (() => {
   const admin=()=>!!adminUser;
 
   function clearReaderIdentity(){
-    // Apaga somente a identidade do beta reader. Preferências de leitura e
-    // progresso dos livros ficam preservados no aparelho.
+    // Apaga somente a identidade ativa do beta reader. Preferências gerais
+    // continuam no aparelho; o progresso fica guardado no namespace desse
+    // readerId e reaparece quando o mesmo perfil voltar a entrar.
     localStorage.removeItem(NAME_KEY);
     localStorage.removeItem(USER_KEY);
     localStorage.removeItem(ACCESS_KEY);
