@@ -646,15 +646,28 @@ const Comments = (() => {
 
   function wireSettings(){
     const n=document.getElementById("cfgName"),box=document.getElementById("adminBox"),all=document.getElementById("cfgShowAll");
-    const toggle=document.getElementById("btnAdminToggle"),settings=document.getElementById("btnSettings"),save=document.getElementById("cfgSave");
+    const toggle=document.getElementById("btnAdminTop"),settings=document.getElementById("btnSettings"),save=document.getElementById("cfgSave");
     if(!n)return;
     async function refresh(){
       if(admin()){
-        box.hidden=false;toggle.textContent="Sair do modo admin";
+        box.hidden=false;
+        if(toggle){
+          toggle.classList.add("active");
+          toggle.setAttribute("aria-pressed","true");
+          toggle.setAttribute("aria-label","Abrir painel do autor");
+          toggle.title="Abrir painel do autor";
+        }
         if(enabled){try{const d=await db.collection("config").doc("settings").get();showAll=d.exists&&!!d.data().showAllComments;}catch(e){}all.checked=showAll;}
         document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:true}}));
       }else{
-        box.hidden=true;toggle.textContent="Modo admin";document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:false}}));
+        box.hidden=true;
+        if(toggle){
+          toggle.classList.remove("active");
+          toggle.setAttribute("aria-pressed","false");
+          toggle.setAttribute("aria-label","Entrar no modo admin");
+          toggle.title="Entrar no modo admin";
+        }
+        document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:false}}));
       }
     }
     settings?.addEventListener("click",()=>{n.value=name();refresh();});
@@ -664,8 +677,19 @@ const Comments = (() => {
     });
     toggle?.addEventListener("click",async()=>{
       if(!auth){alert("Login de admin indisponível neste momento.");return;}
-      if(admin()){await auth.signOut();adminUser=null;await refresh();render();return;}
+      if(admin()){
+        document.dispatchEvent(new CustomEvent("beta:admin-home"));
+        return;
+      }
       openAdminLoginSheet();
+    });
+
+    document.addEventListener("beta:admin-logout",async()=>{
+      if(!auth||!admin())return;
+      await auth.signOut();
+      adminUser=null;
+      await refresh();
+      render();
     });
     save?.addEventListener("click",async()=>{
       if(n.value.trim()){
