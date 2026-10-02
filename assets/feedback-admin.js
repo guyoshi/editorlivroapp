@@ -14,20 +14,18 @@
   function db(){return window.Comments?.getDb?.();}
 
   function ensureButton(){
-    const box=document.getElementById("adminBox");
-    if(!box||document.getElementById("btnAuthorDashboard"))return;
-    const b=document.createElement("button");
-    b.id="btnAuthorDashboard";b.type="button";b.className="admin-comments-btn";
-    b.innerHTML='<span>Painel do autor</span><span id="adminNewCount" class="admin-new-count" hidden></span>';
-    b.onclick=showAdminHome;box.appendChild(b);
+    // O acesso principal ao admin agora fica no topo da biblioteca.
+    // O badge usa o #adminNewCount que já existe dentro desse botão.
+    return document.getElementById("btnAdminTop");
   }
 
   function ensureAdminHome(){
     if(document.getElementById("authorAdminSheet"))return;
     const el=document.createElement("div");el.id="authorAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Gerencie leitores, mensagens e comentários em áreas separadas.</p></div><button id="authorAdminClose" class="icon-btn" type="button">✕</button></header><div class="admin-home-grid"><button id="openReaderAccess" class="admin-home-card" type="button"><strong>Leitores e acessos</strong><span>Libere livros, envie popup ou remova leitores.</span></button><button id="openPopupDashboard" class="admin-home-card" type="button"><strong>Mensagens popup</strong><span>Veja pendentes, disparadas, lidas e seus modelos.</span></button><button id="openCommentDashboard" class="admin-home-card" type="button"><strong>Comentários</strong><span>Leia e responda ao feedback dos capítulos.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button></div></section>';
+    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Gerencie leitores, mensagens e comentários em áreas separadas.</p></div><div class="admin-head-actions"><button id="authorAdminLogout" class="link-btn" type="button">Sair do admin</button><button id="authorAdminClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-home-grid"><button id="openReaderAccess" class="admin-home-card" type="button"><strong>Leitores e acessos</strong><span>Libere livros, envie popup ou remova leitores.</span></button><button id="openPopupDashboard" class="admin-home-card" type="button"><strong>Mensagens popup</strong><span>Veja pendentes, disparadas, lidas e seus modelos.</span></button><button id="openCommentDashboard" class="admin-home-card" type="button"><strong>Comentários</strong><span>Leia e responda ao feedback dos capítulos.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button></div></section>';
     document.body.appendChild(el);
     el.querySelector("#authorAdminClose").onclick=hideAdminHome;
+    el.querySelector("#authorAdminLogout").onclick=()=>{hideAdminHome();document.dispatchEvent(new CustomEvent("beta:admin-logout"));};
     el.querySelector("#openReaderAccess").onclick=()=>{hideAdminHome();showAccess();};
     el.querySelector("#openPopupDashboard").onclick=()=>{hideAdminHome();window.PopupMessages?.openAdmin?.();};
     el.querySelector("#openCommentDashboard").onclick=()=>{hideAdminHome();show();};
@@ -198,5 +196,6 @@
   function hideAccess(){const x=document.getElementById("bookAccessSheet");if(x)x.hidden=true;}
 
   document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on)subscribe();else{stop();hide();hideAccess();hideAdminHome();}});
+  document.addEventListener("beta:admin-home",()=>{if(Comments?.isAdmin?.())showAdminHome();});
   document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureSheet();ensureAccessSheet();if(Comments?.isAdmin?.())subscribe();});
 })();
