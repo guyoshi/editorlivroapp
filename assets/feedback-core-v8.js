@@ -291,18 +291,32 @@ const Comments = (() => {
     return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("");
   }
 
+  const sleep=ms=>new Promise(r=>setTimeout(r,ms));
   async function syncAccessCodeRecord(codeHash,code,readerId){
     if(!enabled||!db||!codeHash||!code||!readerId)return;
-    try{
-      await db.collection(ACCESS_CODES_COLLECTION).doc(codeHash).set({
-        profileHash:codeHash,
-        readerId:String(readerId),
-        accessCode:formatAccessCode(code),
-        updatedAt:Date.now()
-      },{merge:true});
-    }catch(e){
-      // Não impede login/leitura se as novas Rules ainda não estiverem publicadas.
-      console.warn("Não foi possível sincronizar o código de acesso com o painel:",e);
+    // Logo após abrir o app, a primeira escrita cruzando coleções (esta
+    // regra lê readerProfiles para validar o dono do código) às vezes
+    // esbarra numa janela curta em que a conexão do Firestore ainda não
+    // está totalmente pronta, e volta "Missing or insufficient
+    // permissions" mesmo com as Rules corretas. Tentamos mais algumas
+    // vezes com um intervalo pequeno antes de desistir — não impede
+    // login/leitura em nenhum caso.
+    const attempts=[0,1500,4000];
+    for(let i=0;i<attempts.length;i++){
+      if(attempts[i])await sleep(attempts[i]);
+      try{
+        await db.collection(ACCESS_CODES_COLLECTION).doc(codeHash).set({
+          profileHash:codeHash,
+          readerId:String(readerId),
+          accessCode:formatAccessCode(code),
+          updatedAt:Date.now()
+        },{merge:true});
+        return;
+      }catch(e){
+        if(i===attempts.length-1){
+          console.warn("Não foi possível sincronizar o código de acesso com o painel:",e);
+        }
+      }
     }
   }
 

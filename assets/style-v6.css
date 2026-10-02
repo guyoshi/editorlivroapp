@@ -638,8 +638,30 @@ html,body{ height:100dvh; overflow:hidden; }
   align-items:center;
   width:100%;
 }
-.reader-access-card-actions .reader-delete-btn{
+.reader-access-card-actions-caution{
   margin-left:auto;
+  display:flex;
+  align-items:center;
+  gap:6px;
+}
+.reader-access-card-actions-caution .btn-caution{
+  border:1px solid var(--accent);
+  border-radius:8px;
+  background:transparent;
+  color:var(--accent);
+  padding:7px 10px;
+}
+.reader-access-card-actions-caution .btn-caution:hover,
+.reader-access-card-actions-caution .btn-caution:focus-visible{
+  background:var(--accent);
+  color:var(--accent-ink);
+  outline:none;
+}
+.reader-access-card-actions-caution .btn-caution:disabled{
+  opacity:.55;
+  cursor:default;
+}
+.reader-access-card-actions .reader-delete-btn{
   border:1px solid #b42318;
   border-radius:8px;
   background:#b42318;

@@ -869,6 +869,99 @@
     el.hidden=false;
   }
 
+  // ---------------- Gerar novo código (com cuidado, igual exclusão) ----------------
+  let pendingRotateProfile=null;
+  let rotatingCode=false;
+
+  function ensureRotateCodeConfirm(){
+    if(document.getElementById("readerRotateConfirm"))return;
+    const el=document.createElement("div");
+    el.id="readerRotateConfirm";
+    el.className="danger-confirm-sheet";
+    el.hidden=true;
+    el.innerHTML='<section class="danger-confirm-card" role="dialog" aria-modal="true" aria-labelledby="readerRotateTitle">'
+      +'<div class="danger-confirm-icon" aria-hidden="true">!</div>'
+      +'<div><h2 id="readerRotateTitle">Gerar novo código de acesso?</h2><p>Você está prestes a trocar o código de <strong id="readerRotateName">este leitor</strong>.</p></div>'
+      +'<div class="danger-confirm-warning"><strong>O código atual deixará de funcionar imediatamente.</strong><ul>'
+        +'<li>Se o leitor estiver com o código antigo salvo em outro aparelho, ele perderá o acesso até você passar o novo código.</li>'
+        +'<li>O leitor, comentários, relatórios e livros liberados são preservados.</li>'
+      +'</ul></div>'
+      +'<label class="danger-confirm-check"><input id="readerRotateAcknowledge" type="checkbox"><span>Entendo que preciso avisar o leitor do novo código.</span></label>'
+      +'<p id="readerRotateStatus" class="danger-confirm-status" aria-live="polite"></p>'
+      +'<div id="readerRotateResult" class="reader-admin-code" hidden><span>Novo código de acesso</span><strong id="readerRotateResultCode"></strong></div>'
+      +'<div class="danger-confirm-actions"><button id="readerRotateCancel" class="btn-ghost" type="button">Cancelar</button><button id="readerRotateConfirmBtn" class="btn-danger" type="button" disabled>Gerar novo código</button></div>'
+      +'</section>';
+    document.body.appendChild(el);
+
+    const ack=el.querySelector("#readerRotateAcknowledge");
+    const confirmBtn=el.querySelector("#readerRotateConfirmBtn");
+    const cancelBtn=el.querySelector("#readerRotateCancel");
+    const result=el.querySelector("#readerRotateResult");
+
+    const close=()=>{
+      if(rotatingCode)return;
+      pendingRotateProfile=null;
+      ack.checked=false;
+      confirmBtn.disabled=true;
+      el.querySelector("#readerRotateStatus").textContent="";
+      result.hidden=true;
+      cancelBtn.textContent="Cancelar";
+      el.hidden=true;
+    };
+
+    ack.addEventListener("change",()=>{confirmBtn.disabled=!ack.checked||rotatingCode;});
+    cancelBtn.onclick=close;
+    el.onclick=e=>{if(e.target===el)close();};
+
+    confirmBtn.onclick=async()=>{
+      const profile=pendingRotateProfile;
+      if(!profile||!ack.checked||rotatingCode)return;
+      rotatingCode=true;
+      confirmBtn.disabled=true;
+      ack.disabled=true;
+      confirmBtn.textContent="Gerando…";
+      const status=el.querySelector("#readerRotateStatus");
+      status.textContent="Revogando o código antigo e gerando um novo…";
+      try{
+        const r=await Comments.rotateReaderAccessCode(profile.id);
+        if(r?.cleanupFailed){
+          status.textContent="Código gerado, mas parte das mensagens/relatórios pode precisar de sincronização quando o leitor abrir o app.";
+        }else{
+          status.textContent="Pronto. Avise o leitor do novo código abaixo:";
+        }
+        el.querySelector("#readerRotateResultCode").textContent=r.accessCode;
+        result.hidden=false;
+        confirmBtn.hidden=true;
+        ack.closest("label").hidden=true;
+        cancelBtn.textContent="Fechar";
+        await renderAccess();
+      }catch(e){
+        status.textContent="Não foi possível gerar o código: "+(e.message||"tente de novo.");
+      }finally{
+        rotatingCode=false;
+        ack.disabled=false;
+        cancelBtn.disabled=false;
+      }
+    };
+  }
+
+  function openRotateCodeConfirm(profile){
+    if(!profile)return;
+    ensureRotateCodeConfirm();
+    pendingRotateProfile=profile;
+    const el=document.getElementById("readerRotateConfirm");
+    el.querySelector("#readerRotateName").textContent=(profile.name||"Anônimo")+(profile.accessCode?" · Código atual "+profile.accessCode:" · ainda sem código sincronizado");
+    el.querySelector("#readerRotateAcknowledge").checked=false;
+    el.querySelector("#readerRotateAcknowledge").closest("label").hidden=false;
+    el.querySelector("#readerRotateConfirmBtn").disabled=true;
+    el.querySelector("#readerRotateConfirmBtn").hidden=false;
+    el.querySelector("#readerRotateConfirmBtn").textContent="Gerar novo código";
+    el.querySelector("#readerRotateCancel").textContent="Cancelar";
+    el.querySelector("#readerRotateStatus").textContent="";
+    el.querySelector("#readerRotateResult").hidden=true;
+    el.hidden=false;
+  }
+
   // ---------------- Acesso aos livros ----------------
   // Cada leitor escolhe o primeiro livro ao criar o perfil. O admin usa
   // esta área separada para liberar (ou remover) os próximos.
@@ -913,9 +1006,11 @@
       }).join("");
       return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+codeHtml+checks+'<div class="admin-card-actions reader-access-card-actions">'
         +(code?'<button type="button" data-copy-code="'+esc(p.id)+'">Copiar código</button>':'')
-        +'<button type="button" data-rotate-code="'+esc(p.id)+'">'+(code?'Gerar novo código':'Gerar código')+'</button>'
         +'<button type="button" data-popup-profile="'+esc(p.id)+'">Enviar popup</button>'
-        +'<button class="reader-delete-btn" type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button>'
+        +'<span class="reader-access-card-actions-caution">'
+          +'<button class="btn-caution" type="button" data-rotate-code="'+esc(p.id)+'">'+(code?'Gerar novo código':'Gerar código')+'</button>'
+          +'<button class="reader-delete-btn" type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button>'
+        +'</span>'
         +'</div></article>';
     }).join("");
     list.querySelectorAll("input[type=checkbox]").forEach(cb=>{
@@ -944,26 +1039,9 @@
       });
     });
     list.querySelectorAll("[data-rotate-code]").forEach(btn=>{
-      btn.addEventListener("click",async()=>{
+      btn.addEventListener("click",()=>{
         const profile=profiles.find(p=>p.id===btn.dataset.rotateCode);
-        if(!profile)return;
-        const hadCode=!!profile.accessCode;
-        const warning=hadCode
-          ? 'Gerar um novo código para "'+(profile.name||"este leitor")+'"?\n\nO código atual '+profile.accessCode+' deixará de funcionar. O leitor, comentários e relatórios serão preservados.'
-          : 'Gerar um código de acesso para "'+(profile.name||"este leitor")+'"?\n\nIsso mantém o mesmo leitor, comentários e relatórios.';
-        if(!confirm(warning))return;
-        btn.disabled=true;
-        btn.textContent="Gerando…";
-        try{
-          const result=await Comments.rotateReaderAccessCode(profile.id);
-          if(result?.cleanupFailed)alert("Novo código: "+result.accessCode+"\n\nO código foi criado, mas parte das mensagens/relatórios pode precisar de sincronização quando o leitor abrir o app.");
-          else alert("Novo código de acesso: "+result.accessCode);
-          await renderAccess();
-        }catch(e){
-          alert("Não foi possível gerar o código: "+(e.message||"tente de novo."));
-          btn.disabled=false;
-          btn.textContent=hadCode?"Gerar novo código":"Gerar código";
-        }
+        if(profile)openRotateCodeConfirm(profile);
       });
     });
     list.querySelectorAll("[data-popup-profile]").forEach(btn=>{
@@ -985,5 +1063,5 @@
 
   document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on)subscribe();else{stop();hide();hideAccess();hideAnalytics();hideBetaFeedbackAdmin();hideAdminHome();}});
   document.addEventListener("beta:admin-home",()=>{if(Comments?.isAdmin?.())showAdminHome();});
-  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureBetaFeedbackAdminSheet();ensureDeleteReaderConfirm();if(Comments?.isAdmin?.())subscribe();});
+  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureBetaFeedbackAdminSheet();ensureDeleteReaderConfirm();ensureRotateCodeConfirm();if(Comments?.isAdmin?.())subscribe();});
 })();
