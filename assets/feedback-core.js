@@ -1,6 +1,7 @@
 // Beta feedback v2: threaded comments + paragraph reactions
 const Comments = (() => {
   const NAME_KEY="jesed:username", USER_KEY="jesed:readerId", ACCESS_KEY="jesed:readerAccessCode";
+  const CODEHASH_KEY="jesed:readerCodeHash";
   const SEEN_ANNOUNCE_KEY="jesed:lastSeenAnnouncement";
   const PROFILE_COLLECTION="readerProfiles";
   const ANNOUNCE_COLLECTION="announcements";
@@ -127,6 +128,7 @@ const Comments = (() => {
       localStorage.setItem(ACCESS_KEY,code);
     }
     const codeHash=await sha256(normalizeAccessCode(code));
+    localStorage.setItem(CODEHASH_KEY,codeHash);
     const ref=db.collection(PROFILE_COLLECTION).doc(codeHash);
     let exists=false;
     try{exists=(await ref.get()).exists;}catch(e){}
@@ -138,6 +140,33 @@ const Comments = (() => {
     if(!exists) payload.createdAt=Date.now();
     await ref.set(payload,{merge:true});
     return code;
+  }
+
+  // ---------------- Acesso a livros (controlado pelo admin) ----------------
+  // Leitor novo não vê nenhum livro até o admin liberar. Admin sempre vê tudo.
+  async function getAllowedBooks(){
+    if(admin())return null; // null = sem restrição, mostra tudo
+    if(!enabled||!db)return [];
+    const codeHash=localStorage.getItem(CODEHASH_KEY);
+    if(!codeHash)return [];
+    try{
+      const doc=await db.collection(PROFILE_COLLECTION).doc(codeHash).get();
+      if(!doc.exists)return [];
+      const data=doc.data()||{};
+      return Array.isArray(data.allowedBooks)?data.allowedBooks:[];
+    }catch(e){console.warn("Não foi possível carregar os livros liberados:",e);return [];}
+  }
+  async function listReaderProfiles(){
+    if(!admin()||!db)return [];
+    try{
+      const snap=await db.collection(PROFILE_COLLECTION).orderBy("updatedAt","desc").get();
+      const out=[];snap.forEach(d=>out.push({id:d.id,...d.data()}));
+      return out;
+    }catch(e){console.warn("Não foi possível listar os perfis de leitores:",e);return [];}
+  }
+  async function setAllowedBooks(profileId,allowedBooks){
+    if(!admin()||!db)return;
+    await db.collection(PROFILE_COLLECTION).doc(profileId).set({allowedBooks},{merge:true});
   }
 
   async function loginWithCode(rawCode){
@@ -152,6 +181,7 @@ const Comments = (() => {
     localStorage.setItem(USER_KEY,String(profile.readerId));
     localStorage.setItem(NAME_KEY,String(profile.name));
     localStorage.setItem(ACCESS_KEY,formatAccessCode(clean));
+    localStorage.setItem(CODEHASH_KEY,codeHash);
     document.dispatchEvent(new CustomEvent("beta:profile-login",{detail:{readerId:profile.readerId,name:profile.name}}));
     return {readerId:profile.readerId,name:profile.name,accessCode:formatAccessCode(clean)};
   }
@@ -394,7 +424,7 @@ const Comments = (() => {
     init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,getAccessCode:accessCode,
     loginWithCode,ensureAccessProfile,hashText,
     getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen,unseen,markAllSeen,
-    sendAnnouncement
+    sendAnnouncement,getAllowedBooks,listReaderProfiles,setAllowedBooks
   };
 })();
 window.Comments=Comments;

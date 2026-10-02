@@ -101,6 +101,70 @@
   function show(){if(!Comments?.isAdmin?.())return;ensureSheet();subscribe();document.getElementById("commentAdminSheet").hidden=false;open=true;render();}
   function hide(){const x=document.getElementById("commentAdminSheet");if(x)x.hidden=true;open=false;}
 
-  document.addEventListener("beta:admin",e=>{ensureButton();if(e.detail?.on)subscribe();else{stop();hide();}});
-  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureSheet();if(Comments?.isAdmin?.())subscribe();});
+  // ---------------- Acesso aos livros ----------------
+  // Controle de quais livros cada leitor pode ver. Leitor novo começa sem
+  // nenhum liberado; o admin marca aqui quais aparecem pra ele.
+  let booksCache=null;
+  async function getBooksList(){
+    if(booksCache)return booksCache;
+    try{
+      const res=await fetch("data/books.json",{cache:"no-cache"});
+      const data=await res.json();
+      booksCache=data.books||[];
+    }catch(e){booksCache=[];}
+    return booksCache;
+  }
+
+  function ensureAccessButton(){
+    const box=document.getElementById("adminBox");
+    if(!box||document.getElementById("btnBookAccess"))return;
+    const b=document.createElement("button");
+    b.id="btnBookAccess";b.type="button";b.className="admin-comments-btn";
+    b.innerHTML="<span>Acesso aos livros</span>";
+    b.onclick=showAccess;box.appendChild(b);
+  }
+
+  function ensureAccessSheet(){
+    if(document.getElementById("bookAccessSheet"))return;
+    const el=document.createElement("div");el.id="bookAccessSheet";el.className="admin-dashboard-sheet";el.hidden=true;
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Acesso aos livros</h2><p>Leitor novo começa sem nenhum livro liberado. Marque aqui quais cada um pode ler.</p></div><button id="accessDashClose" class="icon-btn" type="button">✕</button></header><div id="bookAccessList" class="admin-dashboard-list"></div></section>';
+    document.body.appendChild(el);
+    el.querySelector("#accessDashClose").onclick=hideAccess;
+    el.onclick=e=>{if(e.target===el)hideAccess();};
+  }
+
+  async function renderAccess(){
+    const sheet=document.getElementById("bookAccessSheet");if(!sheet||sheet.hidden)return;
+    const list=sheet.querySelector("#bookAccessList");
+    list.innerHTML='<p class="admin-empty">Carregando…</p>';
+    const [profiles,books]=await Promise.all([Comments.listReaderProfiles(),getBooksList()]);
+    if(!books.length){list.innerHTML='<p class="admin-empty">Nenhum livro cadastrado ainda.</p>';return;}
+    if(!profiles.length){list.innerHTML='<p class="admin-empty">Nenhum leitor com perfil ainda. Peça pra pessoa abrir o app e definir um nome primeiro.</p>';return;}
+    list.innerHTML=profiles.map(p=>{
+      const label=esc(p.name||"Anônimo")+" · #"+shortId(p.readerId);
+      const allowed=Array.isArray(p.allowedBooks)?p.allowedBooks:[];
+      const checks=books.map(b=>{
+        const checked=allowed.includes(b.id)?"checked":"";
+        return '<label class="field-check"><input type="checkbox" data-profile="'+esc(p.id)+'" data-book="'+esc(b.id)+'" '+checked+'><span>'+esc(b.title)+'</span></label>';
+      }).join("");
+      return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+checks+'</article>';
+    }).join("");
+    list.querySelectorAll("input[type=checkbox]").forEach(cb=>{
+      cb.addEventListener("change",async()=>{
+        const profileId=cb.dataset.profile;
+        const row=cb.closest(".admin-comment-card");
+        const current=[...row.querySelectorAll("input[type=checkbox]")].filter(x=>x.checked).map(x=>x.dataset.book);
+        cb.disabled=true;
+        try{await Comments.setAllowedBooks(profileId,current);}
+        catch(e){alert("Não foi possível salvar: "+(e.message||"tente de novo."));cb.checked=!cb.checked;}
+        finally{cb.disabled=false;}
+      });
+    });
+  }
+
+  function showAccess(){if(!Comments?.isAdmin?.())return;ensureAccessSheet();document.getElementById("bookAccessSheet").hidden=false;renderAccess();}
+  function hideAccess(){const x=document.getElementById("bookAccessSheet");if(x)x.hidden=true;}
+
+  document.addEventListener("beta:admin",e=>{ensureButton();ensureAccessButton();if(e.detail?.on)subscribe();else{stop();hide();hideAccess();}});
+  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureSheet();ensureAccessButton();if(Comments?.isAdmin?.())subscribe();});
 })();
