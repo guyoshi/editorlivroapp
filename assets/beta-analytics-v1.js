@@ -25,6 +25,7 @@
   let narrationStartedAt=0;
   let musicStartedAt=0;
   let lastProgressSent=-1;
+  let maxProgressSeen=0;
   let progressTimer=null;
   let sending=false;
   const usageQueue=[];
@@ -190,6 +191,7 @@
     flushUsage();
     context=null;
     lastProgressSent=-1;
+    maxProgressSeen=0;
     if(progressTimer){clearTimeout(progressTimer);progressTimer=null;}
     if(narrationPlaying)narrationStartedAt=now();
     if(musicPlaying)musicStartedAt=now();
@@ -204,6 +206,7 @@
       chapterTitle:String(ch.title||"")
     };
     lastProgressSent=-1;
+    maxProgressSeen=0;
     noteInteraction();
     const stamp=now();
     const p=prefs();
@@ -226,7 +229,9 @@
   function progress(value){
     if(!context)return;
     noteInteraction();
-    const pct=Math.max(0,Math.min(100,Math.round(Number(value)||0)));
+    const incoming=Math.max(0,Math.min(100,Math.round(Number(value)||0)));
+    maxProgressSeen=Math.max(maxProgressSeen,incoming);
+    const pct=maxProgressSeen;
     if(Math.abs(pct-lastProgressSent)<3 && pct<96)return;
     if(progressTimer)clearTimeout(progressTimer);
     progressTimer=setTimeout(()=>{
