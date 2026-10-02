@@ -228,6 +228,133 @@ service cloud.firestore {
     }
 
     // ---------------------------------------------------------
+    // ANALYTICS DOS LEITORES BETA
+    // Leitor escreve apenas métricas ligadas ao próprio perfil portátil.
+    // Somente admins podem ler os relatórios.
+    // ---------------------------------------------------------
+    function validAnalyticsIdentity(readerId, data) {
+      return data.readerId is string
+        && data.readerId == readerId
+        && data.readerId.size() >= 16
+        && data.readerId.size() <= 80
+        && data.profileHash is string
+        && isProfileHash(data.profileHash)
+        && exists(/databases/$(database)/documents/readerProfiles/$(data.profileHash))
+        && get(/databases/$(database)/documents/readerProfiles/$(data.profileHash)).data.get('deleted', false) != true
+        && get(/databases/$(database)/documents/readerProfiles/$(data.profileHash)).data.readerId == readerId;
+    }
+
+    function validAnalyticsSummary(data) {
+      return data.keys().hasOnly([
+          'readerId','profileHash','name','updatedAt','lastActiveAt',
+          'currentBookId','currentBookTitle','currentChapter','currentChapterTitle','currentChapterPct',
+          'totalActiveSec','totalNarrationSec','totalMusicSec',
+          'completedChapters','narrationChapters','musicChapters',
+          'theme','font','fontScale','hideArt','autoAmbient',
+          'themeChanges','fontChanges','fontScaleChanges'
+        ])
+        && data.name is string
+        && data.name.size() >= 1
+        && data.name.size() <= 40
+        && data.updatedAt is int
+        && data.get('lastActiveAt', 0) is int
+        && data.get('currentBookId', '') is string
+        && data.get('currentBookId', '').size() <= 120
+        && data.get('currentBookTitle', '') is string
+        && data.get('currentBookTitle', '').size() <= 180
+        && data.get('currentChapter', 0) is int
+        && data.get('currentChapter', 0) >= 0
+        && data.get('currentChapterPct', 0) is int
+        && data.get('currentChapterPct', 0) >= 0
+        && data.get('currentChapterPct', 0) <= 100
+        && data.get('currentChapterTitle', '') is string
+        && data.get('currentChapterTitle', '').size() <= 180
+        && data.get('totalActiveSec', 0) is int
+        && data.get('totalActiveSec', 0) >= 0
+        && data.get('totalNarrationSec', 0) is int
+        && data.get('totalNarrationSec', 0) >= 0
+        && data.get('totalMusicSec', 0) is int
+        && data.get('totalMusicSec', 0) >= 0
+        && data.get('completedChapters', []) is list
+        && data.get('completedChapters', []).size() <= 500
+        && data.get('narrationChapters', []) is list
+        && data.get('narrationChapters', []).size() <= 500
+        && data.get('musicChapters', []) is list
+        && data.get('musicChapters', []).size() <= 500
+        && data.get('theme', '') is string
+        && data.get('theme', '').size() <= 40
+        && data.get('font', '') is string
+        && data.get('font', '').size() <= 40
+        && (
+          data.get('fontScale', 1) is int
+          || data.get('fontScale', 1) is float
+        )
+        && data.get('fontScale', 1) >= 0.8
+        && data.get('fontScale', 1) <= 1.6
+        && data.get('hideArt', false) is bool
+        && data.get('autoAmbient', false) is bool
+        && data.get('themeChanges', 0) is int
+        && data.get('themeChanges', 0) >= 0
+        && data.get('fontChanges', 0) is int
+        && data.get('fontChanges', 0) >= 0
+        && data.get('fontScaleChanges', 0) is int
+        && data.get('fontScaleChanges', 0) >= 0;
+    }
+
+    function validAnalyticsChapter(data) {
+      return data.keys().hasOnly([
+          'readerId','profileHash','bookId','bookTitle','chapter','chapterTitle',
+          'updatedAt','lastActiveAt','lastOpenedAt','currentPct',
+          'activeSec','narrationSec','musicSec',
+          'completed','completedAt','narrationUsed','musicUsed'
+        ])
+        && data.bookId is string
+        && data.bookId.size() >= 1
+        && data.bookId.size() <= 120
+        && data.get('bookTitle', '') is string
+        && data.get('bookTitle', '').size() <= 180
+        && data.chapter is int
+        && data.chapter >= 1
+        && data.get('chapterTitle', '') is string
+        && data.get('chapterTitle', '').size() <= 180
+        && data.updatedAt is int
+        && data.get('lastActiveAt', 0) is int
+        && data.get('lastOpenedAt', 0) is int
+        && data.get('currentPct', 0) is int
+        && data.get('currentPct', 0) >= 0
+        && data.get('currentPct', 0) <= 100
+        && data.get('activeSec', 0) is int
+        && data.get('activeSec', 0) >= 0
+        && data.get('narrationSec', 0) is int
+        && data.get('narrationSec', 0) >= 0
+        && data.get('musicSec', 0) is int
+        && data.get('musicSec', 0) >= 0
+        && data.get('completed', false) is bool
+        && data.get('completedAt', 0) is int
+        && data.get('completedAt', 0) >= 0
+        && data.get('narrationUsed', false) is bool
+        && data.get('musicUsed', false) is bool;
+    }
+
+    match /readerAnalytics/{readerId} {
+      allow read: if isAdmin();
+
+      allow create, update: if validAnalyticsIdentity(readerId, request.resource.data)
+        && validAnalyticsSummary(request.resource.data);
+
+      allow delete: if isAdmin();
+
+      match /chapters/{chapterId} {
+        allow read: if isAdmin();
+
+        allow create, update: if validAnalyticsIdentity(readerId, request.resource.data)
+          && validAnalyticsChapter(request.resource.data);
+
+        allow delete: if isAdmin();
+      }
+    }
+
+    // ---------------------------------------------------------
     // RECADOS GERAIS LEGADOS
     // ---------------------------------------------------------
     match /announcements/{announceId} {
