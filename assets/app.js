@@ -54,8 +54,8 @@ async function loadLibrary(){
     }
   }
 
-  // Controle de acesso: livros públicos ficam disponíveis a todo leitor cadastrado;
-  // os demais dependem de liberação individual. Admin vê tudo.
+  // Controle de acesso: o primeiro livro é escolhido no cadastro; os demais
+  // são liberados individualmente pelo admin. Admin vê tudo.
   let allowed = null;
   try{ allowed = await window.Comments?.getAllowedBooks?.() ?? null; }catch(e){ allowed = []; }
   state.books = (allowed===null) ? allBooksCache.slice() : allBooksCache.filter(b=>allowed.includes(b.id));
