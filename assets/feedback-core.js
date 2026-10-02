@@ -874,7 +874,6 @@ const Comments = (() => {
     el.querySelectorAll(".feedback-reply-form").forEach(f=>f.onsubmit=async e=>{e.preventDefault();const x=findItem(book,f.dataset.root),inp=f.querySelector("input");if(x&&inp.value.trim()){await reply(x,inp.value.trim());inp.value="";}});
   }
 
-  const PARAGRAPH_FEEDBACK_HINT_KEY="jesed:paragraphFeedbackHintV2";
   let paragraphInteractionGlobalsWired=false;
 
   function closeParagraphMenus(except=null){
@@ -968,30 +967,124 @@ const Comments = (() => {
     },{passive:true});
   }
 
-  function showParagraphFeedbackIntro(){
-    if(admin()||!name()||localStorage.getItem(PARAGRAPH_FEEDBACK_HINT_KEY))return;
+  const READER_ONBOARDING_KEY="jesed:readerOnboardingV3";
+  let uiPopAudioCtx=null;
 
-    let el=document.getElementById("paragraphFeedbackIntro");
-    if(!el){
-      el=document.createElement("div");
-      el.id="paragraphFeedbackIntro";
-      el.className="sheet";
-      el.hidden=true;
-      el.innerHTML='<div class="sheet-card feedback-intro-card">'
-        +'<div class="feedback-intro-icons" aria-hidden="true"><span>💬</span><span>☺</span></div>'
-        +'<h2>Comentar e reagir</h2>'
-        +'<p class="sheet-hint">Toque rapidamente em qualquer parágrafo para abrir dois botões: comentário e reação. No computador, basta clicar no parágrafo.</p>'
-        +'<p class="sheet-hint">Se você estiver arrastando a página para rolar ou selecionando texto, nada será aberto.</p>'
-        +'<div class="sheet-actions"><button id="paragraphFeedbackIntroOk" class="btn-primary" type="button">Entendi</button></div>'
-        +'</div>';
-      document.body.appendChild(el);
-      el.querySelector("#paragraphFeedbackIntroOk").addEventListener("click",()=>{
-        localStorage.setItem(PARAGRAPH_FEEDBACK_HINT_KEY,"1");
-        el.hidden=true;
-      });
+  function armUiPopAudio(){
+    if(uiPopAudioCtx)return uiPopAudioCtx;
+    try{
+      uiPopAudioCtx=new (window.AudioContext||window.webkitAudioContext)();
+      if(uiPopAudioCtx.state==="suspended")uiPopAudioCtx.resume().catch(()=>{});
+    }catch(e){
+      uiPopAudioCtx=null;
     }
+    return uiPopAudioCtx;
+  }
+
+  // Som curto de "POP" sintetizado, sem arquivo externo.
+  // O contexto é destravado no primeiro toque/clique do leitor para respeitar
+  // as regras de autoplay dos navegadores.
+  function playUiPop(){
+    const ctx=armUiPopAudio();
+    if(!ctx)return;
+    const start=ctx.currentTime;
+    try{
+      const osc=ctx.createOscillator();
+      const gain=ctx.createGain();
+      const filter=ctx.createBiquadFilter();
+
+      osc.type="sine";
+      osc.frequency.setValueAtTime(520,start);
+      osc.frequency.exponentialRampToValueAtTime(230,start+0.075);
+
+      filter.type="lowpass";
+      filter.frequency.setValueAtTime(1800,start);
+      filter.Q.value=0.7;
+
+      gain.gain.setValueAtTime(0.0001,start);
+      gain.gain.exponentialRampToValueAtTime(0.16,start+0.008);
+      gain.gain.exponentialRampToValueAtTime(0.0001,start+0.105);
+
+      osc.connect(filter).connect(gain).connect(ctx.destination);
+      osc.start(start);
+      osc.stop(start+0.11);
+    }catch(e){}
+  }
+
+  function onboardingIcon(kind){
+    if(kind==="comment")return '<span class="reader-onboarding-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M4 4h16v12H7l-3 3V4zm2 2v8.17L6.17 14H18V6H6z"/></svg></span>';
+    if(kind==="reaction")return '<span class="reader-onboarding-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 2a10 10 0 100 20 10 10 0 000-20zm-3 7.25a1.25 1.25 0 110 2.5 1.25 1.25 0 010-2.5zm6 0a1.25 1.25 0 110 2.5 1.25 1.25 0 010-2.5zM12 17c-2.2 0-4.05-1.2-5-3h2.1c.7.75 1.7 1.2 2.9 1.2s2.2-.45 2.9-1.2H17c-.95 1.8-2.8 3-5 3z"/></svg></span>';
+    if(kind==="narration")return '<span class="reader-onboarding-icon accent" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span>';
+    if(kind==="music")return '<span class="reader-onboarding-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 3v10.55A4 4 0 1014 17V7h5V3h-7z"/></svg></span>';
+    if(kind==="appearance")return '<span class="reader-onboarding-icon text-icon" aria-hidden="true">Aa</span>';
+    return "";
+  }
+
+  function ensureReaderOnboardingSheet(){
+    let el=document.getElementById("readerOnboardingSheet");
+    if(el)return el;
+
+    el=document.createElement("div");
+    el.id="readerOnboardingSheet";
+    el.className="sheet";
+    el.hidden=true;
+    el.innerHTML='<div class="sheet-card reader-onboarding-card">'
+      +'<div id="readerOnboardingStep"></div>'
+      +'<div class="sheet-actions">'
+      +'<button id="readerOnboardingNext" class="btn-primary" type="button">Continuar</button>'
+      +'</div>'
+      +'</div>';
+    document.body.appendChild(el);
+    return el;
+  }
+
+  function renderReaderOnboardingStep(step){
+    const el=ensureReaderOnboardingSheet();
+    const body=el.querySelector("#readerOnboardingStep");
+    const next=el.querySelector("#readerOnboardingNext");
+
+    if(step===1){
+      body.innerHTML='<div class="reader-onboarding-kicker">Leitura interativa</div>'
+        +'<h2>Comente ou reaja a qualquer parágrafo</h2>'
+        +'<p class="sheet-hint">Toque rapidamente em um parágrafo para abrir estas duas ações. Arrastar a página ou selecionar texto não abre o menu.</p>'
+        +'<div class="reader-onboarding-grid">'
+        +'<div class="reader-onboarding-item">'+onboardingIcon("comment")+'<div><strong>Comentário</strong><span>Escreva uma observação naquele trecho.</span></div></div>'
+        +'<div class="reader-onboarding-item">'+onboardingIcon("reaction")+'<div><strong>Reação</strong><span>Escolha um emoji para reagir ao parágrafo.</span></div></div>'
+        +'</div>';
+      next.textContent="Continuar";
+      next.onclick=()=>{
+        renderReaderOnboardingStep(2);
+        playUiPop();
+      };
+    }else{
+      body.innerHTML='<div class="reader-onboarding-kicker">Controles de leitura</div>'
+        +'<h2>Áudio e aparência</h2>'
+        +'<p class="sheet-hint">Na leitura, estes controles ficam sempre por perto:</p>'
+        +'<div class="reader-onboarding-grid">'
+        +'<div class="reader-onboarding-item">'+onboardingIcon("narration")+'<div><strong>Narração</strong><span>▶ inicia a narração e ❚❚ pausa. Enquanto ela toca, a música de fundo abaixa automaticamente.</span></div></div>'
+        +'<div class="reader-onboarding-item">'+onboardingIcon("music")+'<div><strong>Música</strong><span>A nota musical liga ou pausa a trilha do capítulo.</span></div></div>'
+        +'<div class="reader-onboarding-item">'+onboardingIcon("appearance")+'<div><strong>Aa</strong><span>Ajuste tema, fonte e tamanho do texto.</span></div></div>'
+        +'</div>';
+      next.textContent="Começar a ler";
+      next.onclick=()=>{
+        localStorage.setItem(READER_ONBOARDING_KEY,"1");
+        el.hidden=true;
+      };
+    }
+
     el.hidden=false;
   }
+
+  function showReaderOnboarding(){
+    if(admin()||!name()||localStorage.getItem(READER_ONBOARDING_KEY))return;
+    renderReaderOnboardingStep(1);
+    playUiPop();
+  }
+
+  // Destrava o AudioContext ainda no gesto que leva o leitor ao capítulo,
+  // para que o primeiro POP não seja bloqueado depois por autoplay.
+  document.addEventListener("pointerdown",armUiPopAudio,{once:true,capture:true});
+
 
   function render(){
     if(!active)return;
@@ -1092,7 +1185,7 @@ const Comments = (() => {
     if(!enabled)return;active={bookId,chapterN,containerEl,notesEl};
     try{const d=await db.collection("config").doc("settings").get();showAll=d.exists&&!!d.data().showAllComments;}catch(e){}
     await load(bookId);subscribe(bookId);render();
-    setTimeout(showParagraphFeedbackIntro,180);
+    setTimeout(showReaderOnboarding,180);
   }
 
   return {
