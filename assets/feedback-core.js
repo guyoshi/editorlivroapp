@@ -1,10 +1,9 @@
 // Beta feedback v2: threaded comments + paragraph reactions
 const Comments = (() => {
-  const NAME_KEY="jesed:username", USER_KEY="jesed:readerId", ACCESS_KEY="jesed:readerAccessCode", ADMIN_KEY="jesed:isAdmin";
+  const NAME_KEY="jesed:username", USER_KEY="jesed:readerId", ACCESS_KEY="jesed:readerAccessCode";
   const PROFILE_COLLECTION="readerProfiles";
-  const ADMIN_HASH="117ccff39696ab27035b58ff732b2c5e61b399e7a366b38c3276eb04302521f7";
   const EMOJIS=["😍","😂","😱","😢","🤔"];
-  let db=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null;
+  let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false;
   const cCache={}, rCache={};
 
   const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
@@ -25,7 +24,7 @@ const Comments = (() => {
   function hashText(s){let h=2166136261;for(const ch of norm(s)){h^=ch.charCodeAt(0);h=Math.imul(h,16777619);}return (h>>>0).toString(36);}
   function uid(){let id=localStorage.getItem(USER_KEY);if(!id){id=(crypto.randomUUID?crypto.randomUUID():"r_"+Date.now().toString(36)+Math.random().toString(36).slice(2));localStorage.setItem(USER_KEY,id);}return id;}
   const name=()=>String(localStorage.getItem(NAME_KEY)||"").trim();
-  const admin=()=>localStorage.getItem(ADMIN_KEY)==="1";
+  const admin=()=>!!adminUser;
   const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const when=t=>t?new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"";
   function pInfo(block){const p=block.querySelector("p");const raw=p?p.textContent:block.textContent;const q=norm(raw);return {key:"p_"+hashText(q),quote:q.slice(0,220)};}
@@ -77,7 +76,19 @@ const Comments = (() => {
 
   function init(){
     if(window.FIREBASE_CONFIG&&window.firebase){
-      try{if(!firebase.apps.length)firebase.initializeApp(window.FIREBASE_CONFIG);db=firebase.firestore();enabled=true;}catch(e){console.warn(e);}
+      try{
+        if(!firebase.apps.length)firebase.initializeApp(window.FIREBASE_CONFIG);
+        db=firebase.firestore();enabled=true;
+        if(firebase.auth){
+          auth=firebase.auth();
+          auth.onAuthStateChanged(u=>{
+            adminUser=u||null;
+            authReady=true;
+            document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:admin()}}));
+            render();
+          });
+        }
+      }catch(e){console.warn(e);}
     }
     uid(); wireName(); wireSettings();
     if(name()) ensureAccessProfile().catch(e=>console.warn("Perfil portátil indisponível:",e));
@@ -137,9 +148,16 @@ const Comments = (() => {
     }
     settings?.addEventListener("click",()=>{n.value=name();refresh();});
     toggle?.addEventListener("click",async()=>{
-      if(admin()){localStorage.removeItem(ADMIN_KEY);await refresh();render();return;}
+      if(!auth){alert("Login de admin indisponível neste momento.");return;}
+      if(admin()){await auth.signOut();await refresh();render();return;}
+      const email=prompt("E-mail de admin:"); if(!email)return;
       const pass=prompt("Senha de admin:"); if(pass===null)return;
-      if(await sha256(pass)===ADMIN_HASH){localStorage.setItem(ADMIN_KEY,"1");await refresh();render();}else alert("Senha incorreta.");
+      try{
+        await auth.signInWithEmailAndPassword(email.trim(),pass);
+        await refresh();render();
+      }catch(e){
+        alert("Não foi possível entrar: "+(e.message||"confira e-mail e senha."));
+      }
     });
     save?.addEventListener("click",async()=>{
       if(n.value.trim()){
