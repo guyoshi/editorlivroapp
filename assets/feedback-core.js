@@ -120,7 +120,7 @@ const Comments = (() => {
     return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("");
   }
 
-  async function ensureAccessProfile(){
+  async function ensureAccessProfile(initialBookId){
     if(!enabled||!db||!name()) return null;
     let code=accessCode();
     if(!code){
@@ -137,7 +137,13 @@ const Comments = (() => {
       name:name(),
       updatedAt:Date.now()
     };
-    if(!exists) payload.createdAt=Date.now();
+    if(!exists){
+      payload.createdAt=Date.now();
+      if(initialBookId){
+        payload.allowedBooks=[String(initialBookId)];
+        payload.initialBookId=String(initialBookId);
+      }
+    }
     await ref.set(payload,{merge:true});
     return code;
   }
@@ -220,17 +226,63 @@ const Comments = (() => {
     const sheet=document.getElementById("nameSheet"),input=document.getElementById("nameInput"),save=document.getElementById("nameSave");
     const useCode=document.getElementById("nameUseCode"),codeBox=document.getElementById("nameCodeBox");
     const codeInput=document.getElementById("nameCodeInput"),codeLogin=document.getElementById("nameCodeLogin"),codeStatus=document.getElementById("nameCodeStatus");
+    const bookField=document.getElementById("initialBookField"),bookPicker=document.getElementById("initialBookPicker");
     if(!sheet||!input||!save)return;
-    if(!name())sheet.hidden=false;
+    if(!name()){
+      sheet.hidden=false;
+      loadInitialBooks();
+    }
+
+    async function loadInitialBooks(){
+      if(!bookPicker)return;
+      save.disabled=true;
+      try{
+        const res=await fetch("data/books.json",{cache:"no-cache"});
+        if(!res.ok)throw new Error("Não foi possível carregar os livros.");
+        const books=(await res.json()).books||[];
+        if(!books.length)throw new Error("Nenhum livro está disponível no momento.");
+        bookPicker.innerHTML=books.map(book=>
+          '<label class="initial-book-option">'+
+            '<input type="radio" name="initialBook" value="'+esc(book.id)+'">'+
+            '<span><strong>'+esc(book.title||"Livro")+'</strong><small>'+esc(book.subtitle||"")+'</small></span>'+
+          '</label>'
+        ).join("");
+        bookPicker.querySelectorAll('input[name="initialBook"]').forEach(radio=>{
+          radio.addEventListener("change",()=>{
+            save.disabled=false;
+            bookPicker.querySelectorAll(".initial-book-option").forEach(option=>option.classList.toggle("selected",!!option.querySelector("input:checked")));
+          });
+        });
+      }catch(e){
+        bookPicker.innerHTML='<p class="initial-book-status error">'+esc(e.message||"Não foi possível carregar os livros.")+'</p>';
+      }
+    }
 
     const go=async()=>{
       const v=input.value.trim();
       if(!v)return input.focus();
       const isNew=!name();
+      const initialBook=bookPicker?.querySelector('input[name="initialBook"]:checked')?.value||"";
+      if(isNew&&!initialBook){
+        bookPicker?.querySelector("input")?.focus();
+        return;
+      }
+      save.disabled=true;
       localStorage.setItem(NAME_KEY,v);
       // perfil novo: não precisa ver recados antigos, só os futuros
       if(isNew&&!localStorage.getItem(SEEN_ANNOUNCE_KEY))localStorage.setItem(SEEN_ANNOUNCE_KEY,String(Date.now()));
-      try{await ensureAccessProfile();}catch(e){console.warn("Não foi possível registrar o código de acesso:",e);}
+      try{
+        const code=await ensureAccessProfile(initialBook);
+        if(!code)throw new Error("Não foi possível criar o perfil agora.");
+      }catch(e){
+        if(isNew)localStorage.removeItem(NAME_KEY);
+        console.warn("Não foi possível registrar o código de acesso:",e);
+        const previous=bookPicker?.querySelector(".initial-book-status.error");
+        if(previous)previous.remove();
+        bookPicker?.insertAdjacentHTML("beforeend",'<p class="initial-book-status error">Não foi possível criar o perfil. Confira sua conexão e tente novamente.</p>');
+        save.disabled=false;
+        return;
+      }
       sheet.hidden=true;
       document.dispatchEvent(new CustomEvent("beta:profile-ready"));
       const code=accessCode();
@@ -241,6 +293,8 @@ const Comments = (() => {
 
     useCode?.addEventListener("click",()=>{
       codeBox.hidden=false;
+      if(bookField)bookField.hidden=true;
+      save.hidden=true;
       codeInput?.focus();
     });
     codeLogin?.addEventListener("click",async()=>{

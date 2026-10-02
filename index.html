@@ -196,8 +196,15 @@
         <span>Seu nome</span>
         <input id="nameInput" type="text" placeholder="ex.: Gui" maxlength="40">
       </label>
+      <fieldset id="initialBookField" class="initial-book-field">
+        <legend>Qual livro você quer ler primeiro?</legend>
+        <p class="sheet-hint">Você começa com um livro. O autor poderá liberar outros para você depois.</p>
+        <div id="initialBookPicker" class="initial-book-picker" aria-live="polite">
+          <p class="initial-book-status">Carregando os livros…</p>
+        </div>
+      </fieldset>
       <div class="sheet-actions">
-        <button id="nameSave" class="btn-primary">Criar meu perfil</button>
+        <button id="nameSave" class="btn-primary" disabled>Criar meu perfil</button>
         <button id="nameUseCode" class="btn-ghost" type="button">Já tenho um código</button>
       </div>
       <div id="nameCodeBox" class="reader-code-login" hidden>

@@ -15,11 +15,22 @@
 
   function ensureButton(){
     const box=document.getElementById("adminBox");
-    if(!box||document.getElementById("btnCommentDashboard"))return;
+    if(!box||document.getElementById("btnAuthorDashboard"))return;
     const b=document.createElement("button");
-    b.id="btnCommentDashboard";b.type="button";b.className="admin-comments-btn";
-    b.innerHTML='<span>Central de comentários</span><span id="adminNewCount" class="admin-new-count" hidden></span>';
-    b.onclick=show;box.appendChild(b);
+    b.id="btnAuthorDashboard";b.type="button";b.className="admin-comments-btn";
+    b.innerHTML='<span>Painel do autor</span><span id="adminNewCount" class="admin-new-count" hidden></span>';
+    b.onclick=showAdminHome;box.appendChild(b);
+  }
+
+  function ensureAdminHome(){
+    if(document.getElementById("authorAdminSheet"))return;
+    const el=document.createElement("div");el.id="authorAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
+    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Gerencie leitores e comentários em áreas separadas.</p></div><button id="authorAdminClose" class="icon-btn" type="button">✕</button></header><div class="admin-home-grid"><button id="openReaderAccess" class="admin-home-card" type="button"><strong>Leitores e acessos</strong><span>Libere novos livros para cada leitor.</span></button><button id="openCommentDashboard" class="admin-home-card" type="button"><strong>Comentários</strong><span>Leia e responda ao feedback dos capítulos.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button></div></section>';
+    document.body.appendChild(el);
+    el.querySelector("#authorAdminClose").onclick=hideAdminHome;
+    el.querySelector("#openReaderAccess").onclick=()=>{hideAdminHome();showAccess();};
+    el.querySelector("#openCommentDashboard").onclick=()=>{hideAdminHome();show();};
+    el.onclick=e=>{if(e.target===el)hideAdminHome();};
   }
 
   function ensureSheet(){
@@ -44,8 +55,10 @@
   }
   function stop(){unsub?.();unsub=null;all=[];badge();}
   function badge(){
-    const x=document.getElementById("adminNewCount");if(!x)return;
-    const n=roots().filter(r=>!r.adminSeen).length;x.hidden=!n;x.textContent=n>99?"99+":String(n);
+    const n=roots().filter(r=>!r.adminSeen).length;
+    [document.getElementById("adminNewCount"),document.getElementById("adminHomeNewCount")].forEach(x=>{
+      if(!x)return;x.hidden=!n;x.textContent=n>99?"99+":String(n);
+    });
   }
 
   function fill(sel,vals,current,label){
@@ -100,10 +113,12 @@
 
   function show(){if(!Comments?.isAdmin?.())return;ensureSheet();subscribe();document.getElementById("commentAdminSheet").hidden=false;open=true;render();}
   function hide(){const x=document.getElementById("commentAdminSheet");if(x)x.hidden=true;open=false;}
+  function showAdminHome(){if(!Comments?.isAdmin?.())return;ensureAdminHome();subscribe();document.getElementById("authorAdminSheet").hidden=false;badge();}
+  function hideAdminHome(){const x=document.getElementById("authorAdminSheet");if(x)x.hidden=true;}
 
   // ---------------- Acesso aos livros ----------------
-  // Controle de quais livros cada leitor pode ver. Leitor novo começa sem
-  // nenhum liberado; o admin marca aqui quais aparecem pra ele.
+  // Cada leitor escolhe o primeiro livro ao criar o perfil. O admin usa
+  // esta área separada para liberar (ou remover) os próximos.
   let booksCache=null;
   async function getBooksList(){
     if(booksCache)return booksCache;
@@ -115,19 +130,10 @@
     return booksCache;
   }
 
-  function ensureAccessButton(){
-    const box=document.getElementById("adminBox");
-    if(!box||document.getElementById("btnBookAccess"))return;
-    const b=document.createElement("button");
-    b.id="btnBookAccess";b.type="button";b.className="admin-comments-btn";
-    b.innerHTML="<span>Acesso aos livros</span>";
-    b.onclick=showAccess;box.appendChild(b);
-  }
-
   function ensureAccessSheet(){
     if(document.getElementById("bookAccessSheet"))return;
     const el=document.createElement("div");el.id="bookAccessSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Acesso aos livros</h2><p>Leitor novo começa sem nenhum livro liberado. Marque aqui quais cada um pode ler.</p></div><button id="accessDashClose" class="icon-btn" type="button">✕</button></header><div id="bookAccessList" class="admin-dashboard-list"></div></section>';
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Leitores e acessos</h2><p>Cada leitor escolhe o primeiro livro. Marque outros para ampliar a biblioteca dele.</p></div><button id="accessDashClose" class="icon-btn" type="button">✕</button></header><div id="bookAccessList" class="admin-dashboard-list"></div></section>';
     document.body.appendChild(el);
     el.querySelector("#accessDashClose").onclick=hideAccess;
     el.onclick=e=>{if(e.target===el)hideAccess();};
@@ -139,7 +145,7 @@
     list.innerHTML='<p class="admin-empty">Carregando…</p>';
     const [profiles,books]=await Promise.all([Comments.listReaderProfiles(),getBooksList()]);
     if(!books.length){list.innerHTML='<p class="admin-empty">Nenhum livro cadastrado ainda.</p>';return;}
-    if(!profiles.length){list.innerHTML='<p class="admin-empty">Nenhum leitor com perfil ainda. Peça pra pessoa abrir o app e definir um nome primeiro.</p>';return;}
+    if(!profiles.length){list.innerHTML='<p class="admin-empty">Nenhum leitor com perfil ainda. Quando alguém criar o perfil e escolher o primeiro livro, aparecerá aqui.</p>';return;}
     list.innerHTML=profiles.map(p=>{
       const label=esc(p.name||"Anônimo")+" · #"+shortId(p.readerId);
       const allowed=Array.isArray(p.allowedBooks)?p.allowedBooks:[];
@@ -165,6 +171,6 @@
   function showAccess(){if(!Comments?.isAdmin?.())return;ensureAccessSheet();document.getElementById("bookAccessSheet").hidden=false;renderAccess();}
   function hideAccess(){const x=document.getElementById("bookAccessSheet");if(x)x.hidden=true;}
 
-  document.addEventListener("beta:admin",e=>{ensureButton();ensureAccessButton();if(e.detail?.on)subscribe();else{stop();hide();hideAccess();}});
-  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureSheet();ensureAccessButton();if(Comments?.isAdmin?.())subscribe();});
+  document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on)subscribe();else{stop();hide();hideAccess();hideAdminHome();}});
+  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureSheet();ensureAccessSheet();if(Comments?.isAdmin?.())subscribe();});
 })();
