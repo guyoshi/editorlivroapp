@@ -1,12 +1,27 @@
 // Beta feedback v2: threaded comments + paragraph reactions
 const Comments = (() => {
-  const NAME_KEY="jesed:username", USER_KEY="jesed:readerId", ADMIN_KEY="jesed:isAdmin";
+  const NAME_KEY="jesed:username", USER_KEY="jesed:readerId", ACCESS_KEY="jesed:readerAccessCode", ADMIN_KEY="jesed:isAdmin";
+  const PROFILE_COLLECTION="readerProfiles";
   const ADMIN_HASH="117ccff39696ab27035b58ff732b2c5e61b399e7a366b38c3276eb04302521f7";
   const EMOJIS=["😍","😂","😱","😢","🤔"];
   let db=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null;
   const cCache={}, rCache={};
 
   const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
+  const ACCESS_ALPHABET="ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
+  function normalizeAccessCode(v){return String(v||"").toUpperCase().replace(/[^A-Z0-9]/g,"");}
+  function formatAccessCode(v){
+    const clean=normalizeAccessCode(v);
+    return clean.match(/.{1,4}/g)?.join("-")||"";
+  }
+  function generateAccessCode(){
+    const bytes=new Uint8Array(20);
+    crypto.getRandomValues(bytes);
+    let out="";
+    for(const b of bytes) out+=ACCESS_ALPHABET[b%ACCESS_ALPHABET.length];
+    return formatAccessCode(out);
+  }
+  function accessCode(){return formatAccessCode(localStorage.getItem(ACCESS_KEY)||"");}
   function hashText(s){let h=2166136261;for(const ch of norm(s)){h^=ch.charCodeAt(0);h=Math.imul(h,16777619);}return (h>>>0).toString(36);}
   function uid(){let id=localStorage.getItem(USER_KEY);if(!id){id=(crypto.randomUUID?crypto.randomUUID():"r_"+Date.now().toString(36)+Math.random().toString(36).slice(2));localStorage.setItem(USER_KEY,id);}return id;}
   const name=()=>String(localStorage.getItem(NAME_KEY)||"").trim();
@@ -23,19 +38,88 @@ const Comments = (() => {
     return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("");
   }
 
+  async function ensureAccessProfile(){
+    if(!enabled||!db||!name()) return null;
+    let code=accessCode();
+    if(!code){
+      code=generateAccessCode();
+      localStorage.setItem(ACCESS_KEY,code);
+    }
+    const codeHash=await sha256(normalizeAccessCode(code));
+    const ref=db.collection(PROFILE_COLLECTION).doc(codeHash);
+    let exists=false;
+    try{exists=(await ref.get()).exists;}catch(e){}
+    const payload={
+      readerId:uid(),
+      name:name(),
+      updatedAt:Date.now()
+    };
+    if(!exists) payload.createdAt=Date.now();
+    await ref.set(payload,{merge:true});
+    return code;
+  }
+
+  async function loginWithCode(rawCode){
+    if(!enabled||!db) throw new Error("O login por código está indisponível neste momento.");
+    const clean=normalizeAccessCode(rawCode);
+    if(clean.length!==20) throw new Error("Confira o código. Ele deve ter 20 caracteres.");
+    const codeHash=await sha256(clean);
+    const doc=await db.collection(PROFILE_COLLECTION).doc(codeHash).get();
+    if(!doc.exists) throw new Error("Código não encontrado.");
+    const profile=doc.data()||{};
+    if(!profile.readerId||!profile.name) throw new Error("Este perfil está incompleto.");
+    localStorage.setItem(USER_KEY,String(profile.readerId));
+    localStorage.setItem(NAME_KEY,String(profile.name));
+    localStorage.setItem(ACCESS_KEY,formatAccessCode(clean));
+    document.dispatchEvent(new CustomEvent("beta:profile-login",{detail:{readerId:profile.readerId,name:profile.name}}));
+    return {readerId:profile.readerId,name:profile.name,accessCode:formatAccessCode(clean)};
+  }
+
   function init(){
     if(window.FIREBASE_CONFIG&&window.firebase){
       try{if(!firebase.apps.length)firebase.initializeApp(window.FIREBASE_CONFIG);db=firebase.firestore();enabled=true;}catch(e){console.warn(e);}
     }
     uid(); wireName(); wireSettings();
+    if(name()) ensureAccessProfile().catch(e=>console.warn("Perfil portátil indisponível:",e));
   }
 
   function wireName(){
     const sheet=document.getElementById("nameSheet"),input=document.getElementById("nameInput"),save=document.getElementById("nameSave");
+    const useCode=document.getElementById("nameUseCode"),codeBox=document.getElementById("nameCodeBox");
+    const codeInput=document.getElementById("nameCodeInput"),codeLogin=document.getElementById("nameCodeLogin"),codeStatus=document.getElementById("nameCodeStatus");
     if(!sheet||!input||!save)return;
     if(!name())sheet.hidden=false;
-    const go=()=>{const v=input.value.trim();if(!v)return input.focus();localStorage.setItem(NAME_KEY,v);sheet.hidden=true;};
-    save.addEventListener("click",go);input.addEventListener("keydown",e=>{if(e.key==="Enter")go();});
+
+    const go=async()=>{
+      const v=input.value.trim();
+      if(!v)return input.focus();
+      localStorage.setItem(NAME_KEY,v);
+      try{await ensureAccessProfile();}catch(e){console.warn("Não foi possível registrar o código de acesso:",e);}
+      sheet.hidden=true;
+      document.dispatchEvent(new CustomEvent("beta:profile-ready"));
+    };
+    save.addEventListener("click",go);
+    input.addEventListener("keydown",e=>{if(e.key==="Enter")go();});
+
+    useCode?.addEventListener("click",()=>{
+      codeBox.hidden=false;
+      codeInput?.focus();
+    });
+    codeLogin?.addEventListener("click",async()=>{
+      if(!codeInput?.value.trim()) return codeInput?.focus();
+      codeLogin.disabled=true;
+      if(codeStatus){codeStatus.textContent="Entrando…";codeStatus.classList.remove("error");}
+      try{
+        const profile=await loginWithCode(codeInput.value);
+        if(codeStatus)codeStatus.textContent="Perfil encontrado: "+profile.name;
+        location.reload();
+      }catch(e){
+        if(codeStatus){codeStatus.textContent=e.message||"Não foi possível entrar.";codeStatus.classList.add("error");}
+      }finally{
+        codeLogin.disabled=false;
+      }
+    });
+    codeInput?.addEventListener("keydown",e=>{if(e.key==="Enter")codeLogin?.click();});
   }
 
   function wireSettings(){
@@ -58,8 +142,12 @@ const Comments = (() => {
       if(await sha256(pass)===ADMIN_HASH){localStorage.setItem(ADMIN_KEY,"1");await refresh();render();}else alert("Senha incorreta.");
     });
     save?.addEventListener("click",async()=>{
-      if(n.value.trim())localStorage.setItem(NAME_KEY,n.value.trim());
+      if(n.value.trim()){
+        localStorage.setItem(NAME_KEY,n.value.trim());
+        try{await ensureAccessProfile();}catch(e){console.warn("Não foi possível atualizar o perfil portátil:",e);}
+      }
       if(admin()&&enabled){showAll=!!all.checked;await db.collection("config").doc("settings").set({showAllComments:showAll},{merge:true});render();}
+      document.dispatchEvent(new CustomEvent("beta:profile-ready"));
     });
     refresh();
   }
@@ -174,7 +262,8 @@ const Comments = (() => {
   }
 
   return {
-    init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,hashText,
+    init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,getAccessCode:accessCode,
+    loginWithCode,ensureAccessProfile,hashText,
     getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen
   };
 })();

@@ -505,3 +505,40 @@ body.reader-hub-open{ overflow:hidden; }
 @media(max-width:520px){
   .reader-hub-stats{ grid-template-columns:repeat(2,1fr); }
 }
+
+
+/* ================= Perfil portátil / código de acesso ================= */
+.reader-access-card{
+  margin:10px 12px 0; padding:11px 12px; border:1px solid var(--line);
+  border-radius:13px; background:var(--bg-elev);
+  display:flex; align-items:center; justify-content:space-between; gap:12px;
+}
+.reader-access-copy{ min-width:0; display:flex; flex-direction:column; gap:3px; }
+.reader-access-copy>span{
+  font-size:.64rem; color:var(--ink-soft); text-transform:uppercase;
+  letter-spacing:.05em; font-weight:700;
+}
+.reader-access-copy strong{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-size:.94rem; letter-spacing:.06em; overflow-wrap:anywhere;
+}
+.reader-access-copy small{ color:var(--ink-soft); font-size:.64rem; line-height:1.35; }
+.reader-access-actions{ display:flex; flex-direction:column; gap:5px; flex:0 0 auto; }
+.reader-access-actions button{
+  border:1px solid var(--line); border-radius:8px; background:var(--focus-bg);
+  color:var(--ink); font:inherit; font-size:.67rem; font-weight:700;
+  padding:7px 9px; cursor:pointer; white-space:nowrap;
+}
+.reader-code-login{
+  margin-top:14px; padding-top:14px; border-top:1px solid var(--line);
+}
+.reader-code-login[hidden]{ display:none; }
+.reader-code-login .btn-primary{ width:100%; margin-top:4px; }
+.reader-code-status{ min-height:1.2em; margin:7px 0 0; font-size:.72rem; color:var(--ink-soft); }
+.reader-code-status.error{ color:#b63f3f; }
+
+@media(max-width:560px){
+  .reader-access-card{ align-items:stretch; flex-direction:column; }
+  .reader-access-actions{ flex-direction:row; }
+  .reader-access-actions button{ flex:1; white-space:normal; }
+}
