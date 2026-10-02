@@ -926,3 +926,75 @@ body.reader-hub-open{ overflow:hidden; }
 
 /* No modo foco, nenhuma ferramenta editorial aparece. */
 body.focus-mode .para-actions{ display:none !important; }
+
+
+/* ---------- onboarding visual do leitor ---------- */
+.reader-onboarding-card{
+  max-width:620px;
+  margin:0 auto;
+}
+.reader-onboarding-kicker{
+  margin-bottom:8px;
+  color:var(--accent);
+  font-size:.72rem;
+  font-weight:800;
+  letter-spacing:.06em;
+  text-transform:uppercase;
+}
+.reader-onboarding-grid{
+  display:grid;
+  gap:10px;
+  margin:14px 0 4px;
+}
+.reader-onboarding-item{
+  display:grid;
+  grid-template-columns:46px 1fr;
+  align-items:center;
+  gap:11px;
+  padding:10px 11px;
+  border:1px solid var(--line);
+  border-radius:12px;
+  background:var(--focus-bg);
+}
+.reader-onboarding-item>div:last-child{
+  display:flex;
+  flex-direction:column;
+  gap:2px;
+  min-width:0;
+}
+.reader-onboarding-item strong{
+  font-size:.84rem;
+  color:var(--ink);
+}
+.reader-onboarding-item span:not(.reader-onboarding-icon){
+  font-size:.76rem;
+  line-height:1.42;
+  color:var(--ink-soft);
+}
+.reader-onboarding-icon{
+  width:42px;
+  height:42px;
+  border-radius:50%;
+  border:1px solid var(--line);
+  background:var(--bg-elev);
+  color:var(--ink-soft);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex:0 0 auto;
+}
+.reader-onboarding-icon.accent{
+  background:var(--accent);
+  color:var(--accent-ink);
+  border-color:var(--accent);
+}
+.reader-onboarding-icon svg{
+  width:22px;
+  height:22px;
+}
+.reader-onboarding-icon.text-icon{
+  font-family:Georgia,serif;
+  font-size:.95rem;
+  font-weight:700;
+  color:var(--ink);
+}
