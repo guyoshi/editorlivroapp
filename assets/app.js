@@ -90,6 +90,13 @@ function renderBookView(){
 
   $("#bookTitle").textContent = meta.title;
   $("#bookSubtitle").textContent = meta.subtitle || "";
+  const coverImg = $("#bookCoverImg");
+  if(coverImg){
+    coverImg.hidden = true;
+    coverImg.onload = () => { coverImg.hidden = false; };
+    coverImg.onerror = () => { coverImg.hidden = true; };
+    coverImg.src = coverUrl(book.id);
+  }
 
   const lastCh = Number(localStorage.getItem(LASTCH_KEY(book.id)) || -1);
   const prog = bookProgress(book);
