@@ -14,7 +14,7 @@ const Comments = (() => {
   const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const when=t=>t?new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"";
   function pInfo(block){const p=block.querySelector("p");const raw=p?p.textContent:block.textContent;const q=norm(raw);return {key:"p_"+hashText(q),quote:q.slice(0,220)};}
-  function loc(x,ch,i,key){if(x.chapter!==ch)return false;if(key&&x.paragraphKey)return x.paragraphKey===key;return Number(x.paraIdx)===Number(i);}
+  function loc(x,ch,i,key){if(Number(x.chapter)!==Number(ch))return false;if(key&&x.paragraphKey&&x.paragraphKey===key)return true;return Number(x.paraIdx)===Number(i);}
   function own(x){return admin()||(x.authorId?x.authorId===uid():norm(x.author)===norm(name()));}
   function rootVisible(x){return admin()||showAll||(x.authorId?x.authorId===uid():norm(x.author)===norm(name()));}
 
