@@ -31,6 +31,25 @@
   const usageQueue=[];
 
   const now=()=>Date.now();
+  const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+  // Mesma janela curta de "cold start" do Firestore logo após abrir o app
+  // (às vezes a primeira escrita cruzando coleções esbarra em permission-denied
+  // mesmo com as Rules corretas). Tentamos de novo antes de desistir, em vez
+  // de perder a métrica silenciosamente.
+  async function commitWithRetry(batch){
+    const attempts=[0,1500,4000];
+    let lastErr=null;
+    for(let i=0;i<attempts.length;i++){
+      if(attempts[i])await sleep(attempts[i]);
+      try{
+        await batch.commit();
+        return true;
+      }catch(e){
+        lastErr=e;
+      }
+    }
+    throw lastErr;
+  }
   const chapterKey=ctx=>ctx ? String(ctx.bookId)+":"+String(ctx.chapter) : "";
   const chapterDocId=ctx=>String(ctx.bookId).replace(/[^a-zA-Z0-9_-]/g,"_")+"__"+String(ctx.chapter);
 
@@ -93,7 +112,7 @@
       const chapterRef=summaryRef.collection("chapters").doc(chapterDocId(ctx));
       batch.set(chapterRef,{...chapterBase(id,ctx,stamp),...chapterFields},{merge:true});
     }
-    await batch.commit();
+    await commitWithRetry(batch);
     return true;
   }
 
@@ -161,7 +180,7 @@
         const batch=store.batch();
         batch.set(summaryRef,summary,{merge:true});
         batch.set(chapterRef,chapter,{merge:true});
-        await batch.commit();
+        await commitWithRetry(batch);
         usageQueue.shift();
       }
     }catch(e){

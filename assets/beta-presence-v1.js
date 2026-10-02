@@ -21,6 +21,7 @@
   let pending=false;
 
   const now=()=>Date.now();
+  const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 
   function identity(){
     const readerId=String(localStorage.getItem(USER_KEY)||"").trim();
@@ -65,14 +66,22 @@
     const store=db(),data=payload();
     if(!store||!data)return;
     writing=true;
-    try{
-      await store.collection("readerPresence").doc(data.readerId).set(data,{merge:true});
-    }catch(e){
-      console.warn("Não foi possível sincronizar presença do leitor:",e);
-    }finally{
-      writing=false;
-      if(pending){pending=false;writePresence();}
+    // Mesma janela curta de "cold start" do Firestore logo após abrir o app:
+    // a primeira escrita cruzando coleções às vezes esbarra em
+    // permission-denied mesmo com as Rules corretas. Tenta de novo antes de
+    // desistir, em vez de deixar o leitor sumir do painel de presença.
+    const attempts=[0,1500,4000];
+    for(let i=0;i<attempts.length;i++){
+      if(attempts[i])await sleep(attempts[i]);
+      try{
+        await store.collection("readerPresence").doc(data.readerId).set(data,{merge:true});
+        break;
+      }catch(e){
+        if(i===attempts.length-1)console.warn("Não foi possível sincronizar presença do leitor:",e);
+      }
     }
+    writing=false;
+    if(pending){pending=false;writePresence();}
   }
 
   function scheduleWrite(delay=350){
