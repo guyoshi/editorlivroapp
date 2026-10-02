@@ -698,6 +698,7 @@ const Comments = (() => {
     const sheet=document.getElementById("nameSheet"),input=document.getElementById("nameInput"),save=document.getElementById("nameSave");
     const useCode=document.getElementById("nameUseCode"),adminLogin=document.getElementById("nameAdminLogin"),codeBox=document.getElementById("nameCodeBox");
     const codeInput=document.getElementById("nameCodeInput"),codeLogin=document.getElementById("nameCodeLogin"),codeStatus=document.getElementById("nameCodeStatus");
+    const codeBack=document.getElementById("nameCodeBack");
     const bookField=document.getElementById("initialBookField"),bookPicker=document.getElementById("initialBookPicker");
     if(!sheet||!input||!save)return;
     if(!name()){
@@ -777,6 +778,8 @@ const Comments = (() => {
       if(codeBox)codeBox.hidden=true;
       if(bookField)bookField.hidden=false;
       save.hidden=false;
+      if(useCode)useCode.hidden=false;
+      if(adminLogin)adminLogin.hidden=false;
       if(codeStatus){
         codeStatus.textContent="";
         codeStatus.classList.remove("error");
@@ -788,7 +791,13 @@ const Comments = (() => {
       codeBox.hidden=false;
       if(bookField)bookField.hidden=true;
       save.hidden=true;
+      useCode.hidden=true;
+      if(adminLogin)adminLogin.hidden=true;
       codeInput?.focus();
+    });
+    codeBack?.addEventListener("click",()=>{
+      resetNameChoice();
+      input.focus();
     });
     adminLogin?.addEventListener("click",()=>{
       resetNameChoice();

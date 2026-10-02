@@ -504,6 +504,18 @@ body.focus-mode .focus-exit{ display:flex; }
   display:flex; align-items:flex-end; z-index:20;
 }
 .sheet[hidden]{ display:none; }
+/* Popups de recado do autor (gerais ou individuais) ficam no topo e centralizados,
+   em vez do padrão de bottom-sheet usado pelos outros painéis. */
+#announceSheet,
+#targetedPopupSheet{
+  align-items:flex-start; justify-content:center;
+  padding:max(18px, env(safe-area-inset-top)) 16px 16px;
+}
+#announceSheet .sheet-card,
+#targetedPopupSheet .sheet-card{
+  width:100%; max-width:420px; border-radius:18px;
+  padding:20px 20px 20px;
+}
 .sheet-card{
   background:var(--bg-elev); width:100%; border-radius:18px 18px 0 0;
   max-height:92dvh; overflow-y:auto;
