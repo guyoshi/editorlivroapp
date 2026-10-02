@@ -36,11 +36,21 @@
         <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
           <path fill="currentColor" d="M9 11a4 4 0 100-8 4 4 0 000 8zm0 2c-4.42 0-7 2.17-7 5v1h9.1a6.9 6.9 0 01-.1-1 7 7 0 011.27-4.03A10.96 10.96 0 009 13zm8-2v2.17A3 3 0 1019.83 16H22a5 5 0 11-5-5zm0-3l-4 4 4 4v-3h4v-2h-4V8z"/>
         </svg>
-        <span id="adminNewCount" class="reader-hub-launch-badge" hidden></span>
       </button>
     </header>
     <p class="brand-sub">Biblioteca</p>
     <p id="readerIdentityBar" class="reader-identity-bar" hidden></p>
+
+    <div id="authorAdminHomeBar" class="author-admin-home-bar" hidden>
+      <button id="btnAuthorAdmin" class="author-admin-home-btn" type="button">
+        <span class="author-admin-home-icon" aria-hidden="true">✒</span>
+        <span class="author-admin-home-copy">
+          <strong>Painel do Autor</strong>
+          <small>Leitores, mensagens e comentários</small>
+        </span>
+        <span id="adminNewCount" class="admin-new-count" hidden></span>
+      </button>
+    </div>
 
     <div id="bookList" class="book-list"></div>
   </section>
@@ -201,9 +211,10 @@
           <p class="initial-book-status">Carregando os livros…</p>
         </div>
       </fieldset>
-      <div class="sheet-actions">
+      <div class="sheet-actions name-sheet-actions">
         <button id="nameSave" class="btn-primary" disabled>Criar meu perfil</button>
         <button id="nameUseCode" class="btn-ghost" type="button">Já tenho um código</button>
+        <button id="nameAdminLogin" class="btn-ghost" type="button">Administrador</button>
       </div>
       <div id="nameCodeBox" class="reader-code-login" hidden>
         <label class="field">
