@@ -1,6 +1,29 @@
 // Admin dashboard for beta-reader feedback
 (() => {
   let all=[], unsub=null, open=false, lastItems=[];
+  let knownNewIds=null;
+  let notifyAudioCtx=null;
+
+  function playNewCommentSound(){
+    try{
+      const Ctx=window.AudioContext||window.webkitAudioContext;
+      if(!Ctx)return;
+      if(!notifyAudioCtx)notifyAudioCtx=new Ctx();
+      const ctx=notifyAudioCtx;
+      if(ctx.state==="suspended")ctx.resume().catch(()=>{});
+      const now=ctx.currentTime;
+      [880,1320].forEach((freq,i)=>{
+        const osc=ctx.createOscillator(),gain=ctx.createGain();
+        osc.type="sine";osc.frequency.value=freq;
+        const start=now+i*0.12;
+        gain.gain.setValueAtTime(0,start);
+        gain.gain.linearRampToValueAtTime(0.18,start+0.02);
+        gain.gain.exponentialRampToValueAtTime(0.0001,start+0.22);
+        osc.connect(gain);gain.connect(ctx.destination);
+        osc.start(start);osc.stop(start+0.24);
+      });
+    }catch(e){ /* som é só um extra, nunca deve travar o painel */ }
+  }
   const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
   const when=t=>t?new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"";
@@ -72,10 +95,18 @@
   function subscribe(){
     if(unsub||!Comments?.isAdmin?.()||!db())return;
     unsub=db().collection("comments").onSnapshot(s=>{
-      all=[];s.forEach(d=>all.push({id:d.id,...d.data()}));badge();if(open)render();
+      all=[];s.forEach(d=>all.push({id:d.id,...d.data()}));
+      const currentNewIds=new Set(roots().filter(r=>!r.adminSeen).map(r=>r.id));
+      if(knownNewIds){
+        let hasFresh=false;
+        currentNewIds.forEach(id=>{if(!knownNewIds.has(id))hasFresh=true;});
+        if(hasFresh)playNewCommentSound();
+      }
+      knownNewIds=currentNewIds;
+      badge();if(open)render();
     });
   }
-  function stop(){unsub?.();unsub=null;all=[];badge();}
+  function stop(){unsub?.();unsub=null;all=[];knownNewIds=null;badge();}
   function badge(){
     const n=roots().filter(r=>!r.adminSeen).length;
     [document.getElementById("adminNewCount"),document.getElementById("adminHomeNewCount")].forEach(x=>{

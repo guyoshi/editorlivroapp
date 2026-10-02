@@ -71,7 +71,7 @@
 
   function ensureInlineUi(){
     if(!$("#coverFeedbackCta")){
-      const host=$(".book-cover-hero");
+      const host=$("#bookProgress")||$(".book-cover-hero");
       if(host){
         const box=document.createElement("div");
         box.id="coverFeedbackCta";
