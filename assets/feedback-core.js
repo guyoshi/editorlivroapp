@@ -4,6 +4,7 @@ const Comments = (() => {
   const CODEHASH_KEY="jesed:readerCodeHash";
   const SEEN_ANNOUNCE_KEY="jesed:lastSeenAnnouncement";
   const PROFILE_COLLECTION="readerProfiles";
+  const ADMIN_COLLECTION="admins";
   const ANNOUNCE_COLLECTION="announcements";
   const EMOJIS=["😍","😂","😱","😢","🤔"];
   let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false;
@@ -31,6 +32,28 @@ const Comments = (() => {
   function uid(){let id=localStorage.getItem(USER_KEY);if(!id){id=(crypto.randomUUID?crypto.randomUUID():"r_"+Date.now().toString(36)+Math.random().toString(36).slice(2));localStorage.setItem(USER_KEY,id);}return id;}
   const name=()=>String(localStorage.getItem(NAME_KEY)||"").trim();
   const admin=()=>!!adminUser;
+  async function authorizedAdminUser(user){
+    if(!user||!db)return false;
+    try{
+      const snap=await db.collection(ADMIN_COLLECTION).doc(user.uid).get();
+      const data=snap.exists?(snap.data()||{}):null;
+      return !!data && data.disabled!==true;
+    }catch(e){
+      console.warn("Não foi possível validar a permissão de administrador:",e);
+      return false;
+    }
+  }
+  function emitAdminState(){
+    document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:admin()}}));
+    render();
+    updateIdentityBar();
+  }
+  async function applyAuthUser(user){
+    adminUser=(user&&await authorizedAdminUser(user))?user:null;
+    authReady=true;
+    emitAdminState();
+    return admin();
+  }
   const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const when=t=>t?new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"";
   function shortId(id){const v=String(id||"").replace(/[^a-z0-9]/gi,"").toUpperCase();return v?v.slice(-6):"LEGADO";}
@@ -252,11 +275,12 @@ const Comments = (() => {
         if(firebase.auth){
           auth=firebase.auth();
           auth.onAuthStateChanged(u=>{
-            adminUser=u||null;
-            authReady=true;
-            document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:admin()}}));
-            render();
-            updateIdentityBar();
+            applyAuthUser(u).catch(e=>{
+              console.warn("Falha ao validar sessão de administrador:",e);
+              adminUser=null;
+              authReady=true;
+              emitAdminState();
+            });
           });
         }
       }catch(e){console.warn(e);}
@@ -364,6 +388,131 @@ const Comments = (() => {
     codeInput?.addEventListener("keydown",e=>{if(e.key==="Enter")codeLogin?.click();});
   }
 
+  const ADMIN_EMAIL_KEY="jesed:lastAdminEmail";
+
+  function adminAuthMessage(e){
+    const code=String(e?.code||"");
+    if(code==="app/not-admin") return e.message||"Esta conta não está autorizada como administrador.";
+    if(code==="auth/invalid-credential"||code==="auth/user-not-found"||code==="auth/wrong-password") return "E-mail ou senha inválidos. Se não lembrar a senha, use “Esqueci a senha”.";
+    if(code==="auth/invalid-email") return "Digite um e-mail válido.";
+    if(code==="auth/user-disabled") return "Esta conta foi desativada no Firebase.";
+    if(code==="auth/too-many-requests") return "Muitas tentativas seguidas. Aguarde um pouco e tente novamente.";
+    if(code==="auth/operation-not-allowed") return "O login por e-mail e senha ainda não está habilitado no Firebase Authentication.";
+    if(code==="auth/network-request-failed") return "Falha de conexão. Confira a internet e tente novamente.";
+    return e?.message||"Não foi possível entrar no modo admin.";
+  }
+
+  function ensureAdminLoginSheet(){
+    let el=document.getElementById("adminLoginSheet");
+    if(el)return el;
+    el=document.createElement("div");
+    el.id="adminLoginSheet";
+    el.className="sheet";
+    el.hidden=true;
+    el.innerHTML='<div class="sheet-card">'
+      +'<h2>Entrar como administrador</h2>'
+      +'<p class="sheet-hint">Use a conta de administrador cadastrada no Firebase. Contas comuns não recebem acesso ao painel.</p>'
+      +'<label class="field"><span>E-mail</span><input id="adminLoginEmail" type="email" inputmode="email" autocomplete="username" placeholder="seu@email.com"></label>'
+      +'<label class="field"><span>Senha</span><input id="adminLoginPassword" type="password" autocomplete="current-password"></label>'
+      +'<p id="adminLoginStatus" class="reader-code-status" aria-live="polite"></p>'
+      +'<div class="sheet-actions">'
+      +'<button id="adminLoginSubmit" class="btn-primary" type="button">Entrar</button>'
+      +'<button id="adminResetPassword" class="btn-ghost" type="button">Esqueci a senha</button>'
+      +'<button id="adminLoginCancel" class="btn-ghost" type="button">Cancelar</button>'
+      +'</div>'
+      +'</div>';
+    document.body.appendChild(el);
+
+    const email=el.querySelector("#adminLoginEmail");
+    const pass=el.querySelector("#adminLoginPassword");
+    const status=el.querySelector("#adminLoginStatus");
+    const submit=el.querySelector("#adminLoginSubmit");
+    const reset=el.querySelector("#adminResetPassword");
+    const setStatus=(msg,isError=false)=>{
+      status.textContent=msg||"";
+      status.classList.toggle("error",!!isError);
+    };
+    const close=()=>{
+      el.hidden=true;
+      pass.value="";
+      setStatus("");
+    };
+
+    el.querySelector("#adminLoginCancel").addEventListener("click",close);
+    el.addEventListener("click",e=>{if(e.target===el)close();});
+
+    async function doLogin(){
+      const mail=email.value.trim();
+      if(!mail){email.focus();return;}
+      if(!pass.value){pass.focus();return;}
+      submit.disabled=true;
+      reset.disabled=true;
+      setStatus("Entrando…");
+      try{
+        const credential=await auth.signInWithEmailAndPassword(mail,pass.value);
+        const allowed=await authorizedAdminUser(credential.user);
+        if(!allowed){
+          const uid=credential.user?.uid||"";
+          await auth.signOut();
+          const err=new Error(uid
+            ? "Conta autenticada, mas sem permissão de administrador. Autorize este UID no Firestore: "+uid
+            : "Conta autenticada, mas sem permissão de administrador.");
+          err.code="app/not-admin";
+          throw err;
+        }
+        localStorage.setItem(ADMIN_EMAIL_KEY,mail);
+        adminUser=credential.user;
+        authReady=true;
+        emitAdminState();
+        setStatus("Acesso autorizado.");
+        setTimeout(close,250);
+      }catch(e){
+        setStatus(adminAuthMessage(e),true);
+      }finally{
+        submit.disabled=false;
+        reset.disabled=false;
+      }
+    }
+
+    async function resetPassword(){
+      const mail=email.value.trim();
+      if(!mail){email.focus();setStatus("Digite seu e-mail primeiro.",true);return;}
+      reset.disabled=true;
+      submit.disabled=true;
+      setStatus("Enviando e-mail de recuperação…");
+      try{
+        await auth.sendPasswordResetEmail(mail);
+        localStorage.setItem(ADMIN_EMAIL_KEY,mail);
+        setStatus("E-mail de recuperação enviado. Confira sua caixa de entrada.");
+      }catch(e){
+        setStatus(adminAuthMessage(e),true);
+      }finally{
+        reset.disabled=false;
+        submit.disabled=false;
+      }
+    }
+
+    submit.addEventListener("click",doLogin);
+    reset.addEventListener("click",resetPassword);
+    pass.addEventListener("keydown",e=>{if(e.key==="Enter")doLogin();});
+    email.addEventListener("keydown",e=>{if(e.key==="Enter")pass.focus();});
+    return el;
+  }
+
+  function openAdminLoginSheet(){
+    if(!auth){alert("Login de admin indisponível neste momento.");return;}
+    const el=ensureAdminLoginSheet();
+    const email=el.querySelector("#adminLoginEmail");
+    const pass=el.querySelector("#adminLoginPassword");
+    const status=el.querySelector("#adminLoginStatus");
+    email.value=localStorage.getItem(ADMIN_EMAIL_KEY)||"";
+    pass.value="";
+    status.textContent="";
+    status.classList.remove("error");
+    el.hidden=false;
+    setTimeout(()=>{(email.value?pass:email).focus();},0);
+  }
+
   function wireSettings(){
     const n=document.getElementById("cfgName"),box=document.getElementById("adminBox"),all=document.getElementById("cfgShowAll");
     const toggle=document.getElementById("btnAdminToggle"),settings=document.getElementById("btnSettings"),save=document.getElementById("cfgSave");
@@ -384,15 +533,8 @@ const Comments = (() => {
     });
     toggle?.addEventListener("click",async()=>{
       if(!auth){alert("Login de admin indisponível neste momento.");return;}
-      if(admin()){await auth.signOut();await refresh();render();return;}
-      const email=prompt("E-mail de admin:"); if(!email)return;
-      const pass=prompt("Senha de admin:"); if(pass===null)return;
-      try{
-        await auth.signInWithEmailAndPassword(email.trim(),pass);
-        await refresh();render();
-      }catch(e){
-        alert("Não foi possível entrar: "+(e.message||"confira e-mail e senha."));
-      }
+      if(admin()){await auth.signOut();adminUser=null;await refresh();render();return;}
+      openAdminLoginSheet();
     });
     save?.addEventListener("click",async()=>{
       if(n.value.trim()){
