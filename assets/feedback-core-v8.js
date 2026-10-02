@@ -498,6 +498,15 @@ const Comments = (() => {
       console.warn("Código renovado, mas parte das avaliações beta ainda referencia o perfil anterior:",e);
     }
 
+    try{
+      const presenceRef=db.collection("readerPresence").doc(rid);
+      const presenceSnap=await presenceRef.get();
+      if(presenceSnap.exists)await presenceRef.set({profileHash:newHash},{merge:true});
+    }catch(e){
+      cleanupFailed=true;
+      console.warn("Código renovado, mas a presença ao vivo ainda referencia o perfil anterior:",e);
+    }
+
     return {profileId:newHash,readerId:rid,accessCode:formatAccessCode(code),cleanupFailed};
   }
 
@@ -578,8 +587,15 @@ const Comments = (() => {
         console.warn("Leitor removido, mas a limpeza das avaliações beta falhou:",e);
       }
 
+      let presenceCleanupFailed=false;
+      try{await db.collection("readerPresence").doc(rid).delete();}
+      catch(e){
+        presenceCleanupFailed=true;
+        console.warn("Leitor removido, mas a presença ao vivo não pôde ser limpa:",e);
+      }
+
       if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
-      return {deletedFeedback:ids.length,cleanupFailed:analyticsCleanupFailed||surveyCleanupFailed};
+      return {deletedFeedback:ids.length,cleanupFailed:analyticsCleanupFailed||surveyCleanupFailed||presenceCleanupFailed};
     }catch(e){
       console.warn("Leitor removido, mas a limpeza do feedback falhou:",e);
       if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
