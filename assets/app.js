@@ -448,21 +448,36 @@ function initPlayerControls(){
   });
   $("#btnBack15").addEventListener("click", ()=> skip(-15));
 
-  // música de fundo do capítulo (cada capítulo pode ter a sua, campo
-  // "ambient" no manifesto — veja updateAmbientForChapter)
+  // música de fundo do capítulo. O botão fica como último controle,
+  // à direita da barra de narração.
   const ambientBtn = $("#btnAmbient");
   const ambientEl = $("#ambientEl");
+  const ambientIconPlay = $("#ambientIconPlay");
+  const ambientIconPause = $("#ambientIconPause");
+
+  function setAmbientButtonState(playing){
+    ambientBtn.classList.toggle("active",!!playing);
+    if(ambientIconPlay)ambientIconPlay.hidden=!!playing;
+    if(ambientIconPause)ambientIconPause.hidden=!playing;
+    const label=playing?"Pausar música do capítulo":"Tocar música do capítulo";
+    ambientBtn.setAttribute("aria-label",label);
+    ambientBtn.title=label;
+  }
+
   ambientEl.volume = 0.22;
   ambientEl.loop = true;
+  ambientEl.addEventListener("play",()=>setAmbientButtonState(true));
+  ambientEl.addEventListener("pause",()=>setAmbientButtonState(false));
+
   ambientBtn.addEventListener("click", async ()=>{
-    if(!state.ambientSrc){ ambientBtn.classList.remove("active"); return; }
-    showHintOnce("jesed:hintAmbient", "Música ambiente", "Liga uma trilha de fundo pensada pra esse capítulo, numa versão mais discreta. Toque de novo pra desligar (com um fade suave).");
+    if(!state.ambientSrc){ setAmbientButtonState(false); return; }
+    showHintOnce("jesed:hintAmbient", "Música do capítulo", "Liga a trilha pensada para este trecho. Ela toca baixinho por baixo da narração e pode ser pausada separadamente.");
     if(ambientEl.paused){
-      try{ await ambientEl.play(); ambientBtn.classList.add("active"); }
-      catch(e){ ambientBtn.classList.remove("active"); }
+      try{ await ambientEl.play(); }
+      catch(e){ setAmbientButtonState(false); }
     }else{
       fadeOutAndPause(ambientEl);
-      ambientBtn.classList.remove("active");
+      setAmbientButtonState(false);
     }
   });
 }
@@ -472,22 +487,33 @@ function initPlayerControls(){
 function updateAmbientForChapter(ch){
   const ambientBtn = $("#btnAmbient");
   const ambientEl = $("#ambientEl");
+  const ambientIconPlay = $("#ambientIconPlay");
+  const ambientIconPause = $("#ambientIconPause");
   const wasPlaying = !ambientEl.paused;
   ambientEl.pause();
+
+  const setStopped=()=>{
+    ambientBtn.classList.remove("active");
+    if(ambientIconPlay)ambientIconPlay.hidden=false;
+    if(ambientIconPause)ambientIconPause.hidden=true;
+    ambientBtn.setAttribute("aria-label","Tocar música do capítulo");
+    ambientBtn.title="Tocar música do capítulo";
+  };
+
   if(ch && ch.ambient){
     state.ambientSrc = ch.ambient;
     ambientBtn.hidden = false;
-    ambientEl.src = resolve(ch.ambient);
+    ambientEl.src = /^https?:\/\//i.test(ch.ambient) ? ch.ambient : resolve(ch.ambient);
     const autoStart = localStorage.getItem(AUTO_AMBIENT_KEY) === "1";
     if(wasPlaying || autoStart){
-      ambientEl.play().then(()=>ambientBtn.classList.add("active")).catch(()=>ambientBtn.classList.remove("active"));
+      ambientEl.play().catch(()=>setStopped());
     }else{
-      ambientBtn.classList.remove("active");
+      setStopped();
     }
   }else{
     state.ambientSrc = null;
     ambientBtn.hidden = true;
-    ambientBtn.classList.remove("active");
+    setStopped();
     ambientEl.removeAttribute("src");
   }
 }
