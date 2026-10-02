@@ -97,6 +97,7 @@ const Comments = (() => {
             authReady=true;
             document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:admin()}}));
             render();
+            updateIdentityBar();
           });
         }
       }catch(e){console.warn(e);}
@@ -105,6 +106,8 @@ const Comments = (() => {
     updateIdentityBar();
     document.addEventListener("beta:profile-ready",updateIdentityBar);
     document.addEventListener("beta:profile-login",updateIdentityBar);
+    window.addEventListener("load",updateIdentityBar);
+    setTimeout(updateIdentityBar,0);
     if(name()) ensureAccessProfile().catch(e=>console.warn("Perfil portátil indisponível:",e));
   }
 

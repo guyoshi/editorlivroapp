@@ -72,7 +72,12 @@ body{
   background: linear-gradient(160deg, var(--accent), #8a3f22);
   display:flex; align-items:center; justify-content:center;
   color:#fff; font-family:var(--serif); font-size:1.1rem;
+  position:relative; overflow:hidden;
 }
+.book-cover img{
+  position:absolute; inset:0; width:100%; height:100%; object-fit:cover;
+}
+.book-cover-fallback{ position:relative; z-index:0; }
 .book-info{ flex:1; min-width:0; }
 .book-info h3{ margin:0 0 2px; font-family:var(--serif); font-size:1.08rem; font-weight:600; }
 .book-info p{ margin:0; color:var(--ink-soft); font-size:.84rem; }
@@ -105,6 +110,10 @@ body{
 .reader-chapter{ font-family:var(--serif); font-size:.98rem; font-weight:600; }
 
 .reader-scroll{ flex:1; overflow-y:auto; -webkit-overflow-scrolling:touch; }
+.chapter-art{
+  display:block; width:100%; max-width:640px; margin:0 auto; aspect-ratio:16/9;
+  object-fit:cover; border-radius:0 0 var(--radius) var(--radius);
+}
 .chapter-text{
   max-width: 640px; margin: 0 auto; padding: 28px 22px 140px;
   font-family:var(--serif); font-size:1.14rem; line-height:1.85; color:var(--ink);
@@ -202,6 +211,7 @@ body{
 body.focus-mode .topbar,
 body.focus-mode .player-bar,
 body.focus-mode .chapter-notes,
+body.focus-mode .chapter-art,
 body.focus-mode .para-actions,
 body.focus-mode .comment-panel,
 body.focus-mode .chapter-complete-area{ display:none !important; }

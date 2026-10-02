@@ -18,6 +18,12 @@ function resolve(path){
   return baseUrl() + path;
 }
 
+// Imagens (capas e artes de capítulo) vêm referenciadas direto do site
+// Dimensões Infinitas — se atualizar lá, atualiza aqui também, sem duplicar.
+const ART_BASE = "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/";
+function coverUrl(bookId){ return ART_BASE + bookId + "/cover.webp"; }
+function chapterArtUrl(bookId, n){ return ART_BASE + bookId + "/chapters/chapter-" + String(n).padStart(2,"0") + ".webp"; }
+
 const state = { books: [], currentBook: null, currentChapterIdx: -1 };
 
 const $ = (sel, root=document) => root.querySelector(sel);
@@ -46,7 +52,10 @@ async function loadLibrary(){
   }
   listEl.innerHTML = state.books.map(b => `
     <button class="book-card" data-book="${b.id}">
-      <div class="book-cover">${(b.title||"?").slice(0,1)}</div>
+      <div class="book-cover">
+        <span class="book-cover-fallback">${(b.title||"?").slice(0,1)}</span>
+        <img src="${coverUrl(b.id)}" alt="" loading="lazy" onerror="this.remove()">
+      </div>
       <div class="book-info">
         <h3>${b.title}</h3>
         <p>${b.subtitle||""}</p>
@@ -142,6 +151,11 @@ async function openChapter(idx){
   $("#readerBook").textContent = book.title;
   $("#readerChapter").textContent = `Cap. ${ch.n} — ${ch.title}`;
   $("#chapterText").innerHTML = `<p class="empty-hint">Carregando…</p>`;
+  const art = $("#chapterArt");
+  art.hidden = true;
+  art.onerror = () => { art.hidden = true; };
+  art.onload = () => { art.hidden = false; };
+  art.src = chapterArtUrl(book.id, ch.n);
   showView("reader");
   exitFocus();
   updateNextChapterUI();
