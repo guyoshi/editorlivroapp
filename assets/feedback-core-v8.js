@@ -158,7 +158,7 @@ const Comments = (() => {
     if(name()){
       el.hidden=false;
       const code=accessCode();
-      el.textContent=code?(name()+" · #"+code):(name()+" · #"+shortId(uid()));
+      el.textContent=code?(name()+" · Código "+code):(name()+" · ID interno "+shortId(uid()));
     }else{
       el.hidden=true;
     }
@@ -875,7 +875,7 @@ const Comments = (() => {
       const adminSection=el.querySelector("#readerSwitchAdminSection");
 
       current.textContent=name()
-        ? "Perfil atual: "+name()+(accessCode()?" · #"+accessCode():"")
+        ? "Perfil atual: "+name()+(accessCode()?" · Código "+accessCode():"")
         : "Nenhum perfil de leitor ativo neste aparelho.";
 
       if(adminSection) adminSection.hidden=admin();
