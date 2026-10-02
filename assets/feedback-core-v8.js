@@ -238,7 +238,7 @@ const Comments = (() => {
       });
     }
     el.dataset.code=code;
-    el.querySelector("#accessCodeDisplay").textContent="#"+code;
+    el.querySelector("#accessCodeDisplay").textContent=code;
     el.hidden=false;
     playUiPop();
   }
