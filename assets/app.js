@@ -478,4 +478,5 @@ if("serviceWorker" in navigator){
 initNav();
 initPlayerControls();
 initSettings();
+initReaderZoom();
 loadLibrary();
