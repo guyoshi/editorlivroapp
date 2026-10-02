@@ -215,13 +215,17 @@
     el.className='admin-dashboard-sheet';
     el.hidden=true;
     el.innerHTML='<section class="admin-dashboard popup-admin-dashboard">'
-      +'<header class="admin-dashboard-head"><div><h2>Mensagens popup</h2><p>Envios individuais, gerais, modelos e confirmações de leitura.</p></div><button id="popupAdminClose" class="icon-btn" type="button">✕</button></header>'
+      +'<header class="admin-dashboard-head"><div><h2>Mensagens popup</h2><p>Envios individuais, gerais, modelos e confirmações de leitura.</p></div><div class="admin-head-actions"><button id="popupAdminBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="popupAdminClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<nav class="popup-admin-tabs"><button type="button" data-popup-tab="messages" class="active">Mensagens</button><button type="button" data-popup-tab="templates">Modelos</button></nav>'
       +'<div class="popup-admin-tools"><button id="popupBroadcastBtn" class="btn-primary" type="button">Enviar para todos os leitores atuais</button><button id="popupNewTemplateBtn" class="btn-ghost" type="button">Novo modelo</button></div>'
       +'<div id="popupMessageFilters" class="admin-dashboard-filters"><select id="popupStatusFilter"><option value="all">Todos os estados</option><option value="pending">Pendentes</option><option value="shown">Disparadas</option><option value="read">Lidas</option></select><input id="popupSearch" type="search" placeholder="Buscar leitor ou mensagem…"></div>'
       +'<div id="popupAdminList" class="admin-dashboard-list"></div>'
       +'</section>';
     document.body.appendChild(el);
+    el.querySelector('#popupAdminBack').onclick=()=>{
+      el.hidden=true;
+      document.dispatchEvent(new CustomEvent('beta:admin-home'));
+    };
     el.querySelector('#popupAdminClose').onclick=()=>{el.hidden=true;};
     el.onclick=e=>{if(e.target===el)el.hidden=true;};
     el.querySelectorAll('[data-popup-tab]').forEach(btn=>btn.onclick=()=>{adminTab=btn.dataset.popupTab;renderAdmin();});
@@ -344,7 +348,7 @@
     el.className='admin-dashboard-sheet';
     el.hidden=true;
     el.innerHTML='<section class="admin-dashboard popup-compose-dashboard">'
-      +'<header class="admin-dashboard-head"><div><h2 id="popupComposeHeading">Enviar popup</h2><p id="popupComposeSub"></p></div><button id="popupComposeClose" class="icon-btn" type="button">✕</button></header>'
+      +'<header class="admin-dashboard-head"><div><h2 id="popupComposeHeading">Enviar popup</h2><p id="popupComposeSub"></p></div><div class="admin-head-actions"><button id="popupComposeBack" class="link-btn admin-back-btn" type="button">← Voltar</button><button id="popupComposeClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<div class="popup-compose-form">'
       +'<label class="field"><span>Usar modelo</span><select id="popupComposeTemplate"><option value="">Mensagem personalizada</option></select></label>'
       +'<p id="popupTemplateStatus" class="popup-template-status"></p>'
@@ -354,6 +358,7 @@
       +'<div class="sheet-actions"><button id="popupComposeSend" class="btn-primary" type="button">Enviar popup</button><button id="popupComposeCancel" class="btn-ghost" type="button">Cancelar</button></div>'
       +'</div></section>';
     document.body.appendChild(el);
+    el.querySelector('#popupComposeBack').onclick=()=>{el.hidden=true;};
     el.querySelector('#popupComposeClose').onclick=()=>{el.hidden=true;};
     el.querySelector('#popupComposeCancel').onclick=()=>{el.hidden=true;};
     el.onclick=e=>{if(e.target===el)el.hidden=true;};
@@ -461,12 +466,13 @@
     el.className='admin-dashboard-sheet';
     el.hidden=true;
     el.innerHTML='<section class="admin-dashboard popup-compose-dashboard">'
-      +'<header class="admin-dashboard-head"><div><h2 id="popupTemplateHeading">Novo modelo</h2><p>Modelos ficam guardados para você disparar a qualquer leitor quando quiser.</p></div><button id="popupTemplateClose" class="icon-btn" type="button">✕</button></header>'
+      +'<header class="admin-dashboard-head"><div><h2 id="popupTemplateHeading">Novo modelo</h2><p>Modelos ficam guardados para você disparar a qualquer leitor quando quiser.</p></div><div class="admin-head-actions"><button id="popupTemplateBack" class="link-btn admin-back-btn" type="button">← Voltar</button><button id="popupTemplateClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<div class="popup-compose-form"><label class="field"><span>Nome do modelo</span><input id="popupTemplateTitle" type="text" maxlength="80"></label>'
       +'<label class="field"><span>Mensagem</span><textarea id="popupTemplateText" rows="10" maxlength="2000"></textarea></label>'
       +'<div class="sheet-actions"><button id="popupTemplateSave" class="btn-primary" type="button">Salvar modelo</button><button id="popupTemplateCancel" class="btn-ghost" type="button">Cancelar</button></div></div>'
       +'</section>';
     document.body.appendChild(el);
+    el.querySelector('#popupTemplateBack').onclick=()=>{el.hidden=true;};
     el.querySelector('#popupTemplateClose').onclick=()=>{el.hidden=true;};
     el.querySelector('#popupTemplateCancel').onclick=()=>{el.hidden=true;};
     el.onclick=e=>{if(e.target===el)el.hidden=true;};
