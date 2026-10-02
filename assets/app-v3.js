@@ -317,17 +317,25 @@ function escapeHtml(s){
 }
 
 // ---------------- % de leitura do capítulo ----------------
+// O % exibido nunca deve cair: se a pessoa desce até o fim e volta pra
+// conferir algo, continua mostrando o quanto ela já alcançou no capítulo.
+let readerProgressFloor = 0;
 function resetReaderProgress(){
-  $("#readerProgressFill").style.width = "0%";
-  $("#readerProgressLabel").textContent = "0%";
+  const book = state.currentBook;
+  const ch = book && book.chapters[state.currentChapterIdx];
+  readerProgressFloor = (book && ch) ? readChapterPct(book.id, ch.n) : 0;
+  $("#readerProgressFill").style.width = readerProgressFloor + "%";
+  $("#readerProgressLabel").textContent = readerProgressFloor + "%";
 }
 function updateReaderProgressBar(){
   const scroller = $("#readerScroll");
   const max = scroller.scrollHeight - scroller.clientHeight;
-  const pct = max > 0 ? Math.min(100, Math.max(0, Math.round((scroller.scrollTop / max) * 100))) : 100;
+  const rawPct = max > 0 ? Math.min(100, Math.max(0, Math.round((scroller.scrollTop / max) * 100))) : 100;
+  readerProgressFloor = Math.max(readerProgressFloor, rawPct);
+  const pct = readerProgressFloor;
   $("#readerProgressFill").style.width = pct + "%";
   $("#readerProgressLabel").textContent = pct + "%";
-  saveScrollPct(pct);
+  saveScrollPct(rawPct);
   saveChapterPct(pct);
   window.BetaAnalytics?.progress?.(pct);
   window.BetaPresence?.progress?.(pct);
