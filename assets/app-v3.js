@@ -21,6 +21,7 @@ function progressOwner(){
 }
 const POS_KEY = (bookId, n) => `jesed:pos:${progressOwner()}:${bookId}:${n}`;
 const READPCT_KEY = (bookId, n) => `jesed:readpct:${progressOwner()}:${bookId}:${n}`;
+const SCROLLPCT_KEY = (bookId, n) => `jesed:scrollpct:${progressOwner()}:${bookId}:${n}`;
 const LASTCH_KEY = (bookId) => `jesed:last:${progressOwner()}:${bookId}`;
 const DONE_KEY = (bookId, n) => `jesed:done:${progressOwner()}:${bookId}:${n}`;
 
@@ -228,15 +229,18 @@ async function openChapter(idx){
     const res = await fetch(resolve(ch.text), {cache:"no-cache"});
     const raw = await res.text();
     renderChapterText(ch, raw);
-    // A troca de conteúdo pode fazer alguns navegadores restaurarem a posição
-    // anterior. Garante que cada capítulo novo realmente nasça no topo.
+    // Capítulo incompleto retoma o ponto salvo da leitura textual.
+    // A narração mantém seu próprio marcador em segundos e é restaurada abaixo.
     if(state.currentChapterIdx===idx){
-      const readerScroll=$("#readerScroll");
-      if(readerScroll) readerScroll.scrollTop=0;
+      const done=isChapterDone(book.id,ch.n);
+      const savedScroll=done?0:readScrollPct(book.id,ch.n);
       requestAnimationFrame(()=>{
         if(state.currentChapterIdx!==idx)return;
         const scroller=$("#readerScroll");
-        if(scroller) scroller.scrollTop=0;
+        if(scroller){
+          const max=Math.max(0,scroller.scrollHeight-scroller.clientHeight);
+          scroller.scrollTop=max*(savedScroll/100);
+        }
         updateReaderProgressBar();
       });
     }
@@ -315,6 +319,7 @@ function updateReaderProgressBar(){
   const pct = max > 0 ? Math.min(100, Math.max(0, Math.round((scroller.scrollTop / max) * 100))) : 100;
   $("#readerProgressFill").style.width = pct + "%";
   $("#readerProgressLabel").textContent = pct + "%";
+  saveScrollPct(pct);
   saveChapterPct(pct);
   window.BetaAnalytics?.progress?.(pct);
   if(pct >= 96) setChapterDone(true, {silent:true});
@@ -394,6 +399,17 @@ function bookProgress(book){
 function readChapterPct(bookId,n){
   const raw=Number(localStorage.getItem(READPCT_KEY(bookId,n))||0);
   return Number.isFinite(raw)?Math.max(0,Math.min(100,Math.round(raw))):0;
+}
+function readScrollPct(bookId,n){
+  const raw=Number(localStorage.getItem(SCROLLPCT_KEY(bookId,n))||0);
+  return Number.isFinite(raw)?Math.max(0,Math.min(100,raw)):0;
+}
+function saveScrollPct(value){
+  const book=state.currentBook;
+  const ch=book&&book.chapters[state.currentChapterIdx];
+  if(!book||!ch)return;
+  const pct=Math.max(0,Math.min(100,Number(value)||0));
+  localStorage.setItem(SCROLLPCT_KEY(book.id,ch.n),String(pct));
 }
 function saveChapterPct(value,{force=false}={}){
   const book=state.currentBook;
