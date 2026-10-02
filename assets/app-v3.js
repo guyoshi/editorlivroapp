@@ -20,6 +20,7 @@ function progressOwner(){
   return "guest";
 }
 const POS_KEY = (bookId, n) => `jesed:pos:${progressOwner()}:${bookId}:${n}`;
+const READPCT_KEY = (bookId, n) => `jesed:readpct:${progressOwner()}:${bookId}:${n}`;
 const LASTCH_KEY = (bookId) => `jesed:last:${progressOwner()}:${bookId}`;
 const DONE_KEY = (bookId, n) => `jesed:done:${progressOwner()}:${bookId}:${n}`;
 
@@ -141,10 +142,13 @@ function renderBookView(){
   const listEl = $("#chapterList");
   listEl.innerHTML = book.chapters.map((c, i) => {
     const pos = readPos(book.id, c.n);
+    const readPct = readChapterPct(book.id, c.n);
     const isLast = i===lastCh;
     const done = isChapterDone(book.id, c.n);
+    const hasPartial = !done && readPct > 0 && readPct < 100;
     let statusTxt = "";
     if(done) statusTxt = "concluído";
+    else if(hasPartial) statusTxt = "continuar";
     else if(pos) statusTxt = "continuar · "+fmtTime(pos.t||0);
     else if(isLast) statusTxt = "última lida";
     return `
@@ -152,7 +156,11 @@ function renderBookView(){
         <div class="chapter-num">${done ? checkIconSvg() : c.n}</div>
         <div class="chapter-info">
           <h4>${c.title}</h4>
-          <span>${statusTxt}</span>
+          <div class="chapter-status-row">
+            <span>${statusTxt}</span>
+            ${hasPartial ? `<strong class="chapter-progress-pct">${readPct}%</strong>` : ""}
+          </div>
+          ${hasPartial ? `<div class="chapter-progress-mini" aria-label="Progresso do capítulo: ${readPct}%"><i style="width:${readPct}%"></i></div>` : ""}
         </div>
         <div class="chapter-audio-dot" data-idx="${i}" hidden title="Tem áudio"></div>
       </div>`;
@@ -307,6 +315,7 @@ function updateReaderProgressBar(){
   const pct = max > 0 ? Math.min(100, Math.max(0, Math.round((scroller.scrollTop / max) * 100))) : 100;
   $("#readerProgressFill").style.width = pct + "%";
   $("#readerProgressLabel").textContent = pct + "%";
+  saveChapterPct(pct);
   window.BetaAnalytics?.progress?.(pct);
   if(pct >= 96) setChapterDone(true, {silent:true});
 }
@@ -352,8 +361,13 @@ function setChapterDone(done, opts={}){
   if(!book || !ch) return;
   const already = isChapterDone(book.id, ch.n);
   if(already === done) { if(!opts.silent) updateCompleteUI(); return; }
-  if(done) localStorage.setItem(DONE_KEY(book.id, ch.n), "1");
-  else localStorage.removeItem(DONE_KEY(book.id, ch.n));
+  if(done){
+    localStorage.setItem(DONE_KEY(book.id, ch.n), "1");
+    saveChapterPct(100);
+  }else{
+    localStorage.removeItem(DONE_KEY(book.id, ch.n));
+    if(readChapterPct(book.id,ch.n)>=96) saveChapterPct(95,{force:true});
+  }
   window.BetaAnalytics?.completed?.(done);
   if(done) playChapterCompleteSound();
   updateCompleteUI();
@@ -377,6 +391,19 @@ function bookProgress(book){
 }
 
 // ---------------- posição salva ----------------
+function readChapterPct(bookId,n){
+  const raw=Number(localStorage.getItem(READPCT_KEY(bookId,n))||0);
+  return Number.isFinite(raw)?Math.max(0,Math.min(100,Math.round(raw))):0;
+}
+function saveChapterPct(value,{force=false}={}){
+  const book=state.currentBook;
+  const ch=book&&book.chapters[state.currentChapterIdx];
+  if(!book||!ch)return;
+  const pct=Math.max(0,Math.min(100,Math.round(Number(value)||0)));
+  const current=readChapterPct(book.id,ch.n);
+  const next=force?pct:Math.max(current,pct);
+  if(next>0)localStorage.setItem(READPCT_KEY(book.id,ch.n),String(next));
+}
 function readPos(bookId, n){
   try{ return JSON.parse(localStorage.getItem(POS_KEY(bookId,n)) || "null"); }
   catch(e){ return null; }
@@ -607,12 +634,17 @@ function initPlayerControls(){
   });
   a.addEventListener("timeupdate", ()=>{
     updateTimes();
-    if(a.duration) window.BetaAnalytics?.progress?.((a.currentTime/a.duration)*100);
+    if(a.duration){
+      const audioPct=(a.currentTime/a.duration)*100;
+      saveChapterPct(audioPct);
+      window.BetaAnalytics?.progress?.(audioPct);
+    }
     if(Math.floor(a.currentTime) % 5 === 0) savePos(a.currentTime);
   });
   a.addEventListener("ended", ()=>{
     setNarrationButtonState(false);
     window.BetaAnalytics?.narration?.(false);
+    saveChapterPct(100);
     window.BetaAnalytics?.progress?.(100);
     setChapterDone(true,{silent:true});
     setAmbientDuck(1);
