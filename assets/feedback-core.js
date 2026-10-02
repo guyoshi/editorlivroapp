@@ -32,14 +32,55 @@ const Comments = (() => {
   function uid(){let id=localStorage.getItem(USER_KEY);if(!id){id=(crypto.randomUUID?crypto.randomUUID():"r_"+Date.now().toString(36)+Math.random().toString(36).slice(2));localStorage.setItem(USER_KEY,id);}return id;}
   const name=()=>String(localStorage.getItem(NAME_KEY)||"").trim();
   const admin=()=>!!adminUser;
-  async function authorizedAdminUser(user){
-    if(!user||!db)return false;
+  async function authorizedAdminUser(user,{throwOnFailure=false}={}){
+    if(!user||!db){
+      if(throwOnFailure){
+        const err=new Error("Firebase ainda não terminou de inicializar.");
+        err.code="app/admin-check-unavailable";
+        throw err;
+      }
+      return false;
+    }
     try{
       const snap=await db.collection(ADMIN_COLLECTION).doc(user.uid).get();
-      const data=snap.exists?(snap.data()||{}):null;
-      return !!data && data.enabled===true && data.disabled!==true;
+      if(!snap.exists){
+        if(throwOnFailure){
+          const err=new Error("O documento admins/"+user.uid+" não existe no Firestore.");
+          err.code="app/admin-doc-missing";
+          throw err;
+        }
+        return false;
+      }
+      const data=snap.data()||{};
+      if(data.enabled!==true){
+        if(throwOnFailure){
+          const err=new Error("O documento de admin existe, mas o campo enabled precisa ser boolean true.");
+          err.code="app/admin-disabled";
+          throw err;
+        }
+        return false;
+      }
+      if(data.disabled===true){
+        if(throwOnFailure){
+          const err=new Error("Esta conta de administrador está marcada como disabled.");
+          err.code="app/admin-disabled";
+          throw err;
+        }
+        return false;
+      }
+      return true;
     }catch(e){
+      if(String(e?.code||"").startsWith("app/"))throw e;
       console.warn("Não foi possível validar a permissão de administrador:",e);
+      if(throwOnFailure){
+        const err=new Error(
+          e?.code==="permission-denied"
+            ? "O Firestore negou a leitura de admins/"+user.uid+". As Rules publicadas ainda não permitem que esta conta leia o próprio documento."
+            : "Falha ao consultar a permissão de administrador: "+(e?.message||"erro desconhecido")
+        );
+        err.code=e?.code||"app/admin-check-failed";
+        throw err;
+      }
       return false;
     }
   }
@@ -392,7 +433,7 @@ const Comments = (() => {
 
   function adminAuthMessage(e){
     const code=String(e?.code||"");
-    if(code==="app/not-admin") return e.message||"Esta conta não está autorizada como administrador.";
+    if(code==="app/not-admin"||code==="app/admin-doc-missing"||code==="app/admin-disabled"||code==="app/admin-check-unavailable"||code==="permission-denied") return e.message||"Esta conta não está autorizada como administrador.";
     if(code==="auth/invalid-credential"||code==="auth/user-not-found"||code==="auth/wrong-password") return "E-mail ou senha inválidos. Se não lembrar a senha, use “Esqueci a senha”.";
     if(code==="auth/invalid-email") return "Digite um e-mail válido.";
     if(code==="auth/user-disabled") return "Esta conta foi desativada no Firebase.";
@@ -450,15 +491,11 @@ const Comments = (() => {
       setStatus("Entrando…");
       try{
         const credential=await auth.signInWithEmailAndPassword(mail,pass.value);
-        const allowed=await authorizedAdminUser(credential.user);
-        if(!allowed){
-          const uid=credential.user?.uid||"";
+        try{
+          await authorizedAdminUser(credential.user,{throwOnFailure:true});
+        }catch(checkError){
           await auth.signOut();
-          const err=new Error(uid
-            ? "Conta autenticada, mas sem permissão de administrador. Autorize este UID no Firestore: "+uid
-            : "Conta autenticada, mas sem permissão de administrador.");
-          err.code="app/not-admin";
-          throw err;
+          throw checkError;
         }
         localStorage.setItem(ADMIN_EMAIL_KEY,mail);
         adminUser=credential.user;
