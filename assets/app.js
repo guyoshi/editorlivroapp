@@ -5,6 +5,7 @@
 // Guarda progresso de leitura e áudio no localStorage do aparelho.
 
 const CFG_KEY = "jesed:cfgBase";
+const FONT_KEY = "jesed:readerFontScale";
 const POS_KEY = (bookId, n) => `jesed:pos:${bookId}:${n}`;
 const LASTCH_KEY = (bookId) => `jesed:last:${bookId}`;
 const DONE_KEY = (bookId, n) => `jesed:done:${bookId}:${n}`;
@@ -359,6 +360,71 @@ function exitFocus(){
 }
 
 // ---------------- ajustes ----------------
+
+function initReaderZoom(){
+  const bar = $("#view-reader .reader-topbar");
+  if(!bar || $("#btnReaderZoom")) return;
+  const btn = document.createElement("button");
+  btn.id = "btnReaderZoom";
+  btn.className = "icon-btn";
+  btn.type = "button";
+  btn.title = "Tamanho do texto";
+  btn.setAttribute("aria-label","Tamanho do texto");
+  btn.innerHTML = '<svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M9.5 3a6.5 6.5 0 104.03 11.6L19.94 21 21 19.94l-6.4-6.41A6.5 6.5 0 009.5 3zm0 2a4.5 4.5 0 110 9 4.5 4.5 0 010-9z"/><path fill="currentColor" d="M8.8 7h1.4v1.8H12v1.4h-1.8V12H8.8v-1.8H7V8.8h1.8z"/></svg>';
+  const focus = $("#btnFocus");
+  bar.insertBefore(btn, focus || null);
+
+  const pop = document.createElement("div");
+  pop.id = "readerZoomPop";
+  pop.className = "reader-zoom-pop";
+  pop.hidden = true;
+  pop.innerHTML = '<button type="button" data-z="-">A−</button><span id="readerZoomLabel">100%</span><button type="button" data-z="+">A+</button><button type="button" data-z="reset">Padrão</button>';
+  $("#view-reader").appendChild(pop);
+
+  let scale = Number(localStorage.getItem(FONT_KEY) || "1");
+  if(!Number.isFinite(scale)) scale = 1;
+  const apply = ()=>{
+    scale = Math.max(.8, Math.min(1.6, Math.round(scale*10)/10));
+    document.documentElement.style.setProperty("--reader-font-scale", String(scale));
+    localStorage.setItem(FONT_KEY, String(scale));
+    $("#readerZoomLabel").textContent = Math.round(scale*100) + "%";
+  };
+  apply();
+  btn.addEventListener("click",()=>{ pop.hidden = !pop.hidden; });
+  pop.querySelectorAll("[data-z]").forEach(b=>b.addEventListener("click",()=>{
+    if(b.dataset.z==="+") scale += .1;
+    else if(b.dataset.z==="-") scale -= .1;
+    else scale = 1;
+    apply();
+  }));
+  document.addEventListener("click",e=>{
+    if(!pop.hidden && !pop.contains(e.target) && e.target!==btn && !btn.contains(e.target)) pop.hidden=true;
+  });
+}
+
+async function openLocation(bookId, chapterN, paraIdx, paragraphKey){
+  if(!bookId) return;
+  if(!state.currentBook || state.currentBook.id!==bookId) await openBook(bookId);
+  const book = state.currentBook;
+  if(!book) return;
+  const idx = book.chapters.findIndex(c=>Number(c.n)===Number(chapterN));
+  if(idx<0) return;
+  await openChapter(idx);
+  requestAnimationFrame(()=>{
+    let target = null;
+    if(paragraphKey) target = $("#chapterText .para-block[data-paragraph-key='"+paragraphKey+"']");
+    if(!target) target = $("#chapterText .para-block[data-para-idx='"+Number(paraIdx)+"']");
+    if(target){
+      target.scrollIntoView({behavior:"smooth",block:"center"});
+      target.classList.add("feedback-target");
+      setTimeout(()=>target.classList.remove("feedback-target"),1800);
+      const panel=target.querySelector(".comment-panel");
+      if(panel) panel.hidden=false;
+    }
+  });
+}
+window.BookReader = { openLocation, getBooks:()=>state.books.slice() };
+
 function initSettings(){
   const sheet = $("#settingsSheet");
   $("#btnSettings").addEventListener("click", ()=>{
@@ -412,4 +478,5 @@ if("serviceWorker" in navigator){
 initNav();
 initPlayerControls();
 initSettings();
+initReaderZoom();
 loadLibrary();
