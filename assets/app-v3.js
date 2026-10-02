@@ -50,6 +50,7 @@ const views = { library: $("#view-library"), book: $("#view-book"), reader: $("#
 function showView(name){
   Object.entries(views).forEach(([k,el]) => el.hidden = k!==name);
   window.BetaAnalytics?.setView?.(name);
+  window.BetaPresence?.setView?.(name);
   window.scrollTo(0,0);
 }
 
@@ -199,10 +200,15 @@ async function openChapter(idx){
   if(!ch) return;
   audioEl().pause();
   window.BetaAnalytics?.closeChapter?.();
+  window.BetaPresence?.closeChapter?.();
   state.currentChapterIdx = idx;
   localStorage.setItem(LASTCH_KEY(book.id), String(idx));
   window.BetaAnalytics?.openChapter?.(book,ch);
-  if(isChapterDone(book.id,ch.n)) window.BetaAnalytics?.progress?.(100);
+  window.BetaPresence?.openChapter?.(book,ch);
+  if(isChapterDone(book.id,ch.n)){
+    window.BetaAnalytics?.progress?.(100);
+    window.BetaPresence?.progress?.(100);
+  }
 
   $("#readerChapter").textContent = `Cap. ${ch.n} · ${ch.title}`;
   $("#chapterText").innerHTML = `<p class="empty-hint">Carregando…</p>`;
@@ -324,6 +330,7 @@ function updateReaderProgressBar(){
   saveScrollPct(pct);
   saveChapterPct(pct);
   window.BetaAnalytics?.progress?.(pct);
+  window.BetaPresence?.progress?.(pct);
   if(pct >= 96) setChapterDone(true, {silent:true});
 }
 
@@ -533,6 +540,7 @@ function syncAmbientButton(){
   btn.title=label;
   btn.setAttribute("aria-pressed",String(playing));
   window.BetaAnalytics?.music?.(playing);
+  window.BetaPresence?.music?.(playing);
 }
 
 function stopAmbientElement(el,{clear=false}={}){
@@ -643,11 +651,13 @@ function initPlayerControls(){
   a.addEventListener("play", ()=>{
     setNarrationButtonState(true);
     window.BetaAnalytics?.narration?.(true);
+    window.BetaPresence?.narration?.(true);
     setAmbientDuck(AMBIENT_DUCK_FACTOR);
   });
   a.addEventListener("pause", ()=>{
     setNarrationButtonState(false);
     window.BetaAnalytics?.narration?.(false);
+    window.BetaPresence?.narration?.(false);
     setAmbientDuck(1);
     savePos(a.currentTime);
   });
@@ -657,14 +667,17 @@ function initPlayerControls(){
       const audioPct=(a.currentTime/a.duration)*100;
       saveChapterPct(audioPct);
       window.BetaAnalytics?.progress?.(audioPct);
+      window.BetaPresence?.progress?.(audioPct);
     }
     if(Math.floor(a.currentTime) % 5 === 0) savePos(a.currentTime);
   });
   a.addEventListener("ended", ()=>{
     setNarrationButtonState(false);
     window.BetaAnalytics?.narration?.(false);
+    window.BetaPresence?.narration?.(false);
     saveChapterPct(100);
     window.BetaAnalytics?.progress?.(100);
+    window.BetaPresence?.progress?.(100);
     setChapterDone(true,{silent:true});
     setAmbientDuck(1);
     savePos(0);
@@ -977,6 +990,7 @@ function initNav(){
   $("#btnNextChapterEnd").addEventListener("click", ()=>{ playNextChapterSound(); changeChapter(1); });
   $("#readerScroll").addEventListener("scroll", ()=>{
     window.BetaAnalytics?.noteInteraction?.();
+    window.BetaPresence?.noteInteraction?.();
     updateReaderProgressBar();
   }, {passive:true});
   $("#btnCompleteChapter").addEventListener("click", ()=>{
@@ -1003,6 +1017,7 @@ initPlayerControls();
 initSettings();
 initReaderDisplay();
 window.BetaAnalytics?.setView?.("library");
+window.BetaPresence?.setView?.("library");
 setTimeout(()=>window.BetaAnalytics?.syncPreferences?.(),1200);
 loadLibrary();
 // Re-filtra a biblioteca quando o status de admin ou o perfil do leitor
