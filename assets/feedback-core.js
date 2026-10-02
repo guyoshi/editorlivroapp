@@ -1,7 +1,9 @@
 // Beta feedback v2: threaded comments + paragraph reactions
 const Comments = (() => {
   const NAME_KEY="jesed:username", USER_KEY="jesed:readerId", ACCESS_KEY="jesed:readerAccessCode";
+  const SEEN_ANNOUNCE_KEY="jesed:lastSeenAnnouncement";
   const PROFILE_COLLECTION="readerProfiles";
+  const ANNOUNCE_COLLECTION="announcements";
   const EMOJIS=["😍","😂","😱","😢","🤔"];
   let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false;
   const cCache={}, rCache={};
@@ -68,6 +70,45 @@ const Comments = (() => {
     el.querySelector("#accessCodeDisplay").textContent="#"+code;
     el.hidden=false;
   }
+  function showAnnouncementModal(items){
+    let el=document.getElementById("announceSheet");
+    if(!el){
+      el=document.createElement("div");
+      el.id="announceSheet";
+      el.className="sheet";
+      el.innerHTML='<div class="sheet-card">'
+        +'<h2>Recado</h2>'
+        +'<div id="announceList" class="announce-list"></div>'
+        +'<div class="sheet-actions"><button id="announceOk" class="btn-primary" type="button">Entendi</button></div>'
+        +'</div>';
+      document.body.appendChild(el);
+      el.querySelector("#announceOk").addEventListener("click",()=>{el.hidden=true;});
+    }
+    el.querySelector("#announceList").innerHTML=items.map(x=>
+      '<div class="announce-item"><p>'+esc(x.text).replace(/\n/g,"<br>")+'</p><span class="announce-when">'+when(x.createdAt)+'</span></div>'
+    ).join("");
+    el.hidden=false;
+  }
+
+  async function checkAnnouncements(){
+    if(!enabled||!db||admin())return;
+    try{
+      const snap=await db.collection(ANNOUNCE_COLLECTION).orderBy("createdAt","desc").limit(8).get();
+      const all=[];snap.forEach(d=>all.push({id:d.id,...d.data()}));
+      const lastSeen=Number(localStorage.getItem(SEEN_ANNOUNCE_KEY)||0);
+      const unseen=all.filter(x=>Number(x.createdAt)>lastSeen).sort((a,b)=>a.createdAt-b.createdAt);
+      if(!unseen.length)return;
+      showAnnouncementModal(unseen);
+      const newest=Math.max(...all.map(x=>Number(x.createdAt)||0));
+      localStorage.setItem(SEEN_ANNOUNCE_KEY,String(newest));
+    }catch(e){console.warn("Não foi possível checar recados:",e);}
+  }
+
+  async function sendAnnouncement(text){
+    if(!admin()||!text?.trim())return;
+    await db.collection(ANNOUNCE_COLLECTION).add({text:text.trim(),createdAt:Date.now(),authorId:adminUser?.uid||null});
+  }
+
   function pInfo(block){const p=block.querySelector("p");const raw=p?p.textContent:block.textContent;const q=norm(raw);return {key:"p_"+hashText(q),quote:q.slice(0,220)};}
   function loc(x,ch,i,key){if(Number(x.chapter)!==Number(ch))return false;if(key&&x.paragraphKey&&x.paragraphKey===key)return true;return Number(x.paraIdx)===Number(i);}
   function own(x){return admin()||(x.authorId?x.authorId===uid():norm(x.author)===norm(name()));}
@@ -138,7 +179,11 @@ const Comments = (() => {
     document.addEventListener("beta:profile-login",updateIdentityBar);
     window.addEventListener("load",updateIdentityBar);
     setTimeout(updateIdentityBar,0);
-    if(name()) ensureAccessProfile().catch(e=>console.warn("Perfil portátil indisponível:",e));
+    if(name()){
+      ensureAccessProfile().catch(e=>console.warn("Perfil portátil indisponível:",e));
+      setTimeout(()=>checkAnnouncements().catch(()=>{}),900);
+    }
+    document.addEventListener("beta:profile-login",()=>setTimeout(()=>checkAnnouncements().catch(()=>{}),900));
   }
 
   function wireName(){
@@ -151,7 +196,10 @@ const Comments = (() => {
     const go=async()=>{
       const v=input.value.trim();
       if(!v)return input.focus();
+      const isNew=!name();
       localStorage.setItem(NAME_KEY,v);
+      // perfil novo: não precisa ver recados antigos, só os futuros
+      if(isNew&&!localStorage.getItem(SEEN_ANNOUNCE_KEY))localStorage.setItem(SEEN_ANNOUNCE_KEY,String(Date.now()));
       try{await ensureAccessProfile();}catch(e){console.warn("Não foi possível registrar o código de acesso:",e);}
       sheet.hidden=true;
       document.dispatchEvent(new CustomEvent("beta:profile-ready"));
@@ -196,6 +244,13 @@ const Comments = (() => {
       }
     }
     settings?.addEventListener("click",()=>{n.value=name();refresh();});
+    document.getElementById("btnSendAnnounce")?.addEventListener("click",async()=>{
+      if(!admin())return;
+      const text=prompt("Recado para todos os leitores (aparece pra eles na próxima vez que abrirem o app):");
+      if(!text?.trim())return;
+      try{await sendAnnouncement(text);alert("Recado enviado.");}
+      catch(e){alert("Não foi possível enviar: "+(e.message||"tente de novo."));}
+    });
     toggle?.addEventListener("click",async()=>{
       if(!auth){alert("Login de admin indisponível neste momento.");return;}
       if(admin()){await auth.signOut();await refresh();render();return;}
@@ -338,7 +393,8 @@ const Comments = (() => {
   return {
     init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,getAccessCode:accessCode,
     loginWithCode,ensureAccessProfile,hashText,
-    getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen,unseen,markAllSeen
+    getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen,unseen,markAllSeen,
+    sendAnnouncement
   };
 })();
 window.Comments=Comments;

@@ -267,6 +267,10 @@ body.focus-mode .focus-exit{ display:flex; }
   background:var(--bg); color:var(--ink);
 }
 .sheet-actions{ display:flex; gap:10px; justify-content:flex-end; }
+.announce-list{ display:flex; flex-direction:column; gap:10px; margin:0 0 16px; max-height:50vh; overflow-y:auto; }
+.announce-item{ background:var(--focus-bg); border-radius:10px; padding:10px 12px; }
+.announce-item p{ margin:0 0 4px; white-space:pre-wrap; }
+.announce-when{ color:var(--ink-soft); font-size:.74rem; }
 .access-code-display{
   font-family:var(--serif); font-size:1.8rem; font-weight:700; letter-spacing:.08em;
   text-align:center; color:var(--accent); background:color-mix(in srgb,var(--accent) 10%,transparent);

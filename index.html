@@ -130,17 +130,12 @@
         <span>Seu nome (aparece nos seus comentários)</span>
         <input id="cfgName" type="text" placeholder="ex.: Gui" maxlength="40">
       </label>
-      <p class="sheet-hint">Se o conteúdo estiver em outro lugar (ex.: outro repositório no GitHub), ajuste o endereço base abaixo. Deixe em branco para usar os arquivos deste mesmo site.</p>
-      <label class="field">
-        <span>Base do conteúdo (URL)</span>
-        <input id="cfgBase" type="text" placeholder="ex.: https://raw.githubusercontent.com/usuario/repo/main/">
-      </label>
-
       <div id="adminBox" class="admin-box" hidden>
         <label class="field-check">
           <input id="cfgShowAll" type="checkbox">
           <span>Mostrar os comentários de todo mundo pra todo mundo</span>
         </label>
+        <button id="btnSendAnnounce" class="link-btn" type="button">Enviar recado aos leitores</button>
       </div>
       <button id="btnAdminToggle" class="link-btn">Modo admin</button>
 

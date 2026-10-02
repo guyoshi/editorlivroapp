@@ -1,21 +1,15 @@
 // ================= Leitor de Livros =================
 // App leve, sem framework, pra todos os livros (um ou vários). Puxa texto
-// (.md) e áudio (.mp3) dos capítulos de arquivos estáticos (por padrão,
-// deste mesmo site — dá pra apontar pra outro endereço nos Ajustes).
+// (.md) e áudio (.mp3) dos capítulos de arquivos estáticos deste mesmo site.
 // Guarda progresso de leitura e áudio no localStorage do aparelho.
 
-const CFG_KEY = "jesed:cfgBase";
 const FONT_KEY = "jesed:readerFontScale";
 const POS_KEY = (bookId, n) => `jesed:pos:${bookId}:${n}`;
 const LASTCH_KEY = (bookId) => `jesed:last:${bookId}`;
 const DONE_KEY = (bookId, n) => `jesed:done:${bookId}:${n}`;
 
-function baseUrl(){
-  const v = localStorage.getItem(CFG_KEY);
-  return v && v.trim() ? v.trim().replace(/\/?$/, "/") : "./";
-}
 function resolve(path){
-  return baseUrl() + path;
+  return "./" + path;
 }
 
 // Imagens (capas e artes de capítulo) vêm referenciadas direto do site
@@ -249,6 +243,37 @@ function updateReaderProgressBar(){
   if(pct >= 96) setChapterDone(true, {silent:true});
 }
 
+// ---------------- sons de interface ----------------
+// Pequenos bips sintetizados (sem precisar de arquivo de áudio) pra dar
+// feedback sonoro em ações de leitura.
+let uiAudioCtx = null;
+function getUiAudioCtx(){
+  if(!uiAudioCtx){
+    try{ uiAudioCtx = new (window.AudioContext||window.webkitAudioContext)(); }
+    catch(e){ return null; }
+  }
+  if(uiAudioCtx.state==="suspended") uiAudioCtx.resume().catch(()=>{});
+  return uiAudioCtx;
+}
+function playTone(freqs, opts={}){
+  const ctx = getUiAudioCtx();
+  if(!ctx) return;
+  const dur = opts.dur || 0.1, gap = opts.gap || 0.08, vol = opts.vol ?? 0.12;
+  freqs.forEach((f,i)=>{
+    const t0 = ctx.currentTime + i*gap;
+    const osc = ctx.createOscillator(), gain = ctx.createGain();
+    osc.type = opts.type || "sine";
+    osc.frequency.setValueAtTime(f, t0);
+    gain.gain.setValueAtTime(0, t0);
+    gain.gain.linearRampToValueAtTime(vol, t0+0.012);
+    gain.gain.exponentialRampToValueAtTime(0.0001, t0+dur);
+    osc.connect(gain).connect(ctx.destination);
+    osc.start(t0); osc.stop(t0+dur+0.02);
+  });
+}
+function playNextChapterSound(){ playTone([660,880],{dur:0.08,gap:0.06,vol:0.1}); }
+function playChapterCompleteSound(){ playTone([523.25,659.25,783.99],{dur:0.14,gap:0.1,vol:0.13}); }
+
 // ---------------- conclusão de capítulo ----------------
 function isChapterDone(bookId, n){
   return localStorage.getItem(DONE_KEY(bookId, n)) === "1";
@@ -261,6 +286,7 @@ function setChapterDone(done, opts={}){
   if(already === done) { if(!opts.silent) updateCompleteUI(); return; }
   if(done) localStorage.setItem(DONE_KEY(book.id, ch.n), "1");
   else localStorage.removeItem(DONE_KEY(book.id, ch.n));
+  if(done) playChapterCompleteSound();
   updateCompleteUI();
 }
 function updateCompleteUI(){
@@ -476,17 +502,9 @@ window.BookReader = { openLocation, getBooks:()=>state.books.slice() };
 
 function initSettings(){
   const sheet = $("#settingsSheet");
-  $("#btnSettings").addEventListener("click", ()=>{
-    $("#cfgBase").value = localStorage.getItem(CFG_KEY) || "";
-    sheet.hidden = false;
-  });
+  $("#btnSettings").addEventListener("click", ()=>{ sheet.hidden = false; });
   $("#cfgClose").addEventListener("click", ()=> sheet.hidden = true);
-  $("#cfgSave").addEventListener("click", ()=>{
-    const v = $("#cfgBase").value.trim();
-    if(v) localStorage.setItem(CFG_KEY, v); else localStorage.removeItem(CFG_KEY);
-    sheet.hidden = true;
-    loadLibrary();
-  });
+  $("#cfgSave").addEventListener("click", ()=>{ sheet.hidden = true; });
 }
 
 // ---------------- navegação ----------------
@@ -505,8 +523,8 @@ function initNav(){
   });
   $("#btnFocus").addEventListener("click", enterFocus);
   $("#focusExit").addEventListener("click", exitFocus);
-  $("#btnNextChapterTop").addEventListener("click", ()=> changeChapter(1));
-  $("#btnNextChapterEnd").addEventListener("click", ()=> changeChapter(1));
+  $("#btnNextChapterTop").addEventListener("click", ()=>{ playNextChapterSound(); changeChapter(1); });
+  $("#btnNextChapterEnd").addEventListener("click", ()=>{ playNextChapterSound(); changeChapter(1); });
   $("#readerScroll").addEventListener("scroll", updateReaderProgressBar, {passive:true});
   $("#btnCompleteChapter").addEventListener("click", ()=>{
     const book = state.currentBook;
