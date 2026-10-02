@@ -160,6 +160,50 @@ const Comments = (() => {
       el.hidden=true;
     }
   }
+  const TOP_NAV_HINT_PREFIX="jesed:topNavIntro:";
+
+  function topNavHintKey(){
+    return TOP_NAV_HINT_PREFIX+String(uid()||"reader");
+  }
+
+  function topNavIcon(kind){
+    if(kind==="hub")return '<span class="top-nav-intro-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3a3 3 0 110 6 3 3 0 010-6zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"/></svg></span>';
+    if(kind==="settings")return '<span class="top-nav-intro-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M19.14 12.94c.04-.3.06-.61.06-.94s-.02-.64-.07-.94l2.03-1.58a.5.5 0 00.12-.61l-1.92-3.32a.5.5 0 00-.59-.22l-2.39.96a7.4 7.4 0 00-1.62-.94l-.36-2.54a.49.49 0 00-.48-.41h-3.84a.48.48 0 00-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96a.5.5 0 00-.59.22L2.74 8.87a.5.5 0 00.12.61l2.03 1.58A6.6 6.6 0 004.8 12c0 .31.02.64.07.94l-2.03 1.58a.5.5 0 00-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32a.5.5 0 00-.12-.61l-2.01-1.58zM12 15.6A3.6 3.6 0 1112 8.4a3.6 3.6 0 010 7.2z"/></svg></span>';
+    if(kind==="switch")return '<span class="top-nav-intro-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M9 11a4 4 0 100-8 4 4 0 000 8zm0 2c-4.42 0-7 2.17-7 5v1h2.1a7 7 0 012.17-5.03A10.96 10.96 0 009 13zm8-2v2.17A3 3 0 1019.83 16H22a5 5 0 11-5-5zm0-3l-4 4 4 4v-3h4v-2h-4V8z"/></svg></span>';
+    return "";
+  }
+
+  function showTopNavigationIntro(){
+    const key=topNavHintKey();
+    if(localStorage.getItem(key))return;
+
+    let el=document.getElementById("topNavIntroSheet");
+    if(!el){
+      el=document.createElement("div");
+      el.id="topNavIntroSheet";
+      el.className="sheet";
+      el.hidden=true;
+      el.innerHTML='<div class="sheet-card top-nav-intro-card">'
+        +'<div class="reader-onboarding-kicker">Sua biblioteca</div>'
+        +'<h2>Conheça os botões do topo</h2>'
+        +'<p class="sheet-hint">Esses três atalhos ficam na página inicial:</p>'
+        +'<div class="top-nav-intro-grid">'
+        +'<div class="top-nav-intro-item">'+topNavIcon("hub")+'<div><strong>Minha central</strong><span>Seu perfil, código de acesso, novas respostas do autor e suas anotações.</span></div></div>'
+        +'<div class="top-nav-intro-item">'+topNavIcon("settings")+'<div><strong>Ajustes</strong><span>Tema, fonte, imagens dos capítulos e preferências de música.</span></div></div>'
+        +'<div class="top-nav-intro-item">'+topNavIcon("switch")+'<div><strong>Trocar usuário</strong><span>Entre com outro código, crie um novo perfil ou acesse a área de administrador.</span></div></div>'
+        +'</div>'
+        +'<div class="sheet-actions"><button id="topNavIntroOk" class="btn-primary" type="button">Entendi</button></div>'
+        +'</div>';
+      document.body.appendChild(el);
+      el.querySelector("#topNavIntroOk").addEventListener("click",()=>{
+        localStorage.setItem(topNavHintKey(),"1");
+        el.hidden=true;
+      });
+    }
+    el.hidden=false;
+    playUiPop();
+  }
+
   function showAccessCodeModal(code){
     let el=document.getElementById("accessCodeSheet");
     if(!el){
@@ -175,7 +219,10 @@ const Comments = (() => {
         +'<button id="accessCodeOk" class="btn-primary" type="button">Entendi</button>'
         +'</div></div>';
       document.body.appendChild(el);
-      el.querySelector("#accessCodeOk").addEventListener("click",()=>{el.hidden=true;});
+      el.querySelector("#accessCodeOk").addEventListener("click",()=>{
+        el.hidden=true;
+        setTimeout(showTopNavigationIntro,130);
+      });
       el.querySelector("#accessCodeCopy").addEventListener("click",async()=>{
         const btn=el.querySelector("#accessCodeCopy");
         try{await navigator.clipboard.writeText(el.dataset.code||"");btn.textContent="Copiado!";setTimeout(()=>btn.textContent="Copiar código",1500);}
@@ -185,6 +232,7 @@ const Comments = (() => {
     el.dataset.code=code;
     el.querySelector("#accessCodeDisplay").textContent="#"+code;
     el.hidden=false;
+    playUiPop();
   }
   function showAnnouncementModal(items){
     let el=document.getElementById("announceSheet");
@@ -369,6 +417,26 @@ const Comments = (() => {
       console.warn("Leitor removido, mas a limpeza do feedback falhou:",e);
       if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
       return {deletedFeedback:0,cleanupFailed:true};
+    }
+  }
+
+  async function updateReaderName(rawName){
+    const next=String(rawName||"").trim();
+    if(!next)throw new Error("Digite um nome.");
+    if(next.length>40)throw new Error("O nome pode ter no máximo 40 caracteres.");
+
+    const previous=name();
+    localStorage.setItem(NAME_KEY,next);
+    try{
+      await ensureAccessProfile();
+      updateIdentityBar();
+      document.dispatchEvent(new CustomEvent("beta:profile-ready",{detail:{name:next}}));
+      return next;
+    }catch(e){
+      if(previous)localStorage.setItem(NAME_KEY,previous);
+      else localStorage.removeItem(NAME_KEY);
+      updateIdentityBar();
+      throw e;
     }
   }
 
@@ -779,9 +847,8 @@ const Comments = (() => {
   }
 
   function wireSettings(){
-    const n=document.getElementById("cfgName"),box=document.getElementById("adminBox"),all=document.getElementById("cfgShowAll");
+    const box=document.getElementById("adminBox"),all=document.getElementById("cfgShowAll");
     const settings=document.getElementById("btnSettings"),save=document.getElementById("cfgSave");
-    if(!n)return;
     async function refresh(){
       if(admin()){
         box.hidden=false;
@@ -792,7 +859,7 @@ const Comments = (() => {
         document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:false}}));
       }
     }
-    settings?.addEventListener("click",()=>{n.value=name();refresh();});
+    settings?.addEventListener("click",refresh);
     document.getElementById("btnSendAnnounce")?.addEventListener("click",()=>{
       if(!admin())return;
       document.dispatchEvent(new CustomEvent("beta:popup-admin"));
@@ -805,12 +872,7 @@ const Comments = (() => {
       render();
     });
     save?.addEventListener("click",async()=>{
-      if(n.value.trim()){
-        localStorage.setItem(NAME_KEY,n.value.trim());
-        try{await ensureAccessProfile();}catch(e){console.warn("Não foi possível atualizar o perfil portátil:",e);}
-      }
       if(admin()&&enabled){showAll=!!all.checked;await db.collection("config").doc("settings").set({showAllComments:showAll},{merge:true});render();}
-      document.dispatchEvent(new CustomEvent("beta:profile-ready"));
     });
     refresh();
   }
@@ -992,7 +1054,7 @@ const Comments = (() => {
     },{passive:true});
   }
 
-  const READER_ONBOARDING_KEY="jesed:readerOnboardingV3";
+  const READER_ONBOARDING_KEY_PREFIX="jesed:readerOnboardingV3:";
   let uiPopAudioCtx=null;
 
   function armUiPopAudio(){
@@ -1092,7 +1154,7 @@ const Comments = (() => {
         +'</div>';
       next.textContent="Começar a ler";
       next.onclick=()=>{
-        localStorage.setItem(READER_ONBOARDING_KEY,"1");
+        localStorage.setItem(READER_ONBOARDING_KEY_PREFIX+String(uid()||"reader"),"1");
         el.hidden=true;
       };
     }
@@ -1101,7 +1163,7 @@ const Comments = (() => {
   }
 
   function showReaderOnboarding(){
-    if(admin()||!name()||localStorage.getItem(READER_ONBOARDING_KEY))return;
+    if(admin()||!name()||localStorage.getItem(READER_ONBOARDING_KEY_PREFIX+String(uid()||"reader")))return;
     renderReaderOnboardingStep(1);
     playUiPop();
   }
@@ -1215,7 +1277,7 @@ const Comments = (() => {
 
   return {
     init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,getAccessCode:accessCode,
-    loginWithCode,ensureAccessProfile,hashText,
+    loginWithCode,ensureAccessProfile,updateReaderName,hashText,
     getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen,unseen,markAllSeen,
     sendAnnouncement,getAllowedBooks,listReaderProfiles,setAllowedBooks,deleteReaderProfile
   };
