@@ -6,6 +6,7 @@
 const FONT_KEY = "jesed:readerFontScale";
 const HIDE_ART_KEY = "jesed:hideChapterArt";
 const THEME_KEY = "jesed:theme";
+const AUTO_AMBIENT_KEY = "jesed:autoAmbient";
 const POS_KEY = (bookId, n) => `jesed:pos:${bookId}:${n}`;
 const LASTCH_KEY = (bookId) => `jesed:last:${bookId}`;
 const DONE_KEY = (bookId, n) => `jesed:done:${bookId}:${n}`;
@@ -368,11 +369,50 @@ function changeChapter(dir){
   if(book && book.chapters[next]) openChapter(next);
 }
 
+// Diminui o volume aos poucos até parar, em vez de cortar seco.
+function fadeOutAndPause(el, ms=900){
+  if(el.paused) return;
+  const steps = 18, stepMs = ms/steps, startVol = el.volume || 0.22, dec = startVol/steps;
+  let i = 0;
+  const t = setInterval(()=>{
+    i++;
+    el.volume = Math.max(0, startVol - dec*i);
+    if(i >= steps){
+      clearInterval(t);
+      el.pause();
+      el.volume = startVol; // restaura pro próximo play
+    }
+  }, stepMs);
+}
+
+// Popup explicativo, mostrado só na primeira vez que a pessoa usa cada
+// controle (guardado por aparelho).
+function showHintOnce(key, title, text){
+  if(localStorage.getItem(key)) return;
+  localStorage.setItem(key, "1");
+  let el = document.getElementById("hintSheet");
+  if(!el){
+    el = document.createElement("div");
+    el.id = "hintSheet";
+    el.className = "sheet";
+    el.innerHTML = '<div class="sheet-card"><h2 id="hintTitle"></h2><p class="sheet-hint" id="hintText"></p>'
+      + '<div class="sheet-actions"><button id="hintOk" class="btn-primary" type="button">Entendi</button></div></div>';
+    document.body.appendChild(el);
+    el.querySelector("#hintOk").addEventListener("click", ()=>{ el.hidden = true; });
+  }
+  el.querySelector("#hintTitle").textContent = title;
+  el.querySelector("#hintText").textContent = text;
+  el.hidden = false;
+}
+
 function initPlayerControls(){
   const a = audioEl();
   const btnPlay = $("#btnPlay"), iconPlay = $("#iconPlay"), iconPause = $("#iconPause");
 
-  btnPlay.addEventListener("click", ()=> a.paused ? a.play() : a.pause());
+  btnPlay.addEventListener("click", ()=>{
+    showHintOnce("jesed:hintPlay", "Narração do capítulo", "Toque aqui pra ouvir o capítulo narrado. Dá pra pausar e continuar de onde parou a qualquer momento, inclusive em outro aparelho.");
+    a.paused ? a.play() : a.pause();
+  });
   a.addEventListener("play", ()=>{ iconPlay.hidden = true; iconPause.hidden = false; });
   a.addEventListener("pause", ()=>{ iconPlay.hidden = false; iconPause.hidden = true; savePos(a.currentTime); });
   a.addEventListener("timeupdate", ()=>{
@@ -395,11 +435,12 @@ function initPlayerControls(){
   ambientEl.loop = true;
   ambientBtn.addEventListener("click", async ()=>{
     if(!state.ambientSrc){ ambientBtn.classList.remove("active"); return; }
+    showHintOnce("jesed:hintAmbient", "Música ambiente", "Liga uma trilha de fundo pensada pra esse capítulo, numa versão mais discreta. Toque de novo pra desligar (com um fade suave).");
     if(ambientEl.paused){
       try{ await ambientEl.play(); ambientBtn.classList.add("active"); }
       catch(e){ ambientBtn.classList.remove("active"); }
     }else{
-      ambientEl.pause();
+      fadeOutAndPause(ambientEl);
       ambientBtn.classList.remove("active");
     }
   });
@@ -416,7 +457,8 @@ function updateAmbientForChapter(ch){
     state.ambientSrc = ch.ambient;
     ambientBtn.hidden = false;
     ambientEl.src = resolve(ch.ambient);
-    if(wasPlaying){
+    const autoStart = localStorage.getItem(AUTO_AMBIENT_KEY) === "1";
+    if(wasPlaying || autoStart){
       ambientEl.play().then(()=>ambientBtn.classList.add("active")).catch(()=>ambientBtn.classList.remove("active"));
     }else{
       ambientBtn.classList.remove("active");
@@ -568,13 +610,16 @@ function initThemePicker(){
 function initSettings(){
   const sheet = $("#settingsSheet");
   const hideArt = $("#cfgHideArt");
+  const autoAmbient = $("#cfgAutoAmbient");
   $("#btnSettings").addEventListener("click", ()=>{
     if(hideArt) hideArt.checked = localStorage.getItem(HIDE_ART_KEY)==="1";
+    if(autoAmbient) autoAmbient.checked = localStorage.getItem(AUTO_AMBIENT_KEY)==="1";
     sheet.hidden = false;
   });
   $("#cfgClose").addEventListener("click", ()=> sheet.hidden = true);
   $("#cfgSave").addEventListener("click", ()=>{
     if(hideArt) localStorage.setItem(HIDE_ART_KEY, hideArt.checked ? "1" : "0");
+    if(autoAmbient) localStorage.setItem(AUTO_AMBIENT_KEY, autoAmbient.checked ? "1" : "0");
     sheet.hidden = true;
   });
   initThemePicker();
