@@ -453,6 +453,7 @@ body.focus-mode .topbar,
 body.focus-mode .player-bar,
 body.focus-mode .chapter-notes,
 body.focus-mode .chapter-art,
+body.focus-mode .beta-reader-feedback-actions,
 body.focus-mode .para-actions,
 body.focus-mode .comment-panel,
 body.focus-mode .chapter-complete-area{ display:none !important; }
