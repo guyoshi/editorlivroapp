@@ -422,6 +422,42 @@
     });
   }
 
+  // ---- Aviso "feche e abra o app" para aparelhos desatualizados ----
+  const UPDATE_ALERT_TITLE="Atualize o app";
+  const UPDATE_ALERT_TEXT="Há uma versão nova do app. Feche o app por completo (tire dos aplicativos recentes) e abra de novo para atualizar. Sem isso, seu progresso e seu código de acesso não aparecem para o autor.";
+  function outdatedRows(){
+    return analyticsRows.filter(row=>{
+      const p=row.profile||{};
+      if(p.analyticsIgnored||!p.id||!p.readerId)return false;
+      const id=p.readerId;
+      return !!outdatedReason(diagMap.get(String(id))||null,lastContact(id,row.analytics));
+    });
+  }
+  async function sendUpdateAlerts(){
+    const PM=window.PopupMessages;
+    const rows=outdatedRows();
+    if(!PM?.sendToProfile||!rows.length)return;
+    // não repete para quem já tem esse aviso pendente
+    let pending=new Set();
+    try{
+      const snap=await db().collection("popupMessages").where("source","==","update-alert").get();
+      snap.forEach(d=>{const m=d.data()||{};if(!m.shownAt&&!m.readAt)pending.add(String(m.recipientProfileId));});
+    }catch(e){console.warn("Não foi possível checar avisos pendentes:",e);}
+    const targets=rows.filter(r=>!pending.has(String(r.profile.id)));
+    if(!targets.length){alert("Todos os aparelhos desatualizados já têm o aviso pendente.");return;}
+    const names=targets.map(r=>r.profile.name||"Leitor").join(", ");
+    if(!confirm("Enviar o popup \""+UPDATE_ALERT_TITLE+"\" para "+targets.length+" leitor(es)?\n\n"+names))return;
+    let ok=0;
+    for(const r of targets){
+      try{
+        await PM.sendToProfile(r.profile,{title:UPDATE_ALERT_TITLE,text:UPDATE_ALERT_TEXT,source:"update-alert"});
+        ok++;
+      }catch(e){console.warn("Falha ao avisar "+r.profile.name,e);}
+    }
+    alert(ok+" de "+targets.length+" aviso(s) enviado(s). Aparece quando o leitor abrir o app.");
+    renderAnalytics();
+  }
+
   function renderAnalytics(){
     const overview=document.getElementById("analyticsOverview");
     const adoption=document.getElementById("analyticsAdoption");
@@ -502,7 +538,11 @@
       return (b.analytics?.lastActiveAt||b.analytics?.updatedAt||0)-(a.analytics?.lastActiveAt||a.analytics?.updatedAt||0);
     });
 
-    list.innerHTML=displayRows.map(row=>{
+    const nOutdated=outdatedRows().length;
+    const alertBar=nOutdated
+      ?'<div class="analytics-update-alert"><span>⚠ '+nOutdated+' aparelho(s) com app desatualizado.</span><button id="analyticsSendUpdateAlert" class="link-btn" type="button">Avisar para fechar e abrir o app</button></div>'
+      :"";
+    list.innerHTML=alertBar+displayRows.map(row=>{
       const p=row.profile||{},a=row.analytics,ignored=!!p.analyticsIgnored;
       const label=esc(p.name||a?.name||"Anônimo")+(p.accessCode?" · Código "+esc(p.accessCode):" · Código não sincronizado");
       const ignoreBtn='<button class="link-btn analytics-ignore-btn" type="button" data-analytics-ignore="'+(ignored?"0":"1")+'" data-profile-id="'+esc(p.id||"")+'" data-reader-id="'+esc(p.readerId||a?.readerId||"")+'">'+(ignored?"Incluir nas estatísticas":"Ignorar nas estatísticas")+'</button>';
@@ -535,6 +575,8 @@
         +'</article>';
     }).join("");
 
+    const sendBtn=list.querySelector("#analyticsSendUpdateAlert");
+    if(sendBtn)sendBtn.onclick=async()=>{sendBtn.disabled=true;try{await sendUpdateAlerts();}finally{sendBtn.disabled=false;}};
     list.querySelectorAll("[data-analytics-reader]").forEach(btn=>{
       btn.onclick=()=>showAnalyticsReader(btn.dataset.analyticsReader);
     });
