@@ -206,17 +206,41 @@
     }catch(e){console.warn("Atividade de comentários indisponível:",e);}
   }
   // Linha de diagnóstico: último contato do app + erro de sincronização, se houver.
+  // Versões a partir desta data sempre gravam readerDiagnostics. Se um aparelho
+  // falou com o servidor depois disso e não há diagnóstico, ele roda app antigo.
+  const DIAG_RELEASED_AT=Date.parse("2026-10-02T21:00:00Z");
+  function versionParts(v){return String(v||"").split(/[^0-9]+/).filter(Boolean).map(Number);}
+  function versionOlder(a,b){
+    const x=versionParts(a),y=versionParts(b);
+    for(let i=0;i<Math.max(x.length,y.length);i++){
+      const p=x[i]||0,q=y[i]||0;
+      if(p!==q)return p<q;
+    }
+    return false;
+  }
+  function outdatedReason(d,seen){
+    if(!diagAvailable||!seen||d)return "";
+    return seen>DIAG_RELEASED_AT?"Este aparelho está rodando uma versão antiga do app (sem número de versão).":"";
+  }
+  function versionNote(d){
+    const current=window.BetaDiag?.appVersion||"";
+    if(!d?.appVersion||!current||!versionOlder(d.appVersion,current))return "";
+    return '<small class="analytics-diag">Versão anterior à atual ('+esc(current)+'). Atualiza sozinho quando o leitor voltar ao app.</small>';
+  }
   function diagHtml(readerId,a){
     const d=diagMap.get(String(readerId||""))||null;
     const seen=lastContact(readerId,a);
     let out='<small class="analytics-diag">Último contato do app: '+esc(when(seen)||"—")+(d?.appVersion?' · versão '+esc(d.appVersion):'')+'</small>';
+    const outdated=outdatedReason(d,seen);
+    if(outdated)out+='<small class="analytics-diag is-error">⚠ '+esc(outdated)+' Por isso posição, código e presença não atualizam. Peça para fechar o app por completo (tirar dos recentes) e abrir de novo.</small>';
+    else out+=versionNote(d);
     const cm=commentMap.get(String(readerId||""))||null;
     if(cm&&cm.lastAt){
       const kind=cm.kind==="reaction"?"reação":cm.kind==="reply"?"resposta":"comentário";
       const where=cm.bookId?(' · '+esc(bookTitles.get(String(cm.bookId))||cm.bookId)+(cm.chapter?' cap. '+esc(cm.chapter):'')):'';
       out+='<small class="analytics-diag">Última atividade (comentários): '+esc(kind)+' em '+esc(when(cm.lastAt))+where+'</small>';
       const gap=cm.lastAt-(Number(d?.seenAt)||0);
-      if(diagAvailable&&gap>10*60*1000&&Date.now()-cm.lastAt<6*3600*1000){
+      if(!outdated&&diagAvailable&&gap>10*60*1000&&Date.now()-cm.lastAt<6*3600*1000){
         out+='<small class="analytics-diag is-error">⚠ Está usando o app mas este aparelho não envia dados (versão antiga em cache). Peça para fechar o app por completo e abrir de novo.</small>';
       }
     }

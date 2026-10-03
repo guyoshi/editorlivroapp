@@ -97,5 +97,49 @@
   document.addEventListener("beta:profile-login",()=>schedule(1500));
   window.addEventListener("load",()=>schedule(4000));
 
+  // ---------------- Atualização automática ----------------
+  // Celulares retomam abas/PWAs da memória sem recarregar: o leitor fica com o
+  // JS antigo por dias e o relatório deixa de receber posição, presença e código.
+  // Ao voltar para o app, comparamos a versão publicada com a carregada e
+  // recarregamos (nunca com áudio tocando).
+  const RELOAD_GUARD_KEY="jesed:autoReloadTo";
+  let checking=false,lastCheckAt=0,pendingVersion="";
+  function audioPlaying(){
+    return [...document.querySelectorAll("audio")].some(a=>!a.paused&&!a.ended);
+  }
+  async function publishedVersion(){
+    const res=await fetch("index.html?vc="+now(),{cache:"no-store"});
+    if(!res.ok)return "";
+    const m=(await res.text()).match(/beta-diagnostics-v1\.js\?v=([^"'&\s]+)/);
+    return m?m[1].slice(0,40):"";
+  }
+  function reloadTo(v){
+    if(!v||audioPlaying())return false;
+    try{
+      const g=JSON.parse(sessionStorage.getItem(RELOAD_GUARD_KEY)||"null");
+      if(g&&g.v===v&&now()-g.at<10*60*1000)return false; // evita loop se o cache insistir
+      sessionStorage.setItem(RELOAD_GUARD_KEY,JSON.stringify({v,at:now()}));
+    }catch(e){}
+    navigator.serviceWorker?.getRegistration?.().then(r=>r?.update()).catch(()=>{});
+    setTimeout(()=>location.reload(),300);
+    return true;
+  }
+  async function checkUpdate(force,apply){
+    if(!appVersion||checking||navigator.onLine===false)return;
+    if(!force&&now()-lastCheckAt<60000)return;
+    checking=true;lastCheckAt=now();
+    try{
+      const v=await publishedVersion();
+      if(v&&v!==appVersion){pendingVersion=v;if(apply)reloadTo(v);}
+    }catch(e){}finally{checking=false;}
+  }
+  document.addEventListener("visibilitychange",()=>{
+    if(document.visibilityState!=="visible")return;
+    if(pendingVersion)reloadTo(pendingVersion);else checkUpdate(true,true);
+  });
+  window.addEventListener("pageshow",e=>{if(e.persisted)checkUpdate(true,true);});
+  window.addEventListener("load",()=>setTimeout(()=>checkUpdate(true,true),3000));
+  setInterval(()=>{if(document.visibilityState==="visible")checkUpdate(false,false);},5*60*1000); // só marca; recarrega ao voltar ao app
+
   window.BetaDiag={ok,error,ping:write,appVersion};
 })();
