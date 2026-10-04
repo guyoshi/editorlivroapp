@@ -81,12 +81,12 @@
   function ensureSheet(){
     if(document.getElementById("commentAdminSheet"))return;
     const el=document.createElement("div");el.id="commentAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Central de comentários</h2><p>Novos primeiro. Responda, filtre o que já foi respondido e volte a qualquer conversa quando quiser.</p></div><div class="admin-head-actions"><button id="adminDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="adminDashClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-dashboard-filters"><select id="afStatus"><option value="all">Todos os estados</option><option value="new">Novos</option><option value="open">Em aberto</option><option value="resolved">Resolvidos</option></select><select id="afReply"><option value="all">Todas as respostas</option><option value="unanswered">Sem resposta do autor</option><option value="answered">Respondidos por mim</option></select><select id="afBook"><option value="">Todos os livros</option></select><select id="afChapter"><option value="">Todos os capítulos</option></select><select id="afAuthor"><option value="">Todos os leitores</option></select><input id="afSearch" type="search" placeholder="Buscar comentário ou resposta…"></div><div class="admin-dashboard-bulk"><button id="afMarkReadAll" type="button" class="link-btn">Marcar exibidos como lidos</button><button id="afMarkUnreadAll" type="button" class="link-btn">Marcar exibidos como não lidos</button></div><div id="adminDashboardList" class="admin-dashboard-list"></div></section>';
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Central de comentários</h2><p>Responda, filtre e classifique as conversas como preferir.</p></div><div class="admin-head-actions"><button id="adminDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="adminDashClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-dashboard-filters"><select id="afStatus"><option value="all">Todos os estados</option><option value="new">Novos</option><option value="open">Em aberto</option><option value="resolved">Resolvidos</option></select><select id="afReply"><option value="all">Todas as respostas</option><option value="unanswered">Sem resposta do autor</option><option value="answered">Respondidos por mim</option></select><select id="afBook"><option value="">Todos os livros</option></select><select id="afChapter"><option value="">Todos os capítulos</option></select><select id="afAuthor"><option value="">Todos os leitores</option></select><select id="afSort" title="Classificar comentários"><option value="unread">Não lidos primeiro</option><option value="newest">Mais novos primeiro</option><option value="oldest">Mais antigos primeiro</option><option value="book">Ordem do livro</option></select><input id="afSearch" type="search" placeholder="Buscar comentário ou resposta…"></div><div class="admin-dashboard-bulk"><button id="afMarkReadAll" type="button" class="link-btn">Marcar exibidos como lidos</button><button id="afMarkUnreadAll" type="button" class="link-btn">Marcar exibidos como não lidos</button></div><div id="adminDashboardList" class="admin-dashboard-list"></div></section>';
     document.body.appendChild(el);
     el.querySelector("#adminDashBack").onclick=()=>{hide();showAdminHome();};
     el.querySelector("#adminDashClose").onclick=hide;
     el.onclick=e=>{if(e.target===el)hide();};
-    ["afStatus","afReply","afBook","afChapter","afAuthor","afSearch"].forEach(id=>{
+    ["afStatus","afReply","afBook","afChapter","afAuthor","afSort","afSearch"].forEach(id=>{
       const x=el.querySelector("#"+id);x.addEventListener(x.tagName==="INPUT"?"input":"change",render);
     });
     el.querySelector("#afMarkReadAll").onclick=()=>bulkMark(true);
@@ -179,7 +179,7 @@
   function render(){
     if(!open)return;
     const sheet=document.getElementById("commentAdminSheet"),list=sheet.querySelector("#adminDashboardList");
-    const st=sheet.querySelector("#afStatus"),rf=sheet.querySelector("#afReply"),bk=sheet.querySelector("#afBook"),ch=sheet.querySelector("#afChapter"),au=sheet.querySelector("#afAuthor"),se=sheet.querySelector("#afSearch");
+    const st=sheet.querySelector("#afStatus"),rf=sheet.querySelector("#afReply"),bk=sheet.querySelector("#afBook"),ch=sheet.querySelector("#afChapter"),au=sheet.querySelector("#afAuthor"),so=sheet.querySelector("#afSort"),se=sheet.querySelector("#afSearch");
     const bv=bk.value,cv=ch.value,av=au.value;
     const rr=roots(),books=[...new Set(rr.map(x=>x.bookId).filter(Boolean))].sort();
     const authorMap=new Map();
@@ -204,9 +204,22 @@
       const haystack=(r.text||"")+" "+(r.quote||"")+" "+(r.author||"")+" "+reps.map(x=>x.text||"").join(" ");
       if(q&&!norm(haystack).includes(q))return false;
       return true;
-    }).sort((a,b)=>{
+    });
+    items.sort((a,b)=>{
+      const atA=a.updatedAt||a.at||0,atB=b.updatedAt||b.at||0;
+      if(so.value==="newest")return atB-atA;
+      if(so.value==="oldest")return atA-atB;
+      if(so.value==="book"){
+        const byBook=String(a.bookId||"").localeCompare(String(b.bookId||""),"pt-BR");
+        if(byBook)return byBook;
+        const byChapter=Number(a.chapter||0)-Number(b.chapter||0);
+        if(byChapter)return byChapter;
+        const byParagraph=Number(a.paraIdx||0)-Number(b.paraIdx||0);
+        if(byParagraph)return byParagraph;
+        return atA-atB;
+      }
       const an=a.adminSeen?0:1,bn=b.adminSeen?0:1;
-      return an!==bn?bn-an:(b.updatedAt||b.at||0)-(a.updatedAt||a.at||0);
+      return an!==bn?bn-an:atB-atA;
     });
     lastItems=items;
     if(!items.length){list.innerHTML='<p class="admin-empty">Nenhum comentário neste filtro.</p>';return;}
