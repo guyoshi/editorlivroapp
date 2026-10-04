@@ -1940,3 +1940,11 @@ body.focus-mode .para-actions{ display:none !important; }
 }
 
 .analytics-update-alert{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.5rem;margin:0 0 .75rem;padding:.65rem .8rem;border:1px solid var(--accent,#d98b5f);border-radius:12px;font-size:.9rem}
+
+/* capa em tela cheia */
+.book-cover-hero img.is-zoomable{cursor:zoom-in}
+.cover-viewer{position:fixed;inset:0;z-index:10000;background:rgba(0,0,0,.94);display:flex;align-items:center;justify-content:center;touch-action:none;overflow:hidden;user-select:none;-webkit-user-select:none}
+.cover-viewer[hidden]{display:none}
+.cover-viewer img{max-width:100%;max-height:100%;object-fit:contain;transform-origin:center center;will-change:transform;-webkit-user-drag:none;pointer-events:none}
+.cover-viewer-close{position:absolute;top:max(12px,env(safe-area-inset-top));right:12px;z-index:2;width:44px;height:44px;border-radius:50%;border:0;background:rgba(255,255,255,.14);color:#fff;font-size:20px;cursor:pointer}
+body.cover-viewer-open{overflow:hidden}

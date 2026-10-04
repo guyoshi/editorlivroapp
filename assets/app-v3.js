@@ -1049,3 +1049,139 @@ document.addEventListener("beta:profile-ready", ()=>{
   loadLibrary();
   setTimeout(()=>window.BetaAnalytics?.syncPreferences?.(),250);
 });
+
+// ---------------- capa em tela cheia com zoom ----------------
+(function initCoverViewer(){
+  const img = document.getElementById("bookCoverImg");
+  if(!img) return;
+  img.classList.add("is-zoomable");
+  img.setAttribute("role","button");
+  img.setAttribute("aria-label","Ver capa em tela cheia");
+
+  let box=null, pic=null;
+  let scale=1, tx=0, ty=0;
+  const MAX=6;
+  const pts=new Map();
+  let tapTimer=0, startDist=0, startScale=1, startMid=null, startTx=0, startTy=0, panStart=null, lastTap=0, moved=false;
+
+  function apply(){
+    pic.style.transform=`translate(${tx}px,${ty}px) scale(${scale})`;
+  }
+  function clamp(){
+    if(scale<=1){ tx=0; ty=0; return; }
+    const w=pic.clientWidth*scale, h=pic.clientHeight*scale;
+    const mx=Math.max(0,(w-box.clientWidth)/2), my=Math.max(0,(h-box.clientHeight)/2);
+    tx=Math.min(mx,Math.max(-mx,tx));
+    ty=Math.min(my,Math.max(-my,ty));
+  }
+  function zoomAt(next,cx,cy){
+    next=Math.min(MAX,Math.max(1,next));
+    const r=box.getBoundingClientRect();
+    const ox=cx-(r.left+r.width/2), oy=cy-(r.top+r.height/2);
+    const k=next/scale;
+    tx=ox-(ox-tx)*k; ty=oy-(oy-ty)*k;
+    scale=next; clamp(); apply();
+  }
+  function reset(){ scale=1; tx=0; ty=0; apply(); }
+
+  function build(){
+    box=document.createElement("div");
+    box.className="cover-viewer";
+    box.hidden=true;
+    box.innerHTML='<button class="cover-viewer-close" type="button" aria-label="Fechar">✕</button><img alt="Capa do livro" draggable="false">';
+    document.body.appendChild(box);
+    pic=box.querySelector("img");
+    box.querySelector(".cover-viewer-close").addEventListener("click",close);
+
+    box.addEventListener("pointerdown",e=>{
+      if(e.target.closest(".cover-viewer-close")) return;
+      box.setPointerCapture?.(e.pointerId);
+      pts.set(e.pointerId,{x:e.clientX,y:e.clientY});
+      moved=false;
+      if(pts.size===2){
+        const [a,b]=[...pts.values()];
+        startDist=Math.hypot(a.x-b.x,a.y-b.y)||1;
+        startScale=scale; startTx=tx; startTy=ty;
+        startMid={x:(a.x+b.x)/2,y:(a.y+b.y)/2};
+        panStart=null;
+      }else if(pts.size===1){
+        panStart={x:e.clientX,y:e.clientY,tx,ty};
+      }
+    });
+    box.addEventListener("pointermove",e=>{
+      if(!pts.has(e.pointerId)) return;
+      pts.set(e.pointerId,{x:e.clientX,y:e.clientY});
+      if(pts.size===2){
+        const [a,b]=[...pts.values()];
+        const d=Math.hypot(a.x-b.x,a.y-b.y);
+        const mid={x:(a.x+b.x)/2,y:(a.y+b.y)/2};
+        const next=Math.min(MAX,Math.max(1,startScale*d/startDist));
+        const r=box.getBoundingClientRect();
+        const k=next/startScale;
+        scale=next;
+        tx=(mid.x-r.left-r.width/2)-((startMid.x-r.left-r.width/2)-startTx)*k;
+        ty=(mid.y-r.top-r.height/2)-((startMid.y-r.top-r.height/2)-startTy)*k;
+        moved=true; clamp(); apply();
+      }else if(pts.size===1&&panStart&&scale>1){
+        const dx=e.clientX-panStart.x, dy=e.clientY-panStart.y;
+        if(Math.abs(dx)+Math.abs(dy)>4) moved=true;
+        tx=panStart.tx+dx; ty=panStart.ty+dy; clamp(); apply();
+      }else if(panStart){
+        if(Math.abs(e.clientX-panStart.x)+Math.abs(e.clientY-panStart.y)>6) moved=true;
+      }
+    });
+    const up=e=>{
+      if(!pts.has(e.pointerId)) return;
+      pts.delete(e.pointerId);
+      if(pts.size===1){
+        const p=[...pts.values()][0];
+        panStart={x:p.x,y:p.y,tx,ty};
+      }else if(pts.size===0){
+        panStart=null;
+        if(!moved&&e.type==="pointerup"){
+          const now=Date.now();
+          if(now-lastTap<300){
+            lastTap=0; clearTimeout(tapTimer);
+            scale>1?(reset()):zoomAt(2.5,e.clientX,e.clientY);
+          }else{
+            lastTap=now;
+            // toque simples (sem zoom) fecha, após esperar um possível 2º toque
+            clearTimeout(tapTimer);
+            tapTimer=setTimeout(()=>{ if(scale===1) close(); },300);
+          }
+        }
+        if(scale<1.02) reset();
+      }
+    };
+    box.addEventListener("pointerup",up);
+    box.addEventListener("pointercancel",up);
+    box.addEventListener("wheel",e=>{
+      e.preventDefault();
+      zoomAt(scale*(e.deltaY<0?1.2:1/1.2),e.clientX,e.clientY);
+    },{passive:false});
+    document.addEventListener("keydown",e=>{
+      if(box.hidden) return;
+      if(e.key==="Escape") close();
+      if(e.key==="+"||e.key==="=") zoomAt(scale*1.4,innerWidth/2,innerHeight/2);
+      if(e.key==="-") zoomAt(scale/1.4,innerWidth/2,innerHeight/2);
+    });
+  }
+
+  function open(){
+    if(!img.src||img.hidden) return;
+    if(!box) build();
+    pic.src=img.currentSrc||img.src;
+    reset();
+    box.hidden=false;
+    document.body.classList.add("cover-viewer-open");
+    history.pushState({coverViewer:true},"");
+  }
+  function close(fromPop){
+    if(!box||box.hidden) return;
+    box.hidden=true;
+    document.body.classList.remove("cover-viewer-open");
+    if(fromPop!==true&&history.state?.coverViewer) history.back();
+  }
+  window.addEventListener("popstate",()=>close(true));
+  img.addEventListener("click",open);
+})();
