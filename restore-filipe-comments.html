@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="pt-BR">
+<head><meta charset="utf-8"><title>Restore Filipe comments</title></head>
+<body>
+<pre id="out">Restaurando…</pre>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
+<script>
+firebase.initializeApp({
+  apiKey:"AIzaSyCpBv00NdrOXqTkd54KWC0VDisTBjvaURU",
+  authDomain:"editorlivroapeditorlivroappp.firebaseapp.com",
+  projectId:"editorlivroapeditorlivroappp",
+  storageBucket:"editorlivroapeditorlivroappp.firebasestorage.app",
+  messagingSenderId:"717257865813",
+  appId:"1:717257865813:web:321c91adf1c184c3cbb2dc"
+});
+const db=firebase.firestore();
+const author="Filipe Azevedo";
+const authorId="bc0d9302-fd75-45aa-a2ee-0e971623fa87";
+const rows=[
+  {id:"recovered-filipe-c1-01",chapter:1,at:1790769312000,text:"[Comentário recuperado] Estou lendo e achando muito interessante todo o universo."},
+  {id:"recovered-filipe-c1-02",chapter:1,at:1790769313000,text:"[Comentário recuperado] A passagem de Jokara/Yoral para o presente ficou um pouco brusca."},
+  {id:"recovered-filipe-c1-03",chapter:1,at:1790769314000,text:"[Comentário recuperado] “Dez ciclos” pode confundir como unidade de tempo, porque antes ela ainda não tinha sido apresentada com clareza."},
+  {id:"recovered-filipe-c1-04",chapter:1,at:1790769315000,text:"[Comentário recuperado] Achei que há excesso de descrições no início, especialmente em “Etérea era um lugar onde nada tocava o chão”."},
+  {id:"recovered-filipe-c2-01",chapter:2,at:1790864688000,text:"[Comentário recuperado] Cap 2 mantém a qualidade da trama."},
+  {id:"recovered-filipe-c2-02",chapter:2,at:1790864689000,text:"[Comentário recuperado] Talvez fosse interessante desenvolver mais o Mestre dos Voos com mais descrições e mistério."},
+  {id:"recovered-filipe-c2-03",chapter:2,at:1790864690000,text:"[Comentário recuperado] Acho que a Sersi deveria ter um protagonismo maior ali no final do Cap 2, por ser curandeira e mais velha."},
+  {id:"recovered-filipe-c2-04",chapter:2,at:1790864691000,text:"[Comentário recuperado] Estou achando que as crianças/jovens tomam muito a frente."},
+  {id:"recovered-filipe-c2-05",chapter:2,at:1790864692000,text:"[Comentário recuperado] E acho que aquele menino no final é do nosso mundo."}
+];
+(async()=>{
+  const out=[];
+  for(const r of rows){
+    const ref=db.collection("comments").doc(r.id);
+    const snap=await ref.get();
+    if(snap.exists){out.push(r.id+": já existia"); continue;}
+    await ref.set({
+      kind:"comment",
+      bookId:"ruinas-dos-ceus",
+      chapter:r.chapter,
+      paraIdx:-1,
+      paragraphKey:null,
+      quote:"",
+      author,
+      authorId,
+      role:"reader",
+      text:r.text,
+      status:"open",
+      adminSeen:false,
+      at:r.at,
+      updatedAt:Date.now()
+    });
+    out.push(r.id+": restaurado");
+  }
+  document.getElementById("out").textContent="OK\n"+out.join("\n");
+})().catch(e=>{document.getElementById("out").textContent="ERRO\n"+String(e&&e.message||e);});
+</script>
+</body></html>
