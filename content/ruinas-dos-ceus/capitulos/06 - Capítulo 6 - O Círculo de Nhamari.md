@@ -305,7 +305,7 @@ Jokara acompanhou as tochas se afastarem até que a última desaparecesse.
 
 Então puxou Loutes pela mão e contornou a clareira em passos calculados, rente às pedras que ladeavam o Círculo. Quando passou pela árvore seca com fitas brancas, os braços se arrepiaram.
 
-Atrás da árvore, escondida entre raízes grossas e musgo escuro, havia uma pequena fenda, estreita o bastante para parecer insignificante, mas com sinais de uso recente. Jokara percebeu pegadas leves ali. Não humanas.
+Atrás da árvore, escondida entre raízes grossas e musgo escuro, havia uma pequena fenda, estreita o bastante para parecer insignificante. O musgo diante da abertura estava quebrado em alguns pontos, e a terra úmida guardava marcas recentes de passagem.
 
 — Por aqui — sussurrou, e Loutes a seguiu sem hesitar.
 
