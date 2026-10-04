@@ -283,7 +283,15 @@ const Comments = (() => {
 
   function pInfo(block){const p=block.querySelector("p");const raw=p?p.textContent:block.textContent;const q=norm(raw);return {key:"p_"+hashText(q),quote:q.slice(0,220)};}
   function loc(x,ch,i,key){if(Number(x.chapter)!==Number(ch))return false;if(key&&x.paragraphKey&&x.paragraphKey===key)return true;return Number(x.paraIdx)===Number(i);}
-  function own(x){return admin()||(x.authorId?x.authorId===uid():norm(x.author)===norm(name()));}
+  // Edição é sempre do próprio autor. Estar no modo admin não transforma
+  // comentários de leitores em comentários "meus".
+  function own(x){
+    if(!x)return false;
+    if(admin())return x.role==="admin";
+    if(x.role==="admin")return false;
+    return x.authorId?x.authorId===uid():norm(x.author)===norm(name());
+  }
+  function canDelete(x){return !!x&&(admin()||own(x));}
   function rootVisible(x){return admin()||showAll||(x.authorId?x.authorId===uid():norm(x.author)===norm(name()));}
 
   async function sha256(s){
@@ -546,14 +554,14 @@ const Comments = (() => {
     if(!admin()||!db)throw new Error("Apenas o administrador pode apagar leitores.");
     const ref=db.collection(PROFILE_COLLECTION).doc(profileId);
     const snap=await ref.get();
-    if(!snap.exists)return {deletedFeedback:0,cleanupFailed:false};
+    if(!snap.exists)return {preservedFeedback:true,cleanupFailed:false};
     const profile=snap.data()||{};
     const rid=String(readerId||profile.readerId||"");
     const now=Date.now();
 
-    // Mantemos somente uma lápide técnica no mesmo ID (hash do código).
-    // Isso impede que um aparelho antigo recrie automaticamente o perfil
-    // apagado com o mesmo código, sem conservar nome, livros ou readerId.
+    // Exclusão de leitor agora é uma revogação de acesso, não uma destruição
+    // do histórico editorial. Comentários, respostas, reações e avaliações
+    // beta permanecem no Firestore para nunca sumirem com uma troca de perfil.
     const deleteBatch=db.batch();
     deleteBatch.set(ref,{
       deleted:true,
@@ -564,75 +572,33 @@ const Comments = (() => {
     deleteBatch.delete(db.collection(ACCESS_CODES_COLLECTION).doc(profileId));
     await deleteBatch.commit();
 
-    if(!rid)return {deletedFeedback:0,cleanupFailed:false};
+    if(!rid)return {preservedFeedback:true,cleanupFailed:false};
 
+    let cleanupFailed=false;
     try{
-      const commentsSnap=await db.collection("comments").get();
-      const rows=[];
-      commentsSnap.forEach(d=>rows.push({id:d.id,data:d.data()||{}}));
-
-      const ownedRootIds=new Set(
-        rows
-          .filter(x=>x.data.authorId===rid&&!x.data.parentId&&x.data.kind!=="reply"&&x.data.kind!=="reaction")
-          .map(x=>x.id)
-      );
-      const ids=[...new Set(rows.filter(x=>
-        x.data.authorId===rid||
-        ownedRootIds.has(x.data.parentId)||
-        ownedRootIds.has(x.data.rootId)
-      ).map(x=>x.id))];
-
-      for(let i=0;i<ids.length;i+=400){
+      const analyticsRef=db.collection("readerAnalytics").doc(rid);
+      const chaptersSnap=await analyticsRef.collection("chapters").get();
+      const chapterIds=[];
+      chaptersSnap.forEach(d=>chapterIds.push(d.id));
+      for(let i=0;i<chapterIds.length;i+=400){
         const batch=db.batch();
-        ids.slice(i,i+400).forEach(id=>batch.delete(db.collection("comments").doc(id)));
+        chapterIds.slice(i,i+400).forEach(id=>batch.delete(analyticsRef.collection("chapters").doc(id)));
         await batch.commit();
       }
-
-      let analyticsCleanupFailed=false;
-      try{
-        const analyticsRef=db.collection("readerAnalytics").doc(rid);
-        const chaptersSnap=await analyticsRef.collection("chapters").get();
-        const chapterIds=[];
-        chaptersSnap.forEach(d=>chapterIds.push(d.id));
-        for(let i=0;i<chapterIds.length;i+=400){
-          const batch=db.batch();
-          chapterIds.slice(i,i+400).forEach(id=>batch.delete(analyticsRef.collection("chapters").doc(id)));
-          await batch.commit();
-        }
-        await analyticsRef.delete();
-      }catch(e){
-        analyticsCleanupFailed=true;
-        console.warn("Leitor removido, mas a limpeza dos relatórios falhou:",e);
-      }
-
-      let surveyCleanupFailed=false;
-      try{
-        const feedbackSnap=await db.collection("betaFeedback").where("readerId","==",rid).get();
-        const feedbackDocs=[];feedbackSnap.forEach(d=>feedbackDocs.push(d));
-        for(let i=0;i<feedbackDocs.length;i+=400){
-          const batch=db.batch();
-          feedbackDocs.slice(i,i+400).forEach(d=>batch.delete(d.ref));
-          await batch.commit();
-        }
-      }catch(e){
-        surveyCleanupFailed=true;
-        console.warn("Leitor removido, mas a limpeza das avaliações beta falhou:",e);
-      }
-
-      let presenceCleanupFailed=false;
-      try{await db.collection("readerPresence").doc(rid).delete();}
-      catch(e){
-        presenceCleanupFailed=true;
-        console.warn("Leitor removido, mas a presença ao vivo não pôde ser limpa:",e);
-      }
-
-      if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
-      return {deletedFeedback:ids.length,cleanupFailed:analyticsCleanupFailed||surveyCleanupFailed||presenceCleanupFailed};
+      await analyticsRef.delete();
     }catch(e){
-      console.warn("Leitor removido, mas a limpeza do feedback falhou:",e);
-      if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
-      return {deletedFeedback:0,cleanupFailed:true};
+      cleanupFailed=true;
+      console.warn("Leitor revogado, mas a limpeza dos relatórios falhou:",e);
     }
+
+    try{await db.collection("readerPresence").doc(rid).delete();}
+    catch(e){
+      cleanupFailed=true;
+      console.warn("Leitor revogado, mas a presença ao vivo não pôde ser limpa:",e);
+    }
+
+    if(rid&&rid===localStorage.getItem(USER_KEY))resetDeletedReaderProfile();
+    return {preservedFeedback:true,cleanupFailed};
   }
 
   async function updateReaderName(rawName){
@@ -1164,13 +1130,27 @@ const Comments = (() => {
     await db.collection("comments").add({kind:"reply",parentId:root.id,rootId:root.id,bookId:root.bookId,chapter:root.chapter,paraIdx:root.paraIdx,paragraphKey:root.paragraphKey||null,quote:root.quote||"",author:name()||"Anônimo",authorId:uid(),role:admin()?"admin":"reader",text,at:now,updatedAt:now});
     await db.collection("comments").doc(root.id).set({updatedAt:now,status:"open",adminSeen:admin()},{merge:true});
   }
-  async function edit(x){
-    if(!own(x))return;const v=prompt("Editar:",x.text||"");if(v===null||!v.trim())return;
-    await db.collection("comments").doc(x.id).set({text:v.trim(),editedAt:Date.now(),updatedAt:Date.now(),...(admin()?{}:{adminSeen:false})},{merge:true});
+  async function saveText(x,text){
+    if(!own(x))throw new Error("Você só pode editar o que escreveu.");
+    const value=String(text||"").trim();
+    if(!value)throw new Error("A resposta não pode ficar vazia.");
+    if(value.length>500)throw new Error("O texto pode ter no máximo 500 caracteres.");
+    await db.collection("comments").doc(x.id).set({
+      text:value,
+      editedAt:Date.now(),
+      updatedAt:Date.now(),
+      ...(admin()?{}:{adminSeen:false})
+    },{merge:true});
     if(x.parentId&&!admin())await db.collection("comments").doc(x.parentId).set({adminSeen:false,updatedAt:Date.now()},{merge:true});
   }
+  async function edit(x){
+    if(!own(x))return;
+    const v=prompt("Editar:",x.text||"");
+    if(v===null||!v.trim())return;
+    await saveText(x,v);
+  }
   async function del(x){
-    if(!own(x)||!confirm(x.parentId?"Apagar esta resposta?":"Apagar este comentário e as respostas?"))return;
+    if(!canDelete(x)||!confirm(x.parentId?"Apagar esta resposta?":"Apagar este comentário e as respostas?"))return;
     if(x.parentId)return db.collection("comments").doc(x.id).delete();
     const s=await db.collection("comments").where("parentId","==",x.id).get(),b=db.batch();s.forEach(d=>b.delete(d.ref));b.delete(db.collection("comments").doc(x.id));await b.commit();
   }
@@ -1194,10 +1174,16 @@ const Comments = (() => {
   function thread(root,book){
     const reps=replies(book,root.id);
     const acts=[];
-    if(own(root)){acts.push('<button data-act="edit" data-id="'+root.id+'">Editar</button>','<button data-act="del" data-id="'+root.id+'">Apagar</button>');}
+    if(own(root))acts.push('<button data-act="edit" data-id="'+root.id+'">Editar</button>');
+    if(canDelete(root))acts.push('<button data-act="del" data-id="'+root.id+'">Apagar</button>');
     if(admin()){acts.push('<button data-act="resolve" data-id="'+root.id+'">'+(root.status==="resolved"?"Reabrir":"Resolver")+'</button>');if(!root.adminSeen)acts.push('<button data-act="seen" data-id="'+root.id+'">Marcar lido</button>');}
-    const rh=reps.map(r=>'<div class="feedback-reply '+(r.role==="admin"?"by-admin":"")+'"><div class="feedback-meta"><strong>'+esc(r.role==="admin"?"Autor":r.author)+'</strong><span>'+when(r.at)+'</span>'+(own(r)?'<span class="feedback-mini-actions"><button data-act="edit" data-id="'+r.id+'">Editar</button><button data-act="del" data-id="'+r.id+'">Apagar</button></span>':"")+'</div><div class="feedback-text">'+esc(r.text)+'</div></div>').join("");
-    return '<div class="feedback-thread" data-thread-id="'+root.id+'"><div class="feedback-meta"><strong>'+esc(root.author)+'</strong><span>'+when(root.at)+'</span>'+(!root.adminSeen&&admin()?'<span class="feedback-status new">Novo</span>':"")+(root.status==="resolved"?'<span class="feedback-status resolved">Resolvido</span>':"")+'</div><div class="feedback-text">'+esc(root.text)+'</div>'+(acts.length?'<div class="feedback-actions">'+acts.join("")+'</div>':"")+(rh?'<div class="feedback-replies">'+rh+'</div>':"")+'<form class="feedback-reply-form" data-root="'+root.id+'"><input maxlength="500" placeholder="Responder…" required><button>Responder</button></form></div>';
+    const rh=reps.map(r=>{
+      const mini=[];
+      if(own(r))mini.push('<button data-act="edit" data-id="'+r.id+'">Editar</button>');
+      if(canDelete(r))mini.push('<button data-act="del" data-id="'+r.id+'">Apagar</button>');
+      return '<div class="feedback-reply '+(r.role==="admin"?"by-admin":"")+'"><div class="feedback-meta"><strong>'+esc(r.role==="admin"?"Resposta do autor":r.author)+'</strong><span>'+when(r.at)+(r.editedAt?" · editado":"")+'</span>'+(mini.length?'<span class="feedback-mini-actions">'+mini.join("")+'</span>':"")+'</div><div class="feedback-text">'+esc(r.text)+'</div></div>';
+    }).join("");
+    return '<div class="feedback-thread" data-thread-id="'+root.id+'"><div class="feedback-meta"><strong>'+esc(root.author)+'</strong><span>'+when(root.at)+(root.editedAt?" · editado":"")+'</span>'+(!root.adminSeen&&admin()?'<span class="feedback-status new">Novo</span>':"")+(root.status==="resolved"?'<span class="feedback-status resolved">Resolvido</span>':"")+'</div><div class="feedback-text">'+esc(root.text)+'</div>'+(acts.length?'<div class="feedback-actions">'+acts.join("")+'</div>':"")+(rh?'<div class="feedback-replies">'+rh+'</div>':"")+'<form class="feedback-reply-form" data-root="'+root.id+'"><input maxlength="500" placeholder="Responder…" required><button>Responder</button></form></div>';
   }
 
   function wireThreads(el,book){
@@ -1465,6 +1451,14 @@ const Comments = (() => {
       const picker=actions.querySelector(".reaction-picker");
       const cnt=actions.querySelector(".comment-count");
 
+      let reactionSummary=block.querySelector(":scope > .reaction-summary");
+      if(!reactionSummary){
+        reactionSummary=document.createElement("div");
+        reactionSummary.className="reaction-summary";
+        reactionSummary.hidden=true;
+        block.appendChild(reactionSummary);
+      }
+
       cnt.hidden=!vr.length;
       if(vr.length)cnt.textContent=vr.length;
 
@@ -1491,6 +1485,18 @@ const Comments = (() => {
 
       const counts={};
       rx.forEach(x=>counts[x.emoji]=(counts[x.emoji]||0)+1);
+      reactionSummary.hidden=!rx.length;
+      reactionSummary.innerHTML=EMOJIS.filter(emoji=>counts[emoji]).map(emoji=>
+        '<button type="button" class="reaction-count '+(mine?.emoji===emoji?"mine":"")+'" data-summary-e="'+emoji+'" aria-label="'+esc(emoji+" "+counts[emoji])+'">'+emoji+' <span>'+counts[emoji]+'</span></button>'
+      ).join("");
+      reactionSummary.querySelectorAll("[data-summary-e]").forEach(btn=>{
+        btn.onclick=e=>{
+          e.stopPropagation();
+          const rect=btn.getBoundingClientRect();
+          openParagraphMenu(block,rect.left+rect.width/2,rect.top);
+          picker.hidden=false;
+        };
+      });
       picker.innerHTML=EMOJIS.map(emoji=>{
         const count=counts[emoji]||0;
         const label=count?emoji+" "+count:emoji;
@@ -1549,7 +1555,7 @@ const Comments = (() => {
   return {
     init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,getAccessCode:accessCode,
     loginWithCode,ensureAccessProfile,updateReaderName,hashText,forceResync,
-    getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,del,resolve,seen,unseen,markAllSeen,
+    getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,saveText,del,resolve,seen,unseen,markAllSeen,
     sendAnnouncement,getAllowedBooks,listReaderProfiles,setAllowedBooks,rotateReaderAccessCode,deleteReaderProfile
   };
 })();
