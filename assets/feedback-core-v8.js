@@ -1456,7 +1456,7 @@ const Comments = (() => {
         reactionSummary=document.createElement("div");
         reactionSummary.className="reaction-summary";
         reactionSummary.hidden=true;
-        block.appendChild(reactionSummary);
+        block.insertBefore(reactionSummary,actions);
       }
 
       cnt.hidden=!vr.length;
