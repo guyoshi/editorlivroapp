@@ -45,6 +45,7 @@
 
   function roots(){return all.filter(x=>!x.parentId&&x.kind!=="reply"&&x.kind!=="reaction");}
   function replies(id){return all.filter(x=>x.parentId===id||x.rootId===id).sort((a,b)=>(a.at||0)-(b.at||0));}
+  function authorReplies(id){return replies(id).filter(x=>x.role==="admin");}
   function find(id){return all.find(x=>x.id===id);}
   function db(){return window.Comments?.getDb?.();}
 
@@ -80,16 +81,71 @@
   function ensureSheet(){
     if(document.getElementById("commentAdminSheet"))return;
     const el=document.createElement("div");el.id="commentAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Central de comentários</h2><p>Novos primeiro. Responda, resolva ou vá direto ao trecho.</p></div><div class="admin-head-actions"><button id="adminDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="adminDashClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-dashboard-filters"><select id="afStatus"><option value="all">Todos</option><option value="new">Novos</option><option value="open">Em aberto</option><option value="resolved">Resolvidos</option></select><select id="afBook"><option value="">Todos os livros</option></select><select id="afChapter"><option value="">Todos os capítulos</option></select><select id="afAuthor"><option value="">Todos os leitores</option></select><input id="afSearch" type="search" placeholder="Buscar comentário…"></div><div class="admin-dashboard-bulk"><button id="afMarkReadAll" type="button" class="link-btn">Marcar exibidos como lidos</button><button id="afMarkUnreadAll" type="button" class="link-btn">Marcar exibidos como não lidos</button></div><div id="adminDashboardList" class="admin-dashboard-list"></div></section>';
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Central de comentários</h2><p>Novos primeiro. Responda, filtre o que já foi respondido e volte a qualquer conversa quando quiser.</p></div><div class="admin-head-actions"><button id="adminDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="adminDashClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-dashboard-filters"><select id="afStatus"><option value="all">Todos os estados</option><option value="new">Novos</option><option value="open">Em aberto</option><option value="resolved">Resolvidos</option></select><select id="afReply"><option value="all">Todas as respostas</option><option value="unanswered">Sem resposta do autor</option><option value="answered">Respondidos por mim</option></select><select id="afBook"><option value="">Todos os livros</option></select><select id="afChapter"><option value="">Todos os capítulos</option></select><select id="afAuthor"><option value="">Todos os leitores</option></select><input id="afSearch" type="search" placeholder="Buscar comentário ou resposta…"></div><div class="admin-dashboard-bulk"><button id="afMarkReadAll" type="button" class="link-btn">Marcar exibidos como lidos</button><button id="afMarkUnreadAll" type="button" class="link-btn">Marcar exibidos como não lidos</button></div><div id="adminDashboardList" class="admin-dashboard-list"></div></section>';
     document.body.appendChild(el);
     el.querySelector("#adminDashBack").onclick=()=>{hide();showAdminHome();};
     el.querySelector("#adminDashClose").onclick=hide;
     el.onclick=e=>{if(e.target===el)hide();};
-    ["afStatus","afBook","afChapter","afAuthor","afSearch"].forEach(id=>{
+    ["afStatus","afReply","afBook","afChapter","afAuthor","afSearch"].forEach(id=>{
       const x=el.querySelector("#"+id);x.addEventListener(x.tagName==="INPUT"?"input":"change",render);
     });
     el.querySelector("#afMarkReadAll").onclick=()=>bulkMark(true);
     el.querySelector("#afMarkUnreadAll").onclick=()=>bulkMark(false);
+    ensureReplyComposer();
+  }
+
+  let composerRoot=null,composerReply=null;
+  function ensureReplyComposer(){
+    if(document.getElementById("adminReplyComposer"))return;
+    const el=document.createElement("div");
+    el.id="adminReplyComposer";
+    el.className="reply-composer-sheet";
+    el.hidden=true;
+    el.innerHTML='<section class="reply-composer-card" role="dialog" aria-modal="true" aria-labelledby="replyComposerTitle">'
+      +'<div class="reply-composer-head"><div><span class="reply-composer-kicker">Resposta do autor</span><h2 id="replyComposerTitle">Responder comentário</h2></div><button id="replyComposerClose" class="icon-btn" type="button">✕</button></div>'
+      +'<div id="replyComposerContext" class="reply-composer-context"></div>'
+      +'<label class="reply-composer-field"><span>Sua resposta</span><textarea id="replyComposerText" maxlength="500" rows="5" placeholder="Escreva uma resposta clara e gentil…"></textarea><small><span id="replyComposerCount">0</span>/500</small></label>'
+      +'<p id="replyComposerStatus" class="reply-composer-status" aria-live="polite"></p>'
+      +'<div class="reply-composer-actions"><button id="replyComposerCancel" class="btn-ghost" type="button">Cancelar</button><button id="replyComposerSave" class="btn-primary" type="button">Enviar resposta</button></div>'
+      +'</section>';
+    document.body.appendChild(el);
+    const ta=el.querySelector("#replyComposerText");
+    const close=()=>{composerRoot=null;composerReply=null;el.hidden=true;el.querySelector("#replyComposerStatus").textContent="";};
+    el.querySelector("#replyComposerClose").onclick=close;
+    el.querySelector("#replyComposerCancel").onclick=close;
+    el.onclick=e=>{if(e.target===el)close();};
+    ta.addEventListener("input",()=>{el.querySelector("#replyComposerCount").textContent=String(ta.value.length);});
+    el.querySelector("#replyComposerSave").onclick=async()=>{
+      const value=ta.value.trim();
+      if(!value||!composerRoot)return;
+      const btn=el.querySelector("#replyComposerSave"),status=el.querySelector("#replyComposerStatus");
+      btn.disabled=true;
+      status.textContent=composerReply?"Salvando edição…":"Enviando resposta…";
+      try{
+        if(composerReply)await Comments.saveText(composerReply,value);
+        else await Comments.reply(composerRoot,value);
+        close();
+        render();
+      }catch(e){
+        status.textContent=e?.message||"Não foi possível salvar a resposta.";
+      }finally{btn.disabled=false;}
+    };
+  }
+
+  function openReplyComposer(root,reply=null){
+    if(!root)return;
+    ensureReplyComposer();
+    composerRoot=root;composerReply=reply;
+    const el=document.getElementById("adminReplyComposer");
+    const ta=el.querySelector("#replyComposerText");
+    el.querySelector("#replyComposerTitle").textContent=reply?"Editar minha resposta":"Responder a "+(root.author||"leitor");
+    el.querySelector("#replyComposerSave").textContent=reply?"Salvar alteração":"Enviar resposta";
+    el.querySelector("#replyComposerContext").innerHTML=(root.quote?'<blockquote>'+esc(root.quote)+'</blockquote>':"")+'<div class="reply-composer-original"><strong>'+esc(root.author||"Leitor")+'</strong><p>'+esc(root.text||"")+'</p></div>';
+    ta.value=reply?.text||"";
+    el.querySelector("#replyComposerCount").textContent=String(ta.value.length);
+    el.querySelector("#replyComposerStatus").textContent="";
+    el.hidden=false;
+    setTimeout(()=>{ta.focus();ta.setSelectionRange(ta.value.length,ta.value.length);},0);
   }
 
   function subscribe(){
@@ -121,8 +177,9 @@
   }
 
   function render(){
-    if(!open)return;const sheet=document.getElementById("commentAdminSheet"),list=sheet.querySelector("#adminDashboardList");
-    const st=sheet.querySelector("#afStatus"),bk=sheet.querySelector("#afBook"),ch=sheet.querySelector("#afChapter"),au=sheet.querySelector("#afAuthor"),se=sheet.querySelector("#afSearch");
+    if(!open)return;
+    const sheet=document.getElementById("commentAdminSheet"),list=sheet.querySelector("#adminDashboardList");
+    const st=sheet.querySelector("#afStatus"),rf=sheet.querySelector("#afReply"),bk=sheet.querySelector("#afBook"),ch=sheet.querySelector("#afChapter"),au=sheet.querySelector("#afAuthor"),se=sheet.querySelector("#afSearch");
     const bv=bk.value,cv=ch.value,av=au.value;
     const rr=roots(),books=[...new Set(rr.map(x=>x.bookId).filter(Boolean))].sort();
     const authorMap=new Map();
@@ -135,25 +192,65 @@
     fill(ch,chapters,cv,v=>"Capítulo "+v);
     const q=norm(se.value);
     const items=rr.filter(r=>{
-      if(st.value==="new"&&r.adminSeen)return false;if(st.value==="open"&&r.status==="resolved")return false;if(st.value==="resolved"&&r.status!=="resolved")return false;
-      if(bk.value&&r.bookId!==bk.value)return false;if(ch.value&&String(r.chapter)!==ch.value)return false;if(au.value&&readerKey(r)!==au.value)return false;
-      if(q&&!norm((r.text||"")+" "+(r.quote||"")+" "+(r.author||"")).includes(q))return false;return true;
-    }).sort((a,b)=>{const an=a.adminSeen?0:1,bn=b.adminSeen?0:1;return an!==bn?bn-an:(b.updatedAt||b.at||0)-(a.updatedAt||a.at||0);});
+      const reps=replies(r.id),answered=reps.some(x=>x.role==="admin");
+      if(st.value==="new"&&r.adminSeen)return false;
+      if(st.value==="open"&&r.status==="resolved")return false;
+      if(st.value==="resolved"&&r.status!=="resolved")return false;
+      if(rf.value==="answered"&&!answered)return false;
+      if(rf.value==="unanswered"&&answered)return false;
+      if(bk.value&&r.bookId!==bk.value)return false;
+      if(ch.value&&String(r.chapter)!==ch.value)return false;
+      if(au.value&&readerKey(r)!==au.value)return false;
+      const haystack=(r.text||"")+" "+(r.quote||"")+" "+(r.author||"")+" "+reps.map(x=>x.text||"").join(" ");
+      if(q&&!norm(haystack).includes(q))return false;
+      return true;
+    }).sort((a,b)=>{
+      const an=a.adminSeen?0:1,bn=b.adminSeen?0:1;
+      return an!==bn?bn-an:(b.updatedAt||b.at||0)-(a.updatedAt||a.at||0);
+    });
     lastItems=items;
     if(!items.length){list.innerHTML='<p class="admin-empty">Nenhum comentário neste filtro.</p>';return;}
+
     list.innerHTML=items.map(r=>{
-      const rp=replies(r.id).map(x=>'<div class="feedback-reply '+(x.role==="admin"?"by-admin":"")+'"><div class="feedback-meta"><strong>'+esc(x.role==="admin"?"Autor":readerLabel(x))+'</strong><span>'+when(x.at)+'</span></div><div class="feedback-text">'+esc(x.text)+'</div></div>').join("");
-      return '<article class="admin-comment-card '+(!r.adminSeen?"is-new":"")+'"><div class="admin-card-top"><div><strong>'+esc(readerLabel(r))+'</strong><span>'+esc(r.bookId||"")+' · Cap. '+esc(r.chapter)+' · §'+(Number(r.paraIdx)+1)+'</span></div><div>'+(!r.adminSeen?'<span class="feedback-status new">Novo</span>':"")+(r.status==="resolved"?'<span class="feedback-status resolved">Resolvido</span>':"")+'</div></div>'+(r.quote?'<blockquote>'+esc(r.quote)+'</blockquote>':"")+'<div class="admin-root-text">'+esc(r.text||"")+'</div>'+(rp?'<div class="feedback-replies">'+rp+'</div>':"")+'<div class="admin-card-actions"><button data-a="goto" data-id="'+r.id+'">Ver trecho</button><button data-a="reply" data-id="'+r.id+'">Responder</button><button data-a="resolve" data-id="'+r.id+'">'+(r.status==="resolved"?"Reabrir":"Resolver")+'</button><button data-a="edit" data-id="'+r.id+'">Editar</button><button data-a="del" data-id="'+r.id+'">Apagar</button>'+(!r.adminSeen?'<button data-a="seen" data-id="'+r.id+'">Marcar lido</button>':'<button data-a="unseen" data-id="'+r.id+'">Marcar não lido</button>')+'</div></article>';
+      const reps=replies(r.id),myReplies=reps.filter(x=>x.role==="admin");
+      const rp=reps.map(x=>{
+        const isMine=x.role==="admin";
+        const actions='<span class="feedback-mini-actions">'+(isMine?'<button data-a="edit-reply" data-id="'+x.id+'" data-root="'+r.id+'">Editar</button>':"")+'<button data-a="del-reply" data-id="'+x.id+'" data-root="'+r.id+'">Apagar</button></span>';
+        return '<div class="feedback-reply '+(isMine?"by-admin":"")+'"><div class="feedback-meta"><strong>'+esc(isMine?"Sua resposta":readerLabel(x))+'</strong><span>'+when(x.at)+(x.editedAt?" · editado":"")+'</span>'+actions+'</div><div class="feedback-text">'+esc(x.text)+'</div></div>';
+      }).join("");
+      const badges=(!r.adminSeen?'<span class="feedback-status new">Novo</span>':"")
+        +(myReplies.length?'<span class="feedback-status answered">Respondido</span>':"")
+        +(r.status==="resolved"?'<span class="feedback-status resolved">Resolvido</span>':"");
+      const editRoot=r.role==="admin"?'<button data-a="edit-root" data-id="'+r.id+'">Editar</button>':"";
+      const replyLabel=myReplies.length?"Responder novamente":"Responder";
+      return '<article class="admin-comment-card '+(!r.adminSeen?"is-new":"")+'">'
+        +'<div class="admin-card-top"><div><strong>'+esc(readerLabel(r))+'</strong><span>'+esc(r.bookId||"")+' · Cap. '+esc(r.chapter)+' · §'+(Number(r.paraIdx)+1)+'</span></div><div>'+badges+'</div></div>'
+        +(r.quote?'<blockquote>'+esc(r.quote)+'</blockquote>':"")
+        +'<div class="admin-root-text">'+esc(r.text||"")+(r.editedAt?'<small class="feedback-edited">editado</small>':"")+'</div>'
+        +(rp?'<div class="feedback-replies">'+rp+'</div>':"")
+        +'<div class="admin-card-actions"><button data-a="goto" data-id="'+r.id+'">Ver trecho</button><button data-a="reply" data-id="'+r.id+'">'+replyLabel+'</button><button data-a="resolve" data-id="'+r.id+'">'+(r.status==="resolved"?"Reabrir":"Resolver")+'</button>'+editRoot+'<button data-a="del" data-id="'+r.id+'">Apagar</button>'+(!r.adminSeen?'<button data-a="seen" data-id="'+r.id+'">Marcar lido</button>':'<button data-a="unseen" data-id="'+r.id+'">Marcar não lido</button>')+'</div>'
+        +'</article>';
     }).join("");
+
     list.querySelectorAll("[data-a]").forEach(b=>b.onclick=async()=>{
+      const action=b.dataset.a;
+      if(action==="edit-reply"){
+        const reply=find(b.dataset.id),root=find(b.dataset.root);
+        if(reply&&root)openReplyComposer(root,reply);
+        return;
+      }
+      if(action==="del-reply"){
+        const x=find(b.dataset.id);if(x)await Comments.del(x);
+        return;
+      }
       const r=find(b.dataset.id);if(!r)return;
-      if(b.dataset.a==="reply"){const v=prompt("Responder a "+(r.author||"leitor")+":");if(v?.trim())await Comments.reply(r,v.trim());}
-      if(b.dataset.a==="resolve")await Comments.resolve(r,r.status!=="resolved");
-      if(b.dataset.a==="edit")await Comments.edit(r);
-      if(b.dataset.a==="del")await Comments.del(r);
-      if(b.dataset.a==="seen")await Comments.seen(r);
-      if(b.dataset.a==="unseen")await Comments.unseen(r);
-      if(b.dataset.a==="goto"){await Comments.seen(r);hide();window.BookReader?.openLocation?.(r.bookId,r.chapter,r.paraIdx,r.paragraphKey,r.id);}
+      if(action==="reply")openReplyComposer(r);
+      if(action==="resolve")await Comments.resolve(r,r.status!=="resolved");
+      if(action==="edit-root")await Comments.edit(r);
+      if(action==="del")await Comments.del(r);
+      if(action==="seen")await Comments.seen(r);
+      if(action==="unseen")await Comments.unseen(r);
+      if(action==="goto"){await Comments.seen(r);hide();window.BookReader?.openLocation?.(r.bookId,r.chapter,r.paraIdx,r.paragraphKey,r.id);}
     });
   }
 
@@ -977,11 +1074,11 @@
       +'<div><h2 id="readerDeleteTitle">Apagar leitor definitivamente?</h2><p>Você está prestes a apagar <strong id="readerDeleteName">este leitor</strong>.</p></div>'
       +'<div class="danger-confirm-warning"><strong>Esta ação não pode ser desfeita.</strong><ul>'
         +'<li>O código de acesso deste leitor será revogado.</li>'
-        +'<li>Comentários, respostas e reações desse leitor serão apagados.</li>'
-        +'<li>Relatórios e dados analíticos vinculados a ele serão removidos.</li>'
+        +'<li>Comentários, respostas, reações e avaliações beta ficam preservados no histórico.</li>'
+        +'<li>Relatórios de atividade e presença ao vivo vinculados a ele serão removidos.</li>'
         +'<li>Ele perderá o acesso aos livros liberados para este perfil.</li>'
       +'</ul><p>Dados de progresso que existam apenas no aparelho do leitor podem continuar fisicamente naquele navegador, mas o perfil revogado não poderá ser recuperado pelo código antigo.</p></div>'
-      +'<label class="danger-confirm-check"><input id="readerDeleteAcknowledge" type="checkbox"><span>Entendo que esta exclusão é permanente e que os dados vinculados ao leitor serão perdidos.</span></label>'
+      +'<label class="danger-confirm-check"><input id="readerDeleteAcknowledge" type="checkbox"><span>Entendo que o acesso será revogado, mas o histórico editorial será preservado.</span></label>'
       +'<p id="readerDeleteStatus" class="danger-confirm-status" aria-live="polite"></p>'
       +'<div class="danger-confirm-actions"><button id="readerDeleteCancel" class="btn-ghost" type="button">Cancelar</button><button id="readerDeleteConfirmBtn" class="btn-danger" type="button" disabled>Apagar definitivamente</button></div>'
       +'</section>';
@@ -1012,14 +1109,14 @@
       cancelBtn.disabled=true;
       confirmBtn.textContent="Apagando…";
       const status=el.querySelector("#readerDeleteStatus");
-      status.textContent="Revogando o perfil e removendo os dados vinculados…";
+      status.textContent="Revogando o acesso e preservando o histórico editorial…";
       try{
         const result=await Comments.deleteReaderProfile(profile.id,profile.readerId);
         if(result?.cleanupFailed){
           status.textContent="O perfil foi revogado, mas parte da limpeza pode não ter sido concluída.";
-          alert("O leitor foi removido e o código foi revogado, mas alguns dados vinculados podem ter ficado no banco.");
+          alert("O acesso foi revogado e o histórico editorial foi preservado, mas parte da limpeza de atividade pode não ter sido concluída.");
         }else{
-          status.textContent="Leitor apagado.";
+          status.textContent="Acesso revogado. Comentários e respostas preservados.";
         }
         pendingDeleteProfile=null;
         el.hidden=true;
