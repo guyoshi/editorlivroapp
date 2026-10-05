@@ -164,10 +164,24 @@ const Comments = (() => {
     if(admin()){
       el.hidden=false;
       el.textContent="Modo administrador · Autor";
-      if(hubBtn)hubBtn.hidden=true;
+      if(hubBtn){
+        hubBtn.hidden=false;
+        hubBtn.classList.add("admin-mode");
+        hubBtn.title="Painel do autor";
+        hubBtn.setAttribute("aria-label","Painel do autor");
+        const path=hubBtn.querySelector("#topProfileIconPath");
+        if(path)path.setAttribute("d","M12 2 4 5v6c0 5.55 3.84 10.74 8 12 4.16-1.26 8-6.45 8-12V5l-8-3zm-1 14-4-4 1.4-1.4 2.6 2.57 4.6-4.6L17 10l-6 6z");
+      }
       return;
     }
-    if(hubBtn)hubBtn.hidden=false;
+    if(hubBtn){
+      hubBtn.hidden=false;
+      hubBtn.classList.remove("admin-mode");
+      hubBtn.title="Minha central";
+      hubBtn.setAttribute("aria-label","Minha central");
+      const path=hubBtn.querySelector("#topProfileIconPath");
+      if(path)path.setAttribute("d","M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,5c1.66,0,3,1.34,3,3s-1.34,3-3,3 s-3-1.34-3-3S10.34,5,12,5z M12,19.2c-2.5,0-4.71-1.28-6-3.22c0.03-1.99 4-3.08 6-3.08 1.99,0 5.97,1.09 6,3.08 C16.71,17.92,14.5,19.2,12,19.2z");
+    }
     if(name()){
       el.hidden=false;
       const code=accessCode();
