@@ -1574,7 +1574,7 @@ const Comments = (() => {
   }
 
   return {
-    init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getUserName:name,getUserId:uid,getAccessCode:accessCode,
+    init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getAdminId:()=>adminUser?.uid||"",getUserName:name,getUserId:uid,getAccessCode:accessCode,
     loginWithCode,ensureAccessProfile,updateReaderName,hashText,forceResync,
     getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,saveText,del,resolve,seen,unseen,markAllSeen,
     sendAnnouncement,getAllowedBooks,listReaderProfiles,setAllowedBooks,rotateReaderAccessCode,deleteReaderProfile
