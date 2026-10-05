@@ -14,9 +14,9 @@ const READER_ID_KEY = "jesed:readerId";
 // único mesmo quando duas pessoas escolhem exatamente o mesmo nome.
 // Admin sem perfil de leitor usa um namespace próprio.
 function progressOwner(){
+  if(window.Comments?.isAdmin?.()) return "admin";
   const readerId = String(localStorage.getItem(READER_ID_KEY) || "").trim();
   if(readerId) return "reader:" + readerId;
-  if(window.Comments?.isAdmin?.()) return "admin";
   return "guest";
 }
 const POS_KEY = (bookId, n) => `jesed:pos:${progressOwner()}:${bookId}:${n}`;
@@ -74,6 +74,7 @@ async function loadLibrary(){
   let allowed = null;
   try{ allowed = await window.Comments?.getAllowedBooks?.() ?? null; }catch(e){ allowed = []; }
   state.books = (allowed===null) ? allBooksCache.slice() : allBooksCache.filter(b=>allowed.includes(b.id));
+  document.dispatchEvent(new CustomEvent("beta:library-loaded"));
 
   if(!state.books.length){
     const hasReaderProfile = !!window.Comments?.getUserName?.();
