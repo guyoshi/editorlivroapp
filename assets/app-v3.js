@@ -267,12 +267,14 @@ async function openChapter(idx){
     $("#chapterText").innerHTML = `<p class="empty-hint">Não consegui carregar o texto deste capítulo.</p>`;
   }
 
-  // áudio
+  // player inferior: permanece visível em todo capítulo.
+  // Recursos ausentes ficam cinzentos e não reproduzíveis, em vez de sumirem.
   const player = $("#audioEl");
   const bar = $("#playerBar");
+  bar.hidden = false;
   bar.classList.remove("player-missing");
   if(ch.audio){
-    bar.hidden = false;
+    setNarrationAvailability(true);
     views.reader.classList.add("has-narration");
     player.src = resolve(ch.audio);
     const saved = readPos(book.id, ch.n);
@@ -284,17 +286,20 @@ async function openChapter(idx){
       player.removeEventListener("loadedmetadata", once);
     });
     player.addEventListener("error", function onErr(){
-      // áudio deste capítulo ainda não foi enviado — some com a barra em
-      // vez de deixar um player quebrado na tela
-      bar.hidden = true;
+      // O manifesto pode apontar para uma narração que ainda não foi publicada.
+      // Nesse caso o controle continua no lugar, mas passa ao estado indisponível.
+      try{ player.pause(); }catch(e){}
+      setNarrationAvailability(false);
       views.reader.classList.remove("has-narration");
       player.removeEventListener("error", onErr);
     }, {once:true});
     setMediaSession(book, ch);
   }else{
-    bar.hidden = true;
-    views.reader.classList.remove("has-narration");
+    try{ player.pause(); }catch(e){}
     player.removeAttribute("src");
+    try{ player.load(); }catch(e){}
+    setNarrationAvailability(false);
+    views.reader.classList.remove("has-narration");
   }
 }
 
@@ -461,6 +466,29 @@ function savePos(t){
 
 // ---------------- player de áudio ----------------
 const audioEl = () => $("#audioEl");
+let narrationAvailable = false;
+
+function setNarrationAvailability(available){
+  narrationAvailable = !!available;
+  const bar=$("#playerBar"),btn=$("#btnPlay"),seek=$("#seek"),back=$("#btnBack15");
+  if(bar)bar.classList.toggle("narration-unavailable",!narrationAvailable);
+  if(btn){
+    btn.disabled=!narrationAvailable;
+    btn.setAttribute("aria-disabled",String(!narrationAvailable));
+    btn.setAttribute("aria-pressed","false");
+    if(!narrationAvailable){
+      btn.title="Narração indisponível neste capítulo";
+      btn.setAttribute("aria-label","Narração indisponível neste capítulo");
+    }
+  }
+  if(seek){seek.disabled=!narrationAvailable;if(!narrationAvailable)seek.value="0";}
+  if(back){back.disabled=!narrationAvailable;back.setAttribute("aria-disabled",String(!narrationAvailable));}
+  if(!narrationAvailable){
+    const cur=$("#timeCurrent"),total=$("#timeTotal");
+    if(cur)cur.textContent="0:00";
+    if(total)total.textContent="0:00";
+  }
+}
 function fmtTime(s){
   s = Math.max(0, Math.floor(s||0));
   const m = Math.floor(s/60), r = s%60;
@@ -507,7 +535,24 @@ let ambientDuckTimer = null;
 let ambientCrossfadeToken = 0;
 let ambientActiveEl = null;
 let ambientTrackKey = null;
+let ambientAvailable = false;
 const ambientMix = new WeakMap();
+
+function setAmbientAvailability(available){
+  ambientAvailable=!!available;
+  const btn=$("#btnAmbient");
+  if(!btn)return;
+  btn.hidden=false;
+  btn.disabled=!ambientAvailable;
+  btn.classList.toggle("unavailable",!ambientAvailable);
+  btn.setAttribute("aria-disabled",String(!ambientAvailable));
+  if(!ambientAvailable){
+    btn.classList.remove("active");
+    btn.setAttribute("aria-pressed","false");
+    btn.setAttribute("aria-label","Música indisponível neste capítulo");
+    btn.title="Música indisponível neste capítulo";
+  }
+}
 
 function ambientPlayers(){
   return [$("#ambientEl"),$("#ambientElAlt")].filter(Boolean);
@@ -551,12 +596,15 @@ function setAmbientDuck(target,ms=280){
 function syncAmbientButton(){
   const btn=$("#btnAmbient");
   if(!btn)return;
-  const playing=!!ambientActiveEl && !ambientActiveEl.paused;
+  btn.hidden=false;
+  const playing=ambientAvailable && !!ambientActiveEl && !ambientActiveEl.paused;
   btn.classList.toggle("active",playing);
-  const label=playing?"Pausar música do capítulo":"Tocar música do capítulo";
+  const label=!ambientAvailable?"Música indisponível neste capítulo":(playing?"Pausar música do capítulo":"Tocar música do capítulo");
   btn.setAttribute("aria-label",label);
   btn.title=label;
   btn.setAttribute("aria-pressed",String(playing));
+  btn.disabled=!ambientAvailable;
+  btn.setAttribute("aria-disabled",String(!ambientAvailable));
   window.BetaAnalytics?.music?.(playing);
   window.BetaPresence?.music?.(playing);
 }
@@ -654,15 +702,18 @@ function initPlayerControls(){
   const PAUSE_PATH = "M6 5h4v14H6zM14 5h4v14h-4z";
 
   function setNarrationButtonState(playing){
-    if(narrationStatePath)narrationStatePath.setAttribute("d",playing?PAUSE_PATH:PLAY_PATH);
-    const label=playing?"Pausar narração":"Tocar narração";
+    const canPlay=!!narrationAvailable;
+    const effectivePlaying=canPlay&&!!playing;
+    if(narrationStatePath)narrationStatePath.setAttribute("d",effectivePlaying?PAUSE_PATH:PLAY_PATH);
+    const label=!canPlay?"Narração indisponível neste capítulo":(effectivePlaying?"Pausar narração":"Tocar narração");
     btnPlay.setAttribute("aria-label",label);
     btnPlay.title=label;
-    btnPlay.setAttribute("aria-pressed",String(!!playing));
+    btnPlay.setAttribute("aria-pressed",String(effectivePlaying));
   }
 
   setNarrationButtonState(false);
   btnPlay.addEventListener("click", ()=>{
+    if(!narrationAvailable)return;
     showHintOnce("jesed:hintPlay", "Narração do capítulo", "Toque aqui pra ouvir o capítulo narrado. Dá pra pausar e continuar de onde parou a qualquer momento, inclusive em outro aparelho.");
     a.paused ? a.play() : a.pause();
   });
@@ -719,7 +770,7 @@ function initPlayerControls(){
   applyAmbientVolumes();
 
   ambientBtn.addEventListener("click",async()=>{
-    if(!state.ambientSrc || !ambientActiveEl){
+    if(!ambientAvailable || !state.ambientSrc || !ambientActiveEl){
       syncAmbientButton();
       return;
     }
@@ -743,9 +794,11 @@ async function updateAmbientForChapter(ch){
   const nextKey=ch?.ambient ? String(ch.ambient) : null;
   const autoStart=localStorage.getItem(AUTO_AMBIENT_KEY)==="1";
 
+  // O botão de música existe em todos os livros/capítulos. Só muda de estado.
+  setAmbientAvailability(!!nextKey);
+
   if(nextKey && ambientTrackKey===nextKey && ambientActiveEl){
     state.ambientSrc=nextKey;
-    btn.hidden=false;
     syncAmbientButton();
     return;
   }
@@ -758,13 +811,12 @@ async function updateAmbientForChapter(ch){
   if(!nextKey){
     state.ambientSrc=null;
     ambientTrackKey=null;
-    btn.hidden=true;
     if(oldEl && !oldEl.paused)fadeOutAmbient(oldEl,AMBIENT_CROSSFADE_MS,{clear:true});
     else stopAmbientElement(oldEl,{clear:true});
+    syncAmbientButton();
     return;
   }
 
-  btn.hidden=false;
   state.ambientSrc=nextKey;
 
   let nextEl=players.find(el=>el!==oldEl) || players[0] || null;
