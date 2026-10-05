@@ -10,6 +10,31 @@ const THEME_KEY = "jesed:theme";
 const AUTO_AMBIENT_KEY = "jesed:autoAmbient";
 const READER_ID_KEY = "jesed:readerId";
 
+function preferenceOwner(){
+  if(window.Comments?.isAdmin?.()){
+    const adminId=String(window.Comments?.getAdminId?.()||"owner").trim()||"owner";
+    return "admin:"+adminId;
+  }
+  const readerId=String(localStorage.getItem(READER_ID_KEY)||"").trim();
+  return readerId?"reader:"+readerId:"guest";
+}
+function prefKey(base){return base+":"+preferenceOwner();}
+function prefGet(base,fallback=""){
+  const scoped=localStorage.getItem(prefKey(base));
+  if(scoped!==null)return scoped;
+  // Migra preferências antigas apenas para o leitor/visitante atual.
+  // O admin começa com suas próprias preferências, sem herdar as do leitor.
+  if(!window.Comments?.isAdmin?.()){
+    const legacy=localStorage.getItem(base);
+    if(legacy!==null){
+      localStorage.setItem(prefKey(base),legacy);
+      return legacy;
+    }
+  }
+  return fallback;
+}
+function prefSet(base,value){localStorage.setItem(prefKey(base),String(value));}
+
 // Progresso precisa pertencer ao perfil, não ao aparelho. O readerId é
 // único mesmo quando duas pessoas escolhem exatamente o mesmo nome.
 // Admin sem perfil de leitor usa um namespace próprio.
@@ -31,9 +56,9 @@ function resolve(path){
 
 // Aplica o tema salvo (ou o padrão, Âmbar Noturno) o quanto antes, pra
 // evitar flash da cor errada.
-const savedTheme = localStorage.getItem(THEME_KEY);
+const savedTheme = prefGet(THEME_KEY,"ambar");
 document.documentElement.dataset.theme = savedTheme || "ambar";
-document.documentElement.dataset.readerFont = localStorage.getItem(FONT_FAMILY_KEY) || "lora";
+document.documentElement.dataset.readerFont = prefGet(FONT_FAMILY_KEY,"lora") || "lora";
 
 // Imagens (capas e artes de capítulo) vêm referenciadas direto do site
 // Dimensões Infinitas — se atualizar lá, atualiza aqui também, sem duplicar.
@@ -225,7 +250,7 @@ async function openChapter(idx){
   $("#chapterText").innerHTML = `<p class="empty-hint">Carregando…</p>`;
   const art = $("#chapterArt");
   art.hidden = true;
-  if(localStorage.getItem(HIDE_ART_KEY) === "1"){
+  if(prefGet(HIDE_ART_KEY,"0") === "1"){
     art.removeAttribute("src");
   }else{
     art.onerror = () => { art.hidden = true; };
@@ -794,7 +819,7 @@ function initPlayerControls(){
 async function updateAmbientForChapter(ch){
   const btn=$("#btnAmbient");
   const nextKey=ch?.ambient ? String(ch.ambient) : null;
-  const autoStart=localStorage.getItem(AUTO_AMBIENT_KEY)==="1";
+  const autoStart=prefGet(AUTO_AMBIENT_KEY,"0")==="1";
 
   // O botão de música existe em todos os livros/capítulos. Só muda de estado.
   setAmbientAvailability(!!nextKey);
@@ -873,15 +898,20 @@ function initReaderDisplay(){
   const btn = $("#btnReaderDisplay");
   const pop = $("#readerDisplayPop");
   if(!btn || !pop) return;
-  let scale = Number(localStorage.getItem(FONT_KEY) || "1");
+  let scale = Number(prefGet(FONT_KEY,"1"));
   if(!Number.isFinite(scale)) scale = 1;
   const applyScale = (track=false)=>{
-    const previous=Number(localStorage.getItem(FONT_KEY)||"1");
+    const previous=Number(prefGet(FONT_KEY,"1"));
     scale = Math.max(.8, Math.min(1.6, Math.round(scale*10)/10));
     document.documentElement.style.setProperty("--reader-font-scale", String(scale));
-    localStorage.setItem(FONT_KEY, String(scale));
+    prefSet(FONT_KEY, String(scale));
     $("#readerSizeLabel").textContent = Math.round(scale*100) + "%";
     if(track&&Math.abs(previous-scale)>.001) window.BetaAnalytics?.preferenceChanged?.("fontScale");
+  };
+  const reloadScale=()=>{
+    scale=Number(prefGet(FONT_KEY,"1"));
+    if(!Number.isFinite(scale))scale=1;
+    applyScale(false);
   };
   applyScale(false);
   btn.addEventListener("click",()=>{
@@ -902,6 +932,9 @@ function initReaderDisplay(){
       btn.setAttribute("aria-expanded", "false");
     }
   });
+  document.addEventListener("beta:admin",reloadScale);
+  document.addEventListener("beta:profile-login",reloadScale);
+  document.addEventListener("beta:profile-ready",reloadScale);
 }
 
 async function openLocation(bookId, chapterN, paraIdx, paragraphKey, commentId){
@@ -971,14 +1004,14 @@ const READER_FONTS = [
   {id:"atkinson", name:"Atkinson", note:"Alta distinção entre letras"},
 ];
 function applyTheme(id,{track=true}={}){
-  const previous=localStorage.getItem(THEME_KEY)||"ambar";
+  const previous=prefGet(THEME_KEY,"ambar")||"ambar";
   document.documentElement.dataset.theme = id;
-  localStorage.setItem(THEME_KEY, id);
+  prefSet(THEME_KEY, id);
   updateThemePicker();
   if(track&&previous!==id) window.BetaAnalytics?.preferenceChanged?.("theme");
 }
 function updateThemePicker(){
-  const current = localStorage.getItem(THEME_KEY) || "ambar";
+  const current = prefGet(THEME_KEY,"ambar") || "ambar";
   $$(".theme-swatch").forEach(b=> b.classList.toggle("active", b.dataset.themeId===current));
 }
 function initThemePicker(picker){
@@ -996,9 +1029,9 @@ function initThemePicker(picker){
 
 function applyReaderFont(id,{track=true}={}){
   if(!READER_FONTS.some(f=>f.id===id)) id = "lora";
-  const previous=localStorage.getItem(FONT_FAMILY_KEY)||"lora";
+  const previous=prefGet(FONT_FAMILY_KEY,"lora")||"lora";
   document.documentElement.dataset.readerFont = id;
-  localStorage.setItem(FONT_FAMILY_KEY, id);
+  prefSet(FONT_FAMILY_KEY, id);
   if(track&&previous!==id) window.BetaAnalytics?.preferenceChanged?.("font");
   $$("[data-reader-font]").forEach(b=>{
     const active = b.dataset.readerFont===id;
@@ -1014,7 +1047,7 @@ function initFontPicker(picker, compact=false){
      </button>`
   ).join("");
   $$('[data-reader-font]', picker).forEach(b=>b.addEventListener("click",()=>applyReaderFont(b.dataset.readerFont,{track:true})));
-  applyReaderFont(localStorage.getItem(FONT_FAMILY_KEY) || "lora",{track:false});
+  applyReaderFont(prefGet(FONT_FAMILY_KEY,"lora") || "lora",{track:false});
 }
 
 function initSettings(){
@@ -1023,7 +1056,7 @@ function initSettings(){
   const autoAmbient = $("#cfgAutoAmbient");
   $("#btnSettings").addEventListener("click", ()=>{
     if(hideArt) hideArt.checked = localStorage.getItem(HIDE_ART_KEY)==="1";
-    if(autoAmbient) autoAmbient.checked = localStorage.getItem(AUTO_AMBIENT_KEY)==="1";
+    if(autoAmbient) autoAmbient.checked = prefGet(AUTO_AMBIENT_KEY,"0")==="1";
     sheet.hidden = false;
   });
   $("#cfgClose").addEventListener("click", ()=> sheet.hidden = true);
@@ -1031,8 +1064,8 @@ function initSettings(){
     if(e.target===sheet) sheet.hidden = true;
   });
   $("#cfgSave").addEventListener("click", ()=>{
-    if(hideArt) localStorage.setItem(HIDE_ART_KEY, hideArt.checked ? "1" : "0");
-    if(autoAmbient) localStorage.setItem(AUTO_AMBIENT_KEY, autoAmbient.checked ? "1" : "0");
+    if(hideArt) prefSet(HIDE_ART_KEY, hideArt.checked ? "1" : "0");
+    if(autoAmbient) prefSet(AUTO_AMBIENT_KEY, autoAmbient.checked ? "1" : "0");
     window.BetaAnalytics?.syncPreferences?.();
     sheet.hidden = true;
   });
@@ -1040,6 +1073,18 @@ function initSettings(){
   initThemePicker($("#readerThemePicker"));
   initFontPicker($("#readerFontPicker"), true);
   initFontPicker($("#settingsFontPicker"));
+
+  const applyPreferenceContext=()=>{
+    applyTheme(prefGet(THEME_KEY,"ambar")||"ambar",{track:false});
+    applyReaderFont(prefGet(FONT_FAMILY_KEY,"lora")||"lora",{track:false});
+    const scale=Number(prefGet(FONT_KEY,"1"));
+    document.documentElement.style.setProperty("--reader-font-scale",String(Number.isFinite(scale)?Math.max(.8,Math.min(1.6,scale)):1));
+    if(hideArt)hideArt.checked=prefGet(HIDE_ART_KEY,"0")==="1";
+    if(autoAmbient)autoAmbient.checked=prefGet(AUTO_AMBIENT_KEY,"0")==="1";
+  };
+  document.addEventListener("beta:admin",applyPreferenceContext);
+  document.addEventListener("beta:profile-login",applyPreferenceContext);
+  document.addEventListener("beta:profile-ready",applyPreferenceContext);
 }
 
 // ---------------- navegação ----------------
