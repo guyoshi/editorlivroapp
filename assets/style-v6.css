@@ -509,6 +509,34 @@ body.focus-mode .focus-exit{ display:flex; }
 }
 .ambient-player-btn:active{ transform:scale(.94); }
 
+/* Players permanecem visíveis mesmo quando o capítulo ainda não tem mídia. */
+.play-btn:disabled,
+.ambient-player-btn:disabled,
+#btnBack15:disabled{
+  opacity:.38;
+  cursor:not-allowed;
+  transform:none;
+}
+.play-btn:disabled{
+  background:var(--line);
+  color:var(--ink-soft);
+}
+.ambient-player-btn:disabled{
+  background:var(--bg);
+  color:var(--ink-soft);
+  border-color:var(--line);
+}
+.player-bar.narration-unavailable .player-mid{
+  opacity:.38;
+}
+.player-bar.narration-unavailable .seek{
+  cursor:not-allowed;
+}
+.seek:disabled{
+  opacity:.55;
+  accent-color:var(--line);
+}
+
 /* ---------- ajustes (sheet) ---------- */
 .sheet{
   position:fixed; inset:0; background:rgba(0,0,0,.35);
