@@ -1092,7 +1092,14 @@ const Comments = (() => {
 
   function splitFeedback(book,list){
     cCache[book]=list;
+    // Reações são públicas por definição: qualquer leitor do livro vê a soma
+    // das reações de todos os usuários. A privacidade de comentários
+    // (showAllComments) não se aplica às reações.
     rCache[book]=list.filter(x=>x.kind==="reaction");
+  }
+
+  function publicReactions(book){
+    return rCache[book]||[];
   }
 
   async function load(book){
@@ -1410,7 +1417,7 @@ const Comments = (() => {
     if(!active)return;
     wireParagraphInteractionGlobals();
 
-    const {bookId:book,chapterN:ch,containerEl,notesEl}=active, rr=roots(book), reactions=rCache[book]||[];
+    const {bookId:book,chapterN:ch,containerEl,notesEl}=active, rr=roots(book), reactions=publicReactions(book);
     const general=rr.filter(x=>x.chapter===ch&&Number(x.paraIdx)===-1&&rootVisible(x));
     if(notesEl){notesEl.hidden=!general.length;notesEl.innerHTML=general.length?'<div class="chapter-note-label">Notas do capítulo</div>'+general.map(x=>thread(x,book)).join(""):"";if(general.length)wireThreads(notesEl,book);}
 
@@ -1486,8 +1493,9 @@ const Comments = (() => {
       const counts={};
       rx.forEach(x=>counts[x.emoji]=(counts[x.emoji]||0)+1);
       reactionSummary.hidden=!rx.length;
+      reactionSummary.setAttribute("aria-label","Reações dos leitores");
       reactionSummary.innerHTML=EMOJIS.filter(emoji=>counts[emoji]).map(emoji=>
-        '<button type="button" class="reaction-count '+(mine?.emoji===emoji?"mine":"")+'" data-summary-e="'+emoji+'" aria-label="'+esc(emoji+" "+counts[emoji])+'">'+emoji+' <span>'+counts[emoji]+'</span></button>'
+        '<button type="button" class="reaction-count '+(mine?.emoji===emoji?"mine":"")+'" data-summary-e="'+emoji+'" aria-label="'+esc(emoji+" "+counts[emoji]+" reação"+(counts[emoji]===1?"":"ões"))+'">'+emoji+' <span>'+counts[emoji]+'</span></button>'
       ).join("");
       reactionSummary.querySelectorAll("[data-summary-e]").forEach(btn=>{
         btn.onclick=e=>{
