@@ -455,6 +455,7 @@
   }
 
   async function open(){
+    if(window.Comments?.isAdmin?.())return;
     ensureUI();
     const sheet = document.getElementById(SHEET_ID);
     sheet.hidden = false;
@@ -500,7 +501,10 @@
   });
   document.addEventListener("beta:profile-login",()=>setTimeout(syncLiveNotifications,80));
   document.addEventListener("beta:profile-ready",()=>setTimeout(syncLiveNotifications,80));
-  document.addEventListener("beta:admin",()=>setTimeout(syncLiveNotifications,80));
+  document.addEventListener("beta:admin",e=>{
+    if(e?.detail?.on)close();
+    setTimeout(syncLiveNotifications,80);
+  });
   document.addEventListener("beta:library-loaded",()=>setTimeout(syncLiveNotifications,80));
 
   window.ReaderHub = {open,close,refresh,syncLiveNotifications};
