@@ -29,7 +29,7 @@
   const when=t=>t?new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"";
   const shortId=id=>{const v=String(id||"").replace(/[^a-z0-9]/gi,"").toUpperCase();return v?v.slice(-6):"LEGADO";};
   const readerKey=x=>x.authorId||("legacy:"+norm(x.author));
-  const readerLabel=x=>(x.author||"Anônimo");
+  const readerLabel=x=>(x?.role==="admin"?"Autor":(x.author||"Anônimo"));
   const fmtDuration=value=>{
     const s=Math.max(0,Math.round(Number(value)||0));
     if(s<60)return s+"s";
