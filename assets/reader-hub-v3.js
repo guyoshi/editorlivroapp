@@ -9,6 +9,8 @@
   let isOpen = false;
   let loading = false;
   let activeView = "unread";
+  let liveUnsubs = [];
+  const liveRows = new Map();
 
   const norm = s => String(s||"").replace(/\s+/g," ").trim().toLowerCase();
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({
@@ -26,6 +28,7 @@
   const markSeen = id => localStorage.setItem(seenKey(id), "1");
 
   function mine(item){
+    if(item?.role==="admin") return false;
     const uid = window.Comments?.getUserId?.();
     if(item.authorId) return item.authorId === uid;
     return norm(item.author) === norm(window.Comments?.getUserName?.());
@@ -156,6 +159,50 @@
 
   }
 
+  function applyRows(all,books){
+    const roots = all.filter(x =>
+      !x.parentId && x.kind!=="reply" && x.kind!=="reaction" && mine(x)
+    );
+    const reactions = all.filter(x => x.kind==="reaction" && mine(x));
+    const rootIds = new Set(roots.map(x=>x.id));
+    const repliesByRoot = new Map();
+    roots.forEach(r=>repliesByRoot.set(r.id,[]));
+    all.filter(x=>x.parentId && rootIds.has(x.parentId))
+      .sort((a,b)=>(a.at||0)-(b.at||0))
+      .forEach(x=>repliesByRoot.get(x.parentId).push(x));
+    data = {all, roots, reactions, repliesByRoot, books};
+  }
+
+  function stopLiveNotifications(){
+    liveUnsubs.forEach(fn=>{try{fn?.();}catch(e){}});
+    liveUnsubs=[];
+    liveRows.clear();
+  }
+
+  function syncLiveNotifications(){
+    stopLiveNotifications();
+    const db=window.Comments?.getDb?.();
+    const books=window.BookReader?.getBooks?.()||[];
+    if(!db||!books.length||window.Comments?.isAdmin?.()){
+      const badge=document.getElementById("readerHubBadge");
+      if(badge)badge.hidden=true;
+      return;
+    }
+
+    books.forEach(book=>{
+      const unsub=db.collection("comments").where("bookId","==",book.id).onSnapshot(snap=>{
+        const rows=[];
+        snap.forEach(doc=>rows.push({id:doc.id,...doc.data()}));
+        liveRows.set(book.id,rows);
+        const all=books.flatMap(b=>liveRows.get(b.id)||[]);
+        applyRows(all,books);
+        updateBadge();
+        if(isOpen)render();
+      },e=>console.warn("Central do leitor: atualização ao vivo indisponível em "+book.id,e));
+      liveUnsubs.push(unsub);
+    });
+  }
+
   async function loadData(){
     if(loading) return;
     loading = true;
@@ -180,18 +227,7 @@
       }));
 
       const all = snaps.flat();
-      const roots = all.filter(x =>
-        !x.parentId && x.kind!=="reply" && x.kind!=="reaction" && mine(x)
-      );
-      const reactions = all.filter(x => x.kind==="reaction" && mine(x));
-      const rootIds = new Set(roots.map(x=>x.id));
-      const repliesByRoot = new Map();
-      roots.forEach(r=>repliesByRoot.set(r.id,[]));
-      all.filter(x=>x.parentId && rootIds.has(x.parentId))
-        .sort((a,b)=>(a.at||0)-(b.at||0))
-        .forEach(x=>repliesByRoot.get(x.parentId).push(x));
-
-      data = {all, roots, reactions, repliesByRoot, books:data.books};
+      applyRows(all,data.books);
     }finally{
       loading = false;
     }
@@ -209,10 +245,24 @@
 
   function updateBadge(){
     const badge = document.getElementById("readerHubBadge");
+    const btn = document.getElementById("btnReaderHub");
     if(!badge) return;
+    if(window.Comments?.isAdmin?.()){
+      badge.hidden=true;
+      if(btn){
+        btn.title="Minha central";
+        btn.setAttribute("aria-label","Minha central");
+      }
+      return;
+    }
     const n = unreadReplies().length;
     badge.hidden = n===0;
     badge.textContent = n>99 ? "99+" : String(n);
+    if(btn){
+      const label=n?("Minha central · "+n+" nova"+(n===1?" resposta":"s respostas")):"Minha central";
+      btn.title=label;
+      btn.setAttribute("aria-label",label);
+    }
   }
 
   function fillBookFilter(){
@@ -443,8 +493,15 @@
 
   document.addEventListener("DOMContentLoaded", ()=>{
     ensureUI();
-    setTimeout(initialBadge, 400);
+    setTimeout(async()=>{
+      await initialBadge();
+      syncLiveNotifications();
+    },400);
   });
+  document.addEventListener("beta:profile-login",()=>setTimeout(syncLiveNotifications,80));
+  document.addEventListener("beta:profile-ready",()=>setTimeout(syncLiveNotifications,80));
+  document.addEventListener("beta:admin",()=>setTimeout(syncLiveNotifications,80));
+  document.addEventListener("beta:library-loaded",()=>setTimeout(syncLiveNotifications,80));
 
-  window.ReaderHub = {open,close,refresh};
+  window.ReaderHub = {open,close,refresh,syncLiveNotifications};
 })();
