@@ -184,8 +184,10 @@
     const db=window.Comments?.getDb?.();
     const books=window.BookReader?.getBooks?.()||[];
     if(!db||!books.length||window.Comments?.isAdmin?.()){
-      const badge=document.getElementById("readerHubBadge");
-      if(badge)badge.hidden=true;
+      if(!window.Comments?.isAdmin?.()){
+        const badge=document.getElementById("readerHubBadge");
+        if(badge)badge.hidden=true;
+      }
       return;
     }
 
@@ -247,14 +249,7 @@
     const badge = document.getElementById("readerHubBadge");
     const btn = document.getElementById("btnReaderHub");
     if(!badge) return;
-    if(window.Comments?.isAdmin?.()){
-      badge.hidden=true;
-      if(btn){
-        btn.title="Minha central";
-        btn.setAttribute("aria-label","Minha central");
-      }
-      return;
-    }
+    if(window.Comments?.isAdmin?.())return;
     const n = unreadReplies().length;
     badge.hidden = n===0;
     badge.textContent = n>99 ? "99+" : String(n);
