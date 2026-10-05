@@ -1380,6 +1380,11 @@ body.focus-mode .reaction-picker{ display:none !important; }
 
 /* ================= Central do Leitor ================= */
 .reader-hub-launch{ position:relative; }
+.reader-hub-launch.admin-mode{
+  border-color:color-mix(in srgb,var(--accent) 72%,var(--line));
+  color:var(--accent);
+  background:color-mix(in srgb,var(--accent) 10%,var(--bg-elev));
+}
 .admin-top-btn{ position:relative; }
 .admin-top-btn.active{
   color:var(--accent);
