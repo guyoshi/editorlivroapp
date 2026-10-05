@@ -90,9 +90,9 @@ Quando começou a falar, a voz saiu diferente: mais lenta, mais funda, do jeito 
 
 — Muito acima. Ilhas de pedra clara flutuando lado a lado, ligadas por pontes que ninguém tinha construído, porque eram raízes vivas que cresciam de uma borda até a outra e rangiam quando o vento virava. As casas eram redondas, com escadas que subiam girando por fora das paredes, e as janelas tinham vidro colorido, azul, âmbar, verde de folha nova, que de manhã jogava manchas de luz no chão de dentro. — Karesis parou e ficou olhando o chão de terra batida da casa, onde não havia mancha nenhuma, só a sombra da garrafa. — Em cada porta tinha um sino, pendurado baixo, na altura da mão de uma criança. Diziam que todo sino precisava tocar pelo menos uma vez durante a noite, senão a casa amanhecia sem bênção.
 
-— E quando não ventava?
+— Sinos? Eu não suporto o som deles. 
 
-— Alguém levantava descalço e tocava com o dedo. — O canto da boca dele subiu sem que parecesse ter pedido licença. — Sempre tinha alguém.
+— Ah, mas nçao eram grandes sinos como os de Kaeliran. Eram pequeninos, sutis, postados na entrada da porta de cada um. Balançavam apenas com o vento, e quando não ventava, alguém levantava descalço e tocava com o dedo. — O canto da boca dele subiu sem que parecesse ter pedido licença. 
 
 Elis riu baixinho e se acomodou melhor no banco, e Karesis continuou, a voz encontrando um ritmo que ela não lembrava de ter ouvido nele antes, mais cheio, quase cantado. Contou que as crianças passavam o dia numa ilha só delas, e que no fim da tarde os pais esperavam na porta com pétalas na mão para prender no cabelo de quem chegava. Contou de pipas feitas de folhas, de desenhos que só apareciam quando alguém soprava a névoa de cima deles, de mães que passavam mel nos lábios dos filhos de manhã para que dissessem só palavras doces até a noite. Elis perguntou se funcionava, e ele disse que não, nunca, nem uma vez, e riu de verdade, um riso curto e rouco que virou tosse e o obrigou a parar.
 
@@ -100,9 +100,9 @@ Elis riu baixinho e se acomodou melhor no banco, e Karesis continuou, a voz enco
 
 — Voavam. — Karesis abriu as mãos sobre a mesa, os dedos afastados como as pontas de alguma coisa leve. — Asas de seda presas em ossos finos de pássaro. Quando um jovem chegava na idade, levavam ele até um campo alto, sem nada na frente, só a borda e as nuvens lá embaixo, e ele tinha que saltar. Quem conseguia voltava com tinta nos braços e escolhia um nome novo.
 
-— E quem não conseguia?
+— Eles voamvam? Como onseguia voaros pássaros? Que incrível! 
 
-— Voltava pra casa sem nada. Teve uma menina assim. — Ele demorou um pouco mais nessa palavra do que nas outras. — Teimosa como ela só. Ficou parada na borda até todo mundo olhar, saltou com raiva, e o vento pegou a asa de lado. Um rapaz se jogou atrás dela e puxou pela alça. Um rapaz que tocava flauta. — Karesis balançou a cabeça devagar. — Tocava mal. Muito mal.
+— Sim. Mas tinha uma menina que não c. — Ele demorou um pouco mais nessa palavra do que nas outras. — Teimosa como ela só. Ficou parada na borda até todo mundo olhar, saltou com raiva, e o vento a lançou no chão. Foi salva por um rapaz. Um rapaz que tocava flauta. — Karesis balançou a cabeça devagar. — Tocava mal. Muito mal.
 
 Disse aquilo com tanta convicção que Elis deixou escapar uma risada pelo nariz, e ele mesmo sorriu, mas o sorriso não ficou muito tempo no rosto. Pegou a garrafa, olhou para ela e não bebeu.
 
