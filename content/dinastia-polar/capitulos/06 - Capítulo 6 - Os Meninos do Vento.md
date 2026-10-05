@@ -84,44 +84,92 @@ Karesis passou a mão pelo rosto, como quem tenta limpar dele o cansaço e a beb
 
 Quando começou a falar, a voz saiu diferente: mais lenta, mais funda, do jeito que só ficava quando contava as histórias de verdade e não as brincadeiras rápidas do dia a dia.
 
-— Dizem que existiu, uma vez, um povo que vivia tão alto que as nuvens passavam por baixo das casas deles — começou Karesis, a voz baixa e cadenciada, bem diferente da que usara a noite inteira. — Chamavam a si mesmos de meninos do vento, não porque fossem todos crianças, mas porque se orgulhavam de serem leves o bastante para viver ali, onde ninguém mais tinha conseguido chegar antes deles. 
+— Dizem que existiu, uma vez, um povo que vivia tão alto que as nuvens passavam por baixo das casas deles — começou Karesis. — Chamavam a si mesmos de meninos do vento, não porque fossem todos crianças, mas porque se orgulhavam de serem leves o bastante para viver ali, onde ninguém mais tinha conseguido chegar antes deles.
 
-— Eles viviam acima das nuvens? — perguntou Elis. 
+— Eles viviam acima das nuvens? — perguntou Elis.
 
-— Muito alto. Diziam que um lugar erguido tão perto do céu, e um povo leve o bastante para merecê-lo, não podiam ser coisa passageira: que certas coisas, quando construídas alto o bastante, deixavam de correr o risco que corre tudo o mais lá embaixo.
+— Muito acima. Ilhas de pedra clara flutuando lado a lado, ligadas por pontes que ninguém tinha construído, porque eram raízes vivas que cresciam de uma borda até a outra e rangiam quando o vento virava. As casas eram redondas, com escadas que subiam girando por fora das paredes, e as janelas tinham vidro colorido, azul, âmbar, verde de folha nova, que de manhã jogava manchas de luz no chão de dentro. — Karesis parou e ficou olhando o chão de terra batida da casa, onde não havia mancha nenhuma, só a sombra da garrafa. — Em cada porta tinha um sino, pendurado baixo, na altura da mão de uma criança. Diziam que todo sino precisava tocar pelo menos uma vez durante a noite, senão a casa amanhecia sem bênção.
 
-— E era verdade? — perguntou Elis, porque sempre perguntava isso nas histórias dele.
+— E quando não ventava?
 
-— Era o que acreditavam — respondeu Karesis, no mesmo jeito impreciso de sempre. — E acreditar direito, com força suficiente, quase sempre parece verdade por um bom tempo.
+— Alguém levantava descalço e tocava com o dedo. — O canto da boca dele subiu sem que parecesse ter pedido licença. — Sempre tinha alguém.
 
-Fez uma pausa ali, girando a garrafa entre os dedos sem beber, deixando o silêncio se esticar um pouco mais do que o necessário antes de continuar, do jeito que sempre fazia quando queria que Elis se aproximasse mais.
+Elis riu baixinho e se acomodou melhor no banco, e Karesis continuou, a voz encontrando um ritmo que ela não lembrava de ter ouvido nele antes, mais cheio, quase cantado. Contou que as crianças passavam o dia numa ilha só delas, que iam e voltavam por pontes estreitas ou dentro de cestos pendurados em cordas, e que no fim da tarde os pais esperavam na porta com pétalas na mão para prender no cabelo de quem chegava. Contou de pipas feitas de folhas, de desenhos que só apareciam quando alguém soprava a névoa de cima deles, de mães que passavam mel nos lábios dos filhos de manhã para que dissessem só palavras doces até a noite. Elis perguntou se funcionava, e ele disse que não, nunca, nem uma vez, e riu de verdade, um riso curto e rouco que virou tosse e o obrigou a parar.
 
-— E como era a terra deles? — perguntou ela, puxando os joelhos ainda mais para perto do peito.
+— E como eles faziam para ir de uma ilha para a outra, se as pontes não chegavam em todas?
 
-— Grande — disse Karesis, e um sorriso pequeno escapou antes de continuar. — Ilhas de pedra clara flutuando lado a lado, ligadas por pontes tão finas que pareciam de fio, jardins pendurados nas bordas com raízes crescendo para fora e para baixo, buscando um chão que nunca chegavam a tocar. Era tão alto, que mesmo em dias claros não dava para ver o mundo lá embaixo. Haviam apenas nuvens, e céu. Os meninos tinham motivo de sobra para o orgulho. Erguer casas no ar era proeza que nenhum outro povo tinha repetido, e quanto mais os anos passavam sem que nada de importante se soltasse ou caísse, mais os meninos do vento se convenciam de que aquilo não era cuidado, nem sorte se mantendo atenta: era prova, prova viva e definitiva, de que tinham feito por merecer aquela altura, e de que continuariam nela enquanto quisessem, para sempre se fosse o caso.
+— Voavam. — Karesis abriu as mãos sobre a mesa, os dedos afastados como as pontas de alguma coisa leve. — Asas de seda presas em ossos finos de pássaro. Quando um jovem chegava na idade, levavam ele até um campo alto, sem nada na frente, só a borda e as nuvens lá embaixo, e ele tinha que saltar. Quem conseguia voltava com tinta nos braços e escolhia um nome novo. Quem não conseguia voltava pra casa sem nada.
 
-— Com certeza. Deve ser incrível ter uma casa nas nuvens — disse Elis. 
+— Alguém não conseguia?
 
-— Sabe o que as pessoas fazem, Elis, quando se passa gerações inteiras sem perder nada? — perguntou Karesis, sem esperar de fato uma resposta. — Para de se perguntar se algum dia vai perder. Contavam histórias, os meninos do vento, sobre os povos de baixo: gente que vivia com medo do chão que pisava, do rio que passava perto demais, da terra que às vezes tremia. Riam dessas histórias em festas que duravam noites inteiras, bebendo um vinho claro feito das próprias uvas suspensas, dançando em praças com o vento entrando por baixo dos pés descalços, e quem ousasse dizer, no meio da festa, que talvez fosse sensato prestar atenção às próprias fundações de vez em quando, era logo calado com risadas e mais uma taça empurrada para a mão. Foi assim, no meio de uma dessas festas, ou talvez um pouco antes, ninguém soube dizer ao certo depois, que uma pedra pequena se soltou de uma das ilhas mais distantes e caiu sem que ninguém visse, lá onde moravam só os mais velhos, os que já tinham pouca vontade de dançar. Depois caiu outra, e mais outra, sempre nas bordas de fora, sempre onde poucos olhos passavam. Quem notava dizia que era o vento mudando de direção, coisa de época, e voltava para dentro de casa satisfeito com a própria explicação.
+— Uma menina. — Ele demorou um pouco mais nessa palavra do que nas outras. — Teimosa como ela só. Ficou parada na borda até todo mundo olhar, saltou com raiva, o vento pegou a asa de lado e ela ia direto contra as pedras. Um rapaz se jogou atrás dela e puxou pela alça. Um rapaz que tocava flauta. — Karesis balançou a cabeça devagar. — Tocava mal. Muito mal.
 
-Elis estava absorta na história de Karesis. 
+Disse aquilo com tanta convicção que Elis deixou escapar uma risada pelo nariz, e ele mesmo sorriu, mas o sorriso não ficou muito tempo no rosto. Pegou a garrafa, olhou para ela e não bebeu.
 
-— Os meninos do vento continuaram exatamente como estavam. Por que não continuariam? Tinham vencido o tempo até ali, tinham vencido a dúvida dos outros povos, tinham vencido, mais do que tudo, a própria pergunta de saber se talvez não devessem ter tanta certeza. E vencer, para eles, servia como prova de que tinham razão sobre tudo o mais, inclusive sobre não precisar olhar para baixo com frequência demais.
+— Ela tinha nome? A menina?
 
-Karesis parou de novo, dessa vez por mais tempo do que qualquer pausa anterior, os olhos fixos na garrafa que não erguia mais até a boca. 
+Karesis levou um instante para responder.
 
-— E sabe o que aconteceu, Elis? — perguntou, finalmente olhando para ela.
+— Nas histórias, não.
 
-Elis balançou a cabeça, incapaz de arriscar um palpite, o corpo inteiro inclinado agora para a frente, como se a distância entre os dois pudesse de algum jeito apressar a resposta.
+Elis ia insistir, porque nas histórias dele quase todo mundo tinha nome, mas ele já tinha seguido adiante, a voz baixando um tom.
 
-A voz de Karesis baixou ainda mais quando recomeçou, quase um sussurro, e Elis se pegou prendendo a respiração sem perceber.
+— Os meninos do vento tinham motivo de sobra para o orgulho. Erguer casas no ar era proeza que nenhum outro povo tinha repetido, e quanto mais os anos passavam sem que nada de importante se soltasse ou caísse, mais eles se convenciam de que aquilo não era cuidado, nem sorte: era prova, prova viva e definitiva, de que tinham feito por merecer aquela altura, e de que continuariam nela para sempre. Sabe o que as pessoas fazem, Elis, quando passam gerações inteiras sem perder nada? Param de perguntar se algum dia vão perder. Contavam histórias sobre os povos de baixo, gente que vivia com medo do chão que pisava, e riam dessas histórias em festas que duravam noites inteiras. E foi assim, no meio de uma dessas festas, ou um pouco antes, que uma pedra pequena se soltou de uma das ilhas mais distantes e caiu sem que ninguém visse. Depois caiu outra, e mais outra, sempre nas bordas, sempre onde poucos olhos passavam. Quem notava dizia que era o vento mudando de direção, coisa de época, e voltava pra dentro de casa satisfeito com a própria explicação.
 
-— Numa noite comum, sem aviso maior do que os avisos que já vinham ignorando fazia tempo, a primeira ilha desceu. Não de uma vez, não como uma pedra que se solta e cai inteira: desceu em pedaços, uma ponte primeiro, depois um jardim inteiro arrancado pela raiz, depois uma casa, e outra, e outra, o som chegando às ilhas vizinhas antes mesmo da poeira. Gente que dançava ainda achou, por um instante comprido demais, que era só mais um tremor qualquer, coisa que passava. Não passou. A segunda ilha foi atrás da primeira, e a terceira atrás da segunda, e não havia mais festa nenhuma quando a quarta começou a rachar: só gente correndo entre pontes que balançavam demais para aguentar o peso de tanta pressa ao mesmo tempo.
+— Ninguém percebeu?
 
-A voz de Karesis baixou até quase sumir.
+— Uma mulher percebeu. — Karesis tocou a própria pálpebra esquerda com a ponta do dedo, sem parecer notar o gesto. — Tinha um olho só. Entrou em lugares onde não devia entrar e voltou dizendo que as ilhas iam cair. Os mais velhos sentaram ela no meio de uma roda, todo mundo em volta olhando, e decidiram que quem pesava daquele jeito não podia mais viver lá em cima. Tinham um costume pra isso. Punham a pessoa num balão dourado, de ramo e seda, com um fogo aceso por baixo, e deixavam descer. Diziam que lá embaixo havia outras ilhas, mais baixas, pra onde iam os que não serviam mais para as de cima, e que ninguém voltava porque ninguém queria voltar.
 
-— Não se sabem dizer quantas ilhas restaram no fim, nem quanto tempo levou. Só se sabe que onde vivia aquele povo inteiro, não sobrou nada que se pudesse apontar e dizer: foi ali. 
+— E ela chegou?
 
-Parou, como se contar aquele final tivesse custado alguma coisa que não se recuperava fácil, e não acrescentou mais nada. Elis esperou um instante educado antes de perceber que dessa vez não havia resto nenhum guardado, nenhuma pergunta que ele fosse responder mesmo se ela insistisse.
+— Não havia ilha nenhuma lá embaixo.
 
-Ficou quieta um bom tempo depois disso, os joelhos ainda dobrados contra o peito, olhando não para o ponto vago na parede que Karesis parecia enxergar, mas para ele mesmo: para os cortes no braço, para o cabelo desfeito, para aquele jeito de contar uma história como quem confessa alguma coisa sem dizer o que é. Não perguntou de onde tinha vindo aquela história, nem por que ele escolhera justamente aquela noite, naquele estado, para contá-la. Só ficou pensando, sem conseguir prender o pensamento nem soltá-lo de vez, que talvez as histórias de Karesis nunca tivessem sido bem o que pareciam.
+Disse isso rápido, sem a cadência do resto, como quem bate uma porta. Elis esperou que ele explicasse, e ele não explicou. Ficou olhando a garrafa, girando-a uma volta inteira sobre a mesa, e quando voltou a falar foi como se a frase anterior nunca tivesse existido.
+
+— A menina teimosa foi atrás do que a mulher tinha visto. Entrou embaixo da terra, num lugar escuro, e uma pedra atravessou a perna dela. Tiveram que cortar. — A mão dele, que descansava na coxa, se fechou devagar no tecido da calça. — Ela aprendeu a andar de novo com um pedaço de pau debaixo do braço, caindo, levantando, caindo, as mãos cheias de bolha. E quando conseguiu chegar sozinha até a praça grande, subiu no meio de todo mundo e falou. Disse que as ilhas iam cair. Que tinha visto uma se partir de noite, sem barulho nenhum. Pediu que eles se preparassem.
+
+Elis tinha parado de se balançar no banco.
+
+— E eles?
+
+— Chamaram ela de pesada. De amaldiçoada. Disseram que quem perde a perna perde o juízo junto. — A voz de Karesis não subiu, mas alguma coisa nela endureceu. — Uma velha impediu que fizesse coisa pior, mas mandou ela calar a boca do mesmo jeito. Levaram a menina pra casa pelo braço, e ela sentou no primeiro degrau da porta com o pau atravessado nos joelhos, e ficou lá.
+
+Parou. Elis viu o pomo da garganta dele subir e descer duas vezes antes de qualquer palavra sair.
+
+— Alguém ficou com ela?
+
+Karesis olhou para Elis como se tivesse esquecido, por um instante, quem estava sentada ali. Depois desviou os olhos.
+
+— Ficou — disse, e não acrescentou mais nada.
+
+Lá fora passou uma carroça, as rodas batendo nas pedras da rua, e ele esperou o barulho morrer por inteiro antes de continuar, tão baixo que Elis precisou se inclinar.
+
+— Numa noite comum, sem aviso maior do que os avisos que já vinham ignorando, a primeira ilha desceu. Não de uma vez: desceu em pedaços, uma ponte primeiro, depois um jardim arrancado pela raiz, depois uma casa, e outra, o barulho chegando nas ilhas vizinhas antes da poeira. A segunda foi atrás da primeira, e não havia mais festa nenhuma quando a terceira começou a rachar, só gente correndo em pontes que balançavam demais para tanta pressa ao mesmo tempo. A velha da praça sentou no chão, fechou os olhos e começou a cantar uma nota só, comprida, e não levantou mais. Um homem que ensinava as crianças a olhar o céu ficou na casa dele, no meio dos livros caídos, porque as asas que tinha guardado só aguentavam dois. — Os dedos de Karesis tamborilaram uma vez na madeira da mesa e pararam. — Só dois. O rapaz da flauta correu para buscar os pais. A encosta veio abaixo em cima dos três.
+
+— E a menina?
+
+— A menina chegou no campo alto com o pau debaixo de um braço e as asas no outro, e com ela foi um menino pequeno, que não era dali. Ninguém sabia de onde tinha vindo. Tinham achado ele no meio de um bosque, sujo, arranhado, sem conseguir dizer uma palavra que alguém entendesse. — Karesis puxou o ar pelo nariz, demorado. — Ela nunca tinha conseguido voar. Saltou assim mesmo, com ele agarrado na armação.
+
+A voz dele foi sumindo nas últimas palavras. Pousou a mão direita aberta sobre a mesa, a palma para cima, e ficou olhando para ela.
+
+— Voou? — sussurrou Elis.
+
+— Voou. Pela primeira vez na vida, no último dia. — Karesis sorriu, e Elis nunca tinha visto um sorriso tão parecido com dor. — Lá de cima dava para ver tudo caindo atrás deles, as torres se partindo no meio, o vidro colorido brilhando um instante e sumindo nas nuvens. Até que um pedaço de ilha passou rasgando a seda. Ela segurou o menino pela mão.
+
+Os dedos da mão aberta sobre a mesa foram se fechando, um por um, até virarem punho em volta de nada.
+
+— Segurou? — perguntou Elis, e não percebeu que tinha prendido a respiração.
+
+— Tentou. Os dedos dele estavam cheios de poeira.
+
+O silêncio que veio depois foi o mais comprido da noite. Karesis não olhava mais para a parede, nem para a garrafa, nem para Elis. Olhava o próprio punho fechado como se esperasse que alguma coisa saísse de dentro dele.
+
+— E o menino? — Elis falou tão baixo que quase não ouviu a própria voz.
+
+Karesis abriu a mão devagar, e ela estava vazia.
+
+— Todo mundo caiu, Elis. É assim que a história acaba. Não se sabe quantas ilhas restaram, nem quanto tempo levou. Só dizem que lá embaixo, em algum lugar longe de qualquer estrada, ainda tem pedaço delas no meio das árvores, escada que gira em volta de parede que não segura mais casa nenhuma, vidro colorido enterrado no musgo, debaixo de raiz.
+
+Ela esperou o resto, como sempre esperava, e só aos poucos entendeu que dessa vez não havia resto guardado. Karesis empurrou a garrafa para o meio da mesa, longe da mão, puxou o velho livro para junto do peito e ficou ali sentado, quieto, os olhos fechados, até a respiração dele ficar comprida e pesada como a de quem dorme.
+
+Elis não se mexeu por um bom tempo. Depois levantou, pegou a capa engordurada que tinha escorregado dos joelhos dele para o chão e a ajeitou sobre seus ombros. Ao fazer isso, viu que a mão de Karesis continuava apertando o livro com força, mesmo dormindo, os nós dos dedos brancos sob a pele escura.
