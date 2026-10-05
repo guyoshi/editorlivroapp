@@ -24,6 +24,7 @@
   const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 
   function identity(){
+    if(window.Comments?.isAdmin?.())return null;
     const readerId=String(localStorage.getItem(USER_KEY)||"").trim();
     const profileHash=String(localStorage.getItem(PROFILE_HASH_KEY)||"").trim();
     const name=String(localStorage.getItem(NAME_KEY)||"").trim();
