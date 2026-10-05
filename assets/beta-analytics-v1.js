@@ -54,6 +54,7 @@
   const chapterDocId=ctx=>String(ctx.bookId).replace(/[^a-zA-Z0-9_-]/g,"_")+"__"+String(ctx.chapter);
 
   function identity(){
+    if(window.Comments?.isAdmin?.())return null;
     const readerId=String(localStorage.getItem(USER_KEY)||"").trim();
     const profileHash=String(localStorage.getItem(PROFILE_HASH_KEY)||"").trim();
     const name=String(localStorage.getItem(NAME_KEY)||"").trim();
@@ -70,13 +71,19 @@
   }
 
   function prefs(){
-    const scaleRaw=Number(localStorage.getItem(FONT_KEY)||"1");
+    const rid=String(localStorage.getItem(USER_KEY)||"").trim();
+    const scoped=base=>rid?base+":reader:"+rid:base+":guest";
+    const read=(base,fallback)=>{
+      const value=localStorage.getItem(scoped(base));
+      return value===null?fallback:value;
+    };
+    const scaleRaw=Number(read(FONT_KEY,"1"));
     return {
-      theme:String(localStorage.getItem(THEME_KEY)||document.documentElement.dataset.theme||"ambar"),
-      font:String(localStorage.getItem(FONT_FAMILY_KEY)||document.documentElement.dataset.readerFont||"lora"),
+      theme:String(read(THEME_KEY,document.documentElement.dataset.theme||"ambar")),
+      font:String(read(FONT_FAMILY_KEY,document.documentElement.dataset.readerFont||"lora")),
       fontScale:Number.isFinite(scaleRaw)?Math.max(.8,Math.min(1.6,Math.round(scaleRaw*10)/10)):1,
-      hideArt:localStorage.getItem(HIDE_ART_KEY)==="1",
-      autoAmbient:localStorage.getItem(AUTO_AMBIENT_KEY)==="1"
+      hideArt:read(HIDE_ART_KEY,"0")==="1",
+      autoAmbient:read(AUTO_AMBIENT_KEY,"0")==="1"
     };
   }
 
