@@ -29,6 +29,7 @@
   const clip=(v,n)=>String(v||"").slice(0,n);
   function db(){return window.Comments?.getDb?.()||null;}
   function ident(){
+    if(window.Comments?.isAdmin?.())return {readerId:"",profileHash:"",name:""};
     return {
       readerId:clip(localStorage.getItem(USER_KEY),80).trim(),
       profileHash:clip(localStorage.getItem(PROFILE_HASH_KEY),64).trim(),
