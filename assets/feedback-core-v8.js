@@ -34,6 +34,10 @@ const Comments = (() => {
   function uid(){let id=localStorage.getItem(USER_KEY);if(!id){id=(crypto.randomUUID?crypto.randomUUID():"r_"+Date.now().toString(36)+Math.random().toString(36).slice(2));localStorage.setItem(USER_KEY,id);}return id;}
   const name=()=>String(localStorage.getItem(NAME_KEY)||"").trim();
   const admin=()=>!!adminUser;
+  // O perfil de leitor fica preservado no aparelho, mas não é a identidade
+  // usada para publicar enquanto o modo administrador estiver ativo.
+  const feedbackAuthorName=()=>admin()?"Autor":(name()||"Anônimo");
+  const feedbackAuthorId=()=>admin()?(adminUser?.uid||"admin-author"):uid();
 
   function clearReaderIdentity(){
     // Apaga somente a identidade ativa do beta reader. Preferências gerais
@@ -155,7 +159,15 @@ const Comments = (() => {
   function shortId(id){const v=String(id||"").replace(/[^a-z0-9]/gi,"").toUpperCase();return v?v.slice(-6):"LEGADO";}
   function updateIdentityBar(){
     const el=document.getElementById("readerIdentityBar");
+    const hubBtn=document.getElementById("btnReaderHub");
     if(!el)return;
+    if(admin()){
+      el.hidden=false;
+      el.textContent="Modo administrador · Autor";
+      if(hubBtn)hubBtn.hidden=true;
+      return;
+    }
+    if(hubBtn)hubBtn.hidden=false;
     if(name()){
       el.hidden=false;
       const code=accessCode();
@@ -1129,12 +1141,12 @@ const Comments = (() => {
   function findItem(book,id){return (cCache[book]||[]).find(x=>x.id===id);}
 
   async function addRoot(book,ch,i,key,quote,text){
-    const now=Date.now(),entry={kind:"comment",bookId:book,chapter:ch,paraIdx:i,paragraphKey:key,quote,author:name()||"Anônimo",authorId:uid(),role:admin()?"admin":"reader",text,status:"open",adminSeen:admin(),at:now,updatedAt:now};
+    const now=Date.now(),entry={kind:"comment",bookId:book,chapter:ch,paraIdx:i,paragraphKey:key,quote,author:feedbackAuthorName(),authorId:feedbackAuthorId(),role:admin()?"admin":"reader",text,status:"open",adminSeen:admin(),at:now,updatedAt:now};
     await db.collection("comments").add(entry);
   }
   async function reply(root,text){
     const now=Date.now();
-    await db.collection("comments").add({kind:"reply",parentId:root.id,rootId:root.id,bookId:root.bookId,chapter:root.chapter,paraIdx:root.paraIdx,paragraphKey:root.paragraphKey||null,quote:root.quote||"",author:name()||"Anônimo",authorId:uid(),role:admin()?"admin":"reader",text,at:now,updatedAt:now});
+    await db.collection("comments").add({kind:"reply",parentId:root.id,rootId:root.id,bookId:root.bookId,chapter:root.chapter,paraIdx:root.paraIdx,paragraphKey:root.paragraphKey||null,quote:root.quote||"",author:feedbackAuthorName(),authorId:feedbackAuthorId(),role:admin()?"admin":"reader",text,at:now,updatedAt:now});
     await db.collection("comments").doc(root.id).set({updatedAt:now,status:"open",adminSeen:admin()},{merge:true});
   }
   async function saveText(x,text){
@@ -1172,9 +1184,10 @@ const Comments = (() => {
   }
 
   async function react(book,ch,i,key,quote,emoji){
-    const mine=(rCache[book]||[]).find(x=>x.authorId===uid()&&loc(x,ch,i,key));
+    const authorId=feedbackAuthorId();
+    const mine=(rCache[book]||[]).find(x=>x.authorId===authorId&&loc(x,ch,i,key));
     if(mine&&mine.emoji===emoji)return db.collection("comments").doc(mine.id).delete();
-    const p={kind:"reaction",bookId:book,chapter:ch,paraIdx:i,paragraphKey:key,quote,author:name()||"Anônimo",authorId:uid(),emoji,updatedAt:Date.now(),at:mine?.at||Date.now()};
+    const p={kind:"reaction",bookId:book,chapter:ch,paraIdx:i,paragraphKey:key,quote,author:feedbackAuthorName(),authorId,emoji,updatedAt:Date.now(),at:mine?.at||Date.now()};
     if(mine)await db.collection("comments").doc(mine.id).set(p,{merge:true});else await db.collection("comments").add(p);
   }
 
@@ -1190,7 +1203,7 @@ const Comments = (() => {
       if(canDelete(r))mini.push('<button data-act="del" data-id="'+r.id+'">Apagar</button>');
       return '<div class="feedback-reply '+(r.role==="admin"?"by-admin":"")+'"><div class="feedback-meta"><strong>'+esc(r.role==="admin"?"Resposta do autor":r.author)+'</strong><span>'+when(r.at)+(r.editedAt?" · editado":"")+'</span>'+(mini.length?'<span class="feedback-mini-actions">'+mini.join("")+'</span>':"")+'</div><div class="feedback-text">'+esc(r.text)+'</div></div>';
     }).join("");
-    return '<div class="feedback-thread" data-thread-id="'+root.id+'"><div class="feedback-meta"><strong>'+esc(root.author)+'</strong><span>'+when(root.at)+(root.editedAt?" · editado":"")+'</span>'+(!root.adminSeen&&admin()?'<span class="feedback-status new">Novo</span>':"")+(root.status==="resolved"?'<span class="feedback-status resolved">Resolvido</span>':"")+'</div><div class="feedback-text">'+esc(root.text)+'</div>'+(acts.length?'<div class="feedback-actions">'+acts.join("")+'</div>':"")+(rh?'<div class="feedback-replies">'+rh+'</div>':"")+'<form class="feedback-reply-form" data-root="'+root.id+'"><input maxlength="500" placeholder="Responder…" required><button>Responder</button></form></div>';
+    return '<div class="feedback-thread" data-thread-id="'+root.id+'"><div class="feedback-meta"><strong>'+esc(root.role==="admin"?"Autor":root.author)+'</strong><span>'+when(root.at)+(root.editedAt?" · editado":"")+'</span>'+(!root.adminSeen&&admin()?'<span class="feedback-status new">Novo</span>':"")+(root.status==="resolved"?'<span class="feedback-status resolved">Resolvido</span>':"")+'</div><div class="feedback-text">'+esc(root.text)+'</div>'+(acts.length?'<div class="feedback-actions">'+acts.join("")+'</div>':"")+(rh?'<div class="feedback-replies">'+rh+'</div>':"")+'<form class="feedback-reply-form" data-root="'+root.id+'"><input maxlength="500" placeholder="Responder…" required><button>Responder</button></form></div>';
   }
 
   function wireThreads(el,book){
