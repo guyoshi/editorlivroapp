@@ -50,15 +50,22 @@
   function db(){return window.Comments?.getDb?.();}
 
   function ensureButton(){
-    const btn=document.getElementById("btnAuthorAdmin");
-    const bar=document.getElementById("authorAdminHomeBar");
+    const btn=document.getElementById("btnReaderHub");
     if(!btn)return null;
     const on=!!window.Comments?.isAdmin?.();
-    btn.hidden=!on;
-    if(bar)bar.hidden=!on;
+    btn.classList.toggle("admin-mode",on);
+    if(on){
+      btn.hidden=false;
+      btn.title="Painel do autor";
+      btn.setAttribute("aria-label","Painel do autor");
+      const path=btn.querySelector("#topProfileIconPath");
+      if(path)path.setAttribute("d","M12 2 4 5v6c0 5.55 3.84 10.74 8 12 4.16-1.26 8-6.45 8-12V5l-8-3zm-1 14-4-4 1.4-1.4 2.6 2.57 4.6-4.6L17 10l-6 6z");
+    }
     if(!btn.dataset.adminHomeWired){
       btn.dataset.adminHomeWired="1";
-      btn.addEventListener("click",()=>showAdminHome());
+      btn.addEventListener("click",()=>{
+        if(window.Comments?.isAdmin?.())showAdminHome();
+      });
     }
     return btn;
   }
@@ -165,9 +172,23 @@
   function stop(){unsub?.();unsub=null;all=[];knownNewIds=null;badge();}
   function badge(){
     const n=roots().filter(r=>!r.adminSeen).length;
-    [document.getElementById("adminNewCount"),document.getElementById("adminHomeNewCount")].forEach(x=>{
-      if(!x)return;x.hidden=!n;x.textContent=n>99?"99+":String(n);
+    const targets=[
+      document.getElementById("adminHomeNewCount"),
+      ...(window.Comments?.isAdmin?.()?[document.getElementById("readerHubBadge")]:[])
+    ];
+    targets.forEach(x=>{
+      if(!x)return;
+      x.hidden=!n;
+      x.textContent=n>99?"99+":String(n);
     });
+    const top=document.getElementById("btnReaderHub");
+    if(top&&window.Comments?.isAdmin?.()){
+      const label=n
+        ? "Painel do autor · "+n+" "+(n===1?"novidade":"novidades")
+        : "Painel do autor";
+      top.title=label;
+      top.setAttribute("aria-label",label);
+    }
   }
 
   function fill(sel,vals,current,label){
