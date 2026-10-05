@@ -476,10 +476,11 @@ function setNarrationAvailability(available){
     btn.disabled=!narrationAvailable;
     btn.setAttribute("aria-disabled",String(!narrationAvailable));
     btn.setAttribute("aria-pressed","false");
-    if(!narrationAvailable){
-      btn.title="Narração indisponível neste capítulo";
-      btn.setAttribute("aria-label","Narração indisponível neste capítulo");
-    }
+    const label=narrationAvailable?"Tocar narração":"Narração indisponível neste capítulo";
+    btn.title=label;
+    btn.setAttribute("aria-label",label);
+    const path=$("#narrationStatePath");
+    if(path)path.setAttribute("d","M8 5v14l11-7z");
   }
   if(seek){seek.disabled=!narrationAvailable;if(!narrationAvailable)seek.value="0";}
   if(back){back.disabled=!narrationAvailable;back.setAttribute("aria-disabled",String(!narrationAvailable));}
