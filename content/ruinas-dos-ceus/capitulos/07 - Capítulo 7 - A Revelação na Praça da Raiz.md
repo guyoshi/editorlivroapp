@@ -99,7 +99,7 @@ Efepar, parado ao canto, se afastou discretamente. Nestira permaneceu ajoelhada,
 
 Uma das curandeiras aproximou-se quando a respiração de Jokara enfim desacelerou. Explicou que a resina de naruth usada nas bandagens ajudava a conter o sangue e fazia a pele fechar mais depressa do que uma ferida comum. Ainda assim, o corpo precisaria de tempo. A resina não devolveria músculo, equilíbrio ou força. E haveria dores estranhas.
 
-Jokara entendeu isso na mesmo Sopro do Silêncio.
+Jokara entendeu isso no mesmo Sopro do Silêncio.
 
 Acordou certa de que os dedos do pé esquerdo estavam dobrados sob o lençol. Tentou movê-los. A sensação permaneceu. Levou a mão até onde imaginava encontrar a canela e tocou apenas bandagens.
 
@@ -200,9 +200,9 @@ A menina levantou-se sonolenta e caminhou em direção à porta. Ao virar-se por
 
 E saiu.
 
-Jokara adormeceu tarde naquela Sopro do Silêncio.
+Jokara adormeceu tarde naquele Sopro do Silêncio.
 
-Acordou sem saber por quê. A janela, ligeiramente entreaberta, revelava o Sopro do Silêncio limpa, pontuada por estrelas. Jokara ergueu-se o suficiente para espiar.
+Acordou sem saber por quê. A janela, ligeiramente entreaberta, revelava o Sopro do Silêncio limpo, pontuado por estrelas. Jokara ergueu-se o suficiente para espiar.
 
 Na distância, além da neblina que cobria os vales profundos entre as ilhas flutuantes, uma das plataformas distantes, talvez Velhara ou Tinor, tremia. Um tremor pequeno, quase imperceptível. Então um pedaço da borda daquela ilha, grande como uma aldeia inteira, rompeu-se em silêncio e desabou para o abismo.
 
@@ -300,7 +300,7 @@ Jokara ainda tentou falar, mas já não se ouvia a própria voz.
 
 Nestira caiu de joelhos, aos prantos, segurando o manto da irmã com força.
 
-— Pare! Pelo amor dos ventos, pare! Não vê que o que está fazendo?
+— Pare! Pelo amor dos ventos, pare! Não vê o que está fazendo?
 
 Dois oradores cerimoniais aproximaram-se, mas Yrisea fez um gesto para que baixassem as mãos antes que tocassem em Jokara.
 
