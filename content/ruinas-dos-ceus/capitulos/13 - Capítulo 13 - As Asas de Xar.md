@@ -62,7 +62,7 @@ Deixou a água repousar numa tigela rachada até a terra descer ao fundo. Ainda 
 
 Então aqueceu pedras pequenas no fogo e as mergulhou, uma a uma, no recipiente. A água chiou, soltou vapor e, depois de várias trocas, começou a ferver. Esperaram esfriar.
 
-Não sabiam se aquilo expulsava todos os males invisíveis da superfície. Mas naquela Sopro do Silêncio beberam sem febre.
+Não sabiam se aquilo expulsava todos os males invisíveis da superfície. Mas naquele Sopro do Silêncio beberam sem febre.
 
 Jokara guardou o método.
 
@@ -292,7 +292,7 @@ Quando percebeu, já estava em pé.
 
 Nos sopros seguintes, aprenderam a sobreviver juntos. Certa vez, uma fera de pelo grosso avançou sobre eles perto do abrigo. Mariv conseguiu derrubá-la com uma lança improvisada antes que alcançasse Nestira. Depois, as mãos dele demoraram a parar de tremer.
 
-— Naquela Sopro do Silêncio eu continuei sem saber se os ventos tinham nos abandonado — disse Nestira. — Mas o abrigo ficou de pé. E no sopro seguinte também. Comecei a pensar que talvez continuar não precisasse ser uma resposta. Talvez pudesse ser uma escolha.
+— Naquele Sopro do Silêncio eu continuei sem saber se os ventos tinham nos abandonado — disse Nestira. — Mas o abrigo ficou de pé. E no sopro seguinte também. Comecei a pensar que talvez continuar não precisasse ser uma resposta. Talvez pudesse ser uma escolha.
 
 Jokara olhou para Mariv.
 
