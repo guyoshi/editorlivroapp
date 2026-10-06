@@ -27,6 +27,13 @@
   const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
   const when=t=>t?new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"";
+  const whenFull=t=>t?new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",year:"numeric",hour:"2-digit",minute:"2-digit"}).replace(","," ·"):"";
+  const commentWhen=x=>{
+    const created=whenFull(x?.at),edited=whenFull(x?.editedAt);
+    if(created&&edited)return created+" · editado "+edited;
+    if(edited)return "editado "+edited;
+    return created;
+  };
   const shortId=id=>{const v=String(id||"").replace(/[^a-z0-9]/gi,"").toUpperCase();return v?v.slice(-6):"LEGADO";};
   const readerKey=x=>x.authorId||("legacy:"+norm(x.author));
   const readerLabel=x=>(x?.role==="admin"?"Autor":(x.author||"Anônimo"));
@@ -44,8 +51,24 @@
   const settingLabel=(map,value)=>map[value]||value||"—";
 
   function roots(){return all.filter(x=>!x.parentId&&x.kind!=="reply"&&x.kind!=="reaction");}
+  function reactionsAll(){return all.filter(x=>x.kind==="reaction");}
   function replies(id){return all.filter(x=>x.parentId===id||x.rootId===id).sort((a,b)=>(a.at||0)-(b.at||0));}
   function authorReplies(id){return replies(id).filter(x=>x.role==="admin");}
+  function activityStamp(root){
+    const readerReplies=replies(root.id).filter(x=>x.role!=="admin");
+    return Math.max(Number(root.updatedAt)||0,Number(root.editedAt)||0,Number(root.at)||0,...readerReplies.map(x=>Number(x.editedAt||x.at)||0));
+  }
+  function activityLabel(root){
+    if(root.adminSeen)return "";
+    const readerReplies=replies(root.id).filter(x=>x.role!=="admin");
+    const latestReply=readerReplies.slice().sort((a,b)=>(Number(b.editedAt||b.at)||0)-(Number(a.editedAt||a.at)||0))[0];
+    const replyAt=Number(latestReply?.editedAt||latestReply?.at)||0;
+    const editAt=Number(root.editedAt)||0;
+    if(editAt&&editAt>=replyAt)return "Comentário editado";
+    if(latestReply)return latestReply.editedAt?"Resposta editada":"Nova resposta";
+    if((Number(root.updatedAt)||0)>(Number(root.at)||0))return "Nova atividade";
+    return "Novo comentário";
+  }
   function find(id){return all.find(x=>x.id===id);}
   function db(){return window.Comments?.getDb?.();}
 
@@ -73,24 +96,127 @@
   function ensureAdminHome(){
     if(document.getElementById("authorAdminSheet"))return;
     const el=document.createElement("div");el.id="authorAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Gerencie leitores, acompanhe a leitura e centralize o feedback.</p></div><div class="admin-head-actions"><button id="authorAdminLogout" class="link-btn" type="button">Sair do admin</button><button id="authorAdminClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-home-grid"><button id="openReaderAccess" class="admin-home-card" type="button"><strong>Leitores e acessos</strong><span>Libere livros, envie popup ou remova leitores.</span></button><button id="openAnalyticsDashboard" class="admin-home-card" type="button"><strong>Relatórios beta</strong><span>Veja avanço, tempo de leitura, narração, música e preferências.</span></button><button id="openBetaFeedbackDashboard" class="admin-home-card" type="button"><strong>Avaliações beta</strong><span>Capa, feedback por capítulo, opinião final e dados para IA.</span></button><button id="openPopupDashboard" class="admin-home-card" type="button"><strong>Mensagens popup</strong><span>Veja pendentes, disparadas, lidas e seus modelos.</span></button><button id="openCommentDashboard" class="admin-home-card" type="button"><strong>Comentários</strong><span>Leia e responda ao feedback dos capítulos.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button></div></section>';
+    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Leitores, feedback, análises e comunicação em um só lugar.</p></div><div class="admin-head-actions"><button id="authorAdminLogout" class="link-btn" type="button">Sair do admin</button><button id="authorAdminClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<div class="admin-home-summary"><span><b id="adminHomeReaderStat">—</b> leitores</span><span><b id="adminHomeLiveStat">—</b> ativos agora</span><span><b id="adminHomeFeedbackStat">—</b> novidades</span><span><b id="adminHomeMessageStat">—</b> mensagens pendentes</span></div>'
+      +'<div class="admin-home-grid">'
+        +'<button id="openReaderAccess" class="admin-home-card" type="button"><strong>👥 Leitores</strong><span>Progresso, atividade, livros liberados, códigos e gestão individual.</span></button>'
+        +'<button id="openFeedbackHub" class="admin-home-card" type="button"><strong>💬 Feedback</strong><span>Comentários, respostas, reações e avaliações beta.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button>'
+        +'<button id="openAnalyticsDashboard" class="admin-home-card" type="button"><strong>📊 Análises</strong><span>Comportamento geral de leitura, tempo, áudio e preferências.</span></button>'
+        +'<button id="openPopupDashboard" class="admin-home-card" type="button"><strong>📣 Mensagens</strong><span>Envie recados, acompanhe leitura e reutilize modelos.</span></button>'
+      +'</div></section>';
     document.body.appendChild(el);
     el.querySelector("#authorAdminClose").onclick=hideAdminHome;
     el.querySelector("#authorAdminLogout").onclick=()=>{hideAdminHome();document.dispatchEvent(new CustomEvent("beta:admin-logout"));};
     el.querySelector("#openReaderAccess").onclick=()=>{hideAdminHome();showAccess();};
+    el.querySelector("#openFeedbackHub").onclick=()=>{hideAdminHome();showFeedbackHub();};
     el.querySelector("#openAnalyticsDashboard").onclick=()=>{hideAdminHome();showAnalytics();};
-    el.querySelector("#openBetaFeedbackDashboard").onclick=()=>{hideAdminHome();showBetaFeedbackAdmin();};
     el.querySelector("#openPopupDashboard").onclick=()=>{hideAdminHome();window.PopupMessages?.openAdmin?.();};
-    el.querySelector("#openCommentDashboard").onclick=()=>{hideAdminHome();show();};
     el.onclick=e=>{if(e.target===el)hideAdminHome();};
   }
+
+  async function refreshAdminHomeStats(){
+    const home=document.getElementById("authorAdminSheet");
+    if(!home||home.hidden||!db())return;
+    const set=(id,value)=>{const x=document.getElementById(id);if(x)x.textContent=String(value);};
+    set("adminHomeFeedbackStat",roots().filter(r=>!r.adminSeen).length);
+    try{
+      const [profiles,presenceSnap,messageSnap]=await Promise.all([
+        Comments.listReaderProfiles(),
+        db().collection("readerPresence").get().catch(()=>null),
+        db().collection("popupMessages").get().catch(()=>null)
+      ]);
+      set("adminHomeReaderStat",profiles.length);
+      let live=0;
+      presenceSnap?.forEach(d=>{
+        const p=d.data()||{},age=Date.now()-(Number(p.heartbeatAt)||0);
+        if(age<=45000&&p.active)live++;
+      });
+      set("adminHomeLiveStat",live);
+      let pending=0;
+      messageSnap?.forEach(d=>{const m=d.data()||{};if(!m.shownAt&&!m.readAt)pending++;});
+      set("adminHomeMessageStat",pending);
+    }catch(e){/* resumo é informativo; o painel continua funcional sem ele */}
+  }
+
+  function ensureFeedbackHub(){
+    if(document.getElementById("feedbackHubSheet"))return;
+    const el=document.createElement("div");el.id="feedbackHubSheet";el.className="admin-dashboard-sheet";el.hidden=true;
+    el.innerHTML='<section class="admin-dashboard feedback-hub"><header class="admin-dashboard-head"><div><h2>Feedback</h2><p>Tudo o que os leitores disseram ou sinalizaram sobre a obra.</p></div><div class="admin-head-actions"><button id="feedbackHubBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="feedbackHubClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<div class="feedback-hub-summary"><span><b id="feedbackHubCommentCount">0</b> comentários</span><span><b id="feedbackHubReactionCount">0</b> reações</span><span><b id="feedbackHubBetaCount">—</b> avaliações</span></div>'
+      +'<div class="admin-home-grid">'
+        +'<button id="feedbackHubComments" class="admin-home-card" type="button"><strong>Comentários e respostas</strong><span>Leia, responda, resolva e acompanhe edições dos leitores.</span><span id="feedbackHubNewCount" class="admin-new-count" hidden></span></button>'
+        +'<button id="feedbackHubReactions" class="admin-home-card" type="button"><strong>Reações</strong><span>Veja o mapa emocional dos trechos e quem reagiu a cada passagem.</span></button>'
+        +'<button id="feedbackHubBeta" class="admin-home-card" type="button"><strong>Avaliações beta</strong><span>Capa, capítulos, opinião final e exportação estruturada para IA.</span></button>'
+      +'</div></section>';
+    document.body.appendChild(el);
+    el.querySelector("#feedbackHubBack").onclick=()=>{hideFeedbackHub();showAdminHome();};
+    el.querySelector("#feedbackHubClose").onclick=hideFeedbackHub;
+    el.querySelector("#feedbackHubComments").onclick=()=>{hideFeedbackHub();show();};
+    el.querySelector("#feedbackHubReactions").onclick=()=>{hideFeedbackHub();showReactions();};
+    el.querySelector("#feedbackHubBeta").onclick=()=>{hideFeedbackHub();showBetaFeedbackAdmin();};
+    el.onclick=e=>{if(e.target===el)hideFeedbackHub();};
+  }
+
+  function updateFeedbackHub(){
+    const sheet=document.getElementById("feedbackHubSheet");
+    if(!sheet)return;
+    const comments=roots().length,reactions=reactionsAll().length,unseen=roots().filter(r=>!r.adminSeen).length;
+    const c=sheet.querySelector("#feedbackHubCommentCount"),r=sheet.querySelector("#feedbackHubReactionCount"),b=sheet.querySelector("#feedbackHubNewCount");
+    if(c)c.textContent=String(comments);
+    if(r)r.textContent=String(reactions);
+    if(b){b.hidden=!unseen;b.textContent=unseen>99?"99+":String(unseen);}
+  }
+  function showFeedbackHub(){
+    if(!Comments?.isAdmin?.())return;
+    ensureFeedbackHub();subscribe();
+    const sheet=document.getElementById("feedbackHubSheet");sheet.hidden=false;updateFeedbackHub();
+    db()?.collection("betaFeedback").get().then(s=>{const x=document.getElementById("feedbackHubBetaCount");if(x)x.textContent=String(s.size);}).catch(()=>{});
+  }
+  function hideFeedbackHub(){const x=document.getElementById("feedbackHubSheet");if(x)x.hidden=true;}
+
+  function ensureReactionSheet(){
+    if(document.getElementById("reactionAdminSheet"))return;
+    const el=document.createElement("div");el.id="reactionAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Reações</h2><p>Mapa emocional dos trechos reagidos pelos leitores.</p></div><div class="admin-head-actions"><button id="reactionBack" class="link-btn admin-back-btn" type="button">← Feedback</button><button id="reactionClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<div class="admin-dashboard-filters"><select id="reactionBook"><option value="">Todos os livros</option></select><select id="reactionChapter"><option value="">Todos os capítulos</option></select><select id="reactionAuthor"><option value="">Todos os leitores</option></select><select id="reactionEmoji"><option value="">Todos os emojis</option><option>😍</option><option>😂</option><option>😱</option><option>😢</option><option>🤔</option></select></div>'
+      +'<div id="reactionAdminList" class="admin-dashboard-list"></div></section>';
+    document.body.appendChild(el);
+    el.querySelector("#reactionBack").onclick=()=>{hideReactions();showFeedbackHub();};
+    el.querySelector("#reactionClose").onclick=hideReactions;
+    ["reactionBook","reactionChapter","reactionAuthor","reactionEmoji"].forEach(id=>el.querySelector("#"+id).addEventListener("change",renderReactions));
+    el.onclick=e=>{if(e.target===el)hideReactions();};
+  }
+
+  function renderReactions(){
+    const sheet=document.getElementById("reactionAdminSheet");if(!sheet||sheet.hidden)return;
+    const bk=sheet.querySelector("#reactionBook"),ch=sheet.querySelector("#reactionChapter"),au=sheet.querySelector("#reactionAuthor"),em=sheet.querySelector("#reactionEmoji"),list=sheet.querySelector("#reactionAdminList");
+    const bv=bk.value,cv=ch.value,av=au.value,ev=em.value;
+    const rr=reactionsAll();
+    const books=[...new Set(rr.map(x=>x.bookId).filter(Boolean))].sort();
+    const authors=[...new Set(rr.map(x=>x.author).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"pt-BR"));
+    const chapters=[...new Set(rr.filter(x=>!bv||x.bookId===bv).map(x=>String(x.chapter)))].sort((a,b)=>Number(a)-Number(b));
+    fill(bk,books,bv);fill(ch,chapters,cv,v=>"Capítulo "+v);fill(au,authors,av);
+    const items=rr.filter(x=>(!bk.value||x.bookId===bk.value)&&(!ch.value||String(x.chapter)===ch.value)&&(!au.value||x.author===au.value)&&(!ev||x.emoji===ev))
+      .sort((a,b)=>(Number(b.updatedAt||b.at)||0)-(Number(a.updatedAt||a.at)||0));
+    if(!items.length){list.innerHTML='<p class="admin-empty">Nenhuma reação neste filtro.</p>';return;}
+    const counts={};items.forEach(x=>counts[x.emoji]=(counts[x.emoji]||0)+1);
+    list.innerHTML='<div class="reaction-overview">'+Object.entries(counts).map(([emoji,count])=>'<span>'+emoji+' <b>'+count+'</b></span>').join("")+'</div>'
+      +items.map(x=>'<article class="admin-comment-card reaction-admin-card"><div class="reaction-admin-emoji">'+esc(x.emoji||"")+'</div><div class="reaction-admin-body"><div class="admin-card-top"><div><strong>'+esc(x.author||"Anônimo")+'</strong><span>'+esc(x.bookId||"")+' · Cap. '+esc(x.chapter)+' · §'+(Number(x.paraIdx)+1)+'</span><span>'+esc(whenFull(x.at))+'</span></div></div>'+(x.quote?'<blockquote>'+esc(x.quote)+'</blockquote>':"")+'<div class="admin-card-actions"><button data-reaction-goto="'+esc(x.id)+'">Ver trecho</button></div></div></article>').join("");
+    list.querySelectorAll("[data-reaction-goto]").forEach(btn=>btn.onclick=()=>{
+      const x=all.find(item=>item.id===btn.dataset.reactionGoto);if(!x)return;
+      hideReactions();window.BookReader?.openLocation?.(x.bookId,x.chapter,x.paraIdx,x.paragraphKey);
+    });
+  }
+  function showReactions(){if(!Comments?.isAdmin?.())return;ensureReactionSheet();subscribe();document.getElementById("reactionAdminSheet").hidden=false;renderReactions();}
+  function hideReactions(){const x=document.getElementById("reactionAdminSheet");if(x)x.hidden=true;}
+
 
   function ensureSheet(){
     if(document.getElementById("commentAdminSheet"))return;
     const el=document.createElement("div");el.id="commentAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Central de comentários</h2><p>Responda, filtre e classifique as conversas como preferir.</p></div><div class="admin-head-actions"><button id="adminDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="adminDashClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-dashboard-filters"><select id="afStatus"><option value="all">Todos os estados</option><option value="new">Novos</option><option value="unanswered">Não respondido</option><option value="open">Em aberto</option><option value="resolved">Resolvidos</option></select><select id="afReply"><option value="all">Todas as respostas</option><option value="unread">Não lidos</option><option value="unanswered">Sem resposta do autor</option><option value="answered">Respondidos por mim</option></select><select id="afBook"><option value="">Todos os livros</option></select><select id="afChapter"><option value="">Todos os capítulos</option></select><select id="afAuthor"><option value="">Todos os leitores</option></select><select id="afSort" title="Classificar comentários"><option value="unread">Não lidos primeiro</option><option value="newest">Mais novos primeiro</option><option value="oldest">Mais antigos primeiro</option><option value="book">Ordem do livro</option></select><input id="afSearch" type="search" placeholder="Buscar comentário ou resposta…"></div><div class="admin-dashboard-bulk"><button id="afMarkReadAll" type="button" class="link-btn">Marcar exibidos como lidos</button><button id="afMarkUnreadAll" type="button" class="link-btn">Marcar exibidos como não lidos</button></div><div id="adminDashboardList" class="admin-dashboard-list"></div></section>';
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Comentários e respostas</h2><p>Leia, responda e acompanhe comentários novos ou editados.</p></div><div class="admin-head-actions"><button id="adminDashBack" class="link-btn admin-back-btn" type="button">← Feedback</button><button id="adminDashClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-dashboard-filters"><select id="afStatus"><option value="all">Todos os estados</option><option value="new">Novos</option><option value="unanswered">Não respondido</option><option value="open">Em aberto</option><option value="resolved">Resolvidos</option></select><select id="afReply"><option value="all">Todas as respostas</option><option value="unread">Não lidos</option><option value="unanswered">Sem resposta do autor</option><option value="answered">Respondidos por mim</option></select><select id="afBook"><option value="">Todos os livros</option></select><select id="afChapter"><option value="">Todos os capítulos</option></select><select id="afAuthor"><option value="">Todos os leitores</option></select><select id="afSort" title="Classificar comentários"><option value="unread">Não lidos primeiro</option><option value="newest">Mais novos primeiro</option><option value="oldest">Mais antigos primeiro</option><option value="book">Ordem do livro</option></select><input id="afSearch" type="search" placeholder="Buscar comentário ou resposta…"></div><div class="admin-dashboard-bulk"><button id="afMarkReadAll" type="button" class="link-btn">Marcar exibidos como lidos</button><button id="afMarkUnreadAll" type="button" class="link-btn">Marcar exibidos como não lidos</button></div><div id="adminDashboardList" class="admin-dashboard-list"></div></section>';
     document.body.appendChild(el);
-    el.querySelector("#adminDashBack").onclick=()=>{hide();showAdminHome();};
+    el.querySelector("#adminDashBack").onclick=()=>{hide();showFeedbackHub();};
     el.querySelector("#adminDashClose").onclick=hide;
     el.onclick=e=>{if(e.target===el)hide();};
     ["afStatus","afReply","afBook","afChapter","afAuthor","afSort","afSearch"].forEach(id=>{
@@ -159,14 +285,17 @@
     if(unsub||!Comments?.isAdmin?.()||!db())return;
     unsub=db().collection("comments").onSnapshot(s=>{
       all=[];s.forEach(d=>all.push({id:d.id,...d.data()}));
-      const currentNewIds=new Set(roots().filter(r=>!r.adminSeen).map(r=>r.id));
+      const currentNew=new Map(roots().filter(r=>!r.adminSeen).map(r=>[r.id,activityStamp(r)]));
       if(knownNewIds){
         let hasFresh=false;
-        currentNewIds.forEach(id=>{if(!knownNewIds.has(id))hasFresh=true;});
+        currentNew.forEach((stamp,id)=>{
+          if(!knownNewIds.has(id)||stamp>(knownNewIds.get(id)||0))hasFresh=true;
+        });
         if(hasFresh)playNewCommentSound();
       }
-      knownNewIds=currentNewIds;
-      badge();if(open)render();
+      knownNewIds=currentNew;
+      badge();updateFeedbackHub();if(open)render();
+      const reactionSheet=document.getElementById("reactionAdminSheet");if(reactionSheet&&!reactionSheet.hidden)renderReactions();
     });
   }
   function stop(){unsub?.();unsub=null;all=[];knownNewIds=null;badge();}
@@ -174,6 +303,7 @@
     const n=roots().filter(r=>!r.adminSeen).length;
     const targets=[
       document.getElementById("adminHomeNewCount"),
+      document.getElementById("feedbackHubNewCount"),
       ...(window.Comments?.isAdmin?.()?[document.getElementById("readerHubBadge")]:[])
     ];
     targets.forEach(x=>{
@@ -252,17 +382,18 @@
       const rp=reps.map(x=>{
         const isMine=x.role==="admin";
         const actions='<span class="feedback-mini-actions">'+(isMine?'<button data-a="edit-reply" data-id="'+x.id+'" data-root="'+r.id+'">Editar</button>':"")+'<button data-a="del-reply" data-id="'+x.id+'" data-root="'+r.id+'">Apagar</button></span>';
-        return '<div class="feedback-reply '+(isMine?"by-admin":"")+'"><div class="feedback-meta"><strong>'+esc(isMine?"Sua resposta":readerLabel(x))+'</strong><span>'+when(x.at)+(x.editedAt?" · editado":"")+'</span>'+actions+'</div><div class="feedback-text">'+esc(x.text)+'</div></div>';
+        return '<div class="feedback-reply '+(isMine?"by-admin":"")+'"><div class="feedback-meta"><strong>'+esc(isMine?"Sua resposta":readerLabel(x))+'</strong><span>'+esc(commentWhen(x))+'</span>'+actions+'</div><div class="feedback-text">'+esc(x.text)+'</div></div>';
       }).join("");
-      const badges=(!r.adminSeen?'<span class="feedback-status new">Novo</span>':"")
+      const activity=activityLabel(r),activityClass=/editad/i.test(activity)?"edited":"new";
+      const badges=(!r.adminSeen?'<span class="feedback-status '+activityClass+'">'+esc(activity||"Novo")+'</span>':"")
         +(myReplies.length?'<span class="feedback-status answered">Respondido</span>':"")
         +(r.status==="resolved"?'<span class="feedback-status resolved">Resolvido</span>':"");
       const editRoot=r.role==="admin"?'<button data-a="edit-root" data-id="'+r.id+'">Editar</button>':"";
       const replyLabel=myReplies.length?"Responder novamente":"Responder";
       return '<article class="admin-comment-card '+(!r.adminSeen?"is-new":"")+'">'
-        +'<div class="admin-card-top"><div><strong>'+esc(readerLabel(r))+'</strong><span>'+esc(r.bookId||"")+' · Cap. '+esc(r.chapter)+' · §'+(Number(r.paraIdx)+1)+'</span></div><div>'+badges+'</div></div>'
+        +'<div class="admin-card-top"><div><strong>'+esc(readerLabel(r))+'</strong>'+(commentWhen(r)?'<span class="feedback-comment-time">'+esc(commentWhen(r))+'</span>':"")+'<span>'+esc(r.bookId||"")+' · Cap. '+esc(r.chapter)+' · §'+(Number(r.paraIdx)+1)+'</span></div><div>'+badges+'</div></div>'
         +(r.quote?'<blockquote>'+esc(r.quote)+'</blockquote>':"")
-        +'<div class="admin-root-text">'+esc(r.text||"")+(r.editedAt?'<small class="feedback-edited">editado</small>':"")+'</div>'
+        +'<div class="admin-root-text">'+esc(r.text||"")+'</div>'
         +(rp?'<div class="feedback-replies">'+rp+'</div>':"")
         +'<div class="admin-card-actions"><button data-a="goto" data-id="'+r.id+'">Ver trecho</button><button data-a="reply" data-id="'+r.id+'">'+replyLabel+'</button><button data-a="resolve" data-id="'+r.id+'">'+(r.status==="resolved"?"Reabrir":"Resolver")+'</button>'+editRoot+'<button data-a="del" data-id="'+r.id+'">Apagar</button>'+(!r.adminSeen?'<button data-a="seen" data-id="'+r.id+'">Marcar lido</button>':'<button data-a="unseen" data-id="'+r.id+'">Marcar não lido</button>')+'</div>'
         +'</article>';
@@ -299,11 +430,12 @@
 
   function show(){if(!Comments?.isAdmin?.())return;ensureSheet();subscribe();document.getElementById("commentAdminSheet").hidden=false;open=true;render();}
   function hide(){const x=document.getElementById("commentAdminSheet");if(x)x.hidden=true;open=false;}
-  function showAdminHome(){if(!Comments?.isAdmin?.())return;ensureAdminHome();subscribe();document.getElementById("authorAdminSheet").hidden=false;badge();}
+  function showAdminHome(){if(!Comments?.isAdmin?.())return;ensureAdminHome();subscribe();document.getElementById("authorAdminSheet").hidden=false;badge();refreshAdminHomeStats();}
   function hideAdminHome(){const x=document.getElementById("authorAdminSheet");if(x)x.hidden=true;}
 
-  // ---------------- Relatórios beta ----------------
+  // ---------------- Análises de leitura ----------------
   let analyticsRows=[];
+  let analyticsReturnTo="home";
   let diagMap=new Map(),diagAvailable=false;
   let commentMap=new Map(),bookTitles=new Map();
   function lastContact(readerId,a){
@@ -403,14 +535,14 @@
     el.className="admin-dashboard-sheet";
     el.hidden=true;
     el.innerHTML='<section class="admin-dashboard analytics-dashboard">'
-      +'<header class="admin-dashboard-head"><div><h2>Relatórios beta</h2><p>Avanço dos leitores e uso real das ferramentas do app.</p></div><div class="admin-head-actions"><button id="analyticsBackHome" class="link-btn admin-back-btn" type="button">← Painel</button><button id="analyticsRefresh" class="link-btn" type="button">Atualizar</button><button id="analyticsClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<header class="admin-dashboard-head"><div><h2>Análises de leitura</h2><p>Visão geral de comportamento, tempo, áudio e preferências.</p></div><div class="admin-head-actions"><button id="analyticsBackHome" class="link-btn admin-back-btn" type="button">← Painel</button><button id="analyticsRefresh" class="link-btn" type="button">Atualizar</button><button id="analyticsClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<div id="analyticsMain" class="analytics-scroll">'
       +'<p class="analytics-note">As médias ignoram os usuários marcados como teste. Uso de narração/música conta após 15 segundos. Capítulos antigos concluídos são importados quando o leitor abre o livro, mas tempos históricos não podem ser reconstruídos.</p>'
       +'<section id="analyticsLiveSection" class="analytics-section analytics-live-section"><div class="analytics-section-head"><h3>Agora</h3><span>Quem está com o app aberto agora ou saiu há menos de 5 minutos. Atualiza sozinho.</span></div><div id="analyticsLiveList" class="analytics-live-list"></div></section>'
       +'<div id="analyticsOverview" class="analytics-overview"></div>'
       +'<section class="analytics-section"><div class="analytics-section-head"><h3>Uso de recursos</h3><span>Percentual dos leitores medidos que realmente usaram narração, música, ambos ou nenhum.</span></div><div id="analyticsAdoption" class="analytics-adoption"></div></section>'
       +'<section class="analytics-section"><div class="analytics-section-head"><h3>Preferências mais usadas</h3><span>Top escolhas dos leitores válidos, em porcentagem.</span></div><div id="analyticsPreferences" class="analytics-preferences"></div></section>'
-      +'<section class="analytics-section"><div class="analytics-section-head"><h3>Avanço dos leitores</h3><span>Toque em um leitor para abrir o detalhe. Contas de teste podem ser ignoradas sem serem apagadas.</span></div><div id="analyticsReaderList"></div></section>'
+      +'<section class="analytics-section"><div class="analytics-section-head"><h3>Comparação entre leitores</h3><span>Resumo comparativo. A gestão individual fica em Leitores.</span></div><div id="analyticsReaderList"></div></section>'
       +'</div>'
       +'<div id="analyticsDetail" class="analytics-scroll" hidden></div>'
       +'</section>';
@@ -812,7 +944,7 @@
     }).join(""):'<p class="admin-empty">Ainda não há capítulos medidos para este leitor.</p>';
 
     detail.innerHTML=
-      '<button id="analyticsBack" class="back-link analytics-back" type="button">← Todos os leitores</button>'
+      '<button id="analyticsBack" class="back-link analytics-back" type="button">'+(analyticsReturnTo==="readers"?"← Leitores":"← Análises")+'</button>'
       +'<section class="analytics-reader-detail-head"><div class="analytics-reader-detail-title"><div><h3>'+label+'</h3><p>'+current+'</p><em class="presence-status '+esc(status.kind)+'">'+(status.kind==="live"?'<i></i>':"")+esc(status.label)+'</em><small>Última leitura medida: '+esc(when(a.lastActiveAt)||"nenhuma ainda")+'</small>'+diagHtml(readerId,a)+'</div>'
         +'<button class="link-btn analytics-ignore-btn" type="button" data-analytics-ignore="'+(ignored?"0":"1")+'" data-profile-id="'+esc(p.id||"")+'" data-reader-id="'+esc(readerId)+'">'+(ignored?"Incluir nas estatísticas":"Ignorar nas estatísticas")+'</button>'
       +'</div></section>'
@@ -834,12 +966,13 @@
       +'</section>'
       +'<section class="analytics-section"><div class="analytics-section-head"><h3>Capítulo a capítulo</h3><span>Tempo ativo, narração e música podem acontecer ao mesmo tempo.</span></div>'+chapterHtml+'</section>';
 
-    detail.querySelector("#analyticsBack").onclick=()=>{detail.hidden=true;detail.dataset.readerId="";main.hidden=false;};
+    detail.querySelector("#analyticsBack").onclick=()=>{detail.dataset.readerId="";if(analyticsReturnTo==="readers"){hideAnalytics();showAccess();}else{detail.hidden=true;main.hidden=false;}};
     wireIgnoreButtons(detail);
   }
 
   function showAnalytics(){
     if(!Comments?.isAdmin?.())return;
+    analyticsReturnTo="home";
     ensureAnalyticsSheet();
     document.getElementById("betaAnalyticsSheet").hidden=false;
     startPresenceSubscription();
@@ -889,12 +1022,12 @@
     el.hidden=true;
     el.innerHTML='<section class="admin-dashboard beta-feedback-admin">'
       +'<header class="admin-dashboard-head"><div><h2>Avaliações beta</h2><p>Capa, capítulos, opinião final e cruzamento com comportamento de leitura.</p></div>'
-      +'<div class="admin-head-actions"><button id="betaFeedbackBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="betaFeedbackRefresh" class="link-btn" type="button">Atualizar</button><button id="betaFeedbackClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<div class="admin-head-actions"><button id="betaFeedbackBack" class="link-btn admin-back-btn" type="button">← Feedback</button><button id="betaFeedbackRefresh" class="link-btn" type="button">Atualizar</button><button id="betaFeedbackClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<div class="beta-feedback-admin-tools"><button id="betaFeedbackCopyJson" class="btn-ghost" type="button">Copiar JSON para IA</button><button id="betaFeedbackDownloadJson" class="btn-ghost" type="button">Baixar JSON</button><span>Exporta apenas dados de leitura e feedback. Códigos de acesso ficam de fora.</span></div>'
       +'<div id="betaFeedbackAdminBody" class="admin-dashboard-list"><p class="admin-empty">Carregando…</p></div>'
       +'</section>';
     document.body.appendChild(el);
-    el.querySelector("#betaFeedbackBack").onclick=()=>{hideBetaFeedbackAdmin();showAdminHome();};
+    el.querySelector("#betaFeedbackBack").onclick=()=>{hideBetaFeedbackAdmin();showFeedbackHub();};
     el.querySelector("#betaFeedbackClose").onclick=hideBetaFeedbackAdmin;
     el.querySelector("#betaFeedbackRefresh").onclick=loadBetaFeedbackAdmin;
     el.onclick=e=>{if(e.target===el)hideBetaFeedbackAdmin();};
@@ -1292,7 +1425,7 @@
   function ensureAccessSheet(){
     if(document.getElementById("bookAccessSheet"))return;
     const el=document.createElement("div");el.id="bookAccessSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Leitores e acessos</h2><p>Veja os códigos de acesso, libere livros e administre cada leitor.</p></div><div class="admin-head-actions"><button id="accessDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="accessDashClose" class="icon-btn" type="button">✕</button></div></header><div id="bookAccessList" class="admin-dashboard-list"></div></section>';
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Leitores</h2><p>Acompanhe cada leitor e gerencie acesso sem separar progresso de cadastro.</p></div><div class="admin-head-actions"><button id="accessDashBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="accessDashClose" class="icon-btn" type="button">✕</button></div></header><div id="bookAccessList" class="admin-dashboard-list"></div></section>';
     document.body.appendChild(el);
     el.querySelector("#accessDashBack").onclick=()=>{hideAccess();showAdminHome();};
     el.querySelector("#accessDashClose").onclick=hideAccess;
@@ -1302,79 +1435,109 @@
   async function renderAccess(){
     const sheet=document.getElementById("bookAccessSheet");if(!sheet||sheet.hidden)return;
     const list=sheet.querySelector("#bookAccessList");
-    list.innerHTML='<p class="admin-empty">Carregando…</p>';
-    const [profiles,books]=await Promise.all([Comments.listReaderProfiles(),getBooksList()]);
-    if(!books.length){list.innerHTML='<p class="admin-empty">Nenhum livro cadastrado ainda.</p>';return;}
-    if(!profiles.length){list.innerHTML='<p class="admin-empty">Nenhum leitor com perfil ainda. Quando alguém criar o perfil e escolher o primeiro livro, aparecerá aqui.</p>';return;}
-    list.innerHTML=profiles.map(p=>{
+    list.innerHTML='<p class="admin-empty">Carregando leitores…</p>';
+    const [profiles,books,analyticsSnap,presenceSnap]=await Promise.all([
+      Comments.listReaderProfiles(),
+      getBooksList(),
+      db().collection("readerAnalytics").get().catch(()=>null),
+      db().collection("readerPresence").get().catch(()=>null)
+    ]);
+    if(!profiles.length){list.innerHTML='<p class="admin-empty">Nenhum leitor com perfil ainda. Quando alguém criar o perfil, aparecerá aqui.</p>';return;}
+    const analyticsByReader=new Map();analyticsSnap?.forEach(d=>analyticsByReader.set(d.id,{id:d.id,...d.data()}));
+    const presenceByReader=new Map();presenceSnap?.forEach(d=>presenceByReader.set(d.id,{id:d.id,...d.data()}));
+    const ordered=profiles.slice().sort((a,b)=>{
+      const ap=presenceByReader.get(a.readerId),bp=presenceByReader.get(b.readerId);
+      const alive=p=>p&&Date.now()-(Number(p.heartbeatAt)||0)<=45000&&p.active?1:0;
+      if(alive(ap)!==alive(bp))return alive(bp)-alive(ap);
+      const aa=analyticsByReader.get(a.readerId),ba=analyticsByReader.get(b.readerId);
+      return (Number(ba?.lastActiveAt||ba?.updatedAt)||0)-(Number(aa?.lastActiveAt||aa?.updatedAt)||0);
+    });
+    list.innerHTML=ordered.map(p=>{
       const code=String(p.accessCode||"").trim();
       const label=esc(p.name||"Anônimo");
+      const a=analyticsByReader.get(p.readerId)||null;
+      const live=presenceByReader.get(p.readerId)||null;
+      const fresh=!!live&&Date.now()-(Number(live.heartbeatAt)||0)<=45000;
+      const liveReader=fresh&&live?.view==="reader"&&live?.chapter;
+      const shownPct=liveReader?pct(live.currentPct):pct(a?.currentChapterPct);
+      const location=liveReader
+        ?esc(live.bookTitle||live.bookId||"Livro")+" · Cap. "+esc(live.chapter)+" · "+pct(live.currentPct)+"%"
+        :a?.currentChapter
+          ?esc(a.currentBookTitle||a.currentBookId||"Livro")+" · Cap. "+esc(a.currentChapter)+" · "+pct(a.currentChapterPct)+"%"
+          :"Nenhum capítulo aberto ainda";
+      const status=presenceStatus(live);
+      const completed=Array.isArray(a?.completedChapters)?a.completedChapters.length:0;
       const codeHtml=code
         ? '<div class="reader-admin-code"><span>Código de acesso</span><strong>'+esc(code)+'</strong></div>'
-        : '<div class="reader-admin-code is-missing"><span>Código de acesso</span><strong>Ainda não sincronizado</strong><small>Este perfil é antigo. O código aparecerá quando o leitor abrir o app ou você pode gerar um novo.</small></div>';
+        : '<div class="reader-admin-code is-missing"><span>Código de acesso</span><strong>Ainda não sincronizado</strong><small>Perfil antigo: o código aparece quando o leitor sincronizar ou quando você gerar um novo.</small></div>';
       const allowed=Array.isArray(p.allowedBooks)?p.allowedBooks:[];
-      const checks=books.map(b=>{
+      const checks=books.length?books.map(b=>{
         const checked=allowed.includes(b.id)?"checked":"";
         return '<label class="field-check"><input type="checkbox" data-profile="'+esc(p.id)+'" data-book="'+esc(b.id)+'" '+checked+'><span>'+esc(b.title)+'</span></label>';
-      }).join("");
-      return '<article class="admin-comment-card"><div class="admin-card-top"><div><strong>'+label+'</strong></div></div>'+codeHtml+checks+'<div class="admin-card-actions reader-access-card-actions">'
-        +(code?'<button type="button" data-copy-code="'+esc(p.id)+'">Copiar código</button>':'')
-        +'<button type="button" data-popup-profile="'+esc(p.id)+'">Enviar popup</button>'
-        +'<span class="reader-access-card-actions-caution">'
-          +'<button class="btn-caution" type="button" data-rotate-code="'+esc(p.id)+'">'+(code?'Gerar novo código':'Gerar código')+'</button>'
-          +'<button class="reader-delete-btn" type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button>'
-        +'</span>'
-        +'</div></article>';
+      }).join(""):'<p class="admin-empty compact">Nenhum livro cadastrado.</p>';
+      return '<article class="admin-comment-card reader-admin-card">'
+        +'<div class="reader-admin-overview">'
+          +'<div class="analytics-reader-top"><div><strong>'+label+'</strong><span>'+location+'</span><em class="presence-status '+esc(status.kind)+'">'+(status.kind==="live"?'<i></i>':"")+esc(status.label)+'</em></div><b>'+(a?shownPct+"%":"—")+'</b></div>'
+          +(a?'<div class="analytics-progress"><i style="width:'+shownPct+'%"></i></div>':'')
+          +'<div class="analytics-reader-metrics"><span>'+completed+' caps concluídos</span><span>'+fmtDuration(a?.totalActiveSec)+' ativo</span><span>'+fmtDuration(a?.totalNarrationSec)+' narração</span><span>'+fmtDuration(a?.totalMusicSec)+' música</span></div>'
+          +'<small>Última leitura: '+esc(when(a?.lastActiveAt)||"nenhuma medida ainda")+'</small>'
+        +'</div>'
+        +'<div class="admin-card-actions reader-primary-actions">'
+          +(a?'<button type="button" data-reader-reading="'+esc(p.readerId)+'">Ver leitura detalhada</button>':'')
+          +'<button type="button" data-popup-profile="'+esc(p.id)+'">Enviar mensagem</button>'
+          +(code?'<button type="button" data-copy-code="'+esc(p.id)+'">Copiar código</button>':'')
+        +'</div>'
+        +'<details class="reader-access-details"><summary>Acessos e livros <span>'+allowed.length+' liberado(s)</span></summary><div class="reader-access-details-body">'+codeHtml+'<div class="reader-book-access-list">'+checks+'</div><div class="admin-card-actions reader-access-card-actions"><span class="reader-access-card-actions-caution"><button class="btn-caution" type="button" data-rotate-code="'+esc(p.id)+'">'+(code?'Gerar novo código':'Gerar código')+'</button><button class="reader-delete-btn" type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button></span></div></div></details>'
+      +'</article>';
     }).join("");
-    list.querySelectorAll("input[type=checkbox]").forEach(cb=>{
+    list.querySelectorAll("input[data-book]").forEach(cb=>{
       cb.addEventListener("change",async()=>{
         const profileId=cb.dataset.profile;
-        const row=cb.closest(".admin-comment-card");
-        const current=[...row.querySelectorAll("input[type=checkbox]")].filter(x=>x.checked).map(x=>x.dataset.book);
+        const row=cb.closest(".reader-admin-card");
+        const current=[...row.querySelectorAll("input[data-book]")].filter(x=>x.checked).map(x=>x.dataset.book);
         cb.disabled=true;
         try{await Comments.setAllowedBooks(profileId,current);}
         catch(e){alert("Não foi possível salvar: "+(e.message||"tente de novo."));cb.checked=!cb.checked;}
         finally{cb.disabled=false;}
       });
     });
+    list.querySelectorAll("[data-reader-reading]").forEach(btn=>btn.addEventListener("click",()=>openReaderAnalytics(btn.dataset.readerReading)));
     list.querySelectorAll("[data-copy-code]").forEach(btn=>{
       btn.addEventListener("click",async()=>{
         const profile=profiles.find(p=>p.id===btn.dataset.copyCode);
         if(!profile?.accessCode)return;
         try{
           await navigator.clipboard.writeText(profile.accessCode);
-          const old=btn.textContent;
-          btn.textContent="Copiado!";
-          setTimeout(()=>btn.textContent=old,1300);
-        }catch(e){
-          alert("Código: "+profile.accessCode);
-        }
+          const old=btn.textContent;btn.textContent="Copiado!";setTimeout(()=>btn.textContent=old,1300);
+        }catch(e){alert("Código: "+profile.accessCode);}
       });
     });
-    list.querySelectorAll("[data-rotate-code]").forEach(btn=>{
-      btn.addEventListener("click",()=>{
-        const profile=profiles.find(p=>p.id===btn.dataset.rotateCode);
-        if(profile)openRotateCodeConfirm(profile);
-      });
-    });
-    list.querySelectorAll("[data-popup-profile]").forEach(btn=>{
-      btn.addEventListener("click",()=>{
-        const profile=profiles.find(p=>p.id===btn.dataset.popupProfile);
-        if(profile)window.PopupMessages?.openCompose?.(profile);
-      });
-    });
-    list.querySelectorAll("[data-delete-profile]").forEach(btn=>{
-      btn.addEventListener("click",()=>{
-        const profile=profiles.find(p=>p.id===btn.dataset.deleteProfile);
-        if(profile)openDeleteReaderConfirm(profile);
-      });
-    });
+    list.querySelectorAll("[data-rotate-code]").forEach(btn=>btn.addEventListener("click",()=>{
+      const profile=profiles.find(p=>p.id===btn.dataset.rotateCode);if(profile)openRotateCodeConfirm(profile);
+    }));
+    list.querySelectorAll("[data-popup-profile]").forEach(btn=>btn.addEventListener("click",()=>{
+      const profile=profiles.find(p=>p.id===btn.dataset.popupProfile);if(profile)window.PopupMessages?.openCompose?.(profile);
+    }));
+    list.querySelectorAll("[data-delete-profile]").forEach(btn=>btn.addEventListener("click",()=>{
+      const profile=profiles.find(p=>p.id===btn.dataset.deleteProfile);if(profile)openDeleteReaderConfirm(profile);
+    }));
+  }
+
+  async function openReaderAnalytics(readerId){
+    if(!readerId)return;
+    hideAccess();
+    analyticsReturnTo="readers";
+    ensureAnalyticsSheet();
+    document.getElementById("betaAnalyticsSheet").hidden=false;
+    startPresenceSubscription();
+    await loadAnalytics();
+    showAnalyticsReader(readerId);
   }
 
   function showAccess(){if(!Comments?.isAdmin?.())return;ensureAccessSheet();document.getElementById("bookAccessSheet").hidden=false;renderAccess();}
   function hideAccess(){const x=document.getElementById("bookAccessSheet");if(x)x.hidden=true;}
 
-  document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on)subscribe();else{stop();hide();hideAccess();hideAnalytics();hideBetaFeedbackAdmin();hideAdminHome();}});
+  document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on)subscribe();else{stop();hide();hideReactions();hideFeedbackHub();hideAccess();hideAnalytics();hideBetaFeedbackAdmin();hideAdminHome();}});
   document.addEventListener("beta:admin-home",()=>{if(Comments?.isAdmin?.())showAdminHome();});
-  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureBetaFeedbackAdminSheet();ensureDeleteReaderConfirm();ensureRotateCodeConfirm();if(Comments?.isAdmin?.())subscribe();});
+  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureFeedbackHub();ensureReactionSheet();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureBetaFeedbackAdminSheet();ensureDeleteReaderConfirm();ensureRotateCodeConfirm();if(Comments?.isAdmin?.())subscribe();});
 })();
