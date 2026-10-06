@@ -215,7 +215,7 @@
     el.className='admin-dashboard-sheet';
     el.hidden=true;
     el.innerHTML='<section class="admin-dashboard popup-admin-dashboard">'
-      +'<header class="admin-dashboard-head"><div><h2>Mensagens popup</h2><p>Envios individuais, gerais, modelos e confirmações de leitura.</p></div><div class="admin-head-actions"><button id="popupAdminBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="popupAdminClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<header class="admin-dashboard-head"><div><h2>Mensagens</h2><p>Envios individuais e gerais, modelos e confirmações de leitura.</p></div><div class="admin-head-actions"><button id="popupAdminBack" class="link-btn admin-back-btn" type="button">← Painel</button><button id="popupAdminClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<nav class="popup-admin-tabs"><button type="button" data-popup-tab="messages" class="active">Mensagens</button><button type="button" data-popup-tab="templates">Modelos</button></nav>'
       +'<div class="popup-admin-tools"><button id="popupBroadcastBtn" class="btn-primary" type="button">Enviar para todos os leitores atuais</button><button id="popupNewTemplateBtn" class="btn-ghost" type="button">Novo modelo</button></div>'
       +'<div id="popupMessageFilters" class="admin-dashboard-filters"><select id="popupStatusFilter"><option value="all">Todos os estados</option><option value="pending">Pendentes</option><option value="shown">Disparadas</option><option value="read">Lidas</option></select><input id="popupSearch" type="search" placeholder="Buscar leitor ou mensagem…"></div>'
@@ -350,14 +350,14 @@
     el.className='admin-dashboard-sheet';
     el.hidden=true;
     el.innerHTML='<section class="admin-dashboard popup-compose-dashboard">'
-      +'<header class="admin-dashboard-head"><div><h2 id="popupComposeHeading">Enviar popup</h2><p id="popupComposeSub"></p></div><div class="admin-head-actions"><button id="popupComposeBack" class="link-btn admin-back-btn" type="button">← Voltar</button><button id="popupComposeClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<header class="admin-dashboard-head"><div><h2 id="popupComposeHeading">Enviar mensagem</h2><p id="popupComposeSub"></p></div><div class="admin-head-actions"><button id="popupComposeBack" class="link-btn admin-back-btn" type="button">← Voltar</button><button id="popupComposeClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<div class="popup-compose-form">'
       +'<label class="field"><span>Usar modelo</span><select id="popupComposeTemplate"><option value="">Mensagem personalizada</option></select></label>'
       +'<p id="popupTemplateStatus" class="popup-template-status"></p>'
       +'<label class="field"><span>Título</span><input id="popupComposeTitle" type="text" maxlength="80" value="Recado do autor"></label>'
       +'<label class="field"><span>Mensagem</span><textarea id="popupComposeText" rows="8" maxlength="2000" placeholder="Escreva o recado…"></textarea></label>'
       +'<div class="popup-compose-note" id="popupComposeNote"></div>'
-      +'<div class="sheet-actions"><button id="popupComposeSend" class="btn-primary" type="button">Enviar popup</button><button id="popupComposeCancel" class="btn-ghost" type="button">Cancelar</button></div>'
+      +'<div class="sheet-actions"><button id="popupComposeSend" class="btn-primary" type="button">Enviar mensagem</button><button id="popupComposeCancel" class="btn-ghost" type="button">Cancelar</button></div>'
       +'</div></section>';
     document.body.appendChild(el);
     el.querySelector('#popupComposeBack').onclick=()=>{el.hidden=true;};
@@ -381,7 +381,7 @@
     ensureComposeSheet();
     const el=document.getElementById('popupComposeSheet');
     el.dataset.profileId=profile?.id||'';
-    el.querySelector('#popupComposeHeading').textContent=profile?'Popup para '+(profile.name||'leitor'):'Popup para todos';
+    el.querySelector('#popupComposeHeading').textContent=profile?'Mensagem para '+(profile.name||'leitor'):'Mensagem para todos';
     el.querySelector('#popupComposeSub').textContent=profile
       ? 'A mensagem ficará pendente até este leitor abrir o app.'
       : 'Será criada uma cópia individual para cada leitor atual. Usuários criados depois não receberão.';
