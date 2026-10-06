@@ -1,6 +1,6 @@
 
 
-Dizem que os sopros se contam com o movimento dos sinos. Mas ali, onde o vento não respondia, Jokara perdeu a medida do tempo. Os sopros se sucederam sem conta. Só a lua, quando aparecia entre as copas, dizia que o tempo andava.
+Dizem que os sopros se contam com o movimento dos sinos. Mas ali, onde o vento não respondia, Jokara perdeu a medida do tempo. Os sopros se sucederam sem conta. Só uma das duas luas, quando aparecia entre as copas, dizia que o tempo andava.
 
 Ela moldou um tronco quebrado em lança, afiando-o contra pedras fendidas caídas de Etérea. Tentou a água, muitas vezes, afundando a lança atrás de peixes que escapavam sempre. Quando a presa cedia, era pequena, dura, e pouco sustentava. Outras vezes, buscava frutas escondidas nas sombras da floresta: polpas amargas, cascas grossas, algumas doces e raras. Subir nas árvores para pegá-las, com uma perna só, era outra história.
 
@@ -14,7 +14,7 @@ Nas clareiras abertas pelos blocos caídos de Etérea, o chão devolvia coisas. 
 
 E havia os corpos. Primeiro um, depois outro, depois muitos. Adultos e crianças. Alguns já comidos pelos bichos. Outros inteiros, pálidos, de olhos abertos.
 
-Jokara se aproximava de cada um procurando o cabelo da mãe, o rosto da irmã. Cada vez que não eram elas, sentia alívio, e logo depois vergonha do alívio, porque então estavam em algum outro lugar da floresta.
+Jokara se aproximava de cada um procurando o cabelo da mãe, o rosto da irmã. Cada vez que não eram elas, sentia alívio. A vergonha vinha logo depois: para que sua mãe e sua irmã continuassem possíveis em algum lugar da floresta, aquele corpo precisava pertencer à família de outra pessoa. Ainda assim, ela respirava melhor por um instante. E odiava isso.
 
 Em Etérea, cobriam os sinos com folhas e pintavam os olhos com pó de raiz escura quando alguém morria. Ali não havia sinos para cobrir. Ela passava ao lado e seguia.
 
@@ -28,7 +28,7 @@ A sede os levou a um riacho escondido entre pedras cobertas de musgo. A água co
 
 Lembrou-se então de um pedaço de tecido que encontrara sopros antes, um pano eteriano ainda preso a uma pedra caída do céu. Estendeu-o como véu sobre o fluxo, deixando que a água passasse por entre suas fibras. Não sabia se bastava. Encheu as mãos em concha, bebeu primeiro, e só depois ofereceu a Loutes.
 
-O alívio foi imediato. Mas Loutes, ainda criança, bebeu demais. No Sopro do Silêncio seguinte, o corpo dele queimava em febre. Jokara tocava-lhe a testa úmida e lembrava o que faziam em Etérea: cantavam baixo para que o sopro não se assustasse, deitavam o doente em folhas frias de selnara, ofereciam gotas de mel até que o vento levasse a febre embora. Ali, nada disso existia. Cantou para ele a canção da mãe, o Sopro do Silêncio inteira. A febre passou no terceiro sopro.
+O alívio foi imediato. Mas Loutes, ainda criança, bebeu demais. No Sopro do Silêncio seguinte, o corpo dele queimava em febre. Jokara tocava-lhe a testa úmida e lembrava o que faziam em Etérea: cantavam baixo para que o sopro não se assustasse, deitavam o doente em folhas frias de selnara, ofereciam gotas de mel até que o vento levasse a febre embora. Ali, nada disso existia. Cantou para ele a canção da mãe, o Sopro do Silêncio inteiro. A febre passou no terceiro sopro.
 
 Quando voltou ao rio, não era mais por sede. Havia fome demais, e os frutos já não sustentavam. Com a lança improvisada nas mãos, caminhou até a margem do lago.
 
@@ -74,15 +74,15 @@ Mais adiante, mais dois corpos. Um homem e uma criança pequena, juntos, deitado
 
 — Oh… meus ventos… — murmurou, a voz falhando, a mão no rosto.
 
-Aquele era o pequeno Darel. O menino que corria pela praça de Nivelia, perseguindo os sinos com risos soltos, enquanto os pais conversavam com Yoral sobre os ventos e os estudos. Ria alto, o Darel. Os adultos mandavam ele falar baixo nos ritos.
+Aquele era o pequeno Darel. O menino que corria pela praça de Nivelia, perseguindo os sinos com risos soltos. Os pais eram antigos conhecidos de Yoral e costumavam conversar sobre os ventos e os estudos. Ria alto, o Darel. Os adultos mandavam ele falar baixo nos ritos.
 
 Jokara ajoelhou-se diante dos três, apoiando-se no bastão para não tombar. O cheiro era forte, mas ela não recuou. Inclinou-se sobre eles e entoou o cântico do vento. Era uma melodia antiga e suave, cantada em Levis. Falava sobre a morte ser uma transição para voar ainda mais alto. E era a mesma canção que cantaram quando seu pai partiu. A voz saiu trêmula.
 
 Enquanto cantava, seus olhos encontraram algo caído em um canto. Uma adaga eteriana, o punho gravado com inscrições do Verbo da Corrente. Jokara a pegou e prendeu na cintura.
 
-Então seus olhos desviaram para um cesto intacto, caído ao lado do corpo da mãe, entrelaçado com cuidado eteriano. Podia ver que havia algo dentro, e ao abrir, se deparou com frutos e leguminosos que ainda estavam frescos, junto a folhas secas e especiarias. Era o mesmo cheiro da cozinha da mãe em Sopro do Silêncio de canto. Jokara fechou o cesto de novo, depressa.
+Então seus olhos desviaram para um cesto intacto, caído ao lado do corpo da mãe, entrelaçado com cuidado eteriano. Podia ver que havia algo dentro, e ao abrir, se deparou com frutos e legumes que ainda estavam frescos, junto a folhas secas e especiarias. Era o mesmo cheiro da cozinha da mãe durante os cantos do Sopro do Silêncio. Jokara fechou o cesto de novo, depressa.
 
-Nessa Sopro do Silêncio, ela e Loutes aqueceram os frutos no fogo baixo. Polvilhou-os com as especiarias. Não tinha o mesmo gosto. Chorou mastigando, sem parar de comer.
+Nesse Sopro do Silêncio, ela e Loutes aqueceram os frutos no fogo baixo. Polvilhou-os com as especiarias. Não tinha o mesmo gosto. Chorou mastigando, sem parar de comer.
 
 Uma espiral inteira já havia passado desde a queda. As bases do abrigo já tomavam forma quando a tempestade chegou. O céu, antes apenas breu, rompeu-se em trovões. A chuva caiu em torrentes, apagando o fogo, arrancando folhas, derrubando galhos. O abrigo não resistiu, desfez-se em pedaços, engolido pela lama. Jokara gritou com a chuva. Loutes a puxou com força, levando-a sob uma folha colossal que se curvava como teto improvisado.
 

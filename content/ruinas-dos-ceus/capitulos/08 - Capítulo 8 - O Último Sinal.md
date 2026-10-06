@@ -381,7 +381,7 @@ Ele abriu a boca para dizer que acreditava, e fechou de novo.
 
 Voltaram a andar pela trilha entre as árvores, sem conversa. O céu estava limpo, mas as folhas se agitavam sem vento que as explicasse.
 
-— Eu preciso de ajuda — ela disse. E assim que Efepar olhou para ela com um misto de cansaço e pena no rosto, ela continuou: — Preciso que me ajude a provar para pessoas.
+— Eu preciso de ajuda — ela disse. E assim que Efepar olhou para ela com um misto de cansaço e pena no rosto, ela continuou: — Preciso que me ajude a provar isso para as pessoas.
 
 — Provar o que, Jokara? — perguntou Efepar, parecendo sem paciência — que os ventos estão mentindo para nós?
 
