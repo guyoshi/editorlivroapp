@@ -129,7 +129,7 @@ Nestira piscou algumas vezes, depois, sorriu e se aproximou.
 
 Gabasteri tocou levemente a mão dela e curvou a cabeça.
 
-— Sua irmã foi muito gentil comigo. Não tenho palavras de como agradecê-la.
+— Sua irmã foi muito gentil comigo. Nem sei como agradecê-la.
 
 Loutes se levantou devagar. Ao ver Gabasteri, congelou por um instante. Gabasteri, com naturalidade, ergueu o braço em cumprimento eteriano, traçando um gesto curto no ar.
 
@@ -255,7 +255,7 @@ Gabasteri sorriu.
 
 Mariv não respondeu. Apenas deitou-se mais afastado, mantendo a lança encostada ao ombro.
 
-Naquela Sopro do Silêncio, Nestira chamou por Liri dormindo.
+Naquele Sopro do Silêncio, Nestira chamou por Liri dormindo.
 
 Amanheceu com neblina. Gabasteri foi o primeiro a se levantar. Já havia recolhido galhos secos antes que os outros despertassem.
 
