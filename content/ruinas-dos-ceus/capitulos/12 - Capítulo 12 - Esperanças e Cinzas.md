@@ -42,7 +42,7 @@ O homem nadou até a margem, mas não saiu da água. Ficou com metade do corpo d
 
 Ele suspirou e apoiou-se na margem, mas não saiu. Os olhos dele foram direto para a perna que faltava e voltaram depressa para o rosto dela.
 
-—Achei que ia enlouquecer. Logo depois da queda, encontrei uns poucos como eu. Mas… — sua voz vacilou, e ele desviou o olhar para a água. — Não duraram muito. Fome, febre… a terra não teve piedade.
+— Achei que ia enlouquecer. Logo depois da queda, encontrei uns poucos como eu. — Sua voz vacilou, e ele desviou o olhar para a água.
 
 Jokara assentiu, apertando o bastão contra o ombro.
 
@@ -50,7 +50,7 @@ Jokara assentiu, apertando o bastão contra o ombro.
 
 — O que quer dizer com isso? — perguntou ele, baixo.
 
-— Os oradores escondiam de todos. O último sopro. Eles não queriam que soubéssemos. Era para todos morrer. Era para o vento acolher todos os espíritos.
+— Os oradores escondiam de todos. O último sopro. Eles não queriam que soubéssemos. Era para todos morrerem. Era para o vento acolher todos os espíritos.
 
 — Os oradores sujaram os ventos. — Por um instante, a voz dele esfriou. — Perdi minha família toda no cataclisma, Jokara. Eu pedi ajuda aos Oradores e líderes, mas eles se recusaram a destinar recursos. Disseram que era o ciclo. Deixaram-nos cair. Depois disso, encontrei um grupo. Quase todos morreram, atacados por predadores porque estavam fracos demais para se defender.
 
@@ -68,7 +68,7 @@ Gabasteri riu, balançando a cabeça.
 
 O homem se aproximou mais da margem, apoiando-se nas mãos. A água escorria pelos braços magros, cheios de cicatrizes. Algumas eram recentes.
 
-— Aqui embaixo tudo cobra rápido. Se não encontramos água, sentimos no mesmo sopro. Se não caçamos, a fome decide por nós. Se entramos numa trilha errada, talvez não haja uma segunda chance. — Sorriu de novo. — A criatura de olhos amarelos que mencionou… já encontrei uma antes. Escapei porque aprendi quando correr e quando não correr. Você continua viva. Então já deve ter aprendido algumas coisas também.
+— Aqui embaixo tudo cobra rápido. Se não encontramos água, sentimos no mesmo sopro. Se não caçamos, a fome decide por nós. Se entramos numa trilha errada, talvez não haja uma segunda chance. — Sorriu de novo. — Você continua viva. Então já deve ter aprendido algumas coisas também.
 
 — Eu aprendi… muita coisa aqui embaixo — disse Jokara. — Achei… achei que nunca mais ouviria uma voz que não fosse a minha. — A voz dela quebrou; lágrimas escorreram de novo. — Eu não sabia se poderia continuar. Mas agora… agora eu acho que posso.
 
@@ -106,6 +106,8 @@ No caminho, Jokara não parava de falar. Contou sobre a fome que nunca cessava, 
 
 Gabasteri ouvia com atenção, rindo aqui e ali quando ela descrevia suas trapalhadas, como a vez em que quase caiu de uma árvore atrás de frutos, ou quando o peixe lhe escapou por entre as mãos.
 
+— A criatura de olhos amarelos… já encontrei uma antes — disse ele. — Escapei porque aprendi quando correr e quando não correr.
+
 — Você realmente está aprendendo — disse ele, divertido. — Talvez sobreviva melhor do que pensa.
 
 Jokara sorriu pela primeira vez em muitos sopros.
@@ -126,13 +128,11 @@ Gabasteri ergueu as sobrancelhas, mas não comentou nada. Jokara então devolveu
 
 — E você? Onde vivia?
 
-Ele hesitou antes de responder, como se tivesse sido pego de surpresa.
+Gabasteri respondeu sem perder o sorriso.
 
 — Nas margens de Enurial. Trabalhava no comércio de tecidos. — Balançou a cabeça, ainda sorrindo. — Nunca fui bom com vendas, mas sempre admirei as cores.
 
-Jokara acreditou sem reservas. Até riu.
-
-— Enurial era bem longe de casa. Eu nunca fui lá. Aliás, trabalhava com tecidos?
+— Enurial era bem longe de casa. Eu nunca fui lá. Então você trabalhava com tecidos?
 
 — Sim — respondeu Gabasteri.
 
@@ -144,7 +144,7 @@ Jokara riu também.
 
 Ele perguntava pouco, e sempre coisas práticas: o abrigo, o menino, como ela mantinha o fogo aceso, onde pegavam água, o que conseguia caçar.
 
-Por fim, o abrigo surgiu entre raízes entrelaçadas na encosta da montanha. Não era mais do que um círculo de galhos entrelaçados, reforçados com raízes fincadas fundo na lama e folhas largas que Jokara e Loutes tinham aprendido a sobrepor como telhado. A entrada era estreita, forçada a se curvar, mas lá dentro havia espaço suficiente para três corpos sentarem-se junto ao fogo. As paredes eram irregulares, cheias de frestas por onde passava a luz da lua e, às vezes, a chuva fina. Tinha levado quase uma espiral inteira para ficar de pé.
+Por fim, o abrigo surgiu entre raízes entrelaçadas na encosta da montanha. Não era mais do que um círculo de galhos entrelaçados, reforçados com raízes fincadas fundo na lama e folhas largas que Jokara e Loutes tinham aprendido a sobrepor como telhado. A entrada era estreita, forçada a se curvar, mas lá dentro havia espaço suficiente para três corpos sentarem-se junto ao fogo. As paredes eram irregulares, cheias de frestas por onde passava a luz de uma das luas e, às vezes, a chuva fina. Tinha levado quase uma espiral inteira para ficar de pé.
 
 No centro, dentro de um círculo de pedras fumegantes, ardia o fogo que Jokara aprendera a proteger com tanto cuidado. Ao redor, improvisos: pedras servindo de bancos, raízes retorcidas transformadas em suportes, e um canto onde folhas secas eram empilhadas para servir de leito. 
 
@@ -222,7 +222,7 @@ Gabasteri sorriu.
 
 Jokara franziu o cenho.
 
-— Como assim partir? Eu… pensei que iríamos ficar juntos. Que não precisaríamos mais enfrentar isso sozinhos.
+— Como assim, vai embora? Eu… pensei que iríamos ficar juntos. Que não precisaríamos mais enfrentar isso sozinhos.
 
 — Não quero atrapalhar — respondeu ele. — Vocês já têm pouco. Eu sigo melhor sem pesar os ombros de ninguém.
 
@@ -240,7 +240,7 @@ Mas ele sorriu e passou pela abertura do abrigo. Sumiu entre as árvores.
 
 Jokara ficou olhando a entrada vazia. Depois começou a arrumar o que restava: raízes, algumas frutas murchas, tecido rasgado. Loutes a observava. Não parecia surpreso.
 
-Naquela Sopro do Silêncio, havia pouco para dividir. O fogo ardeu baixo, e Jokara deitou-se encolhida, pensando que tinha deixado o único eterí vivo que encontrara ir embora.
+Naquele Sopro do Silêncio, havia pouco para dividir. O fogo ardeu baixo, e Jokara deitou-se encolhida, pensando que tinha deixado o único eterí vivo que encontrara ir embora.
 
 Foi a tosse que a despertou. A garganta ardia e ela suava. Quando abriu os olhos, viu o clarão: a parede de galhos brilhava em chamas. O abrigo queimava.
 
