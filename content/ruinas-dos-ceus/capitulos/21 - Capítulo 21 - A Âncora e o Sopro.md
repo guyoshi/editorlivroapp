@@ -504,7 +504,7 @@ Jokara se ofereceu para ir junto. Esperava que ele recusasse. Ele assentiu. Fora
 Quando voltaram, Gabasteri cuidava do fogo. Nestira e Mariv chegaram logo depois com algumas raízes e frutas magras. Foi pouco, mas foi o primeiro jantar desde o alagado.
 
 
-Naquela Sopro do Silêncio, conversaram sobre Etérea. Sobre coisas boas. Nestira imitou a voz do Mestre dos Voos, e até Maletar riu.
+Naquele Sopro do Silêncio, conversaram sobre Etérea. Sobre coisas boas. Nestira imitou a voz do Mestre dos Voos, e até Maletar riu.
 
 Jokara adormeceu tarde. Sonhou com nuvens, pedras caindo, e o pai sorrindo para ela no fim de tudo.
 
