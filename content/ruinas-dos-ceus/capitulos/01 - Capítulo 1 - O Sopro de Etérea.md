@@ -10,7 +10,7 @@ As crianças terminavam seus cantos na Ilha dos Pequenos, enquanto as primeiras 
 
 Entre elas, dois sopros vivos atravessavam as ilhotas correndo: uma menina de cabelos trançados e seu pai, de passos largos e olhos gastos pelo sol. A menina arrastava uma fita dourada que o vento erguia atrás dela.
 
-Ao redor dos dois, Etérea seguia seu ritmo. Jardineiros Sonoros recolhiam folhas que vibravam em harmonia com o ar, enquanto Tecelões de Vento ajustavam os véus de uma ponte entre ilhas distantes.
+Ao redor dos dois, Etérea seguia seu ritmo. Alguns eterí recolhiam folhas que vibravam em harmonia com o ar; outros ajustavam os véus de uma ponte entre ilhas distantes.
 
 Ao passarem por um balcão comunitário, Yoral deixou duas peças de madeira que havia entalhado no sopro anterior. A mulher conferiu a marca nelas, guardou-as junto às demais contribuições e lhe entregou um pequeno cesto de selnara, uma planta comum na alimentação eterí.
 
@@ -94,7 +94,7 @@ Os sinos ainda balançavam ao longe quando Jokara adormeceu no colo do pai.
 
 
 
-Dez ciclos depois, Jokara ainda caminhava até aquele mesmo platô na Ilha da Memória com a mesma cadência de antes. Suas tranças estavam presas em meias luas que balançavam com a brisa, e as vestes traziam o selo da Ilha dos Oradores, embora ela nunca houvesse aceitado, de fato, aquele chamado. Os pés descalços tocavam as espirais de raízes secas com familiaridade, e o vento, ali, era mais denso. A brisa cruzava os sinos suspensos, e o som que saía deles era mais oco que antes, como se tivesse esquecido parte da melodia.
+Dez ciclos depois, aquela menina já era uma jovem. Jokara ainda caminhava até aquele mesmo platô na Ilha da Memória com a mesma cadência de antes. Suas tranças estavam presas em meias luas que balançavam com a brisa, e as vestes traziam o selo da Ilha dos Oradores, embora ela nunca houvesse aceitado, de fato, aquele chamado. Os pés descalços tocavam as espirais de raízes secas com familiaridade, e o vento, ali, era mais denso. A brisa cruzava os sinos suspensos, e o som que saía deles era mais oco que antes, como se tivesse esquecido parte da melodia.
 
 Jokara se aproximou de um entalhe rústico numa pedra de orvalho, onde um nome, Yoral, fora marcado ciclos atrás por um Orador em silêncio. Não precisou tocá-lo. Bastava estar perto. Ajoelhou-se devagar, depositou um pedaço de selnara seca sobre a superfície gasta, e ficou ali, calada, por um bom tempo. Em uma das mãos, apertava o caderno dobrado, cujas folhas já haviam registrado, há muito, os contornos de um rosto que ela se recusava a desenhar de novo.
 
