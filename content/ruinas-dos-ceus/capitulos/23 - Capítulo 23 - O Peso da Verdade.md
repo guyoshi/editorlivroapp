@@ -1,8 +1,8 @@
 Todos dormiam. Jokara, no entanto, fingia dormir.
 
-Era a terceira Sopro do Silêncio em que prestava atenção ao mesmo padrão. Gabasteri esperava as respirações ficarem profundas, conferia o entorno do abrigo e desaparecia entre as árvores. Nunca dizia aonde ia.
+Era o terceiro Sopro do Silêncio em que prestava atenção ao mesmo padrão. Gabasteri esperava as respirações ficarem profundas, conferia o entorno do abrigo e desaparecia entre as árvores. Nunca dizia aonde ia.
 
-Naquela Sopro do Silêncio, levou consigo o saco onde guardava parte dos alimentos, ferramentas e as armas que recolhia antes do descanso, inclusive a adaga de Jokara.
+Naquele Sopro do Silêncio, levou consigo o saco onde guardava parte dos alimentos, ferramentas e as armas que recolhia antes do descanso, inclusive a adaga de Jokara.
 
 Ela esperou alguns instantes antes de se erguer.
 
@@ -105,8 +105,6 @@ Gabasteri soltou um riso curto, sem humor.
 — Agora também sou responsável pelos animais da floresta?
 
 — Não. Pela rota, sim. E por ter sido a última pessoa a ver Platisa viva.
-
-O rosto dele endureceu.
 
 O rosto dele endureceu.
 
@@ -222,7 +220,7 @@ Ele não respondeu.
 
 Jokara apertou a adaga e ajustou o bastão sob o braço.
 
-Ela sabia que não podia trocar força com ele. Nem velocidade. Já aprendera isso com a floresta muito antes daquela Sopro do Silêncio.
+Ela sabia que não podia trocar força com ele. Nem velocidade. Já aprendera isso com a floresta muito antes daquele Sopro do Silêncio.
 
 Quando Gabasteri avançou, Jokara não foi ao encontro do corpo dele. Plantou o bastão na diagonal entre os dois. A lâmina dele passou por cima da madeira; Jokara girou o punho e bateu com a extremidade do bastão no joelho do homem.
 
@@ -312,7 +310,7 @@ Corpo contra corpo. O bastão escapou de sua mão.
 
 Jokara sentiu alguma coisa entrar na barriga. Olhou para baixo e viu a lâmina. Gritou.
 
-Gabasteri tombou de lado, cambaleando, arfando, os olhos e a garganta ainda ardendo pela exposição ao pó. Nestira parou.
+Gabasteri tombou de lado, cambaleando, arfando, os olhos e a garganta ainda ardendo pela exposição ao pó. Mariv se colocou entre ele e as duas, a lança erguida. Quando Gabasteri tentou avançar outra vez, Mariv recebeu o golpe com a haste e o empurrou de volta entre as árvores. Nestira parou.
 
 — Não — sussurrou. Então gritou, correndo até a irmã: — Não!
 
@@ -339,6 +337,8 @@ Jokara respirou curto, com esforço. Seus dedos ainda seguravam o pulso da irmã
 — Escuta.
 
 — Eu estou escutando. Estou aqui.
+
+Atrás delas, houve o choque seco da lança contra a lâmina e, depois, um corpo caiu entre as folhas. Nestira não olhou.
 
 Jokara esperou até que a irmã a olhasse de verdade.
 
@@ -424,7 +424,7 @@ Nestira puxou a irmã contra o peito e a abraçou com tanta força que o própri
 
 — Não me deixa aqui. Por favor… não me deixa aqui.
 
-Mariv chegou até as duas e se ajoelhou por um instante. Atrás deles, Gabasteri começava a se levantar, mancando, os olhos cheios de ódio.
+Mariv recuou até as duas e se ajoelhou por um instante. Atrás dele, Gabasteri começava a se levantar, mancando, os olhos cheios de ódio.
 
 — Nestira, precisamos ir.
 
