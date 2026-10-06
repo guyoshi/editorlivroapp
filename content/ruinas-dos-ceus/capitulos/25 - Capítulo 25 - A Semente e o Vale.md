@@ -216,7 +216,7 @@ Lembrou-se de Jokara falando sobre febre. Procurou primeiro marcas de animais, o
 
 Enquanto esperava, um estalo soou atrás dele. Mariv se levantou de imediato, com a lança pronta, e ficou alguns instantes vasculhando as árvores, atento a qualquer movimento entre os troncos. Nada apareceu. Quando finalmente soltou o ar que nem percebera estar prendendo, pensou em Jokara e em como ela provavelmente reclamaria que a floresta gostava de assustar quem ainda não aprendera a diferenciar perigo de barulho. A lembrança quase arrancou um sorriso dele. Só então Mariv tornou a se sentar e esperou a água esfriar antes de beber.
 
-Naquela Sopro do Silêncio, tentou erguer abrigo entre duas raízes. O primeiro teto cedeu assim que a chuva começou. Mariv ficou parado sob a água, olhando as folhas desabadas.
+Naquele Sopro do Silêncio, tentou erguer abrigo entre duas raízes. O primeiro teto cedeu assim que a chuva começou. Mariv ficou parado sob a água, olhando as folhas desabadas.
 
 — Maletar faria melhor — murmurou.
 
