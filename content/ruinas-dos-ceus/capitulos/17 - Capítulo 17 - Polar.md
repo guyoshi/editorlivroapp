@@ -10,7 +10,7 @@ O teto continuava de pé por causa de Maletar, embora não tivesse ficado de pé
 
 — Aqui não é Etérea.
 
-Mariv refez o nó. Na segunda Sopro do Silêncio, uma das laterais afundara. Na terceira, a água finalmente escorreu para fora em vez de cair sobre eles.
+Mariv refez o nó. No segundo Sopro do Silêncio, uma das laterais afundara. Na terceira, a água finalmente escorreu para fora em vez de cair sobre eles.
 
 Naquela manhã, Maletar estava de pé diante deles, braços cruzados. Todos estavam acordados, esperando. Gabasteri, recostado contra uma das estacas do abrigo, tinha um meio sorriso no rosto.
 
