@@ -233,7 +233,7 @@ Gabasteri recostou-se, de braços cruzados.
 O resto do sopro foi de fome. Os gestos ficavam lentos, os olhos pesavam.
 
 
-Naquela Sopro do Silêncio, Jokara e Platisa permaneceram junto de Nestira, cuidando da irmã como podiam, enquanto Mariv e Loutes se aventuraram ao rio em busca de sustento, e Maletar partiu com Gabasteri para sondar frutos ou presas. Voltaram com um punhado de bagas. Deitaram-se todos de estômago vazio.
+Naquele Sopro do Silêncio, Jokara e Platisa permaneceram junto de Nestira, cuidando da irmã como podiam, enquanto Mariv e Loutes se aventuraram ao rio em busca de sustento, e Maletar partiu com Gabasteri para sondar frutos ou presas. Voltaram com um punhado de bagas. Deitaram-se todos de estômago vazio.
 
 O sopro seguinte foi ainda mais cruel. A pesca rendeu apenas um peixe magro, repartido em lascas tão finas que mais lembravam migalhas do que alimento. Platisa, abatida desde cedo, começou a vomitar. Jokara reparou que ela estava ainda mais magra do que no sopro em que a encontraram. Dava para contar as costelas por baixo da túnica.
 
@@ -429,7 +429,7 @@ Jokara ficou olhando as brasas.
 
 Maletar se virou para ela.
 
-— Era um Sopro do Silêncio limpa… eu e Nestira o víamos do mirante. Ele sorria, gritava, perseguia um nuari. O vento estava perfeito. E então… o céu virou contra ele.
+— Era um Sopro do Silêncio limpo… eu e Nestira o víamos do mirante. Ele sorria, gritava, perseguia um nuari. O vento estava perfeito. E então… o céu virou contra ele.
 
 Ela fechou os olhos.
 
