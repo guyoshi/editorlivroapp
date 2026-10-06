@@ -1,6 +1,6 @@
 
 
-Ninguém falou mais nada naquela Sopro do Silêncio. Jokara fechava os olhos e via o zélon apertado contra o peito de Platisa.
+Ninguém falou mais nada naquele Sopro do Silêncio. Jokara fechava os olhos e via o zélon apertado contra o peito de Platisa.
 
 Quando o primeiro clarão de cinza riscou o céu, Jokara despertou. Gabasteri voltava, trazendo a água. Parecia o mesmo de sempre. Desde que Platisa enfraquecera, ele vinha ajudando mais com o abastecimento.
 
