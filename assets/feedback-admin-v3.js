@@ -311,6 +311,7 @@
       x.hidden=!n;
       x.textContent=n>99?"99+":String(n);
     });
+    const homeStat=document.getElementById("adminHomeFeedbackStat");if(homeStat)homeStat.textContent=String(n);
     const top=document.getElementById("btnReaderHub");
     if(top&&window.Comments?.isAdmin?.()){
       const label=n
@@ -430,8 +431,13 @@
 
   function show(){if(!Comments?.isAdmin?.())return;ensureSheet();subscribe();document.getElementById("commentAdminSheet").hidden=false;open=true;render();}
   function hide(){const x=document.getElementById("commentAdminSheet");if(x)x.hidden=true;open=false;}
-  function showAdminHome(){if(!Comments?.isAdmin?.())return;ensureAdminHome();subscribe();document.getElementById("authorAdminSheet").hidden=false;badge();refreshAdminHomeStats();}
-  function hideAdminHome(){const x=document.getElementById("authorAdminSheet");if(x)x.hidden=true;}
+  let adminHomeRefreshTimer=null;
+  function showAdminHome(){
+    if(!Comments?.isAdmin?.())return;ensureAdminHome();subscribe();document.getElementById("authorAdminSheet").hidden=false;badge();refreshAdminHomeStats();
+    if(adminHomeRefreshTimer)clearInterval(adminHomeRefreshTimer);
+    adminHomeRefreshTimer=setInterval(()=>{if(document.visibilityState==="visible")refreshAdminHomeStats();},30000);
+  }
+  function hideAdminHome(){const x=document.getElementById("authorAdminSheet");if(x)x.hidden=true;if(adminHomeRefreshTimer){clearInterval(adminHomeRefreshTimer);adminHomeRefreshTimer=null;}}
 
   // ---------------- Análises de leitura ----------------
   let analyticsRows=[];
@@ -547,7 +553,7 @@
       +'<div id="analyticsDetail" class="analytics-scroll" hidden></div>'
       +'</section>';
     document.body.appendChild(el);
-    el.querySelector("#analyticsBackHome").onclick=()=>{hideAnalytics();showAdminHome();};
+    el.querySelector("#analyticsBackHome").onclick=()=>{const back=analyticsReturnTo;hideAnalytics();if(back==="readers")showAccess();else showAdminHome();};
     el.querySelector("#analyticsClose").onclick=hideAnalytics;
     el.querySelector("#analyticsRefresh").onclick=()=>loadAnalytics();
     el.onclick=e=>{if(e.target===el)hideAnalytics();};
@@ -974,7 +980,8 @@
     if(!Comments?.isAdmin?.())return;
     analyticsReturnTo="home";
     ensureAnalyticsSheet();
-    document.getElementById("betaAnalyticsSheet").hidden=false;
+    const sheet=document.getElementById("betaAnalyticsSheet");sheet.hidden=false;
+    const back=sheet.querySelector("#analyticsBackHome");if(back)back.textContent="← Painel";
     startPresenceSubscription();
     loadAnalytics();
     // Progresso, códigos e capítulos são recarregados sozinhos enquanto o
@@ -1528,7 +1535,8 @@
     hideAccess();
     analyticsReturnTo="readers";
     ensureAnalyticsSheet();
-    document.getElementById("betaAnalyticsSheet").hidden=false;
+    const sheet=document.getElementById("betaAnalyticsSheet");sheet.hidden=false;
+    const back=sheet.querySelector("#analyticsBackHome");if(back)back.textContent="← Leitores";
     startPresenceSubscription();
     await loadAnalytics();
     showAnalyticsReader(readerId);
