@@ -122,7 +122,7 @@ O professor Taliver forçou um sorriso, e continuou:
 
 Jokara baixou os olhos, pressionando o planador contra o peito. Então fechou os olhos… e as imagens vieram.
 
-Naquela Sopro do Silêncio, o céu estava limpo. Ele planava alto, sorrindo, gritando de alegria enquanto perseguia o brilho rarefeito de um nuari, e ela, ao lado de Nestira, olhava do mirante com olhos cheios de luz. Ele ainda ria quando a primeira rajada veio. Então o céu escureceu.
+Naquele Sopro do Silêncio, o céu estava limpo. Ele planava alto, sorrindo, gritando de alegria enquanto perseguia o brilho rarefeito de um nuari, e ela, ao lado de Nestira, olhava do mirante com olhos cheios de luz. Ele ainda ria quando a primeira rajada veio. Então o céu escureceu.
 
 A tempestade surgiu do nada, e ele tentou descer. Ficou muito tempo lutando contra o vento, os pés balançando, as mãos agarradas às alças, até que soltou. Não gritou. O planador seguiu sozinho, como uma folha, enquanto elas gritavam o nome dele até perder a voz. Depois só se ouviam as vintelas penduradas no mirante, batendo com o vento.
 
@@ -225,9 +225,9 @@ Yndra ouviu o veredito sem pestanejar.
 
 O público começou a se dispersar. Primeiro os mais jovens, em passos rápidos e nervosos. Depois os anciãos, murmurando preces de proteção entre dentes cerrados. Jokara permaneceu. Mesmo quando Mirel a puxou suavemente pelo braço, ela ainda lançou um último olhar para o centro do círculo. Yndra a olhava de volta. Não parecia zangada.
 
-Naquela Sopro do Silêncio, Etérea não dormiu. Havia música em algumas casas, mas ninguém dançava. Até os pássaros noturnos ficaram quietos.
+Naquele Sopro do Silêncio, Etérea não dormiu. Havia música em algumas casas, mas ninguém dançava. Até os pássaros noturnos ficaram quietos.
 
-Deitada em sua cama trançada com fios de luz dourada, Jokara fitava o teto translúcido, por onde as duas luas se arrastavam devagar. Quando se aproximavam uma da outra, as famílias enchiam as varandas com frutas e flautas para celebrar a lua dupla. Naquela Sopro do Silêncio, estavam afastadas.
+Deitada em sua cama trançada com fios de luz dourada, Jokara fitava o teto translúcido, por onde as duas luas se arrastavam devagar. Quando se aproximavam uma da outra, as famílias enchiam as varandas com frutas e flautas para celebrar a lua dupla. Naquele Sopro do Silêncio, estavam afastadas.
 
 As palavras de Yndra voltavam:
 

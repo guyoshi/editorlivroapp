@@ -68,9 +68,9 @@ Sersi deu de ombros.
 
 — Então os ventos contam o resto quando quiserem.
 
-— Vamos levá-lo até Yrisea — disse Mirel, enquanto amarrava os cabelos com uma fita azul escura, usada apenas em ocasiões solenes. A fita era de Raviera, um tecido que absorvia calor e vento, presente apenas entre os mais velhos da ilha. Mirel só a usava em sopros assim.
+— Vamos levá-lo até Yrisea — disse Mirel, enquanto amarrava os cabelos com uma fita azul escura que só usava em ocasiões solenes.
 
-Mirel Amarëa não era uma mulher comum. Havia sido aprendiz de Ovenar, o antigo Orador da Terceira Corrente, e por duas espirais servira como Guardiã de Palavras na Câmara das Vozes, antes de recusar o posto e retornar à vida simples de Nivelia para criar as filhas. As mais velhas ainda falavam dela com respeito, e poucas entendiam por que tinha largado o posto. Raramente decidia algo em voz alta. Quando decidia, ninguém discutia.
+Mirel Amarëa havia servido entre os Oradores quando jovem, antes de deixar a vida ritual para criar as filhas. Os mais velhos de Nivelia ainda a tratavam com respeito. Raramente decidia algo em voz alta. Quando decidia, ninguém discutia.
 
 — Se há voz que entende os silêncios, é a dela.
 
@@ -92,9 +92,9 @@ Yrisea tocou o ar entre eles, sem encostar. Seus lábios moveram-se num murmúri
 
 — E o que devemos fazer? — perguntou Jokara, com voz mais fraca do que esperava.
 
-Yrisea afastou a mão do peito do menino. Respirava com alguma dificuldade. Sentou-se de novo sobre as almofadas circulares, feitas com fios de celvra trançados, e ajeitou as dobras do manto sobre os joelhos.
+Yrisea afastou a mão do peito do menino. Respirava com alguma dificuldade. Sentou-se de novo sobre as almofadas circulares e ajeitou as dobras do manto sobre os joelhos.
 
-A Alcova do Eco, onde atendia, era um espaço de pedra polida no centro da colina de Vellarin, esculpida muitos ciclos antes. O teto era aberto em uma espiral de vidro azul, onde o vento podia entrar sem perturbar. Nas paredes, runas antigas vibravam com a luz do sopro. E num nicho discreto, atrás de três véus de seda lilás, repousava o que só os oradores podiam tocar: o Verbo da Corrente.
+A Alcova do Eco era um espaço de pedra polida, esculpido muitos ciclos antes. O teto era aberto em uma espiral de vidro azul, onde o vento podia entrar sem perturbar. Nas paredes, runas antigas vibravam com a luz do sopro. E num nicho discreto, atrás de três véus de seda lilás, repousava o que só os oradores podiam tocar: o Verbo da Corrente.
 
 Era um livro de tábuas entalhadas, presas por anéis de vento endurecido. Cada orador recebia o direito de acrescentar uma linha, uma única vez, após profunda meditação, e o restante podia apenas ser lido. As tábuas vibravam ao toque de Yrisea, que removeu os véus com uma reverência quase maternal.
 
