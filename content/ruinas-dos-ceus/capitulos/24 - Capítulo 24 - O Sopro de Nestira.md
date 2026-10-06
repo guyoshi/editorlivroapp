@@ -258,7 +258,7 @@ Gabasteri lançou um olhar para ele e depois voltou a Nestira.
 
 — Cinco ciclos aqui embaixo me ensinaram uma coisa. Todo mundo quebra. A única diferença é quanto tempo leva.
 
-No chão, Mariv parou de se mexer. Não foi por causa da pancada na cabeça.
+No chão, Mariv fechou os dedos devagar em torno do cabo da lança caída e então parou de se mexer. Não foi por causa da pancada na cabeça. Esperava Gabasteri se afastar dele.
 
 — Não. Ensinaram você a enxergar todo mundo como coisa que precisa quebrar antes de quebrar você.
 
@@ -361,6 +361,8 @@ A fera saiu das sombras aos poucos. Primeiro apareceram as patas cobertas de lam
 Gabasteri recuou um passo, e a criatura acompanhou. Quando ele parou, ela também parou. Durante alguns instantes, ouviram apenas a respiração dos dois e o zumbido das moscas voltando às carcaças. Gabasteri mudou a lâmina de mão e lançou um olhar rápido para uma abertura entre as árvores; a fera moveu a cabeça junto com ele, como se tivesse acompanhado a intenção.
 
 — Você tinha razão… — disse Nestira, quase sem voz. — Os fortes comem primeiro.
+
+Por um instante, Nestira olhou para a abertura entre as árvores por onde viera. Mariv ainda não aparecia.
 
 Os olhos de Gabasteri se desviaram até ela, e por um instante a raiva pareceu vencer o medo.
 
