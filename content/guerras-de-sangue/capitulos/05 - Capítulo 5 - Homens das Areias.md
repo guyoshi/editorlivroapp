@@ -232,7 +232,7 @@ Daryon inclinou a cabeça.
 
 A armadura não fechou direito. Isso, por si só, já era uma ofensa.
 
-A criada puxou as correias com cuidado, os dedos nervosos demais para parecerem competentes. Alyra estava de pé diante de um espelho de bronze escuro, observando o próprio reflexo fragmentado. A peça era a mesma que usara em patrulhas de fronteira, uma armadura flexível de couro reforçado com pequenas placas internas de metal. A roupa servia a movimento, tarrak, estrada e lâmina curta em espaço apertado.
+A criada puxou as correias com cuidado, os dedos nervosos demais para parecerem competentes. Alyra estava de pé diante de um espelho de bronze escuro, observando o próprio reflexo fragmentado. A peça era a mesma que usara em patrulhas de fronteira, uma armadura flexível de couro reforçado com pequenas placas internas de metal. A roupa servia a movimento, tarrak, estrada e lâmina curta em espaço apertado. No bronze, a Ramagem continuava inteira desde a manhã. Daryon sugerira que ela a lavasse antes de sair, para atravessar o portão como qualquer viajante. Alyra recusara. Os exilados precisavam ver com quem estavam falando.
 
 Servira-lhe perfeitamente havia menos de um ciclo da lua maior. Agora apertava. Não muito, mas o suficiente.
 
@@ -486,7 +486,7 @@ Sarkan não riu imediatamente. Mas a gargalhada seguiu logo em seguida. A mão d
 
 Alyra já tinha ouvido que Sarkan era bem imprevisível, então decidiu agir. Ela abriu a porta da carruagem. O povoado inteiro pareceu prender a respiração. Ela desceu sem pressa.
 
-Não usava coroa, nem armadura de soberana, nem trazia brasão grande. Mas algumas coisas não precisam de metal para serem reconhecidas. O modo como pisou no chão seco bastou. O modo como olhou ao redor, também. Sarkan virou-se para ela. O sorriso rasgado moveu-se um pouco.
+Não usava armadura de soberana, nem trazia brasão grande. Mas algumas coisas não precisam de metal para serem reconhecidas. A Ramagem branca na testa dela, o tronco que nenhum exilado jamais teria, fez dois homens recuarem meio passo antes que ela dissesse uma palavra. O modo como pisou no chão seco bastou. O modo como olhou ao redor, também. Sarkan virou-se para ela. O sorriso rasgado moveu-se um pouco.
 
 — Ah.
 

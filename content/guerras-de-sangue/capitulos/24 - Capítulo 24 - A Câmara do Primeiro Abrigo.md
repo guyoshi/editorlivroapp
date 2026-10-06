@@ -14,7 +14,7 @@ A palavra Fendelar ficou suspensa sobre a mesa por mais tempo do que devia.
 
 Alguns conselheiros olharam para Varron Meio-Olho, como se a ferida dele pudesse confirmar ou negar a existência de um morto antigo. Outros olharam para Alyra. Daryon não olhou para ninguém. Apenas baixou os olhos para os dedos, e quem o conhecesse muito bem teria visto a tensão discreta que apareceu na mão direita. Alyra, porém, parecia mais viva do que todos.
 
-Estava diante da mesa central, vestida de couro escuro sobre túnica cinzenta, o braço ainda marcado pelas faixas de Alestir e o cabelo preso de modo severo. A palidez recente não lhe tirava força. Dava-lhe uma aparência de lâmina recém-limpa, ainda fria, ainda lembrando sangue. Atrás dela, Cal Kadrir permanecia como sombra armada, o corte no rosto mal fechado, a nova autoridade de Primeiro Kae assentando-lhe no corpo com rapidez perigosa.
+Estava diante da mesa central, a Ramagem refeita duas vezes desde o amanhecer porque o suor da guerra a desfazia mais rápido do que o pintor conseguia acompanhar, vestida de couro escuro sobre túnica cinzenta, o braço ainda marcado pelas faixas de Alestir e o cabelo preso de modo severo. A palidez recente não lhe tirava força. Dava-lhe uma aparência de lâmina recém-limpa, ainda fria, ainda lembrando sangue. Atrás dela, Cal Kadrir permanecia como sombra armada, o corte no rosto mal fechado, a nova autoridade de Primeiro Kae assentando-lhe no corpo com rapidez perigosa.
 
 Daryon estava à esquerda, discreto, elegante e quase imóvel. Kaelina não estava ali. A ausência dela ocupava uma cadeira com mais força do que sua presença teria ocupado.
 

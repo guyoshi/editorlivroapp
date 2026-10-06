@@ -446,7 +446,7 @@ Edran fechou os olhos por um sopro. Antes que pudesse perguntar mais, cascos bat
 
 Muitos. Os soldados viraram-se, armas prontas. Da fumaça surgiram tarraks com homens do anel alto. À frente, Alyra.
 
-O manto escuro dela estava preso para montaria, mas ainda assim parecia roupa feita para ser vista. O cabelo fora amarrado com pressa. Trazia uma lâmina curta à cintura, mais símbolo do que arma de batalha. Ao lado dela vinha Cal Kadrir, rosto tenso, armadura limpa demais para aquele inferno. Daryon vinha um pouco atrás, montado com desconforto elegante, expressão de quem preferia salões a cinzas, mas recusava perder lugar junto à soberana.
+O manto escuro dela estava preso para montaria, mas ainda assim parecia roupa feita para ser vista. O cabelo fora amarrado com pressa. Trazia uma lâmina curta à cintura, mais símbolo do que arma de batalha. Ao lado dela vinha Cal Kadrir, rosto tenso, armadura limpa demais para aquele inferno, a raiz branca intacta na têmpora apesar da fumaça. Na de Edran restava só uma faixa de pele mais clara, onde a raiz de vinte e cinco ciclos fora lavada por ordem de Alyra. Daryon vinha um pouco atrás, montado com desconforto elegante, expressão de quem preferia salões a cinzas, mas recusava perder lugar junto à soberana.
 
 Edran levantou-se devagar. Por um instante, não disse nada. Depois inclinou a cabeça.
 
@@ -615,4 +615,4 @@ Viu Alyra menina, sentada no degrau do trono vazio, olhando para todos como se j
 
 Tentou levantar a mão. Não para empurrar o homem. Para alcançar algo que já não estava ali. Pela primeira vez em muitos ciclos, Cal Edran Polar tentou levantar-se e o corpo não obedeceu. A fumaça desceu sobre ele.
 
-O homem que esteve ao lado de Orionus, que guardara as filhas dele como muralha viva e que carregara Kaendar nos ombros quando ninguém olhava, terminou ali: com o rosto na cinza, o sangue misturado à lama e a mão ainda fechada como se segurasse, sozinho, um portão que já não existia.
+O homem que esteve ao lado de Orionus, que guardara as filhas dele como muralha viva e que carregara Kaendar nos ombros quando ninguém olhava, terminou ali: com o rosto na cinza, a faixa clara da têmpora, onde um dia descera a raiz branca, encostada no chão, o sangue misturado à lama e a mão ainda fechada como se segurasse, sozinho, um portão que já não existia.

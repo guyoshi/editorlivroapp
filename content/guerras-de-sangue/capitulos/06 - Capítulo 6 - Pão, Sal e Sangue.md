@@ -20,7 +20,7 @@ A porta abriu-se atrás dela.
 
 — Que cara horrível, irmã — disse Alyra.
 
-Kaelina virou-se devagar. A irmã estava vestida para viagem, com um gibão escuro mais leve do que a armadura que normalmente escolheria para sair de Kaendar. O cabelo estava preso com firmeza, o rosto bem descansado.
+Kaelina virou-se devagar. A irmã estava vestida para viagem, com um gibão escuro mais leve do que a armadura que normalmente escolheria para sair de Kaendar. O cabelo estava preso com firmeza, o rosto bem descansado, a Ramagem reforçada para a estrada com uma camada a mais de resina, que o pó não apagaria antes do Marco.
 
 — O talismã sumiu — disse Kaelina.
 
@@ -196,7 +196,7 @@ Yvenn não se ofendeu.
 
 Um ruído discreto percorreu a comitiva Tondrar. Aprovação, talvez. Ou surpresa. Ou apenas a estranheza de ver um Polar velho responder sem cuspir orgulho.
 
-Kaelina deu um passo à frente. O manto escuro moveu-se em torno dela, pesado como se tivesse absorvido a respiração de Kaendar inteira.
+Kaelina deu um passo à frente. O manto escuro moveu-se em torno dela, pesado como se tivesse absorvido a respiração de Kaendar inteira. Diante dos rostos pintados de negro, duros, cortados em faixas, os traços brancos dela pareciam outra língua: a mesma ideia de marcar quem se é, escrita por um povo que preferia raiz a muralha.
 
 — Harvok Tondrar, Voz do Círculo da Cabeça Nua, foste chamado porque dois jovens Polar foram encontrados mortos além de nossas muralhas. Havia restos de um balili abatido, couro levado, rastros demais para uma caçada comum e sinais que apontam para teu povo. Não viemos pagar pelo sangue deles. Não viemos comprar silêncio. Viemos exigir explicação diante de costume antigo.
 
@@ -402,7 +402,7 @@ Os sons começaram a afastar-se, como se o mundo inteiro tivesse mergulhado deba
 
 Algo quente escorria pelo rosto de Kaelina. Ela levou a mão à face, e os dedos voltaram vermelhos.
 
-Não era seu sangue. Um Tondrar atingido enquanto fugia passara perto demais dela antes de cair, ou talvez uma lâmina o tivesse aberto ao seu lado, ou talvez o mundo apenas tivesse decidido que ninguém, nem mesmo quem tentou impedir, sairia limpo dali. O sangue estava em sua pele, no pescoço, no manto, nas mãos que haviam levado pão à boca como promessa.
+Não era seu sangue. Um Tondrar atingido enquanto fugia passara perto demais dela antes de cair, ou talvez uma lâmina o tivesse aberto ao seu lado, ou talvez o mundo apenas tivesse decidido que ninguém, nem mesmo quem tentou impedir, sairia limpo dali. O sangue estava em sua pele, no pescoço, no manto, por cima do branco da Ramagem, nas mãos que haviam levado pão à boca como promessa.
 
 Edran estava diante dela, espada ainda erguida, mas seus olhos já não tinham a estabilidade antiga. Ele olhava para Harvok morto, para Maedra caída sobre o tambor, para Yvenn no chão, para o sal misturado ao sangue. Kaelina olhou para Alyra.
 

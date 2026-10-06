@@ -10,9 +10,9 @@ Ao redor dela, onze cadeiras. Nenhuma era igual à outra.
 
 Orionus odiava simetria em conselho. “Cadeiras iguais fazem homens fingirem que pensam igual”, dizia. Por isso, cada assento tinha altura, largura e encosto diferentes, adaptado ao ofício de quem o ocupava, e ao medo que esse ofício trazia para a mesa. A cadeira do senhor das forjas tinha braços largos, riscados por unhas e cinza. A de Iressa Mão-de-Sal era estreita, quase desconfortável, como se obrigasse o corpo a manter a coluna honesta diante de qualquer desperdício. A cadeira dos portões tinha o encosto reforçado com ferro e pequenas marcas de chave nas laterais. A de Daryon era simples demais para um homem que gostava tanto de parecer indispensável.
 
-Nas extremidades da mesa, duas cadeiras mais altas, mas não tronos. Kaelina estava sentada numa delas. A outra permanecia vazia.
+Nas extremidades da mesa, duas cadeiras mais altas, mas não tronos. Kaelina estava sentada numa delas, a Ramagem refeita ao amanhecer pelo pintor de Kaendar, os traços ainda frescos e mais grossos do que o costume, porque dia de Conselho pedia que ninguém precisasse se aproximar para saber quem governava. A outra permanecia vazia.
 
-Cal Edran Polar ficava junto à porta, de pé. Não participava da mesa, embora todos soubessem que a escutava inteira. O Calandrir não governava, mas escutava o governo inteiro. Tinha as mãos unidas à frente do corpo, os ombros largos imóveis e os olhos numa espécie de repouso vigilante. A soberana passou os olhos pelo conselho.
+Cal Edran Polar ficava junto à porta, de pé. Não participava da mesa, embora todos soubessem que a escutava inteira. O Calandrir não governava, mas escutava o governo inteiro. Tinha as mãos unidas à frente do corpo, a raiz branca da mão da espada por cima da outra, os ombros largos imóveis e os olhos numa espécie de repouso vigilante. A soberana passou os olhos pelo conselho.
 
 Daryon estava sentado à direita da cadeira vazia de Alyra, com os dedos longos repousados sobre a mesa.
 

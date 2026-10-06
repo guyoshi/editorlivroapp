@@ -178,7 +178,7 @@ Kharvok esperava no Pátio Seco. A Voz dos Tondrar era velho sem parecer frágil
 
 Ao redor dele, o Círculo da Cabeça Nua mantinha distância suficiente para mostrar respeito e proximidade suficiente para lembrar que a cidade tinha mais de uma garganta. Kaelina reconheceu funções antes de reconhecer nomes: uma mulher velha com tambor pequeno preso ao corpo, dedos deformados de tanto bater pele; um homem magro com marcas de contagem no braço; uma guardiã de pintura com as mãos negras até o pulso; guerreiros de garganta com lanças curtas e olhos fundos.
 
-Kharvok olhou primeiro para a corda no pescoço dela, depois para o rosto. O Tondrar que segurava a corda tocou o peito.
+Kharvok olhou primeiro para a corda no pescoço dela, depois para o rosto, para o que restava da Ramagem depois de dias de sol e poeira: fios brancos rachados, um tronco partido na testa. A guardiã de pintura estalou a língua, como quem vê trabalho mal cuidado. O Tondrar que segurava a corda tocou o peito.
 
 — Encontrada em Nhar-Veyr, Voz. Com dois guardas Polar.
 

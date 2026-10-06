@@ -102,7 +102,7 @@ Elis riu baixinho e se acomodou melhor no banco, e Karesis continuou, a voz enco
 
 — Eles voamvam? Como onseguia voaros pássaros? Que incrível! 
 
-— Sim. Mas tinha uma menina que não c. — Ele demorou um pouco mais nessa palavra do que nas outras. — Teimosa como ela só. Ficou parada na borda até todo mundo olhar, saltou com raiva, e o vento a lançou no chão. Foi salva por um rapaz. Um rapaz que tocava flauta. — Karesis balançou a cabeça devagar. — Tocava mal. Muito mal.
+— Sim. Mas tinha uma menina que não. — Ele demorou um pouco mais nessa palavra do que nas outras. — Teimosa como ela só. Ficou parada na borda até todo mundo olhar, saltou com raiva, e o vento a lançou no chão. Foi salva por um rapaz. Um rapaz que tocava flauta. — Karesis balançou a cabeça devagar. — Tocava mal. Muito mal.
 
 Disse aquilo com tanta convicção que Elis deixou escapar uma risada pelo nariz, e ele mesmo sorriu, mas o sorriso não ficou muito tempo no rosto. Pegou a garrafa, olhou para ela e não bebeu.
 
@@ -122,21 +122,21 @@ Karesis tocou a própria pálpebra esquerda com a ponta do dedo, sem parecer not
 
 — Sempre tem alguém que percebe. Mas quem percebe cedo demais costuma parecer louco.
 
-Ficou olhando a garrafa, girando-a uma volta inteira sobre a mesa, e Elis esperou que ele dissesse quem tinha sido. Ele não disse. Lá fora passou uma carroça, as rodas batendo nas pedras da rua, e Karesis esperou o barulho morrer por inteiro antes de continuar, tão baixo que ela precisou se inclinar.
+Ficou olhando a garrafa, girando-a uma volta inteira sobre a mesa. Lá fora passou uma carroça, as rodas batendo nas pedras da rua, e Karesis esperou o barulho morrer por inteiro antes de continuar, tão baixo que ela precisou se inclinar.
 
 — Numa noite comum, sem aviso maior do que os avisos que já vinham ignorando, a primeira ilha desceu. Não de uma vez: desceu em pedaços, uma ponte primeiro, depois um jardim arrancado pela raiz, depois uma casa, e outra, o barulho chegando nas ilhas vizinhas antes da poeira. Gente que dançava ainda achou, por um instante comprido demais, que era só mais um tremor qualquer. Não era. A segunda foi atrás da primeira, e não havia mais festa nenhuma quando a terceira começou a rachar, só gente correndo em pontes que balançavam demais para tanta pressa ao mesmo tempo, e o vidro colorido das janelas brilhando um instante no ar antes de sumir nas nuvens.
 
 A mão direita dele, que descansava aberta sobre a mesa, foi se fechando devagar, um dedo de cada vez, até virar punho em volta de nada.
 
-— E a menina? — perguntou Elis, e não percebeu que tinha prendido a respiração.
+— E a menina que não voava? — perguntou Elis, e não percebeu que tinha prendido a respiração.
 
 Karesis olhou para ela como se tivesse esquecido, por um instante, quem estava sentada ali. Depois desviou os olhos para o próprio punho.
 
-— Essa parte ninguém conta direito.
+— Ninguém sabe.
 
 Elis esperou o resto, como sempre esperava, e só aos poucos entendeu que dessa vez não havia resto guardado. Ele abriu a mão devagar, e ela estava vazia.
 
-— Não se sabe quantas ilhas restaram no fim, nem quanto tempo levou — disse, já sem a cadência de antes. — Só se sabe que onde vivia aquele povo inteiro não sobrou nada que se pudesse apontar lá do alto e dizer: foi ali.
+— Não se sabe onde as ilhas caíram, nem quanto tempo levou — disse, já sem a cadência de antes. — Só se sabe que onde vivia aquele povo inteiro não sobrou nada que se pudesse apontar lá do alto e dizer: foi ali. 
 
 Empurrou a garrafa para o meio da mesa, longe da mão, puxou o velho livro para junto do peito e ficou sentado, quieto, os olhos fechados, até a respiração ficar comprida e pesada como a de quem dorme.
 

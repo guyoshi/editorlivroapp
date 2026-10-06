@@ -320,7 +320,7 @@ Alyra retirou a espada dos suportes. A bainha ainda trazia uma pequena marca fei
 
 A armadura estava desmontada sobre suportes revestidos de pano. Placas menores protegiam peito, costas e laterais sem formar uma couraça pesada demais. Ombreiras curtas permitiam o movimento dos braços. Braçadeiras de metal escuro cobriam os antebraços, e uma proteção segmentada descia sobre as coxas. Alyra a usara poucas vezes fora de treino. Não havia guerra durante Orionus. Depois da morte dele, continuara guardada como lembrança de uma necessidade que Kaendar fingia ter superado.
 
-Passos pesados chegaram ao corredor. Cal Kadrir entrou acompanhado de três homens. Nenhum parecia ter atravessado o caminho sem lutar. O Primeiro Kae tinha sangue seco na lateral do rosto, parte da armadura amassada e o cabelo grudado à testa. Um dos homens pressionava um pano contra o braço. Outro mancava. O terceiro ainda segurava uma lança partida pela metade.
+Passos pesados chegaram ao corredor. Cal Kadrir entrou acompanhado de três homens. Nenhum parecia ter atravessado o caminho sem lutar. O Primeiro Kae tinha sangue seco na lateral do rosto, correndo por cima da raiz branca de Calandrir, parte da armadura amassada e o cabelo grudado à testa. Um dos homens pressionava um pano contra o braço. Outro mancava. O terceiro ainda segurava uma lança partida pela metade.
 
 Kadrir parou diante dela.
 
@@ -462,7 +462,7 @@ A madeira tombou diante da porta, espalhando tábuas, caixas e anos de contagem 
 
 Alyra viu uma passagem estreita atrás da estante caída, usada por escribas para alcançar a galeria seguinte. Entrou antes que Tavra removesse o obstáculo. A fumaça a seguiu.
 
-Ela atravessou uma galeria de retratos antigos. Soberanos mortos observavam a fuga com rostos pintados para parecerem mais firmes do que haviam sido em vida. Alyra passou por Orionus sem olhar. O quadro mostrava o pai em pé junto a um portão, uma mão sobre o punho da espada, a outra aberta em direção a homens que o artista não pintara. Uma chama atingiu a moldura depois que Alyra passou.
+Ela atravessou uma galeria de retratos antigos. Soberanos mortos observavam a fuga com rostos pintados para parecerem mais firmes do que haviam sido em vida, todos com a mesma Ramagem branca na testa, a única coisa que nenhum pintor de retrato ousara mudar. Alyra passou por Orionus sem olhar. O quadro mostrava o pai em pé junto a um portão, uma mão sobre o punho da espada, a outra aberta em direção a homens que o artista não pintara. Uma chama atingiu a moldura depois que Alyra passou.
 
 O tecido começou a queimar pela parte inferior. Alyra parou. Por um instante curto e absurdo, olhou para o fogo subindo pela imagem do pai. Tavra apareceu na entrada da galeria.
 

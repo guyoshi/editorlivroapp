@@ -226,7 +226,7 @@ Kaelina pegou o manto escuro que havia deixado sobre a cadeira.
 
 A chuva engrossou quando ela saiu de Kaendar.
 
-Para viagem, a chuva contínua e fria era pior do que uma tempestade aberta: entrava pelas costuras, molhava pelo avesso, tornava couro pesado e alongava a estrada. O tarrak de Kaelina avançava com passadas firmes pela rota noroeste, saindo das pedras ordenadas de Kaendar para caminhos de terra batida, valas laterais e pequenos marcos da Raiz riscados em postes de madeira.
+Para viagem, a chuva contínua e fria era pior do que uma tempestade aberta: entrava pelas costuras, molhava pelo avesso, tornava couro pesado e alongava a estrada. A Ramagem, refeita naquela manhã com resina dobrada, resistia à água melhor do que o couro; o pintor avisara que até o fim do dia ela começaria a escorrer. O tarrak de Kaelina avançava com passadas firmes pela rota noroeste, saindo das pedras ordenadas de Kaendar para caminhos de terra batida, valas laterais e pequenos marcos da Raiz riscados em postes de madeira.
 
 Dois guardas vinham atrás, longe o bastante para não ouvir, perto o bastante para morrer tentando alcançá-la se fosse preciso. Eram homens que Cal Edran teria escolhido. Talvez por isso doesse. Desde a morte dele, Kaelina ainda não se acostumara ao espaço vazio à sua direita. A ausência de Edran não era apenas falta de proteção. Era falta de um olhar que sabia discordar sem abandonar.
 
@@ -244,7 +244,7 @@ Eram cinco na rua principal, com capas escuras, lanças de patrulha e o tipo de 
 
 Kaelina reconhecia quase todos os homens destacados nas rotas de Kaendar. Muitos por nome, outros por função, postura, famílias, marcas de serviço. Os que guardavam a Garganta tinham um jeito. Os que patrulhavam o anel externo tinham outro. Os que escoltavam cargas de sal traziam sempre nos ombros a fadiga específica de quem caminhava mais do que lutava.
 
-Aqueles cinco não lhe diziam nada. O primeiro reconheceu Kaelina e ficou rígido.
+Aqueles cinco não lhe diziam nada. O primeiro reconheceu Kaelina, ou reconheceu os traços brancos borrados de chuva na testa dela, e ficou rígido.
 
 — Minha soberana.
 

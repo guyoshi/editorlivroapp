@@ -32,7 +32,7 @@ Dareth insistiu, a voz baixa.
 
 — Existe gente sendo empurrada para uma condenação injusta enquanto você se recusa a olhar.
 
-Vetarius suspirou, passando a mão livre pelo rosto.
+Vetarius suspirou, passando a mão livre pelo rosto, e a palma voltou com um rastro branco da Ramagem.
 
 — Você ficou tempo demais longe de Kaeliran. Não viu o quanto a soberania e o Culto se tornaram... dependentes um do outro. Eu não posso anular um Julgamento da Raiz nem ordenar ao Sumo o que deve chamar de pecado.
 

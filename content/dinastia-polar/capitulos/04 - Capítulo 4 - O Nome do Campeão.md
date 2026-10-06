@@ -46,7 +46,7 @@ O corredor externo da Casa dos Estandartes se abriu diante delas, colunas de ped
 
 — Doação não é autoridade — disse ele, a voz rouca carregando cada palavra como se arrastasse um peso morto por trás dela. — Alguém devia lembrar a Companhia disso antes que eu precise fazê-lo pessoalmente, diante de quem for necessário.
 
-Ele saía de uma das salas de audiência acompanhado por dois Filhos da Raiz. Era um homem muito velho, magro a ponto de a pele parecer presa aos ossos do rosto, e os olhos afundavam tão fundo nas órbitas que, à primeira vista, podiam fazê-lo parecer um cadáver ainda de pé. Selina já vira aquele rosto assustar visitantes de outras dinastias. Nunca a assustara.
+Ele saía de uma das salas de audiência acompanhado por dois Filhos da Raiz. Era um homem muito velho, magro a ponto de a pele parecer presa aos ossos do rosto, e os olhos afundavam tão fundo nas órbitas que, à primeira vista, podiam fazê-lo parecer um cadáver ainda de pé. A pintura do Culto não ajudava: a base branca cobria o rosto inteiro, a faixa de tinta de registro escurecia os olhos de uma têmpora à outra, e um traço da mesma tinta lhe atravessava os lábios, como se nada pudesse sair dali antes de prova. Selina já vira aquele rosto assustar visitantes de outras dinastias. Nunca a assustara.
 
 — Sumo Vigia.
 
@@ -86,7 +86,7 @@ Ele se afastou sem esperar resposta. Selina ficou diante da gaiola por um instan
 
 Os aposentos privados de Vetarius cheiravam a vinho e a cera de vela antes mesmo que Selina cruzasse a última porta.
 
-Ele estava sentado numa poltrona baixa perto da janela aberta, o manto azul-profundo largado sobre outro assento como uma pele abandonada, a camisa aberta o suficiente para revelar que nenhum soberano se sentava daquele jeito diante de alguém que precisasse impressionar. Uma taça meio cheia repousava sobre o braço da poltrona, outra vazia no chão ao lado, e mapas cobriam a mesa próxima junto de pratos com figos secos e um pão escuro parcialmente comido. Vetarius ergueu os olhos quando ela entrou. Estavam claros. Afastou um dos mapas para abrir espaço sobre a mesa.
+Ele estava sentado numa poltrona baixa perto da janela aberta, o manto azul-profundo largado sobre outro assento como uma pele abandonada, a camisa aberta o suficiente para revelar que nenhum soberano se sentava daquele jeito diante de alguém que precisasse impressionar. Uma taça meio cheia repousava sobre o braço da poltrona, outra vazia no chão ao lado, e mapas cobriam a mesa próxima junto de pratos com figos secos e um pão escuro parcialmente comido. Vetarius ergueu os olhos quando ela entrou. Estavam claros. A Ramagem da manhã já ia pela metade na testa, borrada do lado em que ele costumava apoiar a cabeça na mão. Afastou um dos mapas para abrir espaço sobre a mesa.
 
 — Selina. — Ele apontou a taça vazia no chão como quem oferece uma cadeira. — Sirva você mesma, já mandei tirarem os copos bons antes que Caeren decida que são dele.
 

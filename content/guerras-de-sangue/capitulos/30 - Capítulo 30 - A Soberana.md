@@ -8,9 +8,9 @@ Duas cadeiras permaneciam vazias diante da Mesa da Raiz.
 
 A de Yvenn Raiz-Branca ainda trazia um pequeno entalhe feito por ele junto ao apoio da mão, quatro linhas curvas que ninguém tivera coragem de lixar. A cadeira de Daryon estava limpa demais. Maelis ordenara que retirassem o sangue de seus documentos e objetos, mas não autorizara ninguém a sentar-se ali. Durante anos, Daryon parecera ocupar pouco espaço. Morto, deixava um vazio que fazia todos perceberem quanto da Câmara havia passado por sua voz.
 
-Kaelina sentava-se sozinha na extremidade destinada à soberania. O ombro permanecia enfaixado. Um corte atravessava a testa, desaparecendo sob o cabelo preso, e a perna ferida obrigava-a a manter o peso distribuído com cuidado. Não vestia armadura nem manto cerimonial. Usava roupa escura, simples, ajustada o suficiente para não tocar as queimaduras menores no pescoço e nos braços.
+Kaelina sentava-se sozinha na extremidade destinada à soberania. O ombro permanecia enfaixado. Um corte atravessava a testa, desaparecendo sob o cabelo preso; o pintor refizera a Ramagem contornando a ferida, e o tronco agora começava logo abaixo da cicatriz, e a perna ferida obrigava-a a manter o peso distribuído com cuidado. Não vestia armadura nem manto cerimonial. Usava roupa escura, simples, ajustada o suficiente para não tocar as queimaduras menores no pescoço e nos braços.
 
-Cal Kadrir permanecia junto à porta. O Primeiro Kae tinha o rosto marcado pela luta contra Rendar e um dos joelhos preso por faixas. Atrás dele, do lado de fora da Câmara, guardas ocupavam o corredor. Não eram visíveis da Mesa, mas todos haviam escutado o metal antes que as portas se fechassem.
+Cal Kadrir permanecia junto à porta. O Primeiro Kae tinha o rosto marcado pela luta contra Rendar, a raiz de Calandrir refeita por cima de um corte ainda fresco, e um dos joelhos preso por faixas. Atrás dele, do lado de fora da Câmara, guardas ocupavam o corredor. Não eram visíveis da Mesa, mas todos haviam escutado o metal antes que as portas se fechassem.
 
 Iressa Mão-de-Sal estava à direita de Kaelina. As mãos ásperas permaneciam unidas sobre a mesa, e os olhos não saíam da soberana.
 
@@ -528,7 +528,7 @@ Kadrir sustentou seu olhar.
 
 Não perguntou quando ele decidira.
 
-— Alyra Polar perde, a partir deste momento, o título de soberana, o direito de dar ordens em nome de Kaendar, terras ligadas à Dinastia, proteção permanente dos guardas Polar e qualquer direito de retorno sem autorização da Mesa ou da soberania vigente — declarou Kaelina. — Será exilada com a criança por nascer assim que os curandeiros permitirem a viagem.
+— Alyra Polar perde, a partir deste momento, o título de soberana, o direito de dar ordens em nome de Kaendar, terras ligadas à Dinastia, proteção permanente dos guardas Polar e qualquer direito de retorno sem autorização da Mesa ou da soberania vigente — declarou Kaelina. — Será exilada com a criança por nascer assim que os curandeiros permitirem a viagem. A Ramagem lhe será lavada antes que deixe a fortaleza.
 
 Seron apertou os lábios.
 
@@ -766,9 +766,9 @@ Kaelina saiu. Alyra deixou Kaendar três dias depois. Os curandeiros protestaram
 
 Ninguém recebeu permissão para lançar pedras, tocar em Alyra ou atravessar a linha dos guardas. Varron colocou arqueiros nas passagens altas. Odran fechou ruas laterais para impedir tumulto. Iressa enviou duas caixas de alimentos que durariam até a primeira fronteira habitada. Brokan não enviou arma alguma. Cal Kadrir conduziu a escolta.
 
-Usava a armadura de Primeiro Kae, mas o título parecia diferente sobre ele. Alyra o escolhera. Kaelina o mantivera. Entre uma soberana caída e outra erguida, Kadrir aprendera que um homem de guarda quase nunca protegia apenas pessoas. Protegia a continuidade do lugar que sobreviveria a elas. A carroça saiu da fortaleza e atravessou os anéis.
+Usava a armadura de Primeiro Kae e a raiz de Calandrir na têmpora, mas o título parecia diferente sobre ele. Alyra o escolhera. Kaelina o mantivera. Entre uma soberana caída e outra erguida, Kadrir aprendera que um homem de guarda quase nunca protegia apenas pessoas. Protegia a continuidade do lugar que sobreviveria a elas. A carroça saiu da fortaleza e atravessou os anéis.
 
-Alyra permanecia sentada, apoiada por almofadas duras. O rosto estava coberto por um véu escuro que não escondia completamente as faixas. A mão ferida repousava junto ao corpo. A outra segurava a borda da carroça sempre que uma roda encontrava pedra irregular. O povo abriu caminho. Não houve reverência. Alguns viraram as costas.
+Alyra permanecia sentada, apoiada por almofadas duras. O rosto estava coberto por um véu escuro que não escondia completamente as faixas. Por baixo dele, o lado direito, o único que o fogo deixara, fora lavado na véspera diante de Maelis e de dois Guardiões de Costumes. Alyra não deixara que a criada fizesse; esfregara a pasta branca ela mesma, com a mão boa, até a pele arder. A mão ferida repousava junto ao corpo. A outra segurava a borda da carroça sempre que uma roda encontrava pedra irregular. O povo abriu caminho. Não houve reverência. Alguns viraram as costas.
 
 Uma mulher do Anel Baixo segurou o filho junto ao peito e recusou-se a olhar. Um ferreiro ergueu a mão queimada, mostrando o que o fogo Vendrar deixara. Um velho tocou dois dedos na testa e no peito, mas fez o gesto da Raiz para os mortos, não para a antiga soberana. Alguém gritou:
 
@@ -816,7 +816,7 @@ Durante muitos ciclos, passaria diante daquela galeria e lembraria o jovem estra
 
 ---
 
-Nos vinte ciclos do sol que se seguiram, Kaelina governou Kaendar sem dividir a soberania. Os primeiros anos foram de reconstrução.
+Nos vinte ciclos do sol que se seguiram, Kaelina governou Kaendar sem dividir a soberania. Em cada manhã de ato público, o pintor de Kaendar passou a refazer a Ramagem num único rosto. Os primeiros anos foram de reconstrução.
 
 As casas queimadas ergueram-se novamente. O Cais dos Zírrios ganhou novas correntes, passagens e guardas. Iressa reorganizou os depósitos para que nenhum anel dependesse de uma única rota de alimento. Nalia refez parte dos acordos do rio, lentamente, sem esperar que os Glydar esquecessem aquilo que os Polar fizeram. Maelis preencheu tábuas suficientes para que ninguém pudesse dizer que a guerra começara por acaso.
 

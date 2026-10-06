@@ -48,7 +48,7 @@ Dareth não disse mais nada. Não precisava. O silêncio dele carregava mais acu
 
 Um som de metal contra metal percorreu o pátio, e a multidão foi baixando de volume em camadas, de trás para frente, até que só restasse o vento e passos.
 
-Hadris atravessou o espaço reservado com um pergaminho nas mãos, a postura reta, o rosto sem nenhuma expressão que pudesse ser lida como dúvida. Parou diante da mesa alta onde Teral e o Sumo Vigia já estavam sentados: Teral num tom mais formal do que Selina jamais o vira usar em Kaendar, o Sumo imóvel, as mãos cruzadas sobre o colo como se estivesse em oração, não em audiência.
+Hadris atravessou o espaço reservado com um pergaminho nas mãos, a postura reta, o rosto sem nenhuma expressão que pudesse ser lida como dúvida. Parou diante da mesa alta onde Teral e o Sumo Vigia já estavam sentados: Teral num tom mais formal do que Selina jamais o vira usar em Kaendar, o Sumo imóvel, a pintura do Culto refeita para o julgamento, branca e sem uma falha, as mãos cruzadas sobre o colo como se estivesse em oração, não em audiência.
 
 Hadris abriu o pergaminho e leu.
 
@@ -564,7 +564,7 @@ Todos os olhos se voltaram para o Sumo Vigia.
 
 — Alguma ordem de suspensão chegou a este tribunal? — perguntou Teral.
 
-O Sumo Vigia falou pela primeira vez em muito tempo, a voz calma, quase gentil.
+O Sumo Vigia falou pela primeira vez em muito tempo, o traço escuro dos lábios se partindo ao meio, a voz calma, quase gentil.
 
 — Nenhuma ordem chegou até mim.
 

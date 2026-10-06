@@ -52,7 +52,7 @@ O mundo à volta continuou a existir, mas ficou distante. Harrev disse alguma co
 
 Edran estava frio.
 
-A pele do rosto tinha perdido a dureza viva que sempre carregava. Sem o olhar, sem a postura, sem aquele silêncio disciplinado que fazia os homens endireitarem as costas, parecia menor. Não fraco. Nunca fraco. Mas mortal de um modo que Kaelina quase odiou reconhecer. Havia sangue seco no canto da boca, um corte profundo junto à maçã do rosto e cinza presa nas sobrancelhas. A barba curta estava manchada. Uma das mãos continuava fechada.
+A pele do rosto tinha perdido a dureza viva que sempre carregava. Sem o olhar, sem a postura, sem aquele silêncio disciplinado que fazia os homens endireitarem as costas, parecia menor. Não fraco. Nunca fraco. Mas mortal de um modo que Kaelina quase odiou reconhecer. Havia sangue seco no canto da boca, um corte profundo junto à maçã do rosto, cinza presa nas sobrancelhas e, na têmpora esquerda, a pele nua onde a raiz de Calandrir já não estava. A barba curta estava manchada. Uma das mãos continuava fechada.
 
 Kaelina tocou essa mão. Os dedos estavam rígidos, fechados com tanta força que pareciam agarrados a uma ordem que o corpo se recusara a largar. Ela tentou abri-los com cuidado, primeiro como soberana, depois como filha, depois como criança. Não conseguiu. Soltou um som baixo, ferido, sem palavra. Então segurou a mão dele entre as suas e encostou a testa nos nós dos dedos.
 
@@ -160,13 +160,13 @@ Fez uma reverência curta e saiu. Kaelina ficou sozinha com o caldo, a peça de 
 
 Não houve pompa grande. Não havia tempo para pompa, e talvez Edran a detestasse. Ainda assim, Kaendar desceu em silêncio. Guardas do anel alto ficaram em formação. Homens do anel médio, servos, Vigias, carregadores, mulheres de depósito, aprendizes de forja, barqueiros do Rio Grande e velhos que lembravam Orionus aproximaram-se das margens internas. Alguns traziam as mãos sujas de trabalho. Outros tinham panos nos olhos. Muitos fizeram o gesto da Raiz antes mesmo de ver o corpo.
 
-Edran foi colocado sobre uma barca funerária simples, madeira escura, bordas baixas, a Raiz marcada na proa e tiras de sal negro presas junto às laterais para que a memória não azedasse antes de chegar à curva. Seu corpo fora limpo o possível, mas não escondido da verdade. Havia corte, havia cinza, havia marcas da última luta. A mão, ainda fechada, repousava sobre o peito. Alguém quis abri-la para pôr uma fita de honra entre os dedos. Kaelina não permitiu.
+Edran foi colocado sobre uma barca funerária simples, madeira escura, bordas baixas, a Raiz marcada na proa e tiras de sal negro presas junto às laterais para que a memória não azedasse antes de chegar à curva. Seu corpo fora limpo o possível, mas não escondido da verdade. Havia corte, havia cinza, havia marcas da última luta. A mão, ainda fechada, repousava sobre o peito. Alguém quis abri-la para pôr uma fita de honra entre os dedos. Kaelina não permitiu. Pediu, em vez disso, a tigela do pintor de Kaendar, molhou dois dedos na pasta branca e, ela mesma, refez na têmpora esquerda de Edran a raiz que lhe tinham tirado, da linha do cabelo até o maxilar, devagar, sem tremer. Ninguém na margem disse que aquilo não era costume.
 
 — Ele segurou o que quis segurar — disse.
 
 Alyra estava ao lado dela.
 
-Tinha o braço esquerdo imobilizado junto ao corpo e o rosto mais pálido do que tentava aparentar. Um corte fino atravessava-lhe a testa. Não usava tiara, nem manto pesado. Vestia escuro, e por uma vez a sobriedade não parecia escolha política. Parecia falta de força para adornar-se. Cal Kadrir permanecia atrás dela, calado, com o rosto tenso e os olhos fixos na barca. Daryon não estava presente; os curandeiros ainda limpavam suas feridas.
+Tinha o braço esquerdo imobilizado junto ao corpo e o rosto mais pálido do que tentava aparentar. Um corte fino atravessava-lhe a testa e partia o tronco da Ramagem ao meio; ninguém ousara retocá-lo. Não usava manto pesado. Vestia escuro, e por uma vez a sobriedade não parecia escolha política. Parecia falta de força para adornar-se. Cal Kadrir permanecia atrás dela, calado, com o rosto tenso e os olhos fixos na barca, na raiz recém-pintada na têmpora do morto, igual à sua. Daryon não estava presente; os curandeiros ainda limpavam suas feridas.
 
 Durante todo o rito, Alyra nada disse. Kaelina olhou para a irmã apenas quando os homens começaram a soltar as amarras.
 

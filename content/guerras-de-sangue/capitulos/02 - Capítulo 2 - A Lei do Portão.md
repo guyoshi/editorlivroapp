@@ -32,7 +32,7 @@ Kaelina pousou o talismã sobre o braço do trono, como se pousasse uma lâmina 
 
 — Não podemos tomar nenhuma decisão idiota. — Ela falou baixo.
 
-Alyra inclinou a cabeça, um sorriso pequeno, de canto. Por um instante, o ar do salão ficou mais fino. Alyra bateu o dedo no apoio do trono, inquieta.
+Alyra inclinou a cabeça, um sorriso pequeno, de canto, e os fios da Ramagem nas maçãs do rosto subiram junto com ele. Por um instante, o ar do salão ficou mais fino. Alyra bateu o dedo no apoio do trono, inquieta.
 
 — Dois dos nossos — ela disse. — Dois garotos foram mortos. Isso é um ataque. Não só ao nosso povo, como a nossa dinastia.
 
@@ -226,7 +226,7 @@ Ele não respondeu. Ela odiava quando ele fazia isso. Quando deixava silêncio d
 
 — Meu pai morreu e todos esperam que eu saiba ser ele — continuou. — Alyra acha que ser Orionus é mostrar dentes. O Conselho acha que ser Orionus é manter a cadeira quente e não deixar a cidade tremer. O povo acha que ele teria uma resposta antes mesmo dos corpos esfriarem.
 
-Passou a mão pelo rosto. Pela primeira vez naquela noite, ela parecia ter vinte ciclos. Não soberana. Não filha da dinastia. Apenas uma mulher nova demais diante de uma cidade velha demais.
+Passou a mão pelo rosto, e a ponta dos dedos voltou esbranquiçada: o suor da muralha já começava a desfazer a Ramagem nas têmporas. Pela primeira vez naquela noite, ela parecia ter vinte ciclos. Não soberana. Não filha da dinastia. Apenas uma mulher nova demais diante de uma cidade velha demais.
 
 — Mas eu só lembro dele como pai. Sentado nessa cadeira. Corrigindo meus números. Dizendo que eu segurava a pena como quem queria furar a mesa. Eu conheço as histórias. Todo mundo conhece. A Noite da Garganta. A Lei do Portão. O julgamento na lama. O pão distribuído tarde para que o anel externo não se matasse antes do fim do dia. Mas história é fácil depois que já acabou.
 
@@ -306,7 +306,7 @@ Kaelina franziu a testa.
 
 Edran deixou a palavra repousar.
 
-— Naquela época, a distribuição era ao amanhecer. Os mais fortes chegavam antes. Os velhos ficavam para trás. As mães com crianças recebiam o que sobrava. Teu pai ficou observando. Ninguém sabia que ele estava ali, porque vestia um manto velho e mantinha o rosto baixo. Chovia pouco, mas o suficiente para transformar tudo em lama.
+— Naquela época, a distribuição era ao amanhecer. Os mais fortes chegavam antes. Os velhos ficavam para trás. As mães com crianças recebiam o que sobrava. Teu pai ficou observando. Ninguém sabia que ele estava ali, porque vestia um manto velho, mantinha o rosto baixo e tinha lavado a Ramagem antes de descer. Um soberano sem os traços brancos era só mais um homem cansado numa fila. Chovia pouco, mas o suficiente para transformar tudo em lama.
 
 Kaelina não disse nada.
 

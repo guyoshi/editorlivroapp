@@ -68,7 +68,7 @@ Ela olhou para a roupa dele, manchada de vinho e de sangue que não era seu.
 
 — Todos os que beberam naquela mesa foram envenenados. Vetarius morreu nos meus braços.
 
-Kerath fechou os olhos por uma respiração. Quando os abriu, já olhava para o corredor de Caeren. Dareth não tentou consolá-la; conhecia bem demais a obrigação que mudara de dono com a morte de Vetarius. Agora era o filho que ela precisava encontrar.
+Kerath fechou os olhos por uma respiração. Quando os abriu, já olhava para o corredor de Caeren. Dareth não tentou consolá-la; conhecia bem demais a obrigação que mudara de dono com a morte de Vetarius. Ela tocou a raiz da própria têmpora com dois dedos, gesto curto, de quem confere se uma coisa ainda está no lugar. Agora era o filho que ela precisava encontrar.
 
 Passaram por portas abertas às pressas, por guardas que não sabiam a quem obedecer e por dois servidores escondidos sob uma escada. Dareth queria perguntar quem fora o primeiro a ouvir o grito, quando viram sangue no piso do setor de Caeren. Havia dois guardas Polar mortos perto da entrada e um invasor caído entre eles. Teral jazia junto ao batente do quarto, a roupa cerimonial rasgada, uma das mãos estendida na direção da maçaneta.
 

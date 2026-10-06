@@ -2,7 +2,7 @@ Daryon. Se estivesse apenas aconselhando Alyra, observar seus passos não revela
 
 Estaria nos movimentos privados dele. À noite, deixou o quarto por uma passagem lateral.
 
-Não usou escolta. Sabia que era imprudente. Sabia também que, naquele momento, cada guarda a seu lado seria menos proteção do que anúncio. Caminhou pelos corredores altos com um manto escuro sobre os ombros, o cabelo preso de modo simples. Os sons do anel alto vinham abafados: água sendo distribuída sob vigilância, passos de guardas, uma discussão distante, uma criança chorando de sono ou sede.
+Não usou escolta. Sabia que era imprudente. Sabia também que, naquele momento, cada guarda a seu lado seria menos proteção do que anúncio. Caminhou pelos corredores altos com um manto escuro sobre os ombros, o cabelo preso de modo simples e o capuz pronto para cair sobre a testa. Pensara em lavar a Ramagem. Desistira: sem ela, nenhum guarda de portão abriria trava a uma mulher sozinha no meio da noite. Com ela à mostra, a cidade inteira saberia aonde a soberana tinha ido. O capuz teria de bastar. Os sons do anel alto vinham abafados: água sendo distribuída sob vigilância, passos de guardas, uma discussão distante, uma criança chorando de sono ou sede.
 
 Ela foi até uma galeria de onde podia ver parte do salão do trono através de uma abertura estreita usada por antigos guardas de escuta. Poucos lembravam dela. Orionus lembrava. Cal Edran lembrava. Kaelina lembrava porque, quando criança, havia se escondido ali com Alyra para ouvir uma discussão sobre impostos de sal negro e passagem pelo portão menor. Alyra rira tanto naquela noite que quase denunciara as duas.
 
@@ -78,7 +78,7 @@ Daryon não era homem para ser seguido de perto. Kaelina manteve distância, usa
 
 Atravessar a Ponte da Raiz Baixa naquela hora fora a primeira parte da mentira.
 
-Kaelina não usara escolta, nem brasão aberto, nem o caminho alto por onde uma soberana deveria passar. Desceu pelos acessos baixos de Kaendar com o capuz fechado, deixando que a sombra do manto escondesse o rosto enquanto o Rio Grande crescia à esquerda, escuro sob a noite. A ponte surgiu como uma costela larga sobre a água: madeira grossa, pedra, ferro antigo e dois postos de vigia fingindo sono.
+Kaelina não usara escolta, nem brasão aberto, nem o caminho alto por onde uma soberana deveria passar. Desceu pelos acessos baixos de Kaendar com o capuz fechado, deixando que a sombra do manto escondesse o rosto e os traços brancos da testa enquanto o Rio Grande crescia à esquerda, escuro sob a noite. A ponte surgiu como uma costela larga sobre a água: madeira grossa, pedra, ferro antigo e dois postos de vigia fingindo sono.
 
 O guarda da primeira corrente reconheceu o selo antes de reconhecer a mulher. Isso salvou os dois do embaraço. Ele baixou os olhos, ergueu a passagem e não perguntou por que uma soberana cruzava para oeste sem comitiva. Kaelina odiou-o um pouco por obedecer tão bem.
 

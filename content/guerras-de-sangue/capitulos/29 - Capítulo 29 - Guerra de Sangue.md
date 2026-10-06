@@ -606,7 +606,7 @@ Ela via bocas abertas, homens correndo e fogo movimentando-se, mas não ouvia na
 
 Kaelina tentou levantar, mas a mão escorregou no chão. Conseguiu na segunda tentativa e avistou Alyra caída perto da parede.
 
-A armadura protegera o peito e o ventre da maior parte da explosão. O lado esquerdo do rosto, porém, estava coberto por sangue, fuligem e pele que começava a inchar. Parte do cabelo havia queimado. A mão que segurara o tubo permanecia fechada num formato que já não parecia mão, e pequenos pedaços de metal estavam presos ao braço e ao ombro. Ela respirava. Kaelina caminhou até ela.
+A armadura protegera o peito e o ventre da maior parte da explosão. O lado esquerdo do rosto, porém, estava coberto por sangue, fuligem e pele que começava a inchar. Daquele lado, a Ramagem tinha ido embora junto com a pele. Parte do cabelo havia queimado. A mão que segurara o tubo permanecia fechada num formato que já não parecia mão, e pequenos pedaços de metal estavam presos ao braço e ao ombro. Ela respirava. Kaelina caminhou até ela.
 
 Cada passo doía. O ombro sangrava, a perna quase não sustentava o corpo e parte do cabelo queimado soltava fumaça. Ainda assim, permaneceu de pé.
 

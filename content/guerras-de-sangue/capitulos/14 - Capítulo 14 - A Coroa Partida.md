@@ -18,7 +18,7 @@ E Alestir ainda pesava sobre tudo. Não apenas pelos mortos, nem apenas pela ver
 
 Kaendar não perdera apenas uma aldeia. Perdera dias de comida. Talvez semanas. E cidade nenhuma permanece civilizada por muito tempo quando começa a contar comida em semanas. Kaelina sabia disso.
 
-Por isso estava sentada no salão do trono antes mesmo de o sol subir por completo sobre os muros superiores. Não tinha dormido bem. Talvez não tivesse dormido. Havia algo na postura dela que lembrava gente de pé havia tempo demais, embora estivesse sentada. Os dedos repousavam nos braços do trono, mas não descansavam. Apertavam a madeira, soltavam, voltavam a apertar. O rosto estava limpo, o cabelo preso, as vestes ajustadas. Tudo nela tentava parecer soberania. Os olhos, porém, traíam cansaço.
+Por isso estava sentada no salão do trono antes mesmo de o sol subir por completo sobre os muros superiores. Não tinha dormido bem. Talvez não tivesse dormido. Havia algo na postura dela que lembrava gente de pé havia tempo demais, embora estivesse sentada. Os dedos repousavam nos braços do trono, mas não descansavam. Apertavam a madeira, soltavam, voltavam a apertar. O rosto estava limpo, a Ramagem refeita no escuro, antes do amanhecer, com traço mais grosso que o costume, o cabelo preso, as vestes ajustadas. Tudo nela tentava parecer soberania. Os olhos, porém, traíam cansaço.
 
 Alyra estava no outro trono.
 
@@ -584,7 +584,7 @@ Alyra não estava sentada no trono. Estava de pé diante da mesa central. Vestia
 
 Brokan ocupava um lado da mesa, braços cruzados, barba cheia de cinza. Varron Meio-Olho observava as entradas. Nalia do Rio tinha tábuas e mapas fluviais diante de si. Thoren falava baixo com Iressa, que estava rígida, olhos atentos, mãos sobre a própria pasta de sal e ração. Maelis registrava tudo com a expressão de quem preferia que a história escrevesse a si mesma.
 
-Cal Kadrir também estava lá. A presença dele fez Kaelina parar por um instante. Kadrir parecia não ter dormido. Havia um corte atravessando a lateral do rosto, ainda mal fechado, e um dos ombros estava preso por faixa. Mesmo assim, permanecia de pé entre homens armados como se o ferimento lhe pertencesse menos do que a função. Alyra viu Kaelina entrar.
+Cal Kadrir também estava lá. A presença dele fez Kaelina parar por um instante. Kadrir parecia não ter dormido. Havia um corte atravessando a lateral do rosto, ainda mal fechado, que passava a um dedo da raiz branca da têmpora sem tocá-la, e um dos ombros estava preso por faixa. Mesmo assim, permanecia de pé entre homens armados como se o ferimento lhe pertencesse menos do que a função. Alyra viu Kaelina entrar.
 
 — Finalmente.
 

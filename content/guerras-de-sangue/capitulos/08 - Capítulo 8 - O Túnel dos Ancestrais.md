@@ -20,7 +20,7 @@ A procissão desceu pelos anéis em silêncio. À frente, caminhavam três homen
 
 Depois vinha o corpo, e por fim as soberanas. Kaelina caminhava à esquerda e Alyra, à direita. Entre as duas, havia mais distância do que o ritual exigia.
 
-Kaelina usava manto escuro, sem ornamento além da Raiz presa ao peito. O rosto estava firme demais. Os olhos estavam baixos, não como sinal de humildade, mas como se o caminho diante dos pés exigisse toda a atenção que ela ainda possuía. Ela ouvira os murmúrios antes mesmo de sair dos aposentos.
+Kaelina usava manto escuro, sem ornamento além da Raiz presa ao peito. A Ramagem fora refeita ao amanhecer, mas ela pedira ao pintor que não reforçasse os traços: não queria parecer mais alta do que o morto. O rosto estava firme demais. Os olhos estavam baixos, não como sinal de humildade, mas como se o caminho diante dos pés exigisse toda a atenção que ela ainda possuía. Ela ouvira os murmúrios antes mesmo de sair dos aposentos.
 
 Envenenado. Dentro da Lei do Portão. Tondrar traidores. Kaelina convidou. Kaelina abriu. Kaelina acreditou. Kaelina falhou.
 
@@ -104,7 +104,7 @@ O homem não se moveu.
 
 — Ordens da soberana Alyra. Apenas conselheiros e guardas designados por ela entram durante a sessão.
 
-Edran olhou para a marca no ombro dele.
+Edran olhou para a marca no ombro dele. Depois para a têmpora esquerda, onde uma raiz branca recém-pintada descia grossa demais, a resina ainda brilhando, traço de pintor apressado em cima de pele que nunca a tinha carregado.
 
 — Designados por ela?
 
@@ -296,7 +296,7 @@ Havia aperto, sim. Roupa remendada. Mãos rachadas. Gente que media farinha pelo
 
 Nos anéis altos, a pedra era limpa, os pátios eram largos, as tochas queimavam com óleo melhor. Nos inferiores, a madeira rangia mais, os corredores guardavam cheiro de peixe, metal, suor, pão escuro, zírrio seco, pele frita de krolho e roupa molhada. As pessoas falavam mais alto, não por falta de educação, mas porque a vida ali tinha mais ruído. Kaelina caminhava devagar.
 
-Alguns a reconheceram de imediato e se curvaram. Outros demoraram um instante, como se a ideia de vê-la ali fosse tão improvável que o olhar precisasse pedir confirmação ao corpo. Uma mulher deixou cair um cesto de fibras. Um homem tocou dois dedos na testa e quase bateu a cabeça numa viga.
+Alguns a reconheceram de imediato, pela Ramagem antes do rosto, e se curvaram. Ela não a lavara. Se era para ser vista, que a vissem inteira. Outros demoraram um instante, como se a ideia de vê-la ali fosse tão improvável que o olhar precisasse pedir confirmação ao corpo. Uma mulher deixou cair um cesto de fibras. Um homem tocou dois dedos na testa e quase bateu a cabeça numa viga.
 
 Duas crianças pararam no meio de uma corrida e ficaram olhando como se uma das estátuas antigas tivesse decidido passear. Kaelina sentiu vontade de voltar, mas continuou.
 
@@ -536,7 +536,7 @@ A frase ecoou com uma crueldade simples. Kaelina ficou imóvel, assustada com a 
 
 — Está morto — repetiu, mais baixo. — E eu continuo perguntando o que faria.
 
-Dessa vez, as lágrimas vieram. Não muitas. Não em desespero. Apenas duas linhas quentes, silenciosas, que desceram pelo rosto sujo de poeira.
+Dessa vez, as lágrimas vieram. Não muitas. Não em desespero. Apenas duas linhas quentes, silenciosas, que desceram pelo rosto sujo de poeira e abriram dois sulcos na Ramagem.
 
 Ela se ajoelhou diante da laje, não como soberana diante de um monumento, mas como filha diante de um pai que já não podia responder.
 

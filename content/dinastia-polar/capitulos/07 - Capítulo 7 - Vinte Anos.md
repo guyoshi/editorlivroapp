@@ -54,7 +54,7 @@ As entradas de Kaendar apareceram como sempre apareciam, primeiro como uma sombr
 
 O Primeiro Kae Amaric o cumprimentou com os dois braços, um aperto forte o bastante para lembrar Dareth de quantas vezes os dois tinham dividido a mesma muralha, o mesmo turno de guarda, os mesmos anos em que ainda faziam sentido um para o outro.
 
-— O que você faz aqui? — Amaric perguntou, ainda sem soltar o braço dele. — Não me diga que finalmente cansou de plantar.
+— O que você faz aqui? — Amaric perguntou, ainda sem soltar o braço dele. — Não me diga que finalmente cansou das plantações.
 
 — Vetarius me chamou. Parece ter alguns assuntos a tratar comigo. 
 
@@ -72,21 +72,21 @@ Dareth olhou para Amaric por mais tempo do que a pergunta exigia, o tipo de olha
 
 Os dois guardas o conduziram para dentro, e Dareth seguiu entre eles pelos corredores que conhecia melhor do que qualquer casa que já tivesse habitado. Passou pelo pátio onde costumava treinar recrutas ao amanhecer, pela escadaria estreita onde um dia carregara Vetarius ferido nas costas depois de uma emboscada que ninguém mais lembrava o nome, pela sala do conselho onde já vira decisões de guerra serem tomadas em menos tempo do que levava para esfriar um chá. Estranhamente, ali dentro quase nada tinha mudado: as mesmas tochas presas nos mesmos suportes de ferro, o mesmo cheiro de pedra fria e fumaça represada, e era exatamente essa imobilidade que tornava tudo mais estranho, como se o resto da cidade tivesse envelhecido vinte anos enquanto aquele corredor específico esperava, parado, o dia em que ele voltaria a atravessá-lo. Cada canto carregava uma lembrança antiga, gasta pelo tempo sem ter desaparecido. Chegou à base da última escadaria, a que subia direto para os aposentos privados do soberano, e começou a subir sabendo, sem que ninguém precisasse lhe dizer, que era ali que Vetarius estaria. Ele nunca ficava na sala do trono a não ser quando a ocasião exigia. Passava a maior parte dos dias no próprio quarto, ou na mesa de reunião do conselho, bebendo com os próprios guardas ou até com conselheiros, o que em eras anteriores teria sido tratado como crime contra a dignidade do cargo.
 
-Uma mulher esperava junto à porta dos aposentos privados, imóvel com a paciência de quem já tinha aprendido que esperar também era parte do ofício. Dareth a reconheceu antes que ela dissesse qualquer coisa, embora levasse um instante para encaixar aquele rosto mais velho sobre a lembrança que guardava: uma recruta magra de uns vinte ciclos, rápida demais para o próprio treino, cuja postura de lança ele mesmo corrigira mais vezes do que conseguia contar. Vinte anos tinham lhe dado ombros mais largos, linhas finas ao redor dos olhos, e uma insígnia que ele jamais imaginara vê-la usar.
+Uma mulher esperava junto à porta dos aposentos privados, imóvel com a paciência de quem já tinha aprendido que esperar também era parte do ofício. Dareth a reconheceu antes que ela dissesse qualquer coisa, embora levasse um instante para encaixar aquele rosto mais velho sobre a lembrança que guardava: uma recruta magra de uns vinte ciclos, rápida demais para o próprio treino, cuja postura de lança ele mesmo corrigira mais vezes do que conseguia contar. Vinte anos tinham lhe dado ombros mais largos, linhas finas ao redor dos olhos, e uma insígnia que ele jamais imaginara vê-la usar. Da têmpora esquerda até o maxilar descia a raiz branca, e outra igual marcava as costas da mão da espada.
 
 — Kerath. — Deu um passo à frente e segurou o antebraço dela, o mesmo cumprimento de soldado que Amaric lhe dera minutos antes, ainda que com metade da força.
 
 — Dareth Quatro-Dedos. — Ela retribuiu o gesto, breve e exato, sem nenhum traço de surpresa; era óbvio que já sabia, fazia horas, que ele vinha a caminho. Não sorriu, mas algo nos olhos dela se abrandou por um instante, o bastante para valer por um sorriso inteiro em outra pessoa.
 
-— Calandrir — disse ele, olhando de novo para a insígnia, ainda sem acreditar de todo.
+— Calandrir — disse ele, olhando de novo para a insígnia e para a raiz, ainda sem acreditar de todo. Sem perceber, levou dois dedos à própria têmpora, onde a pele, vinte anos depois da cerimônia em que a lavaram, ainda era um tom mais clara.
 
 — Seu antigo posto. — Ela disse aquilo sem orgulho aparente, como quem apenas relata um fato. — Amaric me escreveu, uma vez, dizendo que você ficaria satisfeito. Contive um motim sozinha no Armazém Norte, no meu terceiro ano no cargo. Nada que valha lenda. Só o suficiente para que Vetarius decidisse que não queria mais ninguém entre ele e uma lâmina além de mim.
 
 Kerath bateu na porta pesada dos aposentos e anunciou o nome de Dareth. Houve um som de passos apressados, uma risada abafada, e então a porta se abriu.
 
-Vetarius apareceu nu, sem qualquer pressa em disfarçar, duas mulheres ainda deitadas na cama larga atrás dele, uma delas rindo baixinho com o rosto enfiado no travesseiro. Ao ver Dareth, abriu um sorriso enorme e o abraçou daquele jeito mesmo, sem se importar com quem estivesse olhando.
+Vetarius apareceu nu, a Ramagem da véspera meio desfeita, um lado da testa limpo onde o rosto passara a noite contra o travesseiro, sem qualquer pressa em disfarçar, duas mulheres ainda deitadas na cama larga atrás dele, uma delas rindo baixinho com o rosto enfiado no travesseiro. Ao ver Dareth, abriu um sorriso enorme e o abraçou daquele jeito mesmo, sem se importar com quem estivesse olhando.
 
-— Ah, meu amado amigo — disse, a voz rouca de sono ou de bebida, talvez as duas coisas. — Eu sabia que você viria. Entra, entra. — Virou-se para os guardas na porta. — Fechem isso aí.
+— Ah, meu amado amigo — disse, a voz rouca de sono ou de bebida, talvez as duas coisas. — Eu sabia que você viria. Entra, entra. — Virou-se para Cal Kerath na porta. — Feche isso aí.
 
 Dareth entrou, e Vetarius fez um gesto rápido para as mulheres, sem precisar dizer nada. Elas se levantaram, vestiram as roupas de baixo com a pressa de quem já tinha feito aquilo antes, e passaram por Dareth saindo pela porta sem olhar para nenhum dos dois. Vetarius pegou uma manta pesada, jogada sobre um baú, e a enrolou em volta do corpo sem muito cuidado, deixando mais pele à mostra do que a manta deveria permitir. Aproximou-se de Dareth e tocou o rosto dele com as duas mãos, contente como uma criança que reencontra um brinquedo perdido.
 
@@ -94,7 +94,7 @@ Dareth entrou, e Vetarius fez um gesto rápido para as mulheres, sem precisar di
 
 Foi até uma mesa baixa onde ficavam as garrafas e começou a servir duas taças, quase derramando na pressa.
 
-— Você provavelmente não toma um bom desses há muito tempo. Quando foi, hein? Dez anos?
+— Você provavelmente não toma um bom desses há muito tempo. Quando foi, hein? Dez ciclos?
 
 — Vinte — corrigiu Dareth.
 
@@ -102,7 +102,7 @@ Vetarius parou com a garrafa no ar. O maxilar endureceu antes de ele baixar a m�
 
 — Pela Raiz — murmurou, baixinho, quase para si mesmo. — Não lembrava que fazia tanto tempo assim. — Terminou de servir e estendeu uma das taças. — Muita coisa mudou desde que partiu. Elena morreu nesse meio-tempo, sabia? Mas tivemos um filho antes disso. Caeren. Um garoto formidável, forte, esperto. Um pouco difícil de ensinar a arte de ser soberano, mas isso não se ensina rápido em ninguém, não é mesmo?
 
-Falava depressa, pulando de um assunto para outro sem esperar reação, contando sobre a caça da semana anterior, sobre um tarrak que tinha comprado caro demais e se arrependido, sobre uma disputa qualquer no conselho que ele tinha resolvido sozinho antes que virasse discussão. Dareth bebeu o que lhe foi servido e comeu os figos secos e o queijo envelhecido que Vetarius empurrou na direção dele numa bandeja, respondendo pouco, quase nada, deixando que o soberano preenchesse o silêncio com a própria vida, como sempre fizera: cheio de si, confiante, curioso sobre tudo que lhe interessava e sobre nada mais.
+Falava depressa, pulando de um assunto para outro sem esperar reação, contando sobre a caça da semana anterior, sobre um tarrak que tinha comprado caro demais e se arrependido, sobre uma disputa qualquer no conselho que ele tinha resolvido sozinho antes que virasse discussão. Dareth bebeu o que lhe foi servido e comeu o fruto-de-bruma seco e o queijo envelhecido que Vetarius empurrou na direção dele numa bandeja, respondendo pouco, quase nada, deixando que o soberano preenchesse o silêncio com a própria vida, como sempre fizera: cheio de si, confiante, curioso sobre tudo que lhe interessava e sobre nada mais.
 
 — Então vai haver um torneio — Dareth disse, por fim, quando encontrou uma brecha.
 

@@ -188,7 +188,7 @@ A confissão não tinha servido para nada. Ou tinha servido só para piorar tudo
 
 Chorou ali, sem ninguém para ver, a raiva e o medo se misturando de um jeito que não deixava espaço para vergonha.
 
-O Sumo Vigia entrou sem pressa, como sempre. Diferente de Hadris, não circulou pela sala, não construiu vantagem tijolo por tijolo. Puxou um banco do canto, arrastando-o pelo chão de pedra com um ruído lento, e sentou-se diante de Kalan, as mãos apoiadas nos joelhos, e esperou, em silêncio absoluto, até que Kalan finalmente erguesse os olhos para encará-lo.
+O Sumo Vigia entrou sem pressa, como sempre. Diferente de Hadris, não circulou pela sala, não construiu vantagem tijolo por tijolo. Puxou um banco do canto, arrastando-o pelo chão de pedra com um ruído lento, e sentou-se diante de Kalan, as mãos apoiadas nos joelhos, e esperou, em silêncio absoluto, até que Kalan finalmente erguesse os olhos para encará-lo. De perto, a base branca do rosto rachava nas rugas, e a faixa escura sobre os olhos não era sombra: era tinta, a mesma tinta azul-escura, quase preta, com que a Casa da Permanência escrevia os seus registros.
 
 — Onde está minha irmã? — foi a primeira coisa que Kalan conseguiu dizer.
 

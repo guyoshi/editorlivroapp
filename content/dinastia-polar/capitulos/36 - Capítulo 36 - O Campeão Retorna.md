@@ -71,7 +71,7 @@ Janelas, telhados, praças, pontes, muros: não sobrava superfície nenhuma sem 
 
 Aquilo ecoava, de um jeito que Dareth reconheceu de imediato, o som da própria arena na noite em que o Confronto dos Três Estandartes terminara. Lá tinham sido milhares gritando dentro de um espaço fechado. Agora era Kaeliran inteira.
 
-A cerimônia ocupou a tarde, enquanto o céu baixava sobre as torres e as primeiras tochas ardiam nas praças. Vetarius o recebeu como símbolo vivo da própria vitória, de pé numa plataforma erguida especialmente para aquilo, os braços abertos antes mesmo de Dareth se aproximar o suficiente para ouvir qualquer palavra. O Sumo Vigia participou ao lado dele, transformando o retorno numa confirmação espiritual e política ao mesmo tempo: a Raiz sobrevivia, a Raiz prevalecia, e a primazia Polar parecia, mais uma vez, algo inevitável, escrito antes mesmo de acontecer. Nunca, até então, Dareth o vira ocupar um lugar tão alto numa celebração soberana.
+A cerimônia ocupou a tarde, enquanto o céu baixava sobre as torres e as primeiras tochas ardiam nas praças. Vetarius o recebeu como símbolo vivo da própria vitória, de pé numa plataforma erguida especialmente para aquilo, a Ramagem reforçada para a noite com o dobro de resina, os braços abertos antes mesmo de Dareth se aproximar o suficiente para ouvir qualquer palavra. O Sumo Vigia participou ao lado dele, transformando o retorno numa confirmação espiritual e política ao mesmo tempo: a Raiz sobrevivia, a Raiz prevalecia, e a primazia Polar parecia, mais uma vez, algo inevitável, escrito antes mesmo de acontecer. Nunca, até então, Dareth o vira ocupar um lugar tão alto numa celebração soberana.
 
 Alveris estava entre as autoridades reunidas, cumprimentando quem precisava ser cumprimentado, o rosto composto na medida exata que qualquer situação política exigia dele. Amaric também, o uniforme impecável mesmo depois de dias de preparação intensa. O Conselho, quase completo. Kerath, discreta e vigilante, no lugar de sempre. Caeren, um pouco atrás de todos, observando aquilo com uma atenção que não combinava com o desinteresse que costumava fingir em ocasiões daquele tipo.
 
@@ -226,7 +226,7 @@ Vetarius tentou falar. Não conseguiu formar palavra nenhuma inteira. Tentou de 
 
 Dareth segurou-o, sem saber o que mais fazer com as próprias mãos.
 
-Não era a primeira vez que via aquele homem depender inteiramente dele para continuar vivo. Vinte anos antes, tinha sustentado sozinho a boca da Passagem de Arven para que Vetarius e os feridos pudessem atravessar. Agora Vetarius dependia dele de novo, do mesmo jeito, precisando da mesma coisa. Desta vez não havia passagem nenhuma para atravessar. Vetarius parou de se mover.
+Não era a primeira vez que via aquele homem depender inteiramente dele para continuar vivo. Vinte anos antes, tinha sustentado sozinho a boca da Passagem de Arven para que Vetarius e os feridos pudessem atravessar. Agora Vetarius dependia dele de novo, do mesmo jeito, precisando da mesma coisa. Desta vez não havia passagem nenhuma para atravessar. Vetarius parou de se mover. O suor da agonia tinha desfeito metade da Ramagem; os fios brancos escorriam pelas têmporas até o cabelo grisalho.
 
 Pelas janelas altas, Dareth ainda via uma faixa de céu cinzento sobre os telhados. O dia não tinha acabado.
 O caos começou a diminuir, aos poucos, porque as pessoas que gritavam começavam a morrer.
@@ -237,7 +237,7 @@ Os representantes das outras dinastias não estavam morrendo. Alguns tinham recu
 
 Não sabia dizer quem, ali, tinha sabido de alguma coisa antes daquele brinde, e quem só tinha sobrevivido por sorte. Não tinha como saber.
 
-No chão: Vetarius. Amaric. O Sumo Vigia. Alveris. Corvis. Conselheiros que Dareth conhecia havia anos. Boa parte da elite de Kaeliran, espalhada entre mesas derrubadas e taças quebradas.
+No chão: Vetarius. Amaric. O Sumo Vigia, a faixa escura dos olhos borrada sobre o branco. Alveris. Corvis. Conselheiros que Dareth conhecia havia anos. Boa parte da elite de Kaeliran, espalhada entre mesas derrubadas e taças quebradas.
 
 Recuou, devagar, até perto de uma das portas laterais. Pelo vão, viu as lamparinas acesas no pátio e a névoa apagando as pontes ao longe. Ainda havia claridade atrás dela, cada vez menos. Olhou para todos eles.
 

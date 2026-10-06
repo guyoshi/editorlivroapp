@@ -87,7 +87,7 @@ Quando ele morreu, a estabilidade morreu um pouco junto. Ninguém em Kaendar con
 
 Ela era uma serva da casa do soberano e fora a primeira a encontrar o corpo. As acusações vieram rápido. Depois vieram investigação, dúvida e absolvição. Ylvena foi inocentada e deixou Kaendar pouco tempo depois, levando a família consigo. Para a cidade, restou o rumor. Para as filhas de Orionus, restou o trono.
 
-Kaelina e Alyra foram erguidas juntas. Duas soberanas para ocupar o espaço de um homem que passara quarenta ciclos convencendo Kaendar de que sempre existia uma saída antes da guerra. Havia quem chamasse as duas de vento dividido. Talvez porque parecesse bonito.
+Kaelina e Alyra foram erguidas juntas. Duas soberanas para ocupar o espaço de um homem que passara quarenta ciclos convencendo Kaendar de que sempre existia uma saída antes da guerra. No dia em que foram erguidas, receberam a Ramagem lado a lado, os mesmos traços brancos saindo da testa de cada uma, e a cidade passou a ver duas vezes o rosto que antes via uma. Havia quem chamasse as duas de vento dividido. Talvez porque parecesse bonito.
 
 Talvez porque ninguém ainda tivesse entendido o quanto dois ventos podiam soprar em direções diferentes.
 
@@ -95,9 +95,9 @@ Os dois vigias entraram no Salão do Trono, um tipo de lugar que faz o corpo lem
 
 Colunas grossas subiam como troncos petrificados. A luz entrava por fendas estreitas, cortando o ar em faixas. O chão, limpo demais, parecia negar a lama de fora. E, lá no fundo, os dois tronos não eram exagerados. Eram piores: eram simples o bastante para parecer inevitáveis. As gêmeas estavam lá.
 
-Uma inclinada para frente, olhos afiados, atenta a algo que os outros sempre perdiam. A outra recostada, mas com o corpo pronto, como arco armado. Duas presenças iguais e opostas, a mesma linhagem, dois jeitos de cortar o mundo.
+Uma inclinada para frente, olhos afiados, atenta a algo que os outros sempre perdiam. A outra recostada, mas com o corpo pronto, como arco armado. Duas presenças iguais e opostas, a mesma linhagem, dois jeitos de cortar o mundo. Nas duas testas, a mesma Ramagem branca: um tronco fino descendo da raiz do cabelo e se abrindo em raízes que contornavam as sobrancelhas e morriam em fios nas maçãs do rosto. Nas costas das mãos pousadas nos braços dos tronos, as raízes menores subiam até os pulsos.
 
-Ao lado, Cal Edran Polar permanecia de pé, sombra de músculo e cicatriz. Não precisava falar para ser ouvido. Seu silêncio era disciplina.
+Ao lado, Cal Edran Polar permanecia de pé, sombra de músculo e cicatriz. Da têmpora esquerda até o maxilar descia uma única raiz branca, sem tronco, a mesma que se repetia nas costas da mão da espada: o ramo que o cargo de Calandrir permitia. Não precisava falar para ser ouvido. Seu silêncio era disciplina.
 
 E mais próximo da gêmea recostada, Daryon mantinha a postura de quem não carrega espada, mas corta com palavras. Sorria pouco. E quando sorria, parecia medir o mundo como quem escolhe peça num tabuleiro.
 

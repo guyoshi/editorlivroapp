@@ -228,7 +228,7 @@ Kaelina atravessou A passagem fechou atrás dela. O som da tranca voltando ao lu
 
 Os Tondrar mais próximos perceberam-na imediatamente. Lanças se ergueram. Arcos foram puxados. Um guerreiro gritou que era uma Polar. Outro pediu ordem. O ruído espalhou-se para trás, alcançando as formações Buldar e os homens próximos a Kharvok. Kaelina caminhou.
 
-Não havia escudo, espada ou guarda entre ela e o exército. O vento puxava seus cabelos soltos, alguns queimados, outros colados ao rosto pelo sangue. Suas roupas não pareciam de soberana. Pareciam de alguém que escapara de uma cova e ainda não decidira quem enterraria depois.
+Não havia escudo, espada ou guarda entre ela e o exército. O vento puxava seus cabelos soltos, alguns queimados, outros colados ao rosto pelo sangue. Da Ramagem restavam só riscos brancos partidos, mas eram brancos, e de longe o exército os viu. Suas roupas não pareciam de soberana. Pareciam de alguém que escapara de uma cova e ainda não decidira quem enterraria depois.
 
 Parou quando as primeiras lanças ficaram perto o bastante para alcançá-la após poucos passos.
 
@@ -564,7 +564,7 @@ Encontraram corpos Vendrar numa escadaria. Depois dois guardas Polar queimados j
 
 Cal Kadrir lutava contra Rendar entre fumaça, corpos e tochas quebradas. Os dois estavam exaustos.
 
-A armadura de Kadrir apresentava cortes no braço, no peito e na lateral da coxa. Sangue escorria de sua testa, atravessava o rosto e desaparecia na barba curta. Um dos joelhos parecia falhar sempre que recuava, mas ele compensava mantendo o peso na outra perna. Rendar estava pior do que Kaelina lembrava.
+A armadura de Kadrir apresentava cortes no braço, no peito e na lateral da coxa. Sangue escorria de sua testa, atravessava o rosto, tingia de vermelho a raiz branca da têmpora e desaparecia na barba curta. Um dos joelhos parecia falhar sempre que recuava, mas ele compensava mantendo o peso na outra perna. Rendar estava pior do que Kaelina lembrava.
 
 Havia queimaduras em parte da roupa, sangue no ombro e uma ferida profunda junto às costelas. O cabelo estava colado ao rosto pelo suor. Mesmo assim, cada movimento conservava a economia brutal do caçador que não desperdiçava força para parecer perigoso. Kadrir atacou primeiro.
 

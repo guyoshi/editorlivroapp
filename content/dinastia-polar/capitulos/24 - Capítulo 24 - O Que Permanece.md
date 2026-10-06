@@ -140,7 +140,7 @@ Olhou diretamente para Tair.
 
 — Você pode me odiar. Pode odiar Hadris. Pode odiar este manto. A Raiz não precisa que a sua dor desapareça para continuar existindo.
 
-Tair não gritou de volta. Olhou para o símbolo pendurado no peito do Sumo Vigia, os olhos ainda vermelhos, e segurou o que quer que ainda estivesse subindo dentro dele.
+Tair não gritou de volta. Olhou para o rosto branco, para a faixa escura que lhe tapava os olhos como venda de quem não precisa ver para decidir, depois para o símbolo pendurado no peito do Sumo Vigia, os olhos ainda vermelhos, e segurou o que quer que ainda estivesse subindo dentro dele.
 
 — Talvez agora você só consiga enxergar aquilo que a Raiz tirou de você — o Sumo Vigia disse, mais baixo. — Um dia poderá compreender o que acontece quando ela deixa de permanecer.
 

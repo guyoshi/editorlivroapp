@@ -188,7 +188,7 @@ Um deles respondeu sem hesitar.
 
 Alyra seguiu sem agradecer. Cal Kadrir estava onde deveria estar.
 
-Era jovem demais para carregar aquele título sem que ele ainda parecesse recém-posto sobre os ombros. Alto, de corpo rígido, rosto fechado e olhos que tentavam imitar homens mais velhos. A armadura estava limpa demais. As fivelas, alinhadas demais. A espada, polida demais. Até a pequena Raiz gravada no fecho do cinto parecia recente, sem o desgaste dos dedos que tocam por hábito e não por cerimônia. Tudo nele denunciava alguém que ainda acreditava que cumprir perfeitamente a forma bastaria para merecer o cargo.
+Era jovem demais para carregar aquele título sem que ele ainda parecesse recém-posto sobre os ombros. Alto, de corpo rígido, rosto fechado e olhos que tentavam imitar homens mais velhos. A armadura estava limpa demais. As fivelas, alinhadas demais. A espada, polida demais. Até a pequena Raiz gravada no fecho do cinto parecia recente, sem o desgaste dos dedos que tocam por hábito e não por cerimônia. A raiz branca na têmpora esquerda também: retocada todas as manhãs, sem uma falha, como se a perfeição do traço pudesse fazer as vezes dos vinte e cinco ciclos que lhe faltavam. Tudo nele denunciava alguém que ainda acreditava que cumprir perfeitamente a forma bastaria para merecer o cargo.
 
 Quando Alyra apareceu, ele se curvou.
 

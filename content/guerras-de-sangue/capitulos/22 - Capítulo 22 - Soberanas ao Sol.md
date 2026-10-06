@@ -38,7 +38,7 @@ Passos começaram no corredor antes que Nynestra respondesse. O som cresceu pela
 
 — De pé — disse a mulher.
 
-Kaelina tentou obedecer antes que alguém a puxasse. Conseguiu ficar de joelhos, depois de pé, apoiando uma mão na parede. A mulher observou a fraqueza sem prazer e sem pena. Aproximou-se, segurou o rosto de Kaelina pelo queixo e virou-o para um lado e para o outro, avaliando inchaços, cortes e queimaduras de sol como quem escolhe onde pintar couro.
+Kaelina tentou obedecer antes que alguém a puxasse. Conseguiu ficar de joelhos, depois de pé, apoiando uma mão na parede. A mulher observou a fraqueza sem prazer e sem pena. Aproximou-se, segurou o rosto de Kaelina pelo queixo e virou-o para um lado e para o outro, avaliando inchaços, cortes, queimaduras de sol e os restos dos traços brancos como quem escolhe onde pintar couro. Passou o polegar sobre um deles, viu a pasta sair seca na pele dela e limpou a mão no próprio braço, sobre a pintura negra.
 
 — A soberana aguenta o pátio? — perguntou um dos guardas.
 
