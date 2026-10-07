@@ -1,4 +1,4 @@
-# Meus Livros — Leitor (App Mobile)
+# Lityra
 
 App leve (PWA — instala no celular direto do navegador, sem loja de apps)
 pra ler e ouvir TODOS os seus livros, não só um ciclo/série específica —
