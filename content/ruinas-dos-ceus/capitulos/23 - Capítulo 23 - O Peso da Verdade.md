@@ -168,13 +168,13 @@ Jokara percebeu que insistir não arrancaria dali uma história inteira. Talvez 
 
 Ele continuou antes que ela perguntasse de novo.
 
-— Durante cinco ciclos, não encontrei outro eterí vivo. Vi restos. Coisas que podiam ter pertencido a alguém. Nunca uma pessoa respirando. Se outros sobreviveram à queda dos balões, não chegaram até mim.
+— E não, eu não passei cinco ciclos falando com árvores. Às vezes encontrava gente. Outros exilados que tinham sobrevivido por tempo suficiente. Gente perdida. Depois que Etérea caiu, apareceram mais.
 
 O olhar dele se afastou.
 
-— Depois que Etérea caiu, isso mudou. Começaram a aparecer sobreviventes onde antes só havia floresta. Encontrei um grupo pouco depois do Cataclisma. Havia uma família entre eles e outros sobreviventes. Eu sabia onde buscar água, onde as feras passavam, quais áreas alagavam, quais frutos davam febre. Tentei organizar o abrigo. Tentei fazer com que guardassem comida. Tentei impedir que saíssem sozinhos.
+— Encontrei um grupo pouco depois do Cataclisma. Havia uma família entre eles e outros sobreviventes. Eu sabia onde buscar água, onde as feras passavam, quais áreas alagavam, quais frutos davam febre. Tentei organizar o abrigo. Tentei fazer com que guardassem comida. Tentei impedir que saíssem sozinhos.
 
-A repetição de “tentei” chamou a atenção de Jokara.
+A palavra tentou chamou a atenção de Jokara.
 
 Gabasteri percebeu.
 
