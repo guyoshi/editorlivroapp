@@ -110,65 +110,111 @@ O rosto dele endureceu.
 
 Jokara sentiu o coração acelerar. Não era uma confissão. Mas também não parecia a reação de um homem injustamente acusado.
 
-— Há outra coisa. Você conhece esta terra como alguém que não chegou aqui conosco. Sabe onde beber, onde caçar, quais criaturas vivem em cada região. Quando falou dos exilados, não falou como quem ouviu histórias. Falou com raiva.
+— Há outra coisa.
 
-Ela respirou fundo.
+Jokara apertou o recipiente na mão.
 
-— Você não caiu com Etérea. Foi exilado antes, não foi?
+— Mariv lembrou de onde conhecia o seu nome. Muitos ciclos antes da queda, ele ouviu um Orador anunciar um homem chamado Gabasteri numa cerimônia de exílio.
 
-Gabasteri passou a língua devagar pelos dentes. Quando respondeu, não havia mais simpatia em sua voz.
+Por um instante, o rosto de Gabasteri não mudou.
 
-— Não existem Ilhas Baixas — disse Gabasteri. — Nunca existiram.
+Foi justamente isso que confirmou mais do que uma surpresa confirmaria.
 
-Jokara ficou imóvel.
+— Você não caiu com Etérea — continuou Jokara. — Já estava aqui embaixo.
 
-— Mas os exilados...
+Gabasteri passou a língua devagar pelos dentes.
 
-— Os balões desciam enquanto o fogo durava. Quando o fogo acabava, o balão caía. Era isso que acontecia com quem vocês mandavam para baixo.
+Quando respondeu, a voz havia perdido qualquer tentativa de simpatia.
+
+— As Ilhas Baixas não existem, Jokara. Nunca existiram.
+
+Ela ficou imóvel.
+
+Durante toda a infância, ouvira falar das ilhas inferiores como um lugar distante, duro, mas habitável. Era para lá que os exilados iam. Era isso que todos diziam quando um balão desaparecia sob as nuvens.
+
+Gabasteri olhou para a mata antes de continuar.
+
+— O balão desce enquanto o fogo dura. Quando a chama termina, ele deixa de sustentar o peso. Não pousa em ilha nenhuma. Cai.
 
 A garganta de Jokara apertou.
 
-— Então todos...
+Yndra surgiu em sua memória: o balão dourado desaparecendo sob as nuvens enquanto todos assistiam em silêncio, certos de que havia terra esperando mais abaixo.
+
+— Então os exilados...
+
+Gabasteri não precisou esperar que ela terminasse.
 
 — Morriam.
 
-Jokara pensou em Yndra. Pensou no balão dourado desaparecendo sob as nuvens enquanto todos observavam em silêncio, certos de que ela seguiria vivendo em algum lugar abaixo.
+A palavra foi simples demais para o tamanho dela.
 
-— E você?
+Ele apontou para a própria perna.
 
-Gabasteri sustentou o olhar dela.
+— Eu não morri. Caí entre árvores e pedra, quebrei a perna e passei muitos sopros sem saber se conseguiria voltar a andar. Tive sorte. Depois aprendi a não depender dela.
 
-— Eu tive sorte. Caí e sobrevivi.
+Gabasteri deixou escapar um riso curto, sem alegria.
 
-— Há quanto tempo?
+— Cinco ciclos aqui embaixo ensinam mais do que Etérea ensinava numa vida inteira.
 
-— Cinco ciclos.
+Jokara lembrou-se da frase de Mariv: um nome numa praça, um balão descendo.
 
-Jokara demorou a absorver.
+— Por que fizeram isso com você?
 
-— Cinco ciclos sozinho?
+Algo endureceu no rosto dele.
 
-Gabasteri soltou um ar curto pelo nariz.
+— Essa parte não muda nada do que veio depois.
 
-— Ninguém fica sozinho o tempo todo. Você encontra gente. Divide fogo. Divide comida. Às vezes acha que finalmente pode dormir sem uma lâmina na mão.
+Jokara percebeu que insistir não arrancaria dali uma história inteira. Talvez o silêncio fosse vergonha. Talvez fosse cálculo. Talvez fosse apenas mais uma coisa que Gabasteri considerava pertencente somente a ele.
 
-— E depois?
+Ele continuou antes que ela perguntasse de novo.
 
-Os olhos dele perderam o foco por um instante.
+— E não, eu não passei cinco ciclos falando com árvores. Às vezes encontrava gente. Outros exilados que tinham sobrevivido por tempo suficiente. Gente perdida. Depois que Etérea caiu, apareceram mais.
 
-— Depois a fome volta. Ou alguém decide que merece mais. Ou percebe que você conhece a água e as rotas e começa a pensar que seria mais fácil possuir o que você sabe do que aprender.
+O olhar dele se afastou.
 
-— Então foi isso que aconteceu com todos?
+— Encontrei um grupo pouco depois do Cataclisma. Havia uma família entre eles e outros sobreviventes. Eu sabia onde buscar água, onde as feras passavam, quais áreas alagavam, quais frutos davam febre. Tentei organizar o abrigo. Tentei fazer com que guardassem comida. Tentei impedir que saíssem sozinhos.
 
-Gabasteri voltou a fitá-la.
+A palavra tentou chamou a atenção de Jokara.
 
-— Aconteceu vezes suficientes.
+Gabasteri percebeu.
 
-Gabasteri não ofereceu mais. Jokara percebeu que talvez nunca tivesse uma resposta completa.
+— Eles não queriam obedecer. Ainda achavam que sobreviver à queda significava que podiam continuar escolhendo tudo como antes. Um escondia comida. Outro saía sem avisar. Outro dizia que eu não tinha direito de decidir nada por eles.
 
-Cinco ciclos explicavam rotas, feras, água, cicatrizes e também parte daquele homem que dormia fora do círculo, escondia comida e acordava ao som de sussurros.
+Jokara olhou para o saco ao lado dele, para as armas guardadas, para a comida escondida.
 
-Não explicavam tudo.
+A história parecia familiar demais.
+
+— O que aconteceu com eles?
+
+Gabasteri demorou.
+
+— As decisões tiveram consequências.
+
+Não havia tristeza na frase.
+
+Jokara sentiu a resposta antes de formulá-la.
+
+— Você fez com eles o mesmo que está fazendo conosco.
+
+Gabasteri ergueu os olhos.
+
+— Eu tentei manter aquele grupo vivo.
+
+— Até não sobrar grupo nenhum.
+
+O silêncio que veio depois foi longo o bastante.
+
+Jokara não precisava que ele dissesse “sim”.
+
+Pensou em Platisa desaparecendo entre as árvores nos braços dele. Em Maletar ficando mais fraco enquanto Gabasteri assumia água, comida e rota. No modo como acabara de falar de pessoas mortas como se fossem erros numa conta.
+
+Cinco ciclos explicavam as rotas, as feras, a água e as cicatrizes.
+
+Explicavam também por que ele dormia fora do círculo, escondia comida e tratava qualquer divergência como o começo de uma ameaça.
+
+Mas não transformavam aquilo em desculpa.
+
+
 
 Ela apertou a adaga.
 
