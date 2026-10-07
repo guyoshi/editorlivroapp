@@ -406,6 +406,22 @@ O sorriso desapareceu devagar.
 
 — Eu também.
 
+Nestira continuou mexendo nas tranças por alguns instantes.
+
+— Às vezes penso na mamãe — disse ela. — E no Efepar. Você acha que algum deles pode ter sobrevivido?
+
+Jokara demorou a responder.
+
+— Mamãe… eu não sei. Quero acreditar que sim. Efepar, não. Eu vi as pedras caírem sobre ele. Sobre os pais dele também.
+
+Os dedos de Nestira pararam no cabelo dela.
+
+— Você viu?
+
+Jokara assentiu.
+
+— Vi.
+
 Depois de um tempo, Nestira perguntou:
 
 — Você também viu algo, não é?
