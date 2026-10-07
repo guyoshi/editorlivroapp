@@ -26,7 +26,7 @@ Mariv virou a folha entre os dedos antes de devolvê-la.
 
 E os dois foram conversando sobre plantas o resto do caminho. Jokara reparou. Com Platisa e Nestira, Mariv ria. Com ela, respondia sim e não. Talvez tivesse percebido que ela o vigiava.
 
-Nessa mesmo Sopro do Silêncio, quando voltaram para o abrigo, Gabasteri os reuniu em torno da fogueira baixa. O peixe era pouco. Ele ergueu uma espinha limpa e disse:
+Nesse mesmo Sopro do Silêncio, quando voltaram para o abrigo, Gabasteri os reuniu em torno da fogueira baixa. O peixe era pouco. Ele ergueu uma espinha limpa e disse:
 
 — Se não aprendermos a guardar, amanhã alguém ficará sem nada.
 

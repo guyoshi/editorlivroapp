@@ -413,7 +413,7 @@ Nestira a interrompeu:
 
 Jokara fechou os olhos.
 
-— Nestira, não somos responsáveis por eles. Sobrevivemos por nossa conta. Tivemos ajuda, sim, mas se não pensarmos em nós mesmas… ninguém vai escolher o outro em vez de si mesmo quando chegar a hora. Tu achas que o Mariv se colocaria na tua frente para morrer por ti, se estivesses prestes a ser devorada?
+— Nestira, não somos responsáveis por eles. Sobrevivemos por nossa conta. Tivemos ajuda, sim, mas se não pensarmos em nós mesmas… ninguém vai escolher o outro em vez de si mesmo quando chegar a hora. Você acha que o Mariv se colocaria na sua frente para morrer por você, se estivesse prestes a ser devorada?
 
 Nestira não desviou.
 
