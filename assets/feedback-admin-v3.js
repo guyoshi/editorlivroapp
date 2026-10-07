@@ -96,14 +96,16 @@
   function ensureAdminHome(){
     if(document.getElementById("authorAdminSheet"))return;
     const el=document.createElement("div");el.id="authorAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Leitores, feedback, análises e comunicação em um só lugar.</p></div><div class="admin-head-actions"><button id="authorAdminLogout" class="link-btn" type="button">Sair do admin</button><button id="authorAdminClose" class="icon-btn" type="button">✕</button></div></header>'
+    el.innerHTML='<section class="admin-dashboard admin-home"><header class="admin-dashboard-head"><div><h2>Painel do autor</h2><p>Leitores, feedback, análises e comunicação em um só lugar.</p></div><div class="admin-head-actions"><button id="authorAdminClose" class="icon-btn" type="button">✕</button></div></header>'
       +'<div class="admin-home-summary"><span><b id="adminHomeReaderStat">—</b> leitores</span><span><b id="adminHomeLiveStat">—</b> ativos agora</span><span><b id="adminHomeFeedbackStat">—</b> novidades</span><span><b id="adminHomeMessageStat">—</b> mensagens pendentes</span></div>'
       +'<div class="admin-home-grid">'
         +'<button id="openReaderAccess" class="admin-home-card" type="button"><strong>👥 Leitores</strong><span>Progresso, atividade, livros liberados, códigos e gestão individual.</span></button>'
         +'<button id="openFeedbackHub" class="admin-home-card" type="button"><strong>💬 Feedback</strong><span>Comentários, respostas, reações e avaliações beta.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button>'
         +'<button id="openAnalyticsDashboard" class="admin-home-card" type="button"><strong>📊 Análises</strong><span>Comportamento geral de leitura, tempo, áudio e preferências.</span></button>'
         +'<button id="openPopupDashboard" class="admin-home-card" type="button"><strong>📣 Mensagens</strong><span>Envie recados, acompanhe leitura e reutilize modelos.</span></button>'
-      +'</div></section>';
+      +'</div>'
+      +'<footer class="admin-home-footer"><button id="authorAdminLogout" class="link-btn admin-home-logout" type="button">Sair do admin</button></footer>'
+      +'</section>';
     document.body.appendChild(el);
     el.querySelector("#authorAdminClose").onclick=hideAdminHome;
     el.querySelector("#authorAdminLogout").onclick=()=>{hideAdminHome();document.dispatchEvent(new CustomEvent("beta:admin-logout"));};
