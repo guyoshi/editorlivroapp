@@ -150,27 +150,45 @@ Quebrou a parte apodrecida do esqueleto o mais próximo possível da base e, com
 
 Ela pareceu leve demais.
 
-Mariv a carregou para longe das carcaças até encontrar um trecho onde o rio passava entre árvores antigas. Ali parou, ainda com Nestira nos braços, sem saber o que fazer.
+Mariv a carregou para longe das carcaças.
 
-Em Etérea, teria sabido. O corpo seria envolvido em tecido claro, colocado num balão funerário e entregue às Correntes. Os vivos caminhariam contra o vento enquanto o morto desaparecia entre as nuvens, deixando o Sopro seguir sozinho até Iliora.
+Não procurou o rio primeiro.
 
-Mas ali não havia balão. Não havia Corrente. Não havia céu para entregá-la.
+Dessa vez, já sabia o que podia fazer.
 
-Mariv olhou para o rio.
+A lembrança de Maletar veio enquanto caminhava: os quatro parados sem saber como despedir-se de alguém sem balão, sem Correntes e sem céu; a árvore larga; a terra escura entre as raízes; as mãos abrindo um lugar onde nenhum eterí imaginaria colocar um morto.
 
-Durante algum tempo, pensou em deixá-la na água. A corrente poderia levá-la para longe, e talvez aquilo fosse o mais próximo que aquele mundo oferecia de devolver alguém ao movimento. Chegou a se ajoelhar na margem com Nestira nos braços, mas a imagem do corpo dela desaparecendo rio abaixo o fez recuar. Já tinha visto gente demais desaparecer.
+Maletar fora o primeiro.
 
-Ergueu os olhos e encontrou, poucos passos adiante, uma árvore enorme. Parte das raízes saía da terra antes de mergulhar de novo, grossas e firmes, agarradas ao chão apesar da água que corria tão perto. Mariv ficou olhando para elas por algum tempo. O vento seguia entre as folhas e o rio continuava seu caminho, mas a raiz permanecia.
+Naquele sopro, a ideia parecera quase errada. Agora era a única despedida que Mariv conseguia imaginar para Nestira.
 
-A palavra lhe veio com uma força estranha: permanecer.
+Não queria apenas encontrar terra macia. Queria um lugar bonito.
 
-Levou Nestira até a árvore e a deitou entre duas raízes largas. Nenhum eterí enterrava seus mortos. Em Etérea, entregar um corpo à terra sequer fazia parte da ideia de despedida; os mortos eram devolvidos ao céu. Mariv não conhecia gesto, cântico ou oração para aquilo, e por alguns instantes ficou ajoelhado diante dela, consciente de que estava prestes a fazer algo para o qual seu povo nem sequer possuía um rito.
+Caminhou até a mata se abrir numa pequena clareira onde o rio passava entre árvores antigas. A luz começava a atravessar as folhas, refletindo em pontos dourados sobre a água. Flores pequenas cresciam junto às pedras da margem, e uma árvore enorme dominava o centro da clareira. Parte das raízes saía da terra antes de mergulhar de novo, grossas e firmes, agarradas ao chão apesar da corrente que passava perto.
 
-Ainda assim, começou a cavar.
+Mariv parou com Nestira nos braços.
 
-Usou as mãos, uma pedra achatada e, quando os dedos ficaram feridos demais, a ponta quebrada de um osso que encontrou perto do rio. A terra úmida cedia devagar. Quando o céu começou a clarear entre as folhas, havia espaço suficiente junto à raiz.
+Ela teria gostado dali.
 
-Mariv colocou Nestira ali com cuidado. Afastou o cabelo do rosto dela e permaneceu olhando por mais tempo do que precisava, adiando o instante em que teria de cobri-la.
+Em Etérea, o corpo seria envolvido em tecido claro, colocado num balão funerário e entregue às Correntes. Os vivos caminhariam contra o vento enquanto o morto desaparecia entre as nuvens, deixando o Sopro seguir sozinho até Iliora.
+
+Mas Etérea já não existia.
+
+E eles tinham aprendido com Maletar que a terra também podia guardar alguém sem aprisionar o Sopro.
+
+Mariv levou Nestira até a árvore e a deitou entre duas raízes largas.
+
+Ficou ajoelhado diante dela por algum tempo. Ainda não havia cântico para aquilo. Nenhum eterí possuía palavras antigas para uma sepultura porque, até Maletar, nenhum deles precisara inventá-las.
+
+Então começou a cavar.
+
+Usou as mãos, uma pedra achatada e, quando os dedos ficaram feridos demais, a ponta quebrada de um osso que encontrara perto do rio. A terra úmida cedia devagar. Enquanto trabalhava, lembrou-se dos três cobrindo o corpo de Maletar. Lembrou-se da pedra clara que deixaram junto à raiz.
+
+Dessa vez, não precisava descobrir o gesto.
+
+Precisava suportá-lo.
+
+Quando havia espaço suficiente junto à árvore, colocou Nestira ali com cuidado. Afastou o cabelo do rosto dela e permaneceu olhando por mais tempo do que precisava, adiando o instante em que teria de cobri-la.
 
 — Você sempre foi o sopro — murmurou.
 
@@ -178,15 +196,25 @@ Passou os dedos pela raiz ao lado do corpo.
 
 — Então deixa eu ser o peso desta vez.
 
-Cobriu-a aos poucos, primeiro as pernas, depois as mãos e o peito. Quando restou apenas o rosto, parou novamente e deixou os dedos repousarem por um instante na raiz.
+Cobriu-a aos poucos, primeiro as pernas, depois as mãos e o peito. Quando restou apenas o rosto, parou novamente.
 
-— Permanece — disse, quase sem voz. — Nem que seja aqui.
+A clareira estava silenciosa, exceto pelo rio e pelas folhas.
+
+— Maletar ficou debaixo de uma árvore também — disse, sem saber por que precisava contar aquilo a ela. — Acho que ele não ficaria bravo de você ficar perto de uma.
+
+A voz falhou.
+
+Mariv deixou os dedos repousarem por um instante na raiz.
+
+— Permanece. Nem que seja aqui.
 
 Só então cobriu o rosto dela.
 
-Mariv não sabia que nome dar àquilo. Não acreditava estar prendendo o Sopro de Nestira ao chão, nem impedindo que ela seguisse para onde quer que os mortos fossem. Queria apenas que alguma parte daquela despedida não terminasse em mais um corpo levado para longe.
+Não acreditava estar prendendo o Sopro de Nestira ao chão, nem impedindo que ela seguisse para onde quer que os mortos fossem. O enterro de Maletar já lhes ensinara aquilo: a terra guardava o que ficava. O Sopro continuava pertencendo a outro lugar.
 
-Quando terminou, juntou pequenas pedras ao redor da terra recém-remexida e deixou uma das raízes expostas atravessando o centro, como se a própria árvore segurasse aquele lugar. Não havia símbolo eterí para uma sepultura. Naquele mundo, porém, a raiz pareceu suficiente.
+Quando terminou, juntou pequenas pedras ao redor da terra recém-remexida e deixou uma das raízes expostas atravessando o centro, como haviam feito com a pedra de Maletar. Não havia símbolo eterí para uma sepultura.
+
+Talvez agora começasse a haver.
 
 Mariv permaneceu sentado diante dela até o sol nascer entre as copas. O rio continuava passando a poucos passos e o vento seguia movendo as folhas acima, enquanto a raiz permanecia onde estava.
 
@@ -246,15 +274,11 @@ Só então comeu.
 
 Continuou caminhando.
 
-Foi então que a lembrança terminou de se formar: uma praça em Etérea, gente em silêncio, um Orador dizendo um nome antes de um balão subir com alguém lá dentro. Fazia ciclos. Ele era criança.
-
-Gabasteri também estava com ele de alguma forma, e isso era mais difícil de aceitar.
-
 Quando Mariv encontrou pegadas largas perto de um trecho fechado da floresta, soube pelo espaçamento que o animal era grande. Não precisou vê-lo. Mudou de direção.
 
-Gabasteri lhe ensinara aquilo.
+O conhecimento veio acompanhado de uma lembrança amarga.
 
-Durante alguns instantes, Mariv sentiu raiva por ainda precisar do conhecimento dele.
+Gabasteri tinha sido quem o obrigara a observar rastros até aprender a distinguir tamanho e direção. Mariv odiou perceber que a morte daquele homem não apagava aquilo que aprendera com ele.
 
 Mesmo assim, mudou de direção.
 
