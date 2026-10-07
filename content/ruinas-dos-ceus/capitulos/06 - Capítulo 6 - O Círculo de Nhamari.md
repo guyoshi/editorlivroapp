@@ -64,6 +64,12 @@ Jokara riu, bagunçando o cabelo da menina.
 
 — Aí não tem dedo que chegue. Trinta sopros. Pra isso já se conta pelas luas, não pelas mãos.
 
+— E um ciclo?
+
+Liri tornou a olhar para os próprios dedos, desconfiada.
+
+— Doze espirais — explicou Jokara. — Quando fecha a décima segunda, começa outro ciclo. Aí já é tempo demais pra contar nas mãos.
+
 Então deram-se as mãos. E entraram.
 
 Mirel mexia uma infusão quente feita de flores de cerco, os olhos marcados pelo cansaço dos que oram mais do que dormem, mas ainda assim acolhedores. Sobre a mesa, limpava uma pequena ave caída do ninho, com gestos lentos e cerimoniosos, quase sagrados.
