@@ -320,8 +320,11 @@ const Comments = (() => {
   }
   function loc(x,ch,i,key){
     if(Number(x.chapter)!==Number(ch))return false;
-    if(key&&x.paragraphKey&&x.paragraphKey===key)return true;
-    return legacyParaIdx(x,ch)===Number(i);
+    const current=Number(i),stored=Number(x.paraIdx),legacy=legacyParaIdx(x,ch);
+    if(key&&x.paragraphKey&&x.paragraphKey===key){
+      return current===stored||current===legacy;
+    }
+    return legacy===current;
   }
   // Edição é sempre do próprio autor. Estar no modo admin não transforma
   // comentários de leitores em comentários "meus".
