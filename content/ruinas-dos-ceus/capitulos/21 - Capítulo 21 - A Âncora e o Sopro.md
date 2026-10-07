@@ -450,13 +450,13 @@ Nestira parou por um momento. Respirou fundo, mas não respondeu.
 
 A irmã fechou os olhos.
 
-— Eu vi um mundo diferente do nosso, Jokara. Vi muitas pessoas vivendo aqui embaixo… vi lutas, guerras… e vi que Mariv estava certo. Os ventos nos trouxeram para cá com um objetivo. E eu agora tenho o meu.
+— Eu vi um mundo diferente do nosso, Jokara. Vi muitas pessoas vivendo aqui embaixo… vi lutas, guerras… e percebi que talvez Mariv estivesse certo sobre uma coisa. Não sei se os ventos nos trouxeram para cá com um objetivo. Mas eu sei que posso escolher um.
 
 — E qual é?
 
 Nestira apoiou as mãos nos ombros dela, completando a trança.
 
-—É garantir que o que restou de nós não se perca. Garantir que nossa sobrevivência não terá sido em vão.
+— É garantir que o que restou de nós não se perca. Garantir que nossa sobrevivência não tenha sido em vão.
 
 Jokara quis perguntar mais. O rosto da irmã não deixou.
 

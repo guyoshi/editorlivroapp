@@ -368,63 +368,45 @@ Os olhos de Gabasteri se desviaram até ela, e por um instante a raiva pareceu v
 
 — Cala a boca.
 
-A criatura soltou um som baixo. Gabasteri tornou a encará-la e tentou avançar de lado, devagar, buscando a borda da clareira. A fera imitou o movimento. Ele mudou outra vez, e ela acompanhou de novo. Só então percebeu que não chegaria à mata sem passar por ela.
+A criatura soltou um som baixo. Gabasteri tentou avançar de lado, buscando a borda da clareira. A fera acompanhou o movimento. Não havia passagem.
 
-Respirou fundo, baixou o centro do corpo e ergueu a lâmina. A fera avançou meio passo, fazendo-o reagir, mas parou antes do ataque. O movimento falso arrancou de Gabasteri uma expiração curta, e os dedos dele se fecharam ainda mais em torno do cabo.
+Ele ergueu a lâmina e baixou o centro do corpo. Ainda tentou calcular a distância, como fazia com tudo.
 
-Quando o salto veio, não houve rugido.
+A fera saltou.
 
-Gabasteri conseguiu sair da linha do ataque por pouco. Uma das patas rasgou seu ombro, mas ele girou junto ao corpo do animal e enterrou a lâmina na lateral do focinho. O urro sacudiu a clareira. A fera recuou, batendo a cabeça contra uma carcaça, enquanto sangue escuro escorria pelo corte.
+Gabasteri saiu da linha do ataque por pouco e conseguiu abrir um corte no focinho do animal. Foi tudo o que ganhou.
 
-Gabasteri permaneceu de pé, ofegante, esperando a segunda investida. Ela não veio. A criatura recuou mais uma vez e desapareceu atrás de uma pilha de ossos.
+A pata seguinte o atingiu no peito antes que recuperasse o equilíbrio. Ele foi lançado contra as carcaças, e a perna ferida dobrou sob o corpo.
 
-O silêncio voltou.
+A lâmina escapou da mão.
 
-Ele esperou um pouco, sem baixar a arma. Nada se moveu. Aos poucos, a tensão em seus ombros cedeu, e Gabasteri começou a recuar em direção à abertura entre as árvores. Um passo, depois outro, sempre olhando para o ponto onde a fera havia sumido. Quando já estava perto o bastante para acreditar que sairia dali, um ruído pesado veio do outro lado da clareira.
+Gabasteri tentou alcançá-la.
 
-Gabasteri parou.
+A fera chegou primeiro.
 
-Os olhos amarelos reapareceram entre ele e a saída.
+Uma pata o prendeu pelas costas. O ar saiu dos pulmões dele num som curto. Quando tentou se virar, a mandíbula fechou sobre seu ombro e o arrancou do chão.
 
-A fera não tinha fugido. Tinha contornado as carcaças.
+O grito atravessou a clareira.
 
-Gabasteri soltou o ar devagar e procurou outra passagem com os olhos. Não havia nenhuma que sua perna ferida conseguisse alcançar antes do animal. A criatura começou a se aproximar sem pressa, farejando o sangue deixado sobre as pedras, e algo mudou no rosto dele quando percebeu que aquele rastro conduzia diretamente até seus pés.
+A criatura o sacudiu uma vez e o lançou entre os ossos.
 
-Recuou com a lâmina erguida. O calcanhar bateu numa mandíbula caída; ao tentar mudar o apoio, a perna ferida cedeu e ele precisou se segurar numa pilha de costelas para não cair. A fera acelerou no mesmo instante.
+Gabasteri ainda tentou rastejar. Com uma mão procurava a lâmina; com a outra puxava o próprio corpo. A perna não obedecia.
 
-Gabasteri recebeu o impacto de lado e ainda conseguiu cravar a lâmina no ombro do animal, mas o peso o lançou contra os ossos. Rolou sem soltar a arma e tentou se erguer antes que a criatura se virasse. A perna falhou.
+Nestira sentiu o sorriso chegar antes que pudesse impedi-lo. Pequeno. Cruel. Satisfeito.
 
-— Anda… — rosnou, agarrando-se aos ossos para puxar o próprio corpo. — Anda!
+Gabasteri a viu.
 
-A fera sacudiu-se e arrancou a lâmina do ferimento. O golpe arrancou a arma da mão de Gabasteri e a lançou alguns passos adiante. Ele se arrastou atrás dela, raspando o joelho ruim nas pedras, e chegou a tocar o cabo antes que uma pata o atingisse nas costas e o derrubasse de peito contra o chão.
+Por um instante, o medo no rosto dele virou ódio.
 
-O ar saiu de seus pulmões. Gabasteri tentou virar, mas a pata permaneceu sobre ele. Pela primeira vez desde que Nestira o conhecera, não havia ameaça, ordem ou argumento em sua boca. Havia apenas esforço para respirar.
+— Os fortes comem primeiro — repetiu Nestira.
 
-A criatura abaixou a cabeça. O hálito quente moveu seus cabelos, e saliva caiu sobre as pedras ao lado de seu rosto.
+A fera mordeu de novo.
 
-Gabasteri fechou os dedos em torno da lâmina que ainda conseguia alcançar. Esperou a mandíbula se aproximar mais um pouco e golpeou de baixo para cima. A ponta entrou sob o queixo da fera. O animal urrou e recuou, libertando-o.
+Dessa vez o grito terminou no meio. O animal o arrastou para dentro do monte de carcaças, esmagando ossos pelo caminho. Gabasteri ainda se debateu por alguns instantes. Depois, cada movimento ficou menor.
 
-Gabasteri rolou para o lado e conseguiu ficar de joelhos. Sangue escorria de sua boca e do ombro, mas ele ainda ergueu a arma diante do corpo. Durante um breve instante, homem e fera ficaram feridos frente a frente, ambos respirando com dificuldade.
+Nestira não desviou os olhos. Parte dela sabia que deveria sentir culpa pelo alívio quente que lhe atravessava o peito.
 
-Ele soltou uma risada curta, quase sem ar.
-
-— Vem.
-
-A fera veio.
-
-Gabasteri tentou se levantar para receber o ataque, mas a perna dobrou antes que conseguisse firmar o corpo. A criatura o atingiu no peito e o lançou para trás. A lâmina desapareceu entre os ossos.
-
-Dessa vez ele não conseguiu alcançá-la. Tentou rastejar, procurando apoio com uma mão e tateando as pedras com a outra, enquanto a sombra da criatura cobria seu corpo. Quando ergueu o rosto, o sorriso já tinha desaparecido por completo.
-
-A fera se aproximou devagar o bastante para que ele entendesse.
-
-Gabasteri ainda tentou se afastar, arrastando a perna inútil entre as carcaças, mas não havia mais para onde ir. O homem que passara cinco ciclos repetindo que os fracos eram peso agora só conseguia empurrar o próprio corpo alguns dedos de cada vez.
-
-Nestira não sentiu alegria. Sentiu algo mais frio, quase vazio, ao vê-lo perceber que nenhuma regra inventada por ele mudaria o que estava prestes a acontecer.
-
-A criatura abaixou a cabeça.
-
-O grito de Gabasteri começou junto com o rugido e terminou no meio. Nestira permaneceu imóvel, incapaz de desviar os olhos, até que a fera ergueu a cabeça por um instante e tornou a se curvar sobre o corpo.
+Não sentiu.
 
 Só então ela conseguiu se mover.
 
