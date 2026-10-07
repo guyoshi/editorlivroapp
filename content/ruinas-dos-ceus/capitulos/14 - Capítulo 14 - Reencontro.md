@@ -187,7 +187,21 @@ Jokara a olhou de lado, sem comentar.
 
 Gabasteri inclinou-se para frente, apoiando os cotovelos nos joelhos.
 
-— Não tiro a razão de sua irmã. Eu passei muito tempo sozinho… e achava que conseguiria sobreviver. Mas acho que se quisermos reerguer uma nova Etérea aqui embaixo, precisamos estar juntos. E precisamos principalmente colaborar, para sermos fortes.
+— Não tiro a razão de sua irmã. Eu passei muito tempo sozinho porque achei que depender de alguém era abrir espaço para morrer pelo erro de outra pessoa.
+
+Gabasteri apontou para a mata com o graveto.
+
+— Mas sozinho também existe um limite. Se eu caço, ninguém vigia. Se procuro água, não reforço o abrigo. Se me machuco, tudo para.
+
+Mariv estreitou os olhos.
+
+— Então decidiu que precisa da gente?
+
+— Decidi que vocês não são como as pessoas que encontrei antes. Isso é diferente.
+
+Gabasteri tornou a mexer o graveto no fogo.
+
+— Um grupo só funciona se cada um tiver uma função. Se todos contribuírem. Eu aprendi rotas na floresta, conheço onde a água é mais limpa, onde os animais se escondem. Sozinho, isso me mantém vivo. Com gente competente, esse conhecimento pode servir para construir alguma coisa.
 
 — Uma nova Etérea? — Jokara ergueu as sobrancelhas.
 
@@ -201,17 +215,15 @@ Jokara a segurou pelo braço. Conhecia bem demais aquele brilho no rosto da irm�
 
 Gabasteri não se incomodou.
 
-— Eu aprendi rotas na floresta, conheço onde a água é mais limpa, onde os animais se escondem. Mas de que adianta, se não posso compartilhar? Sozinho eu sobrevivo. Um grupo competente pode fazer mais do que sobreviver.
-
 Mariv cruzou os braços, a voz baixa.
 
-— Não acredito nisso. Acho que devemos ter um número limite de integrantes em uma equipe.
+— Ainda acho que devemos ter um número limite de integrantes em uma equipe.
 
 Jokara ergueu uma sobrancelha. Quase perguntou se ele queria sair para dar o lugar a Gabasteri. Por Nestira, ficou quieta.
 
 Gabasteri ergueu os olhos para ele, sem perder o sorriso.
 
-— Não vamos limitar nossas mentes. Acredito que seremos mais fortes juntos.
+— O problema não é quantos somos. É quantos conseguem sustentar o próprio peso e aliviar o dos outros. Se encontrarmos gente capaz, recusar ajuda só porque já somos cinco seria tão estúpido quanto aceitar qualquer um.
 
 Os dois se encararam. Jokara se apressou:
 
