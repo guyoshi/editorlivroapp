@@ -140,9 +140,9 @@ As mãos de Jokara se abriram sozinhas. O objeto luminoso caiu no chão e rolou 
 
 Jokara estendeu a mão. Nestira agarrou-a no mesmo instante, e as duas se puxaram num abraço apertado.
 
-Pelo canto do olho, Jokara percebeu movimento. Loutes estava parado junto à parede, metade do corpo já tomada pela sombra da ruína.
+Pelo canto do olho, Jokara percebeu movimento. Loutes estava parado junto à parede, metade do corpo já tomada pela sombra da ruína. Uma das mãos repousava sobre um dos sulcos gravados na pedra.
 
-Ele a fitava em silêncio.
+Ele passou dois dedos pelo desenho, olhou para a abertura da ruína e só então fitou Jokara.
 
 Então sorriu.
 
