@@ -248,21 +248,9 @@ Por algum tempo, nada aconteceu.
 
 Jokara começou a sentir o braço do bastão doer de tanto segurar a mesma posição. Nestira mantinha a corda enrolada duas vezes na mão. Mariv quase não se mexia.
 
-Então veio um ruído entre as folhas.
+Um ruído surgiu entre as folhas, primeiro distante, depois cada vez mais próximo. Uma criatura baixa apareceu por trás de um tronco, rápida demais para Jokara distinguir muito além das patas finas e do dorso escuro, e entrou no corredor exatamente como Gabasteri previra.
 
-Primeiro longe.
-
-Depois perto.
-
-Uma criatura baixa surgiu por trás de um tronco, rápida demais para Jokara ver muito além das patas finas e do dorso escuro. Entrou no corredor exatamente como Gabasteri previra.
-
-Por um instante, o plano parecia perfeito.
-
-Então o animal parou.
-
-Ergueu a cabeça.
-
-As narinas se moveram.
+Por um instante, o plano pareceu perfeito. Então o animal parou, ergueu a cabeça e farejou o ar.
 
 O vento havia virado de vez.
 
@@ -272,21 +260,11 @@ Nestira não esperou o sinal.
 
 Puxou.
 
-A barreira caiu entre Jokara e o animal.
-
-Não caiu inteira.
-
-Uma das fibras prendeu numa raiz, o galho dobrou torto e a presa bateu contra a trama. Por um instante ficou presa. Depois se debateu, rompeu a corda melhor e desapareceu pela mata.
+A barreira caiu entre Jokara e o animal, mas uma das fibras prendeu numa raiz e o galho dobrou torto. A presa bateu contra a trama e ficou presa por um instante; depois se debateu, rompeu a corda melhor e desapareceu pela mata.
 
 O silêncio que ficou pareceu maior do que o barulho.
 
-Gabasteri surgiu logo depois.
-
-Olhou primeiro para o corredor vazio.
-
-Depois para a corda arrebentada.
-
-Por fim, para Nestira.
+Gabasteri surgiu logo depois e deixou o olhar passar pelo corredor vazio, pela corda arrebentada e, por último, por Nestira.
 
 — Eu mandei esperar.
 
@@ -336,13 +314,7 @@ Nestira olhou para o emaranhado.
 
 — Eu não vou entrar naquele mato atrás de uma corda com a luz acabando.
 
-Gabasteri se aproximou.
-
-Não rápido.
-
-Não alterado.
-
-Isso fez Nestira recuar um passo.
+Gabasteri se aproximou sem pressa e sem elevar a voz. Nestira recuou um passo.
 
 — Não estou pedindo para você caçar. Não estou pedindo para lutar com nada. Estou dizendo para recuperar o que você desperdiçou.
 
@@ -362,11 +334,7 @@ Gabasteri viu as lágrimas e não recuou.
 
 — Você é boa mantendo fogo, separando comida, fazendo o que precisa ser feito no abrigo. Então faz isso. Para de decidir no meio de uma caçada como se soubesse o que está fazendo. Vai buscar a corda, refaz os nós e depois você come.
 
-Mariv apareceu entre os dois.
-
-Não empurrou Gabasteri.
-
-Apenas ocupou o espaço.
+Mariv entrou entre os dois sem empurrar Gabasteri, apenas ocupando o espaço que ele havia tomado diante de Nestira.
 
 — Ela não vai fazer isso.
 
@@ -458,11 +426,7 @@ Quando falou, a voz ainda tremia, mas não baixou.
 
 O nome atravessou Gabasteri.
 
-Ele soltou Mariv.
-
-Não com cuidado.
-
-Mariv caiu de joelhos, tossindo e levando a mão ao pescoço.
+Ele soltou Mariv de uma vez, e o rapaz caiu de joelhos, tossindo e levando a mão ao pescoço.
 
 Gabasteri virou-se para Nestira.
 
@@ -566,29 +530,11 @@ Nestira abraçou os próprios joelhos.
 
 — Pode ter sido — respondeu Mariv. — Ou pode ter mentido. É isso que me incomoda. Eu só tenho a lembrança do nome. O resto não vem.
 
-Jokara olhou para a escuridão onde Gabasteri desaparecera.
-
-Não respondeu.
-
-Outra lembrança acabara de surgir, mais silenciosa do que a primeira.
-
-Maletar bebendo do cantil escuro.
-
-A tosse piorando de sopro em sopro.
-
-Gabasteri voltando com água e completando os recipientes.
-
-O cantil de Maletar entre as coisas que ele organizava.
+Jokara olhou para a escuridão onde Gabasteri desaparecera e não respondeu. Outra lembrança surgira, mais silenciosa que a primeira: Maletar bebendo do cantil escuro, a tosse piorando de sopro em sopro, Gabasteri voltando com água e completando os recipientes, inclusive o de Maletar.
 
 Jokara tentou desmontar a própria suspeita antes que ela criasse forma. Maletar estava ferido, cansado, exposto à chuva e à fome. Havia muitas explicações possíveis.
 
-Mas então veio Platisa.
-
-O zélon apertado contra o peito.
-
-O desconforto dela sempre que Gabasteri decidia uma rota.
-
-A forma como desaparecera com ele entre as árvores e nunca voltara.
+Então pensou em Platisa, no zélon apertado contra o peito, no desconforto sempre que Gabasteri decidia uma rota e na forma como desaparecera com ele entre as árvores sem nunca voltar.
 
 Jokara baixou os olhos para o fogo.
 
@@ -600,8 +546,4 @@ Nos dois Sopros do Silêncio seguintes, ele manteve a comida e as armas escondid
 
 Aquilo talvez fosse o pior.
 
-No terceiro Sopro do Silêncio, Jokara fingiu dormir.
-
-Esperou Gabasteri se levantar.
-
-E decidiu segui-lo.
+No terceiro Sopro do Silêncio, Jokara fingiu dormir e esperou Gabasteri se levantar antes de segui-lo.
