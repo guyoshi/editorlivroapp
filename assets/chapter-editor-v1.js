@@ -469,7 +469,7 @@
       '<p>Para publicar no livro oficial, o navegador precisa de um token GitHub com acesso somente ao repositório <code>'+esc(REPO)+'</code> e permissão <strong>Contents: Read and write</strong>.</p>'+
       '<p class="chapter-token-note">Por padrão ele fica apenas nesta sessão e é enviado somente para <code>api.github.com</code>.</p>'+
       '<label class="chapter-token-field"><span>Fine-grained personal access token</span><input id="chapterGithubToken" type="password" autocomplete="off" placeholder="github_pat_…"></label>'+
-      '<label class="chapter-token-remember"><input id="chapterGithubRemember" type="checkbox"> Lembrar neste dispositivo</label>'+
+      '<label class="chapter-token-remember"><input id="chapterGithubRemember" type="checkbox" checked> Lembrar neste dispositivo</label>'+
       '<a class="chapter-token-link" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Criar token no GitHub</a>';
     const result=await modalShell("Conectar GitHub",body,[
       {label:"Cancelar",value:null},
@@ -506,9 +506,12 @@
     });
     let data=null;
     try{data=await res.json();}catch(e){}
-    if(res.status===401||res.status===403){
+    if(res.status===401){
       forgetToken();
-      throw new Error("A conexão com o GitHub não foi autorizada. Conecte novamente com um token que tenha Contents: Read and write.");
+      throw new Error("O token do GitHub não é mais válido. Conecte novamente.");
+    }
+    if(res.status===403){
+      throw new Error("O GitHub recusou esta ação. Confira se o token tem acesso ao repositório e Contents: Read and write.");
     }
     if(!res.ok){
       const msg=data?.message||("GitHub respondeu "+res.status+".");
