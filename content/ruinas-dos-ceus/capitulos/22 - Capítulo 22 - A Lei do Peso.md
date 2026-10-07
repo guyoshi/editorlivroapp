@@ -106,8 +106,6 @@ Os outros três demoraram um pouco antes de segui-lo.
 
 Jokara olhou para trás até a árvore desaparecer entre os troncos.
 
-***
-
 O terreno que Gabasteri encontrara era melhor.
 
 Uma elevação de pedra mantinha o chão seco. Duas árvores largas formavam uma espécie de corredor natural e, mais abaixo, folhas compridas denunciavam um curso de água antes mesmo de o som chegar até eles.
