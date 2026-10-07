@@ -120,7 +120,7 @@ Yrisea observou uma rachadura atravessar a parede do pórtico e tornou a fechar 
 
 Yrisea apertou os dedos sobre o bastão.
 
-— Então fuja. Leve quem quiser seguir contigo.
+— Então fuja. Leve quem quiser seguir com você.
 
 — E você?
 
@@ -144,11 +144,11 @@ Poucos passos depois, parou.
 
 A rua de casa estava logo adiante, e metade dela já não estava lá. Jokara mal sentia o chão. Efepar a amparava com o braço, o sangue seco marcando-lhe a túnica no peito.
 
-— Eu vou contigo — disse ele, entre as passadas rápidas. — Até a tua casa. Só preciso te deixar lá em segurança.
+— Eu vou com você — disse ele, entre as passadas rápidas. — Até a sua casa. Só preciso te deixar lá em segurança.
 
 Ela balançou a cabeça, sem parar.
 
-— Não. Vai atrás dos teus pais. Precisa tirá-los de lá.
+— Não. Vai atrás dos seus pais. Precisa tirá-los de lá.
 
 — Jokara...
 
