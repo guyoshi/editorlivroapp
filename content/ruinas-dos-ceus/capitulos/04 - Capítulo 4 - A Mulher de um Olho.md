@@ -10,7 +10,7 @@ Era Sopro Brando: uma celebração que ocorria a cada três espirais, quando as 
 
 Jokara caminhava entre as pessoas com Loutes ao seu lado, ainda um pouco encabulado com o movimento ao redor.
 
-— Jokara! — chamavam algumas vozes — Bela tua túnica!
+— Jokara! — chamavam algumas vozes — Que bela túnica!
 
 — Loutes, está mais forte, hein? — dizia outra, enquanto um velho com sobrancelhas enormes oferecia a ele um doce de raiz envolto em pétalas.
 
@@ -159,7 +159,7 @@ Desta vez, Jokara participaria como aprendiz, observadora em silêncio, para apr
 
 Mirel, como sempre, apenas sorriu.
 
-— Lembra-te do Traidor de Galesen, aquele que se jogou da ilha e voltou coberto de musgo. O vento não aceita o que é falso. Vais aprender alguma coisa, nem que seja a ficar quieta.
+— Lembre-se do Traidor de Galesen, aquele que se jogou da ilha e voltou coberto de musgo. O vento não aceita o que é falso. Você vai aprender alguma coisa, nem que seja a ficar quieta.
 
 O Círculo do Peso foi montado naquela manhã turva, quando o sol parecia hesitar antes de romper as nuvens. A Clareira dos Espelhos, onde as sessões mais solenes aconteciam, estava cheia e quieta.
 

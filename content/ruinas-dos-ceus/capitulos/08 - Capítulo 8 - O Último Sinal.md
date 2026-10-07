@@ -6,7 +6,7 @@ Em casa, ninguém falava da praça. Até que Mirel entrou pela porta da frente s
 
 Jokara não respondeu. Permaneceu sentada no canto da sala, os olhos no vitral quebrado.
 
-— Não entende? — continuou Mirel, com os olhos cheios d'água. — Já foi chamada de amaldiçoada. Há quem diga que tua perna foi levada pelos próprios ventos como punição. Eu sei que isso é crueldade. Yrisea também sabe. Mas você acha que está salvando alguém e há gente levando crianças para longe das passarelas porque acredita que tudo pode despencar a qualquer instante. Está assustando pessoas que não sabem o que fazer com esse medo.
+— Não entende? — continuou Mirel, com os olhos cheios d'água. — Já foi chamada de amaldiçoada. Há quem diga que sua perna foi levada pelos próprios ventos como punição. Eu sei que isso é crueldade. Yrisea também sabe. Mas você acha que está salvando alguém e há gente levando crianças para longe das passarelas porque acredita que tudo pode despencar a qualquer instante. Está assustando pessoas que não sabem o que fazer com esse medo.
 
 — Então deviam descobrir o que fazer.
 

@@ -20,7 +20,7 @@ Foi quando ouviu o som apressado de pés descalços cortando o musgo.
 
 Antes que pudesse reagir, Liri se jogou em seus braços. Algumas pétalas claras ainda estavam presas em seus cabelos, colocadas pela mãe quando regressara da Ilha dos Pequenos. Uma delas escorregara até a orelha, mas Liri parecia determinada a não deixá-la cair. Jokara girou-a com cuidado no ar, e as duas riram.
 
-— Menina dos céus... Tu vai acabar flutuando de tanta alegria.
+— Menina dos céus... Você vai acabar flutuando de tanta alegria.
 
 A pequena gargalhou e se pendurou no pescoço de Jokara.
 
@@ -32,7 +32,7 @@ Jokara observou, fingindo um ar ofendido.
 
 — Parece até que tem pernas próprias... Vai me trocar por ela?
 
-— Nunca! Tu é minha melhor amiga. Mesmo que seja grande.
+— Nunca! Você é minha melhor amiga. Mesmo que seja grande.
 
 — Grande? — riu Jokara, fingindo indignação. — Deixa eu anotar isso...
 
@@ -70,7 +70,7 @@ Mirel mexia uma infusão quente feita de flores de cerco, os olhos marcados pelo
 
 Nestira dobrava tecidos sobre o colo, sentada perto da abertura lateral. Os cabelos estavam presos em um nó alto, e os dedos ainda carregavam o cheiro doce de mel seco, vestígios de alguma oração feita sem palavras.
 
-— Bom sopro, Liri — disse Mirel, sem deixar de mexer a infusão. — Tua mãe sabe que está aqui?
+— Bom sopro, Liri — disse Mirel, sem deixar de mexer a infusão. — Sua mãe sabe que está aqui?
 
 — Não — respondeu a menina, muito séria. — Mas o vento sabe.
 
@@ -92,7 +92,7 @@ Liri fez uma careta imediata.
 
 — Não gosto dessa.
 
-— Tua mãe ainda conta antes de dormir que as ilhas nasceram da respiração dos justos?
+— Sua mãe ainda conta antes de dormir que as ilhas nasceram da respiração dos justos?
 
 — Ela diz que eles sopraram juntos por cima da névoa e o céu decidiu carregá-los. É verdade?
 
@@ -106,7 +106,7 @@ Jokara sorriu. O povo eterí, desde a semente, era embalado por histórias, como
 
 Ela fingiu hesitar.
 
-— Tu já ouviu essa história vinte vezes...
+— Você já ouviu essa história vinte vezes...
 
 — Mas hoje o vento é outro — retrucou Liri.
 
@@ -126,7 +126,7 @@ As pernas e os ombros estavam bem. O peso vinha de outro lugar. Corria pior, ria
 
 Os pais o levaram a um velho Orador, que escutou seu peito e disse:
 
-— Pequeno vento… tu carrega algo que não é teu. O que nos prende não são as pedras. É a mentira.
+— Pequeno vento… você carrega algo que não é seu. O que nos prende não são as pedras. É a mentira.
 
 O menino chorou e contou que havia comido escondido uma fruta entoada, oferecida aos Oradores. Quando perguntaram quem a pegara, ele mentiu.
 
@@ -181,7 +181,7 @@ Jokara arqueou a sobrancelha, provocativa.
 
 — Vai virar sermão agora?
 
-— Não é sermão — respondeu Nestira. — Toda criança eterí precisa aprender a respirar as preces, escutar os silêncios e... — ela apontou para os lábios de Liri — …ter mel na boca ao nascer do sopro. É isso que sela a doçura das palavras. É isso que ensina a brisa a confiar na tua voz.
+— Não é sermão — respondeu Nestira. — Toda criança eterí precisa aprender a respirar as preces, escutar os silêncios e... — ela apontou para os lábios de Liri — …ter mel na boca ao nascer do sopro. É isso que sela a doçura das palavras. É isso que ensina a brisa a confiar na sua voz.
 
 Liri baixou o olhar.
 
@@ -199,7 +199,7 @@ Liri corou.
 
 Mirel ajoelhou-se diante dela.
 
-— Então venha amanhã cedinho. Eu mesma passo mel em tua boca.
+— Então venha amanhã cedinho. Eu mesma passo mel em sua boca.
 
 A menina assentiu e levantou-se, bocejando mais uma vez. Mirel ajeitou seu manto fino e trançou de novo a pena azul que se soltara do cabelo.
 
