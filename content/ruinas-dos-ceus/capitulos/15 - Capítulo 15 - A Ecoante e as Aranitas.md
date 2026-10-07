@@ -425,7 +425,7 @@ Jokara suspirou.
 
 Nestira pousou a mão sobre a dela.
 
-— Não vai me perder, Jokara. Estamos aqui, não estamos? Sobrevivemos. Os ventos nos devem um significado a isso.
+— Não vai me perder, Jokara. Estamos aqui, não estamos? Sobrevivemos. Eu ainda quero acreditar que isso significa alguma coisa.
 
 Jokara forçou um riso.
 
