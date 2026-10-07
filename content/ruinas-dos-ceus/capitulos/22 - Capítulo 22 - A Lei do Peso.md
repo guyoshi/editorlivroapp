@@ -106,7 +106,7 @@ Os outros três demoraram um pouco antes de segui-lo.
 
 Jokara olhou para trás até a árvore desaparecer entre os troncos.
 
-O terreno que Gabasteri encontrara era melhor.
+O terreno que Gabasteri encontrara era bom.
 
 Uma elevação de pedra mantinha o chão seco. Duas árvores largas formavam uma espécie de corredor natural e, mais abaixo, folhas compridas denunciavam um curso de água antes mesmo de o som chegar até eles.
 
@@ -114,63 +114,77 @@ Gabasteri não precisou procurar muito.
 
 — Riacho naquela direção. Pequeno. Corrente suficiente para não ficar parado.
 
-Mariv foi verificar e voltou algum tempo depois com água nas mãos e uma expressão contrariada.
+Mariv foi verificar e voltou algum tempo depois com água nas mãos.
 
 Gabasteri estava certo.
 
-Era assim quase sempre.
+Em coisas da superfície, isso acontecia com frequência. Reconhecia solo fofo antes que alguém afundasse, distinguia marcas recentes de rastros antigos e cheirava frutos antes de sequer pensar em tocá-los. Dormia leve, acordando com ruídos que os outros nem percebiam.
 
-Ele reconhecia solo fofo antes de alguém afundar nele. Sabia quando marcas numa árvore eram antigas demais para significar perigo próximo. Cheirava frutos antes de sequer pensar em tocá-los. Dormia de um jeito estranho, leve, acordando com ruídos que os outros nem percebiam.
+Quando apontava uma pegada funda, água parada ou casca recém-arrancada, ninguém precisava de uma segunda explicação.
 
-Foi também ele quem percebeu que a fumaça do fogo estava descendo demais entre as pedras e mandou mudarem o abrigo alguns passos antes de uma chuva forte transformar aquele ponto numa poça.
+Certa manhã, Nestira amarrou dois pedaços de carne num galho alto, longe do chão. Gabasteri passou por ela, puxou o nó com os dedos e o desfez.
 
-Jokara odiava admitir, mas seguir Gabasteri tornava a superfície menos incompreensível.
+Nestira ergueu a cabeça.
 
-Talvez por isso as primeiras regras tenham entrado sem que ninguém conseguisse apontar o momento exato em que viraram regras.
+— Por quê?
 
-A comida passou a ficar reunida. As armas eram contadas antes do Sopro do Silêncio. Água nova precisava ser verificada antes de todos beberem. Ao sair, cada um recebia uma função e Gabasteri esperava que ela fosse cumprida.
-
-Nestira passou a cuidar das brasas, das raízes e da conservação do que encontravam.
-
-No começo, Gabasteri apenas corrigia.
-
-Depois começou a corrigir até quando não precisava.
-
-Certa manhã, Nestira amarrou dois pedaços de carne num galho alto, longe do chão. Gabasteri desfez o nó sem dizer nada e refez mais apertado.
+Ele refez o laço mais apertado.
 
 — Assim não solta com chuva.
 
-Nestira olhou o nó anterior, ainda marcado na fibra.
+Nestira puxou a fibra que ele acabara de remover. O nó anterior ainda estava firme.
 
 — O meu também não estava soltando.
 
+Gabasteri terminou o novo nó.
+
 — Ainda.
 
-Em outro sopro, ela cobriu as brasas com cinza para preservá-las durante a caminhada. Gabasteri retirou parte da camada com um graveto.
+Nestira ficou com a fibra na mão por um instante. Depois a deixou cair sobre a bolsa de raízes.
 
-— Você está abafando demais.
+Mariv, sentado perto dali, parou de raspar a ponta da lança. Só voltou ao trabalho quando Gabasteri se afastou.
 
-— Foi assim que mantive o fogo vivo ontem.
+No Sopro do Silêncio seguinte, Nestira cobriu as brasas com cinza e deixou uma fresta entre as pedras.
 
-— E hoje pode fazer melhor.
+Gabasteri se agachou diante do fogo.
 
-Não havia grito. Era isso que tornava difícil responder. Cada frase vinha com a tranquilidade de quem acreditava estar apenas corrigindo um erro óbvio.
+— Está abafando demais.
 
-Mariv começou a perceber.
+— Não estou.
 
-Jokara também.
+Ele começou a afastar a cinza com um graveto.
 
-Nestira fingia que não.
+Nestira segurou o pulso dele.
 
-Ainda assim, o sistema funcionava. Passaram a perder menos comida. Dormiam em pontos mais protegidos. Mariv começou a reconhecer trilhas de animais pelo espaçamento das marcas; não porque Gabasteri desse longas explicações, mas porque apontava para o chão e esperava até que ele enxergasse.
+— Deixa assim.
 
-Quando Mariv errava, Gabasteri dizia apenas para olhar de novo.
+Gabasteri baixou os olhos para a mão dela.
 
-Quando acertava, já estavam andando.
+Nestira soltou.
 
-Gabasteri não os tratava como alunos.
+— Amanhã ainda vai estar aceso — disse.
 
-Tratava-os como partes de alguma coisa que ele estava montando.
+— Tem cinza demais.
+
+Ele espalhou a camada até ficar do jeito que queria.
+
+Na manhã seguinte, as brasas estavam mortas.
+
+Nestira mexeu no fundo frio com um galho. Depois abriu a pequena reserva de fibra seca que guardava enrolada num pano e começou o fogo outra vez.
+
+Quando a fumaça já subia, Gabasteri apareceu atrás dela.
+
+— Usa menos madeira verde desta vez.
+
+Nestira não se virou.
+
+Acendeu a fibra, protegeu a chama com as mãos e esperou até ela alcançar os galhos.
+
+Do outro lado do acampamento, a pedra de Mariv deixou de raspar a lança por alguns instantes.
+
+Mais tarde, Gabasteri encontrou marcas de uma criatura grande perto de uma passagem estreita e fez todos contornarem a área. As pegadas eram profundas, recentes, e havia casca arrancada de um tronco quase na altura do peito de Mariv.
+
+Ninguém discutiu. Mariv foi o primeiro a mudar de direção. Nestira recolheu a bolsa de raízes e seguiu atrás dele.
 
 ***
 
@@ -226,7 +240,7 @@ A luz estava caindo.
 
 — Ainda dá tempo. Se desmontarmos agora, perdemos o sopro e amanhã talvez a trilha mude.
 
-Mariv não pareceu convencido, mas foi para a posição.
+Mariv olhou de novo para as folhas inclinadas pelo vento. Apertou a mandíbula e foi para a posição.
 
 Gabasteri desapareceu entre as árvores.
 
@@ -370,11 +384,9 @@ Os dois ficaram próximos demais.
 
 — E você acha que mandar é nunca admitir que errou.
 
-Foi pequeno.
+A mandíbula de Gabasteri travou.
 
-Uma mudança no rosto de Gabasteri que durou menos de um sopro.
-
-Mariv percebeu.
+Mariv continuou:
 
 — O vento virou e você viu. Mesmo assim mandou continuar. A presa saiu do corredor antes da Nestira puxar a corda.
 
@@ -430,7 +442,7 @@ Jokara estava tremendo de raiva.
 
 — Vai usar esse bastão contra mim? — perguntou ele. — O mesmo que eu adaptei para você conseguir andar na lama?
 
-A pergunta fez alguma coisa mudar dentro dela.
+Jokara apertou o bastão até a madeira ranger sob os dedos.
 
 — Você acha que tudo que faz pela gente vira uma dívida.
 
@@ -514,11 +526,9 @@ Mariv tinha uma marca escura no pescoço.
 
 Jokara tentou olhar para os dois sem imaginar como aquela cena teria terminado se Gabasteri tivesse apertado por mais alguns instantes.
 
-Foi Mariv quem falou primeiro.
+Mariv passou o polegar devagar pela marca no pescoço e continuou olhando para o fogo.
 
 — Eu lembrei.
-
-Não havia pergunta esperando pela frase. Ele continuou olhando para o fogo.
 
 — Quando você disse o nome dele pela primeira vez, eu falei que já tinha ouvido. Passei esse tempo todo tentando descobrir de onde vinha aquela sensação. Agora eu sei.
 
