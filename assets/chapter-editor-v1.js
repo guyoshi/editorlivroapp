@@ -132,13 +132,7 @@
       ta.spellcheck=true;
       ta.addEventListener("input",resizeTextarea);
       ta.addEventListener("keydown",e=>{
-        if(e.key==="Escape"){e.preventDefault();cancelEdit();return;}
-        if(e.key==="Enter"&&!e.shiftKey){
-          e.preventDefault();
-          const a=ta.selectionStart,b=ta.selectionEnd;
-          ta.setRangeText("\n\n",a,b,"end");
-          ta.dispatchEvent(new Event("input",{bubbles:true}));
-        }
+        if(e.key==="Escape"){e.preventDefault();cancelEdit();}
       });
 
       p.hidden=true;
