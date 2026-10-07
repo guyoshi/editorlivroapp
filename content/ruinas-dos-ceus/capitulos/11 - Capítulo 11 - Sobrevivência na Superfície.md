@@ -6,7 +6,7 @@ Ela moldou um tronco quebrado em lança, afiando-o contra pedras fendidas caída
 
 Por vezes, um animal menor se deixava surpreender: uma criatura de pelo áspero, patas curtas e duas antenas finas que vibravam no ar, farejando o ambiente. Numa dessas caçadas, Loutes aproximou-se demais. A criatura cravou os dentes em sua perna, deixando duas marcas fundas e um corte rubro. Jokara golpeou-a com a lança até afastá-la, e o menino suportou a dor em silêncio. Nos sopros seguintes, a ferida fechou depressa, depressa demais. Jokara reparou, mas não disse nada.
 
-Duas vezes, a criatura que haviam visto na floresta retornou ao alcance de seus olhos. Uma sombra enorme movendo-se entre os troncos, olhos amarelos cortando a escuridão. Em cada encontro, Jokara agarrou Loutes e o fez recuar em silêncio, escondendo-se sob raízes ou dentro de troncos ocos até que a besta se afastasse. Bastava ouvir a respiração dela entre as árvores para Jokara parar de respirar.
+Duas vezes, a criatura que haviam visto na floresta retornou ao alcance de seus olhos. Uma sombra enorme movendo-se entre os troncos, a crista recortando as frestas de luar e os olhos amarelos cortando a escuridão. Em cada encontro, Jokara agarrou Loutes e o fez recuar em silêncio, escondendo-se sob raízes ou dentro de troncos ocos até que a besta se afastasse. Bastava ouvir a respiração profunda, quase um ronco preso na garganta, para Jokara parar de respirar.
 
 Emagreceram. Às vezes dividiam uma fruta pequena por sopro. Outras, nada.
 

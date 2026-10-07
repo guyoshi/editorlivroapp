@@ -18,13 +18,13 @@ Exausta, Jokara deixou-se sentar. A mãe no mercado. Nestira correndo para Liri.
 
 Chorou até os soluços virarem grito. O grito correu pela floresta.
 
-Da escuridão veio uma resposta. Galhos quebrando. Um ruído baixo, gutural, de bicho respirando. Jokara parou de chorar na hora. Nunca tinha ouvido nada parecido.
+Da escuridão veio uma resposta. Galhos quebrando. Um ronco subgrave, gutural, vibrou no lodo antes de subir entre as árvores e se partir num grito aviano áspero. Jokara parou de chorar na hora. Nunca tinha ouvido nada parecido.
 
 Puxou Loutes contra si. Não via nada entre os troncos, mas os pelos da nuca estavam em pé.
 
 — Temos que sair daqui — sussurrou.
 
-Avançaram pela margem do lago. O pé direito de Jokara afundava no lodo; ela ia pendurada em Loutes, pulando. O som voltou, um coro de gritos estridentes, mais perto.
+Avançaram pela margem do lago. O pé direito de Jokara afundava no lodo; ela ia pendurada em Loutes, pulando. O som voltou, mais perto: primeiro o ronco profundo, depois o rasgo agudo de ave, vozes impossíveis saindo da mesma garganta.
 
 A floresta se fechou sobre eles. Por cima, as copas tapavam o céu quase todo. Por baixo, era raiz, lama e pedra com musgo, e cada passo podia afundar ou prender o pé.
 
@@ -46,7 +46,7 @@ O corpo jazia despedaçado entre carne e ossos, marcado por mordidas grandes dem
 
 Jokara tapou a boca e o nariz. Tarde demais: sentia o gosto na língua.
 
-O som voltou, mais perto, guinchos e estalos vindos de trás das árvores. Jokara girou o corpo e não viu nada.
+O chamado voltou atrás das árvores, um bramido gutural atravessado por notas avianas curtas. Galhos estalaram sob um peso enorme. Jokara girou o corpo e não viu nada.
 
 Então olhou para Loutes. Ele estava imóvel, olhando para ela. E atrás dele, alguma coisa se mexia.
 
@@ -60,19 +60,19 @@ O menino respirava rápido. Veio até ela em passos curtos, olhando para o chão
 
 Recuaram juntos. Sob o pé de Jokara, um cogumelo inflado, redondo como um odre, estourou num pffft de ar úmido.
 
-A criatura ergueu a cabeça e parou de mastigar. Os olhos amarelos brilharam no escuro.
+A criatura ergueu a cabeça grande e parou de mastigar. Os olhos amarelos brilharam no escuro.
 
-Jokara puxou Loutes contra si e os dois se agacharam atrás de uma árvore de tronco grosso. A criatura guinchou, farejando o ar.
+Jokara puxou Loutes contra si e os dois se agacharam atrás de uma árvore de tronco grosso. A criatura expeliu um ronco de garganta que terminou num grito curto e aviano, depois farejou o ar.
 
 Os passos pesados se aproximaram. Agora ela podia vê-la bem.
 
-Tinha o corpo arqueado, enorme. A pele não era lisa como a de aves, mas rugosa, marcada por escamas escuras e manchas que brilhavam sob o luar. Das costas descia uma crista irregular de espinhos de osso.
+Tinha o corpo enorme, de dorso largo e arqueado, com a traseira mais baixa que os ombros. A pele sem pelos era rugosa, coberta por escamas escuras e manchas que brilhavam sob o luar. Uma crista alta, sustentada por espinhos de osso e unida por uma membrana escura, erguia-se sobre as costas. Atrás, uma cauda comprida riscava a lama.
 
-O pior era o rosto. Não havia bico. Era uma boca larga, rasgada até perto das orelhas, com dentes longos e tortos, cada um para um lado. A pele da cara era vermelha e esticada. E os olhos, dois pontos amarelos.
+O pior era a cabeça, grande e mantida alta apesar do corpo inclinado. O rosto sem pelos tinha a pele vermelha e esticada, a testa baixa sobre dois olhos amarelos. O focinho avançava até um nariz negro e largo. Quando os lábios se retraíram, revelaram uma mandíbula funda, dentes irregulares e quatro caninos longos e curvos.
 
-Quando abriu a boca, saiu um coro de gritos ao mesmo tempo, como sinos rachados. Jokara sentiu o som no peito.
+Quando abriu a boca, um bramido subgrave sacudiu-lhe o peito e se rompeu numa nota aviana estridente, como o grito de uma ave enorme preso dentro de uma garganta de pedra.
 
-A criatura caminhava sobre quatro membros pesados, mas erguia o dorso de tempos em tempos, batendo o peito com as mãos deformadas. As unhas curvadas arranhavam a terra, e cheirava a sangue e pedra molhada.
+Os braços dianteiros, mais longos que as pernas traseiras, sustentavam o peso sobre mãos largas. Garras curvas riscavam a terra a cada apoio. Quando elevou a parte da frente do corpo, permaneceu inclinada, equilibrada nas pernas reptilianas e na longa cauda, com as mãos livres para rasgar. Cheirava a sangue e pedra molhada.
 
 Jokara fechou os olhos e prendeu a respiração até o peito queimar.
 
@@ -92,7 +92,7 @@ O estômago roncava. Sob as bandagens sujas, o coto da perna esquerda latejava e
 
 O corredor de raízes terminou de repente. Diante deles, corria um rio escuro, largo o suficiente para cortar o caminho em duas margens inalcançáveis. Não havia ponte nem tronco caído.
 
-Jokara parou na beira, o bastão fincado na lama. O som da criatura ainda ecoava ao longe, mas mais abafado. Não podiam voltar. Precisavam atravessar.
+Jokara parou na beira, o bastão fincado na lama. O chamado gutural da criatura ainda ecoava ao longe, agora abafado pela mata. Não podiam voltar. Precisavam atravessar.
 
 Ela olhou para Loutes. Os olhos dele ainda estavam arregalados.
 

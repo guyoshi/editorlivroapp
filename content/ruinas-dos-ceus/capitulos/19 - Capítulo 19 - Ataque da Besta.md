@@ -210,7 +210,7 @@ Gabasteri não respondeu. Deixou-a falar.
 
 — Foi Platisa quem cuidou de cada ferimento nosso, com as ervas que carrega. Foi ela quem enfrentou a chuva para recolher raízes. Foi ela quem dividiu sua água comigo em um sopro em que eu não tinha uma gota. E agora quer dizer que ela roubou? Que ela se desfaria da comida enquanto todos nós morremos de fome?
 
-Antes que Gabasteri respondesse, um rosnado atravessou a mata. Veio baixo, distante, seguido pelo estalo de galhos grossos cedendo sob algum peso. Então o rugido chegou de verdade, profundo o bastante para vibrar nas pedras sob os pés de Jokara.
+Antes que Gabasteri respondesse, um ronco subgrave atravessou a mata. Veio baixo, distante, seguido pelo estalo de galhos grossos cedendo sob algum peso. Então o chamado se abriu de verdade: o fundo gutural vibrou nas pedras sob os pés de Jokara e terminou num grito aviano capaz de cortar a chuva.
 
 Ela conhecia aquele som. O corpo se lembrou antes da cabeça: os dentes tortos entre as árvores, o cheiro de sangue, a primeira noite em Nadirion.
 
@@ -222,19 +222,19 @@ Jokara apertou a haste da lança até os dedos doerem.
 
 — Uma coisa que vocês não querem ver.
 
-O rugido não se repetiu. Por alguns instantes, a floresta pareceu prender a respiração com eles. Nem mesmo os insetos cantavam. O fogo estalou às costas de Jokara, alto demais naquele silêncio, e alguém respirava pela boca perto dela. Jokara tentou descobrir de onde viria o ataque, mas cada tronco parecia esconder alguma coisa.
+O chamado não se repetiu. Por alguns instantes, a floresta pareceu prender a respiração com eles. Nem mesmo os insetos cantavam. O fogo estalou às costas de Jokara, alto demais naquele silêncio, e alguém respirava pela boca perto dela. Jokara tentou descobrir de onde viria o ataque, mas cada tronco parecia esconder alguma coisa.
 
 À esquerda, folhas se moveram, e Mariv girou a lança naquela direção. Nada apareceu. Um galho rangeu atrás do grupo; Nestira se virou, enquanto Loutes levantava a própria arma, as mãos tensas na madeira. Antes de qualquer novo som, veio o cheiro, úmido e podre, entrando pela garganta de Jokara e apertando-lhe o estômago.
 
-Dois olhos amarelos surgiram baixos entre os troncos e desapareceram de novo. A fera não estava parada. Estava andando ao redor deles.
+Dois olhos amarelos surgiram entre os troncos, altos demais para qualquer fera comum, e desapareceram de novo. A criatura não estava parada. Estava andando ao redor deles.
 
 — Não se separem — disse Maletar, quase sem voz.
 
 Um ruído pesado correu pela vegetação à frente. As folhas se abriram de uma vez.
 
-A criatura atravessou os arbustos numa massa de pelo, dentes e lama. Mariv mal teve tempo de virar o corpo antes de ser atingido e desaparecer sob o peso dela. Seu grito se misturou ao rugido.
+A criatura atravessou os arbustos numa massa de escamas, garras e lama. A crista alta rasgou os galhos, e os braços compridos tocaram o chão antes que o dorso largo emergisse por inteiro. Mariv mal teve tempo de virar o corpo antes de ser atingido e desaparecer sob o peso dela. Seu grito se perdeu sob o bramido gutural e o rasgo aviano que veio depois.
 
-Loutes reagiu primeiro. Avançou com a lança e a enterrou no flanco da fera. A criatura se ergueu num urro, libertando Mariv por um instante, e virou a cabeça para o menino. Os dentes irregulares apareceram molhados sob a luz da fogueira.
+Loutes reagiu primeiro. Avançou com a lança e a enterrou no flanco da fera. A criatura elevou a parte da frente do corpo, ainda inclinada sobre as pernas traseiras curtas e a cauda, libertando Mariv por um instante. O som de dor começou como um bramido e se quebrou num grito aviano. Quando virou a cabeça grande para o menino, os caninos curvos apareceram molhados sob a luz da fogueira.
 
 Maletar não esperou que ela atacasse Loutes. Investiu e cravou a lâmina no dorso da fera.
 
@@ -246,11 +246,11 @@ Mariv, ainda ofegante, viu Platisa caída junto ao fogo e correu até ela.
 
 — Eu não vou deixá-la!
 
-Abaixou-se para erguê-la, mas Gabasteri chegou antes que conseguisse firmá-la nos braços. A fera rugia atrás deles, debatendo-se com Maletar.
+Abaixou-se para erguê-la, mas Gabasteri chegou antes que conseguisse firmá-la nos braços. A fera bramia atrás deles, debatendo-se com Maletar.
 
 — Você mal consegue respirar — disse Gabasteri a Mariv. — Ajude Maletar. Eu levo a garota.
 
-Mariv hesitou. Platisa estava mole nos braços, o zélon apertado contra o peito. Outro urro atravessou a clareira, seguido pelo grito de Maletar.
+Mariv hesitou. Platisa estava mole nos braços, o zélon apertado contra o peito. Outro bramido atravessou a clareira e terminou numa nota aguda, seguido pelo grito de Maletar.
 
 Gabasteri não esperou resposta. Passou um braço sob as pernas de Platisa, outro por suas costas e a ergueu.
 
@@ -258,9 +258,9 @@ Gabasteri não esperou resposta. Passou um braço sob as pernas de Platisa, outr
 
 Mariv voltou para a luta.
 
-Foi a última vez que Jokara viu Platisa. Gabasteri já se afastava com ela entre as árvores quando Nestira e Loutes conseguiram pôr Jokara de pé. Sem o bastão, ela dependia dos dois para avançar. Fugiram aos tropeços, com Jokara saltando e arrastando a perna direita entre eles sempre que o terreno permitia, enquanto os rugidos e o choque de madeira e metal continuavam atrás.
+Foi a última vez que Jokara viu Platisa. Gabasteri já se afastava com ela entre as árvores quando Nestira e Loutes conseguiram pôr Jokara de pé. Sem o bastão, ela dependia dos dois para avançar. Fugiram aos tropeços, com Jokara saltando e arrastando a perna direita entre eles sempre que o terreno permitia, enquanto os bramidos partidos por gritos avianos e o choque de madeira e metal continuavam atrás.
 
-Só pararam numa encosta distante, sem ar. Os rugidos ainda chegavam abafados pela floresta. Nestira andava em círculos.
+Só pararam numa encosta distante, sem ar. Os chamados ainda chegavam abafados pela floresta. Nestira andava em círculos.
 
 — Eles ficaram lá… eles ficaram lá…
 
@@ -286,7 +286,7 @@ Mariv assentiu com dificuldade.
 
 — Quando Gabasteri pegou Platisa, achei que os dois já estariam longe.
 
-Por algum tempo, ninguém falou. Os rugidos foram ficando mais distantes até desaparecerem, deixando apenas o vento atravessando as folhas.
+Por algum tempo, ninguém falou. Os bramidos foram ficando mais distantes até desaparecerem, deixando apenas o vento atravessando as folhas.
 
 Quando passos surgiram novamente entre as árvores, todos se viraram.
 
