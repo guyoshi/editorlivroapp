@@ -152,7 +152,7 @@ Jokara agarrou a mão da irmã.
 
 Platisa se aproximou devagar, com o zélon contra o peito.
 
-— Jokara… preciso falar contigo.
+— Jokara… preciso falar com você.
 
 Jokara nem levantou os olhos.
 
@@ -285,7 +285,7 @@ Nestira não respondeu.
 
 Nestira tocou a mão da irmã.
 
-— Isso não tira teu lugar.
+— Isso não tira seu lugar.
 
 — Eu sei agora.
 

@@ -460,7 +460,7 @@ Ele estudou o rosto dela.
 
 — Em carregar lenha.
 
-Mariv quase insistiu, mas desistiu. Naquela mesmo Sopro do Silêncio, Gabasteri reuniu todos ao redor do fogo. Havia comida suficiente. Isso por si só tornou a cena estranha. Quatro porções. Nenhuma barriga completamente vazia. Gabasteri olhou para cada um deles.
+Mariv quase insistiu, mas desistiu. Naquele mesmo Sopro do Silêncio, Gabasteri reuniu todos ao redor do fogo. Havia comida suficiente. Isso por si só tornou a cena estranha. Quatro porções. Nenhuma barriga completamente vazia. Gabasteri olhou para cada um deles.
 
 — Isso é o que eu quero.
 
