@@ -308,7 +308,21 @@ const Comments = (() => {
   }
 
   function pInfo(block){const p=block.querySelector("p");const raw=p?p.textContent:block.textContent;const q=norm(raw);return {key:"p_"+hashText(q),quote:q.slice(0,220)};}
-  function loc(x,ch,i,key){if(Number(x.chapter)!==Number(ch))return false;if(key&&x.paragraphKey&&x.paragraphKey===key)return true;return Number(x.paraIdx)===Number(i);}
+  // Compatibilidade para comentários legados sem paragraphKey. Revisões do
+  // manuscrito inseriram 3 parágrafos após o 31 no cap. 6 e 8 após o 202 no
+  // cap. 21. Comentários novos possuem a chave atual e não passam por este ajuste.
+  function legacyParaIdx(x,ch){
+    let i=Number(x?.paraIdx);
+    if(!Number.isFinite(i))return i;
+    if(Number(ch)===6&&i>31)i+=3;
+    if(Number(ch)===21&&i>202)i+=8;
+    return i;
+  }
+  function loc(x,ch,i,key){
+    if(Number(x.chapter)!==Number(ch))return false;
+    if(key&&x.paragraphKey&&x.paragraphKey===key)return true;
+    return legacyParaIdx(x,ch)===Number(i);
+  }
   // Edição é sempre do próprio autor. Estar no modo admin não transforma
   // comentários de leitores em comentários "meus".
   function own(x){
