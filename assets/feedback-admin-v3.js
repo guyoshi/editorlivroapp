@@ -1547,7 +1547,81 @@
   function showAccess(){if(!Comments?.isAdmin?.())return;ensureAccessSheet();document.getElementById("bookAccessSheet").hidden=false;renderAccess();}
   function hideAccess(){const x=document.getElementById("bookAccessSheet");if(x)x.hidden=true;}
 
-  document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on)subscribe();else{stop();hide();hideReactions();hideFeedbackHub();hideAccess();hideAnalytics();hideBetaFeedbackAdmin();hideAdminHome();}});
+  const FELIPE_CH22_REACTION_MIGRATION="lityra:migration:felipe-ch22-exilado-v1";
+
+  async function migrateFelipeCh22Reactions(){
+    if(!Comments?.isAdmin?.()||!db()||localStorage.getItem(FELIPE_CH22_REACTION_MIGRATION)==="1")return;
+    try{
+      const manifestRes=await fetch("data/ruinas-dos-ceus.json",{cache:"no-cache"});
+      if(!manifestRes.ok)return;
+      const manifest=await manifestRes.json();
+      const ch=(manifest.chapters||[]).find(x=>Number(x.n)===22);
+      if(!ch?.text)return;
+
+      const textRes=await fetch(ch.text,{cache:"no-cache"});
+      if(!textRes.ok)return;
+      const raw=await textRes.text();
+      const paras=String(raw||"").replace(/\r\n/g,"\n").trim().split(/\n{2,}/).filter(Boolean);
+
+      const defs=[
+        {snippet:"Cobrir o rosto dele foi a parte mais difícil.",emoji:"😢"},
+        {snippet:"— Hoje você não come.",emoji:"😱"},
+        {snippet:"Gabasteri fechou a mão no pescoço dele.",emoji:"😱"},
+        {snippet:"— Vocês não vão a lugar algum.",emoji:"😱"},
+        {snippet:"Mas um Gabasteri foi enviado para as Ilhas Baixas muitos ciclos antes da queda.",emoji:"🤔"}
+      ];
+      const targets=defs.map(def=>{
+        const idx=paras.findIndex(p=>p.includes(def.snippet));
+        if(idx<0)return null;
+        const text=paras[idx];
+        return {
+          idx,text,emoji:def.emoji,
+          key:"p_"+Comments.hashText(text),
+          quote:norm(text).slice(0,220)
+        };
+      });
+      if(targets.some(x=>!x))return;
+
+      const snap=await db().collection("comments").where("bookId","==","ruinas-dos-ceus").get();
+      const reactions=[];
+      snap.forEach(doc=>{
+        const x=doc.data()||{},name=norm(x.author);
+        if(x.kind==="reaction"&&Number(x.chapter)===22&&(name==="felipe"||name==="filipe")){
+          reactions.push({ref:doc.ref,id:doc.id,...x});
+        }
+      });
+      if(!reactions.length)return;
+
+      reactions.sort((a,b)=>(Number(a.paraIdx)||0)-(Number(b.paraIdx)||0)||(Number(a.at)||0)-(Number(b.at)||0));
+      const n=reactions.length;
+      const pick=n<=1?[2]:n===2?[2,4]:n===3?[0,2,4]:n===4?[0,1,2,4]:[0,1,2,3,4];
+      const selected=pick.map(i=>targets[i]);
+      const batch=db().batch();
+
+      reactions.forEach((r,i)=>{
+        if(i<selected.length){
+          const t=selected[i];
+          batch.set(r.ref,{
+            paraIdx:t.idx,
+            paragraphKey:t.key,
+            quote:t.quote,
+            emoji:t.emoji,
+            updatedAt:Date.now()
+          },{merge:true});
+        }else{
+          batch.delete(r.ref);
+        }
+      });
+
+      await batch.commit();
+      localStorage.setItem(FELIPE_CH22_REACTION_MIGRATION,"1");
+      await Comments.forceResync?.();
+    }catch(e){
+      console.warn("Não foi possível reposicionar as reações do Filipe no capítulo 22:",e);
+    }
+  }
+
+  document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on){subscribe();setTimeout(migrateFelipeCh22Reactions,500);}else{stop();hide();hideReactions();hideFeedbackHub();hideAccess();hideAnalytics();hideBetaFeedbackAdmin();hideAdminHome();}});
   document.addEventListener("beta:admin-home",()=>{if(Comments?.isAdmin?.())showAdminHome();});
-  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureFeedbackHub();ensureReactionSheet();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureBetaFeedbackAdminSheet();ensureDeleteReaderConfirm();ensureRotateCodeConfirm();if(Comments?.isAdmin?.())subscribe();});
+  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureFeedbackHub();ensureReactionSheet();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureBetaFeedbackAdminSheet();ensureDeleteReaderConfirm();ensureRotateCodeConfirm();if(Comments?.isAdmin?.()){subscribe();setTimeout(migrateFelipeCh22Reactions,500);}});
 })();
