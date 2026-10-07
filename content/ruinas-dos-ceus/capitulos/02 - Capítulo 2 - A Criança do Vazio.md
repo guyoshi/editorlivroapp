@@ -96,13 +96,13 @@ Mirel subia os degraus espirais com um cesto de folhas aromáticas, os olhos nas
 
 Foi Nestira quem subiu primeiro.
 
-— A Corrente não falhou contigo, Jokara — disse, parada à entrada do quarto, descalça.
+— A Corrente não falhou com você, Jokara — disse, parada à entrada do quarto, descalça.
 
 Jokara não respondeu. Continuou sentada, as costas eretas, o rosto virado para a parede.
 
 — Não é uma questão de passar ou não — insistiu Nestira, entrando mais um passo. — É aprender a escutar e sentir o vento.
 
-— Não preciso das tuas frases de orador. — A voz de Jokara saiu baixa, rouca.
+— Não preciso das suas frases de orador. — A voz de Jokara saiu baixa, rouca.
 
 Nestira respirou, sem se ofender. Acostumara-se com a dureza da irmã.
 
@@ -130,7 +130,7 @@ Mirel apareceu à porta com o cesto de folhas.
 
 As filhas silenciaram.
 
-— Jokara — continuou Mirel, pousando o cesto sobre a mesa —, a curandeira Sersi vai aos bosques de Arion amanhã cedo. Ela pediu tua companhia. Disse que o sopro das folhas pode ajudar a aliviar o que pesa.
+— Jokara — continuou Mirel, pousando o cesto sobre a mesa —, a curandeira Sersi vai aos bosques de Arion amanhã cedo. Ela pediu sua companhia. Disse que o sopro das folhas pode ajudar a aliviar o que pesa.
 
 — Não preciso de alívio — respondeu Jokara, secamente. — Só preciso ficar sozinha.
 
@@ -200,7 +200,7 @@ Jokara não respondeu. Ninguém a apressou.
 
 Efepar se recostou na viga de madeira, girando algo entre os dedos.
 
-— Tua irmã falou com a gente ontem ao Sopro do Silêncio.
+— Sua irmã falou com a gente ontem ao Sopro do Silêncio.
 
 Jokara franziu o cenho, sem responder.
 
@@ -218,7 +218,7 @@ Jokara apertou os dedos no tecido do manto. A lembrança lhe voltou com cores vi
 
 Efepar então puxou algo do bolso: uma pena prateada, pequena, levemente curva: a mesma que ela resgatara do pai. Ela sabia que Nestira ainda tinha várias coisas do pai guardadas, mas aquela pena…
 
-— Acho que é tua — disse. — Ela pediu pra te entregar.
+— Acho que é sua — disse. — Ela pediu pra te entregar.
 
 Jokara segurou a pena com cuidado. Nestira tinha guardado aquilo todos esses ciclos. Tinha guardado para ela.
 
