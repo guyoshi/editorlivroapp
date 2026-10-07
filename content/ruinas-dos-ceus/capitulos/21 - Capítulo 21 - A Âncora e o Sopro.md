@@ -414,7 +414,7 @@ Jokara demorou a responder.
 
 — Mamãe… eu não sei. Quero acreditar que sim. Efepar, não. Eu vi as pedras caírem sobre ele. Sobre os pais dele também.
 
-Os dedos de Nestira pararam no cabelo dela.
+Nestira soltou a trança e deixou as mãos no colo.
 
 — Você viu?
 
