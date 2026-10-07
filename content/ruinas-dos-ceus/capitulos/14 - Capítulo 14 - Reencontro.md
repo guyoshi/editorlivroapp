@@ -4,6 +4,52 @@ Os sopros seguintes trouxeram chuva. A floresta pingava sem cessar: folhas encha
 
 Ao Sopro do Silêncio, reuniam-se sob o teto molhado, partilhando frutos úmidos e raízes cozidas no fogo fraco que Mariv se dedicava a manter aceso contra a umidade. Nestira cantava baixinho, e Loutes não tirava os olhos dela. Jokara se perguntava se a irmã ainda acreditava nos ventos ou se cantava só para não enlouquecer.
 
+Em uma das tardes em que a chuva deu trégua, Jokara e Nestira se afastaram sozinhas do abrigo para procurar raízes entre as árvores. Caminharam por algum tempo sem falar, ouvindo apenas a água cair das folhas.
+
+— Você acha que mamãe pode ter sobrevivido? — perguntou Nestira.
+
+Jokara manteve os olhos no chão, procurando as folhas largas que indicavam raízes comestíveis.
+
+— Não sei. Eu não vi o que aconteceu com ela.
+
+Nestira arrancou uma raiz da terra e limpou a lama com o polegar.
+
+— E Efepar?
+
+Jokara parou.
+
+— Ele não.
+
+Nestira ergueu os olhos.
+
+— Como sabe?
+
+— Eu vi as pedras caírem sobre ele. Sobre os pais dele também.
+
+A raiz permaneceu imóvel nas mãos de Nestira.
+
+— Então ele…
+
+— Morreu.
+
+A palavra ficou entre as duas por alguns instantes, misturada ao som da água pingando.
+
+— Por que não me contou?
+
+Jokara voltou a caminhar.
+
+— Porque você já estava se culpando pela Liri. Eu não sabia como te dizer mais aquilo também.
+
+Nestira a acompanhou em silêncio. Só depois de alguns passos tornou a falar:
+
+— E mamãe?
+
+Jokara respirou fundo.
+
+— Mamãe eu não sei. E, por enquanto, isso vai ter que bastar.
+
+Continuaram procurando raízes.
+
 Certo sopro, quando a chuva rareou, Jokara decidiu tentar a pesca. Caminhou até o rio, com a lança improvisada numa mão e o bastão de apoio na outra. 
 
 Então a água tremeu. Uma sombra atravessou o rio e emergiu.
