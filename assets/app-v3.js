@@ -238,6 +238,7 @@ async function openChapter(idx){
   window.BetaAnalytics?.closeChapter?.();
   window.BetaPresence?.closeChapter?.();
   state.currentChapterIdx = idx;
+  state.currentChapterRaw = "";
   localStorage.setItem(LASTCH_KEY(book.id), String(idx));
   window.BetaAnalytics?.openChapter?.(book,ch,readChapterPct(book.id,ch.n));
   window.BetaPresence?.openChapter?.(book,ch,readScrollPct(book.id,ch.n));
