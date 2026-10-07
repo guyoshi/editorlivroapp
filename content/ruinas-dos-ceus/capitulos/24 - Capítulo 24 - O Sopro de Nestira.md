@@ -12,7 +12,7 @@ Os pés dela hesitaram. Queria voltar.
 
 Então lembrou-se:
 
-“Eu carrego o teu peso… e você carrega o meu sopro.”
+“Eu carrego o seu peso… e você carrega o meu sopro.”
 
 Nestira tropeçou em uma raiz, quase caiu, mas Mariv a segurou firme pelo braço, erguendo-a com força.
 
@@ -68,7 +68,7 @@ Nestira ergueu o rosto.
 
 — No rio. Antes de tudo isso. Disse que, quando você voasse alto demais, eu devia puxar um pouco. Quando ficasse presa no chão, empurrar. E deixar você fazer o mesmo comigo.
 
-Nestira fechou os olhos. As palavras de Jokara voltaram inteiras: “Eu carrego o teu peso… e você carrega o meu sopro.”
+Nestira fechou os olhos. As palavras de Jokara voltaram inteiras: “Eu carrego o seu peso… e você carrega o meu sopro.”
 
 — Ela chamou isso de ser polar — disse Mariv.
 

@@ -56,7 +56,7 @@ Ela fechou o recipiente na mão.
 
 Gabasteri não respondeu.
 
-— No sopro em que nos conhecemos, você quis saber quantos éramos. Perguntou da água, do fogo, da comida, de onde caçávamos. Depois viu o abrigo. Foi embora… e naquela mesmo Sopro do Silêncio ele queimou.
+— No sopro em que nos conhecemos, você quis saber quantos éramos. Perguntou da água, do fogo, da comida, de onde caçávamos. Depois viu o abrigo. Foi embora… e naquele mesmo Sopro do Silêncio ele queimou.
 
 Silêncio.
 
@@ -342,7 +342,7 @@ Atrás delas, houve o choque seco da lança contra a lâmina e, depois, um corpo
 
 Jokara esperou até que a irmã a olhasse de verdade.
 
-— Eu carrego o teu peso… e você carrega o meu sopro.
+— Eu carrego o seu peso… e você carrega o meu sopro.
 
 O rosto de Nestira desmoronou. Ela soltou o pano por um instante apenas para segurar o rosto da irmã entre as mãos, encostando a testa na dela.
 
