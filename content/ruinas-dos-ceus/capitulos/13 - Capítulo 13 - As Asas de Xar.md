@@ -356,7 +356,7 @@ E se ele estivesse mexendo na cabeça dela? Tinha olhos sinceros. Gente com olho
 
 Estava quase dormindo quando Loutes se ajeitou colado nela e disse:
 
-— Boa… noi… te.
+— Bom… so… pro.
 
 Cada sílaba saiu separada, arrastada. Jokara se sentou de supetão. Loutes a olhava, sério, sem entender por que ela tinha se assustado.
 
