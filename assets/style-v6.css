@@ -60,6 +60,15 @@
   --line: #3a2227; --accent: #e0a458; --accent-ink: #1e1315; --focus-bg: #180f11;
 }
 
+/* Informa aos controles nativos do navegador se o tema ativo é claro ou escuro.
+   Isso evita inputs/textarea brancos em temas escuros no Android/Chrome. */
+:root[data-theme="papel"]{ color-scheme:light; }
+:root[data-theme="ambar"],
+:root[data-theme="grafite"],
+:root[data-theme="azul"],
+:root[data-theme="floresta"],
+:root[data-theme="vinho"]{ color-scheme:dark; }
+
 *{ box-sizing: border-box; }
 button{ color:inherit; font-family:inherit; }
 html,body{ height:100%; }
