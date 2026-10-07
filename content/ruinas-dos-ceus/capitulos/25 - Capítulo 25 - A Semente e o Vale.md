@@ -182,7 +182,7 @@ Ficou ajoelhado diante dela por algum tempo. Ainda não havia cântico para aqui
 
 Então começou a cavar.
 
-Usou as mãos, uma pedra achatada e, quando os dedos ficaram feridos demais, a ponta quebrada de um osso que encontrara perto do rio. A terra úmida cedia devagar. Enquanto trabalhava, lembrou-se de Mariv, Jokara e Nestira cobrindo o corpo de Maletar. Lembrou-se da pedra clara que deixaram junto à raiz.
+Usou as mãos, uma pedra achatada e, quando os dedos ficaram feridos demais, a ponta quebrada de um osso que encontrara perto do rio. A terra úmida cedia devagar. Enquanto trabalhava, lembrou-se dos três cobrindo o corpo de Maletar. Lembrou-se da pedra clara que deixaram junto à raiz.
 
 Dessa vez, não precisava descobrir o gesto.
 
