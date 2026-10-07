@@ -4,51 +4,19 @@ Os sopros seguintes trouxeram chuva. A floresta pingava sem cessar: folhas encha
 
 Ao Sopro do Silêncio, reuniam-se sob o teto molhado, partilhando frutos úmidos e raízes cozidas no fogo fraco que Mariv se dedicava a manter aceso contra a umidade. Nestira cantava baixinho, e Loutes não tirava os olhos dela. Jokara se perguntava se a irmã ainda acreditava nos ventos ou se cantava só para não enlouquecer.
 
-Em uma das tardes em que a chuva deu trégua, Jokara e Nestira se afastaram sozinhas do abrigo para procurar raízes entre as árvores. Caminharam por algum tempo sem falar, ouvindo apenas a água cair das folhas.
+Em uma das tardes em que a chuva deu trégua, Jokara e Nestira se afastaram sozinhas do abrigo para procurar raízes entre as árvores. Caminharam por algum tempo sem falar, ouvindo apenas a água cair das folhas. Quando Nestira encontrou uma raiz larga junto a um tronco, ajoelhou-se para soltá-la da terra e falou sem olhar para a irmã.
 
-— Você acha que mamãe pode ter sobrevivido? — perguntou Nestira.
+— Às vezes penso que mamãe pode ter saído do mercado antes de tudo cair. Que talvez estivesse em outra passagem quando chegamos lá.
 
-Jokara manteve os olhos no chão, procurando as folhas largas que indicavam raízes comestíveis.
+Jokara conhecia aquela esperança. Também já imaginara Mirel deixando uma banca alguns instantes antes, tomando uma rua diferente, sendo empurrada pela multidão para longe da borda. Eram possibilidades pequenas, mas eram tudo o que tinham. — Eu penso nisso também. A gente viu o mercado cair, mas não viu mamãe.
 
-— Não sei. Eu não vi o que aconteceu com ela.
+Nestira limpou a lama da raiz com os dedos, demorando mais do que precisava. — Se ela saiu, deve ter procurado por nós. — Deve ter tentado — respondeu Jokara. Nenhuma das duas disse que essa possibilidade tornava o silêncio ainda pior.
 
-Nestira arrancou uma raiz da terra e limpou a lama com o polegar.
+Continuaram andando entre as árvores. Alguns passos depois, Nestira apertou a raiz contra o peito. — Com Efepar não dá para imaginar uma passagem diferente. Eu ainda vejo ele correndo com os pais. Vejo os dois levantando os braços.
 
-— E Efepar?
+A imagem voltou inteira para Jokara: Efepar vindo na direção delas, sua própria mão começando a se erguer antes do estrondo, as pedras despencando sobre os três enquanto Nestira permanecia ao lado dela. — Eu nem consegui chamar o nome dele.
 
-Jokara parou.
-
-— Ele não.
-
-Nestira ergueu os olhos.
-
-— Como sabe?
-
-— Eu vi as pedras caírem sobre ele. Sobre os pais dele também.
-
-A raiz permaneceu imóvel nas mãos de Nestira.
-
-— Então ele…
-
-— Morreu.
-
-A palavra ficou entre as duas por alguns instantes, misturada ao som da água pingando.
-
-— Por que não me contou?
-
-Jokara voltou a caminhar.
-
-— Porque você já estava se culpando pela Liri. Eu não sabia como te dizer mais aquilo também.
-
-Nestira a acompanhou em silêncio. Só depois de alguns passos tornou a falar:
-
-— E mamãe?
-
-Jokara respirou fundo.
-
-— Mamãe eu não sei. E, por enquanto, isso vai ter que bastar.
-
-Continuaram procurando raízes.
+Por um tempo, nenhuma das duas encontrou o que dizer. Havia algo cruel em não saber o que acontecera com a mãe e algo igualmente cruel em saber exatamente o que acontecera com Efepar. Quando voltaram a procurar raízes, caminharam mais perto uma da outra do que antes.
 
 Certo sopro, quando a chuva rareou, Jokara decidiu tentar a pesca. Caminhou até o rio, com a lança improvisada numa mão e o bastão de apoio na outra. 
 
