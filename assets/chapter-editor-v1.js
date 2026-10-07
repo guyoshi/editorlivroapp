@@ -464,6 +464,20 @@
     localStorage.removeItem(TOKEN_LOCAL);
   }
 
+  function cleanToken(value){
+    return String(value||"").replace(/[\s\u00A0\u200B-\u200D\u2060\uFEFF]+/g,"").trim();
+  }
+
+  function checkedToken(value){
+    const t=cleanToken(value);
+    if(!t)return "";
+    if(/[^\x21-\x7E]/.test(t)){
+      forgetToken();
+      throw new Error("O token contém um caractere invisível ou inválido. Cole novamente o código completo do GitHub.");
+    }
+    return t;
+  }
+
   async function askToken(){
     const body=
       '<p>Para publicar no livro oficial, o navegador precisa de um token GitHub com acesso somente ao repositório <code>'+esc(REPO)+'</code> e permissão <strong>Contents: Read and write</strong>.</p>'+
@@ -474,8 +488,14 @@
     const result=await modalShell("Conectar GitHub",body,[
       {label:"Cancelar",value:null},
       {label:"Conectar",primary:true,onClick:(wrap)=>{
-        const token=qs("#chapterGithubToken",wrap).value.trim();
+        const token=cleanToken(qs("#chapterGithubToken",wrap).value);
         if(!token){qs("#chapterGithubToken",wrap).focus();return undefined;}
+        if(/[^\x21-\x7E]/.test(token)){
+          qs("#chapterGithubToken",wrap).value="";
+          qs("#chapterGithubToken",wrap).placeholder="Cole novamente o token sem espaços";
+          qs("#chapterGithubToken",wrap).focus();
+          return undefined;
+        }
         return {token,remember:qs("#chapterGithubRemember",wrap).checked};
       }}
     ]);
@@ -486,7 +506,16 @@
   }
 
   async function token(){
-    return sessionStorage.getItem(TOKEN_SESSION)||localStorage.getItem(TOKEN_LOCAL)||await askToken();
+    const stored=sessionStorage.getItem(TOKEN_SESSION)||localStorage.getItem(TOKEN_LOCAL);
+    if(stored){
+      const cleaned=checkedToken(stored);
+      if(cleaned!==stored){
+        sessionStorage.setItem(TOKEN_SESSION,cleaned);
+        if(localStorage.getItem(TOKEN_LOCAL))localStorage.setItem(TOKEN_LOCAL,cleaned);
+      }
+      return cleaned;
+    }
+    return await askToken();
   }
 
   async function github(path,options={}){
@@ -494,16 +523,25 @@
     if(!t)throw new Error("Publicação cancelada.");
     const encoded=path.split("/").map(encodeURIComponent).join("/");
     const url="https://api.github.com/repos/"+REPO+"/contents/"+encoded+(options.method?"":"?ref="+encodeURIComponent(BRANCH));
-    const res=await fetch(url,{
-      method:options.method||"GET",
-      headers:{
-        "Accept":"application/vnd.github+json",
-        "Authorization":"Bearer "+t,
-        "X-GitHub-Api-Version":"2022-11-28",
-        ...(options.headers||{})
-      },
-      body:options.body?JSON.stringify(options.body):undefined
-    });
+    let res;
+    try{
+      res=await fetch(url,{
+        method:options.method||"GET",
+        headers:{
+          "Accept":"application/vnd.github+json",
+          "Authorization":"Bearer "+checkedToken(t),
+          "X-GitHub-Api-Version":"2022-11-28",
+          ...(options.headers||{})
+        },
+        body:options.body?JSON.stringify(options.body):undefined
+      });
+    }catch(err){
+      if(/ISO-8859-1|headers|code point/i.test(String(err?.message||err))){
+        forgetToken();
+        throw new Error("O token salvo contém um caractere inválido. Cole novamente o código do GitHub; o Lityra vai limpar espaços e caracteres invisíveis automaticamente.");
+      }
+      throw err;
+    }
     let data=null;
     try{data=await res.json();}catch(e){}
     if(res.status===401){
