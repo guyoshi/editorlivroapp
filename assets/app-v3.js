@@ -1092,9 +1092,18 @@ function initSettings(){
   const sheet = $("#settingsSheet");
   const hideArt = $("#cfgHideArt");
   const autoAmbient = $("#cfgAutoAmbient");
+  const appVersionLabel = $("#appVersionLabel");
+  const appBuildLabel = $("#appBuildLabel");
+  const appVersion = document.querySelector('meta[name="lityra-version"]')?.content || "";
+  const renderAppIdentity = ()=>{
+    if(appVersionLabel) appVersionLabel.textContent = appVersion ? "v"+appVersion : "";
+    const build = String(window.BetaDiag?.appVersion || "").trim();
+    if(appBuildLabel) appBuildLabel.textContent = build ? "Build "+build : "Build —";
+  };
   $("#btnSettings").addEventListener("click", ()=>{
     if(hideArt) hideArt.checked = localStorage.getItem(HIDE_ART_KEY)==="1";
     if(autoAmbient) autoAmbient.checked = prefGet(AUTO_AMBIENT_KEY,"0")==="1";
+    renderAppIdentity();
     sheet.hidden = false;
   });
   $("#cfgClose").addEventListener("click", ()=> sheet.hidden = true);
@@ -1107,6 +1116,7 @@ function initSettings(){
     window.BetaAnalytics?.syncPreferences?.();
     sheet.hidden = true;
   });
+  renderAppIdentity();
   initThemePicker($("#themePicker"));
   initThemePicker($("#readerThemePicker"));
   initFontPicker($("#readerFontPicker"), true);
