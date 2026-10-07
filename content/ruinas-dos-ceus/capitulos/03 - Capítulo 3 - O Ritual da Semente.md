@@ -104,7 +104,7 @@ Nestira sorriu.
 
 — Minha avó dizia que quando os joelhos começam a ranger é sinal de que os ventos querem que a gente fique sentada e escute mais.
 
-— Tua avó era sábia. E tinha joelhos rebeldes — respondeu Yrisea com um riso baixo. — Os meus só obedecem quando têm algo bonito pra ouvir. E hoje eles estão ouvindo.
+— Sua avó era sábia. E tinha joelhos rebeldes — respondeu Yrisea com um riso baixo. — Os meus só obedecem quando têm algo bonito pra ouvir. E hoje eles estão ouvindo.
 
 Jokara se manteve em pé, mãos unidas à frente do corpo, atenta. Mirel, ao lado, esperava. Conhecia o ritmo da anciã.
 
@@ -118,7 +118,7 @@ Fechou o livro, o som da madeira ecoando suavemente pelo salão.
 
 — E se... — Jokara hesitou. — E se ele não for de semente alguma? E se não for como nós?
 
-— Ninguém é como ninguém, menina. Nem tu és como tua irmã. Nem tua irmã como a água que bebe. A diferença não impede a raiz. Só desafia o jardineiro.
+— Ninguém é como ninguém, menina. Nem você é como sua irmã. Nem sua irmã como a água que bebe. A diferença não impede a raiz. Só desafia o jardineiro.
 
 O menino continuava calado, mas agora observava Yrisea com atenção.
 
@@ -226,7 +226,7 @@ Platisa, emocionada, respirou fundo e concluiu:
 
 Então um dos oradores se aproximou, e encerrou o ritual:
 
-— Que o vento te conduza, Loutes. E que tua raiz, um sopro, escolha florir.
+— Que o vento te conduza, Loutes. E que sua raiz, um sopro, escolha florir.
 
 Jokara sentiu um arrepio subir pela espinha. Fazia muito tempo que não se sentia parte de alguma coisa.
 
