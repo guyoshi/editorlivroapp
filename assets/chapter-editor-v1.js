@@ -88,6 +88,10 @@
     return "p_"+(window.Comments?.hashText?.(text) || "");
   }
 
+  function quoteFor(text){
+    return norm(text).slice(0,220);
+  }
+
   function resizeTextarea(){
     if(!edit?.textarea)return;
     const ta=edit.textarea;
@@ -348,24 +352,26 @@
 
   function targetForRoot(root,newParas,assignments){
     if(newParas.length===1){
-      return {idx:edit.idx,key:keyFor(newParas[0])};
+      return {idx:edit.idx,key:keyFor(newParas[0]),quote:quoteFor(newParas[0])};
     }
     if(newParas.length>1){
       const off=Number(assignments[root.id]);
-      return {idx:edit.idx+off,key:keyFor(newParas[off])};
+      const text=newParas[off];
+      return {idx:edit.idx+off,key:keyFor(text),quote:quoteFor(text)};
     }
     const choice=assignments[root.id];
     if(choice==="prev"){
       const block=qs('#chapterText .para-block[data-para-idx="'+(edit.idx-1)+'"]');
-      return {idx:edit.idx-1,key:block?.dataset.paragraphKey||keyFor(qs("p",block)?.textContent||"")};
+      const text=qs("p",block)?.textContent||"";
+      return {idx:edit.idx-1,key:block?.dataset.paragraphKey||keyFor(text),quote:quoteFor(text)};
     }
     if(choice==="next"){
       const block=qs('#chapterText .para-block[data-para-idx="'+(edit.idx+1)+'"]');
-      return {idx:edit.idx,key:block?.dataset.paragraphKey||keyFor(qs("p",block)?.textContent||"")};
+      const text=qs("p",block)?.textContent||"";
+      return {idx:edit.idx,key:block?.dataset.paragraphKey||keyFor(text),quote:quoteFor(text)};
     }
     return null;
   }
-
   async function applyFeedbackRemap(newParas,assignments){
     const info=sourceFeedback();
     const db=window.Comments?.getDb?.();
@@ -389,7 +395,7 @@
       const rootId=x.parentId||x.rootId||x.id;
       if(rootTargets.has(rootId)){
         const t=rootTargets.get(rootId);
-        patches.push({id:x.id,data:{paraIdx:t.idx,paragraphKey:t.key}});
+        patches.push({id:x.id,data:{paraIdx:t.idx,paragraphKey:t.key,quote:t.quote}});
         return;
       }
 
@@ -505,10 +511,14 @@
     const path=canonicalPath(edit.ctx);
     const remote=await github(path);
     const remoteRaw=base64ToUtf8(remote.content);
-    if(!sameText(remoteRaw,edit.raw)){
+    const alreadyPublished=sameText(remoteRaw,nextRaw);
+    if(!alreadyPublished&&!sameText(remoteRaw,edit.raw)){
       const err=new Error("O capítulo oficial mudou desde que você abriu esta edição. Reabra o capítulo para não sobrescrever uma versão mais nova.");
       err.code="conflict";
       throw err;
+    }
+    if(alreadyPublished){
+      return {path,saved:null,original:edit.raw,alreadyPublished:true};
     }
     const body={
       message:"Edit cap. "+edit.ctx.chapter.n+" via Editor de Livros App",
@@ -517,9 +527,8 @@
       branch:BRANCH
     };
     const saved=await github(path,{method:"PUT",body});
-    return {path,saved,original:remoteRaw};
+    return {path,saved,original:remoteRaw,alreadyPublished:false};
   }
-
   async function rollbackCanonical(pub){
     try{
       const latest=await github(pub.path);
