@@ -66,7 +66,7 @@ const ART_BASE = "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/
 function coverUrl(bookId){ return ART_BASE + bookId + "/cover.webp"; }
 function chapterArtUrl(bookId, n){ return ART_BASE + bookId + "/chapters/chapter-" + String(n).padStart(2,"0") + ".webp"; }
 
-const state = { books: [], currentBook: null, currentChapterIdx: -1, ambientSrc: null };
+const state = { books: [], currentBook: null, currentChapterIdx: -1, currentChapterRaw: "", ambientSrc: null };
 
 const $ = (sel, root=document) => root.querySelector(sel);
 const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
@@ -272,6 +272,7 @@ async function openChapter(idx){
   try{
     const res = await fetch(resolve(ch.text), {cache:"no-cache"});
     const raw = await res.text();
+    state.currentChapterRaw = raw;
     renderChapterText(ch, raw);
     // Capítulo incompleto retoma o ponto salvo da leitura textual.
     // A narração mantém seu próprio marcador em segundos e é restaurada abaixo.
@@ -994,12 +995,33 @@ window.BookReader = {
     const chapter=book?.chapters?.[state.currentChapterIdx];
     return book&&chapter ? {book:{id:book.id,title:book.title},chapter:{...chapter},chapterIdx:state.currentChapterIdx} : null;
   },
+  getCurrentContext:()=>{
+    const book=state.currentBook;
+    const chapter=book?.chapters?.[state.currentChapterIdx];
+    return book&&chapter ? {
+      bookId:book.id,
+      bookTitle:book.title||"",
+      chapter:{...chapter},
+      chapterIdx:state.currentChapterIdx,
+      raw:state.currentChapterRaw||""
+    } : null;
+  },
   renderCurrentRaw:(raw)=>{
     const book=state.currentBook;
     const chapter=book?.chapters?.[state.currentChapterIdx];
     if(!book||!chapter)return;
-    renderChapterText(chapter,raw);
+    state.currentChapterRaw=String(raw||"");
+    renderChapterText(chapter,state.currentChapterRaw);
     Comments.attachChapter(book.id,chapter.n,$("#chapterText"),$("#chapterNotes"));
+  },
+  applyPublishedChapter:async(raw)=>{
+    const book=state.currentBook;
+    const chapter=book?.chapters?.[state.currentChapterIdx];
+    if(!book||!chapter)return;
+    state.currentChapterRaw=String(raw||"");
+    renderChapterText(chapter,state.currentChapterRaw);
+    await Comments.attachChapter(book.id,chapter.n,$("#chapterText"),$("#chapterNotes"));
+    document.dispatchEvent(new CustomEvent("beta:chapter-published",{detail:{bookId:book.id,chapter:chapter.n}}));
   }
 };
 
