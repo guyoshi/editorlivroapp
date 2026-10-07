@@ -986,7 +986,22 @@ async function openLocation(bookId, chapterN, paraIdx, paragraphKey, commentId){
     }
   }
 }
-window.BookReader = { openLocation, getBooks:()=>state.books.slice() };
+window.BookReader = {
+  openLocation,
+  getBooks:()=>state.books.slice(),
+  getCurrent:()=>{
+    const book=state.currentBook;
+    const chapter=book?.chapters?.[state.currentChapterIdx];
+    return book&&chapter ? {book:{id:book.id,title:book.title},chapter:{...chapter},chapterIdx:state.currentChapterIdx} : null;
+  },
+  renderCurrentRaw:(raw)=>{
+    const book=state.currentBook;
+    const chapter=book?.chapters?.[state.currentChapterIdx];
+    if(!book||!chapter)return;
+    renderChapterText(chapter,raw);
+    Comments.attachChapter(book.id,chapter.n,$("#chapterText"),$("#chapterNotes"));
+  }
+};
 
 const THEMES = [
   {id:"papel",    name:"Papel",         swatch:"#faf6ef"},
