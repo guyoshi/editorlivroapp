@@ -328,7 +328,13 @@ Ela demorou antes de assentir.
 
 Ninguém pareceu satisfeito com a resposta. Jokara menos do que todos.
 
-Fazia frio. Uma rajada entrou por entre as árvores e apagou a fogueira. Demoraram para reacender o fogo, protegendo-o agora com uma estrutura de pedras e galhos úmidos.
+Fazia frio. Uma rajada entrou por entre as árvores e apagou a fogueira.
+
+Nestira se ajoelhou diante das brasas e começou a cercá-las com pedras, deixando uma abertura do lado oposto ao vento. Mariv trouxe os galhos mais secos que encontrou sob as raízes. Maletar rasgou fibras do interior de uma casca e as deixou ao alcance dela antes de voltar a se sentar.
+
+Nestira soprou devagar entre as pedras. A fumaça engrossou, uma chama pequena apareceu e Mariv encaixou os galhos por cima.
+
+Pouco depois, o fogo ardia de novo, protegido pela meia-lua de pedras.
 
 Quando a chama voltou a crepitar, Gabasteri lançou um olhar para Maletar.
 
