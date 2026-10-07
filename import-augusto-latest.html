@@ -1,0 +1,40 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Import Augusto latest</title>
+<pre id="status">starting</pre>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
+<script src="assets/firebase-config.js"></script>
+<script>
+const ITEMS=[{"id":"226536647","chapter":23,"paraIdx":0,"date":"2026-10-06T19:36:42Z","text":"Sensata"},{"id":"1232492009","chapter":23,"paraIdx":15,"date":"2026-10-06T19:46:02Z","text":"Será que temos finalmente quem, de fato, matou maletar?"},{"id":"1482071358","chapter":23,"paraIdx":35,"date":"2026-10-06T19:47:11Z","text":"Ouvir a verdade dói."},{"id":"912032352","chapter":23,"paraIdx":58,"date":"2026-10-06T19:48:57Z","text":"Teoria muito interessante... muito mesmo. Raiva de etérea."},{"id":"1635503125","chapter":23,"paraIdx":72,"date":"2026-10-06T19:50:38Z","text":"Isso é algo que não ficou tão claro na minha cabeça ao longo da história... cinco ciclos, seriam o mesmo que cinco anos em idade humana? De qualquer forma, isso vai da interpretação de quem estiver lendo. Pra mim não ficou tão claro, porém para outra pessoa, pode ter clarificado igual manteiga. Então não sei o que pensar disso."},{"id":"1270339832","chapter":23,"paraIdx":84,"date":"2026-10-06T19:51:38Z","text":"Eu entendi bem... meio que explica muita coisa... mas ainda sim, não é uma justificativa..."},{"id":"1998706098","chapter":23,"paraIdx":112,"date":"2026-10-06T19:53:47Z","text":"Aqui, eu te confesso que não ficou exatamente claro o que ela fez e como fez... Não consegui imaginar como foi o golpe. Talvez pudesse descrever de outra forma."},{"id":"923014518","chapter":23,"paraIdx":131,"date":"2026-10-06T19:58:30Z","text":"FALA DA PERNETA! KK"},{"id":"920373526","chapter":23,"paraIdx":142,"date":"2026-10-06T20:00:08Z","text":"Aqui sim ficou muito melhor a cena de ação! Tá bem desenhada, dá pra ler fácil e entender, e ganhou um peso narrativo muito bom."},{"id":"1358239673","chapter":23,"paraIdx":145,"date":"2026-10-06T20:00:38Z","text":"MUITO BOM ESSE TIPO DE HUMOR!"},{"id":"1200710121","chapter":23,"paraIdx":172,"date":"2026-10-06T20:02:14Z","text":"Cara... se a Jokara morrer, traumas infinitos..."},{"id":"1675726237","chapter":23,"paraIdx":221,"date":"2026-10-06T20:04:24Z","text":"Caralho velho... isso aqui doeu e muito... quero mais ler não... traumas!"},{"id":"918437376","chapter":23,"paraIdx":231,"date":"2026-10-06T20:05:45Z","text":"Cara, que final maléfico... doeu muito ler isso... vai conseguir traumatizar uns viu kkk"},{"id":"1168895855","chapter":24,"paraIdx":56,"date":"2026-10-06T20:26:45Z","text":"Ah claro... claro q só quer conversar. kkk"},{"id":"118637618","chapter":24,"paraIdx":138,"date":"2026-10-06T20:30:52Z","text":"cara... eu to muito tenso! kk"},{"id":"1878229115","chapter":24,"paraIdx":138,"date":"2026-10-06T20:31:06Z","text":"To mordendo o lábio inferior"},{"id":"1600374015","chapter":24,"paraIdx":178,"date":"2026-10-06T20:33:46Z","text":"É o que to dizendo, essa criatura merece ser desenhada!"},{"id":"1980427958","chapter":24,"paraIdx":237,"date":"2026-10-06T20:36:02Z","text":"caraca... todo mundo morrendo... parece aqueles RPG slasher"},{"id":"1219858373","chapter":25,"paraIdx":106,"date":"2026-10-06T20:39:49Z","text":"Hummm... ele aprendeu a sobreviver... isso é bom"}];
+const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
+function hashText(s){let h=2166136261;for(const ch of norm(s)){h^=ch.charCodeAt(0);h=Math.imul(h,16777619);}return (h>>>0).toString(36);}
+(async()=>{
+ const status=document.getElementById("status");
+ try{
+  if(!firebase.apps.length)firebase.initializeApp(window.FIREBASE_CONFIG);
+  const db=firebase.firestore();
+  const manifest=await fetch("data/ruinas-dos-ceus.json",{cache:"no-cache"}).then(r=>r.json());
+  const chapters=new Map(manifest.chapters.map(c=>[Number(c.n),c]));
+  const paraCache=new Map();
+  let created=0,skipped=0; const details=[];
+  for(const x of ITEMS){
+   if(!paraCache.has(x.chapter)){
+    const ch=chapters.get(x.chapter); if(!ch)throw new Error("Capítulo ausente: "+x.chapter);
+    const raw=await fetch(ch.text,{cache:"no-cache"}).then(r=>r.text());
+    paraCache.set(x.chapter,raw.replace(/\r\n/g,"\n").trim().split(/\n{2,}/).filter(Boolean));
+   }
+   const paras=paraCache.get(x.chapter), paragraph=paras[x.paraIdx];
+   if(paragraph==null)throw new Error("Parágrafo ausente: cap "+x.chapter+" idx "+x.paraIdx);
+   const q=norm(paragraph),ref=db.collection("comments").doc("augusto-word-test3-"+x.id);
+   const old=await ref.get();
+   if(old.exists){skipped++;details.push("skip "+x.id);continue;}
+   const t=Date.parse(x.date);
+   await ref.set({kind:"comment",bookId:"ruinas-dos-ceus",chapter:x.chapter,paraIdx:x.paraIdx,paragraphKey:"p_"+hashText(q),quote:q.slice(0,220),author:"Augusto Albuquerque",authorId:"augusto-word-test3-2026",role:"reader",text:x.text,status:"open",adminSeen:false,at:t,updatedAt:t});
+   created++; details.push("ok "+x.id+" c"+x.chapter+" p"+x.paraIdx);
+  }
+  status.textContent="IMPORT_OK created="+created+" skipped="+skipped+"\n"+details.join("\n");
+  document.title="IMPORT_OK "+created+"/"+ITEMS.length;
+ }catch(e){status.textContent="IMPORT_ERROR "+(e&&e.stack||e);document.title="IMPORT_ERROR";}
+})();
+</script>
