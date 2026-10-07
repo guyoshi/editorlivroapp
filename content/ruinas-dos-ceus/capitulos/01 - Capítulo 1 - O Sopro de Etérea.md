@@ -92,8 +92,6 @@ O pai sorriu de lado.
 
 Os sinos ainda balançavam ao longe quando Jokara adormeceu no colo do pai.
 
-
-
 Dez ciclos depois, aquela menina já era uma jovem. Jokara ainda caminhava até aquele mesmo platô na Ilha da Memória com a mesma cadência de antes. Suas tranças estavam presas em meias luas que balançavam com a brisa, e as vestes traziam o selo da Ilha dos Oradores, embora ela nunca houvesse aceitado, de fato, aquele chamado. Os pés descalços tocavam as espirais de raízes secas com familiaridade, e o vento, ali, era mais denso. A brisa cruzava os sinos suspensos, e o som que saía deles era mais oco que antes, como se tivesse esquecido parte da melodia.
 
 Jokara se aproximou de um entalhe rústico numa pedra de orvalho, onde um nome, Yoral, fora marcado ciclos atrás por um Orador em silêncio. Não precisou tocá-lo. Bastava estar perto. Ajoelhou-se devagar, depositou um pedaço de selnara seca sobre a superfície gasta, e ficou ali, calada, por um bom tempo. Em uma das mãos, apertava o caderno dobrado, cujas folhas já haviam registrado, há muito, os contornos de um rosto que ela se recusava a desenhar de novo.
