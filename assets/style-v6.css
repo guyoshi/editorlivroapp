@@ -2240,3 +2240,35 @@ body.focus-mode .para-block > .reaction-summary{ display:none !important; }
 .admin-home-logout{
   margin:0;
 }
+
+
+/* Identidade e versão do app dentro dos Ajustes. */
+.app-about{
+  margin:20px 0 14px;
+  padding:12px 0 0;
+  border-top:1px solid var(--line);
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:12px;
+  color:var(--ink-soft);
+}
+.app-about-mark{
+  display:flex;
+  align-items:baseline;
+  gap:7px;
+  min-width:0;
+}
+.app-about-mark strong{
+  color:var(--ink);
+  font-family:var(--serif);
+  font-size:.95rem;
+}
+.app-about-mark span,
+.app-about small{
+  font-size:.68rem;
+  font-variant-numeric:tabular-nums;
+}
+.app-about small{
+  white-space:nowrap;
+}
