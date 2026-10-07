@@ -2219,3 +2219,24 @@ body.focus-mode .para-block > .reaction-summary{ display:none !important; }
   .reader-access-card-actions-caution{ width:100%; margin-left:0; }
   .reader-access-card-actions-caution button{ flex:1; }
 }
+
+
+/* Saída do modo admin fica isolada no fim do painel do autor. */
+.admin-home{
+  min-height:min(720px,92dvh);
+  display:flex;
+  flex-direction:column;
+}
+.admin-home .admin-home-grid{
+  flex:0 0 auto;
+}
+.admin-home-footer{
+  margin-top:auto;
+  padding:18px 12px max(14px,env(safe-area-inset-bottom));
+  border-top:1px solid var(--line);
+  display:flex;
+  justify-content:flex-start;
+}
+.admin-home-logout{
+  margin:0;
+}
