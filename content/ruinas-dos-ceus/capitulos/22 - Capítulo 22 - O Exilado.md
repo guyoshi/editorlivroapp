@@ -394,33 +394,33 @@ O movimento foi rápido o bastante para cortar a frase. Com a outra mão, prende
 
 Mariv tentou abrir os dedos em torno da garganta usando as duas mãos. Não conseguiu mover a mão de Gabasteri nem um pouco. Os pés deslizaram na terra quando tentou ganhar apoio, e o braço preso continuou imóvel contra o peito.
 
-Nestira gritou o nome dele.
+Nestira deu um passo e parou.
 
-Correu até os dois e agarrou o antebraço de Gabasteri com as duas mãos, puxando com toda a força.
+— Mariv...
 
-— Solta ele! Você vai machucar ele!
+A voz saiu pequena. Ela levou as mãos à boca e ficou olhando para os dedos de Gabasteri fechados no pescoço dele.
 
-Gabasteri não afrouxou.
+— Gabasteri, para. Por favor.
 
-Nestira bateu no ombro dele, tentou enfiar os dedos entre a mão e o pescoço de Mariv e acabou sendo afastada com um movimento brusco do cotovelo. Caiu sobre a mão ferida e soltou um grito, mas levantou de novo quase imediatamente.
+Ele não pareceu ouvi-la.
 
-Mariv já estava ficando vermelho.
+Mariv tentou ganhar apoio outra vez. Não conseguiu. O rosto começou a ficar vermelho.
 
-— Para! — Nestira agarrou o braço de Gabasteri outra vez. — Por favor!
+Jokara ergueu o bastão, mas não se aproximou.
 
-Jokara avançou com o bastão erguido.
+— Chega. Solta ele.
 
-— Solta ele agora.
-
-Gabasteri olhou para ela sem liberar Mariv.
+Gabasteri virou apenas os olhos para ela.
 
 — Vai fazer o quê?
 
-Jokara apontou a extremidade do bastão para o rosto dele.
+Jokara não respondeu à provocação.
 
-— Descobre.
+— Solta o Mariv.
 
-Por alguns instantes, só se ouviu a respiração presa de Mariv e o choro de Nestira.
+Nestira continuava no mesmo lugar. As lágrimas já desciam quando conseguiu falar de novo.
+
+— Por favor. Ele não consegue respirar.
 
 Gabasteri aproximou o rosto do rapaz.
 
@@ -428,15 +428,19 @@ Gabasteri aproximou o rosto do rapaz.
 
 Mariv tentou responder, mas apenas um som rouco saiu.
 
-Nestira puxou o braço de Gabasteri outra vez.
-
-— Ele não consegue respirar!
+— Para... — repetiu Nestira.
 
 Gabasteri manteve os olhos em Mariv por mais um instante antes de soltá-lo.
 
-Mariv caiu de joelhos e puxou o ar com um ruído áspero. Nestira se ajoelhou ao lado dele, uma mão nas costas e a outra tremendo perto do pescoço marcado, sem saber onde podia tocar sem machucá-lo.
+Mariv caiu de joelhos e puxou o ar com um ruído áspero.
 
-Jokara permaneceu entre os dois e Gabasteri.
+Jokara chegou primeiro. Abaixou-se ao lado dele, segurou-o pelo ombro e esperou até que conseguisse puxar duas respirações inteiras antes de olhar para o pescoço marcado.
+
+Nestira ainda levou alguns segundos para se mover.
+
+Quando se ajoelhou do outro lado, os olhos estavam cheios de lágrimas. Estendeu a mão para tocar Mariv, recuou antes de encostar e ficou apenas perto dele.
+
+Jokara ergueu o rosto para Gabasteri.
 
 — Chega. Nós vamos embora.
 
@@ -478,7 +482,17 @@ Gabasteri parou por um momento.
 
 Levou a comida e as armas para outro ponto do acampamento.
 
-Nestira ficou ajoelhada ao lado de Mariv, chorando em silêncio. Quando Jokara tentou examinar a marca no pescoço dele, Nestira afastou a própria mão depressa, como se só então percebesse que ainda estava apertando o ombro do rapaz.
+Jokara continuou ao lado de Mariv até a respiração dele desacelerar. Só então Nestira conseguiu se aproximar de verdade.
+
+Foi buscar água sem que ninguém pedisse. Molhou um pedaço limpo de tecido e voltou para junto dele.
+
+— Me avisa se doer.
+
+Mariv assentiu.
+
+Nestira encostou o pano úmido com cuidado na pele avermelhada, sem apertar. As mãos ainda tremiam. Quando encontrou a marca mais escura perto da garganta, os olhos se encheram outra vez.
+
+Mariv não disse nada. Deixou que ela cuidasse.
 
 Nenhum dos três tocou na comida de Gabasteri naquela noite.
 
@@ -488,9 +502,9 @@ Mais tarde, os três se reuniram junto a um fogo pequeno.
 
 Jokara tinha conseguido guardar dois frutos numa bolsa menor antes que Gabasteri levasse o restante. Dividiram os dois sem falar sobre regras, funções ou merecimento.
 
-Nestira comia devagar, os olhos inchados.
+Nestira comia devagar, os olhos inchados. De tempos em tempos, voltava a umedecer o tecido e o colocava sobre o pescoço de Mariv.
 
-Mariv tinha uma marca escura no pescoço.
+A marca já começava a escurecer.
 
 Jokara tentou olhar para os dois sem imaginar como aquela cena teria terminado se Gabasteri tivesse apertado por mais alguns instantes.
 
