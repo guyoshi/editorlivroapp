@@ -1,0 +1,69 @@
+<!doctype html><meta charset="utf-8"><title>Migrate comments</title><pre id="s">starting</pre>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
+<script src="assets/firebase-config.js"></script>
+<script>
+const CHAPTERS=new Set([2,3,4,6,8,9,15,18,21,23,24]);
+const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
+function hashText(s){let h=2166136261;for(const ch of norm(s)){h^=ch.charCodeAt(0);h=Math.imul(h,16777619);}return (h>>>0).toString(36);}
+function tokens(s){return new Set(norm(s).replace(/[^a-z0-9áàâãéèêíïóôõöúçñ…—-]+/gi," ").split(/\s+/).filter(x=>x.length>2));}
+function score(a,b){
+ const A=tokens(a),B=tokens(b);let inter=0;for(const x of A)if(B.has(x))inter++;
+ const union=A.size+B.size-inter;return union?inter/union:0;
+}
+(async()=>{
+ const el=document.getElementById("s");
+ try{
+  if(!firebase.apps.length)firebase.initializeApp(window.FIREBASE_CONFIG);
+  const db=firebase.firestore();
+  const manifest=await fetch("data/ruinas-dos-ceus.json",{cache:"no-cache"}).then(r=>r.json());
+  const meta=new Map(manifest.chapters.map(c=>[Number(c.n),c]));
+  const paras=new Map();
+  for(const ch of CHAPTERS){
+    const m=meta.get(ch); if(!m)throw new Error("cap ausente "+ch);
+    const raw=await fetch(m.text,{cache:"no-cache"}).then(r=>r.text());
+    paras.set(ch,raw.replace(/\r\n/g,"\n").trim().split(/\n{2,}/).filter(Boolean));
+  }
+  const snap=await db.collection("comments").where("bookId","==","ruinas-dos-ceus").get();
+  let examined=0,updated=0,unchanged=0,manual=0; const unresolved=[],changes=[];
+  for(const doc of snap.docs){
+    const d=doc.data(),ch=Number(d.chapter); if(!CHAPTERS.has(ch))continue;
+    examined++;
+    const ps=paras.get(ch), oldIdx=Number(d.paraIdx);
+    let idx=-1,method="";
+    const q=norm(d.quote||"");
+    if(q){
+      idx=ps.findIndex(p=>{const np=norm(p);return np.startsWith(q)||q.startsWith(np)||np.includes(q);});
+      if(idx>=0)method="exact";
+      if(idx<0){
+        let best=-1,bestIdx=-1;
+        for(let i=0;i<ps.length;i++){
+          let sc=score(q,ps[i]);
+          sc += Math.max(0,0.04-(Math.abs(i-oldIdx)*0.001));
+          if(sc>best){best=sc;bestIdx=i;}
+        }
+        if(best>=0.42){idx=bestIdx;method="fuzzy:"+best.toFixed(2);}
+      }
+    }else{
+      idx=oldIdx;
+      if(ch===6 && oldIdx>31){idx=oldIdx+3;method="manual+3";manual++;}
+      else if(ch===21 && oldIdx>202){idx=oldIdx+8;method="manual+8";manual++;}
+      else method="legacy-same";
+    }
+    if(idx<0||!ps[idx]){unresolved.push({id:doc.id,ch,oldIdx,quote:q.slice(0,90)});continue;}
+    const patch={};
+    if(idx!==oldIdx)patch.paraIdx=idx;
+    if(q){
+      const nq=norm(ps[idx]).slice(0,220), nk="p_"+hashText(norm(ps[idx]));
+      if(d.quote!==nq)patch.quote=nq;
+      if(d.paragraphKey!==nk)patch.paragraphKey=nk;
+    }
+    if(Object.keys(patch).length){
+      await doc.ref.update(patch);updated++;changes.push({id:doc.id,ch,from:oldIdx,to:idx,method});
+    }else unchanged++;
+  }
+  el.textContent=JSON.stringify({examined,updated,unchanged,manual,unresolved,changes});
+  document.title="MIGRATE_OK "+updated+"/"+examined+" unresolved="+unresolved.length;
+ }catch(e){el.textContent="MIGRATE_ERROR "+(e&&e.stack||e);document.title="MIGRATE_ERROR";}
+})();
+</script>
