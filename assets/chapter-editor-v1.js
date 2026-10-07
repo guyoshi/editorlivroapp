@@ -103,6 +103,16 @@
   }
 
   async function loadCurrentRaw(ctx){
+    // Depois de uma publicação, o leitor já contém a versão nova em memória.
+    // Reutilizá-la evita voltar ao arquivo estático antigo enquanto o deploy/sync
+    // ainda não terminou e permite várias edições seguidas sem recarregar.
+    const live=window.BookReader?.getCurrentContext?.();
+    const sameChapter=live
+      && String(live.bookId||"")===String(ctx.book.id||"")
+      && Number(live.chapter?.n)===Number(ctx.chapter.n);
+    if(sameChapter&&String(live.raw||"").trim())return String(live.raw);
+
+    // Fallback para a primeira abertura ou caso o estado em memória não exista.
     const url=new URL(ctx.chapter.text, document.baseURI).href;
     const res=await fetch(url,{cache:"no-cache"});
     if(!res.ok)throw new Error("Não consegui carregar o texto atual do capítulo.");
@@ -592,8 +602,19 @@
       edit=null;
       qs("#chapterEditorBar").hidden=true;
 
-      window.BookReader?.renderCurrentRaw?.(raw);
-      setTimeout(refreshEditButtons,100);
+      // Atualiza o capítulo aberto imediatamente, sem reload de página.
+      // A próxima edição parte deste raw recém-publicado.
+      const scroller=qs("#readerScroll");
+      const previousScroll=scroller?.scrollTop||0;
+      if(window.BookReader?.applyPublishedChapter){
+        await window.BookReader.applyPublishedChapter(raw);
+      }else{
+        window.BookReader?.renderCurrentRaw?.(raw);
+      }
+      requestAnimationFrame(()=>{
+        if(scroller)scroller.scrollTop=previousScroll;
+        refreshEditButtons();
+      });
       const detail=structural>0
         ? " · "+structural+" parágrafo"+(structural>1?"s":"")+" criado"+(structural>1?"s":"")
         : (structural<0?" · 1 parágrafo removido":"");
