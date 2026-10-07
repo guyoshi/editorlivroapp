@@ -315,7 +315,7 @@ const Comments = (() => {
     let i=Number(x?.paraIdx);
     if(!Number.isFinite(i))return i;
     if(Number(ch)===6&&i>31)i+=3;
-    if(Number(ch)===14&&i>1)i+=23;
+    if(Number(ch)===14&&i>1)i+=7;
     return i;
   }
   function loc(x,ch,i,key){
