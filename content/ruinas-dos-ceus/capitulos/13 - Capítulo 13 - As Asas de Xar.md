@@ -182,7 +182,7 @@ Nenhuma das duas se mexeu. Depois Jokara deu um passo, e outro, apoiando o bast�
 
 Nestira desabou. Jogou-se nos braços de Jokara, chorando alto.
 
-— Eu não consegui salvar ela — soluçou. — Eu não consegui…
+— Eu não consegui salvá-la — soluçou. — Eu não consegui…
 
 Jokara não perguntou de quem falava. Apertou a irmã com força, chorando também.
 
@@ -332,7 +332,7 @@ Parou. A mão da irmã tremia na dela. Nestira cobriu o rosto e chorou.
 
 — Nestira? — perguntou Jokara, preocupada.
 
-— Eu não consegui salvá-la — soluçou. — Quando caí no rio, estava sozinha. Encontrei Mariv. Procuramos… procuramos por sopros. Chamava por ela até perder a voz. Mas… não a vi. — As mãos tremeram, escondendo os olhos. — Eu falhei, Jokara. Eu falhei. Ela era… só uma criança.
+— Eu sei… eu já te disse que não consegui salvá-la. — A voz de Nestira quebrou outra vez. — Mas não consigo parar de voltar àquele instante. Quando caí no rio, estava sozinha. Depois encontrei Mariv. Procuramos… procuramos por sopros. Chamei por ela até perder a voz. Eu sei que procurei, Jokara. Mesmo assim… — As mãos tremeram, escondendo os olhos. — Ela era só uma criança. Eu devia ter segurado com mais força.
 
 Jokara lembrou-se de Liri de pé no banquinho, pedindo a história do Menino que Pesava. Puxou a irmã para um abraço.
 
@@ -356,7 +356,7 @@ E se ele estivesse mexendo na cabeça dela? Tinha olhos sinceros. Gente com olho
 
 Estava quase dormindo quando Loutes se ajeitou colado nela e disse:
 
-— Boa… noi… te.
+— Bom… so… pro.
 
 Cada sílaba saiu separada, arrastada. Jokara se sentou de supetão. Loutes a olhava, sério, sem entender por que ela tinha se assustado.
 
