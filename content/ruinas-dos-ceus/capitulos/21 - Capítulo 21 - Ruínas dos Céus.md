@@ -38,9 +38,9 @@ A base alargada do bastão afundava menos na lama agora.
 
 — Ele não está fugindo — respondeu Jokara, entre dentes. — Ele quer nos mostrar algo.
 
-O menino dobrava por entre árvores, e logo o terreno começou a mudar. Primeiro vieram pedras retas demais para terem quebrado daquele jeito. Depois, lajes encaixadas sob o musgo. Jokara firmou o bastão numa delas e ouviu um som oco sob a pedra.
+O menino dobrava por entre árvores, e logo o terreno começou a mudar. Primeiro vieram pedras retas demais para terem quebrado daquele jeito. Depois, lajes encaixadas sob o musgo. Não estavam espalhadas ao acaso: formavam o que restava de um caminho estreito, quase todo engolido pela floresta. Jokara firmou o bastão numa delas e ouviu um som oco sob a pedra.
 
-Mais adiante, um sulco estreito corria ao lado do caminho, descendo com inclinação constante até desaparecer sob raízes grossas.
+Mais adiante, o caminho afundava entre duas elevações cobertas por raízes. Um sulco de pedra acompanhava uma das margens e descia com inclinação constante, desaparecendo sob a vegetação. Em alguns pontos havia pequenas aberturas laterais, como se a água tivesse sido conduzida para baixo do próprio chão.
 
 Nestira parou.
 
@@ -52,11 +52,11 @@ Olhou em volta, procurando alguma coisa familiar.
 
 Jokara não respondeu.
 
-Não havia madeira viva, raízes trançadas ou estruturas moldadas para ceder ao vento. Os muros saíam do chão em linhas retas, feitos de blocos grandes assentados uns sobre os outros. Algumas bases alargavam-se perto do solo, como se toda a construção tivesse sido pensada para empurrar o próprio peso para baixo. Portas retangulares ainda conservavam lintéis de pedra inteira. Em certos trechos, canais cortados no piso conduziam água para cavidades enterradas.
+Não havia madeira viva, raízes trançadas ou estruturas moldadas para ceder ao vento. Os muros saíam do chão em linhas retas, feitos de blocos grandes assentados uns sobre os outros. Algumas bases alargavam-se perto do solo, como se toda a construção tivesse sido pensada para empurrar o próprio peso para baixo. Portas retangulares ainda conservavam lintéis de pedra inteira. Quanto mais avançavam, mais as paredes pareciam conduzi-las para dentro: passagens sucessivas, pátios estreitos e corredores que convergiam na mesma direção.
 
 Aquilo não tentava ser leve.
 
-Continuaram. Encontraram restos de uma rua estreita, degraus gastos no centro e paredes reforçadas por pilares quadrados. Onde Etérea abria espaço para o ar, aquele lugar fechava, sustentava, drenava, apoiava.
+Continuaram. Encontraram restos de uma rua estreita, degraus gastos no centro e paredes reforçadas por pilares quadrados. Onde Etérea abria espaço para o ar, aquele lugar fechava, sustentava e direcionava. Mesmo destruído, parecia ter sido construído ao redor de alguma coisa.
 
 — Nunca vi nada construído assim — disse Nestira.
 
@@ -94,7 +94,7 @@ Voltou até o lintel e tocou os dois primeiros grupos de sinais. Seus lábios se
 
 O menino não olhou para trás.
 
-Por fim, chegaram a uma clareira. Ali repousava a maior ruína que tinham visto: uma construção colossal de pedra, afundada no solo e tomada por raízes. O que restava da fachada era largo e baixo. Havia contrafortes nas laterais, vãos estreitos nas paredes e um pátio retangular quase soterrado por folhas. Sob uma arcada quebrada, um canal de pedra seguia para uma cisterna coberta.
+Por fim, chegaram a uma clareira. Ali repousava a maior ruína que tinham visto: uma construção colossal de pedra, afundada no solo e tomada por raízes. O que restava da fachada era largo e baixo. Havia contrafortes nas laterais, vãos estreitos nas paredes e um pátio retangular quase soterrado por folhas. Três passagens partiam dele, mas duas haviam desabado. A terceira conduzia à abertura escura no centro da construção. Sob uma arcada quebrada, um canal de pedra seguia para uma cisterna coberta.
 
 Nenhuma parte parecia suspensa. Nenhuma parede dependia de uma raiz viva para continuar de pé.
 
@@ -102,21 +102,21 @@ Era uma construção feita para suportar peso.
 
 Jokara parou, sem fôlego.
 
-Loutes atravessou a abertura escura da fachada e desapareceu lá dentro.
+Loutes chegou à abertura central e parou. Até então caminhara sem hesitar. Ali, porém, ficou imóvel. Encostou a palma na parede de pedra e manteve os dedos sobre ela por alguns instantes, o rosto sem expressão. Quando Jokara se aproximou, ele recolheu a mão e entrou.
 
 — Vamos — sussurrou ela.
 
-Seguiram-no. O ar no interior era frio e úmido, impregnado pelo cheiro de pedra molhada. A luz da entrada alcançava apenas parte do salão. Pilares quadrados sustentavam o que restava do teto, e o piso descia em pequenos níveis até a base de uma escadaria.
+Seguiram-no. O ar no interior era frio e úmido, impregnado pelo cheiro de pedra molhada. A luz da entrada alcançava apenas parte do primeiro salão. Pilares quadrados sustentavam o que restava do teto, e o piso descia em pequenos níveis, cada um mais estreito que o anterior, até a base de uma escadaria. Nas paredes, sulcos rasos formavam círculos incompletos que se repetiam conforme avançavam.
 
 Jokara estendeu a mão, procurando a irmã no breu. Nestira a segurou firme.
 
 — Estamos juntas — disse Jokara, apertando a mão dela.
 
-Desceram devagar. Cada passo ecoava. No fim da escada, dobraram a curva.
+Desceram devagar. Cada passo ecoava. No fim da escada, dobraram uma curva estreita e atravessaram um último vão de pedra. A sala além era menor que o salão superior, cercada por paredes muito mais grossas.
 
 Havia luz ali. Azulada, fraca, vinda do chão.
 
-Era um cristal irregular, do tamanho de uma mão, que pulsava em azul. Jokara se abaixou, estendeu a mão hesitante e olhou para a irmã. Nestira balançou a cabeça, o rosto pálido na penumbra.
+Era um cristal irregular, do tamanho de uma mão, encaixado numa depressão circular no centro do piso. Sulcos finos partiam do encaixe e desapareciam sob as paredes. A pedra pulsava em azul. Jokara se abaixou, estendeu a mão hesitante e olhou para a irmã. Nestira balançou a cabeça, o rosto pálido na penumbra.
 
 — Não… — murmurou.
 
@@ -154,9 +154,9 @@ Nestira assentiu devagar.
 
 — Antes das ilhas.
 
-No canto da sala havia restos humanos encostados à parede. O tempo deixara pouco além de ossos escurecidos e fragmentos de tecido. Junto às mãos repousavam placas finas de pedra escura, perfuradas numa das extremidades e presas por dois aros corroídos.
+Num recuo da parede, parcialmente protegido por uma laje que havia caído diante da abertura, havia restos de uma única pessoa. O lugar era mais seco que o restante da sala. O tempo deixara ossos escurecidos, alguns presos ao sedimento endurecido, e fragmentos quase irreconhecíveis de tecido. Junto a um dos pulsos havia um aro estreito de metal enegrecido, marcado por dois cortes paralelos. Loutes parou tão de repente que Nestira quase esbarrou nele. Ajoelhou-se diante dos restos e tocou o aro com a ponta dos dedos. A mão começou a tremer. Uma lágrima desceu pelo rosto do menino. Jokara já o tinha visto assustado, ferido, faminto e perdido. Nunca o tinha visto chorar. Nestira fez menção de se aproximar, mas Jokara tocou seu braço. As duas permaneceram onde estavam. Loutes não pegou o aro. Depois de algum tempo, levantou-se e se afastou sem olhar para elas.
 
-Jokara pegou a primeira.
+Só então Jokara percebeu as placas finas de pedra escura junto às mãos dos restos, perfuradas numa das extremidades e presas por dois aros corroídos. Pegou a primeira.
 
 Os mesmos sinais das paredes cobriam quase toda a superfície. Algumas linhas estavam gastas; outras permaneciam profundas.
 
