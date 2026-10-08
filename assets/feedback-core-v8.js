@@ -34,6 +34,7 @@ const Comments = (() => {
   function uid(){let id=localStorage.getItem(USER_KEY);if(!id){id=(crypto.randomUUID?crypto.randomUUID():"r_"+Date.now().toString(36)+Math.random().toString(36).slice(2));localStorage.setItem(USER_KEY,id);}return id;}
   const name=()=>String(localStorage.getItem(NAME_KEY)||"").trim();
   const admin=()=>!!adminUser;
+  const PROFILE_FLOW_KEY="jesed:profileFlow";
   // O perfil de leitor fica preservado no aparelho, mas não é a identidade
   // usada para publicar enquanto o modo administrador estiver ativo.
   const feedbackAuthorName=()=>admin()?"Autor":(name()||"Anônimo");
@@ -220,7 +221,7 @@ const Comments = (() => {
         +'<div class="top-nav-intro-grid">'
         +'<div class="top-nav-intro-item">'+topNavIcon("hub")+'<div><strong>Minha central</strong><span>Seu perfil, código de acesso, novas respostas do autor e suas anotações.</span></div></div>'
         +'<div class="top-nav-intro-item">'+topNavIcon("settings")+'<div><strong>Ajustes</strong><span>Tema, fonte, imagens dos capítulos e preferências de música.</span></div></div>'
-        +'<div class="top-nav-intro-item">'+topNavIcon("switch")+'<div><strong>Trocar usuário</strong><span>Entre com outro código ou crie um novo perfil neste aparelho.</span></div></div>'
+        +'<div class="top-nav-intro-item">'+topNavIcon("switch")+'<div><strong>Perfil</strong><span>Veja quem está usando o Lityra, troque de perfil ou acesse o modo autor.</span></div></div>'
         +'</div>'
         +'<div class="sheet-actions"><button id="topNavIntroOk" class="btn-primary" type="button">Entendi</button></div>'
         +'</div>';
@@ -728,19 +729,56 @@ const Comments = (() => {
 
   function wireName(){
     const sheet=document.getElementById("nameSheet"),input=document.getElementById("nameInput"),save=document.getElementById("nameSave");
+    const startBox=document.getElementById("nameStartBox"),createBox=document.getElementById("nameCreateBox"),startCreate=document.getElementById("nameStartCreate");
     const useCode=document.getElementById("nameUseCode"),adminLogin=document.getElementById("nameAdminLogin"),codeBox=document.getElementById("nameCodeBox");
     const codeInput=document.getElementById("nameCodeInput"),codeLogin=document.getElementById("nameCodeLogin"),codeStatus=document.getElementById("nameCodeStatus");
-    const codeBack=document.getElementById("nameCodeBack");
+    const codeBack=document.getElementById("nameCodeBack"),createBack=document.getElementById("nameCreateBack");
     const bookField=document.getElementById("initialBookField"),bookPicker=document.getElementById("initialBookPicker");
     if(!sheet||!input||!save)return;
+
+    let booksLoaded=false;
+    const showStart=()=>{
+      sessionStorage.removeItem(PROFILE_FLOW_KEY);
+      if(startBox)startBox.hidden=false;
+      if(createBox)createBox.hidden=true;
+      if(codeBox)codeBox.hidden=true;
+      if(codeStatus){
+        codeStatus.textContent="";
+        codeStatus.classList.remove("error");
+      }
+      if(codeInput)codeInput.value="";
+    };
+    const showCreate=()=>{
+      sessionStorage.setItem(PROFILE_FLOW_KEY,"create");
+      if(startBox)startBox.hidden=true;
+      if(codeBox)codeBox.hidden=true;
+      if(createBox)createBox.hidden=false;
+      sheet.hidden=false;
+      if(!booksLoaded)loadInitialBooks();
+      setTimeout(()=>input.focus(),0);
+    };
+    const showCode=()=>{
+      sessionStorage.setItem(PROFILE_FLOW_KEY,"code");
+      if(startBox)startBox.hidden=true;
+      if(createBox)createBox.hidden=true;
+      if(codeBox)codeBox.hidden=false;
+      sheet.hidden=false;
+      setTimeout(()=>codeInput?.focus(),0);
+    };
+
     if(!name()){
       sheet.hidden=false;
-      loadInitialBooks();
+      const flow=sessionStorage.getItem(PROFILE_FLOW_KEY)||"";
+      if(flow==="create")showCreate();
+      else if(flow==="code")showCode();
+      else showStart();
     }
 
     async function loadInitialBooks(){
       if(!bookPicker)return;
+      booksLoaded=true;
       save.disabled=true;
+      bookPicker.innerHTML='<p class="initial-book-status">Carregando os livros…</p>';
       try{
         const res=await fetch("data/books.json",{cache:"no-cache"});
         if(!res.ok)throw new Error("Não foi possível carregar os livros.");
@@ -767,26 +805,22 @@ const Comments = (() => {
     const go=async()=>{
       const v=input.value.trim();
       if(!v)return input.focus();
-      const isNew=!name();
       const initialBook=bookPicker?.querySelector('input[name="initialBook"]:checked')?.value||"";
-      if(isNew&&!initialBook){
+      if(!initialBook){
         bookPicker?.querySelector("input")?.focus();
         return;
       }
       save.disabled=true;
       localStorage.setItem(NAME_KEY,v);
-      // perfil novo: não precisa ver recados antigos, só os futuros
-      if(isNew&&!localStorage.getItem(SEEN_ANNOUNCE_KEY))localStorage.setItem(SEEN_ANNOUNCE_KEY,String(Date.now()));
+      if(!localStorage.getItem(SEEN_ANNOUNCE_KEY))localStorage.setItem(SEEN_ANNOUNCE_KEY,String(Date.now()));
       try{
         const code=await ensureAccessProfile(initialBook);
         if(!code)throw new Error("Não foi possível criar o perfil agora.");
       }catch(e){
-        if(isNew){
-          localStorage.removeItem(NAME_KEY);
-          localStorage.removeItem(USER_KEY);
-          localStorage.removeItem(ACCESS_KEY);
-          localStorage.removeItem(CODEHASH_KEY);
-        }
+        localStorage.removeItem(NAME_KEY);
+        localStorage.removeItem(USER_KEY);
+        localStorage.removeItem(ACCESS_KEY);
+        localStorage.removeItem(CODEHASH_KEY);
         console.warn("Não foi possível registrar o código de acesso:",e);
         const previous=bookPicker?.querySelector(".initial-book-status.error");
         if(previous)previous.remove();
@@ -798,6 +832,7 @@ const Comments = (() => {
         save.disabled=false;
         return;
       }
+      sessionStorage.removeItem(PROFILE_FLOW_KEY);
       sheet.hidden=true;
       document.dispatchEvent(new CustomEvent("beta:profile-ready"));
       const code=accessCode();
@@ -806,45 +841,24 @@ const Comments = (() => {
     save.addEventListener("click",go);
     input.addEventListener("keydown",e=>{if(e.key==="Enter")go();});
 
-    const resetNameChoice=()=>{
-      if(codeBox)codeBox.hidden=true;
-      if(bookField)bookField.hidden=false;
-      save.hidden=false;
-      if(useCode)useCode.hidden=false;
-      if(adminLogin)adminLogin.hidden=false;
-      if(codeStatus){
-        codeStatus.textContent="";
-        codeStatus.classList.remove("error");
-      }
-      if(codeInput)codeInput.value="";
-    };
+    startCreate?.addEventListener("click",showCreate);
+    useCode?.addEventListener("click",showCode);
+    createBack?.addEventListener("click",showStart);
+    codeBack?.addEventListener("click",showStart);
 
-    useCode?.addEventListener("click",()=>{
-      codeBox.hidden=false;
-      if(bookField)bookField.hidden=true;
-      save.hidden=true;
-      useCode.hidden=true;
-      if(adminLogin)adminLogin.hidden=true;
-      codeInput?.focus();
-    });
-    codeBack?.addEventListener("click",()=>{
-      resetNameChoice();
-      input.focus();
-    });
     adminLogin?.addEventListener("click",()=>{
-      resetNameChoice();
+      sessionStorage.removeItem(PROFILE_FLOW_KEY);
       sheet.hidden=true;
       openAdminLoginSheet({returnToName:true});
     });
-    sheet.addEventListener("click",e=>{
-      if(e.target===sheet&&codeBox&&!codeBox.hidden) resetNameChoice();
-    });
+
     codeLogin?.addEventListener("click",async()=>{
       if(!codeInput?.value.trim()) return codeInput?.focus();
       codeLogin.disabled=true;
       if(codeStatus){codeStatus.textContent="Entrando…";codeStatus.classList.remove("error");}
       try{
         const profile=await loginWithCode(codeInput.value);
+        sessionStorage.removeItem(PROFILE_FLOW_KEY);
         if(codeStatus)codeStatus.textContent="Perfil encontrado: "+profile.name;
         location.reload();
       }catch(e){
@@ -995,45 +1009,71 @@ const Comments = (() => {
     el.id="readerSwitchSheet";
     el.className="sheet";
     el.hidden=true;
-    el.innerHTML='<div class="sheet-card reader-switch-card">'
-      +'<h2>Trocar usuário</h2>'
-      +'<p id="readerSwitchCurrent" class="reader-switch-current"></p>'
-      +'<div class="reader-switch-section">'
-      +'<strong>Entrar em outro perfil</strong>'
-      +'<p id="readerSwitchExistingHint" class="sheet-hint">Use o código de acesso de um perfil que já existe.</p>'
+    el.innerHTML='<div class="sheet-card reader-switch-card profile-sheet-card">'
+      +'<div class="reader-onboarding-kicker">Lityra</div>'
+      +'<h2>Perfil</h2>'
+      +'<div id="readerSwitchCurrent" class="profile-current-card"></div>'
+      +'<div id="readerSwitchMainActions" class="profile-action-stack">'
+      +'<button id="readerSwitchShowCode" class="profile-action-btn" type="button"><strong>Entrar com outro código</strong><span>Usar um perfil que já existe</span></button>'
+      +'<button id="readerSwitchCreate" class="profile-action-btn" type="button"><strong>Criar novo perfil</strong><span>Criar outra identidade de leitor neste aparelho</span></button>'
+      +'<button id="readerSwitchLogout" class="profile-action-btn danger-soft" type="button"><strong>Sair deste perfil</strong><span>O perfil e o progresso continuam guardados pelo código</span></button>'
+      +'</div>'
+      +'<div id="readerSwitchCodeBox" class="reader-code-login profile-inline-login" hidden>'
       +'<label class="field"><span>Código de acesso</span><input id="readerSwitchCode" type="text" inputmode="text" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="ex.: DE2E40" maxlength="24"></label>'
       +'<p id="readerSwitchStatus" class="reader-code-status" aria-live="polite"></p>'
-      +'<button id="readerSwitchSubmit" class="btn-primary reader-switch-wide" type="button">Entrar com outro código</button>'
+      +'<div class="sheet-actions"><button id="readerSwitchSubmit" class="btn-primary" type="button">Entrar</button><button id="readerSwitchCodeBack" class="btn-ghost" type="button">Voltar</button></div>'
       +'</div>'
-      +'<div class="reader-switch-section">'
-      +'<strong>Novo perfil</strong>'
-      +'<p id="readerSwitchNewHint" class="sheet-hint">Crie outro usuário neste aparelho. O perfil atual não será apagado e poderá ser recuperado pelo código dele.</p>'
-      +'<button id="readerSwitchCreate" class="btn-ghost reader-switch-wide" type="button">Criar novo usuário</button>'
-      +'</div>'
-      +'<div id="readerSwitchAdminSection" class="reader-switch-section reader-switch-admin-section">'
-      +'<strong>Autor</strong>'
-      +'<p class="sheet-hint">Acesse o painel administrativo sem trocar ou apagar este perfil de leitor.</p>'
+      +'<div id="readerSwitchAdminSection" class="profile-author-section">'
+      +'<span>Acesso do autor</span>'
       +'<button id="readerSwitchAdmin" class="btn-ghost reader-switch-wide" type="button">Entrar como administrador</button>'
       +'</div>'
-      +'<div class="sheet-actions"><button id="readerSwitchCancel" class="btn-ghost" type="button">Fechar</button></div>'
+      +'<div id="readerSwitchAdminActions" class="profile-action-stack" hidden>'
+      +'<button id="readerSwitchAdminReader" class="profile-action-btn" type="button"><strong>Entrar como leitor</strong><span>Usar o código de um perfil de leitor</span></button>'
+      +'<button id="readerSwitchAdminCreate" class="profile-action-btn" type="button"><strong>Criar perfil de leitor</strong><span>Sair do administrador e criar um perfil novo</span></button>'
+      +'<button id="readerSwitchAdminLogout" class="profile-action-btn danger-soft" type="button"><strong>Sair do administrador</strong><span>Voltar ao perfil de leitor salvo neste aparelho</span></button>'
+      +'</div>'
+      +'<div class="sheet-actions profile-sheet-footer"><button id="readerSwitchCancel" class="btn-ghost" type="button">Fechar</button></div>'
       +'</div>';
     document.body.appendChild(el);
 
     const input=el.querySelector("#readerSwitchCode");
     const status=el.querySelector("#readerSwitchStatus");
     const submit=el.querySelector("#readerSwitchSubmit");
+    const codeBox=el.querySelector("#readerSwitchCodeBox");
+    const mainActions=el.querySelector("#readerSwitchMainActions");
     const adminSection=el.querySelector("#readerSwitchAdminSection");
-    const adminBtn=el.querySelector("#readerSwitchAdmin");
+    const adminActions=el.querySelector("#readerSwitchAdminActions");
 
+    const clearStatus=()=>{
+      if(input)input.value="";
+      if(status){status.textContent="";status.classList.remove("error");}
+      if(submit)submit.disabled=false;
+    };
+    const hideCode=()=>{
+      if(codeBox)codeBox.hidden=true;
+      clearStatus();
+      const adminOn=admin();
+      if(mainActions)mainActions.hidden=adminOn;
+      if(adminActions)adminActions.hidden=!adminOn;
+      if(adminSection)adminSection.hidden=adminOn;
+    };
+    const showCode=()=>{
+      if(mainActions)mainActions.hidden=true;
+      if(adminActions)adminActions.hidden=true;
+      if(adminSection)adminSection.hidden=true;
+      if(codeBox)codeBox.hidden=false;
+      setTimeout(()=>input?.focus(),0);
+    };
     const close=()=>{
+      hideCode();
       el.hidden=true;
-      input.value="";
-      status.textContent="";
-      status.classList.remove("error");
     };
 
     el.querySelector("#readerSwitchCancel").addEventListener("click",close);
     el.addEventListener("click",e=>{if(e.target===el)close();});
+    el.querySelector("#readerSwitchCodeBack").addEventListener("click",hideCode);
+    el.querySelector("#readerSwitchShowCode").addEventListener("click",showCode);
+    el.querySelector("#readerSwitchAdminReader").addEventListener("click",showCode);
 
     async function go(){
       const code=input.value.trim();
@@ -1045,7 +1085,7 @@ const Comments = (() => {
         const wasAdmin=admin();
         const profile=await loginWithCode(code);
         if(wasAdmin&&auth){
-          status.textContent="Saindo do administrador e entrando como "+profile.name+"…";
+          status.textContent="Entrando como "+profile.name+"…";
           await auth.signOut();
           adminUser=null;
         }else{
@@ -1058,32 +1098,38 @@ const Comments = (() => {
         submit.disabled=false;
       }
     }
-
     submit.addEventListener("click",go);
     input.addEventListener("keydown",e=>{if(e.key==="Enter")go();});
 
-    el.querySelector("#readerSwitchCreate").addEventListener("click",async()=>{
-      const wasAdmin=admin();
-      close();
-      if(wasAdmin&&auth){
-        try{
-          await auth.signOut();
-          adminUser=null;
-        }catch(e){
-          console.warn("Não foi possível encerrar o administrador antes de criar um leitor:",e);
-        }
+    const beginNewReader=async()=>{
+      sessionStorage.setItem(PROFILE_FLOW_KEY,"create");
+      if(admin()&&auth){
+        try{await auth.signOut();adminUser=null;}catch(e){console.warn("Não foi possível sair do administrador:",e);}
       }
       clearReaderIdentity();
       location.reload();
+    };
+    el.querySelector("#readerSwitchCreate").addEventListener("click",beginNewReader);
+    el.querySelector("#readerSwitchAdminCreate").addEventListener("click",beginNewReader);
+
+    el.querySelector("#readerSwitchLogout").addEventListener("click",()=>{
+      clearReaderIdentity();
+      sessionStorage.removeItem(PROFILE_FLOW_KEY);
+      location.reload();
     });
 
-    adminBtn?.addEventListener("click",()=>{
+    el.querySelector("#readerSwitchAdminLogout").addEventListener("click",async()=>{
+      if(auth&&admin()){
+        await auth.signOut();
+        adminUser=null;
+      }
+      close();
+      location.reload();
+    });
+
+    el.querySelector("#readerSwitchAdmin")?.addEventListener("click",()=>{
       close();
       openAdminLoginSheet();
-    });
-
-    document.addEventListener("beta:admin",()=>{
-      if(adminSection) adminSection.hidden=admin();
     });
 
     return el;
@@ -1095,37 +1141,39 @@ const Comments = (() => {
 
     const refresh=()=>{
       btn.hidden=false;
-      btn.title="Trocar usuário";
-      btn.setAttribute("aria-label","Trocar usuário");
+      btn.title="Perfil";
+      btn.setAttribute("aria-label","Perfil");
     };
 
     btn.addEventListener("click",()=>{
       const el=ensureReaderSwitchSheet();
       const current=el.querySelector("#readerSwitchCurrent");
+      const mainActions=el.querySelector("#readerSwitchMainActions");
       const adminSection=el.querySelector("#readerSwitchAdminSection");
-      const existingHint=el.querySelector("#readerSwitchExistingHint");
-      const newHint=el.querySelector("#readerSwitchNewHint");
+      const adminActions=el.querySelector("#readerSwitchAdminActions");
+      const codeBox=el.querySelector("#readerSwitchCodeBox");
       const adminOn=admin();
 
+      if(codeBox)codeBox.hidden=true;
       if(adminOn){
-        current.textContent="Perfil atual: Administrador · Autor";
-        if(existingHint)existingHint.textContent="Use o código de um perfil de leitor. Ao entrar, o modo administrador será encerrado.";
-        if(newHint)newHint.textContent="Crie um novo perfil de leitor neste aparelho. O modo administrador será encerrado.";
+        current.innerHTML='<span>Perfil atual</span><strong>Administrador</strong><small>Autor</small>';
+        if(mainActions)mainActions.hidden=true;
+        if(adminSection)adminSection.hidden=true;
+        if(adminActions)adminActions.hidden=false;
       }else{
-        current.textContent=name()
-          ? "Perfil atual: "+name()+(accessCode()?" · Código "+accessCode():"")
-          : "Nenhum perfil de leitor ativo neste aparelho.";
-        if(existingHint)existingHint.textContent="Use o código de acesso de um perfil que já existe.";
-        if(newHint)newHint.textContent="Crie outro usuário neste aparelho. O perfil atual não será apagado e poderá ser recuperado pelo código dele.";
+        const code=accessCode();
+        current.innerHTML='<span>Perfil atual</span><strong>'+esc(name()||"Leitor")+'</strong>'+(code?'<small>Código '+esc(code)+'</small>':'');
+        if(mainActions)mainActions.hidden=false;
+        if(adminSection)adminSection.hidden=false;
+        if(adminActions)adminActions.hidden=true;
       }
 
-      if(adminSection) adminSection.hidden=adminOn;
       el.hidden=false;
-      setTimeout(()=>el.querySelector("#readerSwitchCode")?.focus(),0);
     });
 
     document.addEventListener("beta:profile-ready",refresh);
     document.addEventListener("beta:profile-login",refresh);
+    document.addEventListener("beta:admin",refresh);
     refresh();
   }
 
