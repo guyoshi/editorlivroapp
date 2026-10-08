@@ -1,14 +1,6 @@
-A Câmara dos Onze não tinha janelas grandes. Orionus dizia que salas de decisão não deviam deixar o horizonte distrair os homens do chão. Por isso, ali dentro, a luz entrava por fendas altas e estreitas, cortando a pedra em tiras pálidas. Não havia vista para as muralhas, nem para o rio, nem para os anéis de Kaendar. Quem se sentava naquela sala não via o mundo que governava. Ouvia-o.
+A Câmara dos Onze tinha apenas fendas estreitas no alto das paredes. Orionus dizia que salas de decisão não deviam oferecer horizonte a quem precisava olhar para o chão. Naquela manhã, Kaelina não via as muralhas nem o rio, mas ouvia Kaendar: forjas, correntes, carroças, sinais de Vigias e, ao longe, uma mulher chorando.
 
-Às vezes, isso era pior. Naquela manhã, ouvia-se tudo.
-
-O martelar distante das forjas. Correntes sendo puxadas no portão menor. O arrastar de carroças no pátio baixo. Vigias trocando sinais nas torres altas. Alguém descarregando sal úmido em depósito errado. Uma mulher chorando longe demais para ser vista, perto demais para ser ignorada. E, por baixo de tudo, como um coração de pedra, o murmúrio de Kaendar acordada antes da hora.
-
-No centro da câmara ficava a Mesa da Raiz. Era comprida, escura, feita de madeira antiga trazida das primeiras fundações de Kaendar. A superfície fora polida por ciclos de mãos, mapas, copos, lâminas, tábuas de contagem, punhos fechados e decisões ruins. No centro, a Raiz em espiral havia sido entalhada tão profundamente que nenhuma limpeza conseguia tirar a sombra de dentro dos sulcos.
-
-Ao redor dela, onze cadeiras. Nenhuma era igual à outra.
-
-Orionus odiava simetria em conselho. “Cadeiras iguais fazem homens fingirem que pensam igual”, dizia. Por isso, cada assento tinha altura, largura e encosto diferentes, adaptado ao ofício de quem o ocupava, e ao medo que esse ofício trazia para a mesa. A cadeira do senhor das forjas tinha braços largos, riscados por unhas e cinza. A de Iressa Mão-de-Sal era estreita, quase desconfortável, como se obrigasse o corpo a manter a coluna honesta diante de qualquer desperdício. A cadeira dos portões tinha o encosto reforçado com ferro e pequenas marcas de chave nas laterais. A de Daryon era simples demais para um homem que gostava tanto de parecer indispensável.
+No centro ficava a Mesa da Raiz, feita de madeira antiga e marcada por ciclos de mapas, lâminas e tábuas de contagem. Onze cadeiras diferentes a cercavam, uma para cada função do Conselho. Orionus recusara assentos iguais porque, segundo ele, homens com ofícios diferentes não deviam fingir que temiam as mesmas coisas.
 
 Nas extremidades da mesa, duas cadeiras mais altas, mas não tronos. Kaelina estava sentada numa delas, a Ramagem refeita ao amanhecer pelo pintor de Kaendar, os traços ainda frescos e mais grossos do que o costume, porque dia de Conselho pedia que ninguém precisasse se aproximar para saber quem governava. A outra permanecia vazia.
 
@@ -16,11 +8,9 @@ Cal Edran Polar ficava junto à porta, de pé. Não participava da mesa, embora 
 
 Daryon estava sentado à direita da cadeira vazia de Alyra, com os dedos longos repousados sobre a mesa.
 
-Ao redor dele, os onze membros do Conselho da Raiz ocupavam seus lugares. Brokan das Forjas tinha os braços cruzados sobre o peito largo, impaciente como quem preferia resolver a reunião com martelo. Iressa Mão-de-Sal riscava números numa pequena tábua, calculando sal, carne seca e grão antes mesmo que alguém terminasse um discurso de honra. Varron Meio-Olho observava tudo com a cavidade esquerda descoberta, a cicatriz antiga atravessando-lhe o rosto como uma lembrança que ele fazia questão de não esconder.
+Brokan das Forjas mantinha os braços cruzados. Iressa Mão-de-Sal já fazia contas numa tábua. Varron Meio-Olho observava a sala com a cavidade esquerda descoberta; Nalia do Rio permanecia calada; Thoren dos Grãos tossia de tempos em tempos; Odran Porta-Baixa vigiava a porta. Maelis preparava os registros, Yvenn Raiz-Branca murmurava entre os dedos, Lurok acompanhava quem parecia vencer e Seron batia dois dedos na madeira.
 
-Nalia do Rio mantinha as mãos cruzadas, calada, mas atenta. Thoren dos grãos, tossia de tempos em tempos, sempre olhando para baixo, como se procurasse podridão sob a própria mesa. Odran Porta-Baixa fitava a porta mais do que as soberanas. Maelis das Contagens já preparava as tábuas de registro. Yvenn Raiz-Branca murmurava algo entre os dedos, talvez prece, talvez memória. Lurok sorria para quem parecia estar a vencer. E Seron batia dois dedos na madeira, contando a paciência que ainda lhe restava.
-
-Onze membros, onze vozes, onze formas diferentes de temer a mesma coisa. Kaelina olhou de novo para a cadeira vazia.
+Kaelina olhou de novo para a cadeira vazia.
 
 — Vamos começar.
 
@@ -110,7 +100,7 @@ Alyra olhou para ele com um meio sorriso.
 
 — Sempre tão generoso, Daryon. Chamando a minha clareza de emoção.
 
-— Eu chamaria de pragmatismo, minha soberana. E pragmatismo, às vezes, é uma forma de inteligência.
+— Chamo de pragmatismo, minha soberana.
 
 Maelis pigarreou.
 
@@ -120,7 +110,7 @@ Maelis pigarreou.
 
 — Lei do Portão — confirmou Yvenn.
 
-A palavra antiga pousou na mesa com peso próprio. Pão, água, sal, testemunha e palavra pública: coisas pequenas demais para parecerem arma, antigas demais para serem ignoradas.
+Pão, água, sal, testemunha e palavra pública formavam o costume antigo.
 
 Varron Meio-Olho inclinou a cabeça, o olho bom parado no mapa como se já visse Vigias mortos em cada trilha.
 
@@ -200,7 +190,7 @@ Silêncio. Edran baixou a cabeça, não em vergonha, mas em gratidão contida. D
 
 — Como desejar, minha soberana.
 
-Mas os olhos dele não pediam perdão. Alyra observava a irmã com uma expressão difícil de ler. Havia irritação ali. Mas também outra coisa. Talvez inveja, talvez respeito, talvez o incômodo de ver Kaelina fazer com naturalidade aquilo que Alyra tentava conquistar à força: calar uma sala inteira. Mestre Odran ergueu a mão.
+Alyra continuou olhando para a irmã quando Odran ergueu a mão.
 
 — Há um problema que precisamos contar.
 
@@ -222,7 +212,7 @@ Kaelina olhou para ela. Havia algo no modo como Alyra disse aquilo. Não era sim
 
 — Enquanto esta mesa esperava horário para reunir, meus homens já estavam nas trilhas. Mandei alguns homens a alguns clãs. A mensagem é simples: Kaendar oferece proteção, desde que reconheçam a primazia Polar nas rotas.
 
-Daryon baixou os olhos para a mesa. Não surpresa. Apenas atenção. Por um instante, ninguém falou. Depois todos falaram ao mesmo tempo. Brokan sorriu. Iressa fechou os olhos. Yvenn murmurou alguma coisa para si.
+Daryon baixou os olhos para a mesa. Por um instante ninguém falou; depois, as vozes se sobrepuseram.
 
 Por fim, Kaelina levantou-se. Não rápido. Isso teria dado gosto a Alyra. Levantou-se devagar, e isso foi pior.
 
@@ -244,7 +234,7 @@ Kaelina apoiou as mãos na mesa.
 
 — Isso não é proteção, Alyra. É desafio. Está obrigando os clãs a nos respeitar. A abaixarem a cabeça para nós. É isso que os Tondrar querem. Eles vão perceber medo nisso. Porque é assim que você reage, Alyra. É impulsiva, porque tem medo de perder.
 
-Alyra levantou-se também. As duas agora estavam de pé, uma em cada extremidade da Mesa da Raiz. Iguais no sangue. Opostas no gesto. Nalia do Rio falou pela primeira vez:
+Alyra levantou-se também. As duas ficaram em extremidades opostas da Mesa da Raiz. Nalia do Rio falou pela primeira vez:
 
 — Ela não está completamente errada.
 
@@ -390,7 +380,7 @@ Kaelina olhou para ela.
 
 Desta vez foi Kaelina quem ficou em silêncio. A frase era feia demais para ser dita e verdadeira demais para ser ignorada.
 
-Alyra percebeu que havia ferido, e por um instante pareceu satisfeita. Depois esse prazer evaporou. Talvez até ela tivesse limite para onde enfiar uma faca. Daryon observou esse instante com atenção. Maelis levantou a voz fina:
+A satisfação de Alyra durou pouco. Daryon percebeu. Maelis levantou a voz:
 
 — A questão precisa ser votada.
 
@@ -456,7 +446,7 @@ Maelis ergueu o estilete.
 
 — Como escriba, registro. Como membro, voto um.
 
-Oito contra três. A sala respirou. Kaelina já sabia. Mesmo assim, o número caiu sobre ela com peso. Maelis declarou:
+Oito contra três. Kaelina já esperava o resultado. Maelis declarou:
 
 — Oito votos para proposta um. Três para proposta dois. E peço que conste que voto por temor administrativo, não por entusiasmo militar.
 
@@ -468,7 +458,7 @@ Kaelina ergueu a mão.
 
 Alyra olhava para a mesa. Não sorria. Daryon também olhava para a mesa. Calmo. Quase entediado. Kaelina esperou. A derrota tinha um sabor seco.
 
-Alyra deixou o silêncio crescer o suficiente para todos compreenderem que o momento era dela. Depois ergueu os olhos para a irmã. E sorriu. Não um sorriso largo. Um sorriso pequeno de vitória.
+Alyra ergueu os olhos para a irmã e sorriu.
 
 — Proposta dois.
 
@@ -484,7 +474,7 @@ Maelis piscou duas vezes, como se a aritmética tivesse insultado a ordem natura
 
 — Com o peso da soberana Alyra… proposta dois recebe mais três. Total: nove. Proposta um permanece com oito.
 
-O silêncio voltou, mas agora era outro. Kaelina encarava Alyra e Alyra encarava Kaelina. Daryon permaneceu quieto, as mãos repousadas, os olhos baixos. Alyra levantou-se.
+Kaelina e Alyra se encararam. Daryon permaneceu quieto. Alyra levantou-se.
 
 — Parece que vamos oferecer pão aos Tondrar.
 
@@ -567,7 +557,3 @@ Edran seguiu o olhar dela.
 — Uma tentativa de paz...
 
 — E uma armadilha que ainda não mostrou os dentes.
-
-Kaelina olhou para os próprios dedos manchados de carvão. Do lado de fora, Kaendar preparava funerais. Nos anéis baixos, alguém contaria pão; nas torres, os Vigias contariam sombras.
-
-Dentro da câmara vazia, Kaelina permaneceu diante da trégua recém-aprovada, os dedos ainda manchados pelo carvão de Alyra.
