@@ -2,6 +2,7 @@
 (() => {
   let all=[], unsub=null, open=false, lastItems=[];
   let knownNewIds=null;
+  let exiladoReactionCleanupRunning=false,exiladoReactionCleanupDone=false;
   let notifyAudioCtx=null;
 
   function playNewCommentSound(){
@@ -180,7 +181,7 @@
     if(document.getElementById("reactionAdminSheet"))return;
     const el=document.createElement("div");el.id="reactionAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
     el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Reações</h2><p>Mapa emocional dos trechos reagidos pelos leitores.</p></div><div class="admin-head-actions"><button id="reactionBack" class="link-btn admin-back-btn" type="button">← Feedback</button><button id="reactionClose" class="icon-btn" type="button">✕</button></div></header>'
-      +'<div class="admin-dashboard-filters"><select id="reactionBook"><option value="">Todos os livros</option></select><select id="reactionChapter"><option value="">Todos os capítulos</option></select><select id="reactionAuthor"><option value="">Todos os leitores</option></select><select id="reactionEmoji"><option value="">Todos os emojis</option><option>😍</option><option>😂</option><option>😱</option><option>😢</option><option>🤔</option></select></div>'
+      +'<div class="admin-dashboard-filters"><select id="reactionBook"><option value="">Todos os livros</option></select><select id="reactionChapter"><option value="">Todos os capítulos</option></select><select id="reactionAuthor"><option value="">Todos os leitores</option></select><select id="reactionEmoji"><option value="">Todos os emojis</option><option>😍</option><option>😂</option><option>😱</option><option>😢</option><option>🤔</option><option>😡</option></select></div>'
       +'<div id="reactionAdminList" class="admin-dashboard-list"></div></section>';
     document.body.appendChild(el);
     el.querySelector("#reactionBack").onclick=()=>{hideReactions();showFeedbackHub();};
@@ -283,6 +284,31 @@
     setTimeout(()=>{ta.focus();ta.setSelectionRange(ta.value.length,ta.value.length);},0);
   }
 
+  async function cleanupExiladoOldReactions(){
+    if(exiladoReactionCleanupDone||exiladoReactionCleanupRunning||!Comments?.isAdmin?.()||!db())return;
+    const targets=all.filter(x=>
+      x.kind==="reaction"
+      && x.bookId==="ruinas-dos-ceus"
+      && Number(x.chapter)===22
+      && (x.emoji==="😂"||x.emoji==="😍")
+    );
+    if(!targets.length){exiladoReactionCleanupDone=true;return;}
+    exiladoReactionCleanupRunning=true;
+    try{
+      for(let i=0;i<targets.length;i+=400){
+        const batch=db().batch();
+        targets.slice(i,i+400).forEach(x=>batch.delete(db().collection("comments").doc(x.id)));
+        await batch.commit();
+      }
+      exiladoReactionCleanupDone=true;
+      console.info("Reações 😂/😍 removidas de O Exilado:",targets.length);
+    }catch(e){
+      console.warn("Não foi possível limpar as reações de O Exilado:",e);
+    }finally{
+      exiladoReactionCleanupRunning=false;
+    }
+  }
+
   function subscribe(){
     if(unsub||!Comments?.isAdmin?.()||!db())return;
     unsub=db().collection("comments").onSnapshot(s=>{
@@ -296,6 +322,7 @@
         if(hasFresh)playNewCommentSound();
       }
       knownNewIds=currentNew;
+      cleanupExiladoOldReactions();
       badge();updateFeedbackHub();if(open)render();
       const reactionSheet=document.getElementById("reactionAdminSheet");if(reactionSheet&&!reactionSheet.hidden)renderReactions();
     });
