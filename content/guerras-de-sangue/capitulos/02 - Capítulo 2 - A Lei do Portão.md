@@ -1,4 +1,4 @@
-Cal Edran Polar atravessou o corredor com o corpo ereto, disciplinado como uma ordem. Músculo marcado por cicatriz. Olhos cansados de quem já viu o que a paz não conta.
+Cal Edran Polar atravessou o corredor ereto, o corpo marcado por cicatrizes e os olhos cansados.
 
 Parou num ponto onde dava para ver dois acessos: o caminho do anel alto, que levava às torres dos Vigias, e o caminho do pátio interno, por onde entravam cargas e corpos.
 
@@ -10,15 +10,9 @@ Então seguiu para a porta e saiu com os homens.
 
 O Vigia cuidadoso levantou a mão com cuidado, como quem oferece algo que pode morder. A madeira escura parecia absorver luz, e as marcas queimadas, linhas e pontos, eram negras demais para ser só carvão. Havia nelas uma precisão quase ritual, como pele marcada por alguém que queria ser reconhecido.
 
-Kaelina pegou com dois dedos. Não segurou com a palma. Não deu “confiança” para o objeto. Virou, avaliou os nós da linha trançada, a madeira escurecida, a forma como a resina tinha endurecido nos sulcos. Em seguida assentiu para que o Vigia se retirasse, e ele seguiu para as portas.
+Kaelina segurou o talismã pelas bordas e examinou os nós, a madeira escurecida e a resina endurecida nos sulcos. Quando as portas se fecharam, aproximou-o do nariz. Havia cheiro de resina velha queimada, seca demais para ter vindo de alguém que acabara de correr pelo mato.
 
-Quando as portas se fecharam, Kaelina aproximou o talismã do nariz. Não tinha cheiro de floresta. Nem de suor. Nem de couro fresco.
-
-Era resina velha queimada, seca demais para ter caído por acaso de alguém que acabara de correr pelo mato.
-
-Como se aquele talismã tivesse sido passado em fogo baixo para ficar marcado por dentro.
-
-— Eles sabiam que isso chegaria até nós — Kaelina disse, e a frase não veio como suspeita. Veio como constatação.
+— Eles sabiam que isso chegaria até nós — disse.
 
 Alyra soltou um ar pelo nariz, quase riso.
 
@@ -90,9 +84,7 @@ Ela seguiu até uma das muralhas altas e observou abaixo. No pátio mais baixo, 
 
 Uma mulher do anel externo correu antes que alguém mandasse parar. Dois Vigias do pátio tentaram segurá-la, ainda com cheiro de fumaça e muralha na roupa, mas Edran fez um gesto curto e eles soltaram. A mulher caiu de joelhos na lama.
 
-Não chorou de cara. Primeiro, ela fez o gesto da Raiz com dois dedos. Testa. Peito. Lembrar. Pertencer.
-
-Depois tocou o punho do garoto, encontrou a linha trançada do jeito de Kaendar e soltou um som que não era palavra. Era bicho ferido.
+A mulher tocou dois dedos na testa e depois no peito. Em seguida segurou o punho do garoto, encontrou a linha trançada de Kaendar e soltou um som quebrado, sem palavra.
 
 — Meu filho… meu menino… meu filho…
 
@@ -100,9 +92,7 @@ Um homem veio atrás dela, mais lento, e pareceu envelhecer em três passos. Olh
 
 Outras pessoas se aproximaram. Uma irmã. Um tio. Dois amigos. Gente que reconheceu cicatriz, reconheceu dente quebrado, reconheceu a faca que ele mesmo tinha entalhado, reconheceu o nó errado na linha do punho porque só família repara nesse tipo de erro. Kaelina permaneceu na muralha.
 
-Não chorou. Não porque não sentisse. Mas porque, às vezes, o corpo entende que chorar é luxo de quem ainda não precisa decidir nada.
-
-A mulher no pátio abraçava o corpo do filho como se pudesse convencê-lo a voltar pelo peso do próprio amor. E aquilo, mais do que os corpos, mais do que o talismã, mais do que o cheiro de sangue, barro e fronteira trazido pelos Vigias, feriu Kaelina num lugar que nenhuma lâmina alcançaria. Dois garotos. Não peças de guerra, nem símbolo, nem afronta. Dois garotos.
+Kaelina permaneceu na muralha enquanto a mulher abraçava o corpo do filho. A discussão no salão encolheu diante daquela cena. Eram dois garotos mortos, e um deles ainda estava preso aos braços da mãe.
 
 A frase de Alyra voltou como ferro quente: já pensou em como ficarão os pais e mães desses garotos? Kaelina pensou. E odiou a irmã por ter razão numa coisa tão cruel.
 
@@ -114,15 +104,9 @@ Servos se afastavam ao vê-la passar. Alguns curvavam a cabeça. Outros apenas a
 
 Só quando chegaram aos aposentos dela, atrás de uma porta dupla de madeira escura marcada pela Raiz em espiral, é que Kaelina respirou de verdade.
 
-O quarto não era luxuoso do jeito que estrangeiros imaginavam aposentos de soberana. O quarto dispensava ouro, peles raras e perfume doce para fingir que pedra era jardim. O que havia ali era ordem. Isso, sim, havia em tudo.
+Os aposentos de Kaelina eram sóbrios. Uma mesa comprida sustentava mapas de fronteira, tábuas de contagem, tinteiro e uma faca de cabo gasto para cartas e lacres. Pedras pequenas marcavam torres, depósitos, áreas de caça, o Rio Grande, a Estrada dos Grãos e as rotas de abastecimento de Kaendar. Perto da janela havia uma bacia de água; no canto, uma arca de roupas de cerimônia.
 
-Uma mesa comprida ocupava o lado esquerdo, coberta por mapas de fronteira presos com pesos de ferro. Pequenas pedras marcavam passagens, torres de Vigia, depósitos, áreas de caça, trechos do Rio Grande, a Estrada dos Grãos, o Portão Menor, os pontos que Odran Porta-Baixa sempre chamava de “erro esperando pressa” e as rotas por onde sal, grão-de-caule, cevada-escura e couro entravam em Kaendar.
-
-Algumas tinham riscos feitos por ela mesma, com carvão fino, em anotações tão apertadas que pareciam segredos. Sobre a mesa também havia três tábuas de contagem, um tinteiro quase seco e uma faca pequena de cabo gasto, dessas usadas não para matar, mas para abrir cartas, cortar fios, raspar cera de selo e apontar madeira.
-
-Perto da janela estreita, uma bacia de água fria repousava sobre um suporte de bronze simples. Ao lado, um pano dobrado com precisão exagerada. No canto mais escuro, havia uma arca baixa com roupas de cerimônia, quase todas escuras, quase todas práticas demais para agradar qualquer costureira do anel alto. Sobre a lareira apagada, não havia retrato de Orionus, os Polar não pintavam rostos de mortos com facilidade, mas havia um objeto dele: uma velha peça de jogo, feita de osso polido, rachada no meio.
-
-Kaelina sempre dizia a si mesma que a mantinha ali por memória. Mentia. Mantinha porque a rachadura a lembrava de que até o que parecia calculado podia partir.
+Sobre a lareira repousava a única coisa de Orionus que ela mantinha à vista: uma peça de jogo de osso polido, rachada ao meio.
 
 Ela retirou o manto pesado dos ombros e deixou-o sobre uma cadeira. Só então percebeu que suas mãos tremiam. Edran percebeu antes dela, mas fingiu não perceber.
 
@@ -214,11 +198,9 @@ O sorriso desapareceu devagar, mas não por completo.
 
 — Isso foi antes.
 
-Edran entendeu o que ela não disse. Antes de Orionus morrer. Antes de o trono deixar de ser móvel de madeira e virar distância entre duas irmãs.
+— Foi — respondeu Edran.
 
-— Foi — respondeu.
-
-Kaelina fechou os olhos por um instante. Kaelina fechou os olhos por um instante.
+Kaelina fechou os olhos por um instante.
 
 — Eu não sei se consigo fazer isso, Edran.
 
@@ -226,7 +208,7 @@ Ele não respondeu. Ela odiava quando ele fazia isso. Quando deixava silêncio d
 
 — Meu pai morreu e todos esperam que eu saiba ser ele — continuou. — Alyra acha que ser Orionus é mostrar dentes. O Conselho acha que ser Orionus é manter a cadeira quente e não deixar a cidade tremer. O povo acha que ele teria uma resposta antes mesmo dos corpos esfriarem.
 
-Passou a mão pelo rosto, e a ponta dos dedos voltou esbranquiçada: o suor da muralha já começava a desfazer a Ramagem nas têmporas. Pela primeira vez naquela noite, ela parecia ter vinte ciclos. Não soberana. Não filha da dinastia. Apenas uma mulher nova demais diante de uma cidade velha demais.
+Passou a mão pelo rosto, e a ponta dos dedos voltou esbranquiçada: o suor já começava a desfazer a Ramagem nas têmporas.
 
 — Mas eu só lembro dele como pai. Sentado nessa cadeira. Corrigindo meus números. Dizendo que eu segurava a pena como quem queria furar a mesa. Eu conheço as histórias. Todo mundo conhece. A Noite da Garganta. A Lei do Portão. O julgamento na lama. O pão distribuído tarde para que o anel externo não se matasse antes do fim do dia. Mas história é fácil depois que já acabou.
 
@@ -266,113 +248,61 @@ Kaelina quase sorriu. Edran aproximou-se da mesa, mas não tocou em nenhum mapa 
 
 Kaelina ergueu o olhar. Edran olhou para a peça de osso rachada sobre a lareira, como se a memória estivesse ali.
 
-— Foi no décimo segundo ciclo do reinado dele. Tondrar haviam roubado duas carroças de grão e ferido três carregadores. O Conselho queria retaliação. Os capitães queriam atravessar a Garganta antes do amanhecer. Eu também queria.
+— Foi no décimo segundo ciclo do reinado dele. Tondrar roubaram duas carroças de grão e feriram três carregadores. Conselho, capitães, eu também: todos queríamos retaliação.
 
 — Você?
 
-— Eu era mais novo. Mais burro. Mais bonito também. É o que dizem.
+— Eu era mais novo. Mais burro. Mais bonito também.
 
 — Ninguém nunca disse isso.
 
-— Talvez a senhora não ouça os sussurros dos anéis inferiores.
+— A senhora não escuta os sussurros certos.
 
-Ela desviou o rosto, mas havia agora uma sombra de vida nos olhos.
+Edran olhou para a janela.
 
-— Continue.
+— Teu pai ouviu todo mundo e depois desceu ao anel inferior. Foi parar numa fila de pão. Na época, os mais fortes chegavam primeiro; velhos e mães com crianças recebiam o que sobrava. Um menino tentou esconder dois pedaços para a irmã, e um guarda agarrou o braço dele.
 
-— Teu pai ouviu todos. Ficou calado a reunião inteira. Quando terminou, todos esperavam a ordem. Ataque, bloqueio, captura, qualquer coisa. Mas ele levantou e saiu.
+Kaelina esperou.
 
-— Saiu?
+— Uma criança saiu da fila e mordeu a mão do guarda.
 
-— Saiu. Mandou que ninguém o seguisse. Naturalmente, eu segui.
-
-— Naturalmente.
-
-— Era meu dever desobedecer quando ele fingia não querer proteção.
-
-Edran caminhou até a janela estreita. Lá fora, Kaendar ardia em pontos de luz. Fogueiras dobradas. Vigias reforçados. Uma cidade tentando parecer menos assustada do que estava.
-
-— Ele desceu até o anel inferior. Não foi à muralha. Não foi aos depósitos. Em vez de procurar os feridos, foi até uma fila de pão.
-
-Kaelina franziu a testa.
-
-— Uma fila de pão?
-
-— Sim.
-
-— Pensei que fosse uma história de guerra.
-
-— É.
-
-Edran deixou a palavra repousar.
-
-— Naquela época, a distribuição era ao amanhecer. Os mais fortes chegavam antes. Os velhos ficavam para trás. As mães com crianças recebiam o que sobrava. Teu pai ficou observando. Ninguém sabia que ele estava ali, porque vestia um manto velho, mantinha o rosto baixo e tinha lavado a Ramagem antes de descer. Um soberano sem os traços brancos era só mais um homem cansado numa fila. Chovia pouco, mas o suficiente para transformar tudo em lama.
-
-Kaelina não disse nada.
-
-— Um menino tentou esconder dois pedaços de pão debaixo da roupa. Um guarda viu. Agarrou o braço dele. O menino gritou que era para a irmã. O guarda ia bater nele.
-
-Edran fez uma pausa curta.
-
-— Então uma criança pequena saiu do meio da fila e mordeu a mão do guarda.
-
-Kaelina virou-se devagar. Edran olhou para ela.
+Ela franziu a testa.
 
 — A senhora.
 
-O quarto pareceu mudar de tamanho. Kaelina abriu a boca, mas nenhuma frase veio.
+Kaelina ficou olhando para ele.
 
-— Eu tinha…?
+— Eu tinha cinco ou seis ciclos. Fugiu da serva que a acompanhava e mordeu um guarda por causa de um menino que nem conhecia. Teu pai viu.
 
-— Cinco ciclos. Talvez seis. Pequena demais para entender fome, grande o bastante para se indignar com injustiça. Estava lá com uma serva. Fugiu dela, pelo que lembro. O guarda ficou tão assustado por ter sido atacado por uma filha de Orionus que não soube se pedia desculpa, se prendia o menino ou se oferecia a própria mão para outra mordida.
+— Eu não lembro.
 
-Kaelina baixou o olhar para os próprios dedos, como se esperasse encontrar dentes de infância neles.
+— Ele lembrava. Na reunião daquela noite, deixou todos falarem dos Tondrar e depois perguntou quantos pães eram roubados dentro de Kaendar, quantas famílias recebiam menos do que deviam e quantos guardas vendiam lugar na fila. Ninguém soube responder.
 
-— Eu não lembro disso.
+— E ele?
 
-— Teu pai lembrava.
+— Passou a saber. Mudou a distribuição, criou contagem por família e testemunha de rua. As brigas diminuíram. Também diminuiu a quantidade de gente disposta a vender informação por comida.
 
-A chama da lareira estalou.
-
-— Naquela noite — continuou Edran —, o Conselho se reuniu de novo. Todos queriam falar dos Tondrar. Teu pai deixou que falassem. Depois perguntou quantos pães haviam sido roubados dentro de Kaendar no último ciclo. Ninguém sabia. Perguntou quantas famílias do anel inferior recebiam menos do que deviam. Ninguém sabia. Perguntou quantos guardas vendiam lugar na fila. Ninguém sabia. Iressa Mão-de-Sal ainda não estava no Conselho, mas teu pai já pensava como gente de depósito: soldado marcha com honra só até a barriga começar a morder. Depois disso, honra vira palavra de anel alto. Ele dizia que antes de julgar a lâmina, era melhor perguntar quem fechou o celeiro.
-
-Kaelina respirou devagar.
-
-— E ele sabia?
-
-— Não. Mas passou a saber. No dia seguinte, mudou o horário do pão. A distribuição deixou de ser ao amanhecer e passou a ser à tarde, por família, com marca de contagem e testemunha de cada rua. Cortou o roubo pela metade em três dias. Em dez, cortou brigas no anel inferior. Em vinte, os Tondrar perderam informantes dentro da cidade, porque já não havia tanta gente disposta a vender notícia por comida.
-
-Kaelina ficou quieta.
+Kaelina se aproximou da mesa.
 
 — E as carroças?
 
-— Ele mandou recuperar depois.
-
-— Como?
-
-— Não com exército. Com fome.
-
-Ela ergueu os olhos.
-
-— Edran.
-
-— Ele descobriu que os Tondrar tinham roubado porque uma das famílias deles estava sem acesso ao próprio campo depois de uma disputa interna. Vosso pai enviou grão para a família rival.
+— Recuperou depois. Descobriu que o roubo tinha começado porque uma família Tondrar perdera acesso ao próprio campo numa disputa interna. Enviou grão para a família rival.
 
 — Para os inimigos?
 
-— Para metade dos inimigos. A outra metade ficou com vergonha de ter roubado menos do que a rival recebeu de presente.
+— Para metade deles. A outra metade preferiu negociar a continuar roubando enquanto a rival recebia comida de Kaendar.
 
-Kaelina soltou um ar, quase rindo, quase incrédula.
+Kaelina soltou um ar curto.
 
 — Isso é ridículo.
 
-— Sim. Funcionou.
+— Funcionou.
 
-Edran aproximou-se um pouco, mas ainda manteve a postura de homem diante de soberana.
+Edran apontou para o mapa.
 
-— Vosso pai não olhava primeiro para a espada. Olhava para a condição que fazia alguém querer puxá-la. Às vezes era fome. Às vezes orgulho. Às vezes medo de parecer fraco. Ele dizia que guerra começa antes da primeira lâmina. Começa quando alguém acredita que não tem outra forma de ser visto.
+— Orionus procurava a condição antes da espada. Às vezes era fome. Às vezes orgulho. Às vezes medo. Guerra começa antes da primeira lâmina.
 
-Kaelina olhou para o mapa. As pedras negras já não pareciam apenas inimigos. Pareciam bocas. Famílias. Fome. Orgulho. Medo.
+Kaelina observou as pedras negras sobre a fronteira.
 
 — Alyra diria que isso é fraqueza.
 
@@ -434,13 +364,9 @@ Edran ficou imóvel. Não pareceu surpreso. Pareceu lembrar.
 
 — Lirron — disse ele.
 
-Kaelina ergueu os olhos. Todo Polar conhecia o nome, mas nomes antigos mudavam de peso quando eram pronunciados diante de uma escolha parecida.
+Kaelina conhecia a história de Lirron, capitão e amigo de Orionus. Durante uma trégua, ele matara um emissário protegido pela palavra do soberano e quase entregara Kaendar a uma guerra. Orionus mandou prendê-lo e o condenou à morte diante de testemunhas.
 
-Lirron fora capitão de Orionus. Amigo dele antes de ser homem do trono. Um dos que soldados seguiam sem perguntar duas vezes. Durante uma trégua antiga, um emissário entrou sob palavra de paz e Lirron o matou. Disse que fizera por honra. Disse que havia poupado Kaendar de um inimigo. Quase entregou à cidade uma guerra. Orionus mandou prendê-lo.
-
-Não houve praça, canto nem glória. O julgamento aconteceu na lama, diante de testemunhas suficientes para que ninguém pudesse fingir depois que não ouvira a decisão. Lirron foi condenado à morte.
-
-A história sobrevivera não porque Kaendar gostasse de lembrar que Orionus matara um amigo, mas porque dali nascera uma regra simples demais para permitir desculpa: quando a soberania dá palavra de passagem ou trégua, aquela palavra vale mais do que a raiva de quem segura a espada. Com o tempo, chamaram aquilo de Lei do Portão. Não era uma lei sobre madeira. Era sobre palavra.
+Daquele julgamento nasceu a Lei do Portão: uma trégua concedida pela soberania deveria ser protegida também contra a raiva dos próprios Polar.
 
 — Seu pai a criou porque um homem de confiança quase incendiou Kaendar acreditando que estava defendendo-a — disse Edran.
 
@@ -468,7 +394,7 @@ Edran estreitou os olhos, não por discordância, mas por atenção. Kaelina cam
 
 — Que interpretem. Se estão esperando que tenhamos medo, talvez isso os faça baixar a guarda.
 
-Edran a observou por um instante longo. Havia algo de Orionus ali. Não no rosto. Não na voz. Mas no modo como a ideia deixava de tremer quando finalmente tocava o chão.
+Edran a observou por um instante.
 
 — E sua irmã concordará com isso?
 
@@ -479,8 +405,6 @@ Kaelina ficou em silêncio. Alyra não concordaria. Alyra iria rir. Iria chamar 
 Passou os dedos sobre a fronteira.
 
 — Mas ela também viu aquela mãe no pátio.
-
-Edran esperou. Kaelina ergueu os olhos, e agora havia decisão neles.
 
 — Amanhã, diante do Conselho, ela poderá pedir cabeças. Eu pedirei pela vida. Quero que cada um deles escolha qual das duas coisas parece mais com Kaendar.
 
