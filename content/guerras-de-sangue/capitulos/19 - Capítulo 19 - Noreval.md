@@ -682,6 +682,6 @@ Kaelina virou-se. Savel estava de pé junto à mesa, mais curvado do que antes. 
 
 — Se falar com ele — disse o velho — Diga ao meu filho que uma raiz arrancada ainda sabe de que terra veio. E diga que eu vi quando ele olhou para trás.
 
-Kaelina não respondeu de imediato. Kaelina saiu e fechou a porta.
+Kaelina saiu e fechou a porta.
 
 Noreval estava quase toda escura. Kaelina caminhou alguns passos e olhou para trás. Savel permanecia à porta, parado sob a chuva, olhando para a estrada.

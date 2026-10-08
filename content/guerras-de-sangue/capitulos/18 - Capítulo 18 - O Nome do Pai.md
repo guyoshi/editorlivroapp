@@ -511,7 +511,3 @@ Kaelina virou-se.
 Kaelina respirou.
 
 — Daryon foi quem apontou Ylvena como possível culpada. Depois da morte do meu pai, tornou-se conselheiro de Alyra. Agora eu o encontro negociando com Homens das Areias.
-
-Ela ficou em silêncio.
-
-Talvez a investigação não começasse nos dois garotos. Talvez precisasse voltar à morte de Orionus.
