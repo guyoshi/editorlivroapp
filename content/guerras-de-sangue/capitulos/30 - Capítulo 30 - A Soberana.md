@@ -602,7 +602,7 @@ Kaelina olhou para a decisão da Mesa condenando Alyra à morte e para o decreto
 
 — O Conselho está dispensado — disse.
 
-Ninguém se moveu imediatamente. Talvez porque Alyra usara a mesma frase tantas vezes para encerrar discussões. Talvez porque todos percebessem que, a partir daquele momento, as palavras de Kaelina não pediam espaço, mas o tomavam. Iressa recolheu as próprias tábuas. Antes de sair, aproximou-se da soberana.
+Ninguém se moveu de imediato. Iressa recolheu as próprias tábuas. Antes de sair, aproximou-se da soberana.
 
 — Você venceu.
 
@@ -784,7 +784,7 @@ Passou diante das casas queimadas, do caminho onde Rendar morrera, dos depósito
 
 Quando chegou ao portão, ninguém a chamou. Kaelina observava de uma passagem alta. Alyra não olhou para cima.
 
-Talvez soubesse que a irmã estava ali. Talvez se recusasse a oferecer uma última imagem para Kaelina guardar. O portão abriu. E a carroça atravessou.
+O portão abriu, e a carroça atravessou.
 
 Cal Kadrir e os guardas acompanharam-na até a fronteira das terras Polar. Voltariam depois. Alyra seguiria com um escudeiro, as provisões e a criança que ainda crescia dentro dela.
 

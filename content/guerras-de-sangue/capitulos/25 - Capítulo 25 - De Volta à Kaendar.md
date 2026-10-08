@@ -358,4 +358,4 @@ O nome não precisou ser dito para ocupar o cômodo inteiro dentro dela. A mulhe
 
 Ylvena estava ali, escondida em Kaendar durante o cerco, diante de Daryon.
 
-Kaelina sentiu a mão de Marken tocar de leve seu braço, avisando-a para não se mover. Ela não se moveria mesmo que quisesse. A fraqueza, o medo e a revelação a prenderam mais do que qualquer corda. Só havia uma pergunta crescendo no escuro: o que aquela mulher fazia ali?
+Kaelina sentiu a mão de Marken tocar de leve seu braço, avisando-a para não se mover. A fraqueza, o medo e a revelação a prenderam mais do que qualquer corda. Só havia uma pergunta crescendo no escuro: o que aquela mulher fazia ali?

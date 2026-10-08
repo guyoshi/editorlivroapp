@@ -402,7 +402,7 @@ Kadrir recebeu a frase como honra e condenação. Ela colocou a mão sobre o pun
 
 — O que seria de mim se não fosse ao menos parte do que Orionus foi?
 
-Kadrir não respondeu. Talvez porque soubesse que qualquer resposta verdadeira seria perigosa. Eles deixaram os aposentos.
+Kadrir não respondeu. Eles deixaram os aposentos.
 
 Os três homens abriram caminho, enquanto Kadrir permanecia ao lado de Alyra. Desceram pelas passagens do Anel Alto em direção à entrada principal da fortaleza. Quanto mais avançavam, mais homens encontravam: feridos subindo, guardas descendo, mensageiros carregando ordens contraditórias. Alguns paravam ao ver Alyra armada. Outros endireitavam o corpo. Era por isso que ela saíra.
 
@@ -518,7 +518,7 @@ A armadura continuava impressionante mesmo danificada. Fuligem cobria as placas,
 
 A flecha atingiu a placa sobre o peito de Tavra e entrou pela borda, prendendo-se entre metal e couro. O fogo atravessou o espaço. Alyra caiu atrás da mesa. A chama passou sobre ela, incendiando uma corda que pendia do mecanismo central. Tavra arrancou a flecha da armadura. Havia sangue na ponta. Ela sorriu, mas o sorriso já não parecia tão fácil.
 
-Alyra levantou-se por trás da mesa e chutou-a contra Tavra. A Vendrar recebeu a madeira com o ombro e a partiu de lado. Alyra veio logo atrás, usando a mesa como cobertura para aproximar-se. As espadas se encontraram. Tavra golpeou o rosto. Alyra desviou. Alyra buscou a barriga. A armadura desviou.
+Alyra levantou-se por trás da mesa e chutou-a contra Tavra. A Vendrar recebeu a madeira com o ombro e a partiu de lado. Alyra veio logo atrás, usando a mesa como cobertura para aproximar-se. As espadas se encontraram. Tavra golpeou o rosto. Alyra desviou e buscou a barriga. A armadura desviou.
 
 Tavra tentou usar o tubo de fogo a curta distância. Alyra agarrou uma das cordas do mecanismo e puxou. Um peso de madeira desceu do alto, atingindo a lateral de Tavra. A Vendrar foi lançada contra a parede. Alyra avançou. O primeiro golpe cortou uma tira do arreio. O segundo foi bloqueado. O terceiro atingiu o metal sobre o coto. Uma das peças soltou-se e caiu no chão.
 

@@ -144,7 +144,7 @@ Kadrir olhou para Varron, procurando confirmação. O conselheiro assentiu.
 
 — Ela saiu sozinha — disse ele. — Falou diante do exército e voltou com os Buldar recuando.
 
-Alyra olhou para Kaelina. Alyra não mostrou admiração. O que apareceu em seu rosto foi mais difícil de suportar. Kaelina voltou-se para Rendar.
+Alyra olhou para Kaelina sem admiração. O que apareceu em seu rosto foi mais difícil de suportar. Kaelina voltou-se para Rendar.
 
 — A guerra acabou. Não porque Kaendar venceu, nem porque os seus perderam. Acabou porque todos já pagaram mais do que aquilo que vieram buscar.
 
@@ -566,7 +566,7 @@ Alyra percebeu a hesitação e golpeou o ombro de Kaelina. A lâmina abriu roupa
 
 — Pare, Alyra — gritou Iressa. — Você está carregando uma criança.
 
-Alyra ignorou-a e avançou com um grito pra cima da irmã. As espadas se encontraram. Kaelina usou as duas mãos, girou a lâmina e tentou desarmá-la. Alyra segurou firme, bateu o cotovelo no rosto da irmã e abriu espaço. Depois acertou a perna de Kaelina com um chute. Kaelina caiu de joelhos. Alyra ergueu a espada.
+Alyra ignorou-a e avançou com um grito para cima da irmã. As espadas se encontraram. Kaelina usou as duas mãos, girou a lâmina e tentou desarmá-la. Alyra segurou firme, bateu o cotovelo no rosto da irmã e abriu espaço. Depois acertou a perna de Kaelina com um chute. Kaelina caiu de joelhos. Alyra ergueu a espada.
 
 — Por que está fazendo isso? — perguntou Kaelina.
 

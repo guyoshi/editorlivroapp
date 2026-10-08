@@ -424,7 +424,7 @@ Kaelina olhou para o corpo. O que ela tinha feito? Viva, Ylvena podia falar. Mor
 
 O pensamento veio tão claro que quase pareceu dito por outra pessoa. Ninguém nunca mais saberia a verdade como ela ouvira — Ylvena dizer que matou os garotos, confessar que Orionus bebera o Beijo-da-Noite destinado a Alyra, dizer que mandara um homem matar Kaelina. Tudo agora dependia de uma soberana coberta de sangue e de um homem que não pertencia a lugar nenhum.
 
-Kaelina olhou para Marken. Ele estava nos fundos do cômodo, meio tomado pela escuridão da passagem. O rosto dele não tinha espanto. Não tinha acusação. O rosto de Marken não oferecia piedade clara; para Kaelina, parecia uma porta aberta para um lugar onde respostas nunca ficavam tempo suficiente para virar conforto.
+Kaelina olhou para Marken, imóvel no fundo do cômodo, meio tomado pela escuridão da passagem. Seu rosto não oferecia piedade clara; para Kaelina, parecia uma porta aberta para um lugar onde respostas nunca ficavam tempo suficiente para virar conforto.
 
 Mas Marken apenas olhou para ela. Depois deu um passo para trás. Recuou mais, entrando na sombra da passagem estreita. A escuridão tomou primeiro o sangue seco em sua roupa, depois o braço ferido, depois metade do rosto. Por último, ficaram os olhos, calmos demais para uma noite como aquela. E então nem eles ficaram.
 
