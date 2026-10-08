@@ -1313,6 +1313,71 @@
     };
   }
 
+  function ensureBetaChapterDetailSheet(){
+    if(document.getElementById("betaChapterDetailSheet"))return;
+    const el=document.createElement("div");
+    el.id="betaChapterDetailSheet";
+    el.className="admin-dashboard-sheet";
+    el.hidden=true;
+    el.innerHTML='<section class="admin-dashboard beta-chapter-detail">'
+      +'<header class="admin-dashboard-head"><div><h2 id="betaChapterDetailTitle">Feedback do capítulo</h2><p id="betaChapterDetailSub"></p></div>'
+      +'<div class="admin-head-actions"><button id="betaChapterDetailBack" class="link-btn admin-back-btn" type="button">← Avaliações beta</button><button id="betaChapterDetailClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<div id="betaChapterDetailBody" class="admin-dashboard-list"></div>'
+      +'</section>';
+    document.body.appendChild(el);
+    el.querySelector("#betaChapterDetailBack").onclick=()=>{el.hidden=true;document.getElementById("betaFeedbackAdminSheet").hidden=false;renderBetaFeedbackAdmin();};
+    el.querySelector("#betaChapterDetailClose").onclick=()=>{el.hidden=true;};
+    el.onclick=e=>{if(e.target===el)el.hidden=true;};
+  }
+
+  function showBetaChapterDetail(bookId,chapter){
+    ensureBetaChapterDetailSheet();
+    const el=document.getElementById("betaChapterDetailSheet");
+    const rows=betaFeedbackRows
+      .filter(x=>x.type==="chapter"&&x.bookId===bookId&&Number(x.chapter)===Number(chapter))
+      .sort((a,b)=>betaVersion(b)-betaVersion(a));
+    const analyticsByReader=new Map(
+      betaFeedbackAnalytics
+        .filter(x=>x.bookId===bookId&&Number(x.chapter)===Number(chapter))
+        .map(x=>[String(x.readerId||""),x])
+    );
+    const title=rows[0]?.chapterTitle||betaFeedbackAnalytics.find(x=>x.bookId===bookId&&Number(x.chapter)===Number(chapter))?.chapterTitle||"";
+    const bookTitle=rows[0]?.bookTitle||bookId;
+    el.querySelector("#betaChapterDetailTitle").textContent="Cap. "+chapter+(title?" · "+title:"");
+    el.querySelector("#betaChapterDetailSub").textContent=bookTitle+" · "+rows.length+" feedback"+(rows.length===1?"":"s");
+    const body=el.querySelector("#betaChapterDetailBody");
+
+    if(!rows.length){
+      body.innerHTML='<p class="admin-empty">Ainda não há feedback escrito neste capítulo.</p>';
+    }else{
+      body.innerHTML=rows.map(row=>{
+        const a=analyticsByReader.get(String(row.readerId||""))||null;
+        const tags=(row.tags||[]).map(tag=>'<span>'+esc(tagLabel(tag))+'</span>').join("");
+        const text=String(row.text||"").trim();
+        const edited=Number(row.updatedAt||0)>Number(row.createdAt||0)+1000;
+        const timing=a?'<div class="beta-detail-metrics">'
+          +'<span>'+(a.completed?"Concluído":"Em leitura")+'</span>'
+          +'<span>'+pct(a.currentPct)+'%</span>'
+          +'<span>'+fmtDuration(a.activeSec)+' ativo</span>'
+          +(Number(a.narrationSec)?'<span>'+fmtDuration(a.narrationSec)+' narração</span>':"")
+          +(Number(a.musicSec)?'<span>'+fmtDuration(a.musicSec)+' música</span>':"")
+          +'</div>':"";
+        return '<article class="beta-detail-response '+(betaFeedbackIsUnseen(row)?"is-new":"")+'">'
+          +'<div class="beta-detail-response-head"><div><strong>'+esc(row.name||"Leitor")+'</strong><span>'+esc(whenFull(row.updatedAt||row.createdAt))+(edited?' · editado':'')+'</span></div>'
+          +(betaFeedbackIsUnseen(row)?'<b>Novo</b>':"")+'</div>'
+          +(tags?'<div class="beta-detail-tags">'+tags+'</div>':"")
+          +(text?'<blockquote>'+esc(text)+'</blockquote>':'<p class="beta-detail-empty">Sem comentário escrito. O leitor marcou apenas as opções acima.</p>')
+          +timing
+          +'</article>';
+      }).join("");
+    }
+
+    markBetaRowsSeen(rows);
+    const main=document.getElementById("betaFeedbackAdminSheet");
+    if(main)main.hidden=true;
+    el.hidden=false;
+  }
+
   function renderBetaFeedbackAdmin(){
     const body=document.getElementById("betaFeedbackAdminBody");
     if(!body)return;
@@ -1366,13 +1431,14 @@
         const tagCounts=new Map();
         fr.forEach(row=>(row.tags||[]).forEach(tag=>tagCounts.set(tag,(tagCounts.get(tag)||0)+1)));
         const title=fr[0]?.chapterTitle||ar[0]?.chapterTitle||"";
-        return '<article class="beta-cross-card">'
-          +'<div class="beta-cross-title"><div><strong>Cap. '+n+(title?" · "+esc(title):"")+'</strong><span>'+ar.filter(x=>x.completed).length+' concluíram · '+fr.length+' feedback(s)</span></div><b>'+(timed.length?fmtDuration(meanFeedback(timed.map(x=>x.activeSec))):"—")+' <small>média</small></b></div>'
+        const unread=fr.filter(betaFeedbackIsUnseen).length;
+        return '<button class="beta-cross-card beta-cross-open" type="button" data-beta-book="'+esc(bookId)+'" data-beta-chapter="'+n+'">'
+          +'<div class="beta-cross-title"><div><strong>Cap. '+n+(title?" · "+esc(title):"")+'</strong><span>'+ar.filter(x=>x.completed).length+' concluíram · '+fr.length+' feedback(s)'+(unread?' · '+unread+' novo'+(unread===1?'':'s'):'')+'</span></div><b>'+(timed.length?fmtDuration(meanFeedback(timed.map(x=>x.activeSec))):"—")+' <small>média</small></b></div>'
           +'<div class="beta-cross-tags">'
             +([...tagCounts.entries()].length?[...tagCounts.entries()].sort((a,b)=>b[1]-a[1]).map(([tag,count])=>'<span>'+esc(tagLabel(tag))+' <b>'+count+'</b></span>').join(""):'<span>Sem marcações</span>')
             +(fr.filter(x=>String(x.text||"").trim()).length?'<span>Comentários <b>'+fr.filter(x=>String(x.text||"").trim()).length+'</b></span>':"")
           +'</div>'
-        +'</article>';
+        +'</button>';
       }).join("");
 
       const finalCards=finals.length?finals.map(row=>{
@@ -1409,6 +1475,9 @@
     });
 
     body.innerHTML=html;
+    body.querySelectorAll("[data-beta-book][data-beta-chapter]").forEach(btn=>{
+      btn.onclick=()=>showBetaChapterDetail(btn.dataset.betaBook,Number(btn.dataset.betaChapter));
+    });
     betaFeedbackExportPayload=makeBetaFeedbackExport(validFeedback,validReaderIds);
   }
 
@@ -1473,6 +1542,11 @@
         }catch(e){console.warn("Falha ao cruzar capítulos do leitor:",e);}
       }));
       renderBetaFeedbackAdmin();
+      if(pendingBetaChapterFocus){
+        const target=pendingBetaChapterFocus;
+        pendingBetaChapterFocus=null;
+        showBetaChapterDetail(target.bookId,target.chapter);
+      }
     }catch(e){
       console.warn("Não foi possível carregar avaliações beta:",e);
       body.innerHTML='<p class="admin-empty">Não foi possível carregar as avaliações. Confira se as Rules mais recentes do Firestore foram publicadas.</p>';
@@ -1874,7 +1948,7 @@
     }
   }
 
-  document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on){subscribe();setTimeout(migrateFelipeCh22Reactions,500);}else{stop();hide();hideReactions();hideFeedbackHub();hideAccess();hideAnalytics();hideBetaFeedbackAdmin();hideAdminHome();}});
+  document.addEventListener("beta:admin",e=>{ensureButton();ensureAdminHome();if(e.detail?.on){subscribe();setTimeout(migrateFelipeCh22Reactions,500);}else{stop();hide();hideReactions();hideFeedbackHub();hideAccess();hideAnalytics();hideBetaFeedbackAdmin();const d=document.getElementById("betaChapterDetailSheet");if(d)d.hidden=true;hideAdminHome();}});
   document.addEventListener("beta:admin-home",()=>{if(Comments?.isAdmin?.())showAdminHome();});
-  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureFeedbackHub();ensureReactionSheet();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureBetaFeedbackAdminSheet();ensureDeleteReaderConfirm();ensureRotateCodeConfirm();if(Comments?.isAdmin?.()){subscribe();setTimeout(migrateFelipeCh22Reactions,500);}});
+  document.addEventListener("DOMContentLoaded",()=>{ensureButton();ensureAdminHome();ensureFeedbackHub();ensureReactionSheet();ensureSheet();ensureAccessSheet();ensureAnalyticsSheet();ensureBetaFeedbackAdminSheet();ensureBetaChapterDetailSheet();ensureDeleteReaderConfirm();ensureRotateCodeConfirm();if(Comments?.isAdmin?.()){subscribe();setTimeout(migrateFelipeCh22Reactions,500);}});
 })();
