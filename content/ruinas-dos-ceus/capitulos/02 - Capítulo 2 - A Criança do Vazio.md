@@ -16,13 +16,13 @@ Efepar, mais acima na colina, assistia tudo com um sorrisinho cínico e os braç
 
 — Vai querer que eu empurre? — gritou, debochado.
 
-Era alto, cabelos crespos e curtos, com olhos claros demais para se esconderem. Trazia a flauta presa à cintura e uma pena azul de nuari presa ao cabelo desalinhado.
+Era alto, cabelos crespos e curtos, com olhos escuros e vivos demais para se esconderem. Trazia a flauta presa à cintura e uma pena azul de nuari presa ao cabelo desalinhado.
 
 Jokara fingiu não ouvir, mas ficou contente de vê-lo ali.
 
 Nestira, ao contrário, já estava em postura de meditação, olhos fechados, entoando silenciosamente uma oração da Corrente. A pena de Xar brilhava presa ao manto, e seu semblante sereno fazia os outros parecerem despreparados. E em seus braços e rosto, linhas finas de pinturas sagradas traçavam espirais de Xar, sinal de que havia completado o Primeiro Voo.
 
-Jokara admirava a irmã, mas também se irritava com aquela paz tão fácil. Nestira dizia ouvir o vento desde pequena. Jokara nunca ouvira nada.
+Jokara admirava a irmã, mas também se irritava com aquela paz tão fácil. Nestira dizia ouvir o vento desde pequena. Jokara nunca ouvira nada. Quem não as conhecia costumava tomar Nestira pela caçula, por causa do rosto miúdo e liso que nenhuma vigília parecia cansar, e ela nunca se dava ao trabalho de corrigir.
 
 — Quando o vento tocar seus ombros, confie. Ele não leva quem não está pronto — disse seu pai. Mas Jokara não sentia toque algum.
 

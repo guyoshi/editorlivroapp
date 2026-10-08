@@ -464,7 +464,7 @@ Kaelina não respondeu. Apenas se virou e saiu.
 
 Kaelina deixou a câmara de banho. Ao passar por uma coluna com a Raiz, tocou dois dedos na testa por hábito, mas a mão caiu antes de alcançar o peito.
 
-Mais adiante, um conselheiro vinha em sua direção. Maelis das Contagens, com duas tábuas presas contra o corpo e o rosto apertado de preocupação. Ao vê-la, parou.
+Mais adiante, uma conselheira vinha em sua direção. Maelis das Contagens, pequena, o cabelo preso com severidade, duas tábuas presas contra o corpo e o rosto apertado de preocupação. Ao vê-la, parou.
 
 — Minha soberana.
 
@@ -508,7 +508,7 @@ Kaelina ficou imóvel.
 
 — Cal Edran — corrigiu Kaelina, com uma severidade que fez Maelis descer os olhos. — Leve-me até lá.
 
-Marken estava num quarto do anel alto, guardado mas não trancado. Sentava-se no chão junto à parede, com arranhões na pele e lama seca nas botas.
+Marken estava num quarto do anel alto, guardado mas não trancado. Sentava-se no chão junto à parede, com arranhões na pele e lama seca nos pés descalços.
 
 Cal Edran permanecia perto da porta e se endireitou quando Kaelina entrou.
 

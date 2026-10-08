@@ -34,7 +34,7 @@ Ali, o trabalho não parava por nada. Armazéns ocupavam fileiras inteiras até 
 
 — Não acredito — alguém disse, alto o bastante para furar o barulho do pátio. — Não acredito mesmo. Dareth Quatro-Dedos, aqui no cais.
 
-Corven atravessou o pátio na direção dele limpando as mãos num pano preso ao cinto, o mesmo colete de trabalhador que todos ali usavam, mas nele tudo parecia mais organizado do que deveria: o cabelo cortado rente, a barba curta, os olhos que não paravam de correr pelo movimento ao redor mesmo enquanto falava. Segurou o braço de Dareth com firmeza, quase um abraço que não chegou a se completar, e deu um passo atrás para olhá-lo de cima a baixo.
+Corven atravessou o pátio na direção dele limpando as mãos num pano preso ao cinto, o mesmo colete de trabalhador que todos ali usavam, mas nele tudo parecia mais organizado do que deveria: o cabelo rente e grisalho, a barba curta da mesma cor, os olhos que não paravam de correr pelo movimento ao redor mesmo enquanto falava. Segurou o braço de Dareth com firmeza, quase um abraço que não chegou a se completar, e deu um passo atrás para olhá-lo de cima a baixo.
 
 — Ainda com essa cara de quem não dorme direito. Achei que você tinha desaparecido de vez, homem. Última vez que ouvi falar de você foi há uns bons anos, e olha que aqui a gente ouve tudo, até o que não devia — riu, sem esperar resposta, e começou a andar ao lado do tarrak enquanto Dareth desmontava e seguia a pé, puxando o animal pelas rédeas. — Da última vez que nos vimos eu nem era chefe do pátio inteiro. Fui promovido este ano por causa do torneio. O trabalho cresceu tanto que precisaram de alguém que soubesse organizar direito, e adivinha quem sabia.
 

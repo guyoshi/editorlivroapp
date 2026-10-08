@@ -798,7 +798,7 @@ Alyra sempre odiara aquele objeto. Dizia que Kaelina até dormindo tentava merec
 
 A rachadura atravessava a Raiz gravada na superfície, separando parte da espiral sem quebrá-la por completo. Kaelina passou o polegar pelo entalhe, lembrando-se do pai em diferentes idades: julgando homens na lama, sorrindo diante de uma tigela simples, corrigindo sua postura, recusando-se a responder quando as filhas perguntavam qual delas governaria.
 
-Durante muito tempo, acreditara que abandonar aquela peça seria abandonar Orionus. Agora compreendia que mantê-la como resposta era abandonar a si mesma. Kaelina atravessou os corredores sem escolta e desceu até o Rio Grande.
+Durante muito tempo, acreditara que abandonar aquela peça seria abandonar Orionus. Agora compreendia que mantê-la como resposta era abandonar a si mesma. Kaelina atravessou os corredores sem escolta. Na galeria dos retratos, parou diante do de Orionus. A chama tinha escurecido um canto da moldura, mas não chegara ao rosto: o pai continuava sentado no trono, as tranças grisalhas sobre os ombros, a Ramagem tão branca quanto no dia em que o pintaram. Ficou olhando para ele por um tempo que não mediu. Depois desceu até o Rio Grande.
 
 A margem ainda trazia marcas da guerra. Madeira queimada, manchas de óleo presas ao lodo e cordas novas substituindo as que os Glydar haviam cortado. Trabalhadores reparavam parte do cais. Alguns interromperam o serviço ao vê-la, mas Kaelina fez um gesto para que continuassem.
 

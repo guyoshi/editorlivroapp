@@ -101,7 +101,7 @@ Então, uma voz surgiu atrás de uma árvore:
 
 — Sempre tão atenta… quase me sinto indesejado.
 
-De trás do tronco saiu um homem magro. Jokara gelou, depois sorriu.
+De trás do tronco saiu um homem de braços fortes, o cavanhaque escorrido de orvalho. Jokara gelou, depois sorriu.
 
 — Gabasteri!
 

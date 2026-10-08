@@ -208,7 +208,6 @@ Tair a seguiu com dificuldade, raspando o ombro contra a pedra, mas conseguiu.
 
 Os passos atrás deles foram ficando mais distantes, depois incertos, depois sumiram por completo.
 
-O homem precisava das marcas para saber por onde andar. Elis não precisava de nada além da própria memória.
 Voltaram a Maruva em silêncio, os dois ofegantes, o coração ainda acelerado. Tair encostou-se numa parede por um instante, recuperando o fôlego.
 
 — Chega. Já descobrimos bastante. Vamos para casa.

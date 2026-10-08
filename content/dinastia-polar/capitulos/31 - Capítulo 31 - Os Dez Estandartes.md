@@ -176,7 +176,7 @@ Maerys percebeu a mudança de temperatura na mesma hora, mas não ficou desajeit
 Não respondeu de verdade à pergunta. Transformou tudo de volta em piada com outro comentário qualquer, e o grupo ao redor riu de novo, mas Dareth não conseguiu deixar aquilo passar tão rápido quanto ela pretendia.
 
 Alguém, de algum lugar, sabia de uma conversa que tinha acontecido havia poucos dias, num túmulo fora das muralhas de Kaeliran. Selina, quando soube depois, teve exatamente a mesma reação silenciosa. Nenhum dos dois sabia de onde aquilo tinha vindo.
-Orven apareceu pouco depois, ainda mexendo em alguma peça de equipamento que Dareth não reconheceu de imediato: um mecanismo pequeno, cheio de fios finos e uma pequena câmara de metal.
+Orven apareceu pouco depois, as tranças grossas e enroladas presas atrás da nuca, a barba chamuscada nas pontas, ainda mexendo em alguma peça de equipamento que Dareth não reconheceu de imediato: um mecanismo pequeno, cheio de fios finos e uma pequena câmara de metal.
 
 — Ela sempre conta essa história errada — disse, sem se apresentar, referindo-se claramente a Maerys.
 

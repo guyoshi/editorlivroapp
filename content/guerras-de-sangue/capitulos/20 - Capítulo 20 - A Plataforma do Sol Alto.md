@@ -138,7 +138,7 @@ Khar-Tondr surgiu depois de uma curva de pedra: barro endurecido, rocha, bambu e
 
 Na Boca Seca, marcas de unhas, nomes raspados e mãos negras cobriam os muros enquanto homens, mulheres, crianças e velhos observavam. Ninguém lhe ofereceu água. Kaelina atravessou sem pedir. No segundo portão, os tambores mudaram e a porta abriu.
 
-Kharvok esperava no Pátio Seco, cabeça raspada e pintura negra interrompida pela ausência do nariz. Respirava com som áspero e permanecia de pé.
+Kharvok esperava no Pátio Seco, cabeça raspada. A pintura preta cobria-lhe quase todo o rosto em planos duros, sempre interrompidos pela ausência do nariz. Respirava com som áspero e permanecia de pé.
 
 Ao redor, o Círculo da Cabeça Nua reunia a Senhora dos Tambores, um homem de marcas de contagem, a guardiã de pintura e guerreiros de garganta.
 

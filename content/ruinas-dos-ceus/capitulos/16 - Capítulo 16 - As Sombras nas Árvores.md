@@ -113,9 +113,9 @@ Jokara arfava. O sangue escorria pelo rosto e ardia. Moveu-se de lado, cambalean
 
 E então, finalmente, o homem voltou os olhos para Jokara.
 
-No começo, ela não o reconheceu. O rosto estava coberto de lama e sangue, a barba enorme.
+No começo, ela não o reconheceu. O rosto estava coberto de lama e sangue, a barba crescida e embaraçada.
 
-Ele se aproximou. Mais magro, o cabelo pelos ombros. Maletar, o teceltro.
+Ele se aproximou. Mais magro, ainda forte, o cabelo pelos ombros. Maletar, o teceltro.
 
 Ele respirava pesado, a lâmina pingando na mão.
 

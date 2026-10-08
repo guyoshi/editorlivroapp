@@ -371,22 +371,16 @@ O silêncio que se seguiu durou tempo suficiente para Selina contar a própria r
 
 — O que combinamos pressupunha que ele soubesse reconhecer quando perdeu. Se ele não souber, alguém vai precisar decidir por ele.
 
-Selina não precisava ouvir mais nada além daquilo. A frase já estava dita, e não havia jeito de desdizê-la depois só porque ela preferiria não tê-la ouvido.
-
 Vetarius morto.
-A Selina de meses atrás teria ficado ali, tentando arrancar mais um detalhe, mais um nome, alguma coisa que servisse de prova documental antes de agir. Kalan tinha morrido enquanto todo mundo, incluindo ela mesma, esperava papel suficiente para justificar qualquer movimento. Não ia cometer o mesmo erro duas vezes.
+Pensou em Kalan, morto enquanto ela esperava provas suficientes para agir.
 
 Precisava sair dali. Primeiro, encontrar Dareth, avisá-lo do que tinha acabado de ouvir. Depois, voltar a Kaeliran antes de qualquer coisa acontecer lá sem ninguém para impedir.
 
-Foi então que ouviu um ruído no corredor por onde tinha vindo.
-
-Não atrás das vozes de Alveris e Saelira. À frente dela.
+Um ruído veio do corredor por onde entrara, à frente dela.
 
 Couro roçando pedra, breve demais para identificar de onde exatamente. Selina ficou imóvel. Quando entrara, aquele trecho estava vazio. Agora uma sombra cortava parte da fresta de luz junto à curva e desapareceu antes que ela pudesse distinguir um corpo.
 
-Talvez fosse um funcionário, talvez um guarda, talvez alguém tivesse percebido que a passagem não estava tão vazia quanto deveria.
-
-Não podia esperar para descobrir.
+Alguém podia tê-la visto entrar.
 
 Começou a recuar, devagar, tentando reconstruir o mesmo caminho pelo qual tinha entrado, sabendo agora que o caminho talvez já não estivesse livre. Um passo. Outro. As vozes continuavam atrás dela, mais baixas, retomando algum outro assunto que ela já não conseguia distinguir direito.
 

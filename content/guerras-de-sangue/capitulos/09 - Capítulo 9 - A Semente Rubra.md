@@ -20,7 +20,7 @@ Nynestra Buldar observava tudo da sombra de um velho poste de irrigação. Não 
 
 A Mão da Colheita só conduzia o rito em casos especiais. Aquele jovem vinha de uma família de canais menores, e Nynestra preferia observar.
 
-Nynestra usava apenas um Nó de Semente escuro no pulso. Cabelos presos, roupas em vermelho-terra e castanho, olhos atentos. Mesmo fora do centro, todos sabiam onde ela estava. O jovem colocou as sementes manchadas de sangue na cova: grão-de-caule da família, três raízes vermelhas jovens e um punhado de sementes antigas que a avó dele provavelmente contara mais vezes do que beijara os próprios netos. Cobriu tudo com terra comum. Depois, obedecendo ao rito, pressionou a palma ferida sobre o chão. O Guardião de Semente falou:
+Nynestra usava apenas um Nó de Semente escuro no pulso. Cabelos presos sob uma faixa de pano, roupas em vermelho-terra e castanho, olhos atentos. Mesmo fora do centro, todos sabiam onde ela estava. O jovem colocou as sementes manchadas de sangue na cova: grão-de-caule da família, três raízes vermelhas jovens e um punhado de sementes antigas que a avó dele provavelmente contara mais vezes do que beijara os próprios netos. Cobriu tudo com terra comum. Depois, obedecendo ao rito, pressionou a palma ferida sobre o chão. O Guardião de Semente falou:
 
 — Recebeu pão antes de saber plantar. Recebeu nome antes de saber responder. Recebeu campo antes de saber defender. Agora teu sangue sabe o caminho da semente.
 

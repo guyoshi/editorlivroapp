@@ -30,7 +30,7 @@ O segundo guarda cuspiu no chão.
 
 A porta baixa abriu-se antes que chamassem. Kharvok surgiu curvando o corpo para passar pelo batente, e mesmo assim pareceu grande demais para aquela entrada. Não por altura. Por presença. Ele não tinha nariz.
 
-No lugar do nariz havia uma falha antiga e mal cicatrizada, cercada por pontos negros que a pintura não tentava esconder. Três linhas desciam da testa raspada pelos olhos até o pescoço; a respiração saía áspera pela ferida.
+No lugar do nariz havia uma falha antiga e mal cicatrizada. A Marca da Voz não a escondia: pigmento preto fosco cobria quase todo o rosto em planos de bordas rígidas, interrompidos pela mutilação e pelas aberturas dos olhos. Três cortes mais densos desciam da testa raspada até o pescoço; a respiração saía áspera pela ferida.
 
 A antiga Voz morrera sob a Lei do Portão. Depois, três candidatos entraram no Círculo da Cabeça Nua e só Kharvok saiu vivo. O segundo adversário arrancara-lhe o nariz; histórias diziam que Kharvok o matara mordendo-lhe o olho antes da faca. Ninguém sabia se era verdade, mas desde então ele era Voz.
 

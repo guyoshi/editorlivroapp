@@ -32,7 +32,7 @@ As lágrimas vieram rápidas aos olhos de Jokara. Ela apertou o bastão contra o
 
 — Você também achava? Eu pensei que só restávamos eu e… e uma criança. Que bom, ventos, que bom que há mais alguém.
 
-O homem nadou até a margem, mas não saiu da água. Ficou com metade do corpo dentro d'água. Os cabelos molhados caíam pelos ombros. Tinha olhos escuros e uma cicatriz pequena no maxilar.
+O homem nadou até a margem, mas não saiu da água. Ficou com metade do corpo dentro d'água. Os cabelos molhados caíam pelos ombros. Tinha olhos escuros, um cavanhaque cerrado e uma cicatriz pequena no maxilar.
 
 — Eu me chamo Gabasteri — disse ele, estendendo a mão molhada. — Você?
 
@@ -66,7 +66,7 @@ Gabasteri riu, balançando a cabeça.
 
 — Ele é… — Jokara sorriu de leve. — Ele é teimoso.
 
-O homem se aproximou mais da margem, apoiando-se nas mãos. A água escorria pelos braços magros, cheios de cicatrizes. Algumas eram recentes.
+O homem se aproximou mais da margem, apoiando-se nas mãos. A água escorria pelos braços fortes, de músculos secos de quem vivia do próprio corpo, cheios de cicatrizes. Algumas eram recentes.
 
 — Aqui embaixo tudo cobra rápido. Se não encontramos água, sentimos no mesmo sopro. Se não caçamos, a fome decide por nós. Se entramos numa trilha errada, talvez não haja uma segunda chance. — Sorriu de novo. — Você continua viva. Então já deve ter aprendido algumas coisas também.
 

@@ -387,7 +387,7 @@ Jokara não sabia se devia perguntar.
 
 — Ari?
 
-Maletar passou a mão pela barba curta e voltou a olhar para a floresta.
+Maletar passou a mão pela barba e voltou a olhar para a floresta.
 
 — Minha filha. — Ficou um tempo calado. — Tinha uns olhos enormes. E ria alto, de assustar os vizinhos.
 

@@ -206,7 +206,7 @@ Antes do próprio combate contra Karev, Barek passou o aquecimento observando o 
 
 O confronto entre Karev e Barek se tornou, então, a grande luta da chave inteira.
 
-Barek parecia impossível de deter. Karev acertava, ele continuava. Outro golpe, ele continuava de novo. Em determinado momento, um único impacto do malho passou perto o suficiente de Karev para a arena inteira reagir antes mesmo do golpe completar a trajetória.
+Barek parecia impossível de deter, a cabeça raspada brilhando de suor por cima da barba. Karev acertava, ele continuava. Outro golpe, ele continuava de novo. Em determinado momento, um único impacto do malho passou perto o suficiente de Karev para a arena inteira reagir antes mesmo do golpe completar a trajetória.
 
 Karev entendeu, relativamente rápido, que não conseguiria mover aquele homem por conta própria. Parou de tentar. Em vez disso, fez Barek se mover sozinho, provocando ataques, trocando de ângulo, usando a funda para obrigá-lo a proteger sempre um lado diferente do corpo, correndo apenas o suficiente para Barek girar atrás dele e gastar energia sem nunca alcançar. A arena, pouco a pouco, começou a entender o plano.
 

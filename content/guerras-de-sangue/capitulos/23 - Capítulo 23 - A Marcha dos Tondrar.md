@@ -36,7 +36,7 @@ Rendar caminhou até Kharvok. Os dois se olharam como homens que já tinham medi
 
 — Voz Tondrar — disse Rendar.
 
-Kharvok respirou pela falha do rosto.
+Kharvok respirou pela falha do rosto. A tinta preta, de limites duros, cobria quase toda a face e recortava a mutilação como centro de sua Marca da Voz.
 
 — Fendelar.
 

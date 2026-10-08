@@ -412,7 +412,7 @@ Caíram sobre a frente Tondrar de um ângulo inesperado, atingindo homens que es
 
 Usavam couro gasto, tecidos enrolados contra areia e poeira, armas sem brasão e pedaços incompletos da Raiz queimados ou cortados nos braços. Alguns traziam arcos curtos. Outros desciam com lâminas curvas, lanças e escudos feitos de couro endurecido. Sarkan vinha à frente.
 
-Kaelina reconheceu os ombros largos, a barba curta e a cicatriz que descia da têmpora até a mandíbula. O homem que Daryon humilhara diante das pedras voltava agora no momento em que Kaendar mais precisava de alguém sem permissão para entrar. Sarkan disparou uma flecha contra um Tondrar e gritou:
+Kaelina reconheceu as tranças grossas, a mecha grisalha sobre o ombro e a cicatriz que abria o rosto da boca até perto da orelha. O homem que Daryon humilhara diante das pedras voltava agora no momento em que Kaendar mais precisava de alguém sem permissão para entrar. Sarkan disparou uma flecha contra um Tondrar e gritou:
 
 — Abram espaço para a soberana!
 
@@ -564,7 +564,7 @@ Encontraram corpos Vendrar numa escadaria. Depois dois guardas Polar queimados j
 
 Cal Kadrir lutava contra Rendar entre fumaça, corpos e tochas quebradas. Os dois estavam exaustos.
 
-A armadura de Kadrir apresentava cortes no braço, no peito e na lateral da coxa. Sangue escorria de sua testa, atravessava o rosto, tingia de vermelho a raiz branca da têmpora e desaparecia na barba curta. Um dos joelhos parecia falhar sempre que recuava, mas ele compensava mantendo o peso na outra perna. Rendar estava pior do que Kaelina lembrava.
+A armadura de Kadrir apresentava cortes no braço, no peito e na lateral da coxa. Sangue escorria de sua testa, atravessava o rosto, tingia de vermelho a raiz branca da têmpora e pingava do queixo sem barba. Um dos joelhos parecia falhar sempre que recuava, mas ele compensava mantendo o peso na outra perna. Rendar estava pior do que Kaelina lembrava.
 
 Havia queimaduras em parte da roupa, sangue no ombro e uma ferida profunda junto às costelas. O cabelo estava colado ao rosto pelo suor. Mesmo assim, cada movimento conservava a economia brutal do caçador que não desperdiçava força para parecer perigoso. Kadrir atacou primeiro.
 

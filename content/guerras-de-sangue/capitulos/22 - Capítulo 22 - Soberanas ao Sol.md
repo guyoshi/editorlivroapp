@@ -62,6 +62,8 @@ A subida até o Pátio Seco pareceu mais longa do que no dia anterior. Talvez po
 
 O Pátio Seco estava cheio.
 
+Entre todas as marcas negras do clã, a de Kharvok era a mais fechada: planos rígidos de tinta fosca tomavam quase todo o rosto, deixando a falha do nariz exposta no centro.
+
 Gente ocupava as bordas, as passagens altas, os degraus de barro, os vãos entre pilares. Cabeças raspadas brilhavam de suor. Pinturas negras dividiam rostos em funções, lutos, guerras e cargos que Kaelina ainda não sabia ler. Crânios pendiam das estruturas laterais, batendo de leve quando o vento seco atravessava a cidade. Tec. Tec. Tec. O som era pequeno, mas insistente, como se os mortos também quisessem assistir.
 
 Kharvok estava de pé diante da Plataforma do Sol Alto. A Marca da Voz incorporava a mutilação do rosto de modo tão completo que a ausência do nariz já não parecia ferida; parecia centro. Ele respirava com aquele som áspero de pedra rachada, e a cada respiração o povo parecia lembrar que ele sobrevivera ao círculo para ocupar aquele lugar. Ao redor dele, o Círculo da Cabeça Nua mantinha posições medidas: a Senhora dos Tambores com as mãos sobre a pele esticada de um tambor pequeno; uma guardiã das Veias de Barro; um homem velho de braços finos marcados por riscos de contagem; e Eshvar, o Guardião da Boca Seca, alto, seco, com a pintura descendo pela garganta como uma rachadura. Eshvar observava mais do que falava. Isso, naquele pátio, era uma forma perigosa de poder.

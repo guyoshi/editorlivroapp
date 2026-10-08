@@ -64,7 +64,7 @@ Maelis registrou a abertura “por urgência de cidade, sem prejuízo da soberan
 
 Cal Edran chegou à reunião pouco depois. Dois guardas bloqueavam a porta.
 
-Um deles era novo demais para bloquear Edran com naturalidade. O outro não. Era alto, de peito largo, barba curta e olhos frios de homem promovido depressa demais. A armadura estava polida de forma quase ofensiva. Edran parou e o corredor pareceu estreitar.
+Um deles era novo demais para bloquear Edran com naturalidade. O outro não. Era alto, de peito largo, rosto escanhoado e olhos frios de homem promovido depressa demais. A armadura estava polida de forma quase ofensiva. Edran parou e o corredor pareceu estreitar.
 
 — Saia da frente — disse ele.
 
@@ -444,7 +444,7 @@ Kaelina tentou gritar, mas ele se lançou sobre ela, prendendo-lhe a boca com um
 
 Um jovem surgiu do escuro e atingiu o assassino de lado, arrancando-o de cima dela. Os dois rolaram pela pedra enquanto Kaelina tentava recuperar o ar.
 
-O recém-chegado parecia ter pouco mais de vinte ciclos, cabelos escuros presos de qualquer jeito, roupas simples e botas gastas. Seus movimentos, porém, eram rápidos e medidos.
+O recém-chegado parecia ter pouco mais de vinte ciclos, tranças escuras e longas soltas sobre os ombros, roupas simples e pés descalços, de sola grossa como couro. Seus movimentos, porém, eram rápidos e medidos.
 
 O assassino golpeou. O jovem desviou, agarrou-lhe o pulso, acertou o rosto e sacou uma lâmina curta, cortando braço e lateral antes que ele recuasse.
 

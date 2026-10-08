@@ -176,7 +176,7 @@ O silêncio apertou.
 
 Kadrir deu meio passo, não ameaçador ainda, mas presente. Alyra ergueu a mão e o conteve.
 
-— O Conselho está dispensado. Brokan, quero as forjas até a noite. — Nalia, traga-me todos os mapas de corrente entre a Margem dos Zírrios e o Cais dos Zírrios, e prepare o cais para receber o Terceiro Kae Lutherus quando ele voltar. Iressa, conte comida para cerco, não para marcha. Thoren, pare de olhar para o chão como se ele fosse responder por você. E Maelis, registre que as decisões desta reunião foram tomadas em defesa direta de Kaendar diante de ameaça externa coordenada. Quem quiser discutir palavra, discuta depois de vencer.
+— O Conselho está dispensado. Brokan, quero as forjas até a noite. — Nalia, traga-me todos os mapas de corrente entre a Margem dos Zírrios e o Cais dos Zírrios, e prepare o cais para receber o Terceiro Kae Lutharus quando ele voltar. Iressa, conte comida para cerco, não para marcha. Thoren, pare de olhar para o chão como se ele fosse responder por você. E Maelis, registre que as decisões desta reunião foram tomadas em defesa direta de Kaendar diante de ameaça externa coordenada. Quem quiser discutir palavra, discuta depois de vencer.
 
 Quando a sala começou a esvaziar, Daryon não saiu. Esperou os passos diminuírem, esperou Maelis recolher tábuas e passar por ele sem levantar o olhar, esperou Nalia dobrar os mapas com força contida. Kadrir continuou perto de Alyra, mas ela fez um gesto seco para que se afastasse.
 

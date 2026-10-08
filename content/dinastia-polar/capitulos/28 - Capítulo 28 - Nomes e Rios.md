@@ -38,7 +38,7 @@ A antiga Margem dos Zírrios ainda existia, erguida sobre estacas fincadas na á
 
 O cheiro chegou antes de boa parte da cidade em si: água parada, madeira úmida, zírrio, gordura derretida, lodo, fumaça de fogueira.
 No posto principal, a bandeira era Buldar, o fiscal era Buldar, o registro era Buldar. Mas quase todo mundo ao redor carregava hábitos que não eram. Um homem usava um Nó de Semente Buldar no cinto e mantinha um Nó de Margem Glydar amarrado no pulso. Mais adiante, uma mulher discutia em sotaque Glydar com um funcionário Buldar enquanto o filho dos dois corria pelas passarelas sem parecer pertencer menos a nenhuma das margens.
-A primeira vez que Dareth notou Riala, ela estava em movimento, corrigindo a maneira como alguém tinha amarrado uma embarcação. Um funcionário Buldar insistia que o nó estava correto.
+A primeira vez que Dareth notou Riala, ela estava em movimento, búzios batendo nas tranças e uma faca curta no cinto, corrigindo a maneira como alguém tinha amarrado uma embarcação. Um funcionário Buldar insistia que o nó estava correto.
 
 — Está correto pra prender um saco — Riala disse, puxando a corda. O nó afrouxou na hora. — Se o saco souber nadar.
 
@@ -156,7 +156,7 @@ Foi à tarde do dia seguinte que os Quendrar chegaram: primeiro os sons, animais
 
 Foi o primeiro contato real de Dareth com o jeito Quendrar de existir no mundo.
 
-Yamara apareceu dando uma ordem qualquer, e as pessoas ao redor obedeceram sem hesitar; só depois Dareth notou os detalhes: o couro gasto, a lã pesada, as tiras prendendo o cabelo para trás, as marcas visíveis de uma vida inteira passada a céu aberto.
+Yamara apareceu dando uma ordem qualquer, e as pessoas ao redor obedeceram sem hesitar; só depois Dareth notou os detalhes: o couro gasto, a lã pesada, as tiras prendendo os cachos para trás, as marcas visíveis de uma vida inteira passada a céu aberto.
 
 Karev, ele já conhecia de nome. O relatório Polar dizia coisas contraditórias: boa funda, muito móvel, grande experiência com animais; um agente jurava que ele conseguia atingir uma ave em pleno voo, outro escrevia que aquilo era só lenda repetida pelos próprios Quendrar. Dareth não sabia qual das duas coisas era verdade. Karev percebeu-o olhando.
 

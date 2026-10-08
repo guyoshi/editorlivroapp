@@ -28,7 +28,7 @@ Jokara guiou Loutes pela festa sem soltar a mão dele. O menino queria olhar tud
 
 Ao final da rua espiralada, onde a madeira clara se encontrava com a raiz escura de um tronco ancestral, havia uma casa de pedras vivas e janelas redondas. A porta tinha entalhes de nuaris em voo e, pendurada acima da entrada, uma pena prateada girava lentamente com o vento.
 
-Jokara bateu com os nós dos dedos três vezes. A madeira respondeu com um som oco, e logo o velho surgiu, vestindo uma túnica amarrotada, com uma pena presa de qualquer jeito no cabelo desalinhado.
+Jokara bateu com os nós dos dedos três vezes. A madeira respondeu com um som oco, e logo o velho surgiu, vestindo uma túnica amarrotada, com uma pena presa de qualquer jeito no cabelo desalinhado e a barba grisalha por aparar.
 
 — Jokara! — exclamou o homem, abrindo os braços. — E este deve ser o pequeno sopro recém-nomeado!
 

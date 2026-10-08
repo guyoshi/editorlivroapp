@@ -4,7 +4,7 @@ Durante muitos ciclos, houve um povo que viveu suspenso entre o silêncio e o c�
 
 Etérea era um lugar onde nada tocava o chão. As ilhas não voavam. Pairavam, como suspiros petrificados de um tempo que jamais aprendera a cair. Os sinos nas portas não serviam para avisar chegadas, mas para lembrar que o vento passava. Quando ele cessava, todos silenciavam. Pois o silêncio era reverência.
 
-Naquela tarde, as ilhas ressoavam suavemente com o canto das Correntes. Cristais pendiam de cipós vivos, filtrando a luz poente em tons dourados e azulados. A claridade aquecia a pele escura dos eterí e fazia sobressair as linhas brancas que lhes percorriam rostos, ombros e braços em arcos e círculos delicados. Em Etérea, aquelas marcas eram tão familiares quanto as tranças, os mantos leves e os sinos nas portas.
+Naquela tarde, as ilhas ressoavam suavemente com o canto das Correntes. Cristais pendiam de cipós vivos, filtrando a luz poente em tons dourados e azulados. A claridade aquecia a pele escura dos eterí e fazia sobressair, em quem já tinha feito o Primeiro Voo, as linhas brancas que percorriam rostos, ombros e braços em arcos e círculos delicados. Em Etérea, aquelas marcas eram tão familiares quanto as tranças, os mantos leves e os sinos nas portas.
 
 As crianças terminavam seus cantos na Ilha dos Pequenos, enquanto as primeiras gôndolas de raízes trançadas se aproximavam para levá-las de volta às ilhas habitadas.
 

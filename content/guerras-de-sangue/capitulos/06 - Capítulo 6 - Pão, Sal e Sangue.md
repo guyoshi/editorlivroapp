@@ -140,7 +140,7 @@ Edran distribuiu os guardas entre as carroças, as bordas da clareira e as sober
 
 Os Tondrar chegaram quando o sol ainda estava baixo.
 
-Doze Tondrar carecas e pintados de negro surgiram pela trilha ao som de um tambor baixo. À frente caminhava Harvok Tondrar, a Voz do Círculo da Cabeça Nua, alto e magro, com pintura escura da testa ao peito e uma faixa negra sobre a boca.
+Doze Tondrar carecas, com faixas negras de contornos duros nos rostos, surgiram pela trilha ao som de um tambor baixo. À frente caminhava Harvok Tondrar, a Voz do Círculo da Cabeça Nua, alto e magro. A Marca da Voz cobria-lhe quase todo o rosto de preto fosco, em planos rígidos da testa às faces, deixando os olhos à vista; uma faixa ainda mais fechada atravessava a boca. A pintura continuava pelo pescoço até o peito.
 
 Ao lado dele vinha Maedra, a Senhora dos Tambores, velha, careca, de dedos deformados e olhar impiedosamente vivo. Trazia um tambor pequeno preso ao corpo, mas não o tocava. Atrás, dois guerreiros de facas curvas, uma mulher com um saco de barro marcado por símbolos Tondrar e outros que Kaelina não soube classificar: testemunhas, guardas, talvez olhos de famílias diferentes.
 

@@ -8,7 +8,7 @@ Cal Edran Polar ficava junto à porta, de pé. Não participava da mesa, embora 
 
 Daryon estava sentado à direita da cadeira vazia de Alyra, com os dedos longos repousados sobre a mesa.
 
-Brokan das Forjas mantinha os braços cruzados. Iressa Mão-de-Sal já fazia contas numa tábua. Varron Meio-Olho observava a sala com a cavidade esquerda descoberta; Nalia do Rio permanecia calada; Thoren dos Grãos tossia de tempos em tempos; Odran Porta-Baixa vigiava a porta. Maelis preparava os registros, Yvenn Raiz-Branca murmurava entre os dedos, Lurok acompanhava quem parecia vencer e Seron batia dois dedos na madeira.
+Brokan das Forjas mantinha os braços cruzados, as mãos deformadas por anos de martelo escondidas sob os cotovelos e cinza presa na barba espessa. Iressa Mão-de-Sal, seca e de unhas curtas, já fazia contas numa tábua. Varron Meio-Olho observava a sala com a cavidade esquerda descoberta, a cicatriz descendo até a maçã do rosto; Nalia do Rio permanecia calada, os punhos da roupa escura arrematados em corda trançada; Thoren dos Grãos tossia de tempos em tempos, farinha presa nas dobras da túnica; Odran Porta-Baixa, compacto, de cabeça raspada e pescoço grosso, vigiava a porta com as chaves quietas no cinto. Maelis preparava os registros, Yvenn Raiz-Branca murmurava entre os dedos longos, Lurok, de barba aparada e anéis discretos, acompanhava quem parecia vencer e Seron, com fios grisalhos no cabelo escuro, batia dois dedos na madeira.
 
 Kaelina olhou de novo para a cadeira vazia.
 

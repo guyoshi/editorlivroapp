@@ -48,7 +48,7 @@ Entre os Tondrar, quase todos eram secos, nervosos, feitos de tendão, fome e de
 
 Mas eram os olhos que incomodavam. Um era escuro, quase negro. O outro tinha uma mancha clara que tomava metade da íris, dando a impressão de que olhava para dois lugares ao mesmo tempo: Rendar e alguma coisa atrás dele.
 
-A pintura no rosto era complexa demais para ser de homem comum. Linhas grossas desciam da testa raspada até o queixo, cruzadas por pequenos pontos negros nas maçãs do rosto. A boca estava marcada por uma faixa escura, como se alguém tivesse tentado costurá-la com sombra. Do pescoço até o peito nu, desenhos finos imitavam rachaduras, e cada traço parecia dizer que aquele homem já tinha sido quebrado muitas vezes e aprendido a gostar do som.
+A pintura negra no rosto era complexa, mas não era a Marca da Voz. Faixas de bordas duras desciam da testa raspada até o queixo, cruzadas por pequenos pontos negros nas maçãs do rosto. A boca estava marcada por uma faixa escura, como se alguém tivesse tentado costurá-la com sombra. Do pescoço até o peito nu, cortes retos imitavam rachaduras, e cada traço parecia dizer que aquele homem já tinha sido quebrado muitas vezes e aprendido a gostar do som.
 
 Ele mastigava alguma coisa dura. Não era carne, nem raiz de pedra. Rendar ouviu o estalo seco entre os dentes. O homem parou quando o viu.
 

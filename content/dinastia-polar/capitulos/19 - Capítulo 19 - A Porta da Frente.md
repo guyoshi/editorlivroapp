@@ -36,7 +36,7 @@ Não bateu.
 
 No segundo dia, viu Ladira.
 
-Uma mulher alta, muito magra, os cabelos brancos trançados numa espécie de coroa em que Elis não conseguiu encontrar um único fio fora do lugar. Vestido pesado azul-negro, bordados discretos na gola alta, luvas finas mesmo para atravessar o próprio jardim, joias antigas de dravenito escuro no pescoço e nos dedos. E maquiagem, não do jeito comum que Elis já tinha visto em alguma vizinha se arrumando para uma festa, mas alguma coisa mais séria: pigmento escuro contornando os olhos, azul profundo nas pálpebras, a boca tingida de um vermelho-terra fechado, um pó fino e perfumado apagando qualquer brilho natural do rosto. Parecia, para Elis, uma mulher preparada para uma cerimônia mesmo ao simplesmente sair de casa para dar instruções a um jardineiro.
+Uma mulher alta, larga e pesada, os cabelos brancos trançados numa espécie de coroa em que Elis não conseguiu encontrar um único fio fora do lugar. Vestido pesado azul-negro, bordados discretos na gola alta, luvas finas mesmo para atravessar o próprio jardim, joias antigas de dravenito escuro no pescoço e nos dedos. E maquiagem, não do jeito comum que Elis já tinha visto em alguma vizinha se arrumando para uma festa, mas alguma coisa mais séria: pigmento escuro contornando os olhos, azul profundo nas pálpebras, a boca tingida de um vermelho-terra fechado, um pó fino e perfumado apagando qualquer brilho natural do rosto. Parecia, para Elis, uma mulher preparada para uma cerimônia mesmo ao simplesmente sair de casa para dar instruções a um jardineiro.
 
 Não a reconheceu, claro, até que um criado, segurando a porta, disse baixinho:
 

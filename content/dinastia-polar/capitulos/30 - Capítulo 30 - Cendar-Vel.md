@@ -24,7 +24,7 @@ No primeiro instante, Selina pensou apenas: a ponte quebrou. Um momento depois v
 A contenção mecânica impediu o desastre inteiro, mas não resolveu o que continuava preso sobre a passagem. Cada grupo reagiu primeiro segundo aquilo que sabia proteger. Buldar correram para estabilizar uma carroça de alimento antes que a carga puxasse o restante para o lado errado; um deles gritava que aquilo alimentaria famílias por dias. Quendrar foram aos animais em pânico, cortando arreios quando manter uma criatura presa significava arrastar mais peso para a borda. Glydar que viajavam com as delegações prepararam cordas e pontos de retirada abaixo da estrutura, pensando antes em onde alguém cairia do que em como impedir toda queda. Guardas Polar tentaram abrir espaço e organizar o fluxo de gente que ainda avançava por reflexo.
 
 Dareth fez o que sabia fazer: entrou onde ainda era seguro o bastante para tirar pessoas da zona de risco.
-Edria assumiu o controle antes que qualquer outra pessoa da comitiva conseguisse reagir.
+Edria assumiu o controle antes que qualquer outra pessoa da comitiva conseguisse reagir, o corte antigo na bochecha repuxando quando ela gritava.
 
 Não parecia nervosa. Olhou a cena inteira em segundos: quantas pessoas ainda estavam sobre a estrutura, quantos animais, onde o peso estava concentrado, e começou a dar ordens, sem discurso, sem pedir licença a ninguém da delegação Polar.
 

@@ -12,7 +12,7 @@ Sentada diante de uma mesa baixa, Nynestra estudava grão, rotas e pedras de cl�
 
 Então Rendar chegou. Um Tondrar parou de bater a lâmina, depois outro, até os tambores perderem o ritmo.
 
-Rendar atravessou o espaço entre as fogueiras com o rosto sujo de viagem e o corpo magro envolto por couro escuro. A fita marcada de sangue antigo continuava presa ao pulso, pequena demais para ele, grande demais para ser ignorada. Torgun vinha atrás, de olhos fundos, passos pesados e pintura negra descendo das pálpebras até a mandíbula como se a sombra tivesse escorrido pelo rosto dele. Dois Tondrar o acompanhavam.
+Rendar atravessou o espaço entre as fogueiras com o rosto sujo de viagem, as tranças enroladas num coque alto, a barba cheia e o corpo magro envolto por couro escuro e por uma capa de folhas secas costuradas. A fita marcada de sangue antigo continuava presa ao pulso, pequena demais para ele, grande demais para ser ignorada. Torgun vinha atrás, de olhos fundos, passos pesados e pintura negra descendo das pálpebras até a mandíbula como se a sombra tivesse escorrido pelo rosto dele. Dois Tondrar o acompanhavam.
 
 Rendar parou no centro. Olhou para as fogueiras. Para as lâminas. Para os homens que ainda respiravam como se tivessem vencido algo maior do que tinham vencido.
 

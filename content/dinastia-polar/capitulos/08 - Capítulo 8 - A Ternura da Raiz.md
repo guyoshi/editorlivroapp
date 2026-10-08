@@ -90,7 +90,7 @@ Não se sentou do outro lado da mesa. Atravessou a sala devagar e se ajoelhou di
 
 — Eu sei que é isso que você acredita neste momento. — O Sumo Vigia não discordou, exatamente; só deslocou a frase para um lugar onde discordar não era mais necessário. — E eu não penso, Kalan, que você seja um homem mau. Vejo isso claramente, sabe? Vejo um homem que carrega os outros nas costas desde muito jovem, que protege quem ama do jeito que sabe proteger, com as mãos que tem, com a força que tem. Isso não é maldade. É um coração perdido tentando fazer o que acha certo sem ninguém para lhe mostrar o caminho verdadeiro.
 
-Ele estendeu a mão e Kalan se afastou por reflexo, mas o banco não deixava muito espaço, e os dedos secos e frios do Sumo Vigia alcançaram seu rosto de qualquer forma, tocando de leve a lateral do maxilar, quase um carinho, quase o gesto que uma avó faria a uma criança que acabara de cair.
+Ele estendeu a mão e Kalan se afastou por reflexo, mas o banco não deixava muito espaço, e os dedos do Sumo Vigia, frios mesmo através do couro das luvas pintadas, alcançaram seu rosto de qualquer forma, tocando de leve a lateral do maxilar, quase um carinho, quase o gesto que uma avó faria a uma criança que acabara de cair.
 
 — A mentira corrompe quem a sustenta, mesmo quando nasce de boa intenção — continuou ele, sem pressa, sem retirar a mão. — Cada dia que você carrega essa mentira, ela cresce um pouco mais dentro de você, até que um dia você não vai mais conseguir distinguir onde ela termina e onde você começa. Mas a confissão, Kalan... a confissão liberta. Eu vi isso muitas vezes. Homens que carregavam anos de peso e, ao dizer a verdade, pareciam nascer de novo diante dos meus olhos.
 

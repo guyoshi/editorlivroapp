@@ -348,7 +348,7 @@ Kalan ajustou a bolsa no ombro.
 
 — Não. Por isso ainda estou irritado.
 
-Cairon era largo, de braços grossos e cabelos quase inteiramente grisalhos. Tinha o hábito de falar com alguém enquanto conferia outra coisa, como se pudesse dividir a atenção em pedaços sem perder nenhum. Conhecia Kalan havia tempo suficiente para perceber quando uma desculpa era verdadeira, quando era ruim e quando seria melhor não perguntar.
+Cairon era largo, de braços grossos, cabelos quase inteiramente grisalhos e uma mancha de tinta que nunca saía do indicador. Tinha o hábito de falar com alguém enquanto conferia outra coisa, como se pudesse dividir a atenção em pedaços sem perder nenhum. Conhecia Kalan havia tempo suficiente para perceber quando uma desculpa era verdadeira, quando era ruim e quando seria melhor não perguntar.
 
 — Foi assunto da casa — disse Kalan. — Precisei resolver antes do turno.
 
@@ -398,7 +398,7 @@ A discussão morreu ali porque outra carga já os esperava.
 
 O volume do torneio fazia o dia avançar sem espaço para distração. Tecidos chegavam por carroça. Madeira vinha por terra. Sacos de farinha Buldar e rodas de queijo de varda eram pesados, divididos e reenviados. Um barco descarregou óleo de pimenta-de-vale suficiente para deixar parte do cais cheirando a especiarias e gordura; outro trouxe utensílios de cozinha, cordas, ferramentas e estruturas desmontadas que seguiriam para os setores responsáveis pela preparação das delegações.
 
-Foi entre uma carga e outra que Kalan viu Alveris. As luvas brancas de couro curtido fino destoavam da madeira suja e das cordas do cais. Entre os dedos, Alveris segurava um cachimbo estreito de cerâmica vitrificada, de onde subia o cheiro doce e amargo da orva seca, uma folha cara que Kalan conhecia mais pelo aroma deixado por homens ricos da Cidade Interna do que por vê-la em Maruva.
+Foi entre uma carga e outra que Kalan viu Alveris. As luvas brancas de couro curtido fino destoavam da madeira suja e das cordas do cais. Era careca, e a barba grisalha, cheia e comprida, descia sobre o peito do casaco. Entre os dedos, Alveris segurava um cachimbo estreito de cerâmica vitrificada, de onde subia o cheiro doce e amargo da orva seca, uma folha cara que Kalan conhecia mais pelo aroma deixado por homens ricos da Cidade Interna do que por vê-la em Maruva.
 
 O proprietário da Companhia atravessava o pátio acompanhado por dois homens. Não precisava de escolta para ser reconhecido. O casaco azul-acinzentado tinha corte melhor do que qualquer roupa que Kalan possuía, mas evitava os bordados religiosos e os excessos que alguns homens ricos pareciam usar apenas para provar que podiam. As botas permaneciam limpas de um jeito incompreensível para alguém que circulava tão perto do cais.
 
@@ -422,7 +422,7 @@ Parou diante de Naro.
 
 — Antes que você diga que não foi, duas cargas suas foram para o pátio sete sem marca de origem.
 
-Naro abriu a boca, mas Neris foi mais rápido.
+Naro abriu a boca, mas Neris foi mais rápida.
 
 — É melhor corrigir antes que Corven veja e decida transformar isso em discurso.
 
@@ -516,7 +516,7 @@ Naro pegava outra caixa da plataforma quando Uma voz surgiu atrás deles.
 
 Corven se aproximou.
 
-Vestia o mesmo tipo de colete dos trabalhadores e botas reforçadas que já tinham visto dias melhores, mas em Corven tudo parecia organizado. O cabelo era cortado rente, a barba curta e os olhos passavam pelo pátio mesmo quando ele conversava com alguém.
+Vestia o mesmo tipo de colete dos trabalhadores e botas reforçadas que já tinham visto dias melhores, mas em Corven tudo parecia organizado. Tinha uns cinquenta ciclos; o cabelo era cortado rente e quase todo grisalho, a barba curta da mesma cor, e os olhos passavam pelo pátio mesmo quando ele conversava com alguém.
 
 Neris mostrou o registro.
 

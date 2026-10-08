@@ -210,7 +210,7 @@ Rendar desceu para o chão e seguiu a trilha por entre árvores baixas. A cada p
 
 Rendar parou antes de entrar. O ar ali era diferente. Mais pesado. As aves ainda evitavam aquela zona. A floresta tinha uma memória recente de violência, mas não violência humana organizada. Havia galhos partidos em alturas estranhas, como se uma coisa grande tivesse atravessado sem se importar com caminho. A lama apresentava marcas fundas, irregulares, não de bota, nem de pata comum. Um tronco trazia sulcos longos, paralelos, cravados na madeira até a seiva. E o pior: nenhuma ave reclamava do sangue. Rendar tocou-os com a ponta dos dedos e sentiu o estômago fechar.
 
-Raukhar. Ninguém dizia esse nome perto de criança pequena. Não por superstição. Por respeito ao medo certo. Avara avisara e Veyr ignorara.
+Raukhar. Ninguém dizia esse nome perto de criança pequena. Não por superstição. Por respeito ao medo certo. Rendar vira um uma única vez, de longe: o corpo pesado parado entre as samambaias, a crista erguida no dorso, as presas curvas para fora da mandíbula e os olhos amarelos, pequenos demais para o tamanho da cabeça, presos nele sem pressa nenhuma. Avara avisara e Veyr ignorara.
 
 Rendar avançou devagar e encontrou sangue antigo, uma flecha de fabricação Polar partida, marcas de luta, couro rasgado, uma fivela com a Raiz Polar e parte de uma haste de estandarte.
 

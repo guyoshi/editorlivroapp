@@ -112,9 +112,9 @@ Kaelina voltou-se para o homem.
 
 — Nome?
 
-— Orven da Canga, minha soberana. Do anel baixo. Chamam-no assim porque carregou canga Buldar metade da vida. Foi ele quem ficou preso sob sacos caídos quando a primeira carroça virou. Disse que viu botas sem marca, panos de areia no rosto e ouviu um deles mandar que queimassem apenas a carroça da frente. Não era saque comum. Saqueador comum leva e foge. Aqueles queriam que soubéssemos.
+— Dovren da Canga, minha soberana. Do anel baixo. Chamam-no assim porque carregou canga Buldar metade da vida. Foi ele quem ficou preso sob sacos caídos quando a primeira carroça virou. Disse que viu botas sem marca, panos de areia no rosto e ouviu um deles mandar que queimassem apenas a carroça da frente. Não era saque comum. Saqueador comum leva e foge. Aqueles queriam que soubéssemos.
 
-Kaelina guardou o nome: Orven da Canga, carregador do anel baixo e testemunha do ataque.
+Kaelina guardou o nome: Dovren da Canga, carregador do anel baixo e testemunha do ataque.
 
 — Maelis — disse Kaelina.
 
@@ -200,7 +200,7 @@ Harlon riu uma vez, sem humor algum.
 
 Murmúrios atravessaram o salão. Kaelina olhou para os guardas.
 
-— Iressa Mãos-de-sal irá para o anel médio. Quero saber quantos barris existem, quantos foram retirados, quantos foram escondidos e por quem.
+— Iressa Mão-de-Sal irá para o anel médio. Quero saber quantos barris existem, quantos foram retirados, quantos foram escondidos e por quem.
 
 O chefe de passagem empalideceu.
 
@@ -702,7 +702,7 @@ Alyra aproximou-se mais um pouco, a voz baixa o bastante para ser íntima e alta
 
 — Poder não deve ficar com quem apenas herda uma cadeira. Deve ficar com quem sabe governar quando a cadeira começa a quebrar.
 
-Iressa estava indignada, Maelis abatido, Nalia evitava olhar e Kadrir apertava os dentes. Outros pareciam aceitar a lógica de Alyra.
+Iressa estava indignada, Maelis abatida, Nalia evitava olhar e Kadrir apertava os dentes. Outros pareciam aceitar a lógica de Alyra.
 
 — Você envenenou Yvenn.
 

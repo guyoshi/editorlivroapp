@@ -181,7 +181,7 @@ O som virou um ganido agudo e depois um choro curto, quase infantil.
 
 Silêncio.
 
-Selina não viu o que fizeram com o animal. Não precisava.
+Selina não viu o que fizeram com o animal.
 
 Alcançou a casa coletiva de Elis por uma passagem lateral. Bateu. Sem resposta, empurrou a porta e encontrou a sala vazia, pão sobre a mesa, uma tigela virada perto da escada.
 

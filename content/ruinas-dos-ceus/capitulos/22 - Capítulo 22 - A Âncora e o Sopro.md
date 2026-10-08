@@ -4,7 +4,7 @@ Avançou alguns passos, os pés roçando o chão gasto de tanto ser pisado por g
 
 A pequena se levantou, contornou a varanda, e Jokara a seguiu. Ao virar a curva da casa, Jokara parou.
 
-Um homem de pele escura, o rosto marcado de sol. Os braços fortes, calejados, trabalhavam com paciência uma estrutura leve. Com a mão direita, segurava a seda de lemi, transparente; com a esquerda, ajustava pequenas pedras lisas que brilhavam sob o sol da manhã.
+Um homem de pele escura, o rosto marcado de sol, a barba curta já salpicada de pó de madeira. Os braços fortes, calejados, trabalhavam com paciência uma estrutura leve. Com a mão direita, segurava a seda de lemi, transparente; com a esquerda, ajustava pequenas pedras lisas que brilhavam sob o sol da manhã.
 
 A voz saiu antes que ela pudesse segurar:
 

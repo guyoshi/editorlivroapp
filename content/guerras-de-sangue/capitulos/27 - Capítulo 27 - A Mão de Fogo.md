@@ -462,7 +462,7 @@ A madeira tombou diante da porta, espalhando tábuas, caixas e anos de contagem 
 
 Alyra viu uma passagem estreita atrás da estante caída, usada por escribas para alcançar a galeria seguinte. Entrou antes que Tavra removesse o obstáculo. A fumaça a seguiu.
 
-Ela atravessou uma galeria de retratos antigos. Soberanos mortos observavam a fuga com rostos pintados para parecerem mais firmes do que haviam sido em vida, todos com a mesma Ramagem branca na testa, a única coisa que nenhum pintor de retrato ousara mudar. Alyra passou por Orionus sem olhar. O quadro mostrava o pai em pé junto a um portão, uma mão sobre o punho da espada, a outra aberta em direção a homens que o artista não pintara. Uma chama atingiu a moldura depois que Alyra passou.
+Ela atravessou uma galeria de retratos antigos. Soberanos mortos observavam a fuga com rostos pintados para parecerem mais firmes do que haviam sido em vida, todos com a mesma Ramagem branca na testa, a única coisa que nenhum pintor de retrato ousara mudar. Alyra passou por Orionus sem olhar. O quadro mostrava o pai sentado no trono, as tranças grisalhas caídas sobre os ombros e a barba grisalha aparada, uma mão sobre o punho da espada, a outra aberta em direção a homens que o artista não pintara. Uma chama atingiu a moldura depois que Alyra passou.
 
 O tecido começou a queimar pela parte inferior. Alyra parou. Por um instante curto e absurdo, olhou para o fogo subindo pela imagem do pai. Tavra apareceu na entrada da galeria.
 
