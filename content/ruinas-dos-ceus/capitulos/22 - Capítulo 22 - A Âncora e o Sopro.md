@@ -1,5 +1,3 @@
-
-
 Sinos tilintavam. A brisa trazia um cheiro doce de frutas recém-colhidas misturado ao pó das madeiras secando ao sol. Jokara reconheceu a varanda: o chão em espiral, o corrimão tecido em cordas leves, as flores pendendo em jarros trançados pelas mãos da mãe.
 
 Avançou alguns passos, os pés roçando o chão gasto de tanto ser pisado por gerações. E então a viu. A si mesma, com oito ciclos, sentada no chão, as pernas cruzadas, os cabelos trançados caindo até os ombros. O rosto infantil franzido em curiosidade, as mãos inquietas demais para ficarem paradas.
@@ -242,7 +240,7 @@ Depois limpou as lágrimas com a manga.
 
 Nestira assentiu, sem soltar a mão dela.
 
-As duas voltaram pela floresta. Em alguns trechos acharam que haviam perdido o caminho, até avistarem uma pequena brasa entre as árvores. Quando chegaram ao acampamento, Gabasteri estava acordado.
+As duas voltaram pela floresta. Em alguns trechos acharam que haviam perdido o caminho, até avistarem uma pequena brasa entre as árvores. Quando chegaram ao acampamento, Gabasteri estava acordado, sentado perto da comida e das armas.
 
 — Andando sozinhas na floresta? É muito perigoso, ainda mais ao Sopro do Silêncio… e sozinhas… onde está o menino?
 
@@ -256,105 +254,9 @@ Gabasteri ergueu os olhos.
 
 — Não conseguimos trazê-lo de volta.
 
-Nestira se deitou perto de Mariv. Jokara escolheu um canto mais afastado e fechou os olhos.
+Nestira se deitou perto de Mariv. A marca no pescoço dele já escurecia. Jokara escolheu um canto mais afastado e fechou os olhos, mas demorou a conseguir descansar.
 
-O sopro seguinte amanheceu cinzento, a claridade filtrada pela copa úmida das árvores. O cheiro de gordura queimando chegou primeiro. Ao se erguer, Jokara viu Mariv agachado diante de uma fogueira pequena, preparando a primeira refeição do sopro. Sobre uma pedra aquecida, girava a carne de um animal pequeno, ainda crepitando.
-
-Perto da raiz onde Loutes costumava dormir, uma pequena folha dobrada que ele usava como recipiente continuava no chão. Jokara quase se abaixou para pegá-la e levar para ele.
-
-Sentia fome e enjoo ao mesmo tempo. Virou-se para o outro lado e notou Maletar ainda deitado, o braço sobre os olhos. Estranhou: não era do feitio dele se demorar no sono.
-
-— Maletar… — chamou em voz baixa, aproximando-se.
-
-Ele abriu os olhos devagar. Estava pálido, os olhos fundos. Esforçou-se para se erguer, pegou o cantil e bebeu longos goles.
-
-Do outro lado, Gabasteri estava sentado junto ao fogo, afiando uma ponta de madeira. Ergueu os olhos por um instante quando Maletar tossiu e tornou ao trabalho.
-
-Maletar se levantou com esforço, estalando os ombros, e olhou ao redor.
-
-— Vocês já estão acordados há muito tempo?
-
-— Um pouco — respondeu Mariv, ainda virado para o fogo.
-
-Maletar ergueu os olhos para o céu, medindo a altura do sol por entre as copas.
-
-— Já devíamos ter partido.
-
-— Descanse, Maletar — disse Nestira, cruzando os braços. — Anda se esforçando além do limite. Dormiu pouco, lutou mais do que todos nós. Podemos ficar aqui até o próximo sopro.
-
-Ele ia discordar, mas a respiração falhou, e ele apenas assentiu e sentou-se de novo. Então olhou em volta.
-
-— E o menino? Onde está Loutes?
-
-Jokara sentiu o olhar da irmã sobre ela.
-
-— Ele foi embora durante o Sopro do Silêncio.
-
-Maletar franziu o cenho. Mariv olhou para elas. Não tinha reparado.
-
-— Foi embora? — Maletar olhou para a floresta. — Então precisamos procurá-lo.
-
-Nestira respondeu antes de Jokara.
-
-— Não. Ele pediu que não fizéssemos isso.
-
-Jokara virou o rosto para a irmã.
-
-Loutes não havia pedido coisa alguma.
-
-Nestira sustentou o olhar dela por apenas um instante.
-
-— É só uma criança! — rebateu Maletar, alto demais, e tossiu.
-
-— Nós procuramos — disse Jokara. — Por muito tempo. Ele não quis voltar.
-
-Mariv deixou o que preparava junto ao fogo.
-
-— Ele falou isso?
-
-Nestira engoliu em seco.
-
-— Do jeito dele.
-
-Mariv parecia pronto para insistir.
-
-— Aquele garoto sobreviveu à queda, à floresta e a coisas que nenhum de nós entende — continuou Nestira. — Eu não gosto disso. Mas sair todos pela mata sem saber para onde ele foi só coloca mais gente em risco.
-
-Maletar olhou para Jokara.
-
-Ela demorou antes de assentir.
-
-— Se eu achasse que conseguiríamos encontrá-lo, já estaria procurando.
-
-Ninguém pareceu satisfeito com a resposta. Jokara menos do que todos.
-
-Fazia frio. Uma rajada entrou por entre as árvores e apagou a fogueira.
-
-Nestira se ajoelhou diante das brasas e começou a cercá-las com pedras, deixando uma abertura do lado oposto ao vento. Mariv trouxe os galhos mais secos que encontrou sob as raízes. Maletar rasgou fibras do interior de uma casca e as deixou ao alcance dela antes de voltar a se sentar.
-
-Nestira soprou devagar entre as pedras. A fumaça engrossou, uma chama pequena apareceu e Mariv encaixou os galhos por cima.
-
-Pouco depois, o fogo ardia de novo, protegido pela meia-lua de pedras.
-
-Quando a chama voltou a crepitar, Gabasteri lançou um olhar para Maletar.
-
-— Está bem? — perguntou Gabasteri.
-
-— Estou — respondeu Maletar, mas o tom não tinha firmeza. Tinha a testa suada de frio.
-
-Jokara o observou e, sem pensar duas vezes, pegou a parte que lhe cabia do animal assado por Mariv e colocou diante dele.
-
-— Coma.
-
-Ele balançou a cabeça.
-
-— Não preciso.
-
-— Precisa, sim. — Ela empurrou o pedaço até suas mãos. — Somos um grupo. Precisamos ajudar um ao outro.
-
-Maletar aceitou. Jokara ainda lhe estendeu o cantil, e ele bebeu.
-
-Jokara se afastou e sentou-se sobre uma pedra lisa, observando uma fileira de insetos que caminhava em silêncio, todos na mesma direção. Entravam um a um num buraco entre as raízes, sem nenhum sair da fila.
+Mais tarde, quando o acampamento tornou a silenciar, Nestira se sentou atrás da irmã.
 
 Nestira se aproximou sem dizer nada. Sentou-se atrás da irmã e, com delicadeza, passou os dedos pelos fios grossos e rebeldes, separando-os com calma. Foi ajeitando as pequenas tranças soltas, como fazia quando eram crianças nas manhãs de Etérea.
 
@@ -362,41 +264,11 @@ Nestira se aproximou sem dizer nada. Sentou-se atrás da irmã e, com delicadeza
 
 Jokara quase sorriu. Em Etérea, uma trançava o cabelo da outra antes das festas.
 
-Os insetos continuavam entrando no buraco, um atrás do outro.
+— De novo? — murmurou Jokara.
 
-— Acha que ele está bem? — perguntou Nestira.
+— Continua horrível.
 
-— Não sei.
-
-Jokara permaneceu olhando para a fileira de insetos.
-
-— Por que disse que ele pediu para não procurarmos?
-
-Os dedos de Nestira pararam no cabelo dela.
-
-— Porque Maletar teria saído atrás dele. Mariv também. Talvez Gabasteri fosse junto. Talvez alguém não voltasse.
-
-— Mas ele não pediu.
-
-— Eu sei.
-
-Nestira voltou a separar uma das tranças.
-
-— Só não encontrei palavras melhores para explicar aquele abraço.
-
-Jokara fechou os olhos.
-
-— Eu também senti.
-
-— Como uma despedida?
-
-Ela assentiu, contrariada.
-
-— E odeio isso.
-
-— Eu também.
-
-Jokara olhou para o espaço vazio onde Loutes costumava se sentar.
+Jokara soltou pelo nariz algo que quase foi uma risada e ficou quieta enquanto os dedos da irmã refaziam as tranças.
 
 — Ele quase nunca dizia nada. Mesmo assim era mais fácil conversar com ele do que com muita gente.
 
@@ -412,132 +284,84 @@ O sorriso desapareceu devagar.
 
 — Eu também.
 
-Depois de um tempo, Nestira perguntou:
-
-— Você também viu algo, não é?
-
-Jokara hesitou.
-
-— O quê?
-
-— Eu vi pela sua cara — insistiu a irmã. — Lá na ruína.
-
-Jokara hesitou, os olhos no fogo. Então assentiu.
-
-— Sim. Eu vi nosso pai. Foi uma lembrança. Quando eu era pequena.
-
-Nestira continuou a arrumar-lhe o cabelo, mais devagar.
-
-— Ah… — disse por fim.
-
-Jokara ergueu os olhos.
-
-— E você? O que viu?
-
-Nestira parou por um momento. Respirou fundo, mas não respondeu.
-
-— Nestira? — insistiu Jokara, virando-se um pouco.
-
-A irmã fechou os olhos.
-
-— Eu vi um mundo diferente do nosso, Jokara. Vi muitas pessoas vivendo aqui embaixo… vi lutas, guerras… e percebi que talvez Mariv estivesse certo sobre uma coisa. Não sei se os ventos nos trouxeram para cá com um objetivo. Mas eu sei que posso escolher um.
-
-— E qual é?
-
-Nestira apoiou as mãos nos ombros dela, completando a trança.
-
-— É garantir que o que restou de nós não se perca. Garantir que nossa sobrevivência não tenha sido em vão.
-
-Jokara quis perguntar mais. O rosto da irmã não deixou.
-
 Nestira deu o nó final na trança, pousou o queixo no ombro da irmã e sorriu.
 
 — Agora sim. Como uma verdadeira eterí.
 
+Jokara virou o rosto para ela. Um dos fios de Nestira escapava torto junto à têmpora.
 
-Mais tarde, Nestira e Mariv saíram juntos, desaparecendo entre as árvores com cestos improvisados, em busca de frutas. Gabasteri estava sozinho num canto. Jokara reparou em Maletar, sentado, a cabeça baixa. Suava apesar do frio, e respirava arrastado.
-
-— Está bem? — perguntou Jokara, aproximando-se.
-
-Ele ergueu o rosto pálido e tentou sorrir.
-
-— Sim. Só… cansado.
-
-Ela negou com a cabeça.
-
-— Não. Não está. Se Platisa estivesse ali, saberia o que dar a ele.
-
-Maletar desviou o olhar.
-
-— Quer caminhar um pouco? — insistiu Jokara. — Tomar ar, tirar o peso do corpo?
-
-— Estou bem — respondeu rápido demais, e tossiu logo em seguida.
-
-Ela o encarou sem recuar.
-
-— Você não precisa ser forte o tempo todo, Maletar. Ari ia preferir o pai dela descansando a vê-lo provar alguma coisa para o céu.
-
-Ele ergueu os olhos devagar.
-
-— Engraçado ouvir isso de você.
-
-Jokara franziu o cenho.
+— Vem aqui.
 
 — Por quê?
 
-— Porque você faz a mesma coisa.
+Jokara puxou o fio rebelde, acertou a pequena trança com os dedos e a prendeu de volta.
 
-Ela abriu a boca para responder e desistiu.
+— Agora sim.
 
-Maletar soltou uma risada curta, seguida por uma tosse.
+Nestira tocou o cabelo, surpresa. Depois olhou para a irmã.
 
-— Talvez seja por isso que está me dizendo.
+As duas sorriram. Só por alguns instantes.
 
-— Talvez.
+Nestira manteve a mão sobre a trança da irmã por um instante. Depois alisou os fios uma última vez, com o cuidado de quem se recusava a deixar tudo desaparecer.
 
-A rigidez dos ombros dele cedeu um pouco.
+Do outro lado do fogo, Mariv permanecia acordado. Passou o polegar devagar pela marca no pescoço e continuou olhando para as chamas.
 
-— Obrigado, Jokara.
+— Eu lembrei.
 
-Ela assentiu. Não havia muito mais a acrescentar.
+Jokara ergueu os olhos.
 
-Maletar respirou fundo e, pouco depois, ergueu-se. As pernas trêmulas quase não o sustentavam, mas ele forçou um sorriso.
+— Do quê?
 
-— Vou buscar lenha.
+— De onde eu conheço o nome dele. Quando você disse “Gabasteri” pela primeira vez, eu falei que já tinha ouvido. Passei esse tempo todo tentando descobrir de onde vinha aquela sensação. Agora eu sei.
 
-Jokara se ofereceu para ir junto. Esperava que ele recusasse. Ele assentiu. Foram juntos até o limite do acampamento, catando galhos secos, sem conversar.
+Nestira ergueu o rosto.
 
-Quando voltaram, Gabasteri cuidava do fogo. Nestira e Mariv chegaram logo depois com algumas raízes e frutas magras. Foi pouco, mas foi o primeiro jantar desde o alagado.
+Mariv demorou alguns instantes, puxando a lembrança como quem tenta enxergar através de névoa.
 
+— Eu era criança. Meus pais me levaram a uma praça onde havia muita gente reunida. Um Orador falou antes de um balão de exílio descer. Eu não lembro do rosto do condenado e não lembro o que ele tinha feito. Só lembro do nome porque achei estranho e fiquei repetindo depois para mim mesmo.
 
-Naquele Sopro do Silêncio, conversaram sobre Etérea. Sobre coisas boas. Nestira imitou a voz do Mestre dos Voos, e até Maletar riu.
+Ele passou os dedos pela marca no pescoço.
 
-Jokara adormeceu tarde. Sonhou com nuvens, pedras caindo, e o pai sorrindo para ela no fim de tudo.
+— Gabasteri.
 
-Um grito rasgou o sonho.
+O fogo estalou.
 
-Jokara acordou ofegante, a mão buscando o bastão ao lado. Tentou se erguer rápido demais, desequilibrou-se e precisou fincar a madeira duas vezes antes de ficar de pé, os olhos correndo pelo escuro.
+— Não sei se era ele. Não sei de onde aquele homem vinha. Mas um Gabasteri foi enviado para as Ilhas Baixas muitos ciclos antes da queda.
 
-— Nestira! — Jokara reconheceu a voz de Mariv.
+Jokara ficou imóvel.
 
-Avançou, tropeçando na terra úmida. A irmã estava ajoelhada próxima à fogueira. Mariv estava atrás dela, tentando contê-la num abraço desesperado.
+Até aquele momento, havia algo em Gabasteri que ela podia tentar explicar pela queda, pelo medo, pelo mesmo mundo que tinha quebrado todos eles.
 
-Gabasteri apareceu logo ao lado, com cara de quem tinha acabado de acordar.
+A lembrança de Mariv mudava o tempo das coisas.
 
-— O que aconteceu? — Jokara arfou, aproximando-se.
+Gabasteri conhecia a superfície bem demais.
 
-E então viu.
+Falava de água, feras e rotas como quem repetia hábitos antigos.
 
-Os mesmos insetos que ela observara mais cedo, disciplinados, caminhando em fila, agora marchavam em linha pelo corpo de Maletar, deitado à frente de Nestira. Entravam e saíam por seu nariz e sua boca, como se ele fosse apenas mais uma fenda da floresta. A pele estava esverdeada, a boca entreaberta. Os olhos, abertos e opacos.
+Dormia como alguém acostumado a não confiar em ninguém.
 
-Gabasteri olhava sem se mexer. A fileira de insetos continuava.
+E, se Mariv estivesse certo, já estava abaixo das nuvens muito antes de Etérea cair.
 
-Nestira chorava com o rosto no peito de Mariv. As mãos dele tremiam quando se inclinou e fechou as pálpebras de Maletar. Depois virou o rosto.
+Nestira abraçou os próprios joelhos.
 
-Jokara deu um passo para trás.
+— Ele disse à Jokara que era de Enurial.
 
-Jokara olhou para o rosto dele e pensou em Ari.
+— Pode ter sido — respondeu Mariv. — Ou pode ter mentido. É isso que me incomoda. Eu só tenho a lembrança do nome. O resto não vem.
 
-Ao lado do lugar onde Maletar dormira, o cantil escuro permanecia tombado na terra, ainda com água dentro.
+Jokara olhou para a escuridão onde Gabasteri desaparecera e não respondeu. Outra lembrança surgira, mais silenciosa que a primeira: Maletar bebendo do cantil escuro, a tosse piorando de sopro em sopro, Gabasteri voltando com água e completando os recipientes, inclusive o de Maletar.
 
+Jokara tentou desmontar a própria suspeita antes que ela criasse forma. Maletar estava ferido, cansado, exposto à chuva e à fome. Havia muitas explicações possíveis.
 
+Então pensou em Platisa, no zélon apertado contra o peito, no desconforto sempre que Gabasteri decidia uma rota e na forma como desaparecera com ele entre as árvores sem nunca voltar.
+
+Jokara baixou os olhos para o fogo.
+
+Jokara apoiou a mão no tornozelo que já não existia. Por um instante, sentiu outra vez a pedra fria na palma e a seda leve dançando nos dedos.
+
+Não sabia ainda o que estava procurando.
+
+Sabia apenas que, pela primeira vez, não queria mais esperar que Gabasteri lhe desse uma explicação.
+
+Nos dois Sopros do Silêncio seguintes, Gabasteri continuou mantendo a comida e as armas longe dos outros. Durante o sopro, continuou encontrando água, escolhendo caminhos melhores e evitando lugares onde os outros teriam avançado sem perceber perigo. Não se tornou menos competente porque tinham passado a temê-lo.
+
+Aquilo talvez fosse o pior.

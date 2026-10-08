@@ -1,115 +1,3 @@
-
-
-Ninguém falou mais nada naquele Sopro do Silêncio. Jokara fechava os olhos e via o zélon apertado contra o peito de Platisa.
-
-Quando o primeiro clarão de cinza riscou o céu, Jokara despertou. Gabasteri voltava, trazendo a água. Parecia o mesmo de sempre. Desde que Platisa enfraquecera, ele vinha ajudando mais com o abastecimento.
-
-Passou pelos recipientes, completando-os um a um. Encheu também o cantil escuro de Maletar e o devolveu ao lado dele.
-
-Maletar não disse nada. Bebeu um gole lento do cantil e ficou olhando o chão. Mariv ainda gemia de dor, e Nestira não saía do lado dele. Loutes não tinha dormido: estava de pé, olhando para longe. Jokara não teve forças para perguntar o que ele tinha.
-
-Foi Maletar quem falou, rouco:
-
-— Não podemos ficar aqui. — Pousou a mão na lança. — Esta é terra da fera. E a Fera sempre está com fome.
-
-Ninguém contestou. Nem Gabasteri. Recolheram o pouco que restava e seguiram.
-
-Andaram o sopro inteiro. Ninguém dizia o nome de Platisa.
-
-Jokara cambaleava. Sem o bastão, o corpo dela dependia do braço firme de Nestira e do ombro de Mariv, que mesmo ferido não reclamava. O chão era irregular e molhado.
-
-Maletar parecia bem cansado, mais do que nos sopros anteriores, mas não se permitia descansar. Ia pegando cada galho do caminho e testando nas mãos. Em alguns momentos parava para beber e tossia logo depois, reclamando do ar úmido. Finalmente encontrou um tronco fino e sólido, pesado o bastante para apoiar, leve o bastante para carregar.
-
-— Até acharmos coisa melhor.
-
-Entregou-o a Jokara. Ela assentiu e o usou.
-
-A floresta foi ficando cada vez mais molhada, até que o chão deixou de ser chão. Diante deles se estendia um alagado: água parada e escura, plantas boiando, troncos tortos saindo da lama, uns ocos, outros cobertos de musgo pingando.
-
-O ar tinha gosto de ferro. Nuvens de insetos zumbiam em volta do rosto. Nenhum pássaro cantava; só se ouvia um coaxar grave, fundo demais para bicho pequeno.
-
-A cada passo, a lama puxava os pés.
-
-Gabasteri riu baixo, sarcástico, chutando a água barrenta que respingou no rosto de Loutes.
-
-— Um banquete, não é? Olhem em volta. Peixes, raízes gordas… se não morrerem envenenados antes, vão comer até se fartar.
-
-Jokara ignorou a provocação. Avançou até a beira da água, apoiada no bastão. Estava com fome demais para não tentar.
-
-Agachou-se e enfiou a mão na água fria, atrás da sombra de um peixe. Chegou a sentir a pele dele nos dedos. Escapou. Ela quase tombou para a frente.
-
-— Arrastado… — rosnou, jogando o bastão para o lado e mergulhando os braços de novo. Escapou outra vez, e mais outra. — Fiquem aí, escondidos… que se afoguem, todos vocês!
-
-Ouviu a própria voz e percebeu que estava xingando peixes. Nestira veio ajudá-la a recuperar o bastão.
-
-A ponta fina da madeira havia afundado quase até a metade na lama.
-
-Gabasteri observou por alguns instantes.
-
-— Isso vai te derrubar de novo.
-
-Jokara lançou-lhe um olhar irritado.
-
-— Tem alguma sugestão além de assistir?
-
-Ele não respondeu. Caminhou até uma raiz exposta, cortou um segmento curto e largo da extremidade e o amarrou transversalmente à base do bastão com fibra úmida. Depois raspou as bordas até formar uma pequena superfície achatada.
-
-— Espalha o peso. Afunda menos.
-
-Jokara testou. A ponta desceu na lama, mas parou muito antes.
-
-— Funciona.
-
-— Eu sei.
-
-Ela não agradeceu. Ainda assim, continuou usando aquele bastão.
-
-— Vamos apertar o passo… — murmurou Maletar, apoiado na lança, ofegante. — Precisamos atravessar essas águas.
-
-No fim do sopro, chegaram de novo a chão firme.
-
-Anoiteceu, e mais uma vez ninguém comeu. Encolheram-se entre raízes úmidas.
-
-Jokara, deitada, viu Loutes sentado, olhando para a floresta. Levantou-se devagar e foi até ele.
-
-— Está tudo bem? — perguntou, baixo.
-
-Loutes virou o rosto para ela e apenas assentiu, sem mudar a expressão.
-
-— Eu sei que não tenho ficado muito perto de você ultimamente… — começou Jokara, sussurrando para não acordar os outros.
-
-Sentou-se com dificuldade ao lado dele. Atrás deles, Mariv gemia dormindo. Nestira cochilava sentada. Maletar respirava de um jeito irregular.
-
-— Você anda distante de todos… — continuou ela. — Mas… você faz parte disso, Loutes.
-
-O menino continuou olhando as árvores.
-
-— Quando atacou aquela criatura… você foi muito corajoso.
-
-Ela baixou a cabeça.
-
-— Eu… sinto tanta saudade de casa. Do vento nos sinos, do orvalho fresco pela manhã, do riso da minha mãe, das canções de Nestira quando eu não conseguia dormir. — Parou. — Às vezes não lembro mais a voz da minha mãe.
-
-Loutes puxou os joelhos contra o peito.
-
-— Não sei de onde você é… nem o que carrega dentro de si — insistiu ela. — Mas… quando olho pra você, sinto como se tivéssemos raízes comuns. Como se fosse meu irmão.
-
-Ela esperou. Nada.
-
-— Platisa… Sabe… eu não consigo tirar ela da cabeça. Cada vez que fecho os olhos, vejo o jeito como ela sorria, mesmo quando estava fraca… vejo as mãos dela mexendo nas ervas. E não consigo entender como você, depois de tudo isso, consegue ficar tão sereno.
-
-
-
-— Queria ouvir sua voz, Loutes. Nem que fosse uma palavra só. Queria saber o que pensa, o que sente. Você... consegue falar. Eu sei que consegue… se tentar.
-
-O menino manteve os olhos fixos no escuro.
-
-Jokara quis sacudi-lo. Quis abraçá-lo. Não fez nenhuma das duas coisas.
-
-— Vai dormir logo, Loutes… — murmurou, voltando ao seu lugar.
-
-Deitou-se.
-
 Sonhou com o céu se abrindo em clarões. Uma pedra imensa atravessava as nuvens e se chocava com a terra. O chão rachava, e das rachaduras jorrava água, que cobria tudo.
 
 Acordou ofegante. A primeira coisa que viu foi Nestira, ajoelhada diante dela, os olhos arregalados.
@@ -118,7 +6,7 @@ Acordou ofegante. A primeira coisa que viu foi Nestira, ajoelhada diante dela, o
 
 Jokara tentou se erguer depressa, e o corpo fraquejou; Nestira a ajudou a pôr-se de pé. Jokara firmou o bastão no chão úmido.
 
-No acampamento, ninguém mais tinha acordado. Gabasteri roncava baixo, Mariv dormia encolhido, e Maletar, que deveria estar de vigia, estava sentado com a cabeça caída sobre o peito, vencido pelo cansaço.
+No acampamento, ninguém mais tinha acordado. Gabasteri dormia do outro lado, com a bolsa de comida e as armas ao alcance da mão. Mariv repousava encolhido, uma das mãos próxima ao pescoço marcado.
 
 — É melhor acordar os outros… — murmurou Nestira.
 
@@ -313,5 +201,3 @@ De repente, tudo parou.
 Jokara piscou, arfando. Não estava mais na sala.
 
 Caiu de joelhos, a mão na boca. Estava em Etérea.
-
-
