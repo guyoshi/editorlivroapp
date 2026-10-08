@@ -272,7 +272,11 @@ async function openChapter(idx){
   // texto
   try{
     const res = await fetch(resolve(ch.text), {cache:"no-cache"});
+    if(!res.ok) throw new Error("HTTP "+res.status);
+    const contentType=String(res.headers.get("content-type")||"").toLowerCase();
     const raw = await res.text();
+    const looksLikeHtml=/^\s*<!doctype\s+html|^\s*<html[\s>]/i.test(raw) || contentType.includes("text/html");
+    if(looksLikeHtml) throw new Error("Resposta HTML recebida no lugar do capítulo.");
     state.currentChapterRaw = raw;
     renderChapterText(ch, raw);
     // Capítulo incompleto retoma o ponto salvo da leitura textual.
