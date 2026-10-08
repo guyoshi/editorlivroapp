@@ -2,13 +2,7 @@ Rendar olhou para os lados e decidiu, pela terceira vez desde que entrara na Boc
 
 A passagem era estreita, úmida e torta. Dois homens não caminhavam lado a lado ali sem encostar ombro em rocha. Cipós secos pendiam dos paredões como cabelos mortos, raízes de sede agarravam-se às fendas e pedras falsas, encaixadas de propósito, escondiam aberturas por onde olhos podiam vigiar sem serem vistos. Rendar sabia disso porque também era homem de esconderijo. Só que os Fendelar escondiam-se para que o mundo perdesse o rastro.
 
-Os Tondrar escondiam-se para que, quando alguém os encontrasse, já estivesse dentro deles. Três homens o escoltavam. Todos carecas. Todos pintados.
-
-A tinta preta descia dos olhos deles em linhas grossas até a mandíbula, como lágrimas que tivessem aprendido a ameaçar. Tinha cheiro de resina escura, cinza e pele quente.
-
-Rendar sabia o bastante sobre os Tondrar para não olhar fixo para as marcas. Entre eles, pintura não era enfeite. Era aviso, luto, função, dívida. Um rosto pintado dizia coisas que a boca não precisava dizer. E, numa terra onde até água podia virar negociação, boca fechada às vezes era a única riqueza segura.
-
-Um trazia pontos marcados nas têmporas e no pescoço. Outro tinha uma faixa escura atravessando a boca, dando a impressão de que havia costurado o próprio silêncio. O terceiro, mais jovem, mantinha círculos pretos em volta dos olhos; quando virava o rosto de repente, parecia mais máscara de fera do que gente.
+Os Tondrar escondiam-se para que, quando alguém os encontrasse, já estivesse dentro deles. Três homens o escoltavam, todos carecas e pintados. A tinta preta tinha cheiro de resina e cinza. Entre os Tondrar, aquelas marcas podiam indicar luto, função ou dívida, por isso Rendar evitava encará-las. Um trazia pontos nas têmporas e no pescoço; outro, uma faixa escura sobre a boca; o mais jovem tinha círculos pretos em volta dos olhos.
 
 Nenhum deles sorria. Rendar também não. Sem mover a mão, fez o gesto que Avara lhe ensinara quando ainda era criança: dois dedos curvados diante do rosto, depois um corte vertical no ar, pequeno demais para estrangeiro entender. O Olho da Fera. A frase soou menos como bravata e mais como lembrete. Quem olha mal, morre primeiro.
 
@@ -22,9 +16,7 @@ Rendar passou pelo primeiro portão.
 
 O segundo apareceu alguns passos depois, escondido por fumaça e sombra. Entre os dois havia um corredor estreito, seco demais para um lugar tão úmido. Boca Seca, chamavam. O nome fazia sentido. Ali, ninguém oferecia água. Ninguém oferecia palavra que não fosse necessária. O Caldo da Boca Seca só aparecia depois de uma negociação, quando o estrangeiro já não era amigo, mas também deixara de ser tratado como presa.
 
-Era grosseria calculada. O estrangeiro entrava com sede para lembrar que os Tondrar não negociavam conforto; negociavam sobrevivência. Água dada cedo demais parecia amizade. E amizade, em Jesed, quase sempre era só outro nome para descuido.
-
-O estrangeiro esperava, suava, sentia a língua pesar e lembrava, antes de negociar, que estava pedindo entrada a um povo que entendia sede como outros entendem parentesco. Um guarda encostou dois dedos no embrulho às costas de Rendar.
+A sede fazia parte da negociação. Estrangeiros esperavam sem água até que os Tondrar decidissem se eram convidados, clientes ou presas. Um guarda encostou dois dedos no embrulho às costas de Rendar.
 
 — Carne.
 
@@ -42,7 +34,7 @@ Havia gente por todos os lados, mas ninguém parecia desperdiçar movimento. Mul
 
 Mais adiante, tiras de carne de fumaça baixa pendiam sobre estruturas quase encostadas no chão, escuras de sal e paciência. Havia morkas torradas em cestos de barro, fungos coração-de-barro fervendo duas vezes antes de virarem pasta e ossos quebrados esperando caldo. Nada ali era deitado fora.
 
-Pele virava proteção. Osso virava ponta. Dente virava aviso. Gordura virava fogo. Sangue virava pasta. Até o mau cheiro parecia ter função.
+Pele virava proteção, osso virava ponta, gordura virava fogo. Quase nada era desperdiçado.
 
 Rendar caminhou sem virar muito a cabeça. Olhar demais, entre os Tondrar, era quase pergunta. E perguntas exigiam respostas.
 
@@ -110,9 +102,7 @@ Rendar sustentou o olhar. Um segundo. Dois. Três. O homem da cadeira ergueu a m
 
 Vários Tondrar começaram a correr pelo pátio. Vieram de portas, de sombras, de buracos no chão. Passaram por Rendar como quem passa por um tronco. Agacharam-se em volta da carne aberta. Facas cortaram. Dedos puxaram. Alguns pedaços nem chegaram ao fogo. Comeram cru.
 
-Não como animais sem regra, apesar de parecer. Havia uma ordem estranha ali. Os mais velhos pegaram primeiro, depois duas mulheres grávidas, depois um jovem com o braço enfaixado, depois os outros. Ninguém agradeceu. Agradecer carne antes de saber se haveria carne amanhã parecia luxo de povo com celeiro.
-
-Mas a fome estava nos olhos de todos. Fome antiga, administrada, treinada para parecer disciplina até o instante em que recebia permissão para abrir a boca.
+Havia ordem na fome. Os mais velhos pegaram primeiro, depois duas mulheres grávidas, um jovem com o braço enfaixado e só então os outros. Ninguém agradeceu.
 
 Um menino pequeno, com a cabeça recém-raspada e uma linha preta na testa, recebeu um pedaço mínimo. Segurou a carne com as duas mãos e mordeu como se mastigasse um presente raro. Ainda não tinha idade para carregar lâmina, mas já tinha idade para aprender que comida não chega duas vezes quando chamada.
 
@@ -120,9 +110,7 @@ Rendar olhou para isso e sentiu raiva de não conseguir sentir apenas nojo. Um F
 
 Prendeu a caixa de pedras às correias da cintura, firme o bastante para não balançar durante a viagem. Depois ajeitou a capa sobre o ombro. Tondrar olhava feio para ele. Rendar olhou pior. Depois saiu.
 
-Sua montaria o esperava presa a uma estaca de raiz seca, inquieta com o cheiro de sangue vindo da fortaleza. Era um tsavor, animal de dorso baixo e comprido, pele escura coberta por placas flexíveis, quatro patas finas demais para o peso que carregava e uma cauda longa que usava para equilíbrio. Não era bonito. Nenhum animal útil em Jesed tinha obrigação de ser bonito. Os Polar preferiam tarraks nas rotas largas; Rendar preferia algo que não denunciasse a própria passagem antes de chegar.
-
-Nenhum animal útil em Jesed tinha obrigação de ser bonito. O focinho era estreito, as orelhas curtas, e os olhos laterais pareciam sempre desconfiados. Mas um tsavor atravessava raiz, lama e trilha estreita sem reclamar mais do que o necessário. Rendar passou a mão pelo pescoço dele.
+Sua montaria o esperava presa a uma estaca de raiz seca, inquieta com o cheiro de sangue. O tsavor tinha dorso baixo e comprido, placas flexíveis sobre a pele escura, quatro patas finas e uma cauda longa para equilíbrio. Os Polar preferiam tarraks nas rotas largas; Rendar preferia um animal capaz de atravessar raiz, lama e trilha estreita sem denunciar a passagem. Passou a mão pelo pescoço dele.
 
 — Eu sei.
 
@@ -140,15 +128,13 @@ A aldeia Fendelar não apareceu de uma vez. Primeiro, Rendar viu sombra onde som
 
 Um rapaz magro surgiu entre duas copas, arco na mão. Ao reconhecer Rendar, fez o gesto do Olho da Fera com dois dedos: uma curva diante do rosto, depois um corte vertical no ar. Rendar respondeu do mesmo modo. Só então a escada baixou.
 
-Velarim ficava suspensa entre veyras antigas, nem alta demais para se denunciar contra o céu, nem baixa demais para oferecer o pescoço às feras do chão. As casas agarravam-se aos galhos flexíveis como ninhos teimosos; uma veyra boa vergava sob peso, mas raramente traía.
-
-Casas pequenas, camufladas por folhas, fibra escura e ramos de sombra-de-Velarim, agarravam-se aos galhos como ninhos de gente teimosa. Passagens estreitas ligavam uma plataforma à outra. Algumas eram verdadeiras. Outras, falsas. Quem pisasse sem saber cairia antes de gritar.
+Velarim ficava suspensa entre veyras antigas, alta o bastante para escapar das feras do chão e baixa o bastante para não se desenhar contra o céu. Casas pequenas, camufladas por folhas, fibra escura e ramos de sombra-de-Velarim, agarravam-se aos galhos. Passagens estreitas ligavam as plataformas; algumas eram falsas e terminavam em queda.
 
 Havia carne de bragor defumando em redes altas, escura e gordurosa. Parte seria guardada; o restante terminaria como bragor lento, cozido durante tantas horas que a carne deixava de resistir aos dentes. Crianças pequenas aprendiam a caminhar sem fazer madeira ranger. Uma mulher remendava cordas com tendão seco. Dois homens limpavam flechas em silêncio. Ninguém falava alto. Um nhorro de antenas remexia cascas sob uma plataforma e desapareceu ao sentir os passos. Em Velarim, até alegria tinha cuidado para não chamar coisa errada.
 
 Rendar deixou o tsavor num cercado oculto entre raízes e subiu. Avara Fendelar esperava-o na plataforma central.
 
-A Velha de Trilha era menor do que muitos, mas o espaço parecia ajustar-se a ela. Magra, pele marcada por picadas e cortes antigos, cabelo preso curto, olhos fundos demais para serem chamados de cansados. Trazia o bastão na mão direita, não como apoio, mas como extensão de julgamento. Com ele, testava lama, apontava erro e, quando necessário, batia em gente viva.
+A Velha de Trilha era pequena e magra, a pele marcada por picadas e cortes antigos, o cabelo preso curto. Carregava um bastão na mão direita, usado para testar lama, apontar erro e, quando necessário, bater em gente viva.
 
 Rendar pousou a carga diante dela.
 
@@ -200,7 +186,7 @@ Avara bateu o bastão uma vez na madeira.
 
 — É bom que seja assim. Se não tivessem fome, não precisariam de nós.
 
-O silêncio concordou. Ela caminhou até a beira da plataforma e olhou para as copas fechadas. Lá embaixo, a floresta já se tornava escura, e um grito de grivarra atravessou as copas antes de receber respostas mais distantes. Velarim inteira parecia prender a respiração com ela, como uma mornalva imóvel sobre um galho antes de se deixar cair sobre a presa.
+Ela caminhou até a beira da plataforma e olhou para as copas fechadas. Lá embaixo, a floresta escurecia, e um grito de grivarra recebeu respostas distantes.
 
 — O negócio com os Buldar também falhou — disse Avara. — Mandaram metade do grão e juraram que o resto apodreceu antes da colheita.
 
@@ -290,7 +276,7 @@ Vita não disse nada.
 
 Jantaram quando a última luz natural ainda se agarrava às copas. A comida era simples: carne fina cozida com raiz amarga, um pouco de caldo escuro e folhas macias que Vita insistia que davam força, embora Nara dissesse que davam tristeza à boca. Comeram sentados próximos, em círculo baixo, como era costume. Nada de conversa grande durante a primeira parte da refeição.
 
-Entre os Fendelar, a janta merecia respeito. Não por rito bonito. Por memória. Muita gente havia morrido sem voltar para comer.
+Entre os Fendelar, a janta merecia respeito. Muita gente havia saído para a mata e não voltado para comer.
 
 Nara mastigava devagar, tentando parecer adulta, mas o sorriso escapava sempre que encontrava um pedaço maior de carne. Rendar fingia não notar. Vita notava tudo. Ilo dormia de novo, embalado numa faixa presa perto da mãe. O silêncio da casa não era vazio. Era abrigo.
 
@@ -326,7 +312,7 @@ Nara virou-se para Vita com uma súplica inteira no rosto. Vita suspirou como qu
 
 Nara obedeceu com reclamações pequenas, que continuaram mesmo enquanto Vita a levava para a parte de dormir. Rendar ficou com Ilo por mais alguns instantes, balançando o bebê com uma mão e segurando a tigela vazia com a outra. Quando as crianças finalmente dormiram, Velarim começou a apagar. Uma luz por vez.
 
-Não havia chama acesa durante a noite, salvo em buracos fundos e protegidos. Luz chamava olhos. Olhos chamava morte.
+À noite, chamas só permaneciam acesas em buracos fundos e protegidos. Luz atraía olhos.
 
 As casas foram mergulhando em sombra. As plataformas desapareceram entre folhas. A aldeia tornou-se aquilo que sempre quis parecer: ausência.
 
@@ -464,11 +450,7 @@ Ninguém riu. Uma voz veio da direita, áspera:
 
 Veyr virou o rosto na direção da voz.
 
-— Minha missão era entregar essa mensagem. Podem me matar se quiserem.
-
-Só isso. Depois acrescentou:
-
-— Entretanto se em três dias eu não aparecer, a minha ausência será lida como resposta negativa. E não só isso… vocês terão sangrado Kaendar. E a menos que suicídio esteja na cultura de vocês, um clã pequenino ter os Polar como inimigos não me parece sensato. Vocês tem sete dias.
+— Minha missão era entregar essa mensagem. Podem me matar se quiserem. Se eu não voltar, Kaendar entenderá a resposta. Vocês têm sete dias.
 
 O silêncio ficou mais frio. Avara deu um passo.
 
@@ -480,7 +462,7 @@ O silêncio ficou mais frio. Avara deu um passo.
 
 Veyr enrolou o estandarte devagar, sem pressa.
 
-— Sempre há a opção. Mas se recusar, Kaendar deixará de perguntar. E vocês estarão desprotegidos. Pensem bem, quase todos os clãs que vivem nos arredores do Rio Grande já aceitaram a sombra Polar. Nenhum deles se ataca entre si. Mas os que estão fora… não há garantia. Pode ser que na próxima semana mesmo, clãs menores desejem suas terras, matem suas crianças e roubem sua carne… tudo por conta de uma escolha.
+— Sempre há a opção. Mas, se recusarem, Kaendar deixa de perguntar. Quase todos os clãs ao redor do Rio Grande já aceitaram nossa sombra. Os que ficam fora não têm garantia nenhuma.
 
 O som de folhas distantes pareceu alto demais. Avara afastou-se meio passo.
 
@@ -498,4 +480,4 @@ Veyr olhou para a mata à frente. Mas ignorou o aviso e seguiu. Nenhum Fendelar 
 
 — Sete dias — disse ela.
 
-Rendar olhou para a floresta. Depois para a direção invisível de Velarim. Eles tinham sete dias para decidir se abaixariam a cabeça aos Polar ou se levantariam as lanças contra todos os outros clãs.
+Rendar olhou para a floresta, depois para a direção invisível de Velarim.

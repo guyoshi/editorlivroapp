@@ -90,7 +90,7 @@ A mulher tocou dois dedos na testa e depois no peito. Em seguida segurou o punho
 
 Um homem veio atrás dela, mais lento, e pareceu envelhecer em três passos. Olhou, entendeu sem precisar tocar e não caiu. Ficou apenas em pé, o olhar vazio, incapaz de escolher o próximo movimento.
 
-Outras pessoas se aproximaram. Uma irmã. Um tio. Dois amigos. Gente que reconheceu cicatriz, reconheceu dente quebrado, reconheceu a faca que ele mesmo tinha entalhado, reconheceu o nó errado na linha do punho porque só família repara nesse tipo de erro. Kaelina permaneceu na muralha.
+Outras pessoas se aproximaram. Uma irmã. Um tio. Dois amigos. Gente que reconheceu cicatriz, dente quebrado, a faca entalhada por ele mesmo e o nó errado na linha do punho.
 
 Kaelina permaneceu na muralha enquanto a mulher abraçava o corpo do filho. A discussão no salão encolheu diante daquela cena. Eram dois garotos mortos, e um deles ainda estava preso aos braços da mãe.
 
