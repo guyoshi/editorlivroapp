@@ -70,14 +70,14 @@
       "title": "Nadirion",
       "text": "content/ruinas-dos-ceus/capitulos/10 - Capítulo 10 - Nadirion.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 10 - Nadirion.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-10-11-populous.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulo-10-nadirion.mp3"
     },
     {
       "n": 11,
       "title": "Sobrevivência na Superfície",
       "text": "content/ruinas-dos-ceus/capitulos/11 - Capítulo 11 - Sobrevivência na Superfície.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 11 - Sobrevivência na Superfície.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-10-11-populous.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulo-11.mp3"
     },
     {
       "n": 12,
@@ -98,49 +98,49 @@
       "title": "Reencontro",
       "text": "content/ruinas-dos-ceus/capitulos/14 - Capítulo 14 - Reencontro.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 14 - Reencontro.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-12-24-soul-serenity.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulos-14-15.mp3"
     },
     {
       "n": 15,
       "title": "A Ecoante e as Aranitas",
       "text": "content/ruinas-dos-ceus/capitulos/15 - Capítulo 15 - A Ecoante e as Aranitas.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 15 - A Ecoante e as Aranitas.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-12-24-soul-serenity.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulos-14-15.mp3"
     },
     {
       "n": 16,
       "title": "As Sombras nas Árvores",
       "text": "content/ruinas-dos-ceus/capitulos/16 - Capítulo 16 - As Sombras nas Árvores.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 16 - As Sombras nas Árvores.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-12-24-soul-serenity.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulos-16-24-natureza-suave.mp3"
     },
     {
       "n": 17,
       "title": "Polar",
       "text": "content/ruinas-dos-ceus/capitulos/17 - Capítulo 17 - Polar.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 17 - Polar.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-12-24-soul-serenity.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulos-16-24-natureza-suave.mp3"
     },
     {
       "n": 18,
       "title": "Pai e Filha",
       "text": "content/ruinas-dos-ceus/capitulos/18 - Capítulo 18 - Pai e Filha.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 18 - Pai e Filha.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-12-24-soul-serenity.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulo-18.mp3"
     },
     {
       "n": 19,
       "title": "Ataque da Besta",
       "text": "content/ruinas-dos-ceus/capitulos/19 - Capítulo 19 - Ataque da Besta.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 19 - Ataque da Besta.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-12-24-soul-serenity.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulos-16-24-natureza-suave.mp3"
     },
     {
       "n": 20,
       "title": "Ruínas dos Céus",
       "text": "content/ruinas-dos-ceus/capitulos/20 - Capítulo 20 - Ruínas dos Céus.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 20 - Ruínas dos Céus.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-12-24-soul-serenity.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulos-16-24-natureza-suave.mp3"
     },
     {
       "n": 21,
@@ -154,21 +154,21 @@
       "title": "O Exilado",
       "text": "content/ruinas-dos-ceus/capitulos/22 - Capítulo 22 - O Exilado.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 22 - A Lei do Peso.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-12-24-soul-serenity.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulos-16-24-natureza-suave.mp3"
     },
     {
       "n": 23,
       "title": "O Peso da Verdade",
       "text": "content/ruinas-dos-ceus/capitulos/23 - Capítulo 23 - O Peso da Verdade.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 23 - O Peso da Verdade.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-12-24-soul-serenity.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulos-16-24-natureza-suave.mp3"
     },
     {
       "n": 24,
       "title": "O Sopro de Nestira",
       "text": "content/ruinas-dos-ceus/capitulos/24 - Capítulo 24 - O Sopro de Nestira.md",
       "audio": "content/ruinas-dos-ceus/audio/Ruínas dos Céus - Capítulo 24 - O Sopro de Nestira.mp3",
-      "ambient": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/ambient/capitulos-12-24-soul-serenity.mp3"
+      "ambient": "content/ruinas-dos-ceus/ambient/capitulos-16-24-natureza-suave.mp3"
     },
     {
       "n": 25,
