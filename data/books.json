@@ -18,6 +18,13 @@
       "subtitle": "Ciclo de Jesed — Livro 3",
       "manifest": "data/dinastia-polar.json",
       "signupAvailable": false
+    },
+    {
+      "id": "herdeiros-das-cinzas",
+      "title": "Herdeiros das Cinzas",
+      "subtitle": "Ciclo de Jesed — Livro 4",
+      "manifest": "data/herdeiros-das-cinzas.json",
+      "signupAvailable": false
     }
   ]
 }
