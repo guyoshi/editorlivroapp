@@ -128,7 +128,7 @@ Kaelina levou a mão ao ferimento e caiu de joelhos. A dor tomou tudo. Por um mo
 
 Nynestra podia matá-la. Ali. Naquele instante. Antes que alguém subisse. Antes que Kharvok decidisse. Antes que o plano se tornasse plano.
 
-Kaelina não desviou. Talvez por orgulho, talvez porque qualquer movimento brusco fizesse a faca vir, talvez porque, pela primeira vez, compreendesse que confiar numa inimiga não era uma ideia nobre. Era apenas entregar a garganta e esperar que a utilidade vencesse o ódio. Nynestra olhou para o sangue. Depois para o povo.
+Kaelina não desviou. Nynestra olhou para o sangue. Depois para o povo.
 
 — Ela sangra — disse.
 

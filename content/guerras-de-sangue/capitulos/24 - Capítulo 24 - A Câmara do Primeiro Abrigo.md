@@ -308,7 +308,7 @@ Talvez porque precisasse fazer alguma coisa com as mãos antes que a memória da
 
 Alguns com a garganta cortada. Outros com marcas de queimadura pequenas, circulares, como se uma ponta quente tivesse entrado no corpo antes do golpe final. Um deles ainda tinha a boca aberta, os dentes manchados de sangue escuro. Outro trazia corda Glydar enrolada no pescoço.
 
-Daryon afastou outro pano e viu o anel.Ferro escuro. Três cortes. Raiz interna. O corpo estava queimado de um lado, com a pele presa ao couro endurecido e a mão direita contraída como se ainda tentasse segurar a espada. O rosto, embora deformado pelo fogo e pela água, mantinha o suficiente da arrogância morta para ser reconhecido.
+Daryon afastou outro pano e viu o anel. Ferro escuro. Três cortes. Raiz interna. O corpo estava queimado de um lado, com a pele presa ao couro endurecido e a mão direita contraída como se ainda tentasse segurar a espada. O rosto, embora deformado pelo fogo e pela água, mantinha o suficiente da arrogância morta para ser reconhecido.
 
 Nalia cobriu a boca com uma das mãos. Alyra olhou para o morto sem piscar.
 
@@ -424,7 +424,7 @@ Os homens se entreolharam.
 
 — A cidade está sob cerco, minha soberana.
 
-Alyra ficou quieta. Alyra recebeu a notícia como insulto, mais do que surpresa.
+Alyra ficou quieta. Recebeu a notícia como insulto, mais do que surpresa.
 
 — Por quem?
 
