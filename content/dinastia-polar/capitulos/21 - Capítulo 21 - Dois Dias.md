@@ -504,12 +504,6 @@ Selina segurou o próprio tom, sem suavizar o que vinha a seguir.
 
 — Tenho dois dias. Depois disso, qualquer coisa que eu descubra pode chegar tarde demais.
 
-Uma última pausa.
-
-— Não vou perguntar outra vez.
-
-E então:
-
-— Onde está a caixa?
+— Não vou perguntar outra vez. Onde está a caixa?
 
 Elis olhou para Selina, e não respondeu.

@@ -272,5 +272,3 @@ Pensou em Kalan, que nunca veria aquele resultado, e em Elis, que o empurrara de
 Só a ausência de Selina continuava sem caber na vitória. O lugar reservado a ela permanecia vazio, e as últimas palavras de Orven agora giravam junto dessa ausência. Dareth não tinha força para resolver nenhuma das duas coisas no centro da arena. Resolveria quando conseguisse sair dali.
 
 Alguém lhe devolveu a espada, ou talvez ele mesmo a tenha encontrado na areia; já não sabia. Segurou o cabo, olhou uma última vez para os mortos, para os estandartes e para a multidão, e ergueu a arma. O setor Polar respondeu primeiro. Logo o nome atravessou as arquibancadas, misturado aos gritos de Quatro-Dedos, ao choro dos que tinham perdido seus campeões e ao fogo que ainda ardia em partes da arena.
-
-A última imagem daquela noite ficaria assim: Orven e Khalir mortos na areia, dez estandartes lado a lado no alto, Dareth coberto de sangue e exausto até os ossos, a espada erguida contra o céu escuro, enquanto milhares de vozes repetiam por cima de tudo: POLAR.

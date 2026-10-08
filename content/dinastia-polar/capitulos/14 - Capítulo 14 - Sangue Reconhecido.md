@@ -346,4 +346,4 @@ Selina assentiu.
 
 Alguma coisa que quase era um sorriso passou pelo rosto de Kalan, o primeiro sinal de leveza desde que Selina entrara ali, e desapareceu quase tão rápido quanto tinha chegado.
 
-Selina saiu do Santuário com duas tarefas claras organizadas na cabeça, uma sobre a outra, do jeito que sempre organizava qualquer problema antes de agir sobre ele: encontrar Elis, e descobrir onde a caixa estava escondida. Atrás delas, mais fundo, ficou uma pergunta que ainda não estava pronta para investigar, e que por enquanto deixaria exatamente onde estava, guardada, esperando o momento em que valesse a pena puxar o fio: por que Alveris precisava tanto que as cargas da Balança Azul deixassem de ser verificadas.
+Selina saiu do Santuário decidida a encontrar Elis e descobrir onde a caixa estava escondida. Só depois investigaria por que Alveris insistia tanto em deixar as cargas da Balança Azul sem fiscalização.

@@ -670,8 +670,6 @@ Ele virou a cabeça.
 
 — Ka-an! — gritou Orel de novo, de trás das cordas, a voz quebrando no meio do nome.
 
-Kalan olhou para os dois: para Elis, livre, andando em direção a ele; para Orel, ainda contido, mas gritando de qualquer forma. Não disse nada grandioso. Apenas moveu os lábios, baixo, alguma coisa que talvez fosse só o nome dela, ou talvez fosse a mesma promessa que sempre fazia sem nunca precisar das palavras certas para isso.
+Kalan olhou para os dois: para Elis, livre, andando em direção a ele; para Orel, ainda contido, mas gritando de qualquer forma. Moveu os lábios, mas ninguém ouviu o que disse.
 
 Os guardas continuaram andando. Elis podia segui-lo agora. Nada a impedia. Kalan não podia voltar com ela.
-
-Foi essa imagem, a garota livre correndo atrás do irmão que continuava preso, que ficou gravada nos olhos de Selina muito depois de o portão se fechar atrás dele.

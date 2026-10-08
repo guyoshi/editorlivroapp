@@ -243,5 +243,3 @@ Recuou, devagar, até perto de uma das portas laterais. Pelo vão, viu as lampar
 
 Então percebeu que todos os que restavam de pé estavam olhando de volta para ele.
 Ninguém gritava agora. Dareth era o campeão da Dinastia Polar, mas o título, que poucos dias antes parecera grande o bastante para preencher uma arena inteira, cabia naquele salão de um jeito muito diferente. Vetarius, Amaric, o Sumo Vigia, Alveris e parte do governo estavam no chão; os representantes que continuavam de pé permaneciam junto às paredes, em silêncio, observando-o.
-
-Dareth percebeu então o peso simples daquela posição: entre todos os Polar importantes reunidos ali para celebrar a vitória, era ele quem ainda estava de pé quando os outros começaram a se mover.

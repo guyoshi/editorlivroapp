@@ -414,7 +414,7 @@ Nenhuma resposta.
 
 Dareth parou.
 
-Dareth não gritou nem levantou a mão. Apenas sustentou o olhar. Caeren desviou o próprio antes que ele dissesse qualquer coisa.
+Dareth sustentou o olhar até Caeren desviar o próprio.
 
 — Não — Dareth disse.
 
