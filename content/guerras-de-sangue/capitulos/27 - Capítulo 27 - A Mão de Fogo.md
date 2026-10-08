@@ -548,4 +548,4 @@ O tubo de fogo permanecia ali, preso a partes cortadas do arreio. Uma chama pequ
 
 — Não toque nisso — disse Iressa.
 
-Alyra se abaixou. Pegou o mecanismo pela parte revestida de couro. O peso surpreendeu, mas não o bastante para fazê-la soltar. Ela ergueu o tubo diante dos olhos, observando as hastes, as tiras rompidas e a abertura escura por onde o fogo havia saído. Lá embaixo, Kaendar continuava ardendo. Alyra apertou a arma de Tavra entre os dedos.
+Alyra agachou-se e segurou o mecanismo pela parte revestida de couro. O peso surpreendeu, mas não o bastante para fazê-la soltar. Ela ergueu o tubo diante dos olhos, observando as hastes, as tiras rompidas e a abertura escura por onde o fogo havia saído. Lá embaixo, Kaendar continuava ardendo. Alyra apertou a arma de Tavra entre os dedos.

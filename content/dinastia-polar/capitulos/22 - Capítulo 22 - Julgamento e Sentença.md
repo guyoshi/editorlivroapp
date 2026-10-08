@@ -600,8 +600,6 @@ Olhou então diretamente para a mesa alta.
 
 — Mas Tair não sabia o que eu ia fazer. Orel não sabia. Elis não sabia. Karesis não sabia. Se alguém precisa responder por isso, sou eu. Só eu.
 
-Não era um discurso. Não tinha a cadência de quem aprendera a falar para multidões. Era a voz cansada de um rapaz de dezessete ciclos tentando, até o último momento em que teria voz, proteger todo mundo ao redor, inclusive das próprias consequências dos atos dele.
-
 *
 
 Teral se levantou.

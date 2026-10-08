@@ -286,8 +286,6 @@ Nynestra olhou para ele.
 
 — Qual a proposta dos Urtistar?
 
-Uma sombra curta passou pelo rosto de Kahul. Talvez interesse. Talvez desprezo.
-
 — Passagens controladas por Kaendar reduzem preço. Rotas Polar crescem como raiz dentro de pedra alheia. Se a Dinastia decidir que toda escolta deve ter selo dela, nossa lâmina vira ferramenta deles. Urtistar não nasceu para guardar caminho com permissão de soberana.
 
 — Então queremos a mesma coisa — disse ela.
@@ -344,9 +342,7 @@ Só então veio um assobio curto da frente.
 
 Todos baixaram. Por entre a garoa e as árvores, na curva superior do caminho da garganta, apareceu um homem conduzindo dois tarraks pequenos. Atrás deles vinham duas carroças baixas, cobertas por lona escura e pesadas demais para parecer vazias. O homem usava manto comprido, capuz puxado e caminhava curvado contra a chuva.
 
-Torgun ergueu dois dedos. Os Tondrar se separaram. Os Buldar avançaram pela esquerda. Os Glydar pela direita. Os Urtistar moveram-se com precisão silenciosa. O homem viu movimento e parou.
-
-O homem soltou as rédeas e correu para a névoa entre as pedras.
+Torgun ergueu dois dedos. Os Tondrar se separaram. Os Buldar avançaram pela esquerda. Os Glydar pela direita. Os Urtistar moveram-se com precisão silenciosa. Ao perceber movimento entre as árvores, o condutor parou, soltou as rédeas e correu para a névoa entre as pedras.
 
 — Vivo! — sussurrou Nynestra, alto o bastante para os seus.
 
@@ -405,11 +401,9 @@ A voz dele rasgou a tempestade. Nynestra quase caiu.
 
 — KHAR-TONDR!
 
-Uma lâmina veio girando da chuva. Uma faca pesada e larga cortou a chuva, arremessada com força brutal. Acertou a lateral da cabeça de Torgun. O som foi pequeno demais. Torgun parou.
+Uma faca pesada veio girando da chuva e acertou a lateral da cabeça de Torgun. O som foi pequeno demais. Torgun parou. Ainda ficou de pé por um instante, olhos abertos e boca tentando formar uma palavra. Então caiu no barro. Atrás deles, os perseguidores pararam.
 
-Torgun ainda ficou de pé por um instante, olhos abertos e boca tentando formar uma palavra. Então caiu no barro. Atrás deles, os perseguidores pararam.
-
-Sombras Urtistar apareceram entre as pedras. Ao ouvirem madeira, metal e um tambor de alerta na Boca Seca, recuaram antes de transformar a perseguição em invasão.
+Sombras Urtistar apareceram entre as pedras e recuaram ao ouvir o tambor de alerta da Boca Seca.
 
 Nynestra tentou chegar até Torgun, mas a coxa ferida falhou e ela caiu de joelhos ao lado dele.
 
