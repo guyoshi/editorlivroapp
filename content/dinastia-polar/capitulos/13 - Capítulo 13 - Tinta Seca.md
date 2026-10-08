@@ -90,7 +90,7 @@ Depois disso, Hadris explicou o resto sem nenhum calor na voz, como quem lê um 
 
 A agressão original, disse, era pequena comparada ao que existia agora. Mesmo que Orel tivesse sido considerado culpado de atacar os quatro jovens, a punição provável seria administrável: uma multa, alguma forma de compensação, talvez uma reprimenda formal registrada contra a casa inteira. Nada que Maruva não tivesse sobrevivido antes.
 
-Mas então os registros da Casa da Permanência tinham desaparecido, e isso mudava tudo. Agora existia furto. Existia retirada indevida de documentos de uma instituição da Raiz. Existia ocultação. Existia mentira sustentada durante uma investigação em curso. E existia, sobretudo, o desaparecimento continuado da caixa, que ninguém, apesar de tudo que já tinha acontecido, conseguira ainda localizar.
+Com o desaparecimento dos registros da Casa da Permanência, a investigação passou a envolver furto, retirada indevida de documentos da Raiz, ocultação e mentira durante o inquérito. Apesar de tudo, ninguém conseguira localizar a caixa.
 
 — Enquanto ninguém assumir o que de fato ocorreu, a residência inteira permanece sob suspeita — disse Hadris, fechando o registro com um gesto seco. — Inclusive sua irmã.
 

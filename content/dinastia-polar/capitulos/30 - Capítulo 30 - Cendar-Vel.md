@@ -117,7 +117,7 @@ Para muitos Cendar, aquilo continuava sendo uma ofensa histórica, não porque d
 Selina guardou também aquela explicação, sem saber ainda o quanto precisaria dela.
 Mavira da Casa Vel os recebeu pouco depois, e sua presença contrastou de imediato com a de Vetarius.
 
-Onde ele ocupava espaço, ela controlava passagem. Não precisava impressionar ninguém: a cidade inteira atrás dela já fazia isso por conta própria. Um homem de meia-idade a acompanhava a um passo de distância, carregando os próprios registros da recepção; foi ele quem organizou os assentos e conferiu os nomes da comitiva antes de se retirar para o fundo da sala, sem que Mavira precisasse pedir nada em voz alta.
+Um homem de meia-idade a acompanhava a um passo de distância, carregando os próprios registros da recepção; foi ele quem organizou os assentos e conferiu os nomes da comitiva antes de se retirar para o fundo da sala, sem que Mavira precisasse pedir nada em voz alta.
 
 Vetarius comentou, em algum momento da recepção formal, sobre como Cendar-Vel tinha crescido desde a última vez que ouvira falar dela.
 

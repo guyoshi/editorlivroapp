@@ -354,4 +354,4 @@ Caeren não ria mais.
 
 Caeren sentiu o peso da frase, isso era visível no rosto dele, ainda que talvez não fosse o bastante para impedi-lo de repetir a brincadeira mais alguma vez, com outra vítima, noutro corredor.
 
-Dareth se afastou pelo corredor sem olhar para trás. Selina também começou a se afastar. Kerath permaneceu mais um instante diante de Caeren, olhando para ele sem dizer nada, antes de seguir os dois. Atrás dela, o garoto já não ria.
+Dareth e Selina se afastaram pelo corredor. Kerath encarou Caeren por mais um instante antes de segui-los. O garoto já não ria.

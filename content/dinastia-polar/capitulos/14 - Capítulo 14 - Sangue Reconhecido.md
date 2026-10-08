@@ -160,7 +160,7 @@ Caeren assentiu, ainda sem dizer nada, e Vetarius saiu da sala sem saber ao cert
 
 Selina estava revisando um mapa de rotas cerimoniais que já não serviam para nada, agora que o Erguimento tinha passado, quando um funcionário anunciou que o campeão Polar pedia para falar com ela.
 
-Não era um nome que esperava ouvir associado a um pedido de audiência. Recebeu-o mesmo assim, numa sala pequena reservada a reuniões que não precisavam de cerimônia, e Dareth entrou com o tipo de passo que já tinha visto em poucos homens além dele: o de alguém completamente indiferente ao efeito que a própria presença causava num espaço, o que, paradoxalmente, tornava o efeito ainda maior.
+Selina não esperava um pedido de audiência de Dareth. Recebeu-o numa sala pequena de reuniões. Ele entrou indiferente ao efeito da própria presença, o que apenas tornava mais difícil ignorá-lo.
 
 — Prometi a uma garota que ia descobrir o que aconteceu com o irmão dela — disse Dareth, sem preâmbulo, do mesmo jeito direto que Selina já esperava dele depois de ouvir os relatos do dia anterior. — Nular. Preso pelo Culto há mais de uma semana, junto com dois amigos, por causa de registros desaparecidos de uma Casa da Permanência.
 

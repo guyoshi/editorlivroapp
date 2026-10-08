@@ -359,7 +359,7 @@ Outra voz seguiu a primeira. Depois outra. E então explodiu, sem nenhuma coorde
 
 — QUATRO-DEDOS!
 
-Não era mais protocolo. Não era o grito ensaiado que a Cidade Interna repetira horas antes. Aquela gente tinha acabado de vê-lo escolher alguém, e escolhera, por conta própria, também escolher ele.
+Desta vez, o nome de Dareth se espalhou pela multidão sem que ninguém precisasse conduzir o coro.
 
 Dareth seguiu de novo pelo caminho, mas havia uma diferença que sentiu no pescoço antes de conseguir nomeá-la: não baixou mais a cabeça. Olhou para as pessoas. Olhou para Maruva, para as janelas apertadas, para os trabalhadores que tinham interrompido o dia só para vê-lo passar, para todos aqueles que Kaeliran preferia não mostrar quando queria parecer grandiosa. Pela primeira vez desde que a cerimônia começara, viu de verdade a cidade que gritava seu nome.
 

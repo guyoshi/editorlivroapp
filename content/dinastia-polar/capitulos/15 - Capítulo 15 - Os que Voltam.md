@@ -116,7 +116,7 @@ Elis não disse nada. Sentiu Orel apertar um pouco mais o abraço, como se senti
 
 — Foi por isso que o Kalan foi verificar — continuou Tair, e agora as palavras vinham mais rápido, como se, uma vez abertas, não conseguisse mais fechar a porta. — Foi porque eu disse que tinha certeza que ele foi lá antes dos guardas. E foi o que ele encontrou lá que fez ele roubar a caixa. — Olhou para Elis, os olhos vermelhos, e disse a última parte tão baixo que ela quase não ouviu: — Ele foi lá porque eu disse que tinha certeza.
 
-Não era, objetivamente, culpa de Tair. Elis sabia disso, sabia que ele não tinha inventado nada por maldade, que confundir dependência com pertencimento era o tipo de erro que qualquer pessoa cansada e apressada podia cometer numa noite daquelas. Mas via, no jeito como ele sentava curvado sobre a própria culpa, que não era assim que ele ia carregar aquilo, não por muito tempo.
+Elis sabia que Tair não inventara nada por maldade; confundira dependência com pertencimento numa noite caótica. Mesmo assim, ele permanecia curvado sob a culpa, incapaz de aceitar a distinção.
 
 Elis já sabia que Darven era Polar. Tinha lido aquilo com os próprios olhos, dias antes, na mesma caixa que ninguém mais conseguia encontrar. Podia dizer isso a Tair agora, talvez até aliviasse um pouco o peso, saber que a confirmação já existia em algum lugar, fora do erro dele. Chegou a abrir a boca, sentindo as palavras se formarem, algo como eu sei, eu vi os papéis, mas parou antes que qualquer som saísse, porque dizer aquilo significava explicar de onde vinha aquele conhecimento, e explicar de onde vinha significava abrir mão do único segredo que ainda controlava sozinha.
 
