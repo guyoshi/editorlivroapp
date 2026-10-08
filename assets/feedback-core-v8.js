@@ -8,7 +8,7 @@ const Comments = (() => {
   const ADMIN_COLLECTION="admins";
   const OWNER_ADMIN_UID="KfNaJsvIUMgpsPMPYRQ6017T1Ct2";
   const ANNOUNCE_COLLECTION="announcements";
-  const EMOJIS=["😍","😂","😱","😢","🤔"];
+  const EMOJIS=["😍","😂","😱","😢","🤔","😡"];
   let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false, readerResetting=false;
   const cCache={}, rCache={};
 
