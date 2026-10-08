@@ -2403,3 +2403,9 @@ body.focus-mode .para-block > .reaction-summary{ display:none !important; }
   margin-top:14px;
   justify-content:flex-end;
 }
+
+
+.profile-action-stack[hidden],
+.profile-author-section[hidden]{
+  display:none !important;
+}
