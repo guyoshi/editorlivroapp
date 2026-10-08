@@ -3,6 +3,9 @@
   let all=[], unsub=null, open=false, lastItems=[];
   let knownNewIds=null;
   let exiladoReactionCleanupRunning=false,exiladoReactionCleanupDone=false;
+  const RUINAS_REORDER_MIGRATION="ruinas-20-22-20261008-v1";
+  const RUINAS_REORDER_CUTOFF=1791470872310;
+  let ruinasReorderMigrationRunning=false,ruinasReorderMigrationDone=false;
   let notifyAudioCtx=null;
 
   function playNewCommentSound(){
@@ -284,14 +287,142 @@
     setTimeout(()=>{ta.focus();ta.setSelectionRange(ta.value.length,ta.value.length);},0);
   }
 
+
+  function ruinasReorderTarget(ch,idx){
+    const c=Number(ch),i=Number(idx);
+    if(!Number.isFinite(i))return null;
+    if(c===20){
+      if(i>=0&&i<=52)return [20,i];
+      if(i===53)return [21,0];
+      if(i>=54&&i<=155)return [21,i-54];
+    }
+    if(c===21){
+      if(i>=0&&i<=128)return [22,i];
+      if(i>=129&&i<=141)return [20,53+(i-129)];
+      if(i>=142&&i<=163)return [22,127];
+      if(i>=164&&i<=177)return [20,66+(i-164)];
+      if(i>=178&&i<=180)return [22,130+(i-178)];
+      if(i===181)return [20,79];
+      if(i>=182&&i<=198)return [22,141];
+      if(i>=199&&i<=205)return [22,136+(i-199)];
+      if(i>=206&&i<=216)return [22,179];
+      if(i>=217&&i<=224)return [22,152];
+      if(i>=225&&i<=226)return [22,143+(i-225)];
+      if(i>=227&&i<=268)return [20,80+(i-227)];
+    }
+    if(c===22){
+      if(i>=0&&i<=207)return [20,122+i];
+      if(i>=208&&i<=239)return [20,331+(i-208)];
+      if(i===240)return [22,153];
+      if(i>=241&&i<=265)return [22,154+(i-241)];
+      if(i>=266&&i<=269)return [22,180+(i-266)];
+      if(i===270)return [23,1];
+    }
+    return null;
+  }
+
+  async function ruinasMigrationParagraphs(){
+    const files={
+      20:"content/ruinas-dos-ceus/capitulos/20 - Capítulo 20 - O Exilado.md",
+      21:"content/ruinas-dos-ceus/capitulos/21 - Capítulo 21 - Ruínas dos Céus.md",
+      22:"content/ruinas-dos-ceus/capitulos/22 - Capítulo 22 - A Âncora e o Sopro.md",
+      23:"content/ruinas-dos-ceus/capitulos/23 - Capítulo 23 - O Peso da Verdade.md"
+    };
+    const out={};
+    for(const [ch,path] of Object.entries(files)){
+      const res=await fetch(new URL(path,document.baseURI).href,{cache:"no-store"});
+      if(!res.ok)throw new Error("Não consegui carregar o capítulo "+ch+" para migrar o feedback.");
+      out[ch]=(await res.text()).replace(/\r\n/g,"\n").trim().split(/\n\s*\n+/).filter(Boolean);
+    }
+    return out;
+  }
+
+  async function migrateRuinasReorderFeedback(){
+    if(ruinasReorderMigrationDone||ruinasReorderMigrationRunning||!Comments?.isAdmin?.()||!db())return;
+    const localKey="lityra:migration:"+RUINAS_REORDER_MIGRATION;
+    if(localStorage.getItem(localKey)==="done"){ruinasReorderMigrationDone=true;return;}
+    ruinasReorderMigrationRunning=true;
+    try{
+      const [snap,targetParas]=await Promise.all([
+        db().collection("comments").where("bookId","==","ruinas-dos-ceus").get(),
+        ruinasMigrationParagraphs()
+      ]);
+      const changes=[],unmapped=[];
+      snap.forEach(doc=>{
+        const x={id:doc.id,...doc.data()};
+        if(x.layoutMigration===RUINAS_REORDER_MIGRATION)return;
+        const at=Number(x.at)||0;
+        if(at&&at>RUINAS_REORDER_CUTOFF)return;
+        const ch=Number(x.chapter);
+        if(ch<20||ch>22)return;
+        const target=ruinasReorderTarget(ch,x.paraIdx);
+        if(!target){unmapped.push({id:x.id,chapter:ch,paraIdx:x.paraIdx,kind:x.kind||"comment"});return;}
+        const [newCh,newIdx]=target;
+        const para=targetParas[String(newCh)]?.[newIdx];
+        if(typeof para!=="string"){unmapped.push({id:x.id,chapter:ch,paraIdx:x.paraIdx,target,kind:x.kind||"comment"});return;}
+        changes.push({
+          ref:doc.ref,
+          data:{
+            chapter:newCh,
+            paraIdx:newIdx,
+            paragraphKey:"p_"+Comments.hashText(para),
+            quote:norm(para).slice(0,220),
+            layoutMigration:RUINAS_REORDER_MIGRATION
+          }
+        });
+      });
+
+      for(let i=0;i<changes.length;i+=350){
+        const batch=db().batch();
+        changes.slice(i,i+350).forEach(x=>batch.set(x.ref,x.data,{merge:true}));
+        await batch.commit();
+      }
+
+      const verify=await db().collection("comments").where("bookId","==","ruinas-dos-ceus").get();
+      const remaining=[];
+      verify.forEach(doc=>{
+        const x=doc.data()||{},at=Number(x.at)||0,ch=Number(x.chapter);
+        if(ch>=20&&ch<=22&&(!at||at<=RUINAS_REORDER_CUTOFF)&&x.layoutMigration!==RUINAS_REORDER_MIGRATION){
+          remaining.push({id:doc.id,chapter:ch,paraIdx:x.paraIdx,kind:x.kind||"comment"});
+        }
+      });
+
+      const report={
+        id:RUINAS_REORDER_MIGRATION,
+        moved:changes.length,
+        unmapped,
+        remaining,
+        verifiedAt:Date.now()
+      };
+      window.__ruinasFeedbackMigrationReport=report;
+      localStorage.setItem("lityra:migration:report:"+RUINAS_REORDER_MIGRATION,JSON.stringify(report));
+      if(!unmapped.length&&!remaining.length){
+        localStorage.setItem(localKey,"done");
+        ruinasReorderMigrationDone=true;
+        console.info("Migração dos capítulos 20–22 concluída:",changes.length,"itens de feedback.");
+      }else{
+        console.warn("Migração dos capítulos 20–22 precisa de revisão:",report);
+      }
+    }catch(e){
+      console.warn("Não foi possível migrar automaticamente o feedback dos capítulos 20–22:",e);
+    }finally{
+      ruinasReorderMigrationRunning=false;
+    }
+  }
+
   async function cleanupExiladoOldReactions(){
     if(exiladoReactionCleanupDone||exiladoReactionCleanupRunning||!Comments?.isAdmin?.()||!db())return;
-    const targets=all.filter(x=>
-      x.kind==="reaction"
-      && x.bookId==="ruinas-dos-ceus"
-      && Number(x.chapter)===22
-      && (x.emoji==="😂"||x.emoji==="😍")
-    );
+    const targets=all.filter(x=>{
+      const at=Number(x.at)||0;
+      const oldEnough=!at||at<=RUINAS_REORDER_CUTOFF;
+      const oldLocation=Number(x.chapter)===22&&x.layoutMigration!==RUINAS_REORDER_MIGRATION;
+      const migratedLocation=Number(x.chapter)===20&&x.layoutMigration===RUINAS_REORDER_MIGRATION;
+      return x.kind==="reaction"
+        && x.bookId==="ruinas-dos-ceus"
+        && oldEnough
+        && (oldLocation||migratedLocation)
+        && (x.emoji==="😂"||x.emoji==="😍");
+    });
     if(!targets.length){exiladoReactionCleanupDone=true;return;}
     exiladoReactionCleanupRunning=true;
     try{
@@ -301,9 +432,9 @@
         await batch.commit();
       }
       exiladoReactionCleanupDone=true;
-      console.info("Reações 😂/😍 removidas de O Exilado:",targets.length);
+      console.info("Reações 😂/😍 antigas removidas de O Exilado:",targets.length);
     }catch(e){
-      console.warn("Não foi possível limpar as reações de O Exilado:",e);
+      console.warn("Não foi possível limpar as reações antigas de O Exilado:",e);
     }finally{
       exiladoReactionCleanupRunning=false;
     }
@@ -322,6 +453,7 @@
         if(hasFresh)playNewCommentSound();
       }
       knownNewIds=currentNew;
+      migrateRuinasReorderFeedback();
       cleanupExiladoOldReactions();
       badge();updateFeedbackHub();if(open)render();
       const reactionSheet=document.getElementById("reactionAdminSheet");if(reactionSheet&&!reactionSheet.hidden)renderReactions();
