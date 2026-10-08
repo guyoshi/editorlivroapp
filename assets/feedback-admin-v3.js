@@ -2,6 +2,9 @@
 (() => {
   let all=[], unsub=null, open=false, lastItems=[];
   let knownNewIds=null;
+  let betaFeedbackLiveRows=[],betaFeedbackUnsub=null,knownBetaVersions=null;
+  let pendingBetaChapterFocus=null;
+  const BETA_SEEN_KEY="lityra:admin:betaFeedbackSeen:v1";
   let exiladoReactionCleanupRunning=false,exiladoReactionCleanupDone=false;
   const RUINAS_REORDER_MIGRATION="ruinas-20-22-20261008-v1";
   const RUINAS_REORDER_CUTOFF=1791470872310;
@@ -76,6 +79,87 @@
   function find(id){return all.find(x=>x.id===id);}
   function db(){return window.Comments?.getDb?.();}
 
+  function readBetaSeen(){
+    try{return JSON.parse(localStorage.getItem(BETA_SEEN_KEY)||"{}")||{};}
+    catch(e){return {};}
+  }
+  function betaVersion(row){return Number(row?.updatedAt||row?.createdAt)||0;}
+  function betaFeedbackIsUnseen(row){
+    if(!row||row.type!=="chapter")return false;
+    const seen=readBetaSeen();
+    return betaVersion(row)>Number(seen[row.id]||0);
+  }
+  function betaUnreadRows(){
+    return betaFeedbackLiveRows.filter(betaFeedbackIsUnseen);
+  }
+  function markBetaRowsSeen(rows){
+    if(!rows?.length)return;
+    const seen=readBetaSeen();
+    rows.forEach(row=>{seen[row.id]=Math.max(Number(seen[row.id]||0),betaVersion(row));});
+    try{localStorage.setItem(BETA_SEEN_KEY,JSON.stringify(seen));}catch(e){}
+    badge();
+    updateFeedbackHub();
+    const betaSheet=document.getElementById("betaFeedbackAdminSheet");
+    if(betaSheet)renderBetaFeedbackAdmin();
+  }
+  function betaNotificationLabel(row){
+    const who=row?.name||"Leitor";
+    const where=row?.chapter?("Cap. "+row.chapter+(row.chapterTitle?" · "+row.chapterTitle:"")):"Avaliação beta";
+    return {title:"Novo feedback beta",body:who+" · "+where};
+  }
+  function showBetaFeedbackToast(row){
+    const info=betaNotificationLabel(row);
+    let el=document.getElementById("adminBetaFeedbackToast");
+    if(!el){
+      el=document.createElement("button");
+      el.id="adminBetaFeedbackToast";
+      el.className="admin-beta-toast";
+      el.type="button";
+      document.body.appendChild(el);
+    }
+    el.innerHTML='<strong>💬 '+esc(info.title)+'</strong><span>'+esc(info.body)+'</span>';
+    el.hidden=false;
+    clearTimeout(showBetaFeedbackToast.timer);
+    showBetaFeedbackToast.timer=setTimeout(()=>{el.hidden=true;},7000);
+    el.onclick=()=>{
+      el.hidden=true;
+      pendingBetaChapterFocus={bookId:row.bookId,chapter:Number(row.chapter)||0};
+      hideAdminHome();hideFeedbackHub();
+      showBetaFeedbackAdmin();
+    };
+    try{
+      if(document.visibilityState!=="visible"&&window.Notification?.permission==="granted"){
+        new Notification(info.title,{body:info.body});
+      }
+    }catch(e){}
+  }
+  function subscribeBetaFeedback(){
+    if(betaFeedbackUnsub||!Comments?.isAdmin?.()||!db())return;
+    betaFeedbackUnsub=db().collection("betaFeedback").onSnapshot(s=>{
+      const next=[];s.forEach(d=>next.push({id:d.id,...d.data()}));
+      betaFeedbackLiveRows=next;
+      const current=new Map(next.filter(x=>x.type==="chapter").map(x=>[x.id,betaVersion(x)]));
+      if(knownBetaVersions){
+        const fresh=next.filter(row=>{
+          if(row.type!=="chapter"||!betaFeedbackIsUnseen(row))return false;
+          const before=Number(knownBetaVersions.get(row.id)||0);
+          return betaVersion(row)>before;
+        }).sort((a,b)=>betaVersion(b)-betaVersion(a));
+        if(fresh.length){
+          playNewCommentSound();
+          showBetaFeedbackToast(fresh[0]);
+        }
+      }
+      knownBetaVersions=current;
+      badge();updateFeedbackHub();
+      const betaSheet=document.getElementById("betaFeedbackAdminSheet");
+      if(betaSheet&&!betaSheet.hidden){
+        betaFeedbackRows=next.slice();
+        renderBetaFeedbackAdmin();
+      }
+    },e=>console.warn("Não foi possível acompanhar avaliações beta:",e));
+  }
+
   function ensureButton(){
     const btn=document.getElementById("btnReaderHub");
     if(!btn)return null;
@@ -124,7 +208,7 @@
     const home=document.getElementById("authorAdminSheet");
     if(!home||home.hidden||!db())return;
     const set=(id,value)=>{const x=document.getElementById(id);if(x)x.textContent=String(value);};
-    set("adminHomeFeedbackStat",roots().filter(r=>!r.adminSeen).length);
+    set("adminHomeFeedbackStat",roots().filter(r=>!r.adminSeen).length+betaUnreadRows().length);
     try{
       const [profiles,presenceSnap,messageSnap]=await Promise.all([
         Comments.listReaderProfiles(),
@@ -152,7 +236,7 @@
       +'<div class="admin-home-grid">'
         +'<button id="feedbackHubComments" class="admin-home-card" type="button"><strong>Comentários e respostas</strong><span>Leia, responda, resolva e acompanhe edições dos leitores.</span><span id="feedbackHubNewCount" class="admin-new-count" hidden></span></button>'
         +'<button id="feedbackHubReactions" class="admin-home-card" type="button"><strong>Reações</strong><span>Veja o mapa emocional dos trechos e quem reagiu a cada passagem.</span></button>'
-        +'<button id="feedbackHubBeta" class="admin-home-card" type="button"><strong>Avaliações beta</strong><span>Capa, capítulos, opinião final e exportação estruturada para IA.</span></button>'
+        +'<button id="feedbackHubBeta" class="admin-home-card" type="button"><strong>Avaliações beta</strong><span>Capa, capítulos, opinião final e exportação estruturada para IA.</span><span id="feedbackHubBetaNewCount" class="admin-new-count" hidden></span></button>'
       +'</div></section>';
     document.body.appendChild(el);
     el.querySelector("#feedbackHubBack").onclick=()=>{hideFeedbackHub();showAdminHome();};
@@ -167,16 +251,19 @@
     const sheet=document.getElementById("feedbackHubSheet");
     if(!sheet)return;
     const comments=roots().length,reactions=reactionsAll().length,unseen=roots().filter(r=>!r.adminSeen).length;
+    const betaUnseen=betaUnreadRows().length;
     const c=sheet.querySelector("#feedbackHubCommentCount"),r=sheet.querySelector("#feedbackHubReactionCount"),b=sheet.querySelector("#feedbackHubNewCount");
+    const betaCount=sheet.querySelector("#feedbackHubBetaCount"),betaBadge=sheet.querySelector("#feedbackHubBetaNewCount");
     if(c)c.textContent=String(comments);
     if(r)r.textContent=String(reactions);
+    if(betaCount)betaCount.textContent=String(betaFeedbackLiveRows.length);
     if(b){b.hidden=!unseen;b.textContent=unseen>99?"99+":String(unseen);}
+    if(betaBadge){betaBadge.hidden=!betaUnseen;betaBadge.textContent=betaUnseen>99?"99+":String(betaUnseen);}
   }
   function showFeedbackHub(){
     if(!Comments?.isAdmin?.())return;
     ensureFeedbackHub();subscribe();
     const sheet=document.getElementById("feedbackHubSheet");sheet.hidden=false;updateFeedbackHub();
-    db()?.collection("betaFeedback").get().then(s=>{const x=document.getElementById("feedbackHubBetaCount");if(x)x.textContent=String(s.size);}).catch(()=>{});
   }
   function hideFeedbackHub(){const x=document.getElementById("feedbackHubSheet");if(x)x.hidden=true;}
 
@@ -441,6 +528,7 @@
   }
 
   function subscribe(){
+    subscribeBetaFeedback();
     if(unsub||!Comments?.isAdmin?.()||!db())return;
     unsub=db().collection("comments").onSnapshot(s=>{
       all=[];s.forEach(d=>all.push({id:d.id,...d.data()}));
@@ -459,9 +547,15 @@
       const reactionSheet=document.getElementById("reactionAdminSheet");if(reactionSheet&&!reactionSheet.hidden)renderReactions();
     });
   }
-  function stop(){unsub?.();unsub=null;all=[];knownNewIds=null;badge();}
+  function stop(){
+    unsub?.();unsub=null;all=[];knownNewIds=null;
+    betaFeedbackUnsub?.();betaFeedbackUnsub=null;betaFeedbackLiveRows=[];knownBetaVersions=null;
+    badge();
+  }
   function badge(){
-    const n=roots().filter(r=>!r.adminSeen).length;
+    const commentN=roots().filter(r=>!r.adminSeen).length;
+    const betaN=betaUnreadRows().length;
+    const n=commentN+betaN;
     const targets=[
       document.getElementById("adminHomeNewCount"),
       document.getElementById("feedbackHubNewCount"),
