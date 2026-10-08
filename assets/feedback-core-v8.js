@@ -1027,7 +1027,7 @@ const Comments = (() => {
       +'<div id="readerSwitchMainActions" class="profile-action-stack">'
       +'<button id="readerSwitchShowCode" class="profile-action-btn" type="button"><strong>Entrar com outro código</strong><span>Usar um perfil que já existe</span></button>'
       +'<button id="readerSwitchCreate" class="profile-action-btn" type="button"><strong>Criar novo perfil</strong><span>Criar outra identidade de leitor neste aparelho</span></button>'
-      +'<button id="readerSwitchLogout" class="profile-action-btn danger-soft" type="button"><strong>Sair deste perfil</strong><span>O perfil e o progresso continuam guardados pelo código</span></button>'
+      +'<button id="readerSwitchLogout" class="profile-action-btn danger-soft" type="button"><strong>Sair deste perfil</strong><span id="readerSwitchLogoutHint">O perfil e o progresso continuam guardados pelo código</span></button>'
       +'</div>'
       +'<div id="readerSwitchCodeBox" class="reader-code-login profile-inline-login" hidden>'
       +'<label class="field"><span>Código de acesso</span><input id="readerSwitchCode" type="text" inputmode="text" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="ex.: DE2E40" maxlength="24"></label>'
@@ -1037,11 +1037,6 @@ const Comments = (() => {
       +'<div id="readerSwitchAdminSection" class="profile-author-section">'
       +'<span>Acesso do autor</span>'
       +'<button id="readerSwitchAdmin" class="btn-ghost reader-switch-wide" type="button">Entrar como administrador</button>'
-      +'</div>'
-      +'<div id="readerSwitchAdminActions" class="profile-action-stack" hidden>'
-      +'<button id="readerSwitchAdminReader" class="profile-action-btn" type="button"><strong>Entrar como leitor</strong><span>Usar o código de um perfil de leitor</span></button>'
-      +'<button id="readerSwitchAdminCreate" class="profile-action-btn" type="button"><strong>Criar perfil de leitor</strong><span>Sair do administrador e criar um perfil novo</span></button>'
-      +'<button id="readerSwitchAdminLogout" class="profile-action-btn danger-soft" type="button"><strong>Sair do administrador</strong><span>Voltar ao perfil de leitor salvo neste aparelho</span></button>'
       +'</div>'
       +'<div class="sheet-actions profile-sheet-footer"><button id="readerSwitchCancel" class="btn-ghost" type="button">Fechar</button></div>'
       +'</div>';
@@ -1053,7 +1048,6 @@ const Comments = (() => {
     const codeBox=el.querySelector("#readerSwitchCodeBox");
     const mainActions=el.querySelector("#readerSwitchMainActions");
     const adminSection=el.querySelector("#readerSwitchAdminSection");
-    const adminActions=el.querySelector("#readerSwitchAdminActions");
 
     const clearStatus=()=>{
       if(input)input.value="";
@@ -1062,15 +1056,12 @@ const Comments = (() => {
     };
     const hideCode=()=>{
       if(codeBox)codeBox.hidden=true;
+      if(mainActions)mainActions.hidden=false;
+      if(adminSection)adminSection.hidden=admin();
       clearStatus();
-      const adminOn=admin();
-      if(mainActions)mainActions.hidden=adminOn;
-      if(adminActions)adminActions.hidden=!adminOn;
-      if(adminSection)adminSection.hidden=adminOn;
     };
     const showCode=()=>{
       if(mainActions)mainActions.hidden=true;
-      if(adminActions)adminActions.hidden=true;
       if(adminSection)adminSection.hidden=true;
       if(codeBox)codeBox.hidden=false;
       setTimeout(()=>input?.focus(),0);
@@ -1084,7 +1075,6 @@ const Comments = (() => {
     el.addEventListener("click",e=>{if(e.target===el)close();});
     el.querySelector("#readerSwitchCodeBack").addEventListener("click",hideCode);
     el.querySelector("#readerSwitchShowCode").addEventListener("click",showCode);
-    el.querySelector("#readerSwitchAdminReader").addEventListener("click",showCode);
 
     async function go(){
       const code=input.value.trim();
@@ -1112,29 +1102,25 @@ const Comments = (() => {
     submit.addEventListener("click",go);
     input.addEventListener("keydown",e=>{if(e.key==="Enter")go();});
 
-    const beginNewReader=async()=>{
+    el.querySelector("#readerSwitchCreate").addEventListener("click",async()=>{
       sessionStorage.setItem(PROFILE_FLOW_KEY,"create");
       if(admin()&&auth){
         try{await auth.signOut();adminUser=null;}catch(e){console.warn("Não foi possível sair do administrador:",e);}
       }
       clearReaderIdentity();
       location.reload();
-    };
-    el.querySelector("#readerSwitchCreate").addEventListener("click",beginNewReader);
-    el.querySelector("#readerSwitchAdminCreate").addEventListener("click",beginNewReader);
-
-    el.querySelector("#readerSwitchLogout").addEventListener("click",()=>{
-      clearReaderIdentity();
-      sessionStorage.removeItem(PROFILE_FLOW_KEY);
-      location.reload();
     });
 
-    el.querySelector("#readerSwitchAdminLogout").addEventListener("click",async()=>{
-      if(auth&&admin()){
-        await auth.signOut();
+    el.querySelector("#readerSwitchLogout").addEventListener("click",async()=>{
+      if(admin()){
+        if(auth){
+          try{await auth.signOut();}catch(e){console.warn("Não foi possível sair do administrador:",e);}
+        }
         adminUser=null;
+      }else{
+        clearReaderIdentity();
       }
-      close();
+      sessionStorage.removeItem(PROFILE_FLOW_KEY);
       location.reload();
     });
 
@@ -1161,22 +1147,22 @@ const Comments = (() => {
       const current=el.querySelector("#readerSwitchCurrent");
       const mainActions=el.querySelector("#readerSwitchMainActions");
       const adminSection=el.querySelector("#readerSwitchAdminSection");
-      const adminActions=el.querySelector("#readerSwitchAdminActions");
       const codeBox=el.querySelector("#readerSwitchCodeBox");
+      const logoutHint=el.querySelector("#readerSwitchLogoutHint");
       const adminOn=admin();
 
       if(codeBox)codeBox.hidden=true;
+      if(mainActions)mainActions.hidden=false;
+
       if(adminOn){
         current.innerHTML='<span>Perfil atual</span><strong>Administrador</strong><small>Autor</small>';
-        if(mainActions)mainActions.hidden=true;
+        if(logoutHint)logoutHint.textContent="Encerrar o modo administrador neste aparelho";
         if(adminSection)adminSection.hidden=true;
-        if(adminActions)adminActions.hidden=false;
       }else{
         const code=accessCode();
         current.innerHTML='<span>Perfil atual</span><strong>'+esc(name()||"Leitor")+'</strong>'+(code?'<small>Código '+esc(code)+'</small>':'');
-        if(mainActions)mainActions.hidden=false;
+        if(logoutHint)logoutHint.textContent="O perfil e o progresso continuam guardados pelo código";
         if(adminSection)adminSection.hidden=false;
-        if(adminActions)adminActions.hidden=true;
       }
 
       el.hidden=false;
