@@ -184,6 +184,6 @@ Kalan sentiu a mesma surpresa subir pela própria garganta, tão real quanto a d
 
 Kalan não respondeu, porque não tinha resposta, e porque a pergunta que realmente importava naquele momento já não cabia em palavras que pudesse dizer ali, diante de Hadris, diante dos guardas, diante de Tair paralisado perto da porta e de Orel encolhido junto à janela: se ele não tinha tocado naquela caixa desde a noite em que a escondera, e se ninguém além dele sabia que ela estava ali, então alguém tinha entrado naquela casa, encontrado o esconderijo que ele mesmo reforçara com as próprias mãos, e levado tudo embora sem que ninguém percebesse.
 
-E só então, com o compartimento vazio ainda aberto diante de todos, Kalan percebeu o que devia ter percebido antes, o que o medo e a pressa dos últimos minutos tinham empurrado para fora do lugar certo na sua cabeça.
+Kalan encarou o compartimento vazio.
 
 Elis não estava em casa.
