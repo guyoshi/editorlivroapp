@@ -256,7 +256,7 @@ Gabasteri ergueu os olhos.
 
 Nestira se deitou perto de Mariv. A marca no pescoço dele já escurecia. Jokara escolheu um canto mais afastado e fechou os olhos, mas demorou a conseguir descansar.
 
-Mais tarde, quando o acampamento tornou a silenciar, Jokara ainda estava acordada.
+Mais tarde, quando o acampamento tornou a silenciar, Nestira se sentou atrás da irmã.
 
 Nestira se aproximou sem dizer nada. Sentou-se atrás da irmã e, com delicadeza, passou os dedos pelos fios grossos e rebeldes, separando-os com calma. Foi ajeitando as pequenas tranças soltas, como fazia quando eram crianças nas manhãs de Etérea.
 
@@ -304,7 +304,7 @@ As duas sorriram. Só por alguns instantes.
 
 Nestira manteve a mão sobre a trança da irmã por um instante. Depois alisou os fios uma última vez, com o cuidado de quem se recusava a deixar tudo desaparecer.
 
-Perto das brasas, Mariv permanecia acordado. Passou o polegar devagar pela marca no pescoço e continuou olhando para as chamas.
+Do outro lado do fogo, Mariv permanecia acordado. Passou o polegar devagar pela marca no pescoço e continuou olhando para as chamas.
 
 — Eu lembrei.
 
@@ -356,7 +356,7 @@ Então pensou em Platisa, no zélon apertado contra o peito, no desconforto semp
 
 Jokara baixou os olhos para o fogo.
 
-Sem perceber, Jokara levou a mão ao tornozelo que já não existia. Por um instante, sentiu outra vez a pedra fria na palma e a seda leve dançando nos dedos.
+Jokara apoiou a mão no tornozelo que já não existia. Por um instante, sentiu outra vez a pedra fria na palma e a seda leve dançando nos dedos.
 
 Não sabia ainda o que estava procurando.
 
