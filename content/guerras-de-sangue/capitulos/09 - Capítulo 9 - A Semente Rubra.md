@@ -1,34 +1,26 @@
-O sangue caiu antes da palavra. Três gotas apenas.
-
-A primeira afundou depressa na terra escura, como se o campo a esperasse havia muitos ciclos. A segunda escorreu pela lateral de uma semente escura-avermelhada, manchando-lhe a casca fina com um vermelho vivo demais para aquela manhã seca. A terceira demorou-se na pele da mão aberta, tremendo no centro da palma cortada, presa por um instante entre ficar e partir. O jovem não chorou.
-
-Queria chorar. Isso estava no modo como apertava os dentes, no tremor que lhe subia pelo antebraço, na respiração curta tentando fingir que dor era coisa pequena. Mas não chorou. Buldar que chorava na Semente Rubra não era envergonhado por sentir dor. Era envergonhado por tentar escondê-la mal.
+O sangue caiu antes da palavra. Três gotas: uma na terra escura, outra sobre a semente avermelhada, a terceira no centro da palma cortada. O jovem apertou os dentes e não chorou.
 
 Ao redor dele, um dos campos baixos de Nynestra permanecia quieto, cercado por estacas baixas que mal impediam a entrada dos javalhos de espinho durante a noite. Um vintelo de campo correu entre duas fileiras secas e mergulhou numa toca rasa, assustado pelo movimento dos homens. Não era um campo bonito. Já fora.
 
-Ali, em estações generosas, o solo negro abria-se em fileiras largas, úmidas, onde o grão-de-caule crescia como pequenas lanças verdes, e raízes vermelhas empurravam a terra de baixo para cima, doces, densas, pesadas de futuro, prometendo comida, óleo, farinha, troca e casamento, enquanto o grão-de-Dorran ocupava as faixas mais secas, onde a água precisava ser medida com maior cuidado. Naqueles dias bons, as famílias caminhavam entre as plantações falando baixo, não por tristeza, mas por respeito. Havia um som próprio da abundância: insetos escondidos entre folhas, caldrões-de-campo bicando larvas nos sulcos, ferramentas entrando na terra, crianças espantando javalhos de espinho das fileiras externas correndo onde não deviam, mulheres ralhando com homens que fingiam não ouvir, crianças arrancando nódulos de pão-de-barro das fileiras secundárias, sacos de grão-de-caule e cevada-escura sendo arrastados para os celeiros, água deslizando nos canais.
+Em estações generosas, grão-de-caule, raízes vermelhas e grão-de-Dorran enchiam aquelas fileiras. Havia água nos canais, caldrões-de-campo entre os sulcos e sacos seguindo para os celeiros.
 
-Agora, o campo parecia ter envelhecido.
+Agora o campo parecia envelhecido.
 
 A terra ainda era escura, ainda era rica, ainda guardava em si aquela aparência de ventre profundo que fazia outros clãs invejarem os Buldar. Mas havia rachaduras finas cortando o chão em linhas irregulares. Os canais de Maldrin estavam baixos, mostrando lama dura nas bordas. Algumas folhas, mais adiante, dobravam-se para dentro de si mesmas, como mãos fechadas. O verde perdera brilho. O amarelo começava a aparecer cedo demais. Num canto do campo, marcas recentes de javalhos de espinho cortavam a terra, focinhos cavando onde a raiz ainda nem engrossara. Em ano bom, aquilo virava panela funda e riso de trabalhador. Em ano ruim, virava presságio.
 
 Mesmo assim, o ritual continuava. Depois do plantio, a família deveria dividir o Caldo da Próxima Estação, feito com parte da última colheita e servido como promessa de que ainda haveria outra.
 
-No centro do círculo, o jovem ajoelhado estendeu a mão direita e misturou o sangue às sementes da família. No pulso esquerdo, o Nó de Semente, trançado com fio-de-semente seco, tremia mais do que ele gostaria. Eram sementes pequenas, guardadas por três gerações em pano seco e pote escuro, examinadas a cada estação para impedir que o mofo-de-celeiro alcançasse a reserva, escolhidas não por darem a maior colheita, mas por resistirem a quase tudo: umidade excessiva, frio inesperado, pragas de folha, solo cansado. Resistiam a quase tudo, embora cada geração soubesse que bastava uma estação ruim para provar o limite daquela resistência.
+No centro do círculo, o jovem misturou o sangue às sementes da família, guardadas havia três gerações e escolhidas pela resistência a frio, praga, umidade e solo cansado. O Nó de Semente tremia em seu pulso.
 
 O Guardião de Semente, um homem velho de costas curvas e dedos longos, segurava a tigela diante dele. Tinha a pele enrugada pelo sol e os olhos de quem já vira campos morrerem sem gritar. Ao lado, a família do jovem acompanhava em silêncio. A mãe trazia o Nó de Semente queimado preso ao pulso, sinal de que perdera alguém para fome ou praga. O pai mantinha a cabeça baixa, talvez já pensando quantos braços aquele filho acrescentaria ao trabalho, quantas bocas ainda faltavam, quantas chuvas seriam necessárias para que o corte daquele dia valesse alguma coisa.
 
-Mais atrás, as famílias Buldar formavam círculos largos. Homens e mulheres de pele marcada pelo sol, ombros largos, mãos grossas e roupas de tons secos observavam com a seriedade de quem assiste não a uma cerimônia, mas a uma conta antiga sendo paga. Nos pulsos, pescoços e cintos, os Nós de Semente denunciavam famílias, promessas, dívidas, casamentos, lutos. Alguns nós eram simples, fibras cruzadas duas vezes. Outros tinham tantos enredos que pareciam pequenas raízes mortas amarradas à pele.
+As famílias Buldar formavam círculos ao redor. Nós de Semente nos pulsos, pescoços e cintos marcavam família, dívida, casamento e luto.
 
 Nynestra Buldar observava tudo da sombra de um velho poste de irrigação. Não estava no centro. Não precisava.
 
-A Mão da Colheita só conduzia o ritual quando o jovem pertencia a uma família central, quando uma dívida de sangue precisava ser curada, ou quando o clã inteiro precisava fingir união diante de uma ferida. Aquele não era o caso. O rapaz era de uma família de canais menores. Boa família. Trabalhadores, honestos o bastante para não enriquecer e espertos o bastante para não desaparecer.
+A Mão da Colheita só conduzia o rito em casos especiais. Aquele jovem vinha de uma família de canais menores, e Nynestra preferia observar.
 
-Nynestra preferia observar. Era ali que se via a verdade de um povo: não nos discursos, mas no modo como olhava para os próprios jovens quando eles sangravam.
-
-Tinha as mãos fortes, sem adornos além de um Nó de Semente de fibra escura preso no pulso esquerdo. O rosto era sereno de um jeito que incomodava quem esperava ternura. Os olhos, atentos, passavam de pessoa em pessoa como quem media peso de saco sem tocá-lo. Não era velha, mas trazia uma maturidade que parecia ter sido cultivada cedo demais. Os cabelos escuros estavam presos para trás com uma tira de caule seco, e a roupa, simples, em vermelho-terra e castanho, não tentava separá-la do povo. Ainda assim, todos sabiam onde ela estava.
-
-Sempre sabiam. O jovem colocou as sementes manchadas de sangue na cova: grão-de-caule da família, três raízes vermelhas jovens e um punhado de sementes antigas que a avó dele provavelmente contara mais vezes do que beijara os próprios netos. Cobriu tudo com terra comum. Depois, obedecendo ao rito, pressionou a palma ferida sobre o chão. O Guardião de Semente falou:
+Nynestra usava apenas um Nó de Semente escuro no pulso. Cabelos presos, roupas em vermelho-terra e castanho, olhos atentos. Mesmo fora do centro, todos sabiam onde ela estava. O jovem colocou as sementes manchadas de sangue na cova: grão-de-caule da família, três raízes vermelhas jovens e um punhado de sementes antigas que a avó dele provavelmente contara mais vezes do que beijara os próprios netos. Cobriu tudo com terra comum. Depois, obedecendo ao rito, pressionou a palma ferida sobre o chão. O Guardião de Semente falou:
 
 — Recebeu pão antes de saber plantar. Recebeu nome antes de saber responder. Recebeu campo antes de saber defender. Agora teu sangue sabe o caminho da semente.
 
@@ -40,7 +32,7 @@ A família respondeu:
 
 — Que tua fome lembre os que virão.
 
-O campo pareceu ouvir. Ou talvez fosse apenas o silêncio de gente com sede. Nynestra olhou para o canal mais próximo. A água ali deveria estar à altura do joelho nesta fase da estação. Estava abaixo do tornozelo de uma criança. Nas margens, os dentes-de-chuva permaneciam abertos, azuis e inúteis, como se ainda não tivessem recebido do céu a ordem de fechar.
+Nynestra olhou para o canal mais próximo. A água, que deveria chegar ao joelho, estava abaixo do tornozelo de uma criança. Dentes-de-chuva permaneciam abertos nas margens.
 
 O Guardião pegou um pano limpo para envolver a mão do jovem. A mãe aproximou-se e beijou-lhe a testa. O pai tocou-lhe o ombro. Alguém no círculo murmurou uma bênção de colheita. Um velho tossiu. Uma criança perguntou baixo se aquelas sementes cresceriam vermelhas. A avó mandou-a calar. Nynestra quase sorriu. Então viu Orven atravessando o campo.
 
@@ -118,15 +110,11 @@ Nynestra olhou para o ritual outra vez. O jovem agora erguia-se, pálido, com a 
 
 — Não. Mas dizem que já há uma nova Voz.
 
-Aquilo, sim, tinha peso. Nynestra não disse nada durante alguns instantes. Os Polar. Sempre os Polar.
-
-O nome vinha a ela com gosto de pedra na boca. Nynestra não odiava os Polar por capricho, mas pelo modo como transformavam vantagem em direito. Kaendar nascera junto de rio largo, terra firme, passagem defensável e muralhas que outros sangraram para respeitar. Ainda assim, muitos Polar tratavam a própria sobrevivência como prova de superioridade e os clãs ao redor como povos que deviam agradecer cada acordo, mesmo quando a oferta vinha presa a uma dependência.
+Aquilo importava. Nynestra já desconfiava dos Polar pelo modo como transformavam vantagem material em direito sobre os vizinhos.
 
 Dias antes, um homem de Kaendar entrara em território Buldar com passos medidos e palavras polidas.
 
-Não era nobre alto. Isso teria sido menos insultante, de certa forma. Trouxera a proposta como quem traz semente embrulhada em pano limpo: os Polar ofereceriam proteção de rotas, segurança contra Tondrar, Vendrar e grupos menores, garantia de passagem para cargas Buldar, em troca de uma taxa fixa por estação. Taxa, disseram. Não tributo. Não submissão. Não compra de paz. Taxa.
-
-Nynestra lembrava-se do rosto dele. Lembrava-se de como falara “proteção” olhando para os celeiros. Lembrava-se de como esperara a resposta com a paciência educada de quem acreditava que recusa era apenas uma forma lenta de aceitar.
+O emissário oferecera proteção de rotas e segurança em troca de uma taxa fixa por estação. Taxa, insistira. Não tributo. Nynestra lembrava do modo como dissera “proteção” olhando para os celeiros.
 
 Ela respondera que os Buldar respeitavam a Dinastia Polar e considerariam a proposta. Uma mentira bonita, dessas que preservam pele. Por dentro, quisera mandar que ele voltasse a Kaendar.
 
@@ -156,13 +144,11 @@ Orven não respondeu.
 
 Nynestra olhou para o campo. A família do jovem agora recolhia as tigelas do ritual. A terra fora alisada sobre a cova. Nada marcava o lugar além da pequena impressão da palma cortada, avermelhada nas bordas. Quando o ritual terminou, ninguém festejou.
 
-Em outra estação, haveria pão de grão-de-caule, caldo grosso de sarnak com raiz, maçã-de-barro assada, talvez uma roda de conversa em que os mais velhos contariam mentiras úteis sobre a própria juventude. O jovem recém-iniciado seria provocado por tios, abraçado por primas, observado por moças e rapazes com novo interesse. Alguém cantaria uma canção de colheita. Alguém beberia demais.
-
-Naquele dia, as pessoas apenas voltaram ao trabalho. A seca fazia até a alegria parecer desperdício.
+Em outra estação haveria pão de grão-de-caule, caldo de sarnak com raiz, maçã-de-barro assada e conversa até tarde. Naquele dia, todos voltaram ao trabalho.
 
 Ao cair da tarde, antes das fogueiras, Nynestra reuniu os Mestres de Celeiro dentro do depósito baixo de Nyn-Harad, onde até a lama das ruas parecia aprender a esperar ordem. Era uma construção larga de barro compactado e madeira grossa, baixa o bastante para parecer humilde e importante demais para ser confundida com humildade.
 
-O lugar cheirava a grão velho, palha úmida e medo bem guardado. Nas paredes, sacos de farinha de grão-de-caule e raiz torrada repousavam empilhados até metade da altura que deveriam ter naquela estação. Marev, o mais velho dos Mestres, abriu uma tábua de contagem sobre a mesa.
+O depósito cheirava a grão velho e palha úmida. Os sacos estavam empilhados até metade da altura esperada para a estação. Marev, o mais velho dos Mestres, abriu uma tábua de contagem sobre a mesa.
 
 — Se cortarmos a porção das aldeias do sul, seguramos vinte dias.
 
@@ -174,7 +160,7 @@ Uma das Mães de Linha ergueu o rosto.
 
 — Menos que pouco é nada.
 
-Ninguém respondeu depressa. Nynestra passou os olhos pelas marcas da tábua. Grãos riscados. Famílias riscadas. Canais riscados. Sementes de plantio riscadas com uma linha mais funda, como se até a madeira soubesse que aquilo não se tocava sem maldição política. Aquilo não era contagem. Era um mapa de quem começaria a morrer primeiro. Orven, no fundo da sala, falou baixo:
+Nynestra percorreu as marcas da tábua: grão, famílias, canais e sementes de plantio. Era uma contagem de quem sentiria a fome primeiro. Orven, no fundo da sala, falou baixo:
 
 — A proposta Polar resolveria parte disso.
 
@@ -200,25 +186,21 @@ Marev fechou os olhos.
 
 — Ela não sabia. Tem quatro ciclos. Achou que era grão de caldo. Estava com fome.
 
-Nenhum Buldar olhou para as sementes como quem olha alimento. Olharam como quem olha ossos de criança. Saira continuou:
+Todos olharam para as sementes. Saira continuou:
 
 — Eu bati na mão dela. Forte demais. Ela chorou. Depois eu chorei escondida. Não porque ela comeu. Porque por um instante, quando vi a boca dela cheia, eu pensei em deixar.
 
 A frase caiu no depósito como lâmina sem cabo. Nynestra sentiu o peso dela no próprio peito. Quem come a semente passa fome duas vezes.
 
-Todos sabiam a frase, todos tinham dito a frase, todos tinham corrigido crianças com ela. Mas ali, diante daquele saquinho quase vazio, a frase já não parecia sabedoria. Parecia crueldade feita por gente alimentada. Saira amarrou o pano de novo.
+Saira amarrou o pano de novo.
 
 — Então digam, Mestres. Digam-me que não precisamos mudar nada. Digam-me que a próxima estação chegará porque sempre chegou. Digam-me que os Polar não sabem esperar uma família chegar a esse ponto.
 
-Ninguém disse. Nynestra olhou para cada rosto. Ali estava a verdade que nenhum relatório trazia. Não eram só canais baixos, só rumores, só política. A fome já havia entrado nas casas. Ainda não estava nos ossos, mas já estava nos pensamentos. E pensamento faminto vendia mais rápido do que mão faminta.
-
-Foi nesse instante que Nynestra entendeu que a proposta Polar não era uma oferta. Era uma contagem regressiva.
+Ninguém respondeu. A fome ainda não estava nos ossos, mas já entrara nas casas. Nynestra entendeu que a proposta Polar tinha um prazo escondido.
 
 Mais tarde Nynestra caminhou pelos campos com Orven a alguns passos atrás. Não gostava de escolta colada ao corpo. Líder que não consegue andar pelo próprio território sem parecer prisioneira já perdeu metade do comando. Ainda assim, dois guardas acompanhavam à distância, lanças baixas, olhos nos limites das plantações.
 
-As terras Buldar estendiam-se em ondulações baixas, cortadas por canais, cercas vivas, pequenos montes de grão queimado e espantalhos de palha vestidos com panos de sinal. Havia aldeias ao longe, largas, baixas, espalhadas com intenção. Nada concentrado demais. Nada fácil demais de queimar. Um celeiro aqui, outro mais além, fossas de semente protegidas sob terra compactada, casas com depósitos internos, currais pequenos para animais de reprodução rápida.
-
-Distribuir risco era uma forma de oração Buldar. Ao passar por um campo de raiz vermelha, Nynestra viu três mulheres arrancando plantas antes da hora. As raízes saíam finas, pequenas, pálidas, quase sem o vermelho denso que deveria manchar a faca. Uma delas praguejou. Outra olhou para a Mão da Colheita e tentou endireitar a postura.
+As terras Buldar se espalhavam em aldeias baixas, canais, celeiros separados e fossas de semente protegidas. Nada ficava concentrado o bastante para uma única perda destruir tudo. Ao passar por um campo de raiz vermelha, Nynestra viu três mulheres arrancando plantas antes da hora. As raízes saíam finas, pequenas, pálidas, quase sem o vermelho denso que deveria manchar a faca. Uma delas praguejou. Outra olhou para a Mão da Colheita e tentou endireitar a postura.
 
 — Não finja que a terra deu mais do que deu — disse Nynestra, sem parar.
 
@@ -248,17 +230,13 @@ A mãe murmurou:
 
 — Não aperte o braço dela como se fosse culpa dela o céu estar avarento.
 
-A mulher baixou a cabeça. Nynestra continuou andando. Não era bondade. Ou não apenas. Criança machucada trabalhava pior. Mãe envergonhada obedecia melhor. E povo que via a líder corrigir sem destruir lembrava-se de que autoridade não precisava sempre vir com grito.
-
-Os Buldar sabiam que força era aquilo que fazia os outros voltarem no dia seguinte, mesmo cansados, mesmo com fome, mesmo desconfiados.
+A mulher baixou a cabeça e Nynestra continuou andando.
 
 Ao cair da tarde, a notícia já circulava por toda a Terra Preta. Os Tondrar tinham sangrado sob trégua. Os Polar ofereciam proteção com uma mão e massacre com a outra. Os Fendelar haviam sumido. A seca descera mais dois dedos.
 
 Ninguém dizia tudo junto. Isso seria pesado demais. Diziam por partes, entre uma tarefa e outra, como quem divide comida ruim para que pareça suficiente.
 
-Quando a noite chegou, os Buldar acenderam fogueiras baixas nos pátios entre os celeiros, espantando os murrens que se espremiam sob tábuas e sacos em busca de grãos caídos. Passaram pequenas canecas de cerveja rústica de cevada-escura entre os trabalhadores, mais amarga do que forte, suficiente para aliviar o corpo sem deixar ninguém esquecer as contagens. Não era festa, mas também não era trabalho. Em tempos de seca, Nynestra permitia danças curtas ao fim de certos dias. Não por leveza. Por controle. Povo que não move o corpo por alegria acaba movendo por revolta.
-
-A dança Buldar não tinha o fogo alto dos Tondrar, nem os cantos antigos dos Polar. Era marcada pelo pé. Pé batendo na terra. Mãos unidas. Círculos que se abriam e fechavam como plantio e colheita. Homens e mulheres pisavam em ritmo grave, levantando poeira fina. Crianças tentavam imitar os adultos e erravam o tempo. Os mais velhos batiam palmas secas, sem sorriso, mas com atenção. Alguém puxou uma melodia baixa sobre semente guardada e chuva teimosa. Outro respondeu com voz rouca.
+À noite, fogueiras baixas foram acesas entre os celeiros. Cerveja amarga de cevada-escura circulou entre trabalhadores, e começou uma dança Buldar marcada pelos pés, mãos unidas e círculos que se abriam e fechavam como plantio e colheita.
 
 Nynestra assistia sentada num banco de madeira, perto do pátio central. Tinha diante de si uma tigela de caldo ralo que ainda não tocara. Ao redor, Mestres de Celeiro, Chefes de Canal e Mães de Linha discutiam em pequenos grupos. Falavam de água, praga, rumores, rotas, crianças, medo. Sempre medo.
 
@@ -290,7 +268,7 @@ O homem manteve a cabeça baixa.
 
 — Preciso falar com a líder de vocês.
 
-Um murmúrio atravessou o pátio. Nynestra levantou-se. As pessoas abriram espaço antes que ela pedisse. Não depressa demais. Buldar não gostavam de parecer assustados. Mas abriram. A Mão da Colheita caminhou até a frente do círculo de luz, com Orven à direita e dois Ceifadores de Campo atrás. Parou a alguns passos do homem ajoelhado.
+Um murmúrio atravessou o pátio. Nynestra avançou com Orven e dois Ceifadores de Campo.
 
 — Levanta a cabeça.
 
@@ -302,7 +280,7 @@ O homem olhou para o Nó de Semente no pulso dela, depois para os olhos.
 
 — Sou Fendelar.
 
-O pátio reagiu. Não com grito. Com tensão. Fendelar não apareciam assim. Fendelar eram sombra entre árvores, troca discreta, carne defumada deixada em marcador combinado, baga-de-Mirval amassada em pano de folha, rumor de trilha segura. Um Fendelar ajoelhado em pátio Buldar, à noite, diante de fogueiras, era coisa errada demais para ser ignorada. Nynestra não mudou o rosto.
+O pátio se tensionou. Fendelar costumavam ser comércio discreto e sombra entre árvores, não homens ajoelhados diante de fogueiras.
 
 — Fendelar costumam chegar sem serem vistos.
 
@@ -316,9 +294,7 @@ O homem respirou. O ar entrou nele como se doesse.
 
 — Porque meu clã… foi exterminado.
 
-O silêncio que veio depois não pertenceu aos Buldar. Pertenceu à noite. Até as fogueiras pareceram baixar.
-
-Nynestra observou o homem. Muitos usavam palavra grande para perda pequena, porque dor própria sempre parece maior na boca. Mas ele não disse “atacado”. Não disse “saqueado”. Disse exterminado.
+Nynestra observou o homem. Ele não dissera atacado ou saqueado. Dissera exterminado.
 
 — Exterminado? O que quer dizer? — perguntou ela.
 
@@ -334,7 +310,7 @@ O homem desamarrou o pano junto ao peito. De dentro, retirou objetos e os coloco
 
 Uma fivela metálica com a Raiz Polar marcada em espiral. Parte de uma haste de estandarte quebrada. Uma flecha de haste polida, fabricação cara, pena escura. Um pedaço de tecido grosso, tingido com método que não pertencia a clã pequeno. Depois, por fim, colocou um talismã Tondrar.
 
-O pátio pareceu respirar ao contrário. Nynestra olhou para os objetos, depois para ele.
+Nynestra olhou para os objetos e depois para ele.
 
 — O que um objeto Tondrar faz no meio?
 
@@ -360,7 +336,7 @@ Nynestra olhou outra vez para a fivela. Rendar apontou agora para a flecha parti
 
 — Segui o rastro depois do massacre. Encontrei sinais de luta no caminho proibido. Flechas Polar. Pedaço de estandarte. Couro rasgado. Sangue antigo. Marcas de botas de gente treinada. E marcas de Raukhar.
 
-Ao ouvir o nome da fera, alguns Buldar se entreolharam. Mesmo longe das florestas Fendelar, havia medos que viajavam melhor do que mercadores. Nynestra falou mais baixo:
+Alguns Buldar se entreolharam ao ouvir o nome da fera. Nynestra falou mais baixo:
 
 — Raukhar?
 
@@ -370,9 +346,7 @@ Ele fechou os dedos em volta da fivela.
 
 — O Polar morreu ali. Ou foi levado dali. Não por Fendelar. Não por Tondrar. Por fera. Porque ignorou o aviso de uma velha que conhecia a mata melhor do que ele conhecia o próprio orgulho.
 
-O pátio ficou pesado.
-
-— Então transformaram a morte dele em acusação. Contra nós.
+— Então transformaram a morte dele em acusação contra nós.
 
 Nynestra não respondeu. Rendar apontou para o tecido escuro.
 
@@ -394,9 +368,7 @@ Rendar ergueu os olhos para ela.
 
 — Estou trazendo rastro.
 
-A resposta ficou no ar.
-
-— E o rastro diz isto: um Polar morreu onde não devia estar. Pouco depois, minha aldeia foi destruída por homens treinados demais para serem saqueadores e limpos demais para serem Tondrar. Um talismã foi plantado para empurrar a culpa.
+— E o rastro diz isto: um Polar morreu onde não devia. Pouco depois, homens treinados destruíram minha aldeia e plantaram um talismã para empurrar a culpa aos Tondrar.
 
 Ele tocou a fivela com a unha.
 
@@ -410,19 +382,17 @@ Ele hesitou por menos de um sopro.
 
 — Rendar.
 
-O nome não causou reação em todos, mas alguns comerciantes ergueram os olhos. Quem negociara com Fendelar conhecia ou ouvira. Rendar, caçador de grandes feras. Homem que trazia carne rara.
+Alguns comerciantes reconheceram o nome de Rendar, caçador que já trouxera carne rara às rotas.
 
 — Rendar Fendelar — disse Nynestra, testando o peso. — Se o que diz é verdade, você é o último?
-
-Algo passou pelo rosto dele. Não dor aberta. Uma porta batendo por dentro.
 
 — Sou.
 
 — Então ouça também o que aconteceu fora da sua floresta. Os Polar chamaram os Tondrar sob costume de trégua. Lei do Portão. Pão, água, palavra pública. Depois veio sangue. A antiga Voz caiu. Ninguém sabe ainda quantos morreram, mas os rumores chegaram antes dos corpos. Isso raramente é bom sinal.
 
-Rendar olhou para o talismã no chão.
+Rendar olhou para o talismã.
 
-— Então eles fizeram com os Tondrar o que queriam que todos achassem que os Tondrar fizeram com os outros.
+— Então fizeram com os Tondrar o que queriam que todos achassem que os Tondrar fizeram com os outros.
 
 — Talvez. E veio até os Buldar por quê? Não somos abrigo de vingança alheia.
 
@@ -480,7 +450,7 @@ Nynestra ergueu a mão de novo. O guarda recuou com raiva.
 
 — Estou ajoelhado porque ainda respeito o que não é meu. E digo que são fracos diante dos Polar porque é verdade. Campo aberto não segura Kaendar. Celeiro queima. Canal rompe. Rota compra-se. Família com fome vende segredo.
 
-Os Buldar ouviram aquilo como insulto porque era preciso. E como verdade porque doía no lugar certo. Nynestra deu um sorriso mínimo.
+Nynestra deu um sorriso mínimo.
 
 — Não tem medo de morrer?
 
@@ -512,7 +482,7 @@ Nynestra por fim riu. Foi curto. Seco. Sem alegria.
 
 — Eu sei.
 
-Rendar levantou-se devagar. Os guardas retesaram as lanças. Ele não fez movimento brusco. Apenas ficou de pé, e a luz da fogueira mostrou melhor o que havia nele: o corpo exausto, a roupa rasgada, a fita escura apertada no pulso. Pequena demais para ele. Marcada de sangue velho. Nynestra viu, mas não perguntou. Ele também viu que ela viu e não explicou.
+Rendar levantou-se devagar. A luz mostrou a fitinha escura, pequena demais para seu pulso e marcada de sangue velho. Nynestra viu e não perguntou.
 
 — Quero que vocês chamem outros clãs — disse Rendar. — Por todas as razões possíveis. Chamem por interesse, por medo, por fome — chamem porque, se os Polar engolirem um por um, todos acabarão pagando taxa para respirar.
 
@@ -544,13 +514,9 @@ A mão parou por um instante. Depois fez um risco pequeno.
 
 — Floresta. O que restou dela.
 
-Ninguém falou. Ele continuou.
+Rendar desenhou marcas próximas a Kaendar.
 
-— Um caçador burro ataca onde a fera mostra dente. Um caçador impaciente ataca onde a fera sangrou. Um caçador vivo observa primeiro o que a fera precisa proteger.
-
-Nynestra aproximou-se um passo, apesar de si mesma. Rendar desenhou três marcas próximas a Kaendar.
-
-— Os Polar não protegem só muralha. Protegem a ideia. A ideia de que são inevitáveis. A ideia de que suas leis ainda significam ordem. A ideia de que cada clã está sozinho diante deles. Quebramos isso antes de tocar na pedra. Começando pelos Tondrar.
+— Os Polar não protegem só muralha. Protegem a ideia de que são inevitáveis e de que cada clã está sozinho diante deles. Quebramos isso antes de tocar na pedra. Começando pelos Tondrar.
 
 Nynestra ergueu uma sobrancelha.
 
@@ -558,17 +524,13 @@ Nynestra ergueu uma sobrancelha.
 
 — Justamente por isso. Eu já estive muitas vezes na fortaleza deles. Conheço a Boca Seca, o pátio de troca, quem pesa carne, quem confere couro, quem olha para estrangeiro como se pudesse morder a mentira antes que ela fale. E da mesma forma que estou falando com vocês, posso falar com eles.
 
-Nynestra ficou em silêncio. Rendar marcou uma linha entre Buldar e Tondrar.
+Rendar ligou Buldar e Tondrar no desenho.
 
-— Primeiro. Se Buldar e Tondrar aparecem juntos, Kaendar sentirá. Não precisa haver ataque. Basta haver possibilidade. Um clã alimenta o outro tempo suficiente para não ceder. O outro protege passagens que os Buldar não conseguem defender sozinhos.
+— Se aparecem juntos, Kaendar sente. Buldar alimentam o suficiente para os Tondrar não cederem; Tondrar oferecem passagem e proteção onde campo aberto não protege.
 
-Um dos Mestres de Celeiro falou:
+— Jamais nos uniríamos com nossos inimigos — disse um Mestre de Celeiro.
 
-— Jamais nos uniríamos com nossos inimigos.
-
-Rendar olhou para ele.
-
-— Talvez não se unam. Mas talvez precisem enfrentar um inimigo comum antes que seja tarde.
+— Não precisam chamar isso de união.
 
 Nynestra não respondeu de imediato. Olhou para o círculo torto que Rendar havia desenhado no chão. Kaendar. Sempre Kaendar no centro, mesmo quando o mapa era feito por mãos inimigas.
 
@@ -584,81 +546,35 @@ Um dos Mestres de Celeiro baixou os olhos. Nynestra continuou, sem alterar a voz
 
 — Minha mãe dizia que os Polar não nos derrotaram. Só nos ensinaram quanto tempo uma criança aguenta antes de mastigar semente de plantio.
 
-Rendar ficou em silêncio.
-
-— Então sabe que a paz deles também tem dentes — disse ele.
+— Então sabe que a paz deles também tem dentes — disse Rendar.
 
 — Sei — respondeu Nynestra. — E é por isso que ainda não mandei cortar tua língua por desenhar guerra no meu pátio.
 
-Nynestra manteve o rosto imóvel. Rendar não sorriu. Apenas voltou ao desenho, como se a faca ainda não tivesse saído da mesa.
+Rendar marcou os outros povos.
 
-— Segundo — continuou Rendar, desenhando outro ponto — Vendrar. Não se compra lealdade Vendrar. Compra-se hora e alvo. Não peçam que lutem pela causa. Paguem para queimarem depósitos de estrada, não campos. Pontes pequenas, não vilas. Façam Kaendar gastar gente apagando fogo onde não há glória.
-
-— E com que pagamos? — perguntou Nynestra. — Grão que não temos sobrando?
-
-— Promessa de grão depois da chuva.
-
-Dessa vez, alguns riram. Nynestra também deixou um canto da boca subir.
-
-— Promessa não enche barriga Vendrar.
-
-— Não. Mas medo enche bolso. Digam que, se Kaendar vencer, a taxa Polar alcançará todo comércio de fogo. Vendrar não precisam amar Buldar. Só precisam odiar futuro em que Polar define preço.
-
-A risada morreu. Rendar fez outra linha.
-
-— Urtistar e Cendar não precisam marchar. Só precisam fechar passagem, atrasar mensageiro, negar descanso, vender informação errada, deixar os Polar olharem para cinco sombras ao mesmo tempo. Além disso… as lâminas Urtistar podem ser úteis. Fera que olha para muitos lados expõe o pescoço.
+— Vendrar não precisam lutar por causa alguma. Basta terem medo de um futuro em que os Polar controlem o comércio de fogo. Urtistar e Cendar podem fechar passagem, atrasar mensageiros e negar descanso. Cada povo entra pela própria razão.
 
 Nynestra olhou para o desenho. Agora já não parecia loucura completa. E isso a irritava.
 
 — Isso tudo parece muito bonito, Fendelar. Mas no fim, só seria vitória com a queda de Kaendar. E pra isso… precisaria chegar até lá.
 
-Rendar assentiu.
+— Não atacamos Kaendar primeiro — disse Rendar. — Fazemos Kaendar sair. Cortamos depósitos e rotas até precisarem dos Buldar. Vocês fingem aceitar a taxa e mover estoques para proteção. Kaendar manda homens para contar e escoltar. Nós atingimos as bordas: mensageiros, guias, caçadores e fornecimento.
 
-— Sim.
+Nynestra estreitou os olhos.
 
-— A Garganta de Kaendar não é trilha de caça.
-
-— Tudo é trilha de caça se alguém grande passa por ela mais de uma vez.
-
-Orven soltou um ar pelo nariz. Rendar apontou para as linhas que ele mesmo desenhara.
-
-— Não atacamos Kaendar primeiro. Fazemos Kaendar sair. Um pedaço de cada vez.
-
-Rendar olhou ao redor. Para os celeiros. Para as casas. Para as pessoas.
-
-— Cortamos o comércio que alimenta Kaendar. Queimamos depósitos de estrada. Estragamos rotas. Fazemos a cidade sentir fome. Eles vão precisar de nós. E aí, os Buldar poderão agir. Levarão comida.
-
-Nynestra não gostou da resposta antes de entendê-la.
-
-— Está sugerindo usar nossos carregamentos como isca?
-
-— Estou sugerindo deixar Kaendar acreditar que os Buldar aceitarão a taxa, mas precisam mover parte dos estoques para “proteção”. Eles mandarão homens para contar, escoltar, medir ou pressionar. Talvez poucos no início. Talvez um emissário, talvez guardas. E os Buldar devem fingir ceder.
-
-Nynestra olhou para ele.
-
-— Você quer que eu pareça fraca.
+— Quer que eu pareça fraca.
 
 — Quero que pareça possível.
 
-Ela gostou menos ainda.
+— E os Tondrar?
 
-— Enquanto isso, vocês enviam grão suficiente para os Tondrar não colapsarem, mas não suficiente para ficarem confortáveis. Em troca, pedem passagem, homens de túnel, pedras. Cada clã acredita que está a usar os outros. Isso é bom. Clãs só se unem quando ainda podem mentir para si mesmos que não se uniram.
+— Grão suficiente para não colapsarem. Em troca, passagem e homens de túnel. Cada clã pode continuar fingindo que está usando os outros.
 
-Nynestra ficou quieta. O pátio inteiro também. A dança havia acabado havia muito. Agora todos estavam dentro de outra coreografia: a de um pensamento perigoso sendo plantado.
+Nynestra encarou o desenho por algum tempo.
 
-— Depois — disse Rendar —, quando Kaendar mover força para garantir seus “direitos” sobre os Buldar, não enfrentamos a força inteira. Cortamos bordas. Mensageiros. Guias. Caçadores. Fornecimento. Fazemos cada posto menor acreditar que foi abandonado pelo centro. Fazemos cada clã Polar menor perguntar se as filhas de Orionus conseguem mesmo protegê-los. Não atacamos a muralha. Atacamos o coração.
+— Você desenhou a queda de Kaendar no meu pátio com carvão da minha fogueira.
 
-Ele riscou uma linha na terra, partindo uma das rotas.
-
-— Quando a fera começa a sentir dor em pontos que não alcança com a boca, ela sai do abrigo. Quando sai, mostramos outra isca. Quando morde, perde sangue. Quando perde sangue, começa a falecer.
-
-Ele parou. O desenho no chão era feio. Rude. Cheio de círculos tortos, marcas, riscos e pontos. Mas quem sabia olhar via outra coisa. Não era mapa de guerra. Nynestra encarou aquilo por longo tempo. Depois olhou para o homem diante dela.
-
-— Você desenhou a queda de Kaendar no meu pátio com carvão roubado da minha fogueira.
-
-— Eu trago aqui a chance de um clã finalmente ser livre da sombra dos Polar. De finalmente poder crescer sem medo de ser visto como ameaça. Os Polar são o veneno de Jesed.
-
-Nynestra sorriu de verdade pela primeira vez naquela noite. Não um sorriso quente. Um sorriso de terra antes da chuva ou de faca antes do corte.
+— Desenhei uma chance de deixarmos de crescer sob a sombra Polar.
 
 — Dêem água a ele — disse ela. — E comida. Pouca.
 
@@ -670,11 +586,7 @@ Um dos guardas hesitou.
 
 Rendar não agradeceu. Nynestra gostou disso também. Então olhou mais uma vez para o desenho no chão.
 
-As marcas de carvão pareciam raízes negras espalhadas pela terra seca do pátio. Kaendar ao centro. Os clãs em volta. Linhas, cortes, desvios, fome.
-
-Nynestra abaixou-se, tocou com dois dedos a marca que representava Kaendar e depois olhou para o próprio povo. Viu os Mestres de Celeiro, as Mães de Linha, Orven. Viu Saira ao fundo, com o saquinho de sementes preso contra o peito, e o jovem da Semente Rubra, ainda pálido, a mão enfaixada, observando sem entender que talvez tivesse acabado de entrar não na vida adulta, mas numa guerra.
-
-Aquilo doeu. Não como luto. Como responsabilidade. Vingança não enchia celeiro. Ela sabia disso melhor do que qualquer um. Mas submissão também não. E se os Polar chegassem aos campos como tinham chegado aos Fendelar, se esperassem a fome baixar cabeças, se oferecessem proteção com a mesma mão que fechava rotas, então cada semente guardada pelos Buldar acabaria crescendo em terra alheia.
+Nynestra olhou para Saira com o saquinho de sementes e para o jovem da Semente Rubra, ainda com a mão enfaixada. Vingança não enchia celeiro. Submissão também não.
 
 Nynestra se virou para Orven.
 
