@@ -508,15 +508,13 @@ Kaelina ficou imóvel.
 
 — Cal Edran — corrigiu Kaelina, com uma severidade que fez Maelis descer os olhos. — Leve-me até lá.
 
-Marken estava num quarto pequeno do anel alto, mas não em cela. Kaelina havia insistido nisso. A porta tinha guarda, não tranca. A janela era estreita demais para fuga e larga o bastante para lembrar que aquilo não era misericórdia completa. Ele salvara sua vida no dia anterior, ainda que ninguém entendesse exatamente como, nem por quê. Não seria tratado como prisioneiro antes de provar que era inimigo.
+Marken estava num quarto do anel alto, guardado mas não trancado. Sentava-se no chão junto à parede, com arranhões na pele e lama seca nas botas.
 
-O aposento tinha uma mesa baixa, duas cadeiras, uma janela estreita e uma cama simples que ele não usara. Marken estava sentado no chão, perto da parede oposta, como se preferisse pedra a conforto. As mãos repousavam sobre os joelhos. O cabelo escuro caía sobre parte do rosto. Havia arranhões na pele, marcas de lama seca junto às botas e uma ferida pequena na lateral do queixo.
-
-Cal Edran permanecia perto da porta. Velho, cansado, mas de pé como se a idade tivesse aprendido a obedecer-lhe. Quando Kaelina entrou, Edran se endireitou.
+Cal Edran permanecia perto da porta e se endireitou quando Kaelina entrou.
 
 — Minha soberana.
 
-Ela olhou para ele. A cena da câmara de banho tentou voltar. Kadrir de joelhos, o pé de Alyra, o sorriso. Kaelina empurrou a imagem para baixo.
+Kaelina olhou para ele e lembrou de Kadrir ajoelhado.
 
 — Cal.
 
@@ -582,7 +580,7 @@ Kaelina levantou a mão antes que Edran avançasse mais.
 
 — Por favor.
 
-Aquilo o atingiu de forma diferente. Não como ordem. Como pedido. E talvez por isso tenha sido mais difícil de recusar. Cal Edran sustentou o olhar dela por um instante longo. Depois inclinou a cabeça.
+Edran sustentou o olhar dela por um instante e inclinou a cabeça.
 
 — Ficarei diante da porta.
 
@@ -590,7 +588,7 @@ Aquilo o atingiu de forma diferente. Não como ordem. Como pedido. E talvez por 
 
 Ele saiu e fechou a porta deixando Kaelina e Marken sozinhos. Por um tempo, nenhum dos dois falou.
 
-Kaelina observou o rapaz. Ele não parecia assustado. Também não parecia confortável. Era como alguém sentado num lugar onde já sabia que nada o mataria agora, mas tudo poderia matá-lo depois.
+Kaelina observou o rapaz.
 
 — Você me salvou ontem — disse ela.
 
@@ -630,7 +628,7 @@ Kaelina o fitou por um instante.
 
 — Porque geralmente as pessoas usam palavras como armas. E por isso devo ter muito cuidado com o que falo.
 
-Kaelina respirou devagar. Havia algo irritante nele. Não insolência vulgar. Não a provocação fácil de um homem querendo testar uma soberana. Era outra coisa. Como se ele estivesse cansado demais para ter medo de títulos, mas lúcido demais para desprezá-los por completo.
+Kaelina conteve a irritação.
 
 — Kaendar não é receptiva com estrangeiros — disse ela. — Principalmente estrangeiros que aparecem após dois de nós ser assassinados, e alguém tentar assassinar a soberana.
 
@@ -640,7 +638,7 @@ A frase a cortou pela precisão.
 
 — De que clã você é?
 
-Marken olhou para a Raiz entalhada na parede. Dois riscos em espiral, antigos, gastos pelo toque de muitas mãos.
+Marken olhou para a Raiz entalhada na parede.
 
 — Vocês perguntam clã antes de perguntar ferida.
 
@@ -652,9 +650,9 @@ Kaelina conteve a irritação.
 
 — Marken.
 
-Ele olhou para ela ao ouvir o nome. Não como quem responde ao próprio nome. Como quem mede o efeito dele.
+Ele olhou para ela ao ouvir o nome.
 
-Kaelina caminhou até a cadeira e sentou-se diante dele, não na mesa. Quis diminuir a distância sem parecer que se rendia à estranheza dele.
+Kaelina sentou-se diante dele.
 
 — Você disse que estava aqui para me proteger.
 
@@ -662,7 +660,7 @@ Kaelina caminhou até a cadeira e sentou-se diante dele, não na mesa. Quis dimi
 
 — De quem?
 
-Marken olhou para a janela. Kaendar ardia do outro lado em pontos de luz, fumaça e pedra. Lá fora, alguma roda rangia. Um guarda gritou uma ordem distante. O mundo continuava a fingir normalidade.
+Marken olhou para a janela.
 
 — Do que está lá fora.
 
@@ -682,7 +680,7 @@ Kaelina ficou em silêncio.
 
 — O meu destino?
 
-Marken sorriu. Não porque achou graça, mas seu olhar denunciava algo mais profundo. Como se estivesse se lembrando de algo.
+Marken sorriu sem alegria.
 
 — Acredita mesmo que uma pessoa escolhe o próprio caminho, soberana?
 
@@ -704,11 +702,7 @@ Kaelina inclinou-se um pouco.
 
 — Ciclo?
 
-O humor desapareceu do rosto dele.
-
 — Não é algo bonito de se dizer, soberana. Mas o que tiver que ser, será.
-
-Kaelina olhou em seus olhos. Mistério. Ele a olhava com muita serenidade. Com muita certeza. Quem era ele? De onde ele vinha?
 
 — O que quis dizer quando disse… “o molhado”? A quem se referia?
 
@@ -720,9 +714,7 @@ Kaelina se irritou, só um pouco.
 
 — Se precisa ouvir para ter certeza de algo, então sua capacidade de governar é questionável. Há muitas formas de se ter certeza de algo, sem com que a informação seja exposta. Veja os Tondrar por exemplo, acreditam mesmo que foram eles que envenenaram Yvenn. Porque foi o que vocês viram. Mas há páginas faltando aí no meio.
 
-Kaelina sentiu um arrepio na espinha. Do que ele estava falando? Ele sabia o nome de Yvenn, sabia do envenenamento… e estava aqui cogitando a possibilidade de que o que viram ter sido uma mentira.
-
-O pior de tudo é que Marken não olhava para ela como servo, nem como inimigo. O olhar dele carregava um peso difícil de atribuir a desejo, medo, reverência ou cálculo, pesado demais para um rosto tão jovem. Como se ele a visse de longe. Muito longe.
+Kaelina percebeu que Marken sabia do envenenamento de Yvenn e questionava a versão aceita em Kaendar.
 
 — Está dizendo que Yvenn foi envenenado por um dos nossos? — Kaelina baixou a voz.
 
@@ -742,7 +734,7 @@ Ela não respondeu. Marken continuou:
 
 — Se eles queriam guerra, podiam atacar uma carga. Um portão menor. Uma patrulha. Dois meninos na lama já tinham bastado para acordar Kaendar. Se quisessem enfraquecê-los, teriam envenenado uma das soberanas. Mas as soberanas estão aqui. Então por que arriscaram envenenar alguém como Yvenn?
 
-— Para nos humilhar.l
+— Para nos humilhar.
 
 — E você viu prazer no rosto deles quando Yvenn caiu?
 
@@ -778,9 +770,7 @@ Kaelina se levantou.
 
 — Você não conhece Alyra, nem a mim.
 
-— Eu conheço vocês melhor do vocês mesmas.
-
-Kaelina observou-o por mais um momento. Seus olhos não piscavam. Havia muita sabedoria naquele rosto tão jovem.
+— Eu conheço vocês melhor do que vocês mesmas.
 
 — O que você quer de mim?
 
@@ -800,9 +790,7 @@ Ele tirou um pequeno objeto enrolado em tecido escuro e estendeu a mão para ela
 
 Ela pegou o embrulho.
 
-O tecido era áspero, quase negro, mas não parecia tingido. Parecia queimado pelo tempo. Ao abri-lo, encontrou um fragmento pequeno, curvo, do tamanho de dois dedos. À primeira vista, parecia metal claro. Mas metal não era daquele jeito. Tinha transparência de vidro nas bordas, brilho de osso polido no centro e veios finos que pareciam presos dentro da matéria, como se um som tivesse sido congelado ali.
-
-Kaelina ergueu o objeto contra a luz. Era leve demais.
+Dentro do tecido havia um fragmento curvo, do tamanho de dois dedos, transparente nas bordas e claro no centro, com veios presos na matéria. Kaelina o ergueu contra a luz.
 
 — O que é isto?
 
@@ -822,13 +810,13 @@ Kaelina olhou para ele.
 
 — Mais acima.
 
-A resposta quase a irritou. Mas havia algo naquele fragmento. Algo que impedia o desprezo. Ela tocou a borda com a unha. O som foi baixo. Quase nada. Ela fechou os dedos em torno dele.
+Kaelina tocou a borda com a unha. O som foi baixo. Fechou os dedos em torno dele.
 
 — Por que está me dando isso?
 
 — O seu povo empilhou mentiras por tempo demais. Mas mentira é coisa leve, soberana. Uma hora o vento leva. A verdade, não. A verdade pesa. E tudo que pesa deixa vestígio.
 
-Kaelina sentiu o coração bater mais forte. Antes que pudesse insistir, ele se aproximou.
+Antes que Kaelina insistisse, Marken se aproximou.
 
 — Ouça uma coisa e depois pode mandar Edran entrar, pode me prender, pode me chamar de louco, pode fazer o que quiser.
 
@@ -846,7 +834,7 @@ A voz dele baixou.
 
 — Baixe-se.
 
-Kaelina não sabia o que dizer. A frase era absurda. Fogo? Alyra? Sorriso? Parecia loucura, ameaça ou aviso. E, por algum motivo, pareceu importante. Kaelina respirou devagar.
+Kaelina tentou entender se aquilo era loucura, ameaça ou aviso.
 
 — Por que ela faria isso?
 
@@ -854,4 +842,4 @@ Marken desviou o olhar para a porta.
 
 — Porque o fogo sabe fazer uma mentira viajar. O vento só chega depois, para espalhar as cinzas.
 
-Kaelina odiava essas frases metafóricas de Marken. Ela poderia muito bem achar que ele era apenas um profeta quebrado, ou alguém tentando semear uma mentira de corredor para abrir rachaduras entre os Polar. Mas ela não podia acusá-lo de nada depois de tudo o que conversaram. Ela só precisava de uma certeza agora: Se os Tondrar tiveram real envolvimento com a morte de Yvenn, ou se tudo foi planejado debaixo de seu nariz.
+Kaelina ficou com o fragmento na mão e uma pergunta nova: se os Tondrar realmente haviam envenenado Yvenn.
