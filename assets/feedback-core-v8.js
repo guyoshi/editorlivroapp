@@ -1000,14 +1000,14 @@ const Comments = (() => {
       +'<p id="readerSwitchCurrent" class="reader-switch-current"></p>'
       +'<div class="reader-switch-section">'
       +'<strong>Entrar em outro perfil</strong>'
-      +'<p class="sheet-hint">Use o código de acesso de um perfil que já existe.</p>'
+      +'<p id="readerSwitchExistingHint" class="sheet-hint">Use o código de acesso de um perfil que já existe.</p>'
       +'<label class="field"><span>Código de acesso</span><input id="readerSwitchCode" type="text" inputmode="text" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="ex.: DE2E40" maxlength="24"></label>'
       +'<p id="readerSwitchStatus" class="reader-code-status" aria-live="polite"></p>'
       +'<button id="readerSwitchSubmit" class="btn-primary reader-switch-wide" type="button">Entrar com outro código</button>'
       +'</div>'
       +'<div class="reader-switch-section">'
       +'<strong>Novo perfil</strong>'
-      +'<p class="sheet-hint">Crie outro usuário neste aparelho. O perfil atual não será apagado e poderá ser recuperado pelo código dele.</p>'
+      +'<p id="readerSwitchNewHint" class="sheet-hint">Crie outro usuário neste aparelho. O perfil atual não será apagado e poderá ser recuperado pelo código dele.</p>'
       +'<button id="readerSwitchCreate" class="btn-ghost reader-switch-wide" type="button">Criar novo usuário</button>'
       +'</div>'
       +'<div id="readerSwitchAdminSection" class="reader-switch-section reader-switch-admin-section">'
@@ -1042,8 +1042,15 @@ const Comments = (() => {
       status.textContent="Procurando perfil…";
       status.classList.remove("error");
       try{
+        const wasAdmin=admin();
         const profile=await loginWithCode(code);
-        status.textContent="Entrando como "+profile.name+"…";
+        if(wasAdmin&&auth){
+          status.textContent="Saindo do administrador e entrando como "+profile.name+"…";
+          await auth.signOut();
+          adminUser=null;
+        }else{
+          status.textContent="Entrando como "+profile.name+"…";
+        }
         setTimeout(()=>location.reload(),180);
       }catch(e){
         status.textContent=e?.message||"Não foi possível entrar com esse código.";
@@ -1055,8 +1062,17 @@ const Comments = (() => {
     submit.addEventListener("click",go);
     input.addEventListener("keydown",e=>{if(e.key==="Enter")go();});
 
-    el.querySelector("#readerSwitchCreate").addEventListener("click",()=>{
+    el.querySelector("#readerSwitchCreate").addEventListener("click",async()=>{
+      const wasAdmin=admin();
       close();
+      if(wasAdmin&&auth){
+        try{
+          await auth.signOut();
+          adminUser=null;
+        }catch(e){
+          console.warn("Não foi possível encerrar o administrador antes de criar um leitor:",e);
+        }
+      }
       clearReaderIdentity();
       location.reload();
     });
@@ -1087,12 +1103,23 @@ const Comments = (() => {
       const el=ensureReaderSwitchSheet();
       const current=el.querySelector("#readerSwitchCurrent");
       const adminSection=el.querySelector("#readerSwitchAdminSection");
+      const existingHint=el.querySelector("#readerSwitchExistingHint");
+      const newHint=el.querySelector("#readerSwitchNewHint");
+      const adminOn=admin();
 
-      current.textContent=name()
-        ? "Perfil atual: "+name()+(accessCode()?" · Código "+accessCode():"")
-        : "Nenhum perfil de leitor ativo neste aparelho.";
+      if(adminOn){
+        current.textContent="Perfil atual: Administrador · Autor";
+        if(existingHint)existingHint.textContent="Use o código de um perfil de leitor. Ao entrar, o modo administrador será encerrado.";
+        if(newHint)newHint.textContent="Crie um novo perfil de leitor neste aparelho. O modo administrador será encerrado.";
+      }else{
+        current.textContent=name()
+          ? "Perfil atual: "+name()+(accessCode()?" · Código "+accessCode():"")
+          : "Nenhum perfil de leitor ativo neste aparelho.";
+        if(existingHint)existingHint.textContent="Use o código de acesso de um perfil que já existe.";
+        if(newHint)newHint.textContent="Crie outro usuário neste aparelho. O perfil atual não será apagado e poderá ser recuperado pelo código dele.";
+      }
 
-      if(adminSection) adminSection.hidden=admin();
+      if(adminSection) adminSection.hidden=adminOn;
       el.hidden=false;
       setTimeout(()=>el.querySelector("#readerSwitchCode")?.focus(),0);
     });
