@@ -1,16 +1,16 @@
 Daryon chegou antes do fim da manhã.
 
-Alyra ainda estava nos aposentos internos quando ouviu os passos pararem do lado de fora. Não eram passos de guarda. Guardas costumavam anunciar o próprio peso antes da voz, metal contra pedra, couro contra correia, respiração presa diante de porta soberana. Daryon caminhava diferente, leve o bastante para parecer sempre necessário e nunca intruso. Até nos corredores de Kaendar, sabia ocupar espaço sem parecer que o reivindicava.
+Alyra ainda estava nos aposentos internos quando reconheceu os passos de Daryon do lado de fora.
 
 Cal Kadrir estava com ela.
 
-Não sentado. Cal parecia incapaz de sentar-se em aposentos que não fossem seus. Permanecia de pé junto à mesa lateral, uma mão sobre o punho da espada, a outra apoiada no antebraço enfaixado. O ferimento no ombro ainda o endurecia, mas ele fingia que não. Havia homens que escondiam dor por orgulho. Cal escondia por função. O Primeiro Kae não podia parecer homem antes de parecer muralha.
+Kadrir permanecia de pé junto à mesa, uma mão no punho da espada e a outra no antebraço enfaixado. O ombro ainda o incomodava, embora tentasse não demonstrar.
 
-Sobre a mesa, mapas menores de Kaendar estavam abertos: rotas internas, portões secundários, depósitos de ração, escadarias entre anéis, pontos de água alta, cisternas antigas, cozinhas públicas e corredores por onde o Anel Baixo já começava a pedir mais do que recebia. Brokan havia deixado marcas de carvão onde portas poderiam ser reforçadas. Iressa enviara tábuas com contagem de grão-de-caule, zírrio seco de depósito, raiz amarela, carne salgada e sal negro. Nalia do Rio acrescentara observações sobre vazão, filtros, jarros contaminados e pontos onde a película oleosa se acumulava mais depressa. Maelis registrara tudo com letra limpa demais para uma cidade suja.
+Mapas de Kaendar cobriam a mesa: rotas, portões, depósitos, cisternas e escadarias. Brokan marcara reforços; Iressa enviara contagens de comida e Nalia, observações sobre a água contaminada.
 
 Alyra olhava para aquilo com o cansaço de quem via pessoas transformarem urgência em tábua.
 
-— Se eu ouvir mais um homem do anel médio dizer que precisamos de “procedimento antes de distribuição”, vou mandar ele ferver a própria tábua e beber o caldo — disse ela. — disse ela.
+— Se eu ouvir mais um homem do anel médio dizer que precisamos de “procedimento antes de distribuição”, vou mandar ele ferver a própria tábua e beber o caldo — disse ela.
 
 Cal não sorriu.
 
@@ -34,7 +34,7 @@ Alyra olhou para Cal. Por um instante, quase gostou da resposta. A batida veio. 
 
 Daryon abriu a porta.
 
-Trazia a túnica escura ajustada, o cabelo preso sem fio fora do lugar e uma caixa nos braços. Não era grande, mas obrigava as duas mãos. Madeira clara, sem ornamento Polar, amarrada por corda grossa e selada com cera cinzenta. A corda tinha nós secos, de estrada, não de depósito. Havia manchas escuras no canto inferior, absorvidas pela madeira como segredo mal guardado.
+Daryon trazia uma caixa de madeira clara, amarrada por corda de estrada e selada com cera cinzenta. Manchas escuras marcavam um dos cantos.
 
 Daryon parou ao ver Cal Kadrir. Não muito. Só o suficiente. O olhar dele passou pelo Primeiro Kae, desceu até a espada, voltou ao rosto de Alyra e encontrou ali uma parede.
 
@@ -48,7 +48,7 @@ Daryon aceitou a resposta com uma inclinação curta.
 
 — Naturalmente.
 
-A caixa pesava mais do que parecia. Ou talvez fosse o que havia dentro dela que fazia os braços de Daryon parecerem mais rígidos.
+Daryon pousou a caixa com rigidez.
 
 — Trouxeram isto pelo portão menor — disse ele. — Dois carregadores do Anel Baixo. Receberam de um homem coberto por manto de viagem, sem marca, perto dos depósitos de sal. Não esperou pagamento nem resposta. Disseram que era encomenda para ti.
 
@@ -62,7 +62,7 @@ Cal deu um passo.
 
 — Ninguém.
 
-Alyra reparou no modo como Daryon disse a palavra. Ninguém. Como se a verdade precisasse de uma porta lateral.
+Alyra olhou para Daryon.
 
 — Mas você viu o que era — disse ela.
 
@@ -84,7 +84,7 @@ Cal parou. Ela contornou a mesa e aproximou-se da caixa. Daryon a colocou sobre 
 
 Ela cortou a corda. A cera partiu-se. O cheiro saiu antes da tampa abrir por completo.
 
-Carne morta. Sangue frio. Couro molhado. Alguma coisa amarga, talvez folha-de-vedação esmagada em óleo ruim, usada para atrasar o apodrecimento sem esconder a mensagem. Cal Kadrir não se afastou, mas a mandíbula dele endureceu. Daryon ficou imóvel.
+O cheiro de carne morta, sangue frio e folha-de-vedação saiu antes da tampa abrir por completo. Kadrir endureceu a mandíbula.
 
 Alyra abriu a caixa. Dentro havia uma cabeça raspada, pele escura marcada por tinta negra borrada, a boca meio aberta, dentes cerrados como se ainda mordesse a última palavra. A pintura descia dos olhos até a mandíbula em linhas quebradas pela morte. Tondrar. A orelha esquerda tinha sido cortada. O pescoço, separado com lâmina limpa.
 
@@ -100,7 +100,7 @@ Alyra pegou o pedaço de couro primeiro. Havia marcas finas gravadas por dentro,
 
 Sob a cabeça, havia uma lâmina curta de madeira fina, gravada com linhas tão pequenas que alguém sem costume veria apenas arranhões. Alyra limpou parte do sangue com o polegar e leu. “A pedra aceitou o preço. O tambor caminhava com ventre e margem. A mulher da colheita viu a isca. A Garganta Seca recebeu sangue antes de resposta. A passagem sem raiz ainda ouve.
 
-A terceira sombra fugiu da chuva.” Alyra leu uma vez. Depois outra. O canto da boca quase se moveu. Quase. Daryon viu.
+A terceira sombra fugiu da chuva.” Alyra leu uma vez. Depois outra. Daryon percebeu a reação.
 
 — O que isso significa?
 
@@ -124,7 +124,7 @@ Cal Kadrir estreitou os olhos.
 
 — Parece que sim — disse Daryon. — “A mulher da colheita viu a isca.”. A Mão da Colheita estava lá.
 
-Alyra não disse nada. Cal olhou para ela.
+Cal olhou para ela.
 
 — Sabia disso?
 
@@ -156,7 +156,7 @@ Daryon sustentou o olhar.
 
 — Então corra mais depressa. O teu papel é aconselhar quando eu peço e entender quando eu não explico.
 
-Daryon ficou quieto. Cal Kadrir observava os dois como quem via uma porta ranger antes de cair.
+Daryon ficou quieto. Kadrir observava os dois.
 
 — O Conselho inteiro tem poder — disse Daryon, a voz mais baixa. — Não só a soberana. Teu pai sabia disso. Orionus não governava ignorando os homens que mantinham a cidade de pé. Você precisa tê-los do seu lado.
 
@@ -168,9 +168,7 @@ Daryon não gostou da resposta. A mão dele tocou a borda da mesa, perto demais 
 
 — É melhor você escolher bem em quem confia certas informações.
 
-Daryon olhou para ela e Alyra estudou o rosto dele. Havia algo diferente desde a noite anterior. Uma rigidez fora do lugar. Não a rigidez habitual de Daryon, feita para esconder intenção. Uma mais funda e mais humana. Como se uma parte dele tivesse sido tocada antes de estar pronta.
-
-Pensou no próprio corpo, nas pequenas traições que tentava tratar como cansaço, veneno, dor, qualquer coisa menos o nome que não queria dar. Não deixou nada disso chegar ao rosto.
+Alyra percebeu a rigidez incomum de Daryon e, por um instante, pensou nas próprias náuseas e dores que ainda se recusava a nomear.
 
 — Queria alguma coisa, Daryon?
 
@@ -228,13 +226,9 @@ Alyra secou os dedos devagar, embora já não houvesse sangue neles.
 
 — Vamos visitar o hóspede da minha irmã.
 
-Cal olhou para a caixa fechada sobre a mesa e assentiu. Alyra olhou para Daryon. Ele percebeu na hora que já não era mais necessário, e se retirou. Os corredores do Anel Alto estavam mais movimentados do que deveriam.
+Cal olhou para a caixa fechada sobre a mesa e assentiu. Alyra olhou para Daryon. Ele percebeu na hora que já não era mais necessário, e se retirou. Os corredores do Anel Alto estavam cheios de criados com jarros, guardas discutindo turnos e representantes do Anel Médio esperando por Iressa. Alyra passou sem intervir.
 
-A abertura das fontes altas ainda fazia a cidade tossir por dentro. Criados atravessavam passagens com jarros vazios e cheios. Guardas discutiam turnos junto às escadas. Um homem de Odran segurava uma tábua de fechaduras como se fosse escudo. Dois representantes do Anel Médio esperavam do lado de fora de uma sala menor, brigando em voz baixa sobre quem tinha prioridade para falar com Iressa: os depósitos de pão de raiz escura ou as cozinhas que já diluíam caldo de vigia para render mais. Em tempos normais, Alyra teria mandado os dois calarem a boca. Naquele dia, apenas passou.
-
-As pessoas abriam caminho. Algumas curvavam-se. Outras não tinham tempo de lembrar que deveriam.
-
-Cal Kadrir caminhava ao lado dela. Os passos dele faziam os guardas endireitarem a coluna antes mesmo de vê-lo. Isso era útil. Um Primeiro Kae ainda novo no título precisava ser visto em corredores certos. Precisava criar peso antes de precisar usá-lo.
+Kadrir caminhava ao lado dela, e os guardas se endireitavam ao reconhecer o Primeiro Kae.
 
 Ao chegarem à galeria oeste, dois guardas estavam à porta. Um deles era Lorian, jovem demais para esconder susto diante dela. O outro, mais velho, chamava-se Harvus Porta-Seca e mantinha a mão perto da lança, não por ameaça, mas por hábito de homem que sabia que portas mudavam de significado conforme quem queria atravessá-las. Os dois se endireitaram. Alyra parou diante deles.
 
@@ -270,7 +264,7 @@ Os olhos dele passaram por Cal, depois voltaram a Alyra. Não havia surpresa suf
 
 Marken não respondeu. Alyra caminhou pelo quarto, olhando para as pinturas. Algumas estavam encostadas à parede. Outras, presas com pequenos pedaços de metal. Mas a mais destacada era uma pintura de uma fortaleza em chamas.
 
-Não era Kaendar exatamente. Não nos detalhes. Os anéis não estavam corretos, a muralha parecia mais alta do que deveria, a Garganta de Kaendra surgia distorcida, como boca aberta, e o Rio Grande corria negro demais ao lado da cidade.. Mas era Kaendar o bastante para ofender.
+Não era Kaendar nos detalhes, mas os anéis, a garganta e o Rio Grande bastavam para reconhecê-la.
 
 Chamas subiam dos anéis internos. Não como incêndio comum. Como se o fogo tivesse nascido dentro da pedra e encontrado saída pelas janelas. Alyra parou diante dela.
 
@@ -328,7 +322,7 @@ Marken olhou para a janela.
 
 — Kaelina escuta porque tem medo. E isso a faz corajosa. Agir apesar do medo.
 
-A frase tocou Alyra em lugar inesperado. Ela não gostou.
+Alyra não gostou da resposta.
 
 — E eu?
 
@@ -360,7 +354,7 @@ Marken olhou para a pintura em chamas.
 
 — Não gosto. Mas ele está aqui, entre nós o tempo todo. Muitos seguram fogo achando que seguram arma. No começo, o fogo obedece. Aceita o pote, a tocha, a fenda, a mão que o leva. Depois encontra ar, madeira, medo. E aí as pessoas descobrem que nunca estavam segurando nada. Apenas abrindo caminho.
 
-Alyra ficou imóvel. A frase não era sobre fogo. Ou talvez fosse. O problema era esse. Ela olhou novamente para a pintura de Kaendar ardendo.
+Alyra olhou novamente para a pintura de Kaendar ardendo.
 
 — Acha que sou fogo?
 
@@ -384,7 +378,7 @@ Alyra não se moveu. Marken continuou, baixo:
 
 — Que sua fome de poder é alimentada pelo medo de sua irmã, a filha favorita de Orionus, ser melhor que você.
 
-A faca saiu metade da bainha. Cal Kadrir deu um passo. Marken não recuou. Não levantou as mãos. Não piscou depressa. Apenas ficou ali, sentado, como se a lâmina de Alyra fosse uma previsão cansada.
+A faca saiu metade da bainha. Cal Kadrir deu um passo. Marken permaneceu sentado.
 
 Nesse instante, a porta abriu. Kaelina apareceu ofegante. Ela parou ao ver a lâmina na mão da irmã.
 
@@ -394,7 +388,7 @@ Alyra não se virou de imediato. Depois guardou a faca com calma.
 
 — Sim, irmãzinha.
 
-A palavra veio com açúcar por cima e lâmina por baixo. Cal Kadrir olhou de uma para outra, em silêncio. Kaelina entrou um passo. Alyra passou por ela, parando perto da porta.
+Kadrir olhou de uma para outra. Kaelina entrou um passo. Alyra passou por ela, parando perto da porta.
 
 — Teu hóspede tem língua demais para alguém sem terra.
 
@@ -402,7 +396,7 @@ E saiu. Cal Kadrir permaneceu um instante. A expressão dele não entregava apro
 
 — Minha soberana.
 
-E seguiu Alyra, fechando a porta. Kaelina ficou parada por um instante, ouvindo os passos afastarem-se. Então olhou para Marken.
+E seguiu Alyra, fechando a porta. Kaelina esperou os passos se afastarem e olhou para Marken.
 
 — Não devia irritar minha irmã — disse ela. — Se ela perde a paciência, você perde a cabeça.
 
@@ -410,7 +404,7 @@ E seguiu Alyra, fechando a porta. Kaelina ficou parada por um instante, ouvindo 
 
 — Devia ter.
 
-Os olhos de Kaelina passaram sobre a pintura recente. A fortaleza em chamas. Então fechou os olhos por um instante. Estava cansada. O corpo inteiro sentia a noite anterior, o Conselho, Alyra, Daryon, o portão, Sarkan, a gravidez, os relatórios, a água, a fome. Tudo se acumulava nela como jarros que ninguém conseguia esvaziar.
+Kaelina olhou para a fortaleza em chamas e fechou os olhos por um instante.
 
 — Vi Daryon ontem — disse ela.
 
@@ -422,7 +416,7 @@ Os olhos de Marken moveram-se para ela. Pouco.
 
 — Falavam de pagamento. De serviço. De talismã. De Tondrar. De reintegração. Não ouvi tudo. Mas ouvi o bastante para saber que ele não estava ali por acaso. Ninguém atravessa a Ponte da Raiz Baixa de madrugada para conversar com areia.
 
-Kaelina sentou-se na beira da cama, mesmo sem pedir licença. A cama era do quarto. O quarto era de Kaendar. Kaendar era dela também, embora cada dia essa certeza parecesse depender de quantos guardas ainda lembravam disso.
+Kaelina sentou-se na beira da cama.
 
 — Quando ele regressou, contei a ele uma informação que ele não sabia. Pela primeira vez, vi Daryon parecer um homem qualquer.
 
@@ -430,7 +424,7 @@ Marken esperou.
 
 — Ele sempre tem resposta. Sempre tem um gesto antes da pergunta terminar. Sempre parece saber o que alguém quer esconder antes de a pessoa decidir esconder. Mas quando falei da gravidez de Alyra…
 
-Ela parou. Não sabia por que dissera aquilo para ele. Talvez porque o quarto de Marken parecesse existir fora do alcance normal da vergonha. Ou talvez porque estivesse cansada demais para continuar segurando todas as coisas sozinha.
+Ela parou por um instante.
 
 Marken não reagiu à palavra gravidez como homem curioso. Não perguntou. Não arregalou os olhos. Não olhou para a porta. Apenas esperou.
 
@@ -492,7 +486,7 @@ Marken olhou para a janela.
 
 — O que você acha?
 
-Algo no tom dele a fez imaginar se Marken conhecia Orionus. O garoto falava como se conhecesse tudo e todos.
+Kaelina perguntou-se novamente quanto Marken sabia sobre Orionus.
 
 — Orionus vencia condições — disse Kaelina, mais para si do que para ele. — Não pessoas. Cal Edran dizia isso. Ele não entrava no campo escolhido pelo inimigo. Fazia o inimigo perceber que o campo já estava errado.
 
@@ -512,16 +506,12 @@ Kaelina virou-se.
 
 — Não sei nada sobre a morte do teu pai.
 
-— Foi muito de repente. Ele adoeceu, e em menos de dois dias… ele nos deixou. Um homem tão forte. Mas eu ando pensando… como eu ignorei tantos pontos nos últimos dias. Que eram óbvios demais. Eu deveria ter imaginado que Alyra era impulsiva, e não a levar para o encontro da Lei do Portão. Ou pedir para analisarem melhor o lugar onde encontraram os garotos. Mas tudo fica mais fácil em retrospecto.
+— Foi muito de repente. Ele adoeceu e, em menos de dois dias, morreu. Tudo fica mais fácil em retrospecto, mas agora não consigo parar de pensar no que veio depois.
 
-Ela parou, respirou e continuou.
+Kaelina respirou.
 
-— Depois da morte de Orionus, Alyra e eu ganhamos o trono, o Conselho ganhou disputa, os inimigos ganharam motivos, Daryon ganhou ouvido…
+— Daryon foi quem apontou Ylvena como possível culpada. Depois da morte do meu pai, tornou-se conselheiro de Alyra. Agora eu o encontro negociando com Homens das Areias.
 
-Daryon… foi ele quem encontrou Ylvena após a morte de seu pai. Foi ele quem expôs que ela poderia ter sido a culpada. Após Orionus morrer, Daryon foi erguido como conselheiro de Alyra. A voz que fica o tempo todo nos ouvidos da irmã. Conveniente.
+Ela ficou em silêncio.
 
-E se… a irmã na verdade estivesse sob influência de alguém que a motivasse? Ou mesmo se ela não tivesse nada a ver com os meninos, Yvenn… mas sim outra pessoa. Um conselheiro? Sua mente caminhava depressa.
-
-Daryon com os Homens das Areias. Daryon olhando o salão enquanto Alyra falava. Daryon saindo do quarto da irmã. Orionus morto. Cal Edran morto. Yvenn morto. Dois garotos mortos. Alestir em cinzas. O rio sujo. Kaendar sedenta.
-
-E então começou a pensar que talvez o jogo tivesse começado muito antes do primeiro corpo aparecer na lama. Talvez antes de Yvenn. Antes dos Fendelar. Antes dos Homens das Areias. Talvez no dia em que o nome do pai deixou de proteger as filhas dele.
+Talvez a investigação não começasse nos dois garotos. Talvez precisasse voltar à morte de Orionus.
