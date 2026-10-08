@@ -668,6 +668,6 @@ Ele virou a cabeça.
 
 — Ka-an! — gritou Orel de novo, de trás das cordas, a voz quebrando no meio do nome.
 
-Kalan olhou para os dois: para Elis, livre, andando em direção a ele; para Orel, ainda contido, mas gritando de qualquer forma. Moveu os lábios, mas ninguém ouviu o que disse.
+Kalan olhou para os dois: para Elis, livre, andando em direção a ele; para Orel, ainda contido, mas gritando de qualquer forma. Moveu os lábios, mas suas palavras se perderam entre os gritos do pátio.
 
 Os guardas continuaram andando. Elis podia segui-lo agora. Nada a impedia. Kalan não podia voltar com ela.
