@@ -32,9 +32,7 @@ Alyra olhou para Cal. Por um instante, quase gostou da resposta. A batida veio. 
 
 — Entra — disse Alyra.
 
-Daryon abriu a porta.
-
-Daryon trazia uma caixa de madeira clara, amarrada por corda de estrada e selada com cera cinzenta. Manchas escuras marcavam um dos cantos.
+Daryon abriu a porta trazendo uma caixa de madeira clara, amarrada por corda de estrada e selada com cera cinzenta. Manchas escuras marcavam um dos cantos.
 
 Daryon parou ao ver Cal Kadrir. Não muito. Só o suficiente. O olhar dele passou pelo Primeiro Kae, desceu até a espada, voltou ao rosto de Alyra e encontrou ali uma parede.
 
@@ -47,8 +45,6 @@ Cal não se mexeu. Alyra apoiou as mãos na mesa.
 Daryon aceitou a resposta com uma inclinação curta.
 
 — Naturalmente.
-
-Daryon pousou a caixa com rigidez.
 
 — Trouxeram isto pelo portão menor — disse ele. — Dois carregadores do Anel Baixo. Receberam de um homem coberto por manto de viagem, sem marca, perto dos depósitos de sal. Não esperou pagamento nem resposta. Disseram que era encomenda para ti.
 
@@ -82,9 +78,7 @@ Cal parou. Ela contornou a mesa e aproximou-se da caixa. Daryon a colocou sobre 
 
 — Não.
 
-Ela cortou a corda. A cera partiu-se. O cheiro saiu antes da tampa abrir por completo.
-
-O cheiro de carne morta, sangue frio e folha-de-vedação saiu antes da tampa abrir por completo. Kadrir endureceu a mandíbula.
+Ela cortou a corda. A cera partiu-se. Antes que a tampa se abrisse por completo, veio o cheiro de carne morta, sangue frio e folha-de-vedação. Kadrir endureceu a mandíbula.
 
 Alyra abriu a caixa. Dentro havia uma cabeça raspada, pele escura marcada por tinta negra borrada, a boca meio aberta, dentes cerrados como se ainda mordesse a última palavra. A pintura descia dos olhos até a mandíbula em linhas quebradas pela morte. Tondrar. A orelha esquerda tinha sido cortada. O pescoço, separado com lâmina limpa.
 
@@ -122,7 +116,7 @@ Cal Kadrir estreitou os olhos.
 
 — Juntos?
 
-— Parece que sim — disse Daryon. — “A mulher da colheita viu a isca.”. A Mão da Colheita estava lá.
+— Parece que sim — disse Daryon. — “A mulher da colheita viu a isca.” A Mão da Colheita estava lá.
 
 Cal olhou para ela.
 
@@ -140,7 +134,7 @@ Daryon aproximou-se da mesa.
 
 — Sem avisar?
 
-— Sim Alyra, uma operação por fora do Conselho, por fora de mim, por fora dos teus próprios capitães…
+— Sim, Alyra, uma operação por fora do Conselho, por fora de mim, por fora dos teus próprios capitães…
 
 — O Conselho discute a forma correta de abrir barril enquanto criança vomita água suja. Brokan quer ferro. Iressa quer contagem. Odran quer chaves. Varron quer sombra. Nalia quer margem. Maelis quer que tudo caiba em tábua antes de acontecer. Cada um quer que a guerra espere pelo ofício de cada um.
 
@@ -226,7 +220,7 @@ Alyra secou os dedos devagar, embora já não houvesse sangue neles.
 
 — Vamos visitar o hóspede da minha irmã.
 
-Cal olhou para a caixa fechada sobre a mesa e assentiu. Alyra olhou para Daryon. Ele percebeu na hora que já não era mais necessário, e se retirou. Os corredores do Anel Alto estavam cheios de criados com jarros, guardas discutindo turnos e representantes do Anel Médio esperando por Iressa. Alyra passou sem intervir.
+Cal olhou para a caixa fechada sobre a mesa e assentiu. Alyra olhou para Daryon. Daryon se retirou. Os corredores do Anel Alto estavam cheios de criados com jarros, guardas discutindo turnos e representantes do Anel Médio esperando por Iressa. Alyra passou sem intervir.
 
 Kadrir caminhava ao lado dela, e os guardas se endireitavam ao reconhecer o Primeiro Kae.
 
@@ -432,17 +426,17 @@ Marken não reagiu à palavra gravidez como homem curioso. Não perguntou. Não 
 
 — E gostou de ver isso? — Marken perguntou.
 
-Kaelina virou-se pra ele. Era uma pergunta inesperada. Mas respondeu:
+Kaelina virou-se para ele. Era uma pergunta inesperada. Mas respondeu:
 
 — Gostei de vê-lo assim.
 
-— Homens que sabem tudo não temem o que sabem. — disse Marken. — Temem o que descobrem tarde demais.
+— Homens que sabem tudo não temem o que sabem — disse Marken. — Temem o que descobrem tarde demais.
 
 Kaelina ficou imóvel, e seus lábios continuaram a frase de Marken.
 
 — Porque perdem o controle.
 
-O silêncio entrou devagar. Lá fora, alguém passou pelo corredor carregando metal. O som ecoou, breve, depois sumiu.
+Lá fora, alguém passou pelo corredor carregando metal. O som ecoou, breve, depois sumiu.
 
 Kaelina olhou para as pinturas outra vez. O rio negro. A torre partida. A criança na raiz. A fortaleza em chamas.
 
@@ -458,7 +452,7 @@ Kaelina olhou para as pinturas outra vez. O rio negro. A torre partida. A crian�
 
 — Todos fazem coisas escondidas de ti agora.
 
-A frase não teve crueldade. Por isso doeu mais. Kaelina respirou fundo.
+Kaelina respirou fundo.
 
 — Acho que ela matou os dois garotos.
 
@@ -492,7 +486,7 @@ Kaelina perguntou-se novamente quanto Marken sabia sobre Orionus.
 
 Marken não disse nada.
 
-Kaelina caminhou lentamente pelo quarto. As pinturas pareciam observá-la em silêncio. Então pensou em Orionus vivo. Não como pai da lembrança, mas como soberano. O homem que transformava orgulho em ferramenta. Que deixava uma porta parecer aberta para ver quem se apressava. Que oferecia pão, água e sal a emissário de paz porque recusar comida revelava mais do que ameaça.
+Kaelina caminhou lentamente pelo quarto. As pinturas trouxeram à memória Orionus vivo. Não como pai da lembrança, mas como soberano. O homem que transformava orgulho em ferramenta. Que deixava uma porta parecer aberta para ver quem se apressava. Que oferecia pão, água e sal a emissário de paz porque recusar comida revelava mais do que ameaça.
 
 — Meu pai morreu numa hora conveniente — disse ela.
 
