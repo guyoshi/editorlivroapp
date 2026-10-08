@@ -1,4 +1,4 @@
-Sonhou com o céu se abrindo em clarões. Uma pedra imensa atravessava as nuvens e se chocava com a terra. O chão rachava, e das rachaduras jorrava água, que cobria tudo.
+Jokara sonhou com o céu se abrindo em clarões. Uma pedra imensa atravessava as nuvens e se chocava com a terra. O chão rachava, e das rachaduras jorrava água, que cobria tudo.
 
 Acordou ofegante. A primeira coisa que viu foi Nestira, ajoelhada diante dela, os olhos arregalados.
 
