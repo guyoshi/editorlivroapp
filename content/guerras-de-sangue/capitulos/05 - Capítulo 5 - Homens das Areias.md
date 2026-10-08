@@ -1,20 +1,12 @@
-Quatro dias eram pouco para uma cidade esquecer dois mortos. Mas eram tempo suficiente para a dor aprender a mudar de roupa.
+Quatro dias eram pouco para Kaendar esquecer dois mortos, mas bastavam para a dor mudar de forma.
 
-No primeiro dia, Kaendar chorou em público. Os corpos dos rapazes foram lavados com água fria, cobertos com pano escuro e levados ao pátio baixo, onde famílias, vizinhos e curiosos formaram círculos desiguais ao redor da perda. A mãe de um deles não largou o punho do filho até que os dedos dela precisassem ser abertos por outras mãos. O pai permaneceu de pé até o fim, imóvel, como se cair fosse admitir que o mundo tinha vencido.
+No primeiro, a cidade chorou em público enquanto as famílias velavam os rapazes no pátio baixo. No segundo, discutiu Tondrar, soberanas, Orionus e guerra em filas de pão, forjas e escadas. No terceiro, contou sal, grão, ferro e Vigias; carroças passaram a ser revistadas duas vezes e crianças foram chamadas para dentro antes do anoitecer.
 
-No segundo dia, a cidade falou.
-
-Falou nas filas de pão escuro de grão-de-caule, nos corredores das forjas, nas escadas dos anéis inferiores, nos depósitos de couro de balili, nas passagens estreitas onde duas pessoas fingem não cochichar enquanto cochicham. Falou dos Tondrar, dos Fendelar, dos clãs menores, da fraqueza das soberanas, da força das soberanas, da morte de Orionus, da paz longa demais, da guerra que talvez fosse necessária, da guerra que talvez já tivesse começado.
-
-No terceiro dia, a cidade mediu.
-
-Mediu sal, grão, ferro, medo, lealdade. Os Vigias foram dobrados nas torres e nas estacas externas. As carroças de fora passaram a ser revistadas duas vezes: roda, fundo falso, carga de couro, saco de grão, barril de sal. As crianças do anel externo foram chamadas para dentro mais cedo, antes que a luz baixasse o bastante para transformar qualquer sombra em rumor. Os homens que costumavam beber depois do trabalho beberam menos, porque até a embriaguez parecia uma porta aberta demais.
-
-No quarto dia, Kaendar fingiu calma. E foi nesse dia que os mensageiros de Alyra começaram a voltar.
+No quarto, Kaendar fingiu calma. Foi quando os mensageiros de Alyra começaram a voltar.
 
 Ela os recebeu numa sala pequena do anel alto, longe da Mesa da Raiz, longe dos olhos oficiais, longe das tábuas de registro de Maelis. A sala tinha paredes nuas, uma mesa curta de pedra e uma única lamparina de óleo de semente escura misturado com gordura velha, cujo cheiro lembrava cozinha pobre, couro aquecido e coisa escondida tempo demais. O aposento parecia uma sala de espera para gente que não devia ser vista esperando.
 
-Alyra gostava dela por isso. Ali, ninguém confundia poder com conforto. Daryon estava ao lado da mesa, de pé, as mãos unidas atrás do corpo. A luz da lamparina cortava o rosto dele pela metade, deixando um olho vivo e o outro escondido. Parecia sempre ter nascido para salas mal iluminadas. O tipo de homem que não precisava de sombra, mas a usava por educação.
+Daryon esperava ao lado da mesa, de pé, com as mãos unidas atrás do corpo. A lamparina deixava metade de seu rosto na sombra.
 
 O primeiro mensageiro ajoelhou-se diante de Alyra. Trazia barro até os joelhos e poeira seca nos ombros. Era um homem do portão leste, bom de estrada, péssimo de mentira. Alyra sabia disso porque já o vira tentar esconder medo uma vez. Fracassara miseravelmente.
 
@@ -86,7 +78,7 @@ O mensageiro continuava ajoelhado.
 
 O homem saiu. E então veio o vazio. Não havia um quarto mensageiro. Alyra permaneceu sentada durante alguns instantes, observando a porta fechada. O silêncio ocupou o espaço onde deveria estar Veyr Polar. Daryon esperou.
 
-Ele sabia esperar de um jeito que irritava e atraía. Não era o silêncio bruto de Edran, feito de disciplina e pedra. O silêncio de Daryon era outro: macio, atento, como uma mão pousada sobre uma lâmina. Alyra bateu dois dedos na mesa.
+Daryon esperou. Alyra bateu dois dedos na mesa.
 
 — Veyr devia ter voltado ontem.
 
@@ -156,9 +148,7 @@ O silêncio mudou. Alyra olhou para ele. Daryon aproximou-se da lamparina e baix
 
 — Homens das Areias.
 
-O nome era uma daquelas partes de Kaendar que a cidade escondia de si mesma, como cicatriz sob manga comprida.
-
-Exilados. Desertores. Criminosos. Bastardos de disputa política. Soldados expulsos. Famílias marcadas por traições antigas. Gente que perdera o direito à Raiz e fora empurrada para as terras secas ao sul, onde a pedra rachava sob o sol e a água precisava ser negociada como perdão. A Dinastia não os chamava nem ao menos de clã.
+Os Homens das Areias eram exilados, desertores, criminosos e famílias marcadas por traições antigas. Haviam perdido o direito à Raiz e sido empurrados para as terras secas ao sul. Kaendar nem sequer os reconhecia como clã.
 
 Alyra caminhou até a parede. Havia um mapa antigo ali, quase apagado pela umidade. A região das areias não aparecia com detalhe. Nem os poços, nem as rotas dos harruns, nem as fendas onde sibilos-de-Ardash se enterravam durante o calor. Apenas uma mancha clara, sulcada por linhas que indicavam rotas mortas.
 
@@ -166,7 +156,7 @@ Alyra caminhou até a parede. Havia um mapa antigo ali, quase apagado pela umida
 
 — Kaelina não precisa saber.
 
-Alyra olhou para Daryon. A frase devia tê-la incomodado mais. Mas não incomodou. Pelo contrário, havia nela uma espécie de alívio. Uma porta abrindo onde a irmã passara quatro dias a desenhar paredes.
+Alyra olhou para Daryon. Alyra sentiu alívio.
 
 — Se os usarmos, quem garante que obedecerão?
 
@@ -336,7 +326,7 @@ Alyra aproximou-se um passo.
 
 — Porque todos sabem que ninguém em Kaendar acusa minha irmã diante de Cal Edran e espera parecer corajoso depois.
 
-Ele olhou para a porta. Edran encontrou os olhos dela. Havia algo ali que Alyra nunca sabia se admirava ou odiava: ele não temia contrariá-la. Temia apenas escolher errado. Por fim, inclinou a cabeça.
+Ele olhou para a porta. Edran olhou para ela por mais um instante e, por fim, inclinou a cabeça.
 
 — Voltarei rápido.
 
@@ -404,17 +394,7 @@ Alyra olhou para ele. Daryon entrou e fechou a porta.
 
 — E você julga demais para alguém que está a caminho dos exilados.
 
-A carruagem moveu-se. Kaendar ficou para trás devagar, pedra após pedra, anel após anel, como se a cidade se despisse da própria autoridade quanto mais se afastavam do centro. Durante um tempo, nenhum dos dois falou.
-
-Alyra afastou um pouco o pano lateral e viu a muralha passar. As tochas no alto pareciam olhos cansados. Em algum lugar ali dentro, Kaelina dormia ou acordava com ideias de paz. Edran talvez já tivesse descoberto que o rumor do pátio baixo era fumaça sem fogo. Ou talvez ainda estivesse a procurar a língua que Alyra inventara.
-
-A carruagem passou pelo portão menor. As correntes moveram-se acima deles. O som fez Alyra lembrar do capítulo encerrado na Mesa da Raiz: trégua aprovada, conselheiros inquietos, Alyra sorrindo porque a irmã vencera uma decisão que podia matá-la.
-
-Mas ainda não estavam realmente fora do alcance de Kaendar. Para chegar aos Homens das Areias, era preciso descer até o trecho baixo da cidade, cruzar a Ponte da Raiz Baixa e passar para o outro lado do Rio Grande, onde as rotas deixavam de obedecer tão depressa ao olhar das muralhas. A ponte surgia ao sul como uma costela escura sobre a água, presa por pilares de pedra, madeira grossa e ferro antigo. Mesmo àquela hora, havia cobrança, guarda e olhos. Sempre havia olhos onde Kaendar tocava caminho.
-
-Daryon não mandou a carruagem parar. Mostrou um selo pequeno pela fresta, disse poucas palavras ao posto de passagem, e os guardas ergueram a corrente sem fazer perguntas suficientes. Alyra sentiu a roda mudar de som quando deixou a pedra da cidade e entrou na madeira da ponte. Sob eles, o Rio Grande corria escuro, largo, indiferente. À direita, para o sul, seguia rumo às salinas e ao Mar de Arvessa. À frente, para oeste, começava a estrada que Kaendar preferia fingir que não usava.
-
-Só depois da ponte a cidade ficou para trás de verdade.
+A carruagem deixou os anéis pelos acessos de serviço e seguiu até a Ponte da Raiz Baixa. Daryon mostrou um selo pela fresta; os guardas ergueram a corrente sem perguntas suficientes. Quando as rodas passaram da pedra para a madeira e cruzaram o Rio Grande, Kaendar enfim ficou para trás.
 
 — Kaelina acha que sou impulsiva — disse Alyra.
 
@@ -436,19 +416,17 @@ Daryon demorou. Quando respondeu, sua voz veio mais baixa.
 
 Alyra abriu os olhos. A palavra era simples, mas o suficiente.
 
-As terras das areias não começavam de repente. Primeiro surgiam as pegadas largas dos harruns, fundos arredondados na poeira que indicavam onde ainda havia água suficiente para manter alguma coisa viva. Próximo aos primeiros abrigos secos, raízes de nó-de-fome deixavam marcas fundas no solo, arrancadas apenas quando os depósitos já não ofereciam escolha melhor.Depois da Ponte da Raiz Baixa, as terras Polar ainda demorava a morrer. Primeiro vinham caminhos vigiados, pequenas casas de sal, postos baixos, carroças que desciam para as Salinas de Arvessa e homens que fingiam não reconhecer uma carruagem sem brasão. Depois, quanto mais a rota virava para oeste, menos a Raiz aparecia inteira nas portas e mais carcaças de harruns apareciam junto ao caminho, limpas pela areia e pelo tempo. Cercas de espinho-de-Ardash surgiam junto às casas mais isoladas, não para impedir exércitos, mas para fazer qualquer visitante sangrar antes de chegar à porta.
+As terras secas surgiram aos poucos. Depois da ponte ainda havia postos Polar, carroças rumo às Salinas de Arvessa e pequenas casas de sal. Mais a oeste, a Raiz desaparecia das portas, pegadas de harrun marcavam a poeira e cercas de espinho-de-Ardash protegiam casas isoladas.
 
-Conforme seguiam, a floresta afinava, as árvores ficavam mais baixas, mais tortas, menos generosas. O solo perdia a gordura escura e começava a mostrar costelas de pedra. O musgo sumia em manchas, substituído por arbustos duros, caule-gordo partido por faca de viajante e raízes que pareciam mais osso do que planta. A lama endurecia. O ar ganhava um gosto mineral, seco, que raspava a garganta. Por fim vinham os arbustos de espinho, os barrancos claros, a terra partida em escamas e o vento quente que não soprava: empurrava.
+A floresta afinou até dar lugar a árvores baixas, pedra exposta, caule-gordo e barrancos claros. A lama endureceu. O ar ganhou gosto mineral.
 
 Ali viviam os que Kaendar expulsara sem coragem de matar. Do outro lado do Rio Grande, para lá da ponte, da cobrança e dos postos que fingiam controlar tudo, a Dinastia deixara crescer aquilo que não queria ver.
 
 A primeira construção apareceu pouco antes de a lua maior alcançar o alto. A menor ainda subia atrás deles, avermelhada pela poeira das terras secas. Era uma cabana torta, feita de madeira roubada, pele velha e barro rachado. Depois outra. Depois um círculo de casas baixas ao redor de um poço coberto por grade de ferro. Perto dele, folhas grossas de agave-de-Veshkar secavam sobre pedras, esperando virar fibra, bebida amarga ou cerca. Havia cordas penduradas em traves, animais magros amarrados a pedras, crianças de olhos fundos observando a carruagem sem correr. Algumas tinham o símbolo da Raiz queimado no braço, não completo, apenas uma espiral partida, marca de famílias que haviam perdido o direito de tocá-la.
 
-Os Homens das Areias não eram todos homens. Havia mulheres com braços de caçadora e rosto coberto por panos claros. Velhos sem dentes, sentados à sombra de muros baixos. Rapazes com lâminas presas à coxa. Meninas magras carregando jarros de água como se carregassem metal precioso. Bebês dormindo em cestos pendurados sob panos que mal protegiam do vento.
+Havia mulheres caçadoras, velhos, rapazes armados, meninas carregando jarros e bebês em cestos protegidos por pano. Alyra observou pela fresta as Raízes queimadas nos braços, o couro velho e as casas tortas. Pensou em quantos daqueles braços poderiam estar segurando lanças nas muralhas de Kaendar.
 
-Alyra viu tudo pela fresta. Sentiu desprezo. Não por serem pobres. O que a irritava era a queda. Homens de Kaendar reduzidos a roer terra seca. Braços que poderiam segurar lança agora disputavam couro velho. Famílias que poderiam vigiar fronteira viviam de contrabando, ameaça, tiras de harrum seco, caule-gordo mastigado sem prazer e pequenos trabalhos sujos que Kaendar fingia não encomendar.
-
-Que desperdício. O pensamento veio antes da piedade. E Alyra não teve vergonha dele. A carruagem coberta parou no centro do povoado. Não houve ordem audível. Mesmo assim, sombras se moveram.
+Que desperdício. A carruagem coberta parou no centro do povoado. Não houve ordem audível. Mesmo assim, sombras se moveram.
 
 Homens surgiram entre casas. Mulheres fecharam portas por dentro. Arcos apareceram em telhados baixos. Uma lança bateu no chão à frente dos tarraks. Outro homem veio por trás, cortando a retirada. O condutor ergueu as mãos, sabendo que qualquer heroísmo ali morreria sem testemunha. Daryon abriu a porta primeiro.
 
@@ -458,9 +436,7 @@ Saiu com calma, como se tivesse chegado para jantar em casa de conhecidos desagr
 
 Um homem riu à esquerda. Outro cuspiu perto da roda. Daryon não olhou. A risada morreu quando Sarkan Boca-Rasgada apareceu.
 
-Ele não era tão grande quanto a lenda gostaria. Isso o tornava pior. Homens enormes intimidam de longe. Sarkan incomodava de perto.
-
-Tinha o rosto rasgado da boca até quase a orelha direita, uma cicatriz grossa que repuxava a pele e deixava parte dos dentes exposta mesmo quando estava sério. Por isso o nome. Boca-Rasgada. A metade direita do sorriso estava sempre ali, involuntária, seca, cruel. Os dentes visíveis eram irregulares, alguns escuros, outros limados. O cabelo comprido estava preso em tranças grossas, com uma mecha grisalha caída sobre o ombro. No peito, usava couro gasto, aberto, mostrando marcas antigas: cortes, queimaduras, sinais de chicote e uma Raiz incompleta, riscada por cima com ferro quente. Aquilo funcionava como gramática de exílio: pertença, mas não toque; lembre, mas não volte. Um homem que fora arrancado do próprio nome.
+Sarkan não era particularmente grande. Uma cicatriz abria-lhe o rosto da boca até perto da orelha direita, repuxando a pele e deixando dentes à mostra mesmo quando estava sério. O cabelo comprido vinha preso em tranças grossas, com uma mecha grisalha sobre o ombro. No peito, entre cortes e queimaduras antigas, a Raiz incompleta havia sido riscada com ferro quente.
 
 Ele olhou para Daryon.
 
@@ -608,7 +584,7 @@ Uma criança tossiu dentro de uma das casas. O som fez a frase parecer mais suja
 
 — Homens, mulheres, crianças? — perguntou Sarkan.
 
-Não havia horror na voz dele. Só cálculo. Isso, de alguma forma, era pior. Daryon olhou para Alyra.
+Sarkan falou em tom de cálculo. Daryon olhou para Alyra.
 
 Ela sentiu o desconforto no ventre outra vez, mais fundo agora, como se o corpo tivesse ouvido antes da consciência. Por um instante, viu a mãe no pátio de Kaendar abraçada ao filho morto. Alyra fechou a mão.
 
@@ -646,9 +622,7 @@ Sarkan ergueu a mão, calando-o.
 
 — Então mereçam.
 
-O silêncio pesou. Alyra sabia que a palavra “mereçam” era cruel. Também sabia que funcionava.
-
-Os exilados não queriam só alimento. Queriam que a humilhação dos ciclos anteriores tivesse uma saída, que seus filhos entrassem em Kaendar sem serem chamados de resto. Queriam morrer como homens úteis, não como poeira esquecida. Sarkan fechou os dedos ao redor do talismã.
+Sarkan fechou os dedos ao redor do talismã. Atrás dele, ninguém afastou os olhos dos sacos de comida.
 
 — Velarim não é fácil.
 
@@ -680,9 +654,7 @@ Isso pareceu agradá-lo mais. Sarkan fez sinal. Dois homens foram até a carruag
 
 — Um terço, idiota. Se roubar antes do acordo, acabou o tratado.
 
-Alyra guardou a faca. A partir dali, os homens que antes a cercavam começaram a olhá-la não como inimiga, mas como alguém que podia ser uma saída. A carruagem deixou as areias antes da primeira claridade.
-
-Alyra não olhou para trás de imediato. Não queria dar ao lugar a impressão de que havia pesado. Mas, quando as casas tortas viraram sombras pequenas na distância, puxou discretamente o pano lateral. Os Homens das Areias continuavam ali. Menores agora, mas não menos perigosos.
+Alyra guardou a faca. A carruagem deixou as areias antes da primeira claridade. Quando as casas tortas viraram sombras na distância, ela puxou discretamente o pano lateral e olhou para trás.
 
 A viagem de volta foi mais lenta. Daryon evitou as rotas principais, descendo por caminhos de pedra seca até uma curva de rio estreito onde a água corria escura entre margens baixas. Ali, pararam para descansar os tarraks e esperar que uma patrulha de Kaendar passasse longe.
 
@@ -734,29 +706,17 @@ Alyra riu baixo.
 
 — Já teria feito se não gostasse dela.
 
-O silêncio que veio depois era velho entre eles.
-
-Não nasceu naquela noite. Já existia antes, em corredores, reuniões longas, discussões depois de vinho, mãos que demoravam um pouco mais do que a política permitia. Daryon e Alyra nunca tinham sido inocentes um com o outro. Nem fingiam. Havia desejo ali, sim. Mas havia também reconhecimento. Ele amava nela o que outros chamariam de excesso. Ela desejava nele o que outros chamariam de falta.
-
-Falta de medo, de moral bonita, de necessidade de ser salvo. Daryon tocou a mão dela. Alyra não afastou.
+O silêncio entre os dois não era novo. Havia anos aparecia em corredores, reuniões tardias e discussões depois do vinho. Daryon tocou a mão dela. Alyra não afastou.
 
 — Ainda há tempo de recuar — disse ele.
 
 Ela virou-se totalmente para ele e então puxou-o pela gola e beijou-o.
 
-O beijo veio carregado de raiva, aliança, noite cúmplice e tudo que não podia ser dito diante da Mesa da Raiz. Daryon respondeu como se esperasse por aquilo desde antes da viagem, talvez desde antes dos mortos, talvez desde o dia em que percebeu que Alyra não queria apenas ser amada: queria ser escolhida contra o mundo. A mão dele encontrou a cintura dela.
-
-Alyra prendeu a respiração quando o toque passou perto demais do ponto sensível do ventre.
-
-Ela o beijou-o de novo, mais devagar desta vez. Não por suavidade. Por controle. Alyra gostava de controlar inclusive aquilo que a tomava.
-
-O fogo baixo escondia mais do que iluminava. A carruagem, as árvores baixas, o rio escuro, os tarraks cansados, tudo parecia afastado. Por alguns instantes, não havia Kaelina, nem Homens da Areia, nem Tondrar, nem Fendelar, nem Lei do Portão.
-
-Havia apenas fogo. Fogo humano. Quando se afastaram, Daryon encostou a testa na dela.
+Daryon respondeu ao beijo e a mão dele encontrou a cintura dela. Alyra prendeu a respiração quando o toque passou perto do ponto sensível do ventre, mas o puxou de volta quando ele tentou se afastar. Quando enfim se separaram, Daryon encostou a testa na dela.
 
 — Eu te amo.
 
-Alyra fechou os olhos. A frase devia ser perigosa. Mas, naquela noite, tudo era.
+Alyra fechou os olhos.
 
 — Precisa que eu diga de volta?
 
