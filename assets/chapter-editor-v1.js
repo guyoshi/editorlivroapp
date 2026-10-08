@@ -103,20 +103,21 @@
   }
 
   async function loadCurrentRaw(ctx){
-    // Depois de uma publicação, o leitor já contém a versão nova em memória.
-    // Reutilizá-la evita voltar ao arquivo estático antigo enquanto o deploy/sync
-    // ainda não terminou e permite várias edições seguidas sem recarregar.
-    const live=window.BookReader?.getCurrentContext?.();
-    const sameChapter=live
-      && String(live.bookId||"")===String(ctx.book.id||"")
-      && Number(live.chapter?.n)===Number(ctx.chapter.n);
-    if(sameChapter&&String(live.raw||"").trim())return String(live.raw);
-
-    // Fallback para a primeira abertura ou caso o estado em memória não exista.
-    const url=new URL(ctx.chapter.text, document.baseURI).href;
-    const res=await fetch(url,{cache:"no-cache"});
-    if(!res.ok)throw new Error("Não consegui carregar o texto atual do capítulo.");
-    return res.text();
+    // Para edição do autor, a única base segura é o arquivo canônico.
+    // A cópia estática usada pelo leitor pode ficar para trás depois de uma
+    // publicação, principalmente se o capítulo for fechado e reaberto.
+    const path=canonicalPath(ctx);
+    try{
+      const remote=await github(path);
+      const raw=base64ToUtf8(remote.content);
+      if(!String(raw||"").trim())throw new Error("O capítulo oficial está vazio.");
+      return raw;
+    }catch(err){
+      // Não deixa o autor editar sobre uma cópia possivelmente antiga.
+      // Publicar depois disso poderia reintroduzir texto já removido.
+      if(/Publicação cancelada|token|GitHub|oficial|capítulo/i.test(String(err?.message||"")))throw err;
+      throw new Error("Não consegui conferir a versão oficial do capítulo. Verifique a conexão e tente novamente.");
+    }
   }
 
   async function startEdit(block){
@@ -133,15 +134,44 @@
 
     try{
       block.classList.add("chapter-edit-loading");
+      const clickedP=[...block.children].find(x=>x.tagName==="P");
+      if(!clickedP)throw new Error("Não encontrei o texto desse parágrafo.");
+      const clickedText=clickedP.textContent||"";
+      const clickedKey=block.dataset.paragraphKey||keyFor(clickedText);
+
       const raw=await loadCurrentRaw(ctx);
       const paras=parseParagraphs(raw);
-      if(idx<0||idx>=paras.length)throw new Error("O parágrafo mudou desde que o capítulo foi aberto. Reabra o capítulo.");
+
+      // Se a tela estiver mostrando uma cópia antiga, identifica o mesmo
+      // parágrafo na versão oficial e atualiza o capítulo antes de editar.
+      const live=window.BookReader?.getCurrentContext?.();
+      const liveRaw=String(live?.raw||"");
+      let targetIdx=idx;
+      if(!sameText(liveRaw,raw)){
+        const byKey=paras.map((text,i)=>({i,key:keyFor(text),text})).filter(x=>x.key===clickedKey);
+        const byText=paras.map((text,i)=>({i,text})).filter(x=>sameText(x.text,clickedText));
+        if(byKey.length===1)targetIdx=byKey[0].i;
+        else if(byText.length===1)targetIdx=byText[0].i;
+        else if(idx>=0&&idx<paras.length&&sameText(paras[idx],clickedText))targetIdx=idx;
+        else{
+          block.classList.remove("chapter-edit-loading");
+          await window.BookReader?.applyPublishedChapter?.(raw);
+          throw new Error("O capítulo foi atualizado e este parágrafo mudou. A versão oficial já foi recarregada; toque novamente no trecho que deseja editar.");
+        }
+
+        await window.BookReader?.applyPublishedChapter?.(raw);
+        block=qs('#chapterText .para-block[data-para-idx="'+targetIdx+'"]');
+        if(!block)throw new Error("A versão oficial foi carregada, mas não consegui reencontrar este parágrafo. Toque nele novamente.");
+      }
+
+      if(targetIdx<0||targetIdx>=paras.length)throw new Error("O parágrafo mudou desde que o capítulo foi aberto. A versão oficial foi recarregada.");
       const p=[...block.children].find(x=>x.tagName==="P");
       if(!p)throw new Error("Não encontrei o texto desse parágrafo.");
+      const actualIdx=targetIdx;
 
       const ta=document.createElement("textarea");
       ta.className="chapter-inline-editor";
-      ta.value=paras[idx];
+      ta.value=paras[actualIdx];
       ta.setAttribute("aria-label","Editar parágrafo");
       ta.spellcheck=true;
       ta.addEventListener("input",resizeTextarea);
@@ -155,16 +185,16 @@
       block.classList.add("chapter-editing");
 
       edit={
-        ctx,block,idx,p,textarea:ta,raw,
+        ctx,block,idx:actualIdx,p,textarea:ta,raw,
         rawEndsWithNewline:/\n$/.test(raw),
         paras,
-        original:paras[idx],
-        sourceKey:block.dataset.paragraphKey||keyFor(paras[idx])
+        original:paras[actualIdx],
+        sourceKey:block.dataset.paragraphKey||keyFor(paras[actualIdx])
       };
 
       ensureUi();
       qs("#chapterEditorBar").hidden=false;
-      qs("#chapterEditorBarTitle").textContent="Editando §"+(idx+1)+" · Cap. "+ctx.chapter.n;
+      qs("#chapterEditorBarTitle").textContent="Editando §"+(actualIdx+1)+" · Cap. "+ctx.chapter.n;
       resizeTextarea();
       requestAnimationFrame(()=>{resizeTextarea();ta.focus();ta.setSelectionRange(ta.value.length,ta.value.length);});
     }catch(err){
