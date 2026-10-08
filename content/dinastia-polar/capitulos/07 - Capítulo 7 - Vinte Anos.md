@@ -78,7 +78,7 @@ Uma mulher esperava junto à porta dos aposentos privados, imóvel com a paciên
 
 — Dareth Quatro-Dedos. — Ela retribuiu o gesto, breve e exato, sem nenhum traço de surpresa; era óbvio que já sabia, fazia horas, que ele vinha a caminho. Não sorriu, mas algo nos olhos dela se abrandou por um instante, o bastante para valer por um sorriso inteiro em outra pessoa.
 
-— Calandrir — disse ele, olhando de novo para a insígnia e para a raiz, ainda sem acreditar de todo. Sem perceber, levou dois dedos à própria têmpora, onde a pele, vinte anos depois da cerimônia em que a lavaram, ainda era um tom mais clara.
+— Calandrir — disse ele, olhando de novo para a insígnia e para a raiz, ainda sem acreditar de todo. Sem perceber, levou dois dedos à própria têmpora, onde a pele escura, vinte anos depois da cerimônia em que a lavaram, ainda era um tom mais clara que o resto do rosto.
 
 — Seu antigo posto. — Ela disse aquilo sem orgulho aparente, como quem apenas relata um fato. — Amaric me escreveu, uma vez, dizendo que você ficaria satisfeito. Contive um motim sozinha no Armazém Norte, no meu terceiro ano no cargo. Nada que valha lenda. Só o suficiente para que Vetarius decidisse que não queria mais ninguém entre ele e uma lâmina além de mim.
 

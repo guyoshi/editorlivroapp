@@ -220,7 +220,7 @@ Ele soltou o galho.
 
 Rendar virou-se para os homens. Nenhum disse nada. Foi então que os olhos de Rendar encontraram os de Kaelina.
 
-Talvez ele tivesse notado a corda antes, o rosto baixo, os guardas demais ao redor de uma prisioneira que não parecia Buldar, nem Tondrar, nem mulher de estrada. O cabelo dela estava sujo, a pele queimada de sol e febre, a roupa marcada de sangue seco sob as costelas. Ainda assim, havia traços que nem poeira escondia. A linha do rosto. A boca. O formato dos olhos. Ela era muito parecida com a que ele quase matara. A outra soberana.
+Talvez ele tivesse notado a corda antes, o rosto baixo, os guardas demais ao redor de uma prisioneira que não parecia Buldar, nem Tondrar, nem mulher de estrada. O cabelo dela estava sujo, a pele ressecada de sol e febre, a roupa marcada de sangue seco sob as costelas. Ainda assim, havia traços que nem poeira escondia. A linha do rosto. A boca. O formato dos olhos. Ela era muito parecida com a que ele quase matara. A outra soberana.
 
 Rendar tentou passar. Dois Tondrar de Kharvok cruzaram lanças diante dele. Rendar não olhou para as lanças. Olhou para Kaelina, e então puxou a faca.
 

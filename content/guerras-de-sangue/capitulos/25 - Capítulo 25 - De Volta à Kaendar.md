@@ -212,7 +212,7 @@ Rendar não respondeu. O silêncio dele tinha forma de morte. Kaelina sentiu med
 
 — Quero que saiba uma coisa — disse ela. — Embora tenhamos nossas diferenças, Alyra ainda é minha irmã. Se fizer algo com ela, eu te mato.
 
-Ela estava encostada à parede, com os pulsos marcados, a pele pálida, uma linha de sangue no pescoço e as pernas instáveis. Não havia arma em sua mão. Não havia guarda ao redor. Não havia trono atrás. A ameaça, dita naquela condição, não parecia grande. Parecia verdadeira. Rendar olhou para ela por tempo demais.
+Ela estava encostada à parede, com os pulsos marcados, a pele acinzentada, uma linha de sangue no pescoço e as pernas instáveis. Não havia arma em sua mão. Não havia guarda ao redor. Não havia trono atrás. A ameaça, dita naquela condição, não parecia grande. Parecia verdadeira. Rendar olhou para ela por tempo demais.
 
 — Você ameaça mal.
 

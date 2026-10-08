@@ -43,7 +43,7 @@ Alguém ainda hesitou ao olhar para a própria estrutura.
 — Faço outra — Edria disse. — Pessoas primeiro. Estrutura depois.
 
 Se fosse preciso destruir mais um pedaço daquilo que os Cendar tinham construído para impedir que alguém morresse tentando salvá-lo, seria destruído. E foi.
-Dareth não ficou parado assistindo. Ajudou a puxar alguém que tinha escorregado perto da beirada, segurou uma corda esticada até os nós dos dedos ficarem brancos, avançou por um trecho que Edria ainda considerava seguro o suficiente.
+Dareth não ficou parado assistindo. Ajudou a puxar alguém que tinha escorregado perto da beirada, segurou uma corda esticada até os nós dos dedos arderem, avançou por um trecho que Edria ainda considerava seguro o suficiente.
 
 — Só até aí — ela avisou, sem levantar a voz.
 

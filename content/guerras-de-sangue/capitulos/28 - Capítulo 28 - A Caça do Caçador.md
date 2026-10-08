@@ -18,7 +18,7 @@ A mão escorregou na primeira vez. Na segunda, segurou o punho com as duas mãos
 
 Não sabia se pedia desculpa por tomar a arma ou por não ter chegado antes. Seguiu pela rua com a espada baixa.
 
-Dois Vendrar apareceram na curva. Um carregava uma lâmina larga, o outro segurava um pequeno pote de óleo contra o peito. Viram Kaelina sozinha, coberta de sangue e sem qualquer símbolo visível além da pele pálida e da roupa dos anéis altos. O homem do óleo sorriu.
+Dois Vendrar apareceram na curva. Um carregava uma lâmina larga, o outro segurava um pequeno pote de óleo contra o peito. Viram Kaelina sozinha, coberta de sangue e sem qualquer símbolo visível além da roupa dos anéis altos. O homem do óleo sorriu.
 
 — Essa vale alguma coisa.
 

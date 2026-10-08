@@ -82,7 +82,7 @@ O Buldar cambaleou, mas não caiu. Antes que respondesse, uma voz rouca atravess
 
 O Tondrar olhou para o lado.
 
-Hadrun era alto, já curvado, pele pálida sob a barba curta. No ombro do manto Buldar trazia as três marcas verticais dos Mestres de Celeiro.
+Hadrun era alto, já curvado, a pele escura gasta e sem brilho sob a barba curta. No ombro do manto Buldar trazia as três marcas verticais dos Mestres de Celeiro.
 
 Os Buldar abriram espaço sem que ele pedisse.
 

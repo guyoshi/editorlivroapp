@@ -79,7 +79,7 @@ Os dois vigias entraram no Salão do Trono, um tipo de lugar que faz o corpo lem
 
 Colunas grossas subiam como troncos petrificados. A luz entrava por fendas estreitas, cortando o ar em faixas. O chão, limpo demais, parecia negar a lama de fora. E, lá no fundo, os dois tronos não eram exagerados. Eram piores: eram simples o bastante para parecer inevitáveis. As gêmeas estavam lá.
 
-Uma das gêmeas estava inclinada para a frente; a outra permanecia recostada, embora o corpo estivesse tenso. Nas duas testas, a Ramagem branca descia da raiz do cabelo e se abria em fios pelas sobrancelhas e maçãs do rosto. Raízes menores marcavam também as costas das mãos.
+Uma das gêmeas estava inclinada para a frente; a outra permanecia recostada, embora o corpo estivesse tenso. Nas duas testas, a Ramagem branca descia da raiz do cabelo e se abria em fios pelas sobrancelhas e maçãs do rosto, nítida contra a pele escura como raiz exposta em barranco. Raízes menores marcavam também as costas das mãos.
 
 Ao lado dos tronos, Cal Edran Polar permanecia de pé, largo de ombros e marcado por cicatrizes. Uma única raiz branca descia de sua têmpora esquerda até o maxilar e se repetia na mão da espada, marca do cargo de Calandrir.
 
