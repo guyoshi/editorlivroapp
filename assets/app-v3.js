@@ -131,7 +131,8 @@ async function loadLibrary(){
 async function openBook(bookId){
   const meta = state.books.find(b=>b.id===bookId);
   if(!meta) return;
-  const res = await fetch(resolve(meta.manifest), {cache:"no-cache"});
+  const res = await fetch(resolve(meta.manifest)+"?v="+Date.now(), {cache:"no-store"});
+  if(!res.ok) throw new Error("HTTP "+res.status);
   const manifest = await res.json();
   state.currentBook = { ...meta, chapters: manifest.chapters || [] };
   const localCompleted = state.currentBook.chapters
@@ -271,14 +272,39 @@ async function openChapter(idx){
 
   // texto
   try{
-    const res = await fetch(resolve(ch.text), {cache:"no-cache"});
-    if(!res.ok) throw new Error("HTTP "+res.status);
-    const contentType=String(res.headers.get("content-type")||"").toLowerCase();
-    const raw = await res.text();
-    const looksLikeHtml=/^\s*<!doctype\s+html|^\s*<html[\s>]/i.test(raw) || contentType.includes("text/html");
-    if(looksLikeHtml) throw new Error("Resposta HTML recebida no lugar do capítulo.");
+    const fetchChapterText=async(chapter)=>{
+      const url=resolve(chapter.text)+"?v="+Date.now();
+      const res=await fetch(url,{cache:"no-store"});
+      if(!res.ok) throw new Error("HTTP "+res.status);
+      const contentType=String(res.headers.get("content-type")||"").toLowerCase();
+      const raw=await res.text();
+      const looksLikeHtml=/^\s*<!doctype\s+html|^\s*<html[\s>]/i.test(raw) || contentType.includes("text/html");
+      if(looksLikeHtml) throw new Error("Resposta HTML recebida no lugar do capítulo.");
+      return raw;
+    };
+
+    let activeChapter=ch;
+    let raw;
+    try{
+      raw=await fetchChapterText(activeChapter);
+    }catch(firstError){
+      // Uma aba antiga pode ainda ter o manifesto anterior em memória.
+      // Atualiza apenas o manifesto e tenta novamente antes de desistir.
+      const meta=state.books.find(b=>b.id===book.id);
+      if(!meta?.manifest) throw firstError;
+      const manifestRes=await fetch(resolve(meta.manifest)+"?v="+Date.now(),{cache:"no-store"});
+      if(!manifestRes.ok) throw firstError;
+      const freshManifest=await manifestRes.json();
+      const freshCh=(freshManifest.chapters||[]).find(x=>Number(x.n)===Number(ch.n));
+      if(!freshCh) throw firstError;
+      state.currentBook.chapters=freshManifest.chapters||[];
+      activeChapter=freshCh;
+      $("#readerChapter").textContent=`Cap. ${activeChapter.n} · ${activeChapter.title}`;
+      raw=await fetchChapterText(activeChapter);
+    }
+
     state.currentChapterRaw = raw;
-    renderChapterText(ch, raw);
+    renderChapterText(activeChapter, raw);
     // Capítulo incompleto retoma o ponto salvo da leitura textual.
     // A narração mantém seu próprio marcador em segundos e é restaurada abaixo.
     if(state.currentChapterIdx===idx){
@@ -294,7 +320,7 @@ async function openChapter(idx){
         updateReaderProgressBar();
       });
     }
-    Comments.attachChapter(book.id, ch.n, $("#chapterText"), $("#chapterNotes"));
+    Comments.attachChapter(book.id, activeChapter.n, $("#chapterText"), $("#chapterNotes"));
   }catch(e){
     $("#chapterText").innerHTML = `<p class="empty-hint">Não consegui carregar o texto deste capítulo.</p>`;
   }
