@@ -226,7 +226,7 @@ Rendar esperou. Hadrun percebeu e continuou.
 
 — Na era de Orionus, os Polar criaram o Acordo das Três Medidas. Nome limpo. Nome de escriba. Diziam que era para manter estabilidade durante uma seca ruim. Kaendar compraria grão Buldar por preço fixo. Três estações. Em troca, manteria passagem, sal e metal correndo. Parecia justo para quem lia sentado.
 
-Ele cuspiu de lado, não com desprezo, mas para tirar gosto ruim da boca.
+Ele cuspiu de lado.
 
 — Só que chuva não cai igual em todo campo. As grandes Famílias de Terra suportavam. Tinham celeiro fundo, semente guardada, gente devendo favor. Mas aldeia menor não tem gordura para perder. Quando algumas disseram que não podiam entregar sem comer a semente do próximo plantio, Orionus não mandou exército. Não precisava. Fechou passagem de sal. Atrasou ferramenta de ferro. Reteve uma peça de arado aqui, uma carga de lâmina ali, uma autorização de rota acolá... e pronto. Carne apodrece. Campo atrasa. Dívida cresce. Homem com fome assina qualquer coisa para ver filho mastigar.
 
@@ -266,7 +266,7 @@ Rendar encarou as árvores.
 
 — Para mim são mortos que ainda respiram.
 
-Hadrun ficou quieto. A resposta não tinha sido alta. Nem teatral. Talvez por isso tenha soado pior.
+Hadrun ficou quieto.
 
 — Essa aliança não vai durar — disse o velho. — Se os Polar caírem, cada clã vai lembrar depressa que odeia o outro por motivos antigos. Buldar e Tondrar não viram irmãos porque partilham inimigo. Vendrar não viram leais porque aceitaram pagamento. Glydar já voltaram para a margem. E você... você não parece homem que planeja viver no depois.
 
@@ -285,8 +285,6 @@ Hadrun soltou o ar devagar.
 Rendar não olhou.
 
 — Meu filho — disse Hadrun.
-
-A chuva pareceu diminuir sem diminuir.
 
 — Chamava-se Belvar. Tinha vinte ciclos quando sumiu. Foi à beira dos Canais de Maldrin para escoltar medidores de água. Trabalho pequeno. Conferir comporta, marcar nível, ver se algum ladrão de canal estava desviando fluxo antes da colheita. Ele gostava desses trabalhos.
 
@@ -340,7 +338,7 @@ O velho não pareceu surpreso. Talvez porque já suspeitasse.
 
 — Por que fez isso?
 
-Rendar ficou quieto. A pergunta não era acusação.
+Rendar ficou quieto.
 
 — Criança não tem culpa de onde nasce — disse ele.
 
@@ -376,7 +374,7 @@ Naquela noite a tempestade caiu inteira. As valas transbordaram, grão precisou 
 
 A chuva sobre as folhas lembrava Mirval até que uma voz Buldar, uma tosse Tondrar ou um casco de bravão quebrasse a memória.
 
-No segundo dia, Buldar e Tondrar dividiram fogo, cerveja de cevada-escura e trabalho. Uma Buldar amarrou o braço de um Tondrar; um jovem Tondrar carregou raiz para lugar seco. Foi o máximo de aliança que a tempestade conseguiu produzir.
+No segundo dia, Buldar e Tondrar dividiram fogo, cerveja de cevada-escura e trabalho. Uma Buldar amarrou o braço de um Tondrar; um jovem Tondrar carregou raiz para lugar seco. 
 
 Hadrun piorou, embora continuasse trabalhando. Ao terceiro amanhecer a chuva diminuiu. Buldar reorganizaram as cargas, Tondrar secaram armas e Rendar esperou Nynestra e Torgun. Nenhum dos dois voltou.
 
@@ -462,9 +460,9 @@ Rendar aproximou-se um passo.
 
 — A Voz decidirá — repetiu ela.
 
-E aquilo encerrou a conversa. Um a um, começaram a recolher armas, mantas, sacos de comida que os Buldar permitiram levar com cuidado irritado. Hadrun não impediu. Talvez soubesse que segurar Tondrar contra vontade era como guardar varren faminto dentro de celeiro. Rendar ficou parado vendo-os preparar partida. Por dentro, algo nele apertava.
+E aquilo encerrou a conversa. Um a um, começaram a recolher armas, mantas, sacos de comida que os Buldar permitiram levar com cuidado irritado. Hadrun não os impediu. Rendar ficou parado vendo-os preparar a partida.
 
-Rendar sentiu o plano se desfazer antes de fechar. Korrak passou por ele com um sorriso torto.
+Korrak passou por ele com um sorriso torto.
 
 — Último Fendelar. Grande chefe de ninguém.
 
