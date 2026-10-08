@@ -426,8 +426,6 @@ O pensamento veio tão claro que quase pareceu dito por outra pessoa. Ninguém n
 
 Kaelina olhou para Marken. Ele estava nos fundos do cômodo, meio tomado pela escuridão da passagem. O rosto dele não tinha espanto. Não tinha acusação. O rosto de Marken não oferecia piedade clara; para Kaelina, parecia uma porta aberta para um lugar onde respostas nunca ficavam tempo suficiente para virar conforto.
 
-Por um instante, Kaelina pensou que ele diria algo. Que perguntaria se ela conseguia ficar de pé, que falaria sobre a cidade, que a guiaria por outro corredor antigo, como se ainda houvesse um caminho certo depois daquilo.
-
 Mas Marken apenas olhou para ela. Depois deu um passo para trás. Recuou mais, entrando na sombra da passagem estreita. A escuridão tomou primeiro o sangue seco em sua roupa, depois o braço ferido, depois metade do rosto. Por último, ficaram os olhos, calmos demais para uma noite como aquela. E então nem eles ficaram.
 
 Kaelina permaneceu sentada no chão do esconderijo, diante do corpo imóvel de Ylvena, enquanto Kaendar ardia acima das pedras e a verdade, enfim encontrada, escorria entre seus dedos como sangue.

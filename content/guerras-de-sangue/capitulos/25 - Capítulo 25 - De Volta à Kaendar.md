@@ -356,6 +356,6 @@ Kaelina se aproximou da fenda com cuidado, apoiando-se na parede para que o corp
 
 O nome não precisou ser dito para ocupar o cômodo inteiro dentro dela. A mulher que encontrara Orionus morto. A mulher acusada de envenenar o soberano. A mulher inocentada depois de registros confusos, testemunhos alterados, dúvida suficiente e medo demais. A mulher que deixara Kaendar depois do escândalo, exilada das terras Polar, apagada dos corredores como se nunca tivesse sido mais que uma ferida inconveniente na memória da Dinastia.
 
-Ylvena deveria estar longe. Ylvena deveria ser passado. Mas estava ali, escondida dentro de Kaendar, durante o cerco, diante de Daryon.
+Ylvena estava ali, escondida em Kaendar durante o cerco, diante de Daryon.
 
 Kaelina sentiu a mão de Marken tocar de leve seu braço, avisando-a para não se mover. Ela não se moveria mesmo que quisesse. A fraqueza, o medo e a revelação a prenderam mais do que qualquer corda. Só havia uma pergunta crescendo no escuro: o que aquela mulher fazia ali?

@@ -482,4 +482,4 @@ Kaelina foi erguida por dois guardas. As pernas falharam no primeiro instante. N
 
 A marcha continuou. Não por estrada, nem por aldeia, muito menos por onde Kaendar esperaria.
 
-Três mil e quinhentos homens avançaram divididos em grupos e rotas paralelas, espaçados o bastante para que nenhum vigia isolado conseguisse medir de imediato o tamanho do exército ou adivinhar onde voltariam a se reunir. Não podiam desaparecer da terra. Podiam, porém, atrasar a notícia certa.
+Três mil e quinhentos homens avançaram divididos em grupos e rotas paralelas, espaçados o bastante para que nenhum vigia isolado conseguisse medir de imediato o tamanho do exército ou adivinhar onde voltariam a se reunir.

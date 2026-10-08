@@ -616,8 +616,6 @@ Viu Dareth.
 
 Parou.
 
-Dareth não fez discurso. Não começou explicando quem era Elis, ou quem era Kalan, ou o que qualquer um dos dois representava.
-
 — O Culto vai executar um rapaz na próxima semana.
 
 Vetarius franziu a testa.
@@ -633,7 +631,5 @@ Uma pausa.
 — Preciso que intervenha.
 
 Silêncio.
-
-Dareth não ameaçou o próprio soberano. Não disse "você vai resolver isso". Trouxe três fatos, um atrás do outro, e terminou no único pedido que realmente importava.
 
 Esperou.

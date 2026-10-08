@@ -839,5 +839,3 @@ Ela apenas aprendeu a carregá-lo sem perguntar ao túmulo de Orionus onde dever
 Durante vinte ciclos, a cidade chamou aquilo de estabilidade, os cronistas de reconstrução, os conselheiros de governo.
 
 Sob a mão de Kaelina, os Polar deixaram de ser apenas uma Dinastia protegida por muralhas. Tornaram-se a potência diante da qual toda Jesed precisaria escolher entre negociar, obedecer ou preparar-se para resistir.
-
-Os Polar haviam sobrevivido à própria guerra. Ninguém perguntou, em voz alta, a que preço.

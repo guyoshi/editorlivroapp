@@ -216,4 +216,4 @@ Era estranho, pensou, descobrir tanta coisa nova sobre a mãe num único dia e p
 
 O dente-doce acabou antes dos pensamentos, e Elis ficou ali, deitada, olhando o teto que não conseguia ver de verdade no escuro, decidindo, antes de pegar no sono, que aquele (descobrir quem a mãe tinha sido antes de ser quem Elis sempre conhecera) era, a partir daquela noite, o problema que pertencia só a ela.
 
-Não sabia, enquanto o sono chegava, que a caixa escondida nos túneis já era, havia horas, mais do que sua própria pergunta. Não sabia que ela seria, no dia seguinte, a peça que faltava para transformar suspeita em certeza aos olhos de quem procurava um motivo para acreditar que havia mais gente culpada naquela casa do que só Kalan. Dormiu como tinha dormido a vida inteira em Maruva, entre a respiração de Orel e o silêncio incerto de Karesis: uma casa cansada, malcuidada, inteira, por mais uma noite.
+Dormiu como tinha dormido a vida inteira em Maruva, entre a respiração de Orel e o silêncio incerto de Karesis: uma casa cansada, malcuidada, inteira, por mais uma noite.
