@@ -233,7 +233,7 @@ async function checkAudioAvailability(){
 // ---------------- Leitura ----------------
 async function openChapter(idx){
   const book = state.currentBook;
-  const ch = book.chapters[idx];
+  let ch = book.chapters[idx];
   if(!ch) return;
   audioEl().pause();
   window.BetaAnalytics?.closeChapter?.();
@@ -299,6 +299,7 @@ async function openChapter(idx){
       if(!freshCh) throw firstError;
       state.currentBook.chapters=freshManifest.chapters||[];
       activeChapter=freshCh;
+      ch=freshCh;
       $("#readerChapter").textContent=`Cap. ${activeChapter.n} · ${activeChapter.title}`;
       raw=await fetchChapterText(activeChapter);
     }
