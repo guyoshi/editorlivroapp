@@ -8,7 +8,7 @@ Bateu na porta sem anunciar-se por um servo, o que já era, por si só, estranho
 
 — Vetarius me contou sobre sua esposa. E sua filha.
 
-Não era pergunta, e Dareth não tratou como se fosse. Sentiu o corpo inteiro se fechar por um instante, o velho reflexo de sempre diante daquele assunto, mas não havia curiosidade no rosto de Selina, nem pena fácil, nem o tipo de compaixão que as pessoas usavam para se sentir melhor consigo mesmas. Havia só um reconhecimento incômodo, o de alguém que tinha acabado de descobrir que faltava uma peça inteira num quadro que julgara completo.
+Dareth enrijeceu diante do assunto. Selina não demonstrava curiosidade nem pena fácil, apenas o desconforto de perceber que desconhecia uma parte decisiva da história dele.
 
 — Ele fala demais — respondeu Dareth, por fim, a voz baixa, sem acusação real.
 
