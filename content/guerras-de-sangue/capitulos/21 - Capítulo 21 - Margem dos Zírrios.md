@@ -726,7 +726,7 @@ Ossar apertou a mão morta de Varael. Por um instante, pareceu que fosse quebrar
 
 — Glydar está com você.
 
-Rendar assentiu. Não agradeceu. Não era esse tipo de noite. Tavra desceu do barril e chutou de leve o corpo de um soldado Polar para ver se ainda respirava. Não respirava. Ela pareceu desapontada.
+Rendar assentiu. Tavra desceu do barril e chutou de leve o corpo de um soldado Polar para ver se ainda respirava. Não respirava. Ela pareceu desapontada.
 
 — Quantos cabem num barco? — perguntou.
 

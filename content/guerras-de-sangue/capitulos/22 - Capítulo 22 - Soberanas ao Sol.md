@@ -402,6 +402,6 @@ O vale pareceu estreitar. Kharvok olhou para Kaelina. Depois para os corpos Urti
 
 — Se tiverem sorte, ninguém viu o rosto dela. Se não tiverem, Kaendar já sabe que uma soberana está vindo pela garganta.
 
-O vento passou entre as pedras. Desta vez trouxe cheiro de sangue recente, poeira aberta e algo pior: pressa.
+O vento atravessou as pedras, trazendo cheiro de sangue recente e poeira.
 
 Kaelina ergueu a cabeça com dificuldade. Ao longe, para além das curvas da Garganta Seca, ficava Kaendar. Sua cidade, sua muralha, sua irmã. Sua guerra.
