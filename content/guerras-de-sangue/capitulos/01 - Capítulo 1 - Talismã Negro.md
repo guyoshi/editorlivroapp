@@ -1,10 +1,6 @@
 Foi o cheiro que veio primeiro. Ao sangue misturava-se coisa mais amarga: o azedo de medo que já esfriou, gordura de caça aberta e folha molhada pisada fundo demais. O tipo de cheiro que não some fácil porque fica preso em folha, em barro, em pelo, e quando entra na roupa de um Vigia, atravessa o portão junto com ele.
 
-Eram dois Vigias naquele turno. As pessoas imaginam Vigias como heróis. Mas Vigia de fronteira é mais parecido com cátilo velho: dorme pouco, rosna para sombra errada, mastiga pão duro de raiz escura no frio e aprende a farejar desgraça antes de entender o nome dela.
-
-Um era mais falante, desses que reclamam de tudo: lama, vento, bota, fome, o sal pouco na carne seca. O outro respondia pouco e olhava muito.
-
-Um ria de piada ruim para espantar o tédio. O outro tocava um amuleto no peito antes de atravessar trechos de mata mais fechada. Um acordo silencioso com o azar.
+Eram dois Vigias naquele turno. O primeiro reclamava de lama, vento, bota, fome e do pouco sal na carne seca; ria das próprias piadas para espantar o tédio. O outro falava pouco, observava muito e tocava o amuleto no peito antes de atravessar os trechos mais fechados da mata.
 
 Seguiam uma trilha já pisada por caçadores e carregadores, marcada aqui e ali por erva-de-jijo esmagada, raízes expostas e fitas velhas de patrulha presas em galhos baixos. Era território “próximo”, território que Kaendar chamava de seu, embora o mato, claro, não reconheça dono. O Vigia falante parou no meio da frase.
 
@@ -71,35 +67,23 @@ Correntes estalaram. Madeira gemeu. Ferro respondeu. Em algum lugar, um tarrak r
 
 E Kaendar, que por fora sempre finge invencibilidade, por dentro começou a se mexer como máquina acordando. Porque tem lugar em Jesed onde duas mortes são tragédia. E tem lugar onde duas mortes são recado.
 
-E, para entender por que um pedaço de madeira escura no barro conseguia gelar uma cidade inteira, bastava entender algumas coisas sobre os Polar.
+O talismã Tondrar chegava a uma cidade que havia passado mais de quarenta ciclos sem guerra aberta.
 
-Kaendar crescera junto à Garganta, a passagem estreita de pedra e lama que transformava qualquer invasor em fila antes mesmo de chegar às muralhas. A antiga paliçada virara pedra; a pedra, camadas; as camadas, anéis. Dentro deles havia casas, oficinas, depósitos, mercados, sal, fumaça e gente suficiente para fazer uma cidade acreditar que podia sobreviver ao mundo do lado de fora.
+Kaendar crescera junto à Garganta, protegida por muralhas que se multiplicaram com o tempo até formar anéis de pedra, madeira, depósitos, oficinas e casas. A Raiz aparecia em portas, cabos de faca e amuletos; dois dedos na testa e depois no peito bastavam para repetir uma ideia antiga: lembrar e pertencer.
 
-Os Polar chamavam a si mesmos de Dinastia havia mais de duzentos ciclos. O resto de Jesed aprendera a pronunciar o nome com uma mistura pouco confortável de respeito e ressentimento.
+Durante quarenta ciclos, Orionus Polar mantivera aquela estabilidade. Quando morreu, três ciclos antes, deixou também uma morte que Kaendar nunca contou da mesma forma. Uns falavam em febre, outros em veneno. Ylvena, serva da casa do soberano e primeira a encontrar o corpo, fora acusada, investigada e absolvida antes de deixar a cidade.
 
-A Raiz estava em toda parte. Riscada em portas, gravada em cabos de faca, presa ao pescoço de crianças, soldados e velhos. Dois dedos na testa. Depois no peito. Lembrar. Pertencer. Segurar. O gesto mudava um pouco de família para família, mas a ideia não.
-
-E, por quarenta ciclos do sol, um nome parecera capaz de manter tudo aquilo no lugar. Orionus.
-
-A memória de Orionus não o guardava como o soberano mais forte, e sim como o mais estável. Durante seu governo, Kaendar discutira, passara fome, enterrara gente e ameaçara inimigos, mas guerra aberta não batera nos portões. Para alguns, isso provava inteligência. Para outros, provava apenas que Orionus sabia esconder o preço das próprias decisões.
-
-Quando ele morreu, a estabilidade morreu um pouco junto. Ninguém em Kaendar contava aquela morte da mesma forma. Havia quem falasse em febre. Havia quem jurasse veneno. Alguns preferiam dizer apenas que Orionus adoecera depressa demais para um homem que parecera saudável na noite anterior. Um nome, porém, aparecia em quase todas as versões. Ylvena.
-
-Ela era uma serva da casa do soberano e fora a primeira a encontrar o corpo. As acusações vieram rápido. Depois vieram investigação, dúvida e absolvição. Ylvena foi inocentada e deixou Kaendar pouco tempo depois, levando a família consigo. Para a cidade, restou o rumor. Para as filhas de Orionus, restou o trono.
-
-Kaelina e Alyra foram erguidas juntas. Duas soberanas para ocupar o espaço de um homem que passara quarenta ciclos convencendo Kaendar de que sempre existia uma saída antes da guerra. No dia em que foram erguidas, receberam a Ramagem lado a lado, os mesmos traços brancos saindo da testa de cada uma, e a cidade passou a ver duas vezes o rosto que antes via uma. Havia quem chamasse as duas de vento dividido. Talvez porque parecesse bonito.
-
-Talvez porque ninguém ainda tivesse entendido o quanto dois ventos podiam soprar em direções diferentes.
+As filhas de Orionus herdaram o governo juntas. Kaelina e Alyra receberam a Ramagem lado a lado e, desde então, Kaendar aprendera a obedecer a duas soberanas onde antes existira uma.
 
 Os dois vigias entraram no Salão do Trono, um tipo de lugar que faz o corpo lembrar seu tamanho antes que a cabeça discuta.
 
 Colunas grossas subiam como troncos petrificados. A luz entrava por fendas estreitas, cortando o ar em faixas. O chão, limpo demais, parecia negar a lama de fora. E, lá no fundo, os dois tronos não eram exagerados. Eram piores: eram simples o bastante para parecer inevitáveis. As gêmeas estavam lá.
 
-Uma inclinada para frente, olhos afiados, atenta a algo que os outros sempre perdiam. A outra recostada, mas com o corpo pronto, como arco armado. Duas presenças iguais e opostas, a mesma linhagem, dois jeitos de cortar o mundo. Nas duas testas, a mesma Ramagem branca: um tronco fino descendo da raiz do cabelo e se abrindo em raízes que contornavam as sobrancelhas e morriam em fios nas maçãs do rosto. Nas costas das mãos pousadas nos braços dos tronos, as raízes menores subiam até os pulsos.
+Uma das gêmeas estava inclinada para a frente; a outra permanecia recostada, embora o corpo estivesse tenso. Nas duas testas, a Ramagem branca descia da raiz do cabelo e se abria em fios pelas sobrancelhas e maçãs do rosto. Raízes menores marcavam também as costas das mãos.
 
-Ao lado, Cal Edran Polar permanecia de pé, sombra de músculo e cicatriz. Da têmpora esquerda até o maxilar descia uma única raiz branca, sem tronco, a mesma que se repetia nas costas da mão da espada: o ramo que o cargo de Calandrir permitia. Não precisava falar para ser ouvido. Seu silêncio era disciplina.
+Ao lado dos tronos, Cal Edran Polar permanecia de pé, largo de ombros e marcado por cicatrizes. Uma única raiz branca descia de sua têmpora esquerda até o maxilar e se repetia na mão da espada, marca do cargo de Calandrir.
 
-E mais próximo da gêmea recostada, Daryon mantinha a postura de quem não carrega espada, mas corta com palavras. Sorria pouco. E quando sorria, parecia medir o mundo como quem escolhe peça num tabuleiro.
+Daryon estava mais próximo da soberana recostada. Não carregava espada e observava os Vigias em silêncio.
 
 Os vigias estavam ofegantes, sujos de barro até a canela, com cheiro de mata, sangue e balili grudado na roupa. Pararam a três passos do tapete central e se ajoelharam. O silêncio caiu no salão inteiro como uma ordem. A gêmea inclinada falou primeiro, voz firme, sem desperdício:
 
@@ -123,7 +107,7 @@ A gêmea recostada deixou a mão escorregar para o apoio do trono, os dedos se f
 
 — Tondrar — ela disse, não como suspeita, mas como sentença. Como se o nome bastasse para explicar sangue, lama e crueldade.
 
-O salão pareceu ficar mais frio. Por um instante, as duas se olharam. Um olhar rápido, afiado, cheio de passado e futuro ao mesmo tempo. Kaendar tinha vivido três ciclos do sol de paz sem Orionus. E, naquele instante, a paz terminou sem pedir permissão.
+As duas se olharam por um instante.
 
 Daryon se inclinou, perto do ouvido da gêmea recostada, e murmurou algo que ninguém mais ouviu. Cal Edran deu um passo à frente. O próprio corpo, uma muralha extra.
 
