@@ -16,15 +16,17 @@ Certo sopro, o grupo caminhava pela encosta em busca de lenha seca. Platisa, que
 
 — Por Arion, não toquem nisso — disse baixinho. — Queima a pele até os ossos.
 
-Gabasteri apenas lançou um olhar para ela e desviou a trilha sem dizer nada. Mariv, por sua vez, inclinou a cabeça e sorriu para ela.
+Gabasteri apenas lançou um olhar para ela e desviou a trilha sem dizer nada. Mariv, por sua vez, inclinou a cabeça.
 
-— Como sabe? — perguntou ele.
+— O que te fez perceber?
 
-— Plantas… eu entendo bem delas — disse Platisa, sorrindo. Virou uma das folhas e mostrou a parte inferior. — Não confie num sinal só. Olhe a seiva, o cheiro, marcas de mordida, o que cresce perto. Uma coisa engana. Várias contam uma história.
+Platisa se agachou sem encostar na planta. Com a ponta de um galho, ergueu uma das folhas e mostrou a parte inferior.
 
-Mariv virou a folha entre os dedos antes de devolvê-la.
+— A seiva nas bordas, o cheiro e essas marcas aqui. Nenhum bicho morde perto do caule. Um sinal sozinho pode enganar. Vários juntos, não tanto.
 
-E os dois foram conversando sobre plantas o resto do caminho. Jokara reparou. Com Platisa e Nestira, Mariv ria. Com ela, respondia sim e não. Talvez tivesse percebido que ela o vigiava.
+Mariv se abaixou ao lado dela para olhar melhor.
+
+Os dois seguiram conversando sobre plantas pelo resto do caminho. Jokara reparou. Com Platisa e Nestira, Mariv ria. Com ela, respondia sim e não. Talvez tivesse percebido que ela o vigiava.
 
 Nesse mesmo Sopro do Silêncio, quando voltaram para o abrigo, Gabasteri os reuniu em torno da fogueira baixa. O peixe era pouco. Ele ergueu uma espinha limpa e disse:
 
