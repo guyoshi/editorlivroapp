@@ -102,7 +102,7 @@ Era uma construção feita para suportar peso.
 
 Jokara parou, sem fôlego.
 
-Loutes chegou à abertura central e parou. Até então caminhara sem hesitar. Ali, porém, ficou imóvel. Encostou a palma na parede de pedra e manteve os dedos sobre ela por alguns instantes, o rosto sem expressão. Quando Jokara se aproximou, ele recolheu a mão e entrou.
+Loutes chegou à abertura central e diminuiu o passo. Encostou a palma na parede de pedra por um instante, como se sentisse a superfície fria, e entrou antes que Jokara o alcançasse.
 
 — Vamos — sussurrou ela.
 
@@ -154,7 +154,7 @@ Nestira assentiu devagar.
 
 — Antes das ilhas.
 
-Num recuo da parede, parcialmente protegido por uma laje que havia caído diante da abertura, havia restos de uma única pessoa. O lugar era mais seco que o restante da sala. O tempo deixara ossos escurecidos, alguns presos ao sedimento endurecido, e fragmentos quase irreconhecíveis de tecido. Junto a um dos pulsos havia um aro estreito de metal enegrecido, marcado por dois cortes paralelos. Loutes parou tão de repente que Nestira quase esbarrou nele. Ajoelhou-se diante dos restos e tocou o aro com a ponta dos dedos. A mão começou a tremer. Uma lágrima desceu pelo rosto do menino. Jokara já o tinha visto assustado, ferido, faminto e perdido. Nunca o tinha visto chorar. Nestira fez menção de se aproximar, mas Jokara tocou seu braço. As duas permaneceram onde estavam. Loutes não pegou o aro. Depois de algum tempo, levantou-se e se afastou sem olhar para elas.
+Num recuo da parede, parcialmente protegido por uma laje que havia caído diante da abertura, havia restos de uma única pessoa. O lugar era mais seco que o restante da sala. O tempo deixara ossos escurecidos, alguns presos ao sedimento endurecido, e fragmentos quase irreconhecíveis de tecido. Junto a um dos pulsos havia um aro estreito de metal enegrecido, marcado por dois cortes paralelos. Loutes parou diante dele. Ajoelhou-se devagar e passou a ponta dos dedos pelo aro. Ficou assim por alguns instantes. Quando ergueu o rosto, os olhos estavam molhados. Uma lágrima escorreu pela bochecha. Jokara se abaixou ao lado dele e a limpou com o polegar. Loutes olhou para ela, mas não disse nada. Jokara também não perguntou. Depois de um momento, ele se levantou e se afastou dos restos.
 
 Só então Jokara percebeu as placas finas de pedra escura junto às mãos dos restos, perfuradas numa das extremidades e presas por dois aros corroídos. Pegou a primeira.
 
