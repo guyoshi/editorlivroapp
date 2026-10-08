@@ -322,7 +322,7 @@ Jokara sentiu a raiva subir antes mesmo de conseguir responder.
 
 Gabasteri limpou a lâmina na grama.
 
-— Também não foi escolha minha voltar com pouca comida. Pouca comida continua sendo pouca comida.
+— A terra não quer saber de quem escolhe bem ou mal. Lá quer saber quem é mais forte.
 
 Mariv deu um passo à frente.
 
