@@ -1,22 +1,10 @@
-Kaelina chegou a Alestir quando a manhã ainda parecia suja de noite.
-
-O sol havia nascido, mas a luz não encontrava nada limpo onde pousar. A fumaça permanecia baixa, arrastando-se entre as ruínas como um animal cansado demais para fugir. Algumas casas ainda soltavam fios de vapor escuro pelas frestas. Outras já tinham desistido de parecer casas. Eram apenas paredes partidas, vigas negras, barro estourado pelo calor e telhados afundados sobre aquilo que antes abrigava gente, pão de grão-de-caule, couro pendurado, voz, sono e medo comum.
-
-Um borralho atravessou a rua queimada, farejando sementes carbonizadas perto de uma soleira, e desapareceu quando uma viga cedeu ao longe.
+Kaelina chegou a Alestir com a manhã ainda presa à fumaça. Algumas casas soltavam vapor pelas frestas; outras eram apenas paredes partidas, vigas negras e telhados afundados. Um borralho farejou sementes carbonizadas perto de uma soleira e sumiu quando uma viga cedeu.
 
 Guardas, curandeiros, carregadores e dois Vigias de fronteira caminhavam atrás dela em silêncio.
 
-Quase duzentos haviam sido enviados durante a madrugada, depois que Cal Kadrir retornara com Alyra ferida, o rosto sujo de cinza e sangue, a armadura amassada e os olhos de quem havia visto o mundo abrir-se em fogo. Primeiro tinham vindo as crianças, trazidas por soldados de Edran. Depois Alyra surgira, agarrada às costas do tarrak de Kadrir, com o braço pendendo de forma errada, o rosto pálido e uma fúria atordoada que nem ela conseguia organizar. Daryon não voltara com ela. Edran também não.
+Quase duzentos homens, curandeiros e carregadores tinham sido enviados durante a madrugada. Kadrir voltara com Alyra ferida e relatara a explosão, homens na fumaça e Edran ficando para trás. Daryon também não retornara com eles. Kaelina passara a noite enviando água, macas, unguentos, cordas e ferramentas para Alestir.
 
-Kadrir dissera apenas o suficiente para fazer Kaelina sentir o chão fugir por dentro: a vila era armadilha, o galpão explodira, havia fogo dentro do ar, homens escondidos na fumaça, gritos, corpos, e Edran ficara para trás. Ficara para trás.
-
-A frase a acompanhara durante toda a noite, sentada no corpo dela como uma pedra quente. Kaelina ordenara o envio de homens, curandeiros, carregadores, odres de água, panos de linho grosso, cordas de margem compradas dos Glydar, macas, unguentos de queimadura, pás, ganchos de ferro e tudo que pudesse servir para arrancar vivos da cinza. Mas não fora. Edran a impedira antes. Kadrir voltara ferido. Alyra mal conseguia respirar sem tremer de dor. E a cidade inteira parecia segurar o fôlego, esperando que alguém dissesse em voz alta aquilo que ninguém queria confirmar.
-
-Agora, pela manhã, Kaelina estava ali, naquela vila de beira de rota que Kaendar sempre tratara como pequena demais para ser lembrada e útil demais para ser abandonada.
-
-Não como soberana em visita. Não como filha de Orionus diante de uma crise. Caminhava entre os restos de Alestir como alguém que chegara tarde demais para uma promessa antiga. O cheiro era o pior.
-
-Não era apenas madeira queimada. Madeira queimada ainda pertencia ao mundo das coisas. Aquilo tinha gordura de corpo, lã chamuscada, couro de sela, sal espalhado no barro, grão torrado dentro de sacos rompido, sangue seco, pano chamuscado e a doçura horrível de corpos expostos ao calor. Kaelina levou a mão ao nariz uma vez, por instinto, mas abaixou-a logo depois. Pareceu-lhe indecente proteger-se do cheiro quando tantos não tinham conseguido proteger-se do fogo.
+Kaelina caminhou entre os restos da vila. O cheiro misturava madeira, lã, couro, grão queimado, sangue e corpos. Levou a mão ao nariz por instinto e a abaixou.
 
 Um soldado chamado Harrev caminhava alguns passos à frente, afastando tábuas com cuidado. Era homem do anel médio, rosto largo, barba curta, uma cicatriz pequena junto ao lábio. Vinha tentando manter a compostura desde que haviam entrado na vila, mas seus olhos voltavam sempre para os corpos como se cada um pedisse uma contagem que ele não sabia fazer.
 
@@ -36,11 +24,7 @@ Kaelina parou diante dos dois. Harrev abaixou os olhos.
 
 Kaelina ficou olhando tempo demais. Depois seguiu.
 
-O galpão ficava no centro da vila, ou no que restara dele. Era maior do que as casas, construído para guardar mantimentos, ferramentas, sacos de grão-de-caule, raiz seca, tiras de carne de patrulha e reservas pequenas demais para sustentar Kaendar, mas grandes o bastante para sustentar uma vila por semanas difíceis. Agora não havia galpão. Havia uma cratera baixa cercada por madeira partida, pedra espalhada, vigas arremessadas a distâncias absurdas e manchas negras no chão onde o fogo não apenas queimara, mas lambera a terra até deixá-la brilhante.
-
-Kaelina viu as marcas da explosão antes de entender o formato do desastre.
-
-Não era incêndio comum. O fogo não havia caminhado como fogo de telhado, passando de palha a madeira, de madeira a cortina, de cortina a pele. O fogo havia nascido de dentro, expandido como uma respiração monstruosa, empurrado portas, corpos, metal e ar numa única violência. As paredes tinham sido abertas para fora. O telhado fora arrancado e espalhado. Havia pedaços de grão queimado grudados em pedras distantes, como se a comida tivesse sido transformada em chuva.
+No centro da vila, o antigo galpão de mantimentos era uma cratera cercada por madeira, pedra e vigas arremessadas. As paredes tinham sido abertas para fora e grãos queimados estavam presos a pedras distantes. A explosão nascera de dentro.
 
 E então ela o viu.
 
@@ -48,23 +32,21 @@ No início, o corpo pareceu apenas mais uma forma entre tantas. Um homem caído 
 
 Cal Edran Polar estava ali. A mão dela subiu à boca.
 
-O mundo à volta continuou a existir, mas ficou distante. Harrev disse alguma coisa. Outro soldado chamou por alguém. Um pedaço de madeira estalou em algum lugar. A fumaça mexeu-se com o vento fraco da manhã. Kaelina não ouviu nada como deveria. Apenas caminhou até ele, devagar, porque se corresse talvez a verdade se tornasse maior depressa demais. Ajoelhou-se ao lado do corpo.
+Kaelina caminhou até ele e se ajoelhou.
 
 Edran estava frio.
 
-A pele do rosto tinha perdido a dureza viva que sempre carregava. Sem o olhar, sem a postura, sem aquele silêncio disciplinado que fazia os homens endireitarem as costas, parecia menor. Não fraco. Nunca fraco. Mas mortal de um modo que Kaelina quase odiou reconhecer. Havia sangue seco no canto da boca, um corte profundo junto à maçã do rosto, cinza presa nas sobrancelhas e, na têmpora esquerda, a pele nua onde a raiz de Calandrir já não estava. A barba curta estava manchada. Uma das mãos continuava fechada.
+Havia sangue seco no canto da boca, um corte junto à maçã do rosto e cinza nas sobrancelhas. Na têmpora esquerda, a pele estava nua onde a raiz de Calandrir fora apagada. Uma das mãos continuava fechada.
 
 Kaelina tocou essa mão. Os dedos estavam rígidos, fechados com tanta força que pareciam agarrados a uma ordem que o corpo se recusara a largar. Ela tentou abri-los com cuidado, primeiro como soberana, depois como filha, depois como criança. Não conseguiu. Soltou um som baixo, ferido, sem palavra. Então segurou a mão dele entre as suas e encostou a testa nos nós dos dedos.
 
-Foi aí que chorou. Não houve elegância no choro. Nenhuma contenção digna de salão, nenhuma lágrima silenciosa própria de estátua. O ar saiu quebrado dela. O peito tremeu. A boca tentou formar o nome dele, mas falhou na primeira vez.
+Então chorou. O ar saiu quebrado e o nome falhou na primeira tentativa.
 
 — Edran...
 
 Harrev virou o rosto. Os homens atrás dele baixaram a cabeça, não por ordem, mas porque havia dores que até soldados sabiam não olhar de frente.
 
-Kaelina permaneceu ajoelhada junto dele, segurando-lhe a mão fechada. Pensou nas botas que ele tirara de seus pés na noite em que os dois rapazes mortos tinham voltado a Kaendar, nele diante da lareira, contando a história da fila de pão. Pensou na forma como dissera que seu pai errava olhando para Kaendar, não para o próprio reflexo, nele bloqueando o portão com o corpo, dizendo não a uma soberana porque havia prometido cuidar das meninas de Orionus.
-
-As meninas dele. Kaelina apertou a mão fria com mais força, como se ainda houvesse alguma parte de Edran capaz de entender.
+Kaelina lembrou das botas retiradas de seus pés, da história da fila de pão e de Edran bloqueando o portão porque prometera cuidar das meninas de Orionus. Apertou a mão fria.
 
 — Eu devia ter vindo — sussurrou.
 
@@ -72,9 +54,7 @@ Não soube se dizia isso a ele, a si mesma ou ao pai morto.
 
 A cinza mexeu-se junto à perna dele. Só então Kaelina notou com clareza aquilo que a madrugada e os relatos não tinham trazido. Havia um laço preso ao tornozelo de Edran, quase escondido sob lama, sangue e cinza. A corda fugia do padrão de Kaendar: fina demais, forte demais, tratada com alguma gordura escura que a fazia resistir à água e ao fogo. Mais adiante, entre duas vigas partidas, uma linha de pequenos ganchos de osso e metal ainda estava suspensa, torta, presa a restos de fibra escurecida e folha-de-silêncio queimada, como se tivesse sido arrancada de uma armadilha maior no momento da luta.
 
-Kaelina tocou o laço com dois dedos. O material cedeu pouco. Tendão tratado. Ela não disse nada.
-
-Soltou o laço do tornozelo de Edran com cuidado e guardou um pedaço pequeno dentro da dobra do manto. Depois voltou a olhar para ele. Por um momento, a dor e a observação dividiram o mesmo espaço dentro dela, e isso a envergonhou. Parecia cruel notar pistas ao lado de um morto que merecia apenas luto. Mas Edran teria notado. Edran teria mandado que ela olhasse melhor.
+Kaelina tocou o laço. Tendão tratado. Soltou um pequeno pedaço e o guardou no manto. Edran teria mandado que ela olhasse.
 
 Kaelina levantou-se com dificuldade. Tinha lama nos joelhos e cinza nas mãos.
 
@@ -92,13 +72,13 @@ Harrev tocou dois dedos na testa e no peito.
 
 — A Raiz lembra.
 
-Ela olhou novamente para o corpo no chão. De cima, Edran parecia ainda guardar a vila. A mão fechada. O rosto na cinza. O corpo entre a explosão e a estrada por onde Alyra fugira, como se mesmo morto tivesse escolhido ficar no ponto exato onde uma ameaça devia ser parada. Kaelina sentiu dentro de si uma mistura impossível: amor, culpa, gratidão, raiva, vergonha, e uma ferida mais funda, feita pela ideia de que talvez a última muralha verdadeira de Orionus tivesse caído ali, longe demais da cidade que protegera.
+Ela olhou novamente para o corpo no chão. Kaelina olhou uma última vez para a mão fechada e para o corpo entre a explosão e a estrada por onde Alyra escapara.
 
 Do lado norte da vila, vozes se ergueram. Dois homens surgiram entre ruínas, apoiando alguém entre eles. A figura caminhava, mas apenas porque era arrastada pela força dos outros. O rosto estava cinzento, sujo de sangue seco e fuligem. A roupa escura havia rasgado num ombro. O cabelo, antes impecavelmente controlado, caía sobre a testa em mechas grudadas. Mesmo ferido e sujo, Daryon ainda tentava manter a dignidade, o corpo rígido apesar de depender dos dois homens que o sustentavam.
 
 — Encontramos o conselheiro! — gritou um dos soldados. — Está vivo!
 
-Kaelina não sentiu alívio. Sentiu apenas mais uma peça deslocar-se dentro do desastre.
+Kaelina observou Daryon.
 
 Antes mesmo de aceitar a água que lhe ofereceram, Daryon olhou para o caminho por onde os homens tinham vindo. Procurava outro rosto.
 
@@ -122,11 +102,11 @@ Kaelina olhou para os homens que o seguravam.
 
 Daryon baixou a cabeça de leve, talvez em agradecimento, talvez em cálculo. Foi levado sem protestar.
 
-Kaelina ficou em Alestir até o corpo de Edran ser preparado. Viu homens cobrirem mortos, separarem vivos, apagarem focos pequenos de fogo, recolherem peças de metal torcido e tentarem dar nome ao que ainda tinha rosto. Quando finalmente voltou para Kaendar, a cidade parecia grande demais e inútil demais. Os portões abriram-se para ela com o mesmo peso de sempre. Correntes estalaram, madeira gemeu, guardas endireitaram-se. Tudo funcionava. Essa era a ofensa.
+Kaelina ficou em Alestir até prepararem o corpo de Edran. Quando voltou, Kaendar continuava funcionando: portões, correntes, guardas, tudo no lugar.
 
-Seu quarto estava intocado. A mesa com mapas. As pedras de rota. As tábuas. A faca pequena. A bacia. A lareira apagada. Sobre a prateleira, a peça de jogo rachada de Orionus continuava no mesmo lugar, esperando ser lembrada. Kaelina entrou, viu-a de relance e desviou os olhos. Naquele dia, não queria o pai como lição. Queria Edran vivo.
+No quarto, a peça de jogo rachada de Orionus continuava sobre a prateleira. Kaelina desviou os olhos. Naquele dia queria Edran vivo, não o pai como lição.
 
-Caminhou até a janela estreita e apoiou as mãos na pedra. As lágrimas voltaram sem força, mais quentes do que abundantes. Lá fora, Kaendar movia-se com a prudência de uma cidade que sabia que algo havia sido arrancado dela, mas ainda não entendia exatamente quanto. Homens atravessavam pátios. Servos carregavam água. Mensageiros subiam e desciam escadas. Em algum lugar, uma mulher gritava com alguém por causa de panos limpos. Em outro, uma criança comemorava uma vitória enquanto jogavam roda-de-pedra.
+Apoiou as mãos na janela e chorou de novo enquanto Kaendar seguia trabalhando lá fora.
 
 Kaelina passou o dia no quarto. Iressa veio quando o sol estava alto, trazendo uma tigela de caldo de vigia, pão de raiz escura e uma pequena porção de zírrio salgado que provavelmente faltaria a alguém mais tarde. Entrou sem cerimônia exagerada, como fazia quem entendia que fome não se curvava a luto.
 
@@ -158,7 +138,7 @@ A dureza da própria voz a atingiu no instante seguinte. Iressa não pareceu ofe
 
 Fez uma reverência curta e saiu. Kaelina ficou sozinha com o caldo, a peça de Orionus e a vergonha. Não comeu. Ao entardecer, levaram Cal Edran ao rio.
 
-Não houve pompa grande. Não havia tempo para pompa, e talvez Edran a detestasse. Ainda assim, Kaendar desceu em silêncio. Guardas do anel alto ficaram em formação. Homens do anel médio, servos, Vigias, carregadores, mulheres de depósito, aprendizes de forja, barqueiros do Rio Grande e velhos que lembravam Orionus aproximaram-se das margens internas. Alguns traziam as mãos sujas de trabalho. Outros tinham panos nos olhos. Muitos fizeram o gesto da Raiz antes mesmo de ver o corpo.
+Kaendar desceu ao rio em silêncio. Guardas, servos, Vigias, carregadores, trabalhadores e velhos que lembravam Orionus reuniram-se nas margens.
 
 Edran foi colocado sobre uma barca funerária simples, madeira escura, bordas baixas, a Raiz marcada na proa e tiras de sal negro presas junto às laterais para que a memória não azedasse antes de chegar à curva. Seu corpo fora limpo o possível, mas não escondido da verdade. Havia corte, havia cinza, havia marcas da última luta. A mão, ainda fechada, repousava sobre o peito. Alguém quis abri-la para pôr uma fita de honra entre os dedos. Kaelina não permitiu. Pediu, em vez disso, a tigela do pintor de Kaendar, molhou dois dedos na pasta branca e, ela mesma, refez na têmpora esquerda de Edran a raiz que lhe tinham tirado, da linha do cabelo até o maxilar, devagar, sem tremer. Ninguém na margem disse que aquilo não era costume.
 
@@ -168,7 +148,7 @@ Alyra estava ao lado dela.
 
 Tinha o braço esquerdo imobilizado junto ao corpo e o rosto mais pálido do que tentava aparentar. Um corte fino atravessava-lhe a testa e partia o tronco da Ramagem ao meio; ninguém ousara retocá-lo. Não usava manto pesado. Vestia escuro, e por uma vez a sobriedade não parecia escolha política. Parecia falta de força para adornar-se. Cal Kadrir permanecia atrás dela, calado, com o rosto tenso e os olhos fixos na barca, na raiz recém-pintada na têmpora do morto, igual à sua. Daryon não estava presente; os curandeiros ainda limpavam suas feridas.
 
-Durante todo o rito, Alyra nada disse. Kaelina olhou para a irmã apenas quando os homens começaram a soltar as amarras.
+Alyra permaneceu calada até os homens começarem a soltar as amarras.
 
 — Você o viu morrer?
 
@@ -186,13 +166,13 @@ Kaelina voltou os olhos para o rio.
 
 Alyra não respondeu.
 
-A barca deslizou. Primeiro devagar, presa à corrente domesticada de Kaendar. A água, ainda manchada de óleo, abriu-se em lâminas escuras ao redor da madeira; o brilho sujo do entardecer tremia sobre a superfície como se o próprio Rio Grande ainda carregasse a vergonha da noite anterior. Depois o rio a tomou com a sua paciência antiga. Um Guardião de Costumes pronunciou o nome de Edran, seus ciclos de serviço, seus feitos conhecidos e algumas coisas que soavam pequenas demais para caber nele. Quando terminou, a voz do povo respondeu, baixa, espalhada pela margem:
+A barca deslizou sobre a água ainda manchada de óleo. Um Guardião de Costumes pronunciou o nome de Edran e seus ciclos de serviço. Quando terminou, o povo respondeu:
 
 — A Raiz lembra.
 
-Kaelina não conseguiu repetir. A barca afastou-se, levando o corpo de Edran para a curva onde a água escurecia. O rio levaria o nome, como dizia o rito, mas não apagaria o feito. Naquele momento, porém, Kaelina pensou que o rio era cruel. Levava demasiado e devolvia pouco. A reunião do Conselho aconteceu antes que a noite fechasse.
+Kaelina não conseguiu repetir. A barca afastou-se para a curva do rio. O Conselho reuniu-se antes da noite.
 
-Daryon foi trazido com o ombro enfaixado e parte do rosto ainda manchada de cinza. Sentou-se com cuidado, mas recusou ajuda ao fazê-lo. A recusa pareceu mais importante para ele do que a dor. Alyra ocupou seu lugar sem dizer nada, o braço imobilizado, o olhar preso a pontos que nem sempre estavam na sala. Às vezes olhava para Cal Kadrir. Às vezes para o vazio entre as tochas. Às vezes para as próprias mãos, como se ainda houvesse cinza nelas. Kaelina permaneceu de pé.
+Daryon chegou com o ombro enfaixado. Alyra sentou-se com o braço imobilizado e, por vezes, olhava para Kadrir ou para as próprias mãos. Kaelina permaneceu de pé.
 
 Antes que Cal Kadrir fosse chamado ao centro, trouxeram as crianças.
 
@@ -398,7 +378,7 @@ Kaelina olhou para ele.
 
 — É exatamente isso que estou dizendo.
 
-A frase caiu sobre o Conselho como pedra em água parada. Cal Kadrir ficou pálido. Maelis pareceu esquecer as tábuas. Iressa fechou os olhos por um momento, como se algo que temia desde antes finalmente tivesse ganhado voz. Daryon não se mexeu. Alyra, porém, saiu do próprio transe.
+Kadrir ficou pálido. Maelis parou de escrever. Iressa fechou os olhos. Daryon não se mexeu; Alyra ergueu a cabeça.
 
 — Claro — disse ela.
 
@@ -410,7 +390,7 @@ Kaelina não respondeu. Alyra deu um passo.
 
 — Está tentando pensar como nosso pai. Mas você não é Orionus. Ele sabia quando oferecer pão e quando quebrar dentes. Você lembra apenas da primeira parte porque ela te faz parecer nobre.
 
-O nome de Orionus passou pela sala como vento frio. Kaelina caminhou até a irmã. Não depressa. Não com explosão. Com uma calma que fez Varron colocar a mão no punho da espada sem perceber.
+Kaelina caminhou até a irmã. Varron levou a mão ao punho da espada.
 
 — Não estou pensando como nosso pai — disse Kaelina.
 
@@ -424,7 +404,7 @@ O silêncio mudou. Kaelina aproximou-se o bastante para que apenas Alyra visse t
 
 — E eu vou descobrir quem envenenou Yvenn. Quem quebrou a palavra de Kaendar. Quem entregou aos outros clãs uma razão para se unirem contra nós. Seja Tondrar, Buldar, Vendrar, Glydar, Fendelar ou Polar. Quem fez isso terá consequência.
 
-Por um instante, Alyra não pareceu irritada. Pareceu atingida. Kaelina não esperou resposta. Saiu do salão.
+Alyra pareceu atingida. Kaelina saiu do salão.
 
 Os corredores pareciam outra cidade depois da reunião. Mais escuros, mesmo com tochas. Mais estreitos, mesmo sendo os mesmos. Kaelina não foi ao quarto. Não foi à muralha. Não foi à sala de mapas. Desceu por uma passagem lateral até o quarto onde Marken permanecia guardado.
 
@@ -442,9 +422,7 @@ E os dois afastaram-se. Kaelina abriu a porta e entrou.
 
 Marken estava no chão, como quase sempre. Havia pigmentos em pequenos potes de pedra, gordura clara numa tigela rasa, cinza fina, barro vermelho, raspas de junco-de-sangue e panos manchados ao redor. A luz da janela era fraca, mas suficiente para mostrar vermelho espalhado numa moldura de tecido grosso, ainda sem forma definida. Havia também cinzentos, linhas escuras, manchas que pareciam fumaça antes de serem qualquer outra coisa. Ele não se virou quando ela entrou.
 
-Kaelina fechou a porta. Por um momento, não falou. Sentou-se no sofá simples encostado à parede, atrás dele, e olhou as pinturas espalhadas pelo quarto. A forma de uma terra partida. A mulher de uma perna só. A criança recém-nascida junto à mulher pálida. A torre caída em poeira. E ali, apoiada contra a parede, a madeira comprida com o homem caído diante de fumaça e fogo.
-
-O punho fechado. Kaelina levantou-se devagar e aproximou-se da pintura. Viu agora o que não quisera ver antes. O corpo no chão. A fumaça ao redor. O rosto sem detalhe. A mão fechada com uma precisão quase íntima, como se o pintor conhecesse não o rosto do homem, mas a forma como ele morreria.
+Kaelina fechou a porta. Por um momento, não falou. Sentou-se no sofá simples encostado à parede, atrás dele, e olhou as pinturas espalhadas pelo quarto. Reconheceu a terra partida, a mulher de uma perna só, a criança junto à mulher pálida e a torre na poeira. Na madeira comprida, o homem caído entre fumaça e fogo mantinha o punho fechado. Kaelina se aproximou.
 
 — O que é isto? — perguntou.
 
@@ -476,7 +454,7 @@ Marken não olhou. Kaelina avançou um passo.
 
 — Você sabia que ele iria morrer e não me disse?
 
-A voz dela quebrou no fim, e isso a enfureceu ainda mais. Marken continuou pintando.
+A voz dela quebrou no fim. Marken continuou pintando.
 
 — Responda!
 
@@ -502,7 +480,7 @@ Marken ficou quieto. Kaelina olhou de novo para a pintura do homem caído.
 
 — Ele era importante para mim. Ele...
 
-A frase morreu. Não porque ela não soubesse terminá-la, mas porque havia nomes demais dentro dela. Guarda. Cal. Amigo. Última voz do pai. Homem que dizia não quando todos obedeciam. Muralha que ela nunca agradecera direito. Marken limpou os dedos num pano escuro.
+A frase morreu. Marken limpou os dedos num pano escuro.
 
 — Você também é importante para muitos.
 
@@ -538,15 +516,9 @@ Ela olhou para ele, irritada.
 
 — Orionus apenas apagava os focos antes que a chama ganhasse nome. Fome num anel. Orgulho num clã. Mentira numa rota. Medo numa sala. Ele via a fumaça cedo. Na soberania de vocês, nenhum fogo está sendo apagado. Pelo contrário, estão a acender novos focos.
 
-A frase ficou dentro dela. Kaelina pensou em Alyra.
+Kaelina pensou em Alyra, na câmara de banho, em Kadrir de joelhos e na frase sobre lealdade inventada por quem ainda não aprendera a mandar.
 
-Não na Alyra ferida junto ao rio, silenciosa diante da barca de Edran. Pensou na Alyra da câmara de banho, humilhando Cal Kadrir como se tocasse um animal obediente. Pensou na frase dela: “Lealdade é uma palavra bonita inventada por quem ainda não aprendeu a mandar.” Pensou no modo como precisava ver alguém pequeno para se sentir alta. No modo como transformava dor em teatro de poder. No modo como olhava para os clãs como bocas que deveriam aprender a fechar-se.
-
-Se Alyra quisesse mostrar que estava acima de todos, precisaria diminuir todos. Se quisesse fazer os Tondrar parecerem traidores, bastaria que Yvenn morresse sob trégua e que a Voz Tondrar morresse junto, impedindo qualquer versão limpa do outro lado.
-
-Se os outros clãs passassem a duvidar uns dos outros, Kaendar poderia acusar, dividir, punir, oferecer proteção, exigir obediência.
-
-E se aquilo não tivesse começado com Yvenn. E se o estopim tivesse sido em outro lugar. Kaelina virou-se sem dizer mais nada. Marken voltou à pintura.
+Se Yvenn morresse sob trégua e a Voz Tondrar morresse junto, nenhuma versão do outro lado chegaria limpa a Kaendar. E talvez o estopim tivesse começado antes de Yvenn. Kaelina saiu; Marken voltou à pintura.
 
 Ela saiu do quarto, mandou Lorian e Odris retornarem ao posto e seguiu pelos corredores com a cabeça cheia de peças que ainda não aceitavam formar imagem. Não queria acusar Alyra. Não ainda. Não podia. Uma suspeita sobre inimigo era lâmina. Uma suspeita sobre sangue era veneno dentro da própria boca. Mesmo assim, procurou.
 
