@@ -1,6 +1,4 @@
-Kaelina abriu o mapa antes que Noreval acordasse por completo.
-
-A Casa de Bofgro ainda cheirava a caldo velho e madeira úmida. Sobre uma mesa, Kaelina abriu um mapa de aldeias pequenas, rotas antigas, poços e vilas sem clã declarado.
+Antes que Noreval acordasse por completo, Kaelina abriu na Casa de Bofgro um mapa de aldeias, rotas antigas, poços e vilas sem clã declarado. O lugar ainda cheirava a caldo velho e madeira úmida.
 
 Savel não quisera falar mais depois de fechar a porta. Ainda assim, a frase dele ficara dentro dela como coisa mal engolida. Uma vila na garganta, nem Tondrar nem Polar. Onde dizem que vivem pessoas sem nome.
 
@@ -58,9 +56,7 @@ A Garganta Seca aproximou-se pelo vento menos úmido, pelas árvores mais baixas
 
 À noite, comeram pão de raiz escura, queijo salgado e carne seca sob uma formação de rocha. Harrev ferveu água com folha-de-alívio.
 
-No terceiro dia, encontraram o primeiro sinal da vila.
-
-Um tecido recente preso num arbusto de casca-negra e marcas de uma carroça arrastada anunciaram a vila antes das casas.
+No terceiro dia, um tecido recente preso a um arbusto de casca-negra e marcas de carroça arrastada anunciaram a vila antes das casas.
 
 Harrev desmontou primeiro. Caminhou alguns passos, agachou-se perto de uma pedra lisa e tocou a superfície com dois dedos.
 
@@ -428,7 +424,7 @@ Nynestra olhou de lado, devagar.
 
 A Mão da Colheita soltou uma risada seca, quase sem som. Kaelina ficou imóvel.
 
-— Eu não sei do que ta falando.
+— Eu não sei do que está falando.
 
 — Claro. Uma soberana Polar atravessa meio mundo até a Boca Seca, cai nas mãos dos Tondrar e, por sorte, não sabe por que uma armadilha Polar matou o homem que podia unir a garganta inteira contra Kaendar.
 
@@ -488,7 +484,7 @@ Nynestra estreitou os olhos. Do lado de fora, passos Tondrar cruzaram o corredor
 
 — Sua irmã? Então soberana Polar toma decisão sem consentimento do sangue?
 
-— É quase isso — respondeu Kaelina, suspirando — Não fazia ideia que Alyra estava se aliando aos Urtistar. É a pior coisa que pode fazer. Urtistar não são de confiança.
+— É quase isso — respondeu Kaelina, suspirando. — Não fazia ideia de que Alyra pudesse estar se aliando aos Urtistar. É a pior coisa que pode fazer. Urtistar não são de confiança.
 
 — Eu imagino que falem isso de todos os clãs. Pra vocês Jesed deve ser dividido entre os superiores Polar e os clãs animais.
 
@@ -498,7 +494,7 @@ Nynestra estreitou os olhos. Do lado de fora, passos Tondrar cruzaram o corredor
 
 Kaelina lembrou-se das palavras de Alyra. Do modo como a irmã falava de força como se força fosse sempre resposta limpa.
 
-— Minha irmã usou os Urtistar. Por fora de mim. Por fora do Conselho.
+— Acho que minha irmã está por trás disso. Se estiver, agiu sem me consultar.
 
 Nynestra riu com incredulidade amarga.
 
@@ -608,7 +604,7 @@ Kaelina olhou pelas barras, uma pedra luminosa na parede.
 
 Nynestra forçou um curto sorriso, confusa com o que a soberana dissera.
 
-— Vou dar palco a eles. Declararei guerra contra os Buldar. E você irá me atacar.
+— Vou dar palco a eles. E você irá me atacar.
 
 — Do que está falando?
 
@@ -624,7 +620,7 @@ A Mão da Colheita estreitou os olhos.
 
 — Está ficando poética demais para alguém presa numa gaiola de osso.
 
-Kaelina respirou devagar. Pela primeira vez desde Nhar-Veyr, tinha um plano.
+Kaelina respirou devagar.
 
 — Kharvok não precisa que uma de nós morra — disse Kaelina. — Precisa que a Boca Seca acredite nele.
 
@@ -640,11 +636,11 @@ A boca de Nynestra apertou.
 
 — Cuidado, Polar.
 
-— Eles não te querem morta Nynestra. Querem a mim.
+— Eles não te querem morta, Nynestra. Querem a mim.
 
 Nynestra observou-a por algum tempo.
 
-— O que você quer dizer com declarar guerra contra os Buldar — disse Nynestra.
+— O que você quer dizer com declarar guerra contra os Buldar? — perguntou Nynestra.
 
 — Que direi isso na frente de todos.
 
@@ -695,8 +691,6 @@ Nynestra aproximou-se das barras.
 — O quê?
 
 — Quando eu ferir você… quer que seja onde?
-
-Kaelina entendeu que Nynestra talvez tivesse aceitado o plano.
 
 Aos poucos, levou a mão até a lateral do próprio corpo, abaixo das costelas, onde sangue apareceria depressa e morte poderia ser evitada se a lâmina obedecesse.
 
