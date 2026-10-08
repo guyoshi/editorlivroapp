@@ -1,4 +1,4 @@
-Alyra espalhou a mentira assim que teve a oportunidade. Não houve grande convocação. Apenas os membros presentes, algumas tábuas de registro e o tipo de silêncio que surgia quando todos sabiam que uma informação chegara incompleta, mas ninguém ainda tinha coragem de chamá-la de mentira.
+Alyra espalhou a mentira na primeira reunião em que teve oportunidade.
 
 Alyra permaneceu de pé. Kaelina estava sentada, mas não parecia repousar. Daryon ficou um passo atrás, quieto demais para quem normalmente gostava de ocupar as bordas das frases.
 
@@ -28,19 +28,17 @@ Varron soltou um som baixo.
 
 — Tondrar.
 
-Alyra não confirmou. Também não negou. A mentira tinha sido aceita. Os Tondrar já eram culpados demais na cabeça de Kaendar para que alguém precisasse de prova. Marken passou a falar cada vez menos nos próximos dias.
+Alyra não confirmou nem negou. O nome Tondrar bastou para que a sala completasse a acusação. Nos dias seguintes, Marken falou ainda menos.
 
-Não que antes falasse muito. Havia nele uma economia estranha, como se cada palavra precisasse atravessar lugares demais antes de chegar à boca. Mas, desde a conversa com Kaelina, desde o fragmento de sino entregue em tecido escuro, seu silêncio deixara de parecer recusa e passara a parecer trabalho. Ele pintava.
+Desde a conversa com Kaelina e o fragmento de sino, Marken passara a ocupar o silêncio pintando.
 
-Pedira a Kaelina madeira lisa, carvão fino, pigmento de pedra, gordura clara para prender cor, sal fino para secar mistura e alguns pedaços de tecido grosso esticado em moldura. O pedido chegara ao Conselho como mais uma esquisitice do estrangeiro. Maelis dissera que talvez fosse melhor negar. Varron achara absurdo permitir que alguém sem clã, sem origem e sem respostas tivesse qualquer coisa pontuda nas mãos. Iressa perguntara apenas quanto pigmento aquilo custaria e se alguém tinha lembrado que gordura clara também servia para conservar carne.
-
-Kaelina autorizara. Desde então, Marken ficava sentado no chão do quarto que ela insistia em não chamar de cela. Havia guarda do lado de fora, tranca, rondas, água medida, pão de raiz escura e comida entregue em horários certos. Se aquilo não era uma prisão, era porque Kaelina precisava acreditar que ainda havia diferença entre proteger e prender.
+Pedira madeira lisa, carvão, pigmentos, gordura para prender cor, sal fino e tecido em moldura. Kaelina autorizara apesar das objeções de Maelis e Varron. Marken continuava no quarto que ela se recusava a chamar de cela, com guarda e rondas do lado de fora, mas sem tranca.
 
 Ele pintava à luz estreita da janela.
 
 Pintou uma terra partida contra um céu vazio. Depois pintou uma mulher de uma perna só diante de uma fogueira pequena, com folhas largas espalhadas ao redor. Noutra placa, pintou uma criança recém-nascida junto a uma mulher pálida, enquanto um homem ajoelhado parecia quebrado demais para levantar a cabeça. Em tecido escuro, desenhou uma torre caída entre poeira, quase engolida por um mundo coberto de areia. Por fim, numa madeira comprida, pintou um homem no chão diante de fumaça e fogo. O rosto não tinha detalhes. A mão, sim. Estava fechada. Como se segurasse algo que ninguém mais via.
 
-Quando os guardas da Raiz perguntavam o que eram aquelas imagens, Marken não respondia. Quando Maelis entrou para ver, anotou tudo em duas tábuas e saiu mais inquieto do que chegara. E quando foi Kaelina quem foi até ele, Marken apenas mergulhou os dedos no pigmento cinzento e continuou a espalhar fumaça em volta do homem caído.
+Marken não explicava as imagens. Maelis registrou todas; quando Kaelina foi vê-lo, ele continuou espalhando pigmento cinzento em torno do homem caído.
 
 — São lembranças? — perguntou ela.
 
@@ -52,21 +50,17 @@ Ele olhou para a pintura da terra partida.
 
 — Talvez.
 
-Kaelina não insistiu. Havia perguntas demais em Kaendar. Perguntas no Conselho, nos corredores, perguntas enterradas em olhos que fingiam respeito. Desde que os rumores tinham chegado, a cidade deixara de respirar por completo. Não havia guerra no portão, mas havia algo pior: a expectativa de guerra. E expectativa, em Kaendar, fazia cada pedra parecer mais estreita.
+Kaelina não insistiu. Kaendar já estava cheia de perguntas e expectativa de guerra.
 
-As reuniões do Conselho tornaram-se mais longas, mas menos úteis. Falava-se dos Fendelar mortos, dos Tondrar insultados, dos Buldar silenciosos demais, dos Glydar que enviavam respostas curtas, dos Vendrar que atrasavam metal e óleo, das rotas onde mercadores agora viajavam com escolta dobrada. Os últimos carregamentos dos Buldar tinham vindo escassos: menos grão-de-caule, menos farinha de raiz vermelha, menos sacos do que as tábuas prometiam. A justificativa era a mesma de sempre quando Nyn-Harad queria parecer vítima e credora ao mesmo tempo: as últimas colheitas não tinham sido boas.
+O Conselho acumulava notícias ruins: Fendelar mortos, Tondrar hostis, Glydar lacônicos, Vendrar atrasando metal e óleo, mercadores com escolta dobrada e carregamentos Buldar menores do que o previsto.
 
-Daryon continuava ao lado de Alyra. Ainda sorria, ainda inclinava a cabeça na hora certa, ainda entregava frases suaves como lâminas embrulhadas em seda. Mas Kaelina percebia que Alyra já não o escutava como antes. Escutava para escolher o que aproveitaria. E, por baixo de tudo, havia Yvenn. A pergunta que Marken plantara nela não morrera. Crescera em silêncio.
-
-Se os Tondrar haviam envenenado Yvenn, por que levariam a própria Voz?
-
-Kaelina voltava a isso em momentos impróprios. No meio de uma contagem de sal negro. Diante de um mapa com pedras sobre Mirval, Khar-Tondr e as margens Glydar. Ao ouvir o nome dos Tondrar. Ao ver Alyra erguer o queixo sempre que alguém falava de traição. A pergunta ficava lá, imóvel, como uma pedra presa dentro do peito.
+Daryon continuava ao lado de Alyra, embora ela já escolhesse com mais liberdade quais conselhos aproveitar. Kaelina, por sua vez, continuava presa à pergunta de Marken: se os Tondrar haviam envenenado Yvenn, por que levariam a própria Voz?
 
 Naquela manhã, a primeira notícia não veio de um Vigia, e sim da água.
 
-No Anel Alto, perto do Pátio das Pequenas Audiências, havia uma fonte antiga de pedra clara. Não era grande, nem especialmente bonita, mas era usada por famílias antigas, conselheiros e servos de alta função. Gente do Anel Baixo dizia, com raiva mansa, que até a sede subia vestida quando chegava ali. A água vinha canalizada de uma das ramificações internas do Rio Grande, passando por comportas, pedra filtrante e carvão antes de chegar ao anel. Era orgulho pequeno dos Polar: até a água obedecia ao caminho. Um homem de túnica verde inclinou-se para beber primeiro.
+No Anel Alto, uma fonte de pedra clara recebia água do Rio Grande depois de passar por comportas, pedra filtrante e carvão. Um homem de túnica verde inclinou-se para beber.
 
-Tinha acabado de discutir com outro sobre taxas de couro e parecia satisfeito por ter vencido alguma coisa sem importância. Encheu a concha de pedra, levou à boca e cuspiu imediatamente. A água espalhou-se pelo chão. Os outros riram. O homem limpou os lábios com a manga.
+Ele encheu a concha, levou à boca e cuspiu imediatamente.
 
 — Que droga tem nessa água?
 
@@ -76,13 +70,13 @@ Uma mulher aproximou-se, sorrindo, como quem vai provar que homens exageram quan
 
 Outro homem tocou a superfície com dois dedos. Quando os ergueu, havia um brilho escuro entre eles. Fino, oleoso e insistente. Ninguém riu depois disso.
 
-A água continuava a correr, mas já não parecia água. Pequenos círculos de gordura escura abriam-se na superfície da fonte, espalhando um cheiro fraco, amargo, como metal molhado, couro queimado e óleo velho de oficina. As notícias subiram mais depressa do que a água.
+Círculos de gordura escura abriram-se na superfície, com cheiro de metal molhado, couro queimado e óleo velho. A notícia subiu pelos anéis.
 
 Quando chegaram às soberanas, Kaelina e Alyra estavam no salão menor, ouvindo Maelis tentar explicar por que três rotas de comércio haviam dado respostas contraditórias sobre uma mesma carga de sal.
 
 A porta se abriu antes que Maelis terminasse e Nalia do Rio entrou sem pedir permissão. Isso, por si só, fez todos calarem.
 
-Ela não era mulher de correr. A pele marcada de sol e água parecia sempre carregada de calma profunda, como margem que já vira muita enchente para se assustar com chuva. Naquele momento, porém, seus olhos estavam duros.
+Nalia raramente corria. Naquele momento, seus olhos estavam duros.
 
 — Minhas soberanas — disse ela. — Precisam vir comigo.
 
@@ -90,11 +84,7 @@ Alyra levantou-se primeiro. Kaelina veio logo depois.
 
 Desceram pelos anéis com escolta curta, Nalia à frente, Maelis atrás tentando acompanhar sem deixar cair as tábuas. Varron juntou-se a eles no caminho, já com a mão no punho da espada. Iressa surgiu perto da escadaria do anel médio, depois de ouvir de algum servo que havia problema com água. Problema com água sempre virava problema com comida.
 
-Quando chegaram às margens internas de Kaendar, o cheiro os alcançou antes da visão. O rio passava junto à base da fortaleza, largo e escuro naquele trecho, domesticado por canais, comportas e pedras de margem. Na maior parte dos ciclos, seu som era constante, quase tranquilizador. Naquele dia, parecia abafado.
-
-A superfície estava coberta por óleo. Não completamente parada. Pior. Viva. Até os corvos-de-sal mantinham distância das pedras, inquietos, como se a margem tivesse deixado de ser margem.
-
-Faixas escuras ondulavam com a corrente, formando manchas que se abriam e se fechavam como pele doente. Em alguns pontos, a luz tocava a água e devolvia reflexos verdes, azuis, negros. Perto das pedras, peixes menores boiavam de lado, a boca abrindo e fechando num ritmo inútil. Um zírrio morto bateu contra uma comporta e ficou preso ali, balançando como uma pergunta. Mais abaixo, uma ulmara ainda viva tentou subir contra a corrente, coberta por uma película escura, até desaparecer sob o óleo.
+Nas margens internas, o Rio Grande vinha coberto por faixas de óleo. Corvos-de-sal evitavam as pedras; peixes boiavam de lado, um zírrio morto prendeu-se numa comporta e uma ulmara tentou subir contra a corrente sob a película escura.
 
 Iressa levou a mão ao nariz.
 
@@ -108,7 +98,7 @@ Alyra olhava para o rio como se alguém tivesse cuspido em seu rosto.
 
 Nalia não respondeu de imediato. Olhou rio acima. Kaelina seguiu o olhar dela.
 
-Não era necessário dizer o nome. Qualquer criança dos anéis baixos sabia que, acima de Kaendar, havia curvas, margens, pequenas passagens, pontes baixas e gente que aprendia a nadar antes de correr direito. Os Glydar não precisavam ser citados para aparecer na mente de todos. O rio vinha de onde eles respiravam.
+Rio acima ficavam as margens Glydar. Todos sabiam.
 
 — Se um Cendar ou Vendrar fizessem isso, teria de ser sob o nariz Glydar em terras Glydar — disse Varron.
 
@@ -122,7 +112,7 @@ Alyra virou o rosto lentamente.
 
 — Óleo suficiente para vestir o rio inteiro não cai por descuido.
 
-Nalia permaneceu calada. E esse silêncio preocupou Kaelina mais do que qualquer frase.
+Nalia permaneceu calada.
 
 — O que você acha? — perguntou Kaelina.
 
@@ -184,15 +174,13 @@ O soldado ergueu os olhos.
 
 — Vimos a fumaça das torres. Parece ter se alastrado bem. Pode haver feridos.
 
-O Conselho reuniu-se pouco depois, mas não houve Conselho de verdade. Houve vozes.
-
-Brokan exigiu homens armados, escudos largos e duas carroças de ferramentas, porque casa queimada também matava depois de parar de arder. Varron pediu patrulhas em todas as saídas orientais, nos caminhos baixos para Alestir e nas passagens onde um grupo pequeno poderia sumir antes de deixar pegada honesta. Iressa queria saber se os depósitos da vila haviam sido atingidos, se havia raiz seca, sal ou grão guardado ali, e quantos dias de ração desapareceriam se o fogo tivesse chegado primeiro à comida. Nalia ainda trazia o cheiro do rio nas roupas e falava pouco. Maelis tentava transformar caos em ordem nas tábuas, mas cada nova informação rasurava a anterior.
+O Conselho reuniu-se pouco depois. Brokan pediu homens e ferramentas; Varron, patrulhas nas saídas orientais; Iressa queria saber se os depósitos de Alestir haviam queimado. Maelis tentava registrar informações que mudavam a cada momento.
 
 Alyra ficou sentada, rígida, com o olhar fixo adiante. Kaelina não se sentou.
 
 — Vou até lá — disse Kaelina.
 
-O salão reagiu antes das palavras. Alguns conselheiros se mexeram nas cadeiras. Maelis levantou os olhos das tábuas. Iressa apertou os lábios. Varron inclinou a cabeça, como se já preparasse uma objeção. Mas foi Alyra quem falou primeiro.
+Alyra falou primeiro.
 
 — Não.
 
@@ -218,9 +206,7 @@ Kaelina sustentou o olhar dela.
 
 — Talvez seja isso que soberanos fazem quando o próprio povo queima em terra Polar.
 
-A frase atravessou o salão. Não foi dita para ferir Alyra, não diretamente, mas acertou.
-
-Os dedos de Alyra apertaram o braço do trono, e por um instante seu rosto perdeu a indiferença calculada. Daryon, ao lado dela, percebeu. Baixou um pouco os olhos, como quem observa uma peça deslizar no tabuleiro. Varron pigarreou.
+Os dedos de Alyra apertaram o braço do trono. Daryon percebeu.
 
 — Com todo respeito, minha soberana, a presença de qualquer uma de vós numa região ainda sem confirmação de segurança pode ser lida como impulso.
 
@@ -244,7 +230,7 @@ Alyra ergueu ligeiramente o queixo.
 
 — Ficarei. Alguém precisa segurar Kaendar enquanto você corre atrás de fumaça.
 
-Kaelina não respondeu. Virou-se e abandonou a reunião. O movimento foi tão brusco que Maelis quase deixou uma tábua cair. Alguns conselheiros levantaram-se por reflexo. Outros ficaram imóveis, presos entre as duas soberanas como homens diante de uma ponte rachando pelo meio. Cal Edran, que estava junto à porta, endireitou-se quando Kaelina passou.
+Kaelina virou-se e deixou a reunião. Edran, junto à porta, acompanhou-a.
 
 — Minha soberana?
 
@@ -274,7 +260,7 @@ Edran não respondeu de imediato. Os corredores do anel alto pareciam estreitos 
 
 Kaelina parou apenas ao alcançar os portões internos.
 
-Lá embaixo, os homens já começavam a ser chamados. Tarraks eram puxados dos estábulos externos. Correias de balili batiam contra selas. Lanças passavam de mão em mão. Um tratador esfregava sal seco no focinho de um animal nervoso para obrigá-lo a reconhecer a mão antes da estrada. O portão menor começava a abrir como uma boca escura para a noite, rangendo nas correntes velhas que Orionus mandara trocar três vezes e que, mesmo assim, todos ainda chamavam de velhas.
+Lá embaixo, tarraks saíam dos estábulos, correias de balili batiam contra selas e lanças passavam de mão em mão. O portão menor começava a abrir para a noite.
 
 Kaelina desceu os últimos degraus.
 
@@ -290,7 +276,7 @@ Edran inclinou a cabeça.
 
 — Não.
 
-A palavra pesou mais do que deveria. Kaelina fitou-o, incrédula.
+Kaelina fitou-o.
 
 — Não?
 
@@ -306,7 +292,7 @@ O silêncio em volta do portão mudou de forma. Kaelina deu um passo para perto 
 
 — Tenho tomado cuidado desde antes de a senhora saber andar.
 
-A frase feriu e protegeu ao mesmo tempo. Kaelina apertou o maxilar.
+Kaelina apertou o maxilar.
 
 — Pode haver sobreviventes.
 
@@ -318,11 +304,9 @@ Edran não piscou.
 
 — Vosso pai teria feito o que precisava ser feito. Não o que parecia bonito depois.
 
-A frase atingiu-a com força suficiente para fazê-la parar. Do lado de fora, um tarraks bufou. Correntes estalaram. O portão continuava aberto, esperando uma decisão.
+Kaelina parou.
 
-Kaelina respirou pelo nariz. Queria empurrá-lo, ordenar que o prendessem, atravessar aquela passagem e provar, a si mesma talvez mais do que a Kaendar, que não governava de janelas. Mas a pergunta de Marken estava lá.
-
-As armadilhas já estavam por toda parte. No rio. Nos rumores. Talvez na própria morte de Yvenn. E agora havia fogo. Edran falou mais baixo:
+Kaelina lembrou do rio, dos rumores, de Yvenn e das perguntas de Marken. Edran falou mais baixo:
 
 — Permita-me ir primeiro. Levarei homens suficientes para procurar sobreviventes e avaliar ameaça. Se for seguro, mando aviso. Se for seguro, mando aviso. Se for isca, serei eu a pisar nela.
 
@@ -360,23 +344,17 @@ Respirou fundo e aceitou a derrota. Edran virou-se para os soldados.
 
 Os homens se moveram. Kaelina permaneceu junto ao portão enquanto os tarraks eram trazidos. Não voltou para o salão. Não subiu. Ficou ali, vendo Edran montar.
 
-Os tarraks pareciam nervosos. Eram animais baixos, musculosos, de pescoço grosso e patas fortes, feitos para lama, pedra e carga, mais teimosos que belos e mais úteis que obedientes. A pele curta variava entre castanho escuro, cinza e negro, e uma crina rala descia do topo da cabeça até os ombros. Tinham olhos grandes demais para a brutalidade do corpo, e um temperamento que exigia mão firme. Um tarraks assustado podia partir uma perna de homem sem maldade apenas por discordar dele.
-
-Edran montava um animal velho, cinzento, com uma cicatriz branca no focinho. Chamava-se Bravro. Era teimoso, lento para confiar e impossível de mover quando decidia que o chão à frente mentia.
-
-Edran gostava dele por isso. Antes de partir, olhou uma última vez para Kaelina. Tocou dois dedos na testa. Depois no peito. Lembro. Pertenço. Não disse as palavras. Não precisava. Então partiu.
+Edran montava Bravro, um tarrak velho e cinzento, com cicatriz branca no focinho e teimosia suficiente para parar quando desconfiava do chão. Antes de partir, olhou uma última vez para Kaelina. Tocou dois dedos na testa. Depois no peito. Lembro. Pertenço. Não disse as palavras. Não precisava. Então partiu.
 
 Levaram doze homens, poucos para guerra, mas o bastante para resgate. Rápidos o suficiente para chegar antes que as cinzas esfriassem.
 
-O caminho para Alestir cortava uma zona de campos baixos, pequenas casas de pedra e madeira, depósitos de raiz seca, hortas protegidas por cercas, currais de balili e postos de vigia que existiam mais para avisar do que para resistir. A vila incendiada ficava em terra Polar, não junto às muralhas, mas perto o bastante para que todos ali crescessem acreditando que Kaendar os veria se gritassem.
-
-Naquela noite, Kaendar não ouviu a tempo. A fumaça estava lá no horizonte. Não como coluna única, mas como véu espalhado. Cinza baixa, grossa, arrastada pelo vento. O cheiro veio depois. Madeira queimada, palha, carne, óleo, grão estourado no calor e couro molhado virando fumo. Edran levantou a mão. Os homens pararam.
+O caminho para Alestir atravessava campos, casas, depósitos de raiz seca, hortas, currais de balili e pequenos postos de vigia. A vila ficava em terra Polar, perto o bastante para confiar que Kaendar responderia se gritassem. Naquela noite, não respondeu a tempo. A fumaça estava lá no horizonte. Não como coluna única, mas como véu espalhado. Cinza baixa, grossa, arrastada pelo vento. O cheiro veio depois. Madeira queimada, palha, carne, óleo, grão estourado no calor e couro molhado virando fumo. Edran levantou a mão. Os homens pararam.
 
 — Primeiro procuramos vivos. Depois inimigos. Dois a dois. Quem ouvir criança, chama. Quem vir óleo, recua. Quem encontrar rastro, não pisa.
 
 Os soldados assentiram e desceram. A vila ainda ardia em vários pontos. Telhados tinham cedido, paredes fumegavam, cercas viraram linhas negras no chão. Um depósito de grão crepitava no centro, cuspindo faíscas. Perto da fonte, dois corpos estavam abraçados de lado, tão queimados que já não se sabia onde terminava um e começava o outro. Um dos soldados virou o rosto. Edran não.
 
-Não porque não sentisse. Porque alguém precisava olhar.
+Edran continuou olhando.
 
 — Espalhem-se. Dois a dois.
 
@@ -502,15 +480,13 @@ Os soldados obedeceram. Alyra passou pelo homem caído sem baixar os olhos. Dary
 
 Kadrir demorou meio sopro a mais. Olhou para o moribundo, depois para Edran, como se esperasse uma ordem que não vinha. Então seguiu a soberana. Quando eles se afastaram, o homem soltou o ar que ainda restava. A pequena Raiz de madeira escorregou um pouco entre seus dedos. Edran ajoelhou-se novamente ao lado dele.
 
-A vida já estava escorrendo do corpo como água por pedra rachada. Não havia mais pergunta que pudesse segurá-lo.
+Não havia mais pergunta que pudesse segurá-lo.
 
 — A Raiz lembra — disse Edran, baixo.
 
 O homem tentou levar dois dedos à testa. Não conseguiu. Talvez tivesse respondido. A boca mexeu, mas nenhum som veio. Edran pegou a pequena Raiz de madeira e a fechou de novo na mão dele. Depois fechou-lhe os olhos.
 
-Quando se levantou, Alyra já avançava entre as ruínas, cercada de homens que obedeciam depressa demais para pensar. Edran observou a vila. Alguma coisa não estava certa.
-
-Não era só a precisão do ataque. O fogo caído “do céu”, talvez frascos incendiários lançados das encostas, talvez tubos Vendrar ou mecanismos que os Polar ainda não conheciam, explicava parte da destruição. Outra coisa incomodava Edran. O cheiro.
+Quando se levantou, Alyra já avançava entre as ruínas. Edran sentiu algo errado além da precisão do ataque: o cheiro.
 
 Ele atravessava a fumaça como um segredo. Doce, metálico e oleoso, como fruta apodrecida dentro de uma forja.
 
@@ -526,8 +502,7 @@ Edran não respondeu. O ruído veio de novo. Tac. Mais baixo. Um dos soldados er
 
 Edran sentiu o cheiro crescer. Não vinha do fogo aberto. Vinha de dentro. Bafo-de-fenda.
 
-O nome chegou à memória antes do entendimento completo. Edran ouvira falar daquilo muitos ciclos antes, numa negociação com Vendrar: vapor oleoso das fendas quentes de Varkhama, coisa de forja profunda, tubo de chama e caverna que precisava ser aberta à força. Guardado em pote selado, era ferramenta cara. Solto em espaço fechado, era espera.
-E quando encontrava chama, deixava de esperar.
+Edran reconheceu Bafo-de-fenda, vapor oleoso das fendas quentes de Varkhama. Vendrar o guardavam em recipientes selados; em espaço fechado, bastava uma chama.
 
 Edran viu, perto da porta, uma pequena linha brilhante escorrendo da madeira para o chão. Quase invisível na fumaça. Um fio de óleo claro demais. Um convite.
 
@@ -535,9 +510,9 @@ Edran viu, perto da porta, uma pequena linha brilhante escorrendo da madeira par
 
 O grito rasgou a vila. Tarde demais. A luz tocou o escuro. O galpão abriu-se em fogo.
 
-Não explodiu como madeira. Explodiu como ar. Como se a própria noite tivesse sido comprimida dentro daquelas paredes e, de repente, ganhasse dentes. A porta voou primeiro. Depois o telhado. Depois pedra, viga, grão-de-caule, metal, corpo, chama. O mundo ficou branco.
+A explosão tomou o ar. Porta, telhado, pedra, viga, grão, metal e chama vieram de uma vez. O mundo ficou branco.
 
-Edran sentiu o impacto antes de ouvir. O peito foi esmagado por uma mão invisível. Bravro empinou. O chão desapareceu. O ar virou pedra. Algo cortou seu rosto. Algo quente passou pelo pescoço. O som sumiu. Quando caiu, não soube se estava no chão ou dentro de um sino quebrado. Tudo era mudo.
+Edran sentiu o impacto antes do som. Bravro empinou; o chão desapareceu; algo cortou seu rosto. Quando caiu, tudo parecia mudo.
 
 Viu bocas abertas sem som. Homens correndo devagar demais. Fumaça dobrando-se sobre a rua. Um tarraks caído, as patas batendo no chão. Fogo preso numa poça de óleo. Uma mão sem corpo perto de uma roda partida. Grãos queimados espalhados como dentes no barro. o Tentou levantar. O corpo demorou a aceitar a ideia. Então viu Alyra.
 
@@ -561,7 +536,7 @@ O homem acelerou. Edran colocou-se diante dela, não como guerreiro, como uma mu
 
 A primeira pancada veio alta e feroz. Edran desviou por pouco, sentindo a lâmina raspar na proteção do ombro. Respondeu com golpe curto, preciso, mirando o pulso. O homem recuou. Era rápido. Mais rápido do que parecia. Então veio o segundo golpe, e o terceiro.
 
-O homem não atacava para vencer troca de lâminas. Atacava para conduzir. Para empurrar. Para forçar pé no lugar errado, olho para o lado errado, respiração no tempo errado.
+O homem atacava para conduzir Edran, empurrando-o para posições escolhidas.
 
 O homem avançou. Edran aparou, girou o corpo e golpeou a lateral dele. A lâmina mordeu carne. O atacante gritou, mas o grito não veio de dor. Parecia vir de raiva. Alyra atrás dele respirava rápido.
 
@@ -591,7 +566,7 @@ Alyra não hesitou. Kadrir inclinou-se, segurou o braço bom dela e a ajudou a s
 
 Kadrir cravou os calcanhares no tarrak. O animal disparou. O homem na fumaça viu Alyra afastar-se. Viu o manto escuro desaparecer entre chamas e cinza. Então olhou para Edran e atacou.
 
-Dessa vez, não havia cálculo limpo. Havia pressa, dor, ódio. Edran usou isso. Aparou uma sequência de golpes, abriu a guarda do homem com o ombro e enterrou a lâmina na carne acima do quadril. O homem cambaleou. Edran avançou para terminar. Foi aí que a fumaça mudou.
+Dessa vez o homem atacou com pressa. Edran usou isso. Aparou uma sequência de golpes, abriu a guarda do homem com o ombro e enterrou a lâmina na carne acima do quadril. O homem cambaleou. Edran avançou para terminar. Foi aí que a fumaça mudou.
 
 O homem caiu para trás como se ferido demais para continuar. A mão esquerda tocou o chão, puxou algo escondido sob cinza: uma corda fina, escura, quase invisível. Edran viu tarde.
 
@@ -599,7 +574,7 @@ A corda levantou uma linha de ganchos de osso e metal entre duas vigas partidas.
 
 O pé de Edran enroscou. O corpo avançou sem a perna. Ele caiu de lado, mas rolou antes que a lâmina do Fendelar acertasse o pescoço. O golpe pegou ombro, fundo o suficiente para roubar força do braço. Edran tentou levantar-se.
 
-Outra coisa apertou sua perna. Um laço. Tendão tratado, escondido na lama. Essas armadilhas… eram Fendelar. Não de história contada em taverna. De trilha real: ganchos baixos, tendão tratado, laço escondido onde o olho procura corpo e não chão. Mas os Fendelar tinham sido exterminados pelos Tondrar. Eram Tondrar usando armadilhas Fendelar? Não. Aquele homem não era Tondrar. Não tinha pintura, não tinha peso de guerreiro da seca, não se movia como quem mede mundo por tambor. Movia-se como mata fechada. Seria um Fendelar sobrevivente? O homem surgiu por cima dele, sangue escorrendo da ferida no quadril, rosto tomado por cinza e lágrimas que talvez fossem só fumaça.
+Outra coisa apertou sua perna. Um laço. Tendão tratado, escondido na lama. As armadilhas eram Fendelar: ganchos baixos, tendão tratado, laços escondidos onde o olho procurava corpo em vez de chão. Aquele homem não tinha pintura nem movimento Tondrar. Movia-se como mata fechada. Surgiu sobre Edran, sangrando do quadril.
 
 Edran socou-o no maxilar. O homem quase caiu, mas caiu para frente. A espada entrou sob as costelas de Edran. O golpe entrou próximo demais, bruto demais, cheio de peso. Um golpe de homem que não queria sobreviver, queria matar.
 
@@ -607,12 +582,6 @@ Edran sentiu a lâmina antes da dor. Depois a dor veio inteira, quente, absoluta
 
 — Tua Dinastia vai cair, Polar — rosnou.
 
-Edran tentou responder. Não conseguiu. Por um instante, não viu fumaça. Viu Orionus jovem, de pé diante da Garganta de Kaendar, dizendo que um portão não servia apenas para impedir o mundo de entrar. Servia para lembrar aos de dentro por que valia a pena ficar.
+Edran tentou responder e não conseguiu. Viu Orionus jovem diante da Garganta. Viu Kaelina criança fugindo com seu elmo nas mãos. Viu Alyra menina no degrau do trono.
 
-Depois viu Kaelina criança, pequena demais para a própria indignação, fugindo com seu elmo nas mãos porque alguém dissera que meninas de trono não precisavam aprender peso de metal.
-
-Viu Alyra menina, sentada no degrau do trono vazio, olhando para todos como se já tivesse entendido cedo demais que depender de alguém era uma forma de ficar ferida.
-
-Tentou levantar a mão. Não para empurrar o homem. Para alcançar algo que já não estava ali. Pela primeira vez em muitos ciclos, Cal Edran Polar tentou levantar-se e o corpo não obedeceu. A fumaça desceu sobre ele.
-
-O homem que esteve ao lado de Orionus, que guardara as filhas dele como muralha viva e que carregara Kaendar nos ombros quando ninguém olhava, terminou ali: com o rosto na cinza, a faixa clara da têmpora, onde um dia descera a raiz branca, encostada no chão, o sangue misturado à lama e a mão ainda fechada como se segurasse, sozinho, um portão que já não existia.
+Tentou levantar a mão, mas o corpo não obedeceu. A fumaça desceu sobre ele. Sua mão permaneceu fechada na cinza.
