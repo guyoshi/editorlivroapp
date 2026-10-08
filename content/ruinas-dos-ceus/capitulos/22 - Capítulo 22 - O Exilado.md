@@ -338,11 +338,13 @@ Gabasteri balançou a cabeça.
 
 Gabasteri voltou a olhar para Nestira.
 
-Ela baixou os olhos.
+— Você entende o que eu estou dizendo?
+
+Nestira baixou os olhos.
 
 — Olha pra mim quando eu estou falando com você.
 
-Nestira demorou, mas ergueu o rosto.
+Ela demorou, mas ergueu o rosto.
 
 Gabasteri falou sem elevar a voz.
 
@@ -360,15 +362,17 @@ Ela passou a língua pelos lábios secos.
 
 — Você fica sem comer porque não há comida suficiente para fingirmos que resultado e intenção são a mesma coisa.
 
-Mariv entrou entre os dois.
+Mariv se levantou e foi na direção de Gabasteri.
 
-— Chega.
+— Para.
 
-Gabasteri soltou o ar pelo nariz.
+Gabasteri virou o rosto para ele.
 
-— Sai da frente.
+— Não se mete.
 
-— Não. Dá a parte dela.
+Mariv continuou se aproximando.
+
+— Dá a parte dela.
 
 — Mariv.
 
