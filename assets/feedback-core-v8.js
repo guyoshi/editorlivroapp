@@ -144,12 +144,23 @@ const Comments = (() => {
   }
   function emitAdminState(){
     const nameSheet=document.getElementById("nameSheet");
-    if(nameSheet&&!name()) nameSheet.hidden=admin();
+    const profileFlow=sessionStorage.getItem(PROFILE_FLOW_KEY)||"";
+    if(nameSheet&&!name()) nameSheet.hidden=admin()&&!profileFlow;
     document.dispatchEvent(new CustomEvent("beta:admin",{detail:{on:admin()}}));
     render();
     updateIdentityBar();
   }
   async function applyAuthUser(user){
+    const profileFlow=sessionStorage.getItem(PROFILE_FLOW_KEY)||"";
+    if(user&&profileFlow&&auth){
+      // Se o usuário escolheu criar/entrar como leitor, uma sessão antiga de
+      // administrador não pode "engolir" a tela de perfil durante o boot.
+      try{await auth.signOut();}catch(e){console.warn("Não foi possível encerrar a sessão antiga do administrador:",e);}
+      adminUser=null;
+      authReady=true;
+      emitAdminState();
+      return false;
+    }
     adminUser=(user&&await authorizedAdminUser(user))?user:null;
     authReady=true;
     emitAdminState();
