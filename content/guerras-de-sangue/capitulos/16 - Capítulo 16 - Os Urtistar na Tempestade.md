@@ -8,7 +8,7 @@ Os Glydar tinham vindo em menor número, com lanças de pesca, facas curvas, cor
 
 Lorde Ossar da Margem Funda apertava e soltava a borda do cinto enquanto olhava para o norte. Os Glydar tinham lançado óleo corrente abaixo: suas margens continuavam limpas, enquanto a água chegava doente a Kaendar. A decisão parecera inteligente. Agora Ossar pensava em quem os Polar procurariam primeiro quando seguissem o rio. Nynestra Buldar também não celebrava.
 
-Sentada diante de uma mesa baixa, Nynestra estudava grão, rotas e pedras de clãs enquanto uma tigela de raiz vermelha esfriava ao lado. Estava mais interessada no custo do ataque do que na celebração.
+Sentada diante de uma mesa baixa, Nynestra estudava grão, rotas e pedras de clãs enquanto uma tigela de raiz vermelha esfriava ao lado. Calculava o custo do ataque.
 
 Então Rendar chegou. Um Tondrar parou de bater a lâmina, depois outro, até os tambores perderem o ritmo.
 
@@ -40,7 +40,7 @@ Rendar caminhou até uma das fogueiras e chutou um pedaço de madeira ardida par
 
 — A vitória foi sobre o estômago deles.
 
-Nynestra sabia que ele estava certo: para um povo faminto, mantimento queimado podia ser mais grave do que muralha quebrada.
+Nynestra olhou para os grãos espalhados sobre a mesa.
 
 — Sacos de grão-de-caule. Farinha escura. Raiz amarela seca. Zírrio de depósito. Carne salgada. Conserva. Barris de flor-de-sal. Mantimento guardado para travessia, cerco e estação ruim. Tudo aquilo queimou. Aquilo não irá virar discurso. Aquilo vira falta, vira contagem, vira homens dividindo água fervida, fiscal escondendo barril. Vira divisão.
 
@@ -68,7 +68,7 @@ Rendar olhou para ele.
 
 A voz dele era calma, mas cada palavra tinha peso de margem molhada: macia por cima, funda por baixo.
 
-— Trataremos disso melhor depois — disse Rendar
+— Trataremos disso melhor depois — disse Rendar.
 
 Nynestra colocou três pedras sobre o mapa: Kaendar, Khar-Tondr e as margens Glydar.
 
@@ -82,7 +82,7 @@ Ossar respirou pelo nariz.
 
 — Não igualmente.
 
-A frase ficou ali. Rendar não negou. Talvez por não poder. Talvez por saber que negar seria desperdício. Nynestra tocou outra pedra, mais a leste.
+Rendar não negou. Nynestra tocou outra pedra, mais a leste. Nynestra tocou outra pedra, mais a leste.
 
 — E os Cendar?
 
