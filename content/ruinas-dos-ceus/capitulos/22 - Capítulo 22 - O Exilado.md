@@ -186,7 +186,6 @@ Mais tarde, Gabasteri encontrou marcas de uma criatura grande perto de uma passa
 
 Ninguém discutiu. Mariv foi o primeiro a mudar de direção. Nestira recolheu a bolsa de raízes e seguiu atrás dele.
 
-***
 
 Alguns sopros depois, chegaram a uma faixa de terreno mais alto, onde o riacho corria abaixo de uma encosta coberta por pedras úmidas. Havia alimento suficiente para aquele sopro, mas pouco. Nos últimos dias, mesmo Gabasteri quase sempre voltava das caçadas com alguma coisa pequena demais para quatro pessoas.
 
@@ -412,13 +411,9 @@ Jokara ergueu o bastão, mas não se aproximou.
 
 — Chega. Solta ele.
 
-Gabasteri virou apenas os olhos para ela.
+Gabasteri não respondeu. Manteve o rosto voltado para Mariv, os olhos fixos nele com um ódio quieto.
 
-— Vai fazer o quê?
-
-Jokara não respondeu à provocação.
-
-— Solta o Mariv.
+— Solta o Mariv — repetiu Jokara.
 
 Nestira continuava no mesmo lugar. As lágrimas já desciam quando conseguiu falar de novo.
 
@@ -444,45 +439,21 @@ Quando se ajoelhou do outro lado, os olhos estavam cheios de lágrimas. Estendeu
 
 Jokara ergueu o rosto para Gabasteri.
 
-— Chega. Nós vamos embora.
+— Chega. Amanhã nós vamos embora.
 
 Gabasteri olhou para ela.
 
 — Não.
 
-— Eu, Nestira e Mariv. Não precisamos de você.
-
-— Vocês não vão a lugar algum.
-
 Jokara apertou o bastão.
 
-— Você não decide isso.
+— Você não manda em nós.
 
-Gabasteri recolheu a faca e começou a guardar a comida.
+Gabasteri não discutiu. Amarrou a bolsa de comida, juntou as armas que estavam encostadas na árvore e as colocou diante de si.
 
-— Um de vocês mal consegue ficar de pé, outra está ferida e você ainda depende de um bastão para andar. Não vou assistir vocês entrarem na mata no escuro só para provar que não precisam de mim.
+— A partir de agora, a comida e as armas ficam comigo. Já que resolveram desobedecer, ninguém come esta noite.
 
-— A gente sai quando amanhecer.
-
-— Ao amanhecer seguimos para o norte.
-
-Jokara deu uma risada curta, sem humor.
-
-— Você ainda acha que está mandando.
-
-Gabasteri amarrou a bolsa e pegou duas das armas que estavam encostadas na árvore.
-
-— Acho que vocês estão vivos porque, de vez em quando, ainda escutam.
-
-Mariv ergueu a cabeça. A voz saiu raspando.
-
-— Você está com medo da gente.
-
-Gabasteri parou por um momento.
-
-— Estou cansado de gente que transforma sobrevivência em votação.
-
-Levou a comida e as armas para outro ponto do acampamento.
+Então Gabasteri levou a bolsa e as armas para o outro lado do acampamento e as deixou junto de onde dormiria.
 
 Jokara continuou ao lado de Mariv até a respiração dele desacelerar. Só então Nestira conseguiu se aproximar de verdade.
 
@@ -496,15 +467,13 @@ Nestira encostou o pano úmido com cuidado na pele avermelhada, sem apertar. As 
 
 Mariv não disse nada. Deixou que ela cuidasse.
 
-Nenhum dos três tocou na comida de Gabasteri naquela noite.
+Mais tarde, os três se reuniram junto a um fogo pequeno. A comida permanecia do outro lado do acampamento, junto de Gabasteri e das armas.
 
-***
+A fome já tinha deixado de ser apenas vazio. O estômago de Jokara doía em contrações lentas. Mariv mantinha um braço sobre a barriga, tentando ignorar o incômodo. Nestira se encolhia mais a cada vez que a dor apertava.
 
-Mais tarde, os três se reuniram junto a um fogo pequeno.
+No silêncio, o estômago de Mariv roncou alto o bastante para os três ouvirem. Pouco depois, o de Jokara respondeu. Nenhum deles comentou.
 
-Jokara tinha conseguido guardar dois frutos numa bolsa menor antes que Gabasteri levasse o restante. Dividiram os dois sem falar sobre regras, funções ou merecimento.
-
-Nestira comia devagar, os olhos inchados. De tempos em tempos, voltava a umedecer o tecido e o colocava sobre o pescoço de Mariv.
+Nestira, com os olhos ainda inchados, voltou a umedecer o tecido e o colocou sobre o pescoço de Mariv.
 
 A marca já começava a escurecer.
 
