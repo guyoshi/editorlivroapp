@@ -5,6 +5,9 @@
   const BRANCH = "main";
   const TOKEN_SESSION = "jesed:githubEditToken";
   const TOKEN_LOCAL = "jesed:githubEditTokenRemembered";
+  const adminTokenSuffix=()=>String(window.Comments?.getAdminId?.()||"admin").replace(/[^a-zA-Z0-9_-]/g,"_");
+  const sessionTokenKey=()=>TOKEN_SESSION+":"+adminTokenSuffix();
+  const localTokenKey=()=>TOKEN_LOCAL+":"+adminTokenSuffix();
   const BOOK_ROOTS = {
     "ruinas-dos-ceus": "Ciclo de Jesed/1 - Ruínas dos Céus/00 - Texto",
     "guerras-de-sangue": "Ciclo de Jesed/2 - Guerras de Sangue/00 - Texto",
@@ -490,6 +493,9 @@
   }
 
   function forgetToken(){
+    sessionStorage.removeItem(sessionTokenKey());
+    localStorage.removeItem(localTokenKey());
+    // Migração antiga: remove também as chaves sem UID.
     sessionStorage.removeItem(TOKEN_SESSION);
     localStorage.removeItem(TOKEN_LOCAL);
   }
@@ -511,9 +517,8 @@
   async function askToken(){
     const body=
       '<p>Para publicar no livro oficial, o navegador precisa de um token GitHub com acesso somente ao repositório <code>'+esc(REPO)+'</code> e permissão <strong>Contents: Read and write</strong>.</p>'+
-      '<p class="chapter-token-note">Por padrão ele fica apenas nesta sessão e é enviado somente para <code>api.github.com</code>.</p>'+
+      '<p class="chapter-token-note"><strong>Você só precisa fazer isto uma vez neste dispositivo.</strong> O token ficará salvo localmente para este administrador e será enviado somente para <code>api.github.com</code>. Ele só será pedido novamente se expirar ou for revogado.</p>'+
       '<label class="chapter-token-field"><span>Fine-grained personal access token</span><input id="chapterGithubToken" type="password" autocomplete="off" placeholder="github_pat_…"></label>'+
-      '<label class="chapter-token-remember"><input id="chapterGithubRemember" type="checkbox" checked> Lembrar neste dispositivo</label>'+
       '<a class="chapter-token-link" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Criar token no GitHub</a>';
     const result=await modalShell("Conectar GitHub",body,[
       {label:"Cancelar",value:null},
@@ -526,23 +531,39 @@
           qs("#chapterGithubToken",wrap).focus();
           return undefined;
         }
-        return {token,remember:qs("#chapterGithubRemember",wrap).checked};
+        return {token};
       }}
     ]);
     if(!result)return null;
-    sessionStorage.setItem(TOKEN_SESSION,result.token);
-    if(result.remember)localStorage.setItem(TOKEN_LOCAL,result.token);
+    sessionStorage.setItem(sessionTokenKey(),result.token);
+    localStorage.setItem(localTokenKey(),result.token);
+    // Remove chaves antigas depois de salvar no formato por administrador.
+    sessionStorage.removeItem(TOKEN_SESSION);
+    localStorage.removeItem(TOKEN_LOCAL);
     return result.token;
   }
 
   async function token(){
-    const stored=sessionStorage.getItem(TOKEN_SESSION)||localStorage.getItem(TOKEN_LOCAL);
+    // Primeiro procura o token persistente deste administrador.
+    let stored=localStorage.getItem(localTokenKey())||sessionStorage.getItem(sessionTokenKey());
+
+    // Migra automaticamente tokens de versões anteriores do editor.
+    if(!stored){
+      stored=localStorage.getItem(TOKEN_LOCAL)||sessionStorage.getItem(TOKEN_SESSION);
+      if(stored){
+        const migrated=checkedToken(stored);
+        localStorage.setItem(localTokenKey(),migrated);
+        sessionStorage.setItem(sessionTokenKey(),migrated);
+        localStorage.removeItem(TOKEN_LOCAL);
+        sessionStorage.removeItem(TOKEN_SESSION);
+        return migrated;
+      }
+    }
+
     if(stored){
       const cleaned=checkedToken(stored);
-      if(cleaned!==stored){
-        sessionStorage.setItem(TOKEN_SESSION,cleaned);
-        if(localStorage.getItem(TOKEN_LOCAL))localStorage.setItem(TOKEN_LOCAL,cleaned);
-      }
+      localStorage.setItem(localTokenKey(),cleaned);
+      sessionStorage.setItem(sessionTokenKey(),cleaned);
       return cleaned;
     }
     return await askToken();
@@ -576,7 +597,7 @@
     try{data=await res.json();}catch(e){}
     if(res.status===401){
       forgetToken();
-      throw new Error("O token do GitHub não é mais válido. Conecte novamente.");
+      throw new Error("O token salvo do GitHub expirou ou foi revogado. Gere outro apenas desta vez e o Lityra voltará a lembrá-lo neste dispositivo.");
     }
     if(res.status===403){
       throw new Error("O GitHub recusou esta ação. Confira se o token tem acesso ao repositório e Contents: Read and write.");
@@ -763,6 +784,7 @@
   window.ChapterEditor={
     refresh:refreshEditButtons,
     cancel:cancelEdit,
-    forgetGitHub:forgetToken
+    forgetGitHub:forgetToken,
+    hasGitHub:()=>!!(localStorage.getItem(localTokenKey())||sessionStorage.getItem(sessionTokenKey())||localStorage.getItem(TOKEN_LOCAL)||sessionStorage.getItem(TOKEN_SESSION))
   };
 })();
