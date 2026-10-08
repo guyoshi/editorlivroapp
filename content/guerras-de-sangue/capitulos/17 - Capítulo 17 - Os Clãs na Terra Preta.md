@@ -176,7 +176,7 @@ Rendar continuou comendo.
 
 — Não combina com teu braço.
 
-Rendar continuou mastigando sem responder.
+Ele mastigou sem responder.
 
 — Era de quem?
 
@@ -478,7 +478,7 @@ Um som longo, vibrante, como uma corneta feita para acordar pedra. Depois outro.
 
 Carroças reforçadas vinham atrás, carregadas de barris, lanças, escudos e caixas compridas. Homens e mulheres marchavam com machados, arcos, tubos de antebraço e potes selados.
 
-Era um exército, não uma caravana. Cerca de setecentas novas lâminas bastavam para mudar o peso da discussão entre Buldar e Tondrar. Na dianteira, sobre um tarrak negro de sela vermelha, vinha Tavra Vendrar. Tavra vinha na dianteira com placas metálicas sobre couro escuro, reflexos vermelhos e cobre queimado. No lugar do antebraço esquerdo, um tubo de fogo mais elaborado estava preso ao coto; uma lâmina curta ocupava a mão direita.
+Era um exército, não uma caravana. Cerca de setecentas novas lâminas bastavam para mudar o peso da discussão entre Buldar e Tondrar. Na dianteira, sobre um tarrak negro de sela vermelha, vinha Tavra Vendrar, com placas metálicas sobre couro escuro e reflexos de cobre queimado. No lugar do antebraço esquerdo, um tubo de fogo mais elaborado estava preso ao coto; uma lâmina curta ocupava a mão direita.
 
 Mas era o elmo que fazia todos olharem.
 
@@ -486,9 +486,7 @@ O elmo lembrava uma ave de guerra, com placas metálicas como penas, cristas ver
 
 Os Vendrar continuavam enchendo a estrada de metal, couro e fogo selado.
 
-Tavra ergueu a mão. O exército parou aos poucos, como uma forja inteira prendendo a respiração. Ela desceu do tarrak sem pressa.
-
-Tavra desceu na lama, fez uma careta para o próprio pé e sorriu.
+Tavra ergueu a mão, e o exército parou aos poucos, como uma forja inteira prendendo a respiração. Ela desceu do tarrak na lama, fez uma careta para o próprio pé e sorriu.
 
 Tirou o elmo, revelando a lateral raspada do cabelo e tranças queimadas nas pontas, e caminhou entre Buldar e Tondrar.
 

@@ -22,13 +22,13 @@ Elis passou por baixo de uma corda cheia de roupas sem diminuir a velocidade. Um
 
 Um cesto caiu atrás dela quando um dos garotos esbarrou numa banca. Alguma coisa quebrou, uma mulher gritou que alguém pagaria por aquilo e Elis virou numa passagem estreita antes que a ameaça pudesse encontrar um nome. Os dois continuavam próximos. O mais alto corria melhor em linha reta, mas o menor conhecia aquelas ruas quase tão bem quanto ela, o que o tornava muito mais perigoso.
 
-Elis dobrou outra esquina, mas logo precisou parar quase de imediato. Uma parede fechava a passagem. À esquerda havia uma janela alta demais para alcançar, à direita apenas pedra antiga, e atrás dela os passos dos dois garotos diminuíram quando perceberam que a perseguição tinha terminado.
+Elis dobrou outra esquina e precisou parar. Uma parede fechava a passagem. À esquerda havia uma janela alta demais para alcançar, à direita apenas pedra antiga, e atrás dela os passos dos dois garotos diminuíram quando perceberam que a perseguição tinha terminado.
 
 — Seu gabal... — murmurou Elis.
 
 — Acabou — disse o menor, já rindo.
 
-Elis ergueu os olhos. Uma passarela ligava dois prédios quase três andares acima, impossível de alcançar dali. A janela não servia, e a parede parecia lisa até que ela reconheceu a parte inferior. Meses antes, durante uma chuva forte, água começara a surgir entre duas fundações naquele mesmo lugar. Elis passara uma tarde tentando descobrir de onde vinha e Kalan a encontrara coberta de lama até os joelhos, fazendo-a prometer que nunca voltaria. Ela prometera com toda a sinceridade que conseguiu reunir naquele instante. Na semana seguinte estava lá outra vez.
+Elis ergueu os olhos. Uma passarela ligava dois prédios quase três andares acima, impossível de alcançar dali. A janela não servia. Na parede aparentemente lisa, porém, Elis reconheceu uma saliência perto da base. Meses antes, durante uma chuva forte, água começara a surgir entre duas fundações naquele mesmo lugar. Elis passara uma tarde tentando descobrir de onde vinha e Kalan a encontrara coberta de lama até os joelhos, fazendo-a prometer que nunca voltaria. Ela prometera com toda a sinceridade que conseguiu reunir naquele instante. Na semana seguinte estava lá outra vez.
 
 Correu em direção à parede, pisou numa caixa, impulsionou o corpo sobre uma estrutura de madeira presa ao muro e agarrou a borda irregular de uma pedra.
 
@@ -56,7 +56,7 @@ A escuridão a recebeu como um lugar conhecido. Elis sabia que havia três passo
 
 — Não sou ladra! 
 
-O corredor se dividia poucos metros adiante. Elis escolheu a passagem da direita porque a esquerda terminava num dreno, algo que descobrira da pior maneira alguns ciclos de chuva antes. Correu até enxergar um fio de luz, subiu por duas pedras quebradas e empurrou uma grade solta, saindo entre caixas empilhadas atrás de uma oficina. Esperou alguns instantes, respirando com as mãos apoiadas nos joelhos, mas nenhum dos garotos apareceu. Uma de suas tranças havia começado a se desfazer e ela tentou ajeitá-la antes de enfiar a mão por dentro da roupa.
+O corredor se dividia poucos metros adiante. Elis escolheu a passagem da direita porque a esquerda terminava num dreno, algo que descobrira da pior maneira alguns ciclos de chuva antes. Correu até enxergar um fio de luz, subiu por duas pedras quebradas e empurrou uma grade solta, saindo entre caixas empilhadas atrás de uma oficina. Esperou alguns instantes, respirando com as mãos apoiadas nos joelhos, mas nenhum dos garotos apareceu. Uma de suas tranças começara a se desfazer. Ela tentou ajeitá-la antes de enfiar a mão por dentro da roupa.
 
 Três pequenas lascas descansavam em sua palma. Elis olhou para elas e franziu a testa.
 
@@ -678,7 +678,7 @@ Aproximou-se e abriu a porta de uma vez.
 
 Não havia ninguém.
 
-A rua estava quase vazia. Mais adiante, duas pessoas caminhavam carregando uma cesta entre elas, uma janela se fechou e algum bêbado cantava algo incompreensível. Elis olhou para os dois lados e já ia voltar quando percebeu um pequeno risco perto da parte inferior da porta. Não lembrava disso existir. A porta era velha, mas a madeira ainda permanecia lisa, ou deveria estar. 
+A rua estava quase vazia. Mais adiante, duas pessoas caminhavam carregando uma cesta entre elas, uma janela se fechou e algum bêbado cantava algo incompreensível. Elis olhou para os dois lados e já ia voltar quando percebeu um pequeno risco perto da parte inferior da porta. Não lembrava disso existir. A porta era velha, mas aquela parte da madeira costumava ser lisa. 
 
 Abaixou-se e passou o dedo sobre a madeira.
 
