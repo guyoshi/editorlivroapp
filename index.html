@@ -193,34 +193,51 @@
     </div>
   </div>
 
-  <!-- NOME (primeira vez) -->
+  <!-- PERFIL / PRIMEIRO ACESSO -->
   <div id="nameSheet" class="sheet" hidden>
-    <div class="sheet-card">
-      <h2>Como podemos te chamar?</h2>
-      <p class="sheet-hint">Seu nome aparece nos comentários que você deixar nos capítulos. Vamos criar também um código privado para você continuar em outro aparelho.</p>
-      <label class="field">
-        <span>Seu nome</span>
-        <input id="nameInput" type="text" placeholder="ex.: Gui" maxlength="40">
-      </label>
-      <fieldset id="initialBookField" class="initial-book-field">
-        <legend>Qual livro você quer ler primeiro?</legend>
-        <p class="sheet-hint">Você começa com um livro. O autor poderá liberar outros para você depois.</p>
-        <div id="initialBookPicker" class="initial-book-picker" aria-live="polite">
-          <p class="initial-book-status">Carregando os livros…</p>
+    <div class="sheet-card profile-entry-card">
+      <div id="nameStartBox">
+        <div class="reader-onboarding-kicker">Lityra</div>
+        <h2>Bem-vindo</h2>
+        <p class="sheet-hint">Escolha como quer entrar. Seu perfil guarda progresso, comentários, reações e preferências.</p>
+        <div class="profile-entry-actions">
+          <button id="nameStartCreate" class="btn-primary" type="button">Criar perfil</button>
+          <button id="nameUseCode" class="btn-ghost" type="button">Já tenho um código</button>
         </div>
-      </fieldset>
-      <div class="sheet-actions name-sheet-actions">
-        <button id="nameSave" class="btn-primary" disabled>Criar meu perfil</button>
-        <button id="nameUseCode" class="btn-ghost" type="button">Já tenho um código</button>
-        <button id="nameAdminLogin" class="btn-ghost" type="button">Administrador</button>
+        <button id="nameAdminLogin" class="profile-author-link" type="button">Sou o autor</button>
       </div>
-      <div id="nameCodeBox" class="reader-code-login" hidden>
+
+      <div id="nameCreateBox" hidden>
+        <div class="reader-onboarding-kicker">Novo perfil</div>
+        <h2>Como podemos te chamar?</h2>
+        <p class="sheet-hint">Seu nome aparece nos comentários. Depois criaremos um código privado para recuperar este perfil em outro aparelho.</p>
+        <label class="field">
+          <span>Seu nome</span>
+          <input id="nameInput" type="text" placeholder="ex.: Gui" maxlength="40">
+        </label>
+        <fieldset id="initialBookField" class="initial-book-field">
+          <legend>Qual livro você quer ler primeiro?</legend>
+          <p class="sheet-hint">Você começa com um livro. O autor poderá liberar outros depois.</p>
+          <div id="initialBookPicker" class="initial-book-picker" aria-live="polite">
+            <p class="initial-book-status">Carregando os livros…</p>
+          </div>
+        </fieldset>
+        <div class="sheet-actions name-sheet-actions">
+          <button id="nameSave" class="btn-primary" disabled>Criar meu perfil</button>
+          <button id="nameCreateBack" class="btn-ghost" type="button">Voltar</button>
+        </div>
+      </div>
+
+      <div id="nameCodeBox" class="reader-code-login profile-entry-subview" hidden>
+        <div class="reader-onboarding-kicker">Perfil existente</div>
+        <h2>Entrar com código</h2>
+        <p class="sheet-hint">Use o código privado do seu perfil para continuar de onde parou.</p>
         <label class="field">
           <span>Código de acesso</span>
           <input id="nameCodeInput" type="text" inputmode="text" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="ex.: DE2E40" maxlength="24">
         </label>
         <div class="sheet-actions">
-          <button id="nameCodeLogin" class="btn-primary" type="button">Entrar com código</button>
+          <button id="nameCodeLogin" class="btn-primary" type="button">Entrar</button>
           <button id="nameCodeBack" class="btn-ghost" type="button">Voltar</button>
         </div>
         <p id="nameCodeStatus" class="reader-code-status" aria-live="polite"></p>
