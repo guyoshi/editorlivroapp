@@ -1,6 +1,4 @@
-Rendar acordou com uma lâmina perto demais do rosto. Não encostava na pele. Mas estava ali, fina, fria, segura por uma mão Buldar que tremia menos do que devia. A primeira coisa que ele viu foi o metal. A segunda foi o homem atrás dele: largo de ombros, rosto fechado, olhos de quem não queria estar ali, mas preferia aquilo a desobedecer Nynestra.
-
-Havia outros dois à entrada da pequena tenda de carga onde o tinham deixado dormir. A tenda servia a saco, corda, ferramenta, couro dobrado e grão que ainda não merecia celeiro, não a descanso. O chão cheirava a raiz úmida, palha velha e corpo cansado.
+Rendar acordou com uma lâmina perto do rosto. Um Buldar largo de ombros a segurava; outros dois esperavam na entrada da tenda de carga onde o haviam deixado dormir.
 
 — Levante — disse o Buldar da faca.
 
@@ -20,43 +18,39 @@ O Buldar não gostou da resposta. Um dos homens à entrada cuspiu de lado.
 
 — E de quem ainda manda enquanto a Mão da Colheita não volta.
 
-Rendar sentou-se devagar. O corpo reclamou antes da cabeça. Dormira pouco. Dormira mal. E, por um instante curto demais para ter nome, acordar sem árvores acima dele pareceu errado. A tenda baixa, o cheiro de grão, o silêncio dos campos... tudo aquilo era outro mundo. O Buldar afastou a faca apenas quando Rendar ficou de pé.
+Rendar levantou devagar. O Buldar só afastou a faca quando ele ficou de pé.
 
 — Os Glydar partiram — disse ele.
 
 A frase entrou sem fazer barulho. Rendar olhou para fora.
 
-A manhã estava pálida, aberta por uma névoa baixa que se agarrava aos sulcos da Terra Preta. As marcas dos pés Glydar ainda estavam no barro, finas, arrastadas, diferentes dos passos pesados dos Buldar e dos cortes secos dos Tondrar. Alguns restos de fibra úmida, uma escama presa à lama, um pedaço de corda esquecido perto de uma carroça e pegadas compridas de varjão-de-dente contornando o acampamento sem coragem de se aproximar dos fogos. Gente de rio sabia sair sem deixar dívida visível.
+A névoa agarrava-se aos sulcos da Terra Preta. Restavam no barro marcas Glydar, fibra úmida, uma escama e um pedaço de corda junto a uma carroça.
 
 — Quando?
 
 — Antes do primeiro pão.
 
-Rendar não respondeu. Os Glydar tinham ido embora como faziam quase tudo: sem heroísmo, sem grande ofensa, sem coragem suficiente para ficarem nem estupidez suficiente para morrerem por orgulho alheio. Tinham voltado para a água. Para suas pontes, suas redes, suas margens onde o mundo fazia mais sentido. Um Buldar atrás dele murmurou:
+Rendar não respondeu. Os Glydar tinham voltado para as próprias margens. Um Buldar atrás dele murmurou:
 
 — Pescador longe do rio vira criança assustada.
 
 Rendar desceu o olhar até a pulseira escura no próprio pulso. Não tocou nela. Apenas a viu, apertada demais, velha demais, pequena demais para o braço que agora a carregava. Depois passou pelo homem da faca e saiu. O acampamento Buldar já estava de pé.
 
-Tudo ali servia a uma função. Carroças em semicírculo. Sacos cobertos com couro encerado. Bravões presos em linhas separadas, bufando baixo, o couro escuro tremendo com moscas e umidade. Alguns tinham placas de madeira nos flancos, não como armadura de guerra, mas para proteger carga de pancada, lama e das investidas de bragores de mata que desciam até os campos em busca de raiz e carniça. Eram bichos fortes, de pescoço grosso e olhos pacientes, feitos para puxar peso e tolerar insulto. Um tarrak correria melhor. Um bravão chegava com o mundo às costas.
+Carroças formavam um semicírculo, sacos estavam cobertos com couro encerado e bravões de pescoço grosso esperavam em linhas separadas, alguns com placas de madeira protegendo a carga contra pancadas e bragores de mata.
 
-Mulheres e homens Buldar trabalhavam em silêncio pesado. Cortavam raiz vermelha já cozida. Contavam pães. Distribuíam tiras de carne salgada. Separavam porções em cestos baixos. Não serviam comida como quem oferece hospitalidade. Serviam como quem mede risco. Os Tondrar estavam do outro lado.
-
-Mesmo famintos, continuavam de pé como se sentar fosse derrota. Cabeças raspadas, pinturas negras meio borradas da viagem, ossos presos em cordões, lâminas sempre à mão. Alguns olhavam para os Buldar com desprezo aberto. Outros para Rendar, com algo pior: expectativa. Ele era o último Fendelar.
-
-E, por alguma razão que nenhum deles parecia gostar de admitir, todos aguardavam que o último de um clã morto dissesse aos vivos o que fazer.
+Buldar contavam pão, raiz e carne em cestos baixos. Do outro lado, Tondrar famintos esperavam de pé, lâminas à mão. Alguns olhavam para Rendar como se esperassem que o último Fendelar dissesse aos vivos o que fazer.
 
 Um cesto foi empurrado contra o peito de Rendar. Sobre o pão escuro, havia um único bolinho de pão-de-barro, pequeno e pesado, desses que os Buldar entregavam quando o grão precisava ser contado até a última porção.
 
 — Come — disse uma mulher Buldar.
 
-Dentro havia pão escuro de grão-de-caule, duas fatias grossas de raiz vermelha assada, uma pasta de sal negro e erva-de-jijo, e um pedaço pequeno de carne seca. Rendar pegou o pão. A mulher continuou olhando para ele.
+No cesto havia pão de grão-de-caule, raiz vermelha assada, pasta de sal negro com erva-de-jijo e um pouco de carne seca.
 
 — Nynestra disse para alimentar você. Não disse para gostar.
 
 — Não pedi algo que gostasse.
 
-Ela soltou um som pelo nariz e se afastou. Rendar comeu de pé. O pão era denso, quase amargo. Comida feita para durar viagem, não para agradar boca. A raiz vermelha tinha doçura escondida, pesada, grudando nos dentes. Ele mastigou sem pressa. Não porque tinha fome pouca, mas porque caçador aprende cedo que comida engolida depressa demais faz o corpo acreditar em segurança.
+Ela se afastou. Rendar comeu de pé, devagar.
 
 Dois Tondrar se aproximaram da fila de distribuição. Um deles era mais jovem, alto, com ombros tensos e uma faixa de osso no braço. Pegou um pão. Depois outro. Depois enfiou a mão no cesto de carne seca. O Buldar responsável pela comida segurou-lhe o pulso.
 
@@ -78,7 +72,7 @@ O Tondrar mostrou os dentes.
 
 — Não.
 
-A palavra foi curta demais. Outros Tondrar perceberam. Outros Buldar também. A pequena linha de comida endureceu. Uma mulher recolheu uma criança para trás de uma carroça. Um bravão sacudiu a cabeça, incomodado com a mudança no ar. O Tondrar empurrou o Buldar.
+Outros Tondrar e Buldar perceberam. Uma mulher puxou uma criança para trás da carroça. O Tondrar empurrou o homem da comida.
 
 — Vocês chamaram a gente até aqui e querem medir pão como se alimentassem animais?
 
@@ -88,7 +82,7 @@ O Buldar cambaleou, mas não caiu. Antes que respondesse, uma voz rouca atravess
 
 O Tondrar olhou para o lado.
 
-Quem vinha era um homem de pouco mais de cinquenta ciclos, talvez. Difícil dizer. Em Jesed, alguns envelheciam por anos; outros, por perda. Era alto, mas curvava ligeiramente o corpo como quem trazia uma dor presa atrás das costelas. A pele tinha um tom pálido ruim, quase cinzento sob a barba curta. Parecia gasto, embora ainda firme. Usava um manto Buldar castanho, simples, preso por uma fivela de osso polido, e trazia no ombro o sinal dos Mestres de Celeiro: três marcas verticais, bordadas em linha escura.
+Hadrun era alto, já curvado, pele pálida sob a barba curta. No ombro do manto Buldar trazia as três marcas verticais dos Mestres de Celeiro.
 
 Os Buldar abriram espaço sem que ele pedisse.
 
@@ -112,13 +106,11 @@ Korrak deu um passo para ele.
 
 — Velho, eu arranco tua língua antes de ouvir sermão de pão.
 
-Dois Buldar ergueram lanças. Dois Tondrar responderam. A manhã prendeu a respiração. Hadrun não se moveu.
+Dois Buldar ergueram lanças; dois Tondrar responderam. Hadrun não se moveu.
 
 — Se arrancar minha língua, ainda assim a conta continuará errada.
 
-Korrak agarrou o velho pela gola. Foi aí que Rendar se mexeu. Não correu como guerreiro. Não gritou. Não avisou. Apenas entrou no espaço morto entre uma respiração e outra. O punh o acertou a lateral do rosto de Korrak com som seco. O Tondrar tombou um passo, mais por surpresa do que dor. Antes que recuperasse equilíbrio, Rendar bateu o joelho em sua perna e o levou ao chão.
-
-A faca apareceu na mão dele como se sempre tivesse estado ali. Num instante, estava contra a garganta de Korrak.Os Tondrar avançaram meio passo. Rendar apertou a lâmina o bastante para abrir um risco vermelho.
+Korrak agarrou o velho pela gola. Rendar entrou entre os dois, acertou o rosto de Korrak e o derrubou com o joelho. A faca parou na garganta do Tondrar antes que os outros avançassem.
 
 — Mais um passo e ele engasga no próprio sangue.
 
@@ -130,7 +122,7 @@ Rendar inclinou-se.
 
 — Fendelar vivo. O último vivo.
 
-A palavra último passou pelo acampamento como uma coisa suja. Rendar não aumentou a voz.
+Rendar não aumentou a voz.
 
 — Vocês perderam uma Voz. Perderam homens sob trégua. Foram usados para vestir mentira em Mirval. E agora vão morrer por um pedaço de carne seca antes mesmo de verem uma muralha Polar?
 
@@ -140,7 +132,7 @@ Korrak respirava pesado sob a faca.
 
 — Ou o quê? Vai matar um Buldar? Fazer o quê depois? Voltar para a Boca Seca e dizer que a grande vingança Tondrar não aconteceu porque tua mão era pequena demais para largar comida?
 
-Ninguém riu. Ainda assim, a frase acertou onde precisava. Um dos Tondrar mais velhos, de pintura descida até o peito, baixou a lança primeiro.
+Um dos Tondrar mais velhos baixou a lança primeiro.
 
 — Korrak.
 
@@ -148,7 +140,7 @@ O homem no chão continuou encarando Rendar.
 
 — Levanta — disse o Tondrar velho. — Antes que tua fome fale mais que tua cabeça.
 
-Rendar retirou a faca devagar. Korrak levantou-se com o rosto vermelho de ódio. Por um momento, parecia que tentaria de novo. Mas então olhou ao redor. Viu os Buldar, os próprios homens, Hadrun parado, pálido, respirando pela boca, mas ainda de pé. Pegou apenas uma porção e saiu. A tensão não desapareceu, só mudou de lugar.
+Rendar retirou a faca. Korrak levantou, olhou ao redor, pegou apenas uma porção e saiu.
 
 Hadrun ajeitou a gola com a mão trêmula. Tossiu uma vez, fechando o punho diante da boca.
 
@@ -156,25 +148,13 @@ Hadrun ajeitou a gola com a mão trêmula. Tossiu uma vez, fechando o punho dian
 
 E foi embora antes que alguém o transformasse em assunto. Nos dias seguintes, o céu começou a baixar.
 
-Primeiro veio o vento sem direção. Depois as nuvens, grossas, lentas, inchadas como se tivessem bebido do Rio Grande e esquecido onde despejar o peso. A Terra Preta mudou de cheiro antes da primeira gota: úmida, funda, quase viva. Os Buldar sentiram antes dos Tondrar. Gente de campo sempre sente chuva chegando pelo comportamento daquilo que não fala.
+Vieram vento e nuvens grossas. A Terra Preta mudou de cheiro, folhas viraram o dorso, morkas sumiram da palha e os bravões ficaram inquietos. Quando a chuva começou, os Buldar já cobriam o grão.
 
-As folhas largas da linha de árvores ao leste viraram o dorso. As morkas sumiram dos montes de palha.
+Os Buldar moveram o acampamento para uma parte alta sob guarda-chuvas-de-Veyra, árvores de tronco escuro que quebravam a chuva e escondiam fumaça. Em invasão real, recuariam para Maldrin-Alta, fortaleza de celeiros e pedra protegida por cátilos de guarda e armadilhas contra murrens. Aquele abrigo, perto das reservas de grão-de-Dorran, era apenas provisório.
 
-Os bravões ficaram inquietos, batendo casco no chão, e um menino Buldar foi mandado cobrir as sacas de grão-de-caule antes mesmo de qualquer trovão. Quando a chuva começou, não veio como bênção. Veio como cerco.
+Os Tondrar odiaram lama, espera e dependência dos cestos Buldar. Os Buldar cavaram valas, suspenderam sacos, cobriram rodas, separaram raízes e reforçaram cordas. No segundo dia, alguns Tondrar já aceitavam caldo quente sem reclamar. Rendar permanecia nas bordas.
 
-Os Buldar moveram todos para uma zona mais alta da Terra Preta, onde árvores antigas cresciam em fileiras irregulares. Eram altas, de tronco escuro e casca sulcada, conhecidas ali como guarda-chuva-de-Veyra, não porque impedissem a água, mas porque quebravam a força da queda e escondiam fumaça, movimento e luz. Em tempo de guerra, diziam, um grupo inteiro podia desaparecer sob aquelas copas se soubesse calar os animais.
-
-Não era a primeira escolha dos Buldar.
-
-Em caso de invasão real, fugiriam para o norte, para Maldrin-Alta, a fortaleza de celeiros e pedra onde as Famílias de Terra guardavam semente atrás de portas altas, cátilos de guarda e armadilhas para murrens de celeiro, crianças importantes e promessas que não confiavam ao campo aberto. Ali, na Terra Preta, o abrigo era provisório. Um lugar entre rotas, protegido por fossos rasos que serviam tanto contra homens quanto contra javalhos de espinho. Um pulmão antes da próxima marcha. Ali também ficavam as reservas de grão-de-Dorran, separadas das sementes comuns por causa do valor político das terras onde eram cultivadas.
-
-Os Tondrar odiaram. Odiaram a lama que subia aos tornozelos, as árvores fechando o céu, depender de cestos Buldar, os Buldar por saberem onde pisar, Rendar por ter colocado todos ali. E odiaram, acima de tudo, a própria espera. Chuva em terra Buldar não significava descanso. Significava trabalho diferente.
-
-Os Buldar cavaram pequenas valas para desviar água. Suspenderam sacos em armações de madeira. Cobriram rodas com folhas de vedação. Passaram gordura nas tiras de couro. Separaram raiz que podia apodrecer da que suportava umidade. Contaram pão. Recontaram pão. Verificaram os cascos dos bravões. Reforçaram cordas. Mandaram crianças buscar folhas secas sob troncos ocos. Ferveram água com casca amarga para evitar que barriga fraca traísse homem forte.
-
-Os Tondrar observavam aquilo como se fosse feitiço covarde. Mas, no segundo dia de chuva fina, alguns já aceitavam o caldo quente sem reclamar. Rendar ficava nas bordas.
-
-Debaixo das árvores, com o manto encharcado e o arco perto da mão, observava a mata menos por ameaça e mais por hábito. Aquelas árvores não eram Mirval. Não tinham o mesmo silêncio. O solo era aberto demais. As folhas, limpas demais. Os Buldar chamavam aquilo de abrigo, mas para Rendar qualquer lugar onde quatrocentas pessoas respiravam juntas era barulhento como mercado.
+Debaixo das árvores, Rendar mantinha o arco à mão por hábito. Aquele abrigo, com centenas de pessoas respirando juntas, parecia barulhento demais para alguém de Mirval.
 
 Foi no fim da tarde que Hadrun se sentou ao lado dele. O velho trazia uma tigela de barro coberta por uma folha larga. Sentou-se com dificuldade, como se o corpo pedisse negociação a cada movimento, e estendeu a comida.
 
@@ -186,9 +166,9 @@ Rendar olhou para a tigela.
 
 — Não perguntei.
 
-Dentro havia caldo grosso de raiz vermelha, grão-de-caule quebrado, pedaços pequenos de carne salgada e algo amargo que parecia fungo coração-de-barro. Não era o verdadeiro Caldo da Próxima Estação, mas Hadrun disse que, naquela chuva, qualquer panela dividida por gente disposta a plantar depois da guerra merecia o nome. Comida Buldar de chuva. Pesada o bastante para lembrar o corpo de continuar.
+Dentro havia caldo de raiz vermelha, grão-de-caule, carne salgada e fungo coração-de-barro. Hadrun chamou aquilo de Caldo da Próxima Estação, ainda que não fosse a receita verdadeira.
 
-Rendar pegou. Hadrun ficou em silêncio por algum tempo. A chuva estalava nas folhas acima deles e caía em fios mais finos ao redor. Ao longe, um Tondrar discutia com um Buldar por causa de uma manta. Mais longe ainda, um bravão soltava um gemido grave, impaciente. O velho apontou com o queixo.
+Rendar pegou a tigela. Depois de algum silêncio, Hadrun apontou com o queixo.
 
 — Essa pulseira.
 
@@ -238,7 +218,7 @@ Rendar não respondeu.
 
 — Ah querem. Se Nynestra não tivesse feridas antigas com os Polar, teu plano teria morrido no pátio antes do seu primeiro desenho.
 
-A chuva engrossou por um instante, batendo nas copas como dedos impacientes. Hadrun olhou para os Buldar ao longe.
+Hadrun olhou para os Buldar ao longe.
 
 — Nynestra não conta muito essa história. Não toda. Líder que mostra cicatriz demais faz os outros cutucarem.
 
@@ -256,7 +236,7 @@ Rendar abaixou os olhos para o caldo.
 
 — Não como você pensa. Não uma filha numa lâmina. Não um marido numa emboscada. Perdeu outra coisa. A mãe dela era criança nessa época. De uma família menor, antes de subir por casamento e conta bem feita. Passou uma estação inteira vendo adultos esconderem fome para que os pequenos comessem. Uma irmã morreu com a boca manchada de farinha de semente. Semente que devia virar campo. A família sobreviveu. Subiu depois. Ficou poderosa. Mas há gente que sobe sem esquecer o gosto daquilo que mastigou no chão.
 
-Hadrun passou os dedos pela terra molhada.
+Hadrun tocou a terra molhada.
 
 — Nynestra cresceu ouvindo duas versões. A dos Polar que dizia que Orionus manteve Jesed de pé. E a da mãe dizia que ele comprou paz com o estômago dos outros. Ela acredita mais na segunda, mas preferiu escolher a primeira, porque era ela quem traria paz.
 
@@ -278,7 +258,7 @@ Hadrun olhou para a chuva.
 
 — No fim, é a única que importa.
 
-O velho virou o rosto para ele.
+Hadrun virou o rosto para ele.
 
 — É aí que está o perigo. Para Nynestra, os Polar são um problema. Para os Tondrar, uma ferida. Para os Vendrar, talvez um cliente grande demais. Para os Buldar, uma coleira.
 
@@ -310,11 +290,11 @@ A chuva pareceu diminuir sem diminuir.
 
 — Chamava-se Belvar. Tinha vinte ciclos quando sumiu. Foi à beira dos Canais de Maldrin para escoltar medidores de água. Trabalho pequeno. Conferir comporta, marcar nível, ver se algum ladrão de canal estava desviando fluxo antes da colheita. Ele gostava desses trabalhos.
 
-Um sorriso fraco passou pelo rosto do velho.
+Hadrun sorriu de leve.
 
 — Era criança quando começou a dizer que queria ser Chefe de Canal. Não porque gostava de água. Porque odiava ver adulto mentindo sobre medida. Uma vez, devia ter seis ciclos, enfiou um pauzinho num jarro e marcou a altura da sopa para provar que a irmã tinha recebido mais. A mãe quase bateu nele. Eu ri e… apanhei junto.
 
-O sorriso morreu sem pressa.
+O sorriso desapareceu.
 
 — Naquele dia, homens sem nome atacaram. Não Tondrar, não Polar, não Fendelar. Sem marca, sem grito, sem rosto. Derrubaram dois no barro, roubaram ferramenta, cortaram cordas das comportas e fugiram. Belvar caiu no canal. A água estava alta por causa de chuva no norte. Procuramos por três dias. Encontramos uma sandália presa num junco. Só isso.
 
@@ -322,7 +302,7 @@ Rendar permaneceu imóvel.
 
 — Sabe o que é odiar sem saber quem, Fendelar? Você acorda querendo culpar alguém e não encontra nome nenhum. Não há onde pôr a faca. No começo, eu via culpado em todo estrangeiro. Depois em todo vizinho que sobreviveu. Depois em mim. Depois em ninguém. Essa é a pior parte. Quando não resta inimigo, o ódio começa a comer a casa por dentro.
 
-A tosse voltou. Desta vez, veio mais funda. Hadrun dobrou o corpo. A mão fechou-se contra a boca. O som era feio, molhado, quase íntimo demais para ser ouvido por outro homem. Quando acabou, havia sangue entre os dedos. Rendar olhou. Hadrun não tentou esconder.
+A tosse voltou mais funda. Quando passou, havia sangue entre os dedos de Hadrun.
 
 — A terra anda me chamando de volta.
 
@@ -330,7 +310,7 @@ A tosse voltou. Desta vez, veio mais funda. Hadrun dobrou o corpo. A mão fechou
 
 — Já me deram de tudo. Chá de casca-de-fogo. Vapor de folha-de-chuva. Sal negro queimado sob pano. Sangria pequena. Reza de raiz. Até fizeram o Rito do Sulco Aberto, como se meu peito fosse campo que precisava respirar melhor. Nada.
 
-Ele limpou a mão na terra molhada.
+Ele limpou a mão na terra.
 
 — Meu pai morreu assim. Um irmão da minha mãe também. Primeiro o peito pesa. Depois a boca traz ferrugem. Depois dormir parece poço. Os velhos dizem que é raiz fria crescendo por dentro. Os mais práticos dizem que o pulmão apodrece antes do corpo aceitar. Dá no mesmo. Não tem lâmina para cortar. Não tem inimigo para matar.
 
@@ -344,7 +324,7 @@ Rendar pegou a tigela de novo. O caldo estava frio, mas comeu mesmo assim. Hadru
 
 — Em Alestir, disseram que as crianças saíram vivas.
 
-Rendar não respondeu de imediato. A tigela estava quase vazia nas mãos dele. O caldo frio deixara uma gordura fina presa à borda. Ele passou o polegar pela cerâmica, limpando nada.
+Rendar passou o polegar pela borda da tigela antes de responder.
 
 — Sim.
 
@@ -392,29 +372,17 @@ Rendar olhou para a criança escondida na carroça. Depois para a chuva.
 
 — Não salvei. Só deixei para depois o que Jesed talvez faça sem mim.
 
-Hadrun ficou quieto. Naquela noite, a tempestade caiu inteira. A chuva engrossou de uma vez, pesada o bastante para apagar parte dos sons do acampamento.
+Naquela noite a tempestade caiu inteira. As valas transbordaram, grão precisou ser erguido e um bravão rompeu a corda. Buldar trabalharam por turnos mantendo água longe das carroças e comida quente; os Tondrar, acostumados à sede, suportaram mal a lama, a pintura escorrendo e o fogo que não pegava.
 
-As copas antigas seguraram o primeiro impacto, depois cederam. A água desceu em lâminas, em fios, em cortinas grossas que apagavam rostos a cinco passos. O chão virou lama funda. As valas abertas pelos Buldar encheram e transbordaram. Dois sacos de grão quase se perderam antes que quatro homens os erguessem para uma armação mais alta. Um bravão arrebentou a corda e saiu arrastando madeira até ser cercado por três tratadores que falavam baixo, sem raiva, como se acalmar bicho fosse convencer um parente teimoso.
+A chuva sobre as folhas lembrava Mirval até que uma voz Buldar, uma tosse Tondrar ou um casco de bravão quebrasse a memória.
 
-Os Tondrar sofreram mais do que admitiram. Acostumados à sede, não à água por todos os lados, irritavam-se com roupa colada, pintura escorrendo, lama invadindo sandália, fogo recusando nascer. Alguns tentaram dormir sentados sob capas de couro. Outros ficaram acordados, encarando os Buldar como se a chuva também fosse culpa deles. Os Buldar não dormiram quase nada.
+No segundo dia, Buldar e Tondrar dividiram fogo, cerveja de cevada-escura e trabalho. Uma Buldar amarrou o braço de um Tondrar; um jovem Tondrar carregou raiz para lugar seco. Foi o máximo de aliança que a tempestade conseguiu produzir.
 
-Trabalharam por turnos. Um grupo mantinha as valas abertas. Outro guardava as carroças. Outro vigiava as árvores, porque chuva forte esconde passo e coragem burra. As mulheres mais velhas cozinhavam caldo em panelas protegidas por pedras e folhas largas, alimentando primeiro os que trabalhavam, depois os que reclamavam mais alto, porque às vezes era mais fácil calar uma boca com comida do que com razão.
+Hadrun piorou, embora continuasse trabalhando. Ao terceiro amanhecer a chuva diminuiu. Buldar reorganizaram as cargas, Tondrar secaram armas e Rendar esperou Nynestra e Torgun. Nenhum dos dois voltou.
 
-Rendar passou boa parte da noite acordado. A chuva sobre as folhas lembrava Mirval e não lembrava. Em alguns momentos, o som era tão constante que ele quase conseguia imaginar as plataformas, os troncos ocos, a fumaça baixa, vozes conhecidas movendo-se entre copas. Então um Tondrar tossia. Um Buldar praguejava. Um bravão batia casco. E a memória quebrava.
+No sexto dia sem Nynestra ou Torgun, os Tondrar já discutiam partir. Entre os Buldar, a autoridade espalhara-se por Mestres de Celeiro, Chefes de Canal, Guardas de Semente e capitães de carga. Dois Tondrar procuraram Rendar.
 
-No segundo dia, ninguém fingia que aquilo ainda era apenas mau tempo.
-
-Pessoas que se odiavam dividiram fogo e uma jarra de cerveja rústica de cevada-escura que algum Buldar abrira para impedir que a chuva estragasse o conteúdo. Homens que se ameaçaram pela manhã seguraram a mesma lona à tarde. Uma mulher Buldar amarrou o braço de um Tondrar ferido por galho partido, e ele não agradeceu, mas também não cuspiu. Um jovem Tondrar carregou um saco de raiz para lugar seco. Ninguém respondeu. Foi o máximo de aliança que aquele dia permitiu.
-
-Hadrun piorou na chuva. Não caiu. Não pediu descanso. Mas Rendar viu duas vezes o velho parar atrás de uma carroça, uma mão no peito, os olhos fechados, esperando a dor passar como se negociasse com ela. Quando alguém se aproximava, ele apontava trabalho antes que perguntassem. Ao terceiro amanhecer, a chuva finalmente diminuiu. A Terra Preta respirava vapor.
-
-As árvores pingavam devagar. A lama guardava marcas demais para qualquer caçador confiar nelas. O céu continuava pesado, mas aberto em pedaços. Os Buldar começaram a retirar coberturas, conferir perdas e reorganizar rota. Os Tondrar secavam armas em silêncio irritado. Rendar esperou Nynestra voltar. Mas ela não voltou. Nem Torgun.
-
-No quarto dia, os Tondrar começaram a falar mais alto entre si. No quinto, passaram a fazer grupos separados. No sexto, já não escondiam a decisão formando-se.
-
-Os Buldar também mudaram. Sem Nynestra, a autoridade espalhou-se por mãos menores: Mestres de Celeiro, Chefes de Canal, Guardas de Semente, capitães de carga, homens e mulheres acostumados a mandar em campo, não em aliança. Foi perto do meio-dia que dois Tondrar vieram até Rendar.
-
-Um era o mais velho que impedira Korrak de insistir na briga. Chamava-se Vhark. Tinha pintura negra refeita no rosto e um colar com pequenos ossos de dedos, talvez de inimigo, talvez de ancestral. O outro era uma mulher de cabeça raspada, baixa, compacta, com braços fortes e olhos sem paciência. Usava duas lâminas curtas cruzadas nas costas.
+O mais velho chamava-se Vhark e trazia a pintura negra refeita e um colar de pequenos ossos. A mulher ao lado era baixa, de cabeça raspada, com duas lâminas curtas nas costas.
 
 — Queremos falar — disse Vhark.
 
@@ -496,7 +464,7 @@ Rendar aproximou-se um passo.
 
 E aquilo encerrou a conversa. Um a um, começaram a recolher armas, mantas, sacos de comida que os Buldar permitiram levar com cuidado irritado. Hadrun não impediu. Talvez soubesse que segurar Tondrar contra vontade era como guardar varren faminto dentro de celeiro. Rendar ficou parado vendo-os preparar partida. Por dentro, algo nele apertava.
 
-A sensação lembrava uma armadilha sendo desmontada antes de terminar de fechar. De ver mortos perderem utilidade. De ver o mundo, mais uma vez, escolher sobreviver pequeno quando precisava odiar grande. Korrak passou por ele com um sorriso torto.
+Rendar sentiu o plano se desfazer antes de fechar. Korrak passou por ele com um sorriso torto.
 
 — Último Fendelar. Grande chefe de ninguém.
 
@@ -506,31 +474,23 @@ Rendar chutou um balde de madeira. O balde atravessou a lama, bateu numa roda de
 
 Rendar virou-se para ele com os olhos frios. Hadrun ia responder, mas parou. Ao norte, algo soou. Não era trovão. Também não era tambor Tondrar. Era metal.
 
-Um som longo, vibrante, como uma corneta feita para acordar pedra. Depois outro. Mais baixo. Depois muitos, desencontrados, misturados ao rangido de rodas, ao bater de cascos e ao ruído distante de corrente contra placa. Os Tondrar que seguiam para o sul pararam. Os Buldar viraram-se. Rendar olhou para o norte. Primeiro vieram as bandeiras.
+Um som longo, vibrante, como uma corneta feita para acordar pedra. Depois outro. Mais baixo. Depois muitos, desencontrados, misturados ao rangido de rodas, ao bater de cascos e ao ruído distante de corrente contra placa. Os Tondrar que seguiam para o sul pararam. Os Buldar viraram-se. Rendar olhou para o norte. Primeiro vieram as bandeiras vermelhas e negras, com montanhas abertas, fendas em chama e marcas de lâmina, corrente e faísca. Depois surgiram muitos tarraks.
 
-Não dava para ver homens ainda. Apenas cores surgindo entre as elevações da estrada encharcada. Tecido vermelho escuro, cortado por faixas negras e marcas metálicas que apanhavam luz mesmo sob céu cinzento. Em algumas, havia o desenho de uma montanha aberta. Em outras, uma fenda cuspindo chama. Noutras, três marcas cruzadas como lâmina, corrente e faísca. Então vieram os tarraks. Muitos.
+Carroças reforçadas vinham atrás, carregadas de barris, lanças, escudos e caixas compridas. Homens e mulheres marchavam com machados, arcos, tubos de antebraço e potes selados.
 
-As patas batiam na lama com ritmo pesado, disciplinado, levantando respingos escuros. Atrás deles, carroças reforçadas, cobertas por couro tratado e placas de metal. Correntes pendiam das laterais. Barris presos com cintas grossas. Feixes de lanças. Escudos. Caixas compridas demais para serem comida. Homens e mulheres marchavam ao lado, armados com machados, lâminas curvas, lanças curtas, ganchos e arcos de madeira escura. Alguns carregavam tubos presos aos antebraços. Outros traziam potes selados com cuidado excessivo, e esse cuidado dizia mais do que qualquer ameaça.
-
-À frente vinha um exército, grande demais para ser confundido com caravana ou escolta. Os Buldar entenderam primeiro o perigo do fogo chegando à Terra Preta.
-
-Os Tondrar entenderam primeiro o perigo de setecentas lâminas novas mudando o peso de uma guerra. Rendar entendeu outra coisa.
-
-A aliança que acabara de se partir talvez tivesse ouvido o som de algo maior que orgulho. Na dianteira, sobre um tarrak negro de sela vermelha, vinha Tavra Vendrar. A armadura dela parecia indecente naquele mundo de lama.
-
-Não por luxo limpo, mas por desafio. Placas metálicas ajustadas ao corpo, sobre couro escuro, com reflexos vermelhos e cobre queimado. O peito era marcado por linhas que lembravam chamas presas em metal. Os ombros tinham pequenas lâminas curvas, mais bonitas do que práticas, embora ninguém sensato apostasse que fossem inúteis. Onde o antebraço esquerdo terminava, havia um tubo de fogo mais elaborado do que o que Rendar vira em Varkhama, fixado ao coto por arreios de metal escurecido. No direito, uma lâmina curta descansava como extensão natural da mão.
+Era um exército, não uma caravana. Cerca de setecentas novas lâminas bastavam para mudar o peso da discussão entre Buldar e Tondrar. Na dianteira, sobre um tarrak negro de sela vermelha, vinha Tavra Vendrar. Tavra vinha na dianteira com placas metálicas sobre couro escuro, reflexos vermelhos e cobre queimado. No lugar do antebraço esquerdo, um tubo de fogo mais elaborado estava preso ao coto; uma lâmina curta ocupava a mão direita.
 
 Mas era o elmo que fazia todos olharem.
 
-Tinha a forma de uma ave de guerra. Não uma ave comum. Algo entre uma falconete e demônio de cinza. As laterais abriam-se em placas afiadas como penas metálicas, subindo para trás em cristas vermelhas e negras. A frente deixava a boca livre, e sobre os olhos havia uma máscara dourada estreita, cruel, bela, quase sorridente. Quando ela virou a cabeça, o elmo pareceu olhar antes dela.
+O elmo lembrava uma ave de guerra, com placas metálicas como penas, cristas vermelhas e negras e uma máscara dourada estreita sobre os olhos.
 
-Atrás, os Vendrar continuavam chegando. Cem, duzentos, quinhentos, muito mais. A estrada ao norte encheu-se de metal, couro, fogo selado e gente que não vinha pedir licença.
+Os Vendrar continuavam enchendo a estrada de metal, couro e fogo selado.
 
 Tavra ergueu a mão. O exército parou aos poucos, como uma forja inteira prendendo a respiração. Ela desceu do tarrak sem pressa.
 
-Caiu na lama com um pé, olhou para baixo, fez uma careta ofendida e depois sorriu, como se até a terra Buldar tivesse contado uma piada ruim.
+Tavra desceu na lama, fez uma careta para o próprio pé e sorriu.
 
-Ela tirou o elmo. A lateral do cabelo estava raspada e as tranças longas, queimadas nas pontas, vinham soltas pelas costas. O rosto vinha sujo de estrada, mas os olhos brilhavam com aquela alegria errada de quem chega tarde a um incêndio e ainda espera encontrar algo para acender. Caminhou entre Buldar e Tondrar como se ambos fossem plateia.
+Tirou o elmo, revelando a lateral raspada do cabelo e tranças queimadas nas pontas, e caminhou entre Buldar e Tondrar.
 
 Algumas lanças se moveram. Ela ignorou e parou diante de Rendar. Olhou para o balde quebrado na lama. Depois para os Tondrar que estavam de partida. Depois para os Buldar tensos. Por fim, voltou os olhos para ele.
 
