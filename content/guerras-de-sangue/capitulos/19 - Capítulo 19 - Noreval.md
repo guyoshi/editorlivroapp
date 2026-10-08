@@ -280,8 +280,6 @@ Kaelina aproximou-se.
 
 — Soberana.
 
-Kaelina se aproximou.
-
 — Preciso falar com o senhor.
 
 — Então fale.
@@ -422,7 +420,7 @@ Ela estava cansada demais para se ofender.
 
 — O que eles queriam com você?
 
-— Nada. Não tenho nada a oferecê-los. Talvez viessem me executar.
+— Nada. Não tenho nada para lhes oferecer. Talvez viessem me executar.
 
 — Executar? Por quê?
 
@@ -506,7 +504,7 @@ Kaelina ficou em silêncio.
 
 Savel olhou para a lareira.
 
-— Até muitos ciclos depois, quando Daryon voltou, sozinho. Eu quase não o reconheci. Não pelo rosto. O rosto era o mesmo, só mais comprido, mais seguro. Foi o resto. O jeito de entrar numa casa como se já soubesse onde ficava a saída. O jeito de olhar para minha mesa e contar tudo que faltava sem mover os olhos. Estava vestido melhor. Disse que treinava com homens de segurança, que talvez se tornasse lâmina, talvez vigia, talvez outra coisa. Com Daryon, o “talvez” sempre escondia uma decisão pronta. Ele veio apenas para me disse que não voltaria. Disse também que eu não devia procurá-lo em Kaendar.
+— Até muitos ciclos depois, quando Daryon voltou, sozinho. Eu quase não o reconheci. Não pelo rosto. O rosto era o mesmo, só mais comprido, mais seguro. Foi o resto. O jeito de entrar numa casa como se já soubesse onde ficava a saída. O jeito de olhar para minha mesa e contar tudo que faltava sem mover os olhos. Estava vestido melhor. Disse que treinava com homens de segurança, que talvez se tornasse lâmina, talvez vigia, talvez outra coisa. Com Daryon, o “talvez” sempre escondia uma decisão pronta. Ele veio apenas para me dizer que não voltaria. Disse também que eu não devia procurá-lo em Kaendar.
 
 Savel sorriu de leve, sem alegria.
 
@@ -616,11 +614,11 @@ Savel bebeu água devagar.
 
 — Você quer que eu diga que meu filho mandou matar o próprio pai para esconder que nasceu sem nome.
 
-— Por que outra razão homens com armas teriam vindo aqui no dia em que cheguei.
+— Por que outra razão homens armados teriam vindo aqui no dia em que cheguei?
 
 — Exatamente por isso, porque você chegou.
 
-— E quem mais teria interesse de matá-lo antes de que falasse com uma soberana?
+— E quem mais teria interesse em matá-lo antes de ele falar com uma soberana?
 
 Savel olhou para a porta.
 
@@ -628,7 +626,7 @@ Savel olhou para a porta.
 
 Kaelina sentiu a raiva subir.
 
-— Sr. Sevel, nada justifica um filho mandar matar o próprio pai. E se ele é capaz desse feito, com certeza é capaz de ter matado um soberano.
+— Sr. Savel, nada justifica um filho mandar matar o próprio pai. E se ele é capaz desse feito, com certeza é capaz de ter matado um soberano.
 
 — Você não conhece Daryon como eu, soberana.
 
