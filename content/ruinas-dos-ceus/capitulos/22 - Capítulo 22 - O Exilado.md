@@ -328,8 +328,6 @@ Mariv deu um passo à frente.
 
 — Então divide entre quatro.
 
-— Não.
-
 — Eu dou a minha parte para ela.
 
 Gabasteri balançou a cabeça.
