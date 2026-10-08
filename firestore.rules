@@ -110,7 +110,7 @@ service cloud.firestore {
         ])
         && validLocation(request.resource.data)
         && validAuthor(request.resource.data)
-        && request.resource.data.emoji in ['😍','😂','😱','😢','🤔']
+        && request.resource.data.emoji in ['😍','😂','😱','😢','🤔','😡']
         && request.resource.data.at is int
         && request.resource.data.updatedAt is int;
 
@@ -151,7 +151,7 @@ service cloud.firestore {
         && request.resource.data.paraIdx == resource.data.paraIdx
         && request.resource.data.diff(resource.data).affectedKeys()
           .hasOnly(['emoji','updatedAt','paragraphKey','quote'])
-        && request.resource.data.emoji in ['😍','😂','😱','😢','🤔']
+        && request.resource.data.emoji in ['😍','😂','😱','😢','🤔','😡']
         && request.resource.data.updatedAt is int
         && request.resource.data.get('quote', '') is string
         && request.resource.data.get('quote', '').size() <= 220;
