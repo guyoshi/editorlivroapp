@@ -1,14 +1,8 @@
-Alyra leu a mensagem uma vez. Depois, outra. Na terceira, já não estava lendo. Estava medindo o peso daquilo. As palavras eram poucas, riscadas numa tira estreita de pele fina, dobrada duas vezes e selada com cera escura. O informante permanecia diante dela com a cabeça baixa, as mãos unidas à frente do corpo, tentando parecer invisível demais para ser culpado pela notícia que trazia.
-
-Não conseguiu. Ninguém era invisível quando trazia uma má notícia a uma soberana. O aposento estava quieto. Quieto demais para Kaendar. Lá fora, o anel alto seguia seu curso de passos, ordens, rodas de carroça, vozes contidas e metal distante. Mas dentro da câmara de Alyra, o ar parecia preso entre as paredes.
+Alyra leu a mensagem duas vezes. Na terceira, apenas mediu as palavras enquanto o informante esperava de cabeça baixa.
 
 A mensagem dizia que os Homens das Areias haviam concluído a missão. Os Fendelar tinham sido exterminados. Os homens tinham retornado sem deixar rastro suficiente para serem seguidos. O plano, em si, havia funcionado. Era isso que tornava o resto da mensagem intolerável.
 
-Rumores cresciam nas rotas externas. Primeiro baixos, depois repetidos onde uma mentira aprendia a andar: mercados de margem, acampamentos de carga, travessias Glydar, paradas de tarrak, cozinhas de estrada, beiras do Rio Grande e pátios onde carregadores Buldar fingiam falar apenas de grão. Diziam que o ataque aos Fendelar não fora coisa de mercenários, nem acerto de sangue entre clãs. Diziam que havia mão Polar por trás. Que Kaendar havia mandado homens sem brasão para apagar Velarim e depois lavar as mãos nos próprios registros.
-
-Diziam também que a Dinastia levara bandeira de trégua à boca dos Tondrar apenas para arrancar dela uma morte conveniente.
-
-O mais intolerável era o silêncio sobre o resto. Ninguém parecia repetir que os Tondrar tinham quebrado a trégua. Que Yvenn Raiz-Branca havia caído diante de pão, água e sal. Que um Polar fora envenenado enquanto a Lei do Portão ainda estava aberta. Alyra dobrou a tira de pele com cuidado. Cuidado demais. Então pousou a mensagem sobre a mesa. Não a amassou, não a rasgou e nem gritou. Essa calma era pior. A calma de Alyra nunca era ausência de raiva.
+Rumores corriam por mercados, travessias e acampamentos: Kaendar teria enviado homens sem brasão para destruir Velarim; a trégua com os Tondrar teria servido apenas para matá-los sob uma lei Polar. Quase ninguém repetia a versão de Alyra, na qual os Tondrar haviam envenenado Yvenn sob pão e sal. Alyra dobrou a tira de pele e a pousou sobre a mesa.
 
 — Saia.
 
@@ -18,9 +12,7 @@ O homem curvou-se depressa.
 
 Ele hesitou por menos de um sopro e saiu. A porta se fechou. Alyra permaneceu sentada.
 
-As tochas queimavam nas paredes laterais, lançando sobre a pedra uma luz irregular. Havia mapas sobre a mesa, pequenas pedras marcando rotas e pontos de tensão: o caminho até Khar-Tondr, a floresta de Mirval, a Estrada dos Grãos, o trecho baixo do Rio Grande, os postos junto às salinas e as passagens menores por onde notícia ruim costumava entrar antes de qualquer exército. Algumas pedras eram negras, outras brancas, outras vermelhas. Alyra sempre gostara das vermelhas. Não porque representavam ameaça. Porque eram as únicas que pareciam admitir o que queriam ser.
-
-Ela pegou uma delas entre os dedos. O mundo falava deles enquanto eles apenas ouviam. Alyra fechou a mão em torno da pedra vermelha até as pontas dos dedos embranquecerem. Então gritou:
+Mapas e pedras marcavam Khar-Tondr, Mirval, a Estrada dos Grãos, o Rio Grande e as salinas. Alyra fechou a mão em torno de uma pedra vermelha.
 
 — Guarda!
 
@@ -32,9 +24,9 @@ O soldado empalideceu.
 
 — Agora, minha soberana.
 
-Ele saiu e Alyra levantou-se devagar, caminhando até a janela estreita para observar Kaendar de cima. Os anéis desciam em curvas duras, cada camada apertando a outra. Lá embaixo, pontos de fogo marcavam cozinhas, guaritas, oficinas e pátios de carga; mais distante, para além das muralhas, a noite escondia o Rio Grande, as salinas e a garganta por onde o mundo era obrigado a afinar a própria voz antes de chegar aos Polar. Cada portão prometia controle. Cada muro dizia ao mundo que ali dentro a queda não era permitida. Mas um rumor atravessava portões sem pedir licença. Isso a irritava mais do que qualquer lâmina.
+Enquanto esperava Daryon, Alyra observou Kaendar pela janela. Muralhas seguravam homens; rumor atravessava sem pedir licença.
 
-Daryon chegou pouco depois. Não entrou apressado. Daryon nunca dava ao mundo o prazer de parecer apressado. Abriu a porta com suavidade, passou por ela como se tivesse sido convidado para uma conversa íntima, e não chamado por uma soberana em fúria. Vestia escuro, como quase sempre, com a sobriedade de quem preferia que os outros percebessem tarde demais que ele ocupava o centro.
+Daryon chegou pouco depois, sem demonstrar pressa.
 
 — Soberana? — disse, fechando a porta atrás de si. — Está tudo bem?
 
@@ -44,7 +36,7 @@ Ela virou o rosto lentamente.
 
 A frase o deteve. Alyra pegou a mensagem e a estendeu. Daryon se aproximou. Seus dedos tocaram os dela ao receber o papel. Alyra não afastou a mão de imediato, mas também não correspondeu ao gesto.
 
-Ele leu uma vez. Duas. Na terceira, seu rosto já havia mudado. Não muito. Daryon era bom demais para entregar medo sem negociar alguma coisa em troca. Mas o sorriso pequeno desapareceu, e isso bastava.
+Daryon leu. O sorriso desapareceu.
 
 — Rumores sempre vão existir — disse ele.
 
@@ -92,7 +84,7 @@ Ela voltou-se para os mapas.
 
 — Então estão esquecendo quem somos.
 
-Daryon observou o rosto dela. Havia beleza ali, sim. Sempre havia. Mas naquele momento, era uma beleza armada. O tipo de beleza que fazia um homem acreditar que a lâmina havia sido feita para ser tocada.
+Daryon observou-a.
 
 — Ninguém esquece os Polar — disse ele.
 
@@ -102,11 +94,11 @@ Daryon observou o rosto dela. Havia beleza ali, sim. Sempre havia. Mas naquele m
 
 — Clãs controlam o que permitimos que eles controlem.
 
-Daryon ficou quieto enquanto Alyra sorria sem alegria.
+Daryon ficou quieto.
 
 — Está vendo? Até você hesita.
 
-Ele se aproximou. Havia algo de íntimo no movimento. A mão dele subiu devagar, como quem pede passagem ao corpo antes da palavra. Tocou a lateral do braço dela. Alyra não se moveu.
+Ele se aproximou e tocou a lateral do braço dela.
 
 — Você está com raiva — disse ele.
 
@@ -124,7 +116,7 @@ Alyra olhou para a mão dele, depois para o rosto. E então com um gesto seco, a
 
 — Alyra… o que você quer afinal?
 
-Daryon respirou fundo, o suficiente para recuperar a postura. Ela passou por ele em direção à porta.
+Ela passou por ele em direção à porta.
 
 — Quero alguém que lembre o lugar que ocupa.
 
@@ -174,7 +166,7 @@ Alyra abriu a porta.
 
 — Então garanta que volte contra outra pessoa.
 
-E saiu. Nos corredores, os servos se afastavam antes que Alyra passasse. Ela não precisava anunciar a própria presença. O corpo dela fazia isso. Os passos, o manto, o queixo erguido, a raiva contida sob a pele. Alguns curvavam a cabeça. Outros fingiam ocupação. Ninguém queria encontrar os olhos de Alyra quando ela caminhava como quem procurava um culpado.
+Alyra saiu. Servos e guardas abriram caminho pelos corredores.
 
 Perto da escadaria interna, dois guardas se endireitaram.
 
@@ -188,7 +180,7 @@ Um deles respondeu sem hesitar.
 
 Alyra seguiu sem agradecer. Cal Kadrir estava onde deveria estar.
 
-Era jovem demais para carregar aquele título sem que ele ainda parecesse recém-posto sobre os ombros. Alto, de corpo rígido, rosto fechado e olhos que tentavam imitar homens mais velhos. A armadura estava limpa demais. As fivelas, alinhadas demais. A espada, polida demais. Até a pequena Raiz gravada no fecho do cinto parecia recente, sem o desgaste dos dedos que tocam por hábito e não por cerimônia. A raiz branca na têmpora esquerda também: retocada todas as manhãs, sem uma falha, como se a perfeição do traço pudesse fazer as vezes dos vinte e cinco ciclos que lhe faltavam. Tudo nele denunciava alguém que ainda acreditava que cumprir perfeitamente a forma bastaria para merecer o cargo.
+Kadrir era jovem para o título. A armadura, as fivelas, a espada e até a raiz branca na têmpora pareciam novas demais para um cargo que Edran carregara por vinte e cinco ciclos.
 
 Quando Alyra apareceu, ele se curvou.
 
@@ -200,9 +192,7 @@ Ela parou diante dele.
 
 Kadrir não perguntou para onde. Esse era o primeiro mérito dele.
 
-Alyra caminhou até as câmaras de banho do anel alto. Eram reservadas à família soberana e a raros convidados de sangue antigo. Pedra clara, bacias largas, água aquecida por canais internos, pequenos nichos com óleos, toalhas, flor-de-salva seca e sais aromáticos vindos das salinas Polar. O lugar fora feito para purificar o corpo depois de cerimônias, lutos e decisões difíceis.
-
-Alyra sempre achou curioso como Kaendar gostava de fingir que água limpava alguma coisa além da pele. Ela entrou. Kadrir permaneceu à porta.
+Alyra caminhou até as câmaras de banho do anel alto, de pedra clara, bacias largas e água aquecida por canais internos. Entrou. Kadrir permaneceu à porta.
 
 — Feche — disse ela.
 
@@ -224,9 +214,7 @@ Kadrir ergueu os olhos por um instante. Muito rapidamente, depois voltou a baix�
 
 — Então obedeça.
 
-Kadrir começou pelas fivelas do peito. Seus movimentos eram precisos, mas lentos. Não por desafio, mas por cuidado — pelo medo de parecer rápido demais, disposto demais, qualquer coisa além de obediente. Alyra entrou na água.
-
-Sentou-se devagar, deixando o vapor subir ao redor do rosto. Observou enquanto ele retirava peça por peça da armadura. Peitoral. Ombreiras. Braçais. Cinto. A espada ficou por último, pousada sobre a pedra com a delicadeza de quem entrega um juramento.
+Kadrir retirou peitoral, ombreiras, braçais, cinto e, por último, a espada. Alyra entrou na água e observou.
 
 Quando terminou, Kadrir permaneceu de pé com a túnica simples de baixo, rígido como se a armadura ainda estivesse nele.
 
@@ -264,9 +252,7 @@ Kadrir ficou imóvel.
 
 — Então ajoelhe.
 
-Ele ajoelhou. Alyra saiu da água com calma. Pegou uma toalha, não para se cobrir por pudor, mas por escolha. Enrolou-a no corpo e caminhou até uma pequena mesa lateral, onde havia uma jarra de água limpa e uma taça rasa usada nos ritos privados antes de audiências formais. Água de Ori.
-
-Não a mesma do portão externo, claro. Mas simbolicamente, sim. Água para mãos que receberiam palavra. Água para a boca que juraria. Água para lembrar que todo poder, antes de ser violência, precisava parecer costume. Alyra encheu a taça. Kadrir continuou de joelhos.
+Ele ajoelhou. Alyra saiu da água, enrolou uma toalha no corpo e encheu uma taça com a Água de Ori usada nos ritos privados. Kadrir continuou de joelhos.
 
 — Sabe o que é isto?
 
@@ -278,7 +264,7 @@ Ela se aproximou dele.
 
 — Hoje é só água.
 
-E virou a taça sobre a cabeça de Kadrir. A água escorreu pelos cabelos, pelo rosto, pelo pescoço, pela túnica. Ele fechou os olhos por instinto, mas não se moveu. Nem quando a água caiu sobre a pedra diante dos joelhos dele. Nem quando algumas gotas tocaram a ponta da bota de Alyra. Ela abaixou a taça vazia.
+Alyra virou a taça sobre a cabeça de Kadrir. A água correu pelo rosto, pescoço e túnica. Ele não se moveu.
 
 — Recolha.
 
@@ -286,7 +272,7 @@ Kadrir abriu os olhos. Por um instante, não entendeu. Ou entendeu e desejou nã
 
 — A água de uma soberana não se desperdiça.
 
-A respiração de Kadrir falhou. Mas ele obedeceu. Esticou as mãos e começou a passar a mão na água e a sacudir os dedos dentro da pequena taça novamente. Era uma tarefa praticamente inútil. Alyra sabia. Mas em seu rosto, não havia desejo carnal verdadeiro. Havia outra coisa. Uma satisfação fria, mais funda, mais perigosa. A satisfação de ver o mundo reduzir-se a uma ordem simples: ela mandava, alguém obedecia, e nenhuma boca externa tinha força para transformar aquilo em rumor.
+Kadrir obedeceu, recolhendo com as mãos a água espalhada na pedra e devolvendo o pouco que conseguia à taça. Alyra observou.
 
 Foi então que uma voz veio do lado de fora.
 
@@ -310,9 +296,7 @@ Alyra abriu mais a porta.
 
 — Então fale.
 
-Kaelina deu um passo para dentro e viu Cal Kadrir de joelhos, encharcado, com as mãos apoiadas na pedra. A armadura desmontada repousava ao lado, peça por peça, como se também tivesse sido despida de honra.
-
-Kaelina parou. O rosto dela mudou. A compreensão veio primeiro; o choque demorou um instante a alcançá-la. Uma compreensão que veio devagar, e por isso doeu mais.
+Kaelina entrou e viu Kadrir de joelhos, encharcado, a armadura desmontada ao lado. Parou.
 
 — O que você está fazendo?
 
@@ -394,9 +378,7 @@ Alyra não tirou os olhos da irmã.
 
 — Beije, Cal.
 
-Kadrir abaixou a cabeça. Alyra ergueu um pouco mais o pé, não para oferecer o dorso, mas a sola, numa humilhação precisa. A pedra fria sob eles parecia testemunha. A água espalhada parecia lama clara. Kadrir aproximou a boca do pé dela. Kaelina virou o rosto por um instante. Não por fraqueza, por nojo, por raiva.
-
-Por reconhecer que, se continuasse olhando, talvez atravessasse a distância entre as duas e fizesse algo que nenhuma soberana poderia desfazer. Alyra viu o rosto dela virar e sorriu. Quando Kadrir terminou, Alyra abaixou o pé. Kaelina finalmente olhou para Kadrir.
+Kadrir abaixou a cabeça e beijou a sola do pé de Alyra. Kaelina virou o rosto, tomada de nojo e raiva. Alyra sorriu e abaixou o pé.
 
 — Levante-se Cal.
 
@@ -410,7 +392,7 @@ Kaelina voltou os olhos para a irmã.
 
 — Estou usando o poder. Você é que se acostumou a pedir desculpas por tê-lo. — então se virou para o Cal — Agora saia.
 
-O rapaz levantou-se com dificuldade. Pegou apenas a espada e parte da armadura, sem saber se devia vestir, recolher, fugir ou morrer de pé. A túnica molhada colava no corpo. A pequena Raiz do cinto batia contra a pedra, ridícula e solene ao mesmo tempo. O rosto permanecia baixo. Alyra abriu a porta.
+Kadrir levantou-se, recolheu a espada e parte da armadura sem erguer o rosto. Alyra abriu a porta.
 
 — E feche do lado de fora.
 
@@ -480,11 +462,7 @@ Alyra inclinou a cabeça.
 
 Kaelina não respondeu. Apenas se virou e saiu.
 
-O corredor pareceu frio depois da câmara de banho. Kaelina caminhou sem saber exatamente para onde. Os passos vieram antes da decisão. Pedra sob os pés, tochas, servos se afastando, guardas curvando a cabeça. Ao longe, ouviu o ranger de uma roda de carga descendo para o Anel Baixo, talvez levando sal úmido, peixe seco ou tábuas para algum depósito que continuava a funcionar como se a cidade não tivesse acabado de se partir por dentro. O mundo continuava organizado, e isso quase a ofendia.
-
-Como era possível que os corredores ainda tivessem o mesmo formato? Como era possível que a Raiz continuasse entalhada nas paredes depois daquilo?
-
-Ela passou por uma coluna marcada pelo símbolo antigo. Dois dedos tocaram sua testa por hábito. Lembra. Pertence. Segura. As palavras vieram sem voz, velhas como infância. Mas os dedos não chegaram ao peito. A mão caiu.
+Kaelina deixou a câmara de banho. Ao passar por uma coluna com a Raiz, tocou dois dedos na testa por hábito, mas a mão caiu antes de alcançar o peito.
 
 Mais adiante, um conselheiro vinha em sua direção. Maelis das Contagens, com duas tábuas presas contra o corpo e o rosto apertado de preocupação. Ao vê-la, parou.
 
