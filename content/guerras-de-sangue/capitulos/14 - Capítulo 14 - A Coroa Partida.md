@@ -1,30 +1,20 @@
 A água do Rio Grande continuou oleosa nos dias seguintes.
 
-Menos do que antes, diziam os homens do rio. Menos densa, menos escura, menos capaz de deixar manchas agarradas aos dedos depois de tocada. Mas ninguém com olhos honestos conseguia olhar para aquilo e chamar de água limpa. Havia sempre uma película fina sobre a superfície, uma pele estranha que se partia quando o vento passava e depois voltava a unir-se, prendendo reflexos de sal, cinza e óleo como se o próprio Rio Grande tentasse esconder a vergonha.
+A película estava menos densa e escura do que antes, mas ainda se partia com o vento e voltava a se unir sobre o Rio Grande.
 
-Kaendar aprendeu depressa que sede não nasce de uma vez. Primeiro vinha o cuidado, depois a suspeita, depois a contagem, depois a mentira.
-
-Nos anéis baixos, as pessoas começaram a ferver água por mais tempo do que o necessário, passando-a por carvão, pano grosso e folhas de vedação na esperança de reduzir o gosto de óleo. Famílias guardavam jarros no escuro e diziam aos vizinhos que não tinham nada. Mães molhavam panos para crianças chuparem, só para enganar a boca por alguns instantes. Homens que até poucos dias antes dividiam bancos em tavernas passaram a vigiar os baldes uns dos outros. Nos becos, as conversas mudaram de tom. Ninguém falava mais apenas de Tondrar ou de guerra distante. Falava-se de poços, barris, cisternas, turnos de guarda e de quem tinha enchido mais do que devia.
-
-O anel médio culpava o anel baixo por desperdiçar. O anel baixo culpava o anel médio por esconder.
-
-O anel alto, protegido pelas cisternas antigas e pelas fontes internas, tentava falar pouco, porque mesmo silêncio, quando vem de cima, pode soar como insulto.
+Nos anéis baixos, famílias filtravam água com carvão, pano e folhas de vedação, escondiam jarros e vigiavam baldes. O anel médio acusava o baixo de desperdiçar; o baixo acusava o médio de esconder. O anel alto ainda tinha cisternas internas.
 
 Na manhã do quarto dia, dois homens brigaram por uma tina junto à escadaria dos carregadores. No quinto, uma mulher cuspiu no rosto de um fiscal de água e gritou que preferia beber lama a ouvir sermão de homem que ainda lavava as mãos. No sexto, um grupo do anel baixo forçou a entrada num depósito menor do anel médio, não para saquear ouro, metal ou ferramentas, mas para carregar três barris de água turva, cheirando a madeira velha e cisterna mal fechada, que ninguém, em tempos normais, teria dado a um animal doente.
 
-A guerra civil, em Kaendar, não começava quando alguém declarava guerra. Começava quando duas pessoas famintas olhavam para a mesma coisa e ambas pensavam: se eu não tomar, morro primeiro.
+Kaendar começava a brigar consigo mesma pela água.
 
-E Alestir ainda pesava sobre tudo. Não apenas pelos mortos, nem apenas pela vergonha de uma aldeia Polar ter ardido sob olhos inimigos. O galpão principal queimara com boa parte das reservas enviadas para atravessar a estação: sacos de grão-de-caule, raiz amarela seca, tiras de sarnak salgado, farinha de raiz escura, tonéis de conserva e sal suficiente para manter comida viva por semanas. Carga suficiente para encher pátios inteiros transformada em cinza numa única noite.
+Alestir também levara reservas de grão-de-caule, raiz amarela, sarnak salgado, farinha, conservas e sal. Kaendar agora contava água e comida ao mesmo tempo.
 
-Kaendar não perdera apenas uma aldeia. Perdera dias de comida. Talvez semanas. E cidade nenhuma permanece civilizada por muito tempo quando começa a contar comida em semanas. Kaelina sabia disso.
-
-Por isso estava sentada no salão do trono antes mesmo de o sol subir por completo sobre os muros superiores. Não tinha dormido bem. Talvez não tivesse dormido. Havia algo na postura dela que lembrava gente de pé havia tempo demais, embora estivesse sentada. Os dedos repousavam nos braços do trono, mas não descansavam. Apertavam a madeira, soltavam, voltavam a apertar. O rosto estava limpo, a Ramagem refeita no escuro, antes do amanhecer, com traço mais grosso que o costume, o cabelo preso, as vestes ajustadas. Tudo nela tentava parecer soberania. Os olhos, porém, traíam cansaço.
+Kaelina estava no salão antes do amanhecer, Ramagem refeita e olhos cansados.
 
 Alyra estava no outro trono.
 
-Não se recostava como costumava fazer. Também não se inclinava para frente. Mantinha-se numa posição intermédia, rígida demais para ser natural, como se o corpo inteiro tivesse sido posto ali por vontade e não por conforto. O braço ainda trazia sinais do ferimento de Alestir. A pele estava um pouco pálida sob a luz fria do salão, mas a expressão continuava a mesma: dura, impaciente, pronta para transformar qualquer queixa em fraqueza de alguém.
-
-Entre elas, o espaço vazio parecia maior do que antes.
+Alyra permanecia rígida no outro trono, pálida e ainda marcada pelo ferimento de Alestir.
 
 Homens entravam, falavam, reclamavam, imploravam. Alguns vinham sozinhos. Outros vinham em pequenos grupos, empurrados por necessidades comuns e medos diferentes. Um mestre de barris dizia que não havia madeira suficiente para novos tonéis. Um fiscal dos canais afirmava que a água retirada das cisternas altas não chegaria aos anéis baixos se continuassem a roubá-la pelo caminho. Uma mulher velha, autorizada a falar por três famílias da descida dos curtidores, ainda com cheiro de couro úmido preso à roupa, dizia que crianças estavam com dores no ventre depois de beberem água fervida do rio.
 
@@ -50,7 +40,7 @@ A velha abriu a boca, ofendida antes de estar assustada.
 
 — Então ainda há tempo para corrigir distribuição, não para chorar como se estivéssemos enterrando metade do anel.
 
-A mulher recuou meio passo. Não porque Alyra tivesse gritado. Alyra não precisava gritar. Havia pessoas que levantavam a voz para ocupar espaço. Alyra ocupava espaço ao diminuir o outro dentro dele. Kaelina olhou para a irmã.
+A mulher recuou meio passo. Kaelina olhou para a irmã.
 
 — Alyra.
 
@@ -88,11 +78,11 @@ O homem engoliu.
 
 — Saque. Mataram um bravão e soltaram os outros.
 
-O salão, que até então carregava ruído de murmúrios baixos, perdeu o som. Kaelina sentiu o primeiro movimento de raiva subir pelo corpo. Não a raiva limpa de quem quer bater em algo. Era pior: raiva misturada com cálculo, porque cada carroça perdida tinha nome, boca, prato e consequência.
+O salão perdeu o som. Kaelina pensou no que cada carroça perdida significava para a distribuição.
 
 — Quem atacou? — perguntou.
 
-— Mercenários, dizem os dois que voltaram. Não usavam marca. Não deixaram corpo. Levaram quase tudo, cortaram arreios, soltaram bravões e queimaram uma carroça no caminho, e queimaram uma carroça no caminho, como se quisessem que a fumaça fosse vista.
+— Mercenários, dizem os dois que voltaram. Não usavam marca. Não deixaram corpo. Levaram quase tudo, cortaram arreios, soltaram bravões e queimaram uma carroça no caminho, como se quisessem que a fumaça fosse vista.
 
 Alyra sorriu sem alegria.
 
@@ -124,7 +114,7 @@ Kaelina voltou-se para o homem.
 
 — Orven da Canga, minha soberana. Do anel baixo. Chamam-no assim porque carregou canga Buldar metade da vida. Foi ele quem ficou preso sob sacos caídos quando a primeira carroça virou. Disse que viu botas sem marca, panos de areia no rosto e ouviu um deles mandar que queimassem apenas a carroça da frente. Não era saque comum. Saqueador comum leva e foge. Aqueles queriam que soubéssemos.
 
-Kaelina guardou o nome. Orven da Canga. Um homem que carregava sacos para comer. Um homem que quase morrera escondido debaixo da comida que não chegaria à própria cidade. Em Jesed, as testemunhas raramente vinham limpas. Vinham mancando, sangrando, assustadas, com cheiro de arreio rompido, suor de bravão e poeira de rota; a verdade quase sempre chegava antes pelo nariz.
+Kaelina guardou o nome: Orven da Canga, carregador do anel baixo e testemunha do ataque.
 
 — Maelis — disse Kaelina.
 
@@ -158,7 +148,7 @@ Kaelina levantou-se. Não rápido, nem com fúria, e sim como alguém que compre
 
 — A palavra alimentou Kaendar por quarenta ciclos quando nosso pai fazia inimigos pensarem duas vezes antes de cortar rotas, queimar celeiros e envenenar encontros. A palavra de Kaendar era uma coisa útil porque tinha consequência. Se ela morrer, Alyra, não teremos apenas fome. Teremos todos os clãs apostando contra nós ao mesmo tempo.
 
-A menção a Orionus caiu entre elas como lâmina deixada sobre mesa. Alyra sustentou o olhar.
+Alyra sustentou o olhar.
 
 — Já temos todos os clãs apostando contra nós, Kaelina.
 
@@ -192,7 +182,7 @@ Os guardas soltaram o homem. Ele quase caiu, mas permaneceu de pé. Tinha olhos 
 
 — Participou da invasão?
 
-Ele olhou para o chão. Depois ergueu os olhos de novo, como se tivesse decidido que mentira era luxo de gente menos desesperada.
+Ele olhou para o chão e depois ergueu os olhos.
 
 — Sim.
 
@@ -208,7 +198,7 @@ Harlon riu uma vez, sem humor algum.
 
 — Porque pedimos água e disseram que havia regras. Pedimos outra vez e disseram que a contagem ainda não estava feita. Depois vimos barris subindo pela escadaria do velho torno. Então homens começaram a dizer que, se esperássemos a contagem, nossos filhos iam aprender a morrer educados.
 
-Alguns no salão murmuraram aprovação. Outros insultaram baixo. A cidade inteira parecia caber naquele homem: a sede, a vergonha, a revolta e a certeza de que alguém, em algum lugar acima, estava menos sedento. Kaelina olhou para os guardas próximos.
+Murmúrios atravessaram o salão. Kaelina olhou para os guardas.
 
 — Iressa Mãos-de-sal irá para o anel médio. Quero saber quantos barris existem, quantos foram retirados, quantos foram escondidos e por quem.
 
@@ -252,7 +242,7 @@ Kaelina ignorou a irmã e virou-se para os guardas.
 
 — O anel alto não é uma ilha dentro de Kaendar. Se ele se separar agora, está declarando que a Dinastia existe apenas para cima. E isso eu não permitirei. Abram o anel. Coloquem guardas para qualquer caso fora do padrão. As fontes altas passarão a servir também aos carregadores dos anéis baixos, por turnos e diante de contagem pública. Quem tentar furar a fila será punido. Quem tentar impedir a fila será punido duas vezes.
 
-O salão reagiu como corpo ferido. Homens do anel baixo se olharam com surpresa e uma gratidão desconfiada. Alguns do anel médio protestaram. Um membro menor de uma casa antiga falou que aquilo era perigoso. Outro disse que os portões internos não eram feitos para multidões. Odran já parecia calcular quantos guardas seriam necessários e quantos problemas nasceriam em cada escadaria.
+Homens do anel baixo reagiram com surpresa; membros do médio e do alto protestaram. Odran começou a calcular guardas e fluxo pelas escadarias.
 
 Alyra, porém, não disse nada. Ela apenas fechou os olhos por um instante. Quando abriu, havia algo diferente no rosto. Não fraqueza. Não exatamente dor. Um desconforto breve passou por ela, rápido demais para chamar atenção da maioria. A mão direita tocou abaixo das costelas, como quem reprime uma náusea, e logo caiu de novo. Kaelina viu, embora não entendesse por inteiro.
 
@@ -262,13 +252,13 @@ Alyra olhou para ela com irritação imediata, como se a pergunta fosse invasão
 
 — Estou farta.
 
-Alyra saiu sem pedir encerramento, sem justificar e sem olhar para o Conselho. Desceu os degraus, atravessou o salão e passou entre homens que se afastaram não por respeito, mas por instinto. Daryon, parado junto a uma coluna, acompanhou-a com os olhos. Por um momento, pareceu prestes a ir atrás dela. Não foi. Ficou. E isso, de algum modo, incomodou Kaelina mais do que se ele tivesse seguido.
+Alyra saiu sem pedir encerramento. Daryon acompanhou-a com os olhos, mas permaneceu no salão.
 
 A porta fechou-se atrás de Alyra. O salão ficou com a ausência dela. Kaelina voltou-se para os guardas.
 
 — Façam o que ordenei.
 
-Eles obedeceram, embora alguns demorassem meio instante a mais. E Kaelina sentiu esse meio instante como se fosse o primeiro corte de uma lâmina que ainda não havia decidido entrar.
+Eles obedeceram, alguns depois de uma hesitação curta.
 
 Enquanto Kaelina ficava presa às primeiras ordens da noite, Daryon foi até os aposentos de Alyra.
 
@@ -296,7 +286,7 @@ Daryon inclinou levemente a cabeça.
 
 — Kaelina não permite.
 
-O silêncio que veio depois pareceu incomodar mais Alyra do que a resposta.
+Alyra fechou a mão na borda da mesa.
 
 — Desde quando minha irmã decide sozinha quem fica fechado no anel alto?
 
@@ -402,9 +392,9 @@ De dentro, a voz veio áspera.
 
 Kaelina abriu.
 
-O O quarto de Alyra tinha menos ornamentos do que o dela. Não por humildade, mas por impaciência. Alyra nunca gostara de objetos que não servissem para algo. Havia armas em suportes, mapas sobre uma mesa lateral, uma bacia com água escura de ervas para limpar ferimentos, panos manchados de sangue antigo e uma túnica jogada sobre uma cadeira como se tivesse sido derrotada em combate.
+O quarto de Alyra tinha poucos ornamentos: armas, mapas, uma bacia de ervas para ferimentos e panos manchados de sangue.
 
-Alyra estava de costas, usando apenas roupas íntimas e uma faixa solta no peito. A pele mostrava marcas de Alestir: hematomas amarelecendo, arranhões ainda vermelhos, um corte fino perto do ombro. O cabelo caía sobre a nuca. Ela não tentou cobrir-se. Não por confiança, talvez por desafio.
+Alyra estava de costas, com hematomas de Alestir, arranhões e um corte perto do ombro.
 
 — Boa tarde — disse Alyra, embora já fosse noite.
 
@@ -446,7 +436,7 @@ Alyra virou-se de frente.
 
 — Pois é. Que droga, não é?
 
-A frase veio leve demais. Kaelina estudou o rosto da irmã. Alyra parecia cansada, mas havia uma inquietação sob a pele dela. Os olhos estavam atentos, como sempre, mas o corpo não acompanhava a mesma precisão. Uma das mãos tocou a mesa, não para pegar nada. Apenas tocou, como se a madeira ajudasse a manter o equilíbrio.
+Kaelina estudou a irmã. Alyra parecia cansada; uma das mãos ficou apoiada na mesa.
 
 — Foi você quem pegou?
 
@@ -546,11 +536,7 @@ Kaelina sentiu o golpe, mas não recuou.
 
 Por um instante, o quarto pareceu pequeno demais para as duas. Alyra abriu a boca para responder, mas o rosto dela mudou. A raiva continuou ali, mas algo subiu antes da palavra, vindo de um lugar que não obedecia ao orgulho. Ela levou a mão à boca, virou-se bruscamente e caminhou até a bacia. Não chegou com elegância. Dobrou o corpo sobre ela e vomitou. Kaelina parou.
 
-O som foi breve, seco, humilhante. Alyra apoiou uma mão na mesa e a outra na borda da bacia, respirando pelo nariz, os ombros tensos como se até aquilo fosse uma ofensa que o corpo cometia contra ela. Kaelina deu um passo.
-
-O movimento veio antes do pensamento. Houve um tempo em que nenhuma das duas precisava pedir para que a outra se aproximasse. Antes da morte de Orionus, Alyra entrava no quarto de Kaelina sem bater quando ela adoecia, trocava a água da jarra e reclamava dos servos como se a irritação pudesse esconder o cuidado. Nunca perguntava se a irmã precisava de alguma coisa. Apenas fazia e depois fingia que tinha outro motivo.
-
-Depois que Orionus morreu, Alyra parou de atravessar aquela porta. Kaelina não.
+Alyra apoiou uma mão na mesa e outra na bacia, respirando pelo nariz. Kaelina deu um passo. Antes da morte de Orionus, Alyra cuidava dela quando adoecia sem nunca admitir que era cuidado.
 
 — Alyra...
 
@@ -576,11 +562,9 @@ A frase foi simples demais para não doer. Kaelina ficou onde estava por mais um
 
 — Sai, Kaelina.
 
-Kaelina saiu. Na manhã seguinte, o Salão das Soberanas já estava cheio quando Kaelina chegou. Isso, por si só, era uma afronta.
+Kaelina saiu. Na manhã seguinte, Kaelina encontrou o Salão das Soberanas já cheio. Além do Conselho havia chefes de passagem, capitães, fiscais de água, mestres de barril e representantes dos anéis.
 
-Não porque o Conselho não pudesse reunir-se sem ela em emergências menores. Podia. Orionus havia permitido isso em tempos de crise, desde que qualquer decisão precisasse de confirmação soberana. Mas aquela não era uma reunião de emergência menor. Havia membros do Conselho da Raiz, chefes de passagem, homens das forjas, dois capitães de patrulha, guardas de muralha, escribas, fiscais de água, mestres de barril e representantes dos anéis. Havia também gente que não deveria estar ali, mas estava porque crise abre portas que costume mantém fechadas.
-
-Alyra não estava sentada no trono. Estava de pé diante da mesa central. Vestia uma túnica escura presa por correias de couro, o braço ferido envolto por faixas novas, o cabelo amarrado com firmeza. Parecia pálida, mas a palidez nela funcionava como cinza sobre brasa. Não a diminuía. Fazia a fúria parecer mais recente. Daryon estava próximo, discreto como veneno em copo bonito.
+Alyra estava de pé diante da mesa central, pálida, o braço ferido enfaixado. Daryon permanecia próximo.
 
 Brokan ocupava um lado da mesa, braços cruzados, barba cheia de cinza. Varron Meio-Olho observava as entradas. Nalia do Rio tinha tábuas e mapas fluviais diante de si. Thoren falava baixo com Iressa, que estava rígida, olhos atentos, mãos sobre a própria pasta de sal e ração. Maelis registrava tudo com a expressão de quem preferia que a história escrevesse a si mesma.
 
@@ -624,11 +608,7 @@ Todos olharam para ela. Kaelina também. Alyra deixou a palavra respirar antes d
 
 — É por isso que estamos aqui. Água contaminada. Alestir queimado. Carga saqueada. Isto não é azar. Eles acham que podem nos cercar. Kaendar não pode continuar funcionando como se cada decisão precisasse atravessar duas vontades opostas enquanto o inimigo ri da nossa prudência. Durante a noite, enviei homens aos Glydar para exigir explicações sobre a água oleosa. Enviei outros aos Vendrar para questionar a origem do Bafo-de-Fenda usado em Alestir. Os Urtistar nos darão a resposta ainda hoje. Três grupos de escuta já partiram para observar Garganta Seca e as rotas de Khar-Tondr, não para atacar às cegas, mas para descobrir onde a fortaleza respira mal. Varron terá seus relatórios até o próximo ciclo da lua maior. Brokan começou a reforçar lâminas, pontas de estaca e portas internas. Thoren e Iressa reorganizarão ração para que alimento não dependa de boa vontade Buldar. E Cal Kadrir será erguido como Primeiro Kae até que a ameaça termine.
 
-A última frase fez o salão mudar. Primeiro Kae.
-
-O título era antigo. Antigo o bastante para muitos só o conhecerem de histórias de muralha, da época em que Kaendar ainda precisava lembrar todos os dias que permanecer era uma forma de guerra. Orionus não usava havia muito tempo. Preferira capitães, guardiões, mestres de patrulha, conselheiros. Títulos menores, mais úteis, menos inflamáveis. Primeiro Kae não era apenas comando militar. Era autorização simbólica para ordenar muralha, portão, Vigia, guarda, estábulo e depósito como se a cidade inteira fosse uma arma.
-
-Os Segundos Kae vinham abaixo, geralmente dois, um braço de campo e outro de muralha. Os Terceiros Kae eram muitos, pequenos dentes numa boca maior: chefes de escada, capitães de portão, homens de estábulo, vigias de rota.
+Primeiro Kae era um título antigo que Orionus deixara de usar. Dava autoridade sobre muralhas, portões, Vigias, guardas, estábulos e depósitos; abaixo dele vinham Segundos e Terceiros Kae.
 
 Kaelina olhou para Kadrir. Ele não parecia satisfeito. Parecia carregado. Então voltou-se para Alyra.
 
@@ -712,7 +692,7 @@ Kaelina sentiu o rosto aquecer. Alyra não lhe deu tempo para transformar vergon
 
 — Cansadas de ouvir que nosso pai teria pensado melhor, como se Orionus ainda estivesse atrás de uma porta pronto para corrigir as filhas. Cansadas de ver uma soberana hesitar diante de inimigos e abrir portas para homens sem nome.
 
-O murmúrio veio rápido. Não alto. Pior. Espalhado. Alguns membros do Conselho trocaram olhares. Outros olharam para Kaelina com surpresa genuína, como se só naquele instante entendessem que o rumor tinha corpo, quarto e nome. Kaelina apertou os dedos.
+Murmúrios se espalharam. Kaelina apertou os dedos.
 
 — Marken salvou minha vida.
 
@@ -722,11 +702,11 @@ Alyra aproximou-se mais um pouco, a voz baixa o bastante para ser íntima e alta
 
 — Poder não deve ficar com quem apenas herda uma cadeira. Deve ficar com quem sabe governar quando a cadeira começa a quebrar.
 
-A frase foi cruel. Kaelina viu nos rostos. Não todos. Iressa estava indignada. Maelis parecia devastado por estar vivo para escrever aquilo. Nalia evitava olhar. Kadrir apertava os dentes. Mas muitos outros estavam com Alyra. Não por amor, por fome de decisão. Kaelina poderia ter recuado, mas não recuou.
+Iressa estava indignada, Maelis abatido, Nalia evitava olhar e Kadrir apertava os dentes. Outros pareciam aceitar a lógica de Alyra.
 
 — Você envenenou Yvenn.
 
-O silêncio foi tão completo que até as tochas pareceram ouvir. Alyra ficou parada. Daryon perdeu cor por um instante, mas não tanto quanto depois perderia. Brokan descruzou os braços. Varron virou a cabeça, o olho bom fixo em Kaelina. Iressa fechou os olhos como se a frase fosse uma porta aberta sobre um abismo. Alyra caminhou até ela, bem devagar.
+Alyra ficou parada. Daryon perdeu cor; Brokan descruzou os braços; Varron fixou o olho em Kaelina; Iressa fechou os olhos.
 
 — Repete.
 
@@ -742,11 +722,9 @@ Kaelina não baixou os olhos. Alyra afastou-se e olhou para a sala.
 
 — A reunião continua. Cal Kadrir será erguido Primeiro Kae ao pôr do sol. Quem tiver objeção, que a faça agora, diante da cidade, das cinzas de Alestir e do corpo de Cal Edran, que morreu porque fraqueza demais deu ao inimigo tempo demais.
 
-Kaelina sentiu algo partir dentro dela. Não chorou. Chorar ali seria dar a Alyra uma segunda lâmina. Virou-se e saiu. Desta vez, ninguém tentou detê-la. E isso foi pior do que ser expulsa. Quando chegou ao quarto, Kaelina fechou a porta sem bater. Depois ficou parada.
+Kaelina virou-se e saiu. Ninguém tentou detê-la. No quarto, fechou a porta e ficou parada.
 
-O corpo queria tremer, mas ela não permitia. O rosto queimava. As mãos estavam frias. A garganta parecia ter areia. Sentia vergonha, raiva, medo e uma coisa mais funda, mais difícil de admitir: uma pequena parte dela entendia por que tinham ouvido Alyra.
-
-A cidade estava com sede. Cal Edran estava morto. Alyra oferecia nomes, rotas, culpados, cargos, movimento. Kaelina oferecia perguntas.
+Uma parte dela entendia por que a sala ouvira Alyra. Kaendar tinha sede e Edran estava morto; Alyra oferecia nomes, rotas, culpados e movimento. Kaelina oferecia perguntas.
 
 Sentou-se na beira da cama e ficou assim por algum tempo, olhando para nada. Sobre a mesa, a peça antiga de Orionus continuava onde sempre estivera. Aquele objeto de estratégia, madeira marcada por linhas, caminhos, gargantas e posições, parecia ofensivo naquela noite. Um jogo de condições para um mundo que já estava a morder.
 
@@ -754,10 +732,6 @@ Kaelina levantou-se de súbito e foi até ele. Quase o atirou contra a parede. N
 
 Informação sobre quem aplaudia, quem silenciava, quem obedecia. Kaelina colocou a peça de volta.
 
-Alyra era impulsiva, cruel quando queria e corajosa demais para distinguir firmeza de incêndio. Mas será que tinha mesmo feito tudo aquilo que ela pensava? Tinha lhe roubado o talismã… envenenado Yvenn, exterminado um clã? E se alguém tivesse feito isso por Alyra? Alyra podia transformar raiva em comando, mas alguém precisava transformar comando em estrutura.
+Kaelina voltou a Daryon. Alyra podia transformar raiva em comando; alguém precisava transformar comando em método, mensagens, homens e desculpas. Daryon estivera perto de cada decisão sem precisar aparecer no centro dela.
 
-E estrutura era sempre o lugar onde Daryon respirava melhor.
-
-Kaelina pensou nele saindo do quarto de Alyra, fechando a roupa com a calma de quem nunca precisava explicar nada. Pensou nele no salão, silencioso enquanto Alyra a destruía diante do Conselho. Não tinha defendido Alyra com frases longas. Não precisava. Daryon raramente empurrava portas. Preferia lubrificar dobradiças e deixar que outros acreditassem ter escolhido abri-las.
-
-Se Alyra estava a começar uma guerra, precisava de alguém que lhe desse linguagem, método e desculpa. Precisava de alguém que convencesse homens prudentes a chamarem pressa de estratégia. Precisava de alguém que fizesse guardas hesitarem diante de uma ordem legítima sem parecer que estavam traindo a Dinastia. Kaelina sabia quem era esse alguém.
+Kaelina sabia onde investigar.

@@ -1,10 +1,8 @@
-Daryon. Se estivesse apenas aconselhando Alyra, observar seus passos não revelaria nada além de vaidade. Mas se ele estivesse amarrando Alyra a alguma coisa maior, se houvesse uma teia por trás dos talismãs, da morte de Yvenn, da destruição dos Fendelar e da pressa por Khar-Tondr, então a verdade não estaria nas palavras públicas da irmã.
+Daryon. Se havia uma ligação entre os talismãs, Yvenn, os Fendelar e a pressa por Khar-Tondr, Kaelina precisava procurar nos movimentos privados dele. À noite, deixou o quarto por uma passagem lateral.
 
-Estaria nos movimentos privados dele. À noite, deixou o quarto por uma passagem lateral.
+Foi sem escolta, de manto escuro e capuz sobre a Ramagem. Precisaria dos traços brancos se algum guarda exigisse identificação, mas não queria anunciá-los pelos corredores.
 
-Não usou escolta. Sabia que era imprudente. Sabia também que, naquele momento, cada guarda a seu lado seria menos proteção do que anúncio. Caminhou pelos corredores altos com um manto escuro sobre os ombros, o cabelo preso de modo simples e o capuz pronto para cair sobre a testa. Pensara em lavar a Ramagem. Desistira: sem ela, nenhum guarda de portão abriria trava a uma mulher sozinha no meio da noite. Com ela à mostra, a cidade inteira saberia aonde a soberana tinha ido. O capuz teria de bastar. Os sons do anel alto vinham abafados: água sendo distribuída sob vigilância, passos de guardas, uma discussão distante, uma criança chorando de sono ou sede.
-
-Ela foi até uma galeria de onde podia ver parte do salão do trono através de uma abertura estreita usada por antigos guardas de escuta. Poucos lembravam dela. Orionus lembrava. Cal Edran lembrava. Kaelina lembrava porque, quando criança, havia se escondido ali com Alyra para ouvir uma discussão sobre impostos de sal negro e passagem pelo portão menor. Alyra rira tanto naquela noite que quase denunciara as duas.
+Usou uma antiga galeria de escuta que conhecia desde a infância, quando ela e Alyra se escondiam ali para ouvir reuniões.
 
 Agora Alyra estava no salão. Daryon também.
 
@@ -12,15 +10,7 @@ Não havia Conselho. Apenas os dois e dois guardas à distância, longe o bastan
 
 Depois Daryon curvou-se. Alyra não o chamou de volta. Ele saiu por uma lateral e Kaelina abandonou a galeria, o seguindo.
 
-Nos primeiros corredores, Daryon não fez nada estranho. Caminhou até a ala dos conselheiros, falou com Maelis por tempo breve, recebeu uma tábua dobrada, deixou outra. Depois passou pelas salas de registro, onde dois escribas ainda trabalhavam com olhos vermelhos de cansaço. Seguiu para o pátio interno, parou junto a uma fonte fechada por ordem de distribuição, conversou com um guarda e riu baixo de algo que Kaelina não ouviu.
-
-Por duas vezes, ela achou que ele a percebera.
-
-Na primeira, Daryon parou diante de uma janela estreita e olhou para trás. Kaelina entrou numa sombra, o corpo colado à pedra, o coração batendo alto demais. Mas ele apenas observava uma patrulha atravessar o pátio inferior. Na segunda, ele virou numa escadaria e tocou a parede como se tivesse ouvido algo. Kaelina prendeu a respiração. Daryon ficou imóvel alguns instantes, depois continuou. Talvez tivesse ouvido. Talvez apenas fosse o tipo de homem que desconfiava até do próprio eco.
-
-Ela o seguiu por quase duas horas.
-
-Daryon visitou lugares habituais demais para serem prova: as salas de contagem, a passagem dos mensageiros, o corredor das casas antigas, um depósito de mapas e a pequena sala onde selos quebrados eram guardados até alguém decidir se tinham mentido. Kaelina começou a pensar que talvez estivesse ficando paranóica. A dúvida corroendo a própria decisão. Talvez não fosse encontrar nada, talvez a estivesse cansando sem saber, talvez tudo que ela tivesse naquela noite fosse humilhação e uma suspeita procurando corpo.
+Por quase duas horas, Daryon passou por salas de registro, contagem, mensageiros e depósitos de mapas. Duas vezes pareceu desconfiar de um ruído e olhar para trás, obrigando Kaelina a esconder-se. Nada era prova, e ela começou a temer que estivesse perseguindo apenas a própria suspeita.
 
 Então Daryon mudou de direção. Desceu por uma escadaria usada por mensageiros de muralha e seguiu até os portões secundários do anel alto. Não o portão principal. Não a passagem onde todos perguntavam nome, destino e selo. Um portão menor, antigo, usado para saídas rápidas de patrulha quando a Garganta de Kaendar precisava de olhos antes do amanhecer.
 
@@ -38,7 +28,7 @@ Daryon mostrou algo. Um selo, talvez. Ou uma tábua pequena.
 
 O guarda não respondeu. Chamou outro homem. As travas foram soltas. Madeira gemeu baixo. O portão abriu o suficiente para uma pessoa e um animal passarem. Daryon saiu e Kaelina esperou.
 
-Contou respirações. Primeiro dez. Depois vinte. Depois mais. O impulso era seguir imediatamente, mas impulso fazia barulho. Quando julgou que havia distância suficiente, saiu da sombra e caminhou até o portão como se tivesse todo o direito do mundo de estar ali. Porque tinha. Ainda tinha. O guarda a viu e quase deixou a lança cair.
+Esperou distância suficiente e então foi ao portão. O guarda a viu e quase deixou a lança cair.
 
 — Minha soberana.
 
@@ -58,9 +48,7 @@ O guarda olhou para a porta, depois para ela.
 
 A desconfiança passou pelo rosto dele, mas ordem de soberana ainda era ordem de soberana quando Alyra não estava por perto para disputar o ar.
 
-O portão abriu e Kaelina saiu. Do lado de fora, a noite era maior. A lua maior desaparecia aos poucos atrás das nuvens, e a segunda ainda não nascera, deixando um intervalo de escuridão que patrulhas e contrabandistas conheciam bem.
-
-Kaendar sempre fazia o mundo parecer organizado quando visto de dentro. Muros, anéis, escadas, tochas, portas, turnos. Fora, a terra lembrava que organização era uma teimosia local. O escuro tinha cheiro de pedra úmida, mato pisado e rio doente ao longe. A lua maior estava parcialmente coberta, oferecendo luz suficiente para enganar e pouca para proteger. A menor ainda não surgira acima das colinas.
+O portão abriu e Kaelina saiu. Do lado de fora, a lua maior se escondia atrás das nuvens e a menor ainda não nascera. O escuro tinha cheiro de pedra úmida, mato pisado e rio doente.
 
 Daryon já estava montado. Kaelina o viu a alguma distância, descendo pela rota lateral num tarrak escuro.
 
@@ -74,15 +62,9 @@ Kaelina foi até os pequenos estábulos externos usados por mensageiros. Havia d
 
 Deram-lhe uma fêmea castanha, nervosa, mas obediente. Kaelina montou sem permitir que a ajudassem mais do que o necessário. Fazia tempo que não cavalgava fora dos muros à noite. O corpo lembrou com desconforto. As mãos, porém, encontraram as rédeas. Seguiu, mas não perto.
 
-Daryon não era homem para ser seguido de perto. Kaelina manteve distância, usando as sombras das pedras, as curvas do terreno e a própria arrogância dele como cobertura. Um conselheiro que acreditava ter deixado a cidade sob selo e silêncio talvez olhasse menos para trás do que um ladrão comum. Ainda assim, ela não confiou nisso. Sempre que Daryon reduzia o passo, ela reduzia antes. Quando ele atravessava trechos abertos, esperava que a noite o engolisse do outro lado. Quando o tarrak dele levantava a cabeça, ela puxava o seu para trás de rocha, arbusto ou desnível.
+Kaelina manteve distância, usando curvas, rochas e desníveis sempre que Daryon reduzia o passo ou olhava para trás.
 
-Atravessar a Ponte da Raiz Baixa naquela hora fora a primeira parte da mentira.
-
-Kaelina não usara escolta, nem brasão aberto, nem o caminho alto por onde uma soberana deveria passar. Desceu pelos acessos baixos de Kaendar com o capuz fechado, deixando que a sombra do manto escondesse o rosto e os traços brancos da testa enquanto o Rio Grande crescia à esquerda, escuro sob a noite. A ponte surgiu como uma costela larga sobre a água: madeira grossa, pedra, ferro antigo e dois postos de vigia fingindo sono.
-
-O guarda da primeira corrente reconheceu o selo antes de reconhecer a mulher. Isso salvou os dois do embaraço. Ele baixou os olhos, ergueu a passagem e não perguntou por que uma soberana cruzava para oeste sem comitiva. Kaelina odiou-o um pouco por obedecer tão bem.
-
-Do outro lado do rio, as terras Polar pareceu mudar de peso. As muralhas ainda estavam lá, mas já não pareciam segurar tudo. A estrada seguia para oeste, primeiro entre pedras úmidas e casas baixas ligadas às salinas, depois por terreno mais seco, onde a Raiz nas portas aparecia partida, raspada ou queimada. Ali começava a terra que a Dinastia usava quando precisava e fingia não ver quando convinha.
+Na Ponte da Raiz Baixa, o guarda reconheceu o selo e abriu passagem sem perguntar por que uma soberana cruzava para oeste sem comitiva. Do outro lado, a estrada seguia por casas ligadas às salinas até terrenos mais secos, onde a Raiz aparecia raspada ou queimada nas portas.
 
 Foi seguindo essa rota, mantendo distância suficiente para que o tarrak de Daryon não ouvisse o dela, que Kaelina chegou às pedras secas no fim da vila de Kaeril. Daryon desceu junto a uma depressão entre rochas.
 
@@ -90,9 +72,9 @@ Kaelina deixou o tarrak mais atrás, amarrou-o a uma raiz seca e seguiu a pé. O
 
 Cinco, talvez seis. Não usavam marca Polar, mas isso não significava ausência de origem. Alguns traços não se arrancavam com exílio: o modo de prender faca, o gesto de tocar dois dedos na testa sem completar o peito, a maneira de medir muralha mesmo longe dela. Homens das Areias. Exilados antigos, filhos de exilados, netos de vergonha transformada em ofício. E entre eles estava Sarkan.
 
-Kaelina o reconheceu mesmo sem nunca tê-lo visto de perto. Havia homens que carregavam a própria reputação no corpo. Sarkan tinha ombros largos, barba curta, olhos de quem aprendera a desconfiar antes de aprender a agradecer. Uma cicatriz descia da têmpora até a mandíbula, como se até o rosto dele tivesse sido expulso de alguma forma. Não parecia chefe por ornamento; parecia chefe porque os outros deixavam espaço ao redor dele.
+Kaelina reconheceu Sarkan pela cicatriz e pelo espaço que os outros deixavam ao redor dele.
 
-Os Homens das Areias não tinham permissão para chegar tão perto de Kaendar. Ninguém sem Raiz tinha, não depois do exílio. Mesmo os que negociavam em rotas externas mantinham distância. A muralha podia aceitar mercadoria, recado e rendição. Não aceitava retorno. Daryon parou diante deles. Kaelina não ouvia tudo.
+Homens das Areias não tinham permissão para chegar tão perto de Kaendar. Daryon parou diante deles; Kaelina não ouvia tudo.
 
 A distância, o vento e a posição das rochas roubavam partes da conversa. Vinham palavras soltas, frases quebradas, intenções suficientes para ferir e insuficientes para provar. Sarkan pegou, pesou na mão e cuspiu de lado.
 
@@ -110,7 +92,7 @@ Daryon ficou imóvel.
 
 — Parte dela. Vocês deixaram rumor nascer — respondeu Daryon. — A terceira parte existia para um serviço limpo.
 
-Kaelina apertou os dedos contra a pedra. Serviço limpo? Terceira parte? Daryon estava negociando com os exilados? A respiração dela diminuiu sem que percebesse. Sarkan aproximou-se um passo.
+Kaelina apertou os dedos contra a pedra. Terceira parte. Serviço limpo. Reintegração.
 
 — Mortos não falam. Cinza não aponta dedo. Fizemos o que foi pedido.
 
@@ -130,7 +112,7 @@ Daryon não se abalou.
 
 — Chamo assim quando homens sem Raiz esquecem que ainda respiram porque foram úteis, não porque foram perdoados.
 
-Kaelina sentiu a frase entrar nela sem explicação suficiente. Úteis para quê? Sarkan deu mais um passo.
+Sarkan deu mais um passo.
 
 — Homens das Areias sabem coisas. Coisas que Tondrar pintariam na própria pele para lembrar, que Buldar pesariam contra grão, que fariam tua soberana parecer menor do que já parece.
 
@@ -146,7 +128,7 @@ Daryon não recuou.
 
 — Neste exato momento, homens de Kaendar descem para a Ponte da Raiz Baixa com aviso oficial de invasão de terras Polar por Homens das Areias. Quando atravessarem o Rio Grande, não virão negociar. Se me matarem, confirmam. Se ficarem, serão cercados entre a ponte, as pedras e a rota seca. Se fugirem… acho que ainda têm alguma chance.
 
-Kaelina gelou. Sarkan também entendeu. Virou a cabeça, ouvindo. Ao longe, muito longe, talvez houvesse som de metal. Ou talvez Daryon tivesse inventado com tanta precisão que o mundo decidiu ajudá-lo.
+Sarkan virou a cabeça, ouvindo. Ao longe talvez houvesse metal, ou apenas a ameaça de Daryon.
 
 — Filho de pedra — murmurou Sarkan.
 
@@ -160,16 +142,11 @@ Os exilados começaram a recuar. Não com pânico. Com ódio disciplinado. Sarka
 
 Sarkan desapareceu entre as pedras com os outros. Kaelina ficou imóvel por mais alguns segundos.
 
-Daryon tinha acordo com os Homens das Areias. Devia-lhes pagamento. Falavam em rumores, Tondrar… Falavam em reintegração. A terceira parte fora negada porque a situação ficara perigosa. E, para chegar até eles, ele precisara atravessar a Ponte da Raiz Baixa, passar pelos olhos do Rio Grande, pelos postos que registavam carga, selo e noite. O resto permanecia escondido atrás das palavras que ela não ouvira.
+Daryon tinha um acordo com os Homens das Areias, pagamento dividido em partes, referência ao talismã Tondrar e promessa de reintegração. Era muito, mas ainda não era prova completa. Ela começou a recuar, uma pedra soltou-se sob o pé. Pequena. O som, porém, pareceu atravessar a noite. Daryon virou-se.
 
-Não bastava. Era uma faca sem cabo. Ela começou a recuar, uma pedra soltou-se sob o pé. Pequena. O som, porém, pareceu atravessar a noite. Daryon virou-se.
+Kaelina voltou ao tarrak sem correr de imediato, para não confessar que espionava. Só acelerou quando uma elevação a escondeu. Ao longe, Kaendar surgiu além do Rio Grande.
 
-Kaelina não esperou para ver se ele a vira. Moveu-se abaixada até a raiz onde deixara o tarrak, soltou a rédea com dedos rápidos e montou. Não disparou de imediato. Disparar seria confissão. Levou o animal por uma rota lateral, depois acelerou quando a elevação cobriu sua saída.
-
-O vento frio bateu no rosto dela.
-Kaendar surgiu ao longe como uma massa escura e dentada contra o céu, ainda separada dela pelo Rio Grande. A Ponte da Raiz Baixa desenhava-se ao sul como uma faixa negra sobre a água. Kaelina forçou o tarrak pela descida, prendendo a respiração ao ouvir cascos atrás de si, talvez Daryon, talvez apenas a noite.
-
-Cruzou a ponte sem olhar muito para os guardas. Mostrou o selo, recebeu a passagem e sentiu o som das tábuas mudar sob as patas do animal. Só quando voltou ao lado urbano de Kaendar é que permitiu ao tarrak correr de verdade. Ela chegou perto da muralha antes de Daryon.
+Mostrou o selo na ponte e chegou à muralha antes de Daryon.
 
 Desceu do tarrak a alguma distância do portão, entregou-o a um rapaz assustado dos estábulos externos e caminhou até a lateral como se tivesse estado ali por vontade oficial. O guarda do portão arregalou os olhos ao vê-la retornar sem Daryon.
 
@@ -219,10 +196,10 @@ Kaelina inclinou a cabeça, observando cada detalhe do rosto dele.
 
 O mundo não fez som. A mudança em Daryon foi mínima. Para outro olhar, talvez fosse nada. Um leve atraso na respiração. A cor sumindo sob a pele. Os dedos ficando imóveis demais junto à rédea. Os olhos, por um instante, não calcularam. Apenas receberam.
 
-Ele não estava pálido por achar ser ironia. Ele empalidecera porque não tinha percebido antes e porque agora sabia que podia ser verdade. Kaelina sentiu a confirmação entrar nela com um frio quase perfeito.
+Daryon empalidecera porque não tinha percebido antes. Kaelina recebeu a confirmação.
 
-Daryon abriu a boca, mas nenhuma frase veio pronta. Pela primeira vez desde que ela o conhecia, pareceu homem antes de parecer conselheiro. Kaelina sorriu sem alegria.
+Daryon abriu a boca, mas nenhuma frase veio pronta. Kaelina sorriu sem alegria.
 
 — Decidi falar contigo porque… fiquei ansiosa para saber quem é o pai.
 
-Então passou por ele e caminhou até o portão. Atrás dela, Daryon continuou parado ao lado do tarrak, a mão fechada na rédea, o rosto voltado para a escuridão como se, em algum lugar entre a muralha, a areia e o ventre de Alyra, todas as condições do mundo tivessem acabado de mudar.
+Kaelina passou por ele e entrou pelo portão. Daryon permaneceu junto ao tarrak, imóvel.
