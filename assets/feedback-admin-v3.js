@@ -1780,6 +1780,8 @@
     const analyticsByReader=new Map();analyticsSnap?.forEach(d=>analyticsByReader.set(d.id,{id:d.id,...d.data()}));
     const presenceByReader=new Map();presenceSnap?.forEach(d=>presenceByReader.set(d.id,{id:d.id,...d.data()}));
     const ordered=profiles.slice().sort((a,b)=>{
+      const pendingA=a.approvalStatus==="pending"?1:0,pendingB=b.approvalStatus==="pending"?1:0;
+      if(pendingA!==pendingB)return pendingB-pendingA;
       const ap=presenceByReader.get(a.readerId),bp=presenceByReader.get(b.readerId);
       const alive=p=>p&&Date.now()-(Number(p.heartbeatAt)||0)<=45000&&p.active?1:0;
       if(alive(ap)!==alive(bp))return alive(bp)-alive(ap);
@@ -1789,6 +1791,10 @@
     list.innerHTML=ordered.map(p=>{
       const code=String(p.accessCode||"").trim();
       const label=esc(p.name||"Anônimo");
+      const pending=p.approvalStatus==="pending";
+      const blocked=!pending&&p.accessEnabled===false;
+      const accessKind=pending?"pending":(blocked?"blocked":"active");
+      const accessLabel=pending?"Pendente de aprovação":(blocked?"Acesso bloqueado":"Acesso ativo");
       const a=analyticsByReader.get(p.readerId)||null;
       const live=presenceByReader.get(p.readerId)||null;
       const fresh=!!live&&Date.now()-(Number(live.heartbeatAt)||0)<=45000;
@@ -1809,19 +1815,21 @@
         const checked=allowed.includes(b.id)?"checked":"";
         return '<label class="field-check"><input type="checkbox" data-profile="'+esc(p.id)+'" data-book="'+esc(b.id)+'" '+checked+'><span>'+esc(b.title)+'</span></label>';
       }).join(""):'<p class="admin-empty compact">Nenhum livro cadastrado.</p>';
-      return '<article class="admin-comment-card reader-admin-card">'
+      return '<article class="admin-comment-card reader-admin-card is-'+accessKind+'">'
         +'<div class="reader-admin-overview">'
+          +'<div class="reader-access-state '+accessKind+'">'+esc(accessLabel)+'</div>'
           +'<div class="analytics-reader-top"><div><strong>'+label+'</strong><span>'+location+'</span><em class="presence-status '+esc(status.kind)+'">'+(status.kind==="live"?'<i></i>':"")+esc(status.label)+'</em></div><b>'+(a?shownPct+"%":"—")+'</b></div>'
           +(a?'<div class="analytics-progress"><i style="width:'+shownPct+'%"></i></div>':'')
           +'<div class="analytics-reader-metrics"><span>'+completed+' caps concluídos</span><span>'+fmtDuration(a?.totalActiveSec)+' ativo</span><span>'+fmtDuration(a?.totalNarrationSec)+' narração</span><span>'+fmtDuration(a?.totalMusicSec)+' música</span></div>'
           +'<small>Última leitura: '+esc(when(a?.lastActiveAt)||"nenhuma medida ainda")+'</small>'
         +'</div>'
         +'<div class="admin-card-actions reader-primary-actions">'
+          +(pending?'<button class="reader-approve-btn" type="button" data-approve-reader="'+esc(p.id)+'">Aprovar leitor</button>':'<button class="reader-access-toggle" type="button" data-reader-access="'+esc(p.id)+'" data-enable="'+(blocked?'1':'0')+'">'+(blocked?'Liberar leitor':'Bloquear leitor')+'</button>')
           +(a?'<button type="button" data-reader-reading="'+esc(p.readerId)+'">Ver leitura detalhada</button>':'')
           +'<button type="button" data-popup-profile="'+esc(p.id)+'">Enviar mensagem</button>'
           +(code?'<button type="button" data-copy-code="'+esc(p.id)+'">Copiar código</button>':'')
         +'</div>'
-        +'<details class="reader-access-details"><summary>Acessos e livros <span>'+allowed.length+' liberado(s)</span></summary><div class="reader-access-details-body">'+codeHtml+'<div class="reader-book-access-list">'+checks+'</div><div class="admin-card-actions reader-access-card-actions"><span class="reader-access-card-actions-caution"><button class="btn-caution" type="button" data-rotate-code="'+esc(p.id)+'">'+(code?'Gerar novo código':'Gerar código')+'</button><button class="reader-delete-btn" type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button></span></div></div></details>'
+        +'<details class="reader-access-details"><summary>Acessos e livros <span>'+allowed.length+' liberado(s)</span></summary><div class="reader-access-details-body">'+codeHtml+'<p class="reader-access-note">'+(pending?'O livro escolhido fica preparado, mas só será visível depois da aprovação.':'Desmarcar um livro fecha a leitura desse livro no aparelho do leitor em tempo real.')+'</p><div class="reader-book-access-list">'+checks+'</div><div class="admin-card-actions reader-access-card-actions"><span class="reader-access-card-actions-caution"><button class="btn-caution" type="button" data-rotate-code="'+esc(p.id)+'">'+(code?'Gerar novo código':'Gerar código')+'</button><button class="reader-delete-btn" type="button" data-delete-profile="'+esc(p.id)+'">Apagar leitor</button></span></div></div></details>'
       +'</article>';
     }).join("");
     list.querySelectorAll("input[data-book]").forEach(cb=>{
@@ -1835,6 +1843,19 @@
         finally{cb.disabled=false;}
       });
     });
+    list.querySelectorAll("[data-approve-reader]").forEach(btn=>btn.addEventListener("click",async()=>{
+      btn.disabled=true;
+      try{await Comments.approveReaderProfile(btn.dataset.approveReader);await renderAccess();}
+      catch(e){alert("Não foi possível aprovar: "+(e.message||"tente de novo."));btn.disabled=false;}
+    }));
+    list.querySelectorAll("[data-reader-access]").forEach(btn=>btn.addEventListener("click",async()=>{
+      const enable=btn.dataset.enable==="1";
+      const action=enable?"liberar":"bloquear";
+      if(!confirm((enable?"Liberar":"Bloquear")+" o acesso deste leitor agora?"))return;
+      btn.disabled=true;
+      try{await Comments.setReaderAccess(btn.dataset.readerAccess,enable);await renderAccess();}
+      catch(e){alert("Não foi possível "+action+" o leitor: "+(e.message||"tente de novo."));btn.disabled=false;}
+    }));
     list.querySelectorAll("[data-reader-reading]").forEach(btn=>btn.addEventListener("click",()=>openReaderAnalytics(btn.dataset.readerReading)));
     list.querySelectorAll("[data-copy-code]").forEach(btn=>{
       btn.addEventListener("click",async()=>{
