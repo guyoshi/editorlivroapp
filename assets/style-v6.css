@@ -947,7 +947,19 @@ html,body{ height:100dvh; overflow:hidden; }
 .admin-dashboard-filters select,.admin-dashboard-filters input{
   width:100%; border:1px solid var(--line); background:var(--bg-elev); color:var(--ink); border-radius:9px; padding:8px; font:inherit; font-size:.76rem;
 }
-.admin-dashboard-filters input{ grid-column:1/-1; }
+.admin-dashboard-filters input[type="search"]{ grid-column:1/-1; }
+.admin-filter-toggle{
+  display:flex; align-items:center; gap:8px; min-height:35px;
+  border:1px solid var(--line); background:var(--bg-elev); color:var(--ink);
+  border-radius:9px; padding:7px 9px; font-size:.76rem; cursor:pointer; user-select:none;
+}
+.admin-filter-toggle input{
+  width:15px; height:15px; margin:0; padding:0; flex:0 0 auto; accent-color:var(--accent);
+}
+.admin-filter-toggle:has(input:checked){
+  border-color:color-mix(in srgb,var(--accent) 55%,var(--line));
+  background:color-mix(in srgb,var(--accent) 9%,var(--bg-elev));
+}
 .admin-dashboard-bulk{
   display:flex; flex-wrap:wrap; gap:4px 14px; padding:8px 12px; border-bottom:1px solid var(--line);
 }
