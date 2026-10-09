@@ -176,7 +176,7 @@ Daryon chegou com o ombro enfaixado. Alyra sentou-se com o braço imobilizado e,
 
 Antes que Cal Kadrir fosse chamado ao centro, trouxeram as crianças.
 
-Eram sete. Talvez oito, se contassem o menino que não largava a mão da irmã e parecia pequeno demais até para ter nome inteiro. Vieram limpas apenas onde alguém conseguira passar pano. O resto ainda trazia Alestir: cinza no cabelo, olhos vermelhos de fumaça, roupas grandes demais ou rasgadas demais, silêncio demais para crianças.
+Eram dez, as mesmas que Edran tirara da vila. Vieram limpas apenas onde alguém conseguira passar pano. O resto ainda trazia Alestir: cinza no cabelo, olhos vermelhos de fumaça, roupas grandes demais ou rasgadas demais, silêncio demais para crianças.
 
 Alyra estava sentada no trono com o braço preso e o rosto pálido. Mesmo assim, inclinou-se para frente.
 
@@ -228,7 +228,7 @@ O jovem entrou com a armadura limpa demais para a memória que trazia. Não a me
 
 Kadrir inclinou a cabeça.
 
-— Quando cheguei a Alestir, a vila já ardia em vários pontos. Cal Edran havia enviado crianças para Kaendar com dois homens. Vi corpos nas ruas, casas abertas em chamas e homens procurando sobreviventes. A soberana Alyra estava próxima ao centro da vila quando Cal Edran percebeu algo no galpão. Ele gritou para que recuássemos. Antes que todos conseguissem sair, houve a explosão.
+— Quando cheguei a Alestir, a vila já ardia em vários pontos. Cal Edran havia enviado crianças para Kaendar com seis homens. Vi corpos nas ruas, casas abertas em chamas e homens procurando sobreviventes. A soberana Alyra estava próxima ao centro da vila quando Cal Edran percebeu algo no galpão. Ele gritou para que recuássemos. Antes que todos conseguissem sair, houve a explosão.
 
 A palavra pareceu crescer na sala.
 
@@ -246,7 +246,7 @@ A palavra atravessou a mesa. Iressa olhou para ele.
 
 — O quê?
 
-— Os Vendrar usam em forjas, tubos de chama e ruptura de porta. É coisa cara, instável e perigosa. Mistura de pedra reactiva, óleo e fenda quente. Não se derrama por acidente numa vila Polar.
+— Os Vendrar usam em forjas, tubos de chama e ruptura de porta. É coisa cara, instável e perigosa. Mistura de pedra reativa, óleo e fenda quente. Não se derrama por acidente numa vila Polar.
 
 Varron inclinou-se para frente.
 
@@ -266,7 +266,7 @@ Iressa apoiou os dedos na mesa.
 
 Maelis, com as tábuas diante de si, tentou organizar a fala:
 
-— A Iressa tem razão. Os Tondrar são os que nos atacaram. Talvez os recursos tenham sido comprados por eles. Os Tondrar poderiam ter adquirido Bafo-de-Fenda dos Vendrar por meio de intermediários, e despejado óleo nos rios abaixo da vila dos Glydar.
+— Iressa tem razão. Os Tondrar são os que nos atacaram. Talvez os recursos tenham sido comprados por eles. Os Tondrar poderiam ter adquirido Bafo-de-Fenda dos Vendrar por meio de intermediários e despejado óleo nos rios abaixo da vila dos Glydar.
 
 Varron falou:
 
@@ -470,7 +470,7 @@ Marken finalmente parou a mão, mas não virou o rosto.
 
 Ele olhou para a pintura inacabada.
 
-— Há coisas que precisam acontecer pelo próprio peso.
+— Há coisas que seguem o próprio peso.
 
 Kaelina sentiu os olhos arderem.
 
@@ -502,7 +502,7 @@ Kaelina apertou os dentes.
 
 Marken olhou para os pigmentos, depois para a janela.
 
-— Essa guerra nunca poderia ter sido evitada. Ela encontraria caminho. Talvez outro nome, outro morto, outro fogo. Mas encontraria. Poder é coisa difícil demais para caber em mãos sem deformar os dedos. Poucas mentes vivas conseguem governar sem começar a confundir estabilidade com posse. Sempre que alguém tem o que os outros não têm, alguém h.
+— Essa guerra encontraria caminho. Talvez com outro nome, outro morto, outro fogo. Poder é difícil de segurar sem confundir estabilidade com posse.
 
 Kaelina pensou em Kaendar. Nos anéis. Nos portões. Nos depósitos. No rio sujo. No galpão aberto em fogo.
 
@@ -514,13 +514,13 @@ Ela olhou para ele, irritada.
 
 — Não fale asneiras.
 
-— Orionus apenas apagava os focos antes que a chama ganhasse nome. Fome num anel. Orgulho num clã. Mentira numa rota. Medo numa sala. Ele via a fumaça cedo. Na soberania de vocês, nenhum fogo está sendo apagado. Pelo contrário, estão a acender novos focos.
+— Orionus apagava os focos antes que a chama ganhasse nome. Fome num anel. Orgulho num clã. Mentira numa rota. Medo numa sala. Ele via a fumaça cedo. Sob o governo de vocês, novos focos estão surgindo.
 
 Kaelina pensou em Alyra, na câmara de banho, em Kadrir de joelhos e na frase sobre lealdade inventada por quem ainda não aprendera a mandar.
 
-Se Yvenn morresse sob trégua e a Voz Tondrar morresse junto, nenhuma versão do outro lado chegaria limpa a Kaendar. E talvez o estopim tivesse começado antes de Yvenn. Kaelina saiu; Marken voltou à pintura.
+Se Yvenn morrera sob trégua e a Voz Tondrar morrera junto, nenhuma versão do outro lado chegaria limpa a Kaendar. E talvez o estopim tivesse começado antes de Yvenn.
 
-Ela saiu do quarto, mandou Lorian e Odris retornarem ao posto e seguiu pelos corredores com a cabeça cheia de peças que ainda não aceitavam formar imagem. Não queria acusar Alyra. Não ainda. Não podia. Uma suspeita sobre inimigo era lâmina. Uma suspeita sobre sangue era veneno dentro da própria boca. Mesmo assim, procurou.
+Kaelina saiu do quarto, mandou Lorian e Odris retornarem ao posto e seguiu pelos corredores com a cabeça cheia de peças que ainda não aceitavam formar imagem. Não queria acusar Alyra. Uma suspeita sobre o próprio sangue era veneno dentro da boca. Mesmo assim, procurou.
 
 Desceu aos anéis médios, onde os corredores tinham menos pedra polida e mais madeira marcada por uso. Ali ficavam oficinas administrativas, salas de contagem, depósitos menores, armários de selo, alojamentos de guardas ligados diretamente às soberanas e corredores por onde uma ordem podia viajar sem virar anúncio. Kaelina conhecia alguns rostos. Alyra preferia homens que obedeciam sem perguntar, mas até esses tinham nomes, famílias, hábitos, medos.
 
@@ -532,7 +532,7 @@ Quando viu Kaelina, endireitou-se tão depressa que quase bateu o cotovelo na pa
 
 — Soren. Venha comigo.
 
-Ele obedeceu. Kaelina levou-o a uma pequena sala vazia usada para registar entradas de carga. Havia uma mesa, duas tábuas esquecidas e uma janela estreita aberta para o pátio interno. Fechou a porta. Soren tentou parecer tranquilo. Falhou nos olhos.
+Ele obedeceu. Kaelina levou-o a uma pequena sala vazia usada para registrar entradas de carga. Havia uma mesa, duas tábuas esquecidas e uma janela estreita aberta para o pátio interno. Fechou a porta. Soren tentou parecer tranquilo. Falhou nos olhos.
 
 — Precisa de algo, minha soberana?
 
@@ -608,7 +608,7 @@ Kaelina ficou quieta. Quieta demais.
 
 Soren não respondeu. Não precisava.
 
-— Se Veyr desapareceu, quem trouxe a informação de a Aldeia Oculta tinha sido apagada?
+— Se Veyr desapareceu, quem trouxe a informação de que a Aldeia Oculta tinha sido apagada?
 
 — Não sei, minha soberana. Soube isso pelos homens que ouvem as vozes dos anéis mais altos.
 

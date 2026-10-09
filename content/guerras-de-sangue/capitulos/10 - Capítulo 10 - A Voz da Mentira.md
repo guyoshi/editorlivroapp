@@ -50,7 +50,7 @@ Alyra riu pelo nariz.
 
 Daryon ergueu os olhos.
 
-— Porque não havia testemunhas.
+— Porque não havia testemunhas de fora.
 
 Alyra estreitou o olhar.
 
@@ -80,7 +80,7 @@ Ela voltou-se para os mapas.
 
 — Eu não me importo com o que os Tondrar têm a dizer.
 
-— Mas os outros se importam. Aquele rapaz deveria ter sobrevivido. Mas como não sobreviveu… temos de pensar em como lidar com essa acusação.
+— Mas os outros se importam. O jovem Tondrar que tentou fugir poderia ter levado a versão deles. Agora temos de pensar em como lidar com essa acusação.
 
 — Então estão esquecendo quem somos.
 
@@ -290,7 +290,7 @@ Alyra ajeitou a toalha no corpo, caminhou até a porta e abriu. Kaelina estava d
 
 Não usava manto de cerimônia. Vestia roupa escura, simples, o cabelo preso às pressas. O rosto trazia cansaço e uma raiva mal contida. Atrás dela, o corredor parecia pequeno demais para a tensão que a acompanhava.
 
-— Preciso falar contigo — disse Kaelina. Ela não parecia nem um pouco amigável.
+— Preciso falar com você — disse Kaelina.
 
 Alyra abriu mais a porta.
 
@@ -340,7 +340,7 @@ Alyra virou-se.
 
 — Yvenn morreu porque foi envenenado.
 
-— Como Cal, não deveria ser ele a provar os pães antes de qualquer outro? Não deveria ele, proteger as pessoas de nossa dinastia?
+— Como Cal, não deveria ter provado os pães antes de qualquer outro? Não deveria proteger as pessoas da nossa dinastia?
 
 — Não é isso que sustenta a Lei do Portão, Alyra. Quem come diante da trégua aceita o risco partilhado. Se um lado manda provar tudo antes, já não há lei. Há armadilha.
 
@@ -380,7 +380,7 @@ Alyra não tirou os olhos da irmã.
 
 Kadrir abaixou a cabeça e beijou a sola do pé de Alyra. Kaelina virou o rosto, tomada de nojo e raiva. Alyra sorriu e abaixou o pé.
 
-— Levante-se Cal.
+— Levante-se, Cal.
 
 Ele não se moveu. Alyra sorriu.
 
@@ -390,7 +390,7 @@ Kaelina voltou os olhos para a irmã.
 
 — Você está abusando do poder.
 
-— Estou usando o poder. Você é que se acostumou a pedir desculpas por tê-lo. — então se virou para o Cal — Agora saia.
+— Estou usando o poder. Você é que se acostumou a pedir desculpas por tê-lo. — Virou-se para o Cal. — Agora saia.
 
 Kadrir levantou-se, recolheu a espada e parte da armadura sem erguer o rosto. Alyra abriu a porta.
 
@@ -472,7 +472,7 @@ Kaelina tentou recuperar a postura.
 
 — Maelis.
 
-— Eu estava procurando por vós.
+— Eu estava procurando pela senhora.
 
 — O que houve?
 
@@ -520,7 +520,7 @@ Kaelina olhou para ele e lembrou de Kadrir ajoelhado.
 
 Maelis entrou logo atrás.
 
-— Ele pediu para falar apenas com vós, minha soberana. Embora “pediu” talvez seja uma palavra generosa. Ele disse que os outros faziam perguntas que sujavam a resposta.
+— Ele pediu para falar apenas com a senhora, minha soberana. Embora “pediu” talvez seja uma palavra generosa. Ele disse que os outros faziam perguntas que sujavam a resposta.
 
 Marken ergueu os olhos.
 
@@ -606,7 +606,7 @@ Kaelina estudou o rosto dele.
 
 — Ainda bem.
 
-— Mas de quem você me salvou? Aquele homem… nunca o tinha visto em lugar algum. E como sabia que eu estaria ali? Quem é você afinal?
+— Mas de quem você me salvou? Eu nunca tinha visto aquele homem. Como ele sabia que eu estaria ali? Quem é você, afinal?
 
 — São muitas perguntas. Mas te garanto que terá a resposta de todas elas na hora certa.
 
@@ -614,7 +614,7 @@ Kaelina estudou o rosto dele.
 
 — Um homem qualquer. De uma família qualquer. Que talvez tivesse uma das soberanas como favorita.
 
-— Não me pareceu um homem qualquer. Já tentaram matar meu pai no passado… mas nenhum dos atacantes eram Polar. Aquele homem não era Polar.
+— Não me pareceu um homem qualquer. Já tentaram matar meu pai, mas nenhum dos atacantes era Polar. Aquele homem também não era.
 
 — Talvez não.
 
@@ -630,7 +630,7 @@ Kaelina o fitou por um instante.
 
 Kaelina conteve a irritação.
 
-— Kaendar não é receptiva com estrangeiros — disse ela. — Principalmente estrangeiros que aparecem após dois de nós ser assassinados, e alguém tentar assassinar a soberana.
+— Kaendar não é receptiva com estrangeiros — disse ela. — Principalmente os que aparecem depois da morte dos dois rapazes, de Yvenn e de uma tentativa contra minha vida.
 
 — Kaendar não é receptiva nem com os próprios filhos quando eles nascem no anel errado.
 
@@ -645,8 +645,6 @@ Marken olhou para a Raiz entalhada na parede.
 — Eu perguntei sua ferida aos curandeiros.
 
 — Perguntou se sangrava. Não é a mesma coisa.
-
-Kaelina conteve a irritação.
 
 — Marken.
 
@@ -684,7 +682,7 @@ Marken sorriu sem alegria.
 
 — Acredita mesmo que uma pessoa escolhe o próprio caminho, soberana?
 
-— Acho que sim. Acredito que somos nós quem fazemos o nosso destino.
+— Acho que sim. Acredito que nós fazemos nosso destino.
 
 Marken riu baixo. Não havia alegria no som.
 
@@ -706,19 +704,19 @@ Kaelina inclinou-se um pouco.
 
 — O que quis dizer quando disse… “o molhado”? A quem se referia?
 
-— Não é óbvio?
+— Para mim, é.
 
 Kaelina se irritou, só um pouco.
 
 — Não, não é. Eu quero ouvir de sua boca.
 
-— Se precisa ouvir para ter certeza de algo, então sua capacidade de governar é questionável. Há muitas formas de se ter certeza de algo, sem com que a informação seja exposta. Veja os Tondrar por exemplo, acreditam mesmo que foram eles que envenenaram Yvenn. Porque foi o que vocês viram. Mas há páginas faltando aí no meio.
+— Nem toda certeza vem de uma confissão. Veja os Tondrar. Vocês acreditam que envenenaram Yvenn porque foi o que pareceu acontecer. Mas há partes dessa história que não viram.
 
 Kaelina percebeu que Marken sabia do envenenamento de Yvenn e questionava a versão aceita em Kaendar.
 
 — Está dizendo que Yvenn foi envenenado por um dos nossos? — Kaelina baixou a voz.
 
-— Eu não sei. Mas talvez a soberana possa fechar os seus olhos, e olhar pelos olhos do povo ou dos outros clãs.
+— Não sei. Talvez devesse olhar pelos olhos do povo e dos outros clãs.
 
 Marken se levantou devagar. Kaelina não recuou. Ele caminhou até a janela, mas não tocou nela. Ficou observando Kaendar por uma fresta estreita.
 
@@ -752,9 +750,9 @@ E então vieram os rostos pintados, os olhos arregalados, gritos, mãos indo às
 
 Kaelina apertou os dedos contra a própria perna.
 
-— Se os tondrar não o envenenaram… então só pode ter sido um dos nossos.
+— Se os Tondrar não o envenenaram… então pode ter sido um dos nossos.
 
-Marken não a respondeu. Continuou a olhá-la enquanto Kaelina olhava pro chão, pensando. Alyra havia o envenenado? Daryon? Alguém do conselho? Ela odiou a pergunta antes mesmo de terminá-la dentro de si.
+Marken não respondeu. Kaelina olhou para o chão. Alyra o havia envenenado? Daryon? Alguém do Conselho? Ela odiou a pergunta antes mesmo de terminá-la dentro de si.
 
 — Está tentando colocar-me contra meu povo? Contra minha própria irmã?
 
@@ -841,5 +839,3 @@ Kaelina tentou entender se aquilo era loucura, ameaça ou aviso.
 Marken desviou o olhar para a porta.
 
 — Porque o fogo sabe fazer uma mentira viajar. O vento só chega depois, para espalhar as cinzas.
-
-Kaelina ficou com o fragmento na mão e uma pergunta nova: se os Tondrar realmente haviam envenenado Yvenn.

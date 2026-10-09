@@ -1,5 +1,3 @@
-Alyra espalhou a mentira na primeira reunião em que teve oportunidade.
-
 Alyra permaneceu de pé. Kaelina estava sentada, mas não parecia repousar. Daryon ficou um passo atrás, quieto demais para quem normalmente gostava de ocupar as bordas das frases.
 
 — Sobre os homens que enviei às rotas externas — disse Alyra —, nem todos trouxeram respostas úteis. Os postos da Estrada dos Grãos dizem pouco. As margens Glydar respondem curto. Os vendedores de metal fingem atraso. Alguns clãs fingem não ouvir quando convém. Outros ouvem demais e falam de menos.
@@ -18,7 +16,7 @@ O salão ficou mais quieto. Kaelina endireitou-se.
 
 — Quero dizer que, quando nossas mensagens chegaram às beiras de Mirval, já não havia clã a quem entregar palavra.
 
-Iressa apertou os lábios
+Iressa apertou os lábios.
 
 — O quê?
 
@@ -158,7 +156,7 @@ Alyra virou-se de vez.
 
 Kaelina sustentou o olhar. Antes que pudesse responder, um soldado chegou correndo pelas pedras da margem, quase escorregando no lodo escuro. Vinha sem fôlego.
 
-— Minha soberanas!
+— Minhas soberanas!
 
 — Fale.
 
@@ -296,19 +294,17 @@ Kaelina apertou o maxilar.
 
 — Pode haver sobreviventes.
 
-— E pode haver muito mais mortos se algo acontecer consigo.
+— E pode haver muito mais mortos se algo acontecer com a senhora.
 
 — Meu pai teria ido — disse Kaelina.
 
 Edran não piscou.
 
-— Vosso pai teria feito o que precisava ser feito. Não o que parecia bonito depois.
-
-Kaelina parou.
+— Seu pai teria feito o que precisava ser feito. Não o que parecia bonito depois.
 
 Kaelina lembrou do rio, dos rumores, de Yvenn e das perguntas de Marken. Edran falou mais baixo:
 
-— Permita-me ir primeiro. Levarei homens suficientes para procurar sobreviventes e avaliar ameaça. Se for seguro, mando aviso. Se for seguro, mando aviso. Se for isca, serei eu a pisar nela.
+— Permita-me ir primeiro. Levarei homens suficientes para procurar sobreviventes e avaliar a ameaça. Se for seguro, mando aviso. Se for isca, serei eu a pisar nela.
 
 Kaelina olhou para ele.
 
@@ -366,9 +362,9 @@ Correram na direção dos homens como se corressem para uma muralha.
 
 — Comigo! — gritou Sener, um soldado do Anel Médio que ainda tinha fuligem de forja presa nas unhas.
 
-Edran apontou para dois homens.
+Edran apontou para seis homens.
 
-— Levem-nas para Kaendar. Agora. Não esperem. Não contem. Não parem.
+— Levem-nas para Kaendar. Agora. Não esperem. Não parem.
 
 Eles obedeceram. Recolheram as crianças, montaram como puderam, puseram duas sobre um mesmo tarrak, outra agarrada à cintura de um soldado. A menina que carregava o irmão não soltava o menino. Edran aproximou-se dela.
 
@@ -514,7 +510,7 @@ A explosão tomou o ar. Porta, telhado, pedra, viga, grão, metal e chama vieram
 
 Edran sentiu o impacto antes do som. Bravro empinou; o chão desapareceu; algo cortou seu rosto. Quando caiu, tudo parecia mudo.
 
-Viu bocas abertas sem som. Homens correndo devagar demais. Fumaça dobrando-se sobre a rua. Um tarraks caído, as patas batendo no chão. Fogo preso numa poça de óleo. Uma mão sem corpo perto de uma roda partida. Grãos queimados espalhados como dentes no barro. o Tentou levantar. O corpo demorou a aceitar a ideia. Então viu Alyra.
+Viu bocas abertas sem som. Homens correndo devagar demais. Fumaça dobrando-se sobre a rua. Um tarrak caído, as patas batendo no chão. Fogo preso numa poça de óleo. Uma mão sem corpo perto de uma roda partida. Grãos queimados espalhados no barro. Tentou levantar. O corpo demorou a aceitar a ideia. Então viu Alyra.
 
 Ela estava no chão, a poucos passos, sem arma, o rosto marcado por sangue. O braço esquerdo pendia de forma errada. O tarrak dela jazia perto, morto, atravessado por um estilhaço de madeira e metal que entrara pelo pescoço e saíra junto à sela. Se o animal não tivesse recebido aquilo, teria sido ela.
 
@@ -544,7 +540,7 @@ O homem avançou. Edran aparou, girou o corpo e golpeou a lateral dele. A lâmin
 
 O homem na fumaça ouviu. Seus olhos saltaram para Alyra. Tentou contornar Edran pela direita. Edran bloqueou. Tentou pela esquerda. Edran bloqueou. Cada vez que o homem via Alyra mais perto de escapar, o rosto dele piorava. O ódio deixava de ser expressão e virava fome. Cascos bateram próximo.
 
-Kadrir surgiu entre a fumaça montado num tarraks castanho, o rosto cortado acima da sobrancelha, sangue escorrendo até o queixo. A armadura estava amassada no peito. Os olhos denunciavam pânico, mas as mãos seguravam as rédeas com força suficiente para não tremerem demais.
+Kadrir surgiu entre a fumaça montado num tarrak castanho, o rosto cortado acima da sobrancelha, sangue escorrendo até o queixo. A armadura estava amassada no peito. Os olhos denunciavam pânico, mas as mãos seguravam as rédeas com força suficiente para não tremerem demais.
 
 — Minha soberana!
 
@@ -552,7 +548,7 @@ Alyra virou-se. Edran não tirou os olhos do atacante.
 
 — Cal Kadrir.
 
-O rapaz endureceu ao ouvir o título. Não havia deboche na voz de Edran. Não havia correção. Pela primeira vez entre os dois, Edran falou sem disputa, apenas com humildade.
+O rapaz endureceu ao ouvir o título. Não havia deboche na voz de Edran. Não havia correção. Pela primeira vez entre os dois, Edran falou sem disputa.
 
 — Leve a soberana.
 

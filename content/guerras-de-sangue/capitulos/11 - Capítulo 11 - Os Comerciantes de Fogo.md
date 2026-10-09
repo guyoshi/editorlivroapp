@@ -250,7 +250,7 @@ Seyra Vendrar, descalça sobre a pedra quente, girava duas lâminas curvas. Pequ
 
 Tavra Vendrar ria com uma faca na boca e outra na mão. No lugar do antebraço esquerdo, um tubo de fogo estava preso ao coto por couro e metal. Tinha a lateral do cabelo raspada, tranças queimadas nas pontas e pequenas peças metálicas no pescoço.
 
-Vorlan lançou a lança ponta atravessou o boneco. Tavra ergueu o tubo e disparou uma chama curta. O boneco pegou fogo.
+Vorlan lançou a lança; a ponta atravessou o boneco. Tavra ergueu o tubo e disparou uma chama curta. O boneco pegou fogo.
 
 Seyra passou por ele sem olhar, cortou a base com um golpe e deixou a estrutura cair em chamas.
 
@@ -362,7 +362,7 @@ Tavra girou a faca entre os dedos.
 
 — Estou aqui diante de vocês para propor uma trégua — disse Rendar. — Não paz. Trégua.
 
-— Precisamos? — riu Vorlan — quem mais precisa? Um único Fendelar?
+— Precisamos? — Vorlan riu. — Quem mais precisa? Um único Fendelar?
 
 Os Vendrar riram.
 
@@ -376,7 +376,7 @@ Os risos foram ainda maiores. Vorlan ergueu a mão.
 
 Houve um breve silêncio, onde alguns ainda continuaram rindo. Então Vorlan ergueu a mão.
 
-— Deixe-me ver se entendi. Diz-me que está com os Buldar, mas que não é um deles. Vem cá nos propor que nos aliemos a vocês para derrotar os Polar? — ele deu uma pausa para que Rendar apenas concordasse com a cabeça, então continuou — Antes de transformar tragédia em contrato, deixa-me poupar tempo. Os Polar compram. Bastante. Metal, ferramentas, óleo, mecanismos, fogo quando têm coragem de admitir que precisam dele. Kaendar paga melhor que qualquer outro clã. Por que eu deveria querer derrubar um comprador?
+— Deixe-me ver se entendi. Diz que está com os Buldar, mas não é um deles. Veio propor que nos aliemos a vocês para derrotar os Polar? — Esperou que Rendar concordasse com a cabeça. — Antes de transformar tragédia em contrato, deixe-me poupar tempo. Os Polar compram. Bastante. Metal, ferramentas, óleo, mecanismos, fogo quando têm coragem de admitir que precisam dele. Kaendar paga melhor que qualquer outro clã. Por que eu deveria querer derrubar um comprador?
 
 — Porque comprador que cresce demais deixa de comprar.
 
@@ -384,7 +384,7 @@ Vorlan sorriu mais.
 
 — Deixa de comprar? Acha que os Polar são capazes de fazer o que fazemos?
 
-— Não, disso eles não são capazes. Eles vão agir diferente. Primeiro eles vão exigir preço menor. Depois exigir exclusividade, mandar guardas protegerem vossas rotas, dizer que a proteção custa lealdade. Depois uma soberana decide que fogo nas mãos erradas é risco para Kaendar.
+— Não, disso eles não são capazes. Vão agir de outro jeito. Primeiro exigem preço menor. Depois, exclusividade. Mandam guardas proteger as rotas de vocês e dizem que a proteção custa lealdade. Então uma soberana decide que fogo nas mãos erradas é risco para Kaendar.
 
 Seyra ficou imóvel. Tavra parou de girar a faca. Vorlan já ia rir, mas o riso demorou meio sopro a mais para sair. Porque os Vendrar lembravam.
 
@@ -400,7 +400,7 @@ Vorlan deu uma gargalhada. Alguns Vendrar próximos riram com ele, mais por refl
 
 Rendar caminhou até ele. Os guardas Vendrar se moveram. Seyra ergueu um dedo, mandando esperar. Tavra sorriu como se desejasse que a ordem fosse ignorada. Rendar parou perto de Vorlan. Perto demais para um estrangeiro. Então baixou a voz.
 
-— Posso ser o último dos meus. Mas te garanto… que não sou tão ingênuo quanto pensa para vir até aqui sozinho.
+— Posso ser o último dos meus. Mas não sou ingênuo a ponto de vir até aqui sozinho.
 
 Vorlan franziu o cenho. Rendar inclinou levemente a cabeça para o campo aberto atrás das oficinas.
 
@@ -486,7 +486,7 @@ Rendar respondeu antes dos outros.
 
 — Não vamos. Mas se não aceitarem, o comércio com todos eles acaba. Os Polar podem pagar bem, mas não têm o que cada um de nós tem. Se espera fazer negócios com mais clãs ao norte… sinto dizer, mas já temos uma boa parte do caminho fechada.
 
-— Metal não se mastiga, Vorlan.
+— Metal não se mastiga, Vorlan — disse Nynestra.
 
 Vorlan ficou sério.
 
@@ -570,7 +570,7 @@ Ela puxou as rédeas do bravão, e o animal soltou um som grave.
 
 Rendar continuou:
 
-— Vamos cercá-los, e esperar eles sufocarem. E quando a fome, o medo, e a desesperança chegarem… eles sairão.
+— Vamos cercá-los e esperar que sufoquem. Quando a fome, o medo e o desespero chegarem, eles sairão.
 
 Vorlan olhou ao redor. Tondrar. Buldar. Glydar. Rendar. Cinza. Fogo. Tavra foi a primeira dos três a baixar a arma.
 

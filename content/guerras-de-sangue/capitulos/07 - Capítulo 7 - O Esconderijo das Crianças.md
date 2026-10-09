@@ -32,8 +32,6 @@ A lembrança de Nara o fez sorrir por um instante antes de voltar ao rastro.
 
 O dorvek tentou apagar o rastro entre folhas molhadas, mas Rendar percebeu o fungo esmagado e duas folhas viradas. O vento vinha do sul; em vez de seguir por baixo, subiu por uma raiz e avançou pelos galhos.
 
-O dorvek surgiu alguns instantes depois, exatamente onde deveria.
-
 O dorvek surgiu pouco depois. Rendar esperou que abaixasse a cabeça e lançou entre a placa do ombro e a base do crânio. Terminou o animal com a faca, limpou o que apodreceria depressa e amarrou as patas para o arrasto. Não alimentaria Velarim inteira, mas ajudaria.
 
 Rendar passou a correia sobre o ombro e começou a arrastar a caça pela rota mais limpa, cuidando para não deixar sangue demais na trilha principal. Predador seguia sangue. Homem também. E, naquele mundo, nem sempre havia diferença útil entre os dois.
@@ -144,9 +142,7 @@ Pegou Ilo no colo. Era leve demais. Rendar o embalou uma vez, duas, como fazia q
 
 Mas voltar não era o mesmo que chegar a tempo. Saiu do tronco carregando o filho e o deitou junto de Vita. Ajeitou-lhe os braços. Limpou com o polegar uma mancha de barro do queixo. Depois olhou outra vez para a entrada do esconderijo. Havia mais sangue ali.
 
-Não muito. Só uma linha fina descendo pela raiz, quase seca. E, presa num farpo de madeira, balançando de leve, estava a fitinha do Olho da Fera.
-
-Fibra escura. Olho desenhado em carvão, borrado. Pequena demais para pertencer a qualquer adulto. O corpo dele ficou pesado de uma vez.
+Não muito. Só uma linha fina descendo pela raiz, quase seca. E, preso num farpo de madeira, balançava um fio escuro da fitinha do Olho da Fera. O corpo dele ficou pesado de uma vez.
 
 — Nara?
 
@@ -242,10 +238,6 @@ Quando fechada, parecia apenas um botão escuro, quase morto. Mas, ao abrir, mos
 
 Vita escolhera o nome porque Nara nascera olhando demais. “Ela vê antes de falar”, costumava dizer.
 
-Rendar amarrou a fitinha no próprio pulso, apertada demais para um braço adulto.
-
 Rendar pegou o arco, uma faca de Vita e as provas que recolhera. Antes de partir, olhou uma última vez para Velarim.
 
 Rendar desceu pelo caminho real sem esconder o rastro. Tocou a fitinha no pulso, sentiu a fivela Polar dentro do pano e começou a andar na direção de Kaendar.
-
-Sua família morrera por uma mentira. Ele seguiria o rastro.

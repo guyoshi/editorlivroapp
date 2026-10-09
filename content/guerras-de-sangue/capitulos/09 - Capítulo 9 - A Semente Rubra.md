@@ -70,7 +70,7 @@ Nynestra olhou para o campo onde o jovem recém-iniciado recebia abraços constr
 
 — Quantas famílias dependem desse canal?
 
-— Diretamente? Dezanove.
+— Diretamente? Dezenove.
 
 — Indiretamente?
 
@@ -362,7 +362,7 @@ A voz dele não subiu. Isso a tornou pior. Nynestra estudou-o por alguns instant
 
 — Não.
 
-— Então está a trazer suspeita, não prova.
+— Então está trazendo suspeita, não prova.
 
 Rendar ergueu os olhos para ela.
 
@@ -414,7 +414,7 @@ Alguns Buldar trocaram olhares. Nynestra não.
 
 Ninguém falou.
 
-— Talvez não com exército primeiro — continuou Rendar. — Talvez com taxa. Proteção. Controle de rota. Pão oferecido como corda. Enviem homens educados, esperem a seca apertar, comprem um canal, um celeiro, uma família cansada. Ofereçam segurança contra a crise que eles mesmos aumentam. Mas virão.
+— Talvez não com exército primeiro — continuou Rendar. — Talvez com taxa. Proteção. Controle de rota. Pão oferecido como corda. Enviam homens educados, esperam a seca apertar, compram um canal, um celeiro, uma família cansada. Oferecem segurança contra a crise que eles mesmos aumentam. Mas virão.
 
 Nynestra sentiu Orven olhar de lado para ela. Os olhos de Rendar acompanharam o movimento por um instante.
 
@@ -576,7 +576,7 @@ Nynestra encarou o desenho por algum tempo.
 
 — Desenhei uma chance de deixarmos de crescer sob a sombra Polar.
 
-— Dêem água a ele — disse ela. — E comida. Pouca.
+— Deem água a ele — disse ela. — E comida. Pouca.
 
 Um dos guardas hesitou.
 

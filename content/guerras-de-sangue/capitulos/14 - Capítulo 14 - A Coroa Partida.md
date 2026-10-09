@@ -1,6 +1,4 @@
-A água do Rio Grande continuou oleosa nos dias seguintes.
-
-A película estava menos densa e escura do que antes, mas ainda se partia com o vento e voltava a se unir sobre o Rio Grande.
+A película de óleo no Rio Grande estava menos densa nos dias seguintes, mas ainda se partia com o vento e voltava a se unir.
 
 Nos anéis baixos, famílias filtravam água com carvão, pano e folhas de vedação, escondiam jarros e vigiavam baldes. O anel médio acusava o baixo de desperdiçar; o baixo acusava o médio de esconder. O anel alto ainda tinha cisternas internas.
 
@@ -11,8 +9,6 @@ Kaendar começava a brigar consigo mesma pela água.
 Alestir também levara reservas de grão-de-caule, raiz amarela, sarnak salgado, farinha, conservas e sal. Kaendar agora contava água e comida ao mesmo tempo.
 
 Kaelina estava no salão antes do amanhecer, Ramagem refeita e olhos cansados.
-
-Alyra estava no outro trono.
 
 Alyra permanecia rígida no outro trono, pálida e ainda marcada pelo ferimento de Alestir.
 
@@ -48,7 +44,7 @@ A mulher recuou meio passo. Kaelina olhou para a irmã.
 
 A velha baixou o rosto, mas Kaelina viu o maxilar dela tremer. Kaelina respirou devagar.
 
-— O teu neto será visto pelos curadores do anel médio. Diga o meu nome à porta. Se recusarem, diga ao guarda que a soberana irá descer para ouvir a recusa.
+— Seu neto será visto pelos curadores do anel médio. Diga o meu nome à porta. Se recusarem, diga ao guarda que a soberana irá descer para ouvir a recusa.
 
 A mulher ergueu os olhos, surpresa.
 
@@ -118,13 +114,13 @@ Kaelina guardou o nome: Dovren da Canga, carregador do anel baixo e testemunha d
 
 — Maelis — disse Kaelina.
 
-O escriba ergueu-se junto à lateral do salão, tábuas já nas mãos.
+A escriba ergueu-se junto à lateral do salão, tábuas já nas mãos.
 
 — Minha soberana.
 
 — Escreva para Nynestra Buldar. Para a Mão da Colheita, não para uma de suas casas menores. Sem acusação. Palavra clara.
 
-Maelis preparou a ponta de gravação. Kaelina falou devagar, para que cada frase fosse registada sem ornamento.
+Maelis preparou a ponta de gravação. Kaelina falou devagar, para que cada frase fosse registrada sem ornamento.
 
 — Diga que a carga foi atacada antes de chegar a Kaendar. Se a Mão da Colheita não ordenou isto, então alguém deseja que Buldar e Polar se acusem antes de saber a verdade. Peça que enviem uma testemunha de confiança. E que enviarei a minha. Se houver mentira entre nós, que ela morra diante de ambas.
 
@@ -172,7 +168,7 @@ O chefe parou. Kaelina desceu os degraus do trono. À medida que caminhava, os m
 
 Os guardas soltaram o homem. Ele quase caiu, mas permaneceu de pé. Tinha olhos fundos, barba mal aparada e mãos tremendo. Kaelina não sabia se de medo, sede ou raiva. Talvez não houvesse diferença.
 
-— Qual é o teu nome?
+— Qual é o seu nome?
 
 — Harlon, minha soberana.
 
@@ -404,7 +400,7 @@ Kaelina fechou a porta.
 
 Alyra olhou por cima do ombro.
 
-— Achei que viesses perguntar sobre Daryon.
+— Achei que você viria perguntar sobre Daryon.
 
 — Não quero saber o que você e seu conselheiro fazem entre quatro paredes.
 
@@ -464,7 +460,7 @@ Alyra inclinou a cabeça.
 
 Kaelina não respondeu de imediato. Alyra sorriu com cansaço.
 
-— Estás mais uma vez tentando encontrar razão onde talvez só exista guerra.
+— Você está mais uma vez tentando encontrar razão onde talvez só exista guerra.
 
 — A guerra só existe porque os dois lados acham que tem razão.
 
@@ -478,7 +474,7 @@ Kaelina não respondeu de imediato. Alyra sorriu com cansaço.
 
 Alyra deu um passo na direção dela.
 
-— Cuidado, irmã. Está a alguns dias de transformar todo pensamento que não saiu da tua cabeça em conspiração.
+— Cuidado, irmã. Logo vai transformar todo pensamento que não saiu da sua cabeça em conspiração.
 
 — Yvenn foi envenenado sob nossa proteção.
 
@@ -518,7 +514,7 @@ Alyra endureceu.
 
 — Estou perguntando a você.
 
-— E eu estou dizendo que, se não consegue guardar uma prova no teu próprio quarto, talvez o problema seja teu quarto.
+— E eu estou dizendo que, se não consegue guardar uma prova no seu próprio quarto, talvez o problema seja seu quarto.
 
 Kaelina aproximou-se mais.
 
@@ -528,7 +524,7 @@ Kaelina aproximou-se mais.
 
 — E mesmo assim atacou.
 
-— Porque alguém tinha de fazer alguma coisa enquanto tu não se mexia.
+— Porque alguém tinha de fazer alguma coisa enquanto você não se mexia.
 
 Kaelina sentiu o golpe, mas não recuou.
 
@@ -636,7 +632,7 @@ Alguns homens assentiram. Poucos, primeiro, depois mais. Kaelina ouviu o murmúr
 
 Alyra deu a volta na mesa, aproximando-se.
 
-— Não. É por isso que tivemos um motim hoje à noite. Tu sempre chegas à metade da verdade e faz dela uma virtude, irmã.
+— Não. É por isso que tivemos um motim esta noite. Você sempre chega à metade da verdade e faz dela uma virtude, irmã.
 
 Iressa levantou-se.
 
@@ -668,7 +664,7 @@ Iressa sustentou o olhar.
 
 Alguns homens se remexeram. Daryon observou Iressa com um interesse estreito, como quem marca alguém para depois. Kaelina deu um passo à frente.
 
-— Iressa, por favor. Deixe que resolvo. Esta reunião será suspensa até que as decisões sejam revistas.
+— Iressa, por favor. Deixe que eu resolva. Esta reunião será suspensa até que as decisões sejam revistas.
 
 Alyra virou-se lentamente.
 
@@ -726,7 +722,7 @@ Kaelina virou-se e saiu. Ninguém tentou detê-la. No quarto, fechou a porta e f
 
 Uma parte dela entendia por que a sala ouvira Alyra. Kaendar tinha sede e Edran estava morto; Alyra oferecia nomes, rotas, culpados e movimento. Kaelina oferecia perguntas.
 
-Sentou-se na beira da cama e ficou assim por algum tempo, olhando para nada. Sobre a mesa, a peça antiga de Orionus continuava onde sempre estivera. Aquele objeto de estratégia, madeira marcada por linhas, caminhos, gargantas e posições, parecia ofensivo naquela noite. Um jogo de condições para um mundo que já estava a morder.
+Sentou-se na beira da cama e ficou assim por algum tempo, olhando para nada. Sobre a mesa, a peça antiga de Orionus continuava onde sempre estivera. Aquele objeto de estratégia, madeira marcada por linhas, caminhos, gargantas e posições, parecia ofensivo naquela noite. Um jogo de condições para um mundo que já mordia.
 
 Kaelina levantou-se de súbito e foi até ele. Quase o atirou contra a parede. Não atirou. Segurou a peça com força suficiente para doer. Lembrou-se da voz de Cal Edran, não como estava em Alestir, mas como ficava quando falava de Orionus: cansada, grave, cheia de uma lealdade que não precisava fingir. Ele teria dito para ela respirar. Teria dito para não lutar no campo escolhido por Alyra. Teria dito que humilhação pública não era fim; era informação.
 

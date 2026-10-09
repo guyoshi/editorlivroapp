@@ -1,4 +1,4 @@
-Yvenn foi levado ao rio antes do primeiro calor. Antes de a maca deixar o pátio, três escribas tocaram a testa, o peito e a pedra do chão: lembrança, pertença e testemunha.
+Antes de a maca de Yvenn deixar o pátio, três escribas tocaram a testa, o peito e a pedra do chão: lembrança, pertença e testemunha.
 
 Yvenn seguia sobre uma maca de madeira escura, coberto por tecido vermelho profundo. Sobre o peito havia uma peça de osso polido, flor-de-sal e uma faixa com a Raiz bordada à maneira antiga. O rosto permanecia descoberto, como exigia a honra aos que morriam sob palavra pública.
 
@@ -36,7 +36,7 @@ Alyra inclinou ligeiramente a cabeça, quase nada. Um gesto pequeno. O suficient
 
 Dois homens empurraram o barco. A corrente o tomou, e a Raiz bordada sobre o peito de Yvenn diminuiu até virar uma mancha escura sobre vermelho.
 
-Quando enfim o rio o tomou, uma mulher no meio da multidão chorou alto. Não era parente dele. Ou talvez fosse. Naquele momento, pouco importava.
+Uma mulher no meio da multidão chorou alto.
 
 O som abriu uma fenda no silêncio, e por ela entraram todos os murmúrios que Kaelina temia.
 
@@ -98,9 +98,9 @@ O novo Cal engoliu, mas não recuou.
 
 Por trás das portas, vozes abafadas. Brokan, grave. Daryon, macio. Alyra, clara o bastante para atravessar madeira quando queria. A cadeira de Kaelina provavelmente ocupada pelo silêncio dela. Edran olhou para os dois guardas. Poderia atravessar. Ambos sabiam.
 
-Atravessar à força transformaria Edran no problema diante do Conselho. Ele recuou um passo.
+Atravessar à força transformaria Edran no problema diante do Conselho.
 
-Ele deu um passo para trás. O novo Cal relaxou quase imperceptivelmente. Um pequeno erro que deu a oportunidade para Edran aproximar-se de repente, não o bastante para atacar, apenas para tomar o espaço. O outro endureceu.
+Edran deu um passo para trás. O novo Cal relaxou quase imperceptivelmente. Edran se aproximou de repente, o bastante para tomar o espaço. O outro endureceu.
 
 — Escute bem — disse Edran. — Um título novo não endurece os ossos. Só pendura peso neles. Não está aqui para defender soberanas. Está apenas como uma peça de um jogo muito maior do que você.
 
@@ -119,8 +119,6 @@ Kaelina estava junto à janela, olhando para o anel inferior. Não se virou de i
 — Eu sei. Por isso trouxe.
 
 Iressa pousou a tigela sobre a mesa, afastando com dois dedos um mapa que Kaelina havia deixado aberto. O gesto seria insolente vindo de quase qualquer pessoa. De Iressa, era apenas higiene prática: não se come em cima de mapa de guerra, porque mapa não alimenta ninguém.
-
-O caldo cheirava a zírrio seco, raiz grossa e flor-de-sal.
 
 — Está muito salgado — disse Kaelina, só para dizer alguma coisa.
 
@@ -308,7 +306,7 @@ Kaelina passou a bola de uma mão para outra.
 
 O pátio inteiro ficou suspenso. Depois, como só crianças conseguem fazer, o absurdo virou possibilidade.
 
-Deram-lhe uma posição simples. “Fica ali, tenta impedir que passe.” Explicaram duas vezes porque ela obviamente estava a fingir que entendia. Um deles, muito sério, disse que não podia usar a autoridade para marcar ponto. Kaelina prometeu solenemente não declarar vitória por decreto. A partida recomeçou.
+Deram-lhe uma posição simples. “Fica ali, tenta impedir que passe.” Explicaram duas vezes porque ela claramente fingia que entendia. Um deles, muito sério, disse que não podia usar a autoridade para marcar ponto. Kaelina prometeu solenemente não declarar vitória por decreto. A partida recomeçou.
 
 Nos primeiros momentos, todos jogaram com cuidado demais. A bola passava devagar. Os empurrões sumiram. Ninguém queria ser lembrado como o garoto que derrubou Kaelina Polar três dias depois da morte de Yvenn. Então o menor deles esqueceu.
 
@@ -324,7 +322,7 @@ Kaelina ficou no chão por um instante, olhando para o céu estreito entre os te
 
 A poeira entrou-lhe no cabelo. O cotovelo doeu. Uma parte da túnica rasgou perto do joelho. E, pela primeira vez em dias, a culpa não conseguiu ocupar todo o espaço dentro dela. Os meninos se aproximaram, aterrados.
 
-— Estou viva rapazes — disse ela.
+— Estou viva, rapazes — disse ela.
 
 — Tem certeza?
 
@@ -526,6 +524,6 @@ Kaelina deu um passo na direção dele. Edran avançou meio passo. Kaelina ergue
 
 — Seu nome — disse ela.
 
-O jovem hesitou. O jovem olhou para Daryon, Edran e os guardas antes de encarar Kaelina.
+O jovem olhou para Daryon, Edran e os guardas antes de encarar Kaelina.
 
 — Sou Marken.
