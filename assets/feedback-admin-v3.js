@@ -307,12 +307,12 @@
   function ensureSheet(){
     if(document.getElementById("commentAdminSheet"))return;
     const el=document.createElement("div");el.id="commentAdminSheet";el.className="admin-dashboard-sheet";el.hidden=true;
-    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Comentários e respostas</h2><p>Leia, responda e acompanhe comentários novos ou editados.</p></div><div class="admin-head-actions"><button id="adminDashBack" class="link-btn admin-back-btn" type="button">← Feedback</button><button id="adminDashClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-dashboard-filters"><select id="afStatus"><option value="all">Todos os estados</option><option value="new">Novos</option><option value="unanswered">Não respondido</option><option value="open">Em aberto</option><option value="resolved">Resolvidos</option></select><select id="afReply"><option value="all">Todas as respostas</option><option value="unread">Não lidos</option><option value="unanswered">Sem resposta do autor</option><option value="answered">Respondidos por mim</option></select><select id="afBook"><option value="">Todos os livros</option></select><select id="afChapter"><option value="">Todos os capítulos</option></select><select id="afAuthor"><option value="">Todos os leitores</option></select><select id="afSort" title="Classificar comentários"><option value="unread">Não lidos primeiro</option><option value="newest">Mais novos primeiro</option><option value="oldest">Mais antigos primeiro</option><option value="book">Ordem do livro</option></select><input id="afSearch" type="search" placeholder="Buscar comentário ou resposta…"></div><div class="admin-dashboard-bulk"><button id="afMarkReadAll" type="button" class="link-btn">Marcar exibidos como lidos</button><button id="afMarkUnreadAll" type="button" class="link-btn">Marcar exibidos como não lidos</button></div><div id="adminDashboardList" class="admin-dashboard-list"></div></section>';
+    el.innerHTML='<section class="admin-dashboard"><header class="admin-dashboard-head"><div><h2>Comentários e respostas</h2><p>Leia, responda e acompanhe comentários novos ou editados.</p></div><div class="admin-head-actions"><button id="adminDashBack" class="link-btn admin-back-btn" type="button">← Feedback</button><button id="adminDashClose" class="icon-btn" type="button">✕</button></div></header><div class="admin-dashboard-filters"><select id="afStatus" title="Filtrar por situação"><option value="all">Situação: todas</option><option value="open">Abertos</option><option value="resolved">Resolvidos</option></select><select id="afReply" title="Filtrar por resposta"><option value="all">Resposta: todas</option><option value="unanswered">Sem minha resposta</option><option value="answered">Respondidos por mim</option></select><label class="admin-filter-toggle" title="Mostrar apenas comentários ainda não lidos"><input id="afUnread" type="checkbox"><span>Só não lidos</span></label><select id="afBook"><option value="">Todos os livros</option></select><select id="afChapter"><option value="">Todos os capítulos</option></select><select id="afAuthor"><option value="">Todos os leitores</option></select><select id="afSort" title="Classificar comentários"><option value="unread">Não lidos primeiro</option><option value="newest">Mais novos primeiro</option><option value="oldest">Mais antigos primeiro</option><option value="book">Ordem do livro</option></select><input id="afSearch" type="search" placeholder="Buscar comentário ou resposta…"></div><div class="admin-dashboard-bulk"><button id="afMarkReadAll" type="button" class="link-btn">Marcar exibidos como lidos</button><button id="afMarkUnreadAll" type="button" class="link-btn">Marcar exibidos como não lidos</button></div><div id="adminDashboardList" class="admin-dashboard-list"></div></section>';
     document.body.appendChild(el);
     el.querySelector("#adminDashBack").onclick=()=>{hide();showFeedbackHub();};
     el.querySelector("#adminDashClose").onclick=hide;
     el.onclick=e=>{if(e.target===el)hide();};
-    ["afStatus","afReply","afBook","afChapter","afAuthor","afSort","afSearch"].forEach(id=>{
+    ["afStatus","afReply","afUnread","afBook","afChapter","afAuthor","afSort","afSearch"].forEach(id=>{
       const x=el.querySelector("#"+id);x.addEventListener(x.tagName==="INPUT"?"input":"change",render);
     });
     el.querySelector("#afMarkReadAll").onclick=()=>bulkMark(true);
@@ -586,7 +586,7 @@
   function render(){
     if(!open)return;
     const sheet=document.getElementById("commentAdminSheet"),list=sheet.querySelector("#adminDashboardList");
-    const st=sheet.querySelector("#afStatus"),rf=sheet.querySelector("#afReply"),bk=sheet.querySelector("#afBook"),ch=sheet.querySelector("#afChapter"),au=sheet.querySelector("#afAuthor"),so=sheet.querySelector("#afSort"),se=sheet.querySelector("#afSearch");
+    const st=sheet.querySelector("#afStatus"),rf=sheet.querySelector("#afReply"),ur=sheet.querySelector("#afUnread"),bk=sheet.querySelector("#afBook"),ch=sheet.querySelector("#afChapter"),au=sheet.querySelector("#afAuthor"),so=sheet.querySelector("#afSort"),se=sheet.querySelector("#afSearch");
     const bv=bk.value,cv=ch.value,av=au.value;
     const rr=roots(),books=[...new Set(rr.map(x=>x.bookId).filter(Boolean))].sort();
     const authorMap=new Map();
@@ -600,13 +600,11 @@
     const q=norm(se.value);
     const items=rr.filter(r=>{
       const reps=replies(r.id),answered=reps.some(x=>x.role==="admin");
-      if(st.value==="new"&&r.adminSeen)return false;
-      if(st.value==="unanswered"&&answered)return false;
       if(st.value==="open"&&r.status==="resolved")return false;
       if(st.value==="resolved"&&r.status!=="resolved")return false;
-      if(rf.value==="unread"&&r.adminSeen)return false;
       if(rf.value==="answered"&&!answered)return false;
       if(rf.value==="unanswered"&&answered)return false;
+      if(ur?.checked&&r.adminSeen)return false;
       if(bk.value&&r.bookId!==bk.value)return false;
       if(ch.value&&String(r.chapter)!==ch.value)return false;
       if(au.value&&readerKey(r)!==au.value)return false;
