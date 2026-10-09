@@ -81,6 +81,53 @@ const $ = (sel, root=document) => root.querySelector(sel);
 const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
 
 const views = { library: $("#view-library"), book: $("#view-book"), reader: $("#view-reader") };
+
+// Leitores podem ler, comentar e reagir, mas não copiar o texto do manuscrito.
+// O ADM fica explicitamente fora desta proteção para continuar revisando/editando.
+function syncManuscriptCopyPolicy(){
+  const admin=!!window.Comments?.isAdmin?.();
+  document.documentElement.dataset.manuscriptCopy=admin?"admin":"reader";
+}
+function targetInsideManuscript(target){
+  return !!(target?.closest?.("#chapterText"));
+}
+function selectionInsideManuscript(){
+  const sel=window.getSelection?.();
+  if(!sel||sel.rangeCount<1)return false;
+  const node=sel.anchorNode?.nodeType===Node.ELEMENT_NODE?sel.anchorNode:sel.anchorNode?.parentElement;
+  return !!node?.closest?.("#chapterText");
+}
+document.addEventListener("copy",e=>{
+  if(window.Comments?.isAdmin?.())return;
+  if(targetInsideManuscript(e.target)||selectionInsideManuscript())e.preventDefault();
+},true);
+document.addEventListener("cut",e=>{
+  if(window.Comments?.isAdmin?.())return;
+  if(targetInsideManuscript(e.target)||selectionInsideManuscript())e.preventDefault();
+},true);
+document.addEventListener("contextmenu",e=>{
+  if(window.Comments?.isAdmin?.())return;
+  if(targetInsideManuscript(e.target))e.preventDefault();
+},true);
+document.addEventListener("dragstart",e=>{
+  if(window.Comments?.isAdmin?.())return;
+  if(targetInsideManuscript(e.target))e.preventDefault();
+},true);
+document.addEventListener("selectstart",e=>{
+  if(window.Comments?.isAdmin?.())return;
+  if(targetInsideManuscript(e.target))e.preventDefault();
+},true);
+document.addEventListener("keydown",e=>{
+  if(window.Comments?.isAdmin?.())return;
+  if(!(e.ctrlKey||e.metaKey))return;
+  const key=String(e.key||"").toLowerCase();
+  if(!["a","c","x"].includes(key))return;
+  const manuscriptOpen=!views.reader.hidden;
+  if(manuscriptOpen&&!["INPUT","TEXTAREA"].includes(document.activeElement?.tagName))e.preventDefault();
+},true);
+document.addEventListener("beta:admin",syncManuscriptCopyPolicy);
+document.addEventListener("DOMContentLoaded",syncManuscriptCopyPolicy);
+
 function showView(name){
   Object.entries(views).forEach(([k,el]) => el.hidden = k!==name);
   window.BetaAnalytics?.setView?.(name);
