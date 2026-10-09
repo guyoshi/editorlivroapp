@@ -108,6 +108,34 @@
     };
   }
 
+  // Histórico de abertura dos capítulos. Diferente do analytics agregado,
+  // cada abertura vira um evento separado para o autor conseguir auditar
+  // quem abriu qual capítulo e em que horário.
+  async function logChapterAccess(ctx,stamp=now()){
+    const id=identity(),store=db();
+    if(!id||!store||!ctx?.bookId||!ctx?.chapter)return false;
+    const payload={
+      readerId:id.readerId,
+      profileHash:id.profileHash,
+      name:id.name,
+      event:"chapter_open",
+      bookId:String(ctx.bookId||""),
+      bookTitle:String(ctx.bookTitle||ctx.bookId||""),
+      chapter:Number(ctx.chapter)||0,
+      chapterTitle:String(ctx.chapterTitle||""),
+      at:stamp
+    };
+    try{
+      await store.collection("readerAccessLog").add(payload);
+      window.BetaDiag?.ok?.("access-log");
+      return true;
+    }catch(e){
+      window.BetaDiag?.error?.("access-log",e);
+      console.warn("Não foi possível registrar o acesso ao capítulo:",e);
+      return false;
+    }
+  }
+
   // Escritas que falharam ficam guardadas (uma por capítulo, sempre com o
   // estado mais recente) e são reenviadas no próximo ciclo, em vez de se
   // perderem — antes, se a abertura do capítulo falhasse uma vez, o painel
@@ -288,6 +316,7 @@
       lastOpenedAt:stamp,
       currentPct:knownPct
     }).catch(e=>console.warn("Não foi possível registrar a abertura do capítulo:",e));
+    logChapterAccess({...context},stamp);
     if(narrationPlaying)narrationStartedAt=stamp;
     if(musicPlaying)musicStartedAt=stamp;
   }
