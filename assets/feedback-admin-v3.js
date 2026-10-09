@@ -8,6 +8,7 @@
   let exiladoReactionCleanupRunning=false,exiladoReactionCleanupDone=false;
   const RUINAS_REORDER_MIGRATION="ruinas-20-22-20261008-v1";
   const RUINAS_REORDER_CUTOFF=1791470872310;
+  const APPROVAL_REQUIRED_AFTER=1791550800000;
   let ruinasReorderMigrationRunning=false,ruinasReorderMigrationDone=false;
   let notifyAudioCtx=null;
 
@@ -1780,7 +1781,8 @@
     const analyticsByReader=new Map();analyticsSnap?.forEach(d=>analyticsByReader.set(d.id,{id:d.id,...d.data()}));
     const presenceByReader=new Map();presenceSnap?.forEach(d=>presenceByReader.set(d.id,{id:d.id,...d.data()}));
     const ordered=profiles.slice().sort((a,b)=>{
-      const pendingA=a.approvalStatus==="pending"?1:0,pendingB=b.approvalStatus==="pending"?1:0;
+      const isPending=p=>p.approvalStatus==="pending"||(!p.approvalStatus&&Number(p.createdAt||0)>=APPROVAL_REQUIRED_AFTER);
+      const pendingA=isPending(a)?1:0,pendingB=isPending(b)?1:0;
       if(pendingA!==pendingB)return pendingB-pendingA;
       const ap=presenceByReader.get(a.readerId),bp=presenceByReader.get(b.readerId);
       const alive=p=>p&&Date.now()-(Number(p.heartbeatAt)||0)<=45000&&p.active?1:0;
@@ -1791,7 +1793,7 @@
     list.innerHTML=ordered.map(p=>{
       const code=String(p.accessCode||"").trim();
       const label=esc(p.name||"Anônimo");
-      const pending=p.approvalStatus==="pending";
+      const pending=p.approvalStatus==="pending"||(!p.approvalStatus&&Number(p.createdAt||0)>=APPROVAL_REQUIRED_AFTER);
       const blocked=!pending&&p.accessEnabled===false;
       const accessKind=pending?"pending":(blocked?"blocked":"active");
       const accessLabel=pending?"Pendente de aprovação":(blocked?"Acesso bloqueado":"Acesso ativo");
