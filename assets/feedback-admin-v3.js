@@ -1142,7 +1142,10 @@
       await Promise.all(analyticsRows.filter(row=>row.analytics?.readerId).map(async row=>{
         try{
           const chapterSnap=await db().collection("readerAnalytics").doc(row.analytics.readerId).collection("chapters").get();
-          chapterSnap.forEach(d=>row.chapters.push({id:d.id,...d.data()}));
+          chapterSnap.forEach(d=>{
+            if(String(d.id||"").startsWith("access__"))return;
+            row.chapters.push({id:d.id,...d.data()});
+          });
         }catch(e){
           console.warn("Não foi possível carregar capítulos de "+row.analytics.readerId,e);
         }
@@ -1537,7 +1540,10 @@
       await Promise.all(analyticsSummaries.map(async summary=>{
         try{
           const snap=await db().collection("readerAnalytics").doc(summary.readerId||summary.id).collection("chapters").get();
-          snap.forEach(d=>betaFeedbackAnalytics.push({readerId:summary.readerId||summary.id,name:summary.name||"",...d.data()}));
+          snap.forEach(d=>{
+            if(String(d.id||"").startsWith("access__"))return;
+            betaFeedbackAnalytics.push({readerId:summary.readerId||summary.id,name:summary.name||"",...d.data()});
+          });
         }catch(e){console.warn("Falha ao cruzar capítulos do leitor:",e);}
       }));
       renderBetaFeedbackAdmin();
