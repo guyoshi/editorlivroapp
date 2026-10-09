@@ -8,7 +8,7 @@ Duas cadeiras permaneciam vazias diante da Mesa da Raiz.
 
 A de Yvenn Raiz-Branca ainda trazia um pequeno entalhe feito por ele junto ao apoio da mão, quatro linhas curvas que ninguém tivera coragem de lixar. A cadeira de Daryon estava limpa demais. Maelis ordenara que retirassem o sangue de seus documentos e objetos, mas não autorizara ninguém a sentar-se ali. Durante anos, Daryon parecera ocupar pouco espaço. Morto, deixava um vazio que fazia todos perceberem quanto da Câmara havia passado por sua voz.
 
-Kaelina sentava-se sozinha na extremidade destinada à soberania. O ombro permanecia enfaixado. Um corte atravessava a testa, desaparecendo sob o cabelo preso; o pintor refizera a Ramagem contornando a ferida, e o tronco agora começava logo abaixo da cicatriz, e a perna ferida obrigava-a a manter o peso distribuído com cuidado. Não vestia armadura nem manto cerimonial. Usava roupa escura, simples, ajustada o suficiente para não tocar as queimaduras menores no pescoço e nos braços.
+Kaelina sentava-se sozinha na extremidade destinada à soberania. O ombro permanecia enfaixado. Um corte atravessava a testa, desaparecendo sob o cabelo preso; o pintor refizera a Ramagem ao redor da ferida, e o tronco agora começava logo abaixo da cicatriz. A perna ferida obrigava-a a distribuir o peso com cuidado. Não vestia armadura nem manto cerimonial. Usava roupa escura, simples, ajustada o suficiente para não tocar as queimaduras menores no pescoço e nos braços.
 
 Cal Kadrir permanecia junto à porta. O Primeiro Kae tinha o rosto marcado pela luta contra Rendar, a raiz de Calandrir refeita por cima de um corte ainda fresco, e um dos joelhos preso por faixas. Atrás dele, do lado de fora da Câmara, guardas ocupavam o corredor. Não eram visíveis da Mesa, mas todos haviam escutado o metal antes que as portas se fechassem.
 
@@ -58,9 +58,9 @@ Iressa virou-se para ele.
 
 — Estava presente.
 
-— Perguntei se é um consenso de que ela participou disso tudo.
+— Perguntei se há consenso sobre a participação dela nisso tudo.
 
-— Sim — respondeu Kaelina — ela enviou os homens das areias para exterminar os Fendelar sem consultar o conselho...
+— Sim — respondeu Kaelina. — Ela enviou os Homens das Areias para exterminar os Fendelar sem consultar o Conselho...
 
 Iressa bateu a palma sobre a mesa.
 
@@ -96,9 +96,9 @@ Kaelina olhou para o centro da Mesa, onde a Raiz entalhada acumulava sombra.
 
 Lurok soltou o ar.
 
-— Mas por que Ylvena matou os garotos então? E porque ajudaria Daryon a matar Yven?
+— Mas por que Ylvena matou os garotos, então? E por que ajudaria Daryon a matar Yvenn?
 
-— Exatamente por isso. Ela amava Daryon. Mesmo sem estar com ele, ela queria estar perto dele. E sabia que se ajudasse Alyra no poder, faria Daryon a estar mais próximo dela.
+— Exatamente por isso. Ela amava Daryon. Mesmo sem estar com ele, queria permanecer perto. E sabia que, ao ajudar Alyra a chegar ao poder, manteria Daryon por perto também.
 
 Thoren deixou a tábua escorregar sobre a mesa.
 
@@ -146,11 +146,11 @@ O silêncio pesou sobre Iressa. Maelis ergueu outra tábua.
 
 Lurok uniu os dedos. Nalia puxou um dos mapas para o centro.
 
-— Antes de decidirmos o que fazer com ela, precisamos registar a situação externa.
+— Antes de decidirmos o que fazer com ela, precisamos registrar a situação externa.
 
 Maelis preparou outra tábua. Nalia apontou para o Rio Grande.
 
-— Muitos Glydar retiraram-se quando os homens das areias chegaram. Interceptamos quatro barcos antes que alcançassem a curva alta, mas nada do Lorde Ossar.
+— Muitos Glydar retiraram-se quando os Homens das Areias chegaram. Interceptamos quatro barcos antes que alcançassem a curva alta, mas nada do Lorde Ossar.
 
 — Deve ter fugido antes da luta ficar cara — disse Varron.
 
@@ -198,7 +198,7 @@ A pergunta entrou na sala e encontrou silêncio. Kaelina observou cada rosto. Va
 
 — Isso não é registro — reclamou Maelis.
 
-— Então registe que a soberana recusou revelar as palavras.
+— Então registre que a soberana recusou revelar as palavras.
 
 Maelis apertou a boca. Depois escreveu exatamente aquilo. Lurok inclinou-se.
 
@@ -240,7 +240,7 @@ Brokan sorriu pela primeira vez.
 
 O sorriso de Brokan desapareceu pela metade. Maelis reuniu as tábuas.
 
-— Situação externa registada. Testemunhos registados. Confissões e provas anexadas. Falta a decisão sobre Alyra Polar.
+— Situação externa registrada. Testemunhos registrados. Confissões e provas anexadas. Falta a decisão sobre Alyra Polar.
 
 O nome da irmã pareceu maior quando escrito como problema. Kaelina não estava nada ansiosa para essa parte. Seron endireitou-se.
 
@@ -476,7 +476,7 @@ Kaelina não procurou uma palavra mais bonita.
 
 O silêncio foi absoluto. Até Lurok deixou de calcular por um instante. Kaelina continuou:
 
-— Maelis, registe exatamente. A soberana Kaelina Polar suspende a autoridade executiva do Conselho da Raiz até que as cadeiras de Daryon e Yvenn sejam revistas, os participantes da conspiração sejam identificados e a segurança da cidade seja restabelecida.
+— Maelis, registre exatamente. A soberana Kaelina Polar suspende a autoridade executiva do Conselho da Raiz até que as cadeiras de Daryon e Yvenn sejam revistas, os participantes da conspiração sejam identificados e a segurança da cidade seja restabelecida.
 
 Maelis não tocou o estilete.
 
@@ -560,7 +560,7 @@ Kaelina sustentou o olhar da conselheira.
 
 Iressa compreendeu o limite da confissão. Não o atravessou. Maelis continuou a escrever.
 
-— Rendar Fendelar será incluído no Registro do Portão — ordenou Kaelina. — A morte dele será reconhecida como quebra de palavra soberana. Os nomes de Vita, Nara e Ilo também serão registados entre as vítimas da decisão de Kaendar, assim como todos os Fendelar que pudermos identificar.
+— Rendar Fendelar será incluído no Registro do Portão — ordenou Kaelina. — A morte dele será reconhecida como quebra de palavra soberana. Os nomes de Vita, Nara e Ilo também serão registrados entre as vítimas da decisão de Kaendar, assim como todos os Fendelar que pudermos identificar.
 
 Varron fez uma careta.
 
@@ -570,7 +570,7 @@ Varron fez uma careta.
 
 — Isso dará aos clãs uma história contra nós.
 
-— Clãs sempre tem histórias uns contra os outros. Isso nunca irá mudar.
+— Clãs sempre têm histórias uns contra os outros. Isso nunca vai mudar.
 
 A resposta encerrou a discussão. Kaelina voltou-se para Odran.
 
@@ -638,7 +638,7 @@ Mesmo deitada, Alyra recusava parecer pequena. Os olhos estavam abertos. O direi
 
 — Saiam — ordenou Kaelina às curandeiras.
 
-Uma delas olhou para Alyra, talvez esperando autorização da antiga soerana. Alyra sorriu com apenas metade da boca.
+Uma delas olhou para Alyra, talvez esperando autorização da antiga soberana. Alyra sorriu com apenas metade da boca.
 
 — Ouviram a soberana.
 
@@ -650,7 +650,7 @@ As mulheres recolheram instrumentos e deixaram o quarto. Kaelina permaneceu pert
 
 — Quanto?
 
-— Sete pela morte. Dois pelo exílio. Mais meus tês votos pelo exílio.
+— Sete pela morte. Dois pelo exílio. Mais meus três votos pelo exílio.
 
 Alyra não demonstrou surpresa. Kaelina aproximou-se da cama.
 
@@ -726,7 +726,7 @@ Kaelina sentiu a acusação encontrar algum lugar verdadeiro. Alyra viu.
 
 — Maelis registrou tudo.
 
-— O povo não lê registros. Escutam histórias.
+— O povo não lê registros. Escuta histórias.
 
 Kaelina pensou no exército diante da muralha. No que dissera a Nynestra. No que omitira depois. Alyra tinha razão e isso não mudava a decisão.
 
@@ -746,7 +746,7 @@ Kaelina virou-se para sair.
 
 Ela parou.
 
-— O filho é de Daryon — dissse e Alyra. — Não teu. Não da Mesa. Não de Kaendar. Meu.
+— O filho é de Daryon — disse Alyra. — Não teu. Não da Mesa. Não de Kaendar. Meu.
 
 — Eu sei.
 
@@ -820,7 +820,7 @@ Nos vinte ciclos do sol que se seguiram, Kaelina governou Kaendar sem dividir a 
 
 As casas queimadas ergueram-se novamente. O Cais dos Zírrios ganhou novas correntes, passagens e guardas. Iressa reorganizou os depósitos para que nenhum anel dependesse de uma única rota de alimento. Nalia refez parte dos acordos do rio, lentamente, sem esperar que os Glydar esquecessem aquilo que os Polar fizeram. Maelis preencheu tábuas suficientes para que ninguém pudesse dizer que a guerra começara por acaso.
 
-Em pouco tempo o Conselho retornou. Mas não com o mesmo poder. A soberania era absoluta de Kaelina.
+Em pouco tempo, o Conselho retornou, mas sem o mesmo poder. Kaelina exercia soberania absoluta.
 
 Sarkan conseguiu o que queria. O julgamento confirmou seu retorno provisório. Seus homens receberam espaço fora dos anéis internos, direito de comércio e obrigação de responder às patrulhas Polar. Sarkan chamou aquilo de perdão. Kaelina chamou de vigilância útil. Ambos sabiam que era vantagem.
 

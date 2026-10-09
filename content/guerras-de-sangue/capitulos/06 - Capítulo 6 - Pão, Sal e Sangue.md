@@ -32,13 +32,13 @@ A irmã olhou para ela, e por um instante a ironia habitual não veio. Em seu lu
 
 — Kaelina, respira.
 
-— Não me mandes respirar como se eu fosse uma criança.
+— Não me mande respirar como se eu fosse uma criança.
 
 — Então não pareça uma criança.
 
 Alyra falou baixo. Aproximou-se da caixa e tocou um dos panos manchados.
 
-— Os tondrar estarão lá. Temos os corpos, os Vigias, a palavra de Kaendar.
+— Os Tondrar estarão lá. Temos os corpos, os Vigias, a palavra de Kaendar.
 
 — A palavra de Kaendar não é prova.
 
@@ -94,7 +94,7 @@ Kaelina franziu o cenho.
 
 Cal Edran apareceu à porta e olhou da caixa fechada para as duas irmãs.
 
-— Bom dia minha soberana. A comitiva está pronta.
+— Bom dia, minha soberana. A comitiva está pronta.
 
 Kaelina segurou a caixa por um instante antes de soltá-la. O talismã continuava desaparecido. A ausência dele parecia maior do que o objeto algum dia fora.
 
@@ -304,9 +304,9 @@ Harvok ergueu dois dedos, e o guerreiro obedeceu, embora o ódio ficasse inteiro
 
 Yvenn tossiu.
 
-Na primeira tosse ninguém reagiu. Na segunda, o som veio fundo e engasgado.
+Na primeira tosse ninguém reagiu. Na segunda, o som veio fundo.
 
-Era uma tosse funda, engasgada, como se a garganta tivesse fechado de dentro para fora. Iressa virou-se primeiro, e o rosto dela perdeu toda a irritação.
+Yvenn engasgou, como se a garganta tivesse fechado de dentro para fora. Iressa virou-se primeiro, e o rosto dela perdeu toda a irritação.
 
 — Yvenn?
 

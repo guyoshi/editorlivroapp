@@ -6,7 +6,7 @@ Rendar não se mexeu de imediato. O homem apertou o cabo.
 
 — Eu disse levante.
 
-Rendar olhou para o pulso dele. Depois para a lâmina. Depois para os olhos.
+Rendar acompanhou o pulso, a lâmina e, por fim, os olhos do homem.
 
 — Se fosse me matar, já teria feito.
 
@@ -22,7 +22,7 @@ Rendar levantou devagar. O Buldar só afastou a faca quando ele ficou de pé.
 
 — Os Glydar partiram — disse ele.
 
-A frase entrou sem fazer barulho. Rendar olhou para fora.
+Rendar olhou para fora.
 
 A névoa agarrava-se aos sulcos da Terra Preta. Restavam no barro marcas Glydar, fibra úmida, uma escama e um pedaço de corda junto a uma carroça.
 
@@ -34,7 +34,7 @@ Rendar não respondeu. Os Glydar tinham voltado para as próprias margens. Um Bu
 
 — Pescador longe do rio vira criança assustada.
 
-Rendar desceu o olhar até a pulseira escura no próprio pulso. Não tocou nela. Apenas a viu, apertada demais, velha demais, pequena demais para o braço que agora a carregava. Depois passou pelo homem da faca e saiu. O acampamento Buldar já estava de pé.
+Rendar desceu o olhar até a pulseira escura, velha e apertada demais para o braço que agora a carregava. Depois passou pelo homem da faca e saiu. O acampamento Buldar já estava de pé.
 
 Carroças formavam um semicírculo, sacos estavam cobertos com couro encerado e bravões de pescoço grosso esperavam em linhas separadas, alguns com placas de madeira protegendo a carga contra pancadas e bragores de mata.
 
@@ -192,7 +192,7 @@ Rendar pousou a tigela ao lado.
 
 — Vai me dar conselho?
 
-Hadrun soltou um riso pequeno, que virou tosse no meio. Virou tosse ruim. Baixa, molhada, presa no peito. Ele curvou o corpo, cobriu a boca com a mão e esperou passar. Quando respirou de novo, estava mais pálido. Rendar observou.
+Hadrun soltou um riso pequeno que se desfez numa tosse baixa, molhada e presa no peito. Curvou o corpo, cobriu a boca e esperou passar. Quando respirou de novo, estava mais pálido.
 
 — Está doente.
 
@@ -270,7 +270,7 @@ Hadrun ficou quieto.
 
 — Essa aliança não vai durar — disse o velho. — Se os Polar caírem, cada clã vai lembrar depressa que odeia o outro por motivos antigos. Buldar e Tondrar não viram irmãos porque partilham inimigo. Vendrar não viram leais porque aceitaram pagamento. Glydar já voltaram para a margem. E você... você não parece homem que planeja viver no depois.
 
-Rendar tocou a pulseira sem perceber. Foi breve. Um deslizar do polegar sobre o nó velho, quase nada. Hadrun viu, mas teve a decência de não olhar diretamente.
+Rendar passou o polegar pelo nó velho da pulseira sem perceber. Hadrun viu e desviou os olhos.
 
 — Eu não me importo com depois — disse Rendar. — Nem com aliança. Nem com mundo novo. E não temo a morte.
 
@@ -348,7 +348,7 @@ Hadrun soltou um riso baixo, seco, que quase virou tosse. A chuva engrossou por 
 
 Hadrun esperou.
 
-— Vira peso… dor… e sofrimento — continuou Rendar. — Uma mãe que perde filho não precisa entender política. Um pai que enterra criança não quer saber quem começou guerra. Ele só precisa de um rosto para odiar. E eu não quero dar aos Polar esse tipo de rosto.
+— Vira uma dor que não precisa entender política — continuou Rendar. — Uma mãe que perde filho não precisa saber quem começou a guerra. Um pai que enterra criança só precisa de um rosto para odiar. E eu não quero dar aos Polar esse rosto.
 
 Hadrun passou os dedos pelo pano escuro que usava para limpar a boca.
 
@@ -360,7 +360,7 @@ Hadrun passou os dedos pelo pano escuro que usava para limpar a boca.
 
 Rendar encarou a mata. Por um momento, parecia que não responderia. Então o polegar tocou a pulseira velha no pulso. Um gesto pequeno. Quase involuntário.
 
-— Haviam crianças em Mirval.
+— Havia crianças em Mirval.
 
 Hadrun não disse nada. Esperou Rendar continuar, mas ele não continuou. Ao longe, um trovão rolou sobre a Terra Preta. Os bravões inquietaram-se nas linhas, e uma criança Buldar correu para dentro de uma carroça, rindo antes que uma mulher a puxasse pelo braço e mandasse calar. Hadrun acompanhou a cena com os olhos.
 
@@ -436,7 +436,7 @@ Ela virou os olhos para ele.
 
 Vhark apertou a mandíbula.
 
-— Idiotas? Idiotas são aqueles que acham que tem honra de lutar ao lado de um Tondrar.
+— Idiotas? Idiotas são aqueles que acham que têm honra de lutar ao lado de um Tondrar.
 
 — É isso que os Polar querem — disse Rendar. — Eles querem vocês separados. Tondrar voltando para a Boca Seca. Buldar contando pão sozinhos. Glydar escondidos no rio. Vendrar rindo em Varkhama. Cada clã com a própria dor. Cada dor pequena demais para quebrar muralha.
 
@@ -466,17 +466,13 @@ Korrak passou por ele com um sorriso torto.
 
 — Último Fendelar. Grande chefe de ninguém.
 
-Rendar chutou um balde de madeira. O balde atravessou a lama, bateu numa roda de carroça e partiu de lado. Todos olharam. Rendar respirou uma vez. Devagar demais. Hadrun aproximou-se.
-
-— Isso não traz ninguém de volta.
-
-Rendar virou-se para ele com os olhos frios. Hadrun ia responder, mas parou. Ao norte, algo soou. Não era trovão. Também não era tambor Tondrar. Era metal.
+Rendar chutou um balde de madeira. O balde atravessou a lama, bateu numa roda de carroça e partiu de lado. Todos olharam. Antes que Hadrun dissesse alguma coisa, um som de metal veio do norte. Não era trovão nem tambor Tondrar.
 
 Um som longo, vibrante, como uma corneta feita para acordar pedra. Depois outro. Mais baixo. Depois muitos, desencontrados, misturados ao rangido de rodas, ao bater de cascos e ao ruído distante de corrente contra placa. Os Tondrar que seguiam para o sul pararam. Os Buldar viraram-se. Rendar olhou para o norte. Primeiro vieram as bandeiras vermelhas e negras, com montanhas abertas, fendas em chama e marcas de lâmina, corrente e faísca. Depois surgiram muitos tarraks.
 
 Carroças reforçadas vinham atrás, carregadas de barris, lanças, escudos e caixas compridas. Homens e mulheres marchavam com machados, arcos, tubos de antebraço e potes selados.
 
-Era um exército, não uma caravana. Cerca de setecentas novas lâminas bastavam para mudar o peso da discussão entre Buldar e Tondrar. Na dianteira, sobre um tarrak negro de sela vermelha, vinha Tavra Vendrar, com placas metálicas sobre couro escuro e reflexos de cobre queimado. No lugar do antebraço esquerdo, um tubo de fogo mais elaborado estava preso ao coto; uma lâmina curta ocupava a mão direita.
+Cerca de setecentas novas lâminas avançavam pela estrada, força suficiente para mudar o peso da discussão entre Buldar e Tondrar. Na dianteira, sobre um tarrak negro de sela vermelha, vinha Tavra Vendrar, com placas metálicas sobre couro escuro e reflexos de cobre queimado. No lugar do antebraço esquerdo, um tubo de fogo mais elaborado estava preso ao coto; uma lâmina curta ocupava a mão direita.
 
 Mas era o elmo que fazia todos olharem.
 

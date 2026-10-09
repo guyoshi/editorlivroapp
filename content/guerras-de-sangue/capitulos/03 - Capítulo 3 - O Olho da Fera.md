@@ -86,7 +86,9 @@ Pedras de túnel, como os Tondrar chamavam. Pequenas, irregulares, algumas trans
 
 Rendar fechou a caixa. Só aquilo. Olhou para as pedras. Depois para o homem da cadeira.
 
-— O acordo era mais. A carne não veio mais leve no caminho. Rendar olhou ao redor. Nem mesmo uma tigela do Caldo da Boca Seca havia sido preparada. Tinham recebido sua carne, reduzido o pagamento e negado até a cortesia amarga reservada aos negociadores.
+— O acordo era mais. A carne não veio mais leve no caminho.
+
+Rendar olhou ao redor. Nem mesmo uma tigela do Caldo da Boca Seca havia sido preparada. Tinham recebido sua carne, reduzido o pagamento e negado até a cortesia amarga reservada aos negociadores.
 
 O pátio perdeu um pouco do ruído. O Tondrar de olhos arregalados apareceu ao lado dele tão rápido que Rendar quase levou a mão à faca.
 

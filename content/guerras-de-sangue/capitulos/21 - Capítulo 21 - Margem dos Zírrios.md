@@ -10,13 +10,11 @@ A água diante da aldeia ainda corria com a cor escura e verdeada de sempre, emb
 
 Mas rio abaixo, já depois das curvas que levavam às terras controladas pelos Polar, o Rio Grande chegara a Kaendar sujo.
 
-Placas escuras, grossas e lentas tinham descido pela água como pele morta, prendendo folhas, bichos de margem, penas, pequenos peixes e restos de lodo numa película que cheirava a forno apagado, couro queimado e forja distante. Em Kaendar, diziam, a água não parecia apenas suja. Parecia envergonhada. E, para os Polar, o fato da Margem dos Zírrios estar limpa não inocentava os Glydar.
-
-Tornava-os mais suspeitos. Varael Glydar estava no cais menor quando viu os homens Polar chegarem. Não eram poucos.
+Placas escuras, grossas e lentas tinham descido pela água como pele morta, prendendo folhas, bichos de margem, penas, pequenos peixes e restos de lodo numa película que cheirava a forno apagado, couro queimado e forja distante. Para os Polar, o fato de a Margem dos Zírrios estar limpa não inocentava os Glydar; tornava-os mais suspeitos. Varael Glydar estava no cais menor quando viu os homens Polar chegarem. Não eram poucos.
 
 Vieram pela margem alta em linhas escuras, montados em tarraks, com capas pesadas de chuva seca, lanças curtas, escudos de Kaendar e a postura de quem pisa em terra alheia como se estivesse medindo onde colocará a próxima estaca. A primeira fila desceu pela estrada de barro batido. A segunda abriu-se perto dos depósitos de rede. Outra foi direto para as pontes laterais. Homens com cordas tomaram posição junto aos barcos maiores antes que qualquer Glydar entendesse se aquilo era visita, acusação ou começo de guerra.
 
-À frente vinha um Terceiro Kae. Era jovem para o posto, de rosto estreito e barba aparada. No dedo médio da mão direita, usava um anel largo de ferro escuro, com três cortes na superfície e a pequena Raiz marcada por dentro. Chamava-se Lutharus, e, como muitos homens que sobem por disciplina antes de subir por inteligência, parecia odiar qualquer pergunta que não terminasse em obediência.
+À frente vinha um Terceiro Kae. Era jovem para o posto, de rosto estreito e barba aparada. No dedo médio da mão direita, usava um anel largo de ferro escuro, com três cortes na superfície e a pequena Raiz marcada por dentro. Chamava-se Lutharus e parecia odiar qualquer pergunta que não terminasse em obediência.
 
 Varael desceu da plataforma de madeira com as mãos abertas.
 
@@ -114,7 +112,7 @@ Os guardas Polar ergueram lanças. Lutharus falou sem levantar a voz:
 
 — Prendam-no.
 
-Dois homens avançaram. Varael não recuou. Talvez por que eram minoria. Talvez porque recuar diante da mãe fosse uma vergonha antiga demais. Quando o primeiro guarda agarrou seu braço, ele torceu o corpo, não para lutar, mas para não cair no barro diante de todos. Isso bastou para que três Glydar erguessem armas improvisadas. Saela gritou:
+Dois homens avançaram. Varael não recuou, talvez porque fossem minoria ou porque cair no barro diante da mãe fosse uma vergonha antiga demais. Quando o primeiro guarda agarrou seu braço, ele torceu o corpo para se manter de pé. Isso bastou para que três Glydar erguessem armas improvisadas. Saela gritou:
 
 — Abaixem!
 
@@ -238,7 +236,7 @@ Saela aproximou-se um passo.
 
 — Por favor, Ossar. Pensa depressa. Varael precisa da gente.
 
-— Eu sei Saela. Mas se eu fizer algo errado… matam Valael.
+— Eu sei, Saela. Mas, se eu fizer algo errado… matam Varael.
 
 — Se não fizer nada, eles também o matam.
 
@@ -306,9 +304,11 @@ Ele não respondeu de imediato.
 
 — Se eu for e morrer, a Margem fica sem voz.
 
-— A Margem já está sem barcos. Até as redes de nharca foram cortadas para reforçar amarras e carregar feridos. Restavam algumas lurélias circulando os telhados, confusas com o silêncio dos cais.
+— A Margem já está sem barcos. Até as redes de nharca foram cortadas para reforçar amarras e carregar feridos.
 
-Ossar sentiu a frase entrar, mas não a tirou de dentro.
+Algumas lurélias circulavam os telhados, confusas com o silêncio dos cais.
+
+Ossar não respondeu.
 
 — Eles voltarão antes da segunda manhã.
 
@@ -478,7 +478,7 @@ Ninguém respondeu. A mata à esquerda brilhou de repente, como se uma linha inv
 
 Um ruído veio da mata. Baixo. Depois mais próximos. Era como o som de muitos pés sobre chão úmido, escondidos pelo estalo do fogo. As chamas abriram-se entre duas árvores inclinadas. E homens atravessaram. Por um instante, os Polar não se mexeram.
 
-Não porque não soubessem lutar. Porque o corpo humano demora a aceitar aquilo que a mente chama de impossível. As figuras vinham através do fogo com capas escuras coladas ao corpo, rostos cobertos de fuligem, lâminas baixas, escudos pequenos e olhos estreitos contra o calor. As chamas lambiam suas roupas e pareciam escorregar rápido demais para morder fundo. Um deles saiu ardendo no ombro, bateu a própria capa contra uma pedra e continuou correndo.
+Os Polar hesitaram diante das figuras que vinham através do fogo, com capas escuras coladas ao corpo, rostos cobertos de fuligem, lâminas baixas, escudos pequenos e olhos estreitos contra o calor. As chamas lambiam suas roupas e pareciam escorregar rápido demais para morder fundo. Um deles saiu ardendo no ombro, bateu a própria capa contra uma pedra e continuou correndo.
 
 Eram Vendrar. O primeiro choque quebrou a linha Polar antes que ela terminasse de se formar.
 
@@ -498,7 +498,7 @@ Ossar viu tudo preso à estaca. Não como líder, mas como homem pequeno diante 
 
 Os Polar lutaram bem onde conseguiram juntar-se. Eram homens de Kaendar. Tinham treino, disciplina, aço melhor que a maioria, e uma arrogância fundada em vitórias antigas. Um grupo fechou escudos perto dos barcos e segurou três investidas. Outro recuou para a margem elevada e abriu espaço com lanças. Um terceiro Kae cortou dois Tondrar antes de uma flecha Buldar entrar pela lateral do pescoço.
 
-Rendar apareceu no meio da fumaça sem parecer ter entrado nela.
+Rendar surgiu no meio da fumaça.
 
 Ossar viu-o primeiro de lado: capa escura, arco curto nas costas, lâmina na mão direita, faca na esquerda. Não lutava como Kae, nem como Tondrar, nem como mercenário Vendrar. Não ficava onde esperavam que ficasse. Usava a lama como aliada. Pisava em corda caída para prender o pé de um homem, empurrava escudo contra fogo para fazer o adversário recuar, entrava por baixo de lança, cortava tendão, desaparecia atrás de uma carroça, voltava com outra arma.
 
@@ -510,7 +510,7 @@ Rendar abaixou-se porque já tinha ouvido o barro mudar sob o pé do homem. A l�
 
 Lutharus recuou para os barcos com um grupo pequeno de homens. O rosto já não tinha calma. Tinha cálculo ferido. Gritava para soltarem as cordas, para empurrarem os barcos menores, para protegerem o rio. Se conseguisse salvar parte da força, salvaria também a sua versão dos fatos. Kaendar podia transformar derrota em emboscada covarde, perda em prova de traição, mortos em justificativa.
 
-Então algo caiu de uma árvore. Não caiu. Saltou.
+Então uma figura saltou de uma árvore.
 
 A mulher aterrissou sobre a carroça que guardava os potes de óleo, agachada como bicho de pedra, uma mão apoiada na madeira, a outra segurando uma lâmina curva que ardia chamas na ponta. O cabelo estava preso para trás de qualquer jeito, mas mechas soltas colavam-se ao rosto suado. Havia fuligem no pescoço, sangue na boca e um sorriso que não pertencia a campo de batalha nenhum.
 
@@ -558,7 +558,7 @@ Ossar engoliu.
 
 Lorde Ossar se levantou com dificuldade e correu, tropeçando, chamando o nome do sobrinho. Encontrou-o perto da estaca onde ficara preso.
 
-Varael estava caído de lado, as mãos ainda marcadas pela corda. Uma flecha atravessava-lhe o peito abaixo da clavícula. Não era flecha Polar ou Buldar que Ossar reconhecesse de imediato. Talvez tivesse vindo do escuro, de um aliado, de um inimigo, da guerra, que raramente se preocupava em assinar o que fazia. O rapaz tinha os olhos abertos. Já não via a margem.
+Varael estava caído de lado, as mãos ainda marcadas pela corda. Uma flecha sem sinal Polar ou Buldar que Ossar reconhecesse atravessava-lhe o peito abaixo da clavícula; era impossível saber de onde viera. O rapaz tinha os olhos abertos. Já não via a margem.
 
 Ossar caiu de joelhos.
 
@@ -574,9 +574,7 @@ Pegou a mão de Varael. Estava fria demais para uma noite de fogo.
 
 — Desculpa. Desculpa. Desculpa.
 
-Saela não estava ali para ouvir e isso tornava tudo pior. Rendar permaneceu a alguns passos, mas não olhou diretamente. Não por piedade, mas porque viu, no corpo de Varael, todos os mortos jovens que ainda viriam. E porque uma parte horrível dele, uma parte que Mirval deixara viva, entendeu no mesmo instante o que aquela morte fazia. A Margem dos Zírrios acabara de perder a neutralidade.
-
-Não por discurso. Por sangue. Um Buldar chamou Rendar perto das tendas queimadas.
+Saela não estava ali para ouvir e isso tornava tudo pior. Rendar permaneceu a alguns passos, sem olhar diretamente. No corpo de Varael, reconheceu os mortos jovens que ainda viriam e entendeu que a Margem dos Zírrios acabara de perder a neutralidade. Um Buldar o chamou perto das tendas queimadas.
 
 — Este ainda respira.
 

@@ -42,7 +42,7 @@ Alyra tocou a borda da mesa com dois dedos.
 
 — E quanto a Ossar? — perguntou Iressa.
 
-— Ossar estará sob nossos olhos. Ele será a nossa arma. Usaremos ele para saber o máximo que pudermos sobre nosso inimigo.
+— Ossar estará sob nossos olhos. Ele será a nossa arma. Vamos usá-lo para saber o máximo que pudermos sobre nosso inimigo.
 
 Daryon ergueu o olhar.
 
@@ -64,7 +64,9 @@ Varron Meio-Olho bateu um dedo na mesa.
 
 Thoren dos Grãos pigarreou, trazendo na túnica o cheiro seco de farinha e o odor azedo do mofo-de-celeiro que passara a manhã mandando raspar dos depósitos. O homem parecia mais pálido do que de costume, talvez pela poeira de celeiro, talvez pelo medo.
 
-Se as informações forem verdadeiras… não temos um inimigo. Temos Jesed inteiro contra nós. Lurok das Casas Antigas resmungou:
+— Se as informações forem verdadeiras… não temos um inimigo. Temos Jesed inteiro contra nós.
+
+Lurok das Casas Antigas resmungou:
 
 — A guerra que Orionus evitou durante tantos anos.
 
@@ -112,7 +114,7 @@ Lurok tremeu. Alyra repetiu, mas não levantou a voz.
 
 Lurok procurou apoio nos outros conselheiros. Não encontrou o bastante. Brokan continuou imóvel. Maelis não escreveu nada. Odran manteve os olhos baixos. Seron descobriu, naquele instante, uma falha imaginária na madeira. Alyra sustentou o olhar dele.
 
-— Esta destituído deste conselho.
+— Está destituído deste conselho.
 
 Lurok recolheu os rolos diante de si com mãos rígidas e deixou a Câmara com a dignidade ofendida. Quando as portas se fecharam, Alyra voltou ao mapa.
 
@@ -128,7 +130,7 @@ Ele ergueu o olhar, devagar.
 
 Alyra olhou para ele.
 
-— Os Urtistar estão do nosso lado. Eles aceitaram vigiar as passagens a oeste e pressionar as rotas que poderiam dar fôlego aos Cendar, caso também decidam se voltar contrra nós — disse Alyra. — Nossas patrulhas foram distribuídas de Leralia a Kavilia; nenhuma vila externa, nenhum celeiro de apoio, nenhum ponto de carga sairá do olhar de Kaendar. Varron receberá relatórios das bordas da Garganta Seca antes do próximo ciclo da lua maior. Vamos cortar as rotas. Se qualquer clã acredita que pode mover peças enquanto discutimos etiqueta, aprenderão que os Polar também sabem jogar na chuva.
+— Os Urtistar estão do nosso lado. Eles aceitaram vigiar as passagens a oeste e pressionar as rotas que poderiam dar fôlego aos Cendar, caso também decidam se voltar contra nós — disse Alyra. — Nossas patrulhas foram distribuídas de Leralia a Kavilia; nenhuma vila externa, nenhum celeiro de apoio, nenhum ponto de carga sairá do olhar de Kaendar. Varron receberá relatórios das bordas da Garganta Seca antes do próximo ciclo da lua maior. Vamos cortar as rotas. Se qualquer clã acredita que pode mover peças enquanto discutimos etiqueta, aprenderão que os Polar também sabem jogar na chuva.
 
 Nalia não pareceu convencida.
 
@@ -474,7 +476,7 @@ Dentro, os sons da guerra diminuíram, mas não sumiram. A pedra filtrava tudo: 
 
 — Eu ouvi.
 
-— Não. Você ouviu um guarda assustado. Eu vi o suficiente. Estão pelo rio e pela terra. E eles tem os Vendrar.
+— Não. Você ouviu um guarda assustado. Eu vi o suficiente. Estão pelo rio e pela terra. E eles têm os Vendrar.
 
 — E?
 
@@ -650,7 +652,7 @@ O rosto dele não entendeu antes dos olhos.
 
 — A criança é tua.
 
-A máscara acabou. Não caiu de forma bonita. Não caiu inteira. Apenas deixou de importar. Daryon fechou os olhos, e as lágrimas que ele segurava apareceram como humilhação e alívio ao mesmo tempo. Quando abriu, havia raiva ainda, mas soterrada por uma necessidade tão funda que Alyra quase sorriu.
+A máscara deixou de importar. Daryon fechou os olhos, e as lágrimas que ele segurava apareceram como humilhação e alívio ao mesmo tempo. Quando abriu, havia raiva ainda, mas soterrada por uma necessidade tão funda que Alyra quase sorriu.
 
 — Você mentiu.
 

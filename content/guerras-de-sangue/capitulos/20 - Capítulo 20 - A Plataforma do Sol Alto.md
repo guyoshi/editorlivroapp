@@ -240,7 +240,7 @@ Kharvok olhou para ela como se tivesse ouvido criança explicar chuva.
 
 — Viva sem quebrar talvez valha. Viva quebrada talvez valha mais ainda.
 
-Nynestra levantou-se com dificuldade. A perna dela tremeu antes de firmar. Kaelina percebeu que a Mão da Colheita estava pior do que fingia. A exaustão cavara espaço sob os olhos. A sede rachara-lhe os lábios. Mas a raiva mantinha o corpo em pé quando comida e água já teriam desistido.
+Nynestra levantou-se com dificuldade. A perna dela tremeu antes de firmar. Kaelina percebeu que a Mão da Colheita estava pior do que fingia. A exaustão cavara espaço sob os olhos, e a sede rachara-lhe os lábios, mas a raiva ainda a mantinha em pé.
 
 — Se a vencedora puder falar — disse Nynestra —, eu luto.
 
@@ -314,7 +314,7 @@ Kaelina atacou pela primeira vez e a faca entrou pouco na parte externa da coxa 
 
 Nynestra respirava com dificuldade. A mão dela fechou-se em torno da faca cravada na própria coxa.
 
-— Então os Tondrar matam nós duas.
+— Então os Tondrar nos matam.
 
 — Não precisa ser assim.
 
@@ -428,7 +428,7 @@ A Mão da Colheita soltou uma risada seca, quase sem som. Kaelina ficou imóvel.
 
 — Claro. Uma soberana Polar atravessa meio mundo até a Boca Seca, cai nas mãos dos Tondrar e, por sorte, não sabe por que uma armadilha Polar matou o homem que podia unir a garganta inteira contra Kaendar.
 
-A palavra atingiu Kaelina antes do sentido completo.
+Kaelina levou um instante para entender.
 
 — Armadilha Polar?
 
@@ -436,11 +436,11 @@ Nynestra estudou o rosto dela. Procurava rachadura. Mentira. Treino. Encontrou e
 
 — Corpos queimados dentro de carroças. Raiz marcada na madeira. Isca no meio do caminho da garganta. Urtistar escondidos na chuva. Soa familiar pra você?
 
-Kaelina não fazia ideia do envolvimento Urtistar. Alyra e o Conselho nunca lhe tinham falado daquilo.
+Kaelina nada sabia do envolvimento Urtistar. Alyra e o Conselho nunca lhe tinham falado daquilo.
 
 — O que vocês faziam com os Urtistar? — perguntou Kaelina.
 
-— O que qualquer clã vivo faz antes de uma guerra. Tentávamos comprar aliados. Urtista tem passagem, silêncio e medo emprestado.
+— O que qualquer clã vivo faz antes de uma guerra. Tentávamos comprar aliados. Urtistar tem passagem, silêncio e medo emprestado.
 
 — Para lutar contra Kaendar. Tem mais clãs com vocês?
 
@@ -478,7 +478,7 @@ Kaelina começou a medir a força que Kaendar enfrentaria.
 
 Kaelina calou-se por um instante, enquanto pensava.
 
-— Não fui eu quem planejei a armadilha. Provavelmente foi minha irmã.
+— Não fui eu quem planejou a armadilha. Provavelmente foi minha irmã.
 
 Nynestra estreitou os olhos. Do lado de fora, passos Tondrar cruzaram o corredor. A luz pálida dos Olhos de Baixo passou pelas barras e tocou o rosto de Nynestra, deixando a pele dela com aparência de barro frio.
 
@@ -516,7 +516,7 @@ Kaelina sentiu frio, apesar do ar preso da cela.
 
 Kaelina ergueu o rosto.
 
-— Eu não fazia ideia do que estava acontecendo. Passei muito tempo acreditando que o mundo que meu pai deixou estava funcionando como deveria, quando na verdade, ele já estava quebrado… e agora está a ruir. Precisamos parar isso. Com essa guerra. Você é a Mão dos Buldar. Pode parar o seu lado.
+— Eu não fazia ideia do que estava acontecendo. Passei muito tempo acreditando que o mundo deixado pelo meu pai funcionava como deveria, quando já estava quebrado e agora desaba. Precisamos parar essa guerra. Você é a Mão dos Buldar. Pode parar o seu lado.
 
 Nynestra olhou para Kaelina, quase como se fingisse pena.
 
@@ -538,7 +538,7 @@ Acima delas, os tambores mudaram. Um ritmo baixo, seco, repetitivo. Não convida
 
 Nynestra ainda a olhava com desprezo, embora menos do que antes.
 
-— É incrível como vocês Polar vivem em seu mundo. Não sabem absolutamente nada de seus inimigos e ainda acham que tem poder sobre eles.
+— É incrível como vocês Polar vivem em seu mundo. Não sabem absolutamente nada de seus inimigos e ainda acham que têm poder sobre eles.
 
 Kaelina estava cansada das palavras afiadas de Nynestra, então ignorou e aproximou-se das barras de osso.
 
@@ -546,7 +546,11 @@ Kaelina estava cansada das palavras afiadas de Nynestra, então ignorou e aproxi
 
 — E só uma vai falar — disse Nynestra.
 
-— Acho que não serei eu — disse Kaelina. Nynestra olhou para ela — posso ter vivido cercada de muros, não saber nada sobre os clãs… mas aprendi que as pessoas mentem. E nada do que dizem pode ser de confiança. Tudo o que falarmos, eles podem simplesmente achar que é mentira. Assim como não acredito que eles tem planos de nos libertar vivas, mesmo que falemos.
+— Acho que não serei eu — disse Kaelina.
+
+Nynestra olhou para ela.
+
+— Posso ter vivido cercada de muros e não saber nada sobre os clãs, mas aprendi que as pessoas mentem. Eles podem tomar qualquer coisa que dissermos por mentira. Também não acredito que tenham planos de nos libertar vivas, mesmo que falemos.
 
 Nynestra continuou avaliando-a até Kaelina baixar os olhos primeiro.
 
@@ -556,7 +560,7 @@ Nynestra soltou um riso baixo, sem alegria.
 
 — Que comovente.
 
-Kaelina aceitou a lâmina sem responder à provocação.
+Kaelina ignorou a provocação.
 
 — Passei a vida achando que meu pai tinha deixado paz para nós. Que eu e minha irmã só precisávamos não quebrá-la.
 
@@ -624,7 +628,7 @@ Kaelina respirou devagar.
 
 — Kharvok não precisa que uma de nós morra — disse Kaelina. — Precisa que a Boca Seca acredite nele.
 
-Nynestra não respondeu, mas o silêncio mudou Kaelina seguiu:
+Nynestra não respondeu, mas o silêncio mudou. Kaelina seguiu:
 
 — Se ele mata você, os Buldar perdem uma mão. Talvez ganhe aplauso hoje, talvez os velhos batam lança no chão, talvez pendurem teu crânio num lugar alto e chamem isso de justiça. Mas depois?
 
@@ -652,7 +656,7 @@ Kaelina quase sorriu. O lábio partido não deixou.
 
 Nynestra ficou quieta.
 
-— E eu preciso que você reaja — continuou Kaelina. — Não finja. Não me poupe por entender metade. Não me agradeça por nada. Amanhã, quando eu falar, você vai lembrar dos grãos arrancados em preço fixo, das rotas fechadas, do sal contado como se fosse misericórdia, das aldeias que Orionus chamou de custo necessário. Vai lembrar de cada história que ouviu sobre nós. E vai usar isso.
+— E eu preciso que você reaja — continuou Kaelina. — Sem fingir nem me poupar por entender o plano. Amanhã, quando eu falar, lembre dos grãos arrancados em preço fixo, das rotas fechadas, do sal contado como se fosse misericórdia, das aldeias que Orionus chamou de custo necessário. Use cada história que ouviu sobre nós.
 
 O nome de Orionus passou pela cela como uma lâmina velha. Nynestra apoiou a cabeça na pedra atrás de si.
 
@@ -668,7 +672,7 @@ Nynestra soltou um riso baixo, sem humor e baixou os olhos para a própria coxa 
 
 Kaelina respirou com dificuldade. Então falou devagar, como quem entrega uma faca pelo cabo.
 
-— Amanhã eu vou dizer coisas que merecem resposta. Você vai responder. Não com discurso. Não primeiro. Quando eles acharem que estão vendo a verdade, você vai dar a eles outra. Vai usar a sede deles contra eles. Vai lembrar que há Tondrar fora daqui. Que há homens deles sangrando enquanto ficam batendo tambor para duas mulheres presas. Vai lembrar que Khar-Tondr não come crânio. Que uma soberana Polar viva vale mais do que morta. Que uma Buldar viva vale mais ainda.
+— Amanhã eu vou dizer coisas que merecem resposta, e você vai responder primeiro com ação. Quando eles acharem que estão vendo a verdade, dê a eles outra. Use a sede deles contra eles. Lembre que há Tondrar fora daqui, homens sangrando enquanto ficam batendo tambor para duas mulheres presas. Khar-Tondr não come crânio. Uma soberana Polar viva vale mais do que morta. Uma Buldar viva vale mais ainda.
 
 Nynestra permaneceu em silêncio.
 
@@ -678,7 +682,7 @@ Kaelina olhou para as próprias mãos marcadas pela corda.
 
 — Eu fico.
 
-Nynestra não pareceu surpresa. Talvez já tivesse entendido antes dela dizer.
+Nynestra não pareceu surpresa. Talvez já tivesse entendido antes que ela dissesse.
 
 — Como refém.
 

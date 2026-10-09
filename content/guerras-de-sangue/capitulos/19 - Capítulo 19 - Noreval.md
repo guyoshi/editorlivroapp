@@ -80,7 +80,7 @@ Kaelina ergueu os olhos.
 
 — Daryon?
 
-— Se se lembra, minha soberana, há dois ciclos atrás, ele era menor em posição, ainda não fazia parte do Conselho, mas já servia em funções de estratégia interna e revisão de depoimentos.
+— Se se lembra, minha soberana, dois ciclos atrás ele era menor em posição, ainda não fazia parte do Conselho, mas já servia em funções de estratégia interna e revisão de depoimentos.
 
 Kaelina sentou-se e leu.
 
@@ -126,11 +126,9 @@ Ylvena fora inocentada formalmente e exilada politicamente. Kaelina voltou às t
 
 O nome dele aparecia em registros de ascensão administrativa. Noreval. Pais não confirmados nos primeiros arquivos. Origem regularizada depois por inscrição tardia no anel médio. Aos quinze ciclos, entrada em Kaendar como auxiliar de recados e cópia. Aos dezesseis, nota de observação por resolver uma disputa de armazém ao identificar erro em contagem de sal. Aos dezoito, transferido para apoio de segurança interna. Aos vinte, citado em revisão de acordos de passagem. Depois, aproximado dos corredores de Orionus por recomendação de dois homens já mortos e um relatório sem assinatura clara.
 
-Kaelina acompanhou a ascensão de Daryon pelos registros.
-
 Os registros mostravam Daryon reorganizando audiências, percebendo diferenças nos nós das mensagens Buldar, usando a vaidade de um capitão Tondrar e corrigindo falhas de guarda em depósitos. Kaelina reconheceu ali uma atenção às condições parecida com a de Orionus, mas aplicada às pessoas com frieza muito maior.
 
-Então ela encontrou uma tábua menor, presa ao conjunto por uma tira antiga de couro ressecado. Não era um feito, e sim uma regularização. Kaelina leu uma vez. Depois outra.
+Então ela encontrou uma tábua menor, presa ao conjunto por uma tira antiga de couro ressecado. Não era um feito, e sim uma regularização. Kaelina leu duas vezes.
 
 O documento dizia que, aos quinze ciclos, Daryon Noreth Polar fora admitido nos serviços internos de Kaendar mediante confirmação de origem por Noreval. A inscrição era tardia, feita depois da chegada dele à cidade, e trazia duas marcas de testemunho: uma de um antigo responsável local já morto, e outra de um homem ainda vivo à época do último levantamento populacional.
 
@@ -592,7 +590,7 @@ A chuva bateu mais forte no telhado.
 
 Savel tossiu. Kaelina encheu o copo de água apesar do gesto irritado dele.
 
-— Sr. Savel, quero que saiba a real razão de eu estar aqui. Acho que seu filho talvez tenha matado Orionus.
+— Sr. Savel, quero que saiba a verdadeira razão de eu estar aqui. Acho que seu filho talvez tenha matado Orionus.
 
 Savel bateu o copo na mesa com força inesperada.
 
@@ -601,8 +599,6 @@ Savel bateu o copo na mesa com força inesperada.
 O som ficou preso nas paredes.
 
 — Daryon pode ser frio. Pode ser vaidoso. Pode esconder o coração tão fundo que esquece onde enterrou. Mas matar um soberano? Não. Ele teria outros caminhos. Sempre teve. Meu filho não quebra porta se consegue fazer o dono entregar a chave e agradecer pela educação.
-
-Kaelina percebeu que Savel ainda defendia o filho que lembrava.
 
 — Os homens que estiveram aqui — disse Kaelina. — Não vieram por acaso. Eles servem Alyra. E pareceram vir por algo que interessa a Daryon.
 

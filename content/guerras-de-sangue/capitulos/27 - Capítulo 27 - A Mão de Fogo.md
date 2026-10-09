@@ -292,7 +292,7 @@ O guarda engoliu.
 
 Alyra olhou para os outros. Nenhum sustentou seus olhos por muito tempo. Ela sentia medo.
 
-O medo vinha maior e mais humilhante do que o provocado por uma lâmina diante do rosto. O medo de sair e descobrir que a cidade não obedecia mais. O medo de encontrar mortos que tinham seguido suas ordens. O medo de que o povo olhasse para ela e visse não uma soberana, mas a mulher que desejara uma guerra até a guerra responder. O corpo queria permanecer atrás da porta antiga.
+Era um medo maior e mais humilhante do que o provocado por uma lâmina diante do rosto: sair e descobrir que a cidade não obedecia mais, encontrar mortos que tinham seguido suas ordens, ver o povo reconhecer nela a mulher que desejara uma guerra até a guerra responder. O corpo queria permanecer atrás da porta antiga.
 
 Alyra desprezou o corpo por isso.
 
@@ -352,7 +352,7 @@ Os três homens junto à porta olharam para ele. Alyra virou o rosto devagar.
 
 — O que disse?
 
-— Disse que não. Não porque recuse ordem, mas porque a senhora não deve sair. Há homens procurando por você dentro da fortaleza, e a armadura não muda isso.
+— Disse que não. A senhora não deve sair. Há homens procurando por você dentro da fortaleza, e a armadura não muda isso.
 
 — Muda o que acontece quando encontrarem.
 
@@ -442,7 +442,7 @@ Ela avançou. Alyra guardou o arco sobre o ombro, puxou a espada e recuou para o
 
 — Vá! — gritou Kadrir.
 
-Alyra correu. Não porque obedecesse. Porque Tavra estava entre ela e o espaço necessário para usar o arco outra vez.
+Alyra correu porque Tavra estava entre ela e o espaço necessário para usar o arco outra vez.
 
 O corredor além do pátio estava quase vazio. Servos e guardas haviam sido retirados para as partes mais altas ou enviados para a defesa. As lamparinas continuavam acesas, mas algumas haviam caído com as pancadas distantes, espalhando óleo sobre as paredes. Alyra passou por uma sala de mapas aberta, por uma galeria estreita e por um arco onde uma tapeçaria da Raiz balançava com o ar quente.
 

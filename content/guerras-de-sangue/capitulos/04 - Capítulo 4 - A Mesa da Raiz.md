@@ -88,7 +88,7 @@ Yvenn Raiz-Branca falou com calma:
 
 Kaelina olhou para ela.
 
-— Consequência não é sinónimo de cabeça cortada.
+— Consequência não é sinônimo de cabeça cortada.
 
 — Não. Mas cabeça cortada costuma ser uma consequência bastante compreensível.
 
@@ -104,7 +104,7 @@ Alyra olhou para ele com um meio sorriso.
 
 Maelis pigarreou.
 
-— Temos dois caminhos registáveis. Primeiro: ataque direto aos Tondrar, limitado ou total. Segundo: recuo defensivo, fechamento de portões, reforço de Vigias e suspensão de cargas suspeitas.
+— Temos dois caminhos registráveis. Primeiro: ataque direto aos Tondrar, limitado ou total. Segundo: recuo defensivo, fechamento de portões, reforço de Vigias e suspensão de cargas suspeitas.
 
 — Terceiro — propôs Kaelina — proposta de acordo sob costume antigo.
 
@@ -220,7 +220,7 @@ Por fim, Kaelina levantou-se. Não rápido. Isso teria dado gosto a Alyra. Levan
 
 Alyra inclinou a cabeça.
 
-— A estabilidade de Kaendar não pode depender da aprovlvação de duas soberanas e de onze cadeiras que rangem antes de pensar.
+— A estabilidade de Kaendar não pode depender da aprovação de duas soberanas e de onze cadeiras que rangem antes de pensar.
 
 Seron bateu os dedos na mesa, mas não interrompeu. Alyra continuou, agora com mais calor na voz:
 
@@ -276,7 +276,7 @@ Alyra ergueu o olhar.
 
 Thoren dos grãos tossiu.
 
-— A Lei do Portão tinha função dentro de Kaendar. Bandeira de trégua. Entrada observada. Pão, água, sal. O emissário come diante de testemunhas. Se come, aceita estar dentro da nossa paz. Se recusa, entrega medo, veneno ou mentira antes mesmo de abrir a boca. Mas estamos a falar dos Tondrar. Eles conhecem veneno, fome e teatro tão bem quanto nós.
+— A Lei do Portão tinha função dentro de Kaendar. Bandeira de trégua. Entrada observada. Pão, água, sal. O emissário come diante de testemunhas. Se come, aceita estar dentro da nossa paz. Se recusa, entrega medo, veneno ou mentira antes mesmo de abrir a boca. Mas estamos falando dos Tondrar. Eles conhecem veneno, fome e teatro tão bem quanto nós.
 
 — Por isso deve ser em terreno intermediário — disse Kaelina. — Nem Kaendar. Nem Khar-Tondr.
 
@@ -330,7 +330,7 @@ Kaelina ergueu a mão.
 
 Maelis parou de tentar escrever. Alyra riu sem humor.
 
-— Claro. Vais sentar com os Tondrar em terreno aberto, partilhar pão e esperar que a fome deles reconheça tua nobre intenção.
+— Claro. Vai sentar com os Tondrar em terreno aberto, partilhar pão e esperar que a fome deles reconheça sua nobre intenção.
 
 — Sim.
 
@@ -372,7 +372,7 @@ Kaelina olhou para ela.
 
 — Sim.
 
-— Não uses o meu corpo para provar a tua coragem.
+— Não use o meu corpo para provar sua coragem.
 
 — A Lei do Portão exige a presença da soberania. Somos duas.
 
@@ -388,7 +388,7 @@ Kaelina sentou-se. Alyra também. As duas ainda se olhavam como se a mesa entre 
 
 Maelis organizou as tábuas, alinhando-as como se uma decisão mal escrita pudesse matar tanto quanto uma decisão errada.
 
-— Proposta um: estratégia de isolamento dos Tondrar, reforço da soberania Polar sobre clãs menores, pressão económica sobre rotas de carne, sal, grão e resina, e preparação de golpe militar limitado caso necessário.
+— Proposta um: estratégia de isolamento dos Tondrar, reforço da soberania Polar sobre clãs menores, pressão econômica sobre rotas de carne, sal, grão e resina, e preparação de golpe militar limitado caso necessário.
 
 Alyra sorriu.
 

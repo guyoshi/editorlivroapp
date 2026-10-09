@@ -1,8 +1,4 @@
-Daryon chegou antes do fim da manhã.
-
-Alyra ainda estava nos aposentos internos quando reconheceu os passos de Daryon do lado de fora.
-
-Cal Kadrir estava com ela.
+Daryon chegou antes do fim da manhã. Alyra reconheceu os passos dele do lado de fora dos aposentos internos, onde estudava mapas com Cal Kadrir.
 
 Kadrir permanecia de pé junto à mesa, uma mão no punho da espada e a outra no antebraço enfaixado. O ombro ainda o incomodava, embora tentasse não demonstrar.
 
@@ -140,7 +136,7 @@ Daryon aproximou-se da mesa.
 
 — E eu?
 
-Alyra virou-se para ele. Daryon percebeu a própria pergunta tarde demais. Não porque estivesse errada. Porque soara pessoal. Cal percebeu também. O silêncio que se seguiu tinha lâmina.
+Alyra virou-se para ele. Daryon percebeu tarde demais quanto a pergunta soara pessoal; Cal também, e o aposento ficou em silêncio.
 
 — Você aconselha — disse Alyra.
 
@@ -196,7 +192,7 @@ Cal não sorriu. Daryon também não. Alyra olhou para ele.
 
 — A de homem que descobriu uma porta numa casa que achava conhecer inteira.
 
-Ele sustentou o olhar. Cal Kadrir desviou os olhos para o mapa, como se mapa pudesse fingir que não ouvia. Daryon inclinou a cabeça, mas dessa vez o gesto não teve elegância. Teve contenção.
+Ele sustentou o olhar. Cal Kadrir desviou os olhos para o mapa. Daryon inclinou a cabeça, dessa vez sem elegância, apenas contenção.
 
 — Quer ser útil? Por que não me traz novidades do assunto que continua sem resposta?
 
@@ -352,7 +348,7 @@ Alyra olhou novamente para a pintura de Kaendar ardendo.
 
 — Acha que sou fogo?
 
-Marken não respondeu. O silêncio dele foi pior. Alyra aproximou-se mais um passo.
+Marken não respondeu. Alyra fechou a mão e se aproximou mais um passo.
 
 — Eu conheço homens como você. Fazem mistério porque mistério é a única roupa que lhes resta. Dizem pouco para que os desesperados completem o resto com medo. Mas você aqui não é vento, nem presságio, nem sinal de morto antigo. É um homem fechado num quarto. E homens fechados em quartos podem desaparecer entre um registro e outro sem que a cidade perca o sono.
 
@@ -402,7 +398,7 @@ Kaelina olhou para a fortaleza em chamas e fechou os olhos por um instante.
 
 — Vi Daryon ontem — disse ela.
 
-Marken não respondeu. Kaelina continuou. Não sabia por que estava comentando aquilo com ele. Nem mesmo sabia se ele conhecia Daryon.
+Marken não respondeu. Kaelina continuou, embora nem soubesse se ele conhecia Daryon.
 
 — Fora das muralhas. Com Homens das Areias.
 
@@ -416,7 +412,7 @@ Kaelina sentou-se na beira da cama.
 
 Marken esperou.
 
-— Ele sempre tem resposta. Sempre tem um gesto antes da pergunta terminar. Sempre parece saber o que alguém quer esconder antes de a pessoa decidir esconder. Mas quando falei da gravidez de Alyra…
+— Ele sempre tem resposta, um gesto antes da pergunta terminar. Parece saber o que alguém quer esconder antes de a pessoa decidir esconder. Mas quando falei da gravidez de Alyra…
 
 Ela parou por um instante.
 
@@ -432,9 +428,7 @@ Kaelina virou-se para ele. Era uma pergunta inesperada. Mas respondeu:
 
 — Homens que sabem tudo não temem o que sabem — disse Marken. — Temem o que descobrem tarde demais.
 
-Kaelina ficou imóvel, e seus lábios continuaram a frase de Marken.
-
-— Porque perdem o controle.
+— Porque perdem o controle — completou Kaelina.
 
 Lá fora, alguém passou pelo corredor carregando metal. O som ecoou, breve, depois sumiu.
 
@@ -460,7 +454,7 @@ Marken não ergueu o rosto.
 
 — Os do talismã. E acho que ela envenenou Yvenn — disse Kaelina. — Ou mandou. Acho que fez os Fendelar morrerem para culpar os Tondrar. E mesmo assim, eu tenho medo…
 
-A voz dela falhou. Ela odiou.
+A voz dela falhou, e Kaelina apertou os dentes.
 
 — O Conselho parece estar do lado dela. Homens como Brokan querem decisão. Odran quer portas fechadas. Varron quer sombras autorizadas. Até quem não confia nela parece preferir a certeza dela à minha dúvida.
 

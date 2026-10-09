@@ -48,7 +48,7 @@ Alyra fez uma cara de quem mastiga o próprio orgulho.
 
 — Você acredita mesmo no que ele dizia? Já ouviu as histórias da velha cuidadora? Ela falava as verdades que corriam nos corredores, rápidas como escutas-de-muro fugindo por dentro das rachaduras. Com certeza papai não apagava o fogo com terra. Ele era o fogo.
 
-— Alyra, pelas raízes, não irei mandar homens atrás deles. Não iremos ter mais mortes. Não queremos guerra. Foram mais de quarenta ciclos do sol sem sangue derramado. Deve haver alguma outra forma.
+— Alyra, pelas raízes, não mandarei homens atrás deles. Não teremos mais mortes. Não queremos guerra. Foram mais de quarenta ciclos do sol sem sangue derramado. Deve haver alguma outra forma.
 
 Alyra levantou de uma vez, o movimento rápido demais para ser só raiva.
 
@@ -62,7 +62,11 @@ Kaelina levantou o olhar finalmente.
 
 O salão ficou tão quieto que dava para ouvir um pedaço de tecido roçando em outro. Foi aí que Daryon se mexeu, ocupando o espaço entre as duas sem parecer que estava se metendo. E então falou para Alyra.
 
-— Minhas soberanas… se me permitem. A prudência da soberana Kaelina é necessária — disse Daryon, e Alyra virou o rosto para ele, traída por um instante. — Mas prudência sem consequência é apenas um convite. — a voz dele era macia, quase respeitosa. — — Mas tanto a prudência quanto a ação devem ser pensadas sob a ótica de nossos inimigos. Se perceberem que podem matar jovens Polar, sujar nossos Vigias de barro e voltar para casa sem consequência, isso pode ser o começo de nossa ruína. E se atacarmos instintivamente, sentirão que estão controlando as nossas… ações. Com reações.
+— Minhas soberanas… se me permitem. A prudência da soberana Kaelina é necessária — disse Daryon, e Alyra virou o rosto para ele, traída por um instante. — Mas prudência sem consequência é apenas um convite.
+
+A voz dele era macia, quase respeitosa.
+
+— Tanto a prudência quanto a ação devem ser pensadas sob a ótica de nossos inimigos. Se perceberem que podem matar jovens Polar, sujar nossos Vigias de barro e voltar para casa sem consequência, isso pode ser o começo de nossa ruína. E, se atacarmos instintivamente, sentirão que controlam nossas ações por meio das reações.
 
 Alyra virou o olho para ele e Daryon continuou, com a calma de quem segura cordas invisíveis.
 

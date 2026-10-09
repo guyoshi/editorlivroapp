@@ -56,7 +56,7 @@ O homem respirou pelo nariz.
 
 — E?
 
-— Disseram também que fogo, metal e silêncio custa o dobro quando todos estão com medo.
+— Disseram também que fogo, metal e silêncio custam o dobro quando todos estão com medo.
 
 Alyra soltou um riso curto.
 
@@ -78,7 +78,7 @@ O mensageiro continuava ajoelhado.
 
 O homem saiu. E então veio o vazio. Não havia um quarto mensageiro. Alyra permaneceu sentada durante alguns instantes, observando a porta fechada. O silêncio ocupou o espaço onde deveria estar Veyr Polar. Daryon esperou.
 
-Daryon esperou. Alyra bateu dois dedos na mesa.
+Alyra bateu dois dedos na mesa.
 
 — Veyr devia ter voltado ontem.
 
@@ -92,9 +92,9 @@ Daryon aproximou-se da mesa, mas não se sentou. Nunca se sentava sem que a cena
 
 Alyra sentiu uma tensão pequena subir-lhe pelo pescoço. Veyr não era amigo. Não era importante. Não era alguém por quem ela choraria caso voltasse dentro de uma urna. Mas era Polar. E, mais do que isso, era emissário dela.
 
-— Está a dizer que o mataram?
+— Está dizendo que o mataram?
 
-— Estou a dizer que, se não voltou, deve haver uma razão.
+— Estou dizendo que, se não voltou, deve haver uma razão.
 
 Alyra apoiou as costas na cadeira.
 
@@ -314,7 +314,7 @@ Edran ficou imóvel, mas Alyra viu o efeito. Não no rosto. Nos ombros. Uma tens
 
 — Quem?
 
-— Se eu soubesse, teria mandado arrancar-lhe a língua e não estaria aqui a perder tempo contigo.
+— Se eu soubesse, teria mandado arrancar-lhe a língua e não estaria aqui perdendo tempo com você.
 
 — Envie outro guarda.
 
@@ -440,7 +440,7 @@ Sarkan não era particularmente grande. Uma cicatriz abria-lhe o rosto da boca a
 
 Ele olhou para Daryon.
 
-— Kaendar resolveu lembra-se de nossa existência?
+— Kaendar resolveu lembrar-se de nossa existência?
 
 Daryon inclinou levemente a cabeça.
 
@@ -486,11 +486,11 @@ Ele riu.
 
 O riso dele diminuiu.
 
-— O que lhe devo a honra, vossa soberania?
+— A que devo a honra, vossa soberania?
 
 Alyra fez um gesto para a carruagem e Daryon abriu a lona. O cheiro de sal veio primeiro: sal de Kaendar, limpo demais para aquele lugar, depois o de couro tratado, grão-de-caule, raiz seca e, por fim, o brilho pequeno das pedras de troca.
 
-O círculo de exilados mudou. Não se aproximaram de imediato. Alyra deixou que olhassem. Todos curiosos. Orionus dizia que fome ouve melhor depois de ver comida. Alyra odiava quando o pai morto continuava útil.
+O círculo de exilados mudou. Não se aproximaram de imediato. Alyra deixou que olhassem, todos curiosos. Orionus dizia que fome ouve melhor depois de ver comida. Alyra odiava quando o pai morto continuava útil.
 
 — Isto vale uma estação — disse Sarkan.
 
@@ -532,7 +532,7 @@ Ele deu um passo.
 
 — Cuidado.
 
-— Não vim até aqui para ser cuidadosa. Vim oferecer-lhes a oportunidade de regressarem.
+— Não vim até aqui para ser cuidadosa. Vim oferecer-lhes a oportunidade de retornar.
 
 As lâminas ao redor pareceram respirar. Daryon falou baixo:
 
@@ -566,7 +566,7 @@ Sarkan ergueu uma sobrancelha.
 
 — Talvez tenha se perdido na mata, ou tido a má sorte de esquecer o caminho de casa. Ou quem sabe se cansou dos senhores de pedra de Kaendar e decidiu deixá-los falando sozinhos.
 
-— Ou talvez tenha sido atacado por um dos homens das areias. O que nos obrigaria a contra-atacar.
+— Ou talvez tenha sido atacado por um dos Homens das Areias. O que nos obrigaria a contra-atacar.
 
 Daryon ficou imóvel. Alyra sorriu. Dessa vez, de verdade.
 
@@ -600,11 +600,11 @@ Alyra entregou-lhe o talismã.
 
 Sarkan pegou o objeto. Virou-o entre os dedos. A boca partida deixava parte dos dentes à mostra, tornando impossível saber se sorria ou apenas existia.
 
-— Garante nosso regresso após isso?
+— Garante nosso retorno depois disso?
 
 — Se tudo parecer verdade.
 
-— Queremos uma garantia. Sua palavra. A Lei do portão, diante do conselho.
+— Queremos uma garantia. Sua palavra. A Lei do Portão, diante do Conselho.
 
 — Acha mesmo que o conselho aprovaria isso? Isso será feito por ordem minha, eu sou a soberana. E se um deles recusar… tenho meus meios de garantir que nunca mais me contrariem.
 

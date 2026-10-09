@@ -224,7 +224,7 @@ A tranca foi retirada.
 
 A porta menor gemeu. Do lado de fora, a barba-de-tronco pendia das árvores sem esconder pássaros ou pequenos animais; a guerra já expulsara quase tudo que sabia fugir. Um filete de ar frio entrou primeiro, trazendo cheiro de suor, madeira quebrada, barro e sangue. Depois apareceu o espaço do lado de fora, iluminado por fogueiras e pelo início pálido da madrugada que ainda não chegara.
 
-Kaelina atravessou A passagem fechou atrás dela. O som da tranca voltando ao lugar pareceu maior do lado de fora.
+Kaelina atravessou. A passagem fechou atrás dela. O som da tranca voltando ao lugar pareceu maior do lado de fora.
 
 Os Tondrar mais próximos perceberam-na imediatamente. Lanças se ergueram. Arcos foram puxados. Um guerreiro gritou que era uma Polar. Outro pediu ordem. O ruído espalhou-se para trás, alcançando as formações Buldar e os homens próximos a Kharvok. Kaelina caminhou.
 
@@ -300,11 +300,11 @@ Alguns Buldar desviaram o olhar. Nynestra apertou a mão sobre o punho da espada
 
 — E quem está os prendendo? Chegaram até aqui, nas muralhas de Kaendar, sem impedimento, sem dificuldade. A visão que vocês têm de Kaendar... de que é uma fortaleza impenetrável... não existe. Somos um como vocês. Meu pai foi duro, assim como os soberanos anteriores. Não posso pedir que confiem que será diferente comigo ou Alyra...
 
-A frase atravessou a formação Buldar Kaelina continuou:
+A frase atravessou a formação Buldar. Kaelina continuou:
 
 — Mas cada homem que morre diante desta muralha é um campo sem guarda, uma carroça que não chega ao celeiro, uma família que perde quem carregava água e um canal que fica fechado quando a próxima chuva vier. Tondrar podem alimentar o ódio por muitos ciclos. Você não alimenta Nyn-Harad com ódio.
 
-— Não provoque, Polar. Meus homens só não te mataram ainda por que não dei o sinal — disse Nynestra.
+— Não provoque, Polar. Meus homens só não te mataram ainda porque não dei o sinal — disse Nynestra.
 
 Kaelina não recuou.
 
@@ -330,7 +330,7 @@ A pergunta silenciou parte do campo. Kaelina respondeu sem demora:
 
 A raiva surgiu nos olhos da Buldar, mas não havia apenas raiva. Havia cálculo, rápido e involuntário. Kaelina conhecia aquele olhar. Nynestra estava contando.
 
-Homens perdidos. Carroças. Campos distantes. Famílias esperando. A próxima estação. O que aconteceria se ela morresse ali, se Hadrun precisasse voltar sozinho, se os Buldar entregassem mais sangue a uma vitória que talvez terminasse com Tondrar dentro de Kaendar
+Homens perdidos. Carroças. Campos distantes. Famílias esperando. A próxima estação. O que aconteceria se ela morresse ali, se Hadrun precisasse voltar sozinho, se os Buldar entregassem mais sangue a uma vitória que talvez terminasse com Tondrar dentro de Kaendar.
 
 — Retire seus homens — concluiu Kaelina.
 
@@ -382,7 +382,9 @@ Hadrun soltou o ar que parecia prender desde o início do discurso. Os Buldar co
 
 Não foi uma retirada desordenada. Escudos formaram corredores. Feridos foram colocados em carroças. Arqueiros mantiveram-se voltados para Kaendar e para os Tondrar ao mesmo tempo, deixando claro que não confiavam em nenhum dos lados. Kharvok avançou para cima de Kaelina.
 
-Ela percebeu tarde demais. Kharvok atravessou o espaço entre os dois exércitos com o rosto tomado pela fúria e ergueu o punho. Nynestra entrou na frente. Segurou-lhe o braço antes que o golpe alcançasse Kaelina. – Não.
+Ela percebeu tarde demais. Kharvok atravessou o espaço entre os dois exércitos com o rosto tomado pela fúria e ergueu o punho. Nynestra entrou na frente e segurou-lhe o braço antes que o golpe alcançasse Kaelina.
+
+— Não.
 
 Kharvok tentou puxar o braço de volta, mas ela não soltou. Ele a empurrou. Nynestra perdeu o equilíbrio e caiu de costas no chão.
 
@@ -390,17 +392,33 @@ Por um instante, ninguém se moveu. Então dezenas de armas se ergueram ao mesmo
 
 Os Buldar mais próximos avançaram. Lâminas e pontas voltaram-se para Kharvok. Escudos fecharam-se diante de Nynestra e Kaelina. Os Tondrar responderam quase no mesmo instante.
 
-Machados foram arrancados dos cintos. Arcos se ergueram. Guerreiros que até poucos segundos antes olhavam para as muralhas de Kaendar agora encaravam os homens com quem haviam dividido o campo de batalha. Kharvok não recuou. Hadrun chegou até Nynestra e a puxou pelo braço. – Está bem? Ela se levantou, ainda olhando para Kharvok. – Estou.
+Machados foram arrancados dos cintos. Arcos se ergueram. Guerreiros que até poucos segundos antes olhavam para as muralhas de Kaendar agora encaravam os homens com quem haviam dividido o campo de batalha. Kharvok não recuou. Hadrun chegou até Nynestra e a puxou pelo braço.
 
-Ao redor deles, o espaço entre Buldar e Tondrar desaparecia. Escudos batiam uns contra os outros. Homens gritavam ameaças. Um empurrão era respondido por outro. Bastava uma lâmina avançar alguns dedos para que aquilo deixasse de ser uma ameaça. Kharvok olhou para Kaelina. – Homens! – gritou. – Matem a Polar! Nynestra arregalou os olhos para Kaelina.
+— Está bem?
 
-– Corra! – Depois, mais baixo, quase perdido no caos: – Eu disse que não ia fingir. Os arcos Tondrar se ergueram e Kaelina correu, em um corredor Buldar.
+Ela se levantou, ainda olhando para Kharvok.
+
+— Estou.
+
+Ao redor deles, o espaço entre Buldar e Tondrar desaparecia. Escudos batiam uns contra os outros. Homens gritavam ameaças. Um empurrão era respondido por outro. Bastava uma lâmina avançar alguns dedos para que aquilo deixasse de ser uma ameaça. Kharvok olhou para Kaelina.
+
+— Homens! — gritou. — Matem a Polar!
+
+Nynestra arregalou os olhos para Kaelina.
+
+— Corra! — Depois, mais baixo, quase perdida no caos: — Eu disse que não ia fingir.
+
+Os arcos Tondrar se ergueram e Kaelina correu por um corredor Buldar.
 
 Nynestra avançou sobre o arqueiro mais próximo e bateu no arco antes que ele pudesse disparar. Outro Tondrar tentou passar por ela. Hadrun o empurrou para trás.
 
-O homem respondeu com o cabo da arma. Um Buldar atingiu seu escudo contra o peito dele E aquilo bastou.
+O homem respondeu com o cabo da arma. Um Buldar bateu o escudo contra o peito dele. Aquilo bastou.
 
-O primeiro golpe veio de algum lugar no meio da formação. Depois outro. Um Tondrar caiu. Um Buldar foi lançado contra uma carroça. Escudos chocaram-se. Lâminas foram desembainhadas. Um arco se partiu sob um machado antes que a flecha pudesse ser solta. – BULDAR, RECUEM! – gritou Nynestra. Sua voz desapareceu no tumulto. Os homens de Kharvok avançaram para abrir passagem até Kaelina.
+O primeiro golpe veio de algum lugar no meio da formação. Depois outro. Um Tondrar caiu. Um Buldar foi lançado contra uma carroça. Escudos chocaram-se. Lâminas foram desembainhadas. Um arco se partiu sob um machado antes que a flecha pudesse ser solta.
+
+— BULDAR, RECUEM! — gritou Nynestra.
+
+Sua voz desapareceu no tumulto. Os homens de Kharvok avançaram para abrir passagem até Kaelina.
 
 Os de Nynestra avançaram para impedi-los. Em poucos segundos, os dois exércitos que haviam marchado juntos contra Kaendar estavam lutando entre si. Kaelina não olhou para trás.
 
@@ -734,9 +752,13 @@ Ela caiu de joelhos diante dos tronos. Iressa deu um passo, mas parou quando Ren
 
 — Não — disse a conselheira.
 
-Rendar não olhou para ela. Alyra tentou levantar. A lâmina pressionou sua pele. – Olhe para mim.
+Rendar não olhou para ela. Alyra tentou levantar. A lâmina pressionou sua pele.
 
-Alyra ergueu o rosto devagar. Não havia submissão no gesto. Mesmo cercada, ferida e com uma espada diante de si, sustentou os olhos de Rendar como se ainda estivesse sentada no trono e ele fosse apenas mais um homem obrigado a responder diante dela. – Estou olhando.
+— Olhe para mim.
+
+Alyra ergueu o rosto devagar. Não havia submissão no gesto. Mesmo cercada, ferida e com uma espada diante de si, sustentou os olhos de Rendar como se ainda estivesse sentada no trono e ele fosse apenas mais um homem obrigado a responder diante dela.
+
+— Estou olhando.
 
 — Você matou minha família.
 
@@ -784,7 +806,7 @@ Daryon apoiou a outra mão no assento e forçou o corpo a ficar de pé. O corte 
 
 Rendar deu um passo na direção dele e a espada foi junto, saindo do alcance de Alyra.
 
-— Eu deixei que o mundo acreditasse que foram os Fendelar começaram.
+— Eu deixei que o mundo acreditasse que os Fendelar começaram.
 
 Alyra sabia que não era verdade. Não tinha como Daryon saber disso. Daryon recuou meio passo e os olhos de Rendar o seguiram.
 
@@ -796,19 +818,19 @@ Atrás dele, Alyra apoiou um joelho no chão. Rendar não viu. Estava olhando pa
 
 — Eu queria encerrar o que Ylvena começou.
 
-— Ylvena? — perguntou Alyra — o que essa mulher tem a ver com isso tudo?
+— Ylvena? — perguntou Alyra. — O que essa mulher tem a ver com isso tudo?
 
 — Foi Ylvena quem matou os garotos e plantou o amuleto.
 
 No chão, Alyra parou de tentar se levantar. Daryon não olhou para ela. Olhar seria devolver a espada ao pescoço dela.
 
-— Envenenei Yvenn para que os Tondrar duvidassem de si mesmo e para que Alyra... tivesse sua força. O veneno, a água, a acusação aos Tondrar. Eles não começaram esta guerra. Eu comecei cada parte dela.
+— Envenenei Yvenn para que os Tondrar duvidassem de si mesmos e para que Alyra... tivesse sua força. O veneno, a água, a acusação aos Tondrar. Eles não começaram esta guerra. Eu comecei cada parte dela.
 
 Rendar avançou até ele. Daryon ergueu os olhos, ainda medindo quanto valia cada palavra que lhe restava.
 
 — E eu fiz tudo isso... por nós — disse, olhando para Alyra, não para ele.
 
-Não era confissão. Rendar só entenderia isso tarde demais: era a última carta de um homem que contava havia muito quanto tempo a raiva de um caçador levava para virar hesitação.
+A confissão era a última carta de um homem que contava havia muito quanto tempo a raiva de um caçador levava para virar hesitação.
 
 Rendar cruzou a distância e prendeu Daryon pelo colarinho, erguendo-o contra o trono.
 

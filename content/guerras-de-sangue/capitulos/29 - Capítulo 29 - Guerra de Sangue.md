@@ -62,7 +62,7 @@ Daryon moveu-se junto ao trono. Foi um gesto pequeno, quase incapaz de vencer o 
 
 Alyra fechou os olhos por meio instante, como se a confissão pública fosse mais uma ferida aberta por alguém que dizia amá-la. Quando os abriu, já não havia espaço para vergonha. Apenas ódio.
 
-— Rendar. Alyra merece o que quer que você vai fazer com ela. Mas matá-la não resolverá nada. Porque assim como você foi enganado... ela também foi. Daryon escondeu a assassina de nosso pai por anos. Mentiu para ela. E essa mulher, começou tudo isso. Por culpa dela o ódio se instaurou nos Polar, nos Tondrar e nos Buldar. Por culpa dela os Fendelar estão mortos. Meu pai tentou da forma que pode segurar a guerra por anos. Mas ela ainda assim veio, tardia. É inevitável. Rendar, tudo é muito mais complexo do que parece ser.
+— Rendar, Alyra merece responder pelo que fez, mas matá-la não resolverá nada. Assim como você, ela também foi enganada. Daryon escondeu por anos a assassina de nosso pai e mentiu para ela. Ylvena plantou o ódio entre Polar, Tondrar e Buldar; por causa dela, os Fendelar estão mortos. Meu pai tentou conter a guerra por anos, mas ela veio mesmo assim. Tudo é mais complexo do que parece.
 
 Rendar olhou para Daryon, depois para a mulher que segurava.
 
@@ -72,7 +72,7 @@ Rendar olhou para Daryon, depois para a mulher que segurava.
 
 — Eu ordenei que não tocassem nas crianças.
 
-— Ordenou? — perguntou Kaelina — e você acha que alguém lá fora escuta você? Os homens estão matando tudo o que respira. Mulheres, crianças... bebês. Tudo que tem sangue Polar.
+— Ordenou? — perguntou Kaelina. — E você acha que alguém lá fora escuta você? Os homens estão matando tudo o que respira. Mulheres, crianças... bebês. Tudo que tem sangue Polar.
 
 Alyra tentou virar-se contra ele, mas Rendar pressionou a espada junto ao seu pescoço. Kaelina deu um passo.
 
@@ -94,7 +94,7 @@ Rendar respirou com dificuldade. Os olhos estavam úmidos, mas nenhuma lágrima 
 
 Ele endureceu. Kaelina continuou antes que pudesse rejeitar a frase.
 
-— Foi isso que fizeram com Velarim. Daryon escolheu sua aldeia porque acreditou que vocês eram poucos demais para importar. Alyra aceitou porque acreditou que sua família podia virar prova contra os Tondrar. Você está fazendo o mesmo que fizeram com você. Está dando seguimento pra todo esse ódio.
+— Foi isso que fizeram com Velarim. Daryon escolheu sua aldeia porque acreditou que vocês eram poucos demais para importar. Alyra aceitou porque acreditou que sua família podia virar prova contra os Tondrar. Você está fazendo o mesmo que fizeram com você. Está prolongando esse ódio.
 
 Rendar olhou para a barriga de Alyra, escondida sob as placas frouxas da armadura.
 
@@ -344,7 +344,7 @@ Rendar acompanhou tudo em silêncio. O maxilar endureceu, mas ele não discutiu 
 
 Homens vinham o tempo todo com novos prisioneiros. Mais abaixo, capturaram Glydars segurando uma passagem próxima aos depósitos de sal úmido. Haviam virado mesas e barris para formar proteção contra os guardas. Um deles usava uma faixa azul de margem no braço e parecia comandar os outros.
 
-Glydar resistentes caíam. Alguns Vendrar perto do rio. Lorde Ossar não foi visto. Alguns disseram que ele fugiu de volta para Margem dos Zírrios, outros que tinha sido morto na batalha. Não importava.
+Os Glydar que resistiam caíam, assim como alguns Vendrar perto do rio. Lorde Ossar não foi visto. Alguns disseram que fugira de volta para a Margem dos Zírrios; outros, que morrera na batalha. Naquele momento, não havia como saber.
 
 A cada rua atravessada, Rendar via Glydars serem levados, casas incendiadas, Vendrar lutando. Alguns Tondrar que haviam conseguido entrar pelo cais gritavam e tentavam lutar, alguns eram espetados por lanças compridas, às vezes mortalmente. Rendar não respondeu a nada. A madrugada clareava devagar.
 
@@ -380,7 +380,7 @@ Kaelina escutou.
 
 Sarkan não sorriu. Rendar caminhou em direção às portas do cais. Eram menores do que os portões da Garganta, mas ainda largas o bastante para permitir carga, carroças e grupos de pescadores. Uma das folhas havia sido arrancada das dobradiças durante a invasão. A outra permanecia inclinada, sustentada por correntes quebradas e uma trave improvisada.
 
-Do lado de fora, barcos Glydar e pequenas embarcações Vendrar balançavam nas águas escuras. Polar atravessavam o espaço carregando feridos e prisioneiros. Alguns dos quais olhavam para Rendar esperando alguma boa notícia. Talvez ainda houvese esperança deles se soltarem e a batalha continuar. De tomarem a cidade e derrotarem os Polar. Outros já estavam exaustos demais para se importar com quem encerrara a guerra.
+Do lado de fora, barcos Glydar e pequenas embarcações Vendrar balançavam nas águas escuras. Polar atravessavam o espaço carregando feridos e prisioneiros. Alguns olhavam para Rendar à espera de alguma boa notícia. Talvez ainda esperassem se soltar, retomar a batalha, tomar a cidade e derrotar os Polar. Outros já estavam exaustos demais para se importar com quem encerrara a guerra.
 
 Rendar parou diante do portão quebrado. Por alguns instantes, observou o rio. Kaelina ficou alguns passos atrás. Não sabia o que dizer a um homem que havia atravessado metade de Jesed para chegar àquele lugar e agora partia sem casa, sem família e sem a vingança completa que acreditara precisar.
 
@@ -422,7 +422,7 @@ Segurou-o antes que o rosto atingisse o chão. O peso quase a derrubou. Sangue s
 
 Os olhos dele ainda estavam abertos, mas já não procuravam Kaendar. A respiração não veio outra vez.
 
-— Quem atirou?— gritou Kaelina virando-se agressivamente.
+— Quem atirou? — gritou Kaelina, virando-se de súbito.
 
 Assim como Kaelina, os guardas procuravam pelo executor. Sarkan desceu das caixas com a espada na mão. Kaelina pousou Rendar no chão e ao virar-se, viu Alyra na entrada da rua.
 
@@ -436,7 +436,7 @@ Kadrir surgiu logo depois, o rosto escurecido, como se tivesse passado perto do 
 
 Alyra soltou o arco no chão.
 
-— Acabei com nosso ionimigo.
+— Acabei com nosso inimigo.
 
 — Não. Não. Não. Você está continuando a guerra.
 
@@ -454,9 +454,9 @@ Ela apontou para Rendar.
 
 Murmúrios cresceram ao redor. Alyra ergueu o queixo.
 
-— Você é fraca Kaelina. É sua culpa que estamos aqui. É sua culpa que a cidade está em chamas. É sua culpa que essa guerra tenha começado. Tudo porque você foi fraca.
+— Você é fraca, Kaelina. É sua culpa que estamos aqui. É sua culpa que a cidade está em chamas. É sua culpa que essa guerra tenha começado. Tudo porque você foi fraca.
 
-— Não Alyra. Você é que é fraca. Precisa o tempo todo ordenar, mandar, sentir-se no poder, para que tenha essa validação de ser a soberana. Nosso pai não nasceu soberano, espero que lembre-se disso. As pessoas o escolheram por ele ser quem era.
+— Não, Alyra. Você é que é fraca. Precisa o tempo todo ordenar, mandar, sentir-se no poder, para se validar como soberana. Nosso pai não nasceu soberano, espero que se lembre disso. As pessoas o escolheram por quem ele era.
 
 Alyra avançou.
 
@@ -514,7 +514,7 @@ Alyra observou o sangue seco nas roupas da irmã e falou entre os dentes.
 
 Kaelina percebeu o tom e não recuou.
 
-— Você nem mesmo entende isso, irmã. A devoção dele... nunca foi sobre lealdade. Ele fazia coisas às suas costas desde o início. Porque Daryon era assim. Ainda assim, ele te servia, mesmo sabendo que podia ser errado. Daryon se tornou quem era, por sua culpa. Por sua ambição e seu veneno. Você fabricou provas, ordenou o massacre dos Fendelar, e acaba de violar minha palavra diante do povo. Por sua culpa, a cidade queima, mentiras correm sobre nós, e uma guerra se iniciou depois de décadas de paz. Ninguém mais irá aceitar suas ordens.
+— Você nem mesmo entende isso, irmã. A devoção dele... nunca foi lealdade. Ele agia às suas costas desde o início e ainda assim te servia. Daryon se tornou quem era por causa da sua ambição e do seu veneno. Você fabricou provas, ordenou o massacre dos Fendelar e acaba de violar minha palavra diante do povo. Por sua culpa, a cidade queima, mentiras correm sobre nós e uma guerra começou depois de décadas de paz. Ninguém mais aceitará suas ordens.
 
 Alyra apertou os lábios.
 
@@ -528,7 +528,7 @@ Kaelina recebeu a lâmina com a própria espada, ainda manchada pelo sangue de h
 
 — Parem! — gritou Kadrir.
 
-Alyra mirou o tubo de fogo nos soldados e em Kadrir e chamas os obrigou a recuarem. Então atacou novamente a irmã.
+Alyra mirou o tubo de fogo nos soldados e em Kadrir. As chamas os obrigaram a recuar. Então atacou novamente a irmã.
 
 Kaelina recuou para perto de uma carroça quebrada. O segundo golpe atingiu a lateral da madeira e arrancou uma lasca. Kaelina respondeu com um corte baixo, mirando a perna, mas Alyra bloqueou.
 
@@ -542,7 +542,7 @@ Kaelina recuou de outro golpe.
 
 Alyra avançou com mais força. Kaelina aparou, girou e atingiu a lateral da armadura. A lâmina deslizou pela placa sem entrar. Alyra bateu o ombro contra ela. Kaelina caiu sobre um escudo abandonado, sentiu a borda de metal abrir sua pele e rolou antes que a espada descesse. A lâmina de Alyra atingiu o chão. Kaelina levantou-se com dificuldade.
 
-Ao redor, ninguém sabia a quem obedecer. Guardas mantinham as armas erguidas, mas qualquer intervenção podia matar uma das duas. Moradores observavam das casas. Os invasores aprisionados imóveis, assistiam a Dinastia lutar diante dos portões que havia jurado controlar.
+Ao redor, ninguém sabia a quem obedecer. Guardas mantinham as armas erguidas, mas qualquer intervenção podia matar uma das duas. Moradores observavam das casas. Os invasores aprisionados permaneciam imóveis, assistindo à Dinastia lutar diante dos portões que havia jurado controlar.
 
 Alyra tornou a atacar. Kaelina percebeu que a irmã não estava tentando feri-la. Tentava matar.
 

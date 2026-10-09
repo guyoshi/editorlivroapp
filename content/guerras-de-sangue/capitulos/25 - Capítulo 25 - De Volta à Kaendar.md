@@ -162,7 +162,7 @@ Kaelina encostou-se à parede, não por escolha, mas porque as pernas queriam de
 
 — Consegue ficar em pé?
 
-— Por que se importa?.
+— Por que se importa?
 
 Ele olhou pela janela outra vez.
 
@@ -180,7 +180,7 @@ Kaelina não respondeu.
 
 — É guerra.
 
-— Não se trata de guerras, e sim de escolhas. Aqueles homens escolheram atirar em nós mesmo você estando por perto.
+— Não se trata de guerra, e sim de escolhas. Aqueles homens escolheram atirar em nós mesmo você estando por perto.
 
 Kaelina soltou um riso pequeno, seco e sem humor.
 
@@ -358,4 +358,4 @@ O nome não precisou ser dito para ocupar o cômodo inteiro dentro dela. A mulhe
 
 Ylvena estava ali, escondida em Kaendar durante o cerco, diante de Daryon.
 
-Kaelina sentiu a mão de Marken tocar de leve seu braço, avisando-a para não se mover. A fraqueza, o medo e a revelação a prenderam mais do que qualquer corda. Só havia uma pergunta crescendo no escuro: o que aquela mulher fazia ali?
+Kaelina sentiu a mão de Marken tocar de leve seu braço, avisando-a para não se mover. A fraqueza, o medo e a revelação a prenderam mais do que qualquer corda. Ylvena estava ali, escondida em Kaendar durante o cerco, diante de Daryon.

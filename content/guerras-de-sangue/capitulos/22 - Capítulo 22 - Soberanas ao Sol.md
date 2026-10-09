@@ -84,8 +84,6 @@ Quando o elevador chegou ao nível da plataforma, dois guardas lançaram as lâm
 
 O pátio respondeu com urros, mas Kaelina não olhou para o povo. Olhou para Nynestra. A Buldar segurava a faca sem pressa, respirando mal por causa da perna, mas com o olhar firme demais para quem estava apenas assustada. Kaelina procurou ali algum sinal do acordo imperfeito feito nas Veias de Barro. Não encontrou certeza. Encontrou cálculo, raiva, uma distância que podia ser atuação, mas também podia ser verdade.
 
-Era isso que tornava tudo perigoso.
-
 Kaelina ergueu o rosto e deixou a própria expressão endurecer. Não tentou parecer justa, nem ferida, nem ela mesma. Pensou em Alyra, no modo como a irmã usava crueldade como se fosse direito antigo, no modo como transformava uma sala inteira em degrau apenas mudando a voz. Kaelina odiava aquela parte da irmã. Por isso mesmo, sabia imitá-la.
 
 — Buldar — disse ela, alto o bastante para o pátio ouvir — sempre confundiram celeiro com trono.
@@ -146,7 +144,7 @@ A palavra pegou depressa.
 
 — Mata! Mata! Mata!
 
-Lanções bateram no chão. Punhos golpearam peitos. Os tambores responderam com batidas curtas, ansiosas, erradas, como se até quem os tocava tivesse esquecido o ritmo por um instante. A Plataforma do Sol Alto parecia tremer sob a sede deles. Kaelina continuava de joelhos, a mão apertada contra o corte abaixo das costelas, sentindo o sangue escapar entre os dedos. O sol entrava em seus olhos, branco e duro. Seus lábios estavam secos demais para formar qualquer palavra. Mesmo que pudesse falar, não saberia o que dizer.
+Lanças bateram no chão. Punhos golpearam peitos. Os tambores responderam com batidas curtas, ansiosas, erradas, como se até quem os tocava tivesse esquecido o ritmo por um instante. A Plataforma do Sol Alto parecia tremer sob a sede deles. Kaelina continuava de joelhos, a mão apertada contra o corte abaixo das costelas, sentindo o sangue escapar entre os dedos. O sol entrava em seus olhos, branco e duro. Seus lábios estavam secos demais para formar qualquer palavra. Mesmo que pudesse falar, não saberia o que dizer.
 
 Nynestra permanecia diante dela com a faca na mão. A lâmina ainda pingava.
 
@@ -172,7 +170,7 @@ Nynestra ficou de mãos vazias diante de Kaelina, ofegante, o rosto tomado por u
 
 Nynestra não se moveu.
 
-— Mate-a— repetiu a Voz.
+— Mate-a — repetiu a Voz.
 
 Kaelina sentiu o coração bater no ferimento. Nynestra virou o rosto para Kharvok. O suor descia pela têmpora dela, abrindo caminho pela poeira.
 
@@ -200,7 +198,7 @@ Nynestra respirou fundo. Agora o pátio escutava, mas não por concordar. Escuta
 
 A palavra vergonha fez mais efeito que refém. Nynestra percebeu e avançou por ela.
 
-— Eu não matei Torgun. Os homens que nos enviaram seguem vivos, lutando. Mas Torgun, foi morto, pelos Urtistar, que fizeram um acordo com os Polar, de vigiar suas terras. Vocês querem vingança por Torgun? Então não deem aos Polar uma morte bonita. Deem a eles uma pergunta que não conseguem responder. Mostrem a soberana no caminho. Mostrem o sangue dela. Mostrem que a Boca Seca não precisa matar correndo porque sabe fazer uma muralha suar antes de cair.
+— Eu não matei Torgun. Os homens que nos enviaram seguem vivos, lutando. Torgun foi morto pelos Urtistar, que fizeram um acordo com os Polar para vigiar suas terras. Vocês querem vingança por Torgun? Então não deem aos Polar uma morte bonita. Deem a eles uma pergunta que não conseguem responder. Mostrem a soberana no caminho. Mostrem o sangue dela. Mostrem que a Boca Seca não precisa matar correndo porque sabe fazer uma muralha suar antes de cair.
 
 Eshvar, entre os do Círculo, falou pela primeira vez:
 
@@ -226,7 +224,7 @@ Nynestra não reagiu ao insulto. Não podia. A vitória ali era ser útil sem pa
 
 Um novo tumulto ameaçou subir, mas Kharvok cortou-o com a própria voz.
 
-— Viva não é livre. Viva não é hóspede. Viva não é perdão. Ela será levada com corda, febre e sangue. A irma verá o que a Boca Seca carrega. Se quiser ela, terá de sair de seu esconderijo.
+— Viva não é livre. Viva não é hóspede. Viva não é perdão. Ela será levada com corda, febre e sangue. A irmã verá o que a Boca Seca carrega. Se a quiser, terá de sair de seu esconderijo.
 
 O pátio aceitou aos poucos. Não por piedade. Não por confiança em Nynestra. Aceitou porque a morte rápida tinha sido transformada em coisa menor. E nenhum Tondrar queria parecer pequeno diante da própria sede.
 
@@ -236,7 +234,7 @@ Kaelina baixou os olhos para o sangue nos próprios dedos e entendeu que tinha s
 
 — E você, Mão da Colheita, não foi limpa. Até que a garganta decida o seu destino, você respira porque tem utilidade. Nada mais.
 
-Nynestra baixou a faca. Não agradeceu. Agradecer seria perder. Kharvok mostrou os dentes.
+Nynestra baixou a cabeça. Não agradeceu. Kharvok mostrou os dentes.
 
 — Partiremos para Kaendar em alguns dias.
 
@@ -278,7 +276,7 @@ Um silêncio comprido. Depois, tão baixo que quase se perdeu no calor da cela:
 
 — Mentira minha, também — disse Nynestra, sem olhar para ela. — Mas fica com a versão que combinamos lá atrás.
 
-Kaelina não perguntou qual das duas era mentira. Kaelina fechou os olhos. A febre fazia as pedras luminosas parecerem mais distantes.
+Kaelina não perguntou qual das duas era mentira. Fechou os olhos; a febre fazia as pedras luminosas parecerem mais distantes.
 
 — Você acha que vamos conseguir sair?
 
@@ -306,7 +304,7 @@ Os portões internos fecharam primeiro. Depois os externos. Barras de madeira es
 
 A Boca Seca abriu-se.
 
-Saíram pelo corredor de poeira e osso, com o sol já alto o bastante para transformar pedra em lâmina. Kaelina caminhou no meio do grupo, presa por dois guardas, o corpo balançando entre dor e febre. O calor entrou pelo couro da roupa, pelo cabelo sujo, pela ferida. Às vezes a visão manchava de branco. Às vezes o mundo se estreitava no som dos próprios passos. Nynestra seguia adiante, mais próxima dos Buldar? Não. Não havia Buldar ali. Mais próxima de si mesma, talvez. Tinha a liberdade limitada de quem ainda era útil. Kaelina tinha a sobrevivência vigiada de quem ainda valia como ameaça.
+Saíram pelo corredor de poeira e osso, com o sol já alto o bastante para transformar pedra em lâmina. Kaelina caminhou no meio do grupo, presa por dois guardas, o corpo balançando entre dor e febre. O calor entrou pelo couro da roupa, pelo cabelo sujo, pela ferida. Às vezes a visão manchava de branco; às vezes o mundo se estreitava no som dos próprios passos. Nynestra seguia adiante com a liberdade limitada de quem ainda era útil. Kaelina tinha a sobrevivência vigiada de quem ainda valia como ameaça.
 
 O caminho pela Garganta Seca não era estrada. Era prova. A pedra estreitava a passagem, abria de repente, depois fechava outra vez. O chão mudava de barro duro para cascalho e de cascalho para lajes antigas partidas por raízes secas. Em certos pontos, marcas de luta ainda permaneciam. Uma lasca de lança entre pedras. Uma mancha escura que a chuva não lavara. Quando chegaram ao trecho onde a antiga Voz fora morta sob trégua, os Tondrar diminuíram o ritmo sem receber ordem.
 
@@ -352,7 +350,7 @@ O guarda olhou tarde demais. O Urtistar já estava perto de Kharvok, a lâmina b
 
 Nynestra puxou o pulso com toda a força que ainda tinha. A corda rasgou pele, mas não rompeu. Ela cambaleou, tropeçou na própria perna ferida e quase caiu. O guarda a segurou pelo ombro para contê-la. Foi o erro. Nynestra arrancou a faca curta da cintura dele.
 
-Não com elegância. Não com velocidade de guerreira treinada. Com desespero, cálculo e a brutalidade de alguém que passou a vida vendo homens decidirem tarde demais. Ela não correu. A perna não permitia. Atirou-se.
+Nynestra se atirou com desespero, cálculo e a brutalidade de quem passou a vida vendo homens decidirem tarde demais. A perna ferida não lhe permitia correr.
 
 A lâmina dela não matou o Urtistar. Entrou no braço que descia contra Kharvok e desviou o golpe o bastante. A faca curva passou pelo couro da Voz, abriu uma linha de sangue na lateral, mas não entrou fundo. Kharvok virou-se com um rugido áspero e quebrou o rosto do atacante com o cabo da lança. Eshvar chegou logo depois e terminou o serviço com um golpe seco na nuca.
 
@@ -364,11 +362,9 @@ Kharvok olhou para o corte na própria lateral. Depois para o Urtistar morto. De
 
 A corda no pulso de Nynestra foi cortada. Ela não agradeceu. Apenas se levantou com dificuldade, devolveu a faca ao guarda pelo cabo e pegou do chão uma lança caída de outro Tondrar. Dessa vez ninguém tentou impedi-la. A batalha continuou mais curta e mais cara do que deveria ter sido.
 
-Os Urtistar eram poucos. Poucos demais para vencer. Mas bons demais para morrer barato. Um deles levou três Tondrar antes de cair sob duas lanças. Outro fingiu recuar, puxou um guerreiro para uma fenda e abriu-lhe a barriga antes que Eshvar o alcançasse. Um Urtistar de barba curta, com pedras negras presas nas tranças da barba curta, lutou com duas facas curvas e quase passou pelo círculo que protegia Kaelina. Só caiu quando uma lança Tondrar atravessou sua coxa e Nynestra, mancando, golpeou-lhe o rosto com a ponta romba da própria arma.
+Os Urtistar eram poucos, incapazes de vencer, mas bons demais para morrer barato. Um deles levou três Tondrar antes de cair sob duas lanças. Outro fingiu recuar, puxou um guerreiro para uma fenda e abriu-lhe a barriga antes que Eshvar o alcançasse. Um Urtistar com pedras negras presas nas tranças da barba lutou com duas facas curvas e quase passou pelo círculo que protegia Kaelina. Só caiu quando uma lança Tondrar atravessou sua coxa e Nynestra, mancando, golpeou-lhe o rosto com a ponta romba da própria arma.
 
-Kaelina viu pouco. Viu demais. No meio da confusão, a corda que a prendia afrouxou quando o guarda ao seu lado recebeu uma faca no peito. Ele caiu de joelhos, ainda tentando segurar o cabo enfiado entre as costelas. A mão que prendia Kaelina se abriu. Por um instante, ninguém a segurava. Ela correu. Ou tentou.
-
-O corpo não entendeu a palavra. Deu dois passos ruins, tropeçou numa raiz seca entre pedras e caiu de lado perto de uma rocha larga. O impacto roubou-lhe o ar. O ferimento abaixo das costelas pareceu rasgar de novo por dentro. Ela tentou apoiar as mãos no chão, mas os braços tremeram e falharam. A poeira entrou em sua boca. O mundo ficou baixo, feito de pedras, botas, sangue e céu branco entre galhos tortos.
+No meio da confusão, a corda que prendia Kaelina afrouxou quando o guarda ao seu lado recebeu uma faca no peito. Ele caiu de joelhos, ainda tentando segurar o cabo enfiado entre as costelas, e abriu a mão. Sem ninguém a segurando, Kaelina tentou correr. Deu dois passos ruins, tropeçou numa raiz seca entre pedras e caiu de lado perto de uma rocha larga. O impacto roubou-lhe o ar. O ferimento abaixo das costelas pareceu rasgar de novo por dentro. Ela tentou apoiar as mãos no chão, mas os braços tremeram e falharam. A poeira entrou em sua boca. O mundo ficou baixo, feito de pedras, botas, sangue e céu branco entre galhos tortos.
 
 Um Urtistar a viu. Ele vinha mancando, com sangue no ombro e uma faca curva ainda firme na mão. Talvez não soubesse quem ela era. Talvez soubesse. Ou talvez apenas tivesse visto uma prisioneira Polar caída e decidido que qualquer Raiz sangrando servia ao deus que observava. Aproximou-se rápido, mais rápido do que um homem ferido deveria conseguir.
 

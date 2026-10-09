@@ -16,7 +16,7 @@ Daryon não respondeu de imediato. Ele olhou para a porta, depois para a parede,
 
 — Eu vim dizer que a noite mudou.
 
-Ylvena riu. O riso saiu baixo e seco, pior por não precisar de volume. Pequeno, seco, como um osso se partindo dentro da boca.
+Ylvena riu baixo, como um osso se partindo dentro da boca.
 
 — A noite sempre muda de acordo com seus interesses.
 
@@ -30,7 +30,7 @@ Ylvena riu. O riso saiu baixo e seco, pior por não precisar de volume. Pequeno,
 
 Kaelina sentiu o coração bater mais forte. Perto dos Tondrar. A mão de Marken apertou levemente seu braço, advertindo-a outra vez.
 
-Daryon aproximou-se da mesa, mas não tocou em Ylvena. Havia distância entre os dois, e essa distância parecia antiga. A distância entre os dois carregava intimidade antiga, já apodrecida o bastante para doer.
+Daryon aproximou-se da mesa, mas não tocou em Ylvena. A distância entre os dois carregava uma intimidade antiga, já apodrecida o bastante para doer.
 
 — Você voltou porque quis.
 
@@ -218,7 +218,7 @@ Daryon não respondeu.
 
 — O bastante para me salvar — continuou ela — Mas nunca me amou. Porque amor é a palavra que gente fraca usa quando quer que o mundo respeite sua fome sem chamá-la pelo nome. Eu amei você de forma útil. Fiz o que o sentimento sozinho nunca faria. Entendi o que você queria antes que você tivesse coragem de pedir.
 
-Kaelina ouviu a própria respiração ficando mais pesada. Quis tapar os ouvidos, continuar ouvindo, quis que Orionus entrasse pela parede e dissesse que tudo aquilo era uma mentira ridícula inventada por uma mulher quebrada. Mas Orionus estava morto. E aquela mulher acabara de dizer que sabia fazer mortes parecerem nomes de clã. Daryon respirou fundo.
+Kaelina ouviu a própria respiração ficar mais pesada. Quis tapar os ouvidos e, ao mesmo tempo, continuar ouvindo. Quis que Orionus entrasse pela parede e dissesse que tudo aquilo era uma mentira ridícula inventada por uma mulher quebrada. Mas Orionus estava morto. E aquela mulher acabara de dizer que sabia fazer mortes parecerem nomes de clã. Daryon respirou fundo.
 
 — Você enlouqueceu.
 
@@ -308,7 +308,7 @@ Daryon atravessou o espaço e agarrou Ylvena pelo braço. A mesa rangeu quando e
 
 — Nunca mais diga isso — sussurrou Daryon.
 
-Ylvena não demonstrou medo. Ou, se demonstrou, transformou-o depressa em crueldade. Um ruído distante atravessou a pedra: gritos, talvez, ou metal batendo em portão interno. A cidade continuava em guerra. O mundo não esperava que os culpados terminassem suas frases. Ele respirou fundo e recolocou a máscara no rosto. Não inteira. Mas o bastante.
+Ylvena transformou o medo depressa em crueldade. Um ruído distante atravessou a pedra: gritos, talvez, ou metal batendo em portão interno. A cidade continuava em guerra. O mundo não esperava que os culpados terminassem suas frases. Ele respirou fundo e recolocou no rosto o bastante da máscara.
 
 — Você vai embora. E tem até os sinos cessarem — disse ele.
 
@@ -416,7 +416,7 @@ Marken disse algo atrás dela. Talvez seu nome. Kaelina não ouviu. Bateu mais u
 
 Kaelina ficou sobre ela, as mãos presas no cabelo da mulher, os dedos molhados, os joelhos doendo contra a pedra. A respiração vinha em pedaços. A lamparina caída ainda queimava fraca num canto, lambendo óleo que não encontrava alimento suficiente para crescer. A água da jarra quebrada se espalhava pelo chão, levando fios de sangue em linhas finas. Kaelina soltou Ylvena.
 
-A cabeça da mulher ficou virada de lado. imóvel. Ela recuou, arrastando-se para trás até bater na parede. Sentou-se ali, sem força para levantar. Olhou para as próprias mãos. Estavam cobertas de sangue.
+A cabeça da mulher ficou imóvel, virada de lado. Kaelina recuou, arrastando-se até bater na parede. Sentou-se ali, sem força para levantar. Olhou para as próprias mãos. Estavam cobertas de sangue.
 
 Havia sangue nos dedos, nas unhas, nas linhas da palma, escorrendo pelo pulso, misturado com o corte que o vidro abrira. Sangue de Ylvena. Sangue dela. Sangue que não sabia separar culpa de ferida.
 

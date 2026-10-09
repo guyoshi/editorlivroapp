@@ -16,7 +16,7 @@ Mais adiante, o calor cedeu quando nuvens baixas cobriram parte do sol. A terra 
 
 Foi perto do entardecer que ouviram tarraks. Não muitos. Mas o som de casco em terra úmida viaja diferente do som de pedra solta. Os Tondrar se espalharam sem grito. Lanças baixaram. Arcos apareceram. Kaelina foi puxada para trás de dois corpos armados, e uma faca encostou em sua lateral, não no ferimento, mas perto o bastante para lembrar que refém também podia virar cadáver rápido.
 
-Os tarraks pararam antes de aparecer.Depois a mata se moveu. Homens surgiram em semicírculo, não como grupo pego de surpresa, mas como braço fechando uma garganta. À esquerda, Tondrar com marcas de lama e sangue seco nos braços. À direita, Buldar com escudos simples, arcos curtos e capas de viagem pesadas. Mais atrás, algumas figuras Vendrar carregavam lâminas, tubos escuros, cordas e potes presos em cintos de couro.
+Os tarraks pararam antes de aparecer. Depois a mata se moveu. Homens surgiram em semicírculo, não como grupo pego de surpresa, mas como braço fechando uma garganta. À esquerda, Tondrar com marcas de lama e sangue seco nos braços. À direita, Buldar com escudos simples, arcos curtos e capas de viagem pesadas. Mais atrás, algumas figuras Vendrar carregavam lâminas, tubos escuros, cordas e potes presos em cintos de couro.
 
 No centro, Rendar Fendelar montava um tarrak magro, escuro, sujo de lama até o peito. Desceu antes que alguém mandasse. Trazia uma capa gasta, arco às costas, faca no cinto e o rosto de quem já não esperava encontrar coisa alguma intacta no mundo. Varkun estava entre os Tondrar ao lado dele. Hadrun vinha mais atrás, pálido, magro e cansado pela viagem, mas os olhos vivos de um homem que sabia exatamente quais nomes ainda pesavam.
 
@@ -122,7 +122,7 @@ Kaelina levantou levemente a cabeça, para ouvir melhor.
 
 Rendar não respondeu de imediato. A pergunta de Nynestra ficou entre eles com peso de coisa concreta: pão, água, flecha, sol, corpo cansado. Ao redor, homens de clãs inimigos por gerações aguardavam a resposta como se o cerco inteiro coubesse naquela conta.
 
-— Não vamos cercar Kaendar como homens famintos diante de uma porta — disse Rendar abaixando-se e pegando um galho fino do chão. Traçou uma linha na terra úmida, depois um círculo torto.
+— Não vamos cercar Kaendar como homens famintos diante de uma porta — disse Rendar, abaixando-se para pegar um galho fino do chão. Traçou uma linha na terra úmida, depois um círculo torto.
 
 — Kaendar espera exército quando vê bandeira. Espera ataque quando vê fogo, negociação quando vê refém, fome quando vê cerco. Então não daremos uma coisa só para ela entender.
 
@@ -176,7 +176,7 @@ Rendar voltou ao desenho.
 
 — Apenas os Buldar respondem a mim.
 
-— Tondrar, Vendrar e Glydar responde para você do mesmo modo. Porque sem você, eles morrem de fome.
+— Tondrar, Vendrar e Glydar respondem a você do mesmo modo. Porque sem você, eles morrem de fome.
 
 Alguns Tondrar resmungaram. Nynestra não sorriu, mas Kaelina viu algo duro atravessar seu rosto. Hadrun tossiu atrás dela, segurando o peito com a mão fechada.
 
@@ -362,7 +362,7 @@ Nynestra acompanhou o olhar dele.
 
 Hadrun tossiu uma vez, menor, mais amarga.
 
-— É isso que o torna perigoso. Um homem que ama apenas os mortos pode gastar todos os vivos tentando alcançá-los. E ainda assim, ele nunca irá chegar alcançar.
+— É isso que o torna perigoso. Um homem que ama apenas os mortos pode gastar todos os vivos tentando alcançá-los. E, ainda assim, nunca vai alcançá-los.
 
 A frase ficou entre os dois. Ao redor, o acampamento respirava baixo. Um Tondrar partiu tubérculo de Nhar com os dentes. Um Buldar amarrou melhor a carga de pão de campo. Um Vendrar cobriu um tubo escuro com mais uma camada de pano. Ninguém parecia ouvir.
 
@@ -374,7 +374,7 @@ Nynestra respirou devagar. Hadrun tocou de leve o próprio peito, onde a tosse m
 
 Nynestra olhou para o Fendelar ao longe.
 
-— Talvez ele seja um aliado interessante. Mas não coloque tua gente na frente dela quando ela atravessar.
+— Talvez ele seja um aliado interessante. Mas não coloque sua gente na frente dele quando ele atravessar.
 
 Ela ficou em silêncio, enquanto processava. Então virou-se.
 
@@ -404,7 +404,7 @@ Nynestra olhou para ele.
 
 — E por que marcharia com homens que podem te trair?
 
-— Porque não preciso que sejam leais. Preciso que estejam no lugar certo para as soberanas caírem.
+— Porque não preciso que sejam leais. Preciso que estejam no lugar certo quando as soberanas caírem.
 
 A palavra soberanas pareceu mais pesada na boca dele do que Kaendar. Nynestra seguiu o olhar dele.
 
@@ -426,7 +426,7 @@ Ele não respondeu.
 
 — Não preciso saber. São assassinas. São Polar.
 
-— Precisa, se quer usá-las. Estive presa com ela. — e acenou a cabeça para Kaelina — A garota nem parece Polar. Pelo menos não no tipo que imaginamos. Ela falou do pai, da irmã, como uma pessoa normal.
+— Precisa, se quer usá-las. Estive presa com ela. — Acenou a cabeça para Kaelina. — A garota nem parece Polar. Pelo menos não no tipo que imaginamos. Ela falou do pai, da irmã, como uma pessoa normal.
 
 Rendar olhou de volta para a soberana.
 
@@ -444,7 +444,7 @@ Ele olhou para ela. Foi a primeira vez naquela noite que pareceu realmente vê-l
 
 — Elas mandaram matar meu povo — disse ele — Mataram minha Vita. Mataram minha filha, Nara. Mataram Ilo, meu pequenino, que era um bebê.
 
-Os nomes ficaram entre eles. Nara. Ilo. Vita. Nynestra não conhecia nenhum. Mesmo assim, os nomes pareceram ganhar lugar na pedra. Como se cada um tivesse se sentado ali, ao redor do abrigo sem fogo, exigindo que os vivos parassem de transformar morte em plano por alguns instantes. Rendar não disse mais nada.v Talvez não pudesse. Nynestra olhou para a soberana encolhida. Depois para ele.
+Os nomes ficaram entre eles. Nara. Ilo. Vita. Nynestra não conhecia nenhum. Mesmo assim, os nomes pareceram ganhar lugar na pedra. Como se cada um tivesse se sentado ali, ao redor do abrigo sem fogo, exigindo que os vivos parassem de transformar morte em plano por alguns instantes. Rendar não disse mais nada. Talvez não pudesse. Nynestra olhou para a soberana encolhida. Depois para ele.
 
 — Os Buldar entendem bem sobre sementes — disse.
 
@@ -462,7 +462,7 @@ Rendar olhou para ela como se a odiasse por ter encontrado aquela fresta.
 
 A voz saiu quase sem ar. Nynestra sentiu a resposta prender na própria garganta. Quando falou, saiu mais baixo:
 
-— A diferença entre um assassino e um homem perdido é muito pequena. Tão pequena, que é capaz dele mesmo confundir o que ele é de verdade.
+— A diferença entre um assassino e um homem perdido é tão pequena que ele mesmo pode confundir o que é de verdade.
 
 Rendar desviou o olhar.
 

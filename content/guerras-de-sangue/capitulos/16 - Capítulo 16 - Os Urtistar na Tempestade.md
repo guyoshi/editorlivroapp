@@ -14,7 +14,7 @@ Então Rendar chegou. Um Tondrar parou de bater a lâmina, depois outro, até os
 
 Rendar atravessou o espaço entre as fogueiras com o rosto sujo de viagem, as tranças enroladas num coque alto, a barba cheia e o corpo magro envolto por couro escuro e por uma capa de folhas secas costuradas. A fita marcada de sangue antigo continuava presa ao pulso, pequena demais para ele, grande demais para ser ignorada. Torgun vinha atrás, de olhos fundos, passos pesados e pintura negra descendo das pálpebras até a mandíbula como se a sombra tivesse escorrido pelo rosto dele. Dois Tondrar o acompanhavam.
 
-Rendar parou no centro. Olhou para as fogueiras. Para as lâminas. Para os homens que ainda respiravam como se tivessem vencido algo maior do que tinham vencido.
+Rendar parou no centro e percorreu com os olhos as fogueiras, as lâminas e os homens que ainda respiravam como se tivessem vencido algo maior.
 
 — Vocês comemoram como se o inimigo tivesse caído.
 
@@ -82,7 +82,7 @@ Ossar respirou pelo nariz.
 
 — Não igualmente.
 
-Rendar não negou. Nynestra tocou outra pedra, mais a leste. Nynestra tocou outra pedra, mais a leste.
+Rendar não negou. Nynestra tocou outra pedra, mais a leste.
 
 — E os Cendar?
 
@@ -160,7 +160,7 @@ Ela nem olhou para quem falara.
 
 — Precisam se quiserem comer depois.
 
-Um sorriso curto passou por alguns rostos, mas não ficou. Torgun encarou Nynestra por tempo suficiente para tornar a resposta perigosa.
+Um sorriso curto passou por alguns rostos, mas não ficou. Torgun encarou Nynestra e baixou a mão até a arma.
 
 — Buldar fala como celeiro com pernas.
 
@@ -374,13 +374,13 @@ Uma lâmina atingiu as costas de Torgun e o fez dobrar um joelho. Ele derrubou o
 
 — Eu sei correr, Buldar!
 
-Correram juntos, não como aliados, mas como dois corpos que haviam entendido que parar era morrer.
+Correram lado a lado; parar era morrer.
 
 A garoa virou chuva densa. Nynestra escorregou e bateu o joelho numa pedra; Torgun puxou-a pelo manto antes que uma lâmina passasse onde sua cabeça estivera.
 
 Ela girou e cortou o braço do perseguidor. Não fundo. O homem hesitou. Torgun terminou o serviço, golpeando-lhe o peito com força suficiente para derrubá-lo de costas. Nynestra já não sabia quantos estavam atrás.
 
-Três? Quatro? Havia mais do que os que avistaram quando chegaram. Estavam escondidos?
+Nynestra não sabia se eram três ou quatro. Havia mais perseguidores do que os avistados na chegada; deviam estar escondidos.
 
 Correram entre rochas baixas, arbustos de caule-gordo e fendas onde a água desaparecia depressa demais, por uma rota que Torgun parecia conhecer mesmo ferido. Só ouviam respiração, chuva, metal, barro, trovão e o próprio sangue batendo nos ouvidos. Uma flecha passou por eles e bateu na pedra adiante.
 
@@ -417,4 +417,4 @@ Nynestra tentou levantar-se, mas a perna ferida não deixou. Então soltou a fac
 
 A tempestade caiu sobre ela, sobre Torgun, sobre a Boca Seca, sobre os crânios e as lâminas.
 
-Ninguém perguntou seu nome. Ninguém perguntou o que havia acontecido. Os Tondrar apenas a cercaram.
+Ninguém perguntou seu nome nem o que havia acontecido. Os Tondrar apenas a cercaram.
