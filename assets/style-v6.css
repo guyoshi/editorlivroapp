@@ -2588,3 +2588,17 @@ body.focus-mode .para-block > .reaction-summary{ display:none !important; }
   font-size:.7rem;
   line-height:1.4;
 }
+
+
+/* Proteção de cópia do manuscrito: somente leitores.
+   O modo ADM continua selecionável/copíavel para revisão editorial. */
+:root[data-manuscript-copy="reader"] #chapterText,
+:root[data-manuscript-copy="reader"] #chapterText *{
+  -webkit-user-select:none !important;
+  user-select:none !important;
+  -webkit-touch-callout:none;
+}
+:root[data-manuscript-copy="reader"] #chapterText img{
+  -webkit-user-drag:none;
+  user-drag:none;
+}
