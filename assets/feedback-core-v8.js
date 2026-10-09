@@ -12,7 +12,8 @@ const Comments = (() => {
   // O corte mantém os leitores antigos ativos sem exigir migração imediata das Rules.
   const APPROVAL_REQUIRED_AFTER=1791550800000;
   const EMOJIS=["😍","😂","😱","😢","🤔","😡"];
-  let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false, readerResetting=false;\n  let readerProfileUnsub=null, readerProfileWatchHash="", readerProfileState=null;
+  let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false, readerResetting=false;
+  let readerProfileUnsub=null, readerProfileWatchHash="", readerProfileState=null;
   const cCache={}, rCache={};
 
   const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
