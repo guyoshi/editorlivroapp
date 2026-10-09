@@ -8,7 +8,7 @@ Agora Alyra estava no salão. Daryon também.
 
 Não havia Conselho. Apenas os dois e dois guardas à distância, longe o bastante para fingirem que não ouviam. Alyra estava sentada no trono dela, uma mão sobre o braço de madeira, a outra apoiada no próprio ventre por um instante tão curto que qualquer pessoa teria ignorado. Daryon falava baixo. Kaelina não ouvia as palavras. Via a inclinação dele, o modo como ele oferecia frases como quem oferece instrumentos. Alyra respondia pouco.
 
-Depois Daryon curvou-se. Alyra não o chamou de volta. Ele saiu por uma lateral e Kaelina abandonou a galeria, o seguindo.
+Depois Daryon curvou-se. Alyra não o chamou de volta. Ele saiu por uma lateral e Kaelina abandonou a galeria para segui-lo.
 
 Por quase duas horas, Daryon passou por salas de registro, contagem, mensageiros e depósitos de mapas. Duas vezes pareceu desconfiar de um ruído e olhar para trás, obrigando Kaelina a esconder-se. Nada era prova, e ela começou a temer que estivesse perseguindo apenas a própria suspeita.
 
@@ -64,7 +64,7 @@ Deram-lhe uma fêmea castanha, nervosa, mas obediente. Kaelina montou sem permit
 
 Kaelina manteve distância, usando curvas, rochas e desníveis sempre que Daryon reduzia o passo ou olhava para trás.
 
-Na Ponte da Raiz Baixa, o guarda reconheceu o selo e abriu passagem sem perguntar por que uma soberana cruzava para oeste sem comitiva. Do outro lado, a estrada seguia por casas ligadas às salinas até terrenos mais secos, onde a Raiz aparecia raspada ou queimada nas portas.
+Na Ponte da Raiz Baixa, o guarda reconheceu Kaelina e abriu passagem sem perguntar por que uma soberana cruzava para oeste sem comitiva. Do outro lado, a estrada seguia por casas ligadas às salinas até terrenos mais secos, onde a Raiz aparecia raspada ou queimada nas portas.
 
 Foi seguindo essa rota, mantendo distância suficiente para que o tarrak de Daryon não ouvisse o dela, que Kaelina chegou às pedras secas no fim da vila de Kaeril. Daryon desceu junto a uma depressão entre rochas.
 
@@ -72,11 +72,11 @@ Kaelina deixou o tarrak mais atrás, amarrou-o a uma raiz seca e seguiu a pé. O
 
 Cinco, talvez seis. Não usavam marca Polar, mas isso não significava ausência de origem. Alguns traços não se arrancavam com exílio: o modo de prender faca, o gesto de tocar dois dedos na testa sem completar o peito, a maneira de medir muralha mesmo longe dela. Homens das Areias. Exilados antigos, filhos de exilados, netos de vergonha transformada em ofício. E entre eles estava Sarkan.
 
-Kaelina reconheceu Sarkan pela cicatriz e pelo espaço que os outros deixavam ao redor dele.
+Pela cicatriz na boca e pelo espaço que os outros deixavam ao redor dele, Kaelina concluiu que fosse Sarkan.
 
 Homens das Areias não tinham permissão para chegar tão perto de Kaendar. Daryon parou diante deles; Kaelina não ouvia tudo.
 
-A distância, o vento e a posição das rochas roubavam partes da conversa. Vinham palavras soltas, frases quebradas, intenções suficientes para ferir e insuficientes para provar. Sarkan pegou, pesou na mão e cuspiu de lado.
+À distância, o vento e a posição das rochas roubavam partes da conversa. Vinham palavras soltas, frases quebradas, intenções suficientes para ferir e insuficientes para provar.
 
 —...segunda parte — dizia Daryon, entregando algo pequeno, talvez uma bolsa, talvez selos de metal. — Como prometido.
 
@@ -172,13 +172,13 @@ Daryon olhou para o portão, depois para ela.
 
 — Que estranho acaso nos encontrarmos aqui, fora das muralhas a essa hora?
 
-— Disseram-me que tinhas saído. Eu precisava entregar algo.
+— Disseram-me que você tinha saído. Eu precisava entregar algo.
 
 — Me entregar algo? A essas horas?
 
 Daryon parecia desconfiado.
 
-— A ameaça costuma respeitar o teu sono?
+— A ameaça costuma respeitar seu sono?
 
 Ele reconheceu a própria frase. O olhar estreitou pouco. Kaelina aproximou-se um passo.
 
