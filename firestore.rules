@@ -186,7 +186,8 @@ service cloud.firestore {
 
       allow create: if isProfileHash(profileHash)
         && request.resource.data.keys().hasOnly([
-          'readerId','name','createdAt','updatedAt','allowedBooks','initialBookId'
+          'readerId','name','createdAt','updatedAt','allowedBooks','initialBookId',
+          'approvalStatus','accessEnabled'
         ])
         && request.resource.data.readerId is string
         && request.resource.data.readerId.size() >= 16
@@ -196,6 +197,8 @@ service cloud.firestore {
         && request.resource.data.name.size() <= 40
         && request.resource.data.createdAt is int
         && request.resource.data.updatedAt is int
+        && request.resource.data.get('approvalStatus', '') == 'pending'
+        && request.resource.data.get('accessEnabled', false) == true
         && request.resource.data.get('allowedBooks', []) is list
         && request.resource.data.get('allowedBooks', []).size() <= 1
         && request.resource.data.get('initialBookId', '') is string
