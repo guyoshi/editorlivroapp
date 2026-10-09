@@ -108,25 +108,19 @@
     };
   }
 
-  // Histórico de abertura dos capítulos. Diferente do analytics agregado,
-  // cada abertura vira um evento separado para o autor conseguir auditar
-  // quem abriu qual capítulo e em que horário.
+  // Histórico de abertura dos capítulos. Cada abertura fica em um documento
+  // separado dentro da subcoleção já autorizada de analytics. O prefixo
+  // "access__" permite ao painel distinguir eventos do estado agregado.
   async function logChapterAccess(ctx,stamp=now()){
     const id=identity(),store=db();
     if(!id||!store||!ctx?.bookId||!ctx?.chapter)return false;
+    const accessId="access__"+stamp+"__"+Math.random().toString(36).slice(2,8);
     const payload={
-      readerId:id.readerId,
-      profileHash:id.profileHash,
-      name:id.name,
-      event:"chapter_open",
-      bookId:String(ctx.bookId||""),
-      bookTitle:String(ctx.bookTitle||ctx.bookId||""),
-      chapter:Number(ctx.chapter)||0,
-      chapterTitle:String(ctx.chapterTitle||""),
-      at:stamp
+      ...chapterBase(id,ctx,stamp),
+      lastOpenedAt:stamp
     };
     try{
-      await store.collection("readerAccessLog").add(payload);
+      await store.collection("readerAnalytics").doc(id.readerId).collection("chapters").doc(accessId).set(payload);
       window.BetaDiag?.ok?.("access-log");
       return true;
     }catch(e){
