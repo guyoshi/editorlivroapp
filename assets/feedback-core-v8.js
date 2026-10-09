@@ -9,7 +9,7 @@ const Comments = (() => {
   const OWNER_ADMIN_UID="KfNaJsvIUMgpsPMPYRQ6017T1Ct2";
   const ANNOUNCE_COLLECTION="announcements";
   const EMOJIS=["😍","😂","😱","😢","🤔","😡"];
-  let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false, readerResetting=false;
+  let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false, readerResetting=false;\n  let readerProfileUnsub=null, readerProfileWatchHash="", readerProfileState=null;
   const cCache={}, rCache={};
 
   const norm=s=>String(s||"").replace(/\s+/g," ").trim().toLowerCase();
@@ -54,11 +54,72 @@ const Comments = (() => {
   function resetDeletedReaderProfile({reload=true}={}){
     if(readerResetting)return;
     readerResetting=true;
+    try{readerProfileUnsub?.();}catch(_){}
+    readerProfileUnsub=null;
+    readerProfileWatchHash="";
+    readerProfileState=null;
     clearReaderIdentity();
 
     // Fora do boot, recarrega já como visitante novo. No boot podemos limpar
     // antes de montar a interface e abrir diretamente a tela de novo perfil.
     if(reload)setTimeout(()=>location.reload(),0);
+  }
+
+  function accessStateFromProfile(data){
+    const d=data||{};
+    const allowed=Array.isArray(d.allowedBooks)?[...new Set(d.allowedBooks.map(x=>String(x||"").trim()).filter(Boolean))]:[];
+    if(d.deleted===true)return {status:"deleted",approved:false,accessEnabled:false,allowedBooks:allowed};
+    const pending=d.approvalStatus==="pending";
+    const blocked=d.accessEnabled===false;
+    return {
+      status:pending?"pending":(blocked?"blocked":"active"),
+      approved:!pending,
+      accessEnabled:!pending&&!blocked,
+      allowedBooks:allowed
+    };
+  }
+
+  function getReaderAccessState(){
+    if(admin())return {status:"admin",approved:true,accessEnabled:true,allowedBooks:null};
+    if(readerProfileState)return {...readerProfileState,allowedBooks:[...(readerProfileState.allowedBooks||[])]};
+    return {status:name()?"unknown":"guest",approved:false,accessEnabled:false,allowedBooks:[]};
+  }
+
+  function dispatchReaderAccessState(){
+    document.dispatchEvent(new CustomEvent("beta:reader-access-change",{detail:getReaderAccessState()}));
+  }
+
+  function stopReaderAccessWatch(){
+    try{readerProfileUnsub?.();}catch(_){}
+    readerProfileUnsub=null;
+    readerProfileWatchHash="";
+  }
+
+  function startReaderAccessWatch(){
+    if(admin()||!enabled||!db||!name())return;
+    const codeHash=String(localStorage.getItem(CODEHASH_KEY)||"");
+    if(!codeHash)return;
+    if(readerProfileUnsub&&readerProfileWatchHash===codeHash)return;
+    stopReaderAccessWatch();
+    readerProfileWatchHash=codeHash;
+    readerProfileUnsub=db.collection(PROFILE_COLLECTION).doc(codeHash).onSnapshot(doc=>{
+      if(!doc.exists){
+        resetDeletedReaderProfile();
+        return;
+      }
+      const data=doc.data()||{};
+      if(data.deleted===true){
+        resetDeletedReaderProfile();
+        return;
+      }
+      const next=accessStateFromProfile(data);
+      const previous=readerProfileState;
+      readerProfileState=next;
+      const changed=!previous
+        || previous.status!==next.status
+        || JSON.stringify(previous.allowedBooks||[])!==JSON.stringify(next.allowedBooks||[]);
+      if(changed)dispatchReaderAccessState();
+    },e=>console.warn("Não foi possível acompanhar o acesso do leitor em tempo real:",e));
   }
 
   async function validateStoredReaderProfile(){
@@ -77,6 +138,7 @@ const Comments = (() => {
         resetDeletedReaderProfile({reload:false});
         return true;
       }
+      readerProfileState=accessStateFromProfile(doc.data()||{});
     }catch(e){
       // Falha de rede não deve expulsar um leitor válido.
       console.warn("Não foi possível validar a identidade do leitor:",e);
@@ -436,6 +498,10 @@ const Comments = (() => {
       payload.createdAt=Date.now();
       payload.initialBookId=firstBook;
       payload.allowedBooks=[firstBook];
+      // Todo cadastro novo nasce pendente. O livro escolhido fica registrado
+      // como pedido inicial, mas só aparece após aprovação explícita do autor.
+      payload.approvalStatus="pending";
+      payload.accessEnabled=true;
     }
     if(exists){
       // Perfil já existe: atualizar nome/horário é só cortesia. Perfis antigos
@@ -444,11 +510,14 @@ const Comments = (() => {
       try{await ref.set(payload,{merge:true});}
       catch(e){window.BetaDiag?.error?.("perfil",e);console.warn("Não foi possível atualizar o perfil (seguindo com a sincronização do código):",e);}
       const storedReaderId=String(profileDoc?.data()?.readerId||payload.readerId);
+      readerProfileState=accessStateFromProfile(profileDoc?.data()||{});
       await syncAccessCodeRecord(codeHash,code,storedReaderId);
     }else{
       await ref.set(payload,{merge:true});
+      readerProfileState=accessStateFromProfile(payload);
       await syncAccessCodeRecord(codeHash,code,payload.readerId);
     }
+    startReaderAccessWatch();
     return code;
   }
 
@@ -468,8 +537,9 @@ const Comments = (() => {
         resetDeletedReaderProfile();
         return [];
       }
-      const granted=Array.isArray(data.allowedBooks)?data.allowedBooks:[];
-      return [...new Set(granted)];
+      readerProfileState=accessStateFromProfile(data);
+      if(!readerProfileState.accessEnabled)return [];
+      return [...readerProfileState.allowedBooks];
     }catch(e){
       console.warn("Não foi possível carregar os livros liberados:",e);
       return [];
@@ -500,7 +570,29 @@ const Comments = (() => {
   }
   async function setAllowedBooks(profileId,allowedBooks){
     if(!admin()||!db)return;
-    await db.collection(PROFILE_COLLECTION).doc(profileId).set({allowedBooks},{merge:true});
+    await db.collection(PROFILE_COLLECTION).doc(profileId).set({allowedBooks,updatedAt:Date.now()},{merge:true});
+  }
+
+  async function approveReaderProfile(profileId){
+    if(!admin()||!db)throw new Error("Apenas o administrador pode aprovar leitores.");
+    const now=Date.now();
+    await db.collection(PROFILE_COLLECTION).doc(profileId).set({
+      approvalStatus:"approved",
+      approvedAt:now,
+      approvedBy:adminUser?.uid||null,
+      accessEnabled:true,
+      updatedAt:now
+    },{merge:true});
+  }
+
+  async function setReaderAccess(profileId,enabledAccess){
+    if(!admin()||!db)throw new Error("Apenas o administrador pode alterar o acesso do leitor.");
+    await db.collection(PROFILE_COLLECTION).doc(profileId).set({
+      accessEnabled:!!enabledAccess,
+      accessChangedAt:Date.now(),
+      accessChangedBy:adminUser?.uid||null,
+      updatedAt:Date.now()
+    },{merge:true});
   }
 
   async function rotateReaderAccessCode(profileId){
@@ -690,7 +782,9 @@ const Comments = (() => {
     localStorage.setItem(NAME_KEY,String(profile.name));
     localStorage.setItem(ACCESS_KEY,formatAccessCode(clean));
     localStorage.setItem(CODEHASH_KEY,codeHash);
+    readerProfileState=accessStateFromProfile(profile);
     await syncAccessCodeRecord(codeHash,clean,profile.readerId);
+    startReaderAccessWatch();
     document.dispatchEvent(new CustomEvent("beta:profile-login",{detail:{readerId:profile.readerId,name:profile.name}}));
     return {readerId:profile.readerId,name:profile.name,accessCode:formatAccessCode(clean)};
   }
@@ -729,6 +823,7 @@ const Comments = (() => {
     window.addEventListener("load",updateIdentityBar);
     setTimeout(updateIdentityBar,0);
     if(name()){
+      startReaderAccessWatch();
       ensureAccessProfile().catch(e=>{window.BetaDiag?.error?.("perfil",e);console.warn("Perfil portátil indisponível:",e);});
     }
     // Enquanto o código deste aparelho não constar no painel, tenta de novo
@@ -1680,7 +1775,7 @@ const Comments = (() => {
     init,attachChapter,isEnabled:()=>enabled,isAdmin:admin,getAdminId:()=>adminUser?.uid||"",getUserName:name,getUserId:uid,getAccessCode:accessCode,
     loginWithCode,ensureAccessProfile,updateReaderName,hashText,forceResync,
     getDb:()=>db,getCachedComments:book=>(cCache[book]||[]),reply,edit,saveText,del,resolve,seen,unseen,markAllSeen,
-    sendAnnouncement,getAllowedBooks,listReaderProfiles,setAllowedBooks,rotateReaderAccessCode,deleteReaderProfile
+    sendAnnouncement,getAllowedBooks,getReaderAccessState,listReaderProfiles,setAllowedBooks,approveReaderProfile,setReaderAccess,rotateReaderAccessCode,deleteReaderProfile
   };
 })();
 window.Comments=Comments;
