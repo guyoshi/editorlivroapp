@@ -1424,15 +1424,20 @@
     if(!body)return;
     const profileByReader=new Map(betaFeedbackProfiles.map(p=>[p.readerId,p]));
     const validReaderIds=new Set(betaFeedbackProfiles.filter(p=>!p.analyticsIgnored).map(p=>p.readerId));
-    const validFeedback=betaFeedbackRows.filter(x=>validReaderIds.has(x.readerId));
+    // "Ignorar nas estatísticas" nunca deve esconder a avaliação escrita.
+    // Todas as respostas aparecem; apenas médias/cruzamentos quantitativos
+    // excluem os leitores marcados como ignorados.
+    const validFeedback=betaFeedbackRows.slice();
+    const statsFeedback=betaFeedbackRows.filter(x=>validReaderIds.has(x.readerId));
     const ignoredCount=betaFeedbackProfiles.filter(p=>p.analyticsIgnored).length;
     const books=[...new Set(validFeedback.map(x=>x.bookId).concat(betaFeedbackAnalytics.map(x=>x.bookId)).filter(Boolean))];
 
     const coverRows=validFeedback.filter(x=>x.type==="cover");
     const chapterRows=validFeedback.filter(x=>x.type==="chapter");
     const bookRows=validFeedback.filter(x=>x.type==="book");
-    const overallAvg=meanFeedback(bookRows.map(x=>x.overallRating));
-    const continueAvg=meanFeedback(bookRows.map(x=>x.continueRating));
+    const statBookRows=statsFeedback.filter(x=>x.type==="book");
+    const overallAvg=meanFeedback(statBookRows.map(x=>x.overallRating));
+    const continueAvg=meanFeedback(statBookRows.map(x=>x.continueRating));
 
     const unreadChapterRows=chapterRows.filter(betaFeedbackIsUnseen);
     let html=(unreadChapterRows.length
@@ -1455,15 +1460,18 @@
 
     books.forEach(bookId=>{
       const allForBook=validFeedback.filter(x=>x.bookId===bookId);
+      const statsForBook=statsFeedback.filter(x=>x.bookId===bookId);
       const cover=allForBook.filter(x=>x.type==="cover");
       const chapters=allForBook.filter(x=>x.type==="chapter");
       const finals=allForBook.filter(x=>x.type==="book");
+      const statCover=statsForBook.filter(x=>x.type==="cover");
+      const statFinals=statsForBook.filter(x=>x.type==="book");
       const bookTitle=(allForBook[0]?.bookTitle)||betaFeedbackAnalytics.find(x=>x.bookId===bookId)?.bookTitle||bookId;
-      const visualAvg=meanFeedback(cover.map(x=>x.visualRating));
-      const openAvg=meanFeedback(cover.map(x=>x.openInterestRating));
-      const coverFitAvg=meanFeedback(finals.map(x=>x.coverRepresentationRating).filter(Boolean));
-      const generalAvg=meanFeedback(finals.map(x=>x.overallRating));
-      const nextAvg=meanFeedback(finals.map(x=>x.continueRating));
+      const visualAvg=meanFeedback(statCover.map(x=>x.visualRating));
+      const openAvg=meanFeedback(statCover.map(x=>x.openInterestRating));
+      const coverFitAvg=meanFeedback(statFinals.map(x=>x.coverRepresentationRating).filter(Boolean));
+      const generalAvg=meanFeedback(statFinals.map(x=>x.overallRating));
+      const nextAvg=meanFeedback(statFinals.map(x=>x.continueRating));
       const pace=countBy(finals,x=>paceLabel(x.pace));
       const chars=countBy(finals,"favoriteCharacter").slice(0,5);
 
