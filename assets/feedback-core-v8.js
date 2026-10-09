@@ -8,6 +8,9 @@ const Comments = (() => {
   const ADMIN_COLLECTION="admins";
   const OWNER_ADMIN_UID="KfNaJsvIUMgpsPMPYRQ6017T1Ct2";
   const ANNOUNCE_COLLECTION="announcements";
+  // Perfis criados a partir desta versão precisam de aprovação do autor.
+  // O corte mantém os leitores antigos ativos sem exigir migração imediata das Rules.
+  const APPROVAL_REQUIRED_AFTER=1791550800000;
   const EMOJIS=["😍","😂","😱","😢","🤔","😡"];
   let db=null, auth=null, enabled=false, showAll=false, active=null, subBook=null, unsubC=null, adminUser=null, authReady=false, readerResetting=false;\n  let readerProfileUnsub=null, readerProfileWatchHash="", readerProfileState=null;
   const cCache={}, rCache={};
@@ -69,7 +72,8 @@ const Comments = (() => {
     const d=data||{};
     const allowed=Array.isArray(d.allowedBooks)?[...new Set(d.allowedBooks.map(x=>String(x||"").trim()).filter(Boolean))]:[];
     if(d.deleted===true)return {status:"deleted",approved:false,accessEnabled:false,allowedBooks:allowed};
-    const pending=d.approvalStatus==="pending";
+    const pending=d.approvalStatus==="pending"
+      || (!d.approvalStatus && Number(d.createdAt||0)>=APPROVAL_REQUIRED_AFTER);
     const blocked=d.accessEnabled===false;
     return {
       status:pending?"pending":(blocked?"blocked":"active"),
@@ -498,10 +502,9 @@ const Comments = (() => {
       payload.createdAt=Date.now();
       payload.initialBookId=firstBook;
       payload.allowedBooks=[firstBook];
-      // Todo cadastro novo nasce pendente. O livro escolhido fica registrado
-      // como pedido inicial, mas só aparece após aprovação explícita do autor.
-      payload.approvalStatus="pending";
-      payload.accessEnabled=true;
+      // O cadastro novo nasce pendente pelo createdAt. Não gravamos campos
+      // extras na criação para continuar compatível com Rules já publicadas;
+      // a aprovação do admin grava approvalStatus="approved".
     }
     if(exists){
       // Perfil já existe: atualizar nome/horário é só cortesia. Perfis antigos
