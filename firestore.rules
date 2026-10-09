@@ -197,8 +197,14 @@ service cloud.firestore {
         && request.resource.data.name.size() <= 40
         && request.resource.data.createdAt is int
         && request.resource.data.updatedAt is int
-        && request.resource.data.get('approvalStatus', '') == 'pending'
-        && request.resource.data.get('accessEnabled', false) == true
+        && (
+          !request.resource.data.keys().hasAny(['approvalStatus'])
+          || request.resource.data.get('approvalStatus', '') == 'pending'
+        )
+        && (
+          !request.resource.data.keys().hasAny(['accessEnabled'])
+          || request.resource.data.get('accessEnabled', false) == true
+        )
         && request.resource.data.get('allowedBooks', []) is list
         && request.resource.data.get('allowedBooks', []).size() <= 1
         && request.resource.data.get('initialBookId', '') is string
