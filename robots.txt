@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Lityra é uma área privada de leitura beta. Não indexar, arquivar,
+# treinar, resumir ou reutilizar o conteúdo por crawlers automatizados.
