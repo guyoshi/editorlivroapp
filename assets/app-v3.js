@@ -68,6 +68,15 @@ function chapterArtUrl(bookId, n){ return ART_BASE + bookId + "/chapters/chapter
 
 const state = { books: [], currentBook: null, currentChapterIdx: -1, currentChapterRaw: "", ambientSrc: null };
 
+function currentReaderAccess(){
+  return window.Comments?.getReaderAccessState?.()||{status:"unknown",accessEnabled:false,allowedBooks:[]};
+}
+function canOpenBook(bookId){
+  if(window.Comments?.isAdmin?.())return true;
+  const access=currentReaderAccess();
+  return access.status==="active"&&access.accessEnabled===true&&(access.allowedBooks||[]).includes(bookId);
+}
+
 const $ = (sel, root=document) => root.querySelector(sel);
 const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
 
@@ -103,11 +112,16 @@ async function loadLibrary(){
 
   if(!state.books.length){
     const hasReaderProfile = !!window.Comments?.getUserName?.();
+    const access=currentReaderAccess();
     listEl.innerHTML = allowed===null
       ? `<p class="empty-hint">Nenhum livro cadastrado ainda.</p>`
-      : hasReaderProfile
-        ? `<p class="empty-hint">Seu perfil ainda não tem livros disponíveis.</p>`
-        : `<p class="empty-hint">Crie seu perfil abaixo e escolha qual livro quer começar lendo.</p>`;
+      : hasReaderProfile && access.status==="pending"
+        ? `<p class="empty-hint"><strong>Cadastro aguardando aprovação.</strong><br>Assim que o autor aprovar seu perfil, o livro liberado aparecerá aqui automaticamente.</p>`
+        : hasReaderProfile && access.status==="blocked"
+          ? `<p class="empty-hint"><strong>Seu acesso está bloqueado.</strong><br>Seu perfil e histórico continuam guardados, mas a leitura foi suspensa pelo autor.</p>`
+          : hasReaderProfile
+            ? `<p class="empty-hint">Seu perfil ainda não tem livros disponíveis.</p>`
+            : `<p class="empty-hint">Crie seu perfil abaixo e escolha qual livro quer começar lendo.</p>`;
     return;
   }
   listEl.innerHTML = state.books.map(b => `
@@ -129,6 +143,11 @@ async function loadLibrary(){
 
 // ---------------- Livro / capítulos ----------------
 async function openBook(bookId){
+  if(!canOpenBook(bookId)){
+    showView("library");
+    await loadLibrary();
+    return;
+  }
   const meta = state.books.find(b=>b.id===bookId);
   if(!meta) return;
   const res = await fetch(resolve(meta.manifest)+"?v="+Date.now(), {cache:"no-store"});
@@ -233,6 +252,14 @@ async function checkAudioAvailability(){
 // ---------------- Leitura ----------------
 async function openChapter(idx){
   const book = state.currentBook;
+  if(!book||!canOpenBook(book.id)){
+    try{audioEl().pause();}catch(e){}
+    state.currentBook=null;
+    state.currentChapterIdx=-1;
+    showView("library");
+    await loadLibrary();
+    return;
+  }
   let ch = book.chapters[idx];
   if(!ch) return;
   audioEl().pause();
@@ -1196,6 +1223,34 @@ function initNav(){
     setChapterDone(!isChapterDone(book.id, ch.n));
   });
 }
+
+// Acesso do leitor é acompanhado em tempo real pelo Firestore. Se o autor
+// bloquear o perfil inteiro ou retirar o livro que está aberto, a leitura
+// fecha imediatamente e a biblioteca é recalculada.
+let accessRefreshRunning=false;
+document.addEventListener("beta:reader-access-change",async e=>{
+  if(window.Comments?.isAdmin?.()||accessRefreshRunning)return;
+  accessRefreshRunning=true;
+  try{
+    const access=e.detail||currentReaderAccess();
+    const currentBookId=state.currentBook?.id||"";
+    const mustLeave=access.status!=="active"
+      || access.accessEnabled!==true
+      || (currentBookId && !(access.allowedBooks||[]).includes(currentBookId));
+    if(mustLeave){
+      try{audioEl().pause();}catch(_){}
+      try{window.BetaAnalytics?.closeChapter?.();}catch(_){}
+      try{window.BetaPresence?.closeChapter?.();}catch(_){}
+      state.currentBook=null;
+      state.currentChapterIdx=-1;
+      state.currentChapterRaw="";
+      showView("library");
+    }
+    await loadLibrary();
+  }finally{
+    accessRefreshRunning=false;
+  }
+});
 
 // ---------------- service worker ----------------
 if("serviceWorker" in navigator){
