@@ -520,6 +520,7 @@ const Comments = (() => {
       readerProfileState=accessStateFromProfile(payload);
       await syncAccessCodeRecord(codeHash,code,payload.readerId);
     }
+    if(readerProfileState)dispatchReaderAccessState();
     startReaderAccessWatch();
     return code;
   }
