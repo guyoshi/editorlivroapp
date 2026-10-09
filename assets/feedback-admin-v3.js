@@ -1763,6 +1763,69 @@
     return booksCache;
   }
 
+  function ensureAccessLogSheet(){
+    if(document.getElementById("readerAccessLogSheet"))return;
+    const el=document.createElement("div");
+    el.id="readerAccessLogSheet";
+    el.className="admin-dashboard-sheet";
+    el.hidden=true;
+    el.innerHTML='<section class="admin-dashboard reader-access-log-dashboard">'
+      +'<header class="admin-dashboard-head"><div><h2 id="readerAccessLogTitle">Registro de acesso</h2><p id="readerAccessLogSub">Aberturas de capítulos registradas pelo Lityra.</p></div>'
+      +'<div class="admin-head-actions"><button id="readerAccessLogBack" class="link-btn admin-back-btn" type="button">← Leitores</button><button id="readerAccessLogClose" class="icon-btn" type="button">✕</button></div></header>'
+      +'<div id="readerAccessLogBody" class="admin-dashboard-list"><p class="admin-empty">Carregando…</p></div>'
+      +'</section>';
+    document.body.appendChild(el);
+    const close=()=>{el.hidden=true;showAccess();};
+    el.querySelector("#readerAccessLogBack").onclick=close;
+    el.querySelector("#readerAccessLogClose").onclick=()=>{el.hidden=true;};
+    el.onclick=e=>{if(e.target===el)el.hidden=true;};
+  }
+
+  async function showReaderAccessLog(profile){
+    if(!profile?.readerId||!db())return;
+    ensureAccessLogSheet();
+    hideAccess();
+    const el=document.getElementById("readerAccessLogSheet");
+    const body=el.querySelector("#readerAccessLogBody");
+    el.querySelector("#readerAccessLogTitle").textContent="Registro de acesso · "+(profile.name||"Leitor");
+    el.querySelector("#readerAccessLogSub").textContent="Cada linha é uma abertura real de capítulo registrada a partir desta versão do Lityra.";
+    body.innerHTML='<p class="admin-empty">Carregando acessos…</p>';
+    el.hidden=false;
+    try{
+      const snap=await db().collection("readerAnalytics").doc(profile.readerId).collection("chapters").get();
+      const rows=[];
+      snap.forEach(d=>{
+        if(!String(d.id||"").startsWith("access__"))return;
+        const data=d.data()||{};
+        rows.push({id:d.id,...data});
+      });
+      rows.sort((a,b)=>(Number(b.lastOpenedAt||b.updatedAt)||0)-(Number(a.lastOpenedAt||a.updatedAt)||0));
+      if(!rows.length){
+        body.innerHTML='<p class="admin-empty">Ainda não há acessos históricos registrados. O histórico começa a ser gravado quando o leitor abrir capítulos nesta versão.</p>';
+        return;
+      }
+      const byDay=new Map();
+      rows.forEach(row=>{
+        const stamp=Number(row.lastOpenedAt||row.updatedAt)||0;
+        const day=stamp?new Date(stamp).toLocaleDateString("pt-BR",{day:"2-digit",month:"2-digit",year:"numeric"}):"Sem data";
+        if(!byDay.has(day))byDay.set(day,[]);
+        byDay.get(day).push(row);
+      });
+      body.innerHTML=[...byDay.entries()].map(([day,items])=>
+        '<section class="reader-access-log-day"><h3>'+esc(day)+'</h3>'
+        +items.map(row=>{
+          const stamp=Number(row.lastOpenedAt||row.updatedAt)||0;
+          const time=stamp?new Date(stamp).toLocaleTimeString("pt-BR",{hour:"2-digit",minute:"2-digit"}):"";
+          return '<div class="reader-access-log-row"><time>'+esc(time)+'</time><div><strong>'+esc(row.bookTitle||row.bookId||"Livro")+'</strong><span>Cap. '+esc(row.chapter)+(row.chapterTitle?' · '+esc(row.chapterTitle):'')+'</span></div></div>';
+        }).join("")
+        +'</section>'
+      ).join("");
+    }catch(e){
+      console.warn("Não foi possível carregar o registro de acessos:",e);
+      body.innerHTML='<p class="admin-empty">Não foi possível carregar o registro de acessos agora.</p>';
+    }
+  }
+
   function ensureAccessSheet(){
     if(document.getElementById("bookAccessSheet"))return;
     const el=document.createElement("div");el.id="bookAccessSheet";el.className="admin-dashboard-sheet";el.hidden=true;
@@ -1834,6 +1897,7 @@
         +'<div class="admin-card-actions reader-primary-actions">'
           +(pending?'<button class="reader-approve-btn" type="button" data-approve-reader="'+esc(p.id)+'">Aprovar leitor</button>':'<button class="reader-access-toggle" type="button" data-reader-access="'+esc(p.id)+'" data-enable="'+(blocked?'1':'0')+'">'+(blocked?'Liberar leitor':'Bloquear leitor')+'</button>')
           +(a?'<button type="button" data-reader-reading="'+esc(p.readerId)+'">Ver leitura detalhada</button>':'')
+          +'<button type="button" data-access-log="'+esc(p.id)+'">Registro de acesso</button>'
           +'<button type="button" data-popup-profile="'+esc(p.id)+'">Enviar mensagem</button>'
           +(code?'<button type="button" data-copy-code="'+esc(p.id)+'">Copiar código</button>':'')
         +'</div>'
@@ -1865,6 +1929,10 @@
       catch(e){alert("Não foi possível "+action+" o leitor: "+(e.message||"tente de novo."));btn.disabled=false;}
     }));
     list.querySelectorAll("[data-reader-reading]").forEach(btn=>btn.addEventListener("click",()=>openReaderAnalytics(btn.dataset.readerReading)));
+    list.querySelectorAll("[data-access-log]").forEach(btn=>btn.addEventListener("click",()=>{
+      const profile=profiles.find(p=>p.id===btn.dataset.accessLog);
+      if(profile)showReaderAccessLog(profile);
+    }));
     list.querySelectorAll("[data-copy-code]").forEach(btn=>{
       btn.addEventListener("click",async()=>{
         const profile=profiles.find(p=>p.id===btn.dataset.copyCode);
