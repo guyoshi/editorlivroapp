@@ -26,7 +26,7 @@ Não era a frase de um homem que esperava nunca mais ver o outro. Kalan se agarr
 
 *
 
-Levaram-no a pé, sem pressa e sem corda, através de ruas que iam se alargando e enchendo de tecido azul mais escuro à medida que se afastavam do cais. Kalan reconheceu o caminho antes de reconhecer o destino: passavam perto da linha que separava a Cidade Exterior da Intermediária, mas não a cruzavam. O Santuário da Raiz Eterna ficava do lado de fora dela, grande demais e importante demais para se esconder atrás de qualquer muralha, como se o próprio Culto quisesse deixar claro que sua autoridade não respeitava as mesmas fronteiras que separavam Polar de Nular.
+Levaram-no a pé, sem pressa e sem corda, através de ruas que iam se alargando e enchendo de tecido azul mais escuro à medida que se afastavam do cais. Kalan reconheceu o caminho antes de reconhecer o destino: saíram da Cidade Interna e seguiram pela parte alta da Intermediária, perto da subida para Namar e o Caminho da Permanência. O Santuário da Raiz Eterna se erguia ali, visível acima dos telhados próximos.
 
 O prédio era mais alto do que qualquer coisa que Kalan já tinha visto de perto, com duas torres afiladas erguendo-se sobre um corpo largo de pedra escura, e as raízes esculpidas na fachada pareciam menos decoração do que aviso: continuavam crescendo, entrelaçadas, até desaparecerem em algum ponto acima da porta que Kalan não conseguia mais enxergar sem inclinar a cabeça.
 
@@ -36,7 +36,7 @@ Nada daquilo era encenação. Kalan sabia reconhecer encenação (vira o suficie
 
 *
 
-A sala onde o deixaram não tinha janelas, só uma mesa comprida, alguns bancos e uma lamparina que iluminava menos do que deveria. Kalan esperou tempo suficiente para que os braços começassem a doer de um jeito diferente da dor do trabalho, e então a porta se abriu e um homem entrou sozinho, seguido pelos dois guardas que já tinham ido à casa de Maruva na noite em que os primeiros guardas apareceram. Kalan reconheceu os dois pelo rosto antes de reconhecer qualquer outra coisa, e algo no estômago se apertou ao vê-los ali, dentro daquele prédio, e não nas ruas de Maruva onde pareciam pertencer.
+A sala onde o deixaram não tinha janelas, só uma mesa comprida, alguns bancos e uma lamparina que iluminava menos do que deveria. Kalan esperou até que os braços começassem a doer de um jeito diferente da dor do trabalho. A porta se abriu, e um homem entrou com os dois guardas que tinham ido à casa de Maruva. Kalan reconheceu os rostos, e algo no estômago se apertou ao vê-los ali, longe das ruas onde os encontrara pela primeira vez.
 
 O homem se sentou do outro lado da mesa sem se apresentar, como se soubesse que Kalan já entenderia quem ele era só pela cabeça raspada e pela cicatriz fina no centro da testa, pela forma como organizou os papéis à sua frente antes de erguer os olhos.
 
@@ -74,7 +74,7 @@ Hadris apoiou as duas mãos sobre a mesa, dedos entrelaçados, e olhou para Kala
 
 — Não — concordou Hadris, e havia algo quase gentil, quase paciente, na maneira como ele reconheceu o ponto, só para reconstruí-lo em seguida com mais peso do que antes. — Ainda não temos ninguém que tenha visto você tocar naquela caixa. Temos uma sequência. Uma denúncia que muda de forma na hora em que é feita. Uma promessa de verificação. O desaparecimento exato dos registros que confirmariam se a promessa fora cumprida. E você, na porta, na hora certa, sozinho.
 
-Ele deixou aquilo pesar no ar antes de continuar, e foi só então, ouvindo o próprio caso ser narrado por uma boca que não era a sua, que Kalan sentiu pela primeira vez o tamanho real do que tinha feito. Não fora só esconder uma caixa dentro de uma parede. Fora deixar um rastro perfeito de si mesmo por todo o caminho até ela, um rastro que qualquer pessoa metódica o suficiente conseguiria seguir sem precisar de nenhuma prova de fato, porque o rastro, por si só, já contava uma história, e a história, mesmo incompleta, já era o bastante para prendê-lo.
+Ouvindo o próprio caso ser narrado por outra pessoa, Kalan percebeu o rastro que deixara até a caixa escondida no caixote de grãos. Hadris não tinha uma testemunha do furto, mas sabia a quem pressionar.
 
 — Isso é o que a Raiz costuma chamar de coincidência com direção — disse Hadris, levantando-se. — Vou deixar você pensar um pouco nisso. Alguém mais quer falar com você antes de continuarmos.
 
@@ -98,7 +98,7 @@ Ele estendeu a mão e Kalan se afastou por reflexo, mas o banco não deixava mui
 
 — Eu acredito que você acredite nisso. — O Sumo Vigia sorriu, um movimento pequeno e triste, como quem lamenta uma dor que só ele consegue ver. — A punição que a Raiz aplica não existe para destruir, meu filho. Existe para restaurar. Para trazer de volta à ordem quem se afastou dela sem saber que estava se afastando. Você ainda pode ser recebido. A Raiz ainda tem espaço para você, mesmo agora, mesmo depois de tudo isso. Basta que você pare de correr da verdade e comece a correr em direção a ela.
 
-O estômago de Kalan virou. Não era o medo que conhecia, aquele que vinha com gritos, punhos ou uma ameaça clara o bastante para saber de onde se defender. Hadris falava baixo, quase com cuidado, e era justamente isso que tornava cada palavra mais difícil de enfrentar.
+O estômago de Kalan virou. Não era o medo que conhecia, aquele que vinha com gritos, punhos ou uma ameaça clara o bastante para saber de onde se defender. O Sumo Vigia falava baixo, quase com cuidado, e era justamente isso que tornava cada palavra mais difícil de enfrentar.
 
 — A casa é registrada sob Karesis — disse Kalan, quando finalmente conseguiu falar de novo, agarrando-se ao único fato que parecia sólido em toda aquela conversa. — Ele é o responsável. Se precisam de alguém para responder, é ele.
 

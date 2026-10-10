@@ -58,7 +58,7 @@ O Primeiro Kae Amaric o cumprimentou com os dois braços, um aperto forte o bast
 
 — Vetarius me chamou. Parece ter alguns assuntos a tratar comigo. 
 
-— Vetarius é maluco em te tirar do seu conforto e aposentadoria. Não imagino o que possa ser tão importante para o trazer aqui. 
+— Vetarius é maluco de tirar você do conforto da aposentadoria. Não imagino o que possa ser tão importante para trazer você aqui.
 
 — Ele me quer como campeão Polar no torneio — Dareth respondeu simplesmente. 
 
@@ -120,7 +120,7 @@ Vetarius olhou para ele então, de verdade, os olhos parando de vagar pelo quart
 
 — Não é desistência ficar longe daqui — Dareth respondeu, a voz mais baixa do que antes, mas sem nenhuma hesitação. — É a única coisa que ainda me pertence de verdade.
 
-— Pertencer. — Vetarius soltou a palavra como se ela tivesse gosto ruim. — Você pertence a essa cidade desde antes de eu nascer nela, Dareth. Pertence à Passagem de Arven, ao meu pai, a mim. Isso não desaparece só porque você resolveu plantar raiz longe o bastante pra fingir que esqueceu.
+— Pertencer. — Vetarius soltou a palavra como se ela tivesse gosto ruim. — Você pertence a essa cidade há mais tempo do que aceita admitir, Dareth. Pertence à Passagem de Arven, ao meu pai, a mim. Isso não desaparece só porque você resolveu plantar raiz longe o bastante pra fingir que esqueceu.
 
 — Eu não estou fingindo que esqueci. Só decidi que não quero mais. Já fiz o que pude por Kaendar. 
 
@@ -184,7 +184,7 @@ Selina se virou para ele, os braços cruzados, o peso do dia inteiro ainda pela 
 
 — Então ele será nosso campeão?
 
-— É claro que sim. Não confia no seu soberano? Dareth vai trazer os Polar de volta à glória. Houve um tempo em que a Dinastia Polar era a única, a maior. E isso vem se perdendo Selina. Os outros esquecem-se frequentemente de nossa grandiosidade. Mas Dareth... Dareth nos trará isso outra vez.
+— É claro que sim. Não confia no seu soberano? Dareth vai trazer os Polar de volta à glória. Houve um tempo em que a Dinastia Polar era a única, a maior. E isso vem se perdendo, Selina. Os outros vivem esquecendo nossa grandeza. Mas Dareth... Dareth nos trará isso outra vez.
 
 Selina hesitou, os olhos fixos num ponto qualquer da parede atrás dele.
 
@@ -198,7 +198,7 @@ Selina hesitou, os olhos fixos num ponto qualquer da parede atrás dele.
 
 — Como?
 
-— A mulher dele morreu anos atrás. Ele é viúvo. Foi por isso que ele deixou a cidade. Quis passar o resto da vida na casa onde a família tinha vivido, em terras que eu mesmo ofereci a ele no primeiro ano dele como Calandrir.
+— A mulher dele morreu anos atrás. Ele é viúvo. Foi por isso que deixou a cidade. Quis passar o resto da vida na casa onde a família tinha vivido, em terras que eu mesmo ofereci a ele no primeiro ano dele como Calandrir.
 
 Selina não respondeu de imediato. Tinha estudado tudo sobre Dareth antes daquela viagem, cada registro militar, cada menção à Passagem de Arven, e em nenhum lugar daquilo havia uma esposa, muito menos uma família inteira escondida atrás de um homem que a cidade só sabia enxergar como lenda.
 

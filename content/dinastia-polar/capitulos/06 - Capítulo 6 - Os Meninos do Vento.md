@@ -6,11 +6,11 @@ Só então foi até o canto onde ficava o caixote de grãos vazio, ergueu o fund
 
 Passou os dedos pelos papéis dobrados e amarelados, a maioria deles sem nenhum interesse: pedidos de desvinculação de família, registros de nascimento com letra apagada, uma petição de mudança de residência de alguém chamado Aleris, nascido Buldar, pedindo reconhecimento como Nular em Kaeliran havia tantos anos que a tinta já ia clareando, coisa comum, gente que trocava de vida e de papel o tempo inteiro nos bairros de fora. Kalan nem deteve os olhos nela mais do que o necessário para confirmar que não era o que procurava, e seguiu adiante até achar de novo a ficha do garoto que vivia com o tio Belan.
 
-Leu duas vezes, devagar, como se a segunda leitura pudesse mudar alguma coisa na primeira. Não mudava. Os pais do garoto constavam Polar, claros como água, do jeito que Tair jurara que não eram. Kalan fechou os olhos um instante e deixou o peso daquilo assentar de novo: não o peso de ter razão; era o de saber que não tinha mais nenhuma desculpa fácil se alguém perguntasse por que aqueles registros tinham sumido da Casa da Permanência bem na noite em que quatro filhos de Polar espancaram Orel.
+Leu duas vezes, devagar, como se a segunda leitura pudesse mudar alguma coisa na primeira. Não mudava. Os pais de Darven constavam como Polar, ao contrário do que Tair afirmara. Kalan fechou os olhos um instante: não tinha mais nenhuma desculpa fácil se alguém perguntasse por que aqueles registros tinham sumido da Casa da Permanência logo depois da agressão a Orel.
 
 Ficou pensando, guardando os papéis de volta na ordem exata em que os tinha tirado, no que diria se um dia batessem na porta perguntando por aquilo. Podia jurar que nunca tinha visto a caixa. Podia dizer que outra pessoa da casa tinha entrado lá antes dele. Nenhuma das duas coisas ia se sustentar por muito tempo se alguém realmente quisesse procurar, e ele sabia disso enquanto fechava o fundo falso do caixote: tinha comprado dias, não anos, e o problema continuava exatamente onde estava antes de ele roubar qualquer coisa.
 
-Subiu sem tirar as botas e caiu na própria esteira, no quarto apertado que dividia com Tair e Orel. Antes de dormir, pediu a Orel que o acordasse a tempo do próximo turno. Não precisou explicar como. Orel tinha um jeito de perceber a cidade que ninguém mais na casa possuía: sentia nas paredes finas a vibração distante dos guindastes da Balança Azul quando o primeiro turno da tarde começava a içar carga, um tremor que a maioria das pessoas nem notava passar pelos pés, e usava isso como usava tudo o mais, sem precisar de relógio, sem precisar de sino, só de atenção.
+Subiu sem tirar as botas e caiu na própria esteira, no quarto apertado que dividia com Tair e Orel. Antes de dormir, pediu a Orel que o acordasse a tempo do próximo turno. Orel conhecia a hora pelos pregões, pelas carroças e pelos ruídos da rua, mesmo sem relógio.
 
 Foi a mão de Orel no ombro, pesada e cuidadosa ao mesmo tempo, que trouxe Kalan de volta. Orel tentou dizer alguma coisa sobre a hora, travou no meio da palavra, repetiu o começo do som duas vezes até que ela saísse inteira, e Kalan só assentiu e agradeceu com um aperto rápido no braço dele, sem fazer cerimônia com a demora, nunca fazia, e Orel parecia relaxar um pouco cada vez que alguém não fazia.
 
@@ -40,7 +40,7 @@ Sobre a mesa, ao lado da garrafa, estava o velho livro de capa escura que Karesi
 
 Karesis não respondeu. Levou a garrafa até a boca de novo, devagar, como se o gesto custasse mais esforço do que devia.
 
-— Sabe... Não ta dando certo — Kalan cruzou os braços, sentindo a raiva do dia inteiro finalmente encontrar um lugar para pousar. — Eu preciso de outra pessoa nessa casa que consiga arrumar trabalho, que ajude com alguma coisa além de comer, beber e dormir aqui. Bateram no Orel na porta de casa e não existia um único responsável que pudesse aparecer, responder por ele, exigir alguma coisa de alguém. 
+— Sabe... Não está dando certo. — Kalan cruzou os braços, sentindo a raiva do dia inteiro finalmente encontrar um lugar para pousar. — Eu preciso de outra pessoa nessa casa que consiga arrumar trabalho, que ajude com alguma coisa além de comer, beber e dormir aqui. Bateram no Orel e não existia um único responsável que pudesse aparecer, responder por ele, exigir alguma coisa de alguém.
 
 — Eu soube — disse Karesis, baixo, quase sem mexer os lábios.
 
@@ -92,7 +92,7 @@ Quando começou a falar, a voz saiu diferente: mais lenta, mais funda, do jeito 
 
 — Sinos? Eu não suporto o som deles. 
 
-— Ah, mas nçao eram grandes sinos como os de Kaeliran. Eram pequeninos, sutis, postados na entrada da porta de cada um. Balançavam apenas com o vento, e quando não ventava, alguém levantava descalço e tocava com o dedo. — O canto da boca dele subiu sem que parecesse ter pedido licença. 
+— Ah, mas não eram grandes sinos como os de Kaeliran. Eram pequenos, pendurados à entrada de cada casa. Balançavam com o vento e, quando o ar parava, alguém se levantava descalço para tocá-los com o dedo. — O canto da boca dele subiu.
 
 Elis riu baixinho e se acomodou melhor no banco, e Karesis continuou, a voz encontrando um ritmo que ela não lembrava de ter ouvido nele antes, mais cheio, quase cantado. Contou que as crianças passavam o dia numa ilha só delas, e que no fim da tarde os pais esperavam na porta com pétalas na mão para prender no cabelo de quem chegava. Contou de pipas feitas de folhas, de desenhos que só apareciam quando alguém soprava a névoa de cima deles, de mães que passavam mel nos lábios dos filhos de manhã para que dissessem só palavras doces até a noite. Elis perguntou se funcionava, e ele disse que não, nunca, nem uma vez, e riu de verdade, um riso curto e rouco que virou tosse e o obrigou a parar.
 
@@ -100,7 +100,7 @@ Elis riu baixinho e se acomodou melhor no banco, e Karesis continuou, a voz enco
 
 — Voavam. — Karesis abriu as mãos sobre a mesa, os dedos afastados como as pontas de alguma coisa leve. — Asas de seda presas em ossos finos de pássaro. Quando um jovem chegava na idade, levavam ele até um campo alto, sem nada na frente, só a borda e as nuvens lá embaixo, e ele tinha que saltar. Quem conseguia voltava com tinta nos braços e escolhia um nome novo.
 
-— Eles voamvam? Como onseguia voaros pássaros? Que incrível! 
+— Eles voavam? Como os pássaros? Que incrível!
 
 — Sim. Mas tinha uma menina que não. — Ele demorou um pouco mais nessa palavra do que nas outras. — Teimosa como ela só. Ficou parada na borda até todo mundo olhar, saltou com raiva, e o vento a lançou no chão. Foi salva por um rapaz. Um rapaz que tocava flauta. — Karesis balançou a cabeça devagar. — Tocava mal. Muito mal.
 

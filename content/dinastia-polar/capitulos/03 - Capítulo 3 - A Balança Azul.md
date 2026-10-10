@@ -238,9 +238,7 @@ Encontrou Orel ainda deitado e Tair dormindo coberto até a cabeça. Elis havia 
 
 Precisava esconder aquilo num lugar onde nenhum deles procuraria, principalmente Elis.
 
-Descartou o baú quase imediatamente. Ela mexia ali sempre que decidia ter perdido alguma coisa. O armário era ainda pior, cheio de pequenos objetos de Karesis que pareciam existir apenas para atrair a curiosidade dela. Foi então que Kalan lembrou da tábua junto à base de uma das vigas, que soltara meses antes tentando descobrir a origem de uma infiltração.
-
-Retirou-a com cuidado. Atrás havia uma cavidade estreita entre a parede antiga e um reforço construído muito depois. A caixa entrou apertada, raspando madeira e pedra, mas Kalan conseguiu empurrá-la até o fundo antes de recolocar a tábua e pressionar as bordas para confirmar que nada parecia diferente.
+Descartou o baú quase imediatamente. Ela mexia ali sempre que decidia ter perdido alguma coisa. O armário era ainda pior, cheio de pequenos objetos de Karesis que pareciam existir apenas para atrair a curiosidade dela. Restava o caixote de grãos, quase vazio. Kalan ergueu o fundo falso que havia reforçado meses antes, acomodou a caixa ali e repôs a tábua. Espalhou os últimos grãos por cima.
 
 Permaneceu agachado por alguns instantes.
 
