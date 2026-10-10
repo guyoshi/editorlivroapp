@@ -4,10 +4,6 @@ Kaeliran acumulava muralhas interiores, canais sob ruas antigas, depósitos para
 
 Acima de tudo, havia a história. Quando todos vieram contra os Polar, as muralhas permaneceram. Era assim que se contava. As gêmeas haviam mantido Kaendar de pé quando todo Jesed quis derrubá-la. Séculos tinham aparado aquela guerra até ela caber numa frase de escola, num verso de canção e numa imagem pintada nas paredes: vieram todos; Kaendar permaneceu.
 
-Para Elis, Kaelina e Alyra eram dois nomes antigos entre muitos. Depois delas vieram soberanos grandes o suficiente para sobreviver em estátuas e canções, outros reduzidos a uma lei, uma ponte ou poucas linhas nos arquivos. Povos desapareceram, clãs mudaram de nome e fronteiras foram redesenhadas tantas vezes que mapas antigos pareciam histórias inventadas. Os Polar continuaram ali. Séculos depois, alguns daqueles povos também haviam começado a se chamar dinastias. Para um Polar, dar a si mesmo um título era fácil. Construir Kaeliran era outra coisa.
-
-Para Elis, nenhuma força parecia maior que a Dinastia Polar.
-
 Entre duas construções tortas da Cidade Exterior, Elis corria como se todo o poder dos Polar estivesse atrás dela.
 
 — Pare!
