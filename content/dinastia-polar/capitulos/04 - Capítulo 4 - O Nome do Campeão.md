@@ -168,11 +168,11 @@ Teral chegou antes que ela terminasse de se levantar, o manto azul impecável e 
 
 Teral inclinou a cabeça, mas Selina viu, no mesmo instante, o momento exato em que a frase deixava de pertencer a Vetarius.
 
-— "O soberano Vetarius Polar" — começou ele, já experimentando o som, os olhos fixos em algum ponto acima da cabeça dos dois, como se falasse para um salão cheio em vez de duas pessoas — "honra a Passagem de Arven e trinta e cinco ciclos de lealdade ao escolher, entre todos os homens de Kaeliran, aquele que uma vez já salvou seu soberano com a própria mão." — Fez uma pausa, satisfeito consigo mesmo. — Isso comove os Braedar. Eles gostam de dívida de sangue.
+— "O soberano Vetarius Polar" — começou ele, já experimentando o som, os olhos fixos em algum ponto acima da cabeça dos dois, como se falasse para um salão cheio em vez de duas pessoas — "honra a Passagem de Arven e anos de lealdade ao escolher, entre todos os homens de Kaeliran, aquele que uma vez já salvou seu soberano com a própria mão." — Fez uma pausa, satisfeito consigo mesmo. — Isso comove os Braedar. Eles gostam de dívida de sangue.
 
 — Isso não é comoção, Teral. É uma convocação — disse Selina.
 
-— São as duas coisas — Ele já anotava, a pena correndo antes mesmo de Vetarius confirmar cada palavra. — Assim que eu disser isso em voz alta diante das dez dinastias, ninguém vai lembrar que existiu um momento em que Dareth ainda não sabia. Só vão lembrar que os Polar escolheram bem.
+— São as duas coisas. — Ele já anotava, a pena correndo antes mesmo de Vetarius confirmar cada palavra. — Assim que eu disser isso em voz alta diante das dez dinastias, ninguém vai lembrar que existiu um momento em que Dareth ainda não sabia. Só vão lembrar que os Polar escolheram bem.
 
 Vetarius riu, satisfeito. Selina guardou a resposta de Teral sem comentar.
 
