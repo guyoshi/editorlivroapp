@@ -230,7 +230,7 @@ Não correu. Correr seria admitir que tinha motivo.
 
 Seguiu pela rua no mesmo passo de quem apenas descobrira que estava muito atrasado, dobrou a primeira esquina e depois outra. Quando finalmente entrou numa passagem estreita entre duas construções, encostou as costas na parede e olhou para a caixa escondida sob o casaco.
 
-Tair tinha se enganado. Os garotos eram Polar. E agora Kalan tinha acabado de roubar uma parte dos registros de Roven para impedir que alguém descobrisse depressa demais.
+Tair tinha se enganado sobre Darven: o garoto era Polar. E agora Kalan tinha acabado de roubar uma parte dos registros de Roven para impedir que alguém descobrisse depressa demais.
 
 Voltou para casa pelo caminho mais curto.
 
@@ -314,7 +314,7 @@ A Cidade Interna sempre o incomodava de um jeito difícil de explicar. Não era
 
 Em Maruva, Tair passara a manhã anterior enfrentando fila para conseguir água para quatro pessoas. Na Cidade Interna, água caía de uma escultura para outra sem que ninguém sequer se abaixasse para encher um recipiente.
 
-Num dos canais antigos, a água passava por blocos de pedra escura muito mais velhos que a fonte erguida sobre eles. Kalan já tinha reparado, outras vezes, num sinal quase apagado numa dessas pedras: um pequeno quadrado aberto na parte inferior, sustentado por três traços curtos. Alguém havia raspado o desenho até transformá-lo em cicatriz, e uma placa mais nova, dedicada às obras de Nerya Polar, ocupava o espaço logo acima. Kalan nunca teve motivo para achar aquilo importante.
+Num dos canais antigos, a água passava por blocos de pedra escura muito mais velhos que a fonte erguida sobre eles. Kalan já tinha reparado, outras vezes, num sinal quase apagado numa dessas pedras: um pequeno quadrado aberto na parte inferior, sustentado por três traços curtos. Alguém havia raspado o desenho até transformá-lo em cicatriz, e uma placa mais nova, dedicada às obras de Nerya Polar, ocupava o espaço logo acima.
 
 As roupas também mudavam. Tecidos azul-escuros de boa qualidade substituíam grande parte das fibras remendadas da Cidade Exterior. Fechos de dravenito apareciam em mantos e sobrevestes. Servidores carregavam documentos, pequenas caixas, cestos de comida e recados entre residências cujas entradas tinham mais espaço do que algumas casas inteiras de Maruva.
 
@@ -390,9 +390,7 @@ Naro virou a cabeça.
 
 — O homem do cais mandou seis.
 
-— E a caixa mandou oito.
-
-— Não me responsabilizo pelo erro. Essa é sua, Naro. 
+— E a caixa mandou oito. Não me responsabilizo pelo erro. Essa é sua, Naro.
 
 A discussão morreu ali porque outra carga já os esperava.
 
@@ -502,7 +500,7 @@ Neris virou a tábua. Na parte de trás havia um selo de cera escura. O desenh
 
 Neris examinou a cera.
 
-— O selo é deles. Embora o destino é um depósito de redistribuição comercial. Pro torneio talvez. 
+— O selo é deles. Mas o destino é um depósito de redistribuição comercial. Para o torneio, talvez.
 
 Neris franziu levemente a testa.
 
@@ -510,7 +508,7 @@ Neris franziu levemente a testa.
 
 — Desde sempre, dependendo do tipo de carga, autorização, origem ou acordo.
 
-Naro pegava outra caixa da plataforma quando Uma voz surgiu atrás deles.
+Naro pegava outra caixa da plataforma quando uma voz surgiu atrás deles.
 
 — Se o carinho puder incluir carregar alguma coisa, Cairon agradece.
 
@@ -558,7 +556,7 @@ A resposta fazia sentido. Era irritante justamente por isso. Corven entregou a
 
 — Diferença percebida, pátio nove, segunda conferência. Se continuar errado, abrem. Se estiver certo, alguém vai descobrir que Kalan perdeu a capacidade de contar peso com as costas e todos teremos uma história nova para rir dele.
 
-Então Corvis seguiu para outro setor.
+Então Corven seguiu para outro setor.
 
 No fim da tarde, os Filhos da Raiz chegaram. Um não chamaria atenção na Balança Azul. Nem dois. O Culto participava de inspeções, atendimentos, registros de doação e uma quantidade de coisas que Kalan nunca compreendera completamente.
 
@@ -574,7 +572,7 @@ Kalan reajustou a pegada e ajudou a baixar a carga. Talvez os Filhos fossem fal
 
 Ainda assim, muitos homens do Culto atravessando o cais juntos eram difíceis de ignorar.
 
-— Vou às latrinas — avisou Naro — Se Cairon perguntar onde estou.
+— Vou às latrinas — avisou Kalan. — Se Cairon perguntar onde estou...
 
 Naro olhou para ele.
 

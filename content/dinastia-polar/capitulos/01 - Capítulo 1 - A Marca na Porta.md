@@ -6,9 +6,9 @@ Acima de tudo, havia a história. Quando todos vieram contra os Polar, as muralh
 
 Para Elis, Kaelina e Alyra eram dois nomes antigos entre muitos. Depois delas vieram soberanos grandes o suficiente para sobreviver em estátuas e canções, outros reduzidos a uma lei, uma ponte ou poucas linhas nos arquivos. Povos desapareceram, clãs mudaram de nome e fronteiras foram redesenhadas tantas vezes que mapas antigos pareciam histórias inventadas. Os Polar continuaram ali. Séculos depois, alguns daqueles povos também haviam começado a se chamar dinastias. Para um Polar, dar a si mesmo um título era fácil. Construir Kaeliran era outra coisa.
 
-Kaeliran era a maior cidade conhecida de Jesed, a mais rica, a mais protegida e o centro da mais antiga das grandes potências. Para Elis, nenhuma força parecia maior que a Dinastia Polar.
+Para Elis, nenhuma força parecia maior que a Dinastia Polar.
 
-E, naquele exato momento, entre duas construções tortas da Cidade Exterior, uma garota corria como se todo o poder dos Polar estivesse atrás dela.
+Entre duas construções tortas da Cidade Exterior, Elis corria como se todo o poder dos Polar estivesse atrás dela.
 
 — Pare!
 
@@ -424,7 +424,7 @@ A voz não foi alta, mas os dois homens pararam.
 
 Elis virou o rosto e reconheceu a mulher antes mesmo de lembrar de onde. Não a conhecia pessoalmente, mas todo mundo conhecia Selina. Na Cidade Exterior diziam que ela conseguia encontrar um erro numa conta de mil dravus e não perceber uma família passando fome na porta. Outros afirmavam que nenhuma estrada fechava sem que Selina soubesse e nenhuma abria sem que alguém pagasse por isso. 
 
-Elis já havia a visto algumas vezes nos anéis internos. Era alta, vestia azul-escuro, com a gola rígida e pequenas peças de dravenito presas ao manto, enquanto as tranças finas permaneciam reunidas atrás da cabeça. Trazia alguns papéis numa das mãos e parecia mais irritada com o atraso do que preocupada com Elis.
+Elis já a havia visto algumas vezes nos anéis internos. Era alta, vestia azul-escuro, com a gola rígida e pequenas peças de dravenito presas ao manto, enquanto as tranças finas permaneciam reunidas atrás da cabeça. Trazia alguns papéis numa das mãos e parecia mais irritada com o atraso do que preocupada com Elis.
 
 Um dos Filhos da Raiz afrouxou um pouco a pressão.
 

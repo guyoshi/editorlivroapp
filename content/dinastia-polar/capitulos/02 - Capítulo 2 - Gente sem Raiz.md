@@ -34,7 +34,7 @@ Kalan finalmente a encarou. Seus olhos desceram primeiro para a trança que já 
 
 — O que aconteceu?
 
-— Nada
+— Nada.
 
 — Nada?
 
@@ -132,13 +132,13 @@ Kalan apoiou a faca sobre a mesa.
 
 — Eu ouvi alguma coisa sobre um tal torneio decenal que farão entre dez dinastias.
 
-— Torneio decenal? — Elis perguntou, mordendo um pedaço de pão duro que sobrara do dia anterior —  que tipo de torneio é esse? 
+— Torneio decenal? — perguntou Elis, mordendo um pedaço de pão duro que sobrara do dia anterior. — Que tipo de torneio é esse?
 
 — Não sei ao certo. 
 
 Kalan voltou à carne. 
 
-— Dez campeões — disse Tair. — Um para cada dinastia. A dinasita vencedora terá controle sobre a guerra e dioplomacia entre todas. Ta todo mundo falando disso. 
+— Dez campeões — disse Tair. — Um para cada dinastia. A vencedora terá primazia nas decisões sobre guerras e disputas entre elas. Está todo mundo falando disso.
 
 — Interessante — respondeu Elis.
 
@@ -176,7 +176,7 @@ Kalan terminou de pendurar mais uma tira.
 
 Elis ficou olhando para ele.
 
-— Vetarius disse que vai impedir guerras — continuou Kalan — Mas soberanos dizem muitas coisas.
+— Vetarius disse que vai impedir guerras — continuou Kalan. — Mas soberanos dizem muitas coisas.
 
 Elis pensou no homem sobre a plataforma, no manto azul, no povo gritando seu nome e em Kaendar atrás dele.
 
@@ -724,13 +724,13 @@ Kalan deixou o prato sobre a mesa.
 
 — Estão esperando alguém?
 
-Tair balançou a cabeça.Elis também. Orel ficou imóvel.
+Tair balançou a cabeça. Elis também. Orel ficou imóvel.
 
 Três batidas vieram em seguida e Kalan levantou, sua primeira reação sendo olhar para a espada. Ele pegou a arma, prendeu a bainha na cintura e caminhou até a porta. Parou antes de abrir, pensou por um instante e escondeu a mão com a espada por detrás da porta. 
 
 Kalan levou um dedo aos lábios. Nova pancada. Finalmente Kalan abriu.
 
-Dois guardas estavam do lado de fora.O primeiro olhou para Kalan.
+Dois guardas estavam do lado de fora. O primeiro olhou para Kalan.
 
 — Esta é a casa sob responsabilidade de Karesis?
 
@@ -802,7 +802,7 @@ O guarda colocou a mão na porta, mas Kalan não saiu do lugar.
 
 O silêncio pesou dentro da casa. Elis viu o maxilar de Kalan endurecer.
 
-— Os meninos... sobrinhos do tal Roven... sabem que não são Polar, certo? 
+— Os meninos... sobrinhos do tal Belan... sabem que não são Polar, certo?
 
 A mão do guarda parou. O segundo homem consultou a tábua.
 
@@ -892,7 +892,7 @@ A resposta saiu firme. Kalan aproveitou.
 
 — E os outros três?
 
-Kalan permaneceu imóvel, olhou para Tair, então soltou:
+Kalan permaneceu imóvel, olhou para Tair, então arriscou:
 
 — Também são Nular.
 
