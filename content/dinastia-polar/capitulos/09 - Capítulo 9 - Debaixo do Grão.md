@@ -1,4 +1,4 @@
-A manhã começou como quase todas as outras, o que já devia ter sido, mais tarde, a primeira coisa que Elis notaria: nenhum sinal de nada, nenhum aviso. Kalan já tinha saído para o cais antes de qualquer um dos outros abrir os olhos de verdade, do jeito que fazia todos os dias desde que Elis conseguia lembrar, e a marca da ausência dele na casa era tão comum que ninguém mais reparava nela. Restavam Tair, reclamando da água que tinha esfriado demais durante a noite, e Karesis sentado perto da porta, descalço, com os cabelos ainda molhados de alguma coisa que não era chuva, enrolando uma corda fina em torno da própria mão enquanto mastigava devagar um pedaço de pão duro.
+A manhã começou como quase todas as outras. Kalan já tinha saído para o cais antes de qualquer um dos outros abrir os olhos de verdade, do jeito que fazia todos os dias desde que Elis conseguia lembrar, e sua ausência na casa era tão comum que ninguém mais reparava nela. Restavam Tair, reclamando da água que tinha esfriado demais durante a noite, e Karesis sentado perto da porta, descalço, com os cabelos ainda molhados de alguma coisa que não era chuva, enrolando uma corda fina em torno da própria mão enquanto mastigava devagar um pedaço de pão duro.
 
 — Você vai desmontar essa corda inteira antes do meio-dia se continuar assim — disse Tair, sem erguer os olhos da tigela.
 
@@ -76,7 +76,7 @@ O símbolo era o mesmo que ela já tinha visto em outros papéis oficiais, colad
 
 Polar.
 
-Elis ficou olhando para aquilo, sentindo alguma coisa se encaixar devagar, com um clique quase físico. Tair tinha dito que o garoto e os amigos eram Nular. Tinha dito com tanta certeza que os guardas quase acreditaram, que a casa inteira relaxara por um instante antes de voltar a se preocupar com outra coisa. E ali, na frente dela, num papel que ninguém devia ter conseguido ver tão fácil, estava escrito o contrário.
+Elis ficou olhando para aquilo, sentindo alguma coisa se encaixar devagar. Tair tinha dito que o garoto e os amigos eram Nular. Tinha dito com tanta certeza que os guardas quase acreditaram. Ao menos sobre Darven, o papel dizia o contrário.
 
 Ela pensou nos últimos dias, juntando peças que até então tinham ficado espalhadas demais para formar qualquer desenho: o jeito como Kalan chegara tenso do trabalho mais de uma vez sem explicar por quê; uma manhã em que ele saíra de casa antes de qualquer luz decente, sem dizer para onde ia; a forma como, quando alguém mencionava a Casa da Permanência perto dele, seus ombros ficavam ligeiramente mais duros do que o normal, um detalhe pequeno demais para qualquer pessoa notar, a não ser alguém que passava a vida notando exatamente esse tipo de coisa.
 

@@ -2,7 +2,7 @@ A Câmara dos Onze se reunia em Kaendar havia séculos, e a sala ainda carregava
 
 Mas era campeão Polar agora, gostasse ou não, e boa parte da pauta daquela manhã dizia respeito à partida. Sentou-se onde indicaram, perto o bastante da cabeceira para ouvir tudo, longe o bastante para que ninguém esperasse que ele falasse primeiro.
 
-Duas cadeiras estavam vazias.
+Três cadeiras estavam vazias.
 
 A de Selina não surpreendeu ninguém. Ela andava dividida entre investigações e obrigações havia dias, e sua ausência já tinha virado rotina o suficiente para que nem Vetarius comentasse. A outra cadeira vazia era a dos Registros, Leis e Arquivos. Alguém mencionou, de passagem, que Velian Polar seguia de cama havia alguns dias, febre que não cedia. Ninguém pareceu achar aquilo mais do que um contratempo administrativo.
 
@@ -472,7 +472,7 @@ Ela não respondeu.
 
 — Certo.
 
-Ele deixou passar. Não insistiu uma segunda vez, e aquilo importava mais do que parecia: Ladira já tinha manipulado a garota o suficiente por um dia inteiro; Hadris já a interrogara; o Culto inteiro queria alguma coisa dela. Dareth perguntou uma única vez e aceitou o silêncio como resposta legítima.
+Ele deixou passar. Não insistiu uma segunda vez.
 
 *
 
@@ -538,15 +538,11 @@ Elis olhou para ele.
 
 — Sua mãe parece ter entendido isso antes de você.
 
-Não conhecera Neiva. Só estava inferindo, a partir do pouco que Elis tinha contado, mas disse mesmo assim, porque era verdade o suficiente para valer a pena dizer.
-
 Elis forçou um risinho curto, olhando de novo para o chão.
 
 — Ela era mais esperta.
 
 — Você chegou até aqui.
-
-Não era "você é forte". Não era discurso. Só reconhecimento, do tipo que Dareth sabia entregar de verdade.
 
 *
 
@@ -561,8 +557,6 @@ Ela ergueu os olhos.
 Dareth demorou para responder.
 
 — Ainda não sei.
-
-Aquilo, de algum jeito estranho, tornava a promessa melhor, não pior: ele não estava fingindo ter um plano que não tinha.
 
 — Mas vou.
 

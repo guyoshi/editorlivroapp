@@ -54,7 +54,7 @@ Amaric hesitou só um instante antes de responder, como quem já sabe que a resp
 
 E foi só. Nenhuma explicação sobre o motivo, nenhuma promessa de castigo, nenhuma frase guardada para o menino carregar como lição. Vetarius já tinha virado inteiramente para Amaric, a atenção mudando de lugar com uma rapidez que deixava claro qual dos dois problemas importava mais naquele momento, e passou a perguntar, ali mesmo, por que o portão da ala leste demorava tanto para fechar, por que um guarda tinha saído sem a lança, quantos homens realmente tinham chegado ao jardim nos primeiros dois minutos e quantos só depois.
 
-Caeren ficou parado onde estava, ainda respirando um pouco rápido do riso, olhando o pai discutir a própria falha de segurança como se ele, Caeren, já não estivesse mais na sala.
+Caeren ficou parado onde estava, ainda respirando um pouco rápido do riso, olhando o pai discutir a própria falha de segurança como se ele já não estivesse mais no jardim.
 
 Kerath ficou onde estava também, a espada ainda na mão, e foi a única que continuou olhando para o menino em vez do soberano. Ele não parecia envergonhado. Parecia atento, do mesmo jeito que ficava atento quando alguém contava um feito de guerra, contando por dentro alguma coisa que os adultos ao redor dele ainda não tinham dito em voz alta.
 
@@ -63,7 +63,10 @@ Ele percebeu que ela olhava. Por um segundo, os dois se encararam por cima da di
 Caeren foi o primeiro a desviar o olhar.
 
 Kerath não.
-Kaendar já estava de pé havia horas quando Dareth abriu os olhos, e ele soube disso antes mesmo de se levantar, só pelo tipo de ruído que atravessava as paredes grossas demais do quarto que continuavam insistindo em lhe dar: passos organizados demais para serem casuais, o arrastar de tecido pesado sendo carregado em pilhas, o tilintar ocasional de fivela contra fivela quando alguém verificava uma sela pela décima vez. Levantou-se, vestiu a túnica simples que trouxera de casa por hábito, e quando abriu a porta encontrou um pátio que já não era o mesmo que atravessara na noite anterior: soldados cruzando de um lado a outro com uma pressa organizada, funcionários carregando rolos de tecido azul-profundo que pareciam não ter fim, homens debruçados sobre selas e correias verificando fivelas que provavelmente já tinham verificado duas vezes, mensageiros correndo entre os prédios com a urgência de quem carrega palavras que não podem chegar atrasadas. Por baixo de tudo isso, ainda distante, mas já reconhecível, vinha o som abafado de uma multidão que começava a se formar em algum lugar fora das muralhas de Kaendar, muito antes de qualquer cerimônia ter começado de verdade.
+
+*
+
+Kaendar já estava de pé havia horas quando Dareth abriu os olhos. Passos apressados atravessavam as paredes grossas do quarto que continuavam insistindo em lhe dar; alguém arrastava tecido pelo corredor, fivelas tilintavam contra outras fivelas. Levantou-se, vestiu a túnica simples que trouxera de casa por hábito e abriu a porta. Soldados cruzavam o pátio, funcionários carregavam rolos de tecido azul-profundo, homens verificavam selas e correias. Ao longe, além das muralhas de Kaendar, já se ouvia a multidão reunida para a cerimônia.
 
 Mestre Orvath o encontrou num dos salões menores, o tipo de cômodo que ninguém decorava com cuidado porque servia só de passagem entre lugares mais importantes, carregando a espada de Dareth embrulhada num pano limpo com o mesmo cuidado que um homem reservaria para carregar algo vivo.
 
@@ -169,9 +172,7 @@ Teral nem hesitou.
 
 O homem da segurança não insistiu. Ninguém insistia depois que Teral dizia uma frase daquele jeito, com aquela certeza que transformava qualquer objeção seguinte em desobediência.
 
-Dareth, ouvindo aquilo de onde estava, não sabia ainda que Vetarius queria exatamente isso: que os habitantes mais pobres de Kaeliran vissem, com os próprios olhos, um símbolo vivo da força Polar.
-
-Eles acabariam vendo outra coisa.
+Dareth ouviu a resposta de Teral. Vetarius queria que até os habitantes mais pobres de Kaeliran vissem o campeão Polar.
 
 Foi também ali, na borda entre as duas cidades, que Vetarius parou.
 
@@ -364,10 +365,6 @@ Desta vez, o nome de Dareth se espalhou pela multidão sem que ninguém precisas
 Dareth seguiu de novo pelo caminho, mas havia uma diferença que sentiu no pescoço antes de conseguir nomeá-la: não baixou mais a cabeça. Olhou para as pessoas. Olhou para Maruva, para as janelas apertadas, para os trabalhadores que tinham interrompido o dia só para vê-lo passar, para todos aqueles que Kaeliran preferia não mostrar quando queria parecer grandiosa. Pela primeira vez desde que a cerimônia começara, viu de verdade a cidade que gritava seu nome.
 
 Atrás dele, ainda segurando o pão com as duas mãos como quem segura alguma coisa rara demais para arriscar deixar cair, Elis observava o campeão seguir.
-
-Não havia nada mais que precisasse ser explicado.
-
-Só o som crescendo.
 
 — QUATRO-DEDOS!
 

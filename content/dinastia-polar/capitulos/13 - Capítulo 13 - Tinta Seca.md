@@ -1,8 +1,8 @@
-Kalan perdeu a conta de quantos dias tinha passado ali dentro, mas não perdeu a conta das perguntas, e era isso, mais do que a fome ou o frio da pedra sob o corpo, que o mantinha acordado boa parte das noites. Ela voltou para casa? Karesis apareceu, bêbado e atrasado como sempre, mas apareceu? Ela está comendo, ou está fazendo o que ele mesmo teria feito na idade dela, guardando a própria fome para depois, fingindo para si mesma que dava para esperar mais um pouco? Sabe onde eles estão, ou passa os dias perguntando em postos que não respondem? Foi atrás da caixa, entendeu que precisava desaparecer com ela antes que alguém mais rápido chegasse primeiro? A Raiz voltou à casa depois que os levaram, revirou tudo de novo, encontrou Elis sozinha no meio do que sobrou?
+Kalan perdeu a conta de quantos dias tinha passado ali dentro, mas não das perguntas que o mantinham acordado. Elis voltara para casa? Karesis aparecera? Ela estava comendo? Sabia onde eles estavam, ou passava os dias perguntando em postos que não respondiam? A Raiz voltara à casa, encontrara a caixa, encontrara Elis sozinha?
 
 Nenhuma resposta chegava. Passos no corredor de pedra faziam Kalan erguer a cabeça antes mesmo de decidir erguer, e quando um guarda enfiava a chave na porta errada, ou parava para falar com outro guarda sem entrar em lugar nenhum, ele perguntava de qualquer forma, pela irmã, pelo nome dela, por qualquer notícia de fora que alguém tivesse esquecido de considerar importante o bastante para negar logo. Nunca recebia nada que valesse o esforço da pergunta. Um "não sei de nada disso" dito sem olhar para ele. Um silêncio que doía mais do que qualquer recusa formal. Uma vez, só uma vez, um guarda mais jovem quase respondeu antes de se lembrar de que não devia, e aquele quase, aquele instante em que a boca dele se abriu e depois se fechou de novo, ficou girando na cabeça de Kalan por horas, mais cruel do que qualquer negativa direta.
 
-O medo tinha a altura de Elis, o jeito como ela mordia o lábio quando mentia mal, a velocidade com que os pés encontravam qualquer fenda antes que os olhos terminassem de registrar o caminho. Kalan conhecia cada pedaço dele. Passara a vida inteira colocando a proteção dela antes do resto. Se alguém quisesse quebrá-lo, não precisava de fogo nem de corda. Bastava o nome dela.
+O medo tinha a altura de Elis, o jeito como ela mordia o lábio quando mentia mal, a velocidade com que os pés encontravam qualquer fenda. Kalan passara a vida inteira colocando a proteção dela antes do resto. Se alguém quisesse quebrá-lo, bastava o nome dela.
 
 Orel piorava mais rápido do que qualquer um dos outros dois. O confinamento não produzia nele a tristeza comum de quem sente falta de casa; produzia crises inteiras, cheias de som e de corpo, que Kalan tinha visto crescer dia após dia até virar outra coisa. Orel chorava alto, sem nenhuma vergonha de chorar alto, e às vezes o choro virava um urro comprido que enchia o corredor inteiro, um som que fazia até os guardas mais endurecidos baixarem os olhos por um segundo antes de voltarem a agir como se não tivessem ouvido nada. Batia na porta com as duas mãos, com o corpo inteiro, até os punhos ficarem vermelhos, e quando alguém entrava para tentar contê-lo ele empurrava, se debatia, chegava a golpear sem nenhuma intenção real de ferir, só o pânico puro de um corpo que já tinha aprendido, muito antes daquela cela, o que significava ser seguro por mãos que não perguntavam permissão. Em determinados momentos, no meio de tudo isso, ele chamava por ela, a voz raspando nas consoantes que nunca conseguia formar direito.
 
@@ -140,7 +140,7 @@ Alguma coisa na postura de Hadris se alterou, um endurecimento pequeno nos ombro
 
 — É a pior mentira que já ouvi neste ano, e ouço muitas — respondeu Hadris, quase sem fôlego, antes de se recompor, respirar, deixar a voz baixar de volta ao registro limpo e absoluto de sempre, como quem enrola de volta uma corda que escapara por um instante das próprias mãos.
 
-Kalan não disse mais nada, porque não havia mais nada para dizer que não fosse repetir a mesma verdade impossível de acreditar, e sentiu, com um tipo de tristeza nova, que aquela era exatamente a armadilha perfeita que a própria vida tinha montado para ele: no momento em que finalmente parou de mentir, a verdade que restava era exatamente aquela que ninguém no mundo teria motivo para aceitar.
+Kalan não disse mais nada. No momento em que finalmente parara de mentir, Hadris não tinha motivo para acreditar nele.
 
 A porta se abriu antes que Hadris pudesse continuar.
 
@@ -183,8 +183,6 @@ E então eles desapareceram por uma porta ao fundo do pátio, e o silêncio que 
 *
 
 Ficou sozinho na sala sem janelas por tempo suficiente para que a fúria começasse a se transformar em outra coisa, mais funda, mais parecida com medo puro. Tinha confessado esperando aliviar o peso que carregava sobre os outros, e o que tinha visto, imediatamente depois, era Tair e Orel sendo levados de qualquer forma, enquanto ele continuava ali, sozinho, ainda acreditando, porque nada tinha lhe dito o contrário, que Elis estava em algum lugar daquele mesmo prédio, sob o mesmo poder que acabara de levar os outros dois.
-
-A confissão não tinha servido para nada. Ou tinha servido só para piorar tudo, e Kalan não conseguia decidir qual das duas possibilidades doía mais.
 
 Chorou ali, sem ninguém para ver, a raiva e o medo se misturando de um jeito que não deixava espaço para vergonha.
 

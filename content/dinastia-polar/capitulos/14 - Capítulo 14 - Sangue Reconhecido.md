@@ -48,7 +48,7 @@ Não era uma ameaça gritada. Era pior do que isso: era uma ameaça dita com a m
 
 Ainda assim, não ia entregar Dareth àquilo. Não depois de vinte anos de dívida que nunca tinha realmente terminado de pagar.
 
-— Ele é meu campeão — disse Vetarius, a voz endurecendo pela primeira vez desde que a conversa começara. — Metade de Kaeliran passou o dia de ontem carregando o nome dele na boca. Se você transformar Dareth Quatro-Dedos em alvo agora, uma semana depois de eu apresentá-lo à cidade inteira como prova viva da força Polar, não vai parecer justiça religiosa. Vai parecer que a Raiz tem medo de um homem que protegeu uma criança.
+— Ele é meu campeão — disse Vetarius, a voz endurecendo pela primeira vez desde que a conversa começara. — Metade de Kaeliran passou o dia de ontem carregando o nome dele na boca. Se você transformar Dareth Quatro-Dedos em alvo agora, um dia depois de eu apresentá-lo à cidade inteira como prova viva da força Polar, não vai parecer justiça religiosa. Vai parecer que a Raiz tem medo de um homem que protegeu uma criança.
 
 O Sumo Vigia considerou aquilo por um momento mais longo do que qualquer coisa dita até ali.
 
@@ -170,11 +170,11 @@ Dareth pareceu genuinamente surpreso, uma pausa pequena antes de continuar.
 
 — Você a conhece.
 
-— Conheço — confirmou Selina, sem se alongar na explicação, embora a lembrança viesse inteira mesmo assim: a garota atrás dos caixotes, a pergunta seca sobre o próprio poder, a frase final que Selina ainda carregava sem querer carregar. — Já a peguei mais de uma vez em lugares onde ela não deveria estar. Cidade Intermediária, Cidade Interna, sempre circulando sem autorização, sempre com uma desculpa nova. Ela é, para fins práticos, uma pequena calamidade administrativa que anda por conta própria.
+— Conheço — confirmou Selina. Lembrou-se da garota atrás dos caixotes, da pergunta sobre o próprio poder. — Já a peguei mais de uma vez em lugares onde ela não deveria estar. Cidade Intermediária, Cidade Interna, sempre circulando sem autorização, sempre com uma desculpa nova. Ela é, para fins práticos, uma pequena calamidade administrativa que anda por conta própria.
 
 — Ela está sozinha havia dias. Comendo mal, ou nem isso. — Dareth sentou-se sem esperar convite, o corpo ocupando a cadeira do jeito que ocupava qualquer espaço, sem esforço nenhum para parecer menor do que era. — E quando finalmente teve diante dela alguém que podia ajudar de verdade, alguém com poder de fazer alguma coisa acontecer, ela não pediu dinheiro. Não pediu comida, não pediu uma casa melhor, não pediu nada pra si mesma. Pediu pelo irmão.
 
-Selina considerou aquilo, e a lembrança da própria pergunta feita a Elis, semanas antes, "pra que serve, então, todo esse poder que você tem", voltou com um peso que preferiu não examinar diante de Dareth.
+Selina considerou aquilo, e a lembrança da própria pergunta feita a Elis, dias antes, "pra que serve, então, todo esse poder que você tem", voltou com um peso que preferiu não examinar diante de Dareth.
 
 — O que você quer que eu faça?
 
@@ -346,4 +346,4 @@ Selina assentiu.
 
 Alguma coisa que quase era um sorriso passou pelo rosto de Kalan, o primeiro sinal de leveza desde que Selina entrara ali, e desapareceu quase tão rápido quanto tinha chegado.
 
-Selina saiu do Santuário decidida a encontrar Elis e descobrir onde a caixa estava escondida. Só depois investigaria por que Alveris insistia tanto em deixar as cargas da Balança Azul sem fiscalização.
+Selina saiu do Santuário decidida a encontrar Elis. Depois voltaria às cargas da Balança Azul e à proposta de Alveris de dispensá-las da inspeção.

@@ -12,7 +12,7 @@ As mesmas três linhas, o mesmo código sem explicação nenhuma grudado a ele, 
 
 Polar.
 
-Foi só olhando para aquilo de novo, com a cabeça mais calma do que estivera da primeira vez, que o resto do problema ficou claro para Elis, inteiro, do jeito que as coisas às vezes ficavam claras de repente depois de dias inteiros embaçadas. Devolver aquela caixa podia ajudar Kalan: provava, ali, preto no branco, que ele não tinha mentido sobre nada que realmente importasse, que a caixa continha exatamente o que ele dissera conter. Mas também podia destruir Orel. Fora justamente a crença de que os garotos eram Nular que reduzira a gravidade do caso no início, que fizera guardas e vizinhos tratarem tudo como uma briga qualquer entre gente sem sobrenome que valesse a pena anotar. Se aparecessem provas de que os agressores eram Polar, filhos de família com símbolo bordado e registro limpo, talvez o Culto decidisse que a história precisava de outro peso, outra urgência, outro tipo de acusação contra o homem que tinha machucado um deles. Elis não entendia ainda, não tinha como entender, sem ter estado na sala com Hadris, sem ter ouvido o jeito como ele reorganizava fatos em sequências, que o centro jurídico do caso já tinha se deslocado havia tempo, da agressão original para o furto dos registros e para a autoridade da própria Casa da Permanência, e que devolver aquela caixa não mudaria isso em nada. Para ela, dali de baixo, no escuro, com a folha da mãe ainda no colo, o cálculo continuava simples e perigoso do mesmo jeito: qualquer papel que entregasse podia acender de novo um fogo que ela mesma não sabia mais onde começava nem onde ia parar.
+Devolver a caixa podia ajudar Kalan: os papéis estavam ali, como ele dissera. Mas o registro de Darven também podia pôr Orel em perigo. Até então, todos tinham tratado a agressão como uma briga entre Nular. Se o Culto soubesse que Darven era Polar, talvez passasse a exigir outra punição para o homem que o machucara. Elis não estivera na sala com Hadris; não sabia quanto o furto já pesava contra Kalan. Dali de baixo, com a folha da mãe no colo, qualquer papel que entregasse parecia capaz de piorar a situação de alguém.
 
 E havia ainda a outra coisa, menor, mas que pesava do mesmo jeito: aquela caixa era a única pista concreta que tinha sobre Neiva. Entregá-la significava entregar também a mãe, de um jeito que Elis não estava pronta para fazer só porque alguém precisava dos papéis de volta.
 
@@ -68,7 +68,7 @@ Vessa não prometeu nada. Não disse que ia cuidar de tudo, não disse que ia fa
 
 — Volta amanhã — disse, e não era pedido nem convite. Era instrução.
 
-Elis assentiu e se levantou, já pensando na caminhada até em casa, e foi só quando se virou para a porta que percebeu, sem dar importância nenhuma ao que via, Vessa chamando alguém do fundo da cozinha com um gesto curto de cabeça, e perguntando, baixo demais para que Elis entendesse as palavras exatas, por uma pessoa que trabalhava em outro canto de Maruva. Não pensou mais naquilo depois de sair pela porta. Não tinha motivo nenhum, ainda, para pensar.
+Elis assentiu e se levantou. Ao se virar para a porta, viu Vessa chamar alguém do fundo da cozinha e perguntar, baixo demais para que entendesse, por uma pessoa que trabalhava em outro canto de Maruva. Elis saiu com a bolsa de comida.
 
 *
 
@@ -116,13 +116,13 @@ Elis não disse nada. Sentiu Orel apertar um pouco mais o abraço, como se senti
 
 — Foi por isso que o Kalan foi verificar — continuou Tair, e agora as palavras vinham mais rápido, como se, uma vez abertas, não conseguisse mais fechar a porta. — Foi porque eu disse que tinha certeza que ele foi lá antes dos guardas. E foi o que ele encontrou lá que fez ele roubar a caixa. — Olhou para Elis, os olhos vermelhos, e disse a última parte tão baixo que ela quase não ouviu: — Ele foi lá porque eu disse que tinha certeza.
 
-Elis sabia que Tair não inventara nada por maldade; confundira dependência com pertencimento numa noite caótica. Mesmo assim, ele permanecia curvado sob a culpa, incapaz de aceitar a distinção.
+Tair não inventara nada por maldade; confundira dependência com pertencimento numa noite caótica. Elis o via curvado sob a culpa.
 
 Elis já sabia que Darven era Polar. Tinha lido aquilo com os próprios olhos, dias antes, na mesma caixa que ninguém mais conseguia encontrar. Podia dizer isso a Tair agora, talvez até aliviasse um pouco o peso, saber que a confirmação já existia em algum lugar, fora do erro dele. Chegou a abrir a boca, sentindo as palavras se formarem, algo como eu sei, eu vi os papéis, mas parou antes que qualquer som saísse, porque dizer aquilo significava explicar de onde vinha aquele conhecimento, e explicar de onde vinha significava abrir mão do único segredo que ainda controlava sozinha.
 
 Ficou em silêncio, e escutou.
 
-Foi enquanto escutava que o resto do quadro terminou de se montar na cabeça dela, peça sobre peça, do mesmo jeito metódico com que tinha montado a palavra desvinculação dias antes: Kalan descobrira que Tair estava errado. Roubara os documentos para impedir que a mentira fosse desmontada rápido demais, antes que alguém confirmasse que os agressores de Orel eram filhos de Polar. Escondera a caixa sozinho, sem contar a ninguém, nem mesmo a ela. E quando tudo desabou, quando o furto virou o centro do caso, quando Hadris começou a puxar o fio até a ponta, tinha assumido tudo sozinho, deliberadamente, para separar a própria culpa da culpa de Tair e de Orel. Era por isso que os dois estavam ali agora, em casa, machucados mas livres, enquanto Kalan continuava onde estava.
+Enquanto escutava, Elis entendeu por que Kalan tinha ido à Casa da Permanência depois do depoimento de Tair. Descobrira que Darven era Polar, roubara a caixa para atrasar a descoberta e escondera tudo sem contar nem a ela. Agora Tair e Orel estavam em casa, machucados mas livres. Kalan continuava preso.
 
 Elis conhecia aquele padrão. Conhecia de longe, de perto, de dentro. Quando faltava comida, Kalan dizia que já tinha comido antes de sair para o cais. Quando alguma coisa parecia perigosa demais, decidia sozinho que ela não precisava saber dos detalhes. Quando faltava dinheiro, simplesmente arranjava mais turnos, sem avisar, sem perguntar se havia outro jeito. Para Kalan, proteger sempre significara a mesma coisa: decidir, sozinho, o peso exato que cada pessoa ao redor dele tinha permissão de carregar, e carregar ele mesmo tudo que decidia que os outros não aguentariam.
 

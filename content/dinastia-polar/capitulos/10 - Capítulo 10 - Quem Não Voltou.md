@@ -124,7 +124,7 @@ Por um instante, Vetarius pareceu não processar a frase inteira, ainda com um p
 
 — Dareth! — A voz saiu mais alta do que a sala exigia. — Eu sabia. Eu sabia que você viria!
 
-Ninguém na mesa parecia mais lembrar da caixa desaparecida, dos irmãos detidos em Maruva, das estradas ou dos alojamentos. Tudo aquilo, que segundos antes ocupara a atenção de onze pessoas responsáveis por mais de sessenta mil vidas, tinha perdido importância diante de um homem parado na porta.
+Ninguém na mesa parecia mais lembrar da caixa desaparecida, dos moradores detidos em Maruva, das estradas ou dos alojamentos. Tudo aquilo, que segundos antes ocupara a atenção da Câmara, tinha perdido importância diante de um homem parado na porta.
 
 Dareth não participou da celebração que se formava. Atravessou a sala até a mesa farta, ignorando os conselheiros que já se levantavam para cumprimentá-lo, pegou uma garrafa qualquer sem verificar o conteúdo, serviu-se num copo de metal que encontrou por perto e bebeu de uma vez, sem cerimônia, sem brinde, sem esperar ninguém erguer a própria taça em sua direção. Levou o copo consigo quando se virou para ir embora, sem ter dito mais nenhuma palavra além daquelas duas, e a porta se fechou atrás dele antes que Vetarius conseguisse decidir se devia segui-lo ou ficar ali recebendo os parabéns que já começavam a chover de todos os lados da mesa.
 
@@ -278,6 +278,4 @@ Deixou aquilo pesar no silêncio entre os dois antes de completar:
 
 — Se um dia você vir uma guerra de verdade, não vai lembrar de quantos homens alguém matou. Vai lembrar dos que pediram ajuda e ninguém conseguiu tirar dali.
 
-Caeren ficou olhando para ele por um longo tempo, sem encontrar nada para responder, e Dareth não ofereceu mais nada para preencher aquele silêncio. Levantou-se devagar, o corpo ainda dolorido do treino, e deixou o pátio sem se despedir, carregando consigo a única certeza que realmente importava naquele dia: não tinha voltado a Kaeliran porque amava a guerra.
-
-Tinha voltado porque a odiava mais do que qualquer homem naquela cidade seria capaz de compreender.
+Caeren ficou olhando para ele por um longo tempo, sem encontrar nada para responder. Dareth se levantou, ainda dolorido do treino, e deixou o pátio sem se despedir.

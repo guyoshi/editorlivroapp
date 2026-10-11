@@ -1,6 +1,6 @@
 A manhã chegou clara pela primeira vez em dias, e o silêncio da chuva parada era, de um jeito estranho, mais alto do que o próprio som da água caindo. Elis acordou sentindo o corpo ainda pesado do sono, o colchão fino úmido nas bordas, e ficou um momento imóvel no quarto pequeno, ouvindo a casa: um pingo de água ainda caindo em algum ponto do teto, o ranger costumeiro da escada que ninguém tinha conseguido consertar, o som de pano sendo sacudido lá embaixo. A madeira das paredes tinha inchado com a umidade dos últimos dias, e o cheiro de mofo se misturava ao de roupa secando, presa em cordas atravessadas onde havia espaço.
 
-Desceu e encontrou Orel junto da janela estreita do andar de cima, um cotovelo apoiado no batente, olhando a rua com aquela paciência silenciosa que só ele conseguia manter por tanto tempo sem parecer entediado. Estava mais magro do que antes de ser levado, o rosto ainda guardando sombra sob os olhos, mas alguma coisa nele tinha voltado a se assentar desde que chegara em casa: já não sobressaltava com barulhos pequenos, já conseguia ficar parado num lugar sem procurar, a cada instante, uma saída. Acompanhava com o dedo o caminho de uma gota que escorria pela madeira, devagar, como se aquilo fosse a coisa mais importante do mundo naquele momento, e de vez em quando erguia os olhos para observar alguém reaparecendo na rua, um vizinho carregando um balde, uma criança pulando uma poça, gente que os dias de chuva tinham escondido e que agora voltava, cautelosa, a ocupar o espaço de sempre.
+Saiu do quarto e encontrou Orel junto da janela estreita do andar de cima, um cotovelo apoiado no batente, olhando a rua. Estava mais magro do que antes de ser levado, com sombras sob os olhos, mas já não se sobressaltava com barulhos pequenos. Acompanhava com o dedo uma gota que escorria pela madeira; de vez em quando erguia os olhos para observar um vizinho carregando um balde ou uma criança pulando uma poça.
 
 Elis se aproximou e ficou ao lado dele, sem dizer nada, só olhando também.
 
@@ -76,7 +76,7 @@ A casa de Vesna, quando chegou, estava diferente do que Elis conhecia. A porta, 
 
 O interior conservava o cheiro de sempre, ervas, água quente, tecido limpo, os pequenos frascos organizados nas prateleiras de sempre, mas a luz estava baixa, uma única lamparina cobrindo apenas a mesa central, e Vesna manteve os ombros tensos mesmo depois de trancar a porta atrás das duas.
 
-— Lembra do que você me pediu, há uns ciclos. — Vesna sentou-se de frente para ela, as mãos entrelaçadas sobre a mesa. — Sobre sua mãe. Sobre a referência que você viu.
+— Lembra do que você me pediu, outro dia? — Vesna sentou-se de frente para ela, as mãos entrelaçadas sobre a mesa. — Sobre sua mãe. Sobre a referência que você viu.
 
 — De desvinculação.
 
@@ -152,7 +152,7 @@ Elis sentiu alguma coisa se deslocar dentro do próprio peito, um chão que ela 
 
 — Então o que ela era antes?
 
-Vesna passou para o segundo papel, o dedo seguindo até a referência que já tinha nome fixado na memória de Elis desde a leitura na caixa, meses antes.
+Vesna passou para o segundo papel, o dedo seguindo até a referência que Elis lera na caixa dias antes.
 
 — DV-0417 não é só um número, Elis. É uma desvinculação formal.
 
@@ -166,7 +166,7 @@ Elis olhou para as folhas.
 
 — Em boa parte, sim. Não existe motivo para desvincular alguém de uma linhagem à qual essa pessoa nunca pertenceu. — Deixou a frase pousar, deixando Elis absorver o peso dela antes de continuar. — Sua mãe pertencia a alguma coisa antes de ser Nular. E alguém, em algum momento, decidiu cortar esse pertencimento.
 
-Elis lembrou, quase sem querer, das linhas exatas daquele primeiro papel amarelado, meses antes, na escuridão dos túneis: pertencimento atual, Nular; registro de origem, transferido; alteração ou desvinculação, referência DV-0417. Na época, aquilo parecia apenas um enigma burocrático, palavras compridas demais para caber de uma vez na cabeça. Agora, sentada à mesa de Vesna, entendia que cada uma daquelas linhas escondia uma história inteira que ninguém tinha se dado ao trabalho de contar.
+Elis lembrou as linhas do papel amarelado na escuridão dos túneis: pertencimento atual, Nular; registro de origem, transferido; alteração ou desvinculação, referência DV-0417. Agora, à mesa de Vesna, aquelas palavras apontavam para uma história que ninguém lhe contara.
 
 — E isso importa pro Kalan? — perguntou, a voz saindo mais apressada do que pretendia. — Isso pode ajudar ele?
 
@@ -230,7 +230,7 @@ Elis sentiu um arrepio subir pela nuca antes mesmo de entender por completo o mo
 
 Ela conhecia aquela descrição.
 
-No dia em que entrara escondida na Cidade Interna atrás de Selina, meses antes, tinha passado por uma estátua exatamente daquele tamanho: uma figura de pedra armada, erguida sobre uma base tão larga que sozinha parecia maior do que a casa inteira em que vivia. Na época não soubera o nome, não tivera tempo nem vontade de procurar, só registrara o lugar do jeito rápido e prático com que registrava qualquer coisa que pudesse servir de referência depois: a base larga, a rua reta, o cruzamento logo adiante.
+No dia em que entrara escondida na Cidade Interna atrás de Selina, tinha passado por uma estátua daquele tamanho: uma figura de pedra armada, sobre uma base larga que ela guardara como referência para se orientar. A rua reta. O cruzamento logo adiante.
 
 Agora sabia o nome da estátua.
 
@@ -250,9 +250,9 @@ Vesna hesitou antes de responder, e a hesitação, para Elis, já dizia mais do 
 
 — Isso não faz o furto desaparecer. — Escolheu as palavras devagar, sem prometer mais do que devia. — Mas cria uma disputa que o Culto não devia conseguir ignorar tão fácil. Pode haver base pra exigir que o julgamento de Kalan seja suspenso até que a condição dele seja verificada de verdade.
 
-— Então vão ter que decidir quem é meu irmão, antes de decidir o que fazer com ele.
+Vesna estendeu a mão sobre a mesa, sem chegar a tocar nela.
 
-— É isso. — Vesna estendeu a mão sobre a mesa, sem chegar a tocar nela. — Mas não vá até lá achando que ganhou alguma coisa. Ladira pode negar Neiva, pode dizer que nunca ouviu esse nome, pode chamar guarda assim que uma Nular aparecer na porta falando em sangue.
+— Mas não vá até lá achando que ganhou alguma coisa. Ladira pode negar Neiva, pode dizer que nunca ouviu esse nome, pode chamar guarda assim que uma Nular aparecer na porta falando em sangue.
 
 — Eu sei.
 

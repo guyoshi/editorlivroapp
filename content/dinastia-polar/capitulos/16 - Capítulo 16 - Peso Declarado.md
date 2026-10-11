@@ -72,7 +72,7 @@ Explicou o resto sem se fazer de rogado, como se explicar fosse, de algum jeito,
 
 — Continua tudo registrado — insistiu Cairon, como se aquilo fosse o ponto mais importante de tudo que tinha dito. — Só que o sistema está funcionando mais rápido do que consegue conferir a si próprio.
 
-Selina perguntou pelos selos, e Cairon explicou com a clareza de quem já tinha precisado explicar aquilo antes, para si mesmo se não para ninguém: a Balança pesava e registrava, isso era trabalho da Companhia. O Culto não pesava nada. A Raiz fornecia ou reconhecia o selo de inspeção, e pelo acordo atual, uma carga apresentada pela Companhia como já verificada podia receber aquele selo sem ser reaberta em cada controle seguinte. Era exatamente o acordo que Kalan tinha ouvido, meses antes, do outro lado de uma parede que não devia ter escutado, embora Cairon não tivesse ideia nenhuma disso e Selina não fizesse nenhum esforço para esclarecer.
+Selina perguntou pelos selos, e Cairon explicou: a Balança pesava e registrava; o Culto não pesava nada. A Raiz fornecia ou reconhecia o selo de inspeção, e pelo acordo atual, uma carga apresentada pela Companhia como já verificada podia receber aquele selo sem ser reaberta em cada controle seguinte. Era o acordo que Kalan ouvira dias antes de ser preso. Cairon não sabia disso, e Selina não o esclareceu.
 
 — Achei que voltaria mais coisa — disse Cairon, de repente, olhando para o pátio ao redor como se buscasse alguma coisa que não estava mais lá.
 
@@ -134,7 +134,7 @@ Alveris a recebeu vestindo uma sobreveste longa, quase até os tornozelos, azul-
 
 Não era a primeira vez que os dois se sentavam de lados opostos de um problema. Alguns ciclos antes, uma fiscalização tinha descoberto que Alveris excedera autorizações de depósito, usara rotas noturnas além do previsto e colocara subcontratados trabalhando antes que toda a documentação estivesse concluída. A interpretação estrita da lei teria permitido fechar parte da operação ali mesmo. Fechar a Balança, naquele momento, significaria travar comida, material e comércio de uma parte considerável da cidade. Selina, calculando o dano de aplicar a regra contra o dano de simplesmente corrigi-la, escolhera a segunda opção. Alveris regularizara. Pagara. Ela transformara o problema numa correção administrativa e deixara seguir.
 
-Era exatamente o tipo de corrupção que a definia: sabia que uma regra tinha sido quebrada, calculava o custo de aplicá-la com todo o peso, e escolhia a solução mais conveniente para todos, inclusive para ela mesma.
+Na época, parecera-lhe a solução menos danosa. Agora, diante dos registros da Balança, não conseguia afastar a lembrança de que escolhera confiar na regularização de Alveris.
 
 Alveris lembrava daquilo. Talvez melhor do que ela gostaria.
 
@@ -168,7 +168,7 @@ Boa resposta. Selina reconheceu isso internamente antes de continuar, porque rec
 
 Cada resposta, isolada, funcionava. E era exatamente isso que preocupava Selina mais do que qualquer mentira teria preocupado: algumas delas eram objetivamente verdadeiras.
 
-Não mencionou Kalan pelo nome. Não disse de onde vinha a informação original, nem revelou que um prisioneiro religioso tinha ouvido, meses antes, uma conversa que não devia ter ouvido. No máximo, deixou escapar que um trabalhador da Companhia tinha ouvido, uma vez, algo entre ele e Filhos da Raiz.
+Não mencionou Kalan pelo nome. Não disse de onde vinha a informação original, nem revelou que um prisioneiro religioso tinha ouvido, dias antes da prisão, uma conversa que não devia ter ouvido. No máximo, deixou escapar que um trabalhador da Companhia tinha ouvido, uma vez, algo entre ele e Filhos da Raiz.
 
 Alveris tentou descobrir quem, sem perguntar diretamente duas vezes da mesma forma.
 
@@ -214,22 +214,8 @@ Alveris sorriu, e não era o sorriso de um homem que tinha sido pego. Era o sorr
 
 A conversa continuou por mais tempo do que Selina pretendia. Quando terminou, ela sabia pelo menos uma coisa desagradável: na tentativa de descobrir o que Alveris escondia, tinha mostrado a ele quase tudo o que já conseguira perceber. Diferenças de peso. Rotas noturnas. O acordo com a Raiz. A falta de reconciliação entre entrada e destino. Não sabia o que ele faria com isso, nem se havia outra pessoa a quem contaria.
 
-Selina saiu sem uma mentira clara nas mãos. As rotas noturnas eram autorizadas. O volume realmente aumentara. As oficinas existiam. O Culto aceitara o selo. A Companhia empregara mais gente. Cada resposta, tomada sozinha, resistia.
+Selina saiu sem uma mentira clara nas mãos. As rotas noturnas eram autorizadas, as oficinas existiam, o Culto aceitara o selo. Cada resposta, tomada sozinha, resistia.
 
+Em casa, voltou aos registros. As origens continuavam diferentes; o que se repetia era a passagem pela Balança Azul. Ali, uma carga recebia o selo da Raiz sem que a Raiz a abrisse. Saía à noite sob autorização da cidade, dividida entre destinos que ninguém acompanhava até o fim.
 
-
-Voltou aos registros ainda naquela noite, e dessa vez não procurava mais produtos. Procurava caminhos.
-
-Espalhou os papéis pela mesa e organizou de novo as mesmas colunas mentais de antes: origem, entrada, peso, selo, divisão, saída, destino. As origens continuavam tão diferentes quanto antes. Buldar. Vendrar. Cendar. Quendrar. Leidar. Lusdar. Nenhuma repetição ali. Nenhum povo aparecendo como responsável mais do que os outros.
-
-Eliminou mentalmente essa possibilidade, e perguntou a si mesma, pela primeira vez formulando a pergunta com todas as palavras: o que se repetia, então?
-
-Balança Azul.
-
-Era ali que as cargas eram transformadas de mercadoria estrangeira em carga autorizada do torneio, que os pesos eram registrados, que os lotes eram quebrados em pedaços menores, que os destinos mudavam de nome sem que ninguém acompanhasse a mudança até o fim. Era dali que saíam as carroças durante a noite, sob autorizações que a própria cidade tinha assinado sem imaginar para onde exatamente aquilo conduziria. E era ali, sobretudo, que o selo da Raiz tinha deixado de significar eu inspecionei isso e passara a significar, sem que ninguém precisasse admitir a mudança em voz alta, eu confio em quem disse que inspecionou.
-
-Esse era o primeiro desenho real. Ainda não uma conspiração. Talvez fosse fraude, talvez contrabando disfarçado de burocracia excessiva, talvez Alveris estivesse desviando material para construir alguma forma de poder paralelo, algum tipo de influência que não precisava de exército nenhum para crescer. Talvez tivesse relação direta com o que ele pensava sobre Vetarius, sobre hereditariedade, sobre o próprio sistema que Selina ajudava a manter em pé todos os dias.
-
-Mas alguma coisa existia. Disso, agora, ela tinha certeza suficiente para não conseguir mais deixar de olhar.
-
-Kalan tinha enxergado o problema pelo peso das caixas, sentindo no próprio corpo a diferença entre o que a marca dizia e o que a carga realmente pesava. Selina começava a enxergá-lo pelo caminho que essas caixas percorriam depois, pelas mãos que tocavam cada etapa sem que ninguém tocasse todas ao mesmo tempo.
+Kalan tinha notado a diferença no peso de uma caixa. Selina via agora o caminho que ela podia percorrer sem uma única pessoa conferir todas as etapas.

@@ -32,7 +32,7 @@ Então ela viu o caixote de grãos.
 
 O fundo falso estava aberto. Vazio.
 
-A percepção chegou inteira, sem passar por nenhuma etapa que Elis pudesse nomear depois: estavam procurando a caixa. A caixa que ela mesma tirara dali na noite anterior, carregara pelos túneis, escondera longe o bastante para que ninguém além dela soubesse onde estava.
+A percepção chegou inteira: estavam procurando a caixa. A caixa que ela mesma tirara dali no dia anterior e escondera nos túneis.
 
 Ainda segurava o pano com o pão. Ficou olhando para ele por alguns segundos, sem saber o que fazer com uma boa notícia pequena numa casa vazia.
 
@@ -112,7 +112,7 @@ Do outro lado, seguiu por uma via de pedra clara que cortava a Cidade Interna em
 
 Foi por pouco que a reconheceu.
 
-Selina atravessava um pátio cercado de prédios administrativos, o manto azul-escuro bem ajustado, falando baixo com um homem de manto cinza-claro que caminhava meio passo atrás sem conseguir acompanhar o mesmo ritmo. Elis parou, escondida atrás de uma pilha de caixotes que esperava para ser carregada, e sentiu o reconhecimento chegar inteiro: a mulher que impedira sua punição, meses antes, quando um guarda já tinha decidido o que fazer com ela.
+Selina atravessava um pátio cercado de prédios administrativos, o manto azul-escuro bem ajustado, falando baixo com um homem de manto cinza-claro que caminhava meio passo atrás sem conseguir acompanhar o mesmo ritmo. Elis parou atrás de uma pilha de caixotes e reconheceu a mulher que impedira sua punição, dias antes, quando um guarda já tinha decidido o que fazer com ela.
 
 Não era confiança o que a fez segui-la, mantendo distância suficiente para não ser notada. Era a falta de qualquer outra opção. Selina era a única pessoa poderosa em toda Kaeliran que Elis conhecia, mesmo que de relance, e a única que já tinha, uma vez, decidido alguma coisa a favor dela em vez de contra.
 
@@ -224,12 +224,4 @@ Ele precisou pensar de novo, o rosto se fechando um pouco no esforço de separar
 
 Saiu sem se despedir de verdade, do mesmo jeito apressado com que tinha chegado.
 
-Selina ficou parada por um instante, olhando para o lugar entre os caixotes por onde Elis desaparecera.
-
-Reorganizou, sem pressa, o que sabia agora: uma garota Nular que já conhecera antes, insistente o bastante para atravessar meia cidade sozinha; um irmão chamado Kalan, que Corven mal reconhecera de início e que Cairon, aparentemente, conhecia melhor; uma agressão envolvendo filhos de Polar, do tipo que costumava se resolver sem chegar a lugar nenhum; registros de uma Casa da Permanência desaparecidos; uma casa sem responsável, com três pessoas detidas havia mais de uma semana e nenhuma caixa jamais encontrada; e, por cima de tudo isso, um trabalhador até então sem problema nenhum que, pouco antes de desaparecer, tinha começado a prestar atenção demais em peso, carga e selo da Raiz.
-
-Não concluiu que Kalan fosse inocente. Não concluiu, tampouco, que existisse ali qualquer coisa maior do que um caso administrativo infeliz, do tipo que Kaeliran produzia todos os dias sem que ninguém precisasse se importar. Só sentiu, com a mesma espécie de desconforto que sentia diante de um relatório que não fechava as contas direito, que aquele caso específico, o mesmo que Vetarius dispensara com uma piada na Câmara, talvez merecesse mais atenção do que qualquer pessoa ali parecia disposta a dar.
-
-E, sem querer, lembrou de uma frase, dita por uma garota magra demais para a própria idade, num tom que não pedia pena nenhuma:
-
-— Não tem mais comida em casa.
+Selina ficou parada por um instante, olhando para o lugar entre os caixotes por onde Elis desaparecera. Dobrou a autorização que Corven lhe entregara. Ainda ouvia a garota: não tem mais comida em casa.

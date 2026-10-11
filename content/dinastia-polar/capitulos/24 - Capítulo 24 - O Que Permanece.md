@@ -8,7 +8,7 @@ Ninguém foi atrás. Tair virou a cabeça tarde demais, ainda com o rosto molhad
 
 Ficou ali, olhando o lugar onde a menina tinha estado um segundo antes, até entender que aquilo também tinha virado uma ausência.
 
-O Pátio da Consequência estava voltando ao normal.
+O Pátio de Namar estava voltando ao normal.
 
 Era a parte que Selina não conseguia deixar de notar, mesmo com o corpo ainda duro de segurar Elis, mesmo com o som do nome de Kalan ainda ecoando em algum lugar atrás dos ouvidos. Os arqueiros já recolhiam os arcos. Um funcionário da Permanência dobrava o pergaminho de Hadris com o mesmo cuidado que usaria para qualquer outro documento arquivado. A multidão se movia para as saídas em conversas baixas, algumas pessoas já falando de outra coisa, do preço do grão, de uma disputa qualquer entre casas menores, como se o que tinham acabado de ver fosse só mais um intervalo na tarde. A cidade não parava. A cidade nunca parava.
 
@@ -32,7 +32,7 @@ Dessa gente, ela já tinha pensado, mais de uma vez, sobre outros nomes, em outr
 
 Só continuou olhando.
 
-Tair chorava perto da porta, o corpo inteiro tenso como se a tristeza estivesse procurando um lugar para virar outra coisa. Orel ficou junto à mesa, e de vez em quando soltava um som comprido, quase um uivo baixo, que Selina já tinha ouvido antes: a mesma marca que o confinamento tinha deixado nele, muito antes de conhecer Kalan. Em algum momento ele se afastou até a estante de panos limpos, pegou um, voltou. Ninguém prestou atenção.
+Tair chorava perto da porta, o corpo inteiro tenso como se a tristeza estivesse procurando um lugar para virar outra coisa. Orel ficou junto à mesa e, de vez em quando, soltava um som comprido, quase um uivo baixo. Em algum momento ele se afastou até a estante de panos limpos, pegou um, voltou. Ninguém prestou atenção.
 
 Karesis chegou pouco depois, parado perto da porta, sem se aproximar da mesa.
 
@@ -90,8 +90,6 @@ Karesis não respondeu a isso também. Só disse:
 
 — Fora da muralha. Perto de Maruva.
 
-Ele mesmo faria. Não era desculpa, não era acordo formal com ninguém, era só a única coisa que ainda podia fazer, tarde demais para significar o que deveria ter significado.
-
 Foi o funcionário que voltava com mais panos limpos quem parou primeiro, olhando para a mesa.
 
 — O que você está fazendo?
@@ -110,7 +108,7 @@ Colocou o pano sobre o braço.
 
 — Ge-ado.
 
-Ninguém explicou a ele que não fazia diferença agora. A lógica dele (frio precisa de pano, sempre precisou, desde que era pequeno e alguém esquecia de cobri-lo) não tinha espaço para o resto. O silêncio de todos ali foi a única resposta que ele recebeu, e pareceu bastar.
+Ninguém o impediu de cobrir Kalan. O silêncio de todos ali pareceu bastar.
 
 O funcionário olhou para Selina, esperando instrução.
 

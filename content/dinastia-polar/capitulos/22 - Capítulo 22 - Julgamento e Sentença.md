@@ -16,11 +16,9 @@ Selina nem ergueu os olhos dos papéis.
 
 — Eu levo.
 
-Amira ficou parada um instante a mais do que qualquer resposta exigiria, como se esperasse alguma coisa que não veio. Depois recuou, sem insistir, e foi buscar o próprio manto.
+Amira recuou, sem insistir. Antes que chegasse à porta, Selina lembrou-se da conversa à mesa, dias antes.
 
-Selina só percebeu o silêncio depois que a porta já tinha se fechado. Sabia, de um jeito distante e incômodo, que acabara de repetir exatamente o gesto que motivara o desabafo de Amira semanas antes: tratá-la como função, não como pessoa. Sabia disso e, mesmo assim, não voltou atrás. Havia coisa demais na cabeça, e Amira, pela primeira vez em muito tempo, não era a coisa mais urgente.
-
-Selina desviou o olhar e chamou Amira de volta antes que ela chegasse à porta.
+— Amira. Pode levar os documentos?
 
 *
 
@@ -110,7 +108,7 @@ Teral bateu a própria vara contra a mesa, uma vez.
 
 — Este caso começa antes do furto — disse Hadris, voltando-se para o pátio. — Começa com uma noite de agressão que Kaeliran inteira já conhece de rumor, mas que ainda não ouviu com precisão.
 
-Chamou os quatro jovens Polar citados na denúncia original. Vieram em fila, Darven à frente, magro, desconfortável na roupa boa demais para aquele ambiente, evitando olhar diretamente para o centro do pátio.
+Chamou os quatro jovens citados na denúncia original. Vieram em fila, Darven à frente, magro, desconfortável na roupa boa demais para aquele ambiente, evitando olhar diretamente para o centro do pátio.
 
 — Contem ao tribunal o que aconteceu naquela noite — disse Hadris.
 
@@ -226,7 +224,7 @@ Hadris não respondeu de imediato: o tipo de silêncio que, num homem menos disc
 
 — O tribunal reconhece — disse Hadris, sem perder o controle da voz — que uma informação falsa foi fornecida e alterou o curso da investigação, independentemente da intenção de quem a forneceu.
 
-Pequena vitória. Selina soube reconhecer o tamanho exato dela: não era nada, mas também não era suficiente.
+Pequena vitória. Selina soube reconhecer o tamanho exato dela: não era decisiva, mas também não era nada.
 
 *
 
@@ -558,11 +556,11 @@ Dareth podia estar certo sobre tudo que testemunhara. Ainda assim, não tinha pr
 
 Selina jogou então a última carta política que tinha.
 
-— O soberano Vetarius prometeu, pessoalmente, intervir junto ao Sumo Vigia para suspender este julgamento até que as questões levantadas fossem esclarecidas.
+— O soberano Vetarius prometeu, pessoalmente, intervir junto ao Sumo Vigia antes deste julgamento.
 
 Todos os olhos se voltaram para o Sumo Vigia.
 
-— Alguma ordem de suspensão chegou a este tribunal? — perguntou Teral.
+— Alguma comunicação do soberano chegou a este tribunal? — perguntou Teral.
 
 O Sumo Vigia falou pela primeira vez em muito tempo, o traço escuro dos lábios se partindo ao meio, a voz calma, quase gentil.
 
@@ -608,7 +606,7 @@ O pátio, pela primeira vez desde a abertura, ficou completamente quieto.
 
 — Este tribunal reconhece o que foi provado e o que não foi.
 
-Sua voz percorreu, com precisão administrativa, cada ponto: que a agressão contra Orel fora precedida por provocação dos quatro jovens Polar; que a informação fornecida por Tair, embora falsa, não constituía mentira deliberada; que a condição legal da residência de Karesis permanecia válida, sem abandono comprovado; que a acusada Elis não possuía, contra si, prova de furto, de retirada da caixa, ou de qualquer ato que justificasse tratá-la como autora do crime do irmão; que sua origem permanecia em disputa legítima, não resolvida por aquele julgamento.
+Sua voz percorreu, com precisão administrativa, cada ponto: que a agressão contra Orel fora precedida por provocação dos quatro jovens; que a informação fornecida por Tair, embora falsa, não constituía mentira deliberada; que a condição legal da residência de Karesis permanecia válida, sem abandono comprovado; que a acusada Elis não possuía, contra si, prova de furto, de retirada da caixa, ou de qualquer ato que justificasse tratá-la como autora do crime do irmão; que sua origem permanecia em disputa legítima, não resolvida por aquele julgamento.
 
 — A acusada é liberada.
 

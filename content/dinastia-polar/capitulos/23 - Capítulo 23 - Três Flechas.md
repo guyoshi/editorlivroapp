@@ -252,7 +252,7 @@ Ninguém concordou com ele em voz alta. Mas ninguém discordou também.
 
 Elis procurou, sem querer procurar, uma janela específica, uma porta específica, onde esperaria encontrar Vesna parada com os braços cheios de panos limpos, pronta para resmungar sobre algum curativo malfeito. Encontrou só madeira fechada, sem luz nenhuma por trás.
 
-Não perguntou por ela. Já sabia a resposta que ninguém tinha coragem de dizer em voz alta.
+Não perguntou por ela. Não suportava imaginar a resposta.
 
 Foi então que viu Cairon.
 
@@ -412,16 +412,6 @@ Kalan não respondeu. Elis tentou avançar de novo. Selina a segurou.
 
 Elis lutou contra os braços dela também, por um instante, antes que o próprio corpo parasse de obedecer, as pernas cedendo, o peso inteiro despencando contra Selina, que não a deixou cair.
 
-Não era mais a administradora que organizava documentos numa mesa cheia, nem a mulher que sabia exatamente o que dizer diante de uma Câmara inteira. Era só alguém segurando uma menina que acabara de ver o irmão morrer.
-
 Orel continuava chamando o nome de Kalan, a voz já quase sem força. Tair estava perto, incapaz de se mexer.
 
 Dareth permanecia alguns passos atrás, parado, o papel ainda preso na mão, amassado agora entre os dedos.
-
-E diante deles, Kalan já não podia mais ser alcançado por nenhum dos dois.
-
-A tarde inteira, Elis tinha pensado a mesma coisa, repetido feito promessa: ainda dá tempo. Tinha pensado isso na sala sem janela, no corredor, em Maruva, em cada rua de Vardeno, em cada olhar por cima do ombro à procura de um tarrak que não chegava. Tinha pensado isso até o último instante antes de as cordas soarem.
-
-A última coisa que entendeu, ali, com o rosto contra o peito de Selina, era simples demais para doer menos por ser simples.
-
-Não dava mais.

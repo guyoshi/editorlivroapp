@@ -154,11 +154,7 @@ Dareth contou, de passagem, que Vetarius tinha colocado Alveris à frente de tod
 
 Selina parou de vez.
 
-Já tinha conversado com Alveris. Já tinha investigado. Não encontrou prova concreta de nada; em certo sentido, tinha limpado o homem diante de si mesma, arquivado a suspeita junto com o resto do que não conseguiu provar.
-
-Mas a sensação nunca tinha desaparecido de verdade.
-
-E agora: a Balança seguia no centro das irregularidades. Alveris tinha perguntado pela caixa. Havia cargas com problemas, autorizações noturnas se repetindo, destinos mudando sem explicação clara. E Vetarius acabava de entregar a ele ainda mais poder sobre cargas, depósitos e circulação.
+Já tinha conversado com Alveris e não encontrara prova concreta. A Balança, porém, seguia no centro das irregularidades. Havia cargas com problemas, autorizações noturnas se repetindo, destinos mudando sem explicação clara. E Vetarius acabava de entregar a Alveris ainda mais poder sobre cargas, depósitos e circulação.
 
 — Claro que colocou — disse, mais para si mesma do que para Dareth.
 
@@ -168,7 +164,7 @@ E agora: a Balança seguia no centro das irregularidades. Alveris tinha pergunta
 
 A confiança do soberano em Alveris deveria tranquilizá-la. Fazia o contrário.
 
-Tinha trabalho demais para abandonar tudo por um rapaz Nular que mal conhecia. Via a pilha de papéis sobre a própria mesa como prova viva daquilo. Mas Kalan não era mais só um rapaz Nular preso por furto. Era o ponto onde várias linhas que ela vinha puxando havia semanas finalmente se cruzavam: ele tinha percebido o peso errado na Balança; trabalhava lá quando tudo começou; roubou a caixa; Alveris perguntou por ela; o Sumo Vigia a queria de volta; a irmã dele fora presa tentando entendê-la; o Culto escalava a acusação dia após dia; e Vetarius acabava de entregar ainda mais logística do torneio justamente à companhia que talvez estivesse por trás de tudo isso.
+Tinha trabalho demais para abandonar tudo por um rapaz Nular que mal conhecia. Mas Kalan notara o peso errado na Balança e ouvira a conversa sobre os selos. Roubara uma caixa que o Sumo Vigia queria de volta; a irmã fora presa enquanto o Culto ampliava as acusações. E Vetarius acabava de entregar a logística do torneio à Companhia que Selina ainda investigava.
 
 Havia também Amira. Selina tinha acabado de aprender, do pior jeito possível, o que custava ignorar sinais pequenos só porque pareciam banais demais para interromper o resto.
 
@@ -200,13 +196,7 @@ A primeira pergunta veio antes de qualquer cumprimento.
 
 — Elis?
 
-— Está bem.
-
-Não disse que Dareth a tinha visto.
-
-— Onde?
-
-Selina explicou, sem rodeios, que a irmã estava sob custódia do Culto, em Maelya.
+— Está viva. O Culto a mantém em Maelya.
 
 Kalan reagiu na hora, o corpo inteiro se endireitando contra a parede.
 
@@ -312,7 +302,7 @@ Continuou procurando, com mais cuidado do que antes, e foi atrás da própria me
 
 Não eram cópias.
 
-Eram originais. Selos, marcas de arquivo, a textura específica do papel que só existia nas Casas da Permanência, tudo ali, suficiente para que Selina reconhecesse a autenticidade sem precisar de segunda opinião. Um registro mostrando que Neiva tinha nascido com pertencimento Polar. Outro, mais curto, trazendo a referência que ela já conhecia de ouvir Dareth repetir: DV-0417. A desvinculação.
+Eram originais. Selos, marcas de arquivo, a textura específica do papel que só existia nas Casas da Permanência, tudo ali, suficiente para que Selina reconhecesse a autenticidade sem precisar de segunda opinião. Um registro mostrava que Neiva tinha nascido com pertencimento Polar. Outro, mais curto, trazia a referência DV-0417: a desvinculação.
 
 Segurou os dois papéis com um cuidado quase físico, como se pudessem se desfazer nas mãos.
 
@@ -334,7 +324,7 @@ Os documentos mostravam que Neiva tinha nascido Polar e, depois, pedido formalme
 
 Hadris teria os próprios argumentos prontos. Neiva já estava desvinculada havia anos. Os filhos tinham sido registrados Nular desde o nascimento. Nenhuma Casa os reconheceu depois. Ladira não os reconheceu. Não houve validação religiosa nenhuma em momento algum. Origem e pertencimento, ele diria, não eram a mesma coisa.
 
-Aquele debate ia explodir na sala do julgamento, e Selina sabia que não tinha como evitar isso, só como se preparar para ele.
+Selina guardou os dois argumentos para o julgamento.
 
 Ficou parada mais um instante entre os destroços, juntando o que já sabia. Vesna tinha ajudado a família. Tinha acesso aos arquivos. Os documentos tinham desaparecido de onde deveriam estar. Elis tinha chegado até Ladira. Elis fora capturada. Vesna tinha desaparecido. Havia sangue naquela casa. E o julgamento era em dois dias.
 
@@ -394,9 +384,7 @@ Ao sair da casa, Selina organizou mentalmente o que já tinha: Tair, capaz de ex
 
 Kalan não estava inocentado. Mas, pela primeira vez desde que tudo aquilo começou, existia uma defesa de verdade.
 
-Alveris tinha perguntado pela caixa, tempo atrás. Selina investigou na época e não encontrou nada que sustentasse suspeita nenhuma. Agora a pergunta dele voltava com um peso diferente. A Balança seguia no centro de toda irregularidade que ela conseguia enxergar. Vetarius acabava de entregar a Alveris ainda mais poder sobre cargas, depósitos e circulação, justamente quando a caixa que ele quisera tanto ainda estava desaparecida.
-
-Selina não concluiu que ele estivesse por trás de tudo. Mas reconheceu, incomodada, que talvez tivesse cometido de novo o mesmo erro que cometera com Amira: aceitar uma explicação plausível cedo demais, só porque era mais fácil do que continuar perguntando.
+Alveris tinha tentado descobrir quem ouvira a conversa sobre os selos. Selina ainda não sabia por quê. A Balança seguia no centro das irregularidades que encontrara, e Vetarius acabava de dar a Alveris mais poder sobre as cargas da cidade. Ela não tinha prova para acusá-lo, mas também não podia deixar de investigar.
 
 *
 

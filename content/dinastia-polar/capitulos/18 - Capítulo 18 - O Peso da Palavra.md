@@ -20,7 +20,7 @@ Mesmo assim repetiu que estava bem, e Selina reconheceu, no tom baixo e cuidados
 
 Selina começou pelo que sabia fazer.
 
-— Fui à Balança ontem. Falei com Cairon, depois com Neris. Cruzei os registros que você separou com o que os dois me contaram. — Fez uma pausa breve, do tipo que em qualquer outra conversa jamais precisaria fazer. — Você estava certa.
+— Fui à Balança. Falei com Cairon, depois com Neris. Cruzei os registros que você separou com o que os dois me contaram. — Fez uma pausa breve, do tipo que em qualquer outra conversa jamais precisaria fazer. — Você estava certa.
 
 Amira ergueu os olhos de novo, dessa vez sem baixar tão rápido.
 
@@ -168,7 +168,7 @@ Dareth olhou na mesma direção que ela.
 
 Era uma frase grande demais para Selina compartilhar antes de ter prova, e ela sabia disso melhor do que ninguém. Não soube dizer, nem para si mesma, por que tinha decidido compartilhá-la ali, com ele, e não com qualquer uma das dez pessoas em Kaeliran mais bem posicionadas para agir sobre aquilo.
 
-Contou o resto. Falou de Kalan ter percebido peso errado numa carga; da conversa que ele tinha ouvido, meses antes, sobre selos e reinspeções; do volume enorme que o torneio jogara sobre a cidade inteira; do que Cairon tinha dito sobre erro demais e coisa estranha nenhuma; do que Neris encontrara nos registros, uma carga aqui, um destino alterado ali, um lote dividido que só reaparecia pela metade; das autorizações que Amira já vinha apontando havia semanas; das cargas saindo à noite sob licenças que a própria cidade tinha assinado sem imaginar para onde aquilo levaria; dos destinos alterados; do fato, talvez o mais incômodo de todos, de que nenhuma pessoa parecia acompanhar uma carga inteira, do início ao fim, sem depender da palavra de outra.
+Contou o resto. Kalan notara o peso errado numa carga e ouvira, dias antes da prisão, uma conversa sobre selos e reinspeções. Cairon falara do excesso de erros; Neris encontrara diferenças nos registros; Amira apontara autorizações noturnas. Cada etapa tinha um responsável, mas nenhuma pessoa acompanhava uma carga do início ao fim.
 
 Dareth ouviu tudo sem tentar dominar a investigação. Perguntava pouco, mas cada pergunta valia a pena responder, não porque ele tivesse virado burocrata na velhice, mas porque tinha passado a vida inteira em guerra, e aquilo que Selina descrevia, para ele, possuía outros nomes. Suprimento. Linha de abastecimento. Rota segura. Depósito. Permissão. O ponto exato onde uma carga desaparece da vista de quem deveria estar acompanhando.
 
@@ -184,7 +184,7 @@ Era linguagem.
 
 — Não encontrei nada. — Selina balançou a cabeça de leve. — Está mais limpo do que qualquer culpado tem o direito de estar.
 
-Não contou a ele que Alveris tinha perguntado, mais de uma vez, quem exatamente tinha ouvido aquela conversa sobre selos, nem que ela mesma continuava voltando àquela pergunta sem conseguir se livrar de vez do desconforto que carregava. Guardou isso para si. Seria desenvolvido depois, quando soubesse exatamente o que fazer com aquilo.
+Não contou a ele que Alveris tinha perguntado, mais de uma vez, quem ouvira a conversa sobre selos. Ainda não sabia o que fazer com aquela insistência.
 
 Dareth tinha trazido consigo algumas folhas dobradas, e Selina só reparou nelas quando ele as tirou de dentro do casaco.
 
@@ -286,7 +286,7 @@ Selina não tentou confortá-lo. Reconheceu, com uma clareza que a surpreendeu, 
 
 — Também.
 
-Dareth esperou, e Selina explicou o resto sem se alongar demais. Amira era filha do homem com quem tinha sido casada, uma filha de uma relação anterior a ela, que ele já tinha quando os dois se conheceram. Depois que ele morreu, Amira continuou morando com Selina.
+Dareth esperou, e Selina explicou o resto. Amira era filha de uma relação anterior do homem com quem Selina se casara. Depois que ele morreu, Amira continuou morando com ela.
 
 — Ela ficou com você?
 
@@ -351,7 +351,5 @@ Dareth olhou nos olhos dele.
 Caeren não ria mais.
 
 — Um dia alguém vai correr porque ouviu o seu. — Fez uma pausa curta, deixando a frase pesar. — Não ensine essa pessoa a esperar.
-
-Caeren sentiu o peso da frase, isso era visível no rosto dele, ainda que talvez não fosse o bastante para impedi-lo de repetir a brincadeira mais alguma vez, com outra vítima, noutro corredor.
 
 Dareth e Selina se afastaram pelo corredor. Kerath encarou Caeren por mais um instante antes de segui-los. O garoto já não ria.

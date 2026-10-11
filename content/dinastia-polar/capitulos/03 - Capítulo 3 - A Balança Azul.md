@@ -646,6 +646,6 @@ Passos começaram a se aproximar da janela.
 
 Kalan recuou imediatamente. O cheiro da orva ficou mais forte e uma sombra atravessou a abertura no instante em que ele alcançou a quina do depósito. Não esperou para descobrir quem se aproximara. Contornou a construção, voltou pelo caminho das latrinas e só diminuiu o passo quando os ruídos do pátio tornaram a engolir as vozes do prédio administrativo.
 
-Ainda precisava terminar o turno e depois começar outro. Orel estava ferido, Karesis não voltara e uma caixa de registros roubada permanecia escondida dentro da parede de sua casa. Tudo aquilo deveria ocupar espaço suficiente na cabeça de qualquer pessoa.
+Ainda precisava terminar o turno e depois começar outro. Orel estava ferido, Karesis não voltara e uma caixa de registros roubada permanecia escondida no caixote de grãos de sua casa. Tudo aquilo deveria ocupar espaço suficiente na cabeça de qualquer pessoa.
 
 Mesmo assim, as palavras de Alveris voltaram enquanto Kalan caminhava entre os trabalhadores. Libertar o povo parecia uma coisa bonita de dizer. O problema era a história escolhida para explicá-la. Para alguma coisa nascer, outra precisava morrer, e Kalan não fazia ideia de qual lado daquela história homens como ele ocupavam.

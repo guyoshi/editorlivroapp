@@ -228,7 +228,7 @@ Ladira olhou para ela por um instante que pareceu durar mais do que qualquer res
 
 Elis quase chorou ali mesmo, de alívio, e Ladira, entendendo exatamente como falar com alguém daquela idade, não prometeu apenas conversar com alguém. Prometeu um futuro inteiro.
 
-— Quando Kalan sair — disse, e não “se” —, vocês não precisam continuar morando daquele jeito. Há espaço aqui. Quartos vazios. Ele pode aprender um trabalho melhor. Você pode aprender a ler direito, com professor de verdade, sem precisar entrar escondida na Cidade Interna nunca mais. — Fez uma pausa, e a frase que veio depois pesaria de um jeito muito diferente mais tarde. — Você pertence aqui tanto quanto sua mãe pertencia.
+— Quando Kalan sair — disse, e não “se” —, vocês não precisam continuar morando daquele jeito. Há espaço aqui. Quartos vazios. Ele pode aprender um trabalho melhor. Você pode aprender a ler direito, com professor de verdade, sem precisar entrar escondida na Cidade Interna nunca mais. — Fez uma pausa. — Você pertence aqui tanto quanto sua mãe pertencia.
 
 — Vem cá, querida — disse Ladira, um pouco depois, se levantando.
 
@@ -248,7 +248,7 @@ Antes de descerem de novo, Ladira reparou que Elis estava com frio, ou talvez s�
 
 Elis tocou o tecido com as duas mãos. Nunca tinha tido nada parecido.
 
-Enquanto isso acontecia, outras coisas pequenas também aconteciam, sem que Elis prestasse atenção suficiente para perceber o padrão delas. Ladira ajeitou o mesmo anel duas ou três vezes, sem necessidade nenhuma. Olhou para o corredor mais de uma vez, breve, como quem espera alguém sem admitir que espera. Chamou uma criada com um gesto pequeno, escreveu alguma coisa curta num papel, dobrou-o e entregou.
+Ladira ajeitou o mesmo anel duas ou três vezes. Olhou para o corredor mais de uma vez, breve, como quem espera alguém sem admitir que espera. Chamou uma criada com um gesto pequeno, escreveu alguma coisa curta num papel, dobrou-o e entregou.
 
 — Leve. Diga que é urgente.
 
@@ -258,9 +258,7 @@ Ladira sorriu.
 
 — É para resolvermos isso.
 
-Era verdade, de certo modo.
-
-Saiu por alguns minutos, e voltou trazendo ela mesma uma bebida quente para Elis, o gesto pequeno reforçando o carinho da tarde inteira e, ao mesmo tempo, comprando mais tempo do que Elis teria como perceber sozinha.
+Ladira saiu por alguns minutos e voltou trazendo ela mesma uma bebida quente para Elis.
 
 Foi Mero quem ergueu a cabeça primeiro.
 
@@ -377,10 +375,6 @@ Não torceu o tornozelo. Conseguiu se levantar, mancando só nos primeiros passo
 Atrás, os gritos reapareceram, mais perto do que antes.
 
 Reconheceu a região. Mais um trecho, talvez dois, e a estátua estaria perto o bastante para servir de guia até a avenida principal, até o portão que separava a Cidade Interna da Intermediária. Ia conseguir.
-
-Enquanto os Filhos da Raiz corriam atrás dela por telhados e ruas secundárias, gritando uns para os outros, tropeçando nos mesmos obstáculos que ela deixava atrás de si, Hadris não corria daquele jeito. Conhecia Kaeliran bem demais para precisar disso. Sabia que uma garota de Maruva, presa dentro da Cidade Interna, precisaria descer, e sabia que existiam poucos caminhos rápidos daquela região até a Cidade Intermediária. Sabia, também, que Teryon era o ponto de referência mais próximo da casa de Ladira, o tipo de marco que qualquer pessoa perdida naquelas ruas acabaria usando sem pensar duas vezes.
-
-Não precisava alcançá-la correndo. Só precisava estar no lugar certo quando ela chegasse.
 
 Elis virou uma passagem estreita entre dois muros altos, os pulmões ardendo, e parou.
 
