@@ -4,9 +4,9 @@ O acampamento acordou diferente.
 
 Ainda havia vendedores gritando preços desde antes do sol nascer de verdade. Ainda havia crianças imitando golpes de Karev com gravetos, discutindo entre si sobre quem tinha direito de ser Quatro-Dedos naquela brincadeira. Mas o braço de Talira tinha entrado em toda conversa que Selina cruzava pelo caminho, mencionado em tom baixo por uns, repetido com um entusiasmo mórbido demais por outros. Algumas pessoas continuavam achando aquilo emocionante, como se o Torneio tivesse acabado de provar que valia ainda mais a viagem. Outras, pela primeira vez desde a chegada ao Altar, pareciam ter entendido de fato que os campeões podiam voltar para casa incompletos.
 
-Selina sentiu o deslocamento sem precisar nomeá-lo. Não era o tipo de coisa que se resolvia com uma frase. Passou por um grupo de Leidar reunidos perto de uma fogueira apagada, falando baixo entre si, um deles com a manga ainda manchada do dia anterior. Passou por vendedores que continuavam anunciando comida e bebida como se nada tivesse mudado, e talvez, para eles, realmente nada tivesse. O Torneio seguia seu curso, indiferente ao que cada pessoa carregava por dentro depois de assistir àquilo de perto.
+Selina passou por um grupo de Leidar junto a uma fogueira apagada, um deles com a manga ainda manchada do dia anterior. Os vendedores continuavam anunciando comida e bebida.
 
-A conversa entre Mavira e Serka continuava com ela, presa em algum lugar entre a memória e a suspeita, sem se transformar em conclusão nenhuma. *Não foi o combinado.* Havia explicações demais para aquilo: segurança, diplomacia, algum limite de violência combinado entre delegações antes do Torneio começar, a reputação Cendar em jogo, instruções que Serka talvez tivesse recebido de cima e decidido ignorar na hora certa. Selina guardou a frase do mesmo jeito que guardava qualquer coisa que não sabia ainda onde encaixar. Só isso. Não valia a pena forçar um sentido antes da hora.
+Selina ainda ouvia a frase de Mavira: *Não foi o combinado.* Não sabia se falava de segurança, diplomacia ou da própria luta.
 
 Foi ver Dareth antes das lutas do dia.
 
@@ -20,7 +20,8 @@ Ele estava funcional. Não recuperado, e ela não esperava outra coisa. O ferime
 
 — É o que você vai conseguir de mim hoje.
 
-Ela não insistiu mais. Sabia, tão bem quanto ele, que não adiantaria.
+Ela não insistiu.
+
 Encontraram Karev e Yamara pouco depois, sentados um do lado do outro perto de uma fogueira apagada, dividindo alguma coisa embrulhada em folha que ela tinha trazido de algum lugar. Não pareciam nervosos. Pareciam, na verdade, exatamente como duas pessoas que confiavam bastante em existir amanhã.
 
 — Você prometeu que ia consertar a cerca antes de sair de Harquen — Yamara dizia, num tom que misturava cobrança de verdade com a diversão de já saber a resposta. — O sarnak da Sorai já deve ter fugido três vezes.
@@ -55,12 +56,13 @@ Karev riu de verdade daquilo, um riso curto que sacudiu os ombros, e por um inst
 
 — Vai ser um dia horrível — Yamara respondeu, mas o jeito como disse aquilo, sem nenhuma seriedade real por trás, contradizia completamente as próprias palavras.
 
-Selina diminuiu o passo ao ouvir a conversa. Por um momento, invejou aquela preocupação ridiculamente pequena com uma cerca, uma tarrak e um sarnak. Depois continuou andando.
+Selina diminuiu o passo. Por um momento, invejou aquela preocupação com uma cerca, uma tarrak e um sarnak. Depois continuou andando.
+
 Pouco antes da decisão da chave, trabalhadores da Administração circularam distribuindo água entre os campeões que aguardavam a própria vez. Nada ali chamava atenção. Nenhum capuz escondendo rosto, nenhum movimento fora do padrão esperado para aquele tipo de tarefa repetitiva. Um homem se aproximou de Karev com um odre e um copo de madeira, esperou ele beber, recolheu o copo de volta e seguiu para o próximo campeão.
 
 Selina viu aquilo porque estava por perto, conferindo um detalhe qualquer do procedimento oficial junto a um funcionário Braedar. Reparou, de relance, em vários campeões recebendo a mesma água das mesmas mãos ao longo daqueles minutos. O homem tinha um rosto sem nada de especial: nariz um pouco largo demais, o cabelo raspado de forma irregular, como se tivesse feito ele mesmo sem espelho. Nada que merecesse segunda olhada naquele momento.
 
-Karev entrou na arena parecendo o que tinha se tornado nos últimos dois dias: o favorito de metade daquele público e o adversário mais temido da outra metade. Khalir já esperava do lado oposto, o escudo alto preso ao braço, a lança curta apoiada contra o próprio ombro, a mesma calma inabalável de sempre.
+Karev entrou na arena sob os gritos da arquibancada. Khalir já esperava do lado oposto, o escudo alto preso ao braço, a lança curta apoiada contra o ombro.
 
 A luta começou rápido, e desde os primeiros movimentos ficou claro que Karev não estava ali apenas para agradar a multidão. Não enfrentou o escudo de frente, nem uma vez. Atacou pernas, ângulos, a visão que o próprio escudo limitava, o ritmo que Khalir tentava impor. Uma pedra bateu no alto do escudo com força suficiente para obrigá-lo a reajustar o apoio. Outra o forçou a girar o corpo inteiro para proteger o próprio flanco. Quando Khalir tentava fechar distância, Karev já não estava mais lá. Quando ele desistia de perseguir, Karev voltava, incansável, sempre num ângulo novo.
 
@@ -76,7 +78,8 @@ Dareth observava tudo aquilo sentado, o corpo tenso apesar de si mesmo, os olhos
 
 Selina, ao lado dele, sentiu algo parecido com esperança crescer sem pedir licença: se aquela luta continuasse daquele jeito, Karev chegaria à final antes de qualquer um imaginar.
 
-Em algum momento, depois de um golpe particularmente bonito que quase derrubou Khalir de vez, Karev olhou para as arquibancadas. Não por necessidade, não porque precisasse confirmar nada sobre a própria performance. Por hábito, puro e simples. Yamara estava de pé, gritando alguma coisa que se perdia completamente no barulho geral. Ele sorriu, um sorriso rápido demais para qualquer câmera imaginária capturar, e voltou o olhar para a luta.
+Depois de um golpe que quase derrubou Khalir, Karev olhou para as arquibancadas. Yamara gritava alguma coisa que se perdia no barulho. Ele sorriu rápido e voltou à luta.
+
 O primeiro erro foi pequeno o bastante para passar quase despercebido.
 
 Uma pedra que deveria ter acertado Khalir passou perto demais, sem atingir nada. Ele quase alcançou Karev na sequência seguinte, um golpe que teria sido decisivo dias antes e que, ali, só raspou o ar onde Karev já não estava mais. Nada de alarmante. Até os melhores campeões erravam um cálculo de vez em quando, principalmente depois de uma luta tão violenta quanto a do dia anterior.
@@ -85,15 +88,14 @@ Selina não pensou em nada além disso. Havia explicações demais, todas perfei
 
 O efeito, porém, foi crescendo devagar, sem se anunciar como coisa nenhuma além de cansaço comum. Karev reagia com uma fração de atraso que antes não existia. Corrigia mal uma passada. Demorava um instante a mais para escolher a pedra certa na própria bolsa. Perdia o equilíbrio numa recuperação que deveria ser automática. Piscava com mais frequência, como quem tentava afastar alguma coisa embaçando a própria visão. Errava, uma vez, uma leitura de distância tão simples que dias antes teria sido impensável.
 
-Nada de uma vez só. Tudo somado, aos poucos.
-
 Khalir começou a ganhar terreno de volta. Mesmo assim, Karev continuava perigoso, capaz de acertar quando menos se esperava, capaz de escapar por pouco de uma abertura que parecia definitiva. Numa dessas trocas, conseguiu ainda um golpe de bastão certeiro contra o braço que sustentava o escudo, forte o bastante para a arena inteira soltar um grito de surpresa, como se aquilo pudesse, sozinho, reverter tudo o que vinha acontecendo nos últimos minutos. Não reverteu. Khalir absorveu o impacto, ajustou a postura, e voltou a avançar.
 
 Não virou, em nenhum momento, um homem incapaz de lutar. Virou um homem lutando contra Khalir e, ao mesmo tempo, contra um corpo que tinha deixado de responder do jeito que sempre respondera.
 
-Yamara percebeu antes de qualquer outra pessoa na arquibancada. Conhecia Karev melhor do que qualquer relatório, melhor do que qualquer campeão adversário jamais conheceria. Não pensava em veneno, nem em nada parecido. Só sabia, com uma certeza que crescia junto com cada erro pequeno, que aquilo não era simplesmente Karev perdendo uma luta. Era Karev estranho de um jeito que ela nunca tinha visto antes.
+Yamara conhecia a maneira como Karev lutava. Ele perdia o tempo de movimentos que antes acertara sem esforço. Não pensou em veneno; só sabia que havia algo errado.
 
-Levantou-se, sem perceber que tinha feito isso.
+Levantou-se.
+
 Khalir mudou. Selina notou a mudança sem conseguir explicar exatamente o que a causava: mais pressão, menos espera, uma agressividade que ele não tinha mostrado em nenhum combate anterior. Começou a fechar espaços com o escudo, avançando passo a passo, obrigando Karev a um território cada vez menor.
 
 Um golpe de escudo o derrubou, ou quase. Karev se levantou, talvez um pouco devagar demais, tentou recuperar distância e errou o movimento. Outro ataque veio logo em seguida. Ele conseguiu aparar apenas parte dele.
@@ -114,7 +116,7 @@ Karev tentou reagir. Em qualquer outro momento do Torneio, teria conseguido, com
 
 A lança entrou pelo olho direito, a ponta rompendo a órbita antes de penetrar o crânio. Não houve segundo golpe, nem necessidade dele. Karev morreu instantaneamente, o corpo perdendo toda sustentação de uma vez, caindo na areia antes que o som do impacto sequer terminasse de ecoar pela arena.
 
-Não houve últimos segundos conscientes. Não houve olhar final, nem mão procurando ninguém. Um instante ele estava vivo, respirando, lutando contra um corpo que não obedecia mais direito. No instante seguinte, simplesmente não estava.
+Karev não voltou a se mover.
 
 O silêncio que se seguiu durou tempo suficiente para parecer errado.
 
@@ -133,7 +135,8 @@ Quando alguém, um funcionário, gritou a primeira acusação em voz alta, Khali
 
 — Eu já tinha começado o golpe. Não ouvi a tempo.
 
-Não havia como provar o contrário com a mesma certeza. Não havia como provar a favor dele, também. A distância entre o grito de Yamara e o impacto da lança tinha durado o suficiente para parecer, de fora, um espaço em que qualquer pessoa deveria ter conseguido parar. Dentro da luta, um movimento já lançado podia muito bem ser impossível de reverter a tempo.
+Selina não sabia se Khalir ouvira a rendição. Da arquibancada, o intervalo entre o grito e o golpe parecera longo; dentro da luta, talvez já não houvesse tempo de interrompê-lo.
+
 A arena inteira parecia rachada ao meio. Os Quendrar, num setor só, gritavam e empurravam contra as cordas de contenção, alguns tentando descer até a areia antes que os guardas os impedissem. Os Buldar respondiam do próprio lado, não com agressão aberta, mas com uma postura fechada, defensiva, pronta para o que viesse. O restante do público se dividia em discussões instantâneas: alguns juravam ter ouvido a rendição bem antes do golpe, outros insistiam que o ataque já estava em curso havia tempo demais para ser interrompido, muitos simplesmente não tinham ouvido nada além do próprio grito, perdido em meio ao barulho de milhares de vozes.
 
 Tudo virava questão de segundos que ninguém conseguia medir com certeza. Um objeto qualquer, atirado de algum ponto do setor Quendrar, passou perto de um guarda Braedar sem atingir ninguém. Do lado Buldar, alguém gritou para que os Quendrar "aceitassem as próprias regras", uma frase que, dita naquele momento, soou mais como provocação do que qualquer outra coisa. Guardas de ambos os lados se posicionaram entre os setores, não para atacar, apenas para existir ali como lembrete físico de que aquilo não podia virar mais do que já tinha virado.
@@ -148,14 +151,15 @@ Yamara hesitou. Não porque quisesse mentir. Porque realmente não sabia.
 
 — Isso eu não posso afirmar.
 
-Não inventou prova nenhuma para tornar a própria dor mais simples de carregar. Aquilo, de um jeito que Selina só entenderia o peso muito depois, tornava a posição dela mais forte, não mais fraca.
+Selina guardou as duas afirmações de Yamara: declarara a rendição; não sabia se Khalir ouvira.
+
 A Administração pausou o Torneio por tempo suficiente para reunir testemunhos, ouvir Khalir, ouvir Yamara, ouvir quem mais estivesse perto o bastante da arena para ter visto com clareza. Os relatos divergiam demais para produzir qualquer conclusão sólida. Não existia mecanismo capaz de provar, de forma objetiva, o instante exato em que uma rendição gritada se tornava reconhecida por quem já estava em pleno movimento de ataque.
 
 O resultado permaneceu como estava.
 
 Khalir venceu. Seguiria para o Confronto dos Três Estandartes, ao lado de Dareth e Orven.
 
-Nenhum curador comentou nada sobre o comportamento estranho de Karev antes da própria morte. Ninguém mencionou pupilas, nem sedativo, nem qualquer possibilidade de intoxicação. Para todos ali, incluindo a própria Administração, a história era simples e terrível ao mesmo tempo: um campeão perdeu o próprio ritmo, foi pressionado, e morreu numa luta cujo risco todas as dinastias tinham aceitado de antemão.
+Nenhum curador levantou a possibilidade de intoxicação. O relatório tratava da rendição, do golpe e da morte de Karev.
 
 Averna Braedar conduziu pessoalmente parte das conversas com os representantes Quendrar, o rosto tenso, mas a voz mantida no mesmo tom procedural de sempre. Nareva Mardrar observava de perto, sem intervir, o tipo de silêncio que parecia menos indiferença e mais cálculo sobre o que aquilo significaria para a credibilidade do Torneio inteiro. Um funcionário qualquer, encarregado de registrar o incidente, perguntou a Selina, enquanto ela ainda tentava se recompor, se o estandarte Polar desejava registrar alguma objeção formal ao resultado. Ela disse que não, porque não tinha nada concreto para objetar, e a resposta pareceu pesar nela mais do que qualquer coisa que tivesse dito o dia inteiro.
 
@@ -238,7 +242,7 @@ Ali, num canto pouco iluminado, encontrou um pequeno invólucro de tecido oleado
 
 Cruzou o que via com o que já sabia.
 
-Caule-de-Sono.
+Parecia Caule-de-Sono.
 
 Em pequena quantidade, servia para acalmar, usado havia gerações entre os Buldar, entre comunidades do deserto, entre alguns poucos Polar que ainda mantinham costumes mais antigos. Em quantidade maior, derrubava qualquer pessoa por completo.
 
@@ -321,7 +325,7 @@ Não havia, em nenhuma das duas frases, nada explícito. Nenhuma menção a vene
 
 Saelira não respondeu de imediato. Selina imaginou, sem poder confirmar, algum gesto silencioso ali no escuro, um aceno, talvez, ou só o tipo de pausa que duas pessoas experientes usavam para deixar uma frase assentar antes de seguir adiante.
 
-Selina sentiu o próprio corpo esfriar. Não porque aquilo confirmasse algo específico. Porque confirmava, de um jeito irrefutável, que existia um plano inteiro, formado, com peças já movendo-se havia tempo.
+Selina sentiu o corpo esfriar. Os dois falavam de acessos, pessoas posicionadas e da reação de Vetarius. Ainda não sabia quem participava do plano.
 — E os meus? — Saelira perguntou. — Vão entrar como quê, exatamente, nessa Kaeliran renovada sua?
 
 — Como comércio. Contratos. Administração. Trabalho especializado que a cidade vai precisar e não vai ter gente suficiente para fazer sozinha. Ninguém entra como exército ocupante. Entram como gente que, depois de alguns ciclos, ninguém consegue mais expulsar sem parar a própria cidade de funcionar.
@@ -371,8 +375,7 @@ O silêncio que se seguiu durou tempo suficiente para Selina contar a própria r
 
 — O que combinamos pressupunha que ele soubesse reconhecer quando perdeu. Se ele não souber, alguém vai precisar decidir por ele.
 
-Vetarius morto.
-Pensou em Kalan, morto enquanto ela esperava provas suficientes para agir.
+Selina pensou em Vetarius morto. Depois em Kalan, morto enquanto ela esperava provas suficientes para agir.
 
 Precisava sair dali. Primeiro, encontrar Dareth, avisá-lo do que tinha acabado de ouvir. Depois, voltar a Kaeliran antes de qualquer coisa acontecer lá sem ninguém para impedir.
 

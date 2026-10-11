@@ -11,18 +11,20 @@ A paisagem mudou antes de qualquer aviso formal. Mais canais cortando os campos 
 
 A comitiva foi parada por homens Buldar num desses postos, e o contraste com os guardas Polar foi imediato. Ninguém ali parecia particularmente impressionado com o prestígio de uma comitiva soberana. O que queriam eram números.
 
-— Quantas pessoas? — perguntou o fiscal, uma prancheta na mão. — Quantos animais. Quantas carroças. Quanto alimento carregam, e quanto pretendem comprar no caminho. Por qual rota seguem. Quantos ciclos de viagem ainda estimam.
+— Quantas pessoas? — perguntou o fiscal, uma prancheta na mão. — Quantos animais. Quantas carroças. Quanto alimento carregam, e quanto pretendem comprar no caminho. Por qual rota seguem. Quantos dias de viagem ainda estimam.
 
 Um dos nobres da comitiva se irritou.
 
 — Está perguntando quantos sacos de farinha levamos para Vetarius Polar?
 
-— Estou perguntando quantas bocas vão comer antes de chegar ao próximo posto — o Buldar respondeu, sem se abalar, sem insolência nenhuma no tom, só prioridade prática. Uma comitiva grande consumia território por onde passava, e ali isso importava mais do que qualquer título.
+— Estou perguntando quantas bocas vão comer antes de chegar ao próximo posto — o Buldar respondeu. Uma comitiva grande consumia alimento por onde passava, independentemente do título de quem a conduzia.
+
 Enquanto a inspeção continuava, um Buldar mais jovem hesitou diante de alguma decisão sobre onde encaixar as carroças na fila de passagem. Um companheiro mais velho zombou dele.
 
 — Vai fazer uma Nynestra agora?
 
-O rapaz se irritou visivelmente, apressando a decisão só para calar o outro. Dareth reconheceu o nome de algum lugar distante da memória, mas não conseguiu situar o uso exato daquilo. Não perguntou. Guardou.
+O rapaz se irritou e apressou a decisão para calar o outro. Dareth reconheceu o nome, mas não conseguiu situá-lo. Não perguntou.
+
 Perto de uma antiga cidade Glydar existia um grande acampamento Buldar, parte de sua própria delegação também se preparando para seguir ao Torneio. Dareth reconheceu, ao passar, os elementos que os relatórios já tinham descrito: escudos altos encostados em fileiras, lanças curtas amarradas em feixes, homens e mulheres vestidos em vermelho-terra desbotado, couro gasto de uso real, cordas e nós em quase todos os cintos. Uma mulher repreendia alguém por ter deixado uma sacola de sementes diretamente na terra molhada. Foi então que Dareth o viu.
 
 Um homem largo e pesado estava sentado entre outros Buldar, rindo, rindo muito, o corpo inteiro sacudindo com alguma história que estava sendo contada, a mão batendo na própria perna, outro homem ao lado quase engasgando com a bebida. Nada daquilo combinava com a imagem que os relatórios tinham formado na cabeça de Dareth.
@@ -32,11 +34,13 @@ Khalir Buldar. Reconheceu-o pelo tamanho, pelo equipamento, por alguns detalhes 
 Khalir também o viu, e Dareth teve a impressão clara de ser reconhecido na mesma hora. Nenhum dos dois se aproximou. Só se observaram por um instante, à distância. Khalir disse alguma coisa aos companheiros. Todos olharam para Dareth. Depois voltaram a rir.
 
 Dareth não soube dizer se estavam rindo dele.
+
 A cidade que apareceu adiante era, administrativamente, território Buldar. Culturalmente, era inconfundivelmente outra coisa.
 
 A antiga Margem dos Zírrios ainda existia, erguida sobre estacas fincadas na água, madeira escurecida por décadas de umidade, escadas tortas subindo entre um nível e outro, passarelas estreitas ligando casas penduradas quase sobre o rio. Barcos estreitos balançavam amarrados em pequenos ancoradouros. Redes secavam penduradas entre postes. Alguém limpava zírrio numa bancada ao ar livre. Crianças corriam sobre tábuas que fariam qualquer adulto de Kaeliran diminuir o passo, sem o menor sinal de hesitação.
 
 O cheiro chegou antes de boa parte da cidade em si: água parada, madeira úmida, zírrio, gordura derretida, lodo, fumaça de fogueira.
+
 No posto principal, a bandeira era Buldar, o fiscal era Buldar, o registro era Buldar. Mas quase todo mundo ao redor carregava hábitos que não eram. Um homem usava um Nó de Semente Buldar no cinto e mantinha um Nó de Margem Glydar amarrado no pulso. Mais adiante, uma mulher discutia em sotaque Glydar com um funcionário Buldar enquanto o filho dos dois corria pelas passarelas sem parecer pertencer menos a nenhuma das margens.
 A primeira vez que Dareth notou Riala, ela estava em movimento, búzios batendo nas tranças e uma faca curta no cinto, corrigindo a maneira como alguém tinha amarrado uma embarcação. Um funcionário Buldar insistia que o nó estava correto.
 
@@ -58,7 +62,8 @@ Ele olhou ao redor, para as casas sobre estacas, os barcos, as redes.
 
 — Também.
 
-Esperou mais alguma coisa. Ela continuou andando. Ele teve que insistir.
+Esperou mais alguma coisa. Ela continuou andando. Ele insistiu.
+
 Dareth mencionou, então, o que conhecia da história: que depois das antigas guerras os Buldar tinham passado a administrar aquelas margens para garantir estabilidade e circulação de alimento pela região. Riala olhou para ele.
 
 — É assim que contam?
@@ -90,6 +95,7 @@ Um Buldar próximo, que trabalhava carregando cestos de zírrio, escutou a conve
 — Eu não — Riala respondeu, finalmente virando o rosto para ele, um leve sorriso sem humor nenhum. — Minha avó provavelmente estaria.
 
 Riala voltou ao trabalho. O homem Buldar também.
+
 O resto da tarde trouxe pequenas farpas.
 
 Um Buldar reclamou que os Glydar passavam a vida molhados e ainda achavam estranho quando tudo apodrecia. Um Glydar próximo respondeu, sem se abalar:
@@ -106,7 +112,8 @@ Outro Glydar chamou alguém, num tom quase carinhoso, de "remo cego". Um nobre d
 
 Dareth ouviu, também, um comentário Glydar sobre gente de campo que achava que pôr cerca mudava o nome da terra, e um comentário Buldar, em outro momento, sobre gente que chamava medo de prudência. Alguns comentários eram claramente injustos.
 
-Dareth pensou nos Nulares de Kaeliran. A facilidade de transformar diferença em hierarquia não era exclusividade Polar; mudavam os nomes, as histórias e o lado que tinha poder para chamar a própria versão de normal.
+Dareth pensou nos Nulares de Kaeliran. Ali também, quem tinha poder decidia qual versão parecia normal.
+
 Selina encontrou Maren Buldar trabalhando junto aos canais, inspecionando cargas, comparando registros contra o que realmente chegava em cada barcaça.
 
 Ela notou algo estranho: várias cópias do mesmo carregamento, cada uma com números ligeiramente diferentes. Perguntou.
@@ -114,6 +121,7 @@ Ela notou algo estranho: várias cópias do mesmo carregamento, cada uma com nú
 Maren explicou, sem hesitar: uma cópia registrava a origem da carga, outra a passagem pelo canal, outra a chegada. Alimento podia ser consumido no caminho. O peso podia mudar com a umidade. Parte da carga podia ser redistribuída entre embarcações no meio do trajeto. Os Buldar mantinham registros descentralizados de propósito: não confiavam numa única cópia contendo toda a verdade sozinha.
 
 Selina anotou mentalmente a diferença: documentos divergentes não significavam, por si só, fraude.
+
 A conversa pareceu mudar de assunto, quase sem transição.
 
 — Você conhece algum Aleris? — Selina perguntou.
@@ -135,6 +143,7 @@ Maren pareceu pensar, ou pareceu fingir que pensava, Selina não conseguiu decid
 Maren demorou um pouco mais para responder. Explicou que as pessoas partiam, casavam, mudavam de território, podiam ser reconhecidas por outros povos: os Buldar não controlavam o que Kaeliran escrevia sobre alguém décadas depois. Quando Selina perguntou se existia algum registro específico de um Aleris daquela idade, ele disse que precisaria procurar.
 
 Continuou cordial. Selina não conseguiu decidir se a pausa tinha significado alguma coisa ou se só estava procurando suspeita onde ainda não tinha prova.
+
 À noite, a comitiva foi recebida com uma refeição que Dareth nunca tinha experimentado daquele jeito.
 
 O zírrio chegou embrulhado em folhas úmidas, e quando a folha era aberta, subia um vapor carregado de cheiro de zírrio, ervas de margem e fumaça. A carne era clara e macia, cheia de espinhas finas que os Glydar retiravam com um movimento automático da língua e dos dedos, e que os estrangeiros sempre demoravam a perceber. Riala viu Dareth quase engolir uma.
@@ -151,10 +160,9 @@ Numa mesa mais baixa, Dareth viu trabalhadores comendo krolho de lama, carne mai
 
 — Fome melhora muito o gosto — disse.
 
-Olhando ao redor, Dareth via que os Glydar não eram todos vítimas iguais de coisa nenhuma. Enquanto os visitantes recebiam ulmara, os donos de cais também comiam bem, os trabalhadores pobres comiam krolho, as famílias mais ricas viviam nas partes mais altas e secas da cidade, e a gente pobre continuava perto do lodo e da água ruim. Não havia leitura simples de bons contra maus ali. Eram sociedades inteiras, com as próprias desigualdades internas, independentemente de quem administrava a bandeira do lado de fora.
-Foi à tarde do dia seguinte que os Quendrar chegaram: primeiro os sons, animais bufando, arreios chacoalhando, gente chamando bichos por nome como se fossem parentes. Uma carroça parou de repente porque uma tratadora se recusou a continuar antes de examinar a pata de um animal. Um Buldar reclamou da fila que se formou. Ela nem respondeu, cuidou do animal primeiro, e só depois de terminar mandou a carroça seguir.
+Os donos de cais também comiam ulmara; os trabalhadores, krolho. As famílias ricas moravam nas partes altas e secas da cidade, longe do lodo onde outras permaneciam.
 
-Foi o primeiro contato real de Dareth com o jeito Quendrar de existir no mundo.
+Foi à tarde do dia seguinte que os Quendrar chegaram: primeiro os sons, animais bufando, arreios chacoalhando, gente chamando bichos por nome como se fossem parentes. Uma carroça parou de repente porque uma tratadora se recusou a continuar antes de examinar a pata de um animal. Um Buldar reclamou da fila que se formou. Ela nem respondeu, cuidou do animal primeiro, e só depois de terminar mandou a carroça seguir.
 
 Yamara apareceu dando uma ordem qualquer, e as pessoas ao redor obedeceram sem hesitar; só depois Dareth notou os detalhes: o couro gasto, a lã pesada, as tiras prendendo os cachos para trás, as marcas visíveis de uma vida inteira passada a céu aberto.
 
@@ -177,13 +185,14 @@ Dareth ergueu a mão, mostrando.
 — Continue procurando.
 
 Karev voltou ao que fazia com o mesmo sorriso.
+
 Mais tarde, os Quendrar precisaram alimentar os animais, e um campo próximo pareceu servir perfeitamente. Um Buldar impediu.
 
 — Eles precisam comer — disse a tratadora Quendrar.
 
 — Isso também — o Buldar respondeu, apontando para a plantação intocada.
 
-Para o Quendrar, era absurdo que alguém preferisse algumas plantas à saúde imediata de um animal. Para o Buldar, era igualmente absurdo sacrificar semanas de trabalho de plantio porque alguém não tinha calculado alimento suficiente para a própria viagem. Nenhum dos dois estava errado dentro da própria lógica. Yamara resolveu, mandando deslocar os animais para outro trecho sem pedir desculpa a ninguém. O Buldar não agradeceu. A vida seguiu.
+A tratadora olhou para os animais famintos; o Buldar, para as semanas de plantio. Yamara mandou levá-los a outro trecho sem pedir desculpa. O Buldar não agradeceu.
 
 Ao longo daquela tarde, pequenas colisões continuaram se espalhando. Um Polar comentou que os Quendrar tinham surgido "depois das montanhas". Um Quendrar corrigiu, sem se alterar:
 
@@ -201,7 +210,8 @@ E um estrangeiro qualquer, sem constrangimento nenhum, comentou perto de Dareth:
 
 — Polar acha que nomear alguma coisa é o mesmo que criar.
 
-Dareth pensou em Kaeliran renomeando lugares antigos, apagando quem os tinha construído, classificando gente inteira sob uma única palavra administrativa, e em Selina, alguns dias antes, investigando justamente um homem que talvez tivesse sido inteiramente criado por registros.
+Dareth pensou nos nomes que Kaeliran dava a lugares e povos antigos. Lembrou-se de Selina, ainda à procura do processo entre Aleris e Alveris.
+
 Foi Maren quem finalmente respondeu à pergunta que Dareth vinha guardando desde o posto de fronteira.
 
 — O que significa "fazer uma Nynestra"? — perguntou.
@@ -225,6 +235,7 @@ Explicou, então, que por muito tempo Nynestra também tinha sido lembrada por p
 — E por causa dela nossos avós voltaram vivos — respondeu outro, mais velho.
 
 O mais jovem desviou o olhar. O mais velho voltou ao que fazia.
+
 A manhã seguinte começou mais devagar do que a comitiva esperava. Antes de seguirem para o território Cendar, delegações e cargas destinadas ao Torneio precisavam ser reorganizadas num ponto de passagem junto ao rio, onde rotas vindas de direções diferentes se encontravam antes de continuar para oeste.
 
 Para a maioria dos viajantes, era só espera. Para Selina, era uma oportunidade.
@@ -233,7 +244,8 @@ Enquanto funcionários Buldar conferiam o que seguiria por terra e o que ainda s
 
 Nada criminoso em si. A Companhia negociava por toda Jesed; era esperado que aparecesse em algum ponto de quase qualquer rota comercial importante. Mas aquilo confirmava uma coisa que Selina já suspeitava: a rede de Alveris não terminava nas muralhas de Kaeliran. Guardou a informação junto com o resto.
 
-A reorganização consumiu o dia o bastante para que montassem acampamento antes de alcançar as grandes passagens Cendar. Ao longe, a estrada já começava a mudar, deixando de parecer apenas terra aberta e ganhando madeira reforçada, contenções e estruturas erguidas sobre o terreno. Dareth observou aquilo por algum tempo antes de ouvir passos atrás de si.
+A reorganização consumiu o dia. Montaram acampamento antes das grandes passagens Cendar. Ao longe, madeira reforçada e contenções começavam a substituir a estrada de terra. Dareth as observava quando ouviu passos atrás de si.
+
 Foi então que Khalir se aproximou, sozinho.
 
 — Quatro-Dedos.
@@ -249,6 +261,7 @@ O Buldar admitiu, sem rodeios, que já queria falar com ele antes mesmo de chega
 Khalir riu de verdade, o som largo e fácil que Dareth já tinha visto de longe no acampamento.
 
 — Então erraram os dois.
+
 — Conhece Nynestra? — Khalir perguntou, depois de um momento.
 
 — Uma antiga Mão da Colheita — Dareth disse. — Da guerra contra Kaendar.

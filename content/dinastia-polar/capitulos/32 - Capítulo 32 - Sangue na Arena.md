@@ -1,16 +1,14 @@
 # Capítulo 32 — Sangue na Arena
 
-Os dez estandartes tremulavam ao mesmo tempo, presos a mastros altos demais para o vento os agitar de verdade, e ainda assim pareciam vivos, batendo uns contra os outros em algum ritmo que só existia na cabeça de quem os olhava de baixo. Dareth contou os campeões ao redor sem precisar mover muito a cabeça. Nove rostos, nove posturas, nove jeitos diferentes de fingir que aquilo era só mais um dia de trabalho.
+Os dez estandartes tremulavam acima da arena. Dareth contou os campeões ao redor sem precisar mover muito a cabeça. Nove rostos, nove posturas.
 
-A multidão continuava de pé. O som não diminuía, só mudava de forma, como se toda aquela gente respirasse junto e depois gritasse junto, num ciclo que não cansava. Poeira subia da areia pisada por milhares de pés antes mesmo de qualquer combate começar. Bandeiras pequenas, feitas às pressas por quem não tinha dinheiro para um estandarte de verdade, batiam nas mãos de crianças e adultos. Alguém gritava um nome de dinastia. Alguém gritava outro, mais alto, só para provar que dava. Uma parte da arquibancada vaiava os Polar sem nenhuma vergonha. Outra parte, maior, berrava a mesma palavra repetidas vezes, como se repeti-la bastasse para trazer sorte:
+A multidão continuava de pé. Bandeiras pequenas batiam nas mãos de crianças e adultos. Uma parte da arquibancada vaiava os Polar. Outra berrava a mesma palavra repetidas vezes:
 
 — QUATRO-DEDOS!
 
-Dareth não respondeu ao público. Não porque não ouvisse. Porque não sabia mais, havia anos, o que responder a uma multidão que gritava seu apelido como se ele fosse alguma coisa além de um homem cansado tentando não morrer diante de dez mil pessoas.
+Dareth ouviu, mas não respondeu.
 
 O cheiro da arena era outra coisa que nenhum relatório conseguia transmitir direito: terra seca, suor, óleo de couro, e alguma coisa mais doce vinda dos vendedores que já circulavam pelas fileiras mais altas, oferecendo comida a quem não conseguia esperar até o intervalo. Dareth sentiu tudo aquilo de uma vez, misturado ao barulho, e por um instante achou estranho que o corpo ainda reparasse em detalhes tão pequenos num momento daquele tamanho.
-
-Era a primeira vez que os dez estavam ali juntos, armados, no mesmo espaço, sem nenhuma mesa entre eles.
 
 Funcionários Braedar já esperavam no centro da arena, ao lado de um mecanismo que Dareth reconheceu de relance como algo pensado para parecer simples e à prova de trapaça ao mesmo tempo: peças idênticas, do tamanho de um punho fechado, cada uma marcada por um símbolo diferente, guardadas dentro de três recipientes lacrados com selo de cera. Representantes de várias dinastias se aproximaram para conferir os lacres antes de qualquer coisa começar. Nareva Mardrar examinou um dos selos de perto, sem pressa. Um homem Lusdar fez o mesmo com outro. Ninguém pareceu satisfeito só de ver. Todos tocaram, viraram, checaram.
 
@@ -56,14 +54,13 @@ Khalir recebeu o próprio anúncio com a mesma calma de sempre. Karev olhou de n
 
 Depois de todos os grupos formados, um funcionário Braedar confirmou o formato em voz alta, para que ninguém pudesse alegar dúvida depois: nas duas chaves de três, cada campeão enfrentaria os outros dois ao longo do dia, e duas vitórias garantiriam a classificação direta. Na chave de quatro, duas lutas definiriam os dois vencedores, que se enfrentariam depois, mesmo que fosse preciso um dia a mais de descanso entre uma fase e outra. Os três vencedores das três chaves se encontrariam juntos, ao final, no Confronto dos Três Estandartes.
 
-Dareth já sabia de tudo aquilo. Ouvir de novo, em voz alta, diante de milhares de pessoas, tornou tudo mais real do que qualquer relatório jamais tinha sido.
+Dareth olhou para Serka e Rhevara, as adversárias de sua chave.
+
 Ninguém apressou o primeiro combate.
 
 Houve alguns segundos, antes de qualquer golpe, em que o som da multidão baixou apenas parcialmente, como se aquela gente toda quisesse gritar e ao mesmo tempo não quisesse perder nenhum detalhe do que estava prestes a começar. Serka testou a distância primeiro, um passo curto, quase hesitante, a vara com gancho apoiada de um jeito que parecia casual e não era. Dareth observou a posição dos pés dela, o peso distribuído mais para trás do que para frente, a corda enrolada no antebraço esquerdo pronta para ser solta a qualquer instante.
 
 Ele já conhecia aquilo pelos relatórios. Conhecer não era o mesmo que enfrentar.
-
-Sabia disso havia muito tempo, mas o corpo insistia em lembrar de um jeito diferente, mais físico, menos gentil.
 
 O primeiro erro veio rápido. Dareth ainda pensava com a mesma velocidade de sempre, talvez até mais rápido, mas o problema nunca tinha sido pensar. Era responder. Viu Serka mudar o apoio, entendeu exatamente o que aquilo significava, começou a se mover. Tarde. Não dramaticamente tarde. Uma fração de segundo, quase nada, mas suficiente. A corda pegou seu braço, ou o gancho alterou o próprio equilíbrio dele por um instante, e Dareth precisou recuperar a postura num movimento que, dez anos antes, nem teria contado como esforço.
 
@@ -71,9 +68,7 @@ A multidão vibrou sem entender o movimento inteiro, apenas o perigo que passara
 
 Os pulmões ainda enchiam, só demoravam mais depois de um esforço rápido. A perna obedecia, mas chegava um instante tarde. O ombro recuperava devagar. Movimentos repetidos milhares de vezes agora exigiam atenção consciente, como se o corpo tivesse começado a cobrar explicações antes de obedecer.
 
-A experiência continuava inteira. O corpo, não.
-
-Isso assustava Dareth mais do que Serka.
+Sabia ler os movimentos de Serka. Nem sempre conseguia responder a tempo.
 
 Ela lia cada detalhe daquilo com uma paciência quase clínica. Não tentava golpeá-lo com mais força a cada tentativa. Procurava apoio, equilíbrio, direção, a forma como o peso dele se distribuía entre um pé e outro, as pequenas compensações que a mão mutilada obrigava seu corpo a fazer sem que ele nem percebesse mais. Descobriu, em algum momento no meio da troca de golpes, que Dareth protegia um lado específico do tronco sempre que trocava a empunhadura da espada. Começou a explorar exatamente aquilo, sem pressa, sem comemorar a descoberta.
 
@@ -87,7 +82,7 @@ Serka teve, naquele momento, ao menos uma oportunidade real de tornar tudo defin
 
 Recuou meio passo. Reposicionou o próprio corpo. Manteve distância suficiente para garantir a vantagem sem entrar no alcance da espada dele.
 
-Cautela. Só isso, para quem observasse de fora. Uma decisão perfeitamente justificável para qualquer campeã que já tivesse a vitória quase garantida e não quisesse arriscar tudo por excesso de confiança.
+Podia ser cautela: Serka mantinha a vantagem sem entrar no alcance da espada.
 
 Dareth não teve tempo, nem espaço mental, para se perguntar por quê. Só sabia que ainda estava vivo, e que precisava fazer alguma coisa com aquilo antes que a chance desaparecesse.
 
@@ -105,12 +100,10 @@ Rendição.
 
 O som que a arena soltou pareceu maior do que tudo que tinha vindo antes. Polar gritando o nome dele. Cendar respondendo com o próprio barulho, menos feliz, mas sem desonra nenhuma. Dareth mal conseguia ouvir qualquer coisa além do próprio sangue descendo, quente, pela lateral do corpo. Olhou para Serka. Ela recuperou a vara do chão devagar e apenas assentiu na direção dele, um gesto curto, seco, do tipo que só existe entre pessoas que entendem exatamente o que a outra acabou de passar. Dareth devolveu o mesmo aceno.
 
-Respeito, e nada além disso, ao menos por fora.
+Nas arquibancadas, alguém já recolhia apostas pagas. Um vendedor Braedar aproveitou o intervalo para gritar preços mais altos do que os da hora anterior.
+Curadores Lusdar o levaram para uma área lateral, avaliaram o corte, fecharam o que dava para fechar e comprimiram o resto. Dareth perguntou quanto tempo tinha antes da próxima luta.
 
-Nas arquibancadas, alguém já começava a recolher apostas pagas, moedas trocando de mão às pressas entre gente que não parecia nem um pouco interessada em esperar o fim oficial do dia para acertar contas. Um vendedor Braedar aproveitou o intervalo seguinte para gritar preços mais altos do que os da hora anterior, sem nenhum pudor. O Torneio, percebeu Dareth enquanto era levado para fora da arena, continuava sendo, para a maior parte daquela gente, exatamente o que Vetarius sempre dissera que precisava ser: um espetáculo grande o suficiente para substituir uma guerra.
-Não houve grande intervalo. Curadores Lusdar o levaram para uma área lateral, avaliaram o corte com mãos rápidas e seguras, fecharam o que dava para fechar e comprimiram o resto. Dareth perguntou quanto tempo tinha antes da próxima luta. A resposta não foi animadora.
-
-Pouco.
+O intervalo mínimo previsto pelas regras. Antes de liberá-lo, precisariam avaliá-lo outra vez.
 
 Selina apareceu enquanto ainda cuidavam dele, o rosto controlado demais para ser natural. Perguntou se ele conseguia respirar fundo. Ele disse que sim. Ela não pareceu acreditar completamente, mas também não insistiu, porque insistir não mudaria nada naquele momento e os dois sabiam disso.
 
@@ -127,7 +120,7 @@ Selina não sorriu de volta. Olhou o curativo mais uma vez, como se pudesse enco
 Enquanto isso, na arena, Rhevara se preparava para a própria luta ainda naquele dia, contra Serka, para completar a rodada da chave. Selina soube do resultado só depois, entre um curativo e outro: Rhevara tinha vencido sem grande dificuldade, prendendo o braço de Serka antes que a vara e o gancho encontrassem qualquer espaço para funcionar.
 
 A vitória não mudava nada de concreto para Dareth. Ele já sabia, antes mesmo de perguntar, que precisaria vencer as duas adversárias da própria chave, não só uma, e Serka já tinha caído para o lado errado da conta.
-Dareth mal teve tempo de sentar antes de ser chamado de volta. A luta seguinte da própria chave não esperaria por descanso nenhum: Rhevara já aguardava do outro lado da arena, pouco armada à primeira vista, o corpo compacto e o rosto impassível de sempre.
+Depois do intervalo e da nova avaliação, Dareth foi chamado de volta. Rhevara já aguardava do outro lado da arena, pouco armada à primeira vista, o corpo compacto e o rosto impassível de sempre.
 
 Selina protestou baixinho com o curador mais próximo, sem muita esperança de que aquilo mudasse alguma coisa. Não mudou.
 
@@ -153,7 +146,7 @@ Rhevara aumentou a pressão. Ele ainda resistiu. Aquilo criava, para ela, um pro
 
 Para vencer ali mesmo, ela precisaria realmente quebrá-lo.
 
-Não completou o movimento. Afrouxou a pressão por uma fração, o suficiente para reposicionar o próprio corpo. Poderia ser só isso: Rhevara preferindo captura e rendição a mutilação desnecessária, coerente com tudo que já se sabia sobre ela. Poderia também ser outra coisa, mais silenciosa, mais deliberada. As duas possibilidades continuavam verdadeiras ao mesmo tempo, sem se cancelarem.
+Não completou o movimento. Afrouxou a pressão por uma fração, talvez apenas para reposicionar o corpo. Dareth não podia saber.
 
 Foi tudo que Dareth precisou. Não velocidade de homem jovem, isso já não existia mais nele fazia tempo. Experiência, sim, o tipo que sabia transformar um centímetro de folga em saída inteira. Mudou o quadril, sacrificou posição, aceitou uma dor nova para escapar da anterior, e conseguiu.
 
@@ -175,7 +168,6 @@ Selina chegou antes de qualquer fala oficial, antes de qualquer funcionário se 
 
 Dareth apoiou a mão nas costas dela, sem força para muito mais. Selina se afastou logo em seguida, voltou ao ferimento e perguntou sobre respiração e movimento.
 
-Era Selina de novo. Mas aquilo tinha acontecido, e os dois sabiam.
 Antes de ser levado para atendimento definitivo, Dareth ainda viu o começo da luta seguinte, o corpo curvado num banco baixo enquanto um curador terminava de amarrar uma faixa nova sobre o corte. Orven já estava na arena, testando distância contra uma adversária que Dareth mal registrou naquele instante. Foi o clarão que chamou sua atenção, não a luta em si: um jato curto de fogo saltou de um mecanismo preso ao antebraço de Orven, breve e controlado, igual ao que Dareth tinha visto dias antes no acampamento.
 
 Dareth prendeu o ar. O curador apertou a faixa, a dor puxou sua atenção de volta e, quando ele olhou novamente para a arena, o fogo já tinha sumido. Restava apenas uma faixa fina de fumaça.
@@ -235,17 +227,17 @@ Talira gritou. Khalir soltou a própria posição na mesma hora, recuando meio p
 
 A arena, com milhares de pessoas, ficou estranhamente pequena por um instante de silêncio quase completo. Depois vieram os gritos, todos ao mesmo tempo, de direções diferentes. Curadores Leidar correram para dentro da arena. Guardas também. Alguns Leidar próximos gritavam que tinha sido acidente. Alguns Buldar, do outro lado, mantinham uma postura fechada, sem confrontar ninguém, mas prontos para o que viesse. O público começava a reagir como torcida tomando partido, não como um tribunal capaz de julgar com calma o que tinha acabado de ver.
 
-Talira se rendeu sem precisar de gesto formal nenhum, a mão presa contra o próprio peito num ângulo que não deveria existir. Karev, que esperava a própria vez perto da grade, foi o primeiro a se aproximar depois dos curadores, agachando-se ao lado dela por um instante, perguntando alguma coisa baixo o suficiente para ninguém além dela ouvir. Talira respondeu com um aceno curto, o rosto cinzento de dor, e Karev não insistiu além disso, apenas permaneceu ali, perto, até os curadores terminarem de estabilizar o braço. Não foi um gesto grande. Ninguém na arena pareceu notar além de quem estava perto o suficiente para ver.
+Talira não tinha condições de continuar. Prendia a mão contra o peito num ângulo que não deveria existir. Os curadores entraram na arena. Karev, que esperava perto da grade, aproximou-se depois deles e perguntou alguma coisa baixo, agachado ao lado dela. Talira respondeu com um aceno curto, o rosto cinzento de dor. Ele permaneceu ali até terminarem de estabilizar o braço.
 
 Selina observou como a Administração respondia àquilo, e a resposta, ao menos, funcionou exatamente como deveria. Curadores entraram sem hesitação. O combate foi encerrado ali mesmo. Um relatório oficial começou a ser produzido na hora. Representantes das duas dinastias envolvidas foram chamados para acompanhar o procedimento de perto. Nada foi deixado à decisão da arquibancada.
 
-O sistema segurava a crise, mesmo diante de uma lesão grave em praça pública. Aquilo, de um jeito estranho, reforçava exatamente o que o Torneio precisava provar: que podia funcionar mesmo quando as coisas davam terrivelmente errado.
+Selina acompanhou os representantes chamados à beira da arena. Ninguém esperou a reação da arquibancada para atender Talira.
 
 Jovar Leidar desceu até a beirada da arena antes mesmo do procedimento oficial começar, o rosto fechado, e não foi atrás de explicação nenhuma sobre culpa. Foi atrás de garantia de que Talira seria tratada pelos melhores curadores disponíveis, imediatamente, sem espera de protocolo. Um representante Buldar concordou sem discutir, o tipo de conversa que parecia menos sobre culpa e mais sobre impedir que aquilo virasse alguma coisa maior entre as duas dinastias. Selina reconheceu ali o mesmo instinto que via em Vetarius, o de apagar um incêndio antes que alguém tivesse tempo de soprar nele. Nenhuma acusação formal chegou a ser aberta. O relatório oficial, assinado ainda naquela noite pelos dois lados, registrou o que qualquer um que tivesse assistido de perto já sabia: acidente, dentro do combate, sem intenção de nenhum dos dois lados.
 
 Averna Braedar observou tudo de um ponto elevado, ao lado de outros organizadores, sem interferir uma única vez. Selina reparou que ela parecia menos preocupada com Talira ou Khalir especificamente e mais interessada em como o público reagia, em quanto tempo levava para a Administração retomar o controle da situação. Era, ao que tudo indicava, exatamente o tipo de teste que o Torneio precisava passar cedo, antes que algo pior acontecesse mais adiante.
 
-Khalir venceu por rendição forçada. Seguia, também ele, para a decisão da própria chave, contra Karev.
+Sem Talira em condições de lutar, Khalir seguia para a decisão da chave contra Karev.
 Ao fim do dia, os resultados estavam quase todos definidos.
 
 Dareth Polar tinha vencido a própria chave, ferido, mas classificado direto para o Confronto dos Três Estandartes. Orven Vendrar também tinha fechado a própria chave com duas vitórias, driblando Tavena e depois Saren sem nunca deixar o combate parecer fácil. Restava apenas a chave de quatro: Karev Quendrar avançava para a decisão, com uma vitória e uma reputação nova crescendo mais rápido do que qualquer discurso oficial conseguiria acompanhar. Khalir Buldar avançava para a mesma decisão, depois de vencer Talira num combate que custara à Leidar mais do que qualquer um esperava.
@@ -282,10 +274,10 @@ Mavira parecia irritada, a voz mais dura do que Selina jamais tinha ouvido dela 
 
 Selina ouviu aquilo sem conseguir ver os rostos das duas, só as sombras projetadas por uma lamparina próxima, alongadas contra o pano de uma tenda. Podia significar exatamente o que parecia significar à primeira vista: uma discussão sobre segurança, sobre diplomacia, sobre até onde uma campeã Cendar podia ir contra um Polar famoso sem parecer covardia de um lado ou manipulação política do outro. Mavira, afinal, sempre fora obcecada por acidentes controláveis, por relatórios de risco, por tudo que pudesse dar errado numa estrutura mal calculada. Talvez fosse só isso: o medo de que uma morte precoce, dentro do próprio Torneio, manchasse a reputação Cendar logo na primeira fase.
 
-Selina não ficou pensando em conspiração nenhuma. Só achou estranho o bastante para guardar, sem saber exatamente onde aquilo se encaixaria depois.
+Selina guardou aquelas palavras. Não sabia o que tinha sido combinado.
 
 Continuou andando antes que as duas percebessem sua presença. Atrás dela, as vozes foram diminuindo aos poucos, cobertas pelo som geral do acampamento, que continuava vivo mesmo àquela hora. Ao longe, ainda dava para ouvir gente gritando nomes na escuridão, Karev de um lado, Quatro-Dedos do outro, o acampamento inteiro comemorando um dia que, para a maior parte daquelas pessoas, tinha sido só isso: um espetáculo, sangrento e emocionante, exatamente como um Torneio devia ser.
 
 O caminho de volta passou perto o suficiente da arena vazia para Selina ver, à luz fraca de algumas tochas ainda acesas, os últimos trabalhadores cobrindo de areia nova os pontos onde o sangue do dia tinha se acumulado. Amanhã aquele chão pareceria limpo de novo, pronto para receber outra rodada de gente disposta a se matar diante de milhares de espectadores, em nome de dez estandartes que continuariam tremulando exatamente como antes.
 
-Selina seguiu seu caminho, o horário ainda por confirmar, o relatório ainda por assinar, sem se permitir pensar mais naquela conversa do que ela parecia merecer.
+Selina seguiu para confirmar o horário e assinar o relatório.

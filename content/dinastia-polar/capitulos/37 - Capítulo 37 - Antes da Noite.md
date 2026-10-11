@@ -112,7 +112,7 @@ A luta foi curta e desorganizada. Não havia formação nem desafio, apenas gent
 
 Dareth viu o sinal.
 
-Elis tinha mostrado marcas parecidas antes.
+Dareth já vira uma marca parecida na Cidade Exterior, sem entendê-la.
 
 — Eles conhecem as rotas.
 
@@ -161,7 +161,7 @@ Maruva recebera a notícia da vitória de Dareth como qualquer outro bairro, emb
 
 Uma porta se abriu à sua frente. Três homens entraram numa casa sem armas aparentes e saíram trazendo lanças. Um quarto levou capas de trabalhador para dentro e voltou com uma armadura escondida sob uma delas. Caixas com o símbolo da Balança Azul ocupavam o chão da sala; entre as tampas abertas, Selina reconheceu peças de ruptura que as listas de transporte chamavam de material de manutenção.
 
-Olhou o número apagado na parede. Estava no antigo cadastro de residência de Aleris, guardado entre as anotações que fizera antes de ser capturada. Não era uma propriedade reconhecida, coisa que um Nular como ele nem poderia ter; era a indicação de onde morara antes de desaparecer dos registros. A casa continuava útil ao homem em que se transformara.
+Olhou o número apagado na parede. Constava no antigo cadastro de residência de Aleris, entre as anotações que fizera antes de ser capturada. Não era uma propriedade reconhecida, coisa que um Nular como ele nem poderia ter; era a indicação de onde morara antes de desaparecer dos registros. Agora havia caixas da Balança Azul ali.
 
 Mais adiante, um estrangeiro parou numa bifurcação, conferiu uma pequena marca perto da soleira de uma porta e escolheu a rua da esquerda. Havia outra marca adiante, no ponto exato em que seria fácil seguir pela via errada. Selina se lembrou de Elis dizendo que andavam riscando paredes de Maruva. A menina tivera razão em se inquietar.
 
@@ -217,7 +217,7 @@ Elis descreveu a rua. Tair acrescentou o que a mãe lhe contava, havia muitos ci
 
 — Aleris? — Tair repetiu, e pareceu testar se a palavra pertencia àquela lembrança de infância.
 
-— Nasceu Aleris Buldar. Depois foi registrado como Aleris Nular, residente em Kaeliran. Pouco depois de seu nome desaparecer dos registros, surge Alveris Polar.
+— Os registros mostram Aleris Buldar, depois Aleris Nular em Kaeliran. Pouco depois de seu nome desaparecer, surge Alveris Polar. Ainda falta o processo que ligaria os nomes.
 
 Ela precisou explicar devagar, porque mesmo Elis, que percebera a semelhança dos nomes, ainda não via todo o percurso. Aleris desaparecia dos documentos num ponto em que sua condição de Nular deveria continuar registrada. Meses depois, Alveris aparecia com sobrenome Polar, autorização para possuir terras e uma vida inteira que os arquivos pareciam dispostos a aceitar. Entre um homem e outro faltava o processo que justificasse o reconhecimento. Pela lei, aquela mudança teria de passar pelos registros ligados à Raiz; a lacuna não dizia quem a autorizara nem se os homens que hoje dirigiam o Culto sabiam dela.
 
@@ -235,23 +235,23 @@ Selina assentiu.
 
 — Foi por isso que correram tanto atrás dele? — Tair perguntou.
 
-— É a razão que vejo agora. Alveris havia perguntado pela caixa, e o Sumo Vigia se recusara a explicar por que a queria de volta. A acusação contra Kalan cresceu enquanto ela permanecia desaparecida. Isso eu posso afirmar. Os dois tinham motivos para apressar o caso. Não tenho prova de que Alveris tenha pedido a execução. Teral tinha uma confissão, as regras da Raiz e um Nular diante dele. Foi o tribunal que o condenou, e o Culto reconheceu a sentença.
+— É uma possibilidade. O Sumo Vigia se recusara a explicar por que queria a caixa de volta. A acusação contra Kalan cresceu enquanto ela permanecia desaparecida; isso eu posso afirmar. Não tenho prova de que Alveris tenha pedido a execução. Teral tinha uma confissão, as regras da Raiz e um Nular diante dele. Foi o tribunal que o condenou, e o Culto reconheceu a sentença.
 
 Elis pensou em Kalan aceitando sozinho a culpa para que Tair e Orel saíssem da prisão. Tinha revisto aquele momento tantas vezes que acreditara não ser mais capaz de encontrar nele uma dor nova. Encontrou. O irmão não roubara apenas uma caixa perigosa. Tocara, sem saber, no ponto em que a vida inteira de um homem poderoso poderia se desfazer.
 
 — Ele não sabia — disse.
 
-— Não — Selina respondeu.
+— Talvez não — Selina respondeu.
 
 Tair desviou o rosto. Orel se aproximou dele, atraído pelo nome de Kalan e pela mudança na voz dos dois.
 
 Um estrondo veio de cima, ainda distante. Karesis esperou que a pedra parasse de vibrar antes de perguntar o que Selina sabia da entrada dos estrangeiros.
 
-Ela contou o que ouvira nas galerias do Altar: Saelira exigindo garantias, Alveris falando de acessos e de uma autoridade Polar endividada que ocuparia o lugar de Vetarius. Contou do campeão Quendrar, cuja coordenação desaparecera depois de aceitar água de um funcionário, e do invólucro com restos de Caule-de-Sono que encontrara na área de serviço. Não podia nomear a pessoa que pusera a planta no copo. Também não sabia quanto cada combatente ou representante ligado a Cendar, Mardrar, Buldar e Vendrar compreendia do acordo. Mas vira lutas em que Dareth fora poupado no instante em que deveria ter sido derrotado.
+Ela contou o que ouvira nas galerias do Altar: Saelira exigindo garantias, Alveris falando de acessos e de uma autoridade Polar endividada que ocuparia o lugar de Vetarius. Contou do campeão Quendrar, cuja coordenação piorara depois de aceitar água de um funcionário, e do invólucro com restos de uma planta que parecia Caule-de-Sono. Não sabia se algo fora posto no copo, nem quem conhecia o acordo. Tinha visto adversários de Dareth recuarem em momentos decisivos; tampouco podia afirmar por quê.
 
 — Queriam que ele chegasse à final? — Elis perguntou.
 
-— E que a vitória trouxesse as dez dinastias para Kaeliran. Vetarius fez o resto por vontade própria: abriu os portões, autorizou escoltas, reduziu inspeções, deu à Balança uma semana inteira de cargas que ninguém podia conferir uma a uma. O Torneio já existia. Alveris encontrou um uso para ele.
+— Talvez. A vitória levou as delegações a Kaeliran. Vetarius abriu os portões, autorizou escoltas e reduziu inspeções. A Balança pôde movimentar mais cargas sem que conferissem cada uma. Alveris soube usar a ocasião.
 
 — Ele queria isto? — Tair perguntou, apontando para o teto, para o som das ruas que chegava através dele.
 
@@ -259,11 +259,9 @@ Ela contou o que ouvira nas galerias do Altar: Saelira exigindo garantias, Alver
 
 Selina lembrou os guardas mortos perto do portão e o homem que mandara fechar as folhas mesmo depois de receber notícia da morte do próprio organizador.
 
-— Alveris morreu no banquete — acrescentou. — Eles não sabem quem os comanda agora. Continuam cumprindo a parte que lhes deram.
+— Alveris morreu no banquete — acrescentou. — Pelo que ouvi no portão, alguns não sabem quem os comanda agora. Continuam cumprindo as ordens que receberam.
 
-Alveris abrira a porta para uma cidade que imaginava controlar. O que entrara por ela já não obedecia a ele.
-
-Por um momento Elis imaginou a cidade sendo desmontada por homens que nem sequer concordavam sobre o que deveria existir depois.
+Elis ouviu outra explosão acima deles.
 
 — Parece a cidade dos Meninos do Vento — disse.
 
@@ -724,7 +722,7 @@ Tair tentou dizer que conseguia respirar. Orel afrouxou só um pouco.
 
 Elis se ajoelhou ao lado dos dois e os abraçou também.
 
-Por um instante ficaram os três presos uns aos outros no meio do túnel: Orel com um braço ao redor de Tair e o outro agarrado à roupa de Elis, Tair puxando a irmã para mais perto, Elis segurando os dois com força demais para alguém que ainda precisava continuar correndo.
+Por um instante ficaram os três abraçados no meio do túnel: Orel com um braço ao redor de Tair e o outro agarrado à roupa de Elis, Tair puxando-a para mais perto.
 
 Dareth gritou que precisavam avançar.
 

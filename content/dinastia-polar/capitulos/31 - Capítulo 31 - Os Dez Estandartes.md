@@ -11,14 +11,16 @@ Existiam caminhos comuns: áreas de refeição compartilhadas, um setor de admin
 
 Algumas pessoas atravessavam essas fronteiras sem hesitar. Outras evitavam. Havia curiosidade genuína em muitos olhares, comércio acontecendo entre setores sem problema nenhum, e também preconceito puro e simples, gente olhando um estrangeiro apenas porque nunca tinha visto alguém daquela região tão de perto.
 
-Era, provavelmente, a maior concentração de povos diferentes que Dareth já tinha visto fora de uma guerra. E a diferença entre as duas coisas pesava sobre ele de um jeito que não esperava. Numa guerra, um homem de outro estandarte era alguém que talvez tentasse matá-lo. Ali, um deles podia estar, naquele exato instante, comprando pão ao lado dele na mesma banca.
+Dareth não via tantos povos reunidos desde a guerra. Dessa vez, um homem de outro estandarte podia estar comprando pão na mesma banca.
+
 A chegada da comitiva Polar foi recebida por funcionários da Administração dos Dez Estandartes, e entre eles estava uma mulher que Dareth levou apenas alguns segundos para identificar como a responsável de fato por tudo aquilo, não pelo cargo anunciado, mas pelo jeito como as coisas paravam de ser problema assim que ela olhava para elas.
 
 A responsável pelos depósitos falava com Selina sobre alojamento quando interrompeu a própria frase para gritar uma correção a alguém que dirigia uma carroça na direção errada. Conferiu um papel sem perder o fio da conversa. Percebeu, só de olhar de relance para outro documento, que uma das tendas Polar tinha sido contada duas vezes no registro geral, e corrigiu ali mesmo, com um traço rápido de pena. Voltou para Selina sem precisar perguntar onde a conversa tinha parado. Identificou Dareth sem esforço nenhum.
 
 — Quatro-Dedos — disse, do mesmo jeito neutro com que citava qualquer outro nome naquele dia.
 
-Dareth assentiu. Não havia motivo real para surpresa: seu nome tinha sido enviado oficialmente semanas antes, e metade das delegações ali provavelmente possuía alguma descrição física dele, precisa ou não. A conversa entre ela e Selina continuou sem pausa depois disso, girando em torno de espaço, água, distância até os depósitos comuns e horário de acesso ao mercado central.
+Dareth assentiu. A mulher voltou a tratar com Selina de espaço, água e acesso aos depósitos.
+
 Um dos aristocratas que viajavam com a comitiva Polar não escondeu o desagrado ao ver o espaço reservado à delegação.
 
 — Esse é realmente o espaço da delegação Polar? — perguntou, olhando ao redor como se esperasse algo maior.
@@ -29,7 +31,8 @@ O homem citou Vetarius, mesmo sabendo perfeitamente bem que o soberano não tinh
 
 A responsável pelos depósitos explicou, num tom que não era hostil nem apaziguador, apenas administrativo, que os dez setores oficiais tinham recebido critérios equivalentes de segurança, circulação e acesso. Não precisava soar provocativa para que aquilo incomodasse o homem: o próprio fato bastava.
 
-Vetarius realmente não estava ali. Kaeliran continuava precisando de soberano em casa, e Selina falava oficialmente pelo estandarte Polar durante todo o evento. Dareth já sabia disso, mas foi só ali, vendo o espaço igual, sem privilégio nenhum reservado ao nome dos Polar, que a ausência de Vetarius pareceu, pela primeira vez, ter um custo real.
+Vetarius ficara em Kaeliran; Selina falaria pelo estandarte Polar durante o Torneio.
+
 Mais tarde, ainda durante a instalação, um dos Polar mais jovens comentou casualmente com outro:
 
 — Já chegaram todos os outros clãs?
@@ -38,7 +41,7 @@ Selina, ouvindo de perto, corrigiu sem dramatismo:
 
 — Dinastias.
 
-O rapaz não pareceu entender por que aquilo importava, e ninguém insistiu além disso. Dareth já tinha notado o mesmo hábito antes, em outras conversas Polar ao longo dos anos: oficialmente reconheciam dez dinastias, mas parte deles continuava, por dentro, tratando as demais como povos que tinham simplesmente adotado um título que pertencia, por direito histórico, aos Polar. Era uma arrogância pequena, quase invisível na maior parte do tempo. Dareth suspeitava que reapareceria, de formas maiores, antes que aquele Torneio terminasse.
+O rapaz não pareceu entender. Dareth já ouvira outros Polar usarem "clãs" apesar dos documentos que reconheciam as dez dinastias.
 
 Pouco depois, a própria Administração deu a ele uma demonstração de por que aquelas palavras importavam.
 
@@ -100,7 +103,7 @@ Era.
 
 Serviço não bastava. Morar em Kaeliran não bastava. Casar com Polar não bastava. Uma criança de união mista precisava ser reconhecida pelo genitor Polar e validada nos registros. Dareth pensou em quantas vezes ouvira aquilo como se fosse a única definição possível de pertencimento.
 
-Ali, cercado por nove respostas diferentes para a mesma palavra, parecia apenas uma escolha histórica entre outras.
+Ali, Dareth ouvira outras nove respostas à mesma pergunta.
 
 O formulário ganhou uma anotação no canto e seguiu adiante.
 
@@ -116,7 +119,7 @@ Um cozinheiro Buldar discutia com um fornecedor Braedar porque tinha recebido me
 
 O Vendrar riu, alto e de verdade, e acabou pagando mais do que tinha começado oferecendo.
 
-Era só vida acontecendo.
+
 Dareth estava com fome: dias de estrada tinham deixado esse tipo de fome que não escolhia comida. O acampamento oferecia pratos que ele reconhecia e outros que não.
 
 Alguém lhe entregou algo enrolado numa folha larga, e ele mordeu antes de perguntar o que era. Era mais azedo do que esperava, a carne dentro temperada de um jeito que ele nunca tinha experimentado em Kaeliran. Só depois ouviu alguém, ao lado, chamar o prato por um nome que não conseguiu guardar de primeira.
@@ -124,7 +127,7 @@ Alguém lhe entregou algo enrolado numa folha larga, e ele mordeu antes de pergu
 Sentiu, mais adiante, o cheiro forte de uma carne defumada vinda do setor Quendrar, densa e escura. Viu alguém mergulhar pão num caldo cheio de ervas que não reconheceu, do lado dos Lusdar. Reconheceu, perto dos Buldar, grãos preparados de um jeito diferente do que via nas mesas de Kaeliran, mais temperados, cozidos por mais tempo.
 
 Um homem Vendrar, sentado perto de uma fogueira comum, comia a mesma carne preservada que qualquer soldado Polar levaria numa marcha. Dareth reparou mais nisso do que nos pratos estranhos.
-Ao redor, o mapa de Jesed ganhava vozes.
+
 
 Dareth percebia gente do leste esticando certos sons e comprimindo outros, gente do extremo oeste pronunciando palavras comuns de um jeito que soava quase estrangeiro mesmo sendo a mesma língua. Ouviu vocabulário técnico específico de ofícios que desconhecia, títulos que precisou escutar duas vezes antes de entender, expressões cujo sentido só chegava pelo contexto da conversa ao redor. Não tentou decifrar tudo. Sabia que boa parte daquilo levaria dias, talvez o Torneio inteiro, para se tornar familiar.
 O primeiro grande susto do dia foi sonoro.
@@ -137,7 +140,8 @@ Dareth conhecia descrições antigas de equipamentos Vendrar, ligados a guerras 
 
 Os dois operadores verificaram a peça imediatamente, trocando comentários rápidos entre si, apontando para algum detalhe do mecanismo que precisava de ajuste.
 
-Quatro séculos de guerra e paz tinham passado desde os relatos antigos que Dareth conhecia. Aquilo era prova concreta disso. Mesmo assim, ficou ali mais tempo do que precisava, olhando o mecanismo esfriar, antes de se lembrar de que tinha ido buscar água e ainda não tinha voltado com ela.
+Dareth ficou olhando o mecanismo esfriar até se lembrar da água que tinha ido buscar.
+
 Ao redor do teste, a vida continuava normal. Alguém cozinhava numa fogueira próxima. Um homem Vendrar dormia com a cabeça apoiada sobre um saco de ferramentas, indiferente ao barulho. Uma mulher rica, vestida melhor do que qualquer um ali perto, reclamava da fumaça que impregnava a própria roupa. Um garoto entregava bebida aos dois operadores do mecanismo. Um homem de mãos perfeitamente limpas observava tudo de uma distância segura, sem se aproximar. Outro, mais perto, tinha calos grossos nas palmas. Um terceiro carregava cicatrizes de queimadura visíveis mesmo com as mangas compridas.
 
 Dareth começou a perceber, aos poucos, que aquele tipo de marca era comum entre os Vendrar: pequenas queimaduras antigas nos braços, mãos ásperas, uma região de pele mais brilhante no pescoço de um homem, dedos com cicatrizes finas demais para serem de luta. Forja, brasores, mineração, fundição, testes de combustível: décadas de trabalho perigoso deixando o próprio corpo marcado, sem drama nenhum, só como parte do ofício.
@@ -145,7 +149,8 @@ Foi ali perto que Dareth ouviu, pela primeira vez, uma risada alta o suficiente 
 
 Uma mulher estava contando uma história para um grupo cada vez maior, rindo antes mesmo de terminar a própria frase, o corpo inteiro participando da narrativa: as mãos desenhando formas no ar, o tronco se inclinando para trás no ponto certo, a voz mudando de tom para imitar alguém. Os outros riam junto, alguns claramente já tendo ouvido aquela história antes e rindo mesmo assim.
 
-Maerys Vendrar gostava de ser o centro da própria roda. Isso ficou claro antes mesmo de Dareth saber o nome dela.
+Era Maerys Vendrar.
+
 Ao longo da conversa que se seguiu, porque Maerys, assim que percebeu Dareth por perto, simplesmente o puxou para dentro da própria roda sem cerimônia nenhuma, ele foi reparando em detalhes que nenhuma apresentação formal teria entregado de uma vez. Uma queimadura antiga subindo por parte de um braço, desaparecendo sob a manga curta. Talvez outra, mais alta, perto do ombro. As mãos marcadas de um jeito que destoava da roupa que vestia, de excelente qualidade, mas prática, sem exageros inúteis. Uma peça de metal trabalhado presa ao peito, ligada, Dareth suspeitou, a alguma família de posição na hierarquia Vendrar.
 
 As queimaduras não pareciam incomodá-la nem um pouco. Se alguma coisa, faziam parte do jeito como ela ocupava espaço: sem esconder nada, sem se explicar por nada.
@@ -175,7 +180,8 @@ Maerys percebeu a mudança de temperatura na mesma hora, mas não ficou desajeit
 
 Não respondeu de verdade à pergunta. Transformou tudo de volta em piada com outro comentário qualquer, e o grupo ao redor riu de novo, mas Dareth não conseguiu deixar aquilo passar tão rápido quanto ela pretendia.
 
-Alguém, de algum lugar, sabia de uma conversa que tinha acontecido havia poucos dias, num túmulo fora das muralhas de Kaeliran. Selina, quando soube depois, teve exatamente a mesma reação silenciosa. Nenhum dos dois sabia de onde aquilo tinha vindo.
+Maerys sabia que Dareth voltara ao Torneio por causa da irmã do rapaz morto. Ele não sabia quem lhe contara.
+
 Orven apareceu pouco depois, as tranças grossas e enroladas presas atrás da nuca, a barba chamuscada nas pontas, ainda mexendo em alguma peça de equipamento que Dareth não reconheceu de imediato: um mecanismo pequeno, cheio de fios finos e uma pequena câmara de metal.
 
 — Ela sempre conta essa história errada — disse, sem se apresentar, referindo-se claramente a Maerys.
@@ -202,7 +208,7 @@ O cambista Mardrar recalculou o preço com uma rapidez que só piorou a situaç�
 O Polar reclamou, sem sucesso. O cambista não se abalou nem um pouco: aquela era, evidentemente, uma cena que se repetia dezenas de vezes por dia ali. A moeda Mardrar tinha atravessado fronteiras que nenhum exército deles jamais precisara cruzar. Os Polar continuavam recusando usá-la, preferindo pagar a conversão.
 Foi assim, através de transações alheias, que Dareth começou a notar os Mardrar de verdade. Não tinham um setor visualmente dominante, nada como o teste Vendrar ou o cheiro Buldar. Apareciam dentro dos negócios dos outros: um comprovante Mardrar apresentado por um comerciante Braedar, uma garantia mencionada numa negociação qualquer, um funcionário discutindo taxas de conversão com outro. Alguém citou uma Casa de Garantia como se fosse óbvio que todos sabiam o que aquilo significava.
 
-Parte do poder Mardrar já estava dentro das transações das outras dinastias, sem bandeira própria para anunciá-lo.
+
 A Primeira da Mesa Mardrar apareceu quando a conversa exigiu presença política de verdade: Selina precisava confirmar alguma documentação relacionada à representação Polar, e a reunião acabou incluindo a própria Primeira da Mesa.
 
 Ela era diferente de Maerys de um jeito que Dareth notou quase imediatamente. Não competia por espaço nenhum. Fazia a sala vir até ela, sem esforço aparente: calma, cuidadosa, cada palavra escolhida como se ela tivesse considerado, um instante antes, se realmente precisava dizer aquilo.
@@ -285,7 +291,7 @@ Ao longo do dia, pequenas situações continuaram cruzando as dinastias sem vira
 
 E havia preconceito de verdade também, espalhado por todo lado. Um Polar chamando os outros de clãs. Um Grastar recusando visivelmente algo oferecido por um Lusdar. Um Mardrar usando linguagem que fez Yamara fechar a cara. Um estrangeiro qualquer chamando os Polar de arrogantes, em voz baixa, para outro estrangeiro. Alguém rindo abertamente do sotaque de outra pessoa. Nada daquilo foi resolvido. Algumas coisas simplesmente passavam. Outras geravam resposta seca. Outras viravam discussão breve, sem solução nenhuma. Era, Dareth pensou, exatamente como o mundo real funcionava fora dos discursos.
 
-E ainda assim, com tudo aquilo, com todo o ressentimento acumulado, as guerras recentes, os preconceitos abertos, ali estavam eles. Não se matando. Vendendo pão uns aos outros. Compartilhando os mesmos caminhos. Reclamando de preço. Rindo de piada alheia. Era mais do que qualquer discurso sobre paz jamais teria conseguido provar sozinho: as dez dinastias estavam, por escolha própria, no mesmo lugar, ao mesmo tempo.
+
 No fim do primeiro dia, uma reunião mais formal reuniu representantes das dez delegações: não todos os soberanos sentados em volta da mesma mesa, mas presença suficiente para que decisões pudessem ser tomadas.
 
 Selina falou pelos Polar. Confirmou equipamentos, respondeu por questões formais ligadas ao estandarte, reconheceu decisões administrativas em nome da dinastia ausente de soberano.
@@ -325,12 +331,11 @@ O segundo dia amanheceu com o acampamento já funcionando como uma pequena cidad
 
 O público continuava chegando em quantidade cada vez maior. Vendedores gritavam preços em línguas diferentes ao mesmo tempo. Apostas informais corriam por baixo dos panos, apesar do desagrado visível da Administração. Crianças carregavam pequenas réplicas dos dez estandartes, brincando de escolher favoritos.
 
-Dareth ouviu versões absurdas sobre si mesmo circulando entre desconhecidos. Uma criança disse a outra que ele tinha perdido quatro dedos, não um.
+Uma criança disse a outra que Dareth tinha perdido quatro dedos, não um.
 
 — Se tivesse perdido quatro, chamavam ele de Um-Dedo — corrigiu a segunda, com total seriedade.
 
-Dareth continuou andando, sem interromper a discussão infantil. Havia alguma coisa reconfortante naquela pequena humanidade, ali, tão perto do espetáculo que se aproximava.
-Agora ficava evidente que ele não era o único observando adversários.
+Dareth continuou andando. Também os outros campeões observavam adversários.
 
 Um campeão passava, e outro observava seus joelhos, a maneira como carregava a própria arma, qual mão usava para beber água, se mancava, se protegia algum lado do corpo sem perceber. Os relatórios continuavam sendo corrigidos em tempo real, campeão por campeão. Alguns, Dareth suspeitava, ofereciam informação falsa de propósito: Orven testava um mecanismo que talvez nem levasse à arena de verdade; Serka treinava apenas movimentos básicos, sem revelar nada além disso; Karev evitava, deliberadamente, mostrar a distância máxima que conseguia alcançar com a própria funda.
 
@@ -361,7 +366,7 @@ O público já tinha subido primeiro, em levas organizadas pela Administração 
 Vestiu a armadura Polar sem pressa, verificando cada correia, cada fivela, o peso conhecido do próprio equipamento assentando sobre os ombros do jeito de sempre. A mão esquerda, com os quatro dedos, encontrou o lugar certo na empunhadura sem precisar de ajuste. Não havia espaço, ali, para conversa sentimental, só o trabalho de se preparar, feito tantas vezes ao longo da vida que o corpo quase dispensava a atenção consciente.
 Encontrou alguns dos outros campeões pelo caminho, cada um em algum estágio diferente da própria preparação. Khalir já estava completamente armado, o escudo alto preso ao braço tornando-o ainda maior do que parecia parado. Orven ajustava, com cuidado excessivo, uma última peça de equipamento que Dareth ainda não entendia direito. Karev parecia quase leve demais, vestido de um jeito simples, a funda enrolada displicente no cinto. Serka carregava a própria vara de passagem como se fosse extensão natural do braço. Rhevara parecia pouco armada até alguém lembrar do que ela fazia com quem chegasse perto demais.
 
-Não eram mais convidados de um evento diplomático. Eram campeões, cada um levando consigo o peso de uma dinastia inteira.
+
 A Administração os reuniu num ponto comum antes de encaminhar cada um à própria entrada. Guardas Braedar controlavam o corredor estreito que levava até lá, as paredes de pedra abafando parcialmente o som que vinha de dentro. Depois o som cresceu. Mais. E mais ainda.
 
 Dareth conhecia o barulho de um exército gritando antes de uma batalha. Aquilo era diferente: não havia medo misturado ali, só expectativa pura, de milhares de gargantas ao mesmo tempo.
@@ -381,10 +386,7 @@ Cada campeão tinha sua própria entrada. Uma depois da outra, ou quase ao mesmo
 
 Não sozinho, no sentido em que a cena se desenrolava. Ao redor de todo o círculo, os outros também apareciam. Khalir. Serka. Karev. Orven. Rhevara. Barek. Talira. Saren. Tavena. Dareth.
 
-Pela primeira vez, os dez campeões estavam reunidos no mesmo espaço. Ainda não lutando. Só existindo ali, diante de toda Jesed reunida ao mesmo tempo para assistir.
-Ele olhou ao redor, reconhecendo cada um deles. Alguns já conhecia bem; outros tinha encontrado ao longo daqueles dois dias inteiros de acampamento. Agora, finalmente, a imagem inteira se organizava diante dele. Dez pessoas.
-
-Atrás de cada uma, uma dinastia inteira, com sua própria história, seus próprios mortos, suas próprias razões para estar ali.
+Pela primeira vez, os dez campeões estavam no mesmo espaço. Dareth reconheceu os rostos que estudara nos relatórios.
 
 No centro da arena, um espaço preparado esperava: talvez uma mesa, talvez recipientes selados, marcas específicas gravadas no próprio chão de pedra. Funcionários já ocupavam posição ao redor dele.
 

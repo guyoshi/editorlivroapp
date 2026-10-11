@@ -256,6 +256,6 @@ Levantou-se, ajeitou o livro debaixo do braço, e saiu do quarto sem mais nada p
 
 A caixa continuava aberta sobre a cama. Aleris continuava ali, sobre a colcha, ao lado de Alveris, as datas ainda esperando para serem seguidas até o fim no dia seguinte.
 
-Selina tinha encontrado uma pista que podia ligar Alveris a um registro antigo de Aleris. Ainda precisava do processo desaparecido para saber o que havia entre os dois nomes.
+Selina tinha encontrado uma pista que podia ligar Alveris a um registro antigo de Aleris. Ainda precisava localizar o processo citado para saber o que havia entre os dois nomes.
 
 Mas quando a porta do quarto de Amira se fechou, em algum lugar lá embaixo, a casa inteira pareceu, de repente, muito maior do que Selina jamais tinha percebido que era.

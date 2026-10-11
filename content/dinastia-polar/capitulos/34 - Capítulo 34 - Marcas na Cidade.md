@@ -1,8 +1,8 @@
 # Capítulo 34 — Marcas na Cidade
 
-Desde a madrugada em que seguira a movimentação estranha ligada à Balança e ouvira homens falarem de cargas que podiam estar fisicamente num lugar e existir, nos registros, em outro, Elis deixara de confiar no silêncio das horas antes do amanhecer.
+Desde a madrugada em que vira a Balança descarregar caixas numa oficina de Maruva, Elis prestava mais atenção às ruas antes do amanhecer.
 
-Não passou a vigiar Maruva todas as noites. Tair teria percebido, Karesis provavelmente também, e havia dias em que o cansaço simplesmente vencia. Mas, quando acordava cedo o bastante, começara a sair por alguns minutos antes que o bairro despertasse de verdade. Refazia parte do caminho daquela primeira madrugada, olhava as esquinas onde vira homens circulando, conferia portas e soleiras, e voltava sem encontrar nada.
+Quando acordava cedo, refazia parte do caminho daquela primeira madrugada. Olhava as esquinas, as portas e as soleiras, depois voltava sem encontrar nada.
 
 Naquela manhã, acordou antes da claridade por escolha já transformada em hábito.
 
@@ -60,7 +60,7 @@ Não era pergunta. Elis assentiu mesmo assim.
 
 — E se eu não voltar?
 
-Ele não respondeu de imediato. Elis via, no rosto dele, o cálculo acontecendo em tempo real: proibir não ia funcionar, e ele sabia disso tão bem quanto ela. Se dissesse não, ela ia atrás mesmo assim, e ele voltaria sozinho para uma casa vazia demais para suportar mais uma ausência.
+Ele olhou para a rua por onde o homem tinha desaparecido. Elis conhecia aquela hesitação: Tair tentava decidir se a seguiria.
 
 — Eu vou com você — disse, por fim, num tom que não soava exatamente como aprovação.
 
@@ -68,15 +68,14 @@ Ele não respondeu de imediato. Elis via, no rosto dele, o cálculo acontecendo 
 
 — Eu sei que não preciso. — Ele já estava ajustando a própria roupa, se preparando para seguir. — Vou mesmo assim.
 
-Não era sobre decidir por ela. Elis entendeu isso sem precisar que ele explicasse: era sobre não deixá-la sozinha em alguma coisa que ele não conseguia impedir de acontecer de qualquer jeito.
-
 — Se a gente for pego — Tair disse, ajeitando a própria roupa contra o frio —, eu quero que fique registrado que eu avisei.
 
 — Registrado onde?
 
 — Não sei. Em algum lugar. No universo.
 
-Elis quase riu, baixinho, o tipo de riso que escapava mesmo quando a situação não tinha nada de engraçada de verdade. Era bom ainda conseguir rir com ele, mesmo ali, mesmo depois de tudo.
+Elis quase riu.
+
 Seguiram o homem a distância segura, mantendo-se nas sombras dos beirais, parando sempre que ele parecia hesitar ou olhar para trás. Ele andava como qualquer trabalhador tentando não chamar atenção, nada de furtivo demais, nada de olhar por cima do ombro a cada dois passos. Em determinado ponto encontrou outro homem, trocaram algumas palavras baixas demais para Elis ouvir, e se separaram em direções diferentes.
 
 Escolheram seguir o primeiro.
@@ -97,9 +96,8 @@ Elis parou, olhou a rua inteira, voltou alguns passos, comparou as marcas anteri
 
 — É caminho. — Ela sentiu a certeza se formar enquanto falava, como se dizer em voz alta ajudasse a entender melhor. — Alguém está marcando o caminho. Para quem não sabe andar por aqui.
 
-Ela não precisava daquelas marcas. Conhecia cada rua ali desde sempre. Quem tinha crescido em Maruva também não precisaria.
+Elis conhecia aquelas ruas desde pequena. Quem precisaria das marcas?
 
-Então quem precisava?
 — Olha essa aqui — Tair disse, parado diante de uma marca numa bifurcação óbvia demais, o tipo de escolha que qualquer morador do bairro faria sem nem pensar. — Ninguém que conhecesse essas ruas ia precisar de marca nesse lugar.
 
 Elis olhou de novo, entendendo o que ele queria dizer. Gente de fora, então. Não necessariamente inimigos. Podiam ser trabalhadores estrangeiros vindos para o Torneio, contrabandistas usando as ruas de Maruva por conveniência, funcionários novos da Balança, gente ligada ao Culto circulando sem querer ser vista. Ainda havia explicações demais para escolher só uma.
@@ -171,7 +169,8 @@ Ele resmungou qualquer coisa entre dentes, mas continuou seguindo.
 
 — Desde que eu era pequena o suficiente para caber em lugares que ninguém mais cabia. — Elis desviou de uma poça sem precisar olhar para baixo. — Ninguém perguntava onde eu estava, contanto que eu voltasse antes de escurecer.
 
-Tair não disse mais nada por um tempo. Ela sentiu, mesmo sem ver o rosto dele no escuro, que aquela resposta tinha pesado mais do que ele esperava.
+Tair não disse mais nada por um tempo.
+
 Emergiram bem além do posto de controle, numa área que Elis reconheceu vagamente como o começo do Anel Médio. O ar ali era mais frio, cortado por um vento que não existia lá embaixo em Maruva, carregando um cheiro diferente, mais limpo e mais distante.
 
 — Está congelando — Tair reclamou baixinho, os braços cruzados contra o próprio corpo. — Acho que já descobrimos o suficiente por hoje.
@@ -185,7 +184,7 @@ Mais adiante, meio escondido pela sombra de uma construção, um homem conversav
 Elis reconheceu o rosto antes mesmo de conseguir situar onde tinha visto aquilo antes. Não sabia o nome. Sabia onde tinha visto: na Balança Azul, alguma vez em que tinha ido buscar Kalan no fim de um turno. Um dos homens que davam ordens para os outros, que Kalan chamava, sem nenhum carinho especial na voz, de chefe.
 O homem entregou alguma coisa pequena ao outro, um papel dobrado ou algo do tamanho de um papel, apontou numa direção específica, disse algo que Elis não conseguiu ouvir de tão longe. O outro assentiu e seguiu para onde tinha sido apontado.
 
-Ela sentiu o próprio corpo tenso, prestando atenção a cada detalhe: a postura de quem coordenava, a familiaridade com que dava instruções, o jeito como olhava ao redor antes de cada frase, como quem estava acostumado a garantir que ninguém mais estivesse ouvindo. Lembrou de Kalan mencionando aquele homem, sempre de passagem, sempre com um misto de respeito e cansaço na voz, o tipo de chefe que ninguém questionava porque questionar dava mais trabalho do que valia a pena.
+Elis lembrou de Kalan mencioná-lo de passagem, sempre com respeito e cansaço na voz.
 
 — Eu já vi ele — sussurrou para Tair, sem tirar os olhos de cima do homem. — Na Balança. Ele mandava em tudo por lá.
 
@@ -193,7 +192,8 @@ Ela sentiu o próprio corpo tenso, prestando atenção a cada detalhe: a postura
 
 — Tenho.
 
-Tair não perguntou mais nada. Só continuou olhando, tão tenso quanto ela.
+Tair continuou olhando.
+
 
 Foi aí que outro homem, um pouco mais adiante, virou a cabeça na direção deles.
 
@@ -262,7 +262,7 @@ Elis lembrou, de repente, com uma clareza incômoda, da frase que tinha ouvido s
 
 — O quê?
 
-— Foi o que um deles disse, da outra vez. Quando perguntaram se aquilo não devia estar em outro depósito. "No registro, está." — Ela olhou para as caixas etiquetadas como coisa comum. — Não importa onde a coisa esteja de verdade. Importa o que o papel diz.
+— Foi o que um deles disse quando perguntaram se aquilo não devia estar em outro depósito: "No registro, está." — Ela olhou para as caixas etiquetadas como coisa comum. — Não sei o que escreveram sobre estas.
 
 Tair não respondeu, mas o jeito como olhou para as caixas mudou completamente.
 Escolheram uma das caixas sem identificação da Balança, uma das maiores, encostada num canto mais escuro. Não precisaram destruir nada: a tampa cedeu com um pouco de força, os pregos já meio soltos de tanto uso.
@@ -302,7 +302,7 @@ Nada daquilo, sozinho, seria impossível de explicar. Juntos, naquele espaço, f
 
 — Isso é para o Torneio? — Tair perguntou, embora a própria voz já soasse convencida do contrário antes mesmo de terminar a pergunta.
 
-— O Torneio já acabou de acontecer lá fora. Não precisa disso aqui.
+— O Torneio já começou. Por que esconderiam isso aqui?
 
 — Então é para outra coisa.
 
@@ -330,7 +330,8 @@ Tair pensou por um instante, tentando reconstruir uma lembrança que claramente 
 
 Tair não teve resposta para aquilo. Ficou olhando ao redor, para as caixas, para os tecidos dobrados, para tudo que não combinava com a ideia de uma casa simplesmente abandonada.
 
-Nenhum dos dois disse o nome que nenhum dos dois conhecia de verdade. A casa continuava sendo, para eles, só a casa vazia. Mas já não parecia a mesma coisa.
+Nenhum dos dois sabia o nome do antigo morador.
+
 Restava uma última caixa, mais comprida que as outras, encostada quase escondida atrás de um monte de sacos vazios. Elis reconheceu o formato antes de tocar nela: era do mesmo tamanho e do mesmo jeito que os objetos embrulhados que tinha visto sendo descarregados ali, semanas antes, na noite em que Karesis a encontrara.
 
 Aproximou a pequena lamparina que tinham trazido, e a luz tremeu contra a tampa por um instante antes de Tair se aproximar também, os dois debruçados sobre a mesma caixa.
@@ -341,10 +342,10 @@ Dentro, embrulhadas no mesmo tecido grosso de antes, havia lanças inteiras, mon
 
 Elis olhou para aquilo por um longo instante, sentindo as peças se encaixarem sem que precisasse pensar em nenhuma palavra específica para o que estava vendo.
 
-Ela tinha visto aquelas formas antes, embrulhadas, carregadas por homens que apressavam o próprio passo pelas ruas escuras de Maruva. Agora, finalmente, sabia o que havia debaixo do pano.
+Reconheceu as formas dos embrulhos que vira os homens descarregarem naquela primeira madrugada.
 
 Olhou para Tair.
 
 Ele olhou de volta.
 
-Nenhum dos dois disse nada. Pela primeira vez desde que tinham saído de casa naquela madrugada, nenhum dos dois quis dar mais um passo adiante.
+Elis e Tair permaneceram imóveis diante da caixa aberta.

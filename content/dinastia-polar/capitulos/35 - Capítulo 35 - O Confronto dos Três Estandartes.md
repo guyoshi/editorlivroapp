@@ -26,7 +26,8 @@ Nareva hesitou um instante antes de completar, escolhendo a frase com o mesmo cu
 
 — Selina não perderia essa final por escolha própria, Dareth. Isso eu sei dizer com certeza.
 
-Não disse mais nada além disso. Não precisava. Aquilo bastou para transformar o incômodo em outra coisa, mais fria, instalada bem no meio do peito, exatamente onde não havia espaço para ela naquele dia.
+Dareth saiu com a mesma pergunta e mais urgência em encontrá-la.
+
 Não havia tempo para investigar.
 
 Um funcionário Braedar já circulava pelo setor Polar, chamando os últimos preparativos, confirmando presença, repetindo horários que ninguém mais precisava ouvir de novo. Dareth olhou uma última vez para o caminho que vinha da Administração, esperando, contra qualquer razão, ver Selina surgir ali, apressada, com alguma explicação simples e irritante para o próprio atraso. Ninguém apareceu.
@@ -36,9 +37,9 @@ Selina era a representante Polar registrada. Sua ausência importava de um jeito
 
 Um funcionário mencionou, sem muita convicção, a possibilidade de uma substituição emergencial de representação. Dareth recusou antes mesmo de ouvir os detalhes.
 
-Não ia adiar o Torneio por causa de uma ausência que provavelmente tinha explicação simples. Não ia usar aquilo como desculpa, e conhecia bem demais a resposta que Selina lhe daria se soubesse que ele tinha pensado nisso por um segundo sequer.
+Não ia adiar o Torneio sem saber o que acontecera a Selina.
 
-Ela apareceria depois, cansada e ocupada como sempre, sem imaginar o tamanho do que tinha deixado por trás de si. Dareth precisava acreditar nisso para conseguir dar o próximo passo.
+Talvez ela ainda aparecesse antes da luta.
 
 Entrou na própria armadura sem mais hesitação.
 Antes de seguir para a arena, o acampamento ofereceu um último panorama de tudo aquilo que tinha se formado ao redor do Altar naqueles dias.
@@ -53,11 +54,10 @@ Saelira Buldar permanecia entre os próprios, controlada, o rosto fechado numa e
 
 Maerys Vendrar, tantas vezes o centro barulhento de qualquer roda naquele acampamento, parecia mais contida do que de costume, ainda capaz de provocar alguém em voz alta, mas com um fundo de atenção que não existia nos dias anteriores.
 
-Saren, o braço ainda preso e tratado depois da luta contra Khalir, apareceu por perto o suficiente para Dareth notar, sem parar para contar história nenhuma a ninguém. Só observava, como todo mundo, o rosto sem a provocação de sempre.
+Saren, o braço ainda tratado depois da luta contra Orven, apareceu por perto. Observava em silêncio.
 
-Um grupo de curadores Lusdar passava carregando material extra na direção da arena, mais do que qualquer combate anterior tinha exigido, como se a própria Administração já esperasse que aquela luta custasse mais caro do que todas as outras juntas. Trabalhadores Braedar reforçavam as últimas amarras das arquibancadas superiores, gritando instruções uns aos outros por cima do burburinho geral. Um Grastar qualquer vendia, sem nenhum pudor, réplicas em miniatura dos três estandartes que restavam na disputa, e já não sobrava quase nenhuma para comprar.
+Curadores Lusdar levavam material extra para a arena. Trabalhadores Braedar reforçavam as amarras das arquibancadas superiores. Um Grastar vendia réplicas dos três estandartes, quase esgotadas.
 
-Eram fragmentos soltos daquele pequeno mundo que tinha existido ao redor do Altar por poucos dias e que deixaria de existir assim que o Torneio terminasse.
 A final começaria no fim da tarde, o sol ainda alto o suficiente para iluminar toda a arena sem sombra nenhuma escondendo qualquer detalhe. Entre a apresentação, os procedimentos, as inspeções finais de equipamento e a duração que ninguém sabia calcular de antemão, a noite chegaria antes do combate terminar. Braseiros e estruturas de iluminação já esperavam, montados ao redor de todo o perímetro, prontos para quando a luz do dia não bastasse mais.
 
 Dareth reparou naquilo enquanto seguia para a área de preparação, e não deu maior importância. Só mais um detalhe entre tantos outros que a Administração já tinha resolvido de antemão.
@@ -78,7 +78,7 @@ Khalir não reagiu a nada disso. Escudo alto, lança curta, o mesmo passo econô
 
 Orven entrou logo depois, o equipamento já familiar para quem tinha acompanhado o Torneio inteiro: espada curta, besta compacta, fio resistente enrolado ao antebraço, o mecanismo de combustão que já tinha aparecido dias antes, dispositivos de fumaça, cargas de impacto previamente aprovadas, proteção modular presa ao corpo. Nada secreto ali. Tudo inspecionado, tudo dentro das regras.
 
-Quando o nome de Dareth foi anunciado, o som da arena mudou de forma outra vez.
+Quando o nome de Dareth foi anunciado, o setor Polar ergueu a voz.
 
 — QUATRO-DEDOS!
 
@@ -136,7 +136,6 @@ Com a luz do dia já enfraquecendo, uma das duas luas começava a aparecer páli
 
 O fogo cortava distâncias, fechava caminhos, obrigava deslocamento, escondia movimento atrás de fumaça, mudava a própria luz que caía sobre os três. Onde antes havia um círculo aberto, agora existia um corredor estreito entre chamas baixas, um espaço que Orven conhecia de cor e os outros dois precisavam decifrar em tempo real. O calor chegava em ondas, mais forte a cada passo que se aproximava demais da linha de fogo, e o cheiro de óleo queimado misturava-se ao suor e ao sangue de um jeito que tornava o ar inteiro mais pesado de respirar. Sombras compridas se projetavam contra a pedra clara da arena, dobrando-se e esticando-se conforme as chamas oscilavam, de modo que por instantes ficava difícil distinguir um corpo real de sua própria sombra deformada.
 
-Aquilo era profundamente Vendrar, do jeito mais simples possível: não a ferramenta em si, mas a disposição de transformar qualquer coisa disponível numa.
 Dareth viu o fogo, e alguma coisa nele reagiu antes de qualquer pensamento consciente se formar.
 
 Não era a primeira vez naquele Torneio. Já tinha visto o mesmo tipo de clarão dias antes, sentido o mesmo calor à distância, sem conseguir nomear o próprio desconforto. Agora o fogo estava mais perto. O cheiro mais forte: óleo queimado, fumaça grossa, madeira imaginária ardendo onde não havia madeira nenhuma.
@@ -146,8 +145,7 @@ Foi rápido, curto demais para interromper a luta de verdade: a propriedade, os 
 
 O cheiro puxou Dareth de volta vinte anos. Tecnologia Vendrar. Combustível. Algum recurso parecido com o que ardia diante dele. Isso não dizia quem incendiara sua casa, nem ligava Orven àquela noite; armas e mecanismos Vendrar circulavam por Jesed havia séculos. Mas a semelhança estava ali.
 
-Não era uma resposta. Era uma porta entreaberta que Dareth nunca soubera nem que existia.
-Orven não percebeu nada daquilo. Não sabia nada sobre uma esposa morta, uma filha de nove ciclos, um incêndio antigo numa propriedade Polar qualquer. Para ele, Dareth só tinha perdido a concentração por um instante, do jeito que qualquer homem cansado perdia num combate daquela duração. Aproveitou.
+Orven viu Dareth perder a concentração e aproveitou.
 
 O golpe veio rápido, e Dareth reagiu tarde. Recebeu o suficiente para o próprio corpo voltar ao presente com violência, a dor cortando qualquer resquício de memória. Não havia tempo para processar vinte anos de passado no meio de uma luta pela própria vida.
 Khalir continuava interferindo, e Orven entendeu, em algum momento, que precisaria removê-lo primeiro se quisesse mesmo vencer. Fazia sentido puramente esportivo, além de qualquer outra coisa: Khalir era o adversário mais difícil de tirar do caminho.
@@ -221,6 +219,7 @@ Dareth não entendeu.
 Alguma coisa parecida com ironia passou pelo rosto de Orven, mesmo ali, mesmo daquele jeito.
 
 — Ainda acha que chegou aqui sozinho?
+
 — Quem? — Dareth perguntou, a própria voz quase tão fraca quanto a dele. — Do que você está falando?
 
 Orven não respondeu. Tentou, talvez, alguma coisa parecida com um riso, que falhou antes de sair.
@@ -230,7 +229,8 @@ Dareth olhou para Khalir.
 
 As peças começaram a se mexer na cabeça dele sem encaixar em lugar nenhum: Karev, deteriorando aos poucos numa luta que não deveria ter perdido daquele jeito. Serka, recuando quando tinha vantagem clara. Orven, na primeira luta contra ele, cometendo um erro pequeno demais para ser natural. Rhevara, afrouxando a própria pressão num instante em que não precisava afrouxar nada. Selina, desaparecida na noite antes da final. E agora Khalir, atacando Orven no instante exato em que Orven decidira matá-lo de verdade.
 
-Não formou teoria nenhuma ali, deitado na areia, sangrando, mal conseguindo respirar fundo. Só sentiu, com uma certeza que não precisava de prova, que alguma coisa naquele Torneio inteiro estava errada.
+Deitado na areia, Dareth ainda não conseguia ligar aqueles episódios. A ausência de Selina tampouco tinha explicação.
+
 Khalir ainda respirava, mal, mas respirava. Tecnicamente, o Confronto dos Três Estandartes não tinha terminado: dois campeões continuavam ativos.
 
 Dareth tentou se levantar. Não conseguiu direito. Khalir também não. A arena inteira, milhares de pessoas de pé, observou por um tempo esquisito demais para medir dois homens quase imóveis ainda tentando, cada um à sua maneira, continuar sendo campeão.
@@ -265,7 +265,7 @@ Não vinha só dos Polar. Alguns Braedar aderiram, batendo palmas no ritmo do pr
 Nem todo mundo comemorava. Os Buldar tinham acabado de perder Khalir, e o próprio setor deles permanecia de pé, quieto, alguns com as mãos ainda apoiadas na grade, sem gritar nada. Os Vendrar tinham perdido Orven, e uma mulher, em algum ponto daquele setor, chorava sem esconder o rosto, cercada por outros que não sabiam ao certo se deviam consolá-la ou guardar o próprio luto em silêncio. Os Quendrar já carregavam Karev desde o dia anterior, e o vazio que Yamara deixara entre eles continuava sendo, para quem soubesse olhar, mais visível do que qualquer bandeira. Setores inteiros permaneciam parados, alguns aplaudindo por puro respeito ao que tinham acabado de testemunhar, sem alegria nenhuma verdadeira por trás do gesto.
 
 Isso, de algum jeito, tornou o som que vinha do setor Polar ainda maior. Não porque fosse mais numeroso do que os outros. Porque era o único, ali, que não precisava disfarçar coisa nenhuma.
-Dareth olhou para os dez estandartes tremulando acima da arena. Décadas de guerra separavam aqueles povos; ainda assim, estavam ali, diante de um único vencedor, e nenhuma guerra nova começara por causa do Torneio. Por um instante, isso bastou. Funcionou.
+Dareth olhou para os dez estandartes acima da arena.
 
 Pensou em Kalan, que nunca veria aquele resultado, e em Elis, que o empurrara de volta para um caminho que ele já tinha decidido abandonar. A lembrança da esposa e da filha veio depois e, pela primeira vez em muito tempo, não terminou no incêndio. Conseguiu imaginá-las vivas: a filha rindo do apelido Quatro-Dedos, a esposa dizendo alguma coisa seca sobre ele ter transformado até a aposentadoria em guerra. Gostaria que estivessem ali.
 

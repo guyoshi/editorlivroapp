@@ -4,13 +4,13 @@ O amanhecer depois da final encontrou o acampamento Polar barulhento de um jeito
 
 Soldados que mal se falavam durante o Torneio agora bebiam juntos, repetindo entre risadas a mesma piada, cada vez maior: tinham sido necessárias nove outras dinastias, um incêndio, uma arena inteira e o sangue de dois campeões para descobrir que ninguém conseguia derrubar um velho Polar de quatro dedos. Alguém imitava o jeito como Khalir erguia o escudo. Outro imitava, sem nenhuma piedade, o sotaque arrastado que atribuía aos Vendrar, e a plateia ao redor ria alto demais para o horário. Uma canção qualquer, improvisada durante a noite, já circulava entre as fogueiras, mudando de letra a cada pessoa que a repetia.
 
-Havia também outra coisa, por baixo de toda aquela zombaria: gente chorando sem vergonha, homens desconhecidos se abraçando só porque usavam o mesmo azul, crianças repetindo "Quatro-Dedos" como se aquelas duas palavras fossem a coisa mais importante que já tinham aprendido a dizer. Famílias que tinham viajado dias inteiros para chegar até ali comemoravam como se a vitória fosse pessoal, e de algum jeito torto talvez fosse mesmo. Apostas antigas se pagavam em voz alta, entre risadas e protestos. Dareth participou de muito pouco daquilo.
+Homens desconhecidos se abraçavam porque usavam o mesmo azul. Crianças repetiam "Quatro-Dedos". Apostas se pagavam entre risadas e protestos. Dareth participou de muito pouco daquilo.
 
 Estava ferido demais para fingir energia que não tinha, e perturbado demais para deixar a comemoração alcançá-lo de verdade. As últimas palavras de Orven continuavam girando, sem se acomodar em lugar nenhum. *Ainda acha que chegou aqui sozinho?*
 
 Deitado, incapaz de dormir direito, começou a reorganizar pequenos instantes do próprio Torneio que na hora não tinham significado nada. Serka recuando cedo demais numa luta que podia ter vencido. Rhevara afrouxando a própria pressão num momento em que apertar mais um pouco teria bastado. Khalir, atacando Orven no instante exato em que Orven decidira matá-lo de verdade. Orven, na primeira luta contra ele, cometendo um erro pequeno demais para ser natural.
 
-Não conseguiu montar nada daquilo numa forma que fizesse sentido completo. Só sentia, cada vez com mais força, que tinha vencido alguma coisa maior do que um torneio, sem entender ainda o tamanho dela. Procurou Selina de novo assim que o corpo permitiu.
+Não sabia ligar aqueles instantes. Procurou Selina assim que o corpo permitiu.
 
 Ninguém sabia de nada novo. As coisas dela continuavam na tenda, no mesmo lugar. Perguntou uma segunda vez, uma terceira. A ausência de Selina ocupava espaço demais naquela manhã para caber ao lado da vitória.
 A notícia chegou a Kaeliran pela rede de sinais antes que a comitiva sequer desmontasse o acampamento. Torres repetiram o código ao longo das rotas abertas; nos trechos sem linha de visão, mensageiros trocaram de tarrak nos postos de revezamento e carregaram a confirmação até o próximo ponto.
@@ -23,14 +23,13 @@ Vetarius prometeu uma comemoração inesquecível, e cumpriu a promessa com a me
 
 Os portões passaram a funcionar em regime extraordinário. Os cais trabalhavam sem pausa, dia e noite, recebendo cargas que normalmente se distribuiriam ao longo de semanas. No baixo Rio Grande, isso significava também reorganizar rampas, amarras e janelas de descarga conforme a posição das duas luas e a subida da água; embarcações mais pesadas tinham horários preferenciais, e uma maré dupla podia alterar em poucas horas quais plataformas continuavam utilizáveis. Naquela semana, até esses turnos foram comprimidos para fazer caber mais carga. Alojamentos inteiros foram reorganizados às pressas para acomodar visitantes que ninguém esperava receber ao mesmo tempo. Armazéns normalmente reservados abriram-se temporariamente. Áreas que a cidade costumava manter fechadas ao público passaram a ter circulação excepcional, autorizada por decreto direto do soberano. As inspeções de identidade e carga foram simplificadas para evitar filas absurdas.
 
-Tudo aquilo parecia, administrativamente, perfeitamente justificável. Nenhum funcionário quebrou regra nenhuma. Ninguém decidiu, sozinho, relaxar coisa alguma por conta própria. O sistema de Kaeliran não falhou naquela semana.
+As exceções tinham vindo por decreto de Vetarius, não por decisão isolada dos funcionários.
 
-Vetarius apenas mandou que ele funcionasse de outro modo.
 A viagem de volta levou dias, e Dareth atravessava agora o próprio território Polar como campeão, não como o homem discreto que tinha saído dali semanas antes.
 
 A rede de sinais continuava correndo à frente deles. Pequenas comunidades já sabiam antes de vê-lo chegar. Gente aparecia nas margens da estrada, alguns com comida, outros com bandeiras costuradas às pressas, crianças tentando contar em voz alta quantos dedos ele tinha na mão esquerda e sempre errando o número. Soldados da própria comitiva já contavam versões cada vez mais absurdas das lutas, cada repetição maior do que a anterior, até Dareth quase não reconhecer o próprio combate na boca dos outros.
 
-A cada parada, sentia com mais clareza que estava virando lenda de novo, e aquilo o incomodava de um jeito que não sabia bem explicar. Tinha voltado à vida pública só para impedir que gente comum pagasse por decisões de gente poderosa. Agora Vetarius transformava exatamente aquilo em prova da própria grandeza Polar, e Dareth não via como impedir que uma coisa virasse a outra sem parecer ingrato diante de milhares de pessoas que só queriam vê-lo passar.
+Em cada parada, os relatos da luta ficavam maiores. Dareth voltara ao Torneio para poupar gente comum de outra guerra; Vetarius anunciava a vitória como prova da primazia Polar.
 
 Continuou perguntando por Selina em cada parada, para cada mensageiro que cruzava seu caminho.
 
@@ -51,14 +50,13 @@ Um homem, no meio da multidão, olhou rápido demais para uma marca pintada na p
 
 Algumas pessoas não pareciam interessadas na festa nenhuma. Elis reconheceu, em pelo menos dois rostos diferentes, o tipo exato de expressão que já vira antes perto dos depósitos que ela e Tair tinham investigado.
 
-Nada daquilo formava resposta nenhuma completa. Era só a mesma sensação de meses antes, voltando com mais força, sem nenhuma explicação nova para acompanhá-la. Trocou um olhar com Tair. Nenhum dos dois disse nada.
-
-Nenhum dos dois precisava.
+Elis trocou um olhar com Tair. Tinham visto armas escondidas na oficina; agora as marcas se espalhavam pelas ruas.
 Entre as provisões que subiam dos cais administrados pela Balança Azul naquela semana, junto de frutas conservadas, especiarias, presentes diplomáticos e barris variados, os últimos carregamentos de vinho para a celebração chegaram a Kaendar numa manhã qualquer, sem destaque nenhum entre o resto da logística.
 
 A Balança movimentava mercadoria pela cidade inteira havia anos. Era absolutamente comum que o vinho de uma festa daquele tamanho passasse pelos próprios cais, junto de tudo mais que Kaeliran precisava para se preparar.
 
-Ninguém comentou nada de diferente sobre aqueles barris específicos.
+Os barris seguiram com os demais para Kaendar.
+
 Dareth retornou a Kaeliran pelo Caminho da Permanência, e a cidade inteira pareceu explodir de uma vez.
 
 Janelas, telhados, praças, pontes, muros: não sobrava superfície nenhuma sem gente. Crianças nos ombros dos próprios pais. Guardas batendo armas contra escudos num ritmo que nenhum comandante precisou ensinar. Bandeiras Polar em toda parte, o azul-profundo escurecido pela umidade e quase imóvel sob o céu carregado daquela tarde.
@@ -69,7 +67,7 @@ Janelas, telhados, praças, pontes, muros: não sobrava superfície nenhuma sem 
 
 — CAMPEÃO!
 
-Aquilo ecoava, de um jeito que Dareth reconheceu de imediato, o som da própria arena na noite em que o Confronto dos Três Estandartes terminara. Lá tinham sido milhares gritando dentro de um espaço fechado. Agora era Kaeliran inteira.
+Dareth ouviu o mesmo coro da arena, desta vez espalhado pelas ruas de Kaeliran.
 
 A cerimônia ocupou a tarde, enquanto o céu baixava sobre as torres e as primeiras tochas ardiam nas praças. Vetarius o recebeu como símbolo vivo da própria vitória, de pé numa plataforma erguida especialmente para aquilo, a Ramagem reforçada para a noite com o dobro de resina, os braços abertos antes mesmo de Dareth se aproximar o suficiente para ouvir qualquer palavra. O Sumo Vigia participou ao lado dele, transformando o retorno numa confirmação espiritual e política ao mesmo tempo: a Raiz sobrevivia, a Raiz prevalecia, e a primazia Polar parecia, mais uma vez, algo inevitável, escrito antes mesmo de acontecer. Nunca, até então, Dareth o vira ocupar um lugar tão alto numa celebração soberana.
 
@@ -102,7 +100,7 @@ Vetarius ouviu tudo aquilo com atenção real, não fingida. Considerou estranho
 
 — Amanhã a gente investiga isso com calma — disse. — Você acabou de sobreviver a dias de combate. É natural tentar encontrar sentido em decisões tomadas em segundos, no meio de uma arena, com metade do próprio corpo já não respondendo direito.
 
-Não tratou Dareth como louco, nem como fraco. Só parecia genuinamente convencido de que existia tempo de sobra para qualquer coisa que precisasse ser resolvida. Então veio Kalan.
+Vetarius falava como se houvesse tempo. Dareth pensou em Kalan.
 
 Dareth não precisou construir grande discurso para chegar até ali.
 
@@ -113,8 +111,6 @@ Vetarius parou.
 — Eu tentei. Enviei a ordem.
 
 — Chegou tarde.
-
-Não houve gritaria nenhuma. Talvez fosse pior assim, sem ela.
 
 Vetarius tentou se justificar, do jeito que sempre fazia quando algo daquele tamanho o alcançava demais de perto: disse que não podia abandonar todo procedimento por causa de um único Nular acusado, que não imaginava que a execução aconteceria tão rápido, que quando finalmente entendeu a dimensão real do problema, já tinha agido o quanto conseguira. Talvez fosse tudo verdade. Continuava significando que Kalan estava morto.
 
@@ -139,9 +135,9 @@ Amaric olhou para ele com a expressão específica de quem já ouvira aquele gar
 
 — Você sempre sabe.
 
-Caeren insistiu, a voz subindo, a frustração de ser ignorado misturando-se com algo mais fundo que ele próprio não soube nomear naquele momento. Talvez fosse justamente aquilo, pela primeira vez em muito tempo, dizer a verdade e sentir o peso exato de não ser ouvido por causa dela.
+Caeren insistiu, a voz subindo. Amaric já tinha voltado a atenção para outra coisa.
 
-Amaric já tinha voltado a atenção para outra coisa quando dois Filhos da Raiz se aproximaram, educados, quase gentis.
+Dois Filhos da Raiz se aproximaram, educados, quase gentis.
 
 — O soberano está ocupado — disse um deles. — O rapaz não deve continuar interrompendo autoridades hoje.
 
@@ -152,7 +148,6 @@ Kerath não participava do jantar.
 
 Uma celebração que reunia representantes das dez dinastias dentro de Kaendar exigia que a Calandrir estivesse em outro lugar, circulando pela segurança externa, não sentada entre taças e discursos. Passou o restante da tarde conferindo acessos, coordenando o posicionamento da Guarda Soberana, resolvendo pequenos problemas criados pelo número absurdo de convidados que nenhuma celebração anterior precisara receber ao mesmo tempo.
 
-Era exatamente onde uma comandante daquele porte deveria estar.
 O salão principal de Kaendar recebeu a celebração no fim da tarde como o centro exato de Jesed que Vetarius sempre quisera provar que Kaeliran podia ser. As lamparinas já estavam acesas, mas pelas janelas altas ainda entrava a claridade cinzenta do lado de fora.
 
 Não parecia reunião secreta nenhuma. Figuras importantes de todas as dinastias ocupavam as mesas mais próximas do centro: Vetarius, Dareth, Amaric, o Sumo Vigia, Alveris, Corvis ao lado dele, os membros mais relevantes do Conselho de Kaeliran, representantes e soberanos estrangeiros, Saelira entre os próprios Buldar, outras lideranças cuja presença fazia todo o sentido depois de um torneio daquele tamanho.
@@ -170,7 +165,6 @@ Falava de projetos. De novas rotas comerciais. De obras que pretendia iniciar as
 
 Amaric participava da conversa com o entusiasmo de sempre. O Conselho relaxava, aos poucos, depois de dias inteiros de tensão acumulada. O Sumo Vigia falava da Raiz, de continuidade, de destino cumprido. Alveris conversava calmamente com quem estivesse próximo, o rosto composto na medida certa de sempre. Saelira permanecia controlada, participando o suficiente para não chamar atenção por excesso nem por falta.
 
-Havia vida ali, muita vida, antes de qualquer outra coisa acontecer.
 Os servidores começaram a trazer o vinho no meio da conversa mais animada, sem destaque nenhum além do necessário. Os jarros da mesa central vinham de um lote reservado para os anfitriões; as delegações recebiam os seus junto às próprias mesas.
 
 — Parte disso chegou hoje de manhã, pelos cais da Balança — comentou alguém, entre um gole e outro, mais preocupado com o próprio copo do que com qualquer outra coisa. — Ainda bem que deu tempo.
@@ -194,7 +188,6 @@ Ergueu a própria taça mais alto.
 
 O salão inteiro levantou as taças ao mesmo tempo. Dareth também, sem beber quase nada. Vetarius bebeu. Amaric bebeu. O Sumo Vigia bebeu. Alveris bebeu. Corvis bebeu. O Conselho inteiro bebeu. Os representantes estrangeiros beberam, um por um, em volta das próprias mesas.
 
-Ninguém percebeu nada de diferente em nenhuma daquelas taças.
 Alveris observou Vetarius beber com uma satisfação discreta, quase invisível para qualquer um que não estivesse prestando atenção exatamente naquele rosto.
 
 Olhou, por menos de um segundo, na direção de Saelira. Ela não fez gesto nenhum de volta. Não precisava.
@@ -229,7 +222,7 @@ Dareth segurou-o, sem saber o que mais fazer com as próprias mãos.
 Não era a primeira vez que via aquele homem depender inteiramente dele para continuar vivo. Vinte anos antes, tinha sustentado sozinho a boca da Passagem de Arven para que Vetarius e os feridos pudessem atravessar. Agora Vetarius dependia dele de novo, do mesmo jeito, precisando da mesma coisa. Desta vez não havia passagem nenhuma para atravessar. Vetarius parou de se mover. O suor da agonia tinha desfeito metade da Ramagem; os fios brancos escorriam pelas têmporas até o cabelo grisalho.
 
 Pelas janelas altas, Dareth ainda via uma faixa de céu cinzento sobre os telhados. O dia não tinha acabado.
-O caos começou a diminuir, aos poucos, porque as pessoas que gritavam começavam a morrer.
+Os gritos rarearam.
 
 Dareth permaneceu de pé, coberto de sangue e vômito alheio, sem entender por que o próprio corpo continuava respondendo quando tantos outros ao redor tinham parado. Olhou em volta.
 

@@ -4,7 +4,7 @@ Sabia que a cidade tinha continuado à sua volta o tempo todo: vozes, portas, o 
 
 A casa parecia menor sem Kalan dentro dela, e ao mesmo tempo maior demais para o silêncio que sobrava.
 
-Karesis estava sentado perto da porta, os cotovelos nos joelhos, num jeito que Elis nunca tinha visto nele antes, nem a máscara de bêbado inútil que ele costumava usar em público, nem a atenção afiada que ela tinha visto brevemente no dia da execução, quando ele quase conseguira impedir tudo. Só um homem cansado, esperando. Tair estava encostado na parede oposta, os olhos vermelhos e secos agora, o tipo de exaustão que vem depois de chorar demais para continuar chorando. Orel ficava olhando, de vez em quando, para a escada: o mesmo gesto de sempre, o corpo esperando o som de passos que Elis sabia, com um aperto no peito, que não viriam mais.
+Karesis estava sentado perto da porta, os cotovelos nos joelhos, sem a máscara de bêbado inútil que Elis conhecia em público. Só um homem cansado, esperando. Tair estava encostado na parede oposta, os olhos vermelhos e secos. Orel olhava de vez em quando para a escada, à espera de passos que não viriam mais.
 
 O canto onde Kalan costumava deixar as botas estava vazio. Ninguém tinha mexido nele.
 
@@ -20,7 +20,10 @@ Elis já sabia disso, de um jeito vago, do tipo de coisa que qualquer pessoa que
 
 — Eu vou enterrá-lo — Karesis continuou. — Eu mesmo.
 
-Ninguém discutiu. Não havia mais nada para discutir. Elis só assentiu, devagar, e foi se sentar num canto qualquer daquela sala que já não parecia mais a mesma casa.
+Ninguém discutiu. Elis só assentiu, devagar, e foi se sentar num canto da sala.
+
+*
+
 Acordaram ainda no escuro.
 
 As duas luas ainda resistiam no céu, pálidas diante do amanhecer que se aproximava. A maior já descia atrás dos telhados; a menor permanecia mais alta, e as duas luzes fracas davam às torres, chaminés e passarelas uma segunda borda de sombra, como se a cidade estivesse ligeiramente deslocada de si mesma.
@@ -32,6 +35,7 @@ As ruas estavam vazias de um jeito que parecia quase errado. Algumas lamparinas 
 O som dos próprios passos parecia maior do que o normal, ecoando entre as construções silenciosas. Elis achou aquilo estranho de um jeito que não sabia nomear: horas antes, uma multidão inteira tinha se apertado num pátio só para ver Kalan morrer. Milhares de pessoas, gente que nunca tinha ouvido o nome dele antes daquele dia, tinham parado tudo para assistir. Agora quase todo mundo dormia, como se nada daquilo tivesse acontecido, como se a cidade inteira tivesse decidido, coletivamente, seguir em frente enquanto os únicos que realmente perderam alguma coisa caminhavam sozinhos pelas ruas vazias.
 
 Ninguém além deles parecia lembrar.
+
 Os guardas da Raiz já estavam esperando quando chegaram ao ponto combinado, o corpo de Kalan preparado sobre uma padiola simples, envolto em tecido, sem nenhuma exposição que pudesse chocar quem olhasse. Não havia crueldade no jeito como os guardas se moviam: cumprimentaram a família com um aceno curto, ergueram a padiola com o cuidado profissional de quem já tinha feito aquilo antes, e começaram a andar.
 
 Era pior, de certo modo, exatamente por isso. Não havia nada pessoal ali. Para aqueles guardas, era só mais um procedimento, mais um corpo Nular a ser retirado das muralhas antes que o dia começasse de verdade, um trabalho como qualquer outro, encaixado entre outras tarefas da manhã.
@@ -41,6 +45,7 @@ Tair olhava para eles com uma raiva que não tentava esconder. Um dos guardas pe
 Orel se mantinha o mais perto que conseguia da padiola, ajustando o passo sempre que os guardas mudavam de ritmo, como se precisasse garantir, a cada segundo, que Kalan ainda estava ali, ainda coberto, ainda com ele.
 
 Elis quase não falou durante todo o caminho. Sentia as próprias palavras presas em algum lugar fundo demais para alcançar.
+
 O acesso terrestre para a Cidade Exterior funcionava exatamente como sempre funcionara, e Elis, apesar de tudo, achou estranho ver aquilo continuar tão normal.
 
 Guardas dos dois lados do portão. Um funcionário verificando registros à luz de uma lamparina pendurada, conferindo nomes contra uma lista, perguntando destino e motivo antes de liberar a passagem. Uma carroça de mercadores madrugadores esperava na fila à frente deles, sendo inspecionada com um cuidado quase entediado: um guarda batendo de leve nas laterais, verificando o conteúdo, comparando com a autorização apresentada. Identidades confirmadas, uma a uma. O portão se abria só o suficiente para deixar passar quem tinha permissão, e fechava de novo assim que a passagem terminava.
@@ -65,6 +70,7 @@ Nunca tinha visto a cidade assim, de fora, de longe, o suficiente para que ela c
 A luz nascia do lado leste, atrás da cidade, e por isso Kaeliran aparecia diante deles como uma sombra imensa recortada contra o amanhecer: primeiro só uma linha mais clara no horizonte, depois o contorno dos telhados, depois as torres mais altas, cada detalhe ganhando forma aos poucos enquanto o sol ainda não tinha decidido de fato aparecer.
 
 Era bonito, de um jeito que Elis não queria que fosse bonito. Estava caminhando para enterrar o próprio irmão porque aquela mesma cidade tinha decidido que ele não merecia nem um pedaço de terra dentro dos próprios limites, e mesmo assim não conseguia deixar de olhar para trás, de novo e de novo, vendo Kaeliran crescer contra o céu como se a cidade quisesse lembrá-la, a cada passo, do tamanho da coisa que os tinha condenado.
+
 Os guardas pararam num trecho de terreno aberto, cercado de vegetação baixa e algumas árvores maiores espalhadas mais além, e colocaram a padiola no chão com o mesmo cuidado profissional de antes.
 
 — Daqui em diante está sob responsabilidade dele — disse um dos guardas, indicando Karesis com um aceno de cabeça.
@@ -74,6 +80,7 @@ E foram embora, sem mais nenhuma palavra, as figuras deles diminuindo de volta n
 Tair os acompanhou com os olhos até desaparecerem por completo. Não disse nada: não havia mais nada para dizer a eles, e talvez também não houvesse mais energia sobrando para raiva nova.
 
 Depois sobrou só a família. E Kalan, deitado sobre a padiola, o tecido branco já começando a pegar a primeira luz cinzenta da manhã.
+
 Karesis não começou a cavar imediatamente.
 
 Andou, primeiro, olhando ao redor com uma atenção que Elis não conseguia decifrar. Passou perto de uma árvore, deu alguns passos, olhou para outra mais além. Continuou andando, os olhos subindo pelas copas, descendo pelos troncos, virando de vez em quando na direção da muralha, como se estivesse medindo alguma coisa contra a distância que os separava dela.
@@ -93,6 +100,7 @@ Karesis ficou parado diante dela por um momento mais longo do que parecia necess
 — Aqui — disse, por fim.
 
 Não explicou por quê. Elis quis perguntar, mas alguma coisa no rosto dele, uma quietude estranha, quase reverente, a fez desistir da pergunta antes mesmo de formulá-la.
+
 Karesis começou a cavar.
 
 Tair, depois de observar por um instante, pegou uma das ferramentas que os guardas tinham deixado e se ajoelhou ao lado dele, cavando também. No começo com força demais, os golpes rápidos e ásperos, como se ainda restasse raiva suficiente para descarregar contra a própria terra. Depois, aos poucos, o ritmo foi cedendo, o cansaço tomando o lugar da fúria, até que ele continuava cavando só porque parar parecia impossível de fazer ali, na frente de todos.
@@ -118,6 +126,7 @@ Enquanto a sepultura ia sendo fechada, devagar, pá após pá, o sol finalmente 
 Kalan desapareceu sob a terra.
 
 A cidade, atrás deles, ficava cada vez mais clara.
+
 Foi quando terminavam, ou quase terminavam, que ouviram o som de um tarrak se aproximando.
 
 Elis reconheceu Dareth antes mesmo de conseguir ver o rosto dele com clareza, só pelo jeito como se sentava no animal, ereto demais para alguém cansado, cansado demais para alguém que ainda se sentava ereto. Estava vestido para viagem: roupas simples, resistentes, sem nenhum dos adereços que qualquer campeão de torneio usaria. Carregava pouca bagagem, presa atrás da sela, o suficiente para uma jornada e nada mais.
@@ -155,7 +164,7 @@ Ele demorou para responder. Não porque estivesse procurando uma mentira mais co
 
 — Não.
 
-Aquilo bastava para ela, pelo menos por enquanto. Não era a resposta completa que um dia ela precisaria (a fraude de Alveris, o papel do Culto, tudo o que ainda estava por descobrir), mas era o suficiente para aquele momento específico, diante daquela terra recém-revirada.
+Elis olhou para a terra recém-revirada. Por enquanto, aquela era a resposta que Dareth podia lhe dar.
 — Eu não vou lutar no Torneio — Dareth disse, depois de um silêncio. — Não vou levantar espada por Vetarius.
 
 Elis não tentou defendê-lo. Não defendeu Vetarius, nem Kaeliran, nem o Torneio, nem nada daquilo que representava a cidade que os tinha empurrado até ali, cavando um buraco fora das próprias muralhas.
@@ -180,7 +189,7 @@ Silêncio.
 
 — Normalmente não — Dareth admitiu, por fim.
 
-Elis olhou de novo para o túmulo. A lógica dela, naquele momento, era simples e definitiva: os homens que escolhiam a guerra raramente eram os homens que morriam nela. Kalan tinha morrido por decisões que nunca tivera poder nenhum de tomar. Se Dareth desistisse do Torneio agora, talvez fosse só mais um daqueles casos: mais gente pequena pagando pela recusa de alguém grande.
+Elis olhou de novo para o túmulo. Kalan morrera por decisões que nunca tivera poder de tomar. Se Dareth desistisse do Torneio, quem pagaria pela guerra seguinte?
 — Então não luta por ele — disse, finalmente, quando Dareth terminou de explicar.
 
 Ele a olhou, e alguma coisa pareceu se mexer no rosto dele, não surpresa exatamente, mais parecido com reconhecimento.
@@ -191,7 +200,7 @@ Elis pensou em Maruva.
 
 — Começaram depois que eu parei — Dareth respondeu.
 
-Ela lembrou. Tinha sido logo depois que ele descera do próprio tarrak e impedira que os Filhos da Raiz a levassem, naquele dia que já parecia distante demais para ter acontecido na mesma vida. Vetarius tinha nomeado Dareth campeão dos Polar. Mas fora Maruva, fora gente como ela, gente comum, gente sem nenhum poder de decidir nada, quem realmente escolhera Dareth, muito antes de qualquer nomeação oficial.
+Ela lembrou. Vetarius tinha nomeado Dareth campeão dos Polar; depois que ele impedira que os Filhos da Raiz a levassem, fora Maruva que gritara seu nome sem ninguém conduzir o coro.
 — Você quer que eu represente uma cidade que matou seu irmão? — Dareth perguntou, depois de um silêncio.
 
 — Não — Elis respondeu, sem hesitar.
@@ -200,19 +209,16 @@ Olhou de novo para o túmulo antes de continuar.
 
 — Quero que impeça ela de matar mais gente.
 
-Era só isso. Não estava perdoando Kaeliran, não sentia nada parecido com perdão, e sabia que não sentiria por muito tempo, talvez nunca. Não estava transformando Kalan em mártir de causa nenhuma, nem fingindo saber o que ele teria pensado sobre tudo aquilo. A única coisa que sabia, com uma certeza que doía de tão simples, era que alguém precisava impedir que mais pessoas como o irmão dela pagassem por decisões tomadas por gente que nunca sentiria o próprio peso delas.
 — Você chegou tarde pro Kalan — Elis disse, depois de um momento.
 
 Dareth não se defendeu. Só ficou parado, absorvendo a frase como quem sabia que merecia recebê-la sem resposta.
 
 — Mas veio — Elis acrescentou.
 
-Não era perdão. Era só um fato, colocado ao lado do outro. Muita gente tinha prometido coisas àquela família ao longo dos últimos dias: promessas de proteção, de justiça, de tempo suficiente. E a maioria delas tinha se desfeito no meio do caminho. Dareth tinha tentado. Tinha falhado. Mas continuava sendo, até ali, um dos poucos que realmente tentara alguma coisa, e depois disso ainda encontrara tempo para atravessar meia manhã até um túmulo fora das muralhas só para se despedir.
 
-Talvez, da próxima vez, ainda houvesse tempo de verdade. Elis não disse isso em voz alta. Não precisava.
 Durante toda a conversa, Karesis não interferiu nenhuma vez.
 
-Não tentou empurrar Dareth de volta para o Torneio, não usou nenhum argumento estratégico, nenhuma menção a coisas que só ele parecia saber sobre o futuro daquela cidade. Só continuou ali, ajudando Tair a alisar a terra recém-revirada, ajeitando uma ferramenta, entregando a Orel um pano que tinha caído no chão. Parou, por um instante, quando Dareth mencionou que estava de partida: um instante curto, quase imperceptível, o corpo dele ficando rígido por meio segundo antes de voltar ao movimento de antes.
+Continuou ajudando Tair a alisar a terra recém-revirada, ajeitando uma ferramenta, entregando a Orel um pano que tinha caído no chão. Quando Dareth mencionou que estava de partida, Karesis parou por um instante antes de voltar ao trabalho.
 
 Ninguém mais pareceu notar. Para todos ali, ele continuava sendo só um homem culpado e exausto, terminando de enterrar alguém que devia ter protegido.
 Dareth montou de volta no tarrak.

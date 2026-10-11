@@ -50,7 +50,8 @@ Ele se levantou, guardando o livro sob a capa.
 
 — Vou te mostrar uma coisa.
 
-A resposta conseguiu fazer o sono desaparecer por completo.
+A resposta acabou com o sono de Elis.
+
 Maruva ainda estava reduzida ao mínimo essencial quando os dois saíram.
 
 Fornos começavam a esquentar em algumas casas, o cheiro de brasa misturando-se ao ar frio da madrugada. Alguém puxava água de um poço comum. Um trabalhador voltava de turno arrastando os pés. Pequenos animais fuçavam restos perto das portas e desapareciam quando ouviam passos.
@@ -59,7 +60,7 @@ Karesis seguia sem explicar para onde iam. Elis tentou perguntar duas vezes. Na 
 
 — Você queria saber se existiram.
 
-Aquilo foi suficiente para fazê-la andar mais depressa. Foi numa rua secundária que Elis percebeu uma pequena carroça avançando devagar, acompanhada por três ou quatro homens a pé. Parou.
+Elis andou mais depressa. Numa rua secundária, viu uma pequena carroça avançar devagar, acompanhada por três ou quatro homens a pé. Parou.
 
 Reconheceu a faixa de identificação costurada nos coletes, o jeito como a carga estava amarrada e a pequena marca pintada no canto de uma das caixas. Coisas que aprendera a notar por causa de Kalan sem nunca ter pedido para aprender. Homens da Balança Azul.
 
@@ -75,7 +76,7 @@ Os homens pararam diante de uma construção antiga, talvez uma oficina fechada 
 
 — No registro, está — respondeu outro.
 
-O primeiro pareceu satisfeito. Elis não. Uma coisa podia estar fisicamente num lugar e existir em outro só porque algum papel dizia que sim. Guardou a frase inteira.
+O primeiro pareceu satisfeito. Elis olhou da carga para a porta da oficina: no registro, aquelas caixas estavam em outro lugar.
 
 Perto da soleira havia uma pequena marca gravada na pedra, algumas linhas simples que davam a sensação irritante de já terem cruzado o caminho dela antes. Elis deu um passo para enxergar melhor. Karesis segurou seu ombro antes que avançasse demais. Um dos trabalhadores voltou à rua.
 
@@ -98,6 +99,7 @@ Karesis olhou para a porta, depois para o livro escondido sob a própria capa.
 — Porque você fez outra pergunta primeiro.
 
 Elis ainda olhou para a marca mais uma vez antes de segui-lo.
+
 Karesis a levou até uma entrada subterrânea que ela já conhecia bem, e Elis relaxou um pouco ao reconhecer o traçado dos primeiros túneis.
 
 — Se virar aqui, chega perto de Nerya — disse, quase automaticamente, apontando uma bifurcação lateral. — Essa termina em água. Essa sobe em Vardeno.
@@ -121,8 +123,7 @@ Ela correu dois passos para alcançá-lo.
 
 — Já.
 
-A resposta bastou para mudar a maneira como Elis começou a observá-lo.
-A partir dali, o mapa que carregava na cabeça deixou de servir para qualquer coisa.
+A partir dali, o mapa que Elis carregava na cabeça deixou de servir.
 
 Os túneis foram ficando mais antigos, mais estreitos, mais úmidos. Havia trechos de pedra cortada convivendo com tijolo mais recente, drenos secos abandonados havia sabe-se lá quanto tempo, raízes atravessando o teto e um trecho parcialmente desabado que precisaram contornar.
 
@@ -162,7 +163,7 @@ Ele tornou a andar.
 
 Dessa vez ele não respondeu.
 
-Elis foi atrás, mas agora entendia pelo menos a metade que antes não existia: Karesis passara muito tempo procurando alguma coisa sob Kaeliran. E, fosse o que fosse, já tinha encontrado.
+Elis foi atrás. Karesis passara muito tempo procurando aquela passagem sob Kaeliran.
 
 A pequena câmara apareceu depois de outra curva. Uma estrutura circular de pedra ocupava parte da parede, rachada quase ao meio. Podia ter pertencido a algum mecanismo antigo ligado à água; Elis não fazia ideia.
 
@@ -218,7 +219,7 @@ Karesis soltou as raízes que tinha afastado. A abertura tornou a parecer inúti
 
 Elis olhou outra vez para as muralhas.
 
-Era a primeira vez na vida que saía de Kaeliran sem portão, registro, guarda ou autorização. E, de algum jeito, isso parecia quase mais impossível do que o túnel que tinha acabado de atravessar.
+Era a primeira vez que saía de Kaeliran sem portão, registro, guarda ou autorização. Olhou de novo para a fissura escondida.
 
 Karesis tinha deixado um tarrak escondido ali perto, entre as árvores. Era velho, com cicatrizes visíveis pelo corpo e uma orelha claramente danificada, o arreio remendado em mais de um ponto. Nada nele lembrava um animal nobre ou de uso militar.
 
@@ -234,14 +235,13 @@ Ela desconfiou, mas não insistiu.
 
 — Sobe — ele disse.
 
-Elis hesitou, nunca tinha montado sozinha em nada parecido, e Karesis a ajudou antes de subir também, atrás dela.
+Elis hesitou. Nunca tinha montado sozinha num tarrak. Karesis a ajudou e subiu atrás dela.
+
 Contornaram Kaeliran pelo exterior, primeiro seguindo para o sul, depois virando gradualmente para leste.
 
 Elis via a cidade de ângulos que jamais tinha conhecido: as muralhas inteiras, os diferentes níveis se sobrepondo uns aos outros, as torres, Kaendar coroando tudo lá no alto. Tentou localizar Maruva em meio ao aglomerado de telhados e não conseguiu, e aquilo, de um jeito estranho, a impressionou mais do que qualquer outra coisa até ali.
 
-Por dentro, Kaeliran sempre tinha parecido o mundo inteiro para ela. De fora, era só uma cidade enorme, ocupando uma fatia do horizonte: grande, sem dúvida, mas finita, com bordas visíveis, cercada por um mundo que continuava para além dela.
-
-Não havia nada ameaçador naquela sensação. Só novidade.
+Por dentro, Kaeliran sempre tinha parecido o mundo inteiro. De fora, ocupava apenas uma fatia do horizonte, com bordas que Elis podia ver.
 
 O tarrak seguia devagar o bastante para que o silêncio entre Elis e Karesis durasse muito tempo sem parecer vazio. Foi olhando Kaeliran diminuir atrás deles que Elis pensou em Ladira.
 
@@ -403,8 +403,6 @@ Elis sentiu a garganta apertar.
 
 — Foi uma das razões.
 
-A resposta irritou e confortou ao mesmo tempo.
-
 — Você podia ter ficado mais em casa.
 
 — Podia.
@@ -481,8 +479,6 @@ Karesis manteve os olhos na estrada.
 
 — Não precisa se acostumar rápido.
 
-Era pouco. Talvez por isso Elis acreditasse.
-
 Depois de algum tempo, ela olhou para as botas molhadas de Karesis, para a corda presa ao cinto e para a cidade ficando menor atrás deles.
 
 — Então quando você sumia... parte era por causa dos túneis.
@@ -508,6 +504,7 @@ Ela quase sorriu outra vez.
 Seguiram pela rota que passava pela Garganta de Kaendar, avançando na direção de Mirval. A estrada foi piorando aos poucos: menos construções, menos gente, mais vegetação tomando espaço. Karesis parecia conhecer o caminho geral, mesmo sem dominar cada detalhe do terreno, e o velho tarrak não permitia nenhuma pressa.
 
 A viagem levou horas.
+
 Já perto de Mirval, pararam para descansar. Karesis deixou o animal beber de um riacho estreito e entregou água a Elis, que bebeu bastante, as pernas doloridas do tempo montada.
 
 — Karesis.
@@ -531,11 +528,13 @@ Isso despertou o interesse dela imediatamente.
 Karesis montou de volta no tarrak.
 
 — Você já ouviu.
+
 Entraram na floresta pouco depois, e a mudança foi imediata, quase física.
 
 Kaeliran era pedra, gente, fumaça, ruído, ruas apertadas entre paredes altas. Mirval era árvores enormes, umidade pesada no ar, raízes grossas cruzando o chão, insetos zumbindo em algum lugar invisível, sons sem origem clara ecoando entre os troncos, espaço demais para os olhos processarem de uma vez.
 
-Elis falou bastante no início, comentando cada coisa nova que via. Aos poucos, foi ficando mais quieta. A floresta parecia exigir aquilo: atenção, não conversa.
+Elis comentou cada coisa nova que via. Aos poucos, ficou quieta para ouvir os sons entre as árvores.
+
 Numa clareira pequena, Karesis apontou para uma elevação coberta de árvores particularmente antigas.
 
 — Já houve gente vivendo por aqui — disse.
@@ -550,10 +549,12 @@ Elis procurou casas com os olhos. Não encontrou nenhuma. Só, mais adiante, uma
 
 — Com tempo suficiente, quase sempre parece que foram todos.
 
-Não explicou mais nada, e Elis não insistiu, guardando a resposta como mais uma daquelas coisas estranhas que Karesis dizia sem se importar se ela entendia por completo.
+Karesis não explicou mais nada, e Elis não insistiu.
+
 Viram criaturas pelo caminho. Nas copas mais altas, algo se movia com braços compridos demais, soltando um som gutural baixo enquanto observava o tarrak passar por baixo; Karesis evitou deliberadamente parar embaixo daquelas árvores. Mais adiante, um dorvek revirava raízes à procura de alguma coisa e fugiu assim que percebeu a aproximação deles. Pequenos animais cruzavam entre as folhas o tempo todo, aves invisíveis cantando de galho em galho.
 
-Mirval parecia viva de um jeito que nada em Kaeliran parecia: não um corredor perigoso, mas um lugar inteiro, cheio de coisas vivendo a própria vida sem se importar com quem passava.
+Elis procurava entre as árvores cada som que não conseguia reconhecer.
+
 Em determinado ponto, tudo ficou silencioso de repente. As aves pararam. O tarrak ergueu a cabeça, as orelhas viradas para trás.
 
 Então veio o rugido, distante, grave, longo o suficiente para parecer maior do que qualquer animal que Elis já tivesse imaginado. Ficou imóvel.
@@ -568,7 +569,8 @@ Karesis escutou por um instante.
 
 — E eu disse a parte importante.
 
-Ele apertou o passo do tarrak, sem mais explicação, e Elis decidiu, por enquanto, que aquilo bastava.
+Ele apertou o passo do tarrak. Elis não voltou a perguntar.
+
 Horas depois, pedras começaram a aparecer entre as raízes: no início, nada que chamasse atenção, só formações que pareciam naturais. Até que uma teve um ângulo perfeito demais para ser coincidência. Depois outra. Uma curva regular demais. Uma superfície lisa. Uma pedra com um desenho gravado. Elis pediu para parar.
 
 Desceu do tarrak e passou os dedos por uma espiral quase apagada, entalhada na pedra.
@@ -576,11 +578,13 @@ Desceu do tarrak e passou os dedos por uma espiral quase apagada, entalhada na p
 — Isso não é natural — disse.
 
 Karesis desmontou também, sem discordar.
+
 Avançaram a pé a partir dali. Não havia cidade reconhecível: mais de mil ciclos tinham se passado, e quase tudo tinha desaparecido sob a floresta. Restavam blocos enormes de pedra espalhados em ângulos impossíveis, trechos de piso ainda visíveis entre as raízes, parte do que parecia ter sido uma escadaria, paredes baixas cobertas de musgo, bases circulares cuja função Elis não conseguia adivinhar, fragmentos de cerâmica e vidro meio enterrados, gravuras profundas ainda legíveis em alguns pontos.
 
-A floresta tinha crescido por cima de tudo, raízes atravessando paredes inteiras, árvores nascendo diretamente do que um dia tinha sido chão liso. Algumas pedras enormes pareciam ter caído de uma altura tremenda e se enterrado fundo ao atingir o solo.
+Raízes atravessavam paredes; árvores nasciam do que um dia tinha sido chão liso. Algumas pedras enormes pareciam ter caído de grande altura e se enterrado no solo.
+
 Elis foi encontrando pedaços que despertavam nela uma sensação estranha de reconhecimento sem memória: uma espiral entalhada, três linhas partindo de um mesmo centro numa pedra plana, um fragmento de vidro azulado quase intacto, um encaixe circular vazio onde alguma peça certamente tinha existido, parte de uma coluna com curvas que não pareciam parecidas com nada que já tivesse visto. Entre duas pedras tombadas, encontrou um pequeno sino esverdeado pelo tempo, quase inteiro enterrado em terra. Mais adiante, duas bases estreitas terminavam uma diante da outra sem nada entre elas, como se algum dia uma ponte tivesse ligado partes que agora repousavam no mesmo chão. Raízes grossas atravessavam paredes e encaixes antigos de um jeito que tornava difícil saber onde terminava a floresta e onde começava a construção.
-Karesis andava mais devagar ali dentro do que em qualquer outro momento da viagem. Parava sem razão evidente, olhando para espaços vazios entre as árvores como se enxergasse alguma coisa que já não estava mais lá. Tocou uma das pedras com a palma da mão. Num certo ponto, ficou olhando para o fragmento de vidro azulado por tempo demais.
+Karesis andava mais devagar ali. Parava diante dos espaços vazios entre as árvores. Tocou uma das pedras com a palma da mão e demorou os olhos no fragmento de vidro azulado.
 
 Elis percebeu.
 
@@ -588,7 +592,8 @@ Elis percebeu.
 
 — Não desse jeito — Karesis respondeu.
 
-Ela não entendeu completamente o que aquilo queria dizer. Não insistiu.
+Ela não entendeu o que aquilo queria dizer. Não insistiu.
+
 — Que lugar é esse? — perguntou, por fim.
 
 — Lembra dos meninos do vento? — Karesis disse, em vez de responder diretamente.
@@ -615,16 +620,13 @@ Karesis não respondeu.
 
 — Então era verdade?
 
-Nada. O silêncio dele já era resposta suficiente.
-A partir dali, a atitude de Elis mudou por completo. Queria ver tudo, tocar tudo, entender tudo de uma vez.
+Karesis não respondeu. Elis correu os olhos pelas pedras e começou a fazer perguntas.
 
 — Como eles ficaram no céu? Quanto alto? Como as pedras chegaram até aqui? Tinha gente dentro? Quanto tempo faz?
 
 Karesis respondia pouco. Quando não sabia, ou não queria responder, dizia apenas:
 
 — Não sei.
-
-Isso, de algum jeito, tornava tudo mais real para ela: ele não parecia guardar todas as respostas prontas, só fragmentos, do jeito que qualquer pessoa guardaria fragmentos de uma história ouvida havia muito tempo.
 
 — Então suas histórias são histórias de verdade — Elis concluiu.
 
@@ -633,6 +635,7 @@ Isso, de algum jeito, tornava tudo mais real para ela: ele não parecia guardar 
 — Isso continua não significando nada.
 
 Ele deu um pequeno sorriso, o primeiro daquele dia inteiro.
+
 Numa pedra tombada, protegida da chuva pelo próprio peso, Elis encontrou uma gravura profunda mostrando figuras humanas, várias delas, partindo todas de um mesmo ponto central.
 
 — Eles eram Polar? — perguntou.
@@ -690,6 +693,7 @@ Elis olhou de novo para a gravura.
 Karesis deu de ombros.
 
 — É só velho.
+
 Depois de um tempo caminhando entre as ruínas em silêncio, Elis perguntou:
 
 — Por que eu?
@@ -712,8 +716,6 @@ Karesis pensou por um momento.
 
 — Você procura.
 
-Elis guardou aquilo com um cuidado que não soube explicar.
-
 — Mas por que agora? — perguntou.
 
 Karesis olhou para as ruínas ao redor.
@@ -727,6 +729,7 @@ Elis acompanhou o olhar dele pelas pedras.
 — Tá vendo.
 
 Foi só isso. Elis não pediu mais nada.
+
 — Então os meninos do vento acabaram — disse, enquanto começavam a voltar na direção do tarrak. Karesis olhou para as ruínas antes de responder.
 
 — A cidade deles acabou.
@@ -741,7 +744,8 @@ Ela esperou que ele explicasse.
 
 Elis ficou em silêncio enquanto voltavam. Antes de entrarem de novo no túnel, olhou uma última vez para Kaeliran, do lado de fora, a luz da tarde mudando de cor sobre as muralhas distantes.
 
-Dessa vez, era bom voltar. Sentia falta de Tair, de Orel, do barulho comum da casa. Queria contar alguma coisa do que tinha visto, sem saber exatamente quanto podia contar.
+Dessa vez, queria voltar. Sentia falta de Tair, de Orel, do barulho comum da casa. Não sabia quanto podia contar do que tinha visto.
+
 — Não fala desse caminho — Karesis disse, antes de entrarem.
 
 — Pra ninguém? — Elis perguntou.
@@ -763,7 +767,9 @@ Karesis pensou por um instante.
 — Porque se muita gente conhece um segredo, vira rua.
 
 Elis prometeu.
-Na volta pelos túneis, Elis prestou muito mais atenção do que na ida: a roda quebrada, a passagem estreita, o desnível de terra, o trecho úmido, a bifurcação onde Karesis tinha hesitado. Não decidiu memorizar a rota. Tocava as paredes, contava as curvas, reparava no ar mudando de cheiro a cada trecho.
+
+Na volta pelos túneis, Elis prestou mais atenção do que na ida: a roda quebrada, a passagem estreita, o desnível de terra, o trecho úmido. Tocava as paredes, contava as curvas, reparava no ar mudando de cheiro a cada trecho.
+
 Já estava quase escuro quando chegaram em casa. Tair esperava furioso, ou talvez só assustado demais para conseguir separar as duas coisas: Elis tinha desaparecido por horas sem explicação nenhuma, e parte da raiva dele recaiu diretamente sobre Karesis. Elis mentiu mal.
 
 — A gente saiu.
@@ -773,10 +779,9 @@ Já estava quase escuro quando chegaram em casa. Tair esperava furioso, ou talve
 Orel se aproximou, farejando alguma coisa diferente nela: folhas, lama, um cheiro de floresta que não pertencia a nenhum lugar dentro de Kaeliran. Tocou a manga da roupa dela, curioso, sem entender. Elis olhou para Karesis, esperando alguma ajuda.
 
 Ele não ofereceu nenhuma.
+
 Mais tarde, sozinha, deitada no mesmo lugar onde não tinha conseguido dormir na noite anterior, Elis percebeu que a viagem inteira não tinha apagado nada do que vira no começo daquela madrugada.
 
-Lembrava dos homens da Balança. Da carga estranha. Da frase que tinha ouvido: "no registro, já está lá." Da marca gravada na pedra da soleira.
+Lembrava dos homens da Balança. Da carga estranha. Da frase que tinha ouvido: "No registro, está." Da marca gravada na pedra da soleira.
 
-Agora carregava duas perguntas completamente diferentes, cada uma puxando para um lado: o que a Balança Azul estava fazendo em Maruva, escondida em plena noite, e quanto do mundo que ela sempre tinha considerado natural, sólido, definitivo, existia apenas porque alguém, em algum momento distante, tinha decidido escrever daquele jeito.
-
-Ficou olhando para o teto por muito tempo, sem nenhuma resposta pronta para nenhuma das duas.
+O que a Balança Azul escondia em Maruva? E quem decidira os nomes dos povos daquelas ruínas? Elis ficou olhando para o teto por muito tempo.
