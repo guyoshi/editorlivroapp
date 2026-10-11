@@ -1,6 +1,6 @@
 A casa estava escura quando Selina chegou, exceto por uma única lamparina acesa na sala principal.
 
-Ela não lembrava do caminho até ali. Lembrava do Pátio, das flechas, do peso de Elis contra o próprio corpo antes de a menina se soltar e desaparecer entre a multidão; lembrava da sala de preparo, do cheiro de erva e água fria, das mãos calejadas de Kalan sobre a pedra; lembrava de Tair gritando "seu bêbado filho de gabal" e do silêncio que Karesis não quebrou; lembrava do Sumo Vigia dizendo que a Raiz não precisava que a dor de ninguém desaparecesse para continuar existindo. Não lembrava de ter atravessado metade de Kaendar para chegar em casa. O corpo tinha feito isso sozinho, enquanto a cabeça continuava presa no Pátio.
+Ela não lembrava do caminho até ali. Lembrava do Pátio, das flechas, do peso de Elis contra o próprio corpo antes de a menina desaparecer entre a multidão. Lembrava das mãos de Kalan sobre a mesa de pedra e da voz do Sumo Vigia na sala de preparo. Não lembrava de ter atravessado metade de Kaendar para chegar em casa.
 
 Amira estava acordada, sentada perto da lamparina, com um livro fechado no colo que não parecia estar lendo havia algum tempo. Levantou-se assim que ouviu a porta.
 
@@ -16,7 +16,7 @@ Amira não insistiu.
 
 Só isso. Sentou-se de novo, o livro ainda fechado no colo, e não disse mais nada enquanto Selina subia a escada.
 
-Selina não voltou para pensar naquilo. Passaria a noite inteira, e boa parte do dia seguinte, sem lembrar da frase de Amira nem uma única vez, não porque não importasse, mas porque parecia, naquele instante, apenas mais uma coisa adiável, empilhada sobre todas as outras que ela vinha adiando havia semanas. Amanhã. Depois do próximo sino. Quando a poeira baixasse.
+Selina subiu a escada sem voltar à frase de Amira. Amanhã, pensou. Depois do próximo sino.
 
 O quarto de Selina ficava no fim do corredor superior, a porta mais afastada da escada, a única da casa sem nenhuma decoração pendurada do lado de fora. Era um cômodo confortável, rico, mas sem nenhum excesso que chamasse atenção fora de propósito: paredes num tom neutro, um tapete grosso o suficiente para abafar passos, uma mesa de trabalho contra a janela com pilhas de papel organizadas em ângulos exatos, uma estante estreita com poucos livros e menos ainda objetos que existissem só por serem bonitos. Quase tudo ali tinha função. O que não tinha função, tinha sido guardado em algum outro lugar da casa havia muito tempo, ou nunca tinha existido para começar.
 
@@ -110,7 +110,7 @@ E qualquer documento assim, Selina sabia, precisaria necessariamente passar pelo
 
 Aquilo não provava que o Sumo Vigia atual tivesse criado Alveris. Não provava sequer que todo o Culto soubesse. Selina se obrigou a não avançar além do que os papéis realmente diziam, era exatamente o tipo de erro que ela sempre cobrava dos outros, a pressa de transformar uma lacuna em certeza porque a certeza era mais satisfatória.
 
-Mas alguém, em algum momento, precisara permitir aquilo. Alguém com acesso suficiente para apagar um Nular e produzir um Polar em seu lugar, e fazer isso durar décadas sem que ninguém jamais questionasse.
+Se Aleris e Alveris eram o mesmo homem, alguém tivera de registrar a mudança. Sem o processo citado, Selina não sabia quem o fizera nem com que fundamento.
 Foi então que Selina sentiu o estômago apertar de um jeito diferente.
 
 Kalan podia ter passado por aquele mesmo documento.
@@ -126,9 +126,7 @@ A investigação da Balança Azul começou a se reorganizar dentro da cabeça de
 
 Aleris não precisava ter nascido Polar se documentos suficientes, bem posicionados e devidamente selados afirmassem que Alveris era. Selina baixou os olhos para os papéis da Balança espalhados ao lado da caixa de Roven. A familiaridade do método bastou.
 
-Cada etapa, isolada, parecia perfeitamente correta. Era só quando alguém tinha paciência e acesso para seguir o caminho inteiro que a fraude aparecia, e mesmo assim só aparecia como um buraco, um documento faltando, nunca como uma confissão.
-
-Selina não tentou reconstruir a conspiração inteira. Não tinha elementos para isso, e sabia que tentar demais, cedo demais, era exatamente o tipo de erro que a deixava vulnerável a se convencer de coisas que ainda não tinha provado. Só percebeu, com uma clareza que doía mais do que gostaria de admitir, que o método de Alveris não tinha nascido com a Balança. Era muito mais antigo. A Balança Azul não era a origem de nada, era só a versão mais recente de um homem que já sabia, havia décadas, como fazer o papel dizer o que ele precisava que dissesse.
+Cada etapa, isolada, parecia correta. Só ao seguir o caminho inteiro aparecia a lacuna: o processo que deveria explicar a mudança de pertencimento. Selina pensou nas cargas da Balança, também documentadas etapa por etapa e difíceis de acompanhar até o fim. A semelhança a inquietava, mas ainda não provava fraude em nenhum dos dois casos.
 O problema seguinte era mais simples de formular e muito mais difícil de resolver: o que fazer com aquilo.
 
 Selina considerou levar tudo a Vetarius. Era o caminho óbvio, o caminho que ela teria seguido sem hesitar há alguns anos: apresentar as evidências ao soberano, deixar que ele decidisse o que fazer com um homem que talvez tivesse fraudado a própria identidade para escalar até o topo da hierarquia Polar.
@@ -244,7 +242,7 @@ E mesmo assim, Amira ia embora.
 — Ouvir isso agora não apaga todos os anos em que eu precisei adivinhar — disse, e não havia crueldade nenhuma na frase, só um cansaço enorme, acumulado devagar, do tipo que não se desfaz com uma única confissão tardia.
 Selina não impediu.
 
-Não ofereceu mais nenhuma solução, não invocou nenhuma autoridade, não usou nada do que sabia sobre como manter as pessoas exatamente onde ela precisava que estivessem. Ficou ali, sentada na beirada da própria cama, cercada de papéis que provavam a fraude de origem de um dos homens mais poderosos de Kaeliran, e deixou que a única pessoa que ainda restava perto dela decidisse ir embora sem nenhuma tentativa de impedir.
+Não ofereceu mais nenhuma solução nem invocou autoridade. Ficou sentada na beirada da cama, cercada de papéis que ainda precisava conferir, e deixou Amira decidir ir embora.
 
 — Vai voltar? — perguntou, por fim, a voz mais fraca do que gostaria.
 
@@ -258,6 +256,6 @@ Levantou-se, ajeitou o livro debaixo do braço, e saiu do quarto sem mais nada p
 
 A caixa continuava aberta sobre a cama. Aleris continuava ali, sobre a colcha, ao lado de Alveris, as datas ainda esperando para serem seguidas até o fim no dia seguinte.
 
-Selina tinha acabado de encontrar, talvez, a maior pista de toda a investigação da Balança Azul: um segredo grande o suficiente para explicar décadas de poder construído sobre um nome que não deveria existir.
+Selina tinha encontrado uma pista que podia ligar Alveris a um registro antigo de Aleris. Ainda precisava do processo desaparecido para saber o que havia entre os dois nomes.
 
 Mas quando a porta do quarto de Amira se fechou, em algum lugar lá embaixo, a casa inteira pareceu, de repente, muito maior do que Selina jamais tinha percebido que era.
