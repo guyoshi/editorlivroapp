@@ -1,11 +1,11 @@
-Jokara ficou ali por quase meio sopro pleno, entre as pedras e o escuro, onde os ventos não chegavam e o frio se acumulava nas entranhas da terra. O sangue secava ao redor da pedra que lhe atravessava a perna, formando uma crosta negra.
+Jokara permaneceu entre as pedras por quase meio sopro pleno. O vento não chegava ao buraco, e o frio subia pelo chão. O sangue secava ao redor da pedra que lhe atravessava a perna, formando uma crosta negra.
 
 Então luzes azuis dançaram na borda da abertura, carregadas por mãos trêmulas. Sersi vinha à frente, acompanhada de Nestira e Mirel. Jokara tentou erguer os olhos, mas tudo girava.
 
 Antes de tudo apagar, viu Loutes. Os olhos grandes, molhados, as mãos juntas no peito. Depois, nada.
 
 
-Quando despertou, haviam se passado alguns sopros. O teto era feito de véus de vento translúcido, oscilando suavemente com a brisa morna. Estava deitada sobre folhas de naruth, usadas apenas em tratamentos sagrados, e o quarto cheirava a resina.
+Quando despertou, alguns sopros tinham passado. Acima dela, véus de vento translúcido oscilavam com a brisa morna. Estava deitada sobre folhas de naruth, usadas apenas em tratamentos sagrados, e o quarto cheirava a resina.
 
 Nestira estava ao seu lado. Do outro lado, Efepar, que não parava de mexer as mãos.
 

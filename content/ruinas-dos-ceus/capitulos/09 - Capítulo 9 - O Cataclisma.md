@@ -10,7 +10,7 @@ Jokara não hesitou.
 
 — As ilhas... Etérea está caindo.
 
-Ninguém em Etérea dizia aquilo em voz alta.
+Pela primeira vez, Jokara ouvia aquelas palavras fora da própria cabeça.
 
 Maletar engoliu em seco. Efepar não disse nada, apenas baixou os olhos e levou a mão ao ferimento no peito, que começava a enrijecer com o frio do Sopro do Silêncio.
 
@@ -208,7 +208,7 @@ As pedras da rua tremiam sob os pés. Os arcos soltavam poeira. Dos penhascos vi
 
 Jokara não parou. Não olhou. Seguiu em frente com a mão firme na da irmã e o bastão golpeando a pedra à frente. Quando a ponta escorregava, Nestira segurava seu braço até que Jokara encontrasse apoio de novo. 
 
-O mercado já não era o mesmo lugar. Onde antes se amontoavam cestos de frutas e tecidos tingidos, havia um buraco. A beira era de terra fresca, e lá embaixo só se via nuvem. Tudo tinha caído.
+Onde antes se amontoavam cestos de frutas e tecidos tingidos, agora havia um buraco. A borda de terra fresca terminava num vazio de nuvens.
 
 Jokara gritou o nome da mãe até a voz quebrar.
 

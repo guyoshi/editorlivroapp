@@ -142,9 +142,9 @@ Gabasteri respondeu sem perder o sorriso.
 
 Jokara riu também.
 
-Ele perguntava pouco, e sempre coisas práticas: o abrigo, o menino, como ela mantinha o fogo aceso, onde pegavam água, o que conseguia caçar.
+Ele perguntou sobre o abrigo, Loutes, o fogo, a água e a caça. Não demonstrou curiosidade por mais nada.
 
-Por fim, o abrigo surgiu entre raízes entrelaçadas na encosta da montanha. Não era mais do que um círculo de galhos entrelaçados, reforçados com raízes fincadas fundo na lama e folhas largas que Jokara e Loutes tinham aprendido a sobrepor como telhado. A entrada era estreita, forçada a se curvar, mas lá dentro havia espaço suficiente para três corpos sentarem-se junto ao fogo. As paredes eram irregulares, cheias de frestas por onde passava a luz de uma das luas e, às vezes, a chuva fina. Tinha levado quase uma espiral inteira para ficar de pé.
+O abrigo apareceu entre as raízes da encosta: galhos curvados, estacas fincadas na lama e folhas largas sobrepostas no teto, trabalho de quase uma espiral inteira. Era preciso se curvar para entrar, mas três pessoas cabiam junto ao fogo. Pelas frestas entravam a luz de uma das luas e, quando chovia, gotas finas.
 
 No centro, dentro de um círculo de pedras fumegantes, ardia o fogo que Jokara aprendera a proteger com tanto cuidado. Ao redor, improvisos: pedras servindo de bancos, raízes retorcidas transformadas em suportes, e um canto onde folhas secas eram empilhadas para servir de leito. 
 
