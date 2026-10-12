@@ -1,8 +1,8 @@
 Esta história não começa com uma guerra, nem com um herói. Começa com o vento. Não o vento que conhecemos, esse que sopra folhas e vira páginas. Mas aquele outro, mais antigo, que sopra lembranças.
 
-Durante muitos ciclos, houve um povo que viveu suspenso entre o silêncio e o céu. Eles se chamavam eterí. Não temiam as alturas, pois as ilhas onde pisavam haviam sido moldadas pelo Sopro. Etérea era o nome de seu lar.
+Durante muitos ciclos, os eterí viveram suspensos entre o silêncio e o céu. As ilhas de Etérea, moldadas pelo Sopro, eram seu lar.
 
-Etérea era um lugar onde nada tocava o chão. As ilhas não voavam. Pairavam, como suspiros petrificados de um tempo que jamais aprendera a cair. Os sinos nas portas não serviam para avisar chegadas, mas para lembrar que o vento passava. Quando ele cessava, todos silenciavam. Pois o silêncio era reverência.
+Etérea era um lugar onde nada tocava o chão. As ilhas não voavam. Pairavam, como suspiros petrificados de um tempo que jamais aprendera a cair. Os sinos nas portas marcavam a passagem do vento. Quando ele cessava, todos silenciavam por reverência.
 
 Naquela tarde, as ilhas ressoavam suavemente com o canto das Correntes. Cristais pendiam de cipós vivos, filtrando a luz poente em tons dourados e azulados. A claridade aquecia a pele escura dos eterí e fazia sobressair, em quem já tinha feito o Primeiro Voo, as linhas brancas que percorriam rostos, ombros e braços em arcos e círculos delicados. Em Etérea, aquelas marcas eram tão familiares quanto as tranças, os mantos leves e os sinos nas portas.
 

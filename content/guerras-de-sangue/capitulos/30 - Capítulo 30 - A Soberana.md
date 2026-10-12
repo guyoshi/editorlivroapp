@@ -2,11 +2,11 @@
 
 Ninguém na Câmara dos Onze interrompeu.
 
-Sete dias haviam passado desde a batalha, mas a fumaça ainda encontrava caminhos para entrar pelas fendas altas da sala. Não era mais a fumaça espessa da noite do cerco, capaz de ocultar torres e transformar homens em sombras. Era uma presença fina, persistente, entranhada nos tecidos, nos cabelos, nos mapas e nas tábuas de registro, como se Kaendar tivesse queimado fundo demais para ser limpa apenas com água.
+Sete dias haviam passado desde a batalha. Ainda entrava fumaça pelas fendas altas da Câmara, fina o bastante para se infiltrar nos tecidos, nos mapas e nas tábuas de registro. O cheiro de queimado não saía da sala.
 
 Duas cadeiras permaneciam vazias diante da Mesa da Raiz.
 
-A de Yvenn Raiz-Branca ainda trazia um pequeno entalhe feito por ele junto ao apoio da mão, quatro linhas curvas que ninguém tivera coragem de lixar. A cadeira de Daryon estava limpa demais. Maelis ordenara que retirassem o sangue de seus documentos e objetos, mas não autorizara ninguém a sentar-se ali. Durante anos, Daryon parecera ocupar pouco espaço. Morto, deixava um vazio que fazia todos perceberem quanto da Câmara havia passado por sua voz.
+A de Yvenn Raiz-Branca ainda trazia um pequeno entalhe feito por ele junto ao apoio da mão, quatro linhas curvas que ninguém tivera coragem de lixar. A cadeira de Daryon estava limpa demais. Maelis ordenara que retirassem o sangue de seus documentos e objetos, mas não autorizara ninguém a sentar-se ali. Kaelina ainda procurava Daryon com os olhos quando uma discussão se prolongava.
 
 Kaelina sentava-se sozinha na extremidade destinada à soberania. O ombro permanecia enfaixado. Um corte atravessava a testa, desaparecendo sob o cabelo preso; o pintor refizera a Ramagem ao redor da ferida, e o tronco agora começava logo abaixo da cicatriz. A perna ferida obrigava-a a distribuir o peso com cuidado. Não vestia armadura nem manto cerimonial. Usava roupa escura, simples, ajustada o suficiente para não tocar as queimaduras menores no pescoço e nos braços.
 
@@ -208,7 +208,7 @@ Kaelina manteve os olhos em Lurok.
 
 — Nynestra levou os Buldar para casa. É o que importa.
 
-Ela não diria que expusera o medo de Nynestra diante de seus próprios homens, que usara os celeiros, as Famílias de Terra e o risco de sucessão como lâminas, que oferecera a si mesma sabendo que Alyra jamais entregaria Kaendar para recuperá-la. Não porque se envergonhasse completamente. Porque uma estratégia repetida deixava de ser vantagem. Maelis terminou o registro.
+Ela não contaria como havia pressionado Nynestra diante dos próprios homens, usando os celeiros, as Famílias de Terra e a sucessão. Tampouco diria que se oferecera, certa de que Alyra não entregaria Kaendar para resgatá-la. Maelis terminou o registro.
 
 — E os Vendrar?
 
