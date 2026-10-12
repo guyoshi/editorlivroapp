@@ -324,8 +324,6 @@ Nestira pousou a mão sobre a dele.
 
 Jokara olhou para Loutes, depois para a irmã.
 
-
-
 — Eu perdi tudo. Mamãe, papai… meu melhor amigo... e achei que tinha perdido você… Pelo menos tive o Loutes. Quando a terra nos recebeu, achei que estávamos condenados a vagar sós… para sempre — Jokara parou e lembrou-se do sopro do cataclisma — Quando vi você e Liri caírem…
 
 Parou. A mão da irmã tremia na dela. Nestira cobriu o rosto e chorou.
