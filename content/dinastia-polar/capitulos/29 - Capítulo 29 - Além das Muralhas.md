@@ -780,7 +780,7 @@ Orel se aproximou, farejando alguma coisa diferente nela: folhas, lama, um cheir
 
 Ele não ofereceu nenhuma.
 
-Mais tarde, sozinha, deitada no mesmo lugar onde não tinha conseguido dormir na noite anterior, Elis percebeu que a viagem inteira não tinha apagado nada do que vira no começo daquela madrugada.
+À noite, Elis deitou no mesmo lugar da véspera. Quando fechava os olhos, continuava vendo o que acontecera naquela madrugada.
 
 Lembrava dos homens da Balança. Da carga estranha. Da frase que tinha ouvido: "No registro, está." Da marca gravada na pedra da soleira.
 

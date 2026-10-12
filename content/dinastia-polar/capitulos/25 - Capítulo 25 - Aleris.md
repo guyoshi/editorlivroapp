@@ -20,7 +20,7 @@ Selina subiu a escada sem voltar à frase de Amira. Amanhã, pensou. Depois do p
 
 O quarto de Selina ficava no fim do corredor superior, a porta mais afastada da escada, a única da casa sem nenhuma decoração pendurada do lado de fora. Era um cômodo confortável, rico, mas sem nenhum excesso que chamasse atenção fora de propósito: paredes num tom neutro, um tapete grosso o suficiente para abafar passos, uma mesa de trabalho contra a janela com pilhas de papel organizadas em ângulos exatos, uma estante estreita com poucos livros e menos ainda objetos que existissem só por serem bonitos. Quase tudo ali tinha função. O que não tinha função, tinha sido guardado em algum outro lugar da casa havia muito tempo, ou nunca tinha existido para começar.
 
-Ela se sentou na beirada da cama e tirou as botas, uma de cada vez, devagar, o corpo pesado de cansaço. Mesmo exausta, colocou as duas lado a lado, alinhadas, os bicos virados para a mesma direção. Não era um gesto consciente. Era só o jeito como ela existia no mundo, mesmo destruída por dentro, incapaz de deixar uma bota torta no chão.
+Ela se sentou na beirada da cama e tirou as botas devagar, o corpo pesado de cansaço. Mesmo exausta, alinhou-as junto à cama, com os bicos virados para a mesma direção.
 
 Ficou sentada ali por um momento, olhando para o próprio quarto sem realmente vê-lo.
 

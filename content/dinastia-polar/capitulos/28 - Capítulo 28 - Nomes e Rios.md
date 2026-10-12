@@ -154,7 +154,7 @@ Ele parou a tempo.
 
 — Se morrer com zírrio, vão escrever coisa bem pior nas canções.
 
-A ulmara veio depois, maior, mais gordurosa, a carne escura e oleosa, a pele tostada nas bordas. Era comida de prestígio: servi-la à delegação significava reconhecimento de convidados importantes, mesmo que alguns dos anfitriões, evidentemente, não gostassem particularmente da companhia. A raiz d'água acompanhava tudo, firme, úmida por dentro, quase sem sabor sozinha, até que a pimenta de barro chegava e esquentava a boca de um jeito que pegava os desavisados de surpresa.
+A ulmara veio depois, maior, mais gordurosa, a carne escura e oleosa, a pele tostada nas bordas. Era comida de prestígio, reservada a convidados importantes. Alguns anfitriões, porém, mal escondiam o desagrado com a presença da delegação. A raiz d'água acompanhava tudo, firme, úmida por dentro, quase sem sabor sozinha, até que a pimenta de barro chegava e esquentava a boca de um jeito que pegava os desavisados de surpresa.
 
 Numa mesa mais baixa, Dareth viu trabalhadores comendo krolho de lama, carne mais dura, cheiro mais forte, prato associado às áreas mais pobres da cidade. Um nobre Polar fez uma careta discreta ao passar perto. Riala percebeu.
 

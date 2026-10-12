@@ -310,6 +310,6 @@ Selina olhou para o sul, na direção de onde Kaeliran já não podia mais ser v
 
 Mais tarde, antes de dormir, alguém da comitiva passou avisando que, no dia seguinte, alcançariam um dos primeiros grandes canais administrados pelos Buldar.
 
-Selina ainda guardava consigo o documento de Aleris, dobrado entre seus próprios papéis pessoais. Significava que, pela primeira vez, estavam prestes a entrar exatamente no território de origem que aquele registro antigo declarava: o mesmo chão de onde Aleris Buldar tinha saído, muito antes de se tornar, ou talvez nunca ter realmente se tornado, Alveris Polar.
+Selina guardava o documento de Aleris entre seus próprios papéis. À frente começavam as terras que o registro apontava como origem daquele homem, antes de seu nome surgir como Alveris Polar.
 
 Dareth ficou ainda um tempo sentado perto do fogo depois que Selina se recolheu, olhando para a escuridão ao sul, pensando na cidade que continuava ali, inteira, funcionando, atrás deles, e em tudo aquilo que os dois tinham deixado vivo dentro dela.

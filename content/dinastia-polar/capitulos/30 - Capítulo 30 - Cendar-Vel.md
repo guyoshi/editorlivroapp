@@ -90,7 +90,7 @@ Uma passarela que existia quando chegaram já não estava mais no mesmo lugar ho
 
 Tudo dependia de peso, água, corda, madeira, metal e de quem operava cada peça.
 
-Uma criança atravessava correndo uma das pontes estreitas e parou de repente, no meio do caminho. Recuou dois passos, abaixou-se, encostou a mão na madeira como se escutasse alguma coisa através dela. Chamou um adulto. Ninguém riu, ninguém repreendeu a interrupção; a passagem foi fechada imediatamente até que alguém verificasse o que a menina tinha sentido. Em Kaeliran, pensou Selina, aquela criança provavelmente seria repreendida por atrapalhar a circulação. Ali, perceber risco antes de qualquer adulto parecia ser exatamente o comportamento que se esperava dela.
+Uma criança atravessava correndo uma das pontes estreitas e parou de repente, no meio do caminho. Recuou dois passos, abaixou-se, encostou a mão na madeira como se escutasse alguma coisa através dela. Chamou um adulto. A passagem foi fechada imediatamente para que alguém verificasse o alerta. Selina imaginou a mesma criança interrompendo o trânsito de Kaeliran. Ali, ninguém questionara o aviso.
 
 Perto dali, uma mulher de meia-idade guiava a mão de uma menina sobre uma alavanca de contrapeso, corrigindo a força do gesto sem soltar a própria supervisão nem por um instante; um homem mais velho, provavelmente pai da menina, esperava alguns passos atrás, segurando as ferramentas de ambas até que fosse chamado.
 
