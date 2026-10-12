@@ -78,7 +78,7 @@ A cama estava intacta. A cadeira tinha sido arrastada até a janela e tombara de
 
 Kerath chegou primeiro ao parapeito.
 
-Os aposentos de Caeren ficavam apenas um andar acima de uma cobertura de serviço que acompanhava o pátio lateral. Não era uma queda confortável, mas também não era altura suficiente para impedir um garoto de quinze ciclos decidido a sair dali. Poeira tinha sido raspada da borda externa. Uma marca de bota aparecia sobre as telhas logo abaixo; outra seguia até o ponto em que a cobertura encontrava uma escada estreita de manutenção.
+Os aposentos de Caeren ficavam apenas um andar acima de uma cobertura de serviço que acompanhava o pátio lateral. A queda até a cobertura seria dura, mas um garoto de quinze ciclos poderia arriscar. Poeira tinha sido raspada da borda externa. Uma marca de bota aparecia sobre as telhas logo abaixo; outra seguia até o ponto em que a cobertura encontrava uma escada estreita de manutenção.
 
 A porta de serviço do quarto continuava travada pelo lado de dentro.
 

@@ -161,7 +161,7 @@ O jantar foi servido antes de escurecer de vez. Ninguém teve pressa de começar
 
 Vetarius estava extasiado. Perguntava detalhes das lutas a quem quisesse ouvir, pedindo a Dareth para descrever de novo o que sentira ao ver Khalir se levantar depois de tanto castigo. Ria de alguma história envolvendo Orven que um soldado qualquer contava com exagero evidente. Provocava, com bom humor, um soberano rival qualquer, ainda comemorando a própria primazia sem parecer, nem por um segundo, cruel a respeito disso.
 
-Falava de projetos. De novas rotas comerciais. De obras que pretendia iniciar assim que a poeira daquela semana assentasse. Chegou a mencionar, entre risadas, o Segundo Torneio Decenal, como se aquela tradição já estivesse garantida para sempre, como se dez ciclos à frente fossem uma certeza tão sólida quanto qualquer coisa que já tivesse acontecido.
+Vetarius falava de projetos, novas rotas comerciais e obras para depois daquela semana. Entre risadas, chegou a mencionar o Segundo Torneio Decenal, como se a tradição já estivesse garantida.
 
 Amaric participava da conversa com o entusiasmo de sempre. O Conselho relaxava, aos poucos, depois de dias inteiros de tensão acumulada. O Sumo Vigia falava da Raiz, de continuidade, de destino cumprido. Alveris conversava calmamente com quem estivesse próximo, o rosto composto na medida certa de sempre. Saelira permanecia controlada, participando o suficiente para não chamar atenção por excesso nem por falta.
 
