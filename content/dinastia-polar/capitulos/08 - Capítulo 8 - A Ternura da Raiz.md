@@ -22,7 +22,7 @@ Kalan quis perguntar se devia se preocupar, mas a pergunta pareceu pequena diant
 
 — Vai — repetiu ele, sem se virar de novo, só erguendo uma mão no ar como quem empurra uma preocupação para mais tarde. — Te vejo no próximo turno.
 
-Não era a frase de um homem que esperava nunca mais ver o outro. Kalan se agarrou a isso com mais força do que teria admitido, enquanto seguia os dois homens de capa curta para fora do pátio, entre pilhas de caixotes que já não sabia dizer se eram do torneio ou de outra coisa qualquer, e sentiu, por um instante, uma gratidão estranha por existirem pessoas como Cairon: pessoas que o conheciam havia tempo suficiente para não precisarem inventar quem ele era.
+Kalan guardou a frase de Cairon enquanto seguia os dois homens de capa curta para fora do pátio. Passaram entre pilhas de caixotes, e ele já não sabia distinguir as cargas do torneio das outras. Ao menos Cairon o conhecia antes daquelas acusações.
 
 *
 
@@ -130,7 +130,7 @@ Foi Tair quem abriu, e o rosto dele mudou de expressão três vezes em menos de 
 
 — Ele... — Tair olhou para dentro, como se esperasse encontrar a resposta ali, entre as paredes. — Ele estava aqui ontem à noite. Foi dormir. Eu não... não sei quando saiu.
 
-Kalan sentiu o chão do próprio plano rachar sob os pés antes mesmo de terminar de processar a frase. Empurrou a porta um pouco mais, como se um segundo olhar pudesse produzir Karesis sentado em algum canto que Tair tivesse esquecido de mencionar, mas a casa mostrava exatamente o que Tair estava dizendo: nenhum sinal dele, nenhuma bota úmida perto da porta, nenhuma garrafa deixada pela metade sobre a mesa. Era sempre assim. Karesis desaparecia sem aviso havia meses, cheirando a zírrio e bebida quando finalmente voltava, e nunca, nenhuma vez, escolhia ficar exatamente no dia em que ficar significava alguma coisa. Kalan sentiu a velha lista de ressentimentos se reorganizar sozinha dentro do peito, mais pesada do que nunca, porque desta vez o preço da ausência não era só decepção: era Orel, era Tair, era a casa inteira desprotegida diante de Hadris.
+Kalan sentiu o chão do próprio plano rachar sob os pés antes mesmo de terminar de processar a frase. Empurrou a porta um pouco mais, como se um segundo olhar pudesse produzir Karesis sentado em algum canto que Tair tivesse esquecido de mencionar, mas a casa mostrava exatamente o que Tair estava dizendo: nenhum sinal dele, nenhuma bota úmida perto da porta, nenhuma garrafa deixada pela metade sobre a mesa. Era sempre assim. Karesis desaparecia sem aviso havia meses, cheirando a zírrio e bebida quando finalmente voltava, e nunca, nenhuma vez, escolhia ficar exatamente no dia em que ficar significava alguma coisa. Kalan pensou em Orel, em Tair, em Hadris. Karesis não estava ali quando mais precisavam dele.
 
 — Ele estava aqui ontem à noite — repetiu Kalan, para Hadris, para si mesmo, como se repetir pudesse trazer Karesis de volta pela força da própria insistência. — Ele sempre volta. Talvez tenha ido para o rio, talvez...
 

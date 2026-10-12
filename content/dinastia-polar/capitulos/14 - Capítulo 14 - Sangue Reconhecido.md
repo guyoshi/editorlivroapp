@@ -2,7 +2,7 @@ Vetarius dormia num horário que nenhum soberano deveria dormir quando um dos fu
 
 — Vossa Soberania. O Sumo Vigia solicita uma audiência privada e aguarda do lado de fora.
 
-Não invadira o quarto. Não mandara ninguém abrir a porta sem aviso, não exigira entrada imediata, não usara nenhum dos privilégios que sua posição lhe permitiria usar contra praticamente qualquer outro homem de Kaeliran. Esperava, do lado de fora, com a paciência de quem já vivera tempo suficiente para saber que forçar uma porta raramente conseguia mais do que esperar diante dela, e foi exatamente esse respeito ao protocolo, mais do que qualquer ameaça, que fez Vetarius sentir o estômago se apertar antes mesmo de estar completamente acordado. Duas autoridades daquele tamanho não precisavam gritar para se enfrentar. Bastava uma bater à porta da outra sem entrar.
+O Sumo Vigia aguardava do lado de fora. Não exigira entrada, embora tivesse autoridade para fazê-lo. Vetarius sentiu o estômago se apertar antes mesmo de estar completamente acordado. O velho conhecia bem demais o protocolo para que aquela visita fosse casual.
 
 Vestiu-se devagar demais de propósito, um pequeno ato de resistência que sabia inútil e insistiu em fazer assim mesmo, e recebeu o Sumo Vigia na sala menor dos aposentos, ainda com a cabeça pesada da noite anterior e uma irritação que não tentou esconder por completo.
 

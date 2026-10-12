@@ -190,7 +190,7 @@ O salão inteiro levantou as taças ao mesmo tempo. Dareth também, sem beber qu
 
 Alveris observou Vetarius beber com uma satisfação discreta, quase invisível para qualquer um que não estivesse prestando atenção exatamente naquele rosto.
 
-Olhou, por menos de um segundo, na direção de Saelira. Ela não fez gesto nenhum de volta. Não precisava.
+Olhou rapidamente na direção de Saelira. Ela não fez gesto nenhum de volta.
 O primeiro sinal veio de um conselheiro afastado da mesa central, cuja fala começou a se embaralhar no meio de uma frase sobre impostos. Alguém riu, achando que era apenas o vinho fazendo efeito além da conta, e Vetarius mandou o homem beber água antes de continuar.
 
 Então outro conselheiro apresentou o mesmo sintoma. Tentou se levantar e não completou o movimento; uma taça caiu contra a pedra, uma cadeira virou. Vetarius chamou por ajuda, ainda mais irritado do que preocupado, até que uma terceira pessoa caiu e o salão começou a entender, rápido demais e ao mesmo tempo tarde demais, que aquilo não era embriaguez.
