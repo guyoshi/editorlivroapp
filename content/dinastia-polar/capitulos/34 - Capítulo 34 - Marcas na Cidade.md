@@ -16,7 +16,7 @@ Maruva ainda dormia quase por completo, só alguns fornos começando a esquentar
 
 Um homem parado diante de uma porta.
 
-Não tentava entrar. Olhou para os dois lados, rápido, e se abaixou perto da base da madeira. As mãos se moveram ali por um instante, algo pequeno e preciso, antes de se levantar de novo e seguir adiante, o passo tranquilo de quem não queria chamar atenção nenhuma, nem parecia precisar se esforçar muito para isso.
+O homem não entrou. Olhou rapidamente para os lados e se abaixou junto à base da madeira. Fez um movimento curto e preciso com as mãos antes de seguir adiante, sem pressa.
 
 Elis esperou até ele desaparecer na esquina seguinte. Foi até a porta.
 

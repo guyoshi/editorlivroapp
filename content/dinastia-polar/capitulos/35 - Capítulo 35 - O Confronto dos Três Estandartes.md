@@ -127,7 +127,7 @@ Não havia como formular aquilo em pensamento, no meio de um combate daquele tam
 Dareth não tinha tempo nem espaço mental para questionar o motivo. Só sentiu o alívio breve de continuar de pé.
 Foi perto dali, na arquibancada, que Maerys parou de rir.
 
-Ninguém precisou dizer nada sobre isso. Ela simplesmente deixou de comentar em voz alta, aproximou-se um pouco mais da grade, as mãos firmes na madeira de um jeito que não existia antes. Quando Orven quase alcançou Dareth num movimento mais violento do que qualquer coisa vista até então, ela não comemorou. Saelira, de pé, seguia tudo com a mesma atenção calculada de sempre. Nareva estava inclinada para frente, como se aquilo pudesse ajudar a enxergar melhor.
+Ela parou de comentar, aproximou-se da grade e firmou as mãos na madeira. Quando Orven quase alcançou Dareth num movimento mais violento do que qualquer coisa vista até então, ela não comemorou. Saelira, de pé, seguia tudo com a mesma atenção calculada de sempre. Nareva estava inclinada para frente, como se aquilo pudesse ajudar a enxergar melhor.
 
 A arena inteira continuava gritando ao redor deles. Nada daquilo precisava de explicação para ser sentido como errado.
 O fogo apareceu pouco depois, e não era nada que o Torneio já não tivesse visto: o mesmo mecanismo de combustão que Dareth tinha visto saltar do antebraço de Orven dias antes, no acampamento e depois na própria arena. Dessa vez, Orven o usou de um jeito mais criativo.

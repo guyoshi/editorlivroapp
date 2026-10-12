@@ -29,7 +29,7 @@ Um dos aristocratas que viajavam com a comitiva Polar não escondeu o desagrado 
 
 O homem citou Vetarius, mesmo sabendo perfeitamente bem que o soberano não tinha vindo.
 
-A responsável pelos depósitos explicou, num tom que não era hostil nem apaziguador, apenas administrativo, que os dez setores oficiais tinham recebido critérios equivalentes de segurança, circulação e acesso. Não precisava soar provocativa para que aquilo incomodasse o homem: o próprio fato bastava.
+A responsável pelos depósitos informou, com a objetividade de quem lia um regulamento, que os dez setores oficiais tinham recebido critérios equivalentes de segurança, circulação e acesso. O homem se incomodou mesmo assim.
 
 Vetarius ficara em Kaeliran; Selina falaria pelo estandarte Polar durante o Torneio.
 

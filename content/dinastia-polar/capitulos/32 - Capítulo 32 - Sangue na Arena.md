@@ -76,7 +76,7 @@ O golpe que rasgou o lado do corpo de Dareth veio de um jeito quase silencioso, 
 
 Dareth levou a mão à própria lateral por reflexo e viu os dedos vermelhos quando afastou. Serka não esperou nenhum segundo a mais. Atacou de novo.
 
-A sequência seguinte colocou Dareth mais perto da morte do que ele estivera em muito tempo. Um golpe o forçou a cair de joelhos, o outro chegou perto o bastante da garganta para o público inteiro prender a respiração de uma vez. A arena inteira pareceu suspensa naquele instante, milhares de pessoas caladas ao mesmo tempo, como se o próprio ar tivesse parado de circular pelas arquibancadas. Ele conseguiu impedir, no último instante possível, não por velocidade, porque velocidade já não era mais dele, mas por leitura. Reconheceu o instante que vinha antes do golpe final, o tipo de coisa que só se aprende sobrevivendo a lugares que deveriam ter matado a pessoa muito antes.
+A sequência seguinte quase matou Dareth. O primeiro golpe o derrubou de joelhos; o segundo passou perto de sua garganta, calando a arena. Ele conseguiu impedir o ataque no último instante ao reconhecer o movimento que o antecedia. Já não tinha a velocidade de antes, mas conhecia aquele tipo de golpe dos combates em que sobrevivera por pouco.
 
 Serka teve, naquele momento, ao menos uma oportunidade real de tornar tudo definitivo. Não usou.
 
