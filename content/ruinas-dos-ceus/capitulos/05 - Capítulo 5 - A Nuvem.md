@@ -4,7 +4,7 @@ O sopro amanhecera sem pressa. As sombras ainda repousavam sobre as trilhas entr
 
 O vento, que todo amanhecer passava pelos galhos, estava atrasado.
 
-Alguns Oradores disseram que era apenas uma brisa cansada. Outros evitaram o assunto, e quando os Oradores evitavam, era pior do que quando falavam.
+Alguns Oradores disseram que era apenas uma brisa cansada. Outros evitaram o assunto. Jokara prestou mais atenção nos que se calaram.
 
 Na alvorada seguinte ao exílio da mulher de um olho, Jokara saiu cedo para caçar nuaris. Não tinha fome. Queria ficar longe de casa.
 
@@ -144,7 +144,7 @@ Ela parou diante da plataforma, olhando para a casa e para a nuvem que agora eng
 
 Jokara assentiu para a irmã, mas não foi ajudar.
 
-Entrou em casa sem responder à segunda chamada de Nestira. Subiu pelas escadas de madeira leve até seu quarto e empurrou a porta com o ombro, fechando-a atrás de si com um estalo surdo. As janelas ainda estavam abertas, e o ar que entrava era úmido e grosso. Ela se aproximou, puxou as trancas de metal fino e as fechou com firmeza. Depois se sentou na beira da cama e soltou o arco da irmã, que caiu de lado no chão com um som oco.
+Jokara não respondeu à segunda chamada de Nestira. Subiu até o quarto, fechou a porta com o ombro e foi direto às janelas. O ar úmido entrava por elas. Puxou as trancas, uma por uma, e se sentou na beira da cama. O arco da irmã escorregou de sua mão e bateu no chão.
 
 Deitou-se sem trocar de roupa e ficou olhando o teto.
 

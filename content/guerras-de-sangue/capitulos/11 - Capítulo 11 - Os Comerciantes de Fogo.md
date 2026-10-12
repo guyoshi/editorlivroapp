@@ -306,7 +306,7 @@ Seyra ergueu uma sobrancelha.
 
 — Leve-nos.
 
-A entrada principal de Varkhama não era exatamente um portão. Duas cabras-negras dormiam junto às pedras quentes, tão acostumadas ao ruído do metal que nem ergueram a cabeça para os visitantes. Era uma abertura entre duas pedras altas, reforçada por correntes, placas metálicas e uma fileira de estacas onde pendiam pedaços de armas quebradas. Armas que contavam histórias melhores: quem vendeu, quem usou, quem falhou, quem sobreviveu para reclamar.
+A entrada principal de Varkhama não era exatamente um portão. Duas cabras-negras dormiam junto às pedras quentes, tão acostumadas ao ruído do metal que nem ergueram a cabeça para os visitantes. Era uma abertura entre duas pedras altas, reforçada por correntes, placas metálicas e uma fileira de estacas onde pendiam pedaços de armas quebradas. Nas lâminas partidas ainda se viam os sinais de forja de diferentes clãs.
 
 Rendar esperava ali. Dessa vez, não estava na Boca Seca dos Tondrar, cercado por sede e lâminas imóveis. Estava diante de um povo que olhava para ele como se tentasse calcular seu peso, seu preço de revenda, a lâmina escondida e a probabilidade de explodir se fosse maltratado. Tavra foi a primeira a falar.
 
@@ -409,7 +409,7 @@ Vorlan seguiu com o olhar. No primeiro instante, viu apenas fumaça, pedra e cin
 Do norte, vieram os Tondrar. Não marchavam como soldados Polar. Corriam em grupos quebrados, rápidos, baixos, pinturas negras cortando rostos, lanças nas mãos, arcos curtos nas costas, ossos batendo contra cintos, enquanto gritavam descompassadamente. Não eram muitos o bastante para parecer exército de conquista, mas eram suficientes para fazer qualquer homem sensato procurar onde estava a saída. À frente deles vinha Torgun, o homem dos olhos fundos. As pernas eram as mais velozes do clã. Corria como fome que aprendeu direção.
 
 Do oeste, a terra tremeu sob os bravões Buldar.
-Animais largos, cinzentos, de quatro chifres laterais, avançavam em passo pesado. Sobre eles vinham Ceifadores de Campo: homens e mulheres de roupa grossa, faixas de semente presas aos pulsos, espadas curtas, escudos de madeira reforçada e sacos amarrados às selas. Moviam-se sem a teatralidade dos Tondrar ou a leveza perigosa dos Vendrar; ninguém ali parecia disposto a correr para morrer. E sim porque tinha calculado o preço de estar ali.
+Animais largos, cinzentos, de quatro chifres laterais, avançavam em passo pesado. Sobre eles vinham Ceifadores de Campo: homens e mulheres de roupa grossa, faixas de semente presas aos pulsos, espadas curtas, escudos de madeira reforçada e sacos amarrados às selas. Avançavam em formação cerrada, protegendo as laterais dos bravões. Diferentemente dos Tondrar, não gritavam desafios.
 
 No centro, montada num bravão de couro escuro, vinha Nynestra Buldar. Reta, serena, como se até aquela demonstração de força fosse apenas uma conta que finalmente fechava.
 
@@ -424,7 +424,7 @@ Alguns usavam conchas pequenas ou dentes de peixe como enfeite, mas eram aquelas
 
 Os Vendrar calcularam distâncias e puxaram armas.
 
-Correntes foram puxadas. Arcos erguidos. Tubos de fogo apontados. Crianças desapareceram para trás das oficinas. Mulheres largaram ferramentas e pegaram lâminas. Homens subiram nas pedras. Seyra já tinha as duas facas na mão. Tavra apontava o tubo para os Tondrar, mas mantinha o braço afastado do próprio corpo. Até ela sabia que uma peça dessas traía primeiro o idiota que confiava demais nela.
+Correntes foram puxadas. Arcos erguidos. Tubos de fogo apontados. Crianças desapareceram para trás das oficinas. Mulheres largaram ferramentas e pegaram lâminas. Homens subiram nas pedras. Seyra já tinha as duas facas na mão. Tavra apontava o tubo para os Tondrar, mas mantinha o braço afastado do próprio corpo. Tavra firmou o tubo e manteve o braço longe do corpo, evitando a saída lateral da chama.
 
 Vorlan, por sua vez, perdeu o sorriso.
 

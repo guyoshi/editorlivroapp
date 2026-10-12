@@ -1,4 +1,4 @@
-Alyra permaneceu de pé. Kaelina estava sentada, mas não parecia repousar. Daryon ficou um passo atrás, quieto demais para quem normalmente gostava de ocupar as bordas das frases.
+Alyra permaneceu de pé. Kaelina estava sentada, mas não parecia repousar. Daryon ficou um passo atrás, com as mãos unidas às costas.
 
 — Sobre os homens que enviei às rotas externas — disse Alyra —, nem todos trouxeram respostas úteis. Os postos da Estrada dos Grãos dizem pouco. As margens Glydar respondem curto. Os vendedores de metal fingem atraso. Alguns clãs fingem não ouvir quando convém. Outros ouvem demais e falam de menos.
 
@@ -34,7 +34,7 @@ Pedira madeira lisa, carvão, pigmentos, gordura para prender cor, sal fino e te
 
 Ele pintava à luz estreita da janela.
 
-Pintou uma terra partida contra um céu vazio. Depois pintou uma mulher de uma perna só diante de uma fogueira pequena, com folhas largas espalhadas ao redor. Noutra placa, pintou uma criança recém-nascida junto a uma mulher pálida, enquanto um homem ajoelhado parecia quebrado demais para levantar a cabeça. Em tecido escuro, desenhou uma torre caída entre poeira, quase engolida por um mundo coberto de areia. Por fim, numa madeira comprida, pintou um homem no chão diante de fumaça e fogo. O rosto não tinha detalhes. A mão, sim. Estava fechada. Como se segurasse algo que ninguém mais via.
+Pintou uma terra partida contra um céu vazio. Depois pintou uma mulher de uma perna só diante de uma fogueira pequena, com folhas largas espalhadas ao redor. Noutra placa, pintou uma criança recém-nascida junto a uma mulher pálida, enquanto um homem ajoelhado apoiava as mãos na terra, de cabeça baixa. Em tecido escuro, desenhou uma torre caída entre poeira, quase engolida por um mundo coberto de areia. Por fim, numa madeira comprida, pintou um homem no chão diante de fumaça e fogo. O rosto não tinha detalhes. A mão, sim. Estava fechada. Como se segurasse algo que ninguém mais via.
 
 Marken não explicava as imagens. Maelis registrou todas; quando Kaelina foi vê-lo, ele continuou espalhando pigmento cinzento em torno do homem caído.
 
@@ -572,7 +572,7 @@ O pé de Edran enroscou. O corpo avançou sem a perna. Ele caiu de lado, mas rol
 
 Outra coisa apertou sua perna. Um laço. Tendão tratado, escondido na lama. As armadilhas eram Fendelar: ganchos baixos, tendão tratado, laços escondidos onde o olho procurava corpo em vez de chão. Aquele homem não tinha pintura nem movimento Tondrar. Movia-se como mata fechada. Surgiu sobre Edran, sangrando do quadril.
 
-Edran socou-o no maxilar. O homem quase caiu, mas caiu para frente. A espada entrou sob as costelas de Edran. O golpe entrou próximo demais, bruto demais, cheio de peso. Um golpe de homem que não queria sobreviver, queria matar.
+Edran socou-o no maxilar. O homem quase caiu, mas caiu para frente. A espada entrou sob as costelas de Edran. A lâmina atravessou Edran sob as costelas. O Fendelar avançou ainda mais, impedindo-o de recuar.
 
 Edran sentiu a lâmina antes da dor. Depois a dor veio inteira, quente, absoluta. O ar fugiu. O mundo tentou diminuir até caber nos olhos do homem sobre ele. Olhos sanguinários. O Fendelar respirava contra o rosto dele.
 

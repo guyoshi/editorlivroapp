@@ -24,7 +24,7 @@ O soldado empalideceu.
 
 — Agora, minha soberana.
 
-Enquanto esperava Daryon, Alyra observou Kaendar pela janela. Muralhas seguravam homens; rumor atravessava sem pedir licença.
+Enquanto esperava Daryon, Alyra observou Kaendar pela janela. Dos mercados, os boatos já alcançavam as rotas de comércio e os acampamentos.
 
 Daryon chegou pouco depois, sem demonstrar pressa.
 
@@ -180,7 +180,7 @@ Um deles respondeu sem hesitar.
 
 Alyra seguiu sem agradecer. Cal Kadrir estava onde deveria estar.
 
-Kadrir era jovem para o título. A armadura, as fivelas, a espada e até a raiz branca na têmpora pareciam novas demais para um cargo que Edran carregara por vinte e cinco ciclos.
+Kadrir era jovem para o título. A armadura, as fivelas e a espada ainda não tinham as marcas de uso que Kaelina se acostumara a ver em Edran.
 
 Quando Alyra apareceu, ele se curvou.
 
@@ -196,7 +196,7 @@ Alyra caminhou até as câmaras de banho do anel alto, de pedra clara, bacias la
 
 — Feche — disse ela.
 
-Ele fechou. O som da madeira encaixando na tranca pareceu mais alto do que deveria. Alyra caminhou até a borda da bacia. A água soltava vapor lento, perfumado com ervas amargas. Tirou o manto dos ombros e o deixou cair sobre um banco de pedra. Kadrir manteve os olhos baixos e Alyra reparou.
+Ele fechou. A tranca estalou quando a porta se fechou. Alyra caminhou até a borda da bacia. A água soltava vapor lento, perfumado com ervas amargas. Tirou o manto dos ombros e o deixou cair sobre um banco de pedra. Kadrir manteve os olhos baixos e Alyra reparou.
 
 — Está com medo de olhar para mim?
 
