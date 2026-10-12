@@ -52,11 +52,11 @@ Olhou em volta, procurando alguma coisa familiar.
 
 Jokara não respondeu.
 
-Não havia madeira viva, raízes trançadas ou estruturas moldadas para ceder ao vento. Os muros saíam do chão em linhas retas, feitos de blocos grandes assentados uns sobre os outros. Algumas bases alargavam-se perto do solo, como se toda a construção tivesse sido pensada para empurrar o próprio peso para baixo. Portas retangulares ainda conservavam lintéis de pedra inteira. Adiante, passagens sucessivas e pátios estreitos convergiam para o mesmo ponto.
+Não havia madeira viva, raízes trançadas ou estruturas moldadas para ceder ao vento. Os muros saíam do chão em linhas retas, feitos de blocos grandes assentados uns sobre os outros. Algumas bases alargavam-se perto do solo, como se toda a construção tivesse sido pensada para empurrar o próprio peso para baixo. Portas retangulares ainda conservavam lintéis de pedra inteira. Quanto mais avançavam, mais as paredes pareciam conduzi-las para dentro: passagens sucessivas, pátios estreitos e corredores que convergiam na mesma direção.
 
 Aquilo não tentava ser leve.
 
-Encontraram os restos de uma rua estreita, degraus gastos e paredes reforçadas por pilares quadrados. Diferente de Etérea, cada estrutura ali parecia feita para suportar o peso da próxima.
+Continuaram. Encontraram restos de uma rua estreita, degraus gastos no centro e paredes reforçadas por pilares quadrados. Onde Etérea abria espaço para o ar, aquele lugar fechava, sustentava e direcionava. Mesmo destruído, parecia ter sido construído ao redor de alguma coisa.
 
 — Nunca vi nada construído assim — disse Nestira.
 

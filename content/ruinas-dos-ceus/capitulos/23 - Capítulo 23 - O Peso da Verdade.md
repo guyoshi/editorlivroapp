@@ -1,6 +1,6 @@
 Todos dormiam. Jokara, no entanto, fingia dormir.
 
-Havia três Sopros do Silêncio que Jokara observava Gabasteri sair escondido. Ele esperava todos adormecerem, conferia o entorno do abrigo e desaparecia entre as árvores. Não dizia aonde ia.
+Era o terceiro Sopro do Silêncio em que prestava atenção ao mesmo padrão. Gabasteri esperava as respirações ficarem profundas, conferia o entorno do abrigo e desaparecia entre as árvores. Nunca dizia aonde ia.
 
 Naquele Sopro do Silêncio, levou consigo o saco onde guardava parte dos alimentos, ferramentas e as armas que recolhia antes do descanso, inclusive a adaga de Jokara.
 
@@ -206,7 +206,7 @@ O silêncio que veio depois foi longo o bastante.
 
 Jokara não precisava que ele dissesse “sim”.
 
-Lembrou-se de Platisa desaparecendo nos braços dele e de Maletar enfraquecendo enquanto Gabasteri assumia o controle da água, da comida e da rota. Agora ouvira o homem tratar aquelas mortes como um cálculo.
+Pensou em Platisa desaparecendo entre as árvores nos braços dele. Em Maletar ficando mais fraco enquanto Gabasteri assumia água, comida e rota. No modo como acabara de falar de pessoas mortas como se fossem erros numa conta.
 
 Cinco ciclos explicavam as rotas, as feras, a água e as cicatrizes.
 

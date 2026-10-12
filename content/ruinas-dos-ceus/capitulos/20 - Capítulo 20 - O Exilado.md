@@ -16,7 +16,7 @@ Andaram o sopro inteiro. Ninguém dizia o nome de Platisa.
 
 Jokara cambaleava. Sem o bastão, o corpo dela dependia do braço firme de Nestira e do ombro de Mariv, que mesmo ferido não reclamava. O chão era irregular e molhado.
 
-Maletar estava mais cansado a cada sopro, mas não descansava. Recolhia galhos pelo caminho e testava a firmeza de cada um. Em alguns momentos parava para beber e tossia logo depois, reclamando do ar úmido. Finalmente encontrou um tronco fino e sólido, pesado o bastante para apoiar, leve o bastante para carregar.
+Maletar parecia bem cansado, mais do que nos sopros anteriores, mas não se permitia descansar. Ia pegando cada galho do caminho e testando nas mãos. Em alguns momentos parava para beber e tossia logo depois, reclamando do ar úmido. Finalmente encontrou um tronco fino e sólido, pesado o bastante para apoiar, leve o bastante para carregar.
 
 — Até acharmos coisa melhor.
 
@@ -246,7 +246,7 @@ Ninguém dormiu mais naquele Sopro do Silêncio.
 
 De tarde, Maletar ainda estava deitado onde havia morrido, o corpo começando a adquirir a rigidez que nenhum deles queria reconhecer. Durante muitos sopros, parecera grande demais para aquele mundo. Era o homem que erguia abrigos, carregava feridos, segurava cordas que escapavam das mãos dos outros. Morto, ocupava pouco espaço.
 
-Nestira estava ajoelhada ao lado dele, os olhos inchados. Mariv desviava o rosto. Jokara se apoiava no bastão, enquanto Loutes observava em silêncio, junto à árvore. Alguns passos adiante, Gabasteri examinava a mata.
+Nestira permanecia ajoelhada ao lado dele, os olhos inchados. Mariv não conseguia olhar por muito tempo. Jokara estava de pé, apoiada no bastão. Loutes permanecia perto da árvore, quieto demais até para ele. Gabasteri permanecia alguns passos afastado, examinando a mata como se a morte tivesse apenas acrescentado mais uma tarefa ao sopro.
 
 Foi Jokara quem falou primeiro.
 

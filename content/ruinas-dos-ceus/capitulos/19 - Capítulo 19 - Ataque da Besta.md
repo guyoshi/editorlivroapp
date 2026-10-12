@@ -222,7 +222,7 @@ Jokara apertou a haste da lança até os dedos doerem.
 
 — Uma coisa que vocês não querem ver.
 
-O chamado não se repetiu. Os insetos tinham parado de cantar. O fogo estalou às costas de Jokara, alto demais naquele silêncio, e alguém respirava pela boca perto dela. Jokara tentou descobrir de onde viria o ataque, mas cada tronco parecia esconder alguma coisa.
+O chamado não se repetiu. Por alguns instantes, a floresta pareceu prender a respiração com eles. Nem mesmo os insetos cantavam. O fogo estalou às costas de Jokara, alto demais naquele silêncio, e alguém respirava pela boca perto dela. Jokara tentou descobrir de onde viria o ataque, mas cada tronco parecia esconder alguma coisa.
 
 À esquerda, folhas se moveram, e Mariv girou a lança naquela direção. Nada apareceu. Um galho rangeu atrás do grupo; Nestira se virou, enquanto Loutes levantava a própria arma, as mãos tensas na madeira. Antes de qualquer novo som, veio o cheiro, úmido e podre, entrando pela garganta de Jokara e apertando-lhe o estômago.
 
@@ -308,4 +308,4 @@ Gabasteri não respondeu de imediato.
 
 — Ela não resistiu.
 
-Ninguém perguntou mais nada. Jokara se lembrou de Platisa apertando o zélon contra o peito e evitando olhar para Gabasteri naquela tarde. Estava cansada demais para pensar no que aquilo significava.
+Ninguém perguntou mais nada. Jokara sentiu o vazio daquelas palavras sem conseguir encaixá-lo em lugar algum. Por algum motivo, lembrou-se da conversa que tivera com Platisa naquela mesma tarde, do zélon apertado contra o peito e do modo como ela olhara para Gabasteri. A lembrança veio e passou, soterrada pelo cansaço e pela notícia.
