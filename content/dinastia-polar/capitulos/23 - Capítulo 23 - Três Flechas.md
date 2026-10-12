@@ -316,7 +316,7 @@ No centro, sobre uma pequena elevação, havia uma cadeira de madeira pesada, se
 
 Elis sentiu o estômago virar.
 
-O mesmo lugar. A mesma pedra onde de manhã tinham lido a sentença, onde Selina discutira com Hadris, onde Karesis gritara para abrir passagem. Kalan tinha saído dali algumas horas antes, atravessado a cidade inteira, e agora voltava ao mesmo ponto exato para morrer. Elis não soube nomear o que aquilo significava. Só sentiu o peso de andar tanto para nada.
+O mesmo lugar. A mesma pedra onde de manhã tinham lido a sentença, onde Selina discutira com Hadris, onde Karesis gritara para abrir passagem. Kalan saíra dali horas antes e atravessara a cidade inteira. Agora voltara ao mesmo lugar. Elis reconheceu a pedra junto ao portão e parou de andar.
 
 Guardas conduziram Kalan até lá. Sentaram-no. Prenderam os pulsos aos braços da cadeira. Passaram uma faixa larga pelo torso, presa com força suficiente para impedir qualquer movimento brusco.
 
@@ -366,7 +366,7 @@ O corpo dele reagiu ao impacto, um movimento brusco contra a faixa que o prendia
 
 O silêncio que se seguiu era maior do que qualquer som que tivesse vindo antes dele.
 
-Elis não processou aquilo de uma vez. Continuou olhando, como se ainda existisse um próximo passo: como se alguém fosse correr até lá para tirar as flechas, como se um curador fosse aparecer, como se Kalan fosse simplesmente se levantar, contrariando tudo, porque era isso que Kalan sempre fazia, se levantava, achava um jeito.
+Elis permaneceu olhando. Esperava que alguém corresse para arrancar as flechas, que um curador aparecesse, que Kalan se levantasse. Ele sempre encontrava um jeito.
 
 A cabeça dela continuava vivendo alguns segundos atrás do resto do mundo.
 

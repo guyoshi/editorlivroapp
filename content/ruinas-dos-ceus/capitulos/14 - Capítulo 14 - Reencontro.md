@@ -10,7 +10,7 @@ Em uma das tardes em que a chuva deu trégua, Jokara e Nestira se afastaram sozi
 
 Jokara conhecia aquela esperança. Também já imaginara Mirel deixando uma banca alguns instantes antes, tomando uma rua diferente, sendo empurrada pela multidão para longe da borda. Eram possibilidades pequenas, mas eram tudo o que tinham. — Eu penso nisso também. A gente viu o mercado cair, mas não viu mamãe.
 
-Nestira limpou a lama da raiz com os dedos, demorando mais do que precisava. — Se ela saiu, deve ter procurado por nós. — Deve ter tentado — respondeu Jokara. Jokara tornou a limpar a raiz, embora já não houvesse lama nela.
+Nestira limpou a lama da raiz com os dedos, demorando mais do que precisava. — Se ela saiu, deve ter procurado por nós. — Deve ter tentado — respondeu Jokara. Jokara baixou os olhos para a raiz nas mãos de Nestira.
 
 Continuaram andando entre as árvores. Alguns passos depois, Nestira apertou a raiz contra o peito. — Com Efepar não dá para imaginar uma passagem diferente. Eu ainda vejo ele correndo com os pais. Vejo os dois levantando os braços.
 
