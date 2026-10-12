@@ -424,7 +424,7 @@ Alguns usavam conchas pequenas ou dentes de peixe como enfeite, mas eram aquelas
 
 Os Vendrar calcularam distâncias e puxaram armas.
 
-Correntes foram puxadas. Arcos erguidos. Tubos de fogo apontados. Crianças desapareceram para trás das oficinas. Mulheres largaram ferramentas e pegaram lâminas. Homens subiram nas pedras. Seyra já tinha as duas facas na mão. Tavra apontava o tubo para os Tondrar, mas mantinha o braço afastado do próprio corpo. Tavra firmou o tubo e manteve o braço longe do corpo, evitando a saída lateral da chama.
+Correntes foram puxadas. Arcos erguidos. Tubos de fogo apontados. Crianças desapareceram para trás das oficinas. Mulheres largaram ferramentas e pegaram lâminas. Homens subiram nas pedras. Seyra já tinha as duas facas na mão. Tavra apontava o tubo para os Tondrar, mas mantinha o braço afastado do próprio corpo. Tavra firmou o tubo e manteve o braço afastado do corpo.
 
 Vorlan, por sua vez, perdeu o sorriso.
 

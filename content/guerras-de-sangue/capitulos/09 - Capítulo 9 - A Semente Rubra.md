@@ -12,7 +12,7 @@ Mesmo assim, o ritual continuava. Depois do plantio, a família deveria dividir 
 
 No centro do círculo, o jovem misturou o sangue às sementes da família, guardadas havia três gerações e escolhidas pela resistência a frio, praga, umidade e solo cansado. O Nó de Semente tremia em seu pulso.
 
-O Guardião de Semente, um homem velho de costas curvas e dedos longos, segurava a tigela diante dele. Tinha a pele enrugada pelo sol e os olhos de quem já vira campos morrerem sem gritar. Ao lado, a família do jovem acompanhava em silêncio. A mãe trazia o Nó de Semente queimado preso ao pulso, sinal de que perdera alguém para fome ou praga. O pai mantinha a cabeça baixa e contava nos dedos, distraído, enquanto esperavam.
+O Guardião de Semente, um homem velho de costas curvas e dedos longos, segurava a tigela diante dele. Tinha a pele enrugada pelo sol e os olhos de quem já vira campos morrerem sem gritar. Ao lado, a família do jovem acompanhava em silêncio. A mãe trazia o Nó de Semente queimado preso ao pulso, sinal de que perdera alguém para fome ou praga. O pai mantinha a cabeça baixa, sem tirar os olhos da terra pisoteada aos pés do filho.
 
 As famílias Buldar formavam círculos ao redor. Nós de Semente nos pulsos, pescoços e cintos marcavam família, dívida, casamento e luto.
 

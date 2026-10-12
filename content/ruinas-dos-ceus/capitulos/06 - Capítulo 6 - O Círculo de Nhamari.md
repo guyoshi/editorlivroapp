@@ -293,7 +293,7 @@ Loutes assentiu. Estavam tão perto que sentiam o perfume das oferendas queimada
 
 Jokara observou por entre as frestas.
 
-Havia pelo menos quatro oradores. Guardavam a entrada de uma clareira circular, marcada por pedras dispostas em espiral. No centro, uma árvore seca, quase morta, estava enfeitada com fios dourados e fitas esbranquiçadas. Ali, segundo sua mãe, era onde a mulher havia sido encontrada. O lugar era chamado de Círculo de Nhamari, um dos pontos mais sagrados de Etérea. Um lugar que, segundo a tradição, só os oradores em jejum podiam entrar, para escutar os ecos mais antigos das Correntes.
+Quatro Oradores guardavam a entrada de uma clareira, diante de pedras dispostas em espiral. No centro, uma árvore seca, quase morta, estava enfeitada com fios dourados e fitas esbranquiçadas. Ali, segundo sua mãe, era onde a mulher havia sido encontrada. O lugar era chamado de Círculo de Nhamari, um dos pontos mais sagrados de Etérea. Um lugar que, segundo a tradição, só os oradores em jejum podiam entrar, para escutar os ecos mais antigos das Correntes.
 
 Por que ela tentaria entrar ali?
 
@@ -329,7 +329,9 @@ Virou as páginas para trás.
 
 Figuras. Espirais, símbolos. Algumas mostravam o que pareciam ser tempestades, ilhas flutuantes, pessoas com olhos apagados. Outras, ela não compreendia. Até que uma a fez parar.
 
-Havia uma figura de pessoas atirando coisas no ar. Muito parecido com a cerimônia da última queda, feita na espiral anterior, onde as oferendas foram atiradas em homenagem a Xar. Outra figura mostrava vários nuaris caindo. E algo assim tinha acontecido há mais ou menos seis espirais. Pelo menos uma dúzia de nuaris caíram inesperadamente dos céus em direção ao abismo, em direção a nadírion. Muitos presenciaram a cena aterrorizados. Ninguém explicara aquelas quedas. Os Oradores alegavam que as aves estavam pesadas e transmitiam aquele peso a quem as comesse. Por isso, os ventos as mandaram para as ilhas inferiores. Voltou à página onde o livro estava aberto. Não tinha reparado no desenho da primeira vez. Ali, pintada em traços escuros e difusos, estava desenhada uma nuvem escura, cobrindo Etérea. E na página anterior, uma imagem do círculo do peso, com uma mulher no meio… uma mulher… sem um olho.
+Uma das figuras mostrava pessoas lançando oferendas ao ar, como na cerimônia em homenagem a Xar da espiral anterior. Outra retratava nuaris caindo. Jokara se lembrou das aves que, cerca de seis espirais antes, haviam despencado rumo a Nadirion diante de tantas testemunhas. Os Oradores diziam que estavam pesadas e que transmitiam esse peso a quem as comesse. Por isso, segundo eles, os ventos as tinham mandado para baixo.
+
+Jokara voltou à página aberta. Só então reparou na nuvem escura desenhada sobre Etérea. Na página anterior, o Círculo do Peso cercava uma mulher. Uma mulher sem um olho.
 
 Virou a página então para a página seguinte à da grande nuvem.
 
