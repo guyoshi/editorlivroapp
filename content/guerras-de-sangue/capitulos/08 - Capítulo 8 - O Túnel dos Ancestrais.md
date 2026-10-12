@@ -438,7 +438,7 @@ Ela tentou puxar a faca pequena presa ao cinto, mas a lâmina dele chegou antes,
 
 O homem atacou de novo. Kaelina escorregou, caiu sobre o ombro e rolou antes que a lâmina atingisse a pedra. Chutou o joelho dele, sem efeito.
 
-Kaelina tentou gritar, mas ele se lançou sobre ela, prendendo-lhe a boca com uma das mãos enquanto erguia a lâmina com a outra. O peso do corpo dele esmagou-lhe o peito contra a pedra. Ela tentou morder, empurrar, torcer o rosto, mas a força dele era calculada demais, limpa demais. Não havia fúria. Só execução.
+Kaelina tentou gritar, mas ele se lançou sobre ela, prendendo-lhe a boca com uma das mãos enquanto erguia a lâmina com a outra. O peso do corpo dele esmagou-lhe o peito contra a pedra. Ela tentou morder, empurrar, torcer o rosto, mas ele a imobilizou com movimentos precisos, sem desviar a lâmina de seu pescoço.
 
 Um jovem surgiu do escuro e atingiu o assassino de lado, arrancando-o de cima dela. Os dois rolaram pela pedra enquanto Kaelina tentava recuperar o ar.
 

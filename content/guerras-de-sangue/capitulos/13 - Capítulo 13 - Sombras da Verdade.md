@@ -406,7 +406,7 @@ O silêncio mudou. Kaelina aproximou-se o bastante para que apenas Alyra visse t
 
 Alyra pareceu atingida. Kaelina saiu do salão.
 
-Os corredores pareciam outra cidade depois da reunião. Mais escuros, mesmo com tochas. Mais estreitos, mesmo sendo os mesmos. Kaelina não foi ao quarto. Não foi à muralha. Não foi à sala de mapas. Desceu por uma passagem lateral até o quarto onde Marken permanecia guardado.
+Depois da reunião, Kaelina não procurou o quarto, a muralha ou a sala de mapas. Desceu pela passagem lateral até onde Marken permanecia guardado.
 
 Do lado de fora, dois soldados vigiavam a porta. Um deles era Lorian, homem jovem do anel médio, sério demais para a idade, com um nariz quebrado antigo e uma tendência a responder antes de pensar. O outro, mais velho, chamava-se Odris, e tinha mãos grandes de carregador transformado em guarda. Lorian endireitou-se.
 

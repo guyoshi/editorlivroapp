@@ -6,7 +6,7 @@ Em estações generosas, grão-de-caule, raízes vermelhas e grão-de-Dorran enc
 
 Agora o campo parecia envelhecido.
 
-A terra ainda era escura, ainda era rica, ainda guardava em si aquela aparência de ventre profundo que fazia outros clãs invejarem os Buldar. Mas havia rachaduras finas cortando o chão em linhas irregulares. Os canais de Maldrin estavam baixos, mostrando lama dura nas bordas. Algumas folhas, mais adiante, dobravam-se para dentro de si mesmas, como mãos fechadas. O verde perdera brilho. O amarelo começava a aparecer cedo demais. Num canto do campo, marcas recentes de javalhos de espinho cortavam a terra, focinhos cavando onde a raiz ainda nem engrossara. Em ano bom, aquilo virava panela funda e riso de trabalhador. Em ano ruim, virava presságio.
+A terra continuava escura e rica, cobiçada por outros clãs. Mesmo ali, porém, rachaduras finas já a cortavam. Os canais de Maldrin estavam baixos, mostrando lama dura nas bordas. Algumas folhas, mais adiante, dobravam-se para dentro de si mesmas, como mãos fechadas. O verde perdera brilho. O amarelo começava a aparecer cedo demais. Num canto do campo, marcas recentes de javalhos de espinho cortavam a terra, focinhos cavando onde a raiz ainda nem engrossara. Nos anos bons, aqueles campos enchiam panelas. Naquele, os trabalhadores contavam as folhas amareladas.
 
 Mesmo assim, o ritual continuava. Depois do plantio, a família deveria dividir o Caldo da Próxima Estação, feito com parte da última colheita e servido como promessa de que ainda haveria outra.
 

@@ -514,7 +514,7 @@ Viu bocas abertas sem som. Homens correndo devagar demais. Fumaça dobrando-se s
 
 Ela estava no chão, a poucos passos, sem arma, o rosto marcado por sangue. O braço esquerdo pendia de forma errada. O tarrak dela jazia perto, morto, atravessado por um estilhaço de madeira e metal que entrara pelo pescoço e saíra junto à sela. Se o animal não tivesse recebido aquilo, teria sido ela.
 
-Alyra tentava mover-se, mas não conseguia encontrar equilíbrio. Pela primeira vez desde que era menina, parecia não saber onde estava o centro do mundo. Edran levantou-se e cambaleou até ela. Alyra ergueu os olhos, atordoada.
+Alyra tentou se erguer, mas cambaleou e precisou firmar a mão no chão. Olhou em volta, atordoada. Edran levantou-se e cambaleou até ela. Alyra ergueu os olhos, atordoada.
 
 — O que...
 
