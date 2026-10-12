@@ -38,7 +38,7 @@ Rendar desceu o olhar até a pulseira escura, velha e apertada demais para o bra
 
 Carroças formavam um semicírculo, sacos estavam cobertos com couro encerado e bravões de pescoço grosso esperavam em linhas separadas, alguns com placas de madeira protegendo a carga contra pancadas e bragores de mata.
 
-Buldar contavam pão, raiz e carne em cestos baixos. Do outro lado, Tondrar famintos esperavam de pé, lâminas à mão. Alguns olhavam para Rendar como se esperassem que o último Fendelar dissesse aos vivos o que fazer.
+Buldar contavam pão, raiz e carne em cestos baixos. Do outro lado, Tondrar famintos esperavam de pé, lâminas à mão. Alguns encaravam Rendar. Ele evitou os olhares; não tinha resposta para dar.
 
 Um cesto foi empurrado contra o peito de Rendar. Sobre o pão escuro, havia um único bolinho de pão-de-barro, pequeno e pesado, desses que os Buldar entregavam quando o grão precisava ser contado até a última porção.
 
@@ -156,7 +156,7 @@ Os Tondrar odiaram lama, espera e dependência dos cestos Buldar. Os Buldar cava
 
 Debaixo das árvores, Rendar mantinha o arco à mão por hábito. Aquele abrigo, com centenas de pessoas respirando juntas, parecia barulhento demais para alguém de Mirval.
 
-Foi no fim da tarde que Hadrun se sentou ao lado dele. O velho trazia uma tigela de barro coberta por uma folha larga. Sentou-se com dificuldade, como se o corpo pedisse negociação a cada movimento, e estendeu a comida.
+Foi no fim da tarde que Hadrun se sentou ao lado dele. O velho trazia uma tigela de barro coberta por uma folha larga. Sentou-se com dificuldade, apoiando uma mão no joelho, e estendeu a comida.
 
 — Come.
 

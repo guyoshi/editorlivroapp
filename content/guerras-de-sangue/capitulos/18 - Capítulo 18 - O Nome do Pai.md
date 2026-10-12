@@ -76,7 +76,7 @@ Cal parou. Ela contornou a mesa e aproximou-se da caixa. Daryon a colocou sobre 
 
 Ela cortou a corda. A cera partiu-se. Antes que a tampa se abrisse por completo, veio o cheiro de carne morta, sangue frio e folha-de-vedação. Kadrir endureceu a mandíbula.
 
-Alyra abriu a caixa. Dentro havia uma cabeça raspada, pele escura marcada por tinta negra borrada, a boca meio aberta, dentes cerrados como se ainda mordesse a última palavra. A pintura descia dos olhos até a mandíbula em linhas quebradas pela morte. Tondrar. A orelha esquerda tinha sido cortada. O pescoço, separado com lâmina limpa.
+Alyra abriu a caixa. Dentro havia uma cabeça raspada, pele escura marcada por tinta negra borrada, a boca meio aberta, dentes cerrados como se ainda mordesse a última palavra. A pintura descia dos olhos até a mandíbula, interrompida pelos cortes na pele. Tondrar. A orelha esquerda tinha sido cortada. O pescoço, separado com lâmina limpa.
 
 Ao lado da cabeça havia um pequeno conjunto de objetos: três pedras cinzentas presas por fio metálico, uma argola de sobrancelha arrancada com pele seca ainda presa, um pedaço de couro com marcas de contrato e uma tira de pano úmido que cheirava a rio. Cal aproximou-se mais.
 
@@ -220,7 +220,7 @@ Cal olhou para a caixa fechada sobre a mesa e assentiu. Alyra olhou para Daryon.
 
 Kadrir caminhava ao lado dela, e os guardas se endireitavam ao reconhecer o Primeiro Kae.
 
-Ao chegarem à galeria oeste, dois guardas estavam à porta. Um deles era Lorian, jovem demais para esconder susto diante dela. O outro, mais velho, chamava-se Harvus Porta-Seca e mantinha a mão perto da lança, não por ameaça, mas por hábito de homem que sabia que portas mudavam de significado conforme quem queria atravessá-las. Os dois se endireitaram. Alyra parou diante deles.
+Ao chegarem à galeria oeste, dois guardas estavam à porta. Um deles era Lorian, jovem demais para esconder susto diante dela. O outro, Harvus Porta-Seca, era mais velho e mantinha a mão perto da lança. Ao reconhecer Alyra, endireitou os ombros. Os dois se endireitaram. Alyra parou diante deles.
 
 — Abram.
 

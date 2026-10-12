@@ -84,7 +84,7 @@ Kaelina ergueu os olhos.
 
 Kaelina sentou-se e leu.
 
-A morte de Orionus, no registro oficial, parecia quase respeitosa. O soberano sentira-se mal após uma refeição simples nas câmaras internas. Não houvera ferida. Não houvera luta. O corpo fora encontrado por Ylvena, serva de casa, nascida em Noreval, transferida para Kaendar quinze ciclos antes, com histórico de serviço discreto. A primeira acusação partira de guardas da câmara, depois reforçada por uma lista de criados que afirmavam tê-la visto perto da bebida servida ao soberano. O termo usado não era veneno, não no início. Era mal oculto. Depois passou a ser substância amarga, depois preparação indevida, depois suspeita de atentado contra o sangue soberano.
+O registro oficial descrevia a morte de Orionus sem mencionar suspeitas. O soberano sentira-se mal após uma refeição simples nas câmaras internas. Não houvera ferida. Não houvera luta. O corpo fora encontrado por Ylvena, serva de casa, nascida em Noreval, transferida para Kaendar quinze ciclos antes, com histórico de serviço discreto. A primeira acusação partira de guardas da câmara, depois reforçada por uma lista de criados que afirmavam tê-la visto perto da bebida servida ao soberano. O primeiro documento mencionava um mal oculto. Nas cópias seguintes, as expressões mudavam: substância amarga, preparação indevida, suspeita de atentado contra o sangue soberano.
 
 Kaelina leu o nome três vezes. Ylvena Polar. Noreval, pequena comunidade a noroeste de Kaendar.
 
