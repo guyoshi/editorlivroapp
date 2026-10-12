@@ -1,6 +1,6 @@
 Maruva começava a acordar muito antes de o sol conseguir alcançar suas ruas.
 
-A luz já clareava as partes mais altas de Kaeliran quando as passagens inferiores ainda permaneciam cobertas pelas sombras dos prédios, passarelas e telhados amontoados. Uma carroça atravessava a rua principal fazendo as rodas saltarem sobre pedras desniveladas, enquanto o tarrak preso à frente de uma casa próxima batia um dos cascos no chão repetidamente, irritado com alguma coisa que apenas ele parecia compreender. Panelas começavam a bater nas cozinhas coletivas, água era puxada em baldes, alguém discutia porque outra pessoa havia usado lenha demais durante a noite e, do outro lado da passagem, uma criança chorava com determinação suficiente para acordar quem ainda tentasse dormir.
+A luz já clareava as partes mais altas de Kaeliran quando as passagens inferiores ainda permaneciam cobertas pelas sombras dos prédios, passarelas e telhados amontoados. Uma carroça atravessava a rua principal fazendo as rodas saltarem sobre pedras desniveladas, enquanto um tarrak amarrado diante de uma casa batia o casco no chão, impaciente. Panelas começavam a bater nas cozinhas coletivas, água era puxada em baldes, alguém discutia porque outra pessoa havia usado lenha demais durante a noite e, do outro lado da passagem, uma criança chorava com determinação suficiente para acordar quem ainda tentasse dormir.
 
 Dentro da casa, Kalan já trabalhava havia algum tempo. Elis sentiu o cheiro antes mesmo de entrar.
 
@@ -210,7 +210,7 @@ Todo mundo parecia mais interessante assim.
 
 Ela reconheceu a voz e perdeu imediatamente parte do interesse no mundo.
 
-Rovan Polar estava numa janela alguns metros abaixo, olhando para ela com a mesma expressão que reservava para lixo acumulado perto de uma porta. Era um homem magro, já passando dos sessenta ciclos, com o rosto comprido e os cabelos grisalhos cuidadosamente penteados com óleo. Mesmo trabalhando perto de couro e sujeira, mantinha as mãos limpas de um jeito quase obsessivo. No peito, presa à camisa azul desbotada, carregava uma velha insígnia Polar que polia tanto que provavelmente brilhava mais do que qualquer coisa dentro da casa.
+Rovan Polar estava numa janela alguns metros abaixo, olhando para ela com a mesma expressão que reservava para lixo acumulado perto de uma porta. Era um homem magro, já passando dos sessenta ciclos, com o rosto comprido e os cabelos grisalhos cuidadosamente penteados com óleo. Mesmo trabalhando perto de couro e sujeira, mantinha as mãos limpas de um jeito quase obsessivo. No peito, sobre a camisa azul desbotada, a velha insígnia Polar brilhava de tanto ser polida.
 
 — Não vou não — respondeu Elis.
 
@@ -286,7 +286,7 @@ Elis nunca perguntara o suficiente para descobrir por quê.
 
 Seguiu sem destino por algum tempo.
 
-Passou diante de uma casa que sempre tinha as janelas abertas pela metade, mesmo quando todas as outras fechavam por causa do vento. Tecidos vermelhos e violetas cobriam parte das entradas, havia cheiro de perfume barato misturado com bebida e, quase sempre, alguém ria lá dentro alto demais. Homens entravam olhando para os lados como se esperassem não encontrar ninguém conhecido e saíam fazendo exatamente a mesma coisa. Tair adorava passar naquela rua. Segundo ele, era o caminho mais curto entre a casa e o vendedor de carvão. 
+Passou diante de uma casa que sempre tinha as janelas abertas pela metade, mesmo quando todas as outras fechavam por causa do vento. Tecidos vermelhos e violetas cobriam parte das entradas, havia cheiro de perfume barato misturado com bebida e, quase sempre, alguém ria lá dentro alto demais. Homens olhavam para os lados antes de entrar e repetiam o gesto ao sair. Tair adorava passar naquela rua. Segundo ele, era o caminho mais curto entre a casa e o vendedor de carvão. 
 
 Não era. Elis estava decidindo entre os canais antigos e os telhados quando um urro a fez parar. Conhecia aquele som.
 
