@@ -44,7 +44,7 @@ Vetarius sentiu, ouvindo aquilo, o contorno antigo e familiar de uma conversa qu
 
 — Não vim pedir sua permissão para nada — respondeu o Sumo, sem nenhuma agressividade na frase, só a constatação simples de um fato. — Vim para que você soubesse, diretamente de mim, que uma nova interferência não poderá ser simplesmente ignorada. Da próxima vez, a Raiz vai responder à altura do que for feito contra ela, com ou sem a aprovação do trono.
 
-Não era uma ameaça gritada. Era pior do que isso: era uma ameaça dita com a mesma tranquilidade de quem anunciava o horário de um sino, e Vetarius entendeu, com um desconforto que preferiria não sentir tão cedo pela manhã, que o Sumo Vigia não estava blefando. Passara a vida inteira cedendo território ao Culto em pequenas doses, sempre em nome de manter a paz que permitia governar sem precisar brigar por tudo ao mesmo tempo, e só agora, diante daquele homem magro e calmo sentado em sua própria sala, via com clareza o tamanho do que tinha cedido.
+O Sumo Vigia fizera a ameaça com a tranquilidade de quem anunciava o horário de um sino. Vetarius sabia que ele não estava blefando. Passara a vida inteira cedendo território ao Culto em pequenas doses, sempre em nome de manter a paz que permitia governar sem precisar brigar por tudo ao mesmo tempo, e só agora, diante daquele homem magro e calmo sentado em sua própria sala, via com clareza o tamanho do que tinha cedido.
 
 Ainda assim, não ia entregar Dareth àquilo. Não depois de vinte anos de dívida que nunca tinha realmente terminado de pagar.
 

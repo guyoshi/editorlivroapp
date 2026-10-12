@@ -8,7 +8,7 @@ Registro de origem: transferido.
 
 Alteração/desvinculação: Ref. DV-0417.
 
-As mesmas três linhas, o mesmo código sem explicação nenhuma grudado a ele, apontando para algum arquivo que Elis não tinha e talvez nunca tivesse. Releu duas vezes, não porque esperasse encontrar alguma coisa nova ali, mas porque reler parecia a única forma de continuar perto da mãe que tinha, por enquanto, e depois separou, com cuidado, os papéis de Darven: o nome do garoto, o símbolo repetido ao lado dos dois nomes que ela já sabia significar pai e mãe, o mesmo símbolo bordado em roupas que via passar do outro lado das ruas quando alguém rico atravessava Maruva sem olhar para os lados.
+As mesmas três linhas, o mesmo código sem explicação nenhuma grudado a ele, apontando para algum arquivo que Elis não tinha e talvez nunca tivesse. Releu duas vezes, demorando-se na única pista que tinha sobre a mãe, e depois separou, com cuidado, os papéis de Darven: o nome do garoto, o símbolo repetido ao lado dos dois nomes que ela já sabia significar pai e mãe, o mesmo símbolo bordado em roupas que via passar do outro lado das ruas quando alguém rico atravessava Maruva sem olhar para os lados.
 
 Polar.
 
