@@ -10,7 +10,7 @@ A semana passou depressa, do jeito que as coisas passam quando ninguém tem temp
 
 Kaendar começou a se transformar para a viagem quase da noite para o dia. Caixas eram fechadas e empilhadas nos pátios internos, listas conferidas e reconferidas por escribas com os dedos manchados de tinta, animais separados por função e temperamento nos currais temporários montados perto dos estábulos principais. Cozinheiros discutiam entre si sobre quantidade de provisões, quantos dias de viagem, quantas bocas, quanto peso as carroças aguentariam sem quebrar eixo no meio do caminho. Nobres discutiam alojamentos com uma urgência desproporcional ao problema real, como se a distância entre uma tenda e outra fosse capaz de decidir alguma coisa importante. Guardas recebiam novas escalas, memorizavam turnos, ajustavam posições. O equipamento do campeão era revisado peça por peça, cada correia testada, cada fivela verificada duas vezes. Documentos diplomáticos seguiam à frente da comitiva, enviados por mensageiros rápidos para que as outras dinastias soubessem, com antecedência suficiente, quando esperar a chegada dos Polar.
 
-Dareth treinava todos os dias, sozinho a maior parte do tempo, descansando pouco, evitando qualquer cerimônia que não fosse estritamente necessária. Não procurou Vetarius nenhuma vez. Selina aparecia cada vez menos pelos corredores que os dois costumavam cruzar, e quando aparecia, falava o mínimo indispensável, sem nada da presteza cortante de sempre, sem nada da energia que costumava preencher qualquer sala em que estivesse.
+Dareth treinava quase sempre sozinho, descansava pouco e evitava as cerimônias. Não procurou Vetarius nenhuma vez. Selina aparecia cada vez menos pelos corredores que os dois costumavam cruzar, e quando aparecia, falava o mínimo indispensável, sem nada da presteza cortante de sempre, sem nada da energia que costumava preencher qualquer sala em que estivesse.
 
 Dareth notou, num desses encontros breves, que Amira não estava mais ao lado dela. Notou, e não perguntou na hora. Guardou a observação para depois, do jeito que guardava a maioria das coisas que via.
 
@@ -122,7 +122,7 @@ Ao mesmo tempo, junto às margens do Rio Grande, Dareth notou comunidades cuja a
 
 — Agora, sim — Selina disse.
 
-Não explicou mais do que isso, e Dareth guardou a resposta para pensar depois, devagar, do jeito que costumava guardar as coisas que ainda não conseguia encaixar por completo. Território político e identidade de um povo, ao que parecia, não eram exatamente a mesma coisa.
+Dareth não insistiu. Guardou a resposta para pensar depois, quando tivesse tempo de entender como um povo podia pertencer a uma terra sem pertencer politicamente a quem a governava.
 
 Viajaram até o fim da tarde, quando a comitiva finalmente parou para montar acampamento.
 
