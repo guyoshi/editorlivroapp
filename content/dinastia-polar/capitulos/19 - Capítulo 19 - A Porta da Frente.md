@@ -26,7 +26,7 @@ Piscou para ela, um gesto rápido e deliberadamente incompleto, e não disse mai
 
 Na manhã seguinte, vestida daquele jeito, Elis passou por um vidro empoeirado de uma loja fechada e precisou olhar duas vezes antes de reconhecer o próprio reflexo.
 
-O efeito da roupa a acompanhou dentro dos portões da Cidade Interna de um jeito que nenhuma explicação teria preparado. Um funcionário que noutro dia teria perguntado o que ela fazia ali simplesmente abriu espaço na passagem sem erguer os olhos do próprio trabalho. Ninguém a mandou voltar. Ninguém pediu documento na primeira vez, nem na segunda. A roupa valia quase tanto quanto um nome, e Elis sentiu, andando por aquelas ruas largas e limpas com um tecido bom demais sobre os ombros, uma espécie de vertigem que não sabia se vinha do medo ou do contrário dele.
+O efeito da roupa a acompanhou dentro dos portões da Cidade Interna de um jeito que nenhuma explicação teria preparado. Um funcionário que noutro dia teria perguntado o que ela fazia ali simplesmente abriu espaço na passagem sem erguer os olhos do próprio trabalho. Ninguém a mandou voltar. Ninguém pediu documento na primeira vez, nem na segunda. Elis avançou pelas ruas largas, incomodada com a facilidade com que a deixavam passar. Alisou a gola da roupa emprestada.
 
 Seguiu as indicações de Vesna sem precisar parar para perguntar a ninguém. A avenida reta. O cruzamento. E então, erguendo-se sobre uma base tão larga que sozinha parecia maior do que qualquer casa que Elis já tivesse visto de dentro, a estátua armada que agora sabia se chamar Teryon.
 
@@ -70,7 +70,7 @@ Virou-se devagar, como quem não tem certeza de ter ouvido o próprio nome de ou
 
 — Neiva era minha mãe.
 
-O silêncio que se seguiu pareceu durar mais do que qualquer silêncio devia durar. Ladira se aproximou, um passo, depois outro, os olhos duros presos no rosto de Elis como quem procura, e encontra, um parentesco que não devia estar ali.
+Ladira ficou em silêncio. Ladira se aproximou, um passo, depois outro, os olhos duros presos no rosto de Elis como quem procura, e encontra, um parentesco que não devia estar ali.
 
 — Como você se chama?
 

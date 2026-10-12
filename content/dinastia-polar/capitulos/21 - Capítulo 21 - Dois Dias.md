@@ -320,7 +320,7 @@ Hadris não precisaria negar o conteúdo. Podia reconhecer a referência de cabe
 
 Selina dobrou os papéis e guardou junto ao corpo.
 
-Os documentos mostravam que Neiva tinha nascido Polar e, depois, pedido formalmente a própria desvinculação. A questão real não era essa: era o que aquela desvinculação tinha feito, ou deixado de fazer, com a origem dos filhos que vieram depois. Selina não ia se enganar pensando que aquilo bastava para provar que Kalan e Elis eram Polar. Mas existia ali uma pergunta jurídica de verdade: a classificação atual dos dois era Nular; a origem materna era Polar; não havia clareza nenhuma sobre o que acontecia com a linhagem depois de uma desvinculação formal; e isso, sozinho, já poderia justificar uma revisão antes de qualquer sentença irreversível.
+Os documentos mostravam que Neiva nascera Polar e depois pedira a própria desvinculação. Isso não provava que Kalan e Elis fossem Polar: ambos estavam registrados como Nular. Mas os registros não esclareciam o efeito da desvinculação sobre a linhagem dos filhos. Selina tinha um argumento para pedir a revisão da classificação antes de uma sentença irreversível.
 
 Hadris teria os próprios argumentos prontos. Neiva já estava desvinculada havia anos. Os filhos tinham sido registrados Nular desde o nascimento. Nenhuma Casa os reconheceu depois. Ladira não os reconheceu. Não houve validação religiosa nenhuma em momento algum. Origem e pertencimento, ele diria, não eram a mesma coisa.
 
@@ -380,7 +380,7 @@ Havia outro jeito.
 
 Não faria Orel contar a história inteira. Ia apresentá-lo. Explicar, com todas as palavras, a natureza da dificuldade dele. Deixar que o próprio corpo falasse o que a boca não conseguia. E depois pressionar os garotos Polar que estiveram lá naquela noite: eles tinham ego suficiente para negar covardia em público, e negar covardia, em muitos casos, significava confirmar o resto sem perceber.
 
-Ao sair da casa, Selina organizou mentalmente o que já tinha: Tair, capaz de explicar a origem exata do erro sobre Darven; um registro que talvez confirmasse esse erro; Orel, prova visível da agressão mesmo sem discurso; Cairon, testemunha do histórico de trabalho de Kalan; os documentos originais que mostravam a possível origem Polar de Neiva; a possibilidade real de questionar a classificação jurídica de Kalan; Dareth, capaz de falar sobre a escalada do próprio Culto; e Vesna, que teria sido a testemunha mais forte de todas, e que tinha desaparecido antes de poder ajudar.
+Ao sair da casa, Selina repassou as testemunhas e provas. Tair poderia explicar o erro envolvendo Darven, talvez confirmado por um registro. Orel carregava as marcas da agressão; Cairon conhecia o histórico de trabalho de Kalan. Havia os documentos de Neiva e o testemunho de Dareth sobre os abusos do Culto. Vesna teria sido a testemunha mais forte, mas desaparecera.
 
 Kalan não estava inocentado. Mas, pela primeira vez desde que tudo aquilo começou, existia uma defesa de verdade.
 
