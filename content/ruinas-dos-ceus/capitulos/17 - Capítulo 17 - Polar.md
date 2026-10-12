@@ -153,7 +153,7 @@ Nestira ergueu os olhos, sem saber se aquilo era elogio.
 
 Ele se afastou sem acrescentar nada.
 
-Platisa nunca dizia que sabia muito, mas foi ela quem mostrou quais frutos deviam ser evitados: os de casca leitosa que queimavam a língua como brasa; foi ela quem revelou raízes que sustentavam um sopro inteiro de fome, quando tudo parecia deserto; foi ela quem ensinou que certas folhas, mastigadas, traziam frescor à febre, e outras, queimadas, afastavam enxames de insetos famintos.
+Platisa ensinou a reconhecer os frutos de casca leitosa que queimavam a língua, as raízes capazes de sustentar uma pessoa por um sopro inteiro e as folhas que aliviavam a febre ou, queimadas, afastavam insetos. Raramente falava de tudo o que sabia.
 
 — NÃO TOQUE NESSA! — gritou Platisa certa vez, quando Jokara se abaixava diante de uma flor azulada, coberta de pelos prateados finos. O grito atravessou a clareira, onde os demais cuidavam de suas tarefas. Platisa avançou com a mão erguida:
 
@@ -322,6 +322,6 @@ Mariv não respondeu de imediato.
 
 Jokara assentiu.
 
-O silêncio, agora, era outro: mais fácil, menos áspero. Remexeram as lanças e voltaram à pesca.
+Remexeram as lanças e voltaram à pesca. Dessa vez, Jokara não se afastou de Mariv.
 
 

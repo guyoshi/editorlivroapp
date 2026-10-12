@@ -64,7 +64,7 @@ O rosto dela se desfez num sorriso molhado.
 
 Mariv, de pé, observava a cena. Gabasteri limpou a poeira das mãos e apoiou o galho queimado junto a uma pedra.
 
-Platisa ergueu-se, ofegante, e puxou da cintura um pequeno saco de fibra azulada, ainda intacto apesar da queda. Jokara o reconheceu de Etérea: um zélon, como chamavam aquelas bolsas trançadas que guardavam oferendas nos rituais. O de Platisa, porém, já não guardava oferendas. Havia folhas separadas por fibras, pequenos pedaços de casca, sementes embrulhadas e marcas de nós que ela mesma parecia ter criado para distinguir o que já testara do que ainda podia ser perigoso.
+Platisa ergueu-se, ofegante, e puxou da cintura um pequeno saco de fibra azulada, ainda intacto apesar da queda. Jokara o reconheceu de Etérea: um zélon, como chamavam aquelas bolsas trançadas que guardavam oferendas nos rituais. O de Platisa, porém, guardava folhas separadas por fibras, pedaços de casca e sementes embrulhadas. Nós diferentes identificavam o que ela já testara e o que ainda podia ser perigoso.
 
 De dentro, Platisa retirou uma planta estranha, ainda úmida, com folhas transparentes como vidro esverdeado. Seu caule era flexível e exalava um aroma de chuva fresca. Antes de esmagá-la, virou uma das folhas contra a luz, observou as nervuras e cheirou a seiva na ponta dos dedos. Só então a passou sobre o próprio antebraço avermelhado.
 
@@ -303,7 +303,7 @@ Platisa ergueu a cabeça de repente.
 
 Ninguém respondeu.
 
-Já era quase Sopro do Silêncio quando Gabasteri voltou pela trilha. Tinha folhas coladas aos braços, e o rosto limpo, sem uma gota de suor. Dois peixes médios pendiam em suas mãos. Jogou-os sobre uma pedra, sentou-se e disse:
+Gabasteri voltou pela trilha perto do Sopro do Silêncio, com folhas coladas aos braços e o rosto sem suor. Dois peixes médios pendiam em suas mãos. Jogou-os sobre uma pedra, sentou-se e disse:
 
 — O jantar não irá se preparar sozinho.
 
