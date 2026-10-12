@@ -216,7 +216,7 @@ Elis sentiu o próprio corpo ficar mais leve e mais pesado ao mesmo tempo, de um
 
 — Eu acho que Ladira Polar é, muito provavelmente, mãe de Neiva. — Vesna disse aquilo olhando direto para ela, sem suavizar. — O que faria dela sua avó. E avó de Kalan.
 
-Nenhuma das duas falou por um instante. A lamparina crepitou baixinho sobre a mesa, e Elis olhou para os dois papéis como se eles pudessem, de alguma forma, se transformar em outra coisa se ela olhasse com atenção suficiente.
+A lamparina crepitou sobre a mesa enquanto Elis examinava os dois papéis mais uma vez.
 
 — Onde ela mora?
 

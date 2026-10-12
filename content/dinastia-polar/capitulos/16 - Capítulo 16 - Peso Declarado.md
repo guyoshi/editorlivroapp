@@ -126,7 +126,7 @@ E objetos. Um recipiente Lusdar, fechado com a mesma precisão que Selina tinha 
 
 Alveris a recebeu vestindo uma sobreveste longa, quase até os tornozelos, azul-acinzentada e escura, tecido caro demais para qualquer trabalhador reconhecer pelo nome, bordados discretos nas bordas, fechos de dravenito fechando a gola. Luvas brancas, como sempre. O cachimbo estreito de cerâmica vitrificada já entre os dedos, a orva ainda não aceso.
 
-— Cadeira dos Caminhos e Estandartes — disse ele, com uma cortesia que não parecia soberana, mas que também não parecia subserviente. Parecia de um homem que queria provar que riqueza também podia produzir uma forma própria de nobreza. — Sente-se. Ou prefere andar? Sei que a senhora pensa melhor em movimento.
+— Cadeira dos Caminhos e Estandartes — disse ele com uma cortesia estudada, seguro da própria posição. — Sente-se. Ou prefere andar? Sei que a senhora pensa melhor em movimento.
 
 — Prefiro terminar isso rápido.
 
