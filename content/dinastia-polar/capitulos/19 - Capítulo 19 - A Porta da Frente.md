@@ -70,7 +70,7 @@ Virou-se devagar, como quem não tem certeza de ter ouvido o próprio nome de ou
 
 — Neiva era minha mãe.
 
-Ladira ficou em silêncio. Ladira se aproximou, um passo, depois outro, os olhos duros presos no rosto de Elis como quem procura, e encontra, um parentesco que não devia estar ali.
+Ladira a observou em silêncio. Deu um passo, depois outro, procurando no rosto de Elis uma semelhança que não queria encontrar.
 
 — Como você se chama?
 

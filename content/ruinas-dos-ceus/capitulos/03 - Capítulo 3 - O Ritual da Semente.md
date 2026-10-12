@@ -44,8 +44,6 @@ Nestira balançou a cabeça devagar.
 
 — Como se não pertencesse aos nossos ventos.
 
-
-
 Na manhã seguinte, Sersi retornou com folhas secas e uma infusão morna.
 
 — Ele comeu pouco, mas aceitou o mel e a selnara. Ainda tem cor nos olhos. Isso é bom — disse Mirel.
