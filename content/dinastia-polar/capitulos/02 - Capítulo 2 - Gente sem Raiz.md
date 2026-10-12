@@ -84,7 +84,7 @@ Elis puxou um dos recipientes na própria direção e bebeu um pouco.
 
 — Isso não conta como morar numa casa.
 
-Elis bebeu mais um gole. Não era novidade Karesis desaparecer. Algumas vezes ficava dias fora, outras vezes aparecia por poucas horas e desaparecia novamente antes que alguém perguntasse onde estivera. Kalan reclamava mais do que qualquer outro, principalmente quando alguma obrigação que deveria ser de Karesis acabava caindo sobre eles.
+Elis bebeu mais um gole. Karesis desaparecia com frequência. Às vezes ficava dias fora; em outras, aparecia por poucas horas e sumia antes que alguém perguntasse onde estivera. Kalan reclamava mais do que qualquer outro, principalmente quando alguma obrigação que deveria ser de Karesis acabava caindo sobre eles.
 
 — Ele vai aparecer — disse Elis. 
 
