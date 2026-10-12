@@ -202,7 +202,7 @@ Foi aí que outro homem, um pouco mais adiante, virou a cabeça na direção del
 Tair não precisou de mais explicação. Foram os dois juntos, os passos batendo contra a pedra fria, o homem gritando alguma coisa atrás deles que se perdeu no próprio eco da rua.
 Elis não correu para o portão. Correu para a mesma abertura por onde tinham subido, mergulhando de volta no escuro dos túneis sem hesitar, Tair logo atrás, a respiração já ofegante.
 
-O perseguidor os seguiu por um trecho curto, os passos ecoando atrás deles de um jeito que dava para acompanhar a distância só pelo som. Por um instante, os passos pareceram ganhar terreno, e Elis sentiu o próprio peito apertar com um medo que não sentia havia tempo, o mesmo tipo de medo que tinha sentido correndo atrás de Kalan pelas ruas de Vardeno. Não deixou que aquilo a fizesse hesitar. Escolheu uma passagem que parecia errada à primeira vista, mudou de nível descendo um degrau escondido sob água parada, passou por um dreno estreito que exigiu se abaixar quase até o chão.
+O perseguidor ganhou terreno. Elis reconheceu, pela rapidez dos passos atrás dela, o mesmo medo da corrida pelas ruas de Vardeno atrás de Kalan. Não diminuiu o ritmo. Escolheu uma passagem que parecia errada à primeira vista, mudou de nível descendo um degrau escondido sob água parada, passou por um dreno estreito que exigiu se abaixar quase até o chão.
 
 Tair a seguiu com dificuldade, raspando o ombro contra a pedra, mas conseguiu.
 
@@ -245,7 +245,7 @@ Elis contornou o prédio, avaliando cada janela, cada porta, com o mesmo olhar q
 — Isso não muda o fato de ser invasão.
 
 Mesmo assim, ele ajudou a forçar a abertura, os dedos escorregando na madeira úmida, resmungando o tempo todo sobre como aquilo era uma péssima ideia enquanto empurrava com a mesma força que ela.
-Dentro, o escuro era quase completo. Elis sentiu o cheiro antes de conseguir enxergar qualquer coisa: madeira, óleo, metal, poeira. Não era cheiro de casa abandonada. Era cheiro de lugar usado, só que usado por pouca gente e com cuidado para não deixar rastro.
+Dentro, o escuro era quase completo. Elis sentiu o cheiro antes de conseguir enxergar qualquer coisa: madeira, óleo, metal, poeira. Alguém usava aquele lugar, mas com cuidado para deixar poucos rastros. O cheiro de óleo e metal ainda tomava o ar.
 
 Tair acendeu a pequena lamparina que carregava sempre por hábito, uma chama fraca que mal iluminava um braço de distância ao redor deles, mas que já bastava para transformar sombras em formas reconhecíveis. Ele segurou a luz erguida, o próprio pulso tremendo um pouco, enquanto Elis avançava alguns passos, tocando as paredes do mesmo jeito automático que aplicava a qualquer lugar novo, como se as mãos pudessem entender o espaço antes dos olhos.
 
