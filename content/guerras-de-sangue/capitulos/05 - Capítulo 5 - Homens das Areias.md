@@ -4,7 +4,7 @@ No primeiro, a cidade chorou em público enquanto as famílias velavam os rapaze
 
 No quarto, Kaendar fingiu calma. Foi quando os mensageiros de Alyra começaram a voltar.
 
-Ela os recebeu numa sala pequena do anel alto, longe da Mesa da Raiz, longe dos olhos oficiais, longe das tábuas de registro de Maelis. A sala tinha paredes nuas, uma mesa curta de pedra e uma única lamparina de óleo de semente escura misturado com gordura velha, cujo cheiro lembrava cozinha pobre, couro aquecido e coisa escondida tempo demais. O aposento parecia uma sala de espera para gente que não devia ser vista esperando.
+Ela os recebeu numa sala pequena do anel alto, longe da Mesa da Raiz, longe dos olhos oficiais, longe das tábuas de registro de Maelis. A sala tinha paredes nuas, uma mesa curta de pedra e uma única lamparina de óleo de semente escura misturado com gordura velha, cujo cheiro lembrava cozinha pobre, couro aquecido e coisa escondida tempo demais. Era onde recebia quem não podia aparecer diante do Conselho.
 
 Daryon esperava ao lado da mesa, de pé, com as mãos unidas atrás do corpo. A lamparina deixava metade de seu rosto na sombra.
 
@@ -350,7 +350,7 @@ Alyra virou lentamente o rosto para ele. O homem empalideceu.
 
 A porta abriu. O quarto de Kaelina cheirava a papel, cinza fria e água limpa. Alyra entrou sem pressa.
 
-A irmã dormia numa cama baixa junto à parede oposta. Não profundamente, talvez. Kaelina nunca parecia pertencer completamente ao sono. Mesmo deitada, tinha a expressão de quem avaliava mapas por dentro. Uma mão descansava sobre o cobertor. A outra, perto demais da beira, como se pudesse procurar uma lâmina por hábito. Alyra ficou parada um instante. Irritou-se com a quietude da irmã, com a ordem do quarto, com os mapas cuidadosamente dobrados, com a bacia de água coberta por pano, com a velha peça de osso rachada de Orionus sobre a lareira apagada — com a forma como Kaelina até dormindo parecia tentar merecer o pai.
+A irmã dormia numa cama baixa junto à parede oposta. Tinha a testa franzida, a mesma expressão que fazia diante dos mapas. Uma mão descansava sobre o cobertor. A outra, perto demais da beira, como se pudesse procurar uma lâmina por hábito. Alyra demorou o olhar no quarto arrumado, nos mapas dobrados, na bacia coberta por pano. Sobre a lareira apagada estava a velha peça de osso rachada de Orionus. Mesmo dormindo, Kaelina conseguia irritá-la.
 
 Do lado esquerdo da mesa, havia uma caixa estreita de madeira escura. Alyra conhecia o tipo. Provas de fronteira, lacres, pequenas coisas sujas que conselhos insistem em transformar em argumento.
 

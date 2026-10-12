@@ -1,8 +1,6 @@
 Sete dias haviam passado desde que a Mesa da Raiz aprovara a Lei do Portão. Kaelina ainda lembrava o risco da lâmina de Alyra desenhando rotas sobre a mesa e desconfiava da facilidade com que a irmã aceitara a trégua.
 
-Naquela manhã, antes do sol tocar completamente as muralhas, ela estava diante da caixa de provas.
-
-A caixa de provas continuava sobre sua mesa. Kaelina abriu o fecho, afastou os panos manchados de barro, a tábua de pegadas e o couro rasgado.
+Naquela manhã, antes que o sol alcançasse as muralhas, Kaelina abriu a caixa de provas sobre a mesa. Afastou os panos manchados de barro, a tábua de pegadas e o couro rasgado.
 
 O talismã não estava ali.
 
@@ -96,7 +94,7 @@ Cal Edran apareceu à porta e olhou da caixa fechada para as duas irmãs.
 
 — Bom dia, minha soberana. A comitiva está pronta.
 
-Kaelina segurou a caixa por um instante antes de soltá-la. O talismã continuava desaparecido. A ausência dele parecia maior do que o objeto algum dia fora.
+Kaelina segurou a caixa por um instante antes de soltá-la. O talismã continuava desaparecido. Kaelina voltou os olhos para o espaço vazio na caixa.
 
 A comitiva deixou Kaendar pelo portão menor. Edran mantivera a saída discreta, mas havia olhos nas cortinas, nos corredores superiores e junto às portas.
 
@@ -376,7 +374,7 @@ Alyra ergueu a espada ensanguentada, e os homens da Guarda da Raiz responderam.
 
 — Traidores sob pão e sal! — gritou Alyra. — Traidores sob a Lei do Portão!
 
-Os homens repetiram: traidores. Kaelina ouviu a palavra ganhar ritmo enquanto Alyra dava sentido ao que acabara de acontecer antes que outra versão pudesse nascer.
+Os homens repetiram: traidores. Kaelina ouviu a palavra ganhar ritmo na boca dos guardas.
 
 Algo quente escorria pelo rosto de Kaelina. Ela levou a mão à face, e os dedos voltaram vermelhos.
 

@@ -224,7 +224,7 @@ Iressa saiu. No fim da tarde, Kaelina desceu sem anúncio, manto cerimonial ou c
 
 Levou apenas dois guardas à distância. Nos anéis inferiores havia roupa remendada e mãos rachadas, mas também zírrio secando nas janelas, caldo de krolho de lama nas panelas e crianças dividindo ovos de nharvo curados. A madeira rangia mais do que nos níveis altos, e os corredores cheiravam a peixe, metal, pão escuro e roupa molhada.
 
-Alguns a reconheceram de imediato, pela Ramagem antes do rosto, e se curvaram. Ela não a lavara. Se era para ser vista, que a vissem inteira. Outros demoraram um instante, como se a ideia de vê-la ali fosse tão improvável que o olhar precisasse pedir confirmação ao corpo. Uma mulher deixou cair um cesto de fibras. Um homem tocou dois dedos na testa e quase bateu a cabeça numa viga.
+Alguns a reconheceram de imediato, pela Ramagem antes do rosto, e se curvaram. Ela não a lavara. Se era para ser vista, que a vissem inteira. Outros hesitaram antes de se curvar. Uma mulher deixou cair um cesto de fibras. Um homem tocou dois dedos na testa e quase bateu a cabeça numa viga.
 
 Duas crianças interromperam uma corrida para olhar. Kaelina continuou.
 
@@ -238,7 +238,7 @@ Ao passar por um pátio pequeno entre duas casas de pedra baixa, ouviu gritos de
 
 — Minha mãe te derruba só olhando!
 
-Kaelina parou. No centro do pátio, seis garotos jogavam Raiz-de-Pedra, um jogo comum nos anéis baixos, nascido onde criança tinha pouco espaço, muita parede e energia demais para guardar quieta. A bola era de couro velho de balili, recheada com trapos, palha-de-sal e teimosia, remendada tantas vezes que parecia ter sobrevivido a mais estações do que alguns telhados.
+Kaelina parou. No centro do pátio, seis garotos jogavam Raiz-de-Pedra, um jogo comum nos anéis baixos, nascido onde criança tinha pouco espaço, muita parede e energia demais para guardar quieta. A bola, de couro velho de balili, estava recheada com trapos e palha-de-sal. Tinha tantos remendos que mal se via o couro original.
 
 Eles tentavam fazê-la passar entre três estacas fincadas no chão do lado adversário. Não se podia carregar a bola com as mãos por mais de três passos. Podia empurrar com ombro, prender com o pé, cair. Pelo que Kaelina lembrava, cair era quase parte obrigatória.
 
@@ -430,7 +430,7 @@ Lembrou-se do ditado dos Vigias: cátilo que rosna para nada costuma ter razão.
 
 Virou o rosto devagar. Entre dois pilares baixos, uma sombra se moveu. O primeiro pensamento dela foi absurdo: um guarda perdido. O segundo veio tarde demais.
 
-O homem saiu do escuro vestido de preto. Não era preto de luto, nem preto de forja, mas um preto tratado com resina escura, sem brilho, feito para beber a luz fraca dos túneis. Tecido assim não era roupa de guarda. Era ferramenta. O tecido colava-se ao corpo. O rosto estava coberto até abaixo dos olhos. Na mão direita, havia uma lâmina curta.
+O homem saiu do escuro. Usava tecido preto tratado com resina, sem brilho, ajustado ao corpo para não prender nas paredes do túnel. O rosto estava coberto até abaixo dos olhos. Na mão direita, havia uma lâmina curta.
 
 Ele avançou sem hesitação.
 

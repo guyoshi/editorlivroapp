@@ -48,7 +48,7 @@ Entre os Tondrar, quase todos eram secos, nervosos, feitos de tendão, fome e de
 
 Mas eram os olhos que incomodavam. Um era escuro, quase negro. O outro tinha uma mancha clara que tomava metade da íris, dando a impressão de que olhava para dois lugares ao mesmo tempo: Rendar e alguma coisa atrás dele.
 
-A pintura negra no rosto era complexa, mas não era a Marca da Voz. Faixas de bordas duras desciam da testa raspada até o queixo, cruzadas por pequenos pontos negros nas maçãs do rosto. A boca estava marcada por uma faixa escura, como se alguém tivesse tentado costurá-la com sombra. Do pescoço até o peito nu, cortes retos imitavam rachaduras, e cada traço parecia dizer que aquele homem já tinha sido quebrado muitas vezes e aprendido a gostar do som.
+A pintura negra no rosto era complexa, mas não era a Marca da Voz. Faixas de bordas duras desciam da testa raspada até o queixo, cruzadas por pequenos pontos negros nas maçãs do rosto. Uma faixa escura atravessava a boca. Do pescoço ao peito nu, cortes retos imitavam rachaduras.
 
 Ele mastigava alguma coisa dura. Não era carne, nem raiz de pedra. Rendar ouviu o estalo seco entre os dentes. O homem parou quando o viu.
 
@@ -280,7 +280,7 @@ Jantaram quando a última luz natural ainda se agarrava às copas. A comida era 
 
 Entre os Fendelar, a janta merecia respeito. Muita gente havia saído para a mata e não voltado para comer.
 
-Nara mastigava devagar, tentando parecer adulta, mas o sorriso escapava sempre que encontrava um pedaço maior de carne. Rendar fingia não notar. Vita notava tudo. Ilo dormia de novo, embalado numa faixa presa perto da mãe. O silêncio da casa não era vazio. Era abrigo.
+Nara mastigava devagar, tentando parecer adulta, mas o sorriso escapava sempre que encontrava um pedaço maior de carne. Rendar fingia não notar; Vita sorria ao ver a filha. Ilo dormia de novo, embalado numa faixa perto da mãe. Ninguém precisava levantar a voz naquela casa.
 
 Depois, Nara contou em sussurros que tinha conseguido atravessar a ponte falsa sem fazê-la ranger.
 
