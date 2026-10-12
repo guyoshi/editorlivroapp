@@ -228,8 +228,6 @@ Gabasteri recostou-se, de braços cruzados.
 
 — Ou talvez alguém esteja escondendo o que tem… para si.
 
-
-
 O resto do sopro foi de fome. Os gestos ficavam lentos, os olhos pesavam.
 
 

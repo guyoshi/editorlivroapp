@@ -322,6 +322,6 @@ Mariv não respondeu de imediato.
 
 Jokara assentiu.
 
-Remexeram as lanças e voltaram à pesca. Dessa vez, Jokara não se afastou de Mariv.
+Remexeram as lanças e voltaram à pesca, lado a lado.
 
 
