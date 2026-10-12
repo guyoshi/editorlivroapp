@@ -28,7 +28,7 @@ Pouco depois, Tair subiu para procurar os papéis da cobrança que precisava lev
 
 O caixote de grãos ficava encostado na parede mais afastada da porta, num canto que recebia pouca luz mesmo de dia, e Elis já tinha enfiado a mão lá dentro tantas vezes que fazia aquilo quase sem pensar: abriu a tampa, passou os dedos pela superfície do grão até sentir o fundo raso que restava, contou por instinto o quanto ainda dava para mais alguns dias, e ia fechar de novo quando alguma coisa a fez parar.
 
-A mão de Elis parou cedo demais. Ela conhecia a altura do caixote por fora; por dentro, o fundo parecia mais alto. Era o tipo de diferença que notava num degrau ou numa passagem estreita antes mesmo de olhar de novo.
+A mão de Elis tocou o fundo antes do esperado. Por fora, o caixote era mais fundo. Tornou a passar os dedos pela madeira.
 
 Elis se abaixou e comparou a altura externa com a profundidade que sua mão alcançava. Faltava pouco, menos de um punho fechado, mas ela já encontrara paredes e passagens falsas por diferenças menores.
 
@@ -52,7 +52,7 @@ Mas isso podia esperar. Roven não podia.
 
 Levar a caixa até os túneis significava atravessar primeiro um trecho de rua que Elis conhecia de olhos fechados, e foi exatamente por conhecer tão bem que ela quase deixou passar o detalhe: perto do pequeno reservatório de água que servia três ruas de Maruva, junto de uma tampa de pedra que raramente alguém erguia, havia um risco novo entalhado na borda de madeira que protegia a manivela.
 
-Não era igual ao da porta de casa, mas era parecido o bastante para o olho reconhecer antes da cabeça: duas linhas curtas se encontrando no fim, recentes, a madeira ainda clara onde o corte tinha aberto a superfície mais velha e escura ao redor. Elis parou por um instante, só um instante, olhando para aquilo com o mesmo tipo de irritação vaga que sentira semanas antes diante da própria porta, mas a caixa pesava nos braços, e Roven pesava mais ainda na cabeça, e ela seguiu andando sem se deter, guardando o detalhe em algum canto de trás da mente, junto com um punhado de outras coisas pequenas e estranhas que a cidade vinha deixando pelo caminho sem que ninguém parecesse notar.
+Não era idêntica à marca da porta de casa, mas Elis reconheceu as duas linhas que se encontravam no fim, abertas havia pouco na madeira. Olhou por mais um segundo e seguiu. A caixa pesava nos braços, e Roven esperava.
 
 *
 
