@@ -234,7 +234,7 @@ Selina ergueu os olhos. Aquilo, à primeira vista, parecia ruim.
 
 — Bem antes.
 
-Selina guardou aquilo com cuidado. Um erro sincero, cometido antes de qualquer roubo, valia mais do que parecia: significava que a história inteira não tinha nascido de uma conspiração armada, só de um mal-entendido que ninguém se deu ao trabalho de corrigir a tempo.
+Selina guardou aquilo com cuidado. O erro vinha de antes do roubo. Se conseguisse demonstrá-lo, poderia questionar a versão de que tudo fora planejado desde o início.
 
 — E Orel? Ele pode testemunhar?
 

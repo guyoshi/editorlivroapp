@@ -276,7 +276,7 @@ Silêncio.
 
 — Depois a guerra acabou de verdade, e eu continuei usando a mesma desculpa.
 
-Selina não tentou confortá-lo. Reconheceu, com uma clareza que a surpreendeu, que aquilo não era um pedido de perdão. Era Dareth simplesmente admitindo uma culpa antiga, em voz alta, pela primeira vez talvez desde que ela o conhecia, e que qualquer palavra de conforto ali só serviria para tirar o peso de cima dele antes da hora.
+Selina ficou em silêncio. Dareth acabara de admitir uma culpa antiga, talvez pela primeira vez desde que ela o conhecia.
 
 — E você? — perguntou Dareth, depois de um tempo. — Tem alguém esperando quando volta pra casa?
 
