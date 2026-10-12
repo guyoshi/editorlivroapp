@@ -60,7 +60,7 @@ Kaelina foi até os pequenos estábulos externos usados por mensageiros. Havia d
 
 — Agora.
 
-Deram-lhe uma fêmea castanha, nervosa, mas obediente. Kaelina montou sem permitir que a ajudassem mais do que o necessário. Fazia tempo que não cavalgava fora dos muros à noite. O corpo lembrou com desconforto. As mãos, porém, encontraram as rédeas. Seguiu, mas não perto.
+Deram-lhe uma fêmea castanha, nervosa, mas obediente. Kaelina montou sem permitir que a ajudassem mais do que o necessário. Fazia tempo que não cavalgava fora dos muros à noite. Ajustou a postura na sela e firmou as rédeas. Seguiu, mas não perto.
 
 Kaelina manteve distância, usando curvas, rochas e desníveis sempre que Daryon reduzia o passo ou olhava para trás.
 
@@ -142,7 +142,7 @@ Os exilados começaram a recuar. Não com pânico. Com ódio disciplinado. Sarka
 
 Sarkan desapareceu entre as pedras com os outros. Kaelina ficou imóvel por mais alguns segundos.
 
-Daryon tinha um acordo com os Homens das Areias, pagamento dividido em partes, referência ao talismã Tondrar e promessa de reintegração. Era muito, mas ainda não era prova completa. Ela começou a recuar, uma pedra soltou-se sob o pé. Pequena. O som, porém, pareceu atravessar a noite. Daryon virou-se.
+Daryon tinha um acordo com os Homens das Areias: pagamentos em etapas, referência ao talismã Tondrar, promessa de reintegração. Kaelina não ouvira o suficiente para provar tudo. Recuou, mas uma pedra rolou sob seu pé. Daryon virou-se.
 
 Kaelina voltou ao tarrak sem correr de imediato, para não confessar que espionava. Só acelerou quando uma elevação a escondeu. Ao longe, Kaendar surgiu além do Rio Grande.
 
