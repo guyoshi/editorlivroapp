@@ -2,9 +2,9 @@ Kaelina acordou com sede antes de acordar com dor.
 
 As Veias de Barro ainda estavam escuras, mas a escuridão ali nunca era completa. Pedras luminosas, pequenas como unhas e presas entre fendas altas, sujavam as paredes com um brilho fraco, azulado, suficiente para mostrar barras de osso, chão úmido, marcas antigas de corda e o contorno de corpos que haviam esperado demais. A cela cheirava a suor seco, barro velho, pele ferida e água que passava perto sem pertencer a ninguém. Em algum lugar abaixo, um tambor batia devagar, não como aviso, mas como respiração de uma cidade que dormia sem deixar de vigiar.
 
-Kaelina estava deitada de lado quando tentou se mover. O corpo respondeu com uma dor funda nas costelas e outra, mais espalhada, nos ombros, no pescoço, nos joelhos. O dia anterior voltava em pedaços: o Pátio Seco, Kharvok, a corda no pescoço, Nynestra diante dela, as lanças voltadas para dentro, o sol mordendo a pele como se quisesse arrancar confissão. Havia também a lembrança de Harrev caindo, Odris tentando alcançá-la, o cheiro de Nhar-Veyr vazia e a certeza, amarga demais para ser chamada de pensamento, de que ela os levara até a morte porque ainda acreditava que uma verdade encontrada no lugar certo podia deter uma guerra.
+Kaelina estava deitada de lado quando tentou se mover. O corpo respondeu com uma dor funda nas costelas e outra, mais espalhada, nos ombros, no pescoço, nos joelhos. O dia anterior voltava em pedaços: o Pátio Seco, Kharvok, a corda no pescoço, Nynestra diante dela, as lanças voltadas para dentro, o sol mordendo a pele como se quisesse arrancar confissão. Havia também a lembrança de Harrev caindo, Odris tentando alcançá-la, o cheiro de Nhar-Veyr vazia. Ela os levara até ali.
 
-Do outro lado da cela, Nynestra estava sentada com as costas contra a parede, a perna ferida estendida, a mão pousada sobre a coxa como se segurasse o próprio corpo no lugar. O rosto dela estava mais seco do que na noite anterior, os olhos fundos, a boca rachada. Mesmo debilitada, havia nela uma compostura que irritava. A Mão da Colheita parecia ter sido feita para não pedir nada nem quando o corpo inteiro precisava.
+Do outro lado da cela, Nynestra estava sentada com as costas contra a parede, a perna ferida estendida, a mão pousada sobre a coxa como se segurasse o próprio corpo no lugar. O rosto dela estava mais seco do que na noite anterior, os olhos fundos, a boca rachada. Mesmo debilitada, Nynestra mantinha as costas retas e a boca fechada.
 
 — Eles virão logo — disse Nynestra.
 
@@ -48,7 +48,7 @@ A mulher soltou o rosto de Kaelina.
 
 Deram água primeiro a Nynestra. Não por gentileza, mas porque a Mão da Colheita precisava subir à plataforma com voz suficiente para negar, acusar ou morrer de modo útil. Nynestra bebeu pouco, o suficiente para molhar a boca, e devolveu a tigela antes que os Tondrar pudessem tomá-la. Quando a água chegou a Kaelina, ela segurou a borda com as duas mãos para esconder o tremor. O líquido era morno, com gosto de barro e pedra. Ainda assim, seu corpo o recebeu como bênção humilhante.
 
-A mulher pintora passou dois dedos escuros pelo pescoço de Nynestra, depois pelo de Kaelina. Não eram marcas completas, apenas traços duros, quase agressivos, feitos para que o povo visse que as duas pertenciam temporariamente ao julgamento da Boca Seca. Em Kaelina, a tinta cruzou a linha da corda deixada no dia anterior. Em Nynestra, desceu perto do maxilar, como se a marca tentasse sujar a autoridade que ainda restava nela.
+A mulher pintora passou dois dedos escuros pelo pescoço de Nynestra, depois pelo de Kaelina. Não eram marcas completas, apenas traços duros, quase agressivos, feitos para que o povo visse que as duas pertenciam temporariamente ao julgamento da Boca Seca. Em Kaelina, a tinta cruzou a linha da corda deixada no dia anterior. Em Nynestra, desceu até perto do maxilar.
 
 — Hoje vocês falam com sangue — disse a pintora.
 

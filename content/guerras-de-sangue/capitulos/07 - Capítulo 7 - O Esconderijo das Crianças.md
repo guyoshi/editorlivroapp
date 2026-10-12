@@ -132,7 +132,7 @@ Perto dela, havia marcas pequenas no chão. Passos de criança. Dois tamanhos di
 
 O espaço era apertado, um velho marn cujo interior morrera antes da casca. Servia para esconder mantimentos pequenos, ferramentas, mensagens e, em último caso, crianças.
 
-A entrada estava meio coberta por folhas queimadas e uma manta pequena, enfiada às pressas entre as raízes. A ocultação era desesperada e apressada. Feita por mãos de criança. Rendar afastou a manta. Ilo estava lá dentro.
+A entrada estava meio coberta por folhas queimadas e uma manta pequena, enfiada às pressas entre as raízes. Rendar reconheceu na altura da manta o alcance das mãos de uma criança. Rendar afastou a manta. Ilo estava lá dentro.
 
 Encolhido atrás de um cesto quebrado, pequeno demais para parecer real. Os olhos estavam abertos. A boca também, como se tivesse prendido um grito e esquecido de soltar. Não havia grande ferida visível, apenas uma mancha escura no peito e o corpo mole demais. Talvez uma lâmina curta. Talvez pressão de mão adulta. Talvez medo. Rendar não soube. Uma parte dele agradeceu por não saber.
 
@@ -156,7 +156,7 @@ Nara estava ali. Não dentro do esconderijo. À frente dele. Como se tivesse ten
 
 O corpo pequeno estava de lado, uma perna dobrada sob a outra, o rosto virado para a terra. Havia um corte nas costas e outro no braço. A mão direita ainda segurava um pedaço da manta de Ilo, rasgado entre os dedos. A outra estava estendida para a entrada do tronco, como se, no último instante, ainda tentasse empurrar o irmão mais para dentro. Foi aí que Rendar entendeu.
 
-Vita tinha tentado levá-los até o esconderijo. O tronco oco, velho abrigo de crianças, caça pequena e medo antigo, ainda guardava a entrada escura entre as raízes. Ilo entrara. Nara ficara do lado de fora. Não porque não coubesse. Não porque não soubesse entrar. Mas porque tentou esconder o irmão primeiro.
+Vita tinha tentado levá-los até o esconderijo, o velho tronco oco entre as raízes. Ilo entrara. Nara ficara do lado de fora para esconder o irmão primeiro.
 
 Rendar ficou imóvel. Tocou o ombro da filha e a virou devagar. O rosto estava sujo de cinza; a fitinha do Olho da Fera continuava no pulso, manchada de sangue e barro.
 

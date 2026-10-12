@@ -4,7 +4,7 @@ No centro ficava a Mesa da Raiz, feita de madeira antiga e marcada por ciclos de
 
 Nas extremidades da mesa, duas cadeiras mais altas, mas não tronos. Kaelina estava sentada numa delas, a Ramagem refeita ao amanhecer pelo pintor de Kaendar, os traços ainda frescos e mais grossos do que o costume, porque dia de Conselho pedia que ninguém precisasse se aproximar para saber quem governava. A outra permanecia vazia.
 
-Cal Edran Polar ficava junto à porta, de pé. Não participava da mesa, embora todos soubessem que a escutava inteira. O Calandrir não governava, mas escutava o governo inteiro. Tinha as mãos unidas à frente do corpo, a raiz branca da mão da espada por cima da outra, os ombros largos imóveis e os olhos numa espécie de repouso vigilante. A soberana passou os olhos pelo conselho.
+Cal Edran Polar ficava de pé junto à porta, sem cadeira na Mesa. Observava os conselheiros e não perdia uma palavra. Tinha as mãos unidas à frente do corpo, a raiz branca da mão da espada por cima da outra, os ombros largos imóveis e os olhos numa espécie de repouso vigilante. A soberana passou os olhos pelo conselho.
 
 Daryon estava sentado à direita da cadeira vazia de Alyra, com os dedos longos repousados sobre a mesa.
 
@@ -28,7 +28,7 @@ A porta se abriu.
 
 — Presente — disse Alyra.
 
-A palavra veio antes dela. Alyra entrou como se atraso fosse uma forma de anúncio. Usava roupa escura de corte militar, sem excesso de adorno, mas com uma faixa vermelha presa ao ombro esquerdo. O cabelo estava puxado para trás, firme, e os olhos traziam aquela vivacidade perigosa de quem chegava a uma sala já disposta a vencê-la.
+Alyra chegou atrasada e começou a falar antes de alcançar a cadeira. Usava roupa escura de corte militar, sem excesso de adorno, mas com uma faixa vermelha presa ao ombro esquerdo. O cabelo estava puxado para trás, firme, e seus olhos percorreram a Mesa.
 
 Atrás dela, dois guardas pararam do lado de fora. Alyra seguiu sozinha.
 

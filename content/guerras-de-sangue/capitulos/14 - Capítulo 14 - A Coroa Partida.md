@@ -1,6 +1,6 @@
 A película de óleo no Rio Grande estava menos densa nos dias seguintes, mas ainda se partia com o vento e voltava a se unir.
 
-Nos anéis baixos, famílias filtravam água com carvão, pano e folhas de vedação, escondiam jarros e vigiavam baldes. O anel médio acusava o baixo de desperdiçar; o baixo acusava o médio de esconder. O anel alto ainda tinha cisternas internas.
+Nos anéis baixos, famílias filtravam água com carvão, pano e folhas de vedação, escondiam jarros e vigiavam baldes. O anel médio acusava o baixo de desperdiçar água; o baixo acusava o médio de escondê-la. No alto, as cisternas internas permaneciam abastecidas.
 
 Na manhã do quarto dia, dois homens brigaram por uma tina junto à escadaria dos carregadores. No quinto, uma mulher cuspiu no rosto de um fiscal de água e gritou que preferia beber lama a ouvir sermão de homem que ainda lavava as mãos. No sexto, um grupo do anel baixo forçou a entrada num depósito menor do anel médio, não para saquear ouro, metal ou ferramentas, mas para carregar três barris de água turva, cheirando a madeira velha e cisterna mal fechada, que ninguém, em tempos normais, teria dado a um animal doente.
 
@@ -724,7 +724,7 @@ Uma parte dela entendia por que a sala ouvira Alyra. Kaendar tinha sede e Edran 
 
 Sentou-se na beira da cama e ficou assim por algum tempo, olhando para nada. Sobre a mesa, a peça antiga de Orionus continuava onde sempre estivera. Aquele objeto de estratégia, madeira marcada por linhas, caminhos, gargantas e posições, parecia ofensivo naquela noite. Um jogo de condições para um mundo que já mordia.
 
-Kaelina levantou-se de súbito e foi até ele. Quase o atirou contra a parede. Não atirou. Segurou a peça com força suficiente para doer. Lembrou-se da voz de Cal Edran, não como estava em Alestir, mas como ficava quando falava de Orionus: cansada, grave, cheia de uma lealdade que não precisava fingir. Ele teria dito para ela respirar. Teria dito para não lutar no campo escolhido por Alyra. Teria dito que humilhação pública não era fim; era informação.
+Kaelina levantou-se de súbito e foi até ele. Quase o atirou contra a parede. Não atirou. Segurou a peça com força suficiente para doer. Lembrou-se da voz de Cal Edran, não como estava em Alestir, mas como ficava quando falava de Orionus: cansada, grave, cheia de uma lealdade que não precisava fingir. Quase ouviu a reprimenda dele: não lutar no campo escolhido por Alyra.
 
 Informação sobre quem aplaudia, quem silenciava, quem obedecia. Kaelina colocou a peça de volta.
 
