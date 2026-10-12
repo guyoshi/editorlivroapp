@@ -275,7 +275,7 @@ Loutes assentiu.
 
 Atravessaram o limite da aldeia por rotas menos iluminadas, trilhas que só os eterís antigos ainda conheciam bem. Jokara ia com o coração aos pulos. Não havia vento.
 
-Passaram pelas pontes de raízes, aquelas entrelaçadas de ilha a ilha, que rangiam sob o peso mesmo de quem é leve. Jokara ia à frente, testando cada passo antes de seguir. Loutes ia atrás, sem fazer barulho. Andar ao Sopro do Silêncio por Etérea era arriscado. Qualquer passo em falso nas pontes, e eles parariam em nadírion.
+Atravessaram as pontes de raízes entre as ilhas. A madeira viva rangia a cada passo. Jokara ia à frente, testando cada passo antes de seguir. Loutes ia atrás, sem fazer barulho. No Sopro do Silêncio, um pé mal colocado bastaria para lançá-los a nadírion.
 
 Quando alcançaram o limite do bosque, Jokara parou. Havia tochas acesas entre as árvores, luzes estáticas demais para serem de caçadores ou andarilhos. Ouviam-se vozes abafadas de oradores.
 
@@ -329,7 +329,7 @@ Virou as páginas para trás.
 
 Figuras. Espirais, símbolos. Algumas mostravam o que pareciam ser tempestades, ilhas flutuantes, pessoas com olhos apagados. Outras, ela não compreendia. Até que uma a fez parar.
 
-Havia uma figura de pessoas atirando coisas no ar. Muito parecido com a cerimônia da última queda, feita na espiral anterior, onde as oferendas foram atiradas em homenagem a Xar. Outra figura mostrava vários nuaris caindo. E algo assim tinha acontecido há mais ou menos seis espirais. Pelo menos uma dúzia de nuaris caíram inesperadamente dos céus em direção ao abismo, em direção a nadírion. Muitos presenciaram a cena aterrorizados. Mas até hoje não havia explicação para o fenômeno. Os oradores diziam que as aves estavam pesadas. E podiam pesar quem as comesse. Por isso, os ventos as mandaram para as ilhas inferiores. Voltou à página onde o livro estava aberto. Não tinha reparado no desenho da primeira vez. Ali, pintada em traços escuros e difusos, estava desenhada uma nuvem escura, cobrindo Etérea. E na página anterior, uma imagem do círculo do peso, com uma mulher no meio… uma mulher… sem um olho.
+Havia uma figura de pessoas atirando coisas no ar. Muito parecido com a cerimônia da última queda, feita na espiral anterior, onde as oferendas foram atiradas em homenagem a Xar. Outra figura mostrava vários nuaris caindo. E algo assim tinha acontecido há mais ou menos seis espirais. Pelo menos uma dúzia de nuaris caíram inesperadamente dos céus em direção ao abismo, em direção a nadírion. Muitos presenciaram a cena aterrorizados. Ninguém explicara aquelas quedas. Os Oradores alegavam que as aves estavam pesadas e transmitiam aquele peso a quem as comesse. Por isso, os ventos as mandaram para as ilhas inferiores. Voltou à página onde o livro estava aberto. Não tinha reparado no desenho da primeira vez. Ali, pintada em traços escuros e difusos, estava desenhada uma nuvem escura, cobrindo Etérea. E na página anterior, uma imagem do círculo do peso, com uma mulher no meio… uma mulher… sem um olho.
 
 Virou a página então para a página seguinte à da grande nuvem.
 

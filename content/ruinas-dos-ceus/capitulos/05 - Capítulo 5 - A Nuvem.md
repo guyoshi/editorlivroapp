@@ -130,9 +130,9 @@ Jokara seguiu a direção apontada. No limite do que se via, além das ilhotas m
 
 Em poucos segundos, o sino mais alto de Etérea tocou. Um som grave e longo. Logo depois, outros sinos responderam, de ilha em ilha.
 
-Sem uma palavra, os dois começaram a correr. A trilha que haviam subido com calma parecia agora o dobro do tamanho. Galgavam raízes, se equilibravam entre pedras curvas, e por vezes tinham de se abaixar para atravessar túneis naturais de galhos antigos. O vento agora vinha de todos os lados ao mesmo tempo. Perto da aldeia suspensa, os sinos menores já tocavam, e as primeiras pessoas passavam correndo por eles.
+Sem uma palavra, os dois começaram a correr. Na volta, a trilha custava a terminar. Galgavam raízes, se equilibravam entre pedras curvas e se abaixavam para atravessar túneis de galhos antigos. O vento agora vinha de todos os lados ao mesmo tempo. Perto da aldeia suspensa, os sinos menores já tocavam, e as primeiras pessoas passavam correndo por eles.
 
-Os eterí sabiam o que fazer. Moviam-se com pressa e precisão, como quem já ensaiou aquilo a vida toda. Vintelas de madeira fina eram abaixadas sobre as escadas, escotilhas de vento eram lacradas com barro e óleo, e panos rituais eram atados aos mastros. As crianças eram puxadas pelas mãos, e os mais velhos murmuravam fórmulas antigas enquanto andavam.
+Os eterí se espalharam pelas passagens e começaram os preparativos que conheciam desde crianças. Vintelas de madeira fina eram abaixadas sobre as escadas, escotilhas de vento eram lacradas com barro e óleo, e panos rituais eram atados aos mastros. As crianças eram puxadas pelas mãos, e os mais velhos murmuravam fórmulas antigas enquanto andavam.
 
 Por onde passavam, Jokara já ouvia o som dos eterís, os "Shhhhh" "Shhhh " das pessoas nas janelas, estendendo os braços e sacudindo as mãos de dentro para fora, para espantar a nuvem.
 
