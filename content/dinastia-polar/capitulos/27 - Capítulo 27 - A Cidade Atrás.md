@@ -156,8 +156,6 @@ Selina observou a estrada pela qual tinham vindo, já perdida na escuridão que 
 
 — De termos saído agora.
 
-Não era superstição, Dareth percebeu pelo tom dela. Era outra coisa: a sensação concreta de ter deixado alguma coisa importante em aberto, no pior momento possível para deixar qualquer coisa em aberto.
-
 — Por causa de Alveris? — perguntou.
 
 Selina hesitou por um instante.

@@ -82,17 +82,9 @@ Ela pensou nos últimos dias, juntando peças que até então tinham ficado espa
 
 Se aqueles papéis provavam que Tair estava errado, e se alguém tivesse descoberto isso antes dos guardas (alguém que soubesse ler bem o suficiente para entender o que estava escrito, e que tivesse um motivo forte o bastante para não deixar que a mentira fosse desmontada rápido demais), fazia sentido que essa pessoa tivesse levado a caixa inteira embora, em vez de arriscar que alguém notasse a falta de um papel só.
 
-Fazia sentido, e o sentido tinha o formato exato do irmão dela.
+Se Kalan levara a caixa para proteger Orel, fizera isso sem lhe dizer uma palavra. Elis sentiu orgulho e raiva ao mesmo tempo. Voltou aos papéis e encontrou o nome de Neiva.
 
-Elis sentiu algo estranho crescer no peito, uma mistura de coisas que não combinavam bem entre si: orgulho, porque era exatamente o tipo de coisa que Kalan faria para proteger Orel; e uma espécie de solidão nova, incômoda, porque significava que ele tinha feito aquilo sozinho, escondido, sem confiar a ela nem uma palavra do que estava fazendo. Kalan sempre se colocava entre ela e qualquer perigo, sempre tinha feito isso, desde que ela conseguia lembrar, mas até aquele momento Elis nunca tinha parado para pensar que proteger, para Kalan, também significava decidir por conta própria o que ela não precisava saber. Era como descobrir uma porta na própria casa que sempre existira, só que trancada, e da qual ela nunca tinha notado a fechadura.
-
-Voltou a atenção para os papéis, tentando não deixar aquele pensamento crescer mais do que já tinha crescido, e foi então que encontrou o nome.
-
-Não era um nome desconhecido. Era um nome que ela conhecia desde sempre, gravado em algum lugar tão antigo da memória que nunca precisara ser lembrado de propósito: Neiva.
-
-Elis parou de respirar por um segundo inteiro.
-
-O documento não era grande, só uma folha dobrada ao meio, amarelada nas bordas, com menos letras do que ela esperava para uma coisa que fazia o peito apertar daquele jeito. Leu o nome de novo, para ter certeza, e depois seguiu a linha ao lado dele, palavra por palavra, com mais cuidado do que dedicara a qualquer outro papel daquela caixa.
+Prendeu a respiração. O documento era uma folha dobrada ao meio, amarelada nas bordas. Leu o nome de novo e seguiu a linha ao lado, palavra por palavra.
 
 Pertencimento atual: Nular.
 
@@ -108,9 +100,7 @@ Alteração/desvinculação: Ref. DV-0417.
 
 Desvinculação.
 
-A palavra que ela tinha acabado de aprender a montar, sílaba por sílaba, agora estava ali, colada ao nome da própria mãe, ao lado de um código que não dizia nada por si só além de existir, de apontar para algum outro lugar, algum outro papel, alguma outra gaveta que Elis não tinha e talvez nunca tivesse.
-
-Ficou olhando para aquela linha até as letras perderem um pouco a nitidez, não porque não conseguisse mais lê-las, mas porque a pergunta que vinha atrás delas era maior do que qualquer palavra sozinha.
+A palavra recém-aprendida aparecia ao lado do nome da mãe e da referência DV-0417. O código apontava para outro registro, que ela não tinha.
 
 Desvinculada de quê?
 

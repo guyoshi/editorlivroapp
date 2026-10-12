@@ -106,7 +106,7 @@ Lutharus nem olhou para ela de início.
 
 — Então responderá em Kaendar.
 
-Varael sentiu duas mãos se fecharem em remos atrás dele. Um pescador velho, Dalmir de Helmar, deu meio passo sobre a ponte. Outro homem puxou uma faca de cortar rede. A coisa espalhou-se rápido, não como coragem, mas como pânico procurando forma. Glydar não eram guerreiros de muralha, mas homem de margem sabia usar gancho, remo, arpão, faca de peixe, corda e corrente curta quando alguém encurralava família.
+Atrás de Varael, duas mãos se fecharam em remos. Dalmir de Helmar, um pescador velho, deu meio passo sobre a ponte. Outro puxou uma faca de cortar rede. Os Glydar não eram guerreiros de muralha, mas sabiam usar gancho, remo, arpão, faca de peixe, corda e corrente curta quando alguém encurralava suas famílias.
 
 Os guardas Polar ergueram lanças. Lutharus falou sem levantar a voz:
 

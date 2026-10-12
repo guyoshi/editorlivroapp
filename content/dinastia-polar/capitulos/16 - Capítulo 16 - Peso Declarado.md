@@ -116,7 +116,7 @@ Então chegou uma carta.
 
 Alveris a convidava para conversar em sua residência, naquela mesma noite.
 
-Selina entendeu o gesto antes mesmo de terminar de ler a última linha. Tinha pedido para encontrá-lo no território dela, administrativo, cercado por registros e autoridade formal. Ele respondeu escolhendo o território dele. Não era grosseria. Era resposta.
+Ela pedira que Alveris fosse aos seus registros; ele a chamava à própria casa.
 
 *
 

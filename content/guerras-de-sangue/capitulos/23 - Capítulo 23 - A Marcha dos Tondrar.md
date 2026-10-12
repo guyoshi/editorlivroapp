@@ -28,7 +28,7 @@ Nynestra olhou para ele, e por um instante toda a máscara de ódio, cálculo e 
 
 — Hadrun.
 
-Ele se aproximou até onde os Tondrar permitiram. Não tentou tocá-la. Ainda não. Apenas inclinou a cabeça, não como servo diante de senhora, mas como terra reconhecendo chuva depois de tempo demais.
+Ele se aproximou até onde os Tondrar permitiram. Não tentou tocá-la. Apenas inclinou a cabeça.
 
 Rendar caminhou até Kharvok. Os dois se olharam como homens que já tinham medido um ao outro antes, mas agora traziam mortos novos entre as medidas. Os Tondrar de Kharvok viram os Tondrar de Rendar. Isso mudou o ar mais do que qualquer fala.
 
@@ -120,7 +120,7 @@ Kaelina levantou levemente a cabeça, para ouvir melhor.
 
 — E como pretende alimentar esses homens durante o cerco? — perguntou Nynestra — Homens precisam de alimento pra aguentarem dias. Kaendar pode não ter alimento o suficiente para os anéis baixos, mas tem para seus homens de espadas. E enquanto definhamos no calor exterior, eles bebem água, esperam o inimigo ficar fraco, atiram flechas em nossos homens.
 
-Rendar não respondeu de imediato. A pergunta de Nynestra ficou entre eles com peso de coisa concreta: pão, água, flecha, sol, corpo cansado. Ao redor, homens de clãs inimigos por gerações aguardavam a resposta como se o cerco inteiro coubesse naquela conta.
+Rendar não respondeu de imediato. Ao redor, homens de clãs inimigos por gerações esperavam para saber como ele alimentaria o cerco.
 
 — Não vamos cercar Kaendar como homens famintos diante de uma porta — disse Rendar, abaixando-se para pegar um galho fino do chão. Traçou uma linha na terra úmida, depois um círculo torto.
 
@@ -246,7 +246,7 @@ Rendar não se virou de imediato. Nynestra continuou:
 
 — Com a irmã, temos uma vantagem. Uma chance estratégica, Rendar. Perderia a chance de acertar o coração de Kaendar, por um assassinato idiota?
 
-Rendar continuou encarando Kaelina. O ódio dele não diminuiu. Apenas recebeu uma coleira. Por um momento, Kaelina achou que ele cortaria a coleira e mataria assim mesmo. Então ele guardou a faca de modo brusco, como se obedecer à lógica de Nynestra lhe custasse mais do que um ferimento.
+Rendar continuou encarando Kaelina. Por um momento, ela achou que ele a mataria apesar de Nynestra. Então ele guardou a faca com um movimento brusco.
 
 — A soberana assassina segue viva — disse Rendar. — Até conseguirmos o que queremos.
 

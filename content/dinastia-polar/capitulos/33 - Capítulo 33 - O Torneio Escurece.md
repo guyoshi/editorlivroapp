@@ -309,7 +309,7 @@ Selina ouviu aquilo sem se mover, tentando entender o suficiente sem se arriscar
 
 — A arena já forneceu explicação suficiente para o público. Isso passa.
 
-Não havia, em nenhuma das duas frases, nada explícito. Nenhuma menção a veneno, a Caule-de-Sono, a qualquer coisa que Selina pudesse citar depois como prova. Ela já tinha juntado o suficiente sozinha para fazer aquela conexão por conta própria, e a ausência de detalhes ali, de algum jeito, tornava tudo mais assustador, não menos.
+Nenhuma das duas falas mencionava veneno ou Caule-de-Sono. Selina não poderia citá-las como prova.
 
 — Você não pretende assumir o trono — Saelira disse, não exatamente como pergunta.
 
@@ -356,7 +356,6 @@ Alveris não respondeu de imediato. Quando respondeu, a voz dele tinha um cuidad
 
 — Eu quero o fim de uma ordem que trata os Buldar como mão de obra emprestada há gerações demais. Se isso também significa posição, ótimo. Não vou fingir que é só isso.
 
-Selina sentiu a diferença entre as duas respostas como quem sente uma rachadura crescendo debaixo dos próprios pés. Alveris falava em governo, em controle, em substituir Vetarius por alguém manejável. Saelira falava em outra coisa, mais funda, que ele parecia não estar enxergando por completo, ou preferia não enxergar.
 A conversa, então, chegou a Vetarius diretamente.
 
 — Ele não vai simplesmente entregar o poder — disse Saelira. — Você sabe disso.

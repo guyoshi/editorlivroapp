@@ -78,8 +78,6 @@ Então ele a abraçou de volta, com a força que as correntes permitiam, e por u
 
 Kalan olhou para ela.
 
-Elis viu, sem querer ver, alguma coisa atrás dos olhos dele que não era esperança, mas não quis olhar com atenção suficiente para nomear o que era.
-
 Ele não disse que ela estava errada.
 
 — Tá bom — respondeu, baixo.
@@ -90,7 +88,7 @@ Depois, um fio de sorriso, o mesmo de sempre, o que ele sempre usava quando quer
 
 Elis quase riu. Quase.
 
-Foi a vez de Orel. Aproximou-se devagar, como sempre fazia diante de qualquer coisa grande demais para caber em palavras, e parou diante de Kalan.
+Orel se aproximou devagar e parou diante de Kalan.
 
 — Ka-an...
 

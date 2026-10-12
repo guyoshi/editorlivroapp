@@ -54,8 +54,6 @@ Dareth terminou de beber e não olhou para ela. Respirou, então ergueu os olhos
 
 — Vai haver um torneio — disse ela, e explicou, em poucas frases secas o bastante para soarem administrativas, o acordo entre as dez dinastias, o Altar dos Dez Estandartes e o campeão que cada casa precisava apresentar para evitar uma guerra maior. — E os Polar precisam de um campeão.
 
-Ela viu, enquanto falava, algo se mover por trás dos olhos dele, não surpresa, e sim o tipo de reconhecimento cansado de quem já temia, antes mesmo de ouvir os detalhes, que a frase terminaria exatamente daquele jeito.
-
 — Deve haver muitos homens capazes de representar os Polar — disse Dareth.
 
 — Sim, há. — Selina não desviou o olhar. — Mas nenhum deles segurou uma passagem inteira sozinho, tempo suficiente pra um exército inteiro atravessar, e nenhum deles precisou reconstruir a própria empunhadura depois de perder um dedo fazendo isso. Eu li os relatórios antes de vir pra cá. Dois dos homens que serviram sob seu comando ainda usam a pegada que você inventou depois de Arven — falam dela como quem fala de um professor, não de uma lenda. Vetarius não está pedindo um nome pra assustar as outras nove dinastias. Está pedindo você, porque nenhum Primeiro Kae que ele já teve teria feito o que você fez, e ele sabe disso melhor do que qualquer um. Todos os outros foram recusados. Ele quer você.

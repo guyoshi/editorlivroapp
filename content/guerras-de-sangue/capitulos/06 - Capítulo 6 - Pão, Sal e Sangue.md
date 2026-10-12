@@ -194,7 +194,7 @@ Alyra deu um passo leve ao lado da irmã, mas Kaelina falou antes que ela pudess
 
 — Havia um talismã Tondrar junto aos corpos.
 
-Um dos guerreiros atrás de Harvok murmurou algo baixo demais para Kaelina entender, mas duro o suficiente para fazer Maedra pousar dois dedos no tambor sem bater. Não era medo. Também não era culpa. Era o tipo de reação que nasce quando uma acusação acerta um lugar que ninguém de fora deveria saber tocar. Harvok, porém, apenas inclinou a cabeça.
+Um dos guerreiros atrás de Harvok murmurou algo baixo demais para Kaelina entender. Maedra pousou dois dedos no tambor sem bater. Harvok apenas inclinou a cabeça.
 
 — E onde está?
 

@@ -114,7 +114,7 @@ Foi por pouco que a reconheceu.
 
 Selina atravessava um pátio cercado de prédios administrativos, o manto azul-escuro bem ajustado, falando baixo com um homem de manto cinza-claro que caminhava meio passo atrás sem conseguir acompanhar o mesmo ritmo. Elis parou atrás de uma pilha de caixotes e reconheceu a mulher que impedira sua punição, dias antes, quando um guarda já tinha decidido o que fazer com ela.
 
-Não era confiança o que a fez segui-la, mantendo distância suficiente para não ser notada. Era a falta de qualquer outra opção. Selina era a única pessoa poderosa em toda Kaeliran que Elis conhecia, mesmo que de relance, e a única que já tinha, uma vez, decidido alguma coisa a favor dela em vez de contra.
+Elis seguiu Selina a distância. Não confiava nela, mas era a única pessoa poderosa em Kaeliran que conhecia e que já decidira alguma coisa a seu favor.
 
 Selina parou diante do homem, que a recebeu com a cortesia cautelosa de quem já sabia que aquela conversa não seria simples. Elis, escondida a distância segura, só conseguia ouvir partes.
 

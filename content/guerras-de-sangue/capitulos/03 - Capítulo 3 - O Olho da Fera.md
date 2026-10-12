@@ -374,7 +374,7 @@ Ele soltou um ar pelo nariz.
 
 — Não quando você olha para elas como se esperasse que caíssem.
 
-Rendar fechou os olhos. Vita passou os braços pela cintura dele e o abraçou por trás. Forte. Sem delicadeza frágil. Vita não abraçava como quem pedia permissão para consolar. Abraçava como quem prendia alguém ao mundo.
+Rendar fechou os olhos. Vita o abraçou por trás, os braços firmes em torno de sua cintura.
 
 — Estamos juntos — disse ela. — Se vier coisa ruim, ouvimos juntos. Corremos juntos. Lutamos juntos. E, se for preciso, matamos juntos.
 

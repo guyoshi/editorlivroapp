@@ -340,7 +340,7 @@ Os adultos se curvaram depressa. A mulher da farinha tocou testa, peito e batent
 
 Kaelina olhou para os dedos dele ainda pousados no peito. O medo vinha misturado a um hábito antigo.
 
-A alegria dos meninos morreu na hora, não porque Kaelina tivesse mudado, mas porque os adultos tinham lembrado a todos quem ela era.
+A alegria dos meninos acabou ali.
 
 — Eles estavam apenas jogando.
 

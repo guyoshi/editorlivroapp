@@ -202,9 +202,9 @@ Rendar ficou quieto. Lá fora, uma flecha bateu no batente da janela. Ele nem pi
 
 — Eu não me importo com nomes. Pra mim vocês foram sempre a mesma coisa. Mas vejo que me equivoquei. Vocês são duas pessoas.
 
-A frase não veio como confissão sentimental. Veio áspera, quase irritada, como se ele se culpasse por ter cometido um erro de caça. Kaelina percebeu o que havia por trás dela. Rendar não quisera conhecer as inimigas. Nomes eram mais fáceis de matar. Símbolos não tinham infância, medo, irmã, voz rouca ou sangue escorrendo pelo pescoço dentro da casa de uma família pobre. Agora ele a via, e odiava que ver mudasse a distância da lâmina.
+A frase saiu áspera.
 
-O barulho lá fora diminuiu um pouco, não porque a batalha acabara, mas porque a rua diante da casa respirava entre dois avanços. Rendar inclinou-se para observar melhor. Kaelina perguntou antes que ele se movesse:
+O barulho lá fora diminuiu entre dois avanços. Rendar inclinou-se para observar a rua. Kaelina perguntou antes que ele se movesse:
 
 — O que pretende fazer quando encontrá-la?
 
