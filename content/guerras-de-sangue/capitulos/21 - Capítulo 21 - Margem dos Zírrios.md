@@ -1,6 +1,6 @@
 Os Glydar sempre tinham acreditado que uma margem baixa era melhor do que uma cabeça erguida demais.
 
-Não diziam isso em voz alta diante de estrangeiros, porque estrangeiro gostava de transformar prudência em insulto. Mas toda criança da Margem dos Zírrios aprendia cedo que barco pequeno não desafia cheia, que água imóvel pode esconder nharca de escama negra, que quem não tem cais não grita com dono de ponte, que mão descuidada não procura fundo em poço onde vive bocarra, e que o rio engolia mais depressa os orgulhosos do que os humildes. Aprendia também a olhar para as duas luas antes de confiar numa estaca de amarração: quando se aproximavam no céu, a maré dupla fazia o Rio Grande subir mais sobre o lodo e empurrava embarcações contra lugares que, horas antes, pareciam seguros. Às vezes um fio-d’água saltava junto ao casco, prateado e fino, e desaparecia antes que uma criança pudesse apontá-lo. Também aprendiam a não tocar nos ninhos de lurélia presos às raízes, porque as aves defendiam os ovos com o bico e com um grito capaz de acordar metade da margem. Aquilo não os tornava covardes, ao menos não na boca deles. Tornava-os vivos.
+Não diziam isso em voz alta diante de estrangeiros, porque estrangeiro gostava de transformar prudência em insulto. Mas toda criança da Margem dos Zírrios aprendia cedo que barco pequeno não desafia cheia, que água imóvel pode esconder nharca de escama negra, que quem não tem cais não grita com dono de ponte, que mão descuidada não procura fundo em poço onde vive bocarra, e que o rio engolia mais depressa os orgulhosos do que os humildes. Aprendia também a olhar para as duas luas antes de confiar numa estaca de amarração: quando se aproximavam no céu, a maré dupla fazia o Rio Grande subir mais sobre o lodo e empurrava embarcações contra lugares que, horas antes, pareciam seguros. Às vezes um fio-d’água saltava junto ao casco, prateado e fino, e desaparecia antes que uma criança pudesse apontá-lo. Também aprendiam a não tocar nos ninhos de lurélia presos às raízes, porque as aves defendiam os ovos com o bico e com um grito capaz de acordar metade da margem. Para os Glydar, sobreviver à próxima cheia já era razão suficiente para escutar os mais velhos.
 
 Aprendiam outra coisa quando chegava a idade de sair dali. Antes de uma viagem longa, molhavam no rio um cordão curto de fibra de margem e o prendiam ao pulso ou ao cinto. Não chamavam aquilo de amuleto. Glydar desconfiavam de palavras grandes demais. Diziam apenas que era mais difícil esquecer de onde se vinha quando ainda se carregava um pouco da água de casa. Em estrada seca, apertavam a fibra antes de decisões importantes e procuravam água corrente para umedecê-la de novo quando secava.
 
@@ -266,7 +266,7 @@ A frase saiu baixa, mas todos ouviram. Saela olhou para ele com uma mistura de r
 
 Ossar apertou os dedos. Naquela noite, ninguém dormiu direito na Margem dos Zírrios.
 
-As casas rangiam sobre as estacas. O rio parecia mais alto, embora não estivesse. As pontes suspensas balançavam no escuro, e cada passo parecia trazer notícia. As mães puxavam crianças para perto. Homens ficavam à porta com remos, facas de rede e arcos ruins. Mulheres contavam mantimentos pela terceira vez. Velhos sentavam em silêncio, olhando para a água como se esperassem que ela devolvesse o que vira.
+As casas rangiam sobre as estacas e as pontes suspensas balançavam no escuro. A água corria na mesma altura de sempre, mas ninguém tirava os olhos dela. As mães puxavam crianças para perto. Homens ficavam à porta com remos, facas de rede e arcos ruins. Mulheres contavam mantimentos pela terceira vez. Velhos sentavam em silêncio, olhando para a água como se esperassem que ela devolvesse o que vira.
 
 Ossar reuniu os mais próximos numa casa de medida perto do cais. Dalmir de Helmar queria ir à força, com quantos homens conseguissem reunir.
 
@@ -344,7 +344,7 @@ Saela fechou os olhos. Talvez tivesse esperado isso. Talvez tivesse medo disso.
 
 Partiu antes da madrugada com quatro homens.
 
-Foram pela margem sul, onde as árvores cresciam inclinadas sobre a água e o chão alternava entre pedra escorregadia, lodo firme e raízes grossas. O rio corria à esquerda, escuro, sempre presente. Ossar ouvia a água como se ouvisse a própria culpa. Cada curva parecia perguntar por que ele tinha deixado Rendar. Cada tronco caído parecia um corpo que ainda não sabia o nome.
+Foram pela margem sul, onde as árvores cresciam inclinadas sobre a água e o chão alternava entre pedra escorregadia, lodo firme e raízes grossas. O rio corria à esquerda, escuro, sempre presente. Ossar escutava o rio e lembrava a decisão de deixar Rendar para trás. A cada curva, procurava sinais de quem pudesse ter passado por ali.
 
 Encontraram sinais dos homens enviados na primeira noite antes do meio-dia. Um pedaço de corda fina preso num espinho. Uma sandália de fibra enfiada no lodo. Sangue seco numa pedra baixa, quase lavado pela umidade. Nenhum corpo. Nenhuma resposta.
 

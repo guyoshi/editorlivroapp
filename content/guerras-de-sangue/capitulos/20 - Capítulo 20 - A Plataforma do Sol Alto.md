@@ -86,7 +86,7 @@ Harrev encontrou pele curtida e um tambor partido no pátio de secagem.
 
 Harrev encontrou uma marca escura perto de uma porta estreita. Pintura negra. Não antiga. Não totalmente seca.
 
-Kaelina ajoelhou-se perto dela. A marca parecia ter sido deixada por mão ou braço encostado sem cuidado. O desenho não era claro, mas tinha a espessura de pigmento Tondrar, feito de cinza, gordura, mineral escuro e alguma coisa que prendia cheiro.
+Kaelina ajoelhou-se perto dela. A marca parecia ter sido deixada por mão ou braço encostado sem cuidado. O desenho estava borrado, mas a tinta tinha a espessura e o cheiro persistente do pigmento Tondrar, feito de cinza, gordura e mineral escuro.
 
 — Tondrar — disse Odris.
 
@@ -170,7 +170,7 @@ Kharvok inclinou a cabeça. O ar raspou na falha do rosto dele.
 
 — Uma mulher de anel alto. Talvez sangue de família antiga, talvez isca, talvez troca. Ainda estamos decidindo quanto vale a tua sede.
 
-Kaelina sentiu a corda no pescoço. Sentiu o rosto inchado. Sentiu o sangue seco na boca e a falta de Harrev à esquerda, de Odris à direita, de Edran em qualquer lugar do mundo. Quando falou, a voz saiu baixa, mas atravessou o pátio porque todos queriam ouvir.
+A corda apertava o pescoço de Kaelina. O rosto inchado doía, e o sangue seco rachava em seus lábios. Harrev e Odris já não estavam ao seu lado. Edran não estaria em lugar nenhum. Quando falou, a voz saiu baixa, mas atravessou o pátio porque todos queriam ouvir.
 
 — Eu sou Kaelina Polar, soberana dos Polar.
 
