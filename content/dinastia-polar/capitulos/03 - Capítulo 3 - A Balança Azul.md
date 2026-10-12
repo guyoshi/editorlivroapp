@@ -172,11 +172,7 @@ Polar. Tair estava errado.
 
 Kalan procurou outra vez, convencido de que devia haver alguma coisa que não entendera. Encontrou uma anotação menor indicando transferência de responsabilidade para Belan havia alguns ciclos. O garoto não citara pai nem mãe porque, ao que tudo indicava, vivia com o tio.
 
-Passos soaram na sala ao lado. Kalan enfiou a ficha de volta e empurrou a caixa para a prateleira.
-
-Um homem apareceu na passagem carregando um livro enorme. Viu Kalan agachado e parou.
-
-Por um instante, nenhum dos dois falou. Kalan apontou para baixo da estante.
+Passos soaram na sala ao lado. Kalan enfiou a ficha de volta e empurrou a caixa para a prateleira. Um homem apareceu na passagem carregando um livro enorme e parou ao vê-lo agachado. Kalan apontou para baixo da estante.
 
 — Caiu minha identificação.
 
@@ -318,11 +314,7 @@ As roupas também mudavam. Tecidos azul-escuros de boa qualidade substituíam gr
 
 Kalan reconhecia Nular entre eles não pela aparência, mas pelo que carregavam e por onde podiam passar. Alguns usavam faixas de autorização. Outros paravam diante de entradas onde moradores Polar simplesmente atravessavam.
 
-Passou por uma residência cercada por um muro baixo e duas árvores podadas na mesma altura.
-
-Pensou na casa vazia de Maruva. Não gostou da comparação.
-
-O primeiro edifício da Balança Azul aparecia antes mesmo de o Rio Grande surgir entre as construções.
+Passou por uma residência cercada por um muro baixo e duas árvores podadas na mesma altura. Aquilo o fez lembrar da casa vazia de Maruva, comparação que o incomodou. À frente, o primeiro edifício da Balança Azul aparecia antes mesmo de o Rio Grande surgir entre as construções.
 
 Era comprido, feito de pedra clara, com uma faixa azul escurecida pelo tempo atravessando a fachada. Acima da entrada principal, uma balança esculpida sustentava dois pratos perfeitamente nivelados. Abaixo dela estava o nome completo da Companhia, escrito em letras que Kalan demorara meses para conseguir ler sozinho quando começara a trabalhar ali.
 
