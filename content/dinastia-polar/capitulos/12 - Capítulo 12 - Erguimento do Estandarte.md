@@ -150,7 +150,7 @@ Dareth manteve os olhos na estrada.
 
 Vetarius riu daquilo também, do jeito leve que tornava difícil separar quanto da provocação era real e quanto era só o hábito antigo de dois homens que sabiam exatamente onde cutucar um no outro sem machucar de verdade.
 
-A passagem para a Cidade Intermediária mudou tudo de uma vez, como se alguém tivesse trocado o cenário inteiro enquanto Dareth ainda olhava para o chão. A Cidade Interna era cerimônia; a Intermediária era trabalho, e continuava sendo trabalho mesmo em dia de festa. Oficinas de todo tipo abriam as portas para a rua só para que os trabalhadores pudessem assistir sem abandonar de vez o posto. Forjas continuavam soltando fumaça em algumas esquinas, como se o fogo não soubesse ou não se importasse com o motivo da multidão. Os mercados de Talarim transbordavam pelas ruas adjacentes do mesmo jeito que faziam em qualquer grande dia, só que agora misturados à procissão em vez de interrompidos por ela. Tarraks de carga esperavam amarrados enquanto seus donos se erguiam nas pontas dos pés para ver melhor. Canais refletiam o azul dos estandartes na água parada. Soldados, ferreiros, escribas, carregadores e comerciantes ocupavam o mesmo espaço apertado, cada um interrompendo o trabalho só por alguns instantes antes de voltar a ele.
+Na Cidade Intermediária, os estandartes dividiam espaço com oficinas e depósitos. O trabalho continuava, mesmo no dia da cerimônia. Oficinas de todo tipo abriam as portas para a rua só para que os trabalhadores pudessem assistir sem abandonar de vez o posto. Forjas continuavam soltando fumaça em algumas esquinas, como se o fogo não soubesse ou não se importasse com o motivo da multidão. Os mercados de Talarim transbordavam pelas ruas adjacentes do mesmo jeito que faziam em qualquer grande dia, só que agora misturados à procissão em vez de interrompidos por ela. Tarraks de carga esperavam amarrados enquanto seus donos se erguiam nas pontas dos pés para ver melhor. Canais refletiam o azul dos estandartes na água parada. Soldados, ferreiros, escribas, carregadores e comerciantes ocupavam o mesmo espaço apertado, cada um interrompendo o trabalho só por alguns instantes antes de voltar a ele.
 
 A celebração aqui ficou menos coordenada e muito mais barulhenta. Alguém bateu uma ferramenta contra uma peça de metal, um som seco e alto que devia ter sido acidental na primeira vez e deixou de ser depois que outros começaram a imitá-lo de propósito. Soldados bateram o punho contra o peito, uma vez, duas vezes, num ritmo que se espalhou por fileiras inteiras antes que Dareth conseguisse identificar quem tinha começado.
 
@@ -262,7 +262,7 @@ O outro homem continuava segurando o braço de Elis. Dareth olhou para a mão de
 
 O homem hesitou, os olhos correndo rapidamente entre Dareth e o companheiro, mas não soltou.
 
-Centenas de pessoas observavam agora, o murmúrio de antes já virando silêncio expectante, o tipo de silêncio que só existia quando gente demais percebia, ao mesmo tempo, que estava vendo alguma coisa que ia ser contada depois. O campeão recém-apresentado a Kaeliran inteira estava parado diante de dois Filhos da Raiz, e um deles ainda tentava sustentar a autoridade.
+Centenas de pessoas observavam. O murmúrio diminuía à medida que os guardas se aproximavam. O campeão recém-apresentado a Kaeliran inteira estava parado diante de dois Filhos da Raiz, e um deles ainda tentava sustentar a autoridade.
 
 — Não cabe a você interromper uma ordem do Sumo Vigia.
 
@@ -298,7 +298,7 @@ Ele começou a se virar. Dareth acrescentou, sem pressa:
 
 Os dois se afastaram entre a multidão que abria caminho para eles sem que ninguém precisasse pedir, e não pareciam derrotados por dentro, só contidos por fora. O que tinha batido em Elis olhou para Dareth por cima do ombro antes de desaparecer de vista, um olhar que não escondia nada: aquele assunto ainda não tinha acabado.
 
-O barulho da multidão continuava contido, expectante, como se todos ali soubessem que a cena não tinha terminado de verdade. Dareth se abaixou diante de Elis, aproximando-se da altura dela, e tocou o rosto machucado com um cuidado que não combinava com o tamanho das próprias mãos. Virou o queixo dela um pouco para ver melhor onde o golpe tinha acertado, e o gesto, tão parecido com o de um pai examinando a filha depois de uma queda que não devia ter acontecido, doeu nele mais do que ele esperava que doesse.
+A multidão esperava, ainda atenta ao que se passava diante dos Filhos da Raiz. Dareth se abaixou diante de Elis, aproximando-se da altura dela, e tocou o rosto machucado com um cuidado que não combinava com o tamanho das próprias mãos. Virou o queixo dela um pouco para ver melhor onde o golpe tinha acertado, e reconheceu naquele cuidado um gesto que já não fazia havia muitos ciclos.
 
 — Dói muito?
 

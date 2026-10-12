@@ -124,9 +124,9 @@ Ficou em silêncio, e escutou.
 
 Enquanto escutava, Elis entendeu por que Kalan tinha ido à Casa da Permanência depois do depoimento de Tair. Descobrira que Darven era Polar, roubara a caixa para atrasar a descoberta e escondera tudo sem contar nem a ela. Agora Tair e Orel estavam em casa, machucados mas livres. Kalan continuava preso.
 
-Elis conhecia aquele padrão. Conhecia de longe, de perto, de dentro. Quando faltava comida, Kalan dizia que já tinha comido antes de sair para o cais. Quando alguma coisa parecia perigosa demais, decidia sozinho que ela não precisava saber dos detalhes. Quando faltava dinheiro, simplesmente arranjava mais turnos, sem avisar, sem perguntar se havia outro jeito. Para Kalan, proteger sempre significara a mesma coisa: decidir, sozinho, o peso exato que cada pessoa ao redor dele tinha permissão de carregar, e carregar ele mesmo tudo que decidia que os outros não aguentariam.
+Elis conhecia aquele padrão. Conhecia de longe, de perto, de dentro. Quando faltava comida, Kalan dizia que já tinha comido antes de sair para o cais. Quando alguma coisa parecia perigosa demais, decidia sozinho que ela não precisava saber dos detalhes. Quando faltava dinheiro, simplesmente arranjava mais turnos, sem avisar, sem perguntar se havia outro jeito. Kalan nunca perguntava se os outros queriam ser poupados.
 
-Sentiu orgulho, porque era exatamente esse o tipo de coisa que fazia Kalan ser Kalan. Sentiu raiva, porque ele tinha feito de novo, porque parecia nunca aprender que decidir sozinho também era um jeito de abandonar as pessoas que dizia estar protegendo. Sentiu medo, um medo frio e concreto demais para ignorar, porque dessa vez a decisão dele não tinha terminado numa multa ou numa humilhação pequena, e sim numa sala com Hadris e o Sumo Vigia. E sentiu, por baixo de tudo isso, uma vontade quase física de encontrar o irmão e socá-lo com toda força, só para ver se aquilo conseguia fazer alguma coisa entrar na cabeça dura dele que palavra nenhuma jamais conseguira.
+Elis tinha orgulho do irmão. Também queria socá-lo. Kalan decidira por todos mais uma vez, e agora Hadris e o Sumo Vigia estavam envolvidos. Lembrou das vezes em que ele aceitara punições sem contar a ninguém e apertou os punhos. Nem sequer podia discutir com ele.
 
 Você fez de novo, pensou, e a frase ficou ali, guardada, esperando o dia em que teria alguém na frente para recebê-la.
 
@@ -138,7 +138,7 @@ Não vinha com as roupas que Elis lembrava de Kaendar, nem com nada que marcasse
 
 — Preciso falar com você. Só com você.
 
-Ficaram na entrada, sob a pequena cobertura de telha que mal protegia a porta, enquanto a chuva começava a cair ao redor delas em gotas grossas e espaçadas, o tipo que sempre prometia mais do que entregava nos primeiros minutos. Selina não parecia gostar de estar ali, parada na rua, exposta, e Elis entendeu, sem que precisasse ser dito em voz alta, que aquilo custava alguma coisa a ela: que uma integrante da Câmara aparecendo repetidas vezes na casa de gente envolvida no caso de Kalan era o tipo de coisa que ninguém ligado ao Culto devia ver, e que Selina sabia disso melhor do que ninguém.
+Ficaram na entrada, sob a pequena cobertura de telha que mal protegia a porta, enquanto a chuva começava a cair ao redor delas em gotas grossas e espaçadas, o tipo que sempre prometia mais do que entregava nos primeiros minutos. Selina não parecia gostar de estar ali, parada na rua, exposta, e Elis se lembrou de que uma conselheira podia ser reconhecida por qualquer pessoa ligada ao Culto. Selina continuou ali, exposta à rua.
 
 — Ele me pediu para te dizer uma coisa. — Selina escolheu as palavras devagar, como quem pesa cada uma antes de soltar. — Que você não tente entrar no Santuário. E que não faça nenhuma idiotice.
 
