@@ -140,9 +140,7 @@ Elis parou.
 
 E vieram as histórias. Neiva lia muito, mais do que qualquer criança daquela casa devia ler sem supervisão. Era curiosa a ponto de irritar governantas inteiras. Mexia no que não devia mexer, abria o que estava trancado só para saber o que havia dentro, discutia com adultos sem entender quando parar, e odiava, mais do que qualquer outra coisa, receber como resposta um simples porque sempre foi assim. Ladira contou, com um meio sorriso que parecia custar mais do que aparentava, uma história pequena de Neiva ainda menina forçando um armário fechado para ler um documento que não devia nem saber que existia.
 
-Elis riu.
-
-Porque era ela. Era exatamente ela.
+Elis riu ao se reconhecer naquela descrição.
 
 Foi então que Ladira, sem perceber, falou da filha no presente.
 

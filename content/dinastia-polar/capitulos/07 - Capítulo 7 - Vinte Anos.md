@@ -102,7 +102,7 @@ Vetarius parou com a garrafa no ar. O maxilar endureceu antes de ele baixar a m�
 
 — Pela Raiz — murmurou, baixinho, quase para si mesmo. — Não lembrava que fazia tanto tempo assim. — Terminou de servir e estendeu uma das taças. — Muita coisa mudou desde que partiu. Elena morreu nesse meio-tempo, sabia? Mas tivemos um filho antes disso. Caeren. Um garoto formidável, forte, esperto. Um pouco difícil de ensinar a arte de ser soberano, mas isso não se ensina rápido em ninguém, não é mesmo?
 
-Falava depressa, pulando de um assunto para outro sem esperar reação, contando sobre a caça da semana anterior, sobre um tarrak que tinha comprado caro demais e se arrependido, sobre uma disputa qualquer no conselho que ele tinha resolvido sozinho antes que virasse discussão. Dareth bebeu o que lhe foi servido e comeu o fruto-de-bruma seco e o queijo envelhecido que Vetarius empurrou na direção dele numa bandeja, respondendo pouco, quase nada, deixando que o soberano preenchesse o silêncio com a própria vida, como sempre fizera: cheio de si, confiante, curioso sobre tudo que lhe interessava e sobre nada mais.
+Falava depressa, pulando de um assunto para outro sem esperar reação, contando sobre a caça da semana anterior, sobre um tarrak que tinha comprado caro demais e se arrependido, sobre uma disputa qualquer no conselho que ele tinha resolvido sozinho antes que virasse discussão. Dareth bebeu o que lhe foi servido e comeu o fruto-de-bruma seco e o queijo envelhecido que Vetarius empurrou na direção dele numa bandeja, respondendo pouco e deixando que o soberano falasse, como de costume.
 
 — Então vai haver um torneio — Dareth disse, por fim, quando encontrou uma brecha.
 

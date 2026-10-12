@@ -262,8 +262,4 @@ Elis dobrou os dois papéis com o mesmo cuidado com que Vesna os tinha tirado do
 
 Pensou na estátua enorme, na base larga, na rua reta e no cruzamento que já conhecia de outra vida, de outro motivo, de uma noite em que só precisava fugir e não chegar a lugar nenhum.
 
-Desta vez não era uma referência para escapar de alguma coisa.
-
-Era um caminho até alguém.
-
-Ladira Polar.
+A referência levava a alguém: Ladira Polar.

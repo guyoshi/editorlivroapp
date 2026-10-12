@@ -570,11 +570,7 @@ A palavra pesou entre os dois de um jeito que nenhuma outra tinha pesado até al
 
 Quando voltou a Kaendar, a Câmara já estava vazia. Serviçais recolhiam taças esquecidas pela mesa. Papéis eram empilhados por mãos que não se importavam com o conteúdo. Alguém enrolava o mapa da viagem que horas antes decidira o destino de mil pessoas.
 
-A discussão sobre glória, campeões e crianças nas tribunas já tinha terminado havia muito.
-
-Elis continuava presa.
-
-Dareth deixou aquele contraste seguir com ele pelos corredores, sem tentar esquecê-lo.
+A Câmara encerrara a discussão sobre glória e campeões. Elis continuava presa. Dareth seguiu pelos corredores.
 
 *
 
