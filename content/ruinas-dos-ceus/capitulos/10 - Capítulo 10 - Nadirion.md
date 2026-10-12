@@ -88,7 +88,7 @@ Enquanto a criatura comia, eles fugiram. Jokara mancava, o bastão batendo no ch
 
 Não havia caminho, só fendas entre raízes altas e túneis de galhos por onde mal se passava de lado. Os galhos arranhavam os braços dela.
 
-O estômago roncava. Sob as bandagens sujas, o coto da perna esquerda latejava em ondas que subiam até o quadril. A camada de resina aplicada em Etérea começava a amolecer com água, lama e suor, e Jokara tinha pavor de que a ferida abrisse ou apodrecesse. O ar parecia encher só metade dos pulmões.
+O estômago roncava. Sob as bandagens sujas, o coto da perna esquerda latejava em ondas que subiam até o quadril. A camada de resina aplicada em Etérea começava a amolecer com água, lama e suor, e Jokara tinha pavor de que a ferida abrisse ou apodrecesse. Inspirava fundo, mas o ar não bastava.
 
 O corredor de raízes terminou de repente. Diante deles, corria um rio escuro, largo o suficiente para cortar o caminho em duas margens inalcançáveis. Não havia ponte nem tronco caído.
 
@@ -104,7 +104,7 @@ Desceu primeiro, o bastão sondando a profundidade. A água subiu rápido: torno
 
 Loutes hesitou, mas entrou. O corpo pequeno foi logo engolido até os ombros. Jokara o puxou contra si, apoiando-o no braço livre enquanto segurava o bastão com a outra mão. Ele tremia de frio.
 
-A corrente não era forte, mas o fundo irregular fazia cada passo uma armadilha. Jokara afundava até a coxa, depois até quase perder o equilíbrio. Uma vez, o pé dela ficou preso entre duas pedras. Soltou-o com um puxão que fez o tornozelo arder.
+A corrente era fraca; no fundo irregular, porém, Jokara tropeçava a cada passo. Jokara afundava até a coxa, depois até quase perder o equilíbrio. Uma vez, o pé dela ficou preso entre duas pedras. Soltou-o com um puxão que fez o tornozelo arder.
 
 Em Etérea, água era orvalho e lago raso. Nunca tinha entrado numa água que a quisesse levar.
 
@@ -114,7 +114,7 @@ A lua apareceu entre duas copas, e sombras passaram voando lá em cima. Jokara n
 
 O fundo começou a subir. Primeiro o nível baixou até o peito, depois à cintura, depois às coxas. Por fim, os dois emergiram na margem oposta. Jokara tentou dar mais um passo, mas a ponta do bastão escapou no barro e ela caiu de lado.
 
-Tossiu, expelindo água e lama. O corpo inteiro tremia, o coto latejava e o braço com que segurara Loutes mal se mexia. Antes de permitir a si mesma descansar, soltou as bandagens encharcadas, limpou o barro que conseguia ver e tornou a enrolá-las com a parte menos suja do tecido. Não sabia se aquilo bastava. Só sabia que febre, ali, poderia ser uma sentença.
+Tossiu, expelindo água e lama. O corpo inteiro tremia, o coto latejava e o braço com que segurara Loutes mal se mexia. Antes de permitir a si mesma descansar, soltou as bandagens encharcadas, limpou o barro que conseguia ver e tornou a enrolá-las com a parte menos suja do tecido. Não sabia se as bandagens resistiriam até encontrar abrigo. Febre era a última coisa de que precisava.
 
 O menino deitou-se de lado, ofegante, com os olhos nela.
 
