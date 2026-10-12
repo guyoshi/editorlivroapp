@@ -2,7 +2,7 @@
 
 Os sopros seguintes trouxeram chuva. A floresta pingava sem cessar: folhas encharcadas, troncos escorregadios, o solo virando lama espessa sob seus pés. O abrigo cedia sob a chuva, e o grupo o reforçou com pedras e raízes. Jokara trabalhava junto, mesmo quando a água escorria por baixo das bandagens e fazia o coto arder.
 
-Ao Sopro do Silêncio, reuniam-se sob o teto molhado, partilhando frutos úmidos e raízes cozidas no fogo fraco que Mariv se dedicava a manter aceso contra a umidade. Nestira cantava baixinho, e Loutes não tirava os olhos dela. Jokara ouvia a irmã cantar e não encontrava coragem de perguntar se ainda acreditava nos ventos.
+Ao Sopro do Silêncio, reuniam-se sob o teto molhado, partilhando frutos úmidos e raízes cozidas no fogo fraco que Mariv se dedicava a manter aceso contra a umidade. Nestira cantava baixinho, e Loutes não tirava os olhos dela. Jokara acompanhava a voz da irmã, mas não cantava junto.
 
 Em uma das tardes em que a chuva deu trégua, Jokara e Nestira se afastaram sozinhas do abrigo para procurar raízes entre as árvores. Caminharam por algum tempo sem falar, ouvindo apenas a água cair das folhas. Quando Nestira encontrou uma raiz larga junto a um tronco, ajoelhou-se para soltá-la da terra e falou sem olhar para a irmã.
 
@@ -10,7 +10,7 @@ Em uma das tardes em que a chuva deu trégua, Jokara e Nestira se afastaram sozi
 
 Jokara conhecia aquela esperança. Também já imaginara Mirel deixando uma banca alguns instantes antes, tomando uma rua diferente, sendo empurrada pela multidão para longe da borda. Eram possibilidades pequenas, mas eram tudo o que tinham. — Eu penso nisso também. A gente viu o mercado cair, mas não viu mamãe.
 
-Nestira limpou a lama da raiz com os dedos, demorando mais do que precisava. — Se ela saiu, deve ter procurado por nós. — Deve ter tentado — respondeu Jokara. Nenhuma das duas disse que essa possibilidade tornava o silêncio ainda pior.
+Nestira limpou a lama da raiz com os dedos, demorando mais do que precisava. — Se ela saiu, deve ter procurado por nós. — Deve ter tentado — respondeu Jokara. Jokara tornou a limpar a raiz, embora já não houvesse lama nela.
 
 Continuaram andando entre as árvores. Alguns passos depois, Nestira apertou a raiz contra o peito. — Com Efepar não dá para imaginar uma passagem diferente. Eu ainda vejo ele correndo com os pais. Vejo os dois levantando os braços.
 
