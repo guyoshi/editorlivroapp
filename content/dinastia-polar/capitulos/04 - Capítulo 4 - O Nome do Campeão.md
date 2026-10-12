@@ -32,7 +32,7 @@ Selina parou tempo suficiente para olhar para ela. A requisição saíra dali. I
 
 — Kaeliran inteira está movendo papel mais rápido do que qualquer arquivo consegue acompanhar — disse Selina, retomando o passo. — Não temos tempo pra mistérios. 
 
-Perto da fonte central, Teral ensaiava para um pajem entediado a ordem de entrada das delegações no Caminho dos Dez, a voz projetada como se já houvesse mil pessoas ouvindo em vez de um garoto segurando pergaminhos.
+Perto da fonte central, Teral ensaiava a ordem de entrada das delegações no Caminho dos Dez. Projetava a voz até o outro lado da fonte, enquanto o pajem segurava os pergaminhos e mal escondia o tédio.
 
 — "Por ordem de Vetarius Polar, soberano de Kaeliran, cada dinastia apresentará seu estandarte na ordem de chegada, e nenhuma precedência será concedida além da própria pontualidade." — Ele parou, balançou a cabeça, insatisfeito com o próprio som. — Não. "Nenhuma precedência além daquela que a própria história já concedeu." Melhor.
 
@@ -46,7 +46,7 @@ O corredor externo da Casa dos Estandartes se abriu diante delas, colunas de ped
 
 — Doação não é autoridade — disse ele, a voz rouca carregando cada palavra como se arrastasse um peso morto por trás dela. — Alguém devia lembrar a Companhia disso antes que eu precise fazê-lo pessoalmente, diante de quem for necessário.
 
-Ele saía de uma das salas de audiência acompanhado por dois Filhos da Raiz. Era um homem muito velho, magro a ponto de a pele parecer presa aos ossos do rosto, e os olhos afundavam tão fundo nas órbitas que, à primeira vista, podiam fazê-lo parecer um cadáver ainda de pé. A pintura do Culto não ajudava: a base branca cobria o rosto inteiro, a faixa de tinta de registro escurecia os olhos de uma têmpora à outra, e um traço da mesma tinta lhe atravessava os lábios, como se nada pudesse sair dali antes de prova. Selina já vira aquele rosto assustar visitantes de outras dinastias. Nunca a assustara.
+Ele saía de uma das salas de audiência acompanhado por dois Filhos da Raiz. Era um homem muito velho. A pele fina marcava os ossos do rosto, e os olhos quase desapareciam nas órbitas. A pintura do Culto não ajudava: a base branca cobria o rosto inteiro, a faixa de tinta de registro escurecia os olhos de uma têmpora à outra, e um traço da mesma tinta lhe atravessava os lábios. Selina já vira aquele rosto assustar visitantes de outras dinastias. Nunca a assustara.
 
 — Sumo Vigia.
 
