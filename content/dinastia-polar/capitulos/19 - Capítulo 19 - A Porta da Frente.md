@@ -150,7 +150,7 @@ Foi então que Ladira, sem perceber, falou da filha no presente.
 
 — Ela morreu.
 
-A mão de Ladira parou a meio caminho da xícara. Ela abriu a boca, mas não conseguiu responder.
+Ladira ficou imóvel. Não de um jeito teatral, não como quem representa choque para uma audiência. A mão que estava ajeitando a xícara simplesmente parou no ar. A boca se abriu um pouco, sem som nenhum saindo dela por um instante longo demais.
 
 — Morreu?
 

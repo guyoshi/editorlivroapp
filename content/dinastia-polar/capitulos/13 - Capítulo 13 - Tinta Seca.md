@@ -42,7 +42,7 @@ Hadris não respondeu. Continuou olhando para ele com a mesma paciência absolut
 
 — Sua irmã também precisou ser localizada — respondeu Hadris, por fim, escolhendo cada palavra com o mesmo cuidado com que alinhara as folhas na mesa.
 
-Kalan sentiu o peito apertar. Hadris dissera apenas "localizada". Não dissera que Elis estava bem ou em casa.
+Kalan sentiu o peito apertar. "Localizada" não era "está em casa". Não era "está bem". Era uma palavra larga demais para caber qualquer resposta que Hadris quisesse colocar dentro dela.
 
 — Onde ela está? — repetiu, já de pé, embora não lembrasse de ter decidido levantar.
 
@@ -266,7 +266,7 @@ Kalan não teve resposta para aquilo, e o Sumo pareceu reconhecer o silêncio co
 
 Explicou o resto sem pressa, como quem lê um veredito que já conhecia de memória havia dias. Existia agora uma confissão registrada, e essa confissão mudava formalmente a natureza do caso inteiro. Kalan não seria julgado apenas pela agressão que envolvera a própria casa; seria julgado por retirada ilegal de registros de uma Casa da Permanência, por furto dentro de suas dependências, por ocultação deliberada de provas, pelo desaparecimento contínuo do material roubado, por mentiras sustentadas durante toda a investigação, e por crimes contra a autoridade legítima da Raiz e contra a própria Permanência que a sustentava.
 
-Terminou de falar e ficou olhando para Kalan. Ele não conseguiu perguntar o que aconteceria se fosse condenado.
+Terminou de falar e ficou apenas olhando para Kalan, sem pressa de sair, sem pressa de preencher o silêncio que se abriu entre os dois. Kalan não perguntou o que acontecia se fosse condenado. Não conseguia formar a pergunta, e talvez, no fundo, já soubesse que não precisava perguntar para que a resposta chegasse de qualquer forma.
 
 O Sumo Vigia continuou olhando para ele por alguns segundos mais, e então falou de novo, no mesmo tom calmo e rouco de sempre, como se estivesse apenas completando uma frase que já tinha começado havia muito tempo.
 
