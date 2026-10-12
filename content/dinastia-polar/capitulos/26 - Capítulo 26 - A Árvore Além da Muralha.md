@@ -117,7 +117,7 @@ Bastava.
 
 Quando chegou a hora de cobri-lo, ninguém apressou nada.
 
-Elis se abaixou uma última vez e tocou o tecido sobre o que restava do braço dele, sem dizer nada, sem chorar mais do que já tinha chorado. Tair parou por um instante antes de jogar a primeira porção de terra, a ferramenta tremendo levemente na mão, como se o corpo dele resistisse àquele gesto final mais do que a qualquer coisa que tivesse feito até ali. Orel observava tudo com uma confusão silenciosa, como se ainda não entendesse por completo por que precisavam cobri-lo daquele jeito, por que o frio que ele tinha tentado combater a noite inteira com pano agora seria combatido, em vez disso, com terra.
+Elis se abaixou uma última vez e tocou o tecido sobre o que restava do braço dele. Ficou assim alguns segundos, em silêncio. Tair ergueu a primeira pá de terra. A ferramenta tremia nas mãos. Esperou até conseguir derramá-la. Orel observava a padiola. Durante a noite tentara aquecer Kalan com panos. Agora via Tair erguer a pá cheia de terra e não se aproximava.
 
 Karesis continuou. Não porque sentisse menos do que os outros (Elis via isso no jeito como as mãos dele se moviam, devagar demais para alguém que só quisesse terminar logo), mas porque alguém precisava terminar aquilo, e ele tinha decidido que seria ele.
 

@@ -1,12 +1,12 @@
 # Capítulo 37 — Antes da Noite
 
-Dareth saiu do salão andando quase de costas, incapaz de virar de vez as próprias costas para aquilo. Antes de alcançar o corredor, percebeu que alguns dos sobreviventes o observavam havia tempo demais.
+Dareth recuou até o corredor sem tirar os olhos do salão. Antes de alcançar o corredor, percebeu que alguns dos sobreviventes o observavam havia tempo demais.
 
 Saelira Buldar estava de pé junto à mesa da própria comitiva, tão imóvel que parecia não ouvir os pedidos de ajuda à sua volta. Não fizera menção de se aproximar de Alveris quando ele caíra. Agora encontrava os olhos de Dareth sem desviar, a mesma serenidade com que participara do jantar. Perto dela, um dos homens Buldar aguardava junto à porta; o outro deixou escapar um sorriso breve, que desapareceu assim que notou ter sido visto. Do lado oposto, o homem que propusera o brinde baixou a taça vazia e trocou um olhar com alguém que vestia as cores Vendrar.
 
 Dareth não conhecia o nome de todos eles. Lembrava dos lugares que tinham ocupado, das vozes misturadas às conversas de Vetarius poucos momentos antes. Havia sangue e vinho sobre as mesas. Servidores chamavam curadores. Uma mulher estrangeira tentava reanimar o servidor Polar caído a seus pés, e um homem de outra delegação examinava a própria taça com as mãos tão trêmulas que mal conseguia segurá-la. Dareth não tinha como separar, naquela hora, os que esperavam por aquilo dos que tinham sido apanhados no mesmo horror. Mas os rostos calmos continuavam voltados para ele, e nenhum dos seus donos parecia surpreso.
 
-Deu um passo para trás. Ainda sentia nos braços o peso de Vetarius e a maneira como esse peso mudara, de repente, quando o amigo deixara de se mover. Um representante estrangeiro passou por ele pedindo ajuda. Dareth ouviu a voz sem entender as palavras. Havia muitas outras: acusações, nomes chamados por cima dos ombros, alguém insistindo que também bebera vinho e continuava de pé. O ruído chegava abafado, como se ele estivesse num aposento fechado e tudo aquilo acontecesse do lado de fora.
+Deu um passo para trás. Ainda sentia nos braços o corpo de Vetarius, a mudança súbita quando o amigo deixara de se mover. Um representante estrangeiro passou por ele pedindo ajuda. Dareth ouviu a voz sem entender as palavras. Havia muitas outras: acusações, nomes chamados por cima dos ombros, alguém insistindo que também bebera vinho e continuava de pé. O ruído chegava abafado, como se ele estivesse num aposento fechado e tudo aquilo acontecesse do lado de fora.
 
 Recuou até o corredor e esbarrou numa armadura úmida.
 
@@ -791,9 +791,7 @@ Parte do Caminho da Permanência aparecia entre a névoa e a fumaça, a estátua
 
 Um grande símbolo azul se desprendeu da fachada de Kaendar e desceu em chamas atrás dos telhados. Outras faixas Polar ardiam presas às muralhas, molhadas pela garoa fina demais para apagá-las.
 
-Por séculos, aqueles estandartes haviam sido a imagem da permanência Polar. Agora ardiam sob uma chuva fina demais para salvá-los.
 
-A Dinastia Polar terminava ali.
 
 Elis pensou em Kalan e na casa de Maruva. Pensou em Karesis sob as pedras, em Dareth no túnel, e não conseguiu olhar mais tempo.
 

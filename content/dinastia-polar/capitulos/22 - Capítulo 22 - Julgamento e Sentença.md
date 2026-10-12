@@ -2,7 +2,7 @@ Selina não gostava de se vestir para o poder alheio, mas era exatamente isso qu
 
 Sobre a cama, em pilhas organizadas com um cuidado que não condizia com a pressa que sentia por dentro, estavam os documentos: os originais de Neiva, o registro DV-0417, as poucas anotações que conseguira reunir sobre Tair, Cairon e a situação da casa. Vestiu o manto por cima. Prendeu os selos. Verificou duas vezes se tinha tudo, sabendo perfeitamente que já tinha conferido da primeira vez.
 
-Não era assim que se preparava para uma reunião do Conselho. Isso ela sabia fazer dormindo: favores, promessas veladas, ameaças embrulhadas em cortesia. Aquilo era diferente. Não estava negociando uma rota de comércio. Estava tentando impedir que um rapaz de dezessete ciclos morresse, e sabia, com uma clareza que preferia não ter, que podia falhar.
+Numa reunião do Conselho, favores e ameaças veladas bastavam para abrir caminho. Diante daquele julgamento, Selina conferiu os documentos mais uma vez. Kalan tinha dezessete ciclos. O Culto podia condená-lo à morte.
 
 Amira apareceu na porta, já vestida para o próprio dia de trabalho.
 
@@ -40,7 +40,7 @@ Selina não tinha resposta boa.
 
 — Não sei.
 
-Dareth não disse mais nada. Não precisava. O silêncio dele carregava mais acusação do que qualquer frase inteira, e a cadeira vazia que o soberano deveria estar ocupando, porque o soberano podia comparecer a um Julgamento da Raiz, e às vezes comparecia justamente para mostrar que a cidade se importava, continuava vazia quando os sinos marcaram a hora.
+Dareth não disse mais nada. Quando os sinos marcaram a hora, a cadeira reservada ao soberano continuava vazia. Vetarius poderia ter comparecido ao Julgamento da Raiz. Não viera.
 
 *
 
