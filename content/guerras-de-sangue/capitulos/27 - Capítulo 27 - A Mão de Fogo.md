@@ -48,7 +48,7 @@ Os passos atravessaram a rua. Uma voz sussurrou ao seu lado:
 
 Rendar virou-se com a faca erguida. Tavra estava escondida na parte escura do mesmo vão, tão perto que a ponta da lâmina quase tocou sua garganta. Ela sorria.
 
-O fogo que entrava pela porta quebrada refletia na armadura Vendrar e fazia cada placa parecer recém-retirada de uma forja. A proteção era assimétrica, feita de placas escuras e sobrepostas sobre couro tratado, mais pesada no ombro direito e reforçada ao redor do lado esquerdo, onde o antebraço terminava. O tubo de fogo estava preso ao coto por arreios de metal e tiras grossas, integrado à armadura de tal modo que parecia menos uma arma carregada por ela do que uma parte do corpo que os Vendrar haviam construído depois que o primeiro falhara. Pequenas marcas de queimadura cobriam as bordas das placas, mas nenhuma estava deformada. A armadura parecia ter sido feita não para evitar o fogo, mas para atravessá-lo sem precisar pedir licença.
+O fogo que entrava pela porta quebrada refletia na armadura Vendrar e fazia cada placa parecer recém-retirada de uma forja. A proteção era assimétrica, feita de placas escuras e sobrepostas sobre couro tratado, mais pesada no ombro direito e reforçada ao redor do lado esquerdo, onde o antebraço terminava. O tubo de fogo estava preso ao coto por arreios de metal e tiras grossas, integrado à armadura de tal modo que parecia menos uma arma carregada por ela do que uma parte do corpo que os Vendrar haviam construído depois que o primeiro falhara. Pequenas marcas de queimadura cobriam as bordas das placas, mas nenhuma estava deformada. As placas escurecidas protegiam o corpo nas áreas em que as chamas chegavam mais perto.
 
 — Se eu fosse tua inimiga, você já estaria morto — disse ela.
 
@@ -534,7 +534,7 @@ Iressa Mão-de-Sal atravessou a sala sem arma, sem armadura e sem qualquer razã
 
 Ela bateu o corpo inteiro contra Tavra. A Vendrar não esperava. O impacto não a derrubou, mas afastou o tubo do rosto de Alyra e abriu espaço entre as duas. Tavra girou para Iressa, surpresa demais para sorrir. Alyra levantou a espada. Golpeou o arreio preso ao lado esquerdo da armadura.
 
-A lâmina atravessou uma correia já danificada, bateu na haste de metal e cortou a segunda tira junto ao ombro. O mecanismo de fogo soltou-se do coto com um ruído seco. Tubos, fivelas e couro rasgado caíram juntos, ainda ligados por uma última faixa. Tavra gritou. O grito saiu como se Tavra tivesse perdido outra parte de si, e não apenas uma arma.
+A lâmina atravessou uma correia já danificada, bateu na haste de metal e cortou a segunda tira junto ao ombro. O mecanismo de fogo soltou-se do coto com um ruído seco. Tubos, fivelas e couro rasgado caíram juntos, ainda ligados por uma última faixa. Tavra gritou. Tavra gritou, tentando prender ao coto as correias que já não sustentavam o mecanismo.
 
 Ela tentou recuperar o equilíbrio. O pé pisou numa das cordas soltas. A faixa ainda presa ao mecanismo puxou seu lado esquerdo para baixo. Tavra bateu contra a borda da janela, tentou segurar-se com a única mão, mas a lâmina que carregava escorregou de seus dedos e caiu primeiro. Alyra viu o espanto atravessar o rosto dela. Depois Tavra caiu.
 
