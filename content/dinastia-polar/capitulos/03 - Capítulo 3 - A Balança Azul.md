@@ -284,7 +284,7 @@ Kalan seguiu por oficinas, casas de comerciantes e pátios onde animais eram tro
 
 O Caminho da Permanência apareceu adiante carregado de movimento.
 
-Kalan passara por ali tantas vezes que já não observava cada estátua como Elis provavelmente faria, mas ainda era difícil ignorá-las por completo. Kaelyr permanecia de frente para o sul, uma mão apoiada sobre a espada de pedra. Nerya segurava o recipiente de onde água verdadeira escorria para a bacia aos seus pés. Alysen observava o caminho com uma expressão severa que Kalan sempre achara exagerada para alguém que não precisava dividir passagem com carroças.
+Kalan passara por ali inúmeras vezes. Reconhecia as estátuas sem procurar por elas. Kaelyr permanecia de frente para o sul, uma mão apoiada sobre a espada de pedra. Nerya segurava o recipiente de onde água verdadeira escorria para a bacia aos seus pés. Alysen observava o caminho com uma expressão severa que Kalan sempre achara exagerada para alguém que não precisava dividir passagem com carroças.
 
 Naquela manhã, fileiras de animais ocupavam parte da via. Tarraks carregavam rolos de tecido presos em armações altas, e duas carroças cobertas avançavam cercadas por homens que vestiam cores que Kalan não reconheceu. Trabalhadores da cidade tentavam manter livres os espaços próximos às estátuas enquanto guardas redirecionavam o fluxo.
 
@@ -302,7 +302,7 @@ O funcionário olhou para ele como se aquilo fosse um problema que só existiria
 
 Kalan entrou.
 
-A Cidade Interna sempre o incomodava de um jeito difícil de explicar. Não era silenciosa porque tivesse pouca gente. Havia trabalhadores, servidores, comerciantes, guardas, mensageiros e moradores por toda parte. Ainda assim, ninguém precisava disputar cada pedaço de chão. As ruas mantinham largura suficiente mesmo perto das casas maiores, e árvores cresciam em jardins onde suas raízes não precisavam levantar paredes ou empurrar fundações.
+A Cidade Interna sempre o incomodava. Trabalhadores, servidores, comerciantes e guardas enchiam as ruas, mas havia espaço para todos passarem sem se espremer. As ruas mantinham largura suficiente mesmo perto das casas maiores, e árvores cresciam em jardins onde suas raízes não precisavam levantar paredes ou empurrar fundações.
 
 Água corria por canais limpos. Algumas fontes estavam ali apenas para serem bonitas. Kalan achava essa parte particularmente ofensiva.
 
@@ -388,7 +388,7 @@ O volume do torneio fazia o dia avançar sem espaço para distração. Tecidos c
 
 Foi entre uma carga e outra que Kalan viu Alveris. As luvas brancas de couro curtido fino destoavam da madeira suja e das cordas do cais. Era careca, e a barba grisalha, cheia e comprida, descia sobre o peito do casaco. Entre os dedos, Alveris segurava um cachimbo estreito de cerâmica vitrificada, de onde subia o cheiro doce e amargo da orva seca, uma folha cara que Kalan conhecia mais pelo aroma deixado por homens ricos da Cidade Interna do que por vê-la em Maruva.
 
-O proprietário da Companhia atravessava o pátio acompanhado por dois homens. Não precisava de escolta para ser reconhecido. O casaco azul-acinzentado tinha corte melhor do que qualquer roupa que Kalan possuía, mas evitava os bordados religiosos e os excessos que alguns homens ricos pareciam usar apenas para provar que podiam. As botas permaneciam limpas de um jeito incompreensível para alguém que circulava tão perto do cais.
+O proprietário da Companhia atravessava o pátio acompanhado por dois homens. O casaco azul-acinzentado tinha corte melhor do que qualquer roupa que Kalan possuía. Não trazia bordados religiosos ou adornos excessivos. As botas permaneciam limpas de um jeito incompreensível para alguém que circulava tão perto do cais.
 
 Kalan já o vira muitas vezes. Nunca falara com ele.
 
