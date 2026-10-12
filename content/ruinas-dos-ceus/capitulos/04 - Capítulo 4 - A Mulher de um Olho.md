@@ -167,7 +167,7 @@ Raízes pendiam das árvores como véus trançados à mão. Pedras ocas, dispost
 
 Um murmúrio correu entre os presentes. Depois veio o cheiro: úmido, vegetal, de tronco podre aberto ao meio. E uma mulher magra caminhou até o centro.
 
-Andava curvada, embora fosse jovem. Os cabelos, endurecidos de barro, pareciam raízes arrancadas. A pele estava marcada por poeira, lama, arranhões e crostas. Alguém atrás de Jokara sussurrou que aquilo era sujeira das Ilhas Baixas. O comentário correu entre os presentes como explicação suficiente. Tudo o que cheirava a terra úmida parecia vir de lá. Jokara, porém, fitava seu rosto.
+Andava curvada, embora não fosse velha. Os cabelos, endurecidos de barro, pareciam raízes arrancadas. A pele estava marcada por poeira, lama, arranhões e crostas. Alguém atrás de Jokara sussurrou que aquilo era sujeira das Ilhas Baixas. O comentário correu entre os presentes como explicação suficiente. Tudo o que cheirava a terra úmida parecia vir de lá. Jokara, porém, fitava seu rosto.
 
 Jokara estremeceu e apertou os lábios, contendo o espanto. O lado esquerdo do rosto da mulher era liso como pedra lascada. Onde deveria haver um olho, havia uma órbita funda e vazia. Jokara tentou desviar o olhar e não conseguiu.
 

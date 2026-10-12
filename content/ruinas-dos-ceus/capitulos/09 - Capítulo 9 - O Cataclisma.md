@@ -10,7 +10,7 @@ Jokara não hesitou.
 
 — As ilhas... Etérea está caindo.
 
-Pela primeira vez, Jokara ouvia aquelas palavras fora da própria cabeça.
+Ninguém em Etérea dizia aquilo em voz alta.
 
 Maletar engoliu em seco. Efepar não disse nada, apenas baixou os olhos e levou a mão ao ferimento no peito, que começava a enrijecer com o frio do Sopro do Silêncio.
 

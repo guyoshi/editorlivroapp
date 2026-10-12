@@ -50,7 +50,7 @@ Jokara se virou. Mariv e Nestira riam juntos, conversando. Até Loutes prestava 
 
 Todos se viraram para ela, e Jokara percebeu que tinha falado alto demais.
 
-Nos sopros seguintes, falou pouco e reparou mais: a forma como Platisa sempre apertava o zélon contra o peito antes de dormir, e de como ela comia frutas, mas se afastava sempre que alguém preparava carne; o modo como Mariv se sentava cada vez mais perto de Nestira; e Gabasteri, sempre um pouco afastado do grupo.
+Nos sopros seguintes, falou pouco e reparou mais: a forma como Platisa sempre apertava o zélon contra o peito antes de dormir e evitava a carne mesmo quando comia frutas; o modo como Mariv se sentava cada vez mais perto de Nestira; e Gabasteri, sempre um pouco afastado do grupo.
 
 
 Quase uma corrente depois de encontrarem Platisa, veio um sopro de céu carregado. A floresta escureceu cedo.
