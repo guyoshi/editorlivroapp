@@ -36,7 +36,7 @@ Não bateu.
 
 No segundo dia, viu Ladira.
 
-Uma mulher alta, larga e pesada, os cabelos brancos trançados numa espécie de coroa em que Elis não conseguiu encontrar um único fio fora do lugar. Vestido pesado azul-negro, bordados discretos na gola alta, luvas finas mesmo para atravessar o próprio jardim, joias antigas de dravenito escuro no pescoço e nos dedos. E maquiagem, não do jeito comum que Elis já tinha visto em alguma vizinha se arrumando para uma festa, mas alguma coisa mais séria: pigmento escuro contornando os olhos, azul profundo nas pálpebras, a boca tingida de um vermelho-terra fechado, um pó fino e perfumado apagando qualquer brilho natural do rosto. Parecia, para Elis, uma mulher preparada para uma cerimônia mesmo ao simplesmente sair de casa para dar instruções a um jardineiro.
+Uma mulher alta, larga e pesada, os cabelos brancos trançados numa espécie de coroa em que Elis não conseguiu encontrar um único fio fora do lugar. Vestido pesado azul-negro, bordados discretos na gola alta, luvas finas mesmo para atravessar o próprio jardim, joias antigas de dravenito escuro no pescoço e nos dedos. Usava pigmento escuro ao redor dos olhos, azul profundo nas pálpebras, vermelho-terra na boca e pó perfumado sobre o rosto. Elis jamais vira alguém se arrumar daquela maneira para falar com um jardineiro.
 
 Não a reconheceu, claro, até que um criado, segurando a porta, disse baixinho:
 
@@ -84,7 +84,7 @@ E Elis atravessou a porta da frente.
 
 A casa a engoliu de um jeito que nenhum dia de espera do lado de fora tinha preparado. Joren recebeu o xale de Ladira sem que ela precisasse olhar para ele e desapareceu por um corredor lateral. Mais tarde, Elis ouviria Ladira chamá-lo pelo nome outra vez para trazer água quente, e a naturalidade com que os dois repetiam aquela rotina fez a dívida no pulso dele parecer parte da arquitetura da casa.
 
-Havia cômodos que serviam para uma coisa só, um só para receber visitas, outro só para comer, outro em que ninguém parecia estar fazendo absolutamente nada naquele instante e que existia, ainda assim, perfeitamente limpo e iluminado. Escadas largas, sem um degrau torto. Piso nivelado sob os pés, sem uma única tábua solta para avisar de longe que alguém estava chegando. Portas que fechavam sem raspar. Vidro em janelas que não precisavam de pano por dentro para segurar o frio. Água correndo de algum lugar sem um único balde à vista. Tecidos inteiros, sem remendo tapando buraco nenhum.
+Havia cômodos inteiros reservados a receber visitas, a comer ou simplesmente a permanecer vazios, todos limpos e iluminados. Escadas largas, sem um degrau torto. Piso nivelado sob os pés, sem uma única tábua solta para avisar de longe que alguém estava chegando. Portas que fechavam sem raspar. Vidro em janelas que não precisavam de pano por dentro para segurar o frio. Água correndo de algum lugar sem um único balde à vista. Tecidos inteiros, sem remendo tapando buraco nenhum.
 
 E comida.
 
@@ -138,7 +138,7 @@ Elis parou.
 
 — Essa cara. Quando achava que alguém não estava contando tudo.
 
-E vieram as histórias. Neiva lia muito, mais do que qualquer criança daquela casa devia ler sem supervisão. Era curiosa a ponto de irritar governantas inteiras. Mexia no que não devia mexer, abria o que estava trancado só para saber o que havia dentro, discutia com adultos sem entender quando parar, e odiava, mais do que qualquer outra coisa, receber como resposta um simples porque sempre foi assim. Ladira contou, com um meio sorriso que parecia custar mais do que aparentava, uma história pequena de Neiva ainda menina forçando um armário fechado para ler um documento que não devia nem saber que existia.
+Ladira começou a contar histórias. Neiva lia tudo que encontrava, abria armários trancados e discutia com adultos até cansar as governantas. Nunca aceitava o argumento de que alguma regra devia ser obedecida apenas porque sempre fora assim. Ladira contou, com um meio sorriso que parecia custar mais do que aparentava, uma história pequena de Neiva ainda menina forçando um armário fechado para ler um documento que não devia nem saber que existia.
 
 Elis riu ao se reconhecer naquela descrição.
 

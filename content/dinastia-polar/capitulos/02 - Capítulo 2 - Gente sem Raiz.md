@@ -84,7 +84,7 @@ Elis puxou um dos recipientes na própria direção e bebeu um pouco.
 
 — Isso não conta como morar numa casa.
 
-Elis bebeu mais um gole. Karesis desaparecia com frequência. Às vezes ficava dias fora; em outras, aparecia por poucas horas e sumia antes que alguém perguntasse onde estivera. Kalan reclamava mais do que qualquer outro, principalmente quando alguma obrigação que deveria ser de Karesis acabava caindo sobre eles.
+Elis bebeu mais um gole. Karesis às vezes passava dias fora e, quando voltava, podia desaparecer novamente antes que alguém perguntasse onde estivera. Kalan se irritava quando as obrigações dele acabavam sobrando para os outros.
 
 — Ele vai aparecer — disse Elis. 
 
@@ -194,7 +194,7 @@ A fruta estourou entre os dentes, ácida o suficiente para fazê-la apertar um d
 
 Dali conseguia ver uma parte enorme de Maruva.
 
-Os telhados pareciam colados uns aos outros, alguns de pedra, outros de madeira, tecido endurecido ou qualquer coisa que houvesse sobrevivido tempo suficiente para virar cobertura. Fumaça subia das cozinhas coletivas e se misturava ao ar antes de desaparecer acima dos prédios. Mais longe, as muralhas da Cidade Exterior recortavam o horizonte, e além delas Elis conseguia ver pedaços das estradas, campos, o brilho distante da água e pequenas construções que pareciam insignificantes vistas dali.
+Os telhados se apertavam uns contra os outros: pedra, madeira, tecido endurecido, remendos de todo tipo. Fumaça subia das cozinhas coletivas e se misturava ao ar antes de desaparecer acima dos prédios. Mais longe, as muralhas da Cidade Exterior recortavam o horizonte, e além delas Elis conseguia ver pedaços das estradas, campos, o brilho distante da água e pequenas construções que pareciam insignificantes vistas dali.
 
 O mundo continuava depois de Kaeliran. Era uma ideia simples e ainda assim estranha. Elis conhecia nomes. Buldar. Cendar. Vendrar. Braedar. Leidar. Sabia histórias, conhecia mercadorias e já ouvira pessoas falando de rios largos demais para atravessar sem barco, de campos que levavam horas para terminar, de cidades onde as casas eram construídas sobre água e de terras em que alguém podia caminhar um dia inteiro sem encontrar uma muralha.
 
