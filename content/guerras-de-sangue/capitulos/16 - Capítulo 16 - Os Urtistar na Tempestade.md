@@ -12,7 +12,7 @@ Sentada diante de uma mesa baixa, Nynestra estudava grão, rotas e pedras de cl�
 
 Então Rendar chegou. Um Tondrar parou de bater a lâmina, depois outro, até os tambores perderem o ritmo.
 
-Rendar atravessou o espaço entre as fogueiras com o rosto sujo de viagem, as tranças enroladas num coque alto, a barba cheia e o corpo magro envolto por couro escuro e por uma capa de folhas secas costuradas. A fita marcada de sangue antigo continuava presa ao pulso, pequena demais para ele, grande demais para ser ignorada. Torgun vinha atrás, de olhos fundos, passos pesados e pintura negra descendo das pálpebras até a mandíbula como se a sombra tivesse escorrido pelo rosto dele. Dois Tondrar o acompanhavam.
+Rendar atravessou o espaço entre as fogueiras com o rosto sujo de viagem, as tranças enroladas num coque alto, a barba cheia e o corpo magro envolto por couro escuro e por uma capa de folhas secas costuradas. A fita marcada de sangue antigo continuava presa ao pulso, pequena demais para ele, grande demais para ser ignorada. Torgun vinha atrás, de olhos fundos, passos pesados e pintura negra descendo das pálpebras até a mandíbula como se a sombra tivesse escorrido pelo rosto dele. Dois Tondrar seguiam atrás dele.
 
 Rendar parou no centro e percorreu com os olhos as fogueiras, as lâminas e os homens que ainda respiravam como se tivessem vencido algo maior.
 
@@ -220,7 +220,7 @@ Um pequeno grupo de Urtistar esperava junto a um abrigo de rota. Mantas secavam 
 
 Uma mulher de cabelos muito longos carregava três lâminas de madeira envolvidas em tecido oleado. Guerreiros abriram espaço para ela, e ninguém tocou nas tábuas: as portadoras dos escritos sagrados não precisavam de armas para serem obedecidas.
 
-Na faixa que prendia as tábuas havia sinais em Veshari e três nomes repetidos em torno de uma espiral: Veshadar, Arvaktar e Kardar. Nynestra já os ouvira em histórias de rota. Eram nomes que os Urtistar colocavam antes de Urtar-Vesh, a cidade escavada nas cavernas que estrangeiros costumavam tratar como origem de tudo aquilo, embora os próprios Urtistar falassem como se a história tivesse começado muito antes. Veshadar, Arvaktar e Kardar eram antigos o bastante para os de fora discutirem se haviam sido lugares, casas ou povos. Os Urtistar raramente esclareciam.
+Na faixa que prendia as tábuas havia sinais em Veshari e três nomes repetidos em torno de uma espiral: Veshadar, Arvaktar e Kardar. Nynestra já os ouvira em histórias de rota. Eram nomes que os Urtistar situavam antes de Urtar-Vesh, a cidade escavada nas cavernas que os estrangeiros, por engano, costumavam tratar como sua origem. Veshadar, Arvaktar e Kardar eram antigos o bastante para os de fora discutirem se haviam sido lugares, casas ou povos. Os Urtistar raramente esclareciam.
 
 Os Urtistar traziam gemas presas à pele, cabelos e barbas longos, algumas tranças com fios metálicos, olhos cinzentos e lâminas em posições rápidas de sacar.
 

@@ -6,7 +6,7 @@ Usou uma antiga galeria de escuta que conhecia desde a infância, quando ela e A
 
 Agora Alyra estava no salão. Daryon também.
 
-Não havia Conselho. Apenas os dois e dois guardas à distância, longe o bastante para fingirem que não ouviam. Alyra estava sentada no trono dela, uma mão sobre o braço de madeira, a outra apoiada no próprio ventre por um instante tão curto que qualquer pessoa teria ignorado. Daryon falava baixo. Kaelina não ouvia as palavras. Via a inclinação dele, o modo como ele oferecia frases como quem oferece instrumentos. Alyra respondia pouco.
+Estavam apenas os dois e dois guardas afastados, que fingiam não ouvir. Alyra estava sentada no trono dela, uma mão sobre o braço de madeira, a outra apoiada no próprio ventre por um instante tão curto que qualquer pessoa teria ignorado. Daryon falava baixo. Kaelina não ouvia as palavras. Via a inclinação dele, o modo como ele oferecia frases como quem oferece instrumentos. Alyra respondia pouco.
 
 Depois Daryon curvou-se. Alyra não o chamou de volta. Ele saiu por uma lateral e Kaelina abandonou a galeria para segui-lo.
 
@@ -160,7 +160,7 @@ Desceu do tarrak a alguma distância do portão, entregou-o a um rapaz assustado
 
 Ela encostou-se à muralha, tentando controlar a respiração. O coração ainda batia depressa demais. As mãos tinham pó de pedra. Limpou-as no manto. A noite parecia observá-la de todos os lados. Não demorou muito.
 
-O tarrak escuro de Daryon apareceu na curva do caminho. Ele vinha mais devagar agora, não como quem fugia, mas como quem pensava. Ao vê-la, reduziu ainda mais. Desceu antes de chegar completamente ao portão.
+O tarrak escuro de Daryon surgiu na curva, andando devagar. Ele diminuiu ainda mais o passo ao vê-la e desmontou antes do portão.
 
 — Minha soberana.
 

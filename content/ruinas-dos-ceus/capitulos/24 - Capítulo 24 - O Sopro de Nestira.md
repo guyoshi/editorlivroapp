@@ -154,7 +154,7 @@ Nestira balançou a cabeça, ainda sem conseguir tirar os olhos das carcaças. M
 
 — Consegue andar?
 
-Ela assentiu, a respiração ainda curta, e juntos correram de volta para a mata. Mas, poucos passos depois, a mata terminou num desfiladeiro estreito. A trilha que seguiam simplesmente desaparecia na borda. À esquerda, a parede de pedra subia lisa e íngreme; à direita, o terreno desabava junto com o precipício. Não havia como contornar sem retornar pelo caminho por onde tinham vindo.
+Ela assentiu, ainda sem fôlego, e os dois correram de volta para a mata. Poucos passos adiante, a trilha terminou na borda de um desfiladeiro. À esquerda, a parede de pedra subia lisa e íngreme; à direita, o terreno desabava junto com o precipício. Não havia como contornar sem retornar pelo caminho por onde tinham vindo.
 
 O vento subia do abismo, úmido e frio. A lua maior, quase inteira, surgia entre as nuvens, prateando as pedras e o musgo brilhante nas bordas.
 
@@ -358,7 +358,7 @@ Foi a primeira vez que Nestira viu medo verdadeiro em seu rosto.
 
 A fera saiu das sombras aos poucos. Primeiro apareceram as mãos largas, apoiadas na lama ao fim de braços compridos. Depois vieram os ombros maciços, o dorso largo coberto de escamas molhadas e a crista alta, cuja membrana escura se erguia entre espinhos de osso. As pernas traseiras eram mais curtas, reptilianas, e a cauda longa arrastava ossos ao contornar as carcaças. Por fim, a cabeça grande se manteve alta acima de uma pilha de costelas. No rosto sem pelos, vermelho e esticado, os olhos amarelos se estreitaram; o focinho avançado farejou o sangue, e os lábios deixaram à mostra os caninos curvos.
 
-Gabasteri recuou um passo, e a criatura acompanhou. Quando ele parou, ela também parou. Durante alguns instantes, ouviram apenas a respiração dos dois e o zumbido das moscas voltando às carcaças. Gabasteri mudou a lâmina de mão e lançou um olhar rápido para uma abertura entre as árvores; a fera moveu a cabeça junto com ele, como se tivesse acompanhado a intenção.
+Gabasteri recuou um passo, e a criatura acompanhou. Quando ele parou, ela também parou. Durante alguns instantes, ouviram apenas a respiração dos dois e o zumbido das moscas voltando às carcaças. Gabasteri passou a lâmina para a outra mão e olhou de relance para uma abertura entre as árvores. A fera acompanhou o movimento com a cabeça.
 
 — Você tinha razão… — disse Nestira, quase sem voz. — Os fortes comem primeiro.
 
