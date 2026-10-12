@@ -791,8 +791,6 @@ Parte do Caminho da Permanência aparecia entre a névoa e a fumaça, a estátua
 
 Um grande símbolo azul se desprendeu da fachada de Kaendar e desceu em chamas atrás dos telhados. Outras faixas Polar ardiam presas às muralhas, molhadas pela garoa fina demais para apagá-las.
 
-
-
 Elis pensou em Kalan e na casa de Maruva. Pensou em Karesis sob as pedras, em Dareth no túnel, e não conseguiu olhar mais tempo.
 
 — Elis — Tair chamou.

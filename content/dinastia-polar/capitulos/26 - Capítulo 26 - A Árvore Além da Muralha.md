@@ -117,11 +117,11 @@ Bastava.
 
 Quando chegou a hora de cobri-lo, ninguém apressou nada.
 
-Elis se abaixou uma última vez e tocou o tecido sobre o que restava do braço dele. Ficou assim alguns segundos, em silêncio. Tair ergueu a primeira pá de terra. A ferramenta tremia nas mãos. Esperou até conseguir derramá-la. Orel observava a padiola. Durante a noite tentara aquecer Kalan com panos. Agora via Tair erguer a pá cheia de terra e não se aproximava.
+Elis se abaixou uma última vez e tocou o tecido sobre o que restava do braço dele. Ficou assim alguns segundos, em silêncio. Tair ergueu a primeira pá de terra. A ferramenta tremia nas mãos. Esperou até conseguir derramá-la. Orel observava a padiola. Durante a noite tentara aquecer Kalan com panos. Agora, quando a primeira terra caiu, não se aproximou.
 
-Karesis continuou. Não porque sentisse menos do que os outros (Elis via isso no jeito como as mãos dele se moviam, devagar demais para alguém que só quisesse terminar logo), mas porque alguém precisava terminar aquilo, e ele tinha decidido que seria ele.
+Karesis continuou. Elis acompanhou os movimentos lentos de suas mãos. Alguém precisava terminar aquilo, e ele não largou a pá.
 
-Enquanto a sepultura ia sendo fechada, devagar, pá após pá, o sol finalmente começou a subir de verdade atrás de Kaeliran. A luz alcançou primeiro as torres mais altas, depois desceu pelos telhados, até que a cidade inteira estava banhada num tom dourado e frio que Elis nunca tinha visto antes, porque nunca tinha estado do lado de fora para ver.
+Enquanto fechavam a sepultura, o sol subiu atrás de Kaeliran. A luz alcançou primeiro as torres, depois os telhados. Elis nunca vira a cidade daquele lado das muralhas, tão clara enquanto enterravam Kalan.
 
 Kalan desapareceu sob a terra.
 
