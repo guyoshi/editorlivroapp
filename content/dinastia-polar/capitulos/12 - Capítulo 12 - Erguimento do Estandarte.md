@@ -106,7 +106,7 @@ Dareth montou no tarrak antes de responder, ajustando o peso do corpo do jeito q
 
 — Veja se não cai do seu tarrak, Vetarius.
 
-Vetarius riu, um riso curto e satisfeito, do tipo que não precisava de mais nada para durar o resto da manhã, e Dareth sentiu, por um instante, o peso de décadas de coisas que os dois já tinham sobrevivido juntos: antes de um ser soberano e o outro campeão, ainda existiam dois homens que se conheciam havia tempo o bastante para trocar aquele tipo de provocação sem precisar explicar por que ela era, ao mesmo tempo, afeto.
+Vetarius soltou uma risada curta e satisfeita. Dareth lembrou de quanto tempo se conheciam, desde muito antes de um deles se tornar soberano e o outro, campeão.
 
 Um pouco atrás, montado num tarrak menor, Caeren esperava com o queixo erguido e os ombros fechados, a postura exata de quem prefere qualquer lugar do mundo a este. Dareth reconheceu nele o garoto do pátio de treino, ainda carregando, visível o bastante para quem soubesse procurar, os restos da última conversa entre os dois. Vetarius não pareceu notar o silêncio do filho, ou notou e decidiu, como fazia com quase tudo que dizia respeito a ele, que aquilo passaria sozinho.
 

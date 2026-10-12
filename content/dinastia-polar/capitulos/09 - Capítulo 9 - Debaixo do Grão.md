@@ -148,7 +148,7 @@ Vesna parou de limpar as mãos.
 
 — Quando ela chegou lá. — Elis hesitou, sem saber bem como formular o resto. — Aqui. Em Maruva.
 
-— Em Maruva? — repetiu Vesna, e havia na pergunta um peso que Elis não esperava, uma pausa pequena antes das palavras que sugeria que a pergunta, por algum motivo, não era tão simples quanto parecia. Como se "chegar em Maruva" fosse só uma parte de uma resposta maior, uma resposta que envolvia outros lugares, outros "chegar", que Elis nunca tinha considerado que pudessem existir.
+— Em Maruva? — repetiu Vesna. A pausa fez Elis desconfiar de que havia algo mais a dizer sobre sua chegada ao bairro.
 
 — É — disse Elis, sem saber explicar por que a própria pergunta de Vesna a deixara mais incomodada do que qualquer resposta poderia deixar.
 
