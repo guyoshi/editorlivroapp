@@ -262,7 +262,7 @@ O outro homem continuava segurando o braço de Elis. Dareth olhou para a mão de
 
 O homem hesitou, os olhos correndo rapidamente entre Dareth e o companheiro, mas não soltou.
 
-Centenas de pessoas observavam. O murmúrio diminuía à medida que os guardas se aproximavam. O campeão recém-apresentado a Kaeliran inteira estava parado diante de dois Filhos da Raiz, e um deles ainda tentava sustentar a autoridade.
+Centenas de pessoas observavam. O murmúrio da multidão foi diminuindo. O campeão recém-apresentado a Kaeliran inteira estava parado diante de dois Filhos da Raiz, e um deles ainda tentava sustentar a autoridade.
 
 — Não cabe a você interromper uma ordem do Sumo Vigia.
 

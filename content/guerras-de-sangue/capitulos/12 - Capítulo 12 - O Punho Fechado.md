@@ -572,7 +572,7 @@ O pé de Edran enroscou. O corpo avançou sem a perna. Ele caiu de lado, mas rol
 
 Outra coisa apertou sua perna. Um laço. Tendão tratado, escondido na lama. As armadilhas eram Fendelar: ganchos baixos, tendão tratado, laços escondidos onde o olho procurava corpo em vez de chão. Aquele homem não tinha pintura nem movimento Tondrar. Movia-se como mata fechada. Surgiu sobre Edran, sangrando do quadril.
 
-Edran socou-o no maxilar. O homem quase caiu, mas caiu para frente. A espada entrou sob as costelas de Edran. A lâmina atravessou Edran sob as costelas. O Fendelar avançou ainda mais, impedindo-o de recuar.
+Edran socou-o no maxilar. O homem quase caiu, mas caiu para frente. A espada entrou sob as costelas de Edran. O Fendelar avançou ainda mais, impedindo-o de recuar.
 
 Edran sentiu a lâmina antes da dor. Depois a dor veio inteira, quente, absoluta. O ar fugiu. O mundo tentou diminuir até caber nos olhos do homem sobre ele. Olhos sanguinários. O Fendelar respirava contra o rosto dele.
 
