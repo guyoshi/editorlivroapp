@@ -168,7 +168,7 @@ Em vez disso, aproximou-se e a abraçou.
 
 Jokara ficou imóvel.
 
-Desde que o encontrara, era quase sempre ela quem o puxava para perto. Dessa vez foi Loutes quem enterrou o rosto contra seu peito e permaneceu ali por alguns instantes.
+Loutes enterrou o rosto contra seu peito. Jokara demorou a retribuir o abraço.
 
 — Não.
 
@@ -350,7 +350,7 @@ Nestira abraçou os próprios joelhos.
 
 Jokara olhou para a escuridão onde Gabasteri desaparecera e não respondeu. Outra lembrança surgira, mais silenciosa que a primeira: Maletar bebendo do cantil escuro, a tosse piorando de sopro em sopro, Gabasteri voltando com água e completando os recipientes, inclusive o de Maletar.
 
-Jokara tentou desmontar a própria suspeita antes que ela criasse forma. Maletar estava ferido, cansado, exposto à chuva e à fome. Havia muitas explicações possíveis.
+Maletar estava ferido, cansado, exposto à chuva e à fome. Podia ter adoecido sem a intervenção de ninguém.
 
 Então pensou em Platisa, no zélon apertado contra o peito, no desconforto sempre que Gabasteri decidia uma rota e na forma como desaparecera com ele entre as árvores sem nunca voltar.
 

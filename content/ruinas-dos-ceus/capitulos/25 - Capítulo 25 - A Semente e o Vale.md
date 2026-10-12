@@ -222,7 +222,7 @@ Talvez fosse isso que restasse a um polar quando o outro já não podia caminhar
 
 No primeiro sopro sozinho, Mariv quase voltou.
 
-Não porque acreditasse que Nestira pudesse estar viva sob a terra. Sabia que não. Mas havia algo insuportável na ideia de colocar distância entre os dois. Cada passo parecia uma espécie de abandono.
+Mariv sabia que Nestira não voltaria. Ainda assim, cada passo para longe da árvore custava mais do que o anterior.
 
 Parou várias vezes e olhou para trás.
 
@@ -292,7 +292,7 @@ Embaixo havia um vale largo sob a luz ainda jovem da manhã. O sol já tinha ult
 
 Nestira teria cantado alguma coisa. Mariv não sabia nenhuma canção inteira.
 
-Subiu numa pedra alta e ficou olhando. Chorou um pouco, sem se envergonhar, porque não havia ninguém para ver.
+Subiu numa pedra alta e ficou olhando. Chorou um pouco, sem tentar se conter.
 
 No limite do vale, onde a mata recomeçava, havia um menino. Pequeno, de roupas rasgadas, parado. Olhava para ele.
 

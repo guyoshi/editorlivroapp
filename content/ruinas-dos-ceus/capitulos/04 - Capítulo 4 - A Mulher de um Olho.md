@@ -151,7 +151,7 @@ Nestira, porém, reparava em quem não disputava o centro da festa. Seu olhar ac
 
 No terceiro sopro após a visita de Jokara ao Professor Taliver, Mirel pediu que a filha a acompanhasse a uma cerimônia incomum. Era o Círculo do Peso, um dos mais antigos ritos eterí, raramente presenciado por jovens e quase nunca realizado em público. Pelas passagens de Nivelia, o nome da acusada corria acompanhado de rumores. Alguns diziam que Yndra apenas entrara onde não devia. Outros juravam que ela escutava os Vazios em vez das Correntes e que se reunia com um culto secreto dedicado aos Sopros perdidos. Ninguém sabia onde esse culto se encontrava, quem pertencia a ele ou se realmente existia.
 
-Na tradição, o Círculo era um espaço de escuta e confronto silencioso, onde um membro da comunidade era colocado no centro e cercado por outros que, em vez de julgar com palavras, entoavam cânticos para ajudá-lo a libertar o que o prendia. Era usado quando a alma de alguém parecia pesar mais do que o vento podia carregar.
+Na tradição, quem precisava do Círculo ficava no centro, cercado pela comunidade. Em vez de julgá-lo em voz alta, os presentes entoavam cânticos para ajudá-lo a se libertar do que o prendia. Era um rito para aqueles que, segundo os Oradores, carregavam peso demais.
 
 Desta vez, Jokara participaria como aprendiz, observadora em silêncio, para aprender os gestos, os símbolos e os cantos ancestrais. Era um convite importante, e ela não tinha a menor vontade de ir.
 
@@ -167,7 +167,7 @@ Raízes pendiam das árvores como véus trançados à mão. Pedras ocas, dispost
 
 Um murmúrio correu entre os presentes. Depois veio o cheiro: úmido, vegetal, de tronco podre aberto ao meio. E uma mulher magra caminhou até o centro.
 
-Não era velha, mas andava como velha. Os cabelos, endurecidos de barro, pareciam raízes arrancadas. A pele estava marcada por poeira, lama, arranhões e crostas. Alguém atrás de Jokara sussurrou que aquilo era sujeira das Ilhas Baixas. O comentário correu entre os presentes como explicação suficiente. Tudo o que cheirava a terra úmida parecia vir de lá. Mas o que Jokara não conseguia parar de olhar era o rosto.
+Andava curvada, embora fosse jovem. Os cabelos, endurecidos de barro, pareciam raízes arrancadas. A pele estava marcada por poeira, lama, arranhões e crostas. Alguém atrás de Jokara sussurrou que aquilo era sujeira das Ilhas Baixas. O comentário correu entre os presentes como explicação suficiente. Tudo o que cheirava a terra úmida parecia vir de lá. Jokara, porém, fitava seu rosto.
 
 Jokara estremeceu e apertou os lábios, contendo o espanto. O lado esquerdo do rosto da mulher era liso como pedra lascada. Onde deveria haver um olho, havia uma órbita funda e vazia. Jokara tentou desviar o olhar e não conseguiu.
 
@@ -256,9 +256,7 @@ Depois, quase sem perceber, segurou-lhe o queixo e tornou a erguer o rosto da cr
 
 Jokara reparou no gesto.
 
-No ritual do exílio, o condenado descia sozinho, num balão cerimonial feito de ramos e seda dourada, enquanto todos observavam.
-
-Ninguém a acompanhava. Ninguém segurava as cordas. Era o próprio vento que decidia o rumo.
+No exílio, um balão de ramos e seda dourada levava o condenado sozinho, diante de todos. Ninguém segurava as cordas; a direção ficava por conta do vento.
 
 Jokara caminhou até o alto do Arco de Eliven, de onde teria uma vista ampla da descida. Outros jovens estavam lá, em silêncio respeitoso. O balão já flutuava. Lá dentro, Yndra estava de pé. Não acenava. Olhava a cidade com o único olho.
 
