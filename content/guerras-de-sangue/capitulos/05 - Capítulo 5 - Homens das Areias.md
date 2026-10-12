@@ -90,7 +90,7 @@ Daryon aproximou-se da mesa, mas não se sentou. Nunca se sentava sem que a cena
 
 — Os Fendelar não pedem tempo como os Buldar. Não têm celeiros para esconder resposta, nem muralhas para sustentar orgulho. Se hesitam, desaparecem. Se recusam, também. Se matam… esperam que a floresta engula a prova.
 
-Alyra sentiu uma tensão pequena subir-lhe pelo pescoço. Veyr não era amigo. Não era importante. Não era alguém por quem ela choraria caso voltasse dentro de uma urna. Mas era Polar. E, mais do que isso, era emissário dela.
+Alyra sentiu o pescoço enrijecer. Não choraria por Veyr se ele voltasse dentro de uma urna. Mas era um Polar, enviado por ela.
 
 — Está dizendo que o mataram?
 
@@ -364,7 +364,7 @@ Alyra saiu. No corredor, os guardas evitaram olhar para ela. Eram bons homens. H
 
 A saída foi feita pelos fundos, onde Kaendar deixava de parecer dinastia e voltava a ser máquina.
 
-Havia uma passagem de serviço por trás dos depósitos de couro, larga o bastante para carroças pequenas e estreita o bastante para não chamar atenção dos anéis superiores. Ali, o ar era mais quente, carregado de cheiro de animal tratado, gordura, fumaça velha e madeira molhada. Era o tipo de lugar que soberanas não deviam conhecer. Alyra conhecia.
+Havia uma passagem de serviço por trás dos depósitos de couro, larga o bastante para carroças pequenas e estreita o bastante para não chamar atenção dos anéis superiores. Ali, o ar era mais quente, carregado de cheiro de animal tratado, gordura, fumaça velha e madeira molhada. Nenhum súdito esperava encontrar uma soberana naquela passagem. Alyra sabia atravessá-la.
 
 Daryon já a esperava junto a uma carruagem curta, coberta por pano escuro. Não trazia brasão Polar. Apenas duas lanternas pequenas protegidas por vidro fosco e quatro tarrak de passo baixo, treinados para estrada ruim, pedra solta e silêncio de fuga.
 

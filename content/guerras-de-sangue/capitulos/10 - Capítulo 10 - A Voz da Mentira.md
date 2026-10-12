@@ -1,8 +1,6 @@
-Alyra leu a mensagem duas vezes. Na terceira, apenas mediu as palavras enquanto o informante esperava de cabeça baixa.
+Alyra leu a mensagem duas vezes enquanto o informante esperava de cabeça baixa. Os Homens das Areias haviam concluído a missão: os Fendelar estavam mortos, e os homens tinham retornado sem deixar rastros suficientes para serem seguidos.
 
-A mensagem dizia que os Homens das Areias haviam concluído a missão: os Fendelar estavam mortos, e os homens tinham retornado sem deixar rastro suficiente para serem seguidos. Alyra continuou a ler.
-
-Rumores corriam por mercados, travessias e acampamentos: Kaendar teria enviado homens sem brasão para destruir Velarim; a trégua com os Tondrar teria servido apenas para matá-los sob uma lei Polar. Quase ninguém repetia a versão de Alyra, na qual os Tondrar haviam envenenado Yvenn sob pão e sal. Alyra dobrou a tira de pele e a pousou sobre a mesa.
+Rumores corriam por mercados, travessias e acampamentos: Kaendar teria enviado homens sem brasão para destruir Velarim; a trégua com os Tondrar teria servido apenas para matá-los sob uma lei Polar. A versão de Alyra, segundo a qual os Tondrar haviam envenenado Yvenn sob pão e sal, mal aparecia nos relatos. Alyra dobrou a tira de pele e a pousou sobre a mesa.
 
 — Saia.
 

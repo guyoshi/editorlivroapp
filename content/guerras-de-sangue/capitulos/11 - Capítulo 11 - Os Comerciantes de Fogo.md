@@ -406,7 +406,7 @@ Vorlan franziu o cenho. Rendar inclinou levemente a cabeça para o campo aberto 
 
 Vorlan seguiu com o olhar. No primeiro instante, viu apenas fumaça, pedra e cinza. Depois a cinza se moveu.
 
-Do norte, vieram os Tondrar. Não marchavam como soldados Polar. Corriam em grupos quebrados, rápidos, baixos, pinturas negras cortando rostos, lanças nas mãos, arcos curtos nas costas, ossos batendo contra cintos, enquanto gritavam descompassadamente. Não eram muitos o bastante para parecer exército de conquista, mas eram suficientes para fazer qualquer homem sensato procurar onde estava a saída. À frente deles vinha Torgun, o homem dos olhos fundos. As pernas eram as mais velozes do clã. Corria como fome que aprendeu direção.
+Do norte, vieram os Tondrar. Não marchavam como soldados Polar. Corriam em grupos quebrados, rápidos, baixos, pinturas negras cortando rostos, lanças nas mãos, arcos curtos nas costas, ossos batendo contra cintos, enquanto gritavam descompassadamente. Não chegavam a formar um exército de conquista. Ainda assim, à sua passagem, homens corriam para as saídas. À frente deles vinha Torgun, o homem dos olhos fundos. Abriu distância dos outros guerreiros em poucas passadas.
 
 Do oeste, a terra tremeu sob os bravões Buldar.
 Animais largos, cinzentos, de quatro chifres laterais, avançavam em passo pesado. Sobre eles vinham Ceifadores de Campo: homens e mulheres de roupa grossa, faixas de semente presas aos pulsos, espadas curtas, escudos de madeira reforçada e sacos amarrados às selas. Avançavam em formação cerrada, protegendo as laterais dos bravões. Diferentemente dos Tondrar, não gritavam desafios.
