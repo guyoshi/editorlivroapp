@@ -1,6 +1,6 @@
 
 
-Dizem que os sopros se contam com o movimento dos sinos. Mas ali, onde o vento não respondia, Jokara perdeu a medida do tempo. Os sopros se sucederam sem conta. Só uma das duas luas, quando aparecia entre as copas, dizia que o tempo andava.
+Em Etérea, os sinos marcavam a passagem dos sopros. Ali, onde o vento não respondia, Jokara perdeu a conta dos dias. Só uma das duas luas, quando aparecia entre as copas, dizia que o tempo andava.
 
 Ela moldou um tronco quebrado em lança, afiando-o contra pedras fendidas caídas de Etérea. Tentou a água, muitas vezes, afundando a lança atrás de peixes que escapavam sempre. Quando a presa cedia, era pequena, dura, e pouco sustentava. Outras vezes, buscava frutas escondidas nas sombras da floresta: polpas amargas, cascas grossas, algumas doces e raras. Subir nas árvores para pegá-las, com uma perna só, era outra história.
 
@@ -70,7 +70,7 @@ Jokara atravessou a entrada quebrada. Havia sinos pendurados em um arco partido,
 
 Avançou alguns passos e, ao se virar, viu que Loutes tinha parado diante de alguma coisa. Escondido sob folhas úmidas, havia o corpo de uma mulher, caída de lado, pele escurecida pela podridão. Jokara cambaleou. Levou a mão à boca e obrigou-se a olhar.
 
-Mais adiante, mais dois corpos. Um homem e uma criança pequena, juntos, deitados uns sobre os outros como se o último instinto tivesse sido proteger. O menino estava preso nos braços da mãe, a cabeça encostada no peito vazio do pai. Já não era possível reconhecer mais nada em seus corpos praticamente esqueléticos. Mas Jokara reconheceu imediatamente o adorno em seu pulso: um pequeno sino de cristal azul, amarrado com corda simples. Ela conhecia aquele brinquedo.
+Mais adiante, mais dois corpos. Um homem e uma criança pequena, juntos, deitados uns sobre os outros como se o último instinto tivesse sido proteger. O menino estava preso nos braços do pai, a cabeça encostada em seu peito imóvel. Já não era possível reconhecer mais nada em seus corpos praticamente esqueléticos. Mas Jokara reconheceu imediatamente o adorno em seu pulso: um pequeno sino de cristal azul, amarrado com corda simples. Ela conhecia aquele brinquedo.
 
 — Oh… meus ventos… — murmurou, a voz falhando, a mão no rosto.
 
@@ -94,7 +94,7 @@ Quando a tempestade cessou, a ave ergueu as asas e levantou voo, desaparecendo e
 
 A cada Sopro do Silêncio, Jokara cuidava primeiro do fogo. Aprendera a protegê-lo antes de sair em busca de comida. Construiu um círculo de pedras, criando um pequeno forno improvisado onde a chama podia queimar mesmo contra a chuva leve ou o vento, que ali embaixo era apenas traiçoeiro. Loutes recolhia os galhos secos e aprendeu a alimentar a chama sem abafá-la.
 
-Um Sopro do Silêncio, veio um zumbido ensurdecedor. Uma nuvem negra de insetos, milhares, mordendo pele, entrando nos olhos. Jokara tentou afastá-los com as mãos, mas era inútil. Só então empunhou um galho em chamas e o ergueu contra eles. A nuvem recuou na hora. Jokara ficou parada com o galho em chamas na mão, rindo sozinha.
+Durante um Sopro do Silêncio, veio um zumbido ensurdecedor. Uma nuvem negra de insetos, milhares, mordendo pele, entrando nos olhos. Jokara tentou afastá-los com as mãos, mas era inútil. Só então empunhou um galho em chamas e o ergueu contra eles. A nuvem recuou na hora. Jokara ficou parada com o galho em chamas na mão, rindo sozinha.
 
 Sopros depois, Jokara e Loutes prepararam uma armadilha simples, cordas improvisadas com raízes e pedras posicionadas. Pela manhã, encontraram o chão revirado: a presa fugira, e a armadilha estava despedaçada. Só havia marcas fundas na lama. Jokara caiu de joelhos e socou a terra até as mãos doerem.
 

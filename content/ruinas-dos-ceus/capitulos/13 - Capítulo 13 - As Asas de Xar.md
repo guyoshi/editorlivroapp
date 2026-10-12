@@ -84,7 +84,7 @@ Ficou assim alguns instantes. Depois puxou a madeira de volta para perto, firmou
 
 Loutes correu até ela e tocou seu ombro, de olhos arregalados.
 
-Mais tarde, nesse mesmo sopro, ouviram água ao longe. Estavam com muita sede. Seguiram um caminho de pedras e árvores jovens. O caminho terminou numa descida suave. As árvores se afastaram aos poucos, revelando uma clareira úmida entre as pedras. Diante deles havia uma queda d’água. Não era alta como as cascatas das lendas de Etérea. A água descia em véus prateados sobre rochas escuras, escavando uma pequena lagoa de bordas arredondadas, a espuma branca brilhando sob a luz do sol que atravessava as frestas das árvores.
+Mais tarde, nesse mesmo sopro, ouviram água ao longe. Estavam com muita sede. Seguiram um caminho de pedras e árvores jovens. O caminho terminou numa descida suave. As árvores se afastaram aos poucos, revelando uma clareira úmida entre as pedras. Diante deles havia uma queda d’água. Menor que as cascatas das lendas de Etérea, a queda d’água escorria sobre rochas escuras até uma lagoa de bordas arredondadas. A espuma brilhava nos pontos em que o sol atravessava as árvores.
 
 A água seguia em filetes, serpenteando pelo chão coberto de musgo verde, Pássaros de plumagem cintilante voavam baixo, com cantos trêmulos, quase metálicos. Nos troncos próximos, animais de pele translúcida inflavam o corpo e piscavam com cores que mudavam de roxo para vermelho. Insetos de asas finas flutuavam em círculos lentos, descendo e subindo para a água para saciarem a sede.
 
@@ -360,7 +360,7 @@ Estava quase dormindo quando Loutes se ajeitou colado nela e disse:
 
 Cada sílaba saiu separada, arrastada. Jokara se sentou de supetão. Loutes a olhava, sério, sem entender por que ela tinha se assustado.
 
-Jokara sorriu. Tocou-lhe o ombro.
+Jokara sorriu e pousou a mão em seu ombro.
 
 — Bom Sopro do Silêncio, Loutes.
 

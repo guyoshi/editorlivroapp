@@ -160,7 +160,7 @@ Dizia os nomes de tudo.
 
 — Isto… sou eu.
 
-O menino repetia os sons com a entonação errada, como se tivesse aprendido a falar em outra língua, ou em nenhuma. Errava e tentava de novo. Jokara não precisava de mais do que isso.
+O menino repetia os sons com uma entonação estranha, como alguém que experimentava palavras de uma língua desconhecida. Errava, escutava e tentava outra vez.
 
 Nestira, por sua vez, caminhava ao lado dele nos fins da tarde, levando-o até os espelhos d’água onde os Oradores Noturnos costumavam meditar. Sentavam-se sob as raízes da árvore de Arion e ela contava histórias, algumas sagradas, outras inventadas.
 
@@ -228,7 +228,7 @@ Então um dos oradores se aproximou, e encerrou o ritual:
 
 — Que o vento te conduza, Loutes. E que sua raiz, um sopro, escolha florir.
 
-Jokara sentiu um arrepio subir pela espinha. Fazia muito tempo que não se sentia parte de alguma coisa.
+Jokara sentiu um arrepio. Fazia tempo que não se sentia parte de alguma coisa.
 
 Do lado de fora, os sinos responderam ao vento. Loutes ergueu o rosto para escutá-los e repetiu o próprio nome em voz baixa, experimentando o som.
 

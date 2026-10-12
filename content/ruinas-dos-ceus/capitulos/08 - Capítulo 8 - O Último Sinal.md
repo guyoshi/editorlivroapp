@@ -82,7 +82,7 @@ Na porta, Yrisea colocou as sandálias e olhou uma última vez para Jokara.
 
 Depois que ela saiu, Mirel ficou algum tempo parada. Antes de subir, fez o que fazia todas as noites desde que Jokara era criança: tocou o pequeno sino junto ao batente e esperou que o vento respondesse. Ele soou fraco, mas soou.
 
-Nos sopros que se seguiram, Jokara comia pouco. Lia por horas sem guardar nada. Continuava praticando com o bastão dentro de casa, mais por necessidade do que por vontade. Havia manhãs em que conseguia atravessar os cômodos quase sem pensar; em outras, uma fisgada surgia no pé que já não existia e fazia todo o corpo perder o ritmo. Ainda evitava sair. Oradores começaram a aparecer com frequência nas passagens próximas à casa dos Amarëa. Nunca entravam sem convite. Perguntavam a Mirel pela recuperação da filha, cumprimentavam Jokara se a viam pela janela e seguiam caminho. A frequência das visitas começou a incomodá-la. Efepar passou a chegar pela passagem lateral junto às raízes, embora nunca admitisse que evitava os Oradores.
+Nos sopros seguintes, Jokara comia pouco e lia sem conseguir se concentrar. Praticava com o bastão dentro de casa. Em certas manhãs, atravessava os cômodos sem pensar; em outras, a dor no pé que perdera a fazia parar no meio do caminho. Evitava sair. Os Oradores passaram a circular pela casa dos Amarëa, perguntando a Mirel pela recuperação da filha. Nunca entravam sem convite, mas vinham quase todos os dias. Efepar começou a usar a passagem lateral junto às raízes, sem admitir que os evitava.
 
 Ninguém a tratava como ameaça. Tratavam-na como alguém que precisava ser protegida de si mesma, e às vezes ela achava que tinham razão.
 
@@ -205,7 +205,7 @@ Professor Taliver pousou a mão sobre a dela.
 
 Jokara acompanhou o Professor Taliver até a porta. O vento do Sopro do Silêncio mal se mexia.
 
-Taliver deu dois passos para fora e parou tão de repente que Jokara quase esbarrou nele. Uma das luas permanecia clara entre as estrelas. A outra ainda estava lá também, mas alguma coisa parecia ter avançado sobre sua face. Uma curva escura cobria quase todo o disco, deixando apenas uma faixa pálida na borda. Não havia nuvens nem névoa. A sombra avançava sobre a lua com um contorno nítido.
+Taliver deu dois passos para fora e parou tão de repente que Jokara quase esbarrou nele. Uma das luas permanecia clara entre as estrelas. A outra ainda estava lá também, mas alguma coisa parecia ter avançado sobre sua face. Uma curva escura cobria quase todo o disco, deixando apenas uma faixa pálida na borda. Não havia nuvens nem névoa. A sombra tinha um contorno nítido.
 
 Jokara sentiu o estômago apertar.
 

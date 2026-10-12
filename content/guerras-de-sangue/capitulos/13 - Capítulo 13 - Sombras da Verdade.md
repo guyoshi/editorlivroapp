@@ -12,7 +12,7 @@ Um soldado chamado Harrev caminhava alguns passos à frente, afastando tábuas c
 
 Kaelina assentiu, mas não conseguiu responder.
 
-Passaram pelo poço. A madeira do suporte havia queimado quase inteira, e o balde jazia quebrado no chão, meio derretido pela gordura escura que escorrera de algum lugar. Perto dele, um homem morto mantinha o braço esticado na direção da água, os dedos rígidos, como se tivesse tentado alcançar o único elemento que o mundo lhe negara no fim. Mais adiante, uma mulher estava sentada contra a parede de uma casa partida. Sentada, não caída. A posição fazia parecer que descansava. Só o rosto negro de fumaça e a criança pequena escondida no colo dela negavam a ilusão.
+Passaram pelo poço. A madeira do suporte havia queimado quase inteira, e o balde jazia quebrado no chão, meio derretido pela gordura escura que escorrera de algum lugar. Perto dele, um homem morto mantinha o braço esticado na direção da água, os dedos rígidos, como se tivesse tentado alcançar o único elemento que o mundo lhe negara no fim. Mais adiante, uma mulher estava sentada contra a parede de uma casa partida. Sentada, não caída. O rosto estava negro de fumaça. No colo, uma criança pequena permanecia imóvel.
 
 Kaelina parou diante dos dois. Harrev abaixou os olhos.
 
@@ -140,13 +140,13 @@ Fez uma reverência curta e saiu. Kaelina ficou sozinha com o caldo, a peça de 
 
 Kaendar desceu ao rio em silêncio. Guardas, servos, Vigias, carregadores, trabalhadores e velhos que lembravam Orionus reuniram-se nas margens.
 
-Edran foi colocado sobre uma barca funerária simples, madeira escura, bordas baixas, a Raiz marcada na proa e tiras de sal negro presas junto às laterais para que a memória não azedasse antes de chegar à curva. Seu corpo fora limpo o possível, mas não escondido da verdade. Havia corte, havia cinza, havia marcas da última luta. A mão, ainda fechada, repousava sobre o peito. Alguém quis abri-la para pôr uma fita de honra entre os dedos. Kaelina não permitiu. Pediu, em vez disso, a tigela do pintor de Kaendar, molhou dois dedos na pasta branca e, ela mesma, refez na têmpora esquerda de Edran a raiz que lhe tinham tirado, da linha do cabelo até o maxilar, devagar, sem tremer. Ninguém na margem disse que aquilo não era costume.
+Edran foi colocado sobre uma barca funerária simples, madeira escura, bordas baixas, a Raiz marcada na proa e tiras de sal negro presas junto às laterais para que a memória não azedasse antes de chegar à curva. Tinham limpado o corpo como puderam. Restavam cortes e cinza entre os dedos. A mão, ainda fechada, repousava sobre o peito. Alguém quis abri-la para pôr uma fita de honra entre os dedos. Kaelina não permitiu. Pediu, em vez disso, a tigela do pintor de Kaendar, molhou dois dedos na pasta branca e, ela mesma, refez na têmpora esquerda de Edran a raiz que lhe tinham tirado, da linha do cabelo até o maxilar, devagar, sem tremer. Ninguém na margem disse que aquilo não era costume.
 
 — Ele segurou o que quis segurar — disse.
 
 Alyra estava ao lado dela.
 
-Tinha o braço esquerdo imobilizado junto ao corpo e o rosto mais pálido do que tentava aparentar. Um corte fino atravessava-lhe a testa e partia o tronco da Ramagem ao meio; ninguém ousara retocá-lo. Não usava manto pesado. Vestia escuro, e por uma vez a sobriedade não parecia escolha política. Parecia falta de força para adornar-se. Cal Kadrir permanecia atrás dela, calado, com o rosto tenso e os olhos fixos na barca, na raiz recém-pintada na têmpora do morto, igual à sua. Daryon não estava presente; os curandeiros ainda limpavam suas feridas.
+Tinha o braço esquerdo imobilizado junto ao corpo e o rosto mais pálido do que tentava aparentar. Um corte fino atravessava-lhe a testa e partia o tronco da Ramagem ao meio; ninguém ousara retocá-lo. Não usava o manto pesado. Vestia escuro, com a túnica presa às pressas na cintura. Cal Kadrir permanecia atrás dela, calado, com o rosto tenso e os olhos fixos na barca, na raiz recém-pintada na têmpora do morto, igual à sua. Daryon não estava presente; os curandeiros ainda limpavam suas feridas.
 
 Alyra permaneceu calada até os homens começarem a soltar as amarras.
 

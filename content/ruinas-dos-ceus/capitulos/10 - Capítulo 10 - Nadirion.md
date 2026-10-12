@@ -42,7 +42,7 @@ Mais adiante, o ar ficou quente e um fedor subiu pela garganta dela.
 
 Bichinhos pretos voavam em círculos em volta deles, zumbindo sem parar. Jokara nunca tinha visto nada assim. Atrás de um tronco caído, encontrou de onde vinham.
 
-O corpo jazia despedaçado entre carne e ossos, marcado por mordidas grandes demais para qualquer animal que Jokara conhecesse. As vísceras, expostas, já não tinham cor viva: eram um vermelho escurecido, inchado, onde os bichinhos pretos entravam e saíam. As costelas estavam à mostra. O couro se abria em tiras, já duro nas bordas. Uma das patas estava roída até a metade.
+O corpo estava dilacerado por mordidas maiores que as de qualquer animal conhecido por Jokara. As vísceras, expostas, já não tinham cor viva: eram um vermelho escurecido, inchado, onde os bichinhos pretos entravam e saíam. As costelas estavam à mostra. O couro se abria em tiras, já duro nas bordas. Uma das patas estava roída até a metade.
 
 Jokara tapou a boca e o nariz. Tarde demais: sentia o gosto na língua.
 
@@ -114,7 +114,7 @@ A lua apareceu entre duas copas, e sombras passaram voando lá em cima. Jokara n
 
 O fundo começou a subir. Primeiro o nível baixou até o peito, depois à cintura, depois às coxas. Por fim, os dois emergiram na margem oposta. Jokara tentou dar mais um passo, mas a ponta do bastão escapou no barro e ela caiu de lado.
 
-Tossiu, expelindo água e lama. O corpo inteiro tremia, o coto latejava e o braço com que segurara Loutes mal se mexia. Antes de permitir a si mesma descansar, soltou as bandagens encharcadas, limpou o barro que conseguia ver e tornou a enrolá-las com a parte menos suja do tecido. Não sabia se as bandagens resistiriam até encontrar abrigo. Febre era a última coisa de que precisava.
+Tossiu, expelindo água e lama. O corpo inteiro tremia, o coto latejava e o braço com que segurara Loutes mal se mexia. Antes de descansar, soltou as bandagens encharcadas, tirou o barro e tornou a enrolá-las com a parte menos suja do tecido. Não sabia quanto tempo aguentariam até encontrar abrigo.
 
 O menino deitou-se de lado, ofegante, com os olhos nela.
 

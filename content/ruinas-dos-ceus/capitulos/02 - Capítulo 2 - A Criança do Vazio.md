@@ -1,6 +1,6 @@
 
 
-O planalto de Talyen, onde se realizava o Primeiro Voo, era um campo suspenso entre quatro ilhotas que recebia sempre a primeira luz no Sopro do Despertar. O sol nascia por entre as pedras flutuantes, e sua luz passava por entre os vitrais vivos da Ilha dos Tecelões, tingindo o céu de rosa polido e ouro diluído. Raízes curvas mantinham a plataforma unida ao restante da ilha, mas, à frente, havia apenas o precipício e o abismo macio de nuvens.
+O planalto de Talyen, onde se realizava o Primeiro Voo, era um campo suspenso entre quatro ilhotas que recebia sempre a primeira luz no Sopro do Despertar. O sol nascia entre as pedras flutuantes. A luz atravessava os vitrais vivos da Ilha dos Tecelões e tingia o céu de rosa e dourado. Raízes curvas mantinham a plataforma unida ao restante da ilha, mas, à frente, havia apenas o precipício e o abismo macio de nuvens.
 
 Ali, cada jovem recebia seu planador: uma estrutura de seda-das-alturas tensionada por ossos de nuari, dobrada em espiral e marcada com o símbolo da Corrente predominante do seu nascimento. O de Jokara trazia a Corrente Arion, o vento cantante, o que nunca sopra duas vezes igual.
 
@@ -264,7 +264,7 @@ O olhar de Jokara se perdia entre as árvores. Ela nunca tinha seguido por aquel
 
 — Ei. Tem alguém ali! — exclamou.
 
-Jokara correu antes que os outros reagissem. Encontrou um menino encolhido no chão. As vestes dele estavam rasgadas, sujas de terra e folhas, como se tivesse rolado por colinas inteiras. Os cabelos grudavam na testa e havia pequenos arranhões pelos braços e pernas. E os olhos, enormes, não pareciam enxergar nada.
+Jokara correu antes que os outros reagissem. Encontrou um menino encolhido no chão. As vestes dele estavam rasgadas, sujas de terra e folhas, como se tivesse rolado por colinas inteiras. Os cabelos grudavam na testa e havia pequenos arranhões pelos braços e pernas. Seus olhos enormes olhavam sem foco.
 
 Ele estava acordado, mas não falava. Nem se movia com clareza. Apenas olhava. Jokara se ajoelhou com cuidado, e o menino recuou.
 
