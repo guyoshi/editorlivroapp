@@ -390,7 +390,7 @@ Vetarius continuou olhando, sem responder nada.
 
 Alguma coisa mudou no rosto de Vetarius. Não era mais raiva, era outra coisa, mais próxima de reconhecer alguém que já não estava mais ali.
 
-— O que aconteceu com você? — perguntou, e havia raiva na pergunta, e incompreensão, e por baixo das duas coisas alguma coisa que ainda parecia afeto, de um jeito que já não sabia mais como se expressar.
+— O que aconteceu com você? — perguntou, e a raiva mal escondia o afeto que restava.
 
 — Vinte anos — Dareth disse.
 
