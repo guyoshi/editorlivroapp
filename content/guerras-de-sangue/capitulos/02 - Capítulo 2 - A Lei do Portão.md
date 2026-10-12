@@ -360,7 +360,7 @@ Kaelina encostou as costas na cadeira. Pela primeira vez naquela noite, respirou
 
 — Querem que Alyra fale por mim.
 
-Edran não respondeu. Não precisava. Kaelina olhou para a peça de osso rachada sobre a lareira. O pai costumava movê-la nos jogos não para vencer rápido, mas para obrigar o adversário a revelar ansiedade. Ela nunca gostara daquela peça. Parecia fraca. Pequena. Partida. Agora entendeu por que ele a guardava.
+Edran ficou calado. Kaelina olhou para a peça de osso rachada sobre a lareira. O pai costumava movê-la nos jogos não para vencer rápido, mas para obrigar o adversário a revelar ansiedade. Ela sempre achara aquela peça fraca demais para o tabuleiro. Tornou a observar a rachadura.
 
 — Aplicaremos a Lei do Portão — disse.
 

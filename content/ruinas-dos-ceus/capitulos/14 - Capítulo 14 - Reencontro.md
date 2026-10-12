@@ -1,8 +1,8 @@
 
 
-Os sopros seguintes trouxeram chuva. A floresta pingava sem cessar: folhas encharcadas, troncos escorregadios, o solo virando lama espessa sob seus pés. O abrigo improvisado cedia em alguns pontos, e todos tiveram de reforçar a estrutura com pedras e raízes. Jokara trabalhava junto, mesmo quando a água escorria por baixo das bandagens e fazia o coto arder.
+Os sopros seguintes trouxeram chuva. A floresta pingava sem cessar: folhas encharcadas, troncos escorregadios, o solo virando lama espessa sob seus pés. O abrigo cedia sob a chuva, e o grupo o reforçou com pedras e raízes. Jokara trabalhava junto, mesmo quando a água escorria por baixo das bandagens e fazia o coto arder.
 
-Ao Sopro do Silêncio, reuniam-se sob o teto molhado, partilhando frutos úmidos e raízes cozidas no fogo fraco que Mariv se dedicava a manter aceso contra a umidade. Nestira cantava baixinho, e Loutes não tirava os olhos dela. Jokara se perguntava se a irmã ainda acreditava nos ventos ou se cantava só para não enlouquecer.
+Ao Sopro do Silêncio, reuniam-se sob o teto molhado, partilhando frutos úmidos e raízes cozidas no fogo fraco que Mariv se dedicava a manter aceso contra a umidade. Nestira cantava baixinho, e Loutes não tirava os olhos dela. Jokara ouvia a irmã cantar e não encontrava coragem de perguntar se ainda acreditava nos ventos.
 
 Em uma das tardes em que a chuva deu trégua, Jokara e Nestira se afastaram sozinhas do abrigo para procurar raízes entre as árvores. Caminharam por algum tempo sem falar, ouvindo apenas a água cair das folhas. Quando Nestira encontrou uma raiz larga junto a um tronco, ajoelhou-se para soltá-la da terra e falou sem olhar para a irmã.
 

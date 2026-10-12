@@ -28,7 +28,7 @@ A sede os levou a um riacho escondido entre pedras cobertas de musgo. A água co
 
 Lembrou-se então de um pedaço de tecido que encontrara sopros antes, um pano eteriano ainda preso a uma pedra caída do céu. Estendeu-o como véu sobre o fluxo, deixando que a água passasse por entre suas fibras. Não sabia se bastava. Encheu as mãos em concha, bebeu primeiro, e só depois ofereceu a Loutes.
 
-O alívio foi imediato. Mas Loutes, ainda criança, bebeu demais. No Sopro do Silêncio seguinte, o corpo dele queimava em febre. Jokara tocava-lhe a testa úmida e lembrava o que faziam em Etérea: cantavam baixo para que o sopro não se assustasse, deitavam o doente em folhas frias de selnara, ofereciam gotas de mel até que o vento levasse a febre embora. Ali, nada disso existia. Cantou para ele a canção da mãe, o Sopro do Silêncio inteiro. A febre passou no terceiro sopro.
+Beberam com avidez. Loutes não conseguiu parar a tempo. No Sopro do Silêncio seguinte, o corpo dele queimava em febre. Jokara tocava-lhe a testa úmida e lembrava o que faziam em Etérea: cantavam baixo para que o sopro não se assustasse, deitavam o doente em folhas frias de selnara, ofereciam gotas de mel até que o vento levasse a febre embora. Ali, nada disso existia. Cantou para ele a canção da mãe, o Sopro do Silêncio inteiro. No terceiro sopro, Jokara encontrou a testa dele menos quente.
 
 Quando voltou ao rio, não era mais por sede. Havia fome demais, e os frutos já não sustentavam. Com a lança improvisada nas mãos, caminhou até a margem do lago.
 
@@ -92,7 +92,7 @@ Jokara não a matou. Ficaram juntos, mulher, menino e ave, enquanto a chuva cast
 
 Quando a tempestade cessou, a ave ergueu as asas e levantou voo, desaparecendo entre as nuvens baixas. Jokara saiu, olhou o que restava do abrigo, recolheu os pedaços e os largou no chão. Ficou um tempo parada. Depois recomeçou.
 
-O fogo tornou-se o centro de cada Sopro do Silêncio. Jokara descobriu que não bastava acendê-lo: era preciso defendê-lo. Construiu um círculo de pedras, criando um pequeno forno improvisado onde a chama podia queimar mesmo contra a chuva leve ou o vento, que ali embaixo era apenas traiçoeiro. Loutes recolhia os galhos secos e aprendeu a alimentar a chama sem abafá-la.
+A cada Sopro do Silêncio, Jokara cuidava primeiro do fogo. Aprendera a protegê-lo antes de sair em busca de comida. Construiu um círculo de pedras, criando um pequeno forno improvisado onde a chama podia queimar mesmo contra a chuva leve ou o vento, que ali embaixo era apenas traiçoeiro. Loutes recolhia os galhos secos e aprendeu a alimentar a chama sem abafá-la.
 
 Um Sopro do Silêncio, veio um zumbido ensurdecedor. Uma nuvem negra de insetos, milhares, mordendo pele, entrando nos olhos. Jokara tentou afastá-los com as mãos, mas era inútil. Só então empunhou um galho em chamas e o ergueu contra eles. A nuvem recuou na hora. Jokara ficou parada com o galho em chamas na mão, rindo sozinha.
 
