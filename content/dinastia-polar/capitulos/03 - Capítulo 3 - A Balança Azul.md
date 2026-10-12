@@ -302,9 +302,9 @@ O funcionário olhou para ele como se aquilo fosse um problema que só existiria
 
 Kalan entrou.
 
-A Cidade Interna sempre o incomodava. Trabalhadores, servidores, comerciantes e guardas enchiam as ruas, mas havia espaço para todos passarem sem se espremer. As ruas mantinham largura suficiente mesmo perto das casas maiores, e árvores cresciam em jardins onde suas raízes não precisavam levantar paredes ou empurrar fundações.
+A Cidade Interna sempre o incomodava. Trabalhadores, servidores, comerciantes e guardas enchiam as ruas, mas havia espaço para todos passarem sem se espremer. Até perto das casas maiores havia jardins onde as árvores cresciam sem invadir as fundações.
 
-Água corria por canais limpos. Algumas fontes estavam ali apenas para serem bonitas. Kalan achava essa parte particularmente ofensiva.
+Água corria por canais limpos. Algumas fontes serviam apenas de enfeite. Era o que mais incomodava Kalan.
 
 Em Maruva, Tair passara a manhã anterior enfrentando fila para conseguir água para quatro pessoas. Na Cidade Interna, água caía de uma escultura para outra sem que ninguém sequer se abaixasse para encher um recipiente.
 

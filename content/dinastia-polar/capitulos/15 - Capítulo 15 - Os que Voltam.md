@@ -126,7 +126,7 @@ Enquanto escutava, Elis entendeu por que Kalan tinha ido à Casa da Permanência
 
 Elis conhecia aquele padrão. Conhecia de longe, de perto, de dentro. Quando faltava comida, Kalan dizia que já tinha comido antes de sair para o cais. Quando alguma coisa parecia perigosa demais, decidia sozinho que ela não precisava saber dos detalhes. Quando faltava dinheiro, simplesmente arranjava mais turnos, sem avisar, sem perguntar se havia outro jeito. Kalan nunca perguntava se os outros queriam ser poupados.
 
-Elis tinha orgulho do irmão. Também queria socá-lo. Kalan decidira por todos mais uma vez, e agora Hadris e o Sumo Vigia estavam envolvidos. Lembrou das vezes em que ele aceitara punições sem contar a ninguém e apertou os punhos. Nem sequer podia discutir com ele.
+Elis tinha orgulho do irmão. Também queria socá-lo. Kalan decidira por todos mais uma vez, e agora Hadris e o Sumo Vigia estavam envolvidos. Elis apertou os punhos. Nem sequer podia discutir com ele.
 
 Você fez de novo, pensou, e a frase ficou ali, guardada, esperando o dia em que teria alguém na frente para recebê-la.
 
@@ -138,7 +138,7 @@ Não vinha com as roupas que Elis lembrava de Kaendar, nem com nada que marcasse
 
 — Preciso falar com você. Só com você.
 
-Ficaram na entrada, sob a pequena cobertura de telha que mal protegia a porta, enquanto a chuva começava a cair ao redor delas em gotas grossas e espaçadas, o tipo que sempre prometia mais do que entregava nos primeiros minutos. Selina não parecia gostar de estar ali, parada na rua, exposta, e Elis se lembrou de que uma conselheira podia ser reconhecida por qualquer pessoa ligada ao Culto. Selina continuou ali, exposta à rua.
+Ficaram na entrada, sob a pequena cobertura de telha que mal protegia a porta, enquanto a chuva começava a cair ao redor delas em gotas grossas e espaçadas, o tipo que sempre prometia mais do que entregava nos primeiros minutos. Selina olhou uma vez para a rua, desconfortável. Elis sabia que qualquer pessoa ligada ao Culto poderia reconhecer uma conselheira, mas Selina não recuou para dentro da casa.
 
 — Ele me pediu para te dizer uma coisa. — Selina escolheu as palavras devagar, como quem pesa cada uma antes de soltar. — Que você não tente entrar no Santuário. E que não faça nenhuma idiotice.
 

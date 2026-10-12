@@ -350,7 +350,7 @@ Alyra virou lentamente o rosto para ele. O homem empalideceu.
 
 A porta abriu. O quarto de Kaelina cheirava a papel, cinza fria e água limpa. Alyra entrou sem pressa.
 
-A irmã dormia numa cama baixa junto à parede oposta. Tinha a testa franzida, a mesma expressão que fazia diante dos mapas. Uma mão descansava sobre o cobertor. A outra, perto demais da beira, como se pudesse procurar uma lâmina por hábito. Alyra demorou o olhar no quarto arrumado, nos mapas dobrados, na bacia coberta por pano. Sobre a lareira apagada estava a velha peça de osso rachada de Orionus. Mesmo dormindo, Kaelina conseguia irritá-la.
+A irmã dormia numa cama baixa junto à parede oposta. Tinha a testa franzida, a mesma expressão que fazia diante dos mapas. Uma mão descansava sobre o cobertor. A outra, perto demais da beira, como se pudesse procurar uma lâmina por hábito. Alyra demorou o olhar no quarto arrumado, nos mapas dobrados, na bacia coberta por pano. Sobre a lareira apagada estava a velha peça de osso rachada de Orionus. Alyra afastou os olhos da peça do pai. Havia alguma coisa insuportável na maneira como Kaelina a mantinha sempre por perto.
 
 Do lado esquerdo da mesa, havia uma caixa estreita de madeira escura. Alyra conhecia o tipo. Provas de fronteira, lacres, pequenas coisas sujas que conselhos insistem em transformar em argumento.
 
