@@ -88,8 +88,6 @@ Havia peças cerimoniais nas primeiras versões que Orvath lhe mostrara dias ant
 
 A cena foi quase silenciosa. Orvath ajustava uma fivela, recuava um passo, olhava, ajustava de novo, e a cada peça que se encaixava sobre o corpo de Dareth alguma coisa dele desaparecia debaixo daquilo: o homem da propriedade a oeste, o homem que cortava lenha contornando um galho sem nunca comentar por quê, o homem que Selina encontrara sentado numa mesa vazia com um copo intocado diante dela. No lugar daquilo, devagar, peça por peça, surgia Quatro-Dedos.
 
-Havia uma ironia nisso que Dareth sentiu sem precisar que ninguém apontasse: tinha aceitado lutar justamente para impedir uma guerra, e Kaeliran o vestia como se estivesse preparando um deus da guerra para sair à caça de uma.
-
 — Está apertando aqui? — perguntou Orvath, ajustando uma tira sobre o ombro.
 
 Dareth não respondeu na hora. Uma criança tinha rido, alto e sem motivo aparente, em algum lugar do pátio lá fora, o tipo de risada que só existia em corpos pequenos demais para conter o contentamento, e ele ficou parado, ouvindo até o som se perder entre o resto do ruído da manhã.
@@ -234,7 +232,7 @@ Ela hesitou. Olhou para os Filhos da Raiz de lado, como quem mede o tamanho exat
 
 — Eles pegaram meu irmão. — A voz falhou na primeira tentativa, e ela precisou respirar antes de continuar. — E meus amigos.
 
-Começou a chorar ali mesmo, diante de todo mundo, de um jeito que não parecia se importar mais em esconder. Não era o choro contido que alguém guarda para a solidão de uma casa vazia; era tudo que tinha segurado durante dias inteiros escapando de uma vez, sem ordem, sem controle.
+Começou a chorar diante de todos.
 
 — Disseram que Orel bateu nos garotos Polar. Mas não foi. Eles bateram nele. Machucaram ele. Muito. — Respirava mal entre as frases, cada uma saindo antes que a anterior terminasse de doer. — Depois foram lá. Levaram meu irmão. Levaram Tair. Levaram Orel.
 

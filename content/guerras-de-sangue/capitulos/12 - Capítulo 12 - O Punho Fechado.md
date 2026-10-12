@@ -318,7 +318,7 @@ Edran sustentou o olhar dela.
 
 — Entre o perigo e a filha de Orionus — disse, hesitando antes de continuar — Prometi ao seu pai que cuidaria das meninas dele.
 
-Kaelina fechou os olhos por um instante. Quando os abriu, a raiva ainda estava lá. Mas havia outra coisa junto. Gratidão. Medo. E a dor de precisar obedecer a alguém que a estava protegendo contra a própria vontade.
+Kaelina fechou os olhos. Quando os abriu, a raiva ainda estava lá.
 
 — Vá — disse ela.
 
@@ -376,7 +376,7 @@ A menina assentiu, os olhos enormes na cara suja.
 
 Ela segurou. Os tarraks partiram de volta. Edran voltou-se para a vila. Havia corpos por toda parte.
 
-Um homem junto ao poço. Uma mulher caída perto de uma porta, com metade do corpo coberta por uma viga. Um velho ajoelhado diante de uma parede, como se tivesse tentado rezar depois que o fogo já não aceitava oração. Dois jovens no chão da rua com queimaduras no rosto. Então ouviu um gemido. Baixo. Molhado. Quase confundido com o estalar da madeira.
+Um homem junto ao poço. Uma mulher caída perto de uma porta, com metade do corpo coberta por uma viga. Um velho ajoelhado diante de uma parede. Dois jovens no chão da rua com queimaduras no rosto. Então Edran ouviu um gemido baixo, quase encoberto pelo estalar da madeira.
 
 Edran seguiu o som até a lateral de uma casa partida. Um homem estava deitado junto ao que restava da soleira. Devia ser de casa de depósito: tinha os dedos grossos de quem carregava saco e a marca escura de corda antiga no ombro. A pele do peito queimara em placas. Uma perna estava presa sob escombros. A outra mexia-se pouco, como se ainda não soubesse que o corpo já perdera a discussão. Na mão direita, segurava algo.
 

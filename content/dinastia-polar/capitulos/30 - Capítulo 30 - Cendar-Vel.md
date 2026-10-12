@@ -156,9 +156,7 @@ Ele apontou vagamente para uma pilha de papéis ao lado.
 
 — Veio com os projetos do Torneio.
 
-Era uma resposta plausível. Selina não reagiu de nenhum jeito visível. Continuou andando, como se a conversa tivesse terminado ali.
-
-Mas sabia: aquilo não deveria estar em nenhum projeto do Torneio. Modificações recentes na infraestrutura de Kaeliran não eram informação pública, muito menos o tipo de detalhe que circularia livremente entre trabalhadores contratados de outra dinastia.
+Selina continuou andando. Aquela alteração recente não deveria estar nos projetos do Torneio, nem circular entre trabalhadores contratados de outra dinastia.
 Não seguiu ninguém. Não invadiu oficina nenhuma, não interrogou ninguém ali mesmo. Só registrou, guardando o momento com o mesmo cuidado silencioso que aplicava a qualquer documento importante.
 
 Mais tarde, encontrou outro Cendar e perguntou, casualmente, sobre uma peça antiga qualquer da infraestrutura de Kaeliran, algo genuinamente histórico, sem relação com a modificação recente. O homem conhecia a versão antiga em detalhes. Não sabia nada sobre a modificação posterior.

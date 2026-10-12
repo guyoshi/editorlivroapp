@@ -116,7 +116,7 @@ No dia seguinte, encontrou Vetarius entre uma reunião e outra, no corredor exte
 
 No dia depois daquele, a resposta foi ainda mais curta: um aceno de cabeça, sem palavras, o tipo de gesto que promete sem prometer nada.
 
-Vetarius passou a evitar o olhar quando Dareth se aproximava. Não era hostilidade. Era o jeito de um homem que já sabe exatamente qual pergunta vai receber e ainda não tem resposta boa o suficiente para ela.
+Vetarius passou a evitar o olhar de Dareth.
 
 Dareth reconheceu aquilo também. E não gostou de reconhecer.
 

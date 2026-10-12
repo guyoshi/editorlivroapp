@@ -122,7 +122,7 @@ O ritmo vinha da Boca Seca, diferente dos tambores de pátio. Uma batida. Pausa.
 
 — Estrangeiro.
 
-Os guardas já se moviam. Homens correram para as passagens. Mulheres recolheram crianças. Dois jovens subiram por escadas internas junto às muralhas. Facas apareceram nas mãos como se sempre tivessem estado ali. A fortaleza inteira ajustou o corpo.
+Os guardas já se moviam. Homens correram para as passagens. Mulheres recolheram crianças. Dois jovens subiram por escadas internas junto às muralhas. Facas apareceram nas mãos.
 
 Kharvok caminhou até a muralha interna, subindo a rampa de barro endurecido. O garoto que trouxera a notícia o seguiu até metade do caminho, sem saber se tinha permissão para continuar. Kharvok não mandou parar. Isso bastou. Da muralha, via-se a Boca Seca.
 

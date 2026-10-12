@@ -244,7 +244,7 @@ O homem ficou pálido.
 
 Harvus olhou para Lorian, e abriu. Alyra entrou sem agradecer. O quarto tinha luz fria.
 
-Marken estava sentado junto à janela estreita, não na cama, mas no chão, com as costas apoiadas na parede. Havia tábuas, pedaços de carvão, pigmentos secos e panos espalhados perto dele. A cama permanecia quase intacta, como se ele a aceitasse por educação, mas não confiasse nela. A janela dava para uma parte do céu acima dos anéis, onde nuvens cinzentas se juntavam lentamente.
+Marken estava sentado no chão junto à janela estreita, com as costas apoiadas na parede. Havia tábuas, pedaços de carvão, pigmentos secos e panos espalhados perto dele. A cama permanecia quase intacta. Pela janela, nuvens cinzentas se juntavam acima dos anéis.
 
 Ele olhava para cima. Não se levantou. Cal Kadrir entrou atrás de Alyra e fechou a porta. Marken virou o rosto.
 

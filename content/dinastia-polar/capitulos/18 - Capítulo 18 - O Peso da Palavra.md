@@ -140,8 +140,6 @@ Dareth contou que, depois de não conseguir nenhuma resposta suficiente por cont
 
 — E ele não perdeu a chance de tentar me atingir também — disse Dareth, a voz baixando um pouco. — Disse que espera, pelo bem da garota que o campeão achou necessário salvar, que ela realmente não saiba onde estão aqueles registros. Que, se ela estiver escondendo informação da Raiz, talvez o campeão descubra que não pode ficar entre ela e as consequências para sempre. E que seria lamentável descobrir que a menina salva pelo campeão também escolheu participar do crime do irmão.
 
-Selina reconheceu o desenho daquilo imediatamente. Hadris não estava só respondendo a uma pergunta. Estava plantando alguma coisa para Dareth carregar consigo, devagar, até que o peso dela sozinho já bastasse para fazê-lo hesitar antes de interferir de novo.
-
 — Ele queria que você levasse isso com você — disse Selina.
 
 — E levei.
@@ -166,15 +164,9 @@ Dareth olhou na mesma direção que ela.
 
 — Acho que a Balança Azul está envolvida.
 
-Era uma frase grande demais para Selina compartilhar antes de ter prova, e ela sabia disso melhor do que ninguém. Não soube dizer, nem para si mesma, por que tinha decidido compartilhá-la ali, com ele, e não com qualquer uma das dez pessoas em Kaeliran mais bem posicionadas para agir sobre aquilo.
-
 Contou o resto. Kalan notara o peso errado numa carga e ouvira, dias antes da prisão, uma conversa sobre selos e reinspeções. Cairon falara do excesso de erros; Neris encontrara diferenças nos registros; Amira apontara autorizações noturnas. Cada etapa tinha um responsável, mas nenhuma pessoa acompanhava uma carga do início ao fim.
 
-Dareth ouviu tudo sem tentar dominar a investigação. Perguntava pouco, mas cada pergunta valia a pena responder, não porque ele tivesse virado burocrata na velhice, mas porque tinha passado a vida inteira em guerra, e aquilo que Selina descrevia, para ele, possuía outros nomes. Suprimento. Linha de abastecimento. Rota segura. Depósito. Permissão. O ponto exato onde uma carga desaparece da vista de quem deveria estar acompanhando.
-
-Selina começou a perceber que a diferença entre os dois não era inteligência.
-
-Era linguagem.
+Dareth ouviu sem tentar conduzir a investigação. Perguntava por rotas, depósitos e pelo ponto exato em que uma carga desaparecia da vista de quem deveria acompanhá-la. Selina reconheceu nas perguntas a experiência dele com linhas de abastecimento.
 
 — Não seria melhor falar diretamente com Alveris? — perguntou Dareth.
 

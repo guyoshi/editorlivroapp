@@ -126,7 +126,7 @@ O sorriso dela diminuiu apenas um pouco.
 
 — Vorlan manda nos homens que obedecem a Vorlan. Seyra manda nos que preferem continuar com os dedos presos às mãos. Os que vieram comigo sabiam onde estavam entrando.
 
-Não era resposta. Rendar percebeu e não insistiu. Tavra não tinha atravessado Kaendar para revelar fraqueza interna do próprio clã. Ela o observou por alguns instantes.
+Rendar não insistiu. Tavra o observou por alguns instantes.
 
 — Sei algumas coisas sobre você.
 

@@ -48,7 +48,7 @@ O papel era mais antigo que a maioria dos outros, o pergaminho amarelado nas bor
 
 Aleris. Buldar. Reconhecido posteriormente como Nular residente em Kaeliran.
 
-O nome incomodou antes que ela soubesse dizer por quê. Ficou olhando para ele por um instante, sentindo alguma coisa se mexer no fundo da memória sem conseguir puxar até a superfície.
+Selina deteve os olhos no nome. Havia algo familiar ali, mas não conseguia lembrar o quê.
 
 Aleris.
 
@@ -70,7 +70,7 @@ Trinta e oito mais vinte e dois.
 
 Sessenta.
 
-Ficou sentada, imóvel, olhando para o número como se ele fosse capaz de se desfazer sozinho se ela olhasse tempo suficiente. Não se desfez.
+Ficou sentada, imóvel, olhando para o número.
 
 Agora não era mais apenas um nome parecido.
 Selina se levantou da cama e foi até a mesa de trabalho, onde guardava, numa gaveta trancada, cópias e anotações próprias sobre praticamente todas as figuras políticas relevantes de Kaeliran: o tipo de arquivo pessoal que uma mulher na posição dela mantinha havia anos, sem nunca precisar justificar a ninguém por quê. Trouxe de volta para a cama tudo o que tinha sobre Alveris Polar.

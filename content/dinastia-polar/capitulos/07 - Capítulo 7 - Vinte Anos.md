@@ -176,7 +176,7 @@ Dareth forçou um sorriso que não chegou aos olhos e se despediu com um aceno c
 
 — Pelo menos dessa vez estava de pé quando eu cheguei — disse Selina, sem se virar, mas alto o bastante para que Kerath ouvisse.
 
-Kerath riu, um som curto e imediatamente contido, como se a própria risada a tivesse pego de surpresa mais do que a qualquer outra pessoa na sala.
+Kerath riu e logo conteve o riso.
 
 — Se ele quiser, pode ir pros aposentos dele agora mesmo — disse Vetarius, já se servindo de mais uma taça. — Mando organizarem o espaço já.
 
