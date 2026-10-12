@@ -1,4 +1,4 @@
-Foi o cheiro que veio primeiro. Ao sangue misturava-se coisa mais amarga: o azedo de medo que já esfriou, gordura de caça aberta e folha molhada pisada fundo demais. O tipo de cheiro que não some fácil porque fica preso em folha, em barro, em pelo, e quando entra na roupa de um Vigia, atravessa o portão junto com ele.
+O cheiro chegou primeiro: sangue, gordura de caça aberta, folhas molhadas esmagadas no barro. Ficaria nas roupas dos Vigias até depois de atravessarem o portão.
 
 Eram dois Vigias naquele turno. O primeiro reclamava de lama, vento, bota, fome e do pouco sal na carne seca; ria das próprias piadas para espantar o tédio. O outro falava pouco, observava muito e tocava o amuleto no peito antes de atravessar os trechos mais fechados da mata.
 
@@ -43,7 +43,7 @@ Ele seguiu a trilha de pegadas até um pequeno talismã caído perto de uma raiz
 
 E as marcas queimadas: linhas e pontos, não desenhados como enfeite, mas como pele falada. Coisa de Tondrar. Pelo menos era o que qualquer Polar diria antes de pensar duas vezes.
 
-O falante se agachou, pegou o talismã, e o rosto dele mudou antes de a boca ter coragem. O polegar passou por um dos nós, reconhecendo sem querer aquilo que ouvira em taverna, em pátio, em história de velho bêbado: Tondrar não deixava marca por descuido. Então ele o soltou como se queimasse.
+O falante se agachou e pegou o talismã. Passou o polegar por um dos nós e lembrou das histórias ouvidas nas tavernas: Tondrar não deixava marca por descuido. Soltou-o depressa.
 
 — Corre.
 

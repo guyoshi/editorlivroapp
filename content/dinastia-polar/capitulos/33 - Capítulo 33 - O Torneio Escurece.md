@@ -2,7 +2,7 @@
 
 O acampamento acordou diferente.
 
-Ainda havia vendedores gritando preços desde antes do sol nascer de verdade. Ainda havia crianças imitando golpes de Karev com gravetos, discutindo entre si sobre quem tinha direito de ser Quatro-Dedos naquela brincadeira. Mas o braço de Talira tinha entrado em toda conversa que Selina cruzava pelo caminho, mencionado em tom baixo por uns, repetido com um entusiasmo mórbido demais por outros. Algumas pessoas continuavam achando aquilo emocionante, como se o Torneio tivesse acabado de provar que valia ainda mais a viagem. Outras, pela primeira vez desde a chegada ao Altar, pareciam ter entendido de fato que os campeões podiam voltar para casa incompletos.
+Ainda havia vendedores gritando preços desde antes do sol nascer de verdade. Ainda havia crianças imitando golpes de Karev com gravetos, discutindo entre si sobre quem tinha direito de ser Quatro-Dedos naquela brincadeira. Mas o braço de Talira tinha entrado em toda conversa que Selina cruzava pelo caminho, mencionado em tom baixo por uns, repetido com um entusiasmo mórbido demais por outros. Algumas pessoas continuavam achando aquilo emocionante, como se o Torneio tivesse acabado de provar que valia ainda mais a viagem. Outras já não achavam graça.
 
 Selina passou por um grupo de Leidar junto a uma fogueira apagada, um deles com a manga ainda manchada do dia anterior. Os vendedores continuavam anunciando comida e bebida.
 
@@ -124,7 +124,7 @@ Selina olhou para Dareth antes de conseguir se conter. Ele continuava imóvel, o
 
 Khalir Buldar.
 
-Não era hora de reparar nisso, e ela reparou mesmo assim: alguma coisa na postura dele parecia mais solta do que a cena diante dos dois deveria permitir. Não perguntou nada; não era o momento.
+Selina notou a postura dele, relaxada demais diante do que acabara de acontecer. Não perguntou.
 Yamara já estava correndo antes de qualquer guarda conseguir decidir se deveria detê-la. Ninguém tentou com muita convicção. Ela atravessou o espaço entre a arquibancada e o corpo de Karev num tempo que não parecia fisicamente possível, e caiu de joelhos ao lado dele.
 
 Não havia o que fazer. Selina, que tinha se levantado sem perceber, via tudo daquela distância curta demais para ser suportável: a mulher que minutos antes discutia uma cerca quebrada em Harquen, agora debruçada sobre um corpo sem vida, as mãos tremendo sem saber onde tocar primeiro.
