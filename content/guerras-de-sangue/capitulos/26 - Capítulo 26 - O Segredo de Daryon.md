@@ -84,7 +84,7 @@ Daryon aproximou-se dela.
 
 — Deu? — Ylvena inclinou a cabeça. — Ou precisava de alguém que soubesse quem você era antes que os registros aprendessem a mentir por você?
 
-Kaelina sentiu a resposta no silêncio dele. Os registros tardios. As correções. A origem costurada. A identidade limpa demais para um homem que viera de uma vila pequena com as mãos vazias. Savel tinha razão. Daryon não quebrava portas se pudesse fazer o dono entregar a chave e agradecer pela educação.
+Daryon não respondeu. Kaelina lembrou-se dos registros tardios, das correções e da origem que Savel pusera em dúvida. Apertou os dedos feridos até as unhas tocarem a palma.
 
 — A cidade está sob cerco — disse Daryon. — Há Glydar no cais, Tondrar, Buldar e Vendrar, diante dos portões. Quando isso terminar, qualquer canto será revistado. Qualquer corredor antigo será questionado. Você deve sair.
 
@@ -210,7 +210,7 @@ Daryon bateu a mão na mesa. A lamparina saltou, e a luz tremeu nas paredes.
 
 — Porque eu não consegui deixar você morrer!
 
-O silêncio que veio depois pareceu sugar o ar do cômodo. Ylvena respirou devagar. O rosto dela suavizou por um instante, não por ternura, mas por reconhecimento. Ela havia arrancado uma verdade e agora a segurava como quem segura uma faca pela lâmina sem se importar com o corte.
+Depois disso, nenhuma das duas falou por alguns instantes. Ylvena respirou devagar. O rosto dela suavizou por um instante, não por ternura, mas por reconhecimento. Ela havia arrancado uma verdade e agora a segurava como quem segura uma faca pela lâmina sem se importar com o corte.
 
 — Você gosta de mim.
 

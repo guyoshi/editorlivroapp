@@ -12,7 +12,7 @@ Kaelina não disse nada. Não podia. Não devia. Mas o morto a viu mesmo sem ver
 
 Nynestra passou por ela depois, mancava menos do que pela manhã, ou fingia melhor. Kaelina manteve a cabeça baixa. Eles já andavam por quase um dia inteiro.
 
-Mais adiante, o calor cedeu quando nuvens baixas cobriram parte do sol. A terra também mudou. A garganta ficou menos fechada, as pedras deram lugar a trechos de mata rala, depois a caminho escondido entre árvores baixas e raízes duras. Os Tondrar avançavam fora das rotas principais, usando passos que pareciam improváveis para um grupo tão grande. Eshvar mandava batedores à frente; dois voltavam, um seguia. Às vezes paravam para apagar sinais: uma marca de bota, cinza, fibra presa em galho. A guerra não era apenas chegar. Era impedir que Kaendar soubesse por onde o mundo vinha.
+Mais adiante, o calor cedeu quando nuvens baixas cobriram parte do sol. A terra também mudou. A garganta ficou menos fechada, as pedras deram lugar a trechos de mata rala, depois a caminho escondido entre árvores baixas e raízes duras. Os Tondrar avançavam fora das rotas principais, usando passos que pareciam improváveis para um grupo tão grande. Eshvar mandava batedores à frente; dois voltavam, um seguia. Às vezes paravam para apagar sinais: uma marca de bota, cinza, fibra presa em galho. O objetivo era alcançar Kaendar antes que os vigias descobrissem por onde avançavam.
 
 Foi perto do entardecer que ouviram tarraks. Não muitos. Mas o som de casco em terra úmida viaja diferente do som de pedra solta. Os Tondrar se espalharam sem grito. Lanças baixaram. Arcos apareceram. Kaelina foi puxada para trás de dois corpos armados, e uma faca encostou em sua lateral, não no ferimento, mas perto o bastante para lembrar que refém também podia virar cadáver rápido.
 
@@ -74,7 +74,7 @@ Kharvok mostrou os dentes.
 
 — Não estou ameaçando. Mas não há espaço pra outra guerra. Somos nós, ou eles.
 
-O vento moveu folhas baixas entre os grupos. Kaelina mantinha a cabeça baixa, o rosto escondido por cabelo, poeira e sombra. Ouvia tudo. Cada palavra de Rendar parecia pedra posta sobre pedra, sem ornamento. Ele não falava como Alyra, nem como Daryon, nem como Kaelina. Não tentava vestir violência de lei. Ele parecia ter arrancado a lei da frente e deixado só consequência.
+O vento moveu folhas baixas entre os grupos. Kaelina mantinha a cabeça baixa, o rosto escondido por cabelo, poeira e sombra. Ouvia tudo. Cada palavra de Rendar parecia pedra posta sobre pedra, sem ornamento. Ele não falava como Alyra, nem como Daryon, nem como Kaelina. Não tentava vestir violência de lei. Rendar falava das consequências e não tentava justificá-las com leis.
 
 — Liberte a Mão Buldar — disse Rendar.
 

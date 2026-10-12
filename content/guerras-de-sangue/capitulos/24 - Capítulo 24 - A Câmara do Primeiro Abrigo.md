@@ -1,4 +1,4 @@
-Nos últimos dias, Kaendar estava cheia de homens que fingiam que a guerra ainda não tinha começado.
+Nos últimos dias, Kaendar tentava conservar os hábitos de uma cidade em paz.
 
 Mudaram os horários, dobraram os guardas, fecharam acessos. No Anel Baixo, ainda se compravam pão de raiz escura, pequenos bolos de cevada-escura e fava-de-sal cozida nas esquinas; ainda se salgava zírrio seco nos pátios e se discutiam o preço da lenha e a água oleosa. Mas as conversas terminavam quando um guarda passava, as portas ficavam entreabertas e as mães perguntavam duas vezes para onde os filhos iam.
 
@@ -12,7 +12,7 @@ O mensageiro principal falou com a boca seca, mas sem tropeçar no essencial: Lu
 
 A palavra Fendelar ficou suspensa sobre a mesa por mais tempo do que devia.
 
-Alguns conselheiros olharam para Varron Meio-Olho, como se a ferida dele pudesse confirmar ou negar a existência de um morto antigo. Outros olharam para Alyra. Daryon não olhou para ninguém. Apenas baixou os olhos para os dedos, e quem o conhecesse muito bem teria visto a tensão discreta que apareceu na mão direita. Alyra, porém, parecia mais viva do que todos.
+Alguns conselheiros olharam para Varron Meio-Olho, como se a ferida dele pudesse confirmar ou negar a existência de um morto antigo. Outros olharam para Alyra. Daryon baixou os olhos para a própria mão direita, cujos dedos havia apertado contra a palma. Alyra se inclinou para a frente, atenta a cada reação.
 
 Estava diante da mesa central, a Ramagem refeita duas vezes desde o amanhecer porque o suor da guerra a desfazia mais rápido do que o pintor conseguia acompanhar, vestida de couro escuro sobre túnica cinzenta, o braço ainda marcado pelas faixas de Alestir e o cabelo preso de modo severo. A palidez recente não lhe tirava força. Dava-lhe uma aparência de lâmina recém-limpa, ainda fria, ainda lembrando sangue. Atrás dela, Cal Kadrir permanecia como sombra armada, o corte no rosto mal fechado, a nova autoridade de Primeiro Kae assentando-lhe no corpo com rapidez perigosa.
 
