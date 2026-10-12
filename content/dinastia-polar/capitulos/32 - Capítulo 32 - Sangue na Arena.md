@@ -58,7 +58,7 @@ Dareth olhou para Serka e Rhevara, as adversárias de sua chave.
 
 Ninguém apressou o primeiro combate.
 
-Houve alguns segundos, antes de qualquer golpe, em que o som da multidão baixou apenas parcialmente, como se aquela gente toda quisesse gritar e ao mesmo tempo não quisesse perder nenhum detalhe do que estava prestes a começar. Serka testou a distância primeiro, um passo curto, quase hesitante, a vara com gancho apoiada de um jeito que parecia casual e não era. Dareth observou a posição dos pés dela, o peso distribuído mais para trás do que para frente, a corda enrolada no antebraço esquerdo pronta para ser solta a qualquer instante.
+Antes do primeiro golpe, os gritos diminuíram nas arquibancadas. Dareth ouviu o arrastar dos pés de Serka na areia. Serka testou a distância primeiro, um passo curto, quase hesitante, a vara com gancho apoiada de um jeito que parecia casual e não era. Dareth observou a posição dos pés dela, o peso distribuído mais para trás do que para frente, a corda enrolada no antebraço esquerdo pronta para ser solta a qualquer instante.
 
 Ele já conhecia aquilo pelos relatórios. Conhecer não era o mesmo que enfrentar.
 
@@ -233,7 +233,7 @@ Selina observou como a Administração respondia àquilo, e a resposta, ao menos
 
 Selina acompanhou os representantes chamados à beira da arena. Ninguém esperou a reação da arquibancada para atender Talira.
 
-Jovar Leidar desceu até a beirada da arena antes mesmo do procedimento oficial começar, o rosto fechado, e não foi atrás de explicação nenhuma sobre culpa. Foi atrás de garantia de que Talira seria tratada pelos melhores curadores disponíveis, imediatamente, sem espera de protocolo. Um representante Buldar concordou sem discutir, o tipo de conversa que parecia menos sobre culpa e mais sobre impedir que aquilo virasse alguma coisa maior entre as duas dinastias. Selina reconheceu ali o mesmo instinto que via em Vetarius, o de apagar um incêndio antes que alguém tivesse tempo de soprar nele. Nenhuma acusação formal chegou a ser aberta. O relatório oficial, assinado ainda naquela noite pelos dois lados, registrou o que qualquer um que tivesse assistido de perto já sabia: acidente, dentro do combate, sem intenção de nenhum dos dois lados.
+Jovar Leidar desceu até a beirada da arena antes mesmo do procedimento oficial começar, o rosto fechado, e não foi atrás de explicação nenhuma sobre culpa. Foi atrás de garantia de que Talira seria tratada pelos melhores curadores disponíveis, imediatamente, sem espera de protocolo. Um representante Buldar concordou sem discutir, o tipo de conversa que parecia menos sobre culpa e mais sobre impedir que aquilo virasse alguma coisa maior entre as duas dinastias. Selina ouviu os representantes acertarem os termos do relatório antes mesmo de Talira sair da arena. Nenhuma acusação formal chegou a ser aberta. O relatório, assinado naquela noite, registrou acidente de combate, sem intenção atribuída a qualquer dos lados.
 
 Averna Braedar observou tudo de um ponto elevado, ao lado de outros organizadores, sem interferir uma única vez. Selina reparou que ela parecia menos preocupada com Talira ou Khalir especificamente e mais interessada em como o público reagia, em quanto tempo levava para a Administração retomar o controle da situação. Era, ao que tudo indicava, exatamente o tipo de teste que o Torneio precisava passar cedo, antes que algo pior acontecesse mais adiante.
 
