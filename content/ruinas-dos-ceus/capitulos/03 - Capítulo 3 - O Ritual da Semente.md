@@ -78,7 +78,7 @@ O menino seguia sem dizer nada, mas aceitava ser guiado. No caminho, segurou o p
 
 Subiram as passagens circulares da Ilha de Nivelia até o ponto mais alto, onde os ventos eram mais frios e o som se espalhava com mais nitidez. A Alcova do Eco era um espaço sagrado: um semicírculo de pedras ressoantes aberto ao céu, construído para que os Oradores se sentassem e ouvissem.
 
-Yrisea os aguardava ali, envolta num manto que parecia feito de névoa compacta, com os cabelos presos em dezenas de pequenas tramas. Suas mãos tremiam quando paradas, mas eram firmes quando gesticulavam. Os olhos eram a parte mais jovem do corpo.
+Yrisea os aguardava ali, envolta num manto que parecia feito de névoa compacta, com os cabelos presos em dezenas de pequenas tramas. As mãos tremiam quando descansavam, mas se firmavam ao gesticular. Os olhos mantinham uma vivacidade que Jokara não via no restante do rosto.
 
 — Vocês trouxeram um vento sem nome — disse ela, sem sorrir nem se erguer.
 
@@ -174,7 +174,7 @@ Quando o segundo sopro da primeira corrente da espiral seguinte se deitou sobre 
 
 O Ritual da Semente do Vento era belo. Quando uma alma sem nome era acolhida por Etérea, o povo se reunia na Praça da Raiz, subindo num platô sagrado, conhecido como Raiz do Vento, onde troncos ancestrais cresciam em espiral até as nuvens, e onde os primeiros nomes teriam sido soprados pelas Correntes.
 
-Jokara caminhava à frente, o menino ao seu lado, vestido com uma túnica clara de linho, amarrada apenas na cintura por uma fita azul simples. As pessoas abriam caminho e sorriam para ele. A mãe Mirel vinha logo atrás, com uma coroa de folhas de valenra entrelaçada nos cabelos. Efepar tocava uma melodia leve na flauta curva, ritmada como uma respiração longa. Numa nota que saiu torta, Jokara se inclinou para o menino e cochichou, rindo, que Efepar tocava mal. Muito mal. Efepar, que ouviu, respondeu com outra nota ainda mais torta, de propósito, sem tirar a flauta da boca, e o menino ficou olhando de um para o outro com os olhos muito abertos. Sersi, com seu bastão de raízes, murmurava bênçãos ao chão. Nestira, trajando seu manto de Oradora, carregava uma pequena urna com névoa de flor azul, símbolo de aceitação e escuta.
+Jokara caminhava à frente, o menino ao seu lado, vestido com uma túnica clara de linho, amarrada apenas na cintura por uma fita azul simples. As pessoas abriam caminho e sorriam para ele. A mãe Mirel vinha logo atrás, com uma coroa de folhas de valenra entrelaçada nos cabelos. Efepar tocava uma melodia leve na flauta curva, ritmada como uma respiração longa. Quando Efepar errou uma nota, Jokara se inclinou para o menino e cochichou, rindo, que ele tocava mal. Muito mal. Efepar ouviu e soprou outra nota torta de propósito. O menino acompanhou a troca com os olhos arregalados. Sersi, com seu bastão de raízes, murmurava bênçãos ao chão. Nestira, trajando seu manto de Oradora, carregava uma pequena urna com névoa de flor azul, símbolo de aceitação e escuta.
 
 Nas arquibancadas naturais que rodeavam a Raiz, rostos conhecidos se destacavam na multidão: o velho Thalen de ombros largos e sobrancelhas sempre franzidas; Maela, da Ilha dos Jardins, com sua capa de sementes bordadas; Yrisea, sentada num banco esculpido, olhos fechados, mas ouvidos atentos; e, um pouco mais ao lado, a jovem Platisa, com a postura ereta, segurando nas mãos um pergaminho ainda em branco.
 

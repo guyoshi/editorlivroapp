@@ -4,7 +4,7 @@ O planalto de Talyen, onde se realizava o Primeiro Voo, era um campo suspenso en
 
 Ali, cada jovem recebia seu planador: uma estrutura de seda-das-alturas tensionada por ossos de nuari, dobrada em espiral e marcada com o símbolo da Corrente predominante do seu nascimento. O de Jokara trazia a Corrente Arion, o vento cantante, o que nunca sopra duas vezes igual.
 
-Aquela Corrente não era escolhida na manhã do voo. Era atribuída ainda nos primeiros sopros de vida, depois que os Oradores observavam qual vento tocava a criança durante o ritual de apresentação. Alguns eterís passavam a vida reconhecendo-se naquela leitura. Outros cresciam desconfiando de que os ventos haviam sido interpretados depressa demais. Jokara nunca soubera se Arion realmente a escolhera ou se alguém apenas precisara gravar um símbolo sobre sua história antes que ela pudesse falar.
+Os Oradores atribuíam aquela Corrente nos primeiros sopros de vida, durante o ritual em que observavam qual vento tocava a criança. Alguns eterís passavam a vida reconhecendo-se naquela leitura. Outros cresciam desconfiando de que os ventos haviam sido interpretados depressa demais. Jokara ainda se perguntava se Arion a escolhera de fato. Gravaram-lhe o símbolo muito antes que aprendesse a falar.
 
 — O planador é apenas um lembrete — dissera seu pai, ciclos antes. — Não é ele que te faz voar. É o sopro em ti que reconhece o do mundo.
 
@@ -264,7 +264,7 @@ O olhar de Jokara se perdia entre as árvores. Ela nunca tinha seguido por aquel
 
 — Ei. Tem alguém ali! — exclamou.
 
-Antes que os outros tivessem tempo de reagir, Jokara correu na direção de seu alvo. Ao chegar, avistou um menino encolhido no chão. As vestes dele estavam rasgadas, sujas de terra e folhas, como se tivesse rolado por colinas inteiras. Os cabelos grudavam na testa e havia pequenos arranhões pelos braços e pernas. E os olhos, enormes, não pareciam enxergar nada.
+Jokara correu antes que os outros reagissem. Encontrou um menino encolhido no chão. As vestes dele estavam rasgadas, sujas de terra e folhas, como se tivesse rolado por colinas inteiras. Os cabelos grudavam na testa e havia pequenos arranhões pelos braços e pernas. E os olhos, enormes, não pareciam enxergar nada.
 
 Ele estava acordado, mas não falava. Nem se movia com clareza. Apenas olhava. Jokara se ajoelhou com cuidado, e o menino recuou.
 
