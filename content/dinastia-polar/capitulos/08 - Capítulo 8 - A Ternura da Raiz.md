@@ -32,7 +32,7 @@ O prédio era mais alto do que qualquer coisa que Kalan já tinha visto de perto
 
 Não o levaram direto para dentro de nenhuma sala fechada. Atravessaram primeiro um pátio largo onde uma fila de gente esperava por mingau de grão e caldo de casca distribuídos em tigelas de barro, crianças e velhos na frente, alguém anotando nomes numa tábua para garantir que ninguém recebesse duas vezes. Mais adiante, sob uma cobertura de tecido grosso, outra fila esperava por atendimento de cura: Kalan viu um homem sendo enfaixado no braço, uma mulher recebendo um frasco pequeno com instruções repetidas duas vezes até ela concordar com a cabeça, uma criança sentada no colo de alguém, imóvel, sendo examinada por dedos cuidadosos. Um terceiro grupo esperava perto de uma mesa coberta de papéis, e Kalan ouviu um funcionário explicando com paciência a um velho como preencher um registro de transferência, repetindo cada palavra difícil até o velho conseguir repetir de volta.
 
-Nada daquilo era encenação. Kalan sabia reconhecer encenação (vira o suficiente dela nos discursos de Teral, nos gestos de Alveris) e aquilo não tinha o mesmo brilho falso. As pessoas na fila da comida pareciam cansadas, não amedrontadas. A mulher com o frasco parecia aliviada, não grata demais. Era, pensou Kalan enquanto os dois homens o conduziam por uma passagem lateral, o tipo de coisa que tornava tudo mais complicado, porque era muito mais fácil odiar uma instituição que só fazia mal do que uma que também alimentava crianças e ensinava velhos a preencher papéis que ninguém mais se dava ao trabalho de explicar.
+Kalan conhecia a encenação dos discursos de Teral e dos gestos de Alveris, mas o que via ali o desconcertava. As pessoas na fila da comida pareciam cansadas, não amedrontadas. A mulher com o frasco parecia aliviada, não grata demais. Era, pensou Kalan enquanto os dois homens o conduziam por uma passagem lateral, o tipo de coisa que tornava tudo mais complicado, porque era muito mais fácil odiar uma instituição que só fazia mal do que uma que também alimentava crianças e ensinava velhos a preencher papéis que ninguém mais se dava ao trabalho de explicar.
 
 *
 
@@ -176,7 +176,7 @@ Kalan já sabia o que devia estar ali. Sabia o peso da caixa, o formato dela, o 
 
 Estava vazio.
 
-Hadris passou a mão pelo fundo do compartimento como se não confiasse nos próprios olhos, e depois olhou para Kalan com uma expressão que, pela primeira vez desde que tinham se sentado na sala sem janelas, parecia genuína, não calculada, não procedimental, apenas surpresa.
+Hadris passou a mão pelo fundo do compartimento e olhou para Kalan. Desde que haviam entrado na sala sem janelas, era a primeira vez que o homem parecia surpreso.
 
 Kalan sentiu a mesma surpresa subir pela própria garganta, tão real quanto a de Hadris, tão inútil quanto ela. Não havia explicação que pudesse dar, porque não tinha nenhuma. A caixa devia estar ali. Só ele sabia onde ela estava. Só ele, e agora, evidentemente, mais alguém.
 

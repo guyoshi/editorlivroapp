@@ -26,7 +26,7 @@ Foi só na segunda volta pela casa, mais devagar dessa vez, tocando as próprias
 
 Uma cadeira que devia estar encostada na parede tinha sido puxada para o meio do cômodo e deixada torta ali. As cobertas do canto onde Orel dormia estavam jogadas para trás, não dobradas do jeito que Karesis insistia em manter mesmo sem nunca explicar por que fazia tanta questão daquilo. Um dos potes de barro onde guardavam o que sobrava de comida estava aberto e virado de lado, vazio, como se alguém tivesse mexido lá dentro à procura de alguma coisa que não fosse comida. A pequena gaveta onde Tair guardava os recibos contados e as poucas contas da casa estava entreaberta, o conteúdo espalhado sobre a mesa sem cuidado nenhum.
 
-Não parecia destruição. Elis já tinha visto casas destruídas, saqueadas por gente com raiva ou com fome de verdade, e aquilo não era isso: não faltava nada visível, nenhum móvel estava quebrado, nenhuma parede arranhada. Parecia, ao contrário, que alguém tinha procurado alguma coisa com cuidado, devagar, revirando sem pressa porque sabia que ninguém ia interromper.
+Elis conhecia o estado em que ficavam casas saqueadas. Ali, porém, nada parecia ter sido levado: os móveis estavam inteiros, as paredes intactas. Alguém revirara os cômodos com cuidado, procurando alguma coisa.
 
 Então ela viu o caixote de grãos.
 

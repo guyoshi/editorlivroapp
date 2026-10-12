@@ -120,7 +120,7 @@ A conversa morreu por conta própria, sem que ninguém precisasse pedir silênci
 
 — Eu aceito.
 
-Por um instante, Vetarius pareceu não processar a frase inteira, ainda com um pedaço de fruto-de-bruma a meio caminho da boca. Então a compreensão chegou de uma vez, e a mudança nele foi imediata: o tédio de minutos antes desapareceu como se nunca tivesse existido, substituído por uma animação genuína, quase infantil, que fez Vetarius se levantar tão rápido que a cadeira raspou alto contra a pedra.
+Vetarius ficou com o fruto-de-bruma a meio caminho da boca. Então se levantou tão depressa que a cadeira raspou contra a pedra. O tédio de minutos antes desaparecera; agora parecia animado como uma criança.
 
 — Dareth! — A voz saiu mais alta do que a sala exigia. — Eu sabia. Eu sabia que você viria!
 

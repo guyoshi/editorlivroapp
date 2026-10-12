@@ -648,4 +648,4 @@ Kalan recuou imediatamente. O cheiro da orva ficou mais forte e uma sombra atrav
 
 Ainda precisava terminar o turno e depois começar outro. Orel estava ferido, Karesis não voltara e uma caixa de registros roubada permanecia escondida no caixote de grãos de sua casa. Tudo aquilo deveria ocupar espaço suficiente na cabeça de qualquer pessoa.
 
-Mesmo assim, as palavras de Alveris voltaram enquanto Kalan caminhava entre os trabalhadores. Libertar o povo parecia uma coisa bonita de dizer. O problema era a história escolhida para explicá-la. Para alguma coisa nascer, outra precisava morrer, e Kalan não fazia ideia de qual lado daquela história homens como ele ocupavam.
+Mesmo assim, as palavras de Alveris voltaram enquanto Kalan caminhava entre os trabalhadores. Kalan voltou às palavras de Alveris: libertar o povo. Na história que ele contara, alguma coisa precisava morrer para que outra nascesse. Kalan não sabia onde homens como ele entravam nessa conta.
