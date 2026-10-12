@@ -226,7 +226,7 @@ Kaelina ergueu os olhos.
 
 — Porque erro de soberano só vira lição quando a cidade sobrevive para repetir.
 
-Edran ficou imóvel diante da lareira.
+Edran apoiou a mão na borda da lareira.
 
 — Não é vosso pai que a senhora precisa copiar.
 
@@ -250,7 +250,7 @@ Kaelina quase sorriu. Edran aproximou-se da mesa, mas não tocou em nenhum mapa 
 
 — Então vou contar uma história de guerra.
 
-Kaelina ergueu o olhar. Edran olhou para a peça de osso rachada sobre a lareira, como se a memória estivesse ali.
+Kaelina ergueu o olhar. Edran demorou um instante antes de falar.
 
 — Foi no décimo segundo ciclo do reinado dele. Tondrar roubaram duas carroças de grão e feriram três carregadores. Conselho, capitães, eu também: todos queríamos retaliação.
 

@@ -6,7 +6,7 @@ Os Tondrar escondiam-se para que, quando alguém os encontrasse, já estivesse d
 
 Nenhum deles sorria. Rendar também não. Sem mover a mão, fez o gesto que Avara lhe ensinara quando ainda era criança: dois dedos curvados diante do rosto, depois um corte vertical no ar, pequeno demais para estrangeiro entender. O Olho da Fera. A frase soou menos como bravata e mais como lembrete. Quem olha mal, morre primeiro.
 
-Carregava a carga presa às costas por correias de tendão e fibra, embrulhada em couro seco e folhas de vedação. Por baixo, havia ainda folha-de-chuva esmagada, truque velho de Mirval para atrasar cheiro de sangue. O cheiro tentava escapar mesmo assim. Carne fresca nunca aceitava ser segredo por muito tempo. O homem à frente bateu duas vezes numa pedra baixa.
+Carregava a carga presa às costas por correias de tendão e fibra, embrulhada em couro seco e folhas de vedação. Por baixo, havia ainda folha-de-chuva esmagada, truque velho de Mirval para atrasar cheiro de sangue. Mesmo assim, o cheiro da carne fresca atravessava as folhas de vedação. O homem à frente bateu duas vezes numa pedra baixa.
 
 Não parecia nada. Nem porta, nem sinal, nem mecanismo. Então a pedra respondeu. Um som surdo veio de dentro da montanha. Depois outro. Depois o arrastar de alguma coisa grande. A parede à frente se abriu por uma fresta que não existia segundos antes, e Rendar viu o vale. A fortaleza Tondrar surgiu atrás da montanha como um pensamento ruim.
 

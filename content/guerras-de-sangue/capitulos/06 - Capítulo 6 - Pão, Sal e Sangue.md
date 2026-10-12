@@ -6,7 +6,7 @@ O talismã não estava ali.
 
 Procurou entre os panos, sob a tábua e nos cantos da caixa. Nada.
 
-Restavam os corpos, os rastros, o couro levado e o relato dos Vigias, mas faltava a peça que ligava visualmente as mortes aos Tondrar. Cancelar o encontro entregaria a trégua antes de começar; acusar alguém sem prova abriria outra crise dentro de Kaendar.
+Restavam os corpos, os rastros, o couro levado e o relato dos Vigias. Sem o talismã, Kaelina teria de negociar a trégua sem a prova que ligava as mortes aos Tondrar.
 
 A porta abriu-se atrás dela.
 
