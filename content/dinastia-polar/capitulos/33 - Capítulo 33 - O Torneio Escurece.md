@@ -246,7 +246,7 @@ Parecia Caule-de-Sono.
 
 Em pequena quantidade, servia para acalmar, usado havia gerações entre os Buldar, entre comunidades do deserto, entre alguns poucos Polar que ainda mantinham costumes mais antigos. Em quantidade maior, derrubava qualquer pessoa por completo.
 
-Não era prova. Selina não tinha testemunho, não tinha o recipiente exato usado com Karev, não tinha análise nenhuma, nem confissão. Tinha um campeão se deteriorando de um jeito que ninguém sabia explicar direito, uma água servida antes da luta, um homem sem rosto memorável demais para levantar suspeita na hora, um descarte discreto, e uma erva com histórico conhecido de uso indevido.
+Selina ainda estava longe de ter provas. Havia a piora inexplicável de Karev, a água servida antes da luta, um homem cujo rosto ninguém lembrava, o descarte discreto e uma erva com histórico conhecido de uso indevido. Faltavam testemunho, análise do recipiente e confissão.
 
 Não conseguia mais ignorar aquilo.
 O local onde o homem tinha descartado o invólucro não parecia ser o fim de nada. Havia, além do depósito, uma área mais profunda de serviço, corredores que Selina nunca tinha visto sendo usados antes daquele momento. Notou marcas recentes no chão, como se caixas tivessem sido arrastadas por ali havia pouco tempo. Uma porta, mal fechada, deixava escapar uma fresta de luz que não deveria estar acesa àquela hora.
