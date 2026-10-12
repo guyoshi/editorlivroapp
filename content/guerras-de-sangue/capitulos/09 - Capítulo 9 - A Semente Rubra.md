@@ -1,6 +1,6 @@
 O sangue caiu antes da palavra. Três gotas: uma na terra escura, outra sobre a semente avermelhada, a terceira no centro da palma cortada. O jovem apertou os dentes e não chorou.
 
-Ao redor dele, um dos campos baixos de Nynestra permanecia quieto, cercado por estacas baixas que mal impediam a entrada dos javalhos de espinho durante a noite. Um vintelo de campo correu entre duas fileiras secas e mergulhou numa toca rasa, assustado pelo movimento dos homens. Não era um campo bonito. Já fora.
+Ao redor dele, um dos campos baixos de Nynestra permanecia quieto, cercado por estacas baixas que mal impediam a entrada dos javalhos de espinho durante a noite. Um vintelo de campo correu entre duas fileiras secas e mergulhou numa toca rasa, assustado pelo movimento dos homens. Ali, as fileiras secas mostravam onde a colheita anterior havia falhado.
 
 Em estações generosas, grão-de-caule, raízes vermelhas e grão-de-Dorran enchiam aquelas fileiras. Havia água nos canais, caldrões-de-campo entre os sulcos e sacos seguindo para os celeiros.
 
@@ -12,7 +12,7 @@ Mesmo assim, o ritual continuava. Depois do plantio, a família deveria dividir 
 
 No centro do círculo, o jovem misturou o sangue às sementes da família, guardadas havia três gerações e escolhidas pela resistência a frio, praga, umidade e solo cansado. O Nó de Semente tremia em seu pulso.
 
-O Guardião de Semente, um homem velho de costas curvas e dedos longos, segurava a tigela diante dele. Tinha a pele enrugada pelo sol e os olhos de quem já vira campos morrerem sem gritar. Ao lado, a família do jovem acompanhava em silêncio. A mãe trazia o Nó de Semente queimado preso ao pulso, sinal de que perdera alguém para fome ou praga. O pai mantinha a cabeça baixa, talvez já pensando quantos braços aquele filho acrescentaria ao trabalho, quantas bocas ainda faltavam, quantas chuvas seriam necessárias para que o corte daquele dia valesse alguma coisa.
+O Guardião de Semente, um homem velho de costas curvas e dedos longos, segurava a tigela diante dele. Tinha a pele enrugada pelo sol e os olhos de quem já vira campos morrerem sem gritar. Ao lado, a família do jovem acompanhava em silêncio. A mãe trazia o Nó de Semente queimado preso ao pulso, sinal de que perdera alguém para fome ou praga. O pai mantinha a cabeça baixa e contava nos dedos, distraído, enquanto esperavam.
 
 As famílias Buldar formavam círculos ao redor. Nós de Semente nos pulsos, pescoços e cintos marcavam família, dívida, casamento e luto.
 
@@ -146,7 +146,7 @@ Nynestra olhou para o campo. A família do jovem agora recolhia as tigelas do ri
 
 Em outra estação haveria pão de grão-de-caule, caldo de sarnak com raiz, maçã-de-barro assada e conversa até tarde. Naquele dia, todos voltaram ao trabalho.
 
-Ao cair da tarde, antes das fogueiras, Nynestra reuniu os Mestres de Celeiro dentro do depósito baixo de Nyn-Harad, onde até a lama das ruas parecia aprender a esperar ordem. Era uma construção larga de barro compactado e madeira grossa, baixa o bastante para parecer humilde e importante demais para ser confundida com humildade.
+Ao cair da tarde, antes das fogueiras, Nynestra reuniu os Mestres de Celeiro dentro do depósito baixo de Nyn-Harad, onde até a lama das ruas parecia aprender a esperar ordem. Era uma construção larga de barro compactado e madeira grossa, sem ornamentos, vigiada por homens que conferiam cada carga.
 
 O depósito cheirava a grão velho e palha úmida. Os sacos estavam empilhados até metade da altura esperada para a estação. Marev, o mais velho dos Mestres, abriu uma tábua de contagem sobre a mesa.
 
