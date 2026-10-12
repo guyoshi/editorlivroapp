@@ -118,7 +118,7 @@ Ela retirou o manto pesado dos ombros e deixou-o sobre uma cadeira. Só então p
 
 Kaelina assentiu.
 
-Ele se aproximou com a mesma reverência com que se aproximaria de um altar de guerra. Ajoelhou-se diante dela e começou a desatar as fivelas das botas. O gesto carregava serviço antigo e disciplina antiga, sem qualquer vulgaridade. Edran servira Orionus por vinte e cinco ciclos; sabia que cuidar de um soberano não era apenas cercá-lo com escudos. Às vezes, era tirar-lhe dos pés a lama que o mundo deixava.
+Edran ajoelhou-se diante dela e começou a desatar as fivelas das botas. Servira Orionus por vinte e cinco ciclos. A lama seca caiu no chão enquanto ele soltava a primeira correia.
 
 Kaelina olhou para baixo, incomodada.
 

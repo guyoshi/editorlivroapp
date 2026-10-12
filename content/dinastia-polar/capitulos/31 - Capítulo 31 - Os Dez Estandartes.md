@@ -309,7 +309,7 @@ Averna abriu formalmente o evento pouco depois, e não glorificou combate nenhum
 
 Falou de quantos homens não tinham voltado. De estradas que continuavam vazias. De cargas que nunca chegaram ao destino. De gente morta por uma disputa que tinha começado longe de qualquer uma das próprias casas.
 
-O simples fato de Jovar permanecer ali, ouvindo até o fim, carregava mais peso do que qualquer parágrafo de discurso poderia ter carregado sozinho. Dareth sentiu, pela primeira vez com clareza total, que aquilo talvez fosse mesmo melhor do que guerra, não perfeito, não justo em todos os detalhes, mas melhor.
+Jovar ouviu até o fim. Dareth pensou nos homens que não tinham voltado e, pela primeira vez, quis acreditar que o Torneio pudesse ser melhor do que uma guerra.
 Depois da fala política, um funcionário qualquer da Administração, sem nome que precisasse ser lembrado, apresentou as regras essenciais do Torneio à multidão reunida.
 
 Cada combate terminaria por morte ou por rendição. Não havia pontuação, nem juiz decidindo quem tinha lutado melhor. A rendição exigia um gesto claro: abandonar as armas, mostrar as mãos vazias, abrir os braços para os lados. Atacar deliberadamente depois desse gesto quebraria o pacto que sustentava todo o evento.

@@ -428,4 +428,4 @@ Kaelina olhou para Marken, imóvel no fundo do cômodo, meio tomado pela escurid
 
 Mas Marken apenas olhou para ela. Depois deu um passo para trás. Recuou mais, entrando na sombra da passagem estreita. A escuridão tomou primeiro o sangue seco em sua roupa, depois o braço ferido, depois metade do rosto. Por último, ficaram os olhos, calmos demais para uma noite como aquela. E então nem eles ficaram.
 
-Kaelina permaneceu sentada no chão do esconderijo, diante do corpo imóvel de Ylvena, enquanto Kaendar ardia acima das pedras e a verdade, enfim encontrada, escorria entre seus dedos como sangue.
+Kaelina permaneceu sentada no chão do esconderijo, diante do corpo imóvel de Ylvena. Acima das pedras, Kaendar ardia.

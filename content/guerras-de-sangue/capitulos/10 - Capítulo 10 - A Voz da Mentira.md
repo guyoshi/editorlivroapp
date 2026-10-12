@@ -1,6 +1,6 @@
 Alyra leu a mensagem duas vezes. Na terceira, apenas mediu as palavras enquanto o informante esperava de cabeça baixa.
 
-A mensagem dizia que os Homens das Areias haviam concluído a missão. Os Fendelar tinham sido exterminados. Os homens tinham retornado sem deixar rastro suficiente para serem seguidos. O plano, em si, havia funcionado. Era isso que tornava o resto da mensagem intolerável.
+A mensagem dizia que os Homens das Areias haviam concluído a missão: os Fendelar estavam mortos, e os homens tinham retornado sem deixar rastro suficiente para serem seguidos. Alyra continuou a ler.
 
 Rumores corriam por mercados, travessias e acampamentos: Kaendar teria enviado homens sem brasão para destruir Velarim; a trégua com os Tondrar teria servido apenas para matá-los sob uma lei Polar. Quase ninguém repetia a versão de Alyra, na qual os Tondrar haviam envenenado Yvenn sob pão e sal. Alyra dobrou a tira de pele e a pousou sobre a mesa.
 

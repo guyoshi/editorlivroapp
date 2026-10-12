@@ -620,4 +620,4 @@ Kaelina olhou para ele, e a voz que saiu dela era calma demais para o que sentia
 
 Ele abriu a porta com pressa contida e saiu. Kaelina ficou sozinha na sala pequena, ouvindo ao longe o ruído de Kaendar tentando sobreviver ao próprio medo. Pela janela, via-se parte dos anéis médios, homens carregando madeira, servos levando água, guardas cruzando corredores, a vida continuando porque a vida quase sempre tinha a crueldade de continuar.
 
-Veyr Polar fora aos Fendelar e não voltara. Kaelina apoiou as mãos na mesa, baixou os olhos para a madeira marcada e deixou o pensamento trabalhar. Não como luto. Não como raiva. Como Orionus talvez tivesse feito. Como ela própria precisava aprender a fazer. Uma peça. Depois outra. Depois outra. E, em algum lugar entre elas, a sombra de Alyra começava a ganhar forma.
+Veyr Polar fora aos Fendelar e não voltara. Kaelina apoiou as mãos na mesa e examinou os indícios um a um. A cada peça que encaixava, Alyra aparecia com mais nitidez.

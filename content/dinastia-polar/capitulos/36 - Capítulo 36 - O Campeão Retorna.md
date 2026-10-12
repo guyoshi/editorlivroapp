@@ -121,7 +121,7 @@ No fim da tarde, pouco antes do jantar começar, Caeren circulava por Kaendar se
 
 Foi assim que viu. Dois homens atravessando um corredor de serviço que não deveriam estar usando àquela hora, cumprimentando um guarda com uma familiaridade que não combinava com visitantes de fora. Um acesso normalmente trancado, aberto, sem ninguém de guarda por perto. O fluxo de guardas mudando de um jeito sutil demais para qualquer pessoa que não conhecesse Kaendar tão bem quanto ele. Homens com um distintivo que ele reconheceu, ligados a outra dinastia, circulando numa área interna que jamais deveria receber visita nenhuma sem escolta.
 
-Não entendeu o que via. Só soube, com uma certeza física que não precisava de explicação, que aquilo não devia estar acontecendo. Correu para avisar.
+Correu para avisar.
 
 Encontrou Amaric perto da entrada principal do salão, ocupado organizando a chegada dos últimos convidados.
 
@@ -235,4 +235,4 @@ No chão: Vetarius. Amaric. O Sumo Vigia, a faixa escura dos olhos borrada sobre
 Recuou, devagar, até perto de uma das portas laterais. Pelo vão, viu as lamparinas acesas no pátio e a névoa apagando as pontes ao longe. Ainda havia claridade atrás dela, cada vez menos. Olhou para todos eles.
 
 Então percebeu que todos os que restavam de pé estavam olhando de volta para ele.
-Ninguém gritava agora. Dareth era o campeão da Dinastia Polar, mas o título, que poucos dias antes parecera grande o bastante para preencher uma arena inteira, cabia naquele salão de um jeito muito diferente. Vetarius, Amaric, o Sumo Vigia, Alveris e parte do governo estavam no chão; os representantes que continuavam de pé permaneciam junto às paredes, em silêncio, observando-o.
+Ninguém gritava agora. Vetarius, Amaric, o Sumo Vigia, Alveris e parte do governo estavam no chão. Os representantes que continuavam de pé permaneciam junto às paredes, em silêncio, observando Dareth.

@@ -1,10 +1,10 @@
-A manhã começou como quase todas as outras. Kalan já tinha saído para o cais antes de qualquer um dos outros abrir os olhos de verdade, do jeito que fazia todos os dias desde que Elis conseguia lembrar, e sua ausência na casa era tão comum que ninguém mais reparava nela. Restavam Tair, reclamando da água que tinha esfriado demais durante a noite, e Karesis sentado perto da porta, descalço, com os cabelos ainda molhados de alguma coisa que não era chuva, enrolando uma corda fina em torno da própria mão enquanto mastigava devagar um pedaço de pão duro.
+Kalan saíra para o cais antes de os outros acordarem, como fazia desde que Elis conseguia lembrar. Tair reclamava da água fria da noite; perto da porta, Karesis mastigava pão duro, descalço, os cabelos molhados de alguma coisa que não era chuva e uma corda fina enrolada na mão.
 
 — Você vai desmontar essa corda inteira antes do meio-dia se continuar assim — disse Tair, sem erguer os olhos da tigela.
 
 — É o que ela é pra isso — respondeu Karesis, sem parar.
 
-Orel comia em silêncio ao lado de Elis, os olhos ainda inchados de sono, e de vez em quando erguia a cabeça para olhar Karesis com uma atenção que ele reservava só para poucas pessoas, como se ainda estivesse verificando se aquilo, o homem sentado ali, comendo pão, existia de verdade ou se ia desaparecer outra vez antes que alguém pudesse confiar demais.
+Orel comia em silêncio ao lado de Elis, os olhos inchados de sono. De vez em quando erguia a cabeça para conferir se Karesis ainda estava à porta.
 
 Tair falava sobre os preços que tinham subido nos últimos dias por causa do torneio, sobre uma fila que crescera tanto na venda de sal que ele desistira de esperar, sobre um barco cheio de gente de terras distantes que atracara perto do Cais dos Zírrios fazendo um barulho de instrumentos que ele nunca tinha ouvido antes. Emendou, resmungando de antemão, que ainda precisava levar uma cobrança até Roven naquela tarde, e que ia passar o resto do dia com o cheiro dos curtumes grudado na roupa por causa disso.
 
@@ -16,7 +16,7 @@ Tair falava sobre os preços que tinham subido nos últimos dias por causa do to
 
 — Você tinha o quê, um ciclo? Dois? — Karesis deu de ombros. — Ninguém lembra de nada com essa idade.
 
-Tair aproveitou a pausa para reclamar de outra coisa, e a conversa seguiu adiante sem que ninguém parasse para pensar duas vezes no que tinha sido dito, e Elis também não pensou, só terminou o pão, ajudou a levar as tigelas para o canto onde ficavam à espera de água, e só quando já estava quase esquecendo do assunto foi que Tair, ajeitando a faixa onde guardava as pequenas contas do dia, apontou para o canto oposto da casa.
+Tair aproveitou a pausa para reclamar de outra coisa. Elis terminou o pão e levou as tigelas para o canto onde ficavam à espera de água. Já ajeitando a faixa das contas do dia, Tair apontou para o outro lado da casa.
 
 — Depois vê quanto grão ainda resta no caixote, Elis. Se sobrou pouco, preciso saber antes de decidir o que compramos hoje.
 
@@ -28,11 +28,11 @@ Pouco depois, Tair subiu para procurar os papéis da cobrança que precisava lev
 
 O caixote de grãos ficava encostado na parede mais afastada da porta, num canto que recebia pouca luz mesmo de dia, e Elis já tinha enfiado a mão lá dentro tantas vezes que fazia aquilo quase sem pensar: abriu a tampa, passou os dedos pela superfície do grão até sentir o fundo raso que restava, contou por instinto o quanto ainda dava para mais alguns dias, e ia fechar de novo quando alguma coisa a fez parar.
 
-Não foi um pensamento. Foi antes disso, no corpo, do mesmo jeito que ela sentia quando um degrau tinha um centímetro a mais ou a menos do que os outros, ou quando uma passagem estreita mudava de largura sem aviso: a distância entre a boca do caixote e o fundo onde a mão parava era menor, por dentro, do que a altura que o próprio caixote ocupava visto de fora. Alguma coisa ali dentro estava mais alta do que devia.
+A mão de Elis parou cedo demais. Ela conhecia a altura do caixote por fora; por dentro, o fundo parecia mais alto. Era o tipo de diferença que notava num degrau ou numa passagem estreita antes mesmo de olhar de novo.
 
-Elis se abaixou e apoiou as duas mãos nas laterais externas, medindo com os olhos e depois com os braços, comparando a caixa por fora com o espaço que conseguira alcançar por dentro. A diferença não era grande (um punho fechado, talvez menos), mas era exatamente do tamanho das diferenças que ela tinha aprendido a notar desde pequena, nas paredes que pareciam maciças e não eram, nas passagens que pareciam terminar e continuavam um pouco além do que os olhos diziam.
+Elis se abaixou e comparou a altura externa com a profundidade que sua mão alcançava. Faltava pouco, menos de um punho fechado, mas ela já encontrara paredes e passagens falsas por diferenças menores.
 
-Passou os dedos pelo fundo de dentro, procurando alguma coisa que os olhos não alcançavam ver na pouca luz, e sentiu, perto de uma das bordas, uma linha fina demais para ser uma junção natural da madeira. Seguiu a linha com a ponta dos dedos até ela virar canto, e o canto virar outro, e entendeu, antes de conseguir dizer com palavras, que aquilo não era o fundo do caixote. Era uma tábua encaixada por cima do fundo verdadeiro.
+Passou os dedos pelo fundo, onde a pouca luz não chegava, e encontrou uma linha fina junto à borda. Seguiu-a até o canto. Uma tábua escondia o fundo verdadeiro do caixote.
 
 Ela puxou uma unha pela fresta até sentir a madeira ceder um pouco, e com mais um pouco de força a tábua se soltou, raspando de leve contra as laterais, revelando um espaço escuro e estreito por baixo.
 
@@ -42,7 +42,7 @@ Elis a tirou com cuidado, sentindo o peso maior do que esperava, e limpou com a 
 
 R-O-V-E-N.
 
-Ficou olhando para a palavra por mais tempo do que precisava, porque a palavra já não era só uma palavra qualquer havia algumas horas.
+Ficou olhando para a palavra. Poucas horas antes, Roven era apenas o lugar onde nascera.
 
 Ela sabia que não devia estar ali. Sabia, com uma certeza que não precisava de nenhuma explicação, que aquele tipo de caixa pertencia a algum lugar oficial, a alguma prateleira que alguém organizava com cuidado, e que ninguém guardava uma coisa daquelas debaixo de grãos, num fundo falso, sem um bom motivo para escondê-la de qualquer pessoa que abrisse aquele caixote sem saber o que procurava. Também sabia (e essa certeza vinha mais devagar, incomodando mais) que só uma pessoa daquela casa tinha o hábito de reforçar madeira com cuidado excessivo, de deixar tudo parecendo normal por fora enquanto escondia por dentro exatamente o que não devia ser visto.
 
@@ -178,7 +178,7 @@ Alguma coisa no rosto de Vesna se moveu, uma dor rápida que ela não conseguiu 
 
 — Eu sei que é isso que você quer. — Ela tocou, de leve, o ombro de Elis, um gesto breve, quase contido demais para ser um consolo completo. — Mas a resposta continua não. Não hoje.
 
-Elis assentiu, engolindo a decepção junto com o resto, e não insistiu, porque insistir pareceu, de repente, inútil diante do jeito como Vesna já tinha se voltado de novo para o caderno de anotações, como quem encerra uma conversa com o corpo antes de encerrá-la com palavras, mas não era um não completo, e alguma parte de Elis, sem conseguir explicar por quê, sentiu que aquele "não hoje" guardava, escondido dentro dele, uma porta que talvez não estivesse tão trancada quanto parecia.
+Elis assentiu. Vesna já se voltara para o caderno de anotações. Ainda assim, dissera "não hoje", e Elis guardou aquelas duas palavras.
 
 *
 

@@ -276,7 +276,7 @@ Selina reconheceu, então, com um choque que subiu pelo próprio estômago antes
 
 Alveris.
 
-Não era só o fato de ele estar fora de Kaeliran. Isso, de algum jeito, ela já poderia supor. Era estar ali, escondido numa galeria de serviço, discutindo em particular com Saelira Buldar, longe de qualquer olhar oficial.
+Alveris estava fora de Kaeliran, escondido numa galeria de serviço, discutindo em particular com Saelira Buldar.
 
 A conversa não parecia ter começado ali, naquele momento, por causa de Karev. Os dois falavam de garantias, de recursos, de pessoas já posicionadas, de compromissos que se estenderiam para depois do Torneio, do jeito de quem retomava um assunto antigo, não de quem o inventava na hora.
 

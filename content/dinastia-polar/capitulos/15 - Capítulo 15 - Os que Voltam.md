@@ -82,11 +82,11 @@ Estava mais magro, não muito, mas o suficiente para que a roupa, já folgada an
 
 — E-is.
 
-Não soltou. Enquanto Tair começava a falar, tentando explicar, tentando organizar em frases o que provavelmente já tinha organizado mil vezes na cabeça durante a volta, Orel continuou agarrado a ela, a cabeça encostada perto do ombro dela, como se precisasse confirmar, com o próprio peso do corpo, que Elis continuava ali, inteira, real.
+Orel não a soltou enquanto Tair tentava começar. Manteve a cabeça junto ao ombro de Elis e apertou os braços em torno dela.
 
 — O que aconteceu? — perguntou Elis, por cima do ombro de Orel, os olhos presos em Tair. — Onde está o Kalan?
 
-Tair não respondeu de imediato. Abriu a boca, fechou de novo, e Elis viu nele o mesmo tipo de hesitação que já tinha visto em Vessa horas antes, só que mais pesada, mais cheia de coisa que ele não sabia por onde começar a dizer.
+Tair abriu a boca, fechou de novo. Elis reconheceu a hesitação que vira em Vessa horas antes.
 
 — Kalan ficou.
 
@@ -96,7 +96,7 @@ Duas palavras. Elis sentiu o chão da própria casa mudar de lugar debaixo dela,
 
 — Ele assumiu. — Tair puxou uma cadeira e sentou-se antes de terminar de falar, como se as pernas tivessem decidido sozinhas que não aguentariam ficar de pé pelo resto daquela conversa. — Disse que foi ele que roubou a caixa. Disse que nenhum de nós sabia de nada, que a gente nem sabia que ele tinha feito aquilo. Insistiu tanto que... foi por isso que soltaram a gente. Porque ele assumiu tudo sozinho.
 
-Não trouxe alívio nenhum. Trouxe, ao contrário, um tipo de culpa que Elis via se formar no rosto de Tair antes mesmo de ele continuar, como se soltar aquela frase tivesse aberto uma porta que ele vinha segurando fechada havia dias.
+Elis procurou alívio no rosto de Tair e não encontrou.
 
 — Eu disse a eles que Darven era Nular — começou Tair, a voz baixa, quase mecânica, do jeito de quem repete alguma coisa que já contou tantas vezes para si mesmo que as palavras perderam parte do peso original. — Naquela noite. Quando eles apareceram perguntando quem tinha feito aquilo com o Orel.
 
@@ -108,7 +108,7 @@ Ele parou, e por um momento pareceu que ia continuar, mas o silêncio se esticou
 
 — Lá dentro, um dos homens de Hadris me mostrou os registros de verdade. Darven tem pai e mãe. Os dois Polar. A relação com Meral existia, era real, mas eu confundi... — Tair fechou os olhos por um segundo. — Eu confundi uma coisa administrativa com linhagem. E nem sabia que tinham trocado quem constava como responsável do garoto, fazia tempo. Eu tava com a informação errada, e falei como se fosse a certa.
 
-Tentou explicar mais, o jeito como os dois fatos tinham parecido a mesma coisa naquela noite, o jeito como sempre tinha confiado no próprio conhecimento de recibos e cobranças o suficiente para nunca duvidar dele. Mas a explicação foi se desfazendo no meio do caminho, cada frase nova mostrando mais claramente, para o próprio Tair antes de qualquer outra pessoa, o tamanho real do que tinha acontecido.
+Tair tentou explicar de novo a confusão entre o registro administrativo e a linhagem, mas parou no meio da frase.
 
 — O guarda perguntou se eu tinha certeza. — A voz saiu quase um sussurro. — E eu disse que sim.
 

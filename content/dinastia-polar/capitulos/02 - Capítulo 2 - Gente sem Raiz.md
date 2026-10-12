@@ -142,11 +142,7 @@ Kalan voltou à carne.
 
 — Interessante — respondeu Elis.
 
-Kalan ergueu uma sobrancelha.
-
-Elis bebeu mais água para ter alguma coisa para fazer com a boca.
-
-Kalan cortou outra tira de carne e a esfregou no sal com as duas mãos antes de pendurá-la. 
+Kalan ergueu uma sobrancelha. Elis bebeu mais água para manter a boca ocupada, enquanto ele cortava outra tira de carne, esfregava-a no sal e a pendurava. 
 
 — Cairon disse que nunca viu tanta carga sendo preparada de uma vez. E ele trabalha nos armazéns desde antes de eu nascer.
 

@@ -1,6 +1,6 @@
 Nos últimos dias, Kaendar estava cheia de homens que fingiam que a guerra ainda não tinha começado.
 
-Era assim que cidades fortes adoeciam: primeiro mudavam os horários, depois dobravam guardas, depois fechavam acessos, depois chamavam medo de prudência e prudência de rotina. O povo do Anel Baixo ainda comprava pão de raiz escura, pequenos bolos de cevada-escura e porções de fava-de-sal cozida nas esquinas, ainda salgava zírrio seco nos pátios, ainda discutia preço de lenha, ainda reclamava da água oleosa com a mesma irritação de quem reclama do mau tempo. Mas os olhos estavam diferentes. Toda conversa terminava mais rápido quando um guarda passava, toda porta ficava menos aberta, toda mãe perguntava duas vezes onde o filho ia.
+Mudaram os horários, dobraram os guardas, fecharam acessos. No Anel Baixo, ainda se compravam pão de raiz escura, pequenos bolos de cevada-escura e fava-de-sal cozida nas esquinas; ainda se salgava zírrio seco nos pátios e se discutiam o preço da lenha e a água oleosa. Mas as conversas terminavam quando um guarda passava, as portas ficavam entreabertas e as mães perguntavam duas vezes para onde os filhos iam.
 
 Ao entardecer, três homens de Lutharus chegaram pelos acessos do norte com os tarraks quase partidos de cansaço.
 

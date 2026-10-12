@@ -242,7 +242,7 @@ Nara veio como flecha. Oito ciclos, joelhos arranhados, cabelo preso de qualquer
 
 Ela riu contra o pescoço dele. Esse som, depois de Khar-Tondr, pareceu água limpa. Dentro da casa, Vita olhou por cima do ombro enquanto mexia uma panela baixa sobre fogo quase escondido. O cheiro era de caldo de raiz e caça pequena, engrossado com gordura de dorvek e ervas que ela sempre dizia que Rendar cortava errado.
 
-Era assim que se cozinhava em Velarim: chama pequena, fumaça domesticada, cheiro preso por folhas úmidas no teto. Vita era alta para uma Fendelar, braços definidos de caçadora, cabelo preso numa trança curta, uma cicatriz fina atravessando a sobrancelha esquerda. Tinha o tipo de beleza que não pedia licença, e o tipo de olhar que fazia homens falarem menos do que pretendiam.
+Folhas úmidas no teto prendiam a fumaça da chama baixa. Vita era alta para uma Fendelar, tinha braços de caçadora, cabelo preso numa trança curta e uma cicatriz fina atravessando a sobrancelha esquerda.
 
 — Está inteiro, As-sun — disse ela fazendo o sinal com a mão de agradecimento, fechando os olhos, com uma das palmas cobrindo um deles.
 
