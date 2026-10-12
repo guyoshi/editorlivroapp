@@ -10,7 +10,7 @@ Ficou ali, olhando o lugar onde a menina tinha estado um segundo antes, até ent
 
 O Pátio de Namar estava voltando ao normal.
 
-Era a parte que Selina não conseguia deixar de notar, mesmo com o corpo ainda duro de segurar Elis, mesmo com o som do nome de Kalan ainda ecoando em algum lugar atrás dos ouvidos. Os arqueiros já recolhiam os arcos. Um funcionário da Permanência dobrava o pergaminho de Hadris com o mesmo cuidado que usaria para qualquer outro documento arquivado. A multidão se movia para as saídas em conversas baixas, algumas pessoas já falando de outra coisa, do preço do grão, de uma disputa qualquer entre casas menores, como se o que tinham acabado de ver fosse só mais um intervalo na tarde. A cidade não parava. A cidade nunca parava.
+Era a parte que Selina não conseguia deixar de notar, mesmo com o corpo ainda duro de segurar Elis, mesmo com o som do nome de Kalan ainda ecoando em algum lugar atrás dos ouvidos. Os arqueiros já recolhiam os arcos. Um funcionário da Permanência dobrava o pergaminho de Hadris com o mesmo cuidado que usaria para qualquer outro documento arquivado. A multidão se movia para as saídas em conversas baixas, algumas pessoas já falando de outra coisa, do preço do grão, de uma disputa qualquer entre casas menores, como se o que tinham acabado de ver fosse só mais um intervalo na tarde. Selina se virou quando ouviu alguém discutir o preço do grão atrás dela.
 
 Kalan continuava ali, preso à faixa, três hastes atravessando o peito, e o Pátio já tinha decidido seguir em frente sem ele.
 
@@ -18,7 +18,7 @@ Alguém trouxe uma maca. Selina reconheceu o gesto de praxe: o mesmo procediment
 
 Dareth não estava mais lá quando ela olhou para trás. Não perguntou onde tinha ido.
 
-A sala de preparo era pequena, iluminada por uma única fresta alta, cheirando a água e a alguma erva que Selina não soube nomear. Dois funcionários trabalharam em silêncio, tirando o saco da cabeça de Kalan, desamarrando a faixa, limpando o sangue em torno das três feridas com panos molhados, sem pressa e sem cerimônia. Não era a primeira vez que faziam aquilo, e não tratavam o corpo com nojo nem com reverência, só com o cuidado técnico de quem sabe exatamente quanto tempo cada etapa deveria levar.
+A sala de preparo era pequena, iluminada por uma única fresta alta, cheirando a água e a alguma erva que Selina não soube nomear. Dois funcionários trabalharam em silêncio, tirando o saco da cabeça de Kalan, desamarrando a faixa, limpando o sangue em torno das três feridas com panos molhados, sem pressa e sem cerimônia. Trabalhavam com a precisão de quem já repetira aqueles gestos muitas vezes.
 
 Selina já tinha visto corpos assim. Fazia parte do trabalho, de um jeito que raramente admitia em voz alta: corpos que precisavam virar registro, causa da morte, responsabilidade formal de alguém, peça num processo que continuava depois que a pessoa já não estava mais lá para reclamar dele. Não era o procedimento que a incomodava.
 

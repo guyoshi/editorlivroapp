@@ -137,7 +137,7 @@ Levar ao Culto estava fora de cogitação: tinha sido o próprio Culto, ou algu�
 
 Levar à administração, então? Selina quase riu, sem nenhuma vontade real de rir. A fraude, se era mesmo fraude, tinha sobrevivido dentro da própria administração durante décadas, sem que ninguém jamais suspeitasse. Não porque a administração fosse incompetente (Selina conhecia gente competente o suficiente ali dentro), mas porque o sistema inteiro dependia de confiar em registros que, aparentemente, podiam ser reescritos por quem soubesse onde apertar.
 
-Pela primeira vez em muito tempo, talvez pela primeira vez em toda a carreira, Selina possuía uma informação grave demais para largar em qualquer mesa que conhecesse, e não sabia qual instituição ainda era segura o suficiente para recebê-la.
+Selina não sabia a quem confiar aquela informação. Passou mentalmente pelas cadeiras da Câmara e pelos nomes do Culto, sem encontrar alguém em quem confiasse.
 
 A mulher que sempre soubera exatamente qual porta bater, qual favor cobrar, qual funcionário conhecia qual segredo, ficou ali sentada, cercada de papel, desconfiando do prédio inteiro.
 Precisava de mais um documento. Um dos registros de propriedade fazia referência a outro processo, um número que ela reconheceu como sendo dos arquivos administrativos mais antigos, os que ficavam guardados num anexo separado da Cadeira dos Caminhos e Estandartes.
@@ -258,4 +258,4 @@ A caixa continuava aberta sobre a cama. Aleris continuava ali, sobre a colcha, a
 
 Selina tinha encontrado uma pista que podia ligar Alveris a um registro antigo de Aleris. Ainda precisava localizar o processo citado para saber o que havia entre os dois nomes.
 
-Mas quando a porta do quarto de Amira se fechou, em algum lugar lá embaixo, a casa inteira pareceu, de repente, muito maior do que Selina jamais tinha percebido que era.
+Quando a porta do quarto de Amira se fechou no andar de baixo, Selina escutou o eco dos passos sumir pela casa.
