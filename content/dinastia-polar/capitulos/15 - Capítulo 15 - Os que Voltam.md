@@ -148,7 +148,7 @@ Selina hesitou, só por um instante, o suficiente para que Elis percebesse.
 
 — Vivo. — Não desviou o olhar. — Mas não está bem.
 
-Não era a mentira que Kalan provavelmente tinha pedido para ela contar, e Elis sentiu, por baixo do medo que a resposta trouxe, um tipo estranho de gratidão por Selina não ter mentido.
+Elis desconfiou que Kalan teria pedido a Selina para esconder o quanto sofria. A resposta a assustou; ao menos era sincera.
 
 — Você encontrou alguma coisa? — perguntou Selina, e a pergunta veio quase solta, quase casual, do jeito que só soava casual porque tinha sido preparada com cuidado antes. — Alguma coisa que Kalan possa ter escondido.
 
@@ -160,7 +160,7 @@ Selina não tinha como saber de nada disso. Só percebeu, com a mesma precisão 
 
 — Se você encontrar qualquer documento — disse, em vez disso —, não entregue direto a um Filho da Raiz. Procure a mim.
 
-Era mais do que instrução. Elis reconheceu isso, mesmo sem saber nomear exatamente o que reconhecia: era um passo de confiança, oferecido sem garantia nenhuma de que seria retribuído. Não conseguiu, ainda, retribuir. Só assentiu, e Selina, depois de olhar mais uma vez para dentro da casa, para Tair e Orel, para o silêncio pesado que pairava sobre os três, deu meia-volta e desapareceu na chuva que já começava a engrossar de verdade.
+Elis assentiu, mas não disse o que sabia. Selina olhou mais uma vez para dentro da casa, para Tair e Orel, e foi embora sob a chuva que começava a engrossar.
 
 A chuva ficou forte durante o resto da tarde, batendo no telhado com um ritmo que abafava quase todo o resto do bairro, e Tair e Elis fizeram uma sopa de turno juntos usando parte do que Vessa tinha mandado e o pouco que ainda restava na prateleira, mexendo a panela em silêncio, cada um perdido no próprio cansaço. Anoiteceu cedo, o céu escurecendo antes da hora por causa das nuvens, e pela primeira vez em dias havia de novo várias pessoas ao redor da mesa, mas Kalan não estava entre elas, e a cadeira vazia parecia maior do que qualquer outra coisa na casa.
 
