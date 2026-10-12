@@ -246,7 +246,7 @@ Passou por uma mulher de manto claro enquanto o Filho da Raiz continuava olhando
 
 Então algo acima chamou sua atenção.
 
-Um garoto estava próximo da plataforma soberana. Devia ter uns quinze ciclos e usava roupas azuis, impecáveis, que Elis jamais poderia comprar. O cabelo crespo estava arrumado de uma maneira que ela não sabia que cabelos conseguiam permanecer, havia dois homens posicionados atrás dele e ninguém parecia empurrá-lo, pisar em seus pés ou reclamar que sua cabeça atrapalhava a visão.
+Um garoto estava próximo da plataforma soberana. Devia ter uns quinze ciclos e usava roupas azuis, impecáveis, que Elis jamais poderia comprar. O cabelo crespo estava impecavelmente arrumado. Dois homens guardavam o espaço atrás dele. Ninguém lhe pisava nos pés nem reclamava que atrapalhava a vista.
 
 Elis soube quem era antes mesmo de pensar.
 
