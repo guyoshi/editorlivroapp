@@ -44,7 +44,7 @@ R-O-V-E-N.
 
 Ficou olhando para a palavra. Poucas horas antes, Roven era apenas o lugar onde nascera.
 
-Ela sabia que não devia estar ali. Sabia, com uma certeza que não precisava de nenhuma explicação, que aquele tipo de caixa pertencia a algum lugar oficial, a alguma prateleira que alguém organizava com cuidado, e que ninguém guardava uma coisa daquelas debaixo de grãos, num fundo falso, sem um bom motivo para escondê-la de qualquer pessoa que abrisse aquele caixote sem saber o que procurava. Também sabia (e essa certeza vinha mais devagar, incomodando mais) que só uma pessoa daquela casa tinha o hábito de reforçar madeira com cuidado excessivo, de deixar tudo parecendo normal por fora enquanto escondia por dentro exatamente o que não devia ser visto.
+A caixa pertencia a algum arquivo oficial, não a um fundo falso sob os grãos. Elis examinou as tábuas reforçadas. Em casa, só uma pessoa tinha o hábito de esconder o que importava atrás de madeira trabalhada com tanto cuidado.
 
 Mas isso podia esperar. Roven não podia.
 
@@ -118,7 +118,7 @@ Rovan estava parado perto da esquina onde a rua de Maruva se estreitava antes de
 
 O outro homem tentou responder, mas Rovan já tinha emendado outra frase, e outra depois dessa, a mesma cadência de sempre, o mesmo desprezo adornado de nostalgia por um tempo que ele parecia lembrar melhor do que realmente vivera.
 
-Em qualquer outro dia, Elis teria parado. Teria dito alguma coisa, só para ver o rosto de Rovan se contorcer, só pelo gosto pequeno e mesquinho de irritar um homem que gastava tanta energia odiando gente que nunca lhe fizera nada. Mas a cabeça dela continuava em outro lugar, presa entre um nome e um código, entre uma pergunta sem resposta e o peso de ter descoberto, na mesma manhã, dois segredos que não pediu para conhecer, e passou pela esquina sem sequer virar o rosto na direção completa da discussão, como se Rovan fosse só mais um som de Maruva, indistinguível dos outros.
+Em outro dia, Elis teria respondido a Rovan só para irritá-lo. Mas a cabeça dela continuava em outro lugar, presa entre um nome e um código, entre uma pergunta sem resposta e o peso de ter descoberto, na mesma manhã, dois segredos que não pediu para conhecer, e passou pela esquina sem sequer virar o rosto na direção completa da discussão, como se Rovan fosse só mais um som de Maruva, indistinguível dos outros.
 
 *
 
@@ -200,7 +200,7 @@ Mais tarde, depois que a casa foi se aquietando devagar (Tair e Orel já tinham 
 
 Pensou em Neiva. Pensou na palavra desvinculação, e em como ela finalmente conseguira montá-la, sílaba por sílaba, só para descobrir que o que a palavra escondia era maior do que a própria dificuldade de lê-la. Pensou em Vesna dizendo que a mãe lia melhor do que qualquer pessoa naquela condição, entendia formulário antes de qualquer explicação terminar, um elogio pequeno, quase bobo, que no entanto não parava de voltar, como se houvesse ali alguma coisa que Elis devesse notar e não estava conseguindo. Pensou na pergunta de Vesna ("Em Maruva?") e em como aquelas duas palavras pareciam ter aberto, só por um instante, uma porta para uma vida anterior que ninguém nunca tinha mencionado antes.
 
-Pensou também no pai, porque pensar na mãe sempre puxava, atrás de si, um pensamento menor e mais vago sobre ele, e foi só ao tentar organizar esse segundo pensamento que Elis percebeu como ele era pequeno de verdade. Sabia que ele tinha mãos ásperas, porque lembrava vagamente da sensação delas em volta das próprias costelas, erguendo-a no ar até ela gritar de rir. Sabia que ele cantarolava sem nenhuma letra reconhecível, só um som baixo e repetitivo que ela ainda conseguia lembrar sem conseguir reproduzir. E sabia que tinha ido embora antes de ela guardar qualquer memória que valesse a pena chamar de lembrança, não uma história, não um motivo, só a ausência dele, tão antiga que nunca doera de verdade, só existira, do mesmo jeito que a ausência de Karesis existia agora, só que mais funda, mais velha, sem nenhuma garrafa nem nenhum cheiro de rio para explicar por onde ele podia estar.
+Pensou no pai. As lembranças dele eram poucas e vinham sempre depois das lembranças da mãe. Sabia que ele tinha mãos ásperas, porque lembrava vagamente da sensação delas em volta das próprias costelas, erguendo-a no ar até ela gritar de rir. Sabia que ele cantarolava sem nenhuma letra reconhecível, só um som baixo e repetitivo que ela ainda conseguia lembrar sem conseguir reproduzir. E sabia que tinha ido embora antes de ela guardar qualquer memória que valesse a pena chamar de lembrança, não uma história, não um motivo, só a ausência dele, tão antiga que nunca doera de verdade, só existira, do mesmo jeito que a ausência de Karesis existia agora, só que mais funda, mais velha, sem nenhuma garrafa nem nenhum cheiro de rio para explicar por onde ele podia estar.
 
 Era estranho, pensou, descobrir tanta coisa nova sobre a mãe num único dia e perceber, ao mesmo tempo, o quanto menos ainda sabia sobre ele. Era como abrir uma porta e encontrar, do outro lado, outra porta.
 
