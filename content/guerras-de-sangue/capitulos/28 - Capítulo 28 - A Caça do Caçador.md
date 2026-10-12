@@ -228,7 +228,7 @@ Kaelina atravessou. A passagem fechou atrás dela. O som da tranca voltando ao l
 
 Os Tondrar mais próximos perceberam-na imediatamente. Lanças se ergueram. Arcos foram puxados. Um guerreiro gritou que era uma Polar. Outro pediu ordem. O ruído espalhou-se para trás, alcançando as formações Buldar e os homens próximos a Kharvok. Kaelina caminhou.
 
-Não havia escudo, espada ou guarda entre ela e o exército. O vento puxava seus cabelos soltos, alguns queimados, outros colados ao rosto pelo sangue. Da Ramagem restavam só riscos brancos partidos, mas eram brancos, e de longe o exército os viu. Suas roupas não pareciam de soberana. Pareciam de alguém que escapara de uma cova e ainda não decidira quem enterraria depois.
+Não havia escudo, espada ou guarda entre ela e o exército. O vento puxava seus cabelos soltos, alguns queimados, outros colados ao rosto pelo sangue. Da Ramagem restavam só riscos brancos partidos, mas eram brancos, e de longe o exército os viu. O manto estava rasgado e colado à pele. Mesmo assim, os soldados reconheceram a Ramagem.
 
 Parou quando as primeiras lanças ficaram perto o bastante para alcançá-la após poucos passos.
 
@@ -698,7 +698,7 @@ Uma voz surgiu na porta:
 
 — Afaste-se dela.
 
-Daryon entrou no salão com uma espada na mão. Não usava armadura completa. Apenas um gibão escuro reforçado sob o manto e pequenas placas nos braços. Seu cabelo estava desarrumado, e a elegância habitual havia sido ferida pela fumaça e pelo suor. Mesmo assim, caminhou como se ainda entrasse numa reunião onde a maneira de ocupar o espaço pudesse decidir alguma coisa.
+Daryon entrou no salão com uma espada na mão. Não usava armadura completa. Apenas um gibão escuro reforçado sob o manto e pequenas placas nos braços. O cabelo estava desarrumado, e a fumaça manchava-lhe o rosto. Ainda assim, Daryon entrou com o mesmo passo medido que usava na Câmara.
 
 Alyra não desviou os olhos de Rendar.
 

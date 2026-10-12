@@ -282,7 +282,7 @@ Daryon tentou erguer a mão. Não conseguiu. Os dedos apenas se moveram sobre a 
 
 — Ele queria você como soberana.
 
-Alyra ficou imóvel. Daryon respirou mais uma vez. Depois não respirou. Alyra removeu lentamente as mãos do ferimento e levantou-se, como se tivesse sido traída. Kaelina foi quem fechou os olhos de Daryon. Iressa aproximou-se devagar, mas parou quando Alyra ergueu o rosto. O ódio nos olhos dela parecia estar direcionado a outra pessoa.
+Alyra ficou imóvel. Daryon respirou mais uma vez. Depois não respirou. Ela retirou as mãos do ferimento, devagar, e se levantou. Kaelina foi quem fechou os olhos de Daryon. Iressa aproximou-se devagar, mas parou quando Alyra ergueu o rosto. O ódio nos olhos dela parecia estar direcionado a outra pessoa.
 
 — Kadrir — disse Kaelina, levantando-se. — Fique com ela.
 
@@ -348,7 +348,7 @@ Os Glydar que resistiam caíam, assim como alguns Vendrar perto do rio. Lorde Os
 
 A cada rua atravessada, Rendar via Glydars serem levados, casas incendiadas, Vendrar lutando. Alguns Tondrar que haviam conseguido entrar pelo cais gritavam e tentavam lutar, alguns eram espetados por lanças compridas, às vezes mortalmente. Rendar não respondeu a nada. A madrugada clareava devagar.
 
-O fogo parecia mais sujo sob a luz cinzenta. Durante a noite, as chamas haviam escondido parte da destruição com brilho. Agora revelavam telhados abertos, paredes escurecidas, corpos cobertos às pressas e água misturada com cinza escorrendo pelas ruas. Nas partes baixas, crostas-de-pântano fugiam das poças revolvidas, batatas-de-lodo arrancadas de cestos boiavam entre detritos e flores-de-lodo-azul permaneciam abertas junto aos canais, belas demais para aquele cheiro de morte.
+À luz cinzenta da manhã, as chamas já não escondiam os estragos. Agora revelavam telhados abertos, paredes escurecidas, corpos cobertos às pressas e água misturada com cinza escorrendo pelas ruas. Nas partes baixas, crostas-de-pântano fugiam das poças revolvidas, batatas-de-lodo arrancadas de cestos boiavam entre detritos e flores-de-lodo-azul permaneciam abertas junto aos canais, belas demais para aquele cheiro de morte.
 
 Moradores saíam das casas. Observavam Kaelina caminhar ao lado do Fendelar. Alguns cochichavam se aquele homem era o mesmo das histórias espalhadas de Alestir. Guardas repetiam que havia ordem soberana para deixá-lo passar. Kaelina percebeu a velocidade do rumor.
 
