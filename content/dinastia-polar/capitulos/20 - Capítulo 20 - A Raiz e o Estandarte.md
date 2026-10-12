@@ -68,7 +68,7 @@ Vetarius balançou a cabeça, paciente, como quem já ouviu aquele argumento ant
 
 — Então mostre a elas a paz que vier depois — respondeu Dareth. — Não o que for preciso pra chegar até ela.
 
-Ninguém ali parecia disposto a resolver aquilo na mesma manhã, e a discussão morreu sem decisão, do jeito que a maioria das discussões daquela Câmara parecia morrer: adiada, não encerrada.
+A discussão perdeu força e, como tantas outras naquela Câmara, acabou adiada.
 
 *
 

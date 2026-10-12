@@ -332,7 +332,7 @@ Cairon não respondeu de imediato. Olhou, pela primeira vez, diretamente para Ka
 
 — Ele nunca foi do tipo que rouba. Até onde eu vi.
 
-Não era um discurso apaixonado. Não era o tipo de testemunho que arrancaria lágrimas da multidão. Mas era exatamente o tipo de verdade seca e reticente que ninguém suspeitaria de ter sido comprada ou inventada, e, por isso mesmo, Selina sabia, pesava mais do que qualquer coisa mais bonita que pudesse ter dito.
+Selina acompanhou o testemunho seco e hesitante, apostando que os julgadores acreditariam mais nele do que numa declaração ensaiada.
 
 Hadris deixou passar sem grande contestação. Sabia, tanto quanto ela, que atacar aquele tipo de testemunho só o tornaria mais memorável.
 

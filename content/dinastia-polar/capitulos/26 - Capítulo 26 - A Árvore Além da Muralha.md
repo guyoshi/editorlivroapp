@@ -32,7 +32,7 @@ Elis nunca tinha visto Kaeliran daquele jeito. Vivera ali a vida inteira e conhe
 
 As ruas estavam vazias de um jeito que parecia quase errado. Algumas lamparinas continuavam acesas em janelas isoladas, tremulando fraco. Numa esquina, uma cozinha já tinha começado o primeiro fogo do dia, o cheiro de pão ainda cru chegando até a rua antes mesmo de o sol nascer. Um padeiro trabalhava atrás de uma janela embaçada, os braços cobertos de farinha, sem notar quem passava do lado de fora. Em outra rua, um grupo pequeno de trabalhadores do turno da noite voltava para casa, arrastando os pés, conversando baixo entre si. Um animal de carga resfolegou no frio, o hálito virando vapor visível no ar escuro.
 
-O som dos próprios passos parecia maior do que o normal, ecoando entre as construções silenciosas. Elis achou aquilo estranho de um jeito que não sabia nomear: horas antes, uma multidão inteira tinha se apertado num pátio só para ver Kalan morrer. Milhares de pessoas, gente que nunca tinha ouvido o nome dele antes daquele dia, tinham parado tudo para assistir. Agora quase todo mundo dormia, como se nada daquilo tivesse acontecido, como se a cidade inteira tivesse decidido, coletivamente, seguir em frente enquanto os únicos que realmente perderam alguma coisa caminhavam sozinhos pelas ruas vazias.
+Os passos de Elis ecoavam entre as construções silenciosas. Horas antes, uma multidão lotara o pátio para assistir à morte de Kalan, inclusive gente que nunca ouvira o nome dele. Agora as janelas estavam escuras e quase toda a cidade dormia, enquanto os que o conheciam atravessavam as ruas vazias.
 
 Ninguém além deles parecia lembrar.
 

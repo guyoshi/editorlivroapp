@@ -6,7 +6,7 @@ As pernas ainda lembravam como fazer aquilo: correr atrás de gente que se afast
 
 Ele virou a cabeça. Só isso. Não conseguiu mais nada, porque os guardas já o empurravam para dentro da passagem, e o espaço entre os dois se fechou como uma boca.
 
-Um braço a deteve antes que alcançasse a corda. Não era hostil, era só um guarda cumprindo instrução, olhando para ela sem raiva nenhuma, só cansaço. Elis empurrou, tentou passar por baixo, e não conseguiu. As pernas que tinham corrido por telhados inteiros dias atrás agora não eram fortes o bastante contra um braço adulto que nem estava tentando de verdade.
+Um braço a deteve antes que alcançasse a corda. O guarda a deteve com a expressão cansada de quem cumpria uma ordem. Elis empurrou, tentou passar por baixo, e não conseguiu. As pernas que tinham corrido por telhados inteiros dias atrás agora não eram fortes o bastante contra um braço adulto que nem estava tentando de verdade.
 
 O portão terminou de fechar.
 
