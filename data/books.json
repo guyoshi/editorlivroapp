@@ -25,6 +25,30 @@
       "subtitle": "Ciclo de Jesed — Livro 4",
       "manifest": "data/herdeiros-das-cinzas.json",
       "signupAvailable": false
+    },
+    {
+      "id": "diario-sobrenatural-1",
+      "title": "Os Elos das Sombras",
+      "subtitle": "Diário Sobrenatural — Livro 1",
+      "manifest": "data/diario-sobrenatural-1.json"
+    },
+    {
+      "id": "diario-sobrenatural-2",
+      "title": "A Alvorada das Ilusões",
+      "subtitle": "Diário Sobrenatural — Livro 2",
+      "manifest": "data/diario-sobrenatural-2.json"
+    },
+    {
+      "id": "spacetheft-1",
+      "title": "A Lenda da Aurora",
+      "subtitle": "Spacetheft — Livro 1",
+      "manifest": "data/spacetheft-1.json"
+    },
+    {
+      "id": "viajantes-dimensionais-1",
+      "title": "A Patrulha de Korvo",
+      "subtitle": "Viajantes Dimensionais — Livro 1",
+      "manifest": "data/viajantes-dimensionais-1.json"
     }
   ]
 }
