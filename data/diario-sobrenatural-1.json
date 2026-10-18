@@ -1,0 +1,196 @@
+{
+  "id": "diario-sobrenatural-1",
+  "title": "Os Elos das Sombras",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Junior I: Não Apague as Luzes",
+      "text": "content/diario-sobrenatural-1/capitulos/01 - Capítulo 1 - Junior I- Não Apague as Luzes.md"
+    },
+    {
+      "n": 2,
+      "title": "Priscila I: A Irmã mais Velha",
+      "text": "content/diario-sobrenatural-1/capitulos/02 - Capítulo 2 - Priscila I- A Irmã mais Velha.md"
+    },
+    {
+      "n": 3,
+      "title": "Pedro I: Aluna Nova",
+      "text": "content/diario-sobrenatural-1/capitulos/03 - Capítulo 3 - Pedro I- Aluna Nova.md"
+    },
+    {
+      "n": 4,
+      "title": "Kelly I: Bicos e Penas",
+      "text": "content/diario-sobrenatural-1/capitulos/04 - Capítulo 4 - Kelly I - Bicos e Penas.md"
+    },
+    {
+      "n": 5,
+      "title": "Vini I: Um Encontro",
+      "text": "content/diario-sobrenatural-1/capitulos/05 - Capítulo 5 - Vini I - Um Encontro.md"
+    },
+    {
+      "n": 6,
+      "title": "Jennifer I: O Bicho Preto",
+      "text": "content/diario-sobrenatural-1/capitulos/06 - Capítulo 6 - Jennifer I - O Bicho Preto.md"
+    },
+    {
+      "n": 7,
+      "title": "Junior II: Jantar com a D. Karen e o S. Sanderson",
+      "text": "content/diario-sobrenatural-1/capitulos/07 - Capítulo 7 - Junior II- Jantar com a D. Karen e o S. Sanderson.md"
+    },
+    {
+      "n": 8,
+      "title": "Priscila II: O Quarto Escuro",
+      "text": "content/diario-sobrenatural-1/capitulos/08 - Capítulo 8 - Priscila II- O Quarto Escuro.md"
+    },
+    {
+      "n": 9,
+      "title": "Pedro II: Coisas Estranhas",
+      "text": "content/diario-sobrenatural-1/capitulos/09 - Capítulo 9 - Pedro II- Coisas Estranhas.md"
+    },
+    {
+      "n": 10,
+      "title": "Kelly II: A Menina",
+      "text": "content/diario-sobrenatural-1/capitulos/10 - Capítulo 10 - Kelly II- A Menina.md"
+    },
+    {
+      "n": 11,
+      "title": "Vini II: Acusado",
+      "text": "content/diario-sobrenatural-1/capitulos/11 - Capítulo 11 - Vini II- Acusado.md"
+    },
+    {
+      "n": 12,
+      "title": "Jennifer II: Lâminas da Vida",
+      "text": "content/diario-sobrenatural-1/capitulos/12 - Capítulo 12 - Jennifer II- Lâminas da Vida.md"
+    },
+    {
+      "n": 13,
+      "title": "Junior III: Monstro na Floresta",
+      "text": "content/diario-sobrenatural-1/capitulos/13 - Capítulo 13 - Junior III- Monstro na Floresta.md"
+    },
+    {
+      "n": 14,
+      "title": "Priscila III: A Garota Desaparecida",
+      "text": "content/diario-sobrenatural-1/capitulos/14 - Capítulo 14 - Priscila III- A Garota Desaparecida.md"
+    },
+    {
+      "n": 15,
+      "title": "Pedro III: O Encantamento dos Pássaros",
+      "text": "content/diario-sobrenatural-1/capitulos/15 - Capítulo 15 - Pedro III- O Encantamento dos Pássaros.md"
+    },
+    {
+      "n": 16,
+      "title": "Kelly III: O Baile",
+      "text": "content/diario-sobrenatural-1/capitulos/16 - Capítulo 16 - Kelly III- O Baile.md"
+    },
+    {
+      "n": 17,
+      "title": "Vini III: Mandioca",
+      "text": "content/diario-sobrenatural-1/capitulos/17 - Capítulo 17 - Vini III- Mandioca.md"
+    },
+    {
+      "n": 18,
+      "title": "Jennifer III: Cadáver no Guarda-Roupas",
+      "text": "content/diario-sobrenatural-1/capitulos/18 - Capítulo 18 - Jennifer III- Cadáver no Guarda-Roupas.md"
+    },
+    {
+      "n": 19,
+      "title": "Priscila IV: Segredo de Irmãs",
+      "text": "content/diario-sobrenatural-1/capitulos/19 - Capítulo 19 - Priscila IV- Segredo de Irmãs.md"
+    },
+    {
+      "n": 20,
+      "title": "Junior IV: A Família",
+      "text": "content/diario-sobrenatural-1/capitulos/20 - Capítulo 20 - Junior IV- A Família.md"
+    },
+    {
+      "n": 21,
+      "title": "Pedro IV: D. Maria Marques e seus Gatos",
+      "text": "content/diario-sobrenatural-1/capitulos/21 - Capítulo 21 - Pedro IV- D. Maria Marques e seus Gatos.md"
+    },
+    {
+      "n": 22,
+      "title": "Kelly IV: Terror no Canavial",
+      "text": "content/diario-sobrenatural-1/capitulos/22 - Capítulo 22 - Kelly IV- Terror no Canavial.md"
+    },
+    {
+      "n": 23,
+      "title": "Vini IV: Encontro com a Morte",
+      "text": "content/diario-sobrenatural-1/capitulos/23 - Capítulo 23 - Vini IV- Encontro com a Morte.md"
+    },
+    {
+      "n": 24,
+      "title": "Jennifer IV: Registrando Eventos Sobrenaturais",
+      "text": "content/diario-sobrenatural-1/capitulos/24 - Capítulo 24 - Jennifer IV- Registrando Eventos Sobrenaturais.md"
+    },
+    {
+      "n": 25,
+      "title": "Junior V: Fitas Cassete",
+      "text": "content/diario-sobrenatural-1/capitulos/25 - Capítulo 25 - Junior V- Fitas Cassete.md"
+    },
+    {
+      "n": 26,
+      "title": "Priscila V: Maquiagem Borrada",
+      "text": "content/diario-sobrenatural-1/capitulos/26 - Capítulo 26 - Priscila V- Maquiagem Borrada.md"
+    },
+    {
+      "n": 27,
+      "title": "Kelly V: O Baile no Lago",
+      "text": "content/diario-sobrenatural-1/capitulos/27 - Capítulo 27 - Kelly V- O Baile no Lago.md"
+    },
+    {
+      "n": 28,
+      "title": "Vini V: Pai",
+      "text": "content/diario-sobrenatural-1/capitulos/28 - Capítulo 28 - Vini V- Pai.md"
+    },
+    {
+      "n": 29,
+      "title": "Jennifer V: Os Elos",
+      "text": "content/diario-sobrenatural-1/capitulos/29 - Capítulo 29 - Jennifer V- Os Elos.md"
+    },
+    {
+      "n": 30,
+      "title": "Pedro V: As Cinzas do Demônio",
+      "text": "content/diario-sobrenatural-1/capitulos/30 - Capítulo 30 - Pedro V- As Cinzas do Demônio.md"
+    },
+    {
+      "n": 31,
+      "title": "Kelly VI: Ossos do Ofício",
+      "text": "content/diario-sobrenatural-1/capitulos/31 - Capítulo 31 - Kelly VI- Ossos do Ofício.md"
+    },
+    {
+      "n": 32,
+      "title": "Ingrid I: Vamos Conhecer os Marques",
+      "text": "content/diario-sobrenatural-1/capitulos/32 - Capítulo 32 - Ingrid I- Vamos Conhecer os Marques.md"
+    },
+    {
+      "n": 33,
+      "title": "Pedro VI: Na Escuridão",
+      "text": "content/diario-sobrenatural-1/capitulos/33 - Capítulo 33 - Pedro VI- Na Escuridão.md"
+    },
+    {
+      "n": 34,
+      "title": "Vini VI: Ratos no Escuro",
+      "text": "content/diario-sobrenatural-1/capitulos/34 - Capítulo 34 - Vini VI- Ratos no Escuro.md"
+    },
+    {
+      "n": 35,
+      "title": "Jennifer VI: Armas",
+      "text": "content/diario-sobrenatural-1/capitulos/35 - Capítulo 35 - Jennifer VI- Armas.md"
+    },
+    {
+      "n": 36,
+      "title": "Junior VI: Uma Alma por Outra",
+      "text": "content/diario-sobrenatural-1/capitulos/36 - Capítulo 36 - Junior VI- Uma Alma por Outra.md"
+    },
+    {
+      "n": 37,
+      "title": "Priscila VI: Liberdade",
+      "text": "content/diario-sobrenatural-1/capitulos/37 - Capítulo 37 - Priscila VI- Liberdade.md"
+    },
+    {
+      "n": 38,
+      "title": "Jennifer VII: Diário Sobrenatural",
+      "text": "content/diario-sobrenatural-1/capitulos/38 - Capítulo 38 - Jennifer VII- Diário Sobrenatural.md"
+    }
+  ]
+}

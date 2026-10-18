@@ -1,0 +1,151 @@
+{
+  "id": "diario-sobrenatural-2",
+  "title": "A Alvorada das Ilusões",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Junior I: O Lago",
+      "text": "content/diario-sobrenatural-2/capitulos/01 - Capítulo 1 - Junior I- O Lago.md"
+    },
+    {
+      "n": 2,
+      "title": "Pedro I: O Cara-de-Larva",
+      "text": "content/diario-sobrenatural-2/capitulos/02 - Capítulo 2 - Pedro I- O Cara-de-Larva.md"
+    },
+    {
+      "n": 3,
+      "title": "Priscila I: Hamburgueria Chad Estevan",
+      "text": "content/diario-sobrenatural-2/capitulos/03 - Capítulo 3 - Priscila I- Hamburgueria Chad Estevan.md"
+    },
+    {
+      "n": 4,
+      "title": "Glenda I: A Mansão",
+      "text": "content/diario-sobrenatural-2/capitulos/04 - Capítulo 4 - Glenda I- A Mansão.md"
+    },
+    {
+      "n": 5,
+      "title": "Jennifer I: Penitenciária Estadual D. Edileno",
+      "text": "content/diario-sobrenatural-2/capitulos/05 - Capítulo 5 - Jennifer I- Penitenciária Estadual D. Edileno.md"
+    },
+    {
+      "n": 6,
+      "title": "Junior II: Revivendo o Passado",
+      "text": "content/diario-sobrenatural-2/capitulos/06 - Capítulo 6 - Junior II- Revivendo o Passado.md"
+    },
+    {
+      "n": 7,
+      "title": "Pedro II: Starman",
+      "text": "content/diario-sobrenatural-2/capitulos/07 - Capítulo 7 - Pedro II- Starman.md"
+    },
+    {
+      "n": 8,
+      "title": "Priscila II: Mente x Coração",
+      "text": "content/diario-sobrenatural-2/capitulos/08 - Capítulo 8 - Priscila II- Mente x Coração.md"
+    },
+    {
+      "n": 9,
+      "title": "Glenda II: Cobertas e Descobertas",
+      "text": "content/diario-sobrenatural-2/capitulos/09 - Capítulo 9 - Glenda II- Cobertas e Descobertas.md"
+    },
+    {
+      "n": 10,
+      "title": "Jennifer II: Dom ou Maldição",
+      "text": "content/diario-sobrenatural-2/capitulos/10 - Capítulo 10 - Jennifer II- Dom ou Maldição.md"
+    },
+    {
+      "n": 11,
+      "title": "Pedro III: De Volta para Casa",
+      "text": "content/diario-sobrenatural-2/capitulos/11 - Capítulo 11 - Pedro III- De Volta para Casa.md"
+    },
+    {
+      "n": 12,
+      "title": "Junior III: A Estrada das Sombras",
+      "text": "content/diario-sobrenatural-2/capitulos/12 - Capítulo 12 - Junior III- A Estrada das Sombras.md"
+    },
+    {
+      "n": 13,
+      "title": "Glenda III: Não Olhe para Trás",
+      "text": "content/diario-sobrenatural-2/capitulos/13 - Capítulo 13 - Glenda III- Não Olhe para Trás.md"
+    },
+    {
+      "n": 14,
+      "title": "Priscila III: Unha Encravada",
+      "text": "content/diario-sobrenatural-2/capitulos/14 - Capítulo 14 - Priscila III- Unha Encravada.md"
+    },
+    {
+      "n": 15,
+      "title": "Jennifer III: O Hospital",
+      "text": "content/diario-sobrenatural-2/capitulos/15 - Capítulo 15 - Jennifer III- O Hospital.md"
+    },
+    {
+      "n": 16,
+      "title": "Junior IV: O Anoitecer dos Alegres",
+      "text": "content/diario-sobrenatural-2/capitulos/16 - Capítulo 16 - Junior IV- O Anoitecer dos Alegres.md"
+    },
+    {
+      "n": 17,
+      "title": "Pedro IV: A Senhora da Casa na Serra",
+      "text": "content/diario-sobrenatural-2/capitulos/17 - Capítulo 17 - Pedro IV- A Senhora da Casa na Serra.md"
+    },
+    {
+      "n": 18,
+      "title": "Jennifer IV: Vitalidade",
+      "text": "content/diario-sobrenatural-2/capitulos/18 - Capítulo 18 - Jennifer IV- Vitalidade.md"
+    },
+    {
+      "n": 19,
+      "title": "Glenda IV: Atrás das Portas",
+      "text": "content/diario-sobrenatural-2/capitulos/19 - Capítulo 19 - Glenda IV- Atrás das Portas.md"
+    },
+    {
+      "n": 20,
+      "title": "Priscila IV: Terraço Itália",
+      "text": "content/diario-sobrenatural-2/capitulos/20 - Capítulo 20 - Priscila IV- Terraço Itália.md"
+    },
+    {
+      "n": 21,
+      "title": "Junior V: O Refúgio",
+      "text": "content/diario-sobrenatural-2/capitulos/21 - Capítulo 21 - Junior V- O Refúgio.md"
+    },
+    {
+      "n": 22,
+      "title": "Jennifer V: Como Amar a Vida",
+      "text": "content/diario-sobrenatural-2/capitulos/22 - Capítulo 22 - Jennifer V- Como Amar a Vida.md"
+    },
+    {
+      "n": 23,
+      "title": "Pedro V: A Clareira",
+      "text": "content/diario-sobrenatural-2/capitulos/23 - Capítulo 23 - Pedro V- A Clareira.md"
+    },
+    {
+      "n": 24,
+      "title": "Glenda V: A Casa Que Observa",
+      "text": "content/diario-sobrenatural-2/capitulos/24 - Capítulo 24 - Glenda V- A Casa Que Observa.md"
+    },
+    {
+      "n": 25,
+      "title": "Priscila V: O Erro de Amar",
+      "text": "content/diario-sobrenatural-2/capitulos/25 - Capítulo 25 - Priscila V- O Erro de Amar.md"
+    },
+    {
+      "n": 26,
+      "title": "Jennifer VI: Vozes Que Sabem Demais",
+      "text": "content/diario-sobrenatural-2/capitulos/26 - Capítulo 26 - Jennifer VI- Vozes Que Sabem Demais.md"
+    },
+    {
+      "n": 27,
+      "title": "Junior VI: Uma Alma por uma Vida",
+      "text": "content/diario-sobrenatural-2/capitulos/27 - Capítulo 27 - Junior VI- Uma Alma por uma Vida.md"
+    },
+    {
+      "n": 28,
+      "title": "Glenda VI: Predador e Presa",
+      "text": "content/diario-sobrenatural-2/capitulos/28 - Capítulo 28 - Glenda VI- Predador e Presa.md"
+    },
+    {
+      "n": 29,
+      "title": "Filipo I: A Alvorada das Ilusões",
+      "text": "content/diario-sobrenatural-2/capitulos/29 - Capítulo 29 - Filipo I- A Alvorada das Ilusões.md"
+    }
+  ]
+}

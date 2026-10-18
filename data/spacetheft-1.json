@@ -1,0 +1,116 @@
+{
+  "id": "spacetheft-1",
+  "title": "A Lenda da Aurora",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Eu sou a Lenda",
+      "text": "content/spacetheft-1/capitulos/01 - CAPÍTULO 1 - Eu sou a Lenda.md"
+    },
+    {
+      "n": 2,
+      "title": "Olho por Olho",
+      "text": "content/spacetheft-1/capitulos/02 - CAPÍTULO 2 - Olho por Olho.md"
+    },
+    {
+      "n": 3,
+      "title": "A Jornada de um Dale",
+      "text": "content/spacetheft-1/capitulos/03 - CAPÍTULO 3 - A Jornada de um Dale.md"
+    },
+    {
+      "n": 4,
+      "title": "Grandes heróis fazem escolhas difíceis",
+      "text": "content/spacetheft-1/capitulos/04 - CAPÍTULO 4 - Grandes heróis fazem escolhas difíceis.md"
+    },
+    {
+      "n": 5,
+      "title": "O começo do fim",
+      "text": "content/spacetheft-1/capitulos/05 - CAPÍTULO 5 - O começo do fim.md"
+    },
+    {
+      "n": 6,
+      "title": "De Encontro com a Morte",
+      "text": "content/spacetheft-1/capitulos/06 - CAPÍTULO 6 - De Encontro com a Morte.md"
+    },
+    {
+      "n": 7,
+      "title": "A Mão Ajudante de uma Cientista",
+      "text": "content/spacetheft-1/capitulos/07 - CAPÍTULO 7 - A Mão Ajudante de uma Cientista.md"
+    },
+    {
+      "n": 8,
+      "title": "Prisioneiro da Terra",
+      "text": "content/spacetheft-1/capitulos/08 - CAPÍTULO 8 - Prisioneiro da Terra.md"
+    },
+    {
+      "n": 9,
+      "title": "A Fera Indomável",
+      "text": "content/spacetheft-1/capitulos/09 - CAPÍTULO 9 - A Fera Indomável.md"
+    },
+    {
+      "n": 10,
+      "title": "O Senhor das Vórtices",
+      "text": "content/spacetheft-1/capitulos/10 - CAPÍTULO 10 - O Senhor das Vórtices.md"
+    },
+    {
+      "n": 11,
+      "title": "Uma Batalha Gravitacional",
+      "text": "content/spacetheft-1/capitulos/11 - CAPÍTULO 11 - Uma Batalha Gravitacional.md"
+    },
+    {
+      "n": 12,
+      "title": "A Fuga dos Piratas Ambiciosos",
+      "text": "content/spacetheft-1/capitulos/12 - CAPÍTULO 12 - A Fuga dos Piratas Ambiciosos.md"
+    },
+    {
+      "n": 13,
+      "title": "O Paraíso dos Prazeres",
+      "text": "content/spacetheft-1/capitulos/13 - CAPÍTULO 13 - O Paraíso dos Prazeres.md"
+    },
+    {
+      "n": 14,
+      "title": "Sem Coração e Sem-Cabeça",
+      "text": "content/spacetheft-1/capitulos/14 - CAPÍTULO 14 - Sem Coração e Sem-Cabeça.md"
+    },
+    {
+      "n": 15,
+      "title": "No Ritmo da Morte",
+      "text": "content/spacetheft-1/capitulos/15 - CAPÍTULO 15 - No Ritmo da Morte.md"
+    },
+    {
+      "n": 16,
+      "title": "A Princesa do Inverno",
+      "text": "content/spacetheft-1/capitulos/16 - CAPÍTULO 16 - A Princesa do Inverno.md"
+    },
+    {
+      "n": 17,
+      "title": "Da Luz às Trevas",
+      "text": "content/spacetheft-1/capitulos/17 - CAPÍTULO 17 - Da Luz às Trevas.md"
+    },
+    {
+      "n": 18,
+      "title": "O Oitavo Passageiro",
+      "text": "content/spacetheft-1/capitulos/18 - CAPÍTULO 18 - O Oitavo Passageiro.md"
+    },
+    {
+      "n": 19,
+      "title": "O Tesouro da Anã Branca",
+      "text": "content/spacetheft-1/capitulos/19 - CAPÍTULO 19 - O Tesouro da Anã Branca.md"
+    },
+    {
+      "n": 20,
+      "title": "A Verdadeira Aurora",
+      "text": "content/spacetheft-1/capitulos/20 - CAPÍTULO 20 - A Verdadeira Aurora.md"
+    },
+    {
+      "n": 21,
+      "title": "Testemunhando o Horizonte de Eventos",
+      "text": "content/spacetheft-1/capitulos/21 - CAPÍTULO 21 - Testemunhando o Horizonte de Eventos.md"
+    },
+    {
+      "n": 22,
+      "title": "O Alvorecer da Vida e da Morte",
+      "text": "content/spacetheft-1/capitulos/22 - CAPÍTULO 22 - O Alvorecer da Vida e da Morte.md"
+    }
+  ]
+}
