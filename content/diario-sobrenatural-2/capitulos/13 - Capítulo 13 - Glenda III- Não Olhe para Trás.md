@@ -1,0 +1,358 @@
+“Cada suspiro que der, cada movimento que fizer, a cada laço que quebrar, a cada passo que você der, eu vou estar te observando.”
+
+Naquela quinta-feira de manhã, eu reli o relatório inteiro do que tinha conseguido juntar sobre Vila Velha procurando por falhas. Corrigi duas frases que soavam como opinião, reorganizei as informações para que a sequência parecesse inevitável e, quando ficou com cara de verdade, fechei o ficheiro e imprimi tudo de novo.
+
+Chamei um táxi. A Paper ficava num prédio alto demais para a cidade fingir que era pequena, com vidro a mais e humildade a menos. Subi de elevador e aguardei ser chamada, como se eu fosse apenas mais uma candidata, como se eu não estivesse ali com uma história que podia explodir na mão deles.
+
+Na sala de espera, abri o notebook e tentei recolher mais alguma coisa que me desse vantagem. A internet, porém, parecia empenhada em me sabotar; lenta, instável, com aquela cara de 2003 em que um carregamento podia durar uma vida inteira e, quando finalmente abria, não era o que você precisava. Eu não me permiti irritação visível. Irritação entrega pressa. Pressa entrega fraqueza. 
+
+Quando chamaram o meu nome, eu me levantei com o nervosismo certo, aquele que as pessoas interpretam como dedicação, não como desespero. Eu sabia que levava a melhor versão do que tinha montado até ali. E, se não fosse suficiente, eu também sabia exatamente o que fazer quando uma porta não abria: eu não arrombava; eu descobria a chave.
+
+O entrevistador estava lá de novo.
+
+Ele apanhou as páginas, alinhou-as sobre a mesa com um cuidado quase teatral, como se quisesse que eu notasse que o texto, para ele, era apenas papel. Antes de ler, anunciou que ia ao WC e saiu. Três minutos é muito tempo para um homem que está no “controle”, mas eu não registrei isso com o rosto. Registrei por dentro: três minutos são o bastante para alguém receber uma chamada, ler uma mensagem, confirmar um nome.
+
+Quando voltou, sentou-se e começou a ler. Os olhos dele percorriam as linhas com a lentidão calculada de quem quer que o outro lado se sinta pequeno. Era um jogo simples: ele precisava que eu acreditasse que a aprovação dele era um milagre, não um processo. Eu deixei. Algumas pessoas só funcionam bem quando pensam que estão por cima.
+
+Quando terminou, largou os papéis na mesa como se largasse um embrulho sem valor. Olhou para mim sem expressão por alguns segundos, e eu devolvi uma expressão limpa, quase neutra, porque ansiedade é um convite e eu não tinha intenção de convidá-lo para dentro da minha cabeça.
+
+— Então? — eu perguntei, oferecendo um sorriso que não pedia, apenas marcava presença.
+
+Ele respirou fundo, com a calma de quem vai esmagar algo.
+
+— Isso não serviria nem para uma mini manchete. O conteúdo não é ruim, mas eu acreditava que, depois daquela nossa conversa, você trouxesse algo mais estruturado. Se quer trazer uma notícia como essa, fundamente melhor. Traga personagens. Cite fontes. Nós não somos do tipo que publica qualquer historinha pra ganhar seguidor. Somos a rede de jornais mais vendidos do país.
+
+Eu já tinha ouvido isso de outros homens antes — o “nós” como martelo, a marca como escudo. Não era sobre a Paper. Era sobre ele, e sobre o prazer de dizer “não” como se fosse uma dádiva.
+
+— Eu sei exatamente quem vocês são — respondi, com a voz no ponto certo entre respeito e firmeza. — E é por isso que eu dediquei dezenas de horas a este artigo.
+
+Ele inclinou a cabeça, como se eu tivesse dito algo fofo.
+
+— Glenda… nós queremos tragédia. Notícias impactantes. Coisas que prendam a atenção. Escreva com dupla interpretação: para os mais entusiasmados, choque-os; para os mais desconfiados, dê o máximo de informação possível. Não basta trazer a notícia. A escrita não está ruim, mas ainda não é suficiente.
+
+Eu deixei a pergunta sair com hesitação medida, porque hesitação, às vezes, obriga o outro a se explicar e, quando alguém se explica demais, revela o que realmente quer.
+
+— Não é suficiente para quê?
+
+Ele ergueu as folhas de novo, como se o papel lhe desse autoridade, e me fitou.
+
+— Desculpe… não fui bem claro?
+
+— Não. Não está nada claro. Na verdade, até este momento eu não sei nem o seu nome — eu disse, com uma delicadeza que soava educada, mas tinha lâmina.
+
+Ele sorriu, mínimo.
+
+— Rodrigo.
+
+Eu guardei o nome com a facilidade de quem guarda uma ameaça: rápido e no lugar certo.
+
+— Glenda — continuou ele — você precisa lidar melhor com a sua ansiedade. Ela diminui suas habilidades, faz você parecer uma menininha confusa. Nós ainda estamos aqui pelo que você me mostrou no domingo. Se fosse pelo que eu vi hoje, você já estaria voltando pra casa.
+
+Eu assenti, olhando nos olhos dele tempo suficiente para que ele sentisse que eu estava a ouvir, mas não tempo demais a ponto de parecer dependente. Esse tipo de homem confunde respeito com submissão; eu nunca lhes dou a segunda. 
+
+Rodrigo suspirou, levantou-se e rodeou a mesa, como se estivesse encerrando algo grande. 
+
+— Preocupe-se menos com a vaga e mais em me trazer um texto de qualidade. A vaga ainda vai continuar livre… por pouco tempo. Dessa vez eu não vou te dar prazo. Mas saiba que, se alguém melhor aparecer, eu não hesito em contratar.
+
+A mensagem era clara: ele queria que eu corresse. Queria que eu tropeçasse. Queria que eu implorasse. Eu não lhe dei nada disso.
+
+Levantei-me com uma derrota que parecia real demais para ser encenação, e isso o satisfez. Homens como ele gostam de ver o efeito das palavras no corpo das pessoas; dá a eles a sensação de comando. 
+
+— É isso — ele disse, indicando a saída.
+
+Eu saí do prédio e, assim que a rua me devolveu o ar, o corpo finalmente cobrou o preço de manter a postura. Não era emoção. Era química. Eu precisava da vaga. Precisava porque era o caminho mais rápido para o tipo de acesso que eu queria. E, naquele momento, Rodrigo tinha-me dado duas coisas: a recusa e a fórmula. Tragédia, impacto, estrutura, fontes, personagens. Dupla interpretação. Eu podia fazer isso. Eu só precisava de material.
+
+Quando cheguei à mansão de Diego, comi uma fruta qualquer no caminho para disfarçar o tremor das mãos e subir de volta ao meu quarto com a naturalidade de quem teve um “dia normal”. Eu não queria perguntas. Perguntas geram atenção. Atenção é risco.
+
+Fechei a porta do quarto e sentei na cama. Então o corpo resolveu lembrar que eu também era carne: o coração acelerou, a garganta apertou, a náusea veio como um castigo rápido. Eu tentei controlar a respiração, mas a tontura atravessou o esforço e, antes que eu conseguisse chegar ao cesto, o que eu tinha comido voltou para o chão.
+
+Eu odiei aquilo com uma raiva limpa, silenciosa. Não por vergonha — vergonha é inútil — mas porque perder o controle do corpo é um desperdício de tempo.
+
+Apoiei as mãos na cabeça, respirei fundo, e foi então que bateram na porta.
+
+— Quem é? — perguntei, com a voz falha. Limpei a garganta e repeti, melhor. — Quem é?
+
+— É a Tereza — respondeu uma voz do outro lado.
+
+Tereza.
+
+Eu sequei os lábios com um lenço, abri a porta com um rosto que não mostrava o chão, e vi uma senhora baixa, de cabelos curtos e enrolados, a olhar para mim com aquele tipo de curiosidade que se finge caridade.
+
+— Oi, querida — ela disse. — Ainda não fomos apresentadas. Eu me chamo Tereza, sou empregada do Sr. Tavolieri. Voltei de férias hoje. Ele me mandou uma mensagem me contando sobre você. Você veio pra cá então tentar uma vaga na Paper?
+
+— Vim — respondi, e deixei claro o incômodo só na escolha de palavras. — Não é algo que eu gostaria que ele espalhasse.
+
+Ela riu, como se a indiscrição fosse uma qualidade simpática.
+
+— O Sr. Diego fala demais, não é? Mas não se preocupe. Eu não costumo falar da vida das pessoas. Isso morre aqui comigo. E então… como está o processo? Já enviou currículo?
+
+— Hoje eu fiz um tipo de teste — falei, observando como ela reagia à palavra “teste”. Gente que trabalha em casa de rico aprende rápido o valor da informação.
+
+Os olhos dela brilharam.
+
+— Sério? Que ótima notícia. E você passou?
+
+Eu deixei o “não” sair sem drama, porque drama atrai pena, e pena atrai perguntas.
+
+— Não. Mas ainda vou ter outra chance.
+
+— Vai dar certo — ela disse, como se fé fosse uma ferramenta. — Tenha fé no Senhor, que tudo dá certo, menina. Você parece ser muito boa, e seu tio te elogiou bastante.
+
+“Seu tio.” A palavra ficou na minha cabeça como um erro voluntário. Diego não era meu tio, mas eu não corrigi. Correções, às vezes, convidam conversa. Eu preferia recolher informação.
+
+— Ele me elogiou? O que mais ele falou de mim?
+
+Ela sorriu, satisfeita por ter algo a oferecer.
+
+— Ah… disse só coisa boa. Disse que você era a sobrinha favorita dele, que era linda, inteligente, e que tinha um futuro brilhante.
+
+Isso não era elogio. Era posse. Eu guardei.
+
+— Que ótimo — eu respondi, com um sorriso que parecia agradecido o bastante para não soar ofensivo. — É bom ver que alguém tem algo bom pra falar de mim.
+
+Tereza ficou parada, olhando para mim com uma espécie de hesitação.
+
+— A senhora precisa que eu saia do quarto pra limpar? — perguntei, oferecendo a saída fácil.
+
+— Não… não é isso, querida. É só que… deixa quieto. Tenha um ótimo dia — ela disse, e foi embora.
+
+Eu acompanhei com os olhos até que ela descesse as escadas. Quando a porta fechou, o ar no quarto voltou a ser só meu. O vômito no chão era só um problema prático; eu cobri com um pano e deixei para lidar depois. Prático primeiro, emocional nunca.
+
+Corri para o notebook e voltei à internet, porque Rodrigo tinha sido claro: tragédia prende. E eu precisava de tragédia real. Pesquisei casos de espíritos vingativos, mas também de pessoas vingativas. A crueldade humana é sempre um bom espelho; às vezes, o sobrenatural só imita. Li uma história de um garoto que matou o próprio irmão porque ele se envolveu com a namorada dele. Quinze anos. O pior era a forma, e eu me obriguei a interromper antes que detalhes inúteis ocupassem espaço.
+
+Foi então que o MSN abriu uma janela.
+
+Alguém que eu não reconhecia.
+
+A pessoa não disse “oi”. Não perguntou nada. Apenas mandou um link.
+
+Eu digitei: “Qm eh vc?”
+
+Nenhuma resposta.
+
+Eu fiquei a olhar para o link como quem olha para uma faca sobre uma mesa: não é o objecto que importa, é a intenção de quem colocou ali. Alguém queria que eu visse aquilo. E, se alguém queria, era porque era útil. Eu cliquei.
+
+A página abriu num site chamado Cabuloso. E o caso estava ali, exposto com a falta de vergonha típica de certos lugares da internet, onde o choque é moeda.
+
+“Lucinda Torres.
+Causa de Morte: Atropelada por um Trem.”
+
+O texto dizia que o corpo fora encontrado em pedaços nas beiras da linha em Casa dos Pinhais. Que a polícia suspeitou de suicídio, mas havia hematomas nos pedaços ainda inteiros, como se alguém tivesse batido nela antes. Os moradores de Alvorada Alegre diziam que Lucinda participava de cultos satânicos e artes místicas. “Há quem acredite que Lucinda sacrificou sua vida para trazer um demônio de volta.”
+
+Quando desci a página, a minha mão foi à boca por instinto, não por nojo. As fotos estavam ali, sem censura. O corpo destroçado, a realidade exposta como um troféu. Numa das imagens, no braço, uma tatuagem: uma estrela de Davi.
+
+Eu não me detive no símbolo pelo que ele significava religiosamente. Eu me detive porque, em histórias assim, símbolos são pistas. As pessoas escolhem marcas quando querem pertencer a algo, ou quando querem que algo as encontre.
+
+O texto continuava:
+
+“Lucinda relatava aos moradores locais que via coisas sobrenaturais. Ela dizia que os espelhos eram as portas do Inferno e que as criaturas que ela via neles a perseguiam. Lucinda dizia que este ser era capaz não só de aparecer para ela, como de interagir no mundo real, e que já havia tentado lhe matar diversas vezes.”
+
+Foi nesse ponto que a minha mente fez o que sempre faz quando uma informação encaixa: ela avançou sozinha. Eu conhecia aquela sensação. O pressentimento pesado, o fio invisível que puxa algo antigo dentro de mim. Não era apenas medo; era reconhecimento. Eu não era a única.
+
+A porta do quarto recebeu uma pancada forte e uma voz gritou meu nome.
+
+— GLENDA!
+
+Eu quase escorreguei da cama no impulso. A primeira coisa que fiz foi olhar para o espelho do guarda-roupas para confirmar se ainda estava coberto. Estava. Só então eu abri a porta.
+
+Jason.
+
+— Oi — ele disse, como se as pessoas não entendessem o quão irritante é ser arrancada de um raciocínio.
+
+— Da próxima vez que você bater assim, eu te esgano — eu rosnei, deixando sair um pouco de irritação verdadeira, porque com ele eu podia permitir esse luxo.
+
+Jason riu.
+
+— Te assustei foi? Prima, tô de saída. Tenho uns preparativos pra fazer.
+
+— Preparativos?
+
+— Pra uma pessoa.
+
+Eu já sabia.
+
+— Priscila?
+
+Ele sorriu e confirmou.
+
+— Vai com calma — eu disse, no tom certo para parecer conselho e, ao mesmo tempo, marcar território. — Não se entrega desse jeito. Você nem sabe se ela superou o ex.
+
+O sorriso dele deu uma rachada.
+
+— De novo esse assunto, Glenda. Já chega.
+
+— Tá, tá. Vai lá. Se diverte. Depois me conta.
+
+— Obrigado. Se precisar de alguma coisa… me liga, ok?
+
+Eu forcei um sorriso só o suficiente para ele ir embora com a sensação de que era importante.
+
+— Tá, tá.
+
+Jason saiu. Eu fechei a porta quase inteira quando o corpo decidiu ser corpo de novo: bexiga cheia. Ótimo. Pelo menos isso era simples.
+
+Peguei a filmadora na mochila — eu vinha gravando o meu vlog como parte do plano. Imagem, voz, registro. O que não é registado pode ser negado, e eu não tinha intenção de deixar o mundo negar as coisas que eu via. Saí do quarto e fui até o banheiro do piso superior.
+
+Era imenso. Banheira grande, mármore, e uma parede com um espelho enorme. Eu o cobri rápido com uma toalha de mão, num gesto automático que já fazia parte do meu dia, como apagar luz ao sair do quarto.
+
+Sentei no vaso e olhei para o chão, porque, desde Lucinda, a palavra “espelho” tinha criado raízes dentro da minha cabeça. Portas do inferno. Criaturas que perseguem e interagem no mundo real. Tentativas de matar.
+
+Enquanto eu esvaziava a bexiga, a pedra do meu colar começou a emitir uma luz forte. Laranja, viva. Eu sabia o que isso significava antes mesmo de sentir o arrepio.
+
+— Droga — eu murmurei, e o murmúrio não foi medo, foi irritação. Porque o sobrenatural, quando aparece, interrompe planos. E eu odiava interrupções.
+
+Eu me limpei rápido, puxei a roupa com pressa controlada, pronta para sair dali. Foi quando as luzes se apagaram.
+
+A pedra no meu peito virou a única fonte de luz.
+
+E então as luzes voltaram.
+
+Eu virei, e a primeira coisa que vi foi o espelho descoberto. A toalha tinha desaparecido. Não caído. Desaparecido. A diferença é vital.
+
+Corri para a porta e tentei abrir. Trancada. Eu não lembrava de ter trancado, mas a memória, sob stress, é uma coisa frágil. Eu testei a maçaneta de novo, com força. Nada.
+
+As luzes apagaram outra vez, e o meu coração acelerou. O laranja do colar pulsava como se fosse um alerta.
+
+Eu me aproximei do espelho, não por coragem, mas por necessidade. Se havia algo, eu precisava medir distância, forma, intenção. No reflexo, atrás de mim, apareceram dois pontos claros, altos demais para serem humanos normais. Olhos. A cerca de dois metros do chão. O corpo era distorcido, como se a imagem não suportasse a forma completa.
+
+Eu puxei a maçaneta com as duas mãos, forcei, e, quando nada cedeu, gritei.
+
+— SOCORRO!
+
+As luzes acenderam de novo. O reflexo voltou a mostrar só o meu corpo e o banheiro vazio. Só que agora, a claridade durou pouco. Quando apagou pela terceira vez, o silêncio ficou pesado demais.
+
+Eu tentei acender a luz, tentei abrir a porta. Não adiantava.
+
+Corri para perto da banheira e fechei os olhos, repetindo uma frase que eu nem acredito quando digo, mas que, às vezes, funciona como âncora:
+
+“Não há nada aqui. Eu estou tranquila. Não há nada aqui.”
+
+A respiração veio de algum lugar. Pesada. De um homem grande. Não era imaginação; era som com volume, com peso, com posição no espaço.
+
+Então ouvi um clique, como se a porta tivesse destrancado.
+
+Eu abri os olhos e caminhei a passos curtos até ela. A respiração parecia mais próxima, mais grossa, como se o ar fosse puxado por um peito enorme.
+
+Eu puxei a porta com tudo e saí.
+
+O corredor estava escuro. Cortinas fechadas. A mansão de Diego era o tipo de lugar que, com cortinas abertas, parecia uma vitrine de luxo; com cortinas fechadas, virava uma caverna. Apenas um filete de luz atravessava uma fresta e desenhava faixas no chão.
+
+Eu virei para fechar a porta. Vi a minha filmadora na pia, lá dentro. Eu não podia deixá-la. Não por valor. Por prova.
+
+Peguei a filmadora e liguei a visão nocturna. A tela ficou verdeada, e aquele verde, naquele momento, era segurança. A câmera via o que meus olhos não viam.
+
+Eu apontei para dentro do banheiro. Nada.
+
+Apontei para o corredor. O verde mostrou volumes, móveis, sombras.
+
+Quando eu baixei a câmera e virei o rosto para seguir em direcção à escada, ele estava ali.
+
+O homem gordo e muito alto que me atormentava desde sempre.
+
+Um facão do tamanho do meu tronco na mão. Pingando sangue.
+
+Cabeça careca. Olhos completamente brancos. Pele em carne viva, com ossos expostos em alguns pontos, como se o corpo tivesse sido montado e desmontado várias vezes. Sem lábios, os dentes pontudos totalmente à mostra, como os de um tubarão.
+
+O pânico não veio como grito. Veio como choque eléctrico nas pernas. Eu gritei mesmo assim porque gritar, às vezes, chama gente. E gente significa interrupção.
+
+Ele ergueu o facão. Eu caí no chão no exacto instante em que a lâmina acertou o piso, e o barulho do impacto atravessou o corredor como um trovão dentro de casa. Ele respirava pesado e gritava a cada passo, com pressa de me acertar, com fome.
+
+Eu corri para a escada, e ele veio atrás, esbarrando em tudo, destruindo o silêncio. Quando senti a lâmina cortar o ar perto de mim, eu me abaixei e caí de novo. A filmadora voou da minha mão, bateu em algo, e eu não parei para ver se quebrou. Eu não tinha tempo para luto por objecto.
+
+Subi os primeiros degraus num salto, depois desci — porque eu tinha percebido: ele me empurrava para cima, para me encurralar. Eu não lhe daria essa vantagem.
+
+O local ficou um pouco mais iluminado, mas isso não o desacelerou. Olhei para trás enquanto descia e vi que ele corria como se eu fosse exactamente o que ele queria desde o início: a presa perfeita.
+
+— QUE MERDA VOCÊ QUER DE MIM? — eu gritei, não para ele, mas para o universo, porque o universo gosta de brincar com perguntas sem resposta.
+
+As minhas pernas não foram rápidas o suficiente. Ele esticou a mão e tocou em mim, e o toque foi gelado e pesado, como se a mão fosse feita de coisa velha. Eu perdi o equilíbrio e caí da escada.
+
+Bati o rosto no chão ao alcançar o térreo. A dor explodiu na mandíbula e o sangue do nariz respingou no piso. Eu me levantei como se o corpo não fosse meu e corri para a porta de entrada.
+
+Eu a abri e dei de cara com Diego.
+
+— Glenda? O que…
+
+— SAI DA FRENTE, ELE VAI NOS MATAR! — eu gritei, tentando passar.
+
+Diego segurou meu braço.
+
+— ME LARGA! — eu o soco forte demais, e ele soltou no mesmo instante. O soco não foi raiva. Foi instinto. Instinto também é uma ferramenta quando não dá tempo de pensar.
+
+Eu virei para trás, pronta para ver o facão descendo, pronta para ver o sangue a aparecer, pronta para ver o caos… e não havia nada.
+
+Nada.
+
+A casa estava intacta. Nenhum móvel virado. Nenhuma marca no corredor. Só eu, ofegante, com sangue no rosto e a respiração a falhar.
+
+Diego levou a mão à boca.
+
+— Mas que porra foi essa? — ele perguntou. — Você me bateu.
+
+A boca dele sangrava. Eu tinha acertado bem.
+
+Eu não respondi de imediato porque ainda estava a tentar convencer o corpo de que não precisava fugir de um homem que não estava ali. A sensação de perigo ainda vibrava sob a pele.
+
+— Como você se machucou? — Diego perguntou, entrando e fechando a porta, como se fechar portas fosse afastar coisas invisíveis.
+
+— Eu… caí da escada — eu disse.
+
+Ele foi até uma gaveta na cozinha, sem pressa. Quem tem poder nunca tem pressa.
+
+— E por que você estava correndo desesperada? — ele perguntou. — Quem vai nos matar?
+
+Eu precisava de uma explicação que não parecesse loucura e que, ao mesmo tempo, não me colocasse como ameaça. Eu precisava de algo que deixasse Diego no papel de protector. Homens como ele gostam desse papel.
+
+— Eu… achei que tinha alguém aqui dentro. Achei que… alguém tinha invadido a casa. Eu corri e caí.
+
+Diego riu, curto.
+
+— Querida, minha mansão é uma fortaleza. Ninguém seria maluco de invadir minha casa. E sem contar…
+
+Ele levantou a blusa e exibiu uma pistola prateada.
+
+— …que eu não ando desprevenido nunca.
+
+Eu forcei uma culpa que não era culpa. Culpa baixa guardas. Guardas baixas abrem portas.
+
+— Me desculpa. Eu fui uma idiota.
+
+— Não… que isso! — ele disse, pegando um paninho. Caminhou até mim, e a proximidade dele fez o meu corpo querer recuar, mas a minha cabeça mandou ficar.
+
+Não porque eu gostasse. Porque eu entendia.
+
+Diego levou o pano ao meu rosto e limpou o sangue do meu nariz com cuidado demais, como quem toca para marcar território, não para ajudar. Eu senti vontade de me afastar, mas eu não dei esse prazer ao meu instinto. Instinto, às vezes, denuncia. Eu precisava ser opaca.
+
+Quando ele terminou, sorriu.
+
+— Vamos. Eu te levo até seu quarto. Não precisa se preocupar. Está tudo bem agora.
+
+Ele abriu espaço para que eu subisse primeiro. Eu subi com calma, como se nada tivesse acontecido. No chão, vi as manchas de sangue da minha queda.
+
+— Não se preocupe — disse Diego. — Eu aviso a D. Tereza pra limpar depois. Aliás, creio que já foram apresentadas, certo?
+
+Eu confirmei com um movimento de cabeça. A casa estava estranhamente normal. Não havia nada destruído. E isso era pior do que destruição, porque significava que o horror podia existir sem deixar marcas.
+
+Na porta do meu quarto, Diego segurou a minha mão antes que eu entrasse. Sorriu de novo. Entrou comigo e fechou a porta.
+
+— Enquanto estiver sob meu teto, estará segura, Glenda.
+
+Ele estava perto demais. O rosto dele desceu, e eu senti mais uma vez a vontade de me afastar, como se o corpo tentasse me salvar. Mas eu não me afastei.
+
+Fechei os olhos quando senti os lábios dele nos meus, a barba arranhando a pele, o beijo como um acto de posse disfarçado de carinho. Eu não retribuí. Eu não neguei. Eu fiquei imóvel, porque imobilidade, naquele momento, era estratégia. E estratégia era tudo o que eu tinha.
+
+Ele se afastou, manteve-se ali a olhar para mim por alguns segundos e disse, com uma naturalidade assustadora:
+
+— Você ficou tão linda… filha de minha irmã. Tinha de ser mesmo.
+
+Depois recuou, abriu a porta e saiu, sem desviar o olhar um único segundo. Eu permaneci na entrada por quase um minuto, ainda em choque, não pelo beijo em si, mas pela certeza de que ele achava aquilo normal.
+
+Quando o corredor ficou vazio, eu fui para o banheiro do mesmo piso e tranquei a porta. Ali não havia espelho nenhum, e, mesmo assim, eu já não sentia pavor do sobrenatural.
+
+O pavor tinha mudado de lugar.
+
+Sentei no vaso e, aos poucos, uma tranquilidade estranha me acometeu, como se o corpo tivesse desistido de lutar e, por isso, descansasse. Eu comecei a rir. Não uma risada bonita, nem baixa, nem controlada. Eu ri como se fosse outra pessoa. Como se eu estivesse a assistir à minha própria vida e finalmente entendesse a piada.
+
+Porque era isso: o horror podia correr atrás de mim com um facão, mas a coisa que me beijou sem permissão tinha um nome, uma casa, uma arma e uma reputação, e ainda assim o mundo chamava aquilo de “segurança”.
+
+E eu sabia, com uma clareza quase confortável, que ninguém ia salvar-me de nenhum dos dois. Se eu quisesse sobreviver, eu teria de fazer o que sempre fiz: observar, calcular, fingir o que fosse necessário e, quando a oportunidade aparecesse, punir do meu jeito.
