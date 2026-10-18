@@ -214,8 +214,6 @@ Explicavam também por que ele dormia fora do círculo, escondia comida e tratav
 
 Mas não transformavam aquilo em desculpa.
 
-
-
 Ela apertou a adaga.
 
 Jokara olhou para Gabasteri e pensou no pai.

@@ -512,8 +512,6 @@ Savel sorriu de leve, sem alegria.
 
 — Porque eu era prova.
 
-
-
 — Prova de quê? — perguntou Kaelina, embora já soubesse.
 
 — De que o nome dele tinha costura. De que a Raiz dele foi plantada depois. De que, antes de ser Daryon Polar, ele foi só um menino com fome e pai sem sobrenome entrando numa vila que aceitou fingir por conveniência.
