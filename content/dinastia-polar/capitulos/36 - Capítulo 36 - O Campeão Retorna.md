@@ -150,7 +150,7 @@ Uma celebração que reunia representantes das dez dinastias dentro de Kaendar e
 
 O salão principal de Kaendar recebeu a celebração no fim da tarde como o centro exato de Jesed que Vetarius sempre quisera provar que Kaeliran podia ser. As lamparinas já estavam acesas, mas pelas janelas altas ainda entrava a claridade cinzenta do lado de fora.
 
-Não parecia reunião secreta nenhuma. Figuras importantes de todas as dinastias ocupavam as mesas mais próximas do centro: Vetarius, Dareth, Amaric, o Sumo Vigia, Alveris, Corvis ao lado dele, os membros mais relevantes do Conselho de Kaeliran, representantes e soberanos estrangeiros, Saelira entre os próprios Buldar, outras lideranças cuja presença fazia todo o sentido depois de um torneio daquele tamanho.
+Não parecia reunião secreta nenhuma. Figuras importantes de todas as dinastias ocupavam as mesas mais próximas do centro: Vetarius, Dareth, Amaric, o Sumo Vigia, Alveris, Corven ao lado dele, os membros mais relevantes do Conselho de Kaeliran, representantes e soberanos estrangeiros, Saelira entre os próprios Buldar, outras lideranças cuja presença fazia todo o sentido depois de um torneio daquele tamanho.
 
 Selina continuava sendo a ausência mais evidente para Dareth. Caeren já tinha sido retirado, e ninguém comentou nada sobre isso além de uma frase qualquer sobre o rapaz estar cansado. Kerath trabalhava do lado de fora.
 
@@ -186,7 +186,7 @@ Ergueu a própria taça mais alto.
 
 — Que todos bebam.
 
-O salão inteiro levantou as taças ao mesmo tempo. Dareth também, sem beber quase nada. Vetarius bebeu. Amaric bebeu. O Sumo Vigia bebeu. Alveris bebeu. Corvis bebeu. O Conselho inteiro bebeu. Os representantes estrangeiros beberam, um por um, em volta das próprias mesas.
+O salão inteiro levantou as taças ao mesmo tempo. Dareth também, sem beber quase nada. Vetarius bebeu. Amaric bebeu. O Sumo Vigia bebeu. Alveris bebeu. Corven bebeu. O Conselho inteiro bebeu. Os representantes estrangeiros beberam, um por um, em volta das próprias mesas.
 
 Alveris observou Vetarius beber com uma satisfação discreta, quase invisível para qualquer um que não estivesse prestando atenção exatamente naquele rosto.
 
@@ -201,7 +201,7 @@ Dareth segurou um homem que tentava se levantar, gritou por ajuda, voltou-se par
 
 O Sumo Vigia continuou dando ordens por mais alguns instantes, mandando chamar curadores, proteger Vetarius e fechar o salão. Alguns Filhos da Raiz obedeceram; outros permaneceram nos corredores sem entrar, e dois simplesmente desapareceram de vista. O Sumo repetiu a ordem, agora com a voz falhando, e caiu no meio da frase.
 
-Foi então que Dareth viu Alveris. Ainda estava de pé, observando a mesa central com uma expressão que pareceu satisfeita por um instante. A satisfação desapareceu quando Corvis levou a mão ao peito e escorregou da cadeira. Alveris olhou para Amaric no chão, para o Sumo Vigia, para Vetarius, depois para a própria taça. Levou a mão à garganta e procurou Saelira do outro lado do salão. Ela não sorriu nem confirmou coisa alguma; apenas sustentou o olhar enquanto ele caía de joelhos e depois de vez. Nenhum dos Buldar próximos correu para ajudá-lo. Vetarius não morreu de imediato.
+Foi então que Dareth viu Alveris. Ainda estava de pé, observando a mesa central com uma expressão que pareceu satisfeita por um instante. A satisfação desapareceu quando Corven levou a mão ao peito e escorregou da cadeira. Alveris olhou para Amaric no chão, para o Sumo Vigia, para Vetarius, depois para a própria taça. Levou a mão à garganta e procurou Saelira do outro lado do salão. Ela não sorriu nem confirmou coisa alguma; apenas sustentou o olhar enquanto ele caía de joelhos e depois de vez. Nenhum dos Buldar próximos correu para ajudá-lo. Vetarius não morreu de imediato.
 
 No início, ainda tentou agir como soberano, ordenando ajuda com o resto de autoridade que ainda conseguia colocar na própria voz. Tentou se levantar. As pernas falharam antes de completar o movimento.
 
@@ -230,7 +230,7 @@ Os representantes das outras dinastias não estavam morrendo. Alguns tinham recu
 
 Não sabia dizer quem, ali, tinha sabido de alguma coisa antes daquele brinde, e quem só tinha sobrevivido por sorte. Não tinha como saber.
 
-No chão: Vetarius. Amaric. O Sumo Vigia, a faixa escura dos olhos borrada sobre o branco. Alveris. Corvis. Conselheiros que Dareth conhecia havia anos. Boa parte da elite de Kaeliran, espalhada entre mesas derrubadas e taças quebradas.
+No chão: Vetarius. Amaric. O Sumo Vigia, a faixa escura dos olhos borrada sobre o branco. Alveris. Corven. Conselheiros que Dareth conhecia havia anos. Boa parte da elite de Kaeliran, espalhada entre mesas derrubadas e taças quebradas.
 
 Recuou, devagar, até perto de uma das portas laterais. Pelo vão, viu as lamparinas acesas no pátio e a névoa apagando as pontes ao longe. Ainda havia claridade atrás dela, cada vez menos. Olhou para todos eles.
 
