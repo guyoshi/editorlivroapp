@@ -626,8 +626,6 @@ Kaelina o fitou por um instante.
 
 — Porque geralmente as pessoas usam palavras como armas. E por isso devo ter muito cuidado com o que falo.
 
-Kaelina conteve a irritação.
-
 — Kaendar não é receptiva com estrangeiros — disse ela. — Principalmente os que aparecem depois da morte dos dois rapazes, de Yvenn e de uma tentativa contra minha vida.
 
 — Kaendar não é receptiva nem com os próprios filhos quando eles nascem no anel errado.
