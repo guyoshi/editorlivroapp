@@ -277,6 +277,10 @@ Atravessaram o limite da aldeia por rotas menos iluminadas, trilhas que só os e
 
 Atravessaram as pontes de raízes entre as ilhas. A madeira viva rangia a cada passo. Jokara ia à frente, testando cada passo antes de seguir. Loutes ia atrás, sem fazer barulho. No Sopro do Silêncio, um pé mal colocado bastaria para lançá-los a nadírion.
 
+Acima das ilhas, o céu era de um azul tão fundo que as estrelas pareciam suspensas em alturas diferentes. Havia milhares delas, espalhadas até onde Jokara conseguia olhar, e uma faixa de luz miúda atravessava a escuridão. Mais abaixo, as nuvens escondiam a superfície. Das aldeias distantes, viam-se apenas as luzes das casas entre os contornos negros das árvores.
+
+Mirel dizia que as estrelas lembravam os Sopros que já tinham retornado às Correntes. Quando pequena, Jokara procurava a mais brilhante antes de dormir. Naquela travessia, ergueu o rosto por alguns instantes, até o rangido da ponte fazê-la olhar de novo para os próprios pés.
+
 Quando alcançaram o limite do bosque, Jokara parou. Havia tochas acesas entre as árvores, luzes estáticas demais para serem de caçadores ou andarilhos. Ouviam-se vozes abafadas de oradores.
 
 Entre elas, uma fórmula em Levis se repetia:

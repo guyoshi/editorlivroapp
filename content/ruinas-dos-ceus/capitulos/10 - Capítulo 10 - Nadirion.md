@@ -162,7 +162,9 @@ Loutes se deitou junto e fechou os olhos. Jokara não conseguiu dormir. Toda vez
 
 A floresta não dormia. Um estalo seco, perto demais, três vezes seguidas. Um cheiro de ferro que vinha e ia.
 
-Olhou para cima. As copas tapavam o céu. Não se via uma estrela.
+Olhou para cima. As copas tapavam quase todo o céu; nas poucas frestas entre os galhos, só conseguiu distinguir nuvens. Não se via uma estrela. Em Etérea, elas enchiam o azul escuro acima das ilhas. Ali, Jokara procurou por muito tempo um único ponto de luz.
+
+Lembrou-se do que a mãe dizia sobre os Sopros que retornavam às Correntes. Sabia que as estrelas ainda deviam estar lá, acima das árvores e das nuvens. Queria conseguir enxergar uma.
 
 Naquela manhã, tinha acordado em Etérea.
 

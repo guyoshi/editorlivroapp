@@ -202,7 +202,7 @@ E saiu.
 
 Jokara adormeceu tarde naquele Sopro do Silêncio.
 
-Acordou sem saber por quê. A janela, ligeiramente entreaberta, revelava o Sopro do Silêncio limpo, pontuado por estrelas. Jokara ergueu-se o suficiente para espiar.
+Acordou sem saber por quê. Pela janela entreaberta, viu o azul profundo do Sopro do Silêncio, cheio de estrelas. Eram tantas que, em alguns trechos, a luz parecia formar uma poeira clara. Jokara ergueu-se o suficiente para espiar. Entre o céu e as nuvens mais baixas, as ilhas distantes eram recortes negros, marcados aqui e ali pelas luzes das casas.
 
 Na distância, além da neblina que cobria os vales profundos entre as ilhas flutuantes, uma das plataformas distantes, talvez Velhara ou Tinor, tremia. Um tremor pequeno, quase imperceptível. Então um pedaço da borda daquela ilha, grande como uma aldeia inteira, rompeu-se em silêncio e desabou para o abismo.
 
