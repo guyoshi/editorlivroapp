@@ -5,16 +5,20 @@
       "title": "Ruínas dos Céus",
       "subtitle": "Ciclo de Jesed — Livro 1",
       "manifest": "data/ruinas-dos-ceus.json",
-      "cover": "assets/covers/ruinas-dos-ceus.webp",
-      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/"
+      "cover": "assets/covers/ruinas-dos-ceus.webp?v=364dab88928ca831",
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/",
+      "series": "Ciclo de Jesed",
+      "order": 1
     },
     {
       "id": "guerras-de-sangue",
       "title": "Guerras de Sangue",
       "subtitle": "Ciclo de Jesed — Livro 2",
       "manifest": "data/guerras-de-sangue.json",
-      "cover": "assets/covers/guerras-de-sangue.webp",
-      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/guerras-de-sangue/"
+      "cover": "assets/covers/guerras-de-sangue.webp?v=389a6bf226f26937",
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/guerras-de-sangue/",
+      "series": "Ciclo de Jesed",
+      "order": 2
     },
     {
       "id": "dinastia-polar",
@@ -22,8 +26,10 @@
       "subtitle": "Ciclo de Jesed — Livro 3",
       "manifest": "data/dinastia-polar.json",
       "signupAvailable": false,
-      "cover": "assets/covers/dinastia-polar.webp",
-      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/"
+      "cover": "assets/covers/dinastia-polar.webp?v=65b8b9404a392d80",
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/",
+      "series": "Ciclo de Jesed",
+      "order": 3
     },
     {
       "id": "herdeiros-das-cinzas",
@@ -31,63 +37,91 @@
       "subtitle": "Ciclo de Jesed — Livro 4",
       "manifest": "data/herdeiros-das-cinzas.json",
       "signupAvailable": false,
-      "cover": "assets/covers/herdeiros-das-cinzas.webp"
+      "cover": "assets/covers/herdeiros-das-cinzas.webp?v=a49104d6673bdf70",
+      "series": "Ciclo de Jesed",
+      "order": 4,
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/herdeiros-das-cinzas/"
     },
     {
       "id": "diario-sobrenatural-1",
       "title": "Os Elos das Sombras",
       "subtitle": "Diário Sobrenatural — Livro 1",
       "manifest": "data/diario-sobrenatural-1.json",
-      "cover": "assets/covers/diario-sobrenatural-1.webp"
+      "cover": "assets/covers/diario-sobrenatural-1.webp?v=065b4d4cd1f8903b",
+      "series": "Diário Sobrenatural",
+      "order": 1,
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/diario-sobrenatural/os-elos-das-sombras/"
     },
     {
       "id": "diario-sobrenatural-2",
       "title": "A Alvorada das Ilusões",
       "subtitle": "Diário Sobrenatural — Livro 2",
       "manifest": "data/diario-sobrenatural-2.json",
-      "cover": "assets/covers/diario-sobrenatural-2.webp"
+      "cover": "assets/covers/diario-sobrenatural-2.webp?v=512f358bb30586fc",
+      "series": "Diário Sobrenatural",
+      "order": 2,
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/diario-sobrenatural/a-alvorada-das-ilusoes/"
     },
     {
       "id": "spacetheft-1",
       "title": "A Lenda da Aurora",
       "subtitle": "Spacetheft — Livro 1",
       "manifest": "data/spacetheft-1.json",
-      "cover": "assets/covers/spacetheft-1.webp"
+      "cover": "assets/covers/spacetheft-1.webp?v=f8ab32cf4835105a",
+      "series": "Spacetheft",
+      "order": 1,
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/spacetheft/a-lenda-da-aurora/"
     },
     {
       "id": "viajantes-dimensionais-1",
       "title": "A Patrulha de Korvo",
       "subtitle": "Viajantes Dimensionais — Livro 1",
       "manifest": "data/viajantes-dimensionais-1.json",
-      "cover": "assets/covers/viajantes-dimensionais-1.webp"
+      "cover": "assets/covers/viajantes-dimensionais-1.webp?v=2e4272dc9e477289",
+      "series": "Viajantes Dimensionais",
+      "order": 1,
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/viajantes-dimensionais/a-patrulha-de-korvo/"
     },
     {
       "id": "a-uniao-1",
       "title": "A União",
       "subtitle": "A União — Livro 1",
       "manifest": "data/a-uniao-1.json",
-      "signupAvailable": false
+      "signupAvailable": false,
+      "series": "A União",
+      "order": 1,
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/a-uniao/a-uniao/"
     },
     {
       "id": "diario-sobrenatural-3",
       "title": "O Limiar da Noite",
       "subtitle": "Diário Sobrenatural — Livro 3",
       "manifest": "data/diario-sobrenatural-3.json",
-      "signupAvailable": false
+      "signupAvailable": false,
+      "series": "Diário Sobrenatural",
+      "order": 3,
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/diario-sobrenatural/o-limiar-da-noite/"
     },
     {
       "id": "misterio-oculto-1",
       "title": "Órbita Oráculo",
       "subtitle": "Mistério Oculto — Livro 1",
       "manifest": "data/misterio-oculto-1.json",
-      "signupAvailable": false
+      "signupAvailable": false,
+      "series": "Mistério Oculto",
+      "order": 1,
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/misterio-oculto/orbita-oraculo/",
+      "cover": "assets/covers/misterio-oculto-1.webp?v=293b19e69bff711a"
     },
     {
       "id": "spacetheft-2",
       "title": "Livro 2",
       "subtitle": "Spacetheft — Livro 2",
       "manifest": "data/spacetheft-2.json",
-      "signupAvailable": false
+      "signupAvailable": false,
+      "series": "Spacetheft",
+      "order": 2,
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/spacetheft/livro-2/"
     }
   ]
 }

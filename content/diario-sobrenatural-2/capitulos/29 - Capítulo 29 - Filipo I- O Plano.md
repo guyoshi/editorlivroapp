@@ -14,53 +14,21 @@ A atendente do último guichê, atrás de uma grade amarela, confirmou o que eu 
 
 — Então vocês vêm comigo.
 
-— E o Vini? — a Jennifer perguntou. — A gente sabe onde procurar por ele. Eu não posso simplesmente pegar um ônibus e deixar aquilo pra trás.
+— A gente não pode — a Jennifer cortou. Os dois falaram de uma vez só, o Pedro dizendo “o Junior” e ela dizendo “o Vini”, e a palavra de um se sobrepôs à do outro, e o silêncio que veio depois foi pior do que a briga. No banco de plástico da sala de espera havia quarenta centímetros de assento entre o Pedro e mim. Nenhum de nós fez nada para encurtá-los.
 
-— O Junior está em Alvorada — o Pedro disse, sem olhar para ela.
+— A visão dele era pior — a Jennifer disse, devagar. — Você viu o chão, Pedro. O que eu vi já tinha acontecido.
 
-— Eu sei, Pedro. Estou perguntando como a gente vai fazer.
+— A do Junior também.
 
-Ele olhou para o painel de horários e depois para o dinheiro que segurava.
+— A do Junior tinha os dois vivos, e a sombra ainda vinha vindo. — Ela esfregou o rosto com as duas mãos. — Eu não consigo carregar os dois ao mesmo tempo.
 
-— A gente se divide? É isso?
+Foi ali, no banco de plástico, que fizemos o que ainda não tínhamos feito: comparar o que o Cara-de-Larva mostrara a cada um. O Pedro tinha visto um garoto magro sentado na cadeira dele, na cozinha da mãe, rindo das piadas dele. A Jennifer tinha visto uma porta aberta num corredor do hospital e ouvido o próprio nome dito por uma voz que ela não quis identificar. Eu tinha visto a Manu em três lugares diferentes, e em nenhum deles ela estava presa. Ninguém disse que aquilo era o ponto onde doía em cada um. Ninguém precisou.
 
-O banco de plástico era comprido o bastante para nós três, mas o Pedro continuava sentado longe de mim. A Jennifer ficou de pé, diante dos dois, apertando a alça da bolsa.
+Foi o Pedro quem cedeu primeiro, olhando o painel de horários.
 
-— O presídio fica na estrada para Alvorada — eu disse. — Podemos ir juntos até lá. Depois eu sigo para a cidade.
+— A Priscila — ele disse. — Ela saiu do jantar sozinha, com raiva, sem saber de nada. E a Glenda está solta.
 
-— Sozinho, não — o Pedro respondeu.
-
-— Então vem comigo.
-
-Ele baixou os olhos. Não parecia querer voltar a falar do Junior, mas também não disse que não.
-
-— Tá — a Jennifer falou. — Só que, se vocês dois forem para Alvorada, eu entro naquele presídio com quem?
-
-O Pedro passou a mão pelo rosto. Por um momento só ouvimos o anúncio de um ônibus chegando à plataforma.
-
-— Precisamos de mais uma pessoa — ele disse.
-
-A Jennifer abriu a boca, mas foi ele quem encontrou o nome:
-
-— A Priscila.
-
-— A Priscila? — perguntei.
-
-— Ela conhece o Vini. E saiu daquele jantar sem saber de nada do que a gente viu. A Glenda continua por aí.
-
-A Jennifer olhou para o orelhão perto dos banheiros.
-
-— Eu também não quero deixar a Pri sozinha hoje. Mas a gente não pode decidir por ela.
-
-— Então vamos encontrá-la — o Pedro disse. — Contamos tudo e perguntamos se ela vem com a gente.
-
-Olhei novamente para o painel. O ônibus das nove e dez ainda nos dava algum tempo. Se a Priscila estivesse em casa, talvez conseguíssemos organizar os dois caminhos antes da partida.
-
-— Liga primeiro — eu disse. — Se ela atender, a gente combina onde se encontra.
-
-— E se não atender? — o Pedro perguntou.
-
-— A gente tenta de novo — a Jennifer respondeu, já procurando moedas na bolsa. — Não vou sair daqui sem pelo menos falar com ela.
+— Ela precisa saber do Vini — a Jennifer concordou, depressa. — Eu não quero a Priscila sozinha hoje. Eu vou ligar.
 
 Ela comprou um cartão de vinte unidades na banca, a única aberta, e foi até o orelhão ao lado dos banheiros. Sabia o número de cor. Disse que só decorava os que importavam, e que eram três. Contei onze toques, sem resposta. Eram sete e cinquenta e oito.
 
@@ -70,7 +38,7 @@ Ela comprou um cartão de vinte unidades na banca, a única aberta, e foi até o
 
 Esperamos. Às oito e vinte o Pedro comprou três pastéis e duas águas, e eu comi o meu em pé, olhando a plataforma, porque sentar significava aceitar que a espera era um lugar. Às nove e dez o ônibus saiu da plataforma doze. Eu estava a sessenta passos dele, com a passagem na cabeça e o dinheiro na mão errada, e não me mexi.
 
-Eu disse a mim mesmo que era aritmética: éramos três pessoas, havia dois lugares para alcançar, e ninguém deveria ir sozinho. Enquanto a Priscila não atendesse, não tínhamos como nos dividir. Quando o motor do ônibus ligou, a mão da Jennifer pousou no meu braço. Pesava quase nada, e eu a senti até o ônibus sumir na saída.
+Eu disse a mim mesmo que era aritmética: sozinho, eu era um garoto de dezessete anos com uma passagem; com a Jennifer, eu tinha alguém que via o que eu não via. Quando o motor do ônibus ligou, a mão dela tinha pousado no meu braço, e pesava quase nada, e eu a senti até o ônibus sumir na saída.
 
 Às nove e quarenta ela tentou de novo. Onze toques. Voltou pálida, e o sangue desceu do nariz sem que ela notasse, uma linha fina e escura sobre o lábio, que o Pedro limpou com um guardanapo de pastel sem dizer palavra. A Jennifer dormiu quarenta minutos no ombro dele, a boca entreaberta, e ele ficou imóvel como quem segura um copo cheio. De vez em quando o celular dela acendia no bolso dele, e ele o virava com a tela para baixo.
 
