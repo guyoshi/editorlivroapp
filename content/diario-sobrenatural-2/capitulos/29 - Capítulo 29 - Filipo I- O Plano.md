@@ -32,7 +32,7 @@ O banco de plástico era comprido o bastante para nós três, mas o Pedro contin
 
 — Então vem comigo.
 
-Ele baixou os olhos. Não era uma resposta fácil para alguém que acabara de dizer que o Junior já não era seu amigo, mas também não disse que não.
+Ele baixou os olhos. Não parecia querer voltar a falar do Junior, mas também não disse que não.
 
 — Tá — a Jennifer falou. — Só que, se vocês dois forem para Alvorada, eu entro naquele presídio com quem?
 
