@@ -47,7 +47,19 @@ Dentro de `content/ruinas-dos-ceus/`:
   `Ruínas dos Céus - Capítulo 1 - O Sopro de Etérea.mp3`.
 
 Você não precisa ter todos os 25 capítulos com áudio pra usar o app — os
-que ainda não tiverem `.mp3` aparecem só pra leitura, sem o player embaixo.
+que ainda não tiverem `.mp3` podem ser ouvidos usando a voz do próprio
+celular ou navegador (Web Speech API), sem cadastro nem cobrança de API.
+Nesses capítulos o mesmo botão de áudio ativa a leitura sintética, com
+seleção de voz em português (prioridade pt-BR), velocidade entre 0,75× e
+1,5×, retomada por trecho, avanço pela barra e recuo. A posição da voz
+sintética é guardada neste aparelho; não confundir com a posição dos MP3
+que já têm seu comportamento e sincronização originais.
+
+A qualidade da voz depende das opções instaladas no sistema e não equivale
+necessariamente a um audiobook profissional. Alguns navegadores interrompem
+a voz com a tela bloqueada ou em segundo plano; para reprodução mais estável
+continue oferecendo MP3. O Lityra nunca substitui um MP3 por TTS quando ele
+está disponível.
 Suba aos poucos, o app detecta sozinho quais já existem.
 
 ### Conversão rápida wav → mp3
