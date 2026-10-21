@@ -604,7 +604,7 @@ Junior ficou de cabeça baixa alguns segundos. Quando levantou, estava inexpress
 
 Eu ri, mas não tinha alegria. Era o tipo de riso que nasce quando a humanidade de alguém decepciona.
 
-— Você continua fraco, Junior. Um medroso. E se você não se tocou… era você quem devia estar na prisão se o Vinícius não tivesse se culpado no teu lugar.
+— Você continua fraco, Junior. Um medroso. E se você não se tocou… era você quem devia estar na prisão se o Vinícius não tivesse se culpado no seu lugar.
 
 Eu não disse para ferir. Eu disse para atravessar.
 

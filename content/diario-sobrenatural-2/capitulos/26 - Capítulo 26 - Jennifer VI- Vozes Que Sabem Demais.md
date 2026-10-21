@@ -112,7 +112,7 @@ Esperei.
 
 Filipo hesitou. Estava claramente nervoso. Olhei pra Glenda e então o silêncio dela abriu espaço para eu notar uma coisa:
 
-— Glenda… — eu falei, e a frase saiu antes de eu repensar. — O teu prazo pra entregar… não é hoje?
+— Glenda… — eu falei, e a frase saiu antes de eu repensar. — O seu prazo pra entregar… não é hoje?
 
 Ela piscou devagar e assentiu.
 
@@ -124,7 +124,7 @@ Glenda ajeitou a manga da blusa como se aquele gesto ajudasse a ajeitar o própr
 
 Eu senti uma pontada de estranheza. 
 
-— Do jeito que tu falou… — eu disse com cuidado. — Eu achei que aquilo era a grande opção da tua vida.
+— Do jeito que você falou… — eu disse com cuidado. — Eu achei que aquilo era a grande opção da sua vida.
 
 Glenda deu um sorriso curto, sem calor, quase divertido.
 
@@ -162,7 +162,7 @@ Filipo, que até então estava mentalmente ausente, prestou atenção. Eu me ajo
 
 Pedro respirou como quem vai mergulhar em água gelada.
 
-— Eu… eu estive conversando pelo teu celular com uma garota.
+— Eu… eu estive conversando pelo seu celular com uma garota.
 
 Pedro estava com cara de alguém que quase matou uma pessoa sem querer. 
 
@@ -174,7 +174,7 @@ Ele assentiu, apressado.
 
 — Eu apago tudo. Todas as mensagens. Pra ninguém ver, pra ninguém descobrir. Eu sei que é errado. Eu sei. Só que… eu fiz isso porque… porque eu gosto dela. O nome dela é Mel Jones. 
 
-— Ta… isso não é nada demais, Pedro. É normal as pessoas gostarem de alguém. O teu pai um dia precisou gostar da tua mãe pra tu existir.
+— Ta… isso não é nada demais, Pedro. É normal as pessoas gostarem de alguém. O seu pai um dia precisou gostar da sua mãe pra você existir.
 
 — Você não entende, Jen… — ele continuou, e a voz quebrou. — Acontece… que ela me disse algo… ela me disse que era de Alvorada Alegre… e me disse… que está morta. 
 
@@ -196,7 +196,7 @@ Eu puxei a cabeça dele para o meu ombro e deixei ele chorar ali, porque naquele
 
 Eu alisei o cabelo dele devagar, como quem tenta acalmar um animal assustado, e fiquei em silêncio por alguns segundos antes de perguntar: 
 
-— Por que tu confiou nela, Pedro?
+— Por que você confiou nela, Pedro?
 
 Ele levantou o rosto, olhos vermelhos. 
 
@@ -370,7 +370,7 @@ O silêncio se alongou. Não era um silêncio vazio. Era denso, pesado, como se 
 
 As palavras finalmente saíram, baixas.
 
-— O homem do meu sonho é o teu tio.
+— O homem do meu sonho é o Diego.
 
 Glenda piscou uma vez.
 
@@ -384,7 +384,7 @@ Pedro deu um passo instintivo para trás, quase tropeçando no próprio pé.
 
 Eu levantei o olhar pela primeira vez e encarei a Glenda de verdade. E foi ali que a coisa doeu mais, porque eu percebi que, até aquele momento, eu tinha querido acreditar nela. Queria acreditar que ela estava ajudando por alguma razão que não fosse interesse. Queria acreditar porque confiar cansa menos do que desconfiar.
 
-— Eu vi — eu disse, e a minha voz saiu firme apesar do tremor no corpo. — Era o seu tio no sonho. Nu. Ao seu lado. 
+— Eu vi — eu disse, e a minha voz saiu firme apesar do tremor no corpo. — Era o Diego no sonho. Ao seu lado. 
 
 Glenda soltou uma risada curta, amarga.
 
@@ -394,13 +394,13 @@ Pedro ficou dividido. Eu vi a lealdade dele lutar contra a confusão. Vi também
 
 Continuei, porque agora a porta já tinha sido aberta dentro de mim e eu não conseguia mais fingir que estava tudo certo.
 
-— E tu tá usando a gente — eu disse, e senti as palavras arranharem. — Tu só queria me usar pra conseguir terminar sua matéria. Tu nunca quis ajudar.
+— E você tá usando a gente — eu disse, e senti as palavras arranharem. — Você só queria me usar pra conseguir terminar sua matéria. Você nunca quis ajudar.
 
 Glenda ficou séria de vez. O sorriso desapareceu como se tivesse sido desligado. Ela se aproximou, e pela primeira vez a máscara dela falhou o suficiente para mostrar irritação real.
 
 — Você tá paranoica. Eu nunca fiz nada com ele — ela disse, e a voz veio baixa, cortante. — Nunca fiz.
 
-— Eu vi, Glenda — insisti, sem recuar. — Eu vejo gente morta todo dia, e ontem tu me disse que acreditava em mim. Ou só acreditava enquanto era conveniente?
+— Eu vi, Glenda — insisti, sem recuar. — Eu vejo gente morta todo dia, e ontem você me disse que acreditava em mim. Ou só acreditava enquanto era conveniente?
 
 A frase bateu em algum lugar. Eu vi quando bateu. A irritação continuou ali, mas por baixo dela alguma coisa parou, e por um segundo o rosto de Glenda ficou parecido com o de alguém que escuta uma frase e a guarda para conferir depois o peso que ela tem. Os olhos dela foram para as janelas do andar de cima da casa, e voltaram para mim.
 
@@ -412,7 +412,7 @@ Glenda não respondeu. Ficou me olhando como se eu tivesse lhe entregado, sem qu
 
 A garganta queimou; eu estava à beira de chorar, não de tristeza simples, mas daquela dor feia de ter sido enganada quando você já estava quebrada.
 
-— Eu não quero mais saber de você — eu falei, e a frase saiu como se eu estivesse arrancando um pedaço de mim. — Eu não quero tua ajuda.
+— Eu não quero mais saber de você — eu falei, e a frase saiu como se eu estivesse arrancando um pedaço de mim. — Eu não quero sua ajuda.
 
 Glenda me encarou por um instante longo, e então o rosto dela endureceu completamente.
 

@@ -190,7 +190,7 @@ Meu pai fechou os olhos, como se tentasse não desmoronar.
 
 Foi então que vi o livro.
 
-Peguei o livro do chão antes de sair, quase por reflexo, sentindo o peso estranho nas mãos, como se aquilo não fosse só papel. Na capa, letras antigas estavam gravadas em baixo relevo. Eu não falava latim fluentemente, mas reconhecia o suficiente.
+Peguei o livro do chão antes de sair, quase por reflexo, sentindo o peso estranho nas mãos, como se aquilo não fosse só papel. A capa era de tecido antigo, escuro, com um brilho de lesma, e as letras estavam gravadas fundo nele, como marcadas a ferro. Eu não falava latim fluentemente, mas reconhecia o suficiente.
 
 Liber Damnatorum, ou Livro dos Condenados.
 
@@ -332,6 +332,6 @@ Um arco de névoa surgiu em nossa frente e imediatamente o atravessamos.
 
 O mundo pareceu afundar sobre si mesmo. O som desapareceu, o frio virou pressão, e por um breve instante senti como se estivesse sendo esticado entre dois lugares que não concordavam em me soltar.
 
-Quando acordei, o sol batia direto no rosto. Estávamos caídos à beira de uma estrada, diante de um arco grande onde havia os dizeres “Bem-Vindo a Alvorada Alegre”.
+Quando acordei, o sol batia direto no rosto. Estávamos caídos à beira de uma estrada, diante de um arco grande onde havia os dizeres “Bem-Vindo a Alvorada Alegre”. Minhas mãos estavam vazias: o livro tinha ficado para trás, aberto na rua de pedra, onde caiu quando meu pai me puxou.
 
 Parei de falar aí. Tinha contado tudo o que sabia contar, e o que faltava era o que eu fizera depois, que eu não queria dizer ainda. No para-brisa, a estrada seguia reta, e no fim dela os faróis começaram a iluminar, pouco a pouco, um arco de pedra com letras que eu conhecia de cor. O Pedro não tinha dito uma palavra desde o começo. Continuou calado quando as letras ficaram legíveis, e eu diminuí a velocidade até a de quem chega. 

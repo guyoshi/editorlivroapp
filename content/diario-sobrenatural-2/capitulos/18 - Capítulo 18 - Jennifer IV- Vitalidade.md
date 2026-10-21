@@ -232,7 +232,7 @@ Antes de responder, fechei os olhos por um segundo e vi uma caminhonete velha av
 
 Pedro continuou me olhando, mas ignorei. Estava cansada e entediada. Decidi descer e beber um copo de água. Na cozinha olhei o relógio: seis e dez. Pela janela vi uma luz na estrada. Era ela. Hesitei, pensei bem, e decidi voltar para a cama.
 
-Antes de ir dormir, peguei o celular e li a mensagem que estava lá.
+Antes de ir dormir, liguei o celular do médico no carregador, na tomada ao lado da cama, e li a mensagem que estava lá.
 
 “18hrs então!”, “Tem um carro te esperando aí fora”. E então mais uma mensagem chegou “Você não vem?”. 
 

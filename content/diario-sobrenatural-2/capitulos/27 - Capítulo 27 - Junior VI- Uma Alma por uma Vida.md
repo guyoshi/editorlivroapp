@@ -156,7 +156,7 @@ Meus dedos tocaram um canto duro. Agarrei e puxei.
 
 Retirei um livro.
 
-Veio envolto em gosma, larvas grudadas na capa, o tecido antigo empapado, como se tivesse sido guardado ali para apodrecer sem morrer. Afastei o livro de mim, o braço tremendo de asco e adrenalina.
+Veio envolto em gosma, larvas grudadas na capa, o tecido antigo empapado, escuro, com um brilho de lesma, como se tivesse sido guardado ali para apodrecer sem morrer. Afastei o livro de mim, o braço tremendo de asco e adrenalina.
 
 Manu olhava fixamente para o livro… e para mim, como se eu tivesse acabado de cumprir um ritual.
 

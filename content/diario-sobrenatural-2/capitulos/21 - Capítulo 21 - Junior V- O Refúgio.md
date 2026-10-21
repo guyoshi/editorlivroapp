@@ -46,8 +46,6 @@ A mulher cega inclinou a cabeça para a direção dele, com paciência dura.
 
 — Não há o que discutir, Elias. O rapaz conseguiu entrar. Ele será salvo. 
 
-Lídia mexeu as mãos no colo, e eu vi, na pele do braço dela, uma marca escura por baixo da manga. Não era um machucado recente. Era um símbolo, talvez tinta antiga, talvez cicatriz. O gesto dela, ao ajustar a manga para cobrir, me disse que ela não queria que eu visse.
-
 — Qual é o teu nome? — perguntou a mulher cega, por fim.
 
 Eu hesitei. Dizer meu nome sempre foi uma coisa simples. Só que naquele lugar eu sentia que nomear era entregar alguma coisa.

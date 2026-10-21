@@ -6,13 +6,13 @@ Eu recusei.
 
 Não foi birra. Foi fome. Fome de casa vazia, de rotina sem interferência, de silêncio que obedecia. Dois meses em que eu decidia o que entrava e o que saía da minha vida.
 
-A minha mãe, claro, achou isso “perigoso”. Duas palavras que ela usa para tudo: perigoso e sensato. O sensato, para ela, era eu não ficar sozinha. Então ela teve a sua ideia sensata: me mandar para a casa do meu tio Diego.
+A minha mãe, claro, achou isso “perigoso”. Duas palavras que ela usa para tudo: perigoso e sensato. O sensato, para ela, era eu não ficar sozinha. Então ela teve a sua ideia sensata: me mandar para a casa do “tio” Diego, marido da minha tia Muriel.
 
 Eu nunca fui muito com a cara do Diego. Não é antipatia de adolescente. É aquela sensação antiga que vem antes do pensamento, como quando a nuca avisa sem explicação. Mesmo assim, eu aceitei, porque, quando percebi onde a casa dele ficava, deixei de brigar com o destino.
 
 A mansão dele ficava no Morumbi, a poucos minutos da Paper — o jornal que eu leio como se fosse mapa e religião desde que eu era um filhote de gente. A Paper não era só um lugar onde se escreve. Era uma porta. E eu estava cansada de viver do lado de fora.
 
-Eu cresci praticamente dentro da casa do tio Diego e da tia Muriel no Rio, em grande parte por causa do Jason. Naquela época, era como se nós dois estivéssemos sempre “sobrando” na casa dos adultos: ele porque precisava de alguém da idade dele por perto, eu porque meus pais achavam mais fácil delegar a minha presença do que lidar com ela. Criança é isso: é alguém que os outros estacionam.
+Eu cresci praticamente dentro da casa do Diego e da tia Muriel no Rio, em grande parte por causa do Jason. Naquela época, era como se nós dois estivéssemos sempre “sobrando” na casa dos adultos: ele porque precisava de alguém da idade dele por perto, eu porque meus pais achavam mais fácil delegar a minha presença do que lidar com ela. Criança é isso: é alguém que os outros estacionam.
 
 Então crescemos como irmãos. Corríamos na chuva, inventávamos regras para jogos que não precisavam de regras, apostávamos corrida contra carros na rua como se a vida fosse um vídeo-game e não um risco real. Eu lembro do cheiro do corredor depois de limpar o chão, do barulho da TV ligada sem ninguém assistir.
 
@@ -42,7 +42,7 @@ A câmara tremia porque eu segurava com uma mão só, encostando o aparelho no v
 
 — Oi… Glenda aqui, começando meu… diário em vídeo pessoal — eu disse, e dei um sorrisinho de quem está brincando com a própria vida. — Se você estiver assistindo isso, pode significar duas coisas: ou eu estou viva… ou eu estou morta. Eu prefiro a primeira opção. Não estou com vontade de morrer, obrigada.
 
-— Eu vou ficar um tempo na casa do meu tio. Coisas de família. E… vou tentar arrumar um trabalho. Se eu conseguir, você vai ver a minha cara em algum lugar que preste. Se eu não conseguir… você vai ver a minha cara mesmo assim, mas reclamando.
+— Eu vou ficar um tempo na casa de um parente. Coisas de família. E… vou tentar arrumar um trabalho. Se eu conseguir, você vai ver a minha cara em algum lugar que preste. Se eu não conseguir… você vai ver a minha cara mesmo assim, mas reclamando.
 
 Eu finalizei com um beijo rápido e desliguei.
 

@@ -290,7 +290,7 @@ Eu conferi o ponteiro de combustível: um pouco menos de meio tanque, o suficien
 
 Ele virou o corpo no banco para olhá-la.
 
-— Tu precisa ir com o Filipo — ela continuou. — Alguém precisa ir até o Junior.
+— Você precisa ir com o Filipo — ela continuou. — Alguém precisa ir até o Junior.
 
 — O Junior não é mais meu amigo.
 
@@ -302,7 +302,7 @@ Eu vi a Jennifer e o Pedro se olharem pelo espelho, um olhar de dois segundos qu
 
 — Eu não vou deixar você sozinha — o Pedro insistiu, e agora falava para a Jennifer.
 
-— Eu não vou estar sozinha. A Priscila vai estar comigo. — A Jennifer quase sorriu. — E tu sabe como ela é casca grossa.
+— Eu não vou estar sozinha. A Priscila vai estar comigo. — A Jennifer quase sorriu. — E você sabe como ela é casca grossa.
 
 — Casca grossa com recheio cremoso — o Pedro disse, e a voz saiu mais fraca do que ele queria.
 

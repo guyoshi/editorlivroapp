@@ -142,11 +142,11 @@ Jennifer sentou ao meu lado, deixando uma distância pequena entre nós, do jeit
 
 — Rodeada de pessoas? Você? A tua coragem é muito problemática.
 
-— E a tua preocupação é muito barulhenta.
+— E a sua preocupação é muito barulhenta.
 
 — É meu charme — eu disse, e aí tentei aliviar o clima, mas antes que eu fizesse piada de verdade, ela falou, como se fosse um pensamento antigo saindo:
 
-— Tu ainda ama a Kelly?
+— Você ainda ama a Kelly?
 
 A pergunta me pegou no meio do peito. Não foi agressiva. Foi só… inusitada.
 
@@ -172,7 +172,7 @@ Eu ri sem vontade.
 
 Ela olhou para mim com firmeza.
 
-— Tu fica com raiva do Junior como se ele tivesse escolhido aquilo por vontade. Mas ele foi manipulado tanto quanto ela.
+— Você fica com raiva do Junior como se ele tivesse escolhido aquilo por vontade. Mas ele foi manipulado tanto quanto ela.
 
 — Jennifer…
 

@@ -270,7 +270,7 @@ Ele abriu a carteira. Havia um molho de notas, e ele guardou sem hesitar.
 
 — Eu não queria concordar, mas ele tem razão — Pedro disse. — Se tiver um celular ajuda ainda mais. Podemos precisar.
 
-Filipo vasculhou os bolsos e retirou um aparelho.
+Filipo vasculhou os bolsos e retirou um celular cinza e pesado, de antena curta, com o carregador enrolado no fio.
 
 — Isso não é certo — eu disse, mas a minha voz saiu mais fraca do que deveria.
 

@@ -225,7 +225,7 @@ Tirei o aparelho. A tela estava cheia, tinha rolado para baixo uma coluna de men
 *q ta esperando*
 *queima*
 
-A Mel escrevia poema com ponto final. A Mel escrevia "meu príncipe" com acento, quando estava triste. A Mel nunca repetiu uma palavra na minha frente. A coluna crescia, e a palavra era sempre a mesma, e o aparelho esquentava na minha mão como se tivesse febre.
+A Mel escrevia poema com ponto final. A Mel escrevia "meu príncipe" com acento, quando estava triste. Eu nunca a tinha visto repetir uma palavra, e ali ela repetia uma só, cada vez mais curta, como quem perde o ar. A coluna crescia, e o aparelho esquentava na minha mão como se tivesse febre. Ela está com medo, eu pensei. Eu conhecia aquele medo.
 
 — Pedro — o Filipo disse, e o primeiro fósforo riscou.
 
@@ -235,11 +235,11 @@ A chama nasceu pequena, azul na base, amarela na ponta, e ele a levou para a toa
 
 — Estou a dois passos.
 
-— Para, Filipo. — Eu não gritei. A voz saiu fina, de quem pede licença. — Tem alguma coisa errada.
+— Para, Filipo. — Eu não gritei. A voz saiu fina, de quem pede licença. — Espera um minuto. Só um.
 
 — Você viu a Mel. Você leu a mensagem.
 
-— Eu li. — A tela virou, brilhando no meu rosto. — São mais de cem. A Mel não escreve assim. Alguém tá escrevendo por ela. — Apontei para o Junior, que tremia no chão, com a voz calma saindo da boca dele e uma voz de gente tentando competir. — E olha pra ele. Olha o que o livro faz aqui. Olha por que ele tá assim.
+— Eu li. — A tela virou, brilhando no meu rosto. — São mais de cem. Ela tá desesperada, Filipo. — Apontei para o Junior, que tremia no chão, com a voz calma saindo da boca dele e uma voz de gente tentando competir. — Mas olha pra ele. Eu não sei quem tem razão. Só sei que esse aqui tá no chão, na minha frente.
 
 O Filipo olhou para o Junior e depois para o fósforo, que já tinha chegado ao dedo. Largou a ponta no chão de pedra.
 
@@ -257,7 +257,7 @@ Na primeira fila, na ponta do banco, uma mulher de vestido escuro, o rosto volta
 
 Eu não consegui responder. Meu estômago subiu e eu o segurei com os dentes.
 
-— Todo mundo que mora aqui — o Junior falou, e tentou se apoiar nos cotovelos. — De longe, a cidade parece ruína. Por isso ninguém vem. Só quem já viu o mal consegue vê-la inteira, e entrar. Eles viam. E ela matou todos, um por um, pra deixar a igreja vazia e a gente acreditar nela.
+— Todo mundo que mora aqui — o Junior falou, e tentou se apoiar nos cotovelos. — De longe, a cidade parece ruína. Por isso ninguém vem. Só quem já viu o mal consegue vê-la inteira, e entrar. Eles viam. Eu cheguei aqui com a Lídia e já estavam assim. Foi a Lucinda: matou todos, um por um, e depois se sacrificou pra Mãe, pra deixar a igreja vazia e a gente acreditar nela. A Lídia não aguentou passar da porta.
 
 Os degraus do altar tinham ficado mais claros, com a luz que sobrou. E eu vi o que o Filipo via: uma menina de uns doze anos, deitada de lado, de cabelo curto, vestido sujo, a respiração fina como linha. A Manu. Ao lado, sobre a mesa de pedra, o livro apodrecendo.
 
@@ -288,6 +288,10 @@ O Filipo parou. Eu vi que ele tinha ouvido, porque a cabeça dele inclinou, no g
 — Embaixo — ele repetiu.
 
 — A Mãe. A cidade está fechada pra que nada saia. Era isso. Era ele que impedia.
+
+Eu ouvi aquilo e uma coisa dentro de mim virou, devagar, como chave numa fechadura que eu mesmo tinha emperrado. *Se queimar, a gente sai. As duas.* A Mel tinha me dito isso no arco, olhando para a cidade, com as mãos apertadas de quem ensaiou. Ela não tinha dito *embaixo*. Não tinha dito *Mãe*. Tinha dito vidro, e pressa, e medo, e eu escutei tudo como se escuta quem a gente ama: sem pedir prova. Foi o Filipo quem pediu a prova, e eu respondi que conhecia a cara de quem tá com medo. Eu conhecia a cara. Não sabia nada do resto.
+
+Ela tinha me usado. Repeti a palavra para mim, devagar, e o peito fechou, e a bombinha ficou onde estava.
 
 O Cara-de-Larva tinha parado. Não por causa das palavras, acho, mas por causa do nome. Virou a massa de larvas, devagar, na direção do Junior, e ficou assim um segundo inteiro, a cabeça inclinada, como cachorro que reconhece um assobio de dono antigo.
 
@@ -367,21 +371,31 @@ Fomos de morto em morto, como quem atravessa um rio por pedras. A cada passo o C
 
 Perto da porta lateral, a Mel apareceu.
 
-Estava dentro da igreja. No meio da nave, entre dois bancos, de vestido azul, a franja nos olhos, uma vela acesa na mão. Sorria.
+Estava dentro da igreja. No meio da nave, entre dois bancos, de vestido azul, a franja nos olhos, uma vela acesa que não pingava. Atrás de nós o Cara-de-Larva batia o pé, e a igreja virava escola, cinema, ônibus, e a vela não mudava.
 
-— Pedro — ela disse. — Eu consegui entrar. O vidro quebrou. Vem, queima, que eu estou aqui. É só um fósforo.
+— Pedro — ela disse. — Eu consegui entrar. O vidro quebrou. Foi por tua causa.
 
 O ar entrou em mim inteiro, fundo, fácil. Fácil demais.
 
-Foi o segundo mais longo da minha vida. Eu queria. Queria tanto que a vontade tinha forma de gente, de vestido azul, com uma vela na mão. Não faltava nada nela, nem a franja, nem o jeito de inclinar a cabeça.
+Eu sabia o que era. *Quando fica fácil é mentira*, eu tinha acabado de dizer, e eu sabia, do jeito que a gente sabe uma conta de cabeça e deixa quieta. Já tinha sido enganado uma vez naquela noite. Aquilo era diferente: era a mentira que vinha me consolar.
 
-— Se tu entrou — eu falei, e a voz saiu rouca — não precisa de mim pra queimar.
+O Junior pesava no meu ombro e tinha parado de ajudar com as pernas. Encostei ele no pé de um banco, ao lado de um morto de camisa de domingo, e ele deixou, e isso era o pior sinal, e eu também sabia.
 
-Ela continuou sorrindo. A vela continuou acesa. O sorriso não mudou de lugar, e isso me deu mais certeza do que qualquer discurso. A Mel de verdade nunca sorriu duas vezes igual.
+— Vem — a Mel disse. — Aqui ninguém te troca por ninguém.
 
-— Tu disse que não podia entrar. Tu disse.
+Fui. Eu ouvia a igreja ir e vir como se ouve chuva do outro lado de uma janela fechada. Tinha a conta feita desde sempre: todo mundo me escolhe por último, ou por engano, ou até aparecer alguém melhor. Ela estendeu a mão e eu segurei. Era quente, e tinha o peso exato de uma mão. Ela me beijou, ou eu a ela, não sei a ordem; teve gosto de cera e do pão de queijo do último banco da igreja da minha avó, e durou uma respiração inteira, sem chiado. Foi o melhor segundo da minha vida, e eu sabia exatamente quanto ele custava.
 
-A imagem estalou como a cozinha, e do outro lado do estalo só havia um morto de camisa de domingo, olhando para o altar.
+— Eu te amo, Pedro — ela disse, com a voz de verdade, a que quase nunca usava comigo. — Fica. Deixa o Filipo acender. Deixa ele.
+
+— Eu sempre quis que alguém me escolhesse. — A piada nem chegou a começar; ficou do lado de fora, esperando. — Tu é a coisa que eu mais quis na vida. — Engoli. — Só que o que eu mais quis nunca foi quem eu mais amo.
+
+Atrás de mim, no pé do banco, o Junior respirava com dois ritmos.
+
+— Quem eu amo não me pede pra largar ninguém. — A voz saiu pequena e inteira. — Eu sei bem como é ser largado.
+
+Soltei a mão dela. Foi a coisa mais difícil que eu já fiz com uma mão só.
+
+A imagem estalou como a cozinha, e do outro lado do estalo só havia um morto de camisa de domingo, olhando para o altar. A minha boca ainda estava quente. Voltei até o Junior, que me olhava do chão e não perguntou nada, e levantei ele pelo braço bom.
 
 O celular vibrou na minha perna. Eu não olhei.
 
@@ -491,7 +505,7 @@ Atrás de nós, o sino tocou a última vez, uma batida só, e parou.
 
 Olhei por cima do ombro, só um segundo. A torre se inclinava. O mostrador, cheio de rachaduras, estava virado para nós, e o ponteiro dos minutos, que tinha ficado parado em onze e seis a noite inteira, se mexeu um tique, só um, e foi para onze e sete. Depois a torre caiu para dentro do telhado, e a igreja inteira se sentou em cima dos mortos como quem finalmente senta.
 
-O arco apareceu na névoa que já rareava. As letras estavam rachadas. Passamos por baixo dele, a caminhonete roncando, o Filipo com a mão no pescoço, o Junior caído contra o meu ombro, e alguma coisa soltou a pressão do meu peito, como uma tampa de panela que alguém tirou. Atrás de nós, a pedra do arco veio abaixo com um estrondo que foi mais de papelão que de pedra.
+O arco apareceu na névoa que já rareava. As letras estavam rachadas. A cidade que não deixava nada sair deixou a gente passar. Passamos por baixo dele, a caminhonete roncando, o Filipo com a mão no pescoço, o Junior caído contra o meu ombro, e alguma coisa soltou a pressão do meu peito, como uma tampa de panela que alguém tirou. Atrás de nós, a pedra do arco veio abaixo com um estrondo que foi mais de papelão que de pedra.
 
 A caminhonete parou uns cem metros adiante, e caímos da caçamba de joelhos na estrada. O ar entrou em mim em goles tortos.
 
@@ -533,9 +547,9 @@ Era a mesma menina, o vestido azul-claro, a franja. Mas agora, pela primeira vez
 
 — Tu veio. Tu fez tudo direitinho. — Ela atravessou a estrada em passos leves e se abaixou na minha frente, sem se preocupar com o Filipo, que não a via, nem com o Junior, que olhava para o nada. A mão dela tocou o meu rosto. Era fria e quente ao mesmo tempo, como um vidro de janela com sol de um lado e chuva do outro. — Obrigada, meu príncipe. Eu nunca ia esquecer isso.
 
-— Tu tá... — eu comecei.
+— Tu disse que a Manu ia sair. — A voz não tremeu, e eu fiquei com orgulho disso e com nojo.
 
-— Livre.
+— Disse. — Sem desculpa, sem tremor. — E eu saí. Estou livre.
 
 Sorriu. Eu conhecia todos os sorrisos dela, o de piada, o de poema, o de depois da meia-noite. Aquele eu nunca tinha visto.
 
@@ -545,7 +559,7 @@ Sorriu. Eu conhecia todos os sorrisos dela, o de piada, o de poema, o de depois 
 
 Eu quis dizer o nome dela outra vez. A palavra foi na minha garganta e não saiu. Ela se levantou, o vestido movendo a poeira, e andou para o campo, e eu a segui com os olhos até a luz fazer dela um brilho, e o brilho, nada.
 
-O Filipo se levantou primeiro. Foi até o carro, apoiando uma mão no capô, e abriu a porta de trás para o Junior. Eu fiquei sentado na estrada, com a bombinha vazia numa mão e o celular da Jennifer na outra. Queria que ela estivesse ali. Ela saberia dizer se aquilo era carinho ou outra coisa. Ela sempre soube ver o que os outros não viam, e eu tinha a vontade tola de ligar e perguntar.
+O Filipo se levantou primeiro. Foi até o carro, apoiando uma mão no capô, e abriu a porta de trás para o Junior. Eu fiquei sentado na estrada, com a bombinha vazia numa mão e o celular da Jennifer na outra. Queria que ela estivesse ali. Ela saberia dizer se o que eu senti no beijo valia alguma coisa, vindo de uma mentira. Ela sempre soube ver o que os outros não viam, e eu tinha a vontade tola de ligar e perguntar.
 
 Guardei o celular da Jennifer no bolso com a tela para baixo. Ajudei o Junior a entrar no carro. O Pollux e a Lídia seguiram na caminhonete, devagar, os faróis acesos em pleno dia. O Filipo ligou a ignição, e o rádio chiou, e ninguém o desligou.
 
