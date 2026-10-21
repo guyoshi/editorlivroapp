@@ -2,9 +2,9 @@ O amor é uma coisa bem suspeita. Não vou romantizar, porque eu não tenho paci
 
 Sendo sincera, porque eu posso ser quando ninguém está me enchendo, eu sentia falta de uma companhia. Só que ao mesmo tempo eu me sentia tão bem sozinha que chegava a dar raiva lembrar que eu ainda precisava de gente. O meu medo não era o Jason em si. Era eu. Era me afeiçoar, deixar alguém entrar onde eu tinha acabado de fechar a porta com chave. Só que coração é um órgão inútil nesse sentido: ele não pede autorização, não respeita agenda, não sabe ler placa de “proibida a entrada”.
 
-Na manhã de quarta-feira ligaram para reagendar a prova do curso de Hotelaria e Turismo. Próxima quarta. Ótimo. Eu tinha uma semana para fingir que ia estudar com disciplina, como se a minha vida fosse um caderno organizado e não um monte de folhas amassadas. Pelo menos uma coisa funcionou: o Sr. Estevan finalmente me pagou e eu consegui acertar o aluguel. O mundo consegue ser cruel e prático ao mesmo tempo. Você pode estar a dois passos de virar pó, mas o aluguel não quer saber.
+Na manhã de terça-feira ligaram para reagendar a prova do curso de Hotelaria e Turismo. Próxima terça. Ótimo. Eu tinha uma semana para fingir que ia estudar com disciplina, como se a minha vida fosse um caderno organizado e não um monte de folhas amassadas. Pelo menos uma coisa funcionou: o Sr. Estevan finalmente me pagou e eu consegui acertar o aluguel. O mundo consegue ser cruel e prático ao mesmo tempo. Você pode estar a dois passos de virar pó, mas o aluguel não quer saber.
 
-Na quinta-feira acordei cedo com aquela ideia idiota de fazer atividade física, porque os últimos dias me fizeram ganhar uns quilinhos. Estava calçando o sapato quando o telefone tocou. E eu corri para atender, não porque fosse carente, mas porque ninguém me liga. Ninguém. Deve ser o Jason, pensei. Eu tinha passado meu número pra ele.
+Na quarta-feira acordei cedo com aquela ideia idiota de fazer atividade física, porque os últimos dias me fizeram ganhar uns quilinhos. Estava calçando o sapato quando o telefone tocou. E eu corri para atender, não porque fosse carente, mas porque ninguém me liga. Ninguém. Deve ser o Jason, pensei. Eu tinha passado meu número pra ele.
 
 — Alô — falei.
 
@@ -120,9 +120,9 @@ A voz dela veio baixa, aquela voz de gente que gosta de mandar. Eu tirei o outro
 
 — Escuta, eu sei pelo seu olhar que você não gosta de mim, mas eu não vim aqui pra ter confusão. Eu precisava conversar algo com você. Sobre o que aconteceu em Vila Velha.
 
-— O Vinicius me contou o que houve lá.
+— O Vinícius me contou o que houve lá.
 
-Eu parei. Vinicius. E tudo o que veio com ele: risadas, confusão, gritos, e aquela sensação de que a vida estava sempre prestes a dar errado.
+Eu parei. Vinícius. E tudo o que veio com ele: risadas, confusão, gritos, e aquela sensação de que a vida estava sempre prestes a dar errado.
 
 — Quem? Do que você está falando? — perguntei, porque a minha primeira reação foi achar que ela estava brincando com a minha cara.
 
@@ -130,7 +130,7 @@ Eu parei. Vinicius. E tudo o que veio com ele: risadas, confusão, gritos, e aqu
 
 E aí a minha mente me puniu: lembrei do primeiro encontro com ela. Daquele ar de superioridade, como se o mundo fosse uma sala onde ela sempre escolhe a cadeira melhor.
 
-— Você realmente acha que eu sou idiota? — eu falei. — Está tentando ver como eu vou reagir quando fala do Vinicius.
+— Você realmente acha que eu sou idiota? — eu falei. — Está tentando ver como eu vou reagir quando fala do Vinícius.
 
 — Ah, sério? Eu não acredito que sua mente brilhante chegou a essa conclusão. Parabéns.
 

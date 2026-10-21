@@ -66,7 +66,7 @@ Houve um hiato. Ouvimos apenas a chuva bater na telha.
 
 — Me desculpe. Mas não estamos aqui para lhe revirar o passado. Queremos resolver o presente — disse Jennifer. Estamos sendo perseguidos por uma criatura. Não sei bem o que ela é, mas o chamamos de cara-de-larva? 
 
-— Cara-de-larva? Que porra de nome ridículo é esse? — perguntou Priscila. 
+— Cara-de-Larva? Que porra de nome ridículo é esse? — perguntou Priscila. 
 
 — Ah é porque a cara dele é cheia de larvinhas, sabe — falei tentando justificar o nome. 
 
@@ -154,7 +154,7 @@ Quando o taxi foi embora, ficamos no escuro. A lua cheia era nossa única luz, m
 
 — Jennifer, você não tem amigas — falei — quero dizer, não quis ofender, mas você me disse que só tem a nós...
 
-— Tem razão, usei o termo errado. É mais uma conhecida. Conheci ela esses dias. Ela estava tentando criar uma matéria sobre o caso do Vinicius. Eu a encontrei na prisão em uma visita que fiz à ele. 
+— Tem razão, usei o termo errado. É mais uma conhecida. Conheci ela esses dias. Ela estava tentando criar uma matéria sobre o caso do Vinícius. Eu a encontrei na prisão em uma visita que fiz à ele. 
 
 — Como é? E o que você estava falando com ela? 
 
@@ -288,7 +288,7 @@ Jennifer hesitou, então a senhora continuou.
 
 — Vocês me disseram que há uma entidade em Alvorada Alegre... 
 
-— É o Cara-de-larva — falei — ele tem esse nome porque a cara dele tem larvas... ontem o Filipo e o pai dele... 
+— É o Cara-de-Larva — falei — ele tem esse nome porque a cara dele tem larvas... ontem o Filipo e o pai dele... 
 
 — Eu e meu pai tentamos usar o Pedro para chegar até a Jennifer... nós queríamos que ela o enviasse para o outro lado, para que queimássemos o Elo dele e ele não voltasse mais para cá. Assim nós poderíamos voltar à cidade e resgatar minha irmã. Mas as coisas não saíram como o planejado. Ele devorou a alma de meu pai... 
 
@@ -436,15 +436,15 @@ Jennifer olhou para mim e para Filipo antes de se virar para a senhora.
 
 — Obrigado, senhora Olívia — agradeci também. Filipo olhava para o chão. Estava triste porque perdeu o pai? Pois deveria ter pensado antes de mentir para mim. 
 
-— Algo te preocupa, menina? — perguntou a Sra. Olivia. 
+— Algo te preocupa, menina? — perguntou a Sra. Olívia. 
 
 — Sim — Jennifer respondeu — Quando eu dormi da última vez... ele conseguiu nos encontrar. Quem garante que ele não o fará dessa vez? 
 
 — Ah não. Ele não irá lhes encontrar aqui. Essa casa está muito bem protegida contra eles. Amanhã, quando tiver um tempo, vou lhe explicar como se proteger. Agora... é melhor descansarem. Devem estar exaustos.
 
-Todos se levantaram e a Sra. Olivia nos guiou por um corredor escuro, à luz de velas, até um dos quartos ao fundo. Ao abrir a porta, sentimos o cheiro dos incensos espalhados pelos móveis. A senhora acendeu as velas do ambiente. Além das duas camas de solteiro, havia algumas gaiolas de passarinho vazias no chão.
+Todos se levantaram e a Sra. Olívia nos guiou por um corredor escuro, à luz de velas, até um dos quartos ao fundo. Ao abrir a porta, sentimos o cheiro dos incensos espalhados pelos móveis. A senhora acendeu as velas do ambiente. Além das duas camas de solteiro, havia algumas gaiolas de passarinho vazias no chão.
 
-— Minhas netas dormiam aqui quando vinham para cá — disse a Sra. Olivia — tirem um dos colchões da cama. Há cobertores nos armários. Fiquem à vontade. 
+— Minhas netas dormiam aqui quando vinham para cá — disse a Sra. Olívia — tirem um dos colchões da cama. Há cobertores nos armários. Fiquem à vontade. 
 
 — Obrigado! — agradeci sorrindo para a senhora. 
 

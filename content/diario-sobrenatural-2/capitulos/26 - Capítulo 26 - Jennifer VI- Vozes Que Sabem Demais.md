@@ -86,7 +86,7 @@ Glenda não soltou um “meu Deus” nem fez drama. Ficou pensativa, e o múscul
 
 — Pelo que sei, ela não quer mais nada com ele — disse Glenda, e deu de ombros. — E não a culpo. Garoto que cresce achando que é o mais forte da sala acha que o resto do mundo existe pra concordar. Chama de amor o que pensa com o corpo. 
 
-— Não é sobre o relacionamento dela. É sobre o que passamos juntos. Vinicius foi preso por algo que não fez. Todos nós temos responsabilidade pelo que aconteceu. Se ele está correndo perigo, é nossa responsabilidade ir ajudá-lo. 
+— Não é sobre o relacionamento dela. É sobre o que passamos juntos. Vinícius foi preso por algo que não fez. Todos nós temos responsabilidade pelo que aconteceu. Se ele está correndo perigo, é nossa responsabilidade ir ajudá-lo. 
 
 A frase mal terminou e Filipo mudou de posição no chão.
 
@@ -112,11 +112,11 @@ Esperei.
 
 Filipo hesitou. Estava claramente nervoso. Olhei pra Glenda e então o silêncio dela abriu espaço para eu notar uma coisa:
 
-— Glenda… — eu falei, e a frase saiu antes de eu repensar. — O teu prazo pra entregar… não era ontem?
+— Glenda… — eu falei, e a frase saiu antes de eu repensar. — O teu prazo pra entregar… não é hoje?
 
 Ela piscou devagar e assentiu.
 
-— Era.
+— É.
 
 Glenda ajeitou a manga da blusa como se aquele gesto ajudasse a ajeitar o próprio destino.
 

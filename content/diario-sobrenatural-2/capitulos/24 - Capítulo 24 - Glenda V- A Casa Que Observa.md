@@ -172,7 +172,7 @@ Desci, peguei camisetas e calças limpas, aproveitei para abrir a geladeira e pe
 
 — Jennifer. Roupa.
 
-A porta abriu antes de eu terminar de respirar. Mas ela não estava lá. Empurrei um pouco a porta, e entrei. Jennifer apareceu nua, encharcada, com o cabelo pingando no rosto, e a cena, que devia ser embaraçosa, me atingiu com um tipo específico de perigo: o de eu me importar.
+A porta abriu antes de eu terminar de respirar. Mas ela não estava lá. Empurrei um pouco a porta, e entrei. Jennifer apareceu enrolada numa toalha, encharcada, com o cabelo pingando no rosto, e a cena, que devia ser embaraçosa, me atingiu com um tipo específico de perigo: o de eu me importar.
 
 Eu levantei a sobrancelha.
 
@@ -180,7 +180,7 @@ Eu levantei a sobrancelha.
 
 Ela corou de verdade, como se o corpo ainda fosse humano apesar de tudo, e eu sorri com uma leveza que eu não costumava oferecer a ninguém.
 
-— Se vista antes que eu me arrependa e leve essas roupas de volta — eu provoquei, entregando a roupa.
+— Se vista antes que eu mude de ideia e leve essas roupas de volta — eu provoquei, entregando a roupa.
 
 Quando ela terminou de se vestir, saiu para o quarto. Alguns minutos depois, estava mais calma, mas o olhar dela varreu o quarto como se estivesse ouvindo outra música além da nossa.
 
@@ -299,4 +299,4 @@ Jennifer não respondeu. Os olhos encararam o teto e tentei imaginar o que ela p
 
 Meu corpo não reagiu. Minha mente, sim.
 
-— Você estava nua — disse ela, sem pudor, apenas descrevendo. — Mas não estava sozinha. Tinha um homem nu com você. Um homem mais velho. 
+— Você estava deitada, com medo — disse ela, sem rodeios, apenas descrevendo. — E não estava sozinha. Tinha um homem com você. Um homem mais velho. 

@@ -340,7 +340,7 @@ A pausa dele foi perfeita, como se estivesse ouvindo uma confissão.
 
 Diego parou perto da janela. Pelo ângulo, eu só via o pé esquerdo dele e parte da perna da calça. Ainda assim, eu conseguia imaginar o sorriso.
 
-— Amanhã. — ele disse, e a palavra saiu lenta, quase íntima. — Amanhã a gente se vê. Eu vou te buscar num lugar tranquilo. 
+— Sexta. — ele disse, e a palavra saiu lenta, quase íntima. — Sexta a gente se vê. Eu vou te buscar num lugar tranquilo. 
 
 Ele riu baixo.
 
@@ -360,7 +360,7 @@ E então caminhou até a porta e saiu do quarto, fechando atrás de si com a mes
 
 Eu esperei. Quando eu finalmente me arrastei pra fora debaixo da cama, soltei a respiração que tinha prendido e comecei a pensar.
 
-Olga. Ele iria encontrá-la amanhã, no parque. 
+Olga. Ele iria encontrá-la na sexta, no parque. 
 
 Eu fechei a porta do quarto de Diego com a mesma delicadeza com que tinha aberto. 
 

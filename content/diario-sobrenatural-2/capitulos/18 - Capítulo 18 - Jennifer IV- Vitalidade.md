@@ -2,7 +2,7 @@ A manhã surgiu limpa e serena. Nada de pesadelos, nem visões. Tudo estava tran
 
 — Acordou faz tempo? — perguntei a ele. 
 
-— Não dormi quase nada — falou Filipo — qualquer ruído, vento, qualquer coisa... me fazia me lembrar do Cara-de-larva. 
+— Não dormi quase nada — falou Filipo — qualquer ruído, vento, qualquer coisa... me fazia me lembrar do Cara-de-Larva. 
 
 Podia ver nos olhos de Filipo que ele estava cansado e amedrontado. Eu tinha dó dele, mesmo após tudo o que ele fez. Entendia claramente que assim como Junior e Kelly, ele tinha sido manipulado pelos demônios. Me virei para ele e falei:
 
@@ -14,7 +14,7 @@ Podia ver nos olhos de Filipo que ele estava cansado e amedrontado. Eu tinha dó
 
 — E ficará aqui no mundo dos mortais para sempre? Que alma escolheria isso? 
 
-— A alma de um pai que ama o filho. Além disso, se Olivia estiver certa e eu ser uma selifa, isso significa que minhas habilidades ainda não são compreendidas. Pode ser que eu consiga o trazer de volta para você de alguma forma. 
+— A alma de um pai que ama o filho. Além disso, se Olívia estiver certa e eu ser uma selifa, isso significa que minhas habilidades ainda não são compreendidas. Pode ser que eu consiga o trazer de volta para você de alguma forma. 
 
 Filipo não respondeu, apenas desceu os cabelos sobre a mão. 
 
@@ -28,11 +28,11 @@ Aquelas palavras pareceram atingir Pedro com força, e vi em seus olhos o reflex
 
 Me levantei e saí do quarto, me retirando daquele clima pesado. Não havia nenhuma alma por ali, só as árvores distantes e o céu azul. De alguma forma, Olívia tinha transformado sua casa em uma fortaleza contra espíritos. 
 
-Assim que cheguei na cozinha, me deparei com ela. A Sra. Olivia estava na porta, olhando para fora, os cabelos soltos, enquanto o vento os remexia. 
+Assim que cheguei na cozinha, me deparei com ela. A Sra. Olívia estava na porta, olhando para fora, os cabelos soltos, enquanto o vento os remexia. 
 
 — Bom dia! — disse-me a senhora. 
 
-— Bom dia Sra. Olivia — falei — como está? 
+— Bom dia Sra. Olívia — falei — como está? 
 
 — Espiritualmente incomodada — ela me respondeu. 
 
@@ -52,9 +52,9 @@ Caminhei até a porta e olhei para o quintal. Os olhos que não tinha notado, es
 
 — O que isso quer dizer? — perguntei. 
 
-— Isso quer dizer que deve tomar cuidado com as suas habilidades — disse a Sra. Olivia — venha cá, vamos tomar um chá. 
+— Isso quer dizer que deve tomar cuidado com as suas habilidades — disse a Sra. Olívia — venha cá, vamos tomar um chá. 
 
-Caminhei para dentro enquanto a Sra. Olivia me preparava um chá quente. Sentei no sofá e vi Pedro descendo as escadas.
+Caminhei para dentro enquanto a Sra. Olívia me preparava um chá quente. Sentei no sofá e vi Pedro descendo as escadas.
 
 — Como foi sua noite? — Pedro me perguntou se sentando ao meu lado — algum pesadelo? 
 
@@ -64,7 +64,7 @@ Caminhei para dentro enquanto a Sra. Olivia me preparava um chá quente. Sentei 
 
 — Quer que eu seja sincera? — perguntei — não acho. Quanto mais longe eles ficarem de você, mais seguros estão. Nesse momento é melhor que ninguém saiba onde estamos. 
 
-— Então foi por isso que... — Pedro parou, e então mudou de assunto, em outro tom — Bom dia Sra. Olivia. 
+— Então foi por isso que... — Pedro parou, e então mudou de assunto, em outro tom — Bom dia Sra. Olívia. 
 
 — Por isso que o quê? — perguntei. 
 
@@ -74,7 +74,7 @@ Ele não tinha esquecido nada. Pedro não sabia mentir. Pelo menos, eu sabia bem
 
 Olhei para a janela, e uma brisa fina me atingiu. A brisa carregava uma tranquilidade serena que me fez relaxar os músculos e encostar minhas costas no sofá. 
 
-— É boa a sensação, não é? — perguntou a Sra. Olivia me trazendo um chá. 
+— É boa a sensação, não é? — perguntou a Sra. Olívia me trazendo um chá. 
 
 — Obrigado! — respondi — Mas de que sensação fala? 
 
@@ -94,17 +94,17 @@ Olhei para a janela, e uma brisa fina me atingiu. A brisa carregava uma tranquil
 
 — Ou uma águia, ou um golfinho, ou alguma criatura daqui há centenas de milhares de anos. A vida de todos é importante, por isso devemos compartilhar o mundo. 
 
-A Sra. Olivia me chamou com as mãos e se dirigiu até a porta enquanto eu bebia meu chá. A segui e saímos para fora. 
+A Sra. Olívia me chamou com as mãos e se dirigiu até a porta enquanto eu bebia meu chá. A segui e saímos para fora. 
 
 O terreno da casa dela era plano e podia ver bem melhor ao redor agora de dia. As árvores se escondiam atrás das cercas no horizonte e uma pequena lagoa repousava ao lado da casa dela. Caminhamos juntas até a parte de trás da casa, onde avistei uma égua branca dentro de um pequeno estábulo. 
 
 — Que linda! — exclamei encantada com o animal. 
 
-— Essa é a Leila. A primeira coisa que comecei a perceber quando via os espíritos, era que eu era capaz de sentir suas vitalidades — disse a Sra. Olivia, se aproximando da égua e a tocando — vamos, experimente. 
+— Essa é a Leila. A primeira coisa que comecei a perceber quando via os espíritos, era que eu era capaz de sentir suas vitalidades — disse a Sra. Olívia, se aproximando da égua e a tocando — vamos, experimente. 
 
 Hesitante, me aproximei de Leila e ergui a mão, tocando de leve em seu rosto. Seus grandes olhos me encantaram, nunca tinha tocado em um cavalo antes. 
 
-— Feche os olhos e sinta a respiração dela. Os batimentos — disse a Sra. Olivia — sua energia. 
+— Feche os olhos e sinta a respiração dela. Os batimentos — disse a Sra. Olívia — sua energia. 
 
 Obedeci e fechei meus olhos. Podia ouvir a respiração de Leila e sentir levemente seus batimentos pelas pontas dos dedos. Mas apenas alguns segundos tocando a égua, senti novamente aquela brisa a que eu estava tão habituada, mas nunca imaginei se tratar de algo assim. 
 
@@ -118,7 +118,7 @@ Isso me fez me lembrar do ano anterior, os ratos, os pássaros que Junior e Kell
 
 — Os demônios que nos atacaram no ano passado usavam espíritos para nos atingir. A garota tinha controle sobre os animais. Ela fazia com que eles nos atacassem. Seus olhos embranqueciam. 
 
-Sra. Olivia pensou e olhou em meus olhos. 
+Sra. Olívia pensou e olhou em meus olhos. 
 
 — Ao possuir a vitalidade de um espírito, os demônios projetam seus medos, anseios, memórias, tudo o que aquela vida viveu, em uma força maligna. Talvez a garota que me diz tenha tido experiências muito ruins com esses animais... ou ela era apaixonada por eles. Algum sentimento forte estava envolvido. Você precisa fortalecer sua alma. Para que nenhum demônio consiga usar seus sentimentos mais fortes contra aqueles que estão próximos a você, como fizeram comigo e com muitos outros. 
 
@@ -140,15 +140,15 @@ Leila moveu sua cabeça para o lado e relinchou inquieta, se virando para o outr
 
 — Não — respondeu a senhora — Leila está assim desde que chegaram. Há muita presença espiritual ao redor de nós. E ela sente isso. 
 
-Sra. Olivia colocou a mão sobre Leila e fechou os olhos. 
+Sra. Olívia colocou a mão sobre Leila e fechou os olhos. 
 
-— Tudo no mundo busca o perfeito equilíbrio. Equilíbrio significa anular qualquer oposto. O medo com a coragem, o ódio com o amor. E o desespero... com a tranquilidade — a égua se acalmou e a Sra. Olivia abriu seus olhos — uma médium pode equilibrar a energia de uma alma com a sua própria. E isso pode ser usado tanto como defesa quanto como ataque. 
+— Tudo no mundo busca o perfeito equilíbrio. Equilíbrio significa anular qualquer oposto. O medo com a coragem, o ódio com o amor. E o desespero... com a tranquilidade — a égua se acalmou e a Sra. Olívia abriu seus olhos — uma médium pode equilibrar a energia de uma alma com a sua própria. E isso pode ser usado tanto como defesa quanto como ataque. 
 
-A Sra. Olivia soltou a mão de Leila e ela novamente começou a se mexer, inquieta. Em seguida a senhora olhou para mim, esperando que eu agisse. Não sabia como faria aquilo, mas apenas a imitei. Coloquei a mão sobre a égua e fechei meus olhos. Uma sensação ruim percorreu minha espinha e meu coração começou a acelerar imediatamente. Minha cabeça doeu e um peso imenso caiu sobre o corpo, me fazendo cambalear enquanto tudo escurecia. 
+A Sra. Olívia soltou a mão de Leila e ela novamente começou a se mexer, inquieta. Em seguida a senhora olhou para mim, esperando que eu agisse. Não sabia como faria aquilo, mas apenas a imitei. Coloquei a mão sobre a égua e fechei meus olhos. Uma sensação ruim percorreu minha espinha e meu coração começou a acelerar imediatamente. Minha cabeça doeu e um peso imenso caiu sobre o corpo, me fazendo cambalear enquanto tudo escurecia. 
 
 — Eu sei — disse uma voz me acordando — é difícil. 
 
-Abri os olhos e vi a Sra. Olivia me erguendo para que me levantasse. 
+Abri os olhos e vi a Sra. Olívia me erguendo para que me levantasse. 
 
 — Leila estava com medo, você precisa sentir o oposto do medo para que consiga equilibrar. Senão, absorverá todo o medo dela. 
 
@@ -186,7 +186,7 @@ Pedro continuou olhando para mim esperando uma resposta mais clara.
 
 — Se conseguíssemos um registro do que tem lá, poderíamos atrair mais pessoas para a cidade. Curiosos, entusiastas, a polícia... e poderíamos tentar resgatar minha irmã. 
 
-— Acha sensato mandar mais pessoas para aquela cidade? — perguntou Pedro — a Sra. Olivia disse que aquele lugar é amaldiçoado. Quem garante que os que entrarem lá sairão vivos? 
+— Acha sensato mandar mais pessoas para aquela cidade? — perguntou Pedro — a Sra. Olívia disse que aquele lugar é amaldiçoado. Quem garante que os que entrarem lá sairão vivos? 
 
 — Talvez ele tenha razão — falei — se queremos que o mundo saiba do mal, precisamos ir para a origem dele. E tudo nos leva para essa cidade. Mas... não vou enviar a Glenda para correr este risco. 
 
@@ -212,7 +212,7 @@ De fato, aquele “mas é que” poderia ter sido omitido, pois vi a expressão 
 
 — Tudo bem. Já entendi. Está cansada desse gordo chato — disse Pedro. Eu não sabia se ele estava falando sério ou zoando. Mas o deixei ir para a sala enquanto via Filipo apertar os lábios sem saber o que dizer naquele momento. 
 
-Sra. Olivia demorou para entrar. Quando finalmente chegou à cozinha, me fez mais um pouco de chá e preparou o almoço para nós. 
+Sra. Olívia demorou para entrar. Quando finalmente chegou à cozinha, me fez mais um pouco de chá e preparou o almoço para nós. 
 
 Mais tarde tentamos mais uma vez trabalhar nossas energias, sentadas na sala, de mãos dadas. Ela me disse para anular qualquer sentimento que me atingisse. Era estranho senti-los repentinamente, e difícil anulá-los. Por volta das cinco da tarde, minha concentração já não era das melhores. Ansiava pelas seis horas, e meus olhos se abriam a cada minuto para verificar o tempo.
 
@@ -296,13 +296,13 @@ Filipo ficou com o olhar perdido.
 
 Ele fez uma pausa. Os olhos estavam fixos em algum ponto distante, a memória o arrastando de volta.
 
-— Meu pai voltou correndo. Foi aí que a coisa apareceu dentro da sala. O Cara-de-larva. Pegou a Manu pelo pescoço e levou ela. Meu avô morreu ali, tentando segurar aquilo.
+— Meu pai voltou correndo. Foi aí que a coisa apareceu dentro da sala. O Cara-de-Larva. Pegou a Manu pelo pescoço e levou ela. Meu avô morreu ali, tentando segurar aquilo.
 
 — Meu pai e eu nos refugiamos na igreja, com os outros, até fugirmos pela névoa, sem a Manu. Quando acordamos, estávamos na estrada, diante do arco da cidade. Nunca mais conseguimos entrar. Todas as vezes... nos encontrávamos com ele. Ele não quer que ninguém entre nem saia de lá.
 
 Ele olhou para mim, seus olhos cheios de uma determinação cansada.
 
-— Por isso precisamos de uma selifa que pudesse derrotar o Cara-de-larva, para resgatarmos minha irmã.
+— Por isso precisamos de uma selifa que pudesse derrotar o Cara-de-Larva, para resgatarmos minha irmã.
 
 Olhei para ele e me movi para pegar em sua mão. Ele não resistiu, então toquei nela. 
 

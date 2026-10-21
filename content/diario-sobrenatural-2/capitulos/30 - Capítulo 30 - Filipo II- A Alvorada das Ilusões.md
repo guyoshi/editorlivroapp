@@ -280,7 +280,7 @@ Meu pai se aproximou, se apoiando no banco para não cair, o rosto manchado de s
 
 Segui adiante, analisando os símbolos à margem do texto. O nome do condenado aparecia poucas vezes, sempre acompanhado da palavra pecador, mas havia também selos que pareciam mais recentes do que o resto do livro. Não eram de punição comum. Eram selos de contenção, de limite.
 
-— Pai…— comecei. — Isso aqui… diz que esse ser… esse… Cara-de-larva… possui um selo de contenção forte… 
+— Pai…— comecei. — Isso aqui… diz que esse ser… esse… Cara-de-Larva… possui um selo de contenção forte… 
 
 — O que significa? — perguntou meu pai. 
 

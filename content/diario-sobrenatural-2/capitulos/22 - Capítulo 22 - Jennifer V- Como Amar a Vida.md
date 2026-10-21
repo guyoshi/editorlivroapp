@@ -1,4 +1,4 @@
-O silêncio da casa da Sra. Olivia era denso. A chuva tamborilava contra as janelas e o som constante fazia o tempo se arrastar. Eu estava deitada, inquieta, no quarto envolto em sombras, com a sensação de algo iminente.
+O silêncio da casa da Sra. Olívia era denso. A chuva tamborilava contra as janelas e o som constante fazia o tempo se arrastar. Eu estava deitada, inquieta, no quarto envolto em sombras, com a sensação de algo iminente.
 
 Levantei e desci as escadas, obedecendo à minha bexiga. Mas o andar de baixo era um corredor estreito, cercado por grades enferrujadas que se estendiam até onde a vista alcançava. O chão estava coberto por um líquido viscoso e frio que engolia meus passos, e o ar tinha cheiro de carne queimada e decomposição.
 
@@ -24,31 +24,31 @@ Filipo franziu a testa, com uma compreensão inquieta.
 
 — Eu vi um crânio de bode em meu sonho — falei, o que fez Filipo franzir o cenho e me olhar com extrema preocupação.  
 
-Ele não respondeu, e eu não queria falar sobre aquilo. Fui ao banheiro e me recusei a olhar no espelho. Ao sair, encontrei a Sra. Olivia preparando chá e cortando peras com uma calma que contrastava com o meu tumulto.
+Ele não respondeu, e eu não queria falar sobre aquilo. Fui ao banheiro e me recusei a olhar no espelho. Ao sair, encontrei a Sra. Olívia preparando chá e cortando peras com uma calma que contrastava com o meu tumulto.
 
 — Oh, Jennifer, está com a cara péssima. Parece que teve uma visão — disse ela com uma voz suave e acolhedora. — Venha, sente-se. Beba um pouco de chá. 
 
 Sentei à mesa. O aroma do chá e das peras trouxe um pouco de alívio.
 
-— Obrigada, Sra. Olivia — disse eu, tentando controlar a voz. — Estou pronta para a próxima lição.
+— Obrigada, Sra. Olívia — disse eu, tentando controlar a voz. — Estou pronta para a próxima lição.
 
-A Sra. Olivia me observou como se entendesse mais do que dizia.
+A Sra. Olívia me observou como se entendesse mais do que dizia.
 
 — Os pesadelos muitas vezes refletem os medos mais profundos. Mas são também uma oportunidade de nos prepararmos melhor — disse ela, sua voz carregada de um tom enigmático. — Me diga, o que você viu, menina. 
 
-Contei o que Filipo me disse e o que sonhei. A Sra. Olivia não demonstrou reação alguma e, quando terminei, se levantou, suspirando. O que aquele suspiro significava?
+Contei o que Filipo me disse e o que sonhei. A Sra. Olívia não demonstrou reação alguma e, quando terminei, se levantou, suspirando. O que aquele suspiro significava?
 
 — Acho que não é hora de falarmos sobre isso. Mas de fato seu amigo estava certo. Cabras, bodes, não são coisa boa. Acho que o que você está vendo, tem a ver com uma força maligna extremamente perigosa. É por isso que você deve se preparar e blindar sua mente e alma contra essas forças. 
 
 — E como eu posso fazer isso? — perguntei. 
 
-— Você já aprendeu uma forma. Equilíbrio espiritual. E agora... precisa aprender a usar sua vitalidade — disse a Sra. Olivia. 
+— Você já aprendeu uma forma. Equilíbrio espiritual. E agora... precisa aprender a usar sua vitalidade — disse a Sra. Olívia. 
 
-Terminado o chá, a Sra. Olivia me levou para a sala e me sentou no sofá.
+Terminado o chá, a Sra. Olívia me levou para a sala e me sentou no sofá.
 
 — Vitalidade é, como o nome diz, o que é vital para a vida. Sem ela não podemos viver — começou ela. 
 
-A Sra. Olivia pegou um vaso no armário e o pousou na mesa à minha frente. Despejou um pó dentro e ateou fogo. Chamas azuis se ergueram no ar.
+A Sra. Olívia pegou um vaso no armário e o pousou na mesa à minha frente. Despejou um pó dentro e ateou fogo. Chamas azuis se ergueram no ar.
 
 — O termo vitalidade era usado para pessoas vivas até os primeiros estudos espirituais começarem a compreender as forças sobrenaturais da forma que elas funcionam. Quando você morre, sua alma carrega sua vitalidade consigo. Isso significa que espíritos também possuem essa força de vida. E é dessa força que os demônios se alimentam. Se você consegue controlar sua vitalidade, bloquear, transformá-la... você se torna impenetrável. O que eu vou te passar aqui, é apenas teórico para mim. Eu não tenho forças o suficiente para controlar a minha vitalidade, mas você sendo uma selifa, com certeza consegue. 
 
@@ -56,7 +56,7 @@ A Sra. Olivia pegou um vaso no armário e o pousou na mesa à minha frente. Desp
 
 — Um elo — compreendi. 
 
-Sra. Olivia assentiu. 
+Sra. Olívia assentiu. 
 
 — Espíritos fazem isso com mais facilidade, alguns porque possuem uma ligação especial com o objeto, outros porque é um pertence que remetia muito a ele quando era vivo. Espíritos podem transferir sua vitalidade total ou parcial para algum objeto, ou até mesmo para alguém. 
 
@@ -66,11 +66,11 @@ Sra. Olivia assentiu.
 
 — Espere um pouco... se uma selifa também consegue fazer isso... significa que eu posso... possuir alguém? 
 
-— Não só uma pessoa, como também um espírito — respondeu a Sra. Olivia.
+— Não só uma pessoa, como também um espírito — respondeu a Sra. Olívia.
 
 — O que tem dentro desse vaso? — perguntei, encarando as chamas azuis. 
 
-Sra. Olivia olhou para mim e sorriu. 
+Sra. Olívia olhou para mim e sorriu. 
 
 — Cinzas de demônio — disse ela — você já deve estar acostumada com essas chamas. 
 
@@ -100,7 +100,7 @@ Aquilo era demais para mim. Eu não via mais sentido naquilo que eu estava fazen
 
 — Ok. Vamos terminar logo isso. Você disse que eu posso transferir minha vitalidade. Como posso fazer isso? — indaguei. 
 
-Sra. Olivia pareceu perceber meu desconforto e se levantou, apagando as chamas azuis com um copo de água. 
+Sra. Olívia pareceu perceber meu desconforto e se levantou, apagando as chamas azuis com um copo de água. 
 
 — Você precisa aprender a ter um apego forte à sua vida. Tão forte a ponto de que você consiga transferir este apego a algum outro objeto ou outra pessoa. Você precisa amar a vida. 
 
@@ -108,13 +108,13 @@ Aquela lição seria a mais difícil para mim. Eu estava aproveitando a vida mai
 
 — Ok, entendi — falei, me levantando — então vou tentar amar a vida. 
 
-Sra. Olivia sorriu para mim e também se levantou. 
+Sra. Olívia sorriu para mim e também se levantou. 
 
 — Sim, podemos encerrar por hora — disse ela — vou fazer o almoço. Fique a vontade. 
 
-— Obrigada, Sra. Olivia — agradeci, ansiosa, seguindo para a sala.
+— Obrigada, Sra. Olívia — agradeci, ansiosa, seguindo para a sala.
 
-Estava cansada, e aquilo que a Sra. Olivia me disse surgia como facas ricocheteando em meu cérebro. Quando eu achava que minha vida tinha um sentido, ela deixava de ter. 
+Estava cansada, e aquilo que a Sra. Olívia me disse surgia como facas ricocheteando em meu cérebro. Quando eu achava que minha vida tinha um sentido, ela deixava de ter. 
 
 Após o almoço, decidi sair para tomar um ar do lado de fora. Pedro ficou dentro de casa assistindo TV. E enquanto eu descansava perto de uma árvore, Filipo se sentava do meu lado. 
 
@@ -148,15 +148,15 @@ Olhei para a estrada. Filipo se deitou, de olhos no céu. Como eu queria ficar s
 
 Fechei os olhos um segundo e vi cinza caindo como neve sobre uma estrada de terra, e um livro grande ardendo sem fazer fumaça. Abri os olhos: era só o sol por entre as folhas.
 
-“Desculpa ter faltado naquele dia. Está disponível hoje à noite?”
+“Desculpa ter faltado ontem. Está disponível hoje à noite?”
 
 Não demorou para que eu recebesse a resposta:
 
 “Sim, querida, às 21hrs”
 
-Guardei o celular e me deitei. Às 19 horas desci para a janta e depois subimos de volta. A Sra. Olivia perguntou se eu queria treinar mais um pouco, e recusei. Quando todos já estavam na cama, desci à cozinha e acompanhei o relógio. 20 horas. 20 e meia. Por fim, 21 horas.
+Guardei o celular e me deitei. Às 19 horas desci para a janta e depois subimos de volta. A Sra. Olívia perguntou se eu queria treinar mais um pouco, e recusei. Quando todos já estavam na cama, desci à cozinha e acompanhei o relógio. 20 horas. 20 e meia. Por fim, 21 horas.
 
-Em situações normais, eu voltaria para a cama. Mas abri a porta e comecei a correr pelo terreno da Sra. Olivia, em linha reta até a estrada nos fundos, sem me importar com o que encontraria. Eu estava cansada de ficar presa. Se o Cara-de-Larva surgisse, que me levasse, que acabasse comigo logo. Eu precisava fazer algo que eu realmente quisesse.
+Em situações normais, eu voltaria para a cama. Mas abri a porta e comecei a correr pelo terreno da Sra. Olívia, em linha reta até a estrada nos fundos, sem me importar com o que encontraria. Eu estava cansada de ficar presa. Se o Cara-de-Larva surgisse, que me levasse, que acabasse comigo logo. Eu precisava fazer algo que eu realmente quisesse.
 
 Vi uma luz se aproximando. Parei no instante em que um carro freou a poucos metros, protegi os olhos com as mãos e fui devagar até a lateral. O vidro escuro desceu e um homem moreno de cavanhaque olhou para mim.
 
@@ -184,7 +184,7 @@ Segui os números dos estabelecimentos até o 531. A entrada estava cheia e eu n
 
 — Desculpe — falei. 
 
-Então vi um homem me olhando, encostado num carro preto, sorrindo. Olhei para os lados para ver se era para outra pessoa, mas não havia ninguém. Desviei o olhar. Era melhor pedir um táxi e voltar para a casa da Sra. Olivia. Aquilo me fazia mal.
+Então vi um homem me olhando, encostado num carro preto, sorrindo. Olhei para os lados para ver se era para outra pessoa, mas não havia ninguém. Desviei o olhar. Era melhor pedir um táxi e voltar para a casa da Sra. Olívia. Aquilo me fazia mal.
 
 — Oi — disse uma voz, tocando meu braço. Saltei de susto. Era aquele homem.
 
@@ -446,7 +446,7 @@ Hesitei antes de me expressar.
 
 — Fogo. Emoção. E uma vontade imensa de... viver. 
 
-— Então deixa essa chama queimar, garota — Glenda me disse, colocando sua mão em minha coxa. 
+— Então deixa essa chama queimar, garota — Glenda me disse, segurando minha mão. 
 
 Ela se aproximou de mim e me beijou mais uma vez. Mas dessa vez, diferente da loucura de antes, tivemos todo o tempo do mundo para saborear o momento. Minha respiração era diferente ali, meu coração batia diferente, eu nunca tinha sentido aquilo antes. A única coisa que eu queria era passar o resto da minha vida debaixo daquela ponte sentindo aquilo.
 

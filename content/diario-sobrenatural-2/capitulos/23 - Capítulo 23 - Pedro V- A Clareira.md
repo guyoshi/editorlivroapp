@@ -238,7 +238,7 @@ Sra. Olívia encarou Jennifer com a seriedade de quem não tá pedindo, tá avis
 
 — Sentiram o quê? — perguntei, confuso.
 
-— Vamos treinar agora. Com urgência — disse a Sra. Olivia. 
+— Vamos treinar agora. Com urgência — disse a Sra. Olívia. 
 
 Jennifer se levantou num impulso. O rosto dela tinha mudado. A leveza de segundos atrás sumiu, engolida por aquela responsabilidade pesada que ela carregava como se fosse a própria coluna.
 

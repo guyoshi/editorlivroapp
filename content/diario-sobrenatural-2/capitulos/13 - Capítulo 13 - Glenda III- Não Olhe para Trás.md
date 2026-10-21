@@ -1,6 +1,6 @@
 “Cada suspiro que der, cada movimento que fizer, a cada laço que quebrar, a cada passo que você der, eu vou estar te observando.”
 
-Naquela quinta-feira de manhã, eu reli o relatório inteiro do que tinha conseguido juntar sobre Vila Velha procurando por falhas. Corrigi duas frases que soavam como opinião, reorganizei as informações para que a sequência parecesse inevitável e, quando ficou com cara de verdade, imprimi tudo de novo.
+Naquela quarta-feira de manhã, eu reli o relatório inteiro do que tinha conseguido juntar sobre Vila Velha procurando por falhas. Corrigi duas frases que soavam como opinião, reorganizei as informações para que a sequência parecesse inevitável e, quando ficou com cara de verdade, imprimi tudo de novo.
 
 Chamei um táxi. A Paper ficava num prédio alto demais para a cidade fingir que era pequena, com vidro a mais e humildade a menos. Subi de elevador e aguardei ser chamada, como se fosse apenas mais uma candidata.
 
