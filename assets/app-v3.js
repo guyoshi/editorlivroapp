@@ -129,6 +129,7 @@ document.addEventListener("beta:admin",syncManuscriptCopyPolicy);
 document.addEventListener("DOMContentLoaded",syncManuscriptCopyPolicy);
 
 function showView(name){
+  if(name!=="reader")window.LityraTTS?.stop?.();
   Object.entries(views).forEach(([k,el]) => el.hidden = k!==name);
   window.BetaAnalytics?.setView?.(name);
   window.BetaPresence?.setView?.(name);
@@ -300,6 +301,7 @@ async function checkAudioAvailability(){
 async function openChapter(idx){
   const book = state.currentBook;
   if(!book||!canOpenBook(book.id)){
+    window.LityraTTS?.stop?.();
     try{audioEl().pause();}catch(e){}
     state.currentBook=null;
     state.currentChapterIdx=-1;
@@ -310,6 +312,8 @@ async function openChapter(idx){
   let ch = book.chapters[idx];
   if(!ch) return;
   audioEl().pause();
+  window.LityraTTS?.stop?.();
+  ttsMode=false;
   window.BetaAnalytics?.closeChapter?.();
   window.BetaPresence?.closeChapter?.();
   state.currentChapterIdx = idx;
@@ -400,6 +404,7 @@ async function openChapter(idx){
     $("#chapterText").innerHTML = `<p class="empty-hint">Não consegui carregar o texto deste capítulo.</p>`;
   }
 
+  if(state.currentChapterIdx!==idx)return; // Ignora carregamentos atrasados.
   // player inferior: permanece visível em todo capítulo.
   // Recursos ausentes ficam cinzentos e não reproduzíveis, em vez de sumirem.
   const player = $("#audioEl");
@@ -407,6 +412,8 @@ async function openChapter(idx){
   bar.hidden = false;
   bar.classList.remove("player-missing");
   if(ch.audio){
+    ttsMode=false;
+    const opts=$("#ttsOptions");if(opts)opts.hidden=true;
     setNarrationAvailability(true);
     views.reader.classList.add("has-narration");
     player.src = resolve(ch.audio);
@@ -422,8 +429,7 @@ async function openChapter(idx){
       // O manifesto pode apontar para uma narração que ainda não foi publicada.
       // Nesse caso o controle continua no lugar, mas passa ao estado indisponível.
       try{ player.pause(); }catch(e){}
-      setNarrationAvailability(false);
-      views.reader.classList.remove("has-narration");
+      activateTTS(book,ch);
       player.removeEventListener("error", onErr);
     }, {once:true});
     setMediaSession(book, ch);
@@ -431,8 +437,7 @@ async function openChapter(idx){
     try{ player.pause(); }catch(e){}
     player.removeAttribute("src");
     try{ player.load(); }catch(e){}
-    setNarrationAvailability(false);
-    views.reader.classList.remove("has-narration");
+    activateTTS(book,ch);
   }
 }
 
@@ -600,6 +605,36 @@ function savePos(t){
 // ---------------- player de áudio ----------------
 const audioEl = () => $("#audioEl");
 let narrationAvailable = false;
+let ttsMode = false;
+
+function renderTTSStatus(detail){
+  if(!ttsMode||!detail?.ready)return;
+  const now=$("#timeCurrent"),end=$("#timeTotal"),seek=$("#seek"),hint=$("#ttsNotice");
+  if(now)now.textContent="Trecho "+Math.min(detail.count,detail.index+1);
+  if(end)end.textContent="de "+detail.count;
+  if(seek)seek.value=String(Math.round(detail.fraction*1000));
+  if(hint)hint.textContent=detail.error||"Leitura gratuita com a voz do aparelho. Pode ser interrompida com a tela bloqueada.";
+}
+function activateTTS(book,ch){
+  const usable=!!window.LityraTTS?.prepare?.(book,ch,state.currentChapterRaw);
+  ttsMode=usable;
+  const settings=$("#ttsOptions"),back=$("#btnBack15");
+  if(settings)settings.hidden=!usable;
+  if(back){back.title=usable?"Voltar um trecho":"Voltar 15s";back.setAttribute("aria-label",back.title);}
+  views.reader.classList.toggle("has-narration",usable);
+  setNarrationAvailability(usable);
+  if(!usable)return;
+  renderTTSStatus(window.LityraTTS.status());
+  if("mediaSession" in navigator){
+    try{
+      navigator.mediaSession.metadata=new MediaMetadata({title:"Cap. "+ch.n+" — "+ch.title,artist:book.title,album:book.subtitle||book.title});
+      navigator.mediaSession.setActionHandler("play",()=>window.LityraTTS?.play());
+      navigator.mediaSession.setActionHandler("pause",()=>window.LityraTTS?.pause());
+      navigator.mediaSession.setActionHandler("seekbackward",()=>window.LityraTTS?.back());
+      navigator.mediaSession.setActionHandler("seekforward",()=>window.LityraTTS?.seek(Math.min(1,window.LityraTTS.status().fraction+.025)));
+    }catch(_){/* Alguns navegadores não oferecem comandos externos para voz. */}
+  }
+}
 
 function setNarrationAvailability(available){
   narrationAvailable = !!available;
@@ -609,7 +644,7 @@ function setNarrationAvailability(available){
     btn.disabled=!narrationAvailable;
     btn.setAttribute("aria-disabled",String(!narrationAvailable));
     btn.setAttribute("aria-pressed","false");
-    const label=narrationAvailable?"Tocar narração":"Narração indisponível neste capítulo";
+    const label=narrationAvailable?(ttsMode?"Ouvir com voz do aparelho":"Tocar narração"):"Narração indisponível neste capítulo";
     btn.title=label;
     btn.setAttribute("aria-label",label);
     const path=$("#narrationStatePath");
@@ -848,16 +883,24 @@ function initPlayerControls(){
   setNarrationButtonState(false);
   btnPlay.addEventListener("click", ()=>{
     if(!narrationAvailable)return;
+    if(ttsMode){
+      showHintOnce("lityra:hintTTS","Leitura em voz alta","Esta voz é gerada pelo aparelho. A narração pode parar com a tela bloqueada, mas a posição fica salva neste dispositivo.");
+      const tts=window.LityraTTS;
+      tts.status().playing?tts.pause():tts.play();
+      return;
+    }
     showHintOnce("jesed:hintPlay", "Narração do capítulo", "Toque aqui pra ouvir o capítulo narrado. Dá pra pausar e continuar de onde parou a qualquer momento, inclusive em outro aparelho.");
     a.paused ? a.play() : a.pause();
   });
   a.addEventListener("play", ()=>{
+    if(ttsMode)return;
     setNarrationButtonState(true);
     window.BetaAnalytics?.narration?.(true);
     window.BetaPresence?.narration?.(true);
     setAmbientDuck(AMBIENT_DUCK_FACTOR);
   });
   a.addEventListener("pause", ()=>{
+    if(ttsMode)return;
     setNarrationButtonState(false);
     window.BetaAnalytics?.narration?.(false);
     window.BetaPresence?.narration?.(false);
@@ -865,6 +908,7 @@ function initPlayerControls(){
     savePos(a.currentTime);
   });
   a.addEventListener("timeupdate", ()=>{
+    if(ttsMode)return;
     updateTimes();
     if(a.duration){
       const audioPct=(a.currentTime/a.duration)*100;
@@ -875,6 +919,7 @@ function initPlayerControls(){
     if(Math.floor(a.currentTime) % 5 === 0) savePos(a.currentTime);
   });
   a.addEventListener("ended", ()=>{
+    if(ttsMode)return;
     setNarrationButtonState(false);
     window.BetaAnalytics?.narration?.(false);
     window.BetaPresence?.narration?.(false);
@@ -887,10 +932,32 @@ function initPlayerControls(){
   });
 
   $("#seek").addEventListener("input", (e)=>{
+    if(ttsMode)return;
     if(!a.duration) return;
     a.currentTime = (Number(e.target.value)/1000) * a.duration;
   });
-  $("#btnBack15").addEventListener("click", ()=> skip(-15));
+  $("#seek").addEventListener("change",event=>{if(ttsMode)window.LityraTTS?.seek(Number(event.target.value)/1000);});
+  $("#btnBack15").addEventListener("click",()=>{if(ttsMode)window.LityraTTS?.back();else skip(-15);});
+  let lastTTSPlaying=false;
+  document.addEventListener("lityra:tts-state",event=>{
+    const info=event.detail;
+    if(!ttsMode)return;
+    renderTTSStatus(info);
+    setNarrationButtonState(info.playing);
+    if(info.playing!==lastTTSPlaying){
+      window.BetaAnalytics?.narration?.(info.playing);
+      window.BetaPresence?.narration?.(info.playing);
+      setAmbientDuck(info.playing?AMBIENT_DUCK_FACTOR:1);
+      lastTTSPlaying=info.playing;
+    }
+    if(info.type==="progress"||info.type==="ended"){
+      const pct=Math.round(info.fraction*100);
+      saveChapterPct(pct);
+      window.BetaAnalytics?.progress?.(pct);
+      window.BetaPresence?.progress?.(pct);
+    }
+    if(info.type==="ended")setChapterDone(true,{silent:true});
+  });
 
   const ambientBtn=$("#btnAmbient");
   const players=ambientPlayers();
@@ -1247,6 +1314,8 @@ function initNav(){
       const to = btn.dataset.back;
       if(to==="library") showView("library");
       if(to==="book"){
+        window.LityraTTS?.stop?.();
+        ttsMode=false;
         audioEl().pause();
         exitFocus();
         renderBookView();
@@ -1286,6 +1355,8 @@ document.addEventListener("beta:reader-access-change",async e=>{
       || (currentBookId && !(access.allowedBooks||[]).includes(currentBookId));
     if(mustLeave){
       try{audioEl().pause();}catch(_){}
+      window.LityraTTS?.stop?.();
+      ttsMode=false;
       try{window.BetaAnalytics?.closeChapter?.();}catch(_){}
       try{window.BetaPresence?.closeChapter?.();}catch(_){}
       state.currentBook=null;
