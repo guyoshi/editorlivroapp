@@ -53,7 +53,7 @@ O jeito que ela respondeu não ajudou em nada.
 
 – O Agouro raramente aparece diretamente. Usa outros demônios para controlar os mortos e manipular a mente dos vivos. É mais seguro assim para ele, e mais cruel para nós.
 – E o que ele quer, exatamente?
-– Abrir uma porta entre o mundo inferior e o mundo de vocês – disse, como se falasse de uma reforma de casa. – Para que outros demônios subam. E está muito perto de conseguir. Todo demônio precisa de um canal para agir, e Azazel precisa de uma alma viva que se entregue por vontade própria, uma alma com um desejo tão forte que se abra completamente para o que ele quiser. Com essa alma entregue, e os seis demônios dos sentidos cada um ligado a uma alma, ele terá força suficiente para abrir a porta.
+– Abrir uma porta entre o mundo inferior e o mundo de vocês – disse, como se falasse de uma reforma de casa. – Para que outros demônios subam. E está muito perto de conseguir. Todo demônio precisa de um canal para agir, e Azazel procura uma alma viva capaz de abrir essa passagem. Não é qualquer alma que serve. Também não serve uma já comprometida com ele em outro pacto, nem uma que ele tomou à força. Precisa que a pessoa aceite se entregar por vontade própria. Os demônios dos sentidos lhe dão poder para alcançar os vivos, mas não substituem essa escolha.
 
 Aquela parte eu já suspeitava. Mas havia uma pergunta que não me deixava em paz desde a D. Maria Marques.
 
@@ -63,9 +63,11 @@ Aquela parte eu já suspeitava. Mas havia uma pergunta que não me deixava em pa
 Ótimo. Ser “valiosa” para um demônio. Exatamente o tipo de elogio que eu queria.
 
 – E por que ele decidiu agir agora? Essa cidade está cheia de adolescentes há anos.
-– Azazel está mais fraco do que já foi – respondeu Luiza. – Precisa ter certeza de que qualquer energia que gastar vai valer a pena, senão sucumbe. Por muito tempo se limitou à casa dos Marques e a pequenas manipulações pela cidade, colhendo almas e estudando mentes. – Olhou para a lareira. – Recentemente sentiu algo diferente, uma alma viva presa no meio das outras, com uma vulnerabilidade específica que poderia ser a chave do plano dele. Ele não sabe exatamente qual é essa alma, mas o cheiro dessa fraqueza bastou para que começasse a procurar.
+– Azazel está mais fraco do que já foi – respondeu Luiza. – Precisa ter certeza de que qualquer energia que gastar vai valer a pena, senão sucumbe. Por muito tempo se limitou à casa dos Marques e a pequenas manipulações pela cidade, colhendo almas e estudando mentes. – Olhou para a lareira. – Recentemente sentiu algo diferente, uma alma viva com algo que as outras não tinham. Talvez fosse a chave do plano dele. Não sei se já a encontrou, mas isso bastou para que começasse a procurar.
 – Então um de nós é a chave – concluí. – E se ele já sabe quem é, por que não nos leva simplesmente? Todos nós já entramos naquela casa pelo menos uma vez.
-– Para a porta ser aberta, a entrega precisa ser voluntária. A pessoa viva tem que escolher pôr a própria alma nas mãos do Agouro. Entregar outra pessoa, ou matá-la, não faz essa escolha por ela. E ele sabe transformar amor e culpa numa oferta que parece livre. Se ele os torturasse, se aparecesse como realmente é, nenhum de vocês consentiria.
+– Para a porta ser aberta, a entrega precisa ser voluntária. A pessoa viva tem que aceitar o acordo com o Agouro. Entregar outra pessoa, ou matá-la, não faz essa escolha por ela.
+– E se ele entrar na cabeça de alguém? – perguntei. – Já vimos isso acontecer.
+– Ele pode usar o corpo. Não pode obrigar aquela alma a escolher por ele. É por isso que faz promessas. Um pacto para prestar serviços é uma coisa; entregar-se a ele para abrir a passagem é outra. E ele sabe transformar amor e culpa numa oferta que parece livre.
 – Então ele quer que a gente queira ser dele. Que abra o coração, como a D. Maria disse.
 – Exatamente. E quando isso acontecer, será tarde demais.
 
@@ -293,9 +295,11 @@ E começou a contar. O Regime Militar, o trabalho de “eliminar” opositores, 
 Ele fechou os olhos, como se essa parte doesse mais do que qualquer acusação.
 
 – Vamos destruir os Elos e acabar com tudo isso, os espíritos, os demônios, o Agouro. Já sabemos como.
-– Não – disse o velho, firme. – Se fizerem isso, eu nunca mais vou vê-la. Alex nunca mais vai ver a mãe. Anos depois que a perdi, descobri o demônio Agouro. Ele se interessou pela minha alma, disse que eu tinha um desejo forte e podia realizá-lo em troca de um pacto. Eu aceitei. Entreguei a mim e ao meu filho, e em troca ele nos permitiria ver a Calêndula. Cumpriu. Pelo menos uma vez por mês, a vemos na casa.
+– Não – disse o velho, firme. – Se fizerem isso, eu nunca mais vou vê-la. Alex nunca mais vai ver a mãe. Anos depois que a perdi, descobri o demônio Agouro. Ele se interessou pela minha alma, disse que eu tinha um desejo forte e podia realizá-lo em troca de um pacto. Eu aceitei. O Alex também aceitou fazer parte do pacto. Em troca, Agouro nos deixaria ver a Calêndula. Cumpriu, pelo menos uma vez por mês. Prometeu que, quando concluísse seus planos, não precisaríamos mais nos despedir dela.
 – E o que ele pediu em troca? – perguntou Vini.
-– Há pouco mais de duas semanas, um garoto bateu à nossa porta – contou Alex. – Disse ao meu pai que estava na hora de pagar o favor. Pediu que levasse objetos às casas de alguns moradores. Eram os Elos. Eu ajudei. Cada Elo que colocamos pertence a um membro da família.
+– Há pouco mais de duas semanas, um garoto bateu à nossa porta – contou Alex. – Disse que estava na hora de pagar o favor. Tinha os endereços de vocês. Mandou levar alguns objetos para perto dos moradores daquelas casas. Nós não escolhemos ninguém. E não fomos encarregados de mexer em todos os Elos.
+– Mas por que as nossas casas? – perguntei.
+– Perguntei a mesma coisa – respondeu Alex. – O garoto disse que havia gente ali disposta a fazer qualquer coisa por alguém. Foi só isso.
 
 Respirei fundo.
 
@@ -309,7 +313,7 @@ Uma palavra dele sobressaiu na minha cabeça.
 Olhei dos dois para os segundos de silêncio em que ninguém queria ser o primeiro a falar.
 
 – Alex, você também fez um pacto com o Agouro?
-– Quando você faz um pacto, condena sua alma. Quando morre, pertence ao demônio. Eu quis salvar a alma do meu pai. Pedi que ele fosse libertado e, em troca, eu protegeria os Elos até que o Agouro realizasse o desejo dele.
+– Eu sabia do primeiro pacto e aceitei – disse Alex. – Mas queria tirar meu pai daquilo. Agouro prometeu libertar a alma dele quando abrisse a porta. Em troca, eu protegeria os Elos até o fim. Se vocês destruírem tudo agora, meu pai continua preso.
 
 A raiva subiu junto com uma vontade de rir da estupidez humana.
 
@@ -317,8 +321,8 @@ A raiva subiu junto com uma vontade de rir da estupidez humana.
 
 Ele não respondeu, e o silêncio foi resposta suficiente.
 
-– Se você salvou o seu pai, quem é que vai salvar você, Alex?
-– Vamos pensar numa solução. Podemos fazer a mesma coisa que fiz com o meu pai, mas com outra pessoa, que pode fazer com outra depois.
+– E, se ele cumprir a promessa e libertar seu pai, quem vai libertar você, Alex?
+– Quando meu pai estiver livre, vamos pensar numa saída para mim. Deve haver outro acordo possível.
 – Vocês estão brincando com fogo – falou Vinicius. – São demônios, Alex. Não vão trocar uma alma por outra se não souberem que podem ficar com as duas.
 – Está dizendo que o Agouro não vai cumprir a parte dele?
 – Ele está dizendo que demônios são demônios – respondi. – Não estão aqui pra nos ajudar, estão aqui pra eles. Vocês podem nos ajudar a impedir que ele abra a porta, e se conseguirmos teremos tempo pra pensar numa forma de lidar com o pacto. Se não fizermos nada, ele vai usar uma alma pra abrir um portal, e ninguém sabe o que vem depois.

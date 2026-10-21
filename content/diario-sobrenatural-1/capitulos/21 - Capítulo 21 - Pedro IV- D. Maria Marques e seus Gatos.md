@@ -376,7 +376,7 @@ D. Maria continuou:
 
 Achei que a D. Maria fosse cortar a cara da Priscila, mas ela respondeu com a mesma voz calma:
 
-– Eu não podia, menina. Ele tinha um revólver que dizia ser herança de família e vivia se gabando disso. Se eu fizesse alguma coisa, ele me matava, e eu ainda tinha o Gabriel. – Os olhos brilharam. – Sempre que ia visitar, levava um presentinho pros meus sobrinhos. Este livro foi o último que dei à Ingrid, em junho de 68. Na última vez que a vi, ela estava estranha, olhando fixo pra um canto da sala onde não tinha ninguém.
+– Eu não podia, menina. Ele tinha um revólver que dizia ser herança de família e vivia se gabando disso. Se eu fizesse alguma coisa, ele me matava, e eu ainda tinha o Gabriel. – Os olhos brilharam. – Sempre que ia visitar, levava um presentinho pros meus sobrinhos. Este livro foi o último que dei à Ingrid, em junho de 69. Na última vez que a vi, ela estava estranha, olhando fixo pra um canto da sala onde não tinha ninguém.
 – Como se visse alguém, um espírito ou algo assim – comentou Jennifer.
 – Eu não pensava nisso na época, mas depois que a Luiza me contou sobre a força daquela casa passou a fazer sentido. – Respirou fundo. – Um tempo depois, numa quinta-feira à tarde, ouvi um barulho lá fora. Quando saí, homens armados, aliados do regime, invadiram a minha casa. Mataram o meu Gabriel na minha frente. Meu único filho. Eu não lembro de tudo daquela noite, minha cabeça apaga muita coisa, mas lembro do rosto do desgraçado que atirou nele. Magro, olhos fundos, uma verruga no pescoço. O nome na farda: Francis. Ele ainda teve a coragem de me pedir desculpa antes de ir embora. – A voz tremeu. – Passei a noite abraçada ao corpo do meu filho e de manhã montei no cavalo e fui até a casa da minha irmã.
 
@@ -460,9 +460,9 @@ Por que ela não tinha falado disso antes?, pensei.
 – O que isso quer dizer?
 – Menina, qual é a forma mais fácil de abrir o coração?
 – Se apaixonando – respondeu Kelly, hesitando.
-– Isso. Se apaixonando, ou confiando demais nas pessoas. Não é o amor que abre a porta, menina. É fazer alguém acreditar que precisa entregar a própria vida para salvar quem ama. É assim que essa coisa trabalha. Os que têm essa ferida são os que ela quer. Vocês disseram que resistem ao controle dela, então pode ser que queira um de vocês, e vai tentar atingir as fraquezas de cada um.
+– Isso. Se apaixonando, ou confiando demais nas pessoas. Mas ninguém entrega a própria alma só porque se apaixonou. Primeiro essa força precisa fazer a pessoa acreditar que deve alguma coisa a ela, que só assim vai salvar quem ama. Os que têm essa ferida são os que ela procura. Vocês disseram que resistem ao controle dela, então pode ser que queira um de vocês, e vai tentar atingir as fraquezas de cada um.
 – Chega – resmungou Priscila. – D. Maria, existe alguma forma de acabar com isso e ficar livre?
-– Talvez. Luiza escrevia que, pra destruir um rei, primeiro você destrói o exército. Essa força usa os espíritos da minha família pra existir, precisa deles pra continuar afetando a cidade. Se forem libertos, ela enfraquece.
+– Talvez. Luiza escrevia que, pra destruir um rei, primeiro você destrói o exército. Essa força usa os espíritos da minha família para estender seu poder pela cidade. Se forem libertos, ela enfraquece.
 – E como a gente liberta eles? – perguntei.
 – Quebrando os elos. Sabe aquelas histórias que uma velha conta para espantar criança da beira do poço? Havia mortos que eram chamados toda noite pelo nome, até esquecerem o próprio. Lu dizia que os da minha família estão assim: presos às coisas que deixaram. Enquanto houver elo, ele pode vestir essas almas como roupa e mandá-las bater à porta de vocês. Quando o elo arde, não há mais espírito cativo para ele chamar. O que acontece com a alma depois é assunto dela, não dele.
 – Elo tipo o quê? – perguntou o Junior.

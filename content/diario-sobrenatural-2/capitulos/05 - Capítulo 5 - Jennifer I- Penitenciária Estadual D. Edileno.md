@@ -1,10 +1,10 @@
-O dia estava bonito. O céu era de um azul limpo, com nuvens finas, e o ar tinha aquele cheiro de terra húmida depois de uma chuva rápida, misturado com perfume barato de sabonete no meu cabelo. A luz entrava pela janela do carro e deixava o painel dourado, quente, como se nada de mau pudesse acontecer sob uma claridade assim.
+O dia estava bonito. O céu era de um azul limpo, com nuvens finas, e o ar tinha cheiro de terra úmida depois de uma chuva rápida, misturado com o perfume barato de sabonete no meu cabelo. A luz dourava o painel do carro.
 
-Minha mãe dirigia com as duas mãos no volante, concentrada, mas sorrindo de vez em quando, como se o sorriso fosse um exercício, um treino para a vida que a gente estava tentando reconstruir.
+Minha mãe dirigia com as duas mãos no volante, concentrada, sorrindo de vez em quando.
 
 — Hoje começa de novo — ela disse, e eu entendi o que ela queria dizer sem precisar de mais nenhuma palavra.
 
-Eu olhei pela janela. A estrada parecia normal: árvores baixas, placas enferrujadas, um acostamento de mato alto. A cidade já tinha ficado para trás, e essa distância me trouxe uma paz que eu não merecia. Eu queria acreditar naquele recomeço com a mesma fé que uma criança acredita em promessas. O problema é que eu já não era criança há tempo demais.
+Olhei pela janela. A estrada parecia normal: árvores baixas, placas enferrujadas, mato alto no acostamento. A cidade tinha ficado para trás, e a distância me trouxe uma paz que eu não merecia. Eu queria acreditar naquele recomeço com a fé de uma criança, mas já não era criança havia tempo demais.
 
 — Você está bem? — ela perguntou, sem tirar os olhos da estrada.
 
@@ -12,13 +12,13 @@ Eu olhei pela janela. A estrada parecia normal: árvores baixas, placas enferruj
 
 O rádio ligou sozinho.
 
-Primeiro veio uma música baixa, distorcida, depois o som estalou e virou um chiado alto, agressivo, como uma lâmina a raspar vidro. Eu levei a mão ao ouvido por instinto. Minha mãe mexeu no botão, girou, tentou mudar de estação, mas só piorou, como se a estática estivesse a crescer em vez de desaparecer.
+Primeiro veio uma música baixa, distorcida; depois o som estalou e virou um chiado agressivo, como uma lâmina raspando vidro. Levei a mão ao ouvido. Minha mãe girou o botão, tentou mudar de estação, mas só piorou.
 
 — Droga… — ela murmurou, e desligou.
 
 O silêncio que ficou foi mais pesado do que o chiado.
 
-Eu olhei para o céu outra vez, e foi aí que vi os pássaros. Muitos. Eles rodavam lá em cima em círculos perfeitos, como se fossem puxados por uma corda invisível. Não eram urubus; eram pássaros comuns com comportamento errado. A imagem era simples, mas o meu corpo reagiu como se eu tivesse visto uma ameaça direta. Como se eu reconhecesse aquilo. A garganta fechou, e eu senti aquele aviso antigo, aquele pressentimento ruim. 
+Olhei para o céu outra vez e vi os pássaros. Muitos, rodando em círculos perfeitos, como puxados por uma corda invisível. Não eram urubus; eram pássaros comuns com comportamento errado. A garganta fechou, e senti aquele aviso antigo.
 
 — Mãe… — eu chamei, e a minha voz saiu menor do que devia.
 
@@ -26,15 +26,15 @@ Eu olhei para o céu outra vez, e foi aí que vi os pássaros. Muitos. Eles roda
 
 — Os pássaros… estão estranhos.
 
-Ela inclinou o rosto, tentou olhar, e sorriu com desdém, como se o mundo ainda fosse só mundo.
+Ela inclinou o rosto, tentou olhar, e sorriu com desdém.
 
 — Jennifer… respira.
 
-Eu quis rir, quis concordar, quis aceitar. A ideia de que o perigo podia ser apenas paranoia era quase um conforto. Só que, lá em cima, eles não estavam apenas girando: eles estavam acompanhando o carro, exatamente em cima, como se seguissem uma rota marcada.
+Eu quis rir, quis aceitar. A ideia de que o perigo podia ser só paranoia era quase um conforto. Mas lá em cima eles não estavam apenas girando: acompanhavam o carro, exatamente em cima, como numa rota marcada.
 
 O vento entrou pela fresta da janela e trouxe um cheiro de queimado. Não era o cheiro do escapamento, nem de fogueira distante. Era um cheiro seco, antigo, como papel queimando dentro de um quarto fechado.
 
-Minha mãe, então, começou a inclinar o corpo para fora da janela, para olhar melhor. Primeiro pouco, depois mais, como se estivesse hipnotizada por alguma coisa que eu não conseguia ver.
+Minha mãe, então, começou a inclinar o corpo para fora da janela, para olhar melhor. Primeiro pouco, depois mais.
 
 — Mãe? — eu falei outra vez. — Você está dirigindo.
 
@@ -48,59 +48,55 @@ Eu toquei no braço dela. Ela resistiu, empurrando minha mão de volta, e o pé 
 
 Nada.
 
-O mundo parecia bonito demais para aquele tipo de silêncio. E foi essa contradição que me fez entrar em pânico de verdade: a luz ainda estava perfeita, mas algo ali dentro não estava.
-
-Lá na frente, um caminhão surgia na faixa contrária. Ainda longe, mas rápido. O som do motor dele chegou até nós com antecedência, como um aviso que não admitia discussão. Eu senti o meu corpo inteiro ficar frio, como se a vida tivesse decidido recuar para um lugar seguro dentro de mim.
+Lá na frente, um caminhão surgia na faixa contrária. Ainda longe, mas rápido. O som do motor chegou antes dele, como um aviso. Meu corpo inteiro ficou frio.
 
 Eu sacudi o braço dela com força.
 
 — MÃE!
 
-O movimento fez o volante virar. O carro invadiu a faixa da esquerda. A buzina do caminhão explodiu no ar, e o barulho rasgou o céu bonito como um grito indecente.
+O movimento fez o volante virar. O carro invadiu a faixa da esquerda. A buzina do caminhão explodiu no ar.
 
-Eu puxei o volante de volta com as duas mãos, com uma força que eu nem sabia que tinha, e o carro voltou bruscamente, quase saindo da pista. As rodas pegaram a berma, o mato alto raspou na lataria, e eu tentei alinhar de novo, o coração batendo tão rápido que parecia que ia saltar pela boca.
+Puxei o volante de volta com as duas mãos, com uma força que eu nem sabia que tinha, e o carro voltou bruscamente, quase saindo da pista. As rodas pegaram o acostamento, o mato raspou na lataria.
 
-— ACORDA! — eu gritei, mas a palavra saiu como desespero puro, sem forma.
+— ACORDA! — gritei, e a palavra saiu como desespero puro.
 
-Minha mãe não reagia. As mãos dela começaram a largar o volante. A cabeça dela estava virada para o céu, e o rosto tinha uma expressão vazia, como se ela estivesse a ouvir uma voz que eu não podia ouvir.
+Minha mãe não reagia. As mãos largavam o volante. A cabeça estava virada para o céu, o rosto vazio.
 
-Eu precisei tirar o pé dela do acelerador. Inclinei-me, procurei o fecho do cinto, destravei o meu sem querer. Senti a faixa do cinto solta no meu corpo. Inclinei-me mais, tentando alcançar a perna dela, o sapato, qualquer coisa que me deixasse empurrar o pé para trás.
+Precisei tirar o pé dela do acelerador. Me inclinei, destravei sem querer o meu cinto e me estiquei mais, tentando alcançar a perna dela, o sapato, qualquer coisa que me deixasse empurrar o pé para trás.
 
 Foi quando eu vi as luzes.
 
-Duas luzes enormes enchendo o interior do carro, brancas, violentas, e um som de metal a ser esmagado que parecia o próprio mundo quebrando. O impacto me jogou para frente, depois para o lado, depois para lugar nenhum. Vidro voou como chuva de estrelas. Senti o ar sumir dos meus pulmões. Senti um gosto de ferro na boca. Senti a dor chegar atrasada, como se o corpo tivesse sido obrigado a esperar a mente entender.
+Duas luzes enormes encheram o carro, brancas, violentas, e um som de metal sendo esmagado que parecia o próprio mundo quebrando. O impacto me jogou para frente, depois para o lado, depois para lugar nenhum. Vidro voou como chuva de estrelas. O ar sumiu dos meus pulmões, a boca ficou com gosto de ferro, e a dor chegou atrasada.
 
 E então tudo apagou.
 
 Quando acordei, eu estava do lado de fora.
 
-A claridade bonita tinha morrido. Era noite, ou algo muito parecido com noite, e a única luz vinha do fogo: o carro estava tombado entre árvores, a lataria aberta como um animal ferido, e as chamas lambiam o motor com um som úmido, estalando, cuspindo faíscas. O cheiro era insuportável: gasolina, borracha, fumo, e aquele ferro quente que parece sangue queimando.
+A claridade bonita tinha morrido. Era noite, ou algo parecido, e a única luz vinha do fogo: o carro tombado entre árvores, a lataria aberta como um animal ferido, as chamas lambendo o motor com um som úmido, cuspindo faíscas. O cheiro era insuportável: gasolina, borracha, fumo, ferro quente.
 
-Eu tentei levantar e o corpo respondeu com atraso. A cabeça girou, e por um segundo eu achei que ia vomitar. Minha garganta ardeu quando eu respirei. Olhei para as minhas mãos. Estavam sujas, tremendo, com pequenos cortes, e uma delas tinha sangue sob as unhas, como se eu tivesse tentado segurar alguma coisa que não queria ser segurada.
+Tentei levantar e o corpo respondeu com atraso. A cabeça girou. A garganta ardeu quando respirei. Minhas mãos estavam sujas, tremendo, cortadas, e uma tinha sangue sob as unhas.
 
 — Mãe… — eu chamei, e a palavra saiu rouca, quebrada.
 
-Eu me arrastei para mais perto, sentindo o chão frio e molhado por baixo de mim. O mato alto arranhava meus braços. A floresta ao redor era escura demais, como se a noite tivesse sido compactada ali dentro. Eu ouvi um coro de insetos e, mais ao longe, o som de algo mexendo entre as folhas, pesado, lento, como se estivesse rondando.
+Me arrastei para mais perto, sobre o chão frio e molhado. O mato alto arranhava meus braços. A floresta era escura demais. Ouvi um coro de insetos e, mais longe, algo pesado e lento mexendo entre as folhas, rondando.
 
-Eu encontrei minha mãe perto da porta, caída de lado, o rosto virado para o céu que eu não conseguia ver. O cabelo dela estava espalhado, e por um instante ela parecia apenas cansada, como se tivesse adormecido num lugar errado.
+Eu encontrei minha mãe perto da porta, caída de lado, o rosto virado para o céu que eu não conseguia ver. O cabelo dela estava espalhado, e por um instante ela parecia apenas cansada.
 
-A esperança, quando é automática, dói mais.
-
-Eu toquei no ombro dela. A pele estava fria. A frieza não era só temperatura; era uma informação. O meu peito apertou de um jeito que não parecia caber dentro do corpo. Eu apertei a mão dela, como se apertar pudesse chamar vida de volta.
+Toquei o ombro dela. A pele estava fria, e a frieza não era só temperatura; era uma informação. Apertei a mão dela.
 
 — Não… — eu sussurrei. — Não… não.
 
 Eu chorei sem som, porque o choque comeu a minha voz. E foi aí que eu vi a Kelly.
 
-Ela estava do outro lado do fogo, parada entre duas árvores, com o rosto molhado como se tivesse chovido só nela. A blusa era a mesma. O buraco no peito era o mesmo, escuro e absoluto, e o olhar dela atravessava a minha tentativa de realidade com uma calma que me deu medo. Kelly abriu a boca, e eu esperei uma frase, um perdão, um julgamento.
+Ela estava do outro lado do fogo, entre duas árvores, o rosto molhado como se tivesse chovido só nela. A blusa era a mesma. O buraco no peito era o mesmo, escuro e absoluto, e o olhar dela me atravessava com uma calma que me deu medo. Kelly abriu a boca, e eu esperei uma frase, um perdão, um julgamento.
 
 O que saiu não foi voz.
 
 Foi fumaça.
 
-A fumaça subiu, e quando se juntou ao fumo do carro, o ar ao meu redor começou a ganhar formas erradas. Sombras alongaram-se, tentáculos negros surgiram como se o escuro tivesse decidido ter mãos, e olhos vermelhos se acenderam dentro deles, piscando, observando, como brasas vivas enterradas no breu.
+A fumaça subiu, e quando se juntou ao fumo do carro, o ar ao meu redor começou a ganhar formas erradas. Sombras se alongaram, tentáculos negros surgiram como se o escuro tivesse decidido ter mãos, e olhos vermelhos se acenderam dentro deles, piscando, observando, como brasas vivas enterradas no breu.
 
-Eu tentei ficar de pé. Eu tentei correr. Eu tentei fazer qualquer coisa que não fosse assistir. Mas meu corpo parecia preso naquele lugar, como se o chão tivesse memória e exigisse que eu revivesse tudo.
+Tentei ficar de pé, tentei correr, tentei qualquer coisa que não fosse assistir. Mas meu corpo estava preso ali.
 
 — O QUE VOCÊ QUER? — eu gritei — O que você quer comigo?
 
@@ -110,35 +106,33 @@ A resposta não veio do ar. Veio por dentro, entupindo a minha cabeça com uma c
 
 Eu reconheci o Agouro na mesma hora. Aquela voz sombria que vem da mente.
 
-As sombras se aproximaram. Uma delas tocou meu pulso e uma imagem atravessou a minha cabeça como um relâmpago: meu quarto, eu sentada no chão, os gritos dos meus pais no corredor, a porta batendo, a sensação de que o mundo inteiro era uma briga que eu nunca ia vencer. Outro relâmpago veio em seguida, mais duro: eu tentando fazer silêncio com a própria dor, como se silêncio fosse a única forma de não dar trabalho.
+As sombras se aproximaram. Uma delas tocou meu pulso e uma imagem atravessou a minha cabeça como um relâmpago: meu quarto, eu sentada no chão, os gritos dos meus pais no corredor, a porta batendo, a sensação de que o mundo inteiro era uma briga que eu nunca ia vencer. Outro relâmpago veio em seguida, mais duro: eu tentando fazer silêncio com a própria dor.
 
-Eu respirei fundo e tentei me mexer de novo, porque eu não era mais aquela criança. Eu já tinha visto coisa demais pra me render tão rápido.
+Tentei me mexer de novo, porque eu não era mais aquela criança. Eu já tinha visto coisa demais pra me render tão rápido.
 
-Então virei meu rosto e eu vi um livro. Estava perto do carro, aberto numa página que eu não consegui ler direito. A capa parecia antiga, grossa, escura, como couro ressecado, e havia marcas fundas na superfície, como se alguém tivesse arranhado símbolos ali com unha ou lâmina. O fogo do carro fazia as páginas brilharem por um instante e sumirem no seguinte. 
+Então virei o rosto e vi um livro, perto do carro, aberto numa página que não consegui ler. A capa era antiga, grossa, escura, como couro ressecado, com símbolos arranhados fundo na superfície. O fogo fazia as páginas brilharem por um instante e sumirem no seguinte.
 
-Quando levantei o olhar, o ar tinha ficado mais pesado. O fumo do carro subia em linhas e se torcia, como se fosse puxado por algo maior no alto. As sombras recuaram um pouco, como animais obedientes quando o dono chega.
+Quando levantei o olhar, o ar tinha ficado mais pesado. O fumo subia em linhas e se torcia, como puxado por algo maior no alto. As sombras recuaram um pouco, como animais obedientes quando o dono chega.
 
-E no fundo, entre as árvores vi alguém parado. Não saía do escuro; ele era o próprio escuro tomando forma. Uma figura alta, coberta por vestes negras longas, rasgadas em vários pontos, tecido a balançar como pele morta ao vento. O rosto era uma caveira de bode: ossos expostos, chifres longos, e dois buracos escuros no lugar dos olhos, sem qualquer compaixão. Ele não parecia com um demônio de história de igreja. Parecia com uma coisa anterior a qualquer história, anterior a qualquer nome.
+E no fundo, entre as árvores, alguém parado. Não saía do escuro; era o próprio escuro tomando forma. Uma figura alta, de vestes negras longas, rasgadas, o tecido balançando como pele morta ao vento. O rosto era uma caveira de bode: ossos expostos, chifres longos, dois buracos escuros no lugar dos olhos. Não parecia um demônio de história de igreja. Parecia uma coisa anterior a qualquer história, a qualquer nome.
 
-As sombras agarraram meus braços, minhas pernas, meu tronco, puxando para direções diferentes, como se quisessem testar até onde eu aguentava sem me partir. Eu tentei resistir, e resistir não adiantou. A força não vinha dos tentáculos; vinha da certeza por trás deles.
-
-Minha visão embaçou com lágrimas e fumaça. Eu ouvi o fogo estalar. Ouvi a floresta respirar.
+As sombras agarraram meus braços, minhas pernas, meu tronco, puxando para direções diferentes, como para testar até onde eu aguentava sem me partir. Resistir não adiantou. A força não vinha dos tentáculos; vinha da certeza por trás deles.
 
 E, no meio daquele caos, minhas mãos começaram a arder.
 
-Primeiro como calor, depois como dor, depois como luz. Eu olhei e vi as chamas subindo pelos meus dedos.
+Primeiro como calor, depois como dor, depois como luz. Vi as chamas subindo pelos meus dedos.
 
 Eu quis gritar, mas o grito ficou preso no mesmo lugar onde sempre ficou preso a minha vida inteira.
 
 O fogo nas minhas mãos explodiu em luz.
 
-E eu acordei na cama, ofegante, com o coração batendo como se estivesse tentando fugir, e as minhas mãos quentes de verdade, como se a chama tivesse ficado escondida dentro da pele à espera de voltar.
+E eu acordei na cama, ofegante, com o coração batendo como se estivesse tentando fugir, e as minhas mãos quentes de verdade.
 
 Meu pai abriu a porta no susto, ainda de pijama, o rosto cansado de noites mal dormidas.
 
 — Filha… tudo bem?
 
-A pergunta dele tinha uma delicadeza que me feriu mais do que o pesadelo. Ofegante, notei que estava em meu quarto. Olhei para meu pai e senti lágrimas escorrerem pelos meus olhos. 
+A pergunta dele tinha uma delicadeza que me feriu mais do que o pesadelo. Eu estava em meu quarto. Senti as lágrimas escorrerem.
 
 — Foi um pesadelo, pai.
 
@@ -150,21 +144,21 @@ Eu engoli a verdade e a substituí por uma mentira mais suportável.
 
 — Sonhei.
 
-Mentir para um pai enlutado é uma das coisas mais feias que eu já fiz. Mas eu fiz mesmo assim, porque o problema não era o fantasma da minha mãe. O problema era que eu sabia que ninguém além de meus amigos sabem o que aquilo significava. 
+Mentir para um pai enlutado é uma das coisas mais feias que já fiz. Mas o problema não era o fantasma da minha mãe: era que ninguém além dos meus amigos sabia o que aquilo significava.
 
 — Eu também tenho esses sonhos horríveis — ele murmurou, a voz como se carregasse peso demais. — Vai melhorar… ainda é recente. Bom… se arruma. Já tá na hora.
 
 Eu sorri pra não o ferir. Ele fechou a porta e desceu as escadas.
 
-Lá fora chovia. Chovia de um jeito insistente, frio, como se o céu não soubesse fazer outra coisa além de cair.
+Lá fora chovia, de um jeito insistente e frio.
 
-Na escola, eu atravessei as três primeiras aulas como quem atravessa uma cidade destruída fingindo que é rua normal. Junior, como sempre, não falava. Depois de tudo, depois da partida do Pedro, ele ficou ainda mais quieto.
+Na escola, atravessei as três primeiras aulas como quem atravessa uma cidade destruída fingindo que é rua normal. Junior, como sempre, não falava. Depois da partida do Pedro, ficara ainda mais quieto.
 
-No intervalo, enquanto eu mastigava sem fome, ouvi uma conversa na mesa ao lado. Duas meninas. Uma loira, outra morena. A loira falava com aquele entusiasmo sujo que só aparece quando a tragédia é dos outros.
+No intervalo, enquanto eu mastigava sem fome, ouvi uma conversa na mesa ao lado. Duas meninas, uma loira, outra morena. A loira falava com o entusiasmo sujo de quando a tragédia é dos outros.
 
 — …tô falando daquela menina que morreu — ela dizia. — Dizem que ela tava ficando com aquele menino estranho do 1º D.
 
-— Eu não duvido — a morena respondeu, mastigando crueldade como se fosse chiclete. — Deve ter ficado com uma meia dúzia de nerds. Ela tinha cara de piranha.
+— Eu não duvido — a morena respondeu. — Deve ter ficado com uma meia dúzia de nerds. Ela tinha cara de piranha.
 
 A loira riu.
 
@@ -176,7 +170,7 @@ A outra garota riu.
 
 — Sim, o Vinícius. Eu via ele direto nas ruas. Vai ver a menina que morreu pegou ele também e quando ele soube que ela tava com outro nerd, foi lá e…
 
-Eu levantei o olhar devagar. A raiva em mim não veio como explosão. Veio como um frio interno, um congelamento que endurece decisões.
+Levantei o olhar devagar. A raiva não veio como explosão, veio como um frio interno que endurece decisões.
 
 — Vocês não cansam dessa fome de fofoca? — eu perguntei.
 
@@ -184,13 +178,13 @@ As duas viraram o rosto como se eu fosse um inseto inconveniente.
 
 — Qual é, menina… se manda — a loira disse.
 
-Antes de responder, eu vi à esquerda dela um homem pálido, de chapéu coco, parado como se estivesse ali desde sempre. Espíritos são assim: eles não chegam. Eles já estavam.
+Antes de responder, eu vi à esquerda dela um homem pálido, de chapéu coco, parado ali. Espíritos são assim: eles não chegam. Eles já estavam.
 
 Eu voltei a encarar as duas.
 
 — Dizem que falar mal dos mortos faz com que eles perturbem — eu disse, num tom baixo demais pra ser provocação e alto demais pra ser medo. — E acreditem… eles gostam.
 
-A morena se levantou com agressividade, porque gente cruel sempre acha que a crueldade dá poder.
+A morena se levantou com agressividade.
 
 — Do que você tá falando, sua maluca?
 
@@ -202,9 +196,9 @@ A loira abriu a boca, pronta pra gritar. Só que parou.
 
 Como se o ar tivesse mudado.
 
-O copo em cima da mesa começou a se mexer. Para elas, era “sozinho”. Para mim, era o homem pálido tocando o vidro com quatro dedos, lento, deliberado, como quem faz questão de ser notado.
+O copo em cima da mesa começou a se mexer. Para elas, era “sozinho”. Para mim, era o homem pálido tocando o vidro com quatro dedos, lento, deliberado.
 
-As duas recuaram, olharam do copo pra mim, e o pânico entrou nelas como um animal.
+As duas recuaram, olharam do copo para mim, e o pânico entrou nelas.
 
 — Que porra é essa…?
 
@@ -212,13 +206,13 @@ A minha voz saiu ainda mais baixa.
 
 — Eu avisei. Não insultem os mortos.
 
-Eu olhei para o homem pálido, sem saber o que dizer e ele virou o copo, jogando o líquido em cima das duas.
+Olhei para o homem pálido, sem saber o que dizer, e ele virou o copo, jogando o líquido em cima das duas.
 
 Elas gritaram e saíram correndo.
 
-O espírito olhou pra mim uma última vez e sumiu, e eu fiquei ali com uma sensação estranha, mas que não era satisfação. 
+O espírito olhou para mim uma última vez e sumiu, e eu fiquei ali sem satisfação nenhuma.
 
-Eu sempre odiei meninas daquele tipo. Uma das razões pelas quais eu mantive distância das outras meninas era essa: a facilidade com que transformavam pessoas em história. Dor em novela. Tragédia em entretenimento.
+Eu sempre odiei meninas daquele tipo, a facilidade com que transformavam pessoas em história. Dor em novela. Tragédia em entretenimento.
 
 E “assassino”.
 
@@ -230,7 +224,7 @@ E eu nunca tinha tido permissão pra visitá-lo.
 
 Quando saí da escola, fui pra casa como quem já tinha decidido. Tomei banho, me arrumei, peguei meus documentos, e depois fui até a casa do Alberto.
 
-Eu e Alberto tínhamos estudado juntos no começo da vida e depois sumimos um da vida do outro, como acontece em cidade pequena: as pessoas não desaparecem fisicamente, mas somem emocionalmente. Eu o reencontrei quando ele foi matricular a irmã, e ele foi uma das poucas pessoas que me fizeram lembrar como é sorrir sem culpa.
+Eu e Alberto tínhamos estudado juntos no começo da vida e depois sumimos um da vida do outro, como acontece em cidade pequena. Reencontrei-o quando ele foi matricular a irmã, e ele foi uma das poucas pessoas que me fizeram lembrar como é sorrir sem culpa.
 
 Toquei a campainha. A mãe dele abriu.
 
@@ -242,11 +236,11 @@ Toquei a campainha. A mãe dele abriu.
 
 — Jennifer. A gente se viu na escola… no dia da matrícula da Agatha.
 
-Ela franziu o cenho, puxou a memória como quem procura um objeto numa gaveta, e então sorriu.
+Ela franziu o cenho, procurou na memória, e sorriu.
 
 — Ah… sim. Me lembro de você? Vou chamar ele.
 
-Ela gritou o nome do filho. Grito de mãe atravessa casa, rua e ego. Alberto apareceu com o sorriso enorme de aparelho.
+Ela gritou o nome do filho. Alberto apareceu com um sorriso enorme de aparelho.
 
 — Oi, Jenni! Olha só. Achei que você tinha evaporado.
 
@@ -266,7 +260,7 @@ Alberto ergueu uma sobrancelha, medindo a seriedade.
 
 — Um amigo. Inocente.
 
-Ele não fez pergunta moral. Só respirou e assentiu, como quem entende que certas coisas a gente faz sem pedir permissão pro mundo.
+Ele não fez pergunta moral. Só respirou e assentiu.
 
 — Você trouxe teu RG?
 
@@ -278,7 +272,7 @@ Entreguei.
 
 — Certo. Eu… vou dar um jeito. Só me dá alguns minutos.
 
-Ele entrou. A porta ficou semiaberta. Eu encostei na parede do corredor e observei a rua, os comércios, as casas vizinhas, aquela sensação constante de que Vila Velha tinha compartimentos secretos, zonas invisíveis, rotinas que eu nunca ia conhecer. Como se a cidade tivesse um lado de dentro e um lado de fora, e a gente só morasse na parte que finge.
+Ele entrou. A porta ficou semiaberta. Encostei na parede do corredor e observei a rua, os comércios, as casas vizinhas, com a sensação de que Vila Velha tinha compartimentos secretos, rotinas que eu nunca ia conhecer.
 
 A mãe dele me trouxe uma limonada. Pouco depois, Alberto voltou com os documentos.
 
@@ -294,17 +288,21 @@ Olhei pra ele e sorri, em agradecimento.
 
 Eu assenti e fui embora sem prometer nada, porque promessa, naquele ano, virava dívida.
 
-Peguei o ônibus para a Penitenciária Estadual D. Edileno. Quarenta minutos que pareceram uma travessia. Do lado de fora, o interior de São Paulo passava molhado e cinza, como se o mundo fosse incapaz de exibir raios de sol.
+Peguei o ônibus para a Penitenciária Estadual D. Edileno. Quarenta minutos de interior de São Paulo molhado e cinza.
 
-A penitenciária ficava nos arredores, num trecho de estrada que parecia existir só pra aquilo. O portão era alto, os muros eram sujos, e o lugar inteiro tinha um cheiro de metal, mofo e desespero, como se a vida ali dentro envelhecesse mais rápido.
+A penitenciária ficava nos arredores, num trecho de estrada que parecia existir só pra aquilo. O portão era alto, os muros eram sujos, e o lugar inteiro tinha um cheiro de metal, mofo e desespero. O portão principal, de chapa e ferro, só abria de verdade para camburão e caminhão de comida; gente entrava por uma porta menor ao lado, com vigia, e esperava o guarda se lembrar de destrancar. No topo do muro, um holofote girava sem parar, dia e noite.
 
-Eu não entrei “por acidente”. Eu entrei porque o sistema era precário e humano, e tudo o que é humano tem brecha.
-
-Na portaria, eu disse o sobrenome “Silva” com calma, expliquei que era “família”, que tinha autorização verbal, que tinha vindo de longe e que precisava falar com ele só alguns minutos. Fiz o que aprendi a fazer desde criança: falar pouco, não tremer, olhar nos olhos, oferecer uma história simples. Eles checaram uma lista velha, olharam o documento, olharam o meu rosto. Eu sempre tive cara de ser mais velha. Ainda assim, senti o meu coração bater na garganta, mas mantive a superfície quieta.
+Na portaria, disse o sobrenome “Silva” com calma, expliquei que era “família”, que tinha autorização verbal, que tinha vindo de longe e precisava falar com ele só alguns minutos. Fiz o que aprendi desde criança: falar pouco, não tremer, olhar nos olhos, oferecer uma história simples. Checaram uma lista velha, olharam o documento, olharam meu rosto. Sempre tive cara de ser mais velha. Por dentro eu tremia, mas mantive a superfície quieta.
 
 Por fim, a burocracia cansou de mim e me deixou passar.
 
-A revista veio em seguida, e eu preferia ter voltado para o portão. Mandaram-me tirar a roupa num espaço frio, com outras mulheres ao lado, como se o corpo fosse apenas um objecto a ser conferido. Minhas mãos tremiam tanto que eu mal conseguia dobrar a blusa. Eu nunca tinha ficado nua diante de ninguém — e, mesmo assim, ali não era “diante de alguém”. Era pior: era diante de olhares que não viam pessoa nenhuma. Quando terminou, eu vesti tudo rápido, tentando não chorar. O documento continuou na minha mão.
+Na fila da revista havia uma menina de uns catorze anos, de tênis gasto e mochila de escola, sozinha entre mulheres adultas, segurando um saco de pão como se fosse documento. A funcionária perguntou a quem ela vinha ver.
+
+— Meu pai. Matias.
+
+A funcionária carimbou a ficha sem levantar os olhos.
+
+A revista veio em seguida, e eu preferia ter voltado para o portão. Me mandaram tirar a roupa num espaço frio, ao lado de outras mulheres. Minhas mãos tremiam tanto que eu mal conseguia dobrar a blusa. Era pior do que ficar nua diante de alguém: era diante de olhares que não viam pessoa nenhuma. Vesti tudo rápido, tentando não chorar.
 
 Quando me conduziram até a sala de visita, disseram que ele estava sozinho, algemado. Tinham avisado que ele teria visita, mas ele não sabia de quem.
 
@@ -328,7 +326,7 @@ Ele soltou um riso que falhou no meio.
 
 — É bom ver um rosto familiar. É… muito bom.
 
-E então ele chorou. Não foi choro contido. Foi desabamento. Ele encostou a testa em mim como se a minha presença fosse uma parede que impedia o mundo de esmagar de vez. Eu o abracei e senti a violência daquele alívio, como se meses de dor quisessem sair pela garganta de uma vez.
+E então ele chorou. Não foi choro contido, foi desabamento. Encostou a testa em mim como se minha presença fosse uma parede que impedia o mundo de esmagá-lo de vez. Eu o abracei e senti a violência daquele alívio.
 
 — Ninguém veio me visitar Jennifer. Ninguém… 
 
@@ -358,15 +356,15 @@ A vergonha queimou em mim. Eu lembrei da delegacia, lembrei do silêncio, lembre
 
 — Alguém tinha que ser responsabilizado — ele respondeu, como se repetisse uma frase que já tinha sido usada contra ele mil vezes.
 
-Eu respirei fundo e disse o que vinha crescendo em mim desde cedo, desde o copo, desde a percepção de que o mundo respondeu.
+Disse o que vinha crescendo em mim desde o copo.
 
 — Eu… eu acho que consigo provar que você é inocente. Se eu mostrar que espíritos existem. 
 
 Vinícius me encarou com um cansaço que não era descrença; era exaustão de esperança.
 
-—Provar? Como? Pessoas mais velhas não conseguem vê-lo. 
+— Provar? Como? Pessoas mais velhas não conseguem vê-lo.
 
-— Não é bem assim Vini. Aquilo era influência do Agouro. Qualquer um pode ver um espírito, ou sentir. Obviamente que não é comum. Eu nunca ouvi falar de alguém que vê… tantos como eu vejo —respirei antes de continuar — acontece que… hoje mais cedo… eu acho que um deles… moveu um copo. Eu pensei que queria atirar aquele copo em umas garotas idiotas e… Eu não sei como. Ele me obedeceu. 
+— Não é bem assim, Vini. Aquilo era influência do Agouro. Qualquer um pode ver um espírito, ou sentir. Obviamente que não é comum. Eu nunca ouvi falar de alguém que vê… tantos como eu vejo — respirei antes de continuar — acontece que… hoje mais cedo… eu acho que um deles… moveu um copo. Eu pensei que queria atirar aquele copo em umas garotas idiotas e… Eu não sei como. Ele me obedeceu. 
 
 Vini franziu o cenho. 
 
@@ -376,7 +374,7 @@ Vini franziu o cenho.
 
 — E você acredita nisso? Acredita em justiça?
 
-Eu senti a palavra “justiça” como uma coisa frágil, quase infantil.
+A palavra “justiça” soou como uma coisa frágil, quase infantil.
 
 — Eu acredito na verdade, Vini.
 
@@ -394,11 +392,11 @@ Era uma garota.
 
 Ela entrou com um caderno na mão, segura demais praquele lugar. O guarda fechou a porta atrás dela como se aquilo fosse normal.
 
-— Com licença — ela disse, aproximando-se. — Você é o Vinícius?
+— Com licença — ela disse, se aproximando. — Você é o Vinícius?
 
 — S-sou — ele respondeu, confuso.
 
-Ela sentou ao meu lado no banco, como se já tivesse sentado ali outras vezes. Olhou pra mim com curiosidade calma.
+Ela sentou ao meu lado no banco. Olhou pra mim com curiosidade calma.
 
 — E você é… parente dele?
 
@@ -420,13 +418,13 @@ Ela estendeu a mão. Eu apertei por educação, mas a mão dela tinha uma firmez
 
 — Não. Ele não quer matéria nenhuma — eu cortei antes que Vinícius tivesse tempo de respirar.
 
-Glenda inclinou a cabeça, divertida, como se eu fosse um detalhe engraçado.
+Glenda inclinou a cabeça, divertida.
 
 — Irmã, é? Pela tua forma de falar, eu diria que tá mais pra namorada.
 
 Eu tirei o RG falso e coloquei sobre a mesa, com o “Silva” visível.
 
-Glenda olhou, não se desculpou. Só piscou devagar, como se mudasse de máscara por dentro.
+Glenda olhou, não se desculpou. Só piscou devagar.
 
 — Tô brincando. Calma.
 
@@ -470,7 +468,7 @@ Eu sentei de novo.
 
 Porque ela estava certa numa coisa: podia ajudar. O problema era o preço. E eu já sabia que preço, em Vila Velha, nunca vinha barato.
 
-Vinícius respirou como se estivesse a escolher entre dois infernos.
+Vinícius respirou como se estivesse escolhendo entre dois infernos.
 
 — Eu não tô pronto.
 
@@ -494,7 +492,7 @@ Ele fungou, abaixou a cabeça, e quando falou, a voz parecia quebrada por dentro
 
 — Eu não matei. Quem matou foi um demônio. Ele fez com que um de nós tirasse a vida da Kelly.
 
-Glenda riu e olhou para Vini nos olhos. Pude notar sua expressão de deboche se desfazer aos poucos enquanto o encarava. Ela ficou imóvel por um instante antes de dizer: 
+Glenda riu e olhou Vini nos olhos. A expressão de deboche se desfez aos poucos enquanto o encarava. Ela ficou imóvel antes de dizer: 
 
 — Você tá falando sério?
 
@@ -512,7 +510,7 @@ Glenda me olhou, finalmente olhando de verdade.
 
 — Ele não tá mentindo — eu disse, e levantei parte da blusa, mostrando a cicatriz do fragmento de chumbo do ano anterior. — A gente não saiu inteiro de lá. 
 
-Pela primeira vez, os olhos dela mudaram, como se estivesse somando coisas. 
+Pela primeira vez, os olhos dela mudaram. 
 
 — Ok… um demônio. Mas como foi que um demônio matou uma garota? — ela disse — E por que você foi acusado?
 
@@ -550,9 +548,9 @@ Aquilo me quebrou. Ela achava que ele era inocente? Ela alcançou minha lateral 
 
 — Eu tenho uma semana pra fechar essa matéria — ela disse. — Isso pode salvar teu amigo. Se vocês conseguirem uma versão que substitua o improvável por circunstância aceitável… me liga.
 
-Ela arrancou uma folha do caderno, escreveu um número e me entregou. Depois sorriu e foi embora, como se não tivesse acabado de arrancar pele de alguém.
+Ela arrancou uma folha do caderno, escreveu um número e me entregou. Depois sorriu e foi embora.
 
-Por um segundo, eu quis jogar aquele papel no chão. Mas guardei no bolso.
+Quis jogar aquele papel no chão. Mas guardei no bolso.
 
 Não por ela.
 
@@ -560,7 +558,7 @@ Por Vinícius.
 
 Quando cheguei em casa, eu abri o guarda-roupa e peguei a filmadora que a gente tinha usado no ano anterior. A fita tinha imagens demais que não eram prova de inocência. No vídeo, Vinícius aparecia atacando e matando gente, e mesmo sendo em defesa, o mundo não distingue defesa de violência quando precisa de um vilão.
 
-Eu desliguei a televisão sem perceber que estava ligada, como se o som do noticiário fosse uma zombaria.
+Eu desliguei a televisão sem perceber que estava ligada.
 
 Deitei e fiquei olhando pro teto, pensando no que restava. Talvez se Junior publicasse o Diário. Havia detalhes demais pra parecer invenção. Havia cicatrizes demais pra ser boato. Talvez… se a verdade tivesse páginas, ela pudesse sobreviver do lado de fora.
 
@@ -586,11 +584,11 @@ Os olhos dele abriram um pouco mais, mas não foi interesse, foi defesa.
 
 — A gente precisa publicar. A gente precisa expor a verdade.
 
-Ele recuou um passo, como se eu tivesse dito uma blasfêmia.
+Ele recuou um passo.
 
 — Você enlouqueceu? A gente não vai fazer isso.
 
-— Eu fui ver o Vinícius hoje — eu disse, e a minha voz não tremeu. — Ele tá apanhando lá dentro por carregar a culpa que não é dele. 
+— Eu fui ver o Vinícius hoje — eu disse, e a minha voz não tremeu. — Ele tá pegando lá dentro por carregar a culpa que não é dele. 
 
 Junior desviou o olhar. A defesa dele sempre começava ali: no silêncio.
 
@@ -612,16 +610,14 @@ Eu não disse para ferir. Eu disse para atravessar.
 
 Depois virei as costas e fui embora, sentindo a chuva bater no rosto como se fosse punição.
 
-Nem todo mundo quer a verdade. Mesmo depois de conhecer o inferno, algumas pessoas preferem manter a porta fechada por medo do que pode sair.
-
 Naquela noite, eu dormi com o corpo cansado e a mente acesa.
 
 E sonhei de novo.
 
-Eu olhava para as minhas mãos e elas estavam em chamas, não fogo comum, mas um fogo que parecia vivo, consciente, como se a chama tivesse intenção. Eu tentei apagar, mas a pele não queimava. O que queimava era outra coisa, por dentro, como se o meu corpo fosse só o pavio.
+Eu olhava para as minhas mãos e elas estavam em chamas, um fogo vivo, consciente. Tentei apagar, mas a pele não queimava. O que queimava era outra coisa, por dentro.
 
-Uma sombra enorme se abriu ao meu redor. Olhos vermelhos se acenderam no escuro, e eu senti mãos, muitas delas, agarrando meus braços, minhas pernas, meu pescoço, puxando para direções diferentes, como se quisessem me rasgar em partes e levar cada pedaço para um lugar.
+Uma sombra enorme se abriu ao meu redor. Olhos vermelhos se acenderam, e mãos, muitas, agarraram meus braços, minhas pernas, meu pescoço, puxando para direções diferentes, como para me rasgar em partes.
 
 Eu tentei gritar e a voz ficou presa.
 
-Eu acordei de sobressalto, a garganta seca, as mãos ardendo sem fogo nenhum, e a sensação de que, acordada ou dormindo, eu já não tinha mais um lugar seguro pra existir. 
+Acordei de sobressalto, a garganta seca, as mãos ardendo sem fogo, com a sensação de que, acordada ou dormindo, eu já não tinha um lugar seguro pra existir.

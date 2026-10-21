@@ -171,6 +171,43 @@ Ele tentou sorrir, mas o sorriso não chegou aos olhos.
 
 Ele ficou em silêncio, segurando o lápis como uma arma descarregada.
 
+– Tem uma coisa que eu não entendo – disse, depois de um tempo. – O Agouro podia ter ficado com a Kelly. Então por que fez aquele acordo comigo?
+
+Eu tinha pensado nisso desde a noite na casa, mas era a primeira vez que alguém perguntava.
+
+– Lembra do que a Luiza disse? Ele precisava que alguém aceitasse entregar a própria alma. Não adiantava obrigar.
+– Eu lembro.
+– A Kelly levou você até ele, no lago. E ele recusou. Depois conseguiu entrar no corpo dela, mas ainda não tinha o que queria.
+
+Junior baixou os olhos para o lápis.
+
+– Porque ela não aceitou?
+– Talvez. Só que, no fim, quem ele convenceu a aceitar um acordo foi você.
+
+Ele demorou a responder.
+
+– Espera... – Levantou a cabeça devagar. – Você acha que ele queria a mim?
+
+Assenti, embora a conclusão ainda me desse frio na barriga.
+
+– Acho que a Kelly passou esse tempo todo tentando entregar a pessoa que ele procurava.
+
+Junior olhou para a praça vazia.
+
+– Então era eu. Desde o começo.
+
+Não soube o que responder. Talvez tivesse começado muito antes de qualquer um de nós entrar naquela casa.
+
+– Mas por quê, Jennifer? O que eu tenho?
+– Não sei. A Luiza disse que não servia qualquer alma. Não explicou por quê.
+
+Ele apertou o lápis entre os dedos.
+
+– E eu achei que estava salvando todo mundo.
+– Eu sei, Junior.
+
+Não disse mais nada. Havia coisas que nenhuma explicação podia consertar.
+
 – O que você está carregando? – perguntou, apontando com o queixo.
 
 Coloquei tudo no banco, entre nós.
@@ -213,3 +250,5 @@ Respirei fundo. Ali eu não podia mentir.
 Ele não respondeu. Ficou abraçado ao diário, chorando em silêncio. Pela primeira vez o choro dele não me irritou nem me deixou desconfortável. Era necessário.
 
 Sorri de leve, me levantei e saí da pracinha. Junior ficou no banco, com o diário da Kelly apertado contra o peito e o próprio caderno no colo.
+
+Quando olhei para trás, ele ainda estava ali, de cabeça baixa. Um brilho avermelhado atravessou por um instante a lente dos seus óculos. Pisquei, e o reflexo já tinha sumido. Continuei andando.

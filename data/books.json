@@ -49,6 +49,34 @@
       "title": "A Patrulha de Korvo",
       "subtitle": "Viajantes Dimensionais — Livro 1",
       "manifest": "data/viajantes-dimensionais-1.json"
+    },
+    {
+      "id": "a-uniao-1",
+      "title": "A União",
+      "subtitle": "A União — Livro 1",
+      "manifest": "data/a-uniao-1.json",
+      "signupAvailable": false
+    },
+    {
+      "id": "diario-sobrenatural-3",
+      "title": "O Limiar da Noite",
+      "subtitle": "Diário Sobrenatural — Livro 3",
+      "manifest": "data/diario-sobrenatural-3.json",
+      "signupAvailable": false
+    },
+    {
+      "id": "misterio-oculto-1",
+      "title": "Órbita Oráculo",
+      "subtitle": "Mistério Oculto — Livro 1",
+      "manifest": "data/misterio-oculto-1.json",
+      "signupAvailable": false
+    },
+    {
+      "id": "spacetheft-2",
+      "title": "Livro 2",
+      "subtitle": "Spacetheft — Livro 2",
+      "manifest": "data/spacetheft-2.json",
+      "signupAvailable": false
     }
   ]
 }

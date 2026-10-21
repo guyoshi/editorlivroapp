@@ -114,7 +114,7 @@ Esperei. Ele não respondeu. Então fiz uma voz grossa e falei por ele:
 
 – Eu te amo, Ingrid. Você é minha melhor amiga.
 
-Sorri e apertei o ursinho no peito. Ele estava comigo desde que eu conseguia lembrar. Eu não lembrava do dia em que ganhei. Para mim, ele sempre existiu.
+Sorri e apertei o ursinho no peito. Ele estava comigo desde que eu conseguia lembrar. Eu não lembrava do dia em que ganhei. Para mim, ele sempre existiu. Uma das orelhas tinha sido costurada pela minha avó com linha azul depois que eu a rasguei de tanto carregar o Pimpão.
 
 “Eu te amo, Ingrid.”
 
@@ -479,8 +479,8 @@ Passei décadas mexendo na mente dos moradores da cidade, apagando a casa da mem
 
 A minha alma, entre todas as da casa, é uma das mais difíceis de controlar. Por isso às vezes eu escapo um pouco. Consigo avisar. Consigo ajudar. Foi assim que trouxe vocês para ver a verdade.
 
-O Meu Senhor sentiu cada um de vocês chegando. Jovens com culpas, desejos fundos, traumas frescos, sonhos grandes demais. Ele sabia que, entre todos, haveria alguém perfeito para o fim que queria. Por isso me mandou trazer vocês. Com os seis perto da casa, ficou mais forte. Usou o Francis, o homem que matou meu pai e a mim, como ponte. Usou o pacto antigo, usou os Elos espalhados por vocês. Se aproximou devagar, testando corações, procurando aquele que abriria a porta por vontade própria.
+O Meu Senhor sentiu cada um de vocês chegando. Jovens com culpas, desejos fundos, traumas frescos, sonhos grandes demais. Ele procurava alguém que pudesse servir ao fim que queria. Por isso me mandou trazer vocês. Com os seis perto da casa, ficou mais forte. Usou o Francis, o homem que matou meu pai e a mim, como ponte. Usou o pacto antigo, usou os Elos espalhados por vocês. Se aproximou devagar, testando corações, procurando aquele que abriria a porta por vontade própria.
 
-Ele já sabe qual é a alma que vai servi-lo no final. E eu sei também.
+Ele acredita estar perto da alma que procura. Talvez mais perto do que vocês imaginam.
 
 Mas essa parte da história não é minha. Eu só fui a primeira a morrer por ela.

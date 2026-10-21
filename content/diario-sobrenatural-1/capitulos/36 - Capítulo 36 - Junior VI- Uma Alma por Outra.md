@@ -110,7 +110,7 @@ O reflexo começou a rir, como se eu tivesse contado uma piada ótima.
 
 O corpo dele se dissolveu no ar, me deixando sozinho outra vez na floresta. Antes que eu me mexesse, ouvi passos leves na grama. Uma menininha de vestido antigo me olhava a poucos metros, com um peso nos olhos que criança nenhuma devia ter.
 
-– A Kelly está disposta a se entregar para o Agouro – disse Ingrid. – No lago, ele chamou a alma dela de impura para fazê-la obedecer. Mentiu. Se ela aceitar ficar com ele para salvar a irmã ou trazer o irmão, por escolha dela, terá o que quer. O corpo dela já está ao alcance dele; a porta ainda precisa do consentimento.
+– No lago, ele chamou a alma da Kelly de impura para fazê-la obedecer – disse Ingrid. – Mentiu. Queria que ela continuasse trazendo vocês para perto. Agora usa a irmã para obrigá-la a voltar à casa. Ele pode controlar o corpo dela por algum tempo, mas isso não é o mesmo que conseguir uma escolha de verdade.
 
 – O que eu faço? – perguntei.
 
@@ -146,7 +146,7 @@ Recuei com o susto.
 
 – Do que você tá falando? – perguntei, tentando segurar seu ombro.
 
-– Se destruírem os Elos, ele vai tentar matar vocês e prender novas almas aos sentidos – falou, ofegante. – Mas também quer que eu aceite ficar com ele. Quando tenta me fazer dizer sim, parece a voz do Enzo.
+– Se destruírem os Elos, ele vai tentar tomar outras almas para continuar forte – falou, ofegante. – E quer que eu concorde com tudo o que ele manda. Quando tento dizer não, ele fala comigo usando a voz do Enzo.
 
 – Ei, Kelly – disse Priscila, segurando-a pelos ombros. – Irmã, que se dane o que esse demônio quer. Se ele encostar em você, eu mando ele de volta pro inferno. A gente vai te tirar daqui, não interessa o que aconteça.
 
@@ -306,6 +306,9 @@ Mas, quando minha consciência começou a falhar, vi Pedro se levantando, tonto,
 
 – VAMOS SAIR DAQUI! – gritou Pedro, levantando Kelly, que tinha apagado outra vez.
 
+– Pedro, espera! – chamei, ainda tentando recuperar o ar. – Sobre o que você disse antes...
+– Depois, Junior. Se houver depois, você me explica. Agora corre!
+
 Os móveis começaram a tombar, os vidros das janelas explodiram. Vinícius passou meu braço pelo ombro dele e me puxou, com Priscila logo atrás. Descemos as escadas quase tropeçando, a cada passo um novo barulho de coisa quebrando. A casa inteira parecia desmoronar por dentro.
 
 Ao fim da escada, vi Jennifer sentada no chão, encostada na parede. Ao lado dela, Suéten, com a calma de um menino que não deveria mais existir ali.
@@ -352,7 +355,7 @@ Olhei para a arma por alguns segundos, sentindo o peso dela se multiplicar.
 
 – Não. Eu não vou fazer isso.
 
-“Pense, Junior. Uma alma por outra.”
+“Pense, Junior. Uma alma por outra. Quero ver o que você é capaz de fazer pela sua mãe.”
 
 – JUNIOR! – gritou Pedro. – Seja lá o que ele tá falando na sua cabeça, não ouve! Ele tá tentando te enganar!
 
@@ -370,7 +373,7 @@ Em histórias normais, as grandes escolhas aparecem em lugares calmos, com tempo
 
 Olhei para cada um, tentando pensar. Kelly, que eu tinha achado ser o amor da minha vida, tinha me usado. Priscila era um furacão de problemas e decisões irresponsáveis. Jennifer parecia nunca ter desejado muito ficar viva, e estava ferida; o Agouro podia estar usando isso contra mim. E tinha o Pedro, o cara que resolveu jogar fora anos de amizade porque eu beijei a garota de quem ele gostava. Enquanto esses pensamentos corriam, as peças foram se encaixando. Eu sabia o que precisava fazer.
 
-– Sim – eu disse, aceitando a oferta.
+– Sim. Eu aceito o acordo – eu disse.
 
 A criatura se virou para os meus amigos.
 

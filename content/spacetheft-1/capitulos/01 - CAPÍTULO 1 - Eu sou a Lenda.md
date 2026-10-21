@@ -108,9 +108,9 @@ Alcançando o topo após uma escalada tensa, o cheiro pungente de enxofre invadi
 
 – Mostre-se, Domongo! – desafiei, a adrenalina pulsando.
 
-A resposta veio na forma de uma vibração mais intensa. Movendo-me cautelosamente, arma em punho, percebi uma sombra se agitando à minha direita. Ao virar-me, deparei com a imensa figura do Domongo, uma serpente colossal de coloração rubra, com um único olho central laranja brilhante – o objeto de minha busca – adornando sua fronte. Nenhum dente na boca enorme, pele dura feito pedra, e mesmo assim voando. Claramente, o universo estava de brincadeira comigo. 
+A resposta veio na forma de uma vibração mais intensa. Movendo-me cautelosamente, arma em punho, percebi uma sombra se agitando à minha direita. Ao virar-me, deparei com a imensa figura do Domongo, uma serpente colossal coberta de placas azul-cobalto e violeta, com fendas magenta brilhando entre elas. No centro da fronte ardia um único olho laranja, maior que uma manga — o objeto de minha busca. A boca enorme se abriu, revelando duas fileiras de dentes claros e afiados. Pele dura feito pedra e, mesmo assim, voando. Claramente, o universo estava de brincadeira comigo. 
 
-Esquivando-me de seu ataque rasante, senti a aspereza do solo sob mim, escorregando pelo chão pedregoso. O Domongo se virou para mim. Sua pele acinzentada era rugosa, marcada por rachaduras que pareciam pulsar a cada movimento. O corpo disforme exalava um cheiro metálico, como se tivesse sangue de ferro, embora não houvesse veias visíveis. Então guardei minha arma e, com adaga em mãos, lancei-me ao seu encalço. No instante em que passou raspando minha cabeça, saltei como se minha vida dependesse disso. Minha adaga gritou contra a pele dura enquanto eu me pendurava desesperadamente. Não recomendo isso a ninguém, especialmente se você gostar de estar vivo.
+Esquivando-me de seu ataque rasante, senti a aspereza do solo sob mim, escorregando pelo chão pedregoso. O Domongo se virou para mim. As placas azuladas e violetas eram rugosas como pedra; nas frestas, o brilho magenta parecia pulsar a cada movimento. O corpo disforme exalava um cheiro metálico, como se tivesse sangue de ferro, embora não houvesse veias visíveis. Então guardei minha arma e, com adaga em mãos, lancei-me ao seu encalço. No instante em que passou raspando minha cabeça, saltei como se minha vida dependesse disso. Minha adaga gritou contra a pele dura enquanto eu me pendurava desesperadamente. Não recomendo isso a ninguém, especialmente se você gostar de estar vivo.
 
 Ali, pendurado a dezenas de metros do solo, enfrentava um dilema: por um lado, eu poderia agora montar nele e tentar alcançar seu olho, por outro lado, eu estava pendurado por uma adaga em uma serpente voadora há mais de cinquenta metros de altura. A queda ali seria fatal. 
 
@@ -122,7 +122,7 @@ Desesperado, agarrei-me a um espinho proeminente na cauda do Domongo, lamentando
 
 – Ah droga, Vek nunca mais vai me emprestar nada. 
 
-A criatura deu uma volta pelos ares e abriu suas mandíbulas para me abocanhar. Aguardei o momento, contei até três e saltei. Então ao cair em direção à criatura, atirei duas bombas por meu bracelete em direção à sua boca. Elas não eram muito fortes, mas a amônia fez a sua parte. A reação causou uma explosão ensurdecedora que rasgou a boca do Domongo, espalhando uma substância escura ao vento. Imediatamente me agarrei nas irregularidades da cabeça da criatura, me preparando para a queda inevitável, torcendo para que seu corpo não se virasse ao cair, senão minha morte seria rápida. 
+A criatura deu uma volta pelos ares e escancarou as mandíbulas dentadas para me abocanhar. Aguardei o momento, contei até três e saltei. Então ao cair em direção à criatura, atirei duas bombas por meu bracelete em direção à sua boca. Elas não eram muito fortes, mas a amônia fez a sua parte. A reação causou uma explosão ensurdecedora que rasgou a boca do Domongo, espalhando uma substância escura ao vento. Imediatamente me agarrei nas irregularidades da cabeça da criatura, me preparando para a queda inevitável, torcendo para que seu corpo não se virasse ao cair, senão minha morte seria rápida. 
 
 O impacto foi monumental. Achei que tinha quebrado todas as costelas – as minhas e as do Domongo. Mas, veja só, ainda tô inteiro, amortecido pela carcaça da besta. A dor mais significativa veio quando fui projetado ao solo, um golpe duro contra a terra.
 
@@ -130,7 +130,7 @@ Tirei o cabelo do rosto e cambaleei antes de me levantar. Aproximei-me do monstr
 
 – Eu sei, eu sei. Não adianta me olhar assim, eu preciso do seu olho, cara. 
 
-Sem minha adaga, tirar o olho ia ser tão fácil quanto ensinar matemática avançada a um micrófilo. Sem escolha, envolvi o olho com as mãos, e puxei-o fortemente, arrancando-o com um puxão vigoroso, rompendo as conexões nervosas. Uma onda da mesma substância negra e viscosa atingiu meu rosto, mas não me detive. Limpei os resíduos de minha visão e admirei a esfera cobiçada em minhas mãos, um sorriso de vitória adornando meus lábios.
+Sem minha adaga, tirar o olho ia ser tão fácil quanto ensinar matemática avançada a um micrófilo. Sem escolha, envolvi o olho com as mãos, e puxei-o fortemente, arrancando-o com um puxão vigoroso, rompendo as conexões nervosas. Uma onda da mesma substância negra e viscosa atingiu meu rosto, mas não me detive. Limpei os resíduos de minha visão e admirei a esfera cobiçada, grande demais para caber numa mão só, um sorriso de vitória adornando meus lábios.
 
 – Missão cumprida. Quase morri duas vezes, o que é um dia normal pra mim, e ainda conquistei a inimizade eterna de uma raça de moluscos esquisitos, que devem ser mais irritantes que uma pulga espacial. Nada mal para uma missão de início de hepton. 
 

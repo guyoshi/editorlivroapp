@@ -5,8 +5,9 @@ Se este fosse um dos romances que eu invento, eu começaria descrevendo a minha 
 
 É sobre a casa ao lado, sobre o que a gente viu e enfrentou e o que ninguém vai acreditar, e eu preciso contar antes que seja tarde demais.
 
-Ainda sinto o frio daquela noite. Às vezes, quando apago a luz do quarto, parece que a escuridão fica… olhando de volta. Cada sombra na parede é uma lembrança. E agora, pra completar, meu melhor amigo já não está mais aqui e a Kelly… bem, não importa.
-Ou talvez importe demais.
+Ainda sinto o frio daquela noite. Às vezes, quando apago a luz do quarto, parece que a escuridão fica… olhando de volta. Cada sombra na parede é uma lembrança. E agora, pra completar, o Pedro já não está mais aqui. Às vezes ainda tenho vontade de pegar o telefone e chamar meu melhor amigo, como fazia antes. A Kelly também não está por perto, mas essa é outra história.
+
+Algumas pessoas vão embora de um jeito que a gente nunca consegue explicar direito.
 
 Tudo começou num domingo, pouco mais de uma semana antes do meu aniversário, em 2002.
 Acordei cedo, como sempre, e fui direto pro meu caderno de capa azul, todo rabiscado. Eu adorava escrever romances: mundos onde eu podia criar finais felizes, em que o bem vencia e ninguém saía ferido. (Quer dizer, os vilões saíam feridos, mas vilão não conta.) Como eu queria que este livro fosse só mais um desses. Mas não é.

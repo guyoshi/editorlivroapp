@@ -1,0 +1,11 @@
+{
+  "id": "misterio-oculto-1",
+  "title": "Órbita Oráculo",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Capítulo 1",
+      "text": "content/misterio-oculto-1/capitulos/01 - Capítulo 1.md"
+    }
+  ]
+}

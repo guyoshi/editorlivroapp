@@ -2,7 +2,7 @@
 
 Há algo que nunca contei a vocês, uma pedra fria que carrego no peito. Coloquem uma música qualquer aí, de preferência uma daquelas dramáticas em francês, porque este é o tipo de segredo que muda a cor de tudo em volta. Julien Sorel, diante do tribunal, escolheu dizer a verdade que o condenava; eu a digo agora para ver se alguém me absolve, e sei que não mereço.
 
-Aconteceu muito antes de tudo isso, quando eu era um ano mais nova e ainda fingia acreditar que o certo e o errado tinham fronteiras definidas. Voltava da escola no modo automático em que a gente conhece cada rachadura do asfalto, com Priscila ao meu lado, grudada no celular, rindo de coisas que pareciam urgentes e hoje soam como eco. Vi algo se mexer atrás de uma árvore perto do ponto de ônibus, um movimento que parecia intencional, de quem quer ser visto, mas não demais. Priscila continuou na chamada e nem notou quando me afastei. Corri até a árvore e não achei nada, só a sensação ridícula de quem corre atrás de sombras. Ao me virar, reparei num beco espremido entre dois prédios altos, um corte feio no bairro que eu achava conhecer.
+Aconteceu muito antes de tudo isso, quando eu era um ano mais nova e ainda fingia acreditar que o certo e o errado tinham fronteiras definidas. Voltava da escola no modo automático em que a gente conhece cada rachadura do asfalto, com Priscila ao meu lado, grudada no celular, rindo de coisas que pareciam urgentes e hoje soam como eco. Vi algo se mexer atrás de uma árvore perto do ponto de ônibus, um movimento que parecia intencional, de quem quer ser visto, mas não demais. Priscila continuou na chamada e nem notou quando me afastei. Naquela semana eu tinha encontrado o ursinho do Enzo fora da caixa em que o guardávamos. Achei que fosse coisa da minha mãe e nem comentei. Corri até a árvore e não achei nada, só a sensação ridícula de quem corre atrás de sombras. Ao me virar, reparei num beco espremido entre dois prédios altos, um corte feio no bairro que eu achava conhecer.
 
 O cheiro de urina veio primeiro, misturado ao doce enjoativo do lixo parado. Havia algo ali que me puxava, talvez o contraste entre a luz da rua e a escuridão, talvez um instinto dizendo que ali havia uma resposta que eu nem sabia procurar. Entrei. O beco tinha quase a minha largura, como se tivesse sido cavado à minha medida, e fui pisando em sacos rasgados, papelões encharcados, madeira partida, até o fundo, de onde vinha um som baixo. Atrás da pilha de lixo havia uma menina encolhida no chão, uns dois anos mais nova que eu, de pele encardida e cabelo colado, com olhos que me encaravam com uma curiosidade muito parecida com a minha.
 
@@ -96,7 +96,9 @@ Fagulha. Incêndio. As palavras dela se misturaram às da menina do beco, como s
 – Meus pais querem ir para Vila Velha – repeti, usando a mentira como escudo.
 – Eu não sabia disso… – murmurou, com uma sombra de preocupação. – A sua mãe não me fala nada. Ela acha que sou maluca, que escolhi ser assim. Ninguém escolhe ser médium, você sabe. Se um dia descobrir ser como eu, não tenha medo deles. Um dia eles foram como nós.
 
-Assenti, com um sorriso torto. Ela se levantou e saiu, me deixando com um nome na cabeça, uma decisão no peito e um peso na consciência. A partir dali eu sabia o que ia fazer e, pior, sabia que ia fazer mesmo assim.
+Assenti, com um sorriso torto. Ela se levantou e saiu, me deixando com um nome na cabeça, uma decisão no peito e um peso na consciência. A Priscila já procurava um jeito de morar perto do Vini. Quando começou a mostrar casas, ajudei a escolher a que parecia melhor. Falei bem da rua, da escola, da vizinhança. Ela achou que tinha convencido todo mundo sozinha. Nunca perguntei a mim mesma por que a menina do beco parecia tão certa de que iríamos parar naquela cidade.
+
+A partir dali eu sabia o que ia fazer e, pior, sabia que ia fazer mesmo assim.
 
 
 
@@ -123,15 +125,16 @@ Cada frase acertava um lugar diferente em mim, e eu sabia que merecia ouvir, o q
 – Eu nunca trairia quem eu amo, independente dos meus desejos.
 – Mas você traiu o seu melhor amigo – devolveu Pedro. – Duvido que não fizesse pior.
 – Gente – cortou Jennifer, com aquela firmeza fria –, a Kelly errou, e errou feio. Mas todo mundo aqui já fez merda. Se a gente começar a apontar dedos, fica parado enquanto o Agouro ganha força. Não é hora de separar o grupo.
-– Os outros Elos estão nas nossas casas, certo? – interrompeu Vinícius. – Podem ser qualquer porcaria.
+– Alguns Elos foram parar nas nossas casas, certo? – interrompeu Vinícius. – Podem ser qualquer porcaria.
 – Dias atrás tive uma visão – disse Jennifer, com os olhos distantes. – Vi Ingrid com o ursinho, uma coleira, uma mulher mexendo num álbum de fotos, uma senhora ajeitando os óculos e um relógio dourado. Quando peguei aquele álbum na casa dos Marques, a Mãe apareceu. Acho que é o Elo dela. Algum desses objetos veio parar na casa de vocês?
 – Os óculos – disse Junior. – Recebi uma encomenda esquisita, uma caixa com uma lente de óculos estranha.
 – Eu achei uma lente dentro de um livro que meus pais me deram – falou Pedro. – Disseram que um rapaz passou na rua entregando livros.
-– Esse rapaz era o Alex – concluiu Jennifer. – O Elo da avó está dividido entre a casa dos dois. Vinícius, tem relógio dourado na sua?
+– Esse rapaz devia ser o Alex – concluiu Jennifer. – Ele ou Francis levou partes do Elo da avó para as duas casas. Vinícius, tem relógio dourado na sua?
 – Acho que sim. Meu pai tinha vários, mas foi vendendo quando o dinheiro começou a faltar.
 – Vendendo?! – Pedro arregalou os olhos. – Espero que ele não tenha vendido o Elo.
 – Traga todos os que ainda tiver – disse Jennifer. – A gente só vai saber qual é qual quando tentar destruir.
 – Vão destruir todos os relógios do meu pai? – resmungou Vini. Jennifer o encarou, e ele bufou e assentiu.
+Tirei da mochila o ursinho do Enzo. Havia uma costura azul na orelha, meio solta. Ninguém lá em casa lembrava direito quem o tinha dado ao meu irmão. Eu o trouxera porque, desde aquela conversa sobre Ingrid, deixar o brinquedo sozinho em casa me incomodava. Jennifer o pegou com cuidado.
 – A Kelly está com o Elo da casa dela – continuou. – Melhor destruir antes de ir atrás dos outros.
 – Não – falei, com a voz tremida, mas firme. – É melhor destruirmos tudo junto, senão chamamos a atenção das criaturas de novo.
 – Verdade – concordou Pedro, com um arrepio. – Quando destruímos a coleira, o cão apareceu na hora. Quase acabei enterrado vivo.

@@ -1,6 +1,6 @@
 “Eu já estou morta.”
 
-Eu quase caí da cadeira. A TV chiou mais alto nesse momento, como se tivesse reagido junto, e eu olhei pra tela tremida, como se fosse encontrar ali uma explicação. Claro que imaginei que fosse brincadeira. Mortos não usam MSN. Mortos não mandam poema. Mortos não chamam alguém de “fofo”.
+Eu quase caí da cadeira. A TV chiou mais alto nesse momento, como se tivesse reagido junto, e eu olhei pra tela tremida, esperando encontrar ali uma explicação. Claro que imaginei que fosse brincadeira. Mortos não usam MSN. Mortos não mandam poema. Mortos não chamam alguém de “fofo”.
 
 Mas o meu corpo não concordou com essa lógica simples. Meu corpo sempre se apavora primeiro.
 
@@ -14,7 +14,7 @@ Eu podia ter dito “é estranho pra caramba”, mas eu queria parecer calmo. Eu
 
 “Que bom que não achou. A maioria abandona a conversa quando falo isso.”
 
-Ela não colocou “rsrs”. Ela não colocou carinha. Ela escreveu seco, como se estivesse a testar uma reação.
+Ela não colocou “rsrs”. Ela não colocou carinha. Ela escreveu seco, como se estivesse testando uma reação.
 
 “Eu nunca faria isso.”
 
@@ -70,7 +70,7 @@ Ela escreveu isso como quem coloca a mão no teu ombro, e eu senti uma coisa est
 
 “Fala a verdade.”
 
-E eu percebi o primeiro empurrãozinho. Não foi agressivo. Foi suave. Foi como alguém a encostar um dedo no teu queixo e virar teu rosto para onde ela quer.
+Veio o primeiro empurrãozinho. Não foi agressivo. Foi suave. Foi alguém encostando um dedo no teu queixo e virando teu rosto para onde ela quer.
 
 “Droga. Vce me cativou muito forte.”
 
@@ -88,7 +88,7 @@ Eu hesitei. Vila Velha era uma palavra que puxava coisa demais atrás. Era como 
 
 “E você ainda fala com eles? Tipo, eles tem MSN? Podiamos criar um grupo pra tcl”
 
-Eu fiquei olhando para a tela. Aquela pergunta parecia inocente… mas parecia também uma mão a procurar o lugar certo pra apertar.
+Eu fiquei olhando para a tela. Aquela pergunta parecia inocente… mas parecia também uma mão procurando o lugar certo pra apertar.
 
 “Ah, acho q naum vai rolar. Naum falo mais com um deles, uma naum eh mto de cvs, e a outra… naum estah mais aqui.”
 
@@ -96,7 +96,7 @@ Eu demorei para enviar. Quando enviei, fui ao banheiro. A água do lavatório es
 
 Eram quase cinco da manhã. Eu tinha passado praticamente a noite inteira ali, e só então lembrei da conta, do computador, da comida, de tudo. Pelo menos, depois da meia-noite, a internet era “grátis”, e isso virava desculpa pra muita coisa. A conexão discada fazia aquele barulho de fax possuído, e eu sempre tinha medo de acordar meus pais — o medo do sobrenatural era um tipo de medo; o medo de decepcionar os meus pais era outro.
 
-Quando voltei pro quarto, Mel ainda não tinha respondido. Eu cliquei no botão de chamar atenção, aquele que fazia a janela vibrar, como se eu estivesse a dar um leve sacode no ombro dela.
+Quando voltei pro quarto, Mel ainda não tinha respondido. Eu cliquei no botão de chamar atenção, aquele que fazia a janela vibrar, como se eu estivesse dando um leve sacode no ombro dela.
 
 Ela apareceu um minuto depois.
 
@@ -108,16 +108,16 @@ Ela apareceu um minuto depois.
 
 Ela ficou offline.
 
-Eu desliguei o computador. A luz do gabinete demorou um segundo a apagar, e por um instante eu tive a sensação de que algo ainda estava ligado mesmo com tudo desligado, como se o quarto tivesse um resto de energia presa, igual quando a TV fica chiando mesmo depois que tu baixa o volume.
+Eu desliguei o computador. A luz do gabinete demorou um segundo a apagar, e tive a sensação de que algo ainda estava ligado mesmo com tudo desligado, igual quando a TV fica chiando mesmo depois que tu baixa o volume.
 
 Deitei. Encostei a cabeça no travesseiro. Eu estava gostando de conversar com ela. Ela fazia eu sentir que eu era… alguém. Que eu existia pra alguém. Mas aquela frase não largava o fundo do meu cérebro: morta.
 
-Talvez ela estivesse só a brincar.
+Talvez ela estivesse só brincando.
 Mas e se não estivesse?
 
 O despertador tocou seis da manhã. Eu mal tinha piscado. Minha cabeça parecia cheia de algodão e culpa. Levantei, tomei banho, e fui pra escola como um zumbi com mochila.
 
-No meio da aula, eu me peguei a pensar no Junior. No jeito que ele falava como se estivesse a escrever tudo por dentro, mesmo em silêncio. Pensei na Kelly e na Jennifer, e naquela sensação idiota de que a vida tinha me arrancado de uma cidade e me empurrado para outra como se fosse fácil.
+No meio da aula, eu me peguei pensando no Junior. No jeito que ele falava como se estivesse escrevendo tudo por dentro, mesmo em silêncio. Pensei na Kelly e na Jennifer, e naquela sensação idiota de que a vida tinha me arrancado de uma cidade e me empurrado para outra, fácil assim.
 
 — Pedro? — Filipo me chamou, e eu voltei pro mundo.
 
@@ -151,7 +151,7 @@ Pronto. Era agora. Agora ele ia dizer que eu era um esquisito e que meu texto er
 
 Meu peito apertou. Eu fiquei dividido entre a vontade de despejar tudo e a vontade de fingir que eu era só um personagem. Starman era isso: uma máscara que eu podia vestir.
 
-— Bom — eu suspirei. — Vamos lá. Até ano passado eu vivia em uma cidade chamada Vila Velha. Morei naquela cidade por três anos. E então nos últimos dias, algumas coisas estranhas aconteceram. Eu e meu melhor amigo começamos a ver algumas criaturas pela noite.
+— Bom — eu disse. — Vamos lá. Até ano passado eu vivia em uma cidade chamada Vila Velha. Morei naquela cidade por três anos. E então nos últimos dias, algumas coisas estranhas aconteceram. Eu e meu melhor amigo começamos a ver algumas criaturas pela noite.
 
 — Ver o quê? — Filipo arregalou os olhos. — Criaturas?
 
@@ -171,7 +171,7 @@ Eu falei sem parar, como se eu precisasse colocar aquilo pra fora antes que a co
 
 — Junto com a gente também estava a irmã de Kelly e o namorado dela. Descobrimos que as criaturas na verdade eram espíritos de uma família morta há mais de trinta anos, possuídos por seis demônios, conhecidos como demônios dos sentidos, que estavam sob controle de uma entidade que eu chamei de… Entidade… mas depois descobrimos ser conhecida como Agouro.
 
-Eu respirei, e vi que Filipo estava prestando atenção de verdade, com aquela expressão de quem quer acreditar e ao mesmo tempo tem medo.
+Vi que o Filipo estava prestando atenção de verdade, com aquela expressão de quem quer acreditar e ao mesmo tempo tem medo.
 
 — Então descobrimos que, pra derrotar esses demônios e o Agouro, precisávamos destruir os Elos… objetos que prendiam eles a esse mundo. E nós fizemos isso. E quando íamos derrotar o Agouro…
 
@@ -181,7 +181,7 @@ Eu respirei, e vi que Filipo estava prestando atenção de verdade, com aquela e
 
 — Está me dizendo que tudo aquilo foi baseado numa experiência com demônios?
 
-Eu olhei pro chão por um segundo. A verdade dava vergonha, porque parece loucura até quando é real.
+Olhei pro chão. A verdade dava vergonha, porque parece loucura até quando é real.
 
 — De verdade, Filipo. Sei que parece loucura e eu queria que tivesse sido tudo invenção minha.
 
@@ -201,7 +201,7 @@ Filipo riu também, mas foi um riso esquisito, como se ele não soubesse onde co
 
 — Não vou roubar — ele disse.
 
-E aí ele soltou uma frase que eu não esperava, como quem fala de algo que cresceu ouvindo.
+E aí ele soltou uma frase que eu não esperava, de coisa que cresceu ouvindo.
 
 — Sabe… não é fácil lidar com essas entidades. Quando elas querem algo, vão até o fim. E o pior… elas nunca estão sozinhas.
 
@@ -211,7 +211,7 @@ E aí ele soltou uma frase que eu não esperava, como quem fala de algo que cres
 
 Alvorada.
 
-A palavra ficou presa na minha cabeça. Eu já tinha ouvido em algum lugar. Talvez no blog. Talvez em fórum. Talvez naquela sensação estranha de que eu estava a ser puxado por algo que eu ainda não via.
+A palavra ficou presa na minha cabeça. Eu já tinha ouvido em algum lugar. Talvez no blog. Talvez em fórum. Talvez naquela sensação estranha de que eu estava sendo puxado por algo que eu ainda não via.
 
 — Eu também tenho uma história pra te contar — Filipo continuou. — Não é minha, na verdade. Meu pai disse que meu avô foi vítima de uma entidade. E que essa coisa foi o gatilho da morte dele.
 
@@ -235,9 +235,9 @@ Aquilo ficou comigo o resto do dia. Pensei que talvez eu devesse ligar pra Jenni
 
 Fechei. Desconectei. Deitei. Esperei o relógio virar o que eu precisava que virasse.
 
-À noite, meus pais chegaram do trabalho. Jantámos ovos mexidos. Eu insisti para dividir igual, porque eu não suportava mais ver eles a fingirem que não estavam com menos fome.
+À noite, meus pais chegaram do trabalho. Jantamos ovos mexidos. Eu insisti para dividir igual, porque eu não suportava mais ver eles a fingirem que não estavam com menos fome.
 
-Quando deu meia-noite, eu já estava na frente do computador, como se fosse um ritual. A TV chiava ao fundo, imagem tremida, e a luz do gabinete piscava, como se o quarto respirasse junto comigo.
+Quando deu meia-noite, eu já estava na frente do computador. A TV chiava ao fundo, imagem tremida, e a luz do gabinete piscava.
 
 Conectei. O barulho da internet discada soou como um bicho velho acordando.
 
@@ -251,13 +251,13 @@ Eu não tinha falado de Kelly. Não tinha dito o nome. Não tinha dito nada.
 
 “Boa noite”, eu digitei, devagar. “Por que sente muito?”
 
-O status dela estava “ocupado”. Eu fiquei olhando aquilo como se “ocupado” fosse um aviso. A televisão estalou uma interferência, e por um segundo eu juro que ouvi meu nome no meio do chiado, mas era só a minha cabeça a fazer o que sempre faz: me trair quando a luz fica baixa.
+O status dela estava “ocupado”. Fiquei olhando aquilo; “ocupado” parecia um aviso. A televisão estalou uma interferência, e por um segundo eu juro que ouvi meu nome no meio do chiado, mas era só a minha cabeça fazendo o que sempre faz: me trair quando a luz fica baixa.
 
 Então apareceu: “Mel Jones está escrevendo uma mensagem”.
 
 “Boa noite, meu principe. Sua amiga morreu, não foi? A história do seu blog… é a sua história.”
 
-Eu senti o coração acelerar e ao mesmo tempo o estômago cair. Foi aí que percebi: ela não tinha chutado. Ela estava a acertar demais.
+O estômago caiu. Foi aí que percebi: ela não tinha chutado. Ela estava acertando demais.
 
 “Você… daria uma boa detetive”, eu respondi, tentando transformar pânico em piada.
 
@@ -267,13 +267,13 @@ Quando era pequena. Outra frase com gosto de algo que terminou.
 
 “Mais uma vez, sinto muito. É realmente muito chato perder alguém.”
 
-Eu fiquei sem resposta. Eu podia ouvir o som do meu próprio dedo a bater na mesa, ansioso, e a luz do gabinete a piscar como se contasse segundos.
+Eu fiquei sem resposta. Eu podia ouvir o som do meu próprio dedo batendo na mesa, ansioso, e a luz do gabinete piscando como se contasse segundos.
 
-E, como se ela soubesse que eu estava a entrar num buraco, ela mudou o assunto com uma delicadeza calculada.
+E, como se ela soubesse que eu estava entrando num buraco, ela mudou o assunto com uma delicadeza calculada.
 
 “Como foi seu dia, principe?”
 
-Eu engoli em seco. Era como se ela colocasse um cobertor em cima de mim enquanto me arrastava pro lugar que ela queria.
+Era como se ela colocasse um cobertor em cima de mim enquanto me arrastava pro lugar que ela queria.
 
 “Foi chato, minha princesa. E o seu?”
 
@@ -293,7 +293,7 @@ Antes que eu pudesse responder, o link chegou.
 
 David Bowie — Starman.
 
-Eu senti um arrepio ridículo, porque “Starman” não era só um codinome. Era a minha tentativa de ser outra coisa, alguém que não tinha culpa, alguém que podia contar a história sem ter sido esmagado por ela. E agora uma garota estranha, supostamente de uma cidade estranha, supostamente morta, estava a enfiar o dedo exatamente nessa máscara.
+Aquilo me atingiu, porque “Starman” não era só um codinome. Era a minha tentativa de ser outra coisa, alguém que não tinha culpa, alguém que podia contar a história sem ter sido esmagado por ela. E agora uma garota estranha, supostamente de uma cidade estranha, supostamente morta, estava enfiando o dedo exatamente nessa máscara.
 
 “Feche os olhos, relaxe, ouca e se desligue do mundo. Qdo a musica terminar, volte aqui para continuarmos.”
 
@@ -305,7 +305,7 @@ Eu cliquei no play. O som saiu baixo, e eu aumentei. A voz do Bowie entrou nos m
 
 E foi aí que aconteceu a parte mais perigosa.
 
-Porque a música falava de um alguém lá em cima, a chamar, e eu senti como se aquele “alguém” fosse a Mel. Como se ela estivesse a apontar para um lugar onde “o mundo não dói tanto”. Como se fosse possível escapar. Como se existisse mesmo um “homem nas estrelas”, ou qualquer coisa assim, a prometer que não era só isto.
+Porque a música falava de um alguém lá em cima, chamando, e eu senti como se aquele “alguém” fosse a Mel, apontando para um lugar onde “o mundo não dói tanto”. Como se fosse possível escapar. Como se existisse mesmo um “homem nas estrelas”, ou qualquer coisa assim, prometendo que não era só isto.
 
 Quando a música terminou, eu voltei pro Messenger com um vazio bom, quase confortável.
 
@@ -317,7 +317,7 @@ Quando a música terminou, eu voltei pro Messenger com um vazio bom, quase confo
 
 “Qdo naum estiver se sentindo bem, ou qdo algo horrivel acontecer com vc, coloque o fone e ouca uma boa musica. Algo que t conforte e te tire daquela realidade.”
 
-Eu engoli em seco. Ela tinha dito “algo horrível” como se conhecesse o meu conceito de horrível.
+Ela tinha dito “algo horrível” como se conhecesse o meu conceito de horrível.
 
 “Vou ouvir todos os dias, pensando em vce.”
 
@@ -327,9 +327,9 @@ Um álbum pra lembrar de mim.
 
 Aquilo parecia romântico. Mas tinha uma sombra, porque lembrar dela era lembrar de alguém que dizia estar morta — e, ainda assim, me puxava como se estivesse viva demais.
 
-A conversa durou mais três horas. Quando ela disse que estava com sono e que ia dormir, eu senti uma tristeza boba, quase infantil, como se eu estivesse a perder o único lugar onde eu cabia.
+A conversa durou mais três horas. Quando ela disse que estava com sono e que ia dormir, veio uma tristeza boba, quase infantil, como se eu estivesse perdendo o único lugar onde eu cabia.
 
-Quando ela ficou offline, eu me deitei. Fiquei a imaginar o rosto que eu não tinha visto. A menina de rosa ao fundo da foto. O jeito como ela falava comigo como se já soubesse tudo.
+Quando ela ficou offline, eu me deitei. Fiquei imaginando o rosto que eu não tinha visto. A menina de rosa ao fundo da foto. O jeito como ela falava comigo como se já soubesse tudo.
 
 Minha cabeça não me deixou dormir.
 
@@ -339,13 +339,13 @@ Levantei, encostei a cama na mesa do computador, liguei o fone no gabinete, e co
 
 Adormeci assim.
 
-Durante a noite, acordei assustado com a sensação de algo ter encostado no meu rosto. Sentei na cama, tirei os fones — que já não tocavam mais nada — e peguei minha bomba ao lado, puxando ar como se o ar tivesse acabado no mundo. Minha bexiga estava a gritar, então levantei e fui pro banheiro.
+Durante a noite, acordei assustado com a sensação de algo ter encostado no meu rosto. Sentei na cama, tirei os fones — que já não tocavam mais nada — e peguei minha bomba ao lado, puxando ar como se o ar tivesse acabado no mundo. Minha bexiga estava gritando, então levantei e fui pro banheiro.
 
 O vento lá fora estava forte. A árvore do lado de fora da janela sacudia como se quisesse arrancar a si mesma do chão.
 
 Abri a porta do banheiro, abri a tampa do vaso, e recuei na mesma hora, caindo no chão.
 
-Levantei com o coração na boca e olhei de novo.
+Levantei de um salto e olhei de novo.
 
 O vaso estava cheio. Não de sujeira. De larvas. Centenas. Cobriam a água inteira, se esgueiravam umas por cima das outras, algumas tentando subir pela porcelana.
 
@@ -355,7 +355,7 @@ Da última vez ela tinha jogado sopa estragada no vaso e esquecido de dar descar
 
 Minha mãe era esquecida. Tinha TDAH. Eu também tinha. Herdar isso virou a nossa piada privada: eu não herdei os olhos dela nem o físico do meu pai; herdei a distração e a altura. A loteria da vida não paga prêmio pra todo mundo.
 
-Dei descarga, vendo as larvas descerem num redemoinho nojento, e por um segundo eu quase pensei pronto, resolvido, porque a minha cabeça ainda insistia em fingir que existe botão de “consertar” pra tudo. Mijei, enfim, e fui lavar as mãos.
+Dei descarga, vendo as larvas descerem num redemoinho nojento, e quase pensei pronto, resolvido, porque a minha cabeça ainda insistia em fingir que existe botão de “consertar” pra tudo. Mijei, enfim, e fui lavar as mãos.
 
 Foi quando senti uma coisa gosmenta cair na minha pele.
 
@@ -363,21 +363,21 @@ Olhei.
 
 Larvas. Caindo de cima como chuva.
 
-— AH, QUE NOJO! MAS QUE DROGA! — gritei, sacudindo as mãos com força, como se eu pudesse atirar o pânico junto com elas. Algumas bateram no azulejo e ficaram lá, vivas, contorcendo-se como pequenos dedos brancos.
+— AH, QUE NOJO! MAS QUE DROGA! — gritei, sacudindo as mãos com força, como se eu pudesse atirar o pânico junto com elas. Algumas bateram no azulejo e ficaram lá, vivas, se contorcendo como pequenos dedos brancos.
 
 Olhei para o chão. Uma delas se dobrava em si mesma, lenta, insistente. Depois olhei para a pia.
 
 A pia estava inundada.
 
-A torneira aberta, mas sem água. Só larva. Larva em cima, larva embaixo, larva a escorrer pelo ralo como se o encanamento tivesse virado uma garganta entupida.
+A torneira aberta, mas sem água. Só larva. Larva em cima, larva embaixo, larva escorrendo pelo ralo como se o encanamento tivesse virado uma garganta entupida.
 
-E aí a lembrança veio como um soco:
+E aí a lembrança veio:
 
 Filipo. Cara-de-Larva.
 
 Corri pro quarto sem nem apagar as luzes. Esfreguei as mãos na toalha do guarda-roupa com violência, como se eu pudesse arrancar o nojo e o medo ao mesmo tempo, e liguei o monitor.
 
-A luz fraca do gabinete piscava, nervosa, e a TV no canto insistia num chiado baixo, constante, como se o quarto estivesse a sussurrar alguma coisa que eu não entendia. Abri o Google com a mão ainda húmida e a cabeça a latejar. Digitei Cara-de-Larva e apertei Enter com força demais, como se o teclado fosse culpado.
+A luz fraca do gabinete piscava, nervosa, e a TV no canto insistia num chiado baixo, constante. Abri o Google com a mão ainda úmida e a cabeça latejando. Digitei Cara-de-Larva e apertei Enter com força demais, como se o teclado fosse culpado.
 
 Cliquei no primeiro resultado.
 
@@ -387,7 +387,7 @@ O título apareceu, sem enfeite:
 
 “Cara-de-Larva”
 
-E abaixo vinha o texto, como se alguém tivesse escrito aquilo com vontade de me deixar doente:
+E abaixo vinha o texto, escrito com vontade de me deixar doente:
 
 “Cara-de-Larva. Os habitantes de Alvorada Alegre contavam a história de uma criatura conhecida como Cara-de-Larva.
 
@@ -399,11 +399,11 @@ João se desesperou e saiu a procura da irmã. Você pode perguntar por que ele 
 
 Lá dentro, João descreve que viu coisas macabras, que jamais sonhou ver na vida. Logo na entrada, havia um dedo humano que ele imediatamente viu não ser de sua irmã. A porta estava emperrada, então eles tiveram de arrombá-la para conseguir entrar.
 
-Ao dar seus primeiros passos, ele se separou com uma criatura peluda e negra escondida em um canto. Parecida com um gato, mas grande e com olhos totalmente brancos. A princípio achavam que o animal tinha apanhado a garota, mas então ouviram um som vindo dos fundos do galpão.
+Ao dar seus primeiros passos, ele se separou com uma criatura peluda e negra escondida em um canto. Parecida com um gato, mas grande e com olhos totalmente brancos. A princípio achavam que o animal tinha pegado a garota, mas então ouviram um som vindo dos fundos do galpão.
 
 Enquanto dois garotos ficaram de olho no animal, João e os outros dois foram ver do que se tratava o barulho. O galpão estava repleto de armários velhos que pareciam ser de outro século, além de ferramentas enferrujadas e empoeiradas, muitas delas sendo objetos cortantes como machados e facões.
 
-João diz que apontou a lanterna para o chão, e viu que havia um caminho de larvas que guiava-os até atrás de um armário, ao fundo do galpão. Quando ele e os colegas olharam atrás do armário, eles viram um ser alto nu, com cabelos sujos e colados no rosto, uma barriga enorme com buracos de onde larvas caíam.
+João diz que apontou a lanterna para o chão, e viu que havia um caminho de larvas que os guiava até atrás de um armário, ao fundo do galpão. Quando ele e os colegas olharam atrás do armário, eles viram um ser alto nu, com cabelos sujos e colados no rosto, uma barriga enorme com buracos de onde larvas caíam.
 
 E sua face estava também coberto pelos insetos, os quais empurravam uns aos outros onde deveria haver um rosto no ser. Aquele era o Cara-de-Larva.
 
@@ -415,6 +415,6 @@ João, ao chegar em casa, tentou contar para seus pais o que tinha acontecido, m
 
 João não sabia, mas a criatura que levou sua irmã, e os garotos dentro da casa, o Cara-de-Larva, tinha também levado todos daquela cidade. Por alguma razão, ele se tornou o único sobrevivente.”
 
-Quando terminei, eu afastei a mão do rato como se tivesse tocado numa coisa viva. A luz do gabinete piscou mais uma vez e a TV chiou, comprida, como se estivesse a rir da minha cara.
+Quando terminei, eu afastei a mão do mouse. A luz do gabinete piscou mais uma vez e a TV chiou, comprida, como se estivesse rindo da minha cara.
 
-Percebi que eu estava a respirar curto, apertado, como se o meu peito tivesse virado um corredor estreito. Olhei para o quarto — o mesmo quarto, as mesmas paredes — e, ainda assim, parecia que eu tinha trazido alguma coisa comigo do banheiro. Algo que não era larva. Algo que era a ideia de larva. A sensação de que aquilo podia cair de qualquer lugar.
+Eu estava respirando curto, apertado, o peito virado um corredor estreito. Alcancei a bombinha no bolso do casaco pendurado na cadeira e puxei uma dose, segurando o ar até o peito parar de reclamar. Olhei para o quarto — o mesmo quarto, as mesmas paredes — e, ainda assim, parecia que eu tinha trazido alguma coisa comigo do banheiro. Algo que não era larva. Algo que era a ideia de larva. A sensação de que aquilo podia cair de qualquer lugar.

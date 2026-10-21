@@ -223,7 +223,7 @@ Vi o ódio subir nos olhos dela. Ela gritou. O tiro ecoou, mas ao mesmo tempo el
 – Você tava pedindo pra morrer, né? – Priscila pegou a arma do lado dela.
 – Pelo menos não ia morrer sem falar a verdade.
 
-Ela me entregou a arma. Nossos olhos se encontraram.
+Ela me entregou a arma. A coronha estava inteira, lisa demais. Lembrei da lasca perto do parafuso, lá do dia em que meu pai me deu um tiro. Por um instante achei que ele tivesse consertado a madeira. Meu peito apertou de um jeito esquisito, uma mistura de raiva e vontade de não largar aquele metal. Nossos olhos se encontraram.
 
 – Obrigado.
 – Não ia deixar você morrer antes de pagar tudo o que fez – respondeu, fria.

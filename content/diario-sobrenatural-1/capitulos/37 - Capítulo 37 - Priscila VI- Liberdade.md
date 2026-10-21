@@ -4,7 +4,7 @@ Engraçado como eu passei a infância inteira desejando ser filha única. Não f
 
 O momento exato em que ela caiu eu vou lembrar até o dia em que morrer. O corpo da Kelly foi ao chão como se alguém a tivesse desligado, os olhos abertos, o peito jorrando sangue no gramado, e por um instante tudo ficou mudo. O grito do Pedro, o desespero, o demônio, o fogo, tudo sumiu, e eu só via o rosto dela e pensava: acabou. Acabaram as noites em que meus pais saíam e diziam “cuida da sua irmã”, as festas em que a “filha mais linda” era sempre ela, as viagens em que o presente mais caro era dela. Toda aquela competição que só eu parecia enxergar morreu junto com ela naquele segundo. E mesmo assim, por baixo disso, a sensação era outra, como se alguém tivesse enfiado a mão no meu peito e puxado metade da minha história. Talvez por isso eu não tenha reagido, nem uma lágrima, nem um passo, mesmo com o Pedro ao meu lado gritando e chorando, tentando se soltar das amarras invisíveis do demônio.
 
-– Incrível como um garoto se vende fácil – ouvi a voz de Suéten. – Matou a amiga achando que salvaria a mãe. Agouro queria sua escolha, Junior; a alma dela nunca foi sua para entregar.
+– Incrível como um garoto se vende fácil – ouvi a voz de Suéten. – Matou a amiga achando que salvaria a mãe. A alma dela nunca foi sua para entregar.
 
 O espírito dele apareceu diante do relógio dourado, caído no chão. Junior estava alguns metros à frente, de olhos vermelhos, com enormes tentáculos de sombra se mexendo atrás dele, como se a escuridão tivesse virado uma criatura viva.
 
@@ -14,6 +14,8 @@ O garoto se abaixou diante de nós e esticou a mão para o relógio. Antes de pe
 
 – Eu avisei que, se vocês entrassem, um não ia voltar.
 – Me entregue o Elo, Abigor – insistiu Junior, com uma voz que já nem parecia dele.
+
+Uma das sombras rastejou pelo gramado até o corpo de Kelly. Ficou ali, estendida, enquanto o garoto segurava o relógio, como se esperasse por alguma coisa.
 
 Suéten hesitou. Pela primeira vez, seus olhos conservaram a cor quando o Agouro pronunciou aquele nome. Ele viu o sangue de Kelly no gramado e não se moveu em direção a ela, embora eu soubesse o que aquele cheiro fazia com ele. Senti que o demônio já não mandava nele do mesmo jeito: cada Elo destruído lhe custara uma voz, um par de olhos, uma mão capaz de nos alcançar.
 

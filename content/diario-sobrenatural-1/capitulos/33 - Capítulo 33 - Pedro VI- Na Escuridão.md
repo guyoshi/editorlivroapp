@@ -21,12 +21,19 @@ Jennifer travou, levou as mãos ao rosto e começou a chorar. Me aproximei devag
 Fiquei olhando para a escadaria. A Priscila ainda precisava ser resgatada, e aquela história toda não podia ter terminado ali.
 
 – Por que resolveu nos mostrar isso agora? – perguntou Junior.
-– Porque vocês não são o monstro. Precisam derrotar o monstro. Meu Senhor está com a menina e concentra quase toda a sua força nela. Os demônios dele não estão nos controlando agora, então vocês estão livres para subir.
+– Porque vocês não são o monstro. Precisam derrotar o monstro. Meu Senhor está com a menina e concentra quase toda a sua força nela. Queria que a irmã voltasse para buscá-la. Sabia que vocês não a deixariam ir sozinha. Os demônios dele não estão nos controlando agora, então vocês estão livres para subir.
 – Onde está minha irmã? – perguntou Kelly, num tom mais ríspido do que eu já ouvira dela.
 
 Suéten se levantou devagar e apontou para o topo da escadaria, onde só se via escuridão. Kelly se preparou para subir, mas eu a segurei pelo braço.
 
 – Não sobe sozinha. A gente vai junto.
+
+Junior olhou para mim, como se esperasse que eu dissesse alguma coisa. Eu ainda estava magoado demais para fingir que nada tinha acontecido.
+
+– Se a gente sair daqui, ainda vamos precisar conversar – falei.
+– Eu sei – respondeu ele.
+– Então trata de sair.
+
 – Devo avisar que Meu Senhor sabe que vocês vão atrás dela – disse Ingrid. – E só vai libertá-la se tiver um motivo. Ou se alguém ficar no lugar dela.
 
 Kelly olhou para cada um de nós, e vi nascer aquele olhar de decisão. Antes que abrisse a boca, eu e o Junior soltamos ao mesmo tempo:
@@ -132,7 +139,7 @@ Vinicius se levantou devagar, ainda protegendo o baixo-ventre.
 – Gente, eu tenho um palpite – disse o Junior, como quem lembra de uma cena importante. – Um dia eu e a Kelly fomos perseguidos pelos pássaros. Corremos até a saída de um túnel de despejo na rua de baixo da minha, e eu vi uma menina lá dentro, acenando como se me chamasse pra entrar. As aves não seguiram a gente.
 – Junior pode estar certo – disse Jennifer. – Talvez esse túnel já existisse antes do sistema de esgoto, e Vila Velha cresceu em cima dele.
 – Você tá dizendo que a gente chega ao porão pelos esgotos? – perguntou Priscila. – Porque eu não tô muito afim de me sujar toda à toa.
-– É a melhor opção. Ou isso, ou a Kelly morre e o Agouro ganha.
+– É a melhor opção. Ou isso, ou a Priscila continua nas mãos do Agouro.
 – Ainda vai faltar o Elo do Pai – lembrei. – A gente não faz ideia do que seja.
 – Não me lembro de ter sonhado com o Elo dele – disse Jennifer, revirando as visões na cabeça. – Vamos arriscar que esteja na casa.
 – E se não estiver? – perguntou Junior.

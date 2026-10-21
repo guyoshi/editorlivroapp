@@ -1,0 +1,26 @@
+{
+  "id": "spacetheft-2",
+  "title": "Livro 2",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Capítulo 1",
+      "text": "content/spacetheft-2/capitulos/01 - CAPÍTULO 1 -.md"
+    },
+    {
+      "n": 2,
+      "title": "Capítulo 2",
+      "text": "content/spacetheft-2/capitulos/02 - CAPÍTULO 2 -.md"
+    },
+    {
+      "n": 3,
+      "title": "Capítulo 3",
+      "text": "content/spacetheft-2/capitulos/03 - CAPÍTULO 3 -.md"
+    },
+    {
+      "n": 4,
+      "title": "Capítulo 4",
+      "text": "content/spacetheft-2/capitulos/04 - CAPÍTULO 4 -.md"
+    }
+  ]
+}

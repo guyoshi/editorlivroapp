@@ -4,7 +4,7 @@ Cheguei do Bruno Régis na sexta-feira com o plano pronto. Joguei a mochila num 
 
 Lá de cima fiquei olhando. Meu pai saiu com a Ana Lívia, que carregava o Bob todo bonitinho enrolado num pano azul. Consulta de rotina. Fiquei vendo até os três virarem a esquina, e o coração acelerou. Era agora.
 
-Apaguei o baseado, joguei desodorante barato no quarto e desci a escada pisando leve, direto pro quarto do meu pai. Eu já tinha visto ele guardando a arma uma vez, achando que eu dormia. Não esqueço dessas coisas. Puxei uma cadeira, encostei no guarda-roupa e subi. Passei a mão por cima do móvel até achar a portinha, um fundo falso. Enfiei a mão, tateei e senti o metal frio. Puxei. Era mais bonita do que eu lembrava: pesada, meio velha, meio clássica, brilhando.
+Apaguei o baseado, joguei desodorante barato no quarto e desci a escada pisando leve, direto pro quarto do meu pai. Eu já tinha visto ele guardando a arma uma vez, achando que eu dormia. Não esqueço dessas coisas. Puxei uma cadeira, encostei no guarda-roupa e subi. Passei a mão por cima do móvel até achar a portinha, um fundo falso. Enfiei a mão, tateei e senti o metal frio. Puxei. Era mais bonita do que eu lembrava: pesada, meio velha, meio clássica, brilhando. Na madeira da coronha faltava uma lasquinha junto ao parafuso. Eu conhecia cada defeito daquela arma, mesmo sem nunca ter tido permissão de usá-la.
 
 O peito encheu. Botei tudo de volta, fechei o fundo, empurrei a cadeira pro canto. Escondi o revólver na cintura, por dentro da calça, troquei a camisa, passei perfume e me olhei rápido no espelho. Com uma arma na cintura você anda diferente, o jeito de pisar muda. Eu sentia o poder. Podia apontar pra qualquer um e mandar, pedir dinheiro, respeito, silêncio. O bairro inteiro tinha ficado menor.
 
@@ -101,7 +101,7 @@ Fiquei quieto. Segurei o olhar dele por uns segundos e abaixei a cabeça, frustr
 
 – Você nunca me deixou chegar perto disso aí, pai – apontei o revólver na cinta dele. – Tenho que aprender a atirar. Como é que vou me virar na rua?
 
-O olhar dele piorou. Levantou a blusa e tirou o revólver da cintura, devagar. Ficou olhando a arma por alguns segundos como se fosse a coisa mais importante da vida, quase hipnotizado. Depois virou pra mim.
+O olhar dele piorou. Levantou a blusa e tirou o revólver da cintura, devagar. Ficou olhando a arma por alguns segundos, a mandíbula travada. Depois virou pra mim.
 
 – Você não faz ideia do que é entrar nesse mundo, Vinícius. Correr risco de morte todos os dias. Acha que eu quero isso pra você?
 – Que se dane o que você quer, pai. Eu sei o que eu quero.

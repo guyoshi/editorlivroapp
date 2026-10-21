@@ -1,14 +1,12 @@
 Eu acordei com aquela sensação chata de que o mundo ainda estava de pé quando, por algum motivo, eu queria que ele tivesse tirado um dia de folga.
 
-O quarto da Sra. Olívia tinha cheiro de chá e madeira antiga. A luz da manhã entrava num ângulo tímido pela janela, cortando a poeira no ar como se ela tivesse peso. Jennifer dormia na outra cama, encolhida de lado, com uma mão perto do rosto e a outra largada como se tivesse desistido de segurar alguma coisa durante a noite. Ela parecia… quieta demais. Não era paz. Era cansaço.
+O quarto da Sra. Olívia tinha cheiro de chá e madeira antiga. A luz da manhã entrava num ângulo tímido pela janela, cortando a poeira no ar. Jennifer dormia na outra cama, encolhida de lado, com uma mão perto do rosto e a outra largada como se tivesse desistido de segurar alguma coisa durante a noite. Ela parecia quieta demais. Não era paz. Era cansaço.
 
 E a cama do Filipo estava vazia.
 
-No início eu pensei que ele tivesse ido ao banheiro, ou que tivesse saído pra pegar água, mas tinha uma espécie de silêncio na casa que denunciava quando alguém estava acordado sozinho. Não era o silêncio normal. Era um silêncio com intenção.
+No início eu pensei que ele tivesse ido ao banheiro, mas tinha uma espécie de silêncio na casa que denunciava quando alguém estava acordado sozinho. Um silêncio com intenção.
 
-Levantei-me devagar, tentando não fazer o assoalho ranger (falhei logo na primeira tábua) e desci.
-
-A casa estava quase escura, mesmo de manhã. As cortinas grossas deixavam tudo amarelado e abafado, como se o tempo lá dentro fosse um pouco mais lento. Eu vi Filipo na porta da frente, de pé, com a mão na tranca, olhando para fora como se estivesse a dois segundos de ir embora.
+A casa estava quase escura, mesmo de manhã. As cortinas grossas deixavam tudo amarelado e abafado. Eu vi Filipo na porta da frente, de pé, com a mão na tranca, olhando para fora como se estivesse a dois segundos de ir embora.
 
 — Ei — eu disse, ainda com a voz amassada de sono. — Tá tudo bem?
 
@@ -16,7 +14,7 @@ Ele não olhou de imediato. Continuou encarando o jardim e as árvores para alé
 
 — Quanto mais tempo a gente fica aqui… — ele começou, com a voz baixa, seca — menos chances eu tenho de encontrar minha irmã viva.
 
-Eu engoli em seco, porque esse tipo de frase não dá para responder com “calma” sem parecer idiota.
+Eu não soube o que dizer, porque esse tipo de frase não dá para responder com “calma” sem parecer idiota.
 
 — Filipo… a Jennifer tá se esforçando. Ela tá treinando. Ela só precisa ficar mais forte, aí sim a gente vai atrás da tua irmã do jeito certo, sem fazer cagada.
 
@@ -26,9 +24,7 @@ Ele virou para mim com um olhar que não era só raiva. Era desespero disfarçad
 
 — Tu não faz ideia do que ela tá passando.
 
-— Eu faço ideia do que eu tô passando — ele rebateu, aproximando-se um passo. — Eu estive preso por meses naquela merda de cidade. Eu vi o que tem lá. Eu carreguei gente que já não tava mais… gente. E eu tô aqui, parado, porque ela “ainda não tá pronta”.
-
-Ele apontou para o chão, como se a casa inteira fosse um erro.
+— Eu faço ideia do que eu tô passando — ele rebateu, se aproximando um passo. — Eu estive preso por meses naquela merda de cidade. Eu vi o que tem lá. Eu carreguei gente que já não tava mais… gente. E eu tô aqui, parado, porque ela “ainda não tá pronta”.
 
 — E não vem com papo de “do jeito certo”. Do jeito certo meu pai não tinha morrido.
 
@@ -42,13 +38,11 @@ Ele apertou o maxilar.
 
 — E tu é o quê? — escapou de mim, mais alto do que eu queria. — Instrutor de Selifa agora? Tu decorou tabela periódica e acha que isso dá certificado pra julgar o trauma dos outros?
 
-Ele ficou parado, surpreso com a minha resposta, e eu senti aquela onda de calor subir pelo peito. Eu odeio quando fico assim, quando a raiva parece que toma emprestado a minha língua.
+Ele ficou parado, surpreso com a minha resposta, e eu senti aquela onda de calor subir pelo peito. Eu odeio quando a raiva toma emprestada a minha língua.
 
 — Não vou esperar mais muito tempo — ele insistiu, mas a voz dele falhou um pouco. — Você viu o que o Cara-de-Larva é capaz de fazer. Não vou esperar enquanto ele mata minha irmã. 
 
-— Então por que não vai atrás dele?  — eu falei, agora já com a irritação puxando o freio da paciência. — Por que ao invés de vir armado atrás de nós, não foram sozinhos até a cidade resgatá-la? Ah, desculpe, você não é páreo pra esse monstro. E advinha, no momento nenhum de nós somos. E a menos que queiramos morrer junto à sua irmã em Alvorada, nossa única opção é aguardar o treinamento da Jennifer. 
-
-O silêncio que veio depois pareceu enorme. A casa, o jardim, o mundo inteiro esperando alguém quebrar.
+— Então por que não vai atrás dele? — eu falei, com a irritação puxando o freio da paciência. — Por que ao invés de vir armado atrás de nós, não foram sozinhos até a cidade resgatá-la? Ah, desculpe, você não é páreo pra esse monstro. E adivinha, no momento nenhum de nós é. E a menos que queiramos morrer junto à sua irmã em Alvorada, nossa única opção é aguardar o treinamento da Jennifer.
 
 E aí uma voz apareceu atrás de mim, suave, mas alerta:
 
@@ -58,21 +52,19 @@ Jennifer estava na escada, com o cabelo bagunçado e o rosto meio pálido, e ain
 
 Filipo olhou para ela só um instante, mas não era um olhar de ódio.
 
-Ele soltou a mão da tranca, passou por nós sem dizer nada e saiu pela porta, subindo os degraus do alpendre. 
-
-Eu fiquei ali, parado, sentindo a raiva ainda vibrar no corpo, como quando você segura um espirro e fica com o rosto quente.
+Ele soltou a mão da tranca, passou por nós sem dizer nada e saiu pela porta, subindo os degraus do alpendre.
 
 Jennifer desceu até mim, devagar, e encostou a mão no corrimão.
 
 — Pedro… pega leve com ele.
 
-— Ah, eu tô pegando leve — eu resmunguei. — Se eu pegasse pesado, eu já tinha mandado ele tomar....
+— Ah, eu tô pegando leve — eu resmunguei. — Se eu pegasse pesado, eu já tinha mandado ele tomar…
 
 — Ele tá desesperado — Jennifer me interrompeu. 
 
 — E eu não tô? — eu falei rápido demais. — Eu só não fico ameaçando ir embora toda hora.
 
-Jennifer respirou fundo, como se escolhesse as palavras.
+Jennifer escolheu as palavras antes de falar.
 
 — Se fosse alguém que se importa lá dentro, você estaria do mesmo jeito.
 
@@ -86,7 +78,7 @@ Eu arregalei os olhos, e o meu instinto foi irônico porque, quando eu fico sem 
 
 — Ah, tá — eu apontei com o queixo, fingindo casualidade. — Então era isso. A senhora Selifa aí tá saindo à noite agora? Virou morcego?
 
-Jennifer travou por um segundo. Um segundo só. Mas foi o suficiente pra eu perceber que eu tinha acertado em cheio.
+Jennifer travou. Um segundo só. Foi o suficiente pra eu saber que tinha acertado em cheio.
 
 Ela hesitou e, baixinho, como se fosse a coisa mais absurda de admitir, disse:
 
@@ -100,7 +92,7 @@ Eu senti meu estômago afundar.
 
 — Tu é maluca? — a palavra veio mais alta do que eu queria. — Tu tá treinando com a Olívia porque tem coisa te caçando, tu sabe disso, e tu vai passear de noite?
 
-Ela fechou os olhos por um instante, como se respirasse pra não reagir com a mesma agressividade.
+Ela fechou os olhos respirando pra não reagir com a mesma agressividade.
 
 — Não foi passeio.
 
@@ -114,17 +106,15 @@ Eu soltei uma risada curta, sem humor.
 
 — Claro. A Glenda. Porque a Glenda sabe como derrotar o Cara-de-Larva, não é? 
 
-— Pedro…
-
 — Não, pera — eu levantei as mãos, tentando organizar a indignação. — Me responde só uma coisa, Jennifer. Por que correr este risco? E se a tua resposta for “porque eu quis”, eu juro que eu vou…
 
 — Porque eu quis sentir alguma coisa — ela interrompeu, e a frase caiu entre nós como uma pedra.
 
 Eu parei.
 
-Jennifer respirou de novo, e eu percebi que pra ela falar aquilo era como arrancar um pedaço da própria garganta.
+Jennifer respirou de novo. Falar aquilo, pra ela, era arrancar um pedaço da própria garganta.
 
-— Eu passei um ano inteiro — ela continuou, mais baixo — vivendo como se estivesse numa sala de espera. Esperando o próximo espírito aparecer. Esperando o próximo grito. Esperando o próximo morto. E aí… alguém me olhou como se eu não fosse só um… instrumento.
+— Eu passei um ano inteiro — ela continuou, mais baixo — vivendo como se estivesse numa sala de espera. Esperando o próximo espírito aparecer. Esperando o próximo grito. E aí… alguém me olhou como se eu não fosse só um… instrumento.
 
 Eu engoli a resposta automática que eu ia soltar. Porque tinha verdade ali, mesmo que fosse perigoso.
 
@@ -138,21 +128,17 @@ Ela olhou para o chão, e depois voltou a me encarar com um peso nos olhos.
 
 — Porque eu quis sentir vontade de viver, Pedro. Foi isso que a Sra. Olívia disse que eu tinha que fazer. 
 
-O silêncio que veio foi diferente. Menos tensão. Mais humanidade.
-
 Eu passei a mão no rosto e sentei no primeiro degrau da escada, derrotado.
 
-— Tá… tá bom. — Eu suspirei. — Eu entendo. Eu só… eu fiquei com medo.
+— Tá… tá bom. Eu entendo. Eu só… eu fiquei com medo.
 
-Jennifer sentou ao meu lado, deixando uma distância pequena entre nós, do jeito que ela sempre fazia. Nem longe demais, nem perto demais. Como se amizade também fosse uma linha de proteção.
+Jennifer sentou ao meu lado, deixando uma distância pequena entre nós, do jeito que ela sempre fazia. Nem longe demais, nem perto demais.
 
 — Eu também fiquei — ela admitiu.
 
 — E mesmo assim foi.
 
 — Mesmo assim eu fui. E nada aconteceu. Fui e voltei de taxi. Estava rodeada de pessoas… nada aconteceu. 
-
-Eu balancei a cabeça e dei uma risada fraca.
 
 — Rodeada de pessoas? Você? A tua coragem é muito problemática.
 
@@ -164,7 +150,7 @@ Eu balancei a cabeça e dei uma risada fraca.
 
 A pergunta me pegou no meio do peito. Não foi agressiva. Foi só… inusitada.
 
-Eu fiquei olhando pro jardim, pro portão, pro lugar por onde Filipo tinha saído, e senti aquela lembrança vindo com força: a casa, o gramado, o barulho do tiro, a Kelly caindo, o Junior com a arma.
+Eu fiquei olhando pro jardim, pro portão, pro lugar por onde Filipo tinha saído, e senti aquela lembrança vindo com força: a casa, o barulho do tiro, a Kelly caindo, o Junior com a arma.
 
 — Eu amei — eu disse, por fim. A voz saiu mais rouca do que eu queria. — Eu amei pra caramba.
 
@@ -188,13 +174,11 @@ Ela olhou para mim com firmeza.
 
 — Tu fica com raiva do Junior como se ele tivesse escolhido aquilo por vontade. Mas ele foi manipulado tanto quanto ela.
 
-Meu corpo ficou tenso automaticamente.
-
 — Jennifer…
 
 — Pedro, pensa comigo — ela continuou, sem subir o tom. — Da mesma forma que Junior atirou, Kelly poderia tê-lo matado ao entregá-lo ao Agouro.
 
-Eu fechei os olhos, porque eu odiava admitir, mas a imagem existia: Kelly contando como levou o Junior pro lago, a voz dela tremendo, arrependida.
+Eu fechei os olhos, porque odiava admitir, mas a imagem existia: Kelly contando como levou o Junior pro lago, a voz dela tremendo, arrependida.
 
 Jennifer tocou meu braço, leve.
 
@@ -203,8 +187,6 @@ Jennifer tocou meu braço, leve.
 Eu fiquei em silêncio, mastigando aquele pensamento como quem mastiga vidro.
 
 — Eu sei… — eu murmurei, mas não era verdade inteira. Era só a parte que eu conseguia dizer.
-
-Jennifer encostou a cabeça no batente da escada e olhou pro teto.
 
 — Eu nunca amei ninguém.
 
@@ -222,8 +204,6 @@ Ela soltou o ar devagar.
 
 — Porque amar… me faz me apegar à pessoa. E eu sei que no final… essa pessoa se vai. Como todas as outras. 
 
-A fala de Jennifer ficou no ar com uma nitidez horrível, como se fosse uma regra escrita em parede.
-
 — E eu não quero sentir isso de novo.— ela completou. — Não depois do que senti com minha mãe. 
 
 Eu fiquei olhando pra ela, e senti uma tristeza estranha. Não pena. Tristeza real. Porque Jennifer merecia muito mais do que viver com medo da própria humanidade.
@@ -236,7 +216,7 @@ Jennifer ficou quieta.
 
 Silêncio total.
 
-Eu percebi na hora. A piada caiu no chão e ninguém pegou.
+A piada caiu no chão e ninguém pegou.
 
 — O que foi? — eu perguntei, porque o meu corpo já começou a ficar atento. — Jen?
 
@@ -246,7 +226,7 @@ E aí eu vi também.
 
 A Sra. Olívia estava ao fundo, parada, como se tivesse aparecido do nada. 
 
-Ela limpou a garganta e tossiu, pedindo licença como se fosse entrar numa conversa normal, mas o olhar dela dizia que não era nada normal.
+Ela limpou a garganta e tossiu, pedindo licença como quem entra numa conversa normal; o olhar dela dizia que não era.
 
 — Desculpem interromper — disse a Sra. Olívia, com aquele jeito firme que parecia sempre estar segurando um terremoto com as mãos. — Você sentiu isso?
 
@@ -266,73 +246,59 @@ Ela me olhou uma última vez, e havia um pedido silencioso ali: fica atento.
 
 Eu assenti, e ela foi com a Sra. Olívia pelo corredor.
 
-Fiquei parado por um momento, com aquela sensação de que o ar tinha ficado mais frio, mesmo sem janela aberta.
+Subi pro quarto de novo, devagar, e quando entrei vi Filipo sentado na cama dele, de costas, imóvel, como se estivesse tentando não existir.
 
-Subi pro quarto de novo, devagar, e quando entrei vi Filipo sentado na cama dele, de costas, imóvel, como se estivesse tentando não existir. Eu não falei nada. Também não queria existir naquele minuto.
+— Desculpa — eu disse, pro chão. — Pelo teu pai. Eu falei aquilo só pra te machucar.
 
-Sentei na minha cama, longe da dele, e fiquei olhando pro chão. Eu até tentei puxar assunto, mas a garganta não ajudou. O telemóvel da Jennifer estava em cima de uma cômoda, perto da parede, vibrando com a luz acenden-do e apagando. Uma mensagem nova. Eu não devia. Eu sabia que não devia. Mas tinha coisas naquele mundo que tiravam o direito da gente ser educado. Levantei, dei dois passos, e olhei. “Você disse que queria me ver… eu também quero ser vista. Me encontre no porão. MJ”
+Ele demorou a responder.
 
-Meu estômago virou.
+— Ele dizia que quem tem razão não precisa levantar a voz. — Os ombros não se mexeram. — Eu levantei. Aí os dois erramos.
 
-Fiquei alguns segundos parado, olhando para o ecrã como se a mensagem fosse mudar sozinha, como se as letras pudessem se reorganizar em algo menos errado. 
+Eu não consegui dizer mais nada. Também não queria existir naquele minuto.
 
-Guardei o telemóvel no bolso antes que a razão resolvesse aparecer tarde demais. Mel Jones estava ali conosco? E queria me ver? 
+Sentei na minha cama, longe da dele, e fiquei olhando pro chão. O celular da Jennifer estava em cima de uma cômoda, perto da parede, vibrando com a luz acendendo e apagando. Uma mensagem nova. Eu não devia. Eu sabia que não devia. Mas tinha coisas naquele mundo que tiravam o direito da gente ser educado. Levantei, dei dois passos, e olhei. “Você disse que queria me ver… eu também quero ser vista. Me encontre no porão. MJ”
 
-Desci as escadas devagar, evitando fazer barulho, como se o silêncio ainda fosse uma coisa respeitável. O corredor parecia mais estreito, mais longo. A casa da Sra. Olívia tinha mesmo aquele ar de lugar que respira por conta própria, mas naquele momento… parecia estar prendendo o ar.
+Guardei o celular no bolso antes que a razão resolvesse aparecer tarde demais. Mel Jones estava ali conosco? E queria me ver?
 
-O porão ficava atrás de uma porta antiga, quase invisível se tu não soubesse onde olhar. No meu primeiro dia ali, tinha explorado cada canto da casa. Abri com cuidado. O cheiro veio primeiro: terra húmida, ferro velho, algo antigo demais para ter nome. A luz fraca da lâmpada pendurada piscou quando pisei no último degrau.
+Desci as escadas devagar, evitando fazer barulho. O corredor parecia mais estreito, mais longo. A casa da Sra. Olívia tinha aquele ar de lugar que respira por conta própria, mas naquele momento parecia estar prendendo o ar.
+
+O porão ficava atrás de uma porta antiga, quase invisível se tu não soubesse onde olhar. Abri com cuidado. O cheiro veio primeiro: terra úmida, ferro velho, algo antigo demais para ter nome. A luz fraca da lâmpada pendurada piscou quando pisei no último degrau.
 
 O celular vibrou de novo.
 
 “Mais fundo. Perto da parede do fundo.”
 
-Engoli em seco.
-
-Andei com passos curtos, o corpo inteiro tenso, como se cada músculo tivesse decidido funcionar sozinho. O chão de terra batida estava frio mesmo através do ténis. A lâmpada balançou levemente, embora não houvesse vento algum ali.
+Andei com passos curtos, o corpo inteiro tenso. O chão de terra batida estava frio mesmo através do tênis. A lâmpada balançou levemente, embora não houvesse vento algum ali.
 
 “Você precisa desenterrar. Só assim posso aparecer.”
 
 — Mel… — eu chamei baixo, odiando o quão fraca a minha voz soou.
 
-Nada respondeu. Só o som distante da casa acima, rangendo como um corpo velho mudando de posição.
-
 Vi um ponto no chão diferente do resto. A terra parecia… mexida. Como se alguém tivesse cuidado demais ao escondê-la.
 
 Ajoelhei.
 
-As mãos começaram a cavar quase sozinhas, a terra fria entrando por baixo das unhas, o cheiro ficando mais forte a cada movimento. Meu coração batia rápido demais, forte demais, como se estivesse tentando sair antes de mim.
+As mãos começaram a cavar quase sozinhas, a terra fria entrando por baixo das unhas, o cheiro ficando mais forte a cada movimento.
 
 Meus dedos tocaram algo sólido.
 
-Puxei.
-
-Era um objeto pequeno, envolto num pano antigo, já gasto pelo tempo. Quando desembrulhei, meus dedos tocaram algo que não parecia feito para ser segurado. Era uma espécie de amuleto de osso escurecido, curvado de forma irregular, como se tivesse sido moldado por pressão e não por mãos humanas. Símbolos estavam entalhados na superfície, não desenhados, mas afundados, como cicatrizes; linhas curvas e sobrepostas que davam a impressão de estarem se movendo quando eu piscava. No centro, havia uma fenda fina, quase uma boca selada, preenchida com resina negra endurecida.
+Era um objeto pequeno, envolto num pano antigo, já gasto pelo tempo. Quando desembrulhei, meus dedos tocaram algo que não parecia feito para ser segurado: uma espécie de amuleto de osso escurecido, curvado de forma irregular, como se tivesse sido moldado por pressão e não por mãos humanas. Símbolos estavam entalhados na superfície, afundados como cicatrizes, linhas curvas e sobrepostas que davam a impressão de estarem se movendo quando eu piscava. No centro, havia uma fenda fina, quase uma boca selada, preenchida com resina negra endurecida.
 
 Então a casa estalou.
 
-Não foi um barulho comum. Foi como se algo tivesse se deslocado no lugar errado. Como uma articulação que nunca mais encaixa.
-
 As luzes piscaram uma vez. Duas. Três. E se apagaram.
-
-O frio veio logo depois, rápido, violento, como se o porão tivesse sido arrancado do mundo normal e jogado em outro lugar.
 
 — Mel? — chamei, agora mais alto, a voz tremendo apesar do esforço.
 
 No escuro, vi um vulto no fundo do porão.
 
-Não se mexia. Não respirava. Só… estava.
-
-Dei um passo. Depois outro. As mãos erguidas. O silêncio era tão pesado que meus próprios movimentos pareciam errados, intrusos.
+Dei um passo. Depois outro. As mãos erguidas. O silêncio era tão pesado que meus próprios movimentos pareciam intrusos.
 
 Quando cheguei perto, o vulto se moveu.
 
 Ele passou por mim. Não ao lado. Através.
 
-Um som estranho atravessou o ar — algo entre um arrastar húmido e um sussurro sufocado — e o objeto na minha mão se partiu em dois, como se nunca tivesse sido feito para existir fora da terra.
-
-A luz voltou de repente.
-
-Eu me virei num sobressalto.
+Um som estranho atravessou o ar — algo entre um arrastar úmido e um sussurro sufocado — e o objeto na minha mão se partiu em dois, como se nunca tivesse sido feito para existir fora da terra.
 
 A Sra. Olívia estava no topo da escada. Jennifer ao lado dela, o rosto pálido demais, os olhos arregalados não de susto, mas de compreensão.
 
@@ -344,7 +310,7 @@ Eu abri a boca. Nenhuma palavra saiu.
 
 Ela olhou para o chão. Para o objeto partido. E o rosto dela mudou. Não foi raiva. Foi algo pior. 
 
-— Não… — ela respirou fundo — o amuleto manteve esta casa segura por anos.
+— Não… — ela hesitou — o amuleto manteve esta casa segura por anos.
 
 Jennifer levou a mão à boca.
 
@@ -370,13 +336,11 @@ Ele apareceu na escada, confuso, abrindo a boca para perguntar qualquer coisa.
 
 Saímos da casa quase correndo.
 
-Do lado de fora, o ar estava diferente. Mais pesado. A garoa fina começava a cair, formando um véu cinzento entre as árvores. Jennifer parou por um segundo, os olhos varrendo o espaço ao redor. Eu não via nada além da floresta, mas pelo jeito que ela respirou, pelo modo como os ombros dela se tensionaram… eu soube.
+Do lado de fora, o ar estava diferente. Mais pesado. A garoa fina começava a cair, formando um véu cinzento entre as árvores. Jennifer parou, os olhos varrendo o espaço ao redor. Eu não via nada além da floresta, mas pelo modo como os ombros dela se tensionaram, eu soube.
 
 Ela estava os vendo.
 
-Então corremos.
-
-A floresta parecia maior agora, como se tivesse crescido enquanto não olhávamos. A garoa virou chuva fina, o chão escorregadio. Eu corria tentando acompanhar, mas o corpo começou a cobrar. O ar faltava, as pernas pesavam.
+Então corremos. A floresta parecia maior agora, como se tivesse crescido enquanto não olhávamos. A garoa virou chuva fina, o chão escorregadio. Eu corria tentando acompanhar, mas o corpo começou a cobrar. O ar faltava, as pernas pesavam.
 
 — Gente… — eu chamei, arfando. — Peraí…
 
@@ -386,25 +350,21 @@ Eles continuaram por alguns metros e se afastaram. A neblina se fechou rápido d
 
 Só o som da chuva respondia.
 
-O frio aumentou. Minha respiração saía em vapor, branco, rápido demais. O medo começou a se instalar do jeito que eu conhecia: primeiro no peito, depois nas mãos, depois na cabeça inteira.
-
 Então ouvi.
 
 TUM. TUM.
 
 Um som que parecia vir de dentro da minha cabeça. Era ele. Imediatamente corri.
 
-As árvores se abriram de repente e eu entrei numa clareira. A lua aparecia entre as nuvens, pálida, iluminando o espaço com uma luz doente. A relva estava achatada em círculos estranhos, como se algo tivesse se arrastado ali repetidas vezes. Meus olhos rondaram o ambiente e pararam em uma sombra escura perto das árvores. Não. Não era uma sombra. Ele se mexia, caminhava em minha direção. 
+As árvores se abriram de repente e eu entrei numa clareira. A lua aparecia entre as nuvens, pálida, iluminando o espaço com uma luz doente. A relva estava achatada em círculos estranhos, como se algo tivesse se arrastado ali repetidas vezes. Meus olhos pararam em uma sombra escura perto das árvores. Não era uma sombra. Ele se mexia, caminhava em minha direção.
 
 A pele úmida refletia a luz da lua. O rosto pingava larvas. Quando ele começou a se aproximar, foi em passos largos demais para o tamanho do corpo.
 
-Eu tentei correr.
-
-As pernas obedeceram por instinto, não por coragem. Entrei de novo na floresta, a chuva agora forte, pesada, batendo no rosto. Corri até escorregar em uma poça de água e cair de joelhos.
+As pernas obedeceram por instinto, não por coragem. Entrei de novo na floresta, a chuva agora forte, batendo no rosto. Corri até escorregar em uma poça e cair de joelhos.
 
 Senti mãos. Fortes e geladas.
 
-O Cara-de-Larva me agarrou pelas pernas e começou a me arrastar pelo barro. Eu gritei, a garganta queimando, o mundo virando lama e pânico.
+O Cara-de-Larva me agarrou pelas pernas e começou a me arrastar pelo barro. Eu gritei, a garganta queimando, o mundo virando lama e pânico. Por um segundo, o barro sob as minhas unhas foi azulejo, o azulejo azul e frio da cozinha da minha mãe. Ela estava de costas, servindo bolo, e na minha cadeira, à mesa, havia um garoto magro que ria das piadas que eu ainda ia contar, as melhores, as que eu nunca consigo contar direito. A minha mãe passou a mão no cabelo dele. Depois voltou a ser barro, e eu continuei gritando, e não por causa das pernas.
 
 — NÃO! NÃO!
 
@@ -430,7 +390,7 @@ Jennifer ergueu a mão e os espíritos avançaram.
 
 O Cara-de-Larva foi empurrado para trás, o corpo rasgado por mãos invisíveis, larvas se espalhando no ar. Ele me soltou e recuou, se arrastando pelo chão enquanto se contorcia de forma anormal para qualquer ser humano.
 
-Eu caí de joelhos, ofegante.
+Eu caí de joelhos, ofegante. Procurei a bombinha no bolso da jaqueta e a mão errou duas vezes antes de achá-la. Sacudi a lata no ouvido: o chocalhar de quem tem pouco mais de duas doses. Puxei uma, e o ar entrou torto.
 
 Quando levantei o olhar, vi Jennifer cair também.
 

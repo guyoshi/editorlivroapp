@@ -4,7 +4,7 @@ Ano passado, eu e o meu melhor amigo, Skyboy, descobrimos que o sobrenatural exi
 
 Tinha uma casa velha, tinha uma família morta que não conseguia ir embora, tinha barulho onde não tinha ninguém, e tinha uma coisa… uma criatura… com um nome demoníaco que começava com A. Não vou escrever esse nome, porque eu aprendi do pior jeito que palavras são perigosas.
 
-A gente também conheceu duas meninas novas que chegaram como se fossem meteoros: uma parecia a lua, linda e fria (Lunaris), a outra era sol e lâmina ao mesmo tempo (Solaris). E tinha também a Nebula, a garota que vê espíritos o tempo todo, como se o mundo tivesse duas camadas e ela enxergasse as duas sem piscar. Ela via eles de dia, de noite, em casa, na rua. Como se fosse normal.
+A gente também conheceu duas meninas novas que chegaram juntas: uma parecia a lua, linda e fria (Lunaris), a outra era sol e lâmina ao mesmo tempo (Solaris). E tinha também a Nebula, a garota que vê espíritos o tempo todo, como se o mundo tivesse duas camadas e ela enxergasse as duas sem piscar. Ela via eles de dia, de noite, em casa, na rua. Como se fosse normal.
 
 Coisas ruins começaram a acontecer. Todos nós perdemos algo. Lunaris… teve de voltar ao céu… tudo por culpa do Skyboy.”
 
@@ -26,7 +26,7 @@ A vida continua. E a minha tinha continuado em Jaguariúna, com uma escola nova,
 
 Mesmo assim… ver as notificações piscando me fazia sentir alguma coisa boa. Era um negócio patético, eu sei. Mas era como se cada comentário dissesse: ok, então você não inventou tudo. Então você não tá totalmente sozinho.
 
-Eu fechei o blog, peguei a mochila e fui ao banheiro escovar os dentes. Assim que olhei do lado da lata de lixo no chão, avistei uma dúzia de larvas, se mexendo, brilhando na luz fraca do corredor como se alguém tivesse derramado nojo vivo.
+Eu fechei o blog, peguei a mochila e fui ao banheiro escovar os dentes. Ao lado da lata de lixo, no chão, avistei uma dúzia de larvas, se mexendo, brilhando na luz fraca do corredor como se alguém tivesse derramado nojo vivo.
 
 Que coisa nojenta! 
 
@@ -44,11 +44,11 @@ Minha mãe apareceu com aquela cara de “Pedro, pelo amor de Deus, é cedo”, 
 
 Quando terminei, fui pro quarto, vesti o uniforme do colégio Joana Andrade, enfiei o caderno na mochila e desci. 
 
-No caminho, eu passei pela esquina do orelhão e olhei pra ele como se fosse um velho amigo. Eu tinha mania de pensar “se der alguma merda, eu ligo daqui”, como se orelhão fosse botão de emergência. E às vezes eu parava e testava a ficha no bolso só pra sentir que eu tinha uma saída.
+No caminho, eu passei pela esquina do orelhão e olhei pra ele como se fosse um velho amigo. Eu tinha mania de pensar “se der alguma merda, eu ligo daqui”: orelhão era botão de emergência. E às vezes eu parava e testava a ficha no bolso só pra sentir que eu tinha uma saída.
 
 Ridículo. Eu sei.
 
-Na escola, a manhã começou igual a todas: gente a reclamar da aula, gente falando de Dragon Ball, gente a discutir se GTA Vice City era melhor que  o III. O mundo adolescente a fingir que só existia o que dava pra tocar.
+Na escola, a manhã começou igual a todas: gente reclamando da aula, gente falando de Dragon Ball, gente discutindo se GTA Vice City era melhor que o III. O mundo adolescente a fingir que só existia o que dava pra tocar.
 
 Eu tentei entrar nisso. Sério. Só que eu não tinha mais a mesma pele.
 
@@ -58,7 +58,7 @@ Eu estava meio disperso, fingindo que anotava, até ele entrar no tema que me pu
 
 — …e é curioso como várias culturas antigas construíram uma ideia de continuidade depois da morte — ele dizia, andando de um lado para o outro, o giz como se fosse microfone. — Os egípcios mumificavam porque acreditavam num tipo de retorno, numa preservação. A morte não era um fim, era uma fase. Eles enchiam túmulos com objetos porque, para eles, aquilo ainda tinha utilidade no “depois”.
 
-Ele fez uma pausa curta, como se estivesse medindo se a turma estava acompanhando.
+Ele fez uma pausa curta, medindo se a turma acompanhava.
 
 — Em outras tradições, você encontra variações da mesma ansiedade humana. Há religiões com julgamento, com punição, com recompensa. Há crenças em reencarnação, há crenças em espíritos ancestrais. Mas o que nos interessa aqui é quando o cristianismo europeu, especialmente em certos períodos, organiza isso num sistema que serve também para controlar comportamento.
 
@@ -68,7 +68,7 @@ A turma prestava atenção. Ou pelo menos fingia prestar.
 
 Quando ele disse “alma perdida”, alguma coisa em mim gelou. Não foi medo de filme. Foi aquela sensação física, humilhante, de garganta fechando e o corpo decidindo antes da cabeça.
 
-Eu não era aluno de levantar a mão. Eu era aluno de sobreviver. De dar risada quando precisava e sair de fininho quando o foco virava para mim. Mas a palavra tinha batido num lugar que eu não estava a conseguir esconder.
+Eu não era aluno de levantar a mão. Eu era aluno de sobreviver. De dar risada quando precisava e sair de fininho quando o foco virava para mim. Mas a palavra tinha batido num lugar que eu não estava conseguindo esconder.
 
 Levantei a mão.
 
@@ -76,11 +76,9 @@ No mesmo segundo, arrependi. A sala tem um radar para detectar quando alguém va
 
 — Professor… — eu comecei, tentando dar um tom despreocupado, como se eu estivesse perguntando por curiosidade qualquer. — Tipo… existe como saber se um espírito… foi embora? Seguiu adiante. Hipoteticamente.
 
-Eu joguei “hipoteticamente” no final como se fosse uma piada. Como se eu estivesse brincando com o assunto. Como se eu não estivesse, por dentro, segurando uma coisa que eu nem queria nomear.
+Eu joguei “hipoteticamente” no final como se fosse uma piada. Como se eu não estivesse, por dentro, segurando uma coisa que eu nem queria nomear.
 
 Profº Rui sorriu daquele jeito de quem adora quando um aluno dá a deixa certa.
-
- 
 
 — De acordo com a Igreja Católica, Pedro, todas as almas devem seguir adiante. A morte leva ao juízo particular e depois ao destino: céu, inferno ou purgatório. Repare no detalhe: purgatório não é “ficar por aí aparecendo em casa”, é um estado de purificação. A doutrina oficial não incentiva essa ideia pop de fantasma passeando pelo corredor.
 
@@ -98,11 +96,11 @@ O professor fez um barulhinho com a língua, como quem decide ser paciente com u
 
 — Não há um “padrão”, Pedro. Existe narrativa, existe tradição oral, existe gente atribuindo significado ao acaso. E, do ponto de vista da própria Igreja, se algo fica “aqui” sem ser humano, geralmente aparece associado ao demônio. Porque, na lógica deles, Deus tem um plano: as almas seguem. Se algo quebra o plano, a culpa é do desvio. Entende?
 
-Ele desenhou no ar uma linha imaginária, como se estivesse a explicar um gráfico.
+Ele desenhou no ar uma linha imaginária, explicando um gráfico invisível.
 
 — Além disso, outras crenças têm outras soluções. Em alguns ramos espiritualistas, fala-se em espíritos apegados por culpa ou amor, em necessidade de orientação. Em tradições de reencarnação, fala-se em espíritos em trânsito, em aprendizagem. Mas tudo isso são interpretações culturais do mesmo fenômeno: medo do desconhecido e luto. E eu sei que vocês adoram o desconhecido.
 
-A palavra “luto” passou rápido demais para ser só coincidência, e rápido demais para eu ter certeza se ele percebeu que estava a acertar onde doía.
+A palavra “luto” passou rápido demais para ser só coincidência, e rápido demais para eu ter certeza se ele percebeu que estava acertando onde doía.
 
 Eu engoli seco.
 
@@ -120,7 +118,7 @@ E eu odiei não rir, porque quando eu não fazia piada, eu virava o alvo perfeit
 
 A sala deu aquela pequena virada de cabeça em conjunto.
 
-O garoto novo, que tinha chegado na semana anterior, duas fileiras atrás, falou como se não tivesse medo de virar o centro. Ele continuou sem pressa, como quem já falou disso antes e não está tentando provar nada para ninguém:
+O garoto novo, que tinha chegado na semana anterior, duas fileiras atrás, falou sem medo de virar o centro. Ele continuou sem pressa, como quem já falou disso antes e não está tentando provar nada para ninguém:
 
 — Às vezes tem alma que não segue porque… não teve tempo de se despedir. Fica presa. Até encontrar o caminho pela Colina.
 
@@ -162,17 +160,17 @@ Ele veio pra cima.
 
 Eu aguentei o primeiro soco meio de lado. O segundo pegou no nariz e ardeu tanto que eu senti o olho lacrimejar. E o que fez eu explodir foi isso: eu não queria chorar. Eu não queria dar esse gosto.
 
-Eu acertei um murro. Depois outro. Eu ouvi a galera gritar “porrada!” como se fosse entretenimento de intervalo. Eu derrubei ele, ele me puxou pela camisa, eu chutei o estômago dele e ele ficou enrolado tentando respirar como se tivesse engolido um tijolo.
+Eu acertei um murro. Depois outro. Eu ouvi a galera gritar “porrada!” como se fosse entretenimento de intervalo. Eu derrubei ele, ele me puxou pela camisa, eu chutei o estômago dele e ele ficou enrolado, tentando respirar.
 
 Foi aí que apareceu inspetor. Claro. A escola sempre chega quando dá tempo de te ferrar, nunca quando dá tempo de te salvar.
 
 A multidão abriu, e eu saí no meio do povo, com o nariz ardendo e uma vontade absurda de desaparecer.
 
-Na aula de Química eu sentei como se nada tivesse acontecido, limpando o nariz com a toalhinha de pano que eu carregava na mochila. A minha mão tremia um pouco, e eu odiei isso também.
+Na aula de Química eu sentei de cabeça baixa, limpando o nariz com a toalhinha de pano que eu carregava na mochila. A minha mão tremia um pouco, e eu odiei isso também.
 
 O professor Roberto começou a falar de tabela e período e coluna, e eu só queria que alguém desligasse a minha cabeça por cinco minutos.
 
-No fim, ele passou atividade em dupla. E o garoto com quem eu geralmente fazia faltou. Eu já estava a aceitar meu destino de fazer sozinho quando uma carteira raspou do meu lado.
+No fim, ele passou atividade em dupla. E o garoto com quem eu geralmente fazia faltou. Eu já estava aceitando meu destino de fazer sozinho quando uma carteira raspou do meu lado.
 
 Filipo sentou como se fosse a coisa mais normal do mundo.
 
@@ -251,17 +249,17 @@ Eu tentei manter a pose.
 
 — Tá. E você ta aqui pra quê?
 
-Ele respirou fundo. Como se escolhesse o quanto ia revelar sem se entregar.
+Ele hesitou, escolhendo o quanto revelar sem se entregar.
 
 — Eu já vi coisa que não devia existir — ele disse. — Coisa que não dá pra explicar. E quando eu li teu blog… eu pensei: esse cara tá carregando o mesmo tipo de coisa.
 
-Eu fiquei quieto. Porque, por um segundo, eu senti uma vontade absurda de contar tudo. De tirar do peito. De dizer “você não faz ideia”.
+Eu fiquei quieto. Porque senti uma vontade absurda de contar tudo. De tirar do peito. De dizer “você não faz ideia”.
 
 Só que eu não podia. E nem queria.
 
 — Você tá exagerando — eu falei, com ironia. — Cê me conhece faz duas horas.
 
-—Eu conheço teu texto — ele respondeu. — E eu sei que o que posta no blog tem muita inspiração. 
+— Eu conheço teu texto — ele respondeu. — E eu sei que o que posta no blog tem muita inspiração. 
 
 Os olhos dele não brilharam. Eles ficaram sérios. E isso me deu mais medo do que se ele tivesse empolgado.
 
@@ -275,7 +273,7 @@ Eu soltei uma risadinha nervosa.
 
 Eu devia ter mandado ele parar. Devia ter levantado e ido embora. Só que eu fiquei. Porque eu sou assim: eu fico pra ouvir a parte ruim.
 
-— Existe uma história — ele começou, olhando pro chão como se estivesse a ver imagens — sobre um homem que era ruim, por prazer, sabe. Diziam que ele era seguidor… dos demônios mais perigosos que existem. Certo dia, pegaram ele. E não mataram rápido.
+— Existe uma história — ele começou, olhando pro chão como se estivesse vendo imagens — sobre um homem que era ruim, por prazer, sabe. Diziam que ele era seguidor… dos demônios mais perigosos que existem. Certo dia, pegaram ele. E não mataram rápido.
 
 Ele levantou o olhar pra mim.
 
@@ -285,13 +283,13 @@ Eu senti o estômago subir.
 
 — Cara…
 
-— Costuraram. Jogaram num caixão. E deixaram ele lá… vivo. Agonizando. Com as larvas a comer por dentro e a sair por tudo que é orifício. Quando acharam, ninguém sabia mais onde era olho, onde era boca. Só… havia larva.
+— Costuraram. Jogaram num caixão. E deixaram ele lá… vivo. Agonizando. Com as larvas comendo por dentro e a sair por tudo que é orifício. Quando acharam, ninguém sabia mais onde era olho, onde era boca. Só… havia larva.
 
 Eu engoli seco. 
 
 — Dizem… que o Cara-de-Larva não morreu. Que seu espírito amaldiçoado continua por aí… e que antes de aparecer… ele deixa um rastro… de larvas. 
 
-Na minha cabeça, por alguma razão, apareceu a imagem do lixo e as larvas do lado de fora. Eu respirei fundo. E tentei fazer piada, porque piada era o meu extintor.
+Na minha cabeça, por alguma razão, apareceu a imagem do lixo e as larvas do lado de fora. Respirei devagar, com a mão em cima do bolso da mochila onde a bombinha ficava. Não precisei dela. E tentei fazer piada, porque piada era o meu extintor.
 
 — Tá, parabéns. Você acabou de me dar vontade de virar vegano.
 
@@ -301,7 +299,7 @@ Ele não riu.
 
 Filipo me olhou por um segundo longo demais.
 
-— Nada — ele disse, rápido, como se corrigisse a si mesmo. — É só… história. Lenda. Coisa que o pessoal conta pra assustar criança. Como a sua história. 
+— Nada — ele disse, rápido. — É só… história. Lenda. Coisa que o pessoal conta pra assustar criança. Como a sua história. 
 
 Eu forcei um sorriso.
 
@@ -377,7 +375,7 @@ Minha mãe apontou a colher pra mim.
 
 Ela parou. Meu pai também.
 
-Silêncio na cozinha é sempre pior do que bronca, porque silêncio é adulto a pensar.
+Silêncio na cozinha é sempre pior do que bronca, porque silêncio é adulto pensando.
 
 — Eu sei que isso mexeu com você, filho… — meu pai começou.
 
@@ -389,7 +387,7 @@ Eu fechei a cara na hora.
 
 — Eu falei pra não começar.
 
-Meu pai respirou fundo, mas manteve o sarcasmo como escudo, do jeito que ele sempre fazia quando não queria mostrar que estava com medo.
+Meu pai manteve o sarcasmo como escudo, do jeito que ele sempre fazia quando não queria mostrar que estava com medo.
 
 — Tá. Então vamos falar de coisas leves — ele disse. — Como foi a merenda? Te deram alimento ou só isopor temperado?
 
@@ -429,13 +427,13 @@ Eu puxei um sorriso torto, porque era o máximo que eu conseguia oferecer sem de
 
 Eu subi com um copo de água na mão, fechei a porta do quarto e encostei a testa nela um segundo. 
 
-O meu quarto tinha cheiro de poeira e cabo novo. A TV velha ligada sem som, só pra fazer companhia, a imagem a tremelicar com aqueles riscos fantasmagóricos como se até o canal aberto estivesse assombrado.
+O meu quarto tinha cheiro de poeira e cabo novo. A TV velha ligada sem som, só pra fazer companhia, a imagem tremelicando com aqueles riscos fantasmagóricos como se até o canal aberto estivesse assombrado.
 
-O computador novo estava ali como se fosse um portal. E, naquela época, MSN era portal mesmo: um bip e pronto, você estava a falar com alguém do outro lado do mundo sem pagar interurbano.
+O computador novo era um portal. E, naquela época, MSN era portal mesmo: um bip e pronto, você estava falando com alguém do outro lado do mundo sem pagar interurbano.
 
-Eu liguei. O barulho do Windows a subir foi quase reconfortante. Cliquei no ícone do MSN e ele abriu com aquela lista de contactos vazia e triste.
+Eu liguei. O barulho do Windows subindo foi quase reconfortante. Cliquei no ícone do MSN e ele abriu com aquela lista de contactos vazia e triste.
 
-Eu estava a ler qualquer coisa inútil — uma matéria sobre Luigi’s Mansion que eu tinha guardado — quando a janela piscou.
+Eu estava lendo qualquer coisa inútil — uma matéria sobre Luigi’s Mansion que eu tinha guardado — quando a janela piscou.
 
 Mensagem de desconhecido.
 
@@ -473,7 +471,7 @@ Ela disse que escrevia poemas.
 
 Eu pedi um, brincando.
 
-Ela demorou. Aquele “Mel Jones está digitando…” aparecia e sumia, aparecia e sumia, como se ela estivesse a escolher cada palavra com uma seriedade que não combinava com a internet.
+Ela demorou. Aquele “Mel Jones está digitando…” aparecia e sumia, aparecia e sumia, como se ela estivesse escolhendo cada palavra com uma seriedade que não combinava com a internet.
 
 Aí veio:
 

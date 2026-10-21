@@ -234,15 +234,17 @@ Ele e Ingrid estavam de pé diante do demônio, as mãos erguidas, como se segur
 
 Vinicius me levantou com dificuldade e me carregou escada acima. Cada movimento fazia o sangue escorrer mais. Minha cabeça perdeu o foco, e as visões vieram outra vez.
 
-Vi uma mulher sorrindo para mim: Luiza Salomandra. Ela apontou para a esquerda. Vi um revólver muito parecido com o do Vinicius. Depois vi o portador original: Carnam Marques, com aquela arma na cintura, arrastando Ingrid pelos cabelos escada abaixo, enquanto a Avó, tentando soltá-la, escorregava e despencava degrau por degrau. A culpa era dele. Depois o porão, a portinhola e a certeza de que a menina morreria lá embaixo.
+Vi uma mulher sorrindo para mim: Luiza Salomandra. Ela apontou para a esquerda. Vi o revólver do Vinicius, ou um tão parecido que seria impossível distingui-los à primeira vista. Depois vi seu antigo dono: Carnam Marques, com aquela arma na cintura, arrastando Ingrid pelos cabelos escada abaixo, enquanto a Avó, tentando soltá-la, escorregava e despencava degrau por degrau. A culpa era dele. Depois o porão, a portinhola e a certeza de que a menina morreria lá embaixo.
 
-Em seguida vi um homem segurando a mesma arma, apontando-a para um Vinicius mais jovem, os olhos cheios de uma raiva que não era só dele. Depois vi o próprio Vinicius naquela casa, empurrando um garoto do segundo andar. O Pézinho caía de cabeça no chão, e o impacto ecoava como se o prédio inteiro fosse um sino.
+Vi outro revólver, igual àquele, na mão do pai de Vinicius. A madeira da coronha tinha uma pequena lasca junto ao parafuso. A arma disparou, e o Vinicius mais jovem caiu ferido. A imagem mudou: Alex, à noite, entrou naquele quarto e subiu numa cadeira. Abriu uma portinha escondida acima do guarda-roupa. Tirou o revólver de coronha lascada, deixou outro quase igual, de madeira inteira, e fechou o esconderijo sem fazer barulho. Depois vi Vinicius naquela casa, empurrando um garoto do segundo andar. O Pézinho caía de cabeça no chão, e o impacto ecoava como se o prédio inteiro fosse um sino.
 
 Pisquei e voltei à escadaria escura, carregada pelo Vinicius.
 
 – Vini… espera… preciso te contar uma coisa…
 – O quê? – ofegava. – Você está sangrando muito… Meu Deus…
-– Vi a arma com o Pai. Deve ser o Elo dele. A arma estava com você havia anos, antes de o Alex entrar nas nossas casas. Acho que ela atingiu você e seu pai também.
+– Vi a arma com o Pai. É o Elo dele. E vi o Alex entrando na sua casa, trocando o revólver do seu pai por outro quase igual. A arma que seu pai tinha antes não era esta.
+– A lasca na coronha… – Vini murmurou, olhando para a arma como se ela ainda estivesse em suas mãos. – Eu sabia que tinha alguma coisa diferente.
+– Foi essa que o Alex deixou. Antes de tudo começar. Não sei quanto ela mexeu com vocês.
 
 Cada respiração era um rasgo novo. Ele congelou e me olhou nos olhos. Estávamos no último degrau.
 

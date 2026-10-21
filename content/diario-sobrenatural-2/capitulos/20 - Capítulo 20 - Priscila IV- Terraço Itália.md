@@ -1,20 +1,18 @@
-O despertador tocou como se tivesse algo pessoal contra mim. Aquele bip metálico, repetitivo, que parecia sempre alto demais, mesmo quando não era. Estiquei o braço sem abrir os olhos e bati nele com força, errando na primeira tentativa. Só consegui acertar depois de xingar baixo e girar o corpo na cama, o lençol grudando na pele suada de uma noite mal dormida.
+O despertador tocou como se tivesse algo pessoal contra mim. Aquele bip metálico, repetitivo, alto demais. Estiquei o braço sem abrir os olhos e bati nele com força, errando na primeira tentativa, o lençol grudando na pele suada de uma noite mal dormida.
 
-Fiquei alguns segundos parada, olhando para o teto manchado do quarto, tentando decidir se já estava atrasada para alguma coisa. A resposta veio rápido demais: não estava atrasada para nada. Não tinha para onde ir. Não tinha turno para cumprir. Não tinha chefe para reclamar. A hamburgueria tinha ficado para trás junto com a faca quase enterrada na mão da Glenda e o olhar assustado do Sr. Estevan pedindo para eu nunca mais voltar.
+Fiquei alguns segundos olhando para o teto manchado, tentando decidir se já estava atrasada para alguma coisa. Não estava. Não tinha para onde ir, nem turno, nem chefe. A hamburgueria tinha ficado para trás junto com a faca quase enterrada na mão da Glenda e o olhar assustado do Sr. Estevan pedindo para eu nunca mais voltar.
 
 Levantei mesmo assim. Ficar deitada só fazia tudo parecer maior.
 
-Minha cozinha tinha cheiro de gordura velha e café esquecido. Abri a geladeira quase por reflexo e encarei o conteúdo miserável: margarina, um resto de arroz numa vasilha sem tampa e uma garrafa de água pela metade. Passei manteiga num pão murcho e comi em pé, sem sentir gosto nenhum, mais por hábito do que por fome.
+Minha cozinha tinha cheiro de gordura velha e café esquecido. Abri a geladeira por reflexo e encarei o conteúdo miserável: margarina, um resto de arroz numa vasilha sem tampa, uma garrafa de água pela metade. Passei manteiga num pão murcho e comi em pé, sem sentir gosto.
 
-No banheiro, acendi a luz e o espelho devolveu uma versão minha que eu não estava com paciência para encarar. Cabelo armado, olheiras fundas, a camiseta larga caindo de um jeito errado. Parecia alguém que tinha perdido alguma coisa importante e ainda não tinha decidido se ia admitir isso.
+No banheiro, o espelho devolveu uma versão minha que eu não estava com paciência para encarar. Cabelo armado, olheiras fundas, a camiseta larga caindo errada. Parecia alguém que tinha perdido alguma coisa importante e ainda não tinha decidido se ia admitir isso.
 
-Inclinei o rosto um pouco para o lado, avaliando os traços como se fossem de outra pessoa. Pensar demais nunca ajudava. Só fazia tudo voltar.
-
-Entrei no banho e deixei a água quente cair direto na cabeça, como se pudesse reorganizar alguma coisa por dentro. Enquanto me ensaboava, a realidade insistia em se impor: eu estava desempregada, e com menos de um mês para arrumar o dinheiro pra mais um mês de aluguel. Pirituba não perdoava. Nada ali era barato, nada esperava. Trabalhar em São Paulo tinha sido a parte fácil. Difícil era se manter. 
+Entrei no banho e deixei a água quente cair direto na cabeça, como se pudesse reorganizar alguma coisa por dentro. A realidade insistia em se impor: eu estava desempregada, com menos de um mês para arrumar o dinheiro de mais um mês de aluguel. Pirituba não perdoava. Trabalhar em São Paulo tinha sido a parte fácil. Difícil era se manter.
 
 Então o telefone tocou.
 
-Ignorei no primeiro toque. No segundo também. No terceiro, a insistência começou a me irritar mais do que o barulho da água. Fechei o registro com força, me enrolei na toalha e atravessei o quarto pingando até o aparelho na sala.
+Ignorei no primeiro toque. No segundo também. No terceiro, a insistência me irritou mais do que o barulho da água. Fechei o registro, me enrolei na toalha e atravessei o quarto pingando até o aparelho na sala.
 
 — Alô.
 
@@ -26,7 +24,7 @@ A voz da minha mãe vinha seca, sem cumprimento, sem cuidado. Igual sempre.
 
 — Você tá bem?
 
-A pergunta soou menos como preocupação e mais como verificação de danos. Suspirei, apoiando o quadril na mesa.
+A pergunta soou menos como preocupação e mais como verificação de danos. Apoiei o quadril na mesa.
 
 — Tô viva.
 
@@ -40,7 +38,7 @@ Olhei em volta do apartamento bagunçado, como se ela pudesse ver.
 
 — Porque eu trabalho. Ou trabalhava.
 
-Um silêncio curto se instalou do outro lado, pesado demais para ser casual.
+Do outro lado, um silêncio curto, pesado demais para ser casual.
 
 — Sabe Priscila. Você não devia se afastar tanto da família — ela disse, num tom que tentava soar calmo, mas vinha carregado de reprovação. — Ainda mais depois de tudo.
 
@@ -52,7 +50,7 @@ Lá vinha.
 
 — Engraçado — respondi, sentindo a irritação subir —, logo você falando em pensar melhor. 
 
-Ela respirou fundo, aquele suspiro longo que eu conhecia desde criança.
+Veio aquele suspiro longo que eu conhecia desde criança.
 
 — O que eu to dizendo, filha. É que você deve ficar perto de nós. Você se afasta das pessoas. Se tivesse ficado mais perto da Kelly…
 
@@ -70,23 +68,59 @@ O silêncio agora foi mais longo.
 
 Eu não queria ouvir, mas ela continuava. 
 
-—Você não faz ideia do buraco que ficamos ao perder Kelly e você ao mesmo tempo. 
+— Você não faz ideia do buraco que ficamos ao perder Kelly e você ao mesmo tempo. 
 
 — Eu não vou ouvir isso — falei. 
 
 — Priscila…
 
-Desliguei antes que ela terminasse. O telefone tocou mais uma vez. Então arranquei o fio da tomada com mais força do que o necessário e joguei o telefone em cima da mesa, como se fosse culpado de alguma coisa.
+Desliguei antes que ela terminasse. O telefone tocou mais uma vez. Arranquei o fio da tomada com mais força do que o necessário e joguei o aparelho em cima da mesa, como se fosse culpado de alguma coisa.
 
-Sentei na cama logo depois, a toalha escorregando pelos ombros, o peito apertado de um jeito irritante. Os olhos arderam, marejados, mas não deixei cair nada. Chorar nunca resolvia. Só dava munição.
+Sentei na cama logo depois, a toalha escorregando pelos ombros, o peito apertado. Os olhos arderam, mas não deixei cair nada. Chorar nunca resolvia. Só dava munição.
 
 Vesti uma roupa leve e quando iria começar a prender o cabelo, ouvi baterem na porta.
 
-Levantei rápido, passei a mão no rosto como se pudesse apagar o que quase tinha vindo à tona e fui até a entrada. Abri sem pensar.
+Levantei rápido, passei a mão no rosto como se pudesse apagar o que quase tinha vindo à tona e abri a porta sem pensar.
+
+Era o Dudu, o motoboy da hamburgueria, com o capacete debaixo do braço e a jaqueta ainda úmida da chuva da noite anterior.
+
+— Seu Estevan mandou isso — ele disse, estendendo um envelope pardo dobrado ao meio. — O que ele te devia. Mandou avisar que é pra você não aparecer lá.
+
+— Que gentil da parte dele.
+
+— Ele ficou assustado, Pri. Nunca vi o velho assustado. — Dudu soltou uma risada sem graça. — O que você fez com a menina?
+
+— Nada que ela não tenha pedido.
+
+Contei as notas ali mesmo, na soleira. Dava para uns dez dias de aluguel, se eu comesse pouco. Amassei o envelope na mão e esperei que ele fosse embora.
+
+Ele não foi. Ficou balançando o capacete, olhando para o chão, com cara de quem tem uma segunda frase e ainda decide se diz. As entregas do Dudu nunca eram só de lanche. Todo mundo na cozinha sabia e ninguém perguntava, porque perguntar era o jeito mais rápido de virar cliente ou virar problema.
+
+— Você tá com uma cara péssima — ele falou.
+
+— Obrigada.
+
+— Não é crítica. É que eu tenho uma coisa aqui que ajuda. — Ele enfiou a mão no bolso interno da jaqueta e puxou um papelzinho dobrado em quatro, pequeno como um recibo. — Não é pra vender. É de brinde. De despedida.
+
+— Eu não uso isso.
+
+— Eu sei. Por isso que é só um.
+
+Ele pôs o papel na minha mão por cima do envelope, com o cuidado de quem passa um bilhete na escola, e desceu a escada de dois em dois degraus. Ouvi a moto pegar na rua. Fiquei na porta mais tempo do que precisava.
+
+Devolver seria correr atrás dele. Jogar fora seria ter que decidir quando. Fechei a porta e sentei na beira da cama com o papelzinho no joelho, olhando para ele como uma conta que eu sabia que não ia conseguir pagar. A voz da minha mãe ainda estava na sala. Ela viva e eu morta. Eu sabia o que estava dobrado ali dentro. Só isso já me dizia coisa demais sobre mim.
+
+Quinze minutos depois, eu estava no banheiro, com a porta fechada, sem olhar direito para o espelho.
+
+Não vou contar como. Foi rápido e sem graça, e a primeira coisa que senti foi vergonha, o que me aliviou um pouco: pelo menos isso ainda funcionava. O resto veio devagar. O peito foi se esvaziando de peso, a voz da minha mãe virou rádio fora de estação, a unha do pé que ainda doía ficou do lado de lá de uma parede. Eu não fiquei feliz. Fiquei com as arestas lixadas. E o que eu mais odiei foi que funcionasse.
+
+Dobrei o que sobrou e enfiei dentro da apostila de Hotelaria, na página das regras de etiqueta à mesa. Para devolver. Para jogar fora. Para depois.
+
+Bateram de novo, duas batidas educadas demais para o Dudu. Lavei o rosto, prendi o cabelo com as mãos que não tremiam e abri sem pensar.
 
 Jason estava ali.
 
-Bem arrumado demais para aquela rua apertada, camisa passada, cabelo no lugar, segurando um buquê de flores como se aquilo fosse a coisa mais normal do mundo. Por um segundo, fiquei sem reação.
+Bem arrumado demais para aquela rua apertada, camisa passada, cabelo no lugar, segurando um buquê de flores como se aquilo fosse a coisa mais normal do mundo. Fiquei sem reação.
 
 — O que você tá fazendo aqui?
 
@@ -94,7 +128,7 @@ Só então me dei conta de mim mesma: cabelo molhado, roupa qualquer, o apartame
 
 — Eu vim te ver — ele disse, sorrindo daquele jeito calmo, quase tímido. — Isso é pra você. 
 
-E me entregou o buquê de flores. Eu nunca fui muito fã de flores pra ser sincera, mas ver Jason me entregar aquelas, me deixou tão feliz. Afinal alguém se importava comigo. 
+E me entregou o buquê. Eu nunca fui muito fã de flores, mas ver Jason me entregar aquelas me deixou tão feliz. Afinal alguém se importava comigo.
 
 — Queria saber como você estava — disse ele. 
 
@@ -124,51 +158,49 @@ Assenti, mesmo sem saber por quê.
 
 Ele se despediu com um beijo leve no rosto, enquanto eu segurava as flores como se fossem uma promessa qualquer, e foi embora.
 
-Fechei a porta devagar e fiquei parada alguns segundos, encarando o corredor vazio. O apartamento parecia ainda mais silencioso agora. Apoiei as costas na porta, soltando o ar devagar.
+Fechei a porta devagar e fiquei parada alguns segundos, encarando o corredor vazio. O apartamento parecia ainda mais silencioso. Apoiei as costas na porta e soltei o ar.
 
 Peguei as flores e larguei sobre a mesa, sem saber se aquilo me irritava ou me confortava.
 
 Depois do almoço improvisado, peguei a bolsa e saí para o mercado. Precisava de comida, precisava andar, precisava fazer alguma coisa que parecesse normal.
 
-No mercado, eu fiz o que sempre faço quando estou a dois passos de desmoronar: finjo que estou ocupada. Peguei um cesto, andei entre as prateleiras como se tivesse um plano, como se alguém me esperasse em casa, como se eu tivesse um motivo para comparar preços de marcas que eu nem gostava. No fim, coloquei o óbvio: pão, alguma coisa pronta que desse para engolir sem pensar, um pacote de bolachas baratas, e aquele tipo de comida que você compra quando quer fingir que está se cuidando, mas só está tentando sobreviver.
+No mercado, fiz o que sempre faço quando estou a dois passos de desmoronar: finjo que estou ocupada. Peguei um cesto, andei entre as prateleiras como se tivesse um plano, comparando preços de marcas que eu nem gostava. No fim, coloquei o óbvio: pão, alguma coisa pronta que desse para engolir sem pensar, um pacote de bolachas baratas.
 
 Eu já estava indo para o caixa quando vi.
 
 Não foi uma visão, nem um espírito, nem nada místico. Foi o reflexo num conjunto de copos de vidro, daqueles empilhados, transparentes, alinhados com perfeição. Eu passei por eles e, por um segundo, vi o rosto dela no brilho do vidro. O mesmo ângulo do queixo, a mesma expressão de quem me olhava como se eu fosse um problema difícil de amar.
 
-Meu corpo reagiu primeiro, como se tivesse levado um choque. Parei no meio do corredor, segurando o cesto com força demais, e fiquei encarando os copos como uma idiota. A luz do mercado era cruel, branca, fazendo tudo parecer mais feio e mais verdadeiro, e mesmo assim aquele reflexo insistia.
+Meu corpo reagiu primeiro. Parei no meio do corredor, segurando o cesto com força demais, encarando os copos como uma idiota. A luz do mercado era cruel, branca, fazendo tudo parecer mais feio e mais verdadeiro, e mesmo assim aquele reflexo insistia.
 
 Eu pisquei rápido, virei o rosto, voltei a olhar. Nada. Só o meu. Só eu, com uma cara que eu não reconhecia direito.
 
-Engoli seco e continuei andando, mas a garganta tinha ficado apertada, como se eu tivesse engolido um pedaço de vidro também.
+Continuei andando, mas a garganta tinha ficado apertada, como se eu tivesse engolido um pedaço de vidro.
 
-Do lado de fora, o vento da rua bateu no meu cabelo e eu respirei como se tivesse saído de um lugar sem oxigénio. Caminhei até minha casa com as sacolas batendo na minha perna. 
+Do lado de fora, o vento bateu no meu cabelo e eu respirei como quem sai de um lugar sem oxigênio. Caminhei até minha casa com as sacolas batendo na perna.
 
-Enquanto destrancava a porta, pensei, sem querer: será que o Pedro e a Jennifer tinham conseguido encontrar a minha avó? Será que a senhora Olívia estava bem, vivendo na serra, longe de tudo, escondida num mundo onde gente como a minha mãe dizia estar perto da “família”? Eu imaginava os dois, correndo atrás de respostas, insistindo em verdades que ninguém queria ouvir… e uma parte de mim, a parte que eu odeio admitir que existe, queria estar com eles.
+Enquanto destrancava a porta, pensei, sem querer: será que o Pedro e a Jennifer tinham conseguido encontrar a minha avó? Eu os imaginava correndo atrás de respostas, insistindo em verdades que ninguém queria ouvir, e uma parte de mim, a parte que eu odeio admitir que existe, queria estar com eles.
 
-Porque, no fim, era isso. Aqueles pirralhos irritantes eram os únicos que sabiam a verdade sobre a Kelly. A verdade inteira. Não a versão de velório, não a versão de mãe em luto, não a versão de gente que precisava de um culpado para conseguir dormir. Eles sabiam. E, por mais que eu quisesse ser superior, por mais que eu quisesse fingir que já tinha superado, eu era a única em São Paulo carregando o diário dela dentro da bolsa como se fosse um órgão do meu corpo.
+Porque, no fim, era isso. Aqueles pirralhos irritantes eram os únicos que sabiam a verdade inteira sobre a Kelly. Não a versão de velório, não a de mãe em luto, não a de gente que precisava de um culpado para conseguir dormir. E, por mais que eu quisesse fingir que já tinha superado, eu era a única em São Paulo carregando o diário dela dentro da bolsa como se fosse um órgão do meu corpo.
 
-A tarde caiu devagar, e eu passei por ela como quem atravessa um corredor longo demais.
+Comi no sofá com a televisão ligada, volume baixo, qualquer programa que me deixasse pensar em nada. Não funcionou. A fome sumiu no meio do prato e larguei o resto. Arrumei duas coisas, desarrumei três. Abri o diário da Kelly e fechei de novo sem ler. Palavras eram perigosas, porque lembravam que minha irmã tinha sido uma pessoa inteira, com pensamentos, sonhos, culpa, e que eu tinha sido só o lado escuro da história, por muito tempo.
 
-Comi no sofá com a televisão ligada, volume baixo, qualquer programa que me deixasse pensar em nada. Não funcionou. A fome sumiu no meio do prato e eu larguei o resto. Arrumei duas coisas, desarrumei três. Sentei, levantei. Abri o diário da Kelly, fechei de novo sem ler. Eu não estava com coragem de encarar as palavras dela naquele dia. Palavras eram perigosas, porque elas lembravam que minha irmã tinha sido uma pessoa inteira, com pensamentos, com sonhos, com culpa, e que eu… eu tinha sido só o lado escuro da história, por muito tempo.
+Perto do fim da tarde decidi me arrumar. Não porque estivesse animada, mas porque ficar em casa me fazia sentir pequena, e eu detestava me sentir pequena.
 
-Perto do fim da tarde, eu decidi me arrumar. Não porque estivesse animada. Porque ficar em casa me fazia sentir pequena, e eu detestava me sentir pequena.
-
-Tomei banho de novo, prendi o cabelo de um jeito que parecia desleixado, mas era calculado. Passei perfume, vesti uma blusa preta mais justa, de alça, com um decote discreto mas intencional, e uma calça de cintura baixa. Coloquei um cinto com fivela brilhante, peguei um salto que eu odiava, mas que me fazia parecer alguém que não tinha medo de nada. Um batom mais escuro. Um delineador puxado, meio agressivo, do jeito que eu gostava. Se eu ia sair, eu ia sair parecendo que eu escolhi isso.
+Tomei banho de novo, prendi o cabelo de um jeito que parecia desleixado, mas era calculado. Perfume, uma blusa preta justa de alça, uma calça de cintura baixa, um cinto de fivela brilhante, um salto que eu odiava mas que me fazia parecer alguém sem medo de nada. Batom mais escuro, delineador puxado, meio agressivo. Se eu ia sair, ia sair parecendo que escolhi isso.
 
 Quando bateram na porta, eu já estava sentada com a TV ligada, fingindo que era só mais uma noite qualquer.
 
 Abri a porta e Jason estava ali.
 
-Eu juro que ele estava ainda mais bonito do que de manhã, como se tivesse sido ao cabeleireiro só para esfregar na minha cara que existem pessoas que têm tempo e dinheiro para ser impecáveis. O cabelo tinha sido cortado recente, alinhado, com aquele ar limpo, arrumado, quase impossível. Ele estava com uma camisa clara bem passada, manga dobrada no antebraço, relógio discreto, e um casaco escuro por cima que fazia ele parecer… adulto. O tipo de adulto que não se desmancha com uma conta atrasada.
+Eu juro que ele estava ainda mais bonito do que de manhã, como se tivesse ido ao cabeleireiro só para esfregar na minha cara que existem pessoas com tempo e dinheiro para serem impecáveis. Cabelo recém-cortado, camisa clara bem passada, manga dobrada no antebraço, relógio discreto, e um casaco escuro que o fazia parecer adulto. O tipo de adulto que não se desmancha com uma conta atrasada.
 
 — Pronta? — ele perguntou, sorrindo.
 
 — Já vou.
 
-Ele ficou ali, educado, sem olhar para dentro como se estivesse avaliando meu caos. Como se minha casinha bagunçada não existisse. Como se eu não fosse uma garota tentando segurar a vida com fita adesiva.
+Ele ficou ali, educado, sem olhar para dentro, como se meu caos não existisse. Como se eu não fosse uma garota tentando segurar a vida com fita adesiva.
 
-Desliguei a TV, empurrei umas roupas para dentro de uma cadeira, escondi uma sacola atrás do sofá como se isso resolvesse alguma coisa, peguei a bolsa e voltei.
+Desliguei a TV, empurrei umas roupas para dentro de uma cadeira, escondi uma sacola atrás do sofá, peguei a bolsa e voltei.
 
 — E aí… — ele começou, andando ao meu lado no corredor. — Como você está mesmo? De verdade.
 
@@ -198,7 +230,7 @@ Eu olhei para ele, tentando encontrar algo de errado. Alguma falha, alguma inten
 
 A maneira como ele dizia meu nome… me deixava desconfortável. Eu não sabia o porquê. 
 
-No caminho, ele continuou conversando, perguntando da minha mãe, dos meus planos, do que eu gostava de fazer quando não estava com raiva do mundo. Eu respondia o mínimo, tentando parecer desinteressada, mas ele tinha uma paciência irritante, uma delicadeza persistente, como se eu fosse algo que valia o esforço.
+No caminho, ele continuou conversando, perguntando da minha mãe, dos meus planos, do que eu gostava de fazer quando não estava com raiva do mundo. Eu respondia o mínimo, mas ele tinha uma paciência irritante, uma delicadeza persistente, como se eu fosse algo que valia o esforço.
 
 — E você… vai mesmo ir para o interior? — ele perguntou.
 
@@ -212,7 +244,7 @@ Eu fiquei em silêncio.
 
 — Não. É logo ali — ele repetiu, com aquele mesmo sorriso.
 
-“Logo ali” virou quarteirão, quarteirão virou mais quarteirão, e, quando eu percebi, eu estava com vontade de arrancar os sapatos e andar descalça no asfalto.
+“Logo ali” virou quarteirão, quarteirão virou mais quarteirão, e, quando dei por mim, eu estava com vontade de arrancar os sapatos e andar descalça no asfalto.
 
 Por fim, Jason parou em frente a um restaurantezinho simples. Fachada pequena, luz amarela, aquele ar de lugar comum. Eu franzi a testa.
 
@@ -226,7 +258,7 @@ Sentamos. Um garçom veio, simpático, e perguntou o que queríamos.
 
 — O menu principal para os dois, por favor — Jason respondeu, com naturalidade.
 
-Eu olhei para ele, desconfiada na hora.
+Olhei para ele, desconfiada na hora.
 
 — Menu principal? Que menu principal?
 
@@ -252,7 +284,7 @@ Ele riu, baixinho, e balançou a cabeça.
 
 Eu não sabia o que responder. O silêncio ficou estranho.
 
-A conversa seguiu. Ele me perguntava coisas e eu respondia como quem pisa em vidro: com cuidado, pronta para recuar. A comida demorou, mais do que devia, e eu comecei a olhar ao redor, impaciente.
+A conversa seguiu. Ele me perguntava coisas e eu respondia como quem pisa em vidro. A comida demorou mais do que devia, e comecei a olhar ao redor, impaciente.
 
 Foi quando um homem parou ao lado da nossa mesa.
 
@@ -266,7 +298,7 @@ Jason tocou minha mão por baixo da mesa, um gesto rápido, firme, como âncora.
 
 — Confia em mim — ele repetiu, baixo. 
 
-Eu olhei para ele, ainda desconfiada, e, por algum motivo estúpido, eu levantei.
+Olhei para ele, ainda desconfiada, e, por algum motivo estúpido, levantei.
 
 Saímos. Do lado de fora, o ar estava frio. O comandante nos guiou até um Mercedes-Benz classe S, preto, daqueles que eu só via em filme ou em novela, brilhando sob a luz da rua como se fosse uma coisa viva.
 
@@ -280,17 +312,17 @@ Na frente, o comandante Afonso se virou um pouco e sorriu.
 
 — Voo? — eu repeti, a palavra batendo na minha boca como se fosse um erro. — Do que ele tá falando?
 
-Jason estava sorrindo, como se aquilo fosse a coisa mais normal do mundo.
+Jason estava sorrindo, à vontade.
 
 — Só relaxa.
 
-O carro andou. Eu fiquei olhando pela janela, tentando entender para onde estávamos indo, tentando encaixar aquela noite dentro da minha realidade. Não encaixava. Nada encaixava.
+O carro andou. Eu olhava pela janela, tentando encaixar aquela noite na minha realidade. Nada encaixava.
 
 Poucos minutos depois, o carro entrou numa área mais reservada. O comandante desceu, veio até a porta, abriu para nós e guiou até um portão grande. Quando ele abriu, luzes acenderam de uma vez, revelando um hangar.
 
 Eu parei na entrada como se tivesse chegado a outro planeta.
 
-O cheiro era diferente. Metal, combustível, aquele ar frio e limpo de lugar onde máquinas dormem. Havia aeronaves pequenas, helicópteros alinhados, um silêncio imponente quebrado por sons distantes de manutenção, como se o espaço respirasse baixo. Luzes altas faziam tudo parecer cinematográfico, irreal.
+O cheiro era diferente: metal, combustível, o ar frio e limpo de lugar onde máquinas dormem. Aeronaves pequenas, helicópteros alinhados, um silêncio imponente quebrado por sons distantes de manutenção. Luzes altas faziam tudo parecer cinematográfico, irreal.
 
 O comandante Afonso cumprimentou outro homem.
 
@@ -306,7 +338,7 @@ O helicóptero que nos dirigíamos era vermelho vivo, elegante, moderno demais p
 
 Eu fiquei sem palavras. Eu, que sempre tinha palavra.
 
-Jason segurou minha mão e começou a me guiar como se eu fosse de vidro. Ele estava sorrindo o tempo todo, e isso me deixava mais sem graça ainda, porque eu não sabia se eu queria rir, chorar ou mandar ele parar com aquilo.
+Jason segurou minha mão e me guiou como se eu fosse de vidro. Sorria o tempo todo, e isso me deixava mais sem graça, porque eu não sabia se queria rir, chorar ou mandar ele parar com aquilo.
 
 — Você tá bem? — ele perguntou, baixinho.
 
@@ -314,9 +346,9 @@ Jason segurou minha mão e começou a me guiar como se eu fosse de vidro. Ele es
 
 — Eu sei — ele disse, com uma doçura irritante. — Por isso.
 
-Entramos. O interior do helicóptero era pequeno, mas confortável, luzes suaves, fones com microfone, cinto de segurança. O som do motor começou a crescer, vibrando no chão, subindo para o corpo como um tremor que não era medo… ainda.
+Entramos. O interior era pequeno, mas confortável: luzes suaves, fones com microfone, cinto. O som do motor começou a crescer, vibrando no chão, subindo para o corpo como um tremor que não era medo… ainda.
 
-Quando as pás começaram a girar de verdade, o vento bateu e o barulho virou uma presença. Eu engoli seco e apertei o braço de Jason. Meu coração parecia bater mais rápido do que as hélices acima de nós. 
+Quando as pás começaram a girar de verdade, o vento bateu e o barulho virou uma presença. Engoli seco e apertei o braço de Jason. Meu coração parecia bater mais rápido do que as hélices.
 
 — Priscila — ele sussurrou, sorrindo. — Respira.
 
@@ -334,7 +366,7 @@ Eu não consegui nem fingir que estava no controle. A cidade começou a se abrir
 
 A voz do comandante Afonso veio no fone.
 
-— Senhores, se olharem logo à frente, dá pra ver o Edifício Itália iluminado. Um pouco mais à direita, o brilho contínuo é a Avenida Paulista, cheia de prédios acesos como se a cidade tivesse se recusado a dormir. Ali embaixo, cruzando as luzes, vocês conseguem ver a Ponte Estaiada Octávio Frias de Oliveira, fácil de reconhecer pelas linhas brancas iluminadas. E mais ao fundo, aquelas torres altas com luzes vermelhas no topo são o Edifício Banespa.
+— Senhores, se olharem logo à frente, dá pra ver o Edifício Itália iluminado. Um pouco mais à direita, o brilho contínuo é a Avenida Paulista, cheia de prédios acesos como se a cidade tivesse se recusado a dormir. Mais à esquerda, a linha de luz do Minhocão cortando o centro. E ao fundo, aquelas torres altas com luzes vermelhas no topo são o Edifício Banespa.
 
 O comandante fez uma breve pausa, como se desse tempo para os olhos acompanharem tudo.
 
@@ -352,7 +384,7 @@ Ele beijou minha testa de leve, um gesto tão simples que quase me desmontou.
 
 O helicóptero começou a descer.
 
-Meu coração acelerou de novo, como se eu estivesse prestes a cair.
+O estômago afundou de novo, como se eu estivesse prestes a cair.
 
 Quando pousamos, o comandante Afonso se virou com um sorriso.
 
@@ -364,11 +396,11 @@ Eu olhei para Jason, sem acreditar.
 
 Ele estendeu a mão para mim e eu peguei, porque naquele momento eu era incapaz de fingir autonomia.
 
-Descemos. Subimos alguns corredores. Tudo era elegante, cheiro de perfume caro e comida boa, luz baixa, gente bem vestida. Um garçom nos recebeu e, ao ver Jason, sorriu como quem reconhece alguém importante.
+Descemos. Subimos alguns corredores. Tudo era elegante: perfume caro e comida boa, luz baixa, gente bem vestida. Um garçom nos recebeu e, ao ver Jason, sorriu como quem reconhece alguém importante.
 
 — Mesa reservada, senhor Jason. Por aqui, por favor.
 
-A mesa era linda. Três rosas num frasco alto de vidro, com água no fundo, como se até as flores ali tivessem postura. Eu sentei devagar e percebi que eu estava tremendo da cabeça aos pés.
+A mesa era linda. Três rosas num frasco alto de vidro, com água no fundo, como se até as flores ali tivessem postura. Eu sentei devagar e percebi que estava tremendo da cabeça aos pés.
 
 Jason inclinou o rosto.
 
@@ -438,7 +470,7 @@ Jason olhou para as rosas e fez uma expressão brincalhona.
 
 Ele apontou com o queixo para as rosas. 
 
-—Não acha que tem algo estranho em uma delas? 
+— Não acha que tem algo estranho em uma delas? 
 
 Olhei para elas e notei que, de fato, uma delas parecia um tanto quanto… artificial. Das três, era a menos fosca. Não era real. Eu estiquei a mão e puxei ela de dentro do frasco.
 
@@ -456,11 +488,11 @@ Eu, chorando. Eu, que nunca chorava na frente de ninguém.
 
 — Sim — eu disse, com a voz quebrada. — Sim, eu quero.
 
-Ele colocou o anel no meu dedo e me beijou, e, quando eu ouvi, havia aplausos. Gente batendo palma, sorrindo, como se aquela cena fosse parte do restaurante, como se romance fosse um espetáculo habitual ali.
+Ele colocou o anel no meu dedo e me beijou, e, quando eu ouvi, havia aplausos. Gente batendo palma, sorrindo, como se romance fosse um espetáculo habitual ali.
 
-Uma música suave tocava ao fundo, um tipo de jazz leve, piano, alguma coisa antiga e elegante, daquelas que parecem feitas para noites em que as pessoas acreditam em finais felizes.
+Uma música suave tocava ao fundo, jazz leve, piano, daquelas feitas para noites em que as pessoas acreditam em finais felizes.
 
-Quando nos afastamos, eu respirei fundo, ainda tremendo.
+Quando nos afastamos, eu ainda tremia.
 
 — Eu… te amo, Jason.
 
@@ -470,7 +502,7 @@ Jason sorriu, olhos brilhando.
 
 — Eu também te amo, Priscila.
 
-O telemóvel dele vibrou.
+O celular dele vibrou.
 
 Eu vi o momento em que a notificação acendeu a tela e o sorriso dele sofreu um pequeno corte. Quase imperceptível. Mas eu vi. Um olhar triste, rápido, como se alguém tivesse puxado ele de volta para um lugar que eu não conhecia.
 
@@ -490,7 +522,7 @@ Jason se levantou com cuidado, pegou a carteira, colocou dinheiro na minha mão.
 
 — A conta já está paga. Pega um táxi, por favor. E eu vou te ligar. Eu quero que você vá na minha casa, conhecer meu pai. Eu quero que você faça parte disso comigo.
 
-Eu engoli seco, ainda tonta, ainda com o anel no dedo, como se aquilo fosse um sonho caro demais para eu sustentar.
+Ainda tonta, ainda com o anel no dedo, como se aquilo fosse um sonho caro demais para eu sustentar.
 
 Antes de ele sair, eu puxei a mão dele. Jason virou. E eu agradeci.
 

@@ -117,11 +117,22 @@ Ele me beijou de novo, sem dar tempo de eu terminar, e sorriu quando se afastou.
 – E agora, pavãozinha? Duas vezes. Já posso te amar?
 – Pode – respondi, cobrindo o rosto com as mãos, rindo, nervosa.
 
+Fiquei um instante olhando para ele, deitado tão perto de mim.
+
+– Cacatua, posso te perguntar uma coisa esquisita?
+– Você acabou de me chamar de maluco por gostar de você. Acho que aguento.
+– Você faria um pacto com um demônio pra ficar comigo?
+– O quê? – Ele riu, procurando no meu rosto algum sinal de brincadeira.
+– Faria?
+– Sei lá. Talvez. Acho que sim, se não tivesse outro jeito.
+– Seu idiota – falei, soltando uma risada que me saiu mais curta do que eu esperava. – É só uma pergunta.
+– Ainda bem. Eu prefiro continuar com você sem assinar nada com demônio nenhum.
+
 Quando baixei as mãos, vi algo se mover perto do lago, e as cores da noite escoaram, como se alguém tivesse tirado a saturação do mundo. Fingi não notar e me deitei de novo ao lado dele.
 
 – Vamos só relaxar um pouco – falei, passando a mão no cabelo dele. – Ficar aqui só nós dois, Junior. A gente não tem todo o tempo do mundo.
 
-O frio veio de repente, cortante, com a sensação de presença que eu conhecia bem demais. Ingrid se aproximou em silêncio por trás dele, os pés sem barulho na grama. Eu continuei olhando nos olhos de Junior, memorizando cada traço, sabendo que nunca mais veria aquele olhar daquele jeito. Ela se ajoelhou atrás dele e o tocou na nuca com delicadeza. Antes do toque, Junior repetiu em voz baixa a última palavra que eu só tinha pensado, como se alguém a tivesse posto em sua boca. Junior fechou os olhos devagar, como quem apenas pega no sono.
+O frio veio de repente, cortante, com a sensação de presença que eu conhecia bem demais. Ingrid se aproximou em silêncio por trás dele, os pés sem barulho na grama. Eu continuei olhando nos olhos de Junior, tentando esconder o tremor das minhas mãos. Ela se ajoelhou atrás dele e o tocou na nuca com delicadeza. Antes do toque, Junior repetiu em voz baixa a última palavra que eu só tinha pensado, como se alguém a tivesse posto em sua boca. Junior fechou os olhos devagar, como quem apenas pega no sono.
 
 Meus olhos se encheram de lágrimas. Sentei, peguei os óculos com as mãos trêmulas e os pus de volta no rosto dele; reconectei o fone no toca-fitas e o encaixei nos ouvidos dele, como se aquilo pudesse protegê-lo.
 
@@ -136,10 +147,12 @@ O vento aumentou, trazendo um frio nada natural. Do meio das árvores uma sombra
 
 – Ele diz que não poderá trazer seu irmão – Ingrid traduziu, tensa.
 – Você me prometeu. Você não pode mentir para mim.
-– Não estou mentindo. Mas meu senhor diz que o garoto abriu o coração para você, não para ele. A alma tem que ser entregue a ele.
+– Não estou mentindo. Mas meu senhor diz que o garoto só queria agradar você. Não fez pacto nenhum. Uma pessoa pode prometer qualquer coisa quando está apaixonada; entregar a alma é outra história.
+– Então o que eu faço? – perguntei, sentindo a garganta fechar.
+– Meu Senhor diz que você deve continuar perto dele. O garoto ainda pode fazer uma escolha. E vocês precisam parar de mexer nos Elos.
 – Eu me entrego! Se é a mim que ele quer, eu fico no lugar do Junior. Mas preciso falar com o Enzo.
 
-“Sua alma não é pura.” A voz veio direto na minha mente, áspera como ferro enferrujado. O insulto não explicava por que ele me deixava viva, só me dava mais uma razão para fazer o que mandasse. “Eu sei que estão atrás dos Elos. É bom pensarem bem antes de continuar. Ou você pode perder mais um irmão.”
+“Sua alma não é pura.” A voz veio direto na minha mente, áspera como ferro enferrujado. “Você sabe o que acontece quando alguém depende de você.” O insulto me deixou sem ar. Ele não precisava dizer o nome de Enzo. “E agora quer que eu confie em você? Eu sei que estão atrás dos Elos. É bom pensarem bem antes de continuar. Ou você pode perder mais um irmão.”
 
 – Você não é louco de fazer mal à minha irmã – resmunguei, e a voz saiu fraca. – Ingrid, você não é má. Me ajude, por favor.
 – Eu não posso. Ele já viu o seu coração, Kelly, e conhece seus pontos fracos. Quer que você impeça os outros de destruírem os Elos.
@@ -221,7 +234,7 @@ Quando me virei para sair, ouvi:
 
 – Kelly, obrigada por ter vindo aqui.
 
-Assenti e fechei a porta. Antes de sair de casa, fui até o armário debaixo da escada, onde ainda estavam as coisas do Enzo: o berço desmontado, alguns brinquedos, o ursinho esfarrapado. Eu não conseguia lembrar quem tinha dado aquele ursinho a ele; não havia memória, só um buraco.
+Assenti e fechei a porta. Antes de sair de casa, fui até o armário debaixo da escada, onde ainda estavam as coisas do Enzo: o berço desmontado, alguns brinquedos, o ursinho esfarrapado, com a costura azul aparecendo numa das orelhas. A vovó o tinha trazido de uma viagem, mas eu nunca soube de onde ele veio antes disso. Enzo dormia agarrado àquela coisa.
 
 – Me desculpa, Enzo, mas eu não posso continuar – falei, e fechei a porta.
 

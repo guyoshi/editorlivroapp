@@ -156,7 +156,7 @@ Como assim, mais importante? Era um baile dos anos 80, cara!
 – Do que você tá falando?
 – A criatura que você chama de “entidade” se chama Agouro.
 – Agouro? Que nome tosco. Eu me recuso, vou continuar chamando de Entidade.
-– Também descobri que os espíritos que nos perseguem são, na verdade, demônios. Eles precisam dos espíritos da família pra existir, e os Elos são o que mantêm esses espíritos presos aqui. Aquele homem que sequestrou a Priscila, o velho Francis, e o filho dele, o Alex, colocaram um Elo em cada uma das nossas casas. É por isso que somos tão afetados e que elas aparecem tanto pra gente dentro de casa.
+– Também descobri que os espíritos que nos perseguem são, na verdade, demônios. Eles precisam dos espíritos da família pra existir, e os Elos são o que mantêm esses espíritos presos aqui. Aquele homem que sequestrou a Priscila, o velho Francis, e o filho dele, o Alex, levaram alguns Elos para perto de nós. Não sei quantos. Mas é por isso que as coisas aparecem até dentro das nossas casas.
 
 Meu sangue ferveu.
 
@@ -377,7 +377,7 @@ Ela ficou ainda mais irritada, mas continuei assim mesmo, já que era tarde para
 – Ainda não paramos pra pensar nessa parte, mas isso não é o mais importante agora, né?
 – Não é importante? – Priscila quase explodiu. – De que adianta matar os demônios se não dá pra matar o diabo?
 – Primeiro a gente foca nos Elos, Priscila. Depois resolve essa parte.
-– Falando em Elo, eu tenho um aqui – disse Kelly, mostrando um ursinho velho. – Não sei como veio parar aqui, mas conheço bem as coisas do Enzo. Achava que era um presente que meus pais nunca tinham me dado, mas esse ursinho nunca foi dele. Apareceu depois que a gente se mudou.
+– Falando em Elo, eu tenho um aqui – disse Kelly, mostrando um ursinho velho. – Era do Enzo. Não lembro quem deu. Guardamos com as coisas dele depois que morreu. Só que já encontrei fora da caixa mais de uma vez, e ninguém se lembra de ter tirado.
 – Tem certeza que é um Elo?
 – Aposto uma grana alta que sim. A gente precisa destruí-lo, certo? E as cinzas? Onde estão?
 – Droga. Estão com a Jennifer. Ela ficou no cemitério com o Vinicius enquanto eu vinha pra cá.

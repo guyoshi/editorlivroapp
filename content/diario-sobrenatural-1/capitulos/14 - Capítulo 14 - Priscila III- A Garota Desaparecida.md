@@ -83,7 +83,7 @@ Ele foi à estante e começou a mexer nas coisas, e o caminho até a porta ficou
 
 Fiz uma careta. Nojento.
 
-– Agora você deve entender por que a gente quer vocês longe daquela casa. Fala pros seus amigos, pra quem for. Senão pode acontecer o que aconteceu com o garoto ontem à noite.
+– Agora você deve entender por que a gente não quer vocês se metendo naquela casa desse jeito. Fala pros seus amigos pra não voltarem lá sozinhos. Senão pode acontecer o que aconteceu com o garoto ontem à noite.
 
 Eu ainda olhava a foto, principalmente a menina, com um olhar vazio de quem já desistiu de tudo.
 
