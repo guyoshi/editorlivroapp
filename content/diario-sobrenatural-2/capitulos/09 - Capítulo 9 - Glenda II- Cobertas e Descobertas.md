@@ -1,4 +1,4 @@
-“Olá. Glenda aqui. Em mais um vlog pessoal.” Mantive o sorriso leve, o tom de quem grava por hábito, como se a vida fosse um corredor bem iluminado e eu só estivesse caminhando por ele com uma câmera na mão. “Descobri algumas coisas sobre o Vinícius. Estou curiosa para saber mais sobre esse caso e espero que isso me ajude com o meu novo trabalho. Por ora, nada mais a declarar.”
+“Olá. Glenda aqui. Em mais um diário em vídeo.” Mantive o sorriso leve, o tom de quem grava por hábito, como se a vida fosse um corredor bem iluminado e eu só estivesse caminhando por ele com uma câmera na mão. “Descobri algumas coisas sobre o Vinícius. Estou curiosa para saber mais sobre esse caso e espero que isso me ajude com o meu novo trabalho. Por ora, nada mais a declarar.”
 
 Desliguei a câmera do lado de fora do presídio e, no instante em que o clique final aconteceu, o mundo voltou a ser aquilo que realmente era: concreto quente, grades frias e histórias mal contadas. Fiquei olhando para a entrada como quem mede um prédio antes de entrar. Vinícius e Jennifer. Os dois nomes giravam na minha cabeça como peças que não encaixavam ainda, mas que claramente pertenciam ao mesmo quebra-cabeça.
 
@@ -106,7 +106,7 @@ Havia comentários abaixo, muitos. A maioria de jovens a ridicularizar. Um dizia
 
 Vila Velha tinha histórico de coisas “paranormais”, ao menos na linguagem daquela mulher. Eu não precisava acreditar para reconhecer utilidade. Eu precisava de conexões. Será que Hebert e Amélia tinham entrevistado Luiza outras vezes? Abri a página inicial do blog. Eles não postavam havia quase três anos. A última publicação era uma mensagem de Feliz Páscoa em 2000.
 
-Uma foto de um coelho segurando um ovo, com os dizeres “Feliz Páscoa”. Abaixo, agradecimentos aos seguidores. Era simples, até doce. E então eu desci até os comentários.
+Uma foto de um coelho segurando um ovo, com os dizeres “Feliz Páscoa”. Abaixo, agradecimentos aos leitores. Era simples, até doce. E então eu desci até os comentários.
 
 “Saudades, Heb e Nat.”
 “Vocês eram os melhores, Hebert e Nat.”

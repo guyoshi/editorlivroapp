@@ -431,7 +431,7 @@ O meu quarto tinha cheiro de poeira e cabo novo. A TV velha ligada sem som, só 
 
 O computador novo era um portal. E, naquela época, MSN era portal mesmo: um bip e pronto, você estava falando com alguém do outro lado do mundo sem pagar interurbano.
 
-Eu liguei. O barulho do Windows subindo foi quase reconfortante. Cliquei no ícone do MSN e ele abriu com aquela lista de contactos vazia e triste.
+Eu liguei. O barulho do Windows subindo foi quase reconfortante. Cliquei no ícone do MSN e ele abriu com aquela lista de contatos vazia e triste.
 
 Eu estava lendo qualquer coisa inútil — uma matéria sobre Luigi’s Mansion que eu tinha guardado — quando a janela piscou.
 

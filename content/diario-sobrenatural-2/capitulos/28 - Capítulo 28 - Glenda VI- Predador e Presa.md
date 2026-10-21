@@ -170,7 +170,7 @@ Desci até a garagem, no subsolo, fingindo procurar uma caixa antiga que ningué
 
 Fiquei parada ali por um tempo longo demais.
 
-Eu tinha ido morar com Diego por causa daquele adesivo. Não do adesivo em si, mas do que ele representava: uma jornalista desaparecida a dois quarteirões da casa dele, uma lembrança dos meus quinze anos que eu passei tanto tempo chamando de imaginação, e a certeza incômoda de que as duas coisas moravam no mesmo bairro. Eu queria uma matéria. Eu queria vê-lo cair do pedestal na primeira página da Paper. E agora eu olhava para a prova, e ela não tinha o menor interesse em ser uma matéria.
+Eu tinha ido morar com Diego por causa de uma suspeita, e aquele adesivo a tinha feito crescer. Não o adesivo em si, mas o que ele representava: uma jornalista desaparecida a poucos quilômetros da casa dele, uma lembrança dos meus quinze anos que eu passei tanto tempo chamando de imaginação, e a certeza incômoda de que as duas coisas moravam no mesmo bairro. Eu queria uma matéria. Eu queria vê-lo cair do pedestal na primeira página da Paper. E agora eu olhava para a prova, e ela não tinha o menor interesse em ser uma matéria.
 
 Ao fundo da garagem, no canto mais escuro, uma porta metálica, sem qualquer identificação, discreta demais para algo que claramente não era comum. O elevador. Me ocorreu uma pergunta tão simples que quase doeu: como eu nunca tinha questionado para onde aquilo ia?
 
@@ -218,7 +218,7 @@ Encaixei os dedos na borda e levantei devagar. O cheiro veio antes do que eu vi.
 
 A escada descia para um espaço estreito e escuro. Desci um degrau de cada vez, com o corpo tenso, tentando não fazer barulho. A lanterna tremia, e eu odiei isso também, porque tremor é sinal de medo, e medo é uma linguagem que predadores entendem bem. Quando meus pés tocaram o chão, minha pele inteira se arrepiou.
 
-A luz revelou manchas de sangue por todos os lugares. Não eram respingos acidentais. Eram manchas antigas, secas, como se aquilo fosse habitual. Num canto, armas e ferramentas estavam organizadas de um jeito quase metódico: machados, facas, cordas, fita adesiva, baldes, panos. Em uma prateleira improvisada havia um frasco de comprimidos. Aproximei a lanterna e li o rótulo com a calma de quem lê uma receita de bolo. Um sedativo de uso hospitalar, com um aviso impresso em letras garotas: não combinar com álcool.
+A luz revelou manchas de sangue por todos os lugares. Não eram respingos acidentais. Eram manchas antigas, secas, como se aquilo fosse habitual. Num canto, armas e ferramentas estavam organizadas de um jeito quase metódico: machados, facas, cordas, fita adesiva, baldes, panos. Em uma prateleira improvisada havia um frasco de comprimidos. Aproximei a lanterna e li o rótulo com a calma de quem lê uma receita de bolo. Um sedativo de uso hospitalar, com um aviso impresso em letras garrafais: não combinar com álcool.
 
 Peguei o frasco e guardei no bolso como quem recolhe prova de um crime. Minha mente fazia ligações rápidas demais: o quarto, a bebida, a tontura aos quinze anos, o jeito como Jason falava das mulheres, como visitas e não pessoas. Virei a lanterna para a mesa no centro e vi o caderno de capa preta, fechado por um elástico. O mesmo que dormia no fundo do guarda-roupa de Diego, agora ali, aberto. A lista de letras, uma por linha. E dessa vez a última letra intacta que eu tinha visto, o O, estava riscada com força. Abaixo dela, a lápis, recém-escrita, havia outra letra. Virei a luz para ter certeza.
 
@@ -264,7 +264,7 @@ No meu quarto, tranquei a porta e sentei diante do computador como se fosse alta
 
 As páginas carregaram devagar. Quando o nome apareceu, senti uma certeza brutal se fixar dentro de mim: **Olga Cruz, vinte e poucos anos, desaparecida desde a noite de sexta-feira, 28/03/03, última vez vista nas imediações do Parque Alfredo Volpi, no Morumbi.**
 
-Sexta. Ontem. Enquanto eu escrevia títulos sobre Vila Velha, enquanto eu dirigia até a serra para buscar Jennifer, enquanto ouvia um ruído de madeira forçada no andar de cima e voltava correndo para o quarto, dizendo a mim mesma que não era nada. Era ela. Ela estava ali em cima. A uma escada de distância.
+Sexta. Ontem. Enquanto eu escrevia títulos sobre Vila Velha, enquanto eu mandava um táxi até a serra para buscar Jennifer, enquanto ouvia um ruído de madeira forçada no andar de cima e voltava correndo para o quarto, dizendo a mim mesma que não era nada. Era ela. Ela estava ali em cima. A uma escada de distância.
 
 Fiquei olhando o monitor sem piscar, porque piscar parecia dar ao mundo a chance de mudar o que estava escrito ali. Depois fechei a página.
 
@@ -296,7 +296,7 @@ Quando terminei, voltei ao meu quarto e fiz o resto com a mesma frieza com que o
 
 Quando voltei ao quarto dele, sentei na beira da cama e esperei, com a calma de quem já aceitou a própria decisão.
 
-Ele não demorou. Ouvi o portão, o elevador de serviço descendo ao silêncio, os passos no corredor. A maçaneta girou. Diego entrou e parou por meio segundo, aquele meio segundo em que o cérebro dele avaliou a cena e decidiu como usá-la a seu favor. Estava suado, o cabelo preso, a camiseta colada ao peito. Vi o brilho no olhar dele, não de desejo apenas, mas de satisfação, como se o mundo tivesse finalmente confirmado algo em que ele sempre acreditou: que eu era uma história que ele mesmo tinha escrito.
+Ele não demorou. Ouvi o portão, o elevador de serviço subindo em silêncio, os passos no corredor. A maçaneta girou. Diego entrou e parou por meio segundo, aquele meio segundo em que o cérebro dele avaliou a cena e decidiu como usá-la a seu favor. Estava suado, o cabelo preso, a camiseta colada ao peito. Vi o brilho no olhar dele, não de desejo apenas, mas de satisfação, como se o mundo tivesse finalmente confirmado algo em que ele sempre acreditou: que eu era uma história que ele mesmo tinha escrito.
 
 — Está quente aqui — disse, olhando em volta. — Desligou o ar?
 
@@ -356,7 +356,7 @@ Ele tentou negar com a cabeça, mas o corpo não obedecia. Me inclinei, perto o 
 
 Diego fechou os olhos, como se pudesse apagar a cena, e eu dei outro tapa, mais forte.
 
-— Abre. Olha pra mim — ordenei. — Quando eu vi que uma jornalista chamada Kátia Sobral tinha desaparecido a dois quarteirões da sua casa, o meu corpo inteiro me disse o seu nome. Eu não precisava de prova pra saber. Mas eu encontrei a prova. Um utilitário com um adesivo do seu clube de tiro, estacionado ao lado do carro dela, numa filmagem que a polícia nunca soube olhar.
+— Abre. Olha pra mim — ordenei. — Quando eu vi que uma jornalista chamada Kátia Sobral tinha desaparecido a poucos quilômetros da sua casa, o meu corpo inteiro me disse o seu nome. Eu não precisava de prova pra saber. Mas eu encontrei a prova. Um utilitário com um adesivo do seu clube de tiro, estacionado ao lado do carro dela, numa filmagem que a polícia nunca soube olhar.
 
 Senti a minha própria calma assustar até a mim, porque havia um prazer estranho ali, um prazer que eu não queria admitir, mas que era real.
 
@@ -392,7 +392,7 @@ O celular de Diego estava no bolso da bermuda dele, no chão. Peguei com nojo co
 
 Eu iria levar aquilo à polícia? Um dia, talvez. Primeiro, eu precisava que o meu primo soubesse quem era o pai dele antes de ouvir qualquer outra versão. Escolhi três imagens, as que não deixavam margem para dúvida, e as enviei ao número de Jason a partir do telefone de Diego. Sem mensagem, sem explicação. Uma foto. Depois outra. E outra. Em algum lugar da cidade, o telefone do meu primo iria vibrar no meio de um jantar.
 
-Devolvi o aparelho ao bolso dele, onde a polícia o encontraria. Depois eu pensaria no que dizer.
+Guardei o aparelho na mochila: ainda ia precisar dele. Depois eu pensaria no que dizer à polícia.
 
 Voltei ao meu quarto, peguei minha mochila, o notebook, as poucas coisas que eu nunca tinha desfeito completamente, como quem já tinha decidido há muito tempo que ia partir. Desci pela escada de serviço. A casa estava em silêncio, o tipo de silêncio que parece de gente dormindo e é de gente que não vai acordar nunca mais.
 

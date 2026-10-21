@@ -74,7 +74,7 @@ Veio o primeiro empurrãozinho. Não foi agressivo. Foi suave. Foi alguém encos
 
 “Droga. Vce me cativou muito forte.”
 
-Ela mandou um emoji rindo.
+Ela mandou um “:D”.
 
 “Keria poder te abracar.”
 

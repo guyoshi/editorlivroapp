@@ -2,7 +2,7 @@ O Filipo parou o carro a trinta passos do arco e apagou os faróis, e a escurid�
 
 — Devia ser dia — eu disse.
 
-— Devia. — O Filipo tirou a chave da ignição e ficou com ela fechada na mão. — O sol nasce daqui a quarenta minutos em qualquer cidade a menos de duzentos quilômetros. Aqui, não sei.
+— Devia. — O Filipo tirou a chave da ignição e ficou com ela fechada na mão. — O sol nasce daqui a meia hora em qualquer cidade a menos de duzentos quilômetros. Aqui, não sei.
 
 À frente do capô, o arco de pedra segurava as letras que ele já tinha me contado de cor: BEM-VINDO A ALVORADA ALEGRE. Uma névoa grossa se arrastava na altura do meu peito, rente ao chão da estrada, e mais longe, por cima dos telhados, dava para adivinhar a torre da igreja com o relógio da fachada. Os ponteiros estavam parados em onze e seis. Um sino tocava, bem devagar, de um jeito que parecia ter mais pausa do que som.
 
@@ -142,7 +142,7 @@ Não foi uma palavra, foi o ar saindo. Largou a mochila onde estava. Atravessou 
 
 Nos olhamos. Um de nós estava errado, ou os dois, e isso nunca tinha acontecido assim antes entre nós: nós dois tão sozinhos no mesmo lugar.
 
-O celular vibrou. Na tela, uma mensagem curta.
+O celular vibrou. Na tela, uma mensagem curta, numa cidade onde, segundo o Filipo, nenhuma mensagem entrava.
 
 *Mel Jones: vc tá vendo o livro? tá no altar. queima agora q eu naum consigo entrar. rapido meu principe, eles voltam*
 

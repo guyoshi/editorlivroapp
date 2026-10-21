@@ -36,11 +36,11 @@ Quando meus pais anunciaram que eu ficaria com o Diego, eu relutei, claro. Mas o
 
 Quando meus pais anunciaram que eu ficaria com o Diego, eu relutei, claro. Mas o Morumbi, e a Paper, fizeram a decisão ficar mais simples. Contei ao Jason sobre a vaga que eu poderia ter, e ele disse que também iria passar um tempo com o pai. “Uns dias.” O suficiente para ele não parecer abandonado, e o suficiente para eu não parecer sozinha.
 
-No táxi, eu gravei um vlog no meu estilo. Um tipo de registro que parece espontâneo para quem assiste e calculado para quem faz. 
+No táxi, eu gravei um diário em vídeo no meu estilo. Um tipo de registro que parece espontâneo para quem assiste e calculado para quem faz. 
 
 A câmara tremia porque eu segurava com uma mão só, encostando o aparelho no vidro do carro para disfarçar.
 
-— Oi… Glenda aqui, começando meu… vlog pessoal — eu disse, e dei um sorrisinho de quem está brincando com a própria vida. — Se você estiver assistindo isso, pode significar duas coisas: ou eu estou viva… ou eu estou morta. Eu prefiro a primeira opção. Não estou com vontade de morrer, obrigada.
+— Oi… Glenda aqui, começando meu… diário em vídeo pessoal — eu disse, e dei um sorrisinho de quem está brincando com a própria vida. — Se você estiver assistindo isso, pode significar duas coisas: ou eu estou viva… ou eu estou morta. Eu prefiro a primeira opção. Não estou com vontade de morrer, obrigada.
 
 — Eu vou ficar um tempo na casa do meu tio. Coisas de família. E… vou tentar arrumar um trabalho. Se eu conseguir, você vai ver a minha cara em algum lugar que preste. Se eu não conseguir… você vai ver a minha cara mesmo assim, mas reclamando.
 

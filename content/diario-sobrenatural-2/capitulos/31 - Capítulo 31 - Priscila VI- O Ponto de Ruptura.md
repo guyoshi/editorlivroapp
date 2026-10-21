@@ -4,7 +4,7 @@ Estava em cima do balcão, ao lado de um rádio ligado numa estação que não e
 
 — Priscila — a Jennifer disse, baixo, do lado de fora da janela. — Não mexe em nada.
 
-Mexi no gancho da parede, porque a luz do celular do Jason fazia um círculo do tamanho de um prato. Tinha uma lanterna ali, preta, comprida, de borracha, com a fita amarela suja de mão. Funcionou na segunda tentativa. Guardei o celular no bolso do vestido e passei a luz pela guarita: a cadeira virada, a gaveta aberta, o livro de ocorrências caído com as páginas para baixo. Não tinha sangue. Eu preferiria que tivesse. Sangue a gente entende.
+Mexi no gancho da parede, porque a luz do visor do celular do Jason mal passava da minha mão. Tinha uma lanterna ali, preta, comprida, de borracha, com a fita amarela suja de mão. Funcionou na segunda tentativa. Guardei o celular no bolso do vestido e passei a luz pela guarita: a cadeira virada, a gaveta aberta, o livro de ocorrências caído com as páginas para baixo. Não tinha sangue. Eu preferiria que tivesse. Sangue a gente entende.
 
 A porta interna da guarita dava para um corredor de piso verde-hospital, e foi a Jennifer quem entrou primeiro, o que eu não esperava. Ela caminhava devagar, esfregando os braços com as duas mãos, e eu demorei a perceber o que havia de estranho naquilo.
 
@@ -396,7 +396,7 @@ Eu vi o resto, sem querer, porque meu olho era treinado a achar o que não devia
 
 — Eu não agradeci.
 
-A Glenda não respondeu. Já tinha trocado de lugar com a Jennifer, passado para a frente, a arma apontada na fila que se reorganizava. Atirou duas vezes seguidas. Os mortos caíam e voltavam a se erguer, um depois do outro, e eu vi a mão dela tremer no recuo do terceiro tiro. Tinham sobrado três balas, talvez quatro.
+A Glenda não respondeu. Já tinha trocado de lugar com a Jennifer, passado para a frente, a arma apontada na fila que se reorganizava. Atirou duas vezes seguidas. Os mortos caíam e voltavam a se erguer, um depois do outro, e eu vi a mão dela tremer no recuo do segundo. Tinha sobrado uma bala, talvez nenhuma, e ela contava melhor do que eu.
 
 — Não adianta — a Jennifer disse. — Glenda, não adianta, eles...
 
@@ -478,7 +478,7 @@ Ela puxou o fio. Não se rompeu.
 
 — Ainda não.
 
-O corredor estava ficando laranja. O fogo vinha da porta de serviço, e eu ouvia o galpão queimar atrás dele com um som de coisa grande mastigando. Do outro lado, a porta de aço que não tinha cedido. A Glenda já tinha apontado a arma para o cadeado, atirado duas vezes, chutado a porta. Abriu para dentro, para um corredor largo, de piso cinza, com a saída ao fundo, uns sessenta metros dali, que eu via como um túnel por causa da fumaça. No meio do caminho, uma parte do teto caía em brasa.
+O corredor estava ficando laranja. O fogo vinha da porta de serviço, e eu ouvia o galpão queimar atrás dele com um som de coisa grande mastigando. Do outro lado, a porta de aço que não tinha cedido. A Glenda já tinha apontado a arma para o cadeado, gasto a última bala no cadeado, chutado a porta. Abriu para dentro, para um corredor largo, de piso cinza, com a saída ao fundo, uns sessenta metros dali, que eu via como um túnel por causa da fumaça. No meio do caminho, uma parte do teto caía em brasa.
 
 — Aquilo é a saída? — a Glenda perguntou. Estava com o Vini no ombro, a respiração arrastada. — Jennifer, é a saída?
 

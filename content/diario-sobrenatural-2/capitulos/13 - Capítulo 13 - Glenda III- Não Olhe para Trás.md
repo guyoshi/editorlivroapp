@@ -175,7 +175,7 @@ Jason passou a mão no meu ombro, desajeitado, com a culpa de quem queria ter es
 
 Ele sorriu, convencido de que tinha entendido tudo, e eu deixei. A melhor mentira é a que a pessoa constrói sozinha partindo de um pedaço de verdade.
 
-Peguei a filmadora na mochila — eu vinha gravando o meu vlog por rotina. O que não é registado pode ser negado. Saí do quarto e fui até o banheiro do piso superior.
+Peguei a filmadora na mochila — eu vinha gravando o meu diário em vídeo por rotina. O que não é registrado pode ser negado. Saí do quarto e fui até o banheiro do piso superior.
 
 Era imenso. Banheira grande, mármore, e uma parede com um espelho enorme. Eu o cobri rápido com uma toalha de mão, num gesto automático que já fazia parte do meu dia.
 
@@ -215,7 +215,7 @@ O corredor estava escuro. Cortinas fechadas. A mansão de Diego, com cortinas ab
 
 Eu virei para fechar a porta. Vi a minha filmadora na pia, lá dentro. Eu não podia deixá-la. Não por valor. Por prova.
 
-Peguei a filmadora e liguei a visão nocturna. A tela ficou verdeada, e aquele verde, naquele momento, era segurança.
+Peguei a filmadora e liguei a visão noturna. A tela ficou esverdeada, e aquele verde, naquele momento, era segurança.
 
 Quando eu baixei a câmera e virei o rosto para seguir em direção à escada, ele estava ali.
 

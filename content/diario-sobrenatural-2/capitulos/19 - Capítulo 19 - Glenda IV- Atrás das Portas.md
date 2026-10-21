@@ -158,7 +158,7 @@ Jason pensou.
 
 Jason me contou seu plano, e admito que era bobo, mas bonito. Não sei se a idiota da futura namorada dele merecia isso, mas que se dane. Ele sabia com o que estava se metendo. 
 
-Voltamos pra casa depois do sorvete, e no caminho eu gravei um vlog rápido no notebook, no banco do passageiro, com o rosto bem enquadrado e a voz cuidadosamente imperfeita.
+Voltamos pra casa depois do sorvete, e no caminho eu gravei um diário em vídeo rápido no notebook, no banco do passageiro, com o rosto bem enquadrado e a voz cuidadosamente imperfeita.
 
 — Tô perdida… mas vou conseguir a matéria. — Eu forcei um sorriso. — A gente sempre consegue, né?
 
@@ -396,7 +396,7 @@ Escrevi, apaguei, escrevi de novo. Por fim, mandei:
 
 Enviei e fiquei olhando a tela, depois larguei o celular e voltei pro notebook. Eu precisava de informação sobre Olga, mas eu também precisava de informação sobre Vila Velha.
 
-Abri a câmera do notebook e gravei um trecho curto pro vlog, com os olhos firmes e a voz quase tranquila, porque a mentira funciona melhor quando parece verdade.
+Abri a câmera do notebook e gravei um trecho curto pro diário em vídeo, com os olhos firmes e a voz quase tranquila, porque a mentira funciona melhor quando parece verdade.
 
 — No sábado eu apresento a matéria na Paper. — Eu deixei um meio sorriso aparecer, controlado. — E hoje… hoje eu percebi que eu não tenho mais o direito de ficar só curiosa. Eu preciso terminar isso. Eu preciso… fechar.
 
