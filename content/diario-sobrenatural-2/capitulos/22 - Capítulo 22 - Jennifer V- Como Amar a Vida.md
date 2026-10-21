@@ -148,7 +148,7 @@ Olhei para a estrada. Filipo se deitou, de olhos no céu. Como eu queria ficar s
 
 Fechei os olhos um segundo e vi cinza caindo como neve sobre uma estrada de terra, e um livro grande ardendo sem fazer fumaça. Abri os olhos: era só o sol por entre as folhas.
 
-“Está disponível hoje, um pouco mais tarde?”
+“Desculpa ter faltado naquele dia. Está disponível hoje à noite?”
 
 Não demorou para que eu recebesse a resposta:
 

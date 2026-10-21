@@ -68,7 +68,7 @@ Então outra voz falou:
 
 — Tem uma estrada logo a frente. Consigo ver um hotel — eles pareciam estar em movimento — Hotel Club A. 
 
-Pesquisei no meu notebook. Hotel clube A. Era perto do local onde enviei o taxi para buscar Glenda na serra no dia anterior. 
+Pesquisei no meu notebook. Hotel clube A. Era perto do local onde enviei o taxi para buscar Jennifer na serra no dia anterior. 
 
 — Conseguem ir até o hotel?
 

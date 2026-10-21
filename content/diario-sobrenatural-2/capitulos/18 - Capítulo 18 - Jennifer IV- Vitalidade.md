@@ -264,7 +264,7 @@ A expressão de Pedro mudou, vi um sorriso como nunca tinha visto naqueles lábi
 
 — Sim, pode... E de onde é essa sua amiga? — perguntei, mudando de assunto. 
 
-— Ela... é de... São Roque — disse Pedro, pausadamente, como se estivesse buscando na memória. 
+— Ela... é de... São Roque — disse Pedro, pausadamente, sem me olhar. 
 
 — Não é tão longe. Se sairmos vivos dessa, vou com você até lá pra você conhecer sua Mel Jones — falei, rindo lhe entregando o celular. 
 
@@ -292,31 +292,17 @@ Filipo não me respondeu de imediato. Mas logo ele se virou na cama e olhou para
 
 Filipo ficou com o olhar perdido.
 
-— Eu e meu pai estávamos pescando, como sempre fazíamos nas tardes de domingo. Era uma tarde comum, sem indícios de qualquer coisa fora do normal. Então, ouvimos o sino da igreja tocar freneticamente. Era um som desesperado, quase apavorante. Era comum o sino tocar aos domingos, mas não tão incessantemente como estava.
+— Foi numa manhã comum. Eu estava em casa com meu avô, meu pai no trabalho, a Manu na escola. Então o céu escureceu e uma névoa desceu na rua. A Manu chegou em casa machucada, com medo, sem conseguir dizer o que tinha visto.
 
-Ele fez uma pausa. Seus olhos estavam fixos em algum ponto distante no passado, a memória o arrastando de volta para aqueles momentos horríveis.
+Ele fez uma pausa. Os olhos estavam fixos em algum ponto distante, a memória o arrastando de volta.
 
-— Fomos até a igreja, pensando que algo estava acontecendo. Quando chegamos lá, a cena foi um pesadelo. Vimos dezenas de pessoas correndo de lá, desesperadas, algumas chorando, outras gritando. Uma sombra escura parecia se espalhar pelo interior da igreja, como uma mancha de escuridão que engolia tudo ao seu redor.
+— Meu pai voltou correndo. Foi aí que a coisa apareceu dentro da sala. O Cara-de-larva. Pegou a Manu pelo pescoço e levou ela. Meu avô morreu ali, tentando segurar aquilo.
 
-A voz de Filipo tremia enquanto ele continuava.
-
-— Vimos o terror nos olhos das pessoas, e então, percebemos que não era seguro ficar ali. Decidimos voltar para casa para pegar a minha irmã. Quando chegamos, ela não estava lá. O céu começou a escurecer, e a sombra parecia se espalhar pela cidade, ressecando os corpos das pessoas que eram expostas a ela. Era como se a cidade estivesse sendo drenada de vida.
-
-Os olhos de Filipo se tornaram vidrados enquanto ele recordava.
-
-— Encontramos minha irmã escondida debaixo de uma árvore, aterrorizada e tremendo. Estávamos perto da escola, então decidimos que era o lugar mais seguro para se esconder. 
-
-A voz dele se tornou mais baixa e mais sombria. 
-
-— Quando chegamos à escola, a cena que encontramos foi além do que qualquer um poderia imaginar. O Cara-de-larva estava lá. Ele estava devorando almas, absorvendo a essência das pessoas com uma voracidade insaciável. Ele nos viu e meu pai, vendo o perigo iminente, pediu para minha irmã correr e se esconder. Ela fez o que lhe foi dito e saiu correndo. Foi a última vez que a vi. 
-
-Filipo fechou os olhos.
-
-— Eu e meu pai tentamos ir atrás dela, mas a situação estava desesperadora. O Cara-de-larva estava atrás de nós, e não tínhamos espaço para ir atrás de minha irmã. Saímos da escola e, quando finalmente conseguimos nos afastar, ela já estava longe demais. O Cara-de-larva nos seguiu por um tempo, mas conseguimos escapar em um carro. A cidade ficou para trás, e nunca mais conseguimos entrar nela. Todas as vezes... nos encontrávamos com ele. Ele não quer que ninguém entre nem saia de lá. 
+— Meu pai e eu nos refugiamos na igreja, com os outros, até fugirmos pela névoa, sem a Manu. Quando acordamos, estávamos na estrada, diante do arco da cidade. Nunca mais conseguimos entrar. Todas as vezes... nos encontrávamos com ele. Ele não quer que ninguém entre nem saia de lá.
 
 Ele olhou para mim, seus olhos cheios de uma determinação cansada.
 
-— Por isso meu pai decidiu que precisávamos de uma selifa que pudesse derrotar o Cara-de-larva para que pudéssemos resgatar minha irmã. 
+— Por isso precisamos de uma selifa que pudesse derrotar o Cara-de-larva, para resgatarmos minha irmã.
 
 Olhei para ele e me movi para pegar em sua mão. Ele não resistiu, então toquei nela. 
 

@@ -364,11 +364,7 @@ O velho abanou a cabeça, e o modo como ele fez isso não foi de discordância, 
 
 — Não, vocês não o fizeram. Essas sombras vieram de algum lugar, e se o que diz for verdade, o Agouro é um dos sete principais demônios. Ele é um dos únicos que teria poder para trazê-los até aqui.
 
-Aquilo me atingiu com um peso físico. Tudo o que fizemos. Tudo o que perdemos. As escolhas, os sacrifícios, o revólver, o fogo, a Kelly…
-
-— Então foi tudo em vão — eu murmurei.
-
-E foi nesse silêncio que o som veio.
+E foi então que o som veio.
 
 Um grito forte, distante, se aproximando. Ele cresceu rápido até chegar perto da porta e fazê-la tremer, como se algo estivesse tentando arrombá-la.
 

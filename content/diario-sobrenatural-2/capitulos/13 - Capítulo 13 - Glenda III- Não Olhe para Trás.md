@@ -80,7 +80,7 @@ Ela riu, como se a indiscrição fosse uma qualidade simpática.
 
 — Vai dar certo — ela disse, como se fé fosse uma ferramenta. — Tenha fé no Senhor, que tudo dá certo, menina. Você parece ser muito boa, e seu tio te elogiou bastante.
 
-“Seu tio.” A palavra ficou na minha cabeça como um erro voluntário. Diego não era meu tio, mas eu não corrigi. Eu preferia recolher informação.
+“Seu tio.” A palavra ficou na minha cabeça como um erro voluntário. Diego não era meu tio de sangue, era marido da minha tia, mas eu não corrigi. Eu preferia recolher informação.
 
 — Ele me elogiou? O que mais ele falou de mim?
 
