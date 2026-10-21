@@ -63,8 +63,35 @@ document.documentElement.dataset.readerFont = prefGet(FONT_FAMILY_KEY,"lora") ||
 // Imagens (capas e artes de capítulo) vêm referenciadas direto do site
 // Dimensões Infinitas — se atualizar lá, atualiza aqui também, sem duplicar.
 const ART_BASE = "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/";
-function coverUrl(bookId){ return ART_BASE + bookId + "/cover.webp"; }
-function chapterArtUrl(bookId, n){ return ART_BASE + bookId + "/chapters/chapter-" + String(n).padStart(2,"0") + ".webp"; }
+function bookArtMeta(bookId){
+  return state.books.find(book=>book.id===bookId) || allBooksCache?.find(book=>book.id===bookId) || {};
+}
+function coverUrl(bookId){
+  const book=bookArtMeta(bookId);
+  return book.cover || ART_BASE + bookId + "/cover.webp";
+}
+function chapterArtUrl(bookId, n){
+  const book=bookArtMeta(bookId);
+  return (book.artBase || ART_BASE + bookId + "/") + "chapters/chapter-" + String(n).padStart(2,"0") + ".webp";
+}
+function libraryText(value){
+  return String(value ?? "").replace(/[&<>"']/g, char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
+}
+function librarySeries(book){
+  return book.series || String(book.subtitle||"").split(/\s*[—–]\s*/)[0] || "Outros livros";
+}
+function libraryVolume(book){
+  return Number(book.order) || Number(String(book.subtitle||"").match(/Livro\s+(\d+)/i)?.[1]) || 0;
+}
+function libraryGroups(books){
+  const groups=new Map();
+  books.forEach(book=>{
+    const series=librarySeries(book);
+    if(!groups.has(series)) groups.set(series, []);
+    groups.get(series).push(book);
+  });
+  return Array.from(groups, ([series, volumes])=>({series, books:volumes.slice().sort((a,b)=>libraryVolume(a)-libraryVolume(b))}));
+}
 
 const state = { books: [], currentBook: null, currentChapterIdx: -1, currentChapterRaw: "", ambientSrc: null };
 
@@ -172,17 +199,22 @@ async function loadLibrary(){
             : `<p class="empty-hint">Crie seu perfil abaixo e escolha qual livro quer começar lendo.</p>`;
     return;
   }
-  listEl.innerHTML = state.books.map(b => `
-    <button class="book-card" data-book="${b.id}">
-      <div class="book-cover">
-        <span class="book-cover-fallback">${(b.title||"?").slice(0,1)}</span>
-        <img src="${coverUrl(b.id)}" alt="" loading="lazy" onerror="this.remove()">
-      </div>
-      <div class="book-info">
-        <h3>${b.title}</h3>
-        <p>${b.subtitle||""}</p>
-      </div>
-    </button>
+  listEl.innerHTML = libraryGroups(state.books).map((group, index)=>`
+    <section class="library-series" aria-labelledby="library-series-${index}">
+      <h2 class="library-series-title" id="library-series-${index}">${libraryText(group.series)}</h2>
+      <div class="library-series-books">${group.books.map(b=>`
+        <button class="book-card" data-book="${libraryText(b.id)}">
+          <div class="book-cover">
+            <span class="book-cover-fallback">${libraryText((b.title||"?").slice(0,1))}</span>
+            <img src="${libraryText(coverUrl(b.id))}" alt="" loading="lazy" onerror="this.remove()">
+          </div>
+          <div class="book-info">
+            <h3>${libraryText(b.title)}</h3>
+            <p>${libraryText(libraryVolume(b) ? "Livro " + libraryVolume(b) : b.subtitle||"")}</p>
+          </div>
+        </button>
+      `).join("")}</div>
+    </section>
   `).join("");
   $$(".book-card", listEl).forEach(card=>{
     card.addEventListener("click", ()=> openBook(card.dataset.book));

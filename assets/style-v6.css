@@ -2740,3 +2740,9 @@ body.focus-mode .para-block > .reaction-summary{ display:none !important; }
   .beta-chapter-nav .admin-back-btn{ margin-left:auto; }
   .beta-cross-title{ align-items:flex-start; }
 }
+
+/* Biblioteca agrupada por série; usa apenas livros já autorizados. */
+.library-series{display:flex;flex-direction:column;gap:10px;margin-top:12px;}
+.library-series-title{margin:0;font-family:var(--serif);font-size:1.15rem;color:var(--ink);}
+.library-series-books{display:flex;flex-direction:column;gap:12px;}
+.library-series .book-card{width:100%;}
