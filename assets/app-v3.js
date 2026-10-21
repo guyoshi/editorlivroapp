@@ -411,27 +411,29 @@ async function openChapter(idx){
   const bar = $("#playerBar");
   bar.hidden = false;
   bar.classList.remove("player-missing");
+  player.onerror=null; // Evita erro de MP3 antigo afetar outro capítulo.
   if(ch.audio){
     ttsMode=false;
     const opts=$("#ttsOptions");if(opts)opts.hidden=true;
+    const back=$("#btnBack15");if(back){back.title="Voltar 15s";back.setAttribute("aria-label",back.title);}
     setNarrationAvailability(true);
     views.reader.classList.add("has-narration");
     player.src = resolve(ch.audio);
     const saved = readPos(book.id, ch.n);
     player.addEventListener("loadedmetadata", function once(){
-      if(saved && saved.t && saved.t < player.duration - 5){
-        player.currentTime = saved.t;
+      if(state.currentChapterIdx===idx && state.currentBook?.id===book.id){
+        if(saved && saved.t && saved.t < player.duration - 5)player.currentTime=saved.t;
+        updateTimes();
       }
-      updateTimes();
       player.removeEventListener("loadedmetadata", once);
     });
-    player.addEventListener("error", function onErr(){
-      // O manifesto pode apontar para uma narração que ainda não foi publicada.
-      // Nesse caso o controle continua no lugar, mas passa ao estado indisponível.
-      try{ player.pause(); }catch(e){}
+    player.onerror=()=>{
+      if(state.currentChapterIdx!==idx || state.currentBook?.id!==book.id)return;
+      // Áudio indicado no manifesto, mas arquivo ausente: oferece voz do aparelho.
+      try{player.pause();}catch(_){}
+      player.onerror=null;
       activateTTS(book,ch);
-      player.removeEventListener("error", onErr);
-    }, {once:true});
+    };
     setMediaSession(book, ch);
   }else{
     try{ player.pause(); }catch(e){}
