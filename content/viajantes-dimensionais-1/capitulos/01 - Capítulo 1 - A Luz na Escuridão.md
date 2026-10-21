@@ -1,472 +1,450 @@
 
+Beatriz ainda estava acordada quando o telefone tocou. Era tarde demais para ser coisa boa.
 
-A vida não era fácil para os irmãos Lins do bairro do Antartica. O fato de terem se mudado para o interior, tornava seus dias ainda mais desconfortáveis. Antes de se mudarem, irmãos Lins moravam em uma casa localizada no meio da cidade grande. A acessibilidade que tinham à festas e shoppings, somada à liberdade e ao tempo livre, tornavam suas vidas agitadas sempre atarefadas, esporadicamente os cansando, mas eles gostavam disso. Do barulho dos carros, do som de pessoas conversando. O campo não era o lugar dos irmãos Lins. A cada visita à casa do tio Frank, o tédio e a ansiedade de voltarem à loucura da cidade batia forte. O bairro do Antártica era pequeno, e os garotos eram estranhos por ali. Logo a estranheza era recíproca.
+Da cozinha vinha o rádio do papai, baixinho, tocando Roxette, como ficava todas as noites até a família inteira voltar para casa. Ela ouviu os passos de Breno no corredor. Depois a voz dele, falhando, dizendo "sim", e "sim", e "onde?". Ouviu a porta bater e a casa ficar pequena demais para tanto silêncio.
 
-Na casa de Frank não haviam festas agitadas, som de carros, shoppings próximos, até mesmo um banho de água quente era difícil devido à fiação velha da casa que fazia com que caso demorassem demais na ducha, tivessem de esperar alguns minutos para que pudessem novamente ligar os disjuntores do chuveiro. Ainda assim foi para lá que os garotos foram quando não tiveram mais para onde ir. Após o acidente, Frank ficou com os garotos e se comprometeu a cuidar deles, pois assim era o desejo de sua irmã. E por mais que os garotos relutassem em não viver no campo, ter o tio deles por perto nesse momento era crucial e reconfortante. A dor era insuportável e seus corações estavam despedaçados enquanto ainda processavam os últimos meses. O que eles mais queriam era que tudo isso passasse e que as cores arrancadas de seus corpos, retornassem. 
+Beatriz puxou o cobertor até o queixo e esperou que alguém viesse dizer que era engano.
 
-Breno sabia que isso nunca mais aconteceria, e como irmão mais velho, sua responsabilidade era ainda maior. Mas ele não tinha pedido para ter essa responsabilidade. Ele não queria ter de cuidar dos irmãos. Claramente ele já fazia isso com os dois mais novos, mas Bruno... seria impossível cuidar desse garoto. Bruno era irresponsável e folgado, egoísta, egocêntrico e o que mais de ego que existir. O pior de tudo é que Bruno estava lidando com a perca dos pais da pior forma possível. Ele não queria contato com os irmãos, preferindo ficar no videogame o tempo todo. Talvez ele estivesse assim por culpa, quem sabe porque de todos os irmãos ele era o mais fechado com os pais. Frank poderia ajudá-lo com isso caso percebesse o quanto ele se distanciava cada vez mais dos irmãos. Mas Frank, mesmo que percebesse e decidisse ajudar, não iria conseguir estar o tempo todo com os garotos. Depois que eles se mudaram para sua casa, Frank começou a trabalhar como taxista para conseguir uma renda extra que ajudasse a cobrir os gastos para com os sobrinhos. Isso fez com que ele tivesse pouco tempo a dedicar aos irmãos. Ainda assim, Frank toda semana ou a cada duas semanas saía com eles para o shopping ou para algum parque para deixá-los à vontade. 
+Ninguém veio. Na cozinha, o rádio chiou, engasgou e se calou no meio de um refrão.
 
-A vida dos garotos órfãos poderia ser diferente caso o luto não os cercasse por todos os lados, seja na escola ou nas tarefas diárias. A pequena Beatriz não tinha mais uma mãe para ler livros para ela, o pequeno Banjo não tinha mais o pai para lhe levar para o trabalho. Os dias eram longos e as noites… ainda mais longas. O que faltava na vida dos garotos era apenas um pouco de magia. 
+Depois disso, o rádio nunca mais tocou.
 
-Na manhã de 25 de Abril, 5 dias antes de seu aniversário, Breno se levantou e foi preparar seu café da manhã. No armário haviam pães e ovos. Ele os fritou para comer com a gema mole, como sempre preferia. Enquanto fritava os ovos, ele ouviu um som vindo do banheiro. Breno seguiu para o cômodo e notou a porta entreaberta, e a luz apagada. O garoto caminhou até lá e empurrou a porta, acendendo a luz, dando de cara com a irmã que se assustou, soltando a tesoura e um tufo de cabelo que tinha nas mãos. 
+
+Desde o acidente, os irmãos Lins moravam na casa do tio Frank, no interior, longe da cidade grande, do barulho dos carros e dos shoppings de que tanto gostavam. Frank fazia o que podia, e até virou taxista para ajudar a pagar as contas. Mas a fiação da casa era velha, o chuveiro desarmava se alguém demorasse demais no banho, e o luto estava em todos os cantos. A pequena Beatriz não tinha mais a mãe para ler livros para ela. O pequeno Banjo não tinha mais o pai para levá-lo ao trabalho. Os dias eram longos e as noites ainda mais.
+
+Faltava àqueles garotos apenas um pouco de magia.
+
+Na manhã de 25 de abril, cinco dias antes do seu aniversário, Breno se levantou e foi preparar o café da manhã. Fritou os ovos para comer com a gema mole, como sempre preferiu. Foi então que ouviu um barulho vindo do banheiro. A porta estava entreaberta e a luz apagada. Ele empurrou a porta, acendeu a luz e deu de cara com a irmã, que se assustou e largou a tesoura e um tufo de cabelo.
 
 – O que você está fazendo? – perguntou Breno, apanhando a tesoura do chão.
 
 – Me devolve – resmungou Beatriz, apertando os punhos.
 
-– Não, mana. Não vou deixar você cortar o cabelo desse jeito – disse ele, firme.
+– Não, mana. Não vou deixar você cortar o cabelo desse jeito.
 
-– O cabelo é meu, Breno! Faço o que quiser com ele! – rebateu ela, encarando-o.
+– O cabelo é meu, Breno! Faço o que quiser com ele!
 
-– Tudo bem, se você quer cortar, ótimo. Mas não aqui, sozinha, como se fosse uma emergência. Vamos ao cabeleireiro mais tarde, e ele faz isso direito.
+– Tudo bem, se você quer cortar, ótimo. Mas não aqui, sozinha, como se fosse uma emergência. A gente vai ao cabeleireiro mais tarde, e ele faz isso direito.
 
-– Eu não quero ir ao cabeleireiro. Era a mamãe quem cortava meu cabelo – disse Beatriz, sua voz quebrando no final.
+– Eu não quero ir ao cabeleireiro. Era a mamãe quem cortava meu cabelo – disse Beatriz, a voz quebrando no final.
 
-– Beatriz... – Breno gritou. – Mamãe não está mais aqui.
+– Mana. – Breno falou mais baixo, mas sem ceder. – A mamãe não está mais aqui.
 
-Beatriz balançou a cabeça em discordância e o empurrou, saindo do banheiro, emburrada. Seu rosto estava molhado.  
+Beatriz balançou a cabeça, discordando, e o empurrou de leve para passar. Mas, em vez de sair correndo, parou no corredor e encostou a testa no braço do irmão, só por um segundo. O rosto dela estava molhado.
 
-– Não deixa o tio saber o que você fez ok? – falou Breno do banheiro, recolhendo o cabelo que a menina tinha cortado.  
+– Não deixa o tio saber, ok? – disse Breno, recolhendo o cabelo cortado do chão.
 
-Na cozinha, Beatriz sentou-se à mesa com o rosto abatido.
-– Breno... pede pro tio me tirar do coral – murmurou, mexendo distraída em um fio de cabelo solto.
+Na cozinha, Beatriz se sentou à mesa, abatida.
 
-– Ainda com isso, mana? – respondeu Breno, rindo enquanto jogava os tufos de cabelo cortado no vaso e dava descarga. – O tio só quer que você conheça outras pessoas por aqui.
+– Breno... pede pro tio me tirar do coral – murmurou, mexendo num fio de cabelo solto.
 
-– Mas eu não quero amigos – resmungou Beatriz. 
+– Ainda com isso, mana? – respondeu Breno, rindo enquanto jogava os tufos no vaso e dava descarga. – O tio só quer que você conheça outras pessoas por aqui.
 
-– Não quer ser minha amiga? – Breno forçou uma expressão triste. 
+– Mas eu não quero amigos.
 
-– Você é meu irmão, Breno. Não vale. Eu não quero novos amigos. Eu já tinha amigos na nossa antiga escola. 
+– Não quer ser minha amiga? – Breno forçou uma expressão triste.
 
-– Não é tão ruim quanto parece, sabe. A vida se renova o tempo todo. Às vezes conhecemos gente nova que agrega mais pra nossa vida. 
+– Você é meu irmão, Breno. Não vale. Eu já tinha amigos na nossa antiga escola.
 
-– O que é agrega? – a menina perguntou, inocentemente. 
+– Não é tão ruim quanto parece. A vida se renova o tempo todo. Às vezes a gente conhece gente nova que agrega mais pra nossa vida.
 
-Breno estava prestes a explicar para a irmã, quando Banjo surgiu correndo do quarto, passando por eles, em direção ao banheiro, se trancando lá dentro. Os irmãos se olharam, confusos, e Breno então riu. 
+– O que é agrega? – perguntou a menina, inocentemente.
 
-– Devia estar segurando esse xixi desde ontem a noite – gozou o garoto. 
+Breno estava prestes a explicar quando Banjo surgiu correndo do quarto, passou por eles e se trancou no banheiro. Os irmãos se olharam, confusos, e Breno riu.
 
-Beatriz correu para perto do irmão e o puxou para falar em seu ouvido. 
+– Devia estar segurando esse xixi desde ontem à noite.
 
-– Sabe. Como o Banjo ainda mija enquanto dorme... ele deve ter acordado na hora que começou a mijar e correu pro banheiro. 
+Beatriz o puxou para falar baixinho no seu ouvido.
 
-Banjo realmente tinha problemas em controlar a urina pela noite, mesmo já tendo 12 anos. Isso realmente o envergonhava. Por essa razão, Breno preferiu não responder a irmã, lançando-a apenas um sorriso forçado. 
+– Sabe. Como o Banjo ainda faz xixi na cama... ele deve ter acordado na hora e correu pro banheiro.
 
-– Vai querer pão com ovo? 
+Banjo tinha mesmo problemas para controlar o xixi durante a noite, aos 12 anos, e isso o envergonhava demais. Breno preferiu não responder à irmã e apenas lançou a ela um sorriso forçado.
 
-– E o queijo que o tio fez – disse a menina. 
+Quando Banjo saiu do banheiro, de cabeça baixa e já enrolado no cobertor de bordado de animais selvagens que carregava desde pequeno, evitou olhar para todos.
 
-Breno assentiu e começou a preparar o café da manhã da irmã. O tempo hoje não estava muito bom, nublado e com uma fina garoa gelada. Isso fazia com que os vidros do quarto de Bruno soassem. Bruno se levantou neste dia completamente mal disposto, indo direto para o videogame, passando direto pelos irmãos. 
+– Ninguém falou nada, né? – perguntou, quase sem voz.
 
-– Aí, Maria-chatice, não vai comer nada não? – perguntou Breno ao irmão. 
+– Nada – mentiu Breno, rápido demais. – Vai querer pão com ovo?
 
-– Não enche! – resmungou Bruno, colocando os fones de ouvido e ligando o videogame em forma de cubo que ganharam dos pais no último natal em que passaram juntos. A televisão ligada apresentava uma matéria sobre um acontecimento de três anos atrás.
+– E o queijo que o tio fez – lembrou Beatriz.
 
-“Enquanto ainda tentamos juntar as peças para compreender sobre o que ocorreu naquele dia de 12 de Dezembro, podemos assumir que o mundo mudou depois daquele dia. O povo já não é mais o mesmo, a voz das pessoas agora está mais alta, e o mundo se acalmou após uma ameaça de uma terceira guerra nuclear...”
+Lá fora o dia amanhecera nublado, com uma garoa fina e gelada que fazia os vidros do quarto de Bruno tremer. Bruno acordou de mau humor e foi direto para o videogame, passando pelos irmãos sem dizer uma palavra.
 
-Bruno trocou o canal, e seu jogo começou. Banjo, como sempre fazia, se sentava perto do irmão para assisti-lo jogar, coberto com seu cobertor de bordado de animais selvagens que carregava consigo desde pequenino. 
+– Aí, Maria-chatice, não vai comer nada não? – chamou Breno.
 
-– Sai daí, Banjo, a doença do Bruno é contagiante – disse Breno, comendo uma embalagem de biscoitos enquanto tentava consertar o rádio quebrado de seu pai – essa porcaria não funciona de jeito nenhum. 
+– Não enche! – resmungou Bruno, colocando os fones de ouvido e ligando o videogame em forma de cubo que ganharam dos pais no último Natal que passaram juntos. Em seguida, tirou um dos fones só para falar: – E alguém avise ao Banjo que o banheiro não é uma moradia.
 
-– Você realmente sabe mexer nisso? – perguntou Beatriz. 
+Banjo se encolheu debaixo do cobertor, mas mesmo assim foi se sentar perto do irmão para vê-lo jogar, como sempre fazia.
 
-– Eu e o pai consertamos vários equipamentos juntos. Mas este aqui... não consigo achar o problema. Já tentei ver o fusível, se há oxidação, mas o multímetro mostra que não há corrente alguma passando por dentro dele. Estou ficando sem opções. 
+– Sai daí, Banjo, a doença do Bruno é contagiosa – disse Breno, comendo biscoitos enquanto mexia no rádio quebrado do pai. – Essa porcaria não funciona de jeito nenhum.
 
-– Você acha que o tio vai deixar a gente ir pro passeio? – perguntou Beatriz se referindo ao passeio escolar para o parque estadual da cantareira. 
+– Você sabe mesmo mexer nisso? – perguntou Beatriz.
 
-– Olha, sinceramente, não faço ideia. Espera, você quer ir pra esse passeio? – perguntou Bruno, incrédulo. 
+– Eu e o pai consertamos vários aparelhos juntos. Mas este aqui... não consigo achar o problema. Já vi o fusível, já vi se há oxidação, e o multímetro mostra que não passa corrente alguma por dentro dele.
 
-– Ah, parece ser legal. O Banjo disse que a gente pode encontrar alguns animais lá. 
+– Você acha que o tio vai deixar a gente ir pro passeio? – perguntou Beatriz, falando do passeio da escola ao Parque Estadual da Cantareira.
 
-– Não vai pela cabeça do seu irmão. Se ele puder colocar uma tarântula na boca, ele coloca. 
+– Sinceramente, não faço ideia. Espera, você quer ir pra esse passeio? – perguntou Breno, incrédulo.
 
-– Que nojo! – exclamou Beatriz. 
+– Ah, parece legal. O Banjo disse que a gente pode encontrar animais lá.
 
-– Tive uma ideia, vou fazer uma ligação direta. A corrente vai ter de passar pelo rádio e sair. Creio que a resistência é forte o suficiente para evitar um curto circuito – dissse Breno, apanhando o alicate e desencapando o fio para poder ligá-lo no aparelho. 
+– Não vai pela cabeça do seu irmão. Se ele puder colocar uma tarântula na boca, ele coloca.
 
-Sua ideia, no entanto, acabou por liberar faíscas e fumaça, aparentemente lhe mostrando que se houvesse alguma chance de aquilo ser consertado, as chances tinham morrido ali. 
+– Que nojo! – exclamou Beatriz.
 
-– Ei, ta tudo bem aí? – perguntou Banjo olhando por cima do sofá. 
+– Tive uma ideia – disse Breno, apanhando o alicate e desencapando o fio. – Vou fazer uma ligação direta. A corrente vai ter que passar pelo rádio e sair.
 
-Breno socou a parede e respirou fundo. Após guardar novamente o rádio na mochila, subiu para o quarto e voltou a desenhar. Breno adorava desenhar pessoas. E por incrível que pareça, ele sempre tirava o rosto dessas pessoas de sua própria imaginação.  
+A ideia só liberou faíscas e fumaça, e pareceu mostrar que, se havia alguma chance de consertar aquilo, ela tinha morrido ali.
 
-Em seu guarda-roupas, haviam muitos cadernos com diversos rostos de pessoas desenhadas. Enquanto desenhava o rosto de mais uma menina, Beatriz no outro quarto olhava pela janela as nuvens se formando para mais um dia de chuva enquanto assistia o canal de esportes, algo que costumava fazer com seu pai. Até mesmo Banjo lia sua coleção de quadrinhos que ganhara de seu pai, torcendo para que Bad Rock mandasse mais uma frase de efeito antes de derrotar um chefão alienígena. Cada um com sua devida distração, sua diversão, que, embora ajudasse a passar o tempo, tornava-os solitários, vivendo cada um de seu jeito. 
+– Ei, tá tudo bem aí? – perguntou Banjo, olhando por cima do sofá.
 
-E embora seus irmãos conseguissem disfarçar suas dores através de suas distrações, Bruno lutava para conseguir se conter. A chuva já caía escorrendo pela janela tal como suas lágrimas pelos lençóis da cama. O som da chuva, o silêncio do quarto e a solidão eram o cenário perfeito para que ele pudesse chorar. Sozinho, ninguém poderia vê-lo ali, frágil, culpado e sentimental. Sentimentos assim eram coisas que Bruno detestava demonstrar. Mas enquanto ali, solitário, a saudade era incontrolável, e as lembranças feriam mais do que queimaduras do fogo, e sua alma só se aconchegava quando colocava suas dores para fora. 
+Breno socou a parede, respirou fundo e guardou o rádio na mochila. Depois subiu para o quarto e voltou a desenhar. Ele adorava desenhar rostos, e por incrível que pareça sempre tirava os rostos da própria imaginação. No guarda-roupa havia cadernos e mais cadernos cheios deles.
 
-Frank chegou tarde da noite, e quando Bruno desceu, a janta já estava feita. 
+Cada um tinha sua distração. Beatriz olhava as nuvens pela janela e assistia ao canal de esportes, algo que costumava fazer com o pai. Banjo lia os quadrinhos que ganhara dele, torcendo para que Bad Rock soltasse mais uma frase de efeito antes de derrotar um chefão alienígena. As distrações ajudavam o tempo a passar, mas deixavam todos sozinhos, cada um do seu jeito.
 
-– Trouxe mais uma melancia pra gente – disse Frank. 
+Bruno, por trás das piadas, era quem menos conseguia se conter. A chuva escorria pela janela do mesmo jeito que as lágrimas escorriam pelo lençol da cama. Sozinho, ninguém podia vê-lo ali, frágil e culpado. Bruno detestava demonstrar sentimentos, mas a saudade era incontrolável, e a alma dele só se aconchegava quando botava a dor para fora.
 
-– Oba! – disse Banjo correndo para apanhar a fruta. 
+Frank chegou tarde da noite, e quando Bruno desceu, a janta já estava feita.
 
-– Só não engole ela inteira, tá garoto! – disse Bruno, fazendo o irmão fechar a cara para ele.
+– Trouxe mais uma melancia pra gente – disse Frank.
 
-– Sabe crianças, eu resolvi permitir vocês de irem ao passeio da escola. Aquele que o Banjo tinha me dito. Vai ser bom pra vocês – falou Frank. 
+– Oba! – disse Banjo, correndo para pegar a fruta.
 
-– Legal, mas eu não vou ir – falou Bruno, enquanto colocava leite no copo. 
+– Só não engole ela inteira, tá garoto! – disse Bruno, fazendo o irmão fechar a cara.
 
-– Pode guardar este leite, Bruno. Vai jantar com todos os seus irmãos – falou Frank. 
+– Crianças, eu resolvi deixar vocês irem ao passeio da escola. Vai ser bom pra vocês – falou Frank.
 
-– Não vou não. Eles são estranhos – riu o garoto, colocando o copo no micro-ondas para esquentar. 
+– Legal, mas eu não vou – disse Bruno, enchendo um copo de leite.
 
-– Vou levá-los até a escola no dia do passeio. Quero que se divirtam um pouco, a natureza ajuda a esfriar a cabeça. 
+– Guarde esse leite, Bruno. Você vai jantar com os seus irmãos.
 
-– Eu não vou ir – disse Bruno. 
+– Não vou, não. Eles são estranhos – riu o garoto, colocando o copo no micro-ondas.
 
-– Você é muito chato, Bruno – irritou-se Beatriz – fica se fazendo de vítima, depois reclama que fazemos as coisas sem você. 
+– Você é muito chato, Bruno – irritou-se Beatriz. – Fica se fazendo de vítima e depois reclama que fazemos as coisas sem você.
 
-– Por que você não vai lavar esse seu cabelo oleoso, ao invés de cuidar da vida dos outros? –  respondeu-lhe Bruno. 
+– Por que você não vai lavar esse seu cabelo oleoso, em vez de cuidar da vida dos outros? – respondeu Bruno.
 
-– Olha como você fala da sua irmã – repreendeu-lhe Frank. 
+– Olha como você fala da sua irmã – repreendeu Frank.
 
-– E eu to errado? – indagou Bruno – você nem ta aqui pra ver quantos banhos ela toma por semana. 
+Bruno tirou o copo do micro-ondas, passou pelos irmãos e subiu para o quarto. Frank suspirou.
 
-Ao tirar o copo do micro-ondas, Bruno passou pelos irmãos e seguiu para seu quarto. Frank suspirou, e então olhou para Beatriz. 
+– Desculpe, tio – disse Breno. – Ela às vezes fala por impulso.
 
-– Trate de tomar banho todos os dias – falou. 
+– Eu sei que é difícil aceitar isso – disse Frank, caminhando até a beira do micro-ondas. – Mas somos uma família agora, e estou fazendo de tudo pra vocês se sentirem de novo em uma.
 
-– Você não é meu pai pra me dar ordens – resmungou ela. 
+– Desculpe, tio. Mas nós nunca mais vamos ser uma família – disse Banjo. – Não como antes.
 
-– Beatriz – Breno lhe chamou a atenção – desculpe tio, sua sobrinha às vezes fala por impulso. 
+– Está errado – disse Frank. – Enquanto tiverem um ao outro, ainda terão uma família. Família não é só sangue. É companheirismo e, acima de tudo, amor, nos melhores e nos piores momentos.
 
-– Olha – disse Frank, caminhando até a beira do micro-ondas – eu sei que é difícil de aceitar isso. Mas somos uma família agora. E acreditem eu estou fazendo de tudo pra que vocês se sintam novamente em uma família. 
+Breno guardou aquelas palavras por um tempo. Frank tinha razão, mas tudo estava tão recente que soou como um "vivam e se amem" que qualquer parente diria.
 
-– Desculpe tio. Mas nós nunca mais seremos novamente uma família – disse Banjo – não como antes.  
 
-– Está errado – disse-lhe Frank – Enquanto tiverem um ao outro, ainda terão uma família. Família não envolve apenas sangue. Envolve companheirismo, reciprocidade e acima de tudo amor, nos melhores e nos piores momentos. 
+– Vai deixar sua irmã sozinha? – disse Gabrielle, enquanto caminhavam por uma avenida.
 
-O que Frank falou ficou na cabeça de Breno por um tempo. Ele estava certo no que dizia, mas tudo estava tão recente que a mensagem soou apenas como um “vivam e se amem” que qualquer parente lhe diz. Acontece que nenhum deles sentia a dor da mesma forma, e mesmo Frank estava extremamente abalado por perder sua irmã. 
+Breno correu de volta para perto da mãe e tirou a garotinha do carrinho de bebê. Bruno estava agitado, de mãos dadas com o pai, que carregava o pequeno Banjo adormecido no colo.
 
+– Ela é tão fofa – disse o garoto.
 
+– Você já foi assim também – riu Jack.
 
-– Vai deixar sua irmã sozinha? – disse Gabrielle enquanto caminhavam por uma avenida. 
+As luzes do parque de diversão começavam a piscar à frente.
 
-Breno correu de volta para perto da mãe e apanhou a garotinha do carrinho de bebê. Bruno estava agitado de mãos dadas com o pai, que carregava o pequeno Banjo adormecido no colo. 
+– Não era, não. Ela é muito pequenininha e frágil – respondeu Breno.
 
-– Ela é tão fofa – disse o garoto. 
+– Vem cá – disse Gabrielle, se ajoelhando na frente do garoto. – Esse cabelo bagunçado.
 
-– Você já foi assim também – riu Jack. 
+A mulher arrumou o cabelo do filho e acariciou sua nuca.
 
-As luzes do parque de diversão começavam a piscar à frente. 
+– Você é o milagre da mamãe, e é o mais velho. Seus irmãos vão ser sempre pequeninos e frágeis para você. E é por isso que confio em você pra cuidar deles quando a gente não estiver por perto. Tá legal?
 
-– Não era não. Ela é muito pequenininha e frágil – respondeu Breno. 
+– Tá bom.
 
-– Vem cá – disse Gabrielle, se ajoelhando próximo do garoto – esse cabelo bagunçado. 
+– Mãe... a gente pode ir po paique logo? – perguntou o pequeno Bruno, saltando para ver por cima do muro.
 
-A mulher arrumou o cabelo do filho e acariciou sua nuca. 
+As lembranças vinham o tempo todo à cabeça de Breno. Essa era a mais antiga que ele tinha dos pais. Não sabia se era real ou sonho, mas se lembrava da mãe dizendo exatamente aquilo.
 
-– Você é o milagre da mamãe, e é o mais velho. Seus irmãos vão ser sempre pequeninos e frágeis para você. E é por isso que confio em você em cuidar deles quando não estivermos por perto. Ta legal? 
+No dia seguinte, Frank os levou até a escola às sete da manhã. Breno esperou sentado sozinho nas escadas, até que seu melhor amigo, Leonardo, chegou e parou ao lado da mochila que ele trouxera com lanches para o passeio.
 
-– Ta bom. 
+– Sente saudades?
 
-– Mãe... A gente pode ir po paique logo? – perguntou o pequeno Bruno, ansioso saltando para tentar ver por cima do muro do parque de diversões. 
+– O tempo todo – respondeu Breno, o olhar perdido no ônibus escolar à frente.
 
-As lembranças vinham o tempo todo para a cabeça de Breno. Essa era a mais antiga que ele tinha dos pais. Não sabia se era real ou sonho, mas ele se lembrava de sua mãe lhe dizer exatamente isso. Enquanto esperava dar o horário para pegar o ônibus no dia seguinte, sentado sozinho nas escadas da escola, seu melhor amigo Leonardo chegou. 
+– Quando perdi minha avó foi assim também. Minha vida mudou toda. – Leonardo deu um tapinha em seu ombro. – Pro que precisar, conte comigo.
 
-– Sente saudades? – Leonardo lhe perguntou, parando ao lado de sua mochila, a qual trouxera com alguns lanches para comerem no passeio. 
+Breno sorriu e olhou para o céu nublado, torcendo para que não chovesse no parque.
 
-– O tempo todo – Breno lhe respondeu, o olhar desfocado no ônibus escolar a frente. 
+Quando a professora Anilda chamou todos para entrar, os garotos se acomodaram nos assentos. Bruno estava com eles, de cara fechada. Tinha decidido ir, afinal. Não pedira desculpas ao tio, só dissera que mudara de ideia e queria tomar um ar fresco.
 
-– Quando perdi minha avó foi assim também. Ela tinha problemas sérios com alcoolismo e meu mundo caiu quando ela faleceu. Eu mudei sabe. Minha vida mudou completamente. Eu sempre fui muito infantil. Minha infância foi prolongada. 
+O ônibus desceu a serra por quase vinte minutos, entrou numa rua apertada, sem asfalto, e seguiu por mais dez até estacionar ao lado de outros ônibus.
 
-– Ela faleceu quando? 
+– Atenção, todo mundo – falou o professor Adalberto. – Não entrem na mata, nem saiam da zona do parque. Fiquem perto. Às 11 horas voltem ao ônibus para apanhar os lanches, e às 18 horas estejam aqui para voltarmos à escola.
 
-– Dezembro do ano retrasado. Me lembro até hoje do dia – disse Leonardo fazendo Breno se recordar bem da noite em que viu seus pais sem vida. O frio na espinha e a sensação de insegurança, medo e desespero que lhe acometeu naquele momento. Ele não desejava isso a ninguém. 
+Bruno colocou o fone de ouvido e se afastou dos irmãos, enquanto Breno, Banjo e Beatriz seguiram para a entrada do parque. Havia parquinho, quadra de tênis, quadra de futebol, uma área de exercícios e muitas estradinhas onde os jovens podiam correr e brincar.
 
-– Sinto muito por você, cara – disse Leonardo – espero que se recupere logo. E pro que precisar, conte comigo. 
+Breno passou o tempo todo cuidando dos mais novos. Mesmo assim, não pôde deixar de reparar que uma garota da sala de Bruno não parava de olhar para ele desde que tinham chegado. Cada vez que ela passava na estradinha, sorria. O coração dele já estava acelerado, e só de pensar em ir até ela ficava nervoso. Mas tinha os irmãos para vigiar. Ou talvez, se fosse rápido.
 
-Breno sorriu em resposta e desviou o olhar para o céu nublado. O tempo continuava ruim assim como nas últimas semanas, e ele torcia para que não chovesse e eles se molhassem no parque. 
+– Vou ali beber água – disse aos irmãos. – Já volto. Fiquem aí.
 
-Frank tinha os levado até a escola às 7 da manhã, onde aguardaram os outros alunos chegarem. Quando a professora Anilda os chamou para entrar, os garotos seguiram até a entrada do ônibus e se acomodaram em seus assentos. Bruno estava com eles, de cara fechada, afinal, tinha decidido ir ao passeio. Uma noite foi o suficiente para que o garoto pensasse e repensasse nas suas atitudes e percebesse o quão injusto estava sendo com seu tio, embora não tivesse pedido desculpas. Havia dito apenas que tinha mudado de ideia, porque estava querendo tomar um ar fresco.
+– Tá bom – disse Beatriz, rindo, enquanto corria de Banjo na brincadeira de pega-pega.
 
-A turma foi cantando no ônibus que desceu a serra por quase vinte minutos pela estrada, até que saísse dela e entrasse em uma rua apertadinha não-asfaltada, de onde seguiu por mais quase dez minutos, antes de finalmente estacionar ao lado de outros ônibus. 
+Breno tirou um chiclete do bolso para melhorar o hálito e caminhou atrás da garota, diminuindo o passo quando chegou perto.
 
-– Atenção todo mundo –  o Professor Adalberto falou – Não entrem na mata, nem saiam da zona do parque. Fiquem perto. Às 11 horas voltem pro ônibus para apanharem os lanches de vocês, e às 18 horas estejam aqui para podermos regressar à escola. 
+– Ei – disse. – Menina.
 
-Os garotos desceram e Bruno colocou seu fone de ouvido, se afastando dos irmãos enquanto Breno, Banjo e Beatriz seguiam para a entrada do parque. O parque da Cantareira era composto por várias áreas públicas entre um parquinho de crianças, uma quadra de tênis e uma de futebol, uma área para se exercitar e muitas estradinhas que seguiam pelo parque, onde os jovens poderiam correr e brincar. 
+Jennifer se virou e deu um sorriso tímido.
 
-Breno teve de ficar o tempo todo cuidando dos irmãos mais novos para que não ficassem sozinhos enquanto se divertiam nos brinquedos do parquinho. Enquanto eles brincavam, ele não pode deixar de reparar que uma garota da sala de Bruno não parava de olhar para ele desde que tinham chegado. Cada vez que ela passava em sua frente na estrada, lhe dava um olhar e sorria para ele. Seu coração já estava acelerado, e só de pensar em ir até ela, já ficava nervoso. De qualquer forma, ele estava cuidando de seus irmãos, ele não podia sair dali. Ou talvez, se fosse rápido. 
+– É... você é da sala do Bruno, não é?
 
-– Vou ali beber água – disse Breno aos irmãos – já volto, e fiquem aí. 
+– Sim. Você é o Breno, irmão dele, não é? – Ele ergueu as sobrancelhas. Ela sabia o nome dele.
 
-– Tá bom – disse Beatriz rindo, enquanto corria de Banjo na brincadeira de pega-pega. 
+– Infelizmente. Mas felizmente não somos nada parecidos.
 
-Breno se levantou do banco em que estava sentado, nas mesas de piquenique ao lado do parquinho, e tratou de correr ligeiramente atrás da garota. Passou então a mão sobre o bolso e retirou um chiclete de lá para melhorar o hálito, e quando se aproximou da menina, diminuiu o passo, e a chamou. 
+– Ainda bem, o Bruno é insuportável – reclamou a garota. – Ah, desculpe, é seu irmão, mas...
 
-– Ei – disse – menina. 
+– Ele é, sim. Não se preocupe. Eu estava aqui notando que... desde que chegamos... você tem um sorriso muito lindo.
 
-Jennifer se virou, e deu um pequeno sorriso tímido ao olhar para Breno. 
+– Você notou isso desde que chegamos? Você é muito meigo – riu Jennifer. Breno riu também e então faltou assunto. Ele ficou olhando para ela, nervoso, até que ela disse: – Que tal a gente ir ali no canto conversar?
 
-– É... você é da sala do Bruno não é? – perguntou Breno. 
+Aliviado, ele aceitou. Foram até uma pedra grande atrás de algumas árvores, onde, depois de pouco assunto, acabaram se beijando. O vento balançava os cabelos dela, o dia estava frio e era uma razão a mais para ficarem abraçados. O coração de Breno batia tão forte que ele teve certeza de que ela ouviria.
 
-– Sim, você é o Breno, irmão dele, não é? – ela perguntou. Breno ergueu as sobrancelhas. Então ela sabia o nome dele. 
+Quando terminaram, os dois começaram a rir.
 
-– Infelizmente. Mas felizmente não somos nada parecidos. 
+– Foi meu primeiro beijo – riu Breno.
 
-– Ainda bem, o Bruno é insuportável – reclamou a garota – ah desculpe, é seu irmão, eu sei, mas... 
+– Eu percebi pelos olhos abertos. Você tem que fechar enquanto beija – disse Jennifer.
 
-– Ele é sim. Não se preocupe. Ahm... eu estava aqui notando que... desde que chegamos... eu notei que você tem um sorriso muito lindo. 
+– Desculpe. Eu sei disso. Só me esqueci.
 
-– Você notou isso desde que chegamos? Você é muito meigo – riu Jennifer. Breno riu e então faltou-lhe assunto. O garoto apenas continuou a olhar para Jennifer, sem saber o que falar, nervoso – Ahm... que tal a gente ir ali no canto conversar? – disse, por fim a garota. 
+– Dizem que o primeiro beijo a gente nunca esquece.
 
-Aliviado, obviamente ele aceitou, e juntos foram até perto de uma pedra grande atrás de algumas árvores, onde após pouco assunto, começaram a se beijar. Jennifer era uma garota muito bonita, e consequentemente isso fez com que Breno sentisse um formigamento na virilha que o obrigou a fechar as pernas. O vento fazia seus cabelos balançarem, o clima estava um pouco frio, então era uma razão a mais para que eles se abraçassem bem. 
+– É verdade? Você lembra do seu?
 
-Quando terminaram de se beijar, os dois começaram a rir. 
+Jennifer abriu a boca para responder, mas alguém gritou o nome de Breno. Ele correu até a estrada do outro lado das árvores e viu a irmã vindo em sua direção.
 
-– Foi meu primeiro beijo – riu Breno. 
+– Breno, Breno, o Banjo se meteu numa briga! Tem uns moleques querendo bater nele!
 
-– Eu percebi pelos olhos abertos. Você tem que fechar enquanto está beijando – disse Jennifer. 
+Breno olhou para Jennifer, e ela inclinou a cabeça para que ele fosse resolver o problema. Ele correu com a irmã, e Beatriz o guiou pela floresta em frente ao parquinho.
 
-Breno riu. 
+– O Banjo tá lá dentro? Eu não disse pra vocês não saírem do parquinho?
 
-– Desculpe – riu ele – eu sei disso. Só me esqueci. 
+– Mas não estávamos longe. Era pega-pega, aí eu quis correr pra um lugar onde ele não me pegasse fácil.
 
-– Dizem que o primeiro beijo a gente nunca se esquece – disse a menina. 
+Breno então ouviu a voz da pessoa que menos queria ouvir. Pedro Porrada, um garoto da sala dele que vivia arrumando briga com metade da escola e andava com a gangue, Nathan, Leilton e Sérgio.
 
-– É verdade? Você lembra de seu primeiro? 
+– Como é mesmo seu nome? Violão, Violino, Cavaquinho, Ukulele? – ria Pedro.
 
-Jennifer abriu a boca para falar, mas foi interrompida por um alguém gritando pelo nome de Breno. O garoto se virou e correu até a estrada do outro lado das árvores avistando a irmã correndo em sua direção. 
+– Banjo – disse o garoto, em tom baixo.
 
-– Breno, Breno, o Banjo se envolveu numa briga. Tem uns moleques querendo bater nele – disse Beatriz. 
+Banjo olhava para o chão, os ombros encolhidos, como se quisesse sumir.
 
-Breno olhou para Jennifer e ela inclinou a cabeça para que ele fosse resolver o problema. O garoto então correu junto à irmã até o parquinho, e Beatriz o guiou pela floresta em frente. – O que? O Banjo tá lá dentro? 
+– Esses irmãos são uma vergonha – riu Pedro.
 
-– Está. 
+– Vergonha vai ser a mão do meu irmão quando for parar na sua cara – disse Beatriz, assim que alcançaram os garotos.
 
-– Eu não disse pra vocês não saírem do parquinho? 
+Breno ficou sem reação. Não esperava que a irmã atiçasse a briga, e os garotos pareceram esperar alguma resposta dele, que não veio. Pedro parou na frente de Breno.
 
-– Mas não estávamos longe. Estávamos brincando de pega-pega, aí eu quis correr pra um lugar onde ele não me pegasse fácil – disse a menina. 
+– Como é, veio defender o cavaquinho?
 
-Então Breno começou a ouvir a voz da pessoa que ele menos queria ouvir. Pedro Porrada, um garoto da sua sala, que costumava arrumar briga com metade da escola. O garoto também vivia acompanhado da sua gangue, Nathan, Leilton e Sérgio. 
+– Pedro, já chega. Deixa meu irmão em paz.
 
-– Como é mesmo seu nome? Violão, Violino, Cavaquinho, Ukulele? – ria Pedro. 
+– Eu deixo, sim – disse Pedro, recuando e empurrando Banjo, que caiu no chão.
 
-– Banjo – disse o garoto em tom baixo.
+Breno respirou fundo e se controlou, os punhos cerrados.
 
-Os garotos puseram-se a rir e Pedro então virou-se para ele. 
+– Ei, ei, ei, ei, ei... – disse uma voz vinda da direção do parquinho. Era Bruno. – Pedro, não vale a pena bater no Banjo, ele não agride nem uma mosca. Ainda é uma criança.
 
-– Esses irmãos são uma vergonha – riu Pedro. 
-
-– Vergonha vai ser a mão do meu irmão quando for parar na sua cara – disse Beatriz assim que alcançaram os garotos. 
-
-Breno naquele momento ficou sem reação. Ele não esperava que a irmã atiçasse a briga para ele naquele momento e os garotos pareceram esperar alguma reação vinda de Breno, a qual não veio. Pedro então começou a rir e parou na frente de Breno. 
-
-– Como é, veio defender o cavaquinho? 
-
-– Pedro, já chega. Deixa meu irmão em paz – disse Breno. 
-
-– Eu deixo sim – falou o garoto, recuando e empurrando Banjo que caiu no chão. 
-
-Breno respirou fundo e se controlou, os punhos cerrados. 
-
-– Ei, ei, ei, ei, ei... – disse uma voz vindo da direção do parquinho. 
-
-– Pedro, não vale a pena bater no Banjo, ele não agride nem uma mosca, ainda é uma criança. 
-
-– Ué, não foi você que nos disse agora mesmo onde ele estava. Queríamos apenas fazer uma brincadeira com ele – disse Pedro. 
+– Ué, não foi você que nos disse agora mesmo onde ele estava? Queríamos só fazer uma brincadeira com ele.
 
 – Não, você me entendeu mal...
 
-– Você disse pra eles onde seu irmão estava? Você sabia que eles iam tentar machucá-lo? – perguntou Breno, incrédulo. 
+– Você disse pra eles onde seu irmão estava? – perguntou Breno, incrédulo.
 
-– Não, cara. Eu nunca faria isso com meu irmão. Eles perguntaram onde o Banjo estava, e eu disse que estava com você no parquinho, foi só isso. 
+– Eles perguntaram onde o Banjo estava, e eu disse que estava com você no parquinho. Foi só isso.
 
-– E por que você disse isso pra eles? – perguntou Breno. 
+– E por que você disse isso pra eles?
 
-– Por que o quê? Tem que ter uma razão agora pra eu responder a alguém, idiota? 
+– Por que o quê? Agora preciso ter razão pra responder a alguém, idiota?
 
-– Olha lá como são babacas, brigam por qualquer coisa – riu Nathan. 
+– Deixa meu irmão ir embora e esquecemos tudo, Pedro – disse Bruno, aproximando-se com um sorrisinho forçado. – Pode ficar em paz, ninguém vai te importunar.
 
-– Deixa meu irmão ir embora, e nós esquecemos de tudo, Pedro. Pode ficar em paz, ninguém vai te importunar – Bruno disse, se aproximando de Pedro com um sorrisinho forçado. 
+Pedro parou na frente dele e o encarou de cima a baixo.
 
-Pedro, no entanto, parou na frente de Bruno e o encarou de cima para baixo. 
+– Ô esquisito, tu é um garoto engraçado. E meu punho tá aqui, louco pra bater num garoto assim.
 
-– O aberração, tu é um garoto engraçado – falou – e meu punho tá aqui louco pra bater em um garoto assim. 
+Beatriz, enquanto Pedro encarava o irmão, puxou Banjo para fugirem e chutou a perna de um dos garotos. Ele só a empurrou, e ambos caíram no chão.
 
-Beatriz, enquanto o garoto encarava o irmão, caminhou até o lado de Banjo e o segurou para que fugissem, chutando a perna de um dos garotos, mas este apenas a empurrou para trás, e ambos caíram ao chão. 
+– Pedro, assim não, alguém vai acabar machucado – disse Bruno, recuando de cabeça baixa.
 
-– Pedro, assim não, alguém vai acabar machucado – disse Bruno recuando alguns passos, de cabeça baixa. 
+– Ei – falou Breno, antes de finalmente descarregar o punho na cara do garoto.
 
-– Aí – Breno falou antes de finalmente descarregar o punho na cara do garoto. 
+Pedro Porrada cambaleou e caiu.
 
-Pedro Porrada cambaleou para o lado e caiu ao chão. 
+– Ai, merda! – exclamou Bruno, percebendo que os problemas tinham aumentado.
 
-– Ai merda! – exclamou Bruno percebendo que os problemas tinham aumentado. 
+– Calma, Pedro – disse Bruno, pondo-se entre Breno e Pedro. – Vamos parar por aqui, meu irmão se exaltou.
 
-– Aí Pedro, calma – disse Bruno se pondo entre Breno e Pedro – vamos parar por aqui, meu irmão se exaltou. 
+Pedro não quis saber. Levantou-se e socou Bruno.
 
-O garoto não quis saber, se levantou e socou Bruno. 
+– Esquisitos – cuspiu Pedro. – Vocês são todos esquisitos.
 
-– Lixo de sangue – disse Pedro. Os outros garotos pararam na frente de Bruno e Breno no mesmo instante, enquanto Breno cerrava os punhos. 
+Os outros garotos pararam na frente de Bruno e Breno, enquanto Breno cerrava os punhos.
 
-– Banjo – disse Breno pelo canto da boca – pra floresta com sua irmã. 
+– Banjo – disse Breno pelo canto da boca. – Pra floresta com a sua irmã.
 
-– Pra floresta? – perguntou Banjo. Não tinha como eles voltarem, pois o caminho estava bloqueado por Pedro Porrada e sua gangue. 
+– Pra floresta? – perguntou Banjo. Não havia como voltar, pois o caminho estava bloqueado pela gangue.
 
-– Vai! – disse Breno. 
+– Vai!
 
-Banjo assentiu, e puxou Beatriz para correr em direção à floresta. Pedro não ligou, agora seu foco era nos dois mais velhos. Estava realmente enraivecido, a boca sangrando. 
+Banjo assentiu e puxou Beatriz para correr em direção à mata. Pedro não ligou. Agora o foco eram os dois mais velhos, e ele estava enraivecido, com a boca machucada.
 
-– Vai ser só nós dois então? – perguntou Bruno se levantando do chão ao irmão.
+– Vai ser só nós dois então? – perguntou Bruno, levantando-se do chão.
 
-– Não, corra – Breno disse perto de seu ouvido. 
+– Não. Corra – disse Breno ao seu ouvido.
 
-– Você nos coloca nessa e agora quer correr – perguntou Bruno em voz baixa.
+– Você nos coloca nessa e agora quer correr? – perguntou Bruno, em voz baixa.
 
-– É claro, eles são quatro, anda logo – falou Breno. 
+– É claro. Eles são quatro. Anda logo.
 
-Então ambos se viraram e correram o mais rápido que podiam na mesma direção dos irmãos seguindo pela floresta. 
+Os dois se viraram e correram o mais rápido que puderam, seguindo os irmãos pela floresta.
 
-– VACILÕES – berrou Pedro correndo atrás deles junto aos demais. 
+– VACILÕES! – berrou Pedro, correndo atrás deles com os outros.
 
-O vento estava forte, os garotos enquanto corriam, cobriam seus rostos para que os galhos que passavam não os ferissem. Banjo e Bruno iam a frente, e Breno e a caçula atrás, apertando o passo para entrar na mata. 
+O vento estava forte, e os garotos cobriam os rostos para que os galhos não os ferissem. Banjo e Bruno iam à frente, Breno e a caçula atrás. Beatriz precisou ser ajudada duas vezes por Breno entre os galhos. Quando um dos garotos se aproximou, Bruno pegou uma pedra do chão e arremessou nele.
 
-As árvores dificultavam a locomoção. Beatriz teve de ser ajudada duas vezes por Breno enquanto passavam por entre os galhos. Quando um dos garotos se aproximou deles, Bruno apanhou rapidamente uma pedra ao chão e atirou nele. 
-
-Nenhum deles sabia até onde correriam, nem por quanto mais tempo, por isso o destino tratou de resolver essas dúvidas lhes levando até as margens um rio de águas fortes. 
+Nenhum deles sabia até onde correriam, e o destino resolveu a dúvida levando-os às margens de um rio de águas fortes.
 
 – Eu falei que era furada ir nesse passeio – resmungou Breno.
 
-– Breno, ali – falou Banjo apontando pra uma formação próxima de galhos que por sorte poderiam usar como uma ponte. 
+– Breno, ali – falou Banjo, apontando para uma formação de galhos que poderia servir de ponte.
 
-– Ficou maluco? Não vamos passar por ali – disse Bruno. 
+– Ficou maluco? Não vamos passar por ali – disse Bruno.
 
-Uma movimentação vinda da floresta anunciou a chegada de Pedro e sua gangue, que pararam de correr e começaram a rir. 
+Uma movimentação na floresta anunciou a chegada de Pedro e da gangue, que pararam de correr e começaram a rir.
 
-– Vocês correm, mas foi até bom terem feito isso. Aqui longe de todo mundo, posso espancar vocês sem ninguém nos incomodar. 
+– Vocês correm, mas até foi bom. Aqui longe de todo mundo, posso dar uma lição em vocês sem ninguém atrapalhar.
 
-Breno não soube o que fazer, ele pensou em apanhar algo para bater nos garotos, mas por incrível que pareça, foi Banjo quem tomou uma atitude. 
+Breno pensou em apanhar algo para bater nos garotos, mas, por incrível que pareça, foi Banjo quem tomou uma atitude. Entrou na frente dos irmãos, com as mãos tremendo, e fechou a cara para Pedro.
 
-O garoto entrou na frente dos irmãos e fechou a cara para Pedro e os demais. 
+– Você é um covarde.
 
-– Você é um covarde – disse o garoto. 
+– Banjo, o cara tem duas vezes o seu tamanho. Lembra disso? – sussurrou Beatriz.
 
-– O Banjo, o cara tem duas vezes seu tamanho, se lembra disso – falou Beatriz. 
+– Não, é isso aí, ouçam o meu irmão – disse Bruno. – Vem pra cima, se vocês são os bonzões.
 
-– Não, é isso aí, ouça meu irmão – falou Bruno – vem pra cima se vocês são os bonzões. 
+Breno fez cara feia para ele.
 
-Breno fez cara feia para o irmão. 
+– Chega! – disse Breno, ao perceber que não tinham saída. – Não queremos briga. Vamos voltar, pedimos desculpa por tudo.
 
-– Breno, por que eles estão fazendo isso? Eles sabem que vamos apanhar, não é? – argumentou Beatriz.
+Pedro caminhou a passos curtos até ele e sorriu.
 
-– Chega! – falou Breno ao perceber que não tinham saída – não queremos briga. Vamos voltar, pedimos desculpa por tudo. 
+– Desculpa? Acha que vou desculpar o soco que me deu, vacilão?
 
-Pedro Porrada caminhou a passos curtos até eles e sorriu. 
+Breno ia responder, mas um som assustador veio da mata, um som que eles só tinham escutado em filmes e documentários. Pedro e os outros se viraram para a floresta e recuaram. Antes que pudessem reagir, uma onça grande saltou de cima de uma árvore e pousou entre os irmãos e a gangue. Com o susto, Bruno caiu e sentiu uma dor forte no joelho.
 
-– Desculpa? Acha que vou desculpar o soco que me deu, vacilão? 
+– Eita! – exclamou Pedro, recuando.
 
-Breno iria responder o garoto, mas antes disso, um som assustador veio da mata. Um som que só tinham escutados em filmes e documentários sobre a natureza. Pedro e os outros garotos se viraram para a floresta e recuaram. Antes que pudessem reagir, uma onça grande surgiu saltando de cima de uma árvore e pousou entre os irmãos e a gangue de Pedro Porrada. Com o susto, Bruno caiu ao chão, sentindo uma dor forte no joelho. 
+Os irmãos também se assustaram, mas a gangue estava ainda mais assustada. A onça estava virada para eles, de costas para os irmãos, como se os protegesse.
 
-– Eita! – exclamou Pedro, recuando junto aos demais. Os irmãos também se assustaram, mas com toda certeza a gangue de Pedro estava mais assustada, isso porque a onça estava virada para eles, de costa para os irmãos, como se estivesse protegendo-os. 
+Aproveitando o momento, Breno olhou para a estrutura de galhos sobre o rio e viu que era o único caminho que não passava pela onça nem pelos garotos. Fez sinal com a cabeça, e os irmãos obedeceram.
 
-Os garotos não tinham reação, e foi se aproveitando do momento que Breno olhou para a estrutura acima do rio e viu que era o único caminho que podiam seguir para não passar pela onça nem pelos garotos. Ele então fez com a cabeça para que os irmãos seguissem, e eles assim o fizeram. 
+Bruno foi na frente, equilibrando-se agachado. Banjo foi logo atrás. Breno atravessou segurando a mão de Beatriz, que relutou no começo, com medo, e só foi porque o irmão a convenceu. Ele depois se perguntou se tinha sido uma boa ideia, pois, se alguém tivesse caído, a responsabilidade seria dele, por ser o mais velho.
 
-Bruno foi a frente, se equilibrando agachado para que conseguisse atravessar. Banjo foi logo atrás, e Breno atravessou segurando a mão de Beatriz. A garota relutou em atravessar inicialmente, com medo, mas o irmão a convenceu, o que ele depois se questionou se foi uma boa ideia, pois se algum deles tivesse caído, seria de sua responsabilidade, por ser o mais velho. 
+Do outro lado, viram os garotos recuando da onça e correndo para dentro da mata. O animal urrou para eles e então se virou para os irmãos, como se dissesse: "A barra tá limpa". Eles continuaram correndo até parar para descansar, de novo no meio da mata.
 
-Ao atravessarem para o outro lado, puderam observar os garotos recuando da onça e por fim correndo para dentro da mata. O animal urrou para eles, e então se virou para os garotos como se quisesse dizer, “A barra tá limpa”. Os irmãos continuaram correndo por um período, até que parassem para descansar, mais uma vez no meio da mata. 
+– Já chega! – disse Breno. – Precisamos voltar.
 
-– Já chega! – disse Breno – precisamos voltar. 
+– Voltar pra ser devorado pela onça? – perguntou Bruno.
 
-– Voltar pra ser devorado pela onça? – perguntou Bruno. 
+– Ela não parecia querer nos devorar – disse Banjo. – Ela nem rosnou pra gente.
 
-– Ela não parecia querer nos devorar – disse Banjo – ela nem sequer rosnou para nós. 
+– Ela é um animal selvagem, Banjo, não um pet. Se tivesse chance, te devorava sem hesitar. Talvez demorasse um tempinho pra comer você inteiro, mas ia ser um bom banquete – riu Bruno.
 
-– Ela é um animal selvagem, Banjo, não um pet. Se ela tivesse a oportunidade devoraria você sem hesitar. Talvez ela demoraria um tempinho pra comer você inteiro, mas serias um bom banquete pra ela – riu Bruno. 
+– Você não cansa de ser piadista, não? – perguntou Breno, dando um empurrãozinho nele com a perna.
 
-– Você não cansa de ser piadista não? – perguntou Breno lhe dando um empurrãozinho com a perna. 
+– Droga, minha perna, cara! – resmungou Bruno. O joelho estava ralado e vermelho de ter caído.
 
-– Droga! Minha perna, cara – resmungou Bruno, a perna vermelha latejando na ferida que ganhara ao cair ao chão com o susto. 
+– Bruninho, você tá sangrando! – disse Beatriz.
 
-– Bruninho, você ta sangrando! – disse Beatriz. 
+– Não, é só ketchup – ironizou o garoto. – Mas isso arde demais.
 
-– Não, é só ketchup na minha perna – ironizou o garoto – isso arde demais. 
-
-– Deu vontade de comer um sanduíche com ketchup – choramingou Banjo. 
+– Deu vontade de comer um sanduíche com ketchup – choramingou Banjo.
 
 – Vamos voltar por outro caminho – falou Breno.
 
-– Voltar por onde? Nem sabemos onde estamos? – disse Bruno – Vocês são todos frangos, era para termos ficado lá e brigado com eles. Tirando a Beatriz, nós três tínhamos dado conta deles facilmente. Vamos voltar e dar uma surra naqueles otários. 
+– Voltar por onde? Nem sabemos onde estamos! – disse Bruno. – Vocês são todos frangos. Era pra gente ter ficado lá e brigado com eles. Tirando a Beatriz, nós três dávamos conta deles fácil.
 
-– Ah claro, vamos sim, você com o joelho arrebentado e o Banjo que não consegue se defender sozinho – disse Breno, imediatamente se arrependendo do que falou, ao ver o olhar do irmão. 
+– Ah, claro, vamos sim, você com o joelho ralado e o Banjo que não consegue se defender sozinho – disse Breno, arrependendo-se na mesma hora, ao ver o olhar do irmão.
 
-– Eu consigo me defender sozinho – respondeu Banjo, amarrando a cara para Breno – mas eles eram gigantes. Deviam ser uns dois anos mais velhos do que eu. 
+– Eu consigo me defender sozinho – respondeu Banjo, amarrando a cara. – Mas eles eram gigantes. Deviam ser uns dois anos mais velhos que eu.
 
-– Três – corrigiu-o Bruno – e não interessa, tamanho não é documento, teríamos derrubado eles fácil. Mas o Banjo preferiu correr. 
+– Três – corrigiu Bruno. – E não interessa, tamanho não é documento. Mas o Banjo preferiu correr.
 
 – Se eu não tivesse corrido, você não teria ferrado só o seu joelho...
 
-Antes que pudesse terminar a frase, Banjo pisou em falso e escorregou para dentro de um buraco que ele não havia notado estar ali. O musgo e a umidade ajudaram o garoto a deslizar ainda mais para dentro, até que atingisse o fundo gelado e liso de uma caverna. 
+Antes que ele terminasse, Banjo pisou em falso e escorregou para dentro de um buraco escondido. O musgo e a umidade o ajudaram a deslizar cada vez mais fundo, até atingir o chão gelado e liso de uma caverna.
 
-– BANJO! – gritou Breno correndo para tentar pegá-lo. Junto aos irmãos, ele rapidamente se espreitou pelo buraco e desceu até alcançar o irmão. 
+– BANJO! – gritou Breno, correndo para segurá-lo. Com os irmãos atrás, espreitou pelo buraco e desceu até alcançá-lo.
 
-– Olha só quem resolveu me copiar – disse Bruno ao ver o joelho ralado do irmão – o que estava falando mesmo de ferrar com o joelho? 
+– Olha só quem resolveu me copiar – disse Bruno ao ver o joelho ralado do irmão. – O que você estava falando mesmo de ferrar o joelho?
 
-– Ta tudo bem, Banjo? – perguntou Breno, empurrando Bruno para o lado. 
+– Tá tudo bem, Banjo? – perguntou Breno, empurrando Bruno para o lado.
 
-– Tá, só tá doendo... caramba! – a dor que ele sentia era grande, mas não era capaz de anular a sensação de admiração que ele teve ao olhar para o fundo da caverna. Uma luz forte e azul iluminava vários objetos estranhos ao redor. Havia um tipo de pilar com uma corda o serpenteando, tal como um espelho grande quebrado em forma de cilindro, e alguns objetos com formas diversas que eles não faziam ideia do que eram. Todos espalhados pelo chão ou pelas estranhas mesas de pedras do local. 
+– Tá, só tá doendo... caramba! – A dor era grande, mas não anulava o espanto que ele sentiu ao olhar para o fundo da caverna. Uma luz forte e azul iluminava objetos estranhos: um pilar com uma corda serpenteando, algo como um grande espelho quebrado em forma de cilindro, e outras peças que eles não faziam ideia do que eram, espalhadas pelo chão e pelas mesas de pedra.
 
-– O que é tudo isso? – perguntou Beatriz. 
+– O que é tudo isso? – perguntou Beatriz.
 
-– Isso é coisa dos aliens de Cosmkop – disse Banjo. 
+– Isso é coisa dos aliens de Cosmkop – disse Banjo.
 
-– Acho que isso é muito mais real do que os filmes do Bad Rock, Banjo – disse Breno se levantando e caminhando em direção à luz forte. 
+– Acho que isso é muito mais real que os filmes do Bad Rock, Banjo – disse Breno, levantando-se e caminhando em direção à luz.
 
-– Breninho, não sei se é uma boa entrar aí – disse Beatriz – isso está me assustando. 
+– Breninho, não sei se é uma boa ideia entrar aí – disse Beatriz, agarrando a manga dele. – Isso está me assustando.
 
-Nas paredes haviam estátuas de homens se apoiando e bastões, todos pareciam ter caras de mal. Ao fundo havia uma estátua de uma criatura estranha, grande e larga, com pontas nas extremidades do rosto, tal como olhos bem separados e uma boca tentacular. 
+Nas paredes havia estátuas de homens apoiados em bastões, todos com cara de mau. Ao fundo, uma estátua de uma criatura estranha, grande e larga, com pontas nas extremidades do rosto, olhos muito separados e uma boca tentacular.
 
-– Que lugar é esse? 
+– Que lugar é esse?
 
-– Deve ser um tipo de base secreta – disse Banjo, já de pé – me lembro que antes de cair, não havia nada em baixo de mim. Isso sugere que devia ter algum mato por cima cobrindo a entrada dessa caverna. Alguém deve tê-lo colocado lá para que não entrássemos. 
+– Deve ser uma base secreta – disse Banjo, já de pé. – Antes de cair, não havia nada embaixo de mim. Devia ter mato cobrindo a entrada. Alguém colocou lá pra gente não entrar.
 
-– Fiquem aí – disse Breno – eu vou ver de onde vem toda essa luz. 
+– Fiquem aí – disse Breno. – Vou ver de onde vem essa luz.
 
-Breno caminhou lentamente em direção à luz, mas logo seus irmãos o ultrapassaram, ainda mais curiosos. 
+Breno caminhou devagar, mas os irmãos o ultrapassaram, ainda mais curiosos.
 
-– O que eu disse pra vocês? – resmungou o mais velho. 
+– O que eu disse pra vocês? – resmungou o mais velho.
 
-– Isso parece... – Bruno foi interrompido por Banjo, que se ajoelhou na fonte de toda a luz, e apertou os olhos para que pudesse ver do que se tratava. 
+Banjo se ajoelhou diante da fonte de toda aquela luz e apertou os olhos.
 
-– É uma bolinha. Muito linda! – exclamou o garoto admirado com a beleza da pequena esfera luminosa que repousava em sua frente. A esfera era transparente, mas havia um tipo de metal entre o líquido e o gasoso, se deslocando em um movimento rotatório por dentro dela. E bem de seu núcleo, a luz azulada era emitida intensamente iluminando a todos afora. 
+– É uma bolinha. Muito linda! – exclamou, admirado. A esfera era transparente, e dentro dela um tipo de metal entre o líquido e o gasoso girava em movimento rotatório. Do núcleo vinha uma luz azulada, que iluminava todos eles.
 
-– Está ouvindo isso? – perguntou Beatriz. 
+– Estão ouvindo isso? – perguntou Beatriz.
 
-Realmente um som estranho perturbava os ares. Breno podia ouvi-lo próximo de si. Quando Banjo se aproximou dele, colocou seu ouvido sobre sua mochila e falou: 
+Um som estranho perturbava o ar. Breno também o ouvia, bem perto. Banjo encostou o ouvido na mochila dele e disse:
 
-– Está vindo daí de dentro. Parece... Roxette alguma coisa. O pai adorava... 
+– Está vindo daí de dentro. Parece... Roxette alguma coisa. O pai adorava...
 
-Breno imediatamente removeu a mochila e a abriu, se espantando com o que viu lá dentro. 
+Breno tirou a mochila e a abriu, espantado com o que viu. Dentro dela estava o rádio do pai, ligado, com as luzes acesas, tocando um conhecido hit.
 
-– Está de brincadeira! – exclamou o garoto, retirando de lá de dentro o rádio de seu pai, ligado, com suas luzes acesas tocando um conhecido hit. 
+– Tá de brincadeira! – exclamou.
 
-– Ainda acha que não é tecnologia dos Cosmkops? – perguntou Banjo sorrindo. 
+– Ainda acha que não é tecnologia dos Cosmkops? – perguntou Banjo, sorrindo.
 
-Breno podia notar que do pequeno rádio, no entanto, um tipo de material nem líquido nem gasoso parecia sair e se deslocar lentamente até a pequena esfera. 
+Do rádio, uma espécie de material nem líquido nem gasoso parecia sair e se deslocar devagar até a esfera.
 
-– Acha que podemos pegá-la? – perguntou Bruno. 
+– Acha que podemos pegá-la? – perguntou Bruno.
 
-– Ficou maluco! – disse Breno – nem sabemos o que é isso. Pode ser radioativo. Aliás, é melhor sairmos daqui. Se for radioativo, estamos neste exato momento correndo perigo. 
+– Ficou maluco? Nem sabemos o que é isso. Pode ser radioativo. É melhor sairmos daqui.
 
-– Ela não me parece perigosa – disse Beatriz – é muito bonita. E fez o rádio do papai pegar. 
+– Ela não parece perigosa – disse Beatriz. – É muito bonita. E fez o rádio do papai pegar.
 
-Os olhos de Banjo estavam vidrados no objeto, tal qual ele não conseguia desfocar. 
+Os olhos de Banjo estavam vidrados no objeto.
 
-– Acho que... podemos... pegá-la – disse o garoto estendendo a mão e tocando na esfera. 
+– Acho que... podemos... pegá-la – disse, estendendo a mão para tocar a esfera.
 
-– NÃO ENCOSTE, BANJO – gritou Breno. 
+– NÃO ENCOSTE, BANJO! – gritou Breno.
 
-Mas o garoto já tinha tocado, e tinha causado uma reação à pequena bolinha. Toda luz emitida por ela se esvaiu e deixou-os completamente no escuro. 
+Mas o garoto já tinha tocado. Toda a luz se esvaiu e os deixou no escuro completo.
 
-– Está vendo. Eu disse pra você não tocar. Não sabemos do que se trata – resmungou Breno. 
+– Está vendo? Eu disse pra não tocar – resmungou Breno.
 
-Beatriz e Bruno pensaram em dizer algo, mas antes que pudessem escolher seus lados, a luz voltou, mas dessa vez muito mais forte e intensa. Os garotos sentiram seus pelos arrepiarem enquanto cobriam os rostos com os braços para que não se cegassem. O sentimento que tiveram ali era o de energia percorrendo por seus corpos, mas não uma energia como a de um choque elétrico, e sim um tipo de corrente que lhe trazia força, adrenalina e emoção. 
+Beatriz e Bruno pensaram em dizer algo, mas, antes que escolhessem seus lados, a luz voltou, muito mais forte. Os garotos sentiram os pelos arrepiarem e cobriram os rostos com os braços. Havia uma energia percorrendo seus corpos, mas não era a de um choque elétrico. Era uma corrente que trazia força, adrenalina e emoção.
 
-A última coisa que os garotos se lembravam era de ver em suas frentes um raio forte lhes atingindo e lhes jogando para trás, fazendo-os cair no chão já desacordados. 
-
-
-
-
-
-
+A última coisa de que se lembraram foi de um raio forte vindo na direção deles, que os atingiu e os jogou para trás, desacordados.

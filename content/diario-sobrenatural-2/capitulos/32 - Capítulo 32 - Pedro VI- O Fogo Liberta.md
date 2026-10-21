@@ -329,7 +329,7 @@ Cada um tinha a sua igreja. A dele era a escola do sexto andar. A minha ainda er
 
 A mão me alcançou pelo tornozelo.
 
-Subi de cabeça para baixo, o sangue desceu todo para o rosto, e o teto ficou onde o chão devia estar. O cheiro entrou primeiro: bolo de laranja saindo do forno. Depois o azulejo azul, o mesmo da clareira, frio nas minhas costas. A luz amarela da cozinha. A minha mãe, de costas, virada para o fogão, cantarolando uma música do rádio de que eu não lembrava a letra.
+Subi de cabeça para baixo, o sangue desceu todo para o rosto, e o teto ficou onde o chão devia estar. O cheiro entrou primeiro: bolo de laranja saindo do forno. Depois o azulejo azul, o mesmo da clareira, frio nas minhas costas. A luz amarela da cozinha. A minha mãe, de costas, virada para o fogão, cantarolando uma música do rádio de que eu não lembrava a letra. Na mesa, uma cadeira estava puxada para trás, como se alguém tivesse acabado de levantar. Eu não olhei para ela.
 
 — Mãe? — eu disse.
 

@@ -14,21 +14,23 @@ A atendente do último guichê, atrás de uma grade amarela, confirmou o que eu 
 
 — Então vocês vêm comigo.
 
-— A gente não pode — a Jennifer cortou. Os dois falaram de uma vez só, o Pedro dizendo “o Junior” e ela dizendo “o Vini”, e a palavra de um se sobrepôs à do outro, e o silêncio que veio depois foi pior do que a briga. No banco de plástico da sala de espera havia quarenta centímetros de assento entre o Pedro e mim. Nenhum de nós fez nada para encurtá-los.
+— A gente não pode — a Jennifer disse, e levantou a mão antes que eu respondesse. — O Vini estava no chão, Filipo. E o presídio fica na mesma estrada, antes de Alvorada. Eu não chego ao fim dessa estrada sabendo que passei direto.
 
-— A visão dele era pior — a Jennifer disse, devagar. — Você viu o chão, Pedro. O que eu vi já tinha acontecido.
+Sentamos no banco de plástico da sala de espera, o Pedro numa ponta, eu na outra, com quarenta centímetros de assento entre nós. Nenhum dos dois fez nada para encurtá-los.
 
-— A do Junior também.
+— Então a gente se divide — eu disse. — Eu sigo para Alvorada. Vocês descem no presídio.
 
-— A do Junior tinha os dois vivos, e a sombra ainda vinha vindo. — Ela esfregou o rosto com as duas mãos. — Eu não consigo carregar os dois ao mesmo tempo.
+— Já falei que sozinho tu não vai. — O Pedro olhava o painel de horários, não para mim. — Eu vou contigo. A Jennifer fica com o Vini.
 
-Foi ali, no banco de plástico, que fizemos o que ainda não tínhamos feito: comparar o que o Cara-de-Larva mostrara a cada um. O Pedro tinha visto um garoto magro sentado na cadeira dele, na cozinha da mãe, rindo das piadas dele. A Jennifer tinha visto uma porta aberta num corredor do hospital e ouvido o próprio nome dito por uma voz que ela não quis identificar. Eu tinha visto a Manu em três lugares diferentes, e em nenhum deles ela estava presa. Ninguém disse que aquilo era o ponto onde doía em cada um. Ninguém precisou.
+— Sozinha? — ela perguntou. Não era objeção, era pergunta de quem já sabe a resposta. — Eu vejo o que está atrás de uma porta, Pedro. Alguém precisa abri-la. E eu não sei se aguento em pé até lá.
 
-Foi o Pedro quem cedeu primeiro, olhando o painel de horários.
+O Pedro abriu a boca e fechou. Eu o vi pesar uma coisa contra a outra: a estrada que me esperava, a garota ao lado dele. A mão dele foi ao bolso, ao lugar da bombinha, e voltou vazia. Em nenhum momento disse o nome do Junior. Eu notei, e não perguntei.
 
-— A Priscila — ele disse. — Ela saiu do jantar sozinha, com raiva, sem saber de nada. E a Glenda está solta.
+— Dois lugares, três pessoas — eu disse. — E nenhum dos dois é lugar para ir com menos de dois.
 
-— Ela precisa saber do Vini — a Jennifer concordou, depressa. — Eu não quero a Priscila sozinha hoje. Eu vou ligar.
+— A conta não fecha. — O Pedro esfregou a nuca. — Precisava de mais uma. — Os números do painel não prometiam nada a ninguém. — A Priscila. Ela saiu do jantar sozinha, com raiva, sem saber de nada. E a Glenda está solta.
+
+— Ela precisa saber do Vini — a Jennifer concordou, depressa. — E vai querer ir. Eu não quero a Priscila sozinha hoje. Eu vou ligar.
 
 Ela comprou um cartão de vinte unidades na banca, a única aberta, e foi até o orelhão ao lado dos banheiros. Sabia o número de cor. Disse que só decorava os que importavam, e que eram três. Contei onze toques, sem resposta. Eram sete e cinquenta e oito.
 
@@ -36,7 +38,15 @@ Ela comprou um cartão de vinte unidades na banca, a única aberta, e foi até o
 
 — Ela vai atender quando chegar — a Jennifer respondeu. — Eu espero.
 
-Esperamos. Às oito e vinte o Pedro comprou três pastéis e duas águas, e eu comi o meu em pé, olhando a plataforma, porque sentar significava aceitar que a espera era um lugar. Às nove e dez o ônibus saiu da plataforma doze. Eu estava a sessenta passos dele, com a passagem na cabeça e o dinheiro na mão errada, e não me mexi.
+Esperamos. Às oito e vinte o Pedro comprou três pastéis e duas águas, e eu comi o meu em pé, olhando a plataforma, porque sentar significava aceitar que a espera era um lugar.
+
+Em algum ponto da espera fizemos o que ainda não tínhamos feito: comparar o que o Cara-de-Larva mostrara a cada um. A Jennifer tinha visto uma porta aberta num corredor do hospital e ouvido o próprio nome dito por uma voz que ela não quis identificar. Eu tinha visto a Manu em três lugares diferentes, e em nenhum deles ela estava presa. O Pedro foi o último, e contou olhando o papel do pastel: um garoto magro sentado na cadeira dele, na cozinha da mãe, rindo das piadas dele.
+
+— Nem eram boas — acrescentou, e riu uma vez, sozinho.
+
+Ninguém riu junto. Ele dobrou o papel em quatro, depois em oito, até não dar mais para dobrar, e ficou com o quadradinho na mão.
+
+Às nove e dez o ônibus saiu da plataforma doze. Eu estava a sessenta passos dele, com a passagem na cabeça e o dinheiro na mão errada, e não me mexi.
 
 Eu disse a mim mesmo que era aritmética: sozinho, eu era um garoto de dezessete anos com uma passagem; com a Jennifer, eu tinha alguém que via o que eu não via. Quando o motor do ônibus ligou, a mão dela tinha pousado no meu braço, e pesava quase nada, e eu a senti até o ônibus sumir na saída.
 
