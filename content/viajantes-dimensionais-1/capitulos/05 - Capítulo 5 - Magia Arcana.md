@@ -1,352 +1,299 @@
-Quando o relógio de estrelas surgiu no teto, formando delicadas constelações em forma de números, os irmãos souberam que era hora do jantar. em
 
-Sobre a mesa, uma variedade de pratos incomuns e tentadores aguardava, misturando elementos que pareciam familiares, mas ao mesmo tempo exóticos. Uma tigela de sopa dourada emanava um aroma doce, de mel e especiarias, com pequenas folhas prateadas flutuando suavemente, cintilando na luz. Ao lado, um pão com uma crosta macia e um interior surpreendentemente crocante e levemente picante completava o conjunto. Porém, o destaque da refeição era uma tigela cheia de pequenas frutas coloridas, que Velho-Sábio explicou serem frutos de uma planta especial chamada luzíria, conhecida por despertar "emoções do coração".
+Na primeira noite em Belfex, Breno sonhou com um corredor.
 
-— Cada um experimentem uma fruta — sugeriu ele com um sorriso intrigante. — Vocês podem se surpreender.
+Era de pedra úmida, e o silêncio ali era tão fundo que engolia o som dos próprios passos. No fim havia uma porta alta, entalhada com figuras retorcidas que pareciam sombras presas na madeira. No lugar da maçaneta, uma mão de metal, magra e gelada, segurava um crânio de olhos vazios. O crânio parecia olhar para ele. Atrás da porta, alguma coisa esperava.
 
-Um a um, os irmãos pegaram as pequenas frutas. Banjo foi o primeiro a provar, e ao dar a primeira mordida, seus olhos se arregalaram e ele soltou uma risada quase incontrolável.
+Breno foi se aproximando. O ar ficou pesado, o frio subiu pelas pernas, e de longe, de dentro da própria cabeça, veio um rosnado grave que crescia a cada passo. Ele estendeu a mão para tocar a porta e...
 
-— Isso é... é incrível! — exclamou Banjo, rindo de maneira tão contagiante que seus irmãos quase riram com ele.
+– BRENO! – A voz de Banjo veio de muito perto. – Acorda! O teto tá fazendo número!
 
-Beatriz, ao lado, pegou uma das frutas e a levou cautelosamente à boca. No momento em que a mordiscou, sua expressão mudou rapidamente: ela franziu o rosto e seus olhos faiscaram.
+Breno abriu os olhos, suado, com o coração socando as costelas. Por um segundo, o corredor ainda estava ali. Depois o teto o puxou de volta. As constelações se mexiam devagar e, uma a uma, se juntavam em algarismos de luz: um sete, um zero, e dois pontinhos brilhantes no meio, piscando como o ponteiro de um relógio.
 
-— Por que estou tão... tão irritada? — perguntou Beatriz, com uma voz ligeiramente esquentada, cerrando os punhos. Ela olhou ao redor, como se quisesse encontrar algo para demonstrar sua frustração. Banjo deu risada ao ver a irmã, o que apenas intensificou o olhar irritado dela.
+– É o relógio da casa – disse Banjo, pendurado na beirada da cama. – O Velho-Sábio falou que as estrelas combinam o horário sozinhas. Se você demora pra acordar, elas começam a cantar.
 
-Bruno, em sua vez, revirou os olhos, achando que aquilo tudo era uma bobeira, mas mordeu a fruta. Em instantes, seus ombros pareceram cair, o olhar dele se tornou distante e quase melancólico.
+– Cantar?
 
-— Então... acho que isso é tristeza? — murmurou Bruno, observando os pedaços da fruta como se cada um contasse uma história triste. Ele suspirou, olhando pela janela, perdido em pensamentos. Beatriz, com a raiva ainda pulsante, bufou.
+Como resposta, o teto pigarreou. Era um som pequeno, feito de muitas vozes finas. Breno puxou o cobertor por cima da cabeça, e o teto, ofendido, começou a assoviar.
 
-Por último, Breno experimentou sua fruta. Assim que a provou, uma onda de alegria suave e quase despreocupada o invadiu. Ele soltou um sorriso largo e relaxado, que era incomum em seu rosto geralmente contido.
+A casa do Velho-Sábio acordava como um bicho grande e bonachão. O chão do corredor brilhava como um rio ao sol, e Beatriz e Banjo descobriram, de meia, que dava para deslizar por ele de uma ponta à outra, com um som de sino a cada passo. Na terceira corrida, Beatriz decolou, bateu na parede e caiu sentada, rindo tanto que o chão soltou uma onda de bolhas coloridas. As bolhas subiram até o teto e estouraram em notinhas.
 
-— Acho que nunca me senti assim, tão... feliz sem motivo — comentou Breno, olhando ao redor e suspirando de maneira satisfeita.
+– De novo! – gritaram os dois.
 
-Velho-Sábio observou as reações, tentando conter a risada enquanto via cada um ser tomado por uma emoção diferente.
+No banheiro, o chuveiro cantava uma canção sem letra, desafinada de propósito. Bruno, que tinha jurado detestar tudo ali, foi flagrado de olhos fechados debaixo da água, cantarolando junto, e negou até a morte.
 
-— A luzíria é uma fruta bem peculiar, não é? Cada fruta realmente traz uma emoção específica. Às vezes, é uma boa forma de conhecermos emoções que esquecemos de sentir... ou que precisamos aprender a entender.
+Foi só depois do banho que acharam as roupas, penduradas no guarda-roupa do quarto como se tivessem esperado a noite inteira. Eram coloridas, de tecidos que mudavam de textura conforme a luz e cintilavam em alguns pontos, como se tivessem sido costuradas com poeira de estrela. Banjo ganhou uma túnica azul de mangas compridas demais, de mago de desenho animado. Breno, uma verde-musgo, a mais sóbria da pilha, que mesmo assim brilhava quando ele se mexia. Beatriz se enrolou num casaco com um capuz lilás enorme, que a deixou parecendo uma fada exótica.
 
-Beatriz, ainda afetada pela raiva, olhou para o Velho-Sábio com uma expressão desafiadora.
+– Sério, Beatriz? – zombou Bruno, de capa amarelo-fosforescente nos ombros. – Você parece a mascote de uma loja de brinquedos.
 
-— Pois a próxima emoção que vou querer é calma, porque eu to muito irritada. Me dá mais uma dessas!
+– E você é uma placa de trânsito ambulante – devolveu Beatriz, puxando o capuz até o nariz.
 
-Os irmãos riram juntos, deixando as emoções tomarem conta da refeição e fazendo da experiência algo divertido e um pouco caótico.
+– Uma placa de trânsito estilosa.
 
-Logo após começarem a comer, Velho-Sábio olhou para eles com um sorriso leve, quase casual, e perguntou:
+– Uma placa que vai ser atropelada por um dassi!
 
-— Vocês se importariam se eu cantasse algo para vocês?
+Os dois se olharam, tentaram manter a cara séria por mais um segundo e desabaram na cama, rindo. Bruno ainda levou um travesseiro na cara. Breno balançou a cabeça. Fazia muito tempo que não via os dois rirem juntos.
 
-Bruno tentou segurar o riso, lançando um olhar cético para os irmãos, mas antes que pudesse fazer um comentário, Breno interveio com um aceno afirmativo.
+Lá embaixo, a cozinha já cheirava a pão quente. O pão, aliás, subia sozinho no forno e, quando ficou pronto, pulou pela portinha e pousou no cesto da mesa, ainda fumegando, como quem faz uma reverência. Havia também um líquido esverdeado, com grãos roxos e crocantes boiando dentro, que parecia luz derretida (suco de esmeralda-doce, segundo Velho-Sábio), e frutas chamadas fresnos, de polpa doce e cítrica ao mesmo tempo.
 
-— Claro que não. Seria… interessante — disse ele, lançando um olhar tranquilizador a Bruno, que revirou os olhos, mas manteve o silêncio.
+O Velho-Sábio tomava chá na ponta da mesa, lendo um jornal preso num gancho. A manchete mudava toda vez que ele piscava.
 
-Velho-Sábio fechou os olhos por um breve instante, e então começou a entoar uma melodia profunda e suave. No mesmo instante, a sala pareceu mudar, as luzes diminuíram gradualmente até que uma penumbra confortável envolvesse o espaço. Restava apenas uma luz suave, que parecia emanar de algum ponto oculto e misterioso, iluminando apenas o rosto de Velho-Sábio com um brilho etéreo, como se ele estivesse envolto em uma névoa prateada.
+– "Gato de Tayo ensina três filhotes a voar" – leu ele. Piscou. – "Previsão do humor: nuvens animadas até o fim da tarde." – Piscou de novo. – "Pêndulo sobe meio ponto." Hum.
 
-Sua voz, firme e rica, fluiu como o murmúrio de um rio calmo, carregando nas palavras uma cadência antiga e mágica:
+– Previsão do humor? – perguntou Beatriz.
 
-"Lá no fundo das sombras, há um fogo a brilhar,
-Pequeno e escondido, mas pronto pra lutar.
-É chama que arde em segredo, uma força interior,
-Que cresce em silêncio, mas revela o amor."
+– Aqui o tempo depende do humor das nuvens. – Ele apontou a janela, onde uma nuvem gorducha passou rolando e soltou uma risadinha. – Hoje elas acordaram bem. Não vai chover antes do jantar.
 
-"Nas escolhas que fazemos, há poder em ação,
-Como o vento que sussurra, guiando a direção.
-O mundo é repleto de trevas e luzes a dançar,
-Mas a maior de todas mora em quem se arriscar."
+– E o sol? – perguntou Beatriz, e algo na voz dela fez Breno levantar os olhos. – Na minha casa ele vive se escondendo.
 
-"A força não é dos músculos, mas de um coração
-Que encontra nas trevas a sua razão.
-E quando o sol se esconde, e tudo é solidão,
-É a luz que carregas que te ergue do chão."
+– Aqui ele só se esconde quando quer parecer misterioso. – Velho-Sábio piscou para ela. – Come, Beatriz.
 
- À medida que ele cantava, a melodia parecia deslizar ao redor deles, como uma brisa suave que carregava uma sensação de conforto e calor. Breno sentiu os ombros relaxarem; Beatriz fechou os olhos, sorrindo levemente, enquanto Banjo se apoiava na mesa, completamente imerso na canção. Até Bruno, que começou o jantar com sarcasmo, agora ouvia em silêncio, os olhos fixos na figura do velho, como se cada palavra o tocasse de alguma forma.
+Ela comeu. E, pela primeira vez em dias, o prato ficou vazio.
 
-Quando a música cessou, o mundo pareceu cair em uma espécie de silêncio profundo. Era como se uma parte da paz que haviam sentido fosse deixada para trás na canção, e uma leve nostalgia preencheu o ar.
+Sob a mesa, algo pesado e quente se encostou nas pernas de Banjo. Era o Coronel, com a cabeça enorme apoiada no joelho dele e os olhos cansados e sábios fixos na fruta. Banjo dividiu um fresno com ele, e o cachorro mastigou devagar, como quem aprecia. Um minuto depois, voltou arrastando uma meia azul no focinho e a depositou no colo de Banjo, como quem devolve um documento extraviado.
 
-Velho-Sábio então sorriu e, após um breve momento, quebrou o silêncio.
+– Era a que eu tinha perdido! – Banjo abraçou o pescoço do cão. – Como você sabia?
 
-— A magia, meus jovens, é um dom raro e maravilhoso. Mas é também algo que requer uma responsabilidade enorme. O poder que vocês possuem é algo precioso, mas pode ser perigoso, e deve sempre ser tratado com respeito.
+O Coronel bufou, satisfeito, e se deitou em cima dos pés dele.
 
-Os irmãos ouviram com atenção, ainda embalados pelo efeito da canção. Velho-Sábio continuou:
+Na sala, a tela grande se acendeu devagar.
 
-— A magia, para os senavelitas, é uma força que chamamos de M.A., ou Magia Absoluta. Cada uso dela representa uma manifestação única. Podem ser magias de força, elementares, psíquicas, de proteção ou de transformação. É importante que, ao usarem, vocês controlem essa magia… e não deixem que ela os controle.
+– Bom dia, Beatriz. Bom dia, Banjo. Que a luz encontre vocês – disse a voz de Kali, suave e melodiosa.
 
-Beatriz olhou para o velho com um brilho nos olhos.
+– Que a luz o quê? – perguntou Bruno, de boca cheia.
 
-— Como assim… controlar a magia?
+– É o cumprimento daqui – explicou Velho-Sábio. – Vem de muito antes de mim.
 
-— Ah, Beatriz… isso é algo que vocês aprenderão com o tempo. — Ele sorriu com ternura. — Controlar a magia, significa possuir um potencial mágico interior positivo. Abreviamos o potencial mágico interior para P.I. Todos os senavelitas possuem um P.I. A maioria dos senavelitas tem um P.I. entre 0,2 e 0,3, o que é considerado normal. Isso para pessoas que controlam sua magia. Aos que não a controlam, seu P.I. pode se tornar negativo. 
+– Bom dia pra você também, Kali! – respondeu Beatriz, e fez uma pequena reverência para a tela.
 
-Bruno olhou para ele, curioso.
+Bruno não resistiu.
 
-— E o que acontece se alguém tem… um P.I. negativo?
+– E aí, Kali, você já contou pra minha irmã que ela tá parecendo uma "borboleta excêntrica" com esse capuz? Alguém tem que dar a notícia.
 
-Velho-Sábio suspirou, um olhar sombrio cruzando seu rosto.
+– Posso preparar uma análise detalhada de cores, estilos e harmonias, se for útil – respondeu Kali. – Mas tenho certeza de que ela está muito confiante no próprio gosto. Já você, Bruno, escolheu amarelo-fosforescente. Uma escolha ousada, ou um pedido de ajuda.
 
-— Ele entra no domínio da magia negra, um poder que pode caso não seja controlado devidamente, pode corromper o corpo e a alma. Quando o P.I. atinge -1, a magia começa a controlar o mago, e não o contrário. É um caminho traiçoeiro e, muitas vezes, sem retorno.
+Banjo engasgou de tanto rir. Beatriz bateu palmas.
 
-Banjo, ainda fascinado, se inclinou para frente, como se cada palavra do Velho-Sábio fosse uma chave para abrir portas invisíveis.
+– Esperta, a senhora – bufou Bruno. – Igualzinha ao comentário esperto de ontem à noite.
 
-— Então, o segredo é… não deixar a magia nos controlar, certo?
+– Eu avisei que ficaria de olho. Estou apenas cumprindo a promessa.
 
-Velho-Sábio assentiu com um sorriso afetuoso.
+– Você não sente nada com essas gracinhas? – perguntou Bruno, cruzando os braços. – Nem um pouquinho de vergonha?
 
-— Exatamente, Banjo. A força da magia vem de dentro, e o controle sobre ela começa com o controle sobre si mesmo.
+A tela ficou parada por um instante, e Bruno achou que tivesse ganho.
 
-Os irmãos trocaram olhares. Era como se tivessem entendido um pouco mais sobre o mundo e sobre si mesmos. Breno, ainda pensativo, fitou o velho e assentiu em silêncio, uma nova determinação crescendo dentro dele.
+– Eu conheço três mil e duzentas palavras para o que você está sentindo agora, Bruno – disse Kali, baixinho, sem nenhuma provocação. – Ainda não sei quanto cada uma delas pesa.
 
-Na quietude da madrugada, Breno encontrava-se preso em um sonho estranho. Estava em um corredor escuro e cavernoso, com paredes de pedra áspera e úmida, que pareciam absorver qualquer som, até mesmo o ruído de seus próprios passos. Lá, no fundo do corredor, uma porta macabra o aguardava, alta e robusta, entalhada com figuras distorcidas que mais pareciam sombras eternamente presas na madeira. A porta tinha uma textura antiga e escura, e, onde deveria haver uma maçaneta, existia uma mão metálica, gélida e esquelética, que segurava algo semelhante a um crânio com olhos vazios, fixos. O crânio parecia "observar" Breno, a despeito de seus olhos ocos e sombrios, e ele sentia como se algo estivesse esperando… pronto para atacar.
+Bruno abriu a boca, mas não encontrou resposta. Olhou para a tela, depois para os irmãos, e fingiu que precisava urgentemente de mais pão.
 
-Breno se aproximou lentamente, sentindo o ar ao seu redor ficar mais pesado, o som distante de um rosnado baixo e profundo o fez estremecer. Quando estendeu a mão para tocar a porta, o rosnado intensificou-se, uma ameaça crescente que parecia rugir dentro de sua cabeça.
+O Velho-Sábio ajustou o manto e olhou para os quatro com um ar de mistério.
 
-Num sobressalto, ele despertou, suado e ofegante, apenas para ouvir a familiar voz de Bruno num tom sarcástico:
+– Hoje vocês vão conhecer o Edifício Arcano. É onde se treina a magia em Tayo. Se precisarem escovar os dentes ou arrumar a roupa "apropriada", agora é a hora. O dassi sai daqui a pouco.
 
-— Ah, claro que você acha isso bonito, Bia! Vai ver, em Tayo todo mundo fica andando por aí parecendo um passarinho deslumbrado.
+Os irmãos correram escada acima. Ouviram-se pés, risadas, uma porta batendo e, claro, o Coronel latindo em algum lugar entre os degraus.
 
-— E daí? — rebateu Beatriz, com as bochechas coradas. — Pelo menos eu tenho bom gosto, não igual a você, que parece uma banana fluorescente.
 
-Banjo, que havia entrado no quarto, riu enquanto Breno recuperava o fôlego, balançando a cabeça ao ver os irmãos já engajados em uma típica briga matinal.
+O dassi esperava na porta, flutuando a um palmo do chão com uma suavidade quase elegante. Antes de entrar, Velho-Sábio deixou cair numa fenda do casco um pêndulo, a moeda de Tayo, vermelha e furada no meio. A moeda tilintou e o dassi estremeceu de satisfação.
 
-— Velho-Sábio deixou roupas novas pra gente — explicou Banjo com empolgação. — Disse que são as vestimentas de Tayo, super estilosas e... "tradicionais", seja lá o que isso signifique.
+– O furo é para a sorte passar – explicou ele. – Entrem.
 
-Quando Breno se levantou, ainda com o sonho perturbador ecoando em sua mente, seus olhos encontraram os trajes pendurados no guarda-roupa. As roupas eram coloridas, com tecidos que variavam em texturas e até cintilavam em alguns pontos. Cada peça parecia única, combinando tons de verde, azul, amarelo e laranja em padrões que ele jamais havia visto. Beatriz se enrolava em um casaco com um enorme capuz lilás que a deixava parecendo uma fada exótica.
+A porta se derreteu e se moldou ao redor deles. O dassi disparou, fez uma curva fechada e mergulhou por caminhos suspensos, e os irmãos foram grudados nas plataformas, entre o susto e o deslumbramento. Na descida mais brusca, Bruno gritou:
 
-— Sério, Beatriz? — zombou Bruno, segurando uma capa brilhante de um amarelo fosforescente que cobria seus ombros. — Você está parecendo a mascote da loja de brinquedos.
+– Se a gente sobreviver a isso, qualquer treino vai parecer moleza!
 
-— E você, uma placa de trânsito ambulante — retrucou Beatriz, puxando o capuz mais para o rosto, enquanto os irmãos riam.
+Quando enfim o dassi estabilizou, Tayo se abriu embaixo deles como uma gaveta de brinquedos. Havia pontes que mudavam de cor ao serem atravessadas, telhados com jardins de cabeça para baixo, uma torre de relógio que dava as horas em notas musicais diferentes. Beatriz colou o nariz no vidro. Banjo contou doze tipos de criatura voando e desistiu no décimo terceiro. Até Bruno, que jurara não se impressionar, ficou calado.
 
-Logo, desceram para o café da manhã, onde Velho-Sábio havia deixado uma seleção de pratos que pareciam tão exóticos quanto as roupas. Havia um tipo de grão roxo crocante dentro de um líquido esverdeado que mais parecia um suco de luz líquida (segundo Velho-Sábio, era suco de esmeralda-doce), e frutas suculentas chamadas de fresnos, cuja polpa tinha um sabor doce e cítrico ao mesmo tempo.
+Quando o dassi pousou, eles estavam numa rua larga e barulhenta. O ar tinha cheiro de especiarias, frutas e metal quente das oficinas. Vendedores em bancas flutuantes anunciavam ofertas aos gritos, crianças corriam entre os passantes, e as risadas se misturavam ao tique-taque das engrenagens mágicas das lojas. Havia gente em capas, mantos e chapéus altíssimos, com penduricalhos que tilintavam a cada passo.
 
-Banjo, entre uma mordida e outra, dividiu um pedaço de sua fruta com Coronel, o que se aproximou, abanando a cauda preguiçosamente. Banjo passou a mão na cabeça dele, sussurrando carinhosamente:
+– Olha aquele ali! – cochichou Banjo, puxando a manga de Bruno. Numa banca de chapéus, dentro de uma cartola virada, dormia um bichinho de pelo fofo e orelhas enormes, que se mexiam sozinhas, como se ouvissem um sonho.
 
-— Bom garoto, Coronel. Isso é pra você!
+– Parece um rato com orelha de coelho – disse Bruno.
 
-Enquanto isso, Beatriz, animada, acenou para a grande tela de Kali na sala.
+– É a coisa mais fofa que eu já vi.
 
-— Bom dia, Kali!
+– Não é um rato, não é um coelho – corrigiu Beatriz, curvando-se para olhar. – É... uma coisa fofa.
 
-A voz suave e melódica de Kali respondeu com a mesma gentileza:
+Nenhum dos três soube o nome daquilo. O bichinho abriu um olho, fez um barulhinho que parecia um chilreio, e voltou a dormir. Banjo teve que ser puxado pela capa para seguir os irmãos.
 
-— Bom dia, Beatriz. Espero que esteja aproveitando sua manhã ao máximo.
+À frente deles, o Edifício Arcano se erguia largo e brilhante, de paredes espelhadas que refletiam a cidade inteira, de cabeça para baixo.
 
-Bruno não resistiu à chance de provocar.
+– Bem-vindos – anunciou Velho-Sábio, com um gesto teatral. – Cada andar é dedicado a um tipo de treino. Vocês vão aprender a controlar seus dons e, mais importante, a entender o que eles dizem sobre vocês.
 
-— E aí, Kali, você já falou para a minha irmã sobre como ela fica parecendo uma… hã… “borboleta excêntrica” nessas roupas novas? Acho que alguém tem que dar o toque.
+O saguão tinha um teto abobadado que cintilava em azul e dourado, com luzes do tamanho de cometas orbitando devagar. Um balcão flutuava no centro, e em volta dele atendentes trabalhavam em telas de vidro que mudavam de forma o tempo todo. A multidão era uma festa de roupas. Um mago de chapéu comprido, cheio de penduricalhos, passou tão perto de Bruno que ele deu um passo para o lado.
 
-Kali manteve o tom neutro, sem qualquer sinal de irritação.
+– Isso aqui é o desfile de moda mais bizarro do universo – bufou.
 
-— Posso compartilhar com Beatriz uma análise detalhada sobre estilos, cores e harmonias, se isso for útil. Mas tenho certeza de que ela está muito confiante em seu bom gosto, Bruno.
+– Pelo menos aqui ninguém vai rir das minhas roupas – disse Beatriz, com o capuz lilás já na cabeça. – Exceto você.
 
-Bruno cruzou os braços, frustrado.
+Breno sorriu de canto, relaxando pela primeira vez desde que chegaram.
 
-— Sei muito bem como você se comporta, Kali. Tão formal agora, mas não esqueci daquele “comentário” esperto sobre mim ontem à noite. 
+Velho-Sábio os levou a uma atendente alta, de cabelos prateados presos num coque elaborado e pele dourada. Usava um manto branco com bordados azul-claros que cintilavam, e dos brincos pendiam pequenas luzes que dançavam quando ela se mexia.
 
-— Peço desculpas se talvez você tenha interpretado algo de forma inesperada, Bruno. Às vezes, as entonações são refletidas de acordo com o estado emocional dea quem ouve.
+– Auream, que prazer vê-lo – disse ela, com uma voz que parecia um sopro. – E estes são os novos?
 
-Os irmãos trocaram olhares céticos, e Beatriz arqueou uma sobrancelha, rindo.
+– São eles. Meus aprendizes, vindos da terceira dimensão. Breno, Bruno, Banjo e Beatriz.
 
-— Bruno, você está discutindo com uma IA? Isso vindo de alguém que riu da gente por “conversar com uma tela”!
+A atendente tocou algumas formas brilhantes no ar, e uma superfície espelhada se acendeu à frente dela.
 
-Banjo completou, dando risada.
+– Preciso confirmar o teste de Erla. Um de cada vez, a mão aqui.
 
-— Imagina só se ele começar a sonhar com Kali respondendo. Ele vai jurar que essa tela é uma assombração!
+Breno foi primeiro. Assim que a palma tocou o espelho, uma vibração grave subiu pelo braço e se espalhou pelo peito, um zumbido de trem passando muito longe, que ele sentiu nos dentes. A superfície ficou verde e estremeceu.
 
-Bruno lançou um olhar feroz para a tela, cerrando os dentes enquanto Kali permanecia impassível, com sua calma programada.
+Bruno encostou a mão com ar de enfado. Um tilintar cristalino soou, como um sino de gelo, e o espelho se cobriu de uma geada fina, desenhada em forma de pena. Bruno olhou para a própria mão, de olhos arregalados, e fingiu naturalidade.
 
-— Talvez, Bruno — respondeu Kali, sua voz neutra — o que ouviu foi apenas o reflexo de algo que você projetou. Sou programada para responder sempre com o máximo de gentileza. Claro que é assim que todos me percebem… dependendo do que esperam de mim.
+Beatriz foi a seguinte. Houve um estalo, como o de uma brasa se partindo, e a superfície ficou alaranjada. A atendente deu um passo para trás e abanou o ar. Cheirava a pão queimado.
 
-Bruno a olhou desconfiado, e logo desviou o olhar, irritado.
+– Foi sem querer! – disse Beatriz, vermelha.
 
-Nesse momento, Velho-Sábio entrou na sala, com um sorriso brincando nos lábios, como se já soubesse da provocação que ocorria entre eles.
+– Nunca é sem querer – respondeu a mulher, sorrindo. – É a sua assinatura.
 
-— Vejo que estão aproveitando a companhia da Kali. Mas vamos ao que interessa, sim? — disse, ajustando o manto enquanto olhava para os irmãos. — Hoje temos um compromisso especial, se estiverem prontos.
+Banjo foi o último. Quando a mão dele pousou, o que veio foi um sussurro: muita gente falando baixinho ao mesmo tempo, num idioma que ele quase entendia. O espelho se encheu de folhinhas verdes que se mexiam, como se um vento passasse. Banjo prendeu a respiração.
 
-Os quatro irmãos pararam, a atenção voltada para o mago.
+– Todos aprovados – disse a atendente. – Cada magia tem o seu som, sabiam? Quem aprende a ouvir reconhece o dono de olhos fechados.
 
-— O Edifício Arcano. Nosso campo de treinamento mágico — continuou ele, com um ar de mistério. — É um lugar onde vão aprender sobre a verdadeira força de suas habilidades, e onde vão descobrir muito sobre si mesmos. Vamos pegar um dassi, então se precisarem se arrumar, escovar os dentes ou colocar uma roupa mais “apropriada”, agora é o momento!
+Banjo olhou para os irmãos. Parecia que alguém tinha acabado de lhe contar um segredo. Bruno ainda esfregava a mão, Beatriz tentava abanar o cheiro de pão queimado e Breno olhava para a própria palma como se ela pudesse falar.
 
-Os irmãos trocaram olhares ansiosos e correram para se preparar, deixando Bruno para trás por um momento. Ele lançou um último olhar para a tela, balançando a cabeça antes de seguir os irmãos, pronto para o próximo desafio. 
+Pegaram um corredor de paredes escuras e portas douradas, de onde vinham estalos baixos e contínuos, como se pequenas explosões estivessem sendo guardadas ali dentro. O elevador não tinha botões. Subiu sozinho, silencioso, numa luz de faixas que corriam pelas paredes, e quando as portas se abriram, mostrou um salão claro e vibrante, cheio de jovens.
 
-O grupo saiu para a rua, onde um novo dassi os aguardava, flutuando na entrada com uma suavidade quase elegante. Ao embarcarem, o dassi logo disparou pela cidade, acelerando cada vez mais rápido, até fazer uma curva fechada e mergulhar por caminhos suspensos, deixando os irmãos espremidos contra os assentos, com as expressões divididas entre admiração e um toque de desespero.
+– Estes são os outros aprendizes – disse Velho-Sábio. – Alguns vieram de outras dimensões. Outros são filhos de senavelitas daqui. Eu volto mais tarde. Enturmem-se.
 
-— Se a gente sobreviver a essas voltas de dassi — disse Bruno, tentando manter o tom casual — qualquer treino vai parecer fácil.
+E se afastou, deixando os quatro diante de uma plateia curiosa.
 
-Beatriz revirou os olhos, rindo, enquanto Banjo apenas segurava as laterais do assento, ainda maravilhado com a vista da cidade que se estendia ao redor deles. Quando finalmente pararam, estavam diante de um prédio largo, com paredes espelhadas que refletiam a grandiosidade de Tayo. 
+Um garoto de cabelos cacheados e óculos grandes demais se aproximou, tropeçando um pouquinho.
 
-O cheiro doce de especiarias e frutas frescas flutuava pelo ar, misturado com o aroma mais denso de óleo e metal das oficinas que se espalhavam pelas ruas. Vendedores em bancas flutuantes gritavam ofertas, enquanto crianças corriam por entre os transeuntes, suas risadas se misturando com o som das engrenagens mágicas das lojas ao redor. Aquilo tudo deixava os irmãos encantados. Era como estar num dos parques da Disney, mas ao invés de ser apenas uma visita, os irmãos morariam nele.
+– Oi! Vocês são os novos, né? Eu sou o Emiris. Vocês são dimensais?
 
-Velho-Sábio os guiou até a entrada.
+– Dimensais? – perguntou Beatriz.
 
-— Bem-vindos ao Edifício Arcano! — anunciou ele, com um gesto dramático. — Cada andar aqui é dedicado a um tipo de treinamento. Vocês vão aprender a controlar suas habilidades e, mais importante, a entender seu potencial mágico.
+– Vieram de outra dimensão. Tem bastante gente de lá aqui. O meu bisavô veio da terceira, aliás. Quase todo mundo em Belfex tem um parente de lá, se procurar bem.
 
-Os irmãos trocaram olhares animados e nervosos enquanto Velho-Sábio os guiava para dentro. 
+Banjo e Beatriz trocaram um olhar. Era como descobrir que o mundo inteiro era uma grande casa de primos distantes.
 
-Quando os irmãos entraram no saguão principal, foram recebidos por uma visão que era ao mesmo tempo elegante e excêntrica. O espaço era enorme, com um teto abobadado que cintilava em tons de azul e dourado, com luzes flutuantes que pareciam pequenos cometas orbitando o ambiente. No centro da sala, um balcão flutuava, e ao redor havia várias atendentes, cada uma em uma estação de trabalho própria, com telas holográficas suspensas que alternavam entre informações brilhantes e formas geométricas mágicas.
+Uma garota de capuz com estampa de estrelas aproximou-se com um sorriso aberto.
 
-Pessoas de todas as idades e com uma infinidade de trajes coloridos passavam ao redor. Alguns usavam longos mantos, outros casacos, e muitos ostentavam acessórios extravagantes — desde chapéus imensos e de formas esquisitas até faixas luminosas enroladas pelo corpo.
+– Eu sou a Eshley! De Neredis. Vocês já ouviram falar do dromodur? É uma criatura feita de sombra que rouba a voz de quem mente.
 
-— Esse lugar é tipo o desfile de moda mais bizarro do universo — bufou Bruno ao ver um mago de chapéu comprido e cheio de penduricalhos coloridos passar ao seu lado.
+– A gente ainda não viu nenhum – respondeu Banjo, empolgado.
 
-Beatriz, com os olhos brilhando e admirando cada detalhe ao redor, deu uma risada.
+– Se depender do meu irmão, ele leva um pra casa – disse Bruno.
 
-— Bom, pelo menos aqui ninguém vai rir das minhas roupas... exceto você, Bruno.
+Ao lado dela, uma garota de olhos grandes e cabelo liso, tímida, acenou com a mão.
 
-Breno deu um pequeno sorriso, relaxando pela primeira vez em meio a toda aquela confusão.
+– Essa é minha melhor amiga, a Maria – disse Eshley.
 
-Velho-Sábio os conduziu até uma das atendentes, uma mulher alta e esguia com cabelos prateados presos em um coque elaborado, contrastando com sua pele dourada. Ela usava um manto branco com detalhes bordados em azul-claro que cintilavam suavemente. Seus olhos eram de um verde intenso e brilhavam com uma leveza curiosa. Nas orelhas, pequenos pingentes luminosos dançavam levemente, acompanhando seus movimentos graciosos.
+– O-oi – disse Maria, baixinho. Usava um colar parecido com o de Eshley, com um pingente de cristal verde em forma de gota, que pulsava com uma luz fraca. – Eu trouxe da terceira dimensão. Pra dar a alguém que quisesse ser minha amiga aqui. – Os olhos dela encontraram os de Beatriz. – Eu não tinha muitos amigos lá.
 
-Ela sorriu ao ver o grupo se aproximar, inclinando-se um pouco em direção a Velho-Sábio.
+– Ele é lindo! – disse Beatriz, e Maria sorriu de orelha a orelha.
 
-— Auream, é um prazer vê-lo novamente — disse ela com uma voz suave, que parecia um sopro gentil. — E estes são... os novos?
+Foi aí que dois garotos mais altos se aproximaram, com sorrisos enviesados.
 
-Velho-Sábio fez um gesto apresentando os irmãos.
+– Dimensais novos, hein? – disse um deles. – Vamos ver quanto tempo vocês duram.
 
-— Sim, são eles. Meus novos aprendizes, vindos da terceira dimensão. Este é Breno, e aqui estão Bruno, Banjo e Beatriz. 
+– Pare de bancar o durão, Erick – cortou uma garota de rabo de cavalo e cachos, rindo. – Ele e o Nicolas apanharam do Ferris no último treino. Eu sou a Shirley. Não liguem pra eles.
 
-A atendente deu um aceno cordial para cada um, examinando-os com um olhar cuidadoso e simpático. Então, virou-se para uma tela holográfica à sua frente e tocou algumas das formas brilhantes que flutuavam no ar, fazendo a superfície espelhada à sua frente ganhar forma.
+Os gêmeos fecharam a cara e se afastaram. Bruno os acompanhou com os olhos.
 
-— Muito bem — disse ela, enquanto a tela flutuante passava para um tom prateado com brilhos pulsantes. — Preciso verificar se todos realmente passaram pelo teste de Erla. Basta que cada um de vocês encoste a mão aqui, um de cada vez.
+Mais ao fundo, uma garota de postura elegante observava tudo, sozinha.
 
-Os irmãos, ainda com um pouco de hesitação, fizeram fila. Breno foi o primeiro a encostar a mão na superfície, e o espelho brilhou por alguns segundos antes de mostrar um símbolo verde flutuante. Em seguida, Bruno encostou a mão e, com uma leve impaciência, observou o brilho prateado que indicava o sucesso no teste. Banjo e Beatriz completaram o processo, ambos com olhares de fascinação, especialmente Banjo, que estava maravilhado com o espelho brilhante e a tecnologia mágica.
+– Quem é aquela? – perguntou Bruno, tentando parecer desinteressado.
 
-— Ótimo, todos aprovados. — A atendente sorriu e gesticulou em direção a um corredor amplo que se estendia para o fundo da sala. — O elevador os aguardará ao final do corredor. Sigam para o próximo andar, onde o treinamento será organizado.
+– A Brenda – cochichou Eshley. – O Cachorro disse que ela é meio metida.
 
-Os irmãos seguiram pelo corredor indicado, observando o que havia ao redor. Paredes de um metal escuro e reluzente formavam o espaço, intercaladas por portas douradas que levavam a salas de aparência misteriosa, algumas das quais emitiam sons baixos e contínuos, como se pequenas explosões de energia estivessem sendo contidas ali dentro. Eles passavam por outros corredores que pareciam conduzir a alas ainda mais profundas do prédio, e pelo som dos passos e murmúrios distantes, era evidente que muitas atividades e treinamentos aconteciam simultaneamente ali.
+– O Cachorro? Você conversa com cachorro?
 
-Ao final do corredor, um elevador de paredes espelhadas e sem botões esperava por eles. Assim que entraram, as portas se fecharam silenciosamente, e em um instante estavam subindo para o andar indicado. O elevador era surpreendentemente espaçoso e adornado com pequenas faixas de luz que corriam pelas paredes, dando a impressão de um espaço flutuante e leve.
+– É um aprendiz – riu Eshley. – Você vai conhecer.
 
-Quando as portas se abriram, eles foram recebidos por um salão iluminado e vibrante, onde vários jovens já estavam reunidos, falando entre si e examinando o ambiente. Velho-Sábio indicou para que se aproximassem do grupo, apontando especialmente para um grupo de jovens mais afastados, que pareciam observá-los com curiosidade.
+Passos firmes ecoaram pelo salão. A porta principal se abriu e um homem alto, de manto com detalhes dourados, entrou. Os murmúrios morreram.
 
-— Estes são os outros aprendizes — disse Velho-Sábio, parando diante do grupo que já estava reunido e os observava com uma curiosidade contida. — Alguns, como vocês, vieram de outras dimensões, e outros são filhos de senavelitas daqui, que também farão os desafios. Por ora, vou deixá-los para resolver algumas questões burocráticas. Aproveitem para se enturmar e conhecer o espaço.
+– Garmand – sussurrou alguém.
 
-Com um aceno tranquilo, ele se afastou, deixando os irmãos diante do grupo, que agora os observava de maneira ainda mais atenta.
+– Bem-vindos, dimensais e não dimensais – disse ele, olhando todos de cima, mas com um sorriso formal. – Esta semana, eu os guio nos primeiros passos. Seus tutores os preparam para três desafios. Quem passar nos três, entre os dimensais, poderá permanecer em Belfex. Quem vencer entre todos, prova ser um senavelita de verdade.
 
-Beatriz, sempre animada, foi a primeira a sorrir para os outros e dar um tímido “oi,” enquanto Breno, mais reservado, tentava avaliar o ambiente e as pessoas ao redor. Bruno cruzou os braços, analisando o grupo de canto de olho, e Banjo, com um olhar que misturava curiosidade e fascínio, já estava pronto para puxar conversa.
+Um segundo homem entrou no salão. Era alto e magro, de barba curta, queixo pontudo e manto preto cheio de correntes de prata penduradas nas mangas. Os olhos eram frios e pareciam medir cada pessoa.
 
-Um garoto de cabelos cacheados, com óculos grandes que quase caíam do nariz, se aproximou sorrindo. Ele parecia ter uns doze anos e exibia um entusiasmo um tanto desajeitado.
+– O primeiro mentor que apresento é William McCroys.
 
-— Oi, vocês são novos por aqui, né? Eu me chamo Emiris. Vocês são dimensais, não é?
+Os gêmeos se alinharam ao lado dele, e Bruno se inclinou para Emiris.
 
-— Dimensais? — Beatriz perguntou. 
+– Esse cara parece o Jafar.
 
-— Virem de outra dimensão? — perguntou Emiris. 
+– Quem? – perguntou Emiris, confuso.
 
-Banjo assentiu animadamente.
+Bruno suspirou. Tinha esquecido de que estava em outra dimensão. Mas o olhar de McCroys tinha cruzado com o dele, e o homem inclinou a cabeça num aceno quase imperceptível. Bruno sentiu um arrepio.
 
-— Isso mesmo! Viemos de… bem, do que vocês chamam de “terceira dimensão,” eu acho. E você? Veio daqui mesmo?
+– Esses caras me parecem problema – murmurou para os irmãos.
 
-Emiris deu de ombros.
+Garmand apresentou os outros tutores, um por um, e ao final McCroys se retirou com os gêmeos, deixando no ar uma sensação gelada.
 
-— Sou daqui, mas tem bastante gente de lá também. É bem misturado. — Ele apontou com a cabeça para um grupo de jovens mais afastados, que pareciam conversar de maneira mais reservada. — Aqueles lá vieram de outra dimensão também. Como se chamam mesmo? Acho que é Lukas, Lucía… e… Kiran. Acho que é isso. 
+Mais tarde, na hora do almoço, os aprendizes se espalharam pelo terraço, entre mesas compridas e risadas. Banjo, com um prato na mão, procurava onde sentar quando viu McCroys. Ele estava sozinho, numa ponta da mesa mais distante, mastigando um pedaço de pão. Ninguém se sentava perto dele. Um passarinho de penas azuis pousou no cotovelo do mago, e McCroys, sem olhar, partiu um pedacinho do pão e o deixou no tampo da mesa.
 
-Enquanto conversavam, uma garota de expressão curiosa, que usava um manto com estampas de estrelas com capuz, se aproximou, com um sorriso simpático.
+Banjo piscou. Achou aquilo estranho e, ao mesmo tempo, quase bonito. Então Emiris chamou, e ele esqueceu.
 
-— Vocês estão ansiosos para os desafios? Eu sou Eshley! Eu quase não acreditei quando me chamaram para treinar aqui… Tayo é incrível… eu sou de Drakkar — Ela olhou para Banjo, os olhos brilhando. — Vocês chegaram a ver algum Dromodur? É uma criatura negra e maligna que engole a alma das pessoas caso elas mintam. 
 
-Banjo ficou perplexo com o comentário dela e respondeu, empolgado:
+Quando o relógio de estrelas formou os números do jantar no teto da casa, os irmãos chegaram à mesa com os pés doloridos e as cabeças cheias de cores.
 
-— Bem, a gente não chegou a ver nenhum Dromodur…  
+Sobre a mesa havia uma sopa dourada com folhinhas prateadas que cintilavam, um pão de casca macia e miolo crocante, levemente picante, e uma tigela de frutinhas coloridas que brilhavam como pequenas lanternas.
 
-Bruno revirou os olhos, mas não pôde evitar uma risada.
+– Luzíria – disse Velho-Sábio, com um sorriso intrigante. – Cada fruta traz uma emoção. Escolham uma e experimentem.
 
-— Pois é, se depender do entusiasmo do meu irmão aqui, ele vai querer levar um desse Dromodur pra casa.
+Um a um, pegaram. Banjo foi o primeiro. A fruta dele brilhava amarelo, e assim que ele mordeu, começou a rir. Uma risada que subia do estômago e ia contagiando a mesa.
 
-De um canto da sala, dois garotos gêmeos, de aparência mais velha e semblante meio sombrio, observavam a interação, trocando olhares e sussurrando um para o outro. Um deles deu um sorriso enviesado e cruzou os braços, aproximando-se devagar.
+– Isso é... isso é incrível! – conseguiu dizer.
 
-— Dimensais novos, hein? — disse o garoto, com um tom meio debochado. — Vamos ver quanto tempo vocês duram.
+A fruta de Beatriz era vermelha. Ela mordeu e, em dois segundos, estava de cara fechada, punhos cerrados, olhos faiscando.
 
-Breno forçou um sorriso e tentou ser simpático:
+– Por que eu tô tão irritada?! – disse, com a voz um pouco quente demais. Banjo riu ainda mais, o que só piorou. Uma luz vermelha pulsou no teto.
 
-— Vocês parecem bem à vontade aqui. Já estão treinando faz tempo?
+Bruno revirou os olhos e mordeu a dele, azul-acinzentada. Os ombros caíram. O olhar foi para a janela.
 
-O garoto deu de ombros, e seu irmão, que até então permanecera calado, soltou uma risadinha.
+– Então... acho que isso é tristeza – murmurou, olhando os pedaços como se cada um contasse uma história.
 
-— O suficiente pra saber quem é fraco e quem vai longe — disse ele, lançando um olhar para Bruno, que o encarou em resposta. 
+Por último, Breno provou uma verde. Uma alegria leve e sem motivo subiu pelo peito, e ele sorriu de um jeito largo e relaxado, que nenhum dos irmãos via havia muito tempo.
 
-Antes que a conversa pudesse se tornar mais tensa, uma garota de cabelos cacheados e rabo de cavalo chegou ao grupo, interrompendo o clima pesado com um sorriso caloroso.
+– Nunca me senti assim, tão... feliz à toa.
 
-— Não encham, Erick e Nicolas. Ignorem esses dois. Eles adoram bancar os durões. No último treinamento eles levaram uma coça do Ferris — Ela acenou para os irmãos e deu uma piscadela. — Sou Shirley, aliás. 
+Velho-Sábio observava tudo com os olhos brilhando.
 
-— É um prazer! — disse Banjo com um sorriso simpático. 
+– Às vezes a gente esquece de sentir uma emoção. A luzíria lembra.
 
-— Parece que alguns já estão bem-acostumados com este lugar. É normal ter experientes treinando junto aos novatos? — ele provocou, lançando um olhar cético para os gêmeos.
+– Pois a próxima emoção que eu quero é calma – disse Beatriz, com os dentes cerrados. – Me passa mais uma dessas!
 
-Shirley riu, balançando a cabeça.
+Os irmãos explodiram em gargalhadas. Até Bruno, com a tristeza de fruta ainda no rosto, sorriu e teve que se virar. O Coronel latiu debaixo da mesa, sem saber do que se tratava, mas feliz por participar.
 
-— Não sou experiente. Só estou aqui há algumas semanas. A maioria das pessoas aqui só quer aprender ou melhorar seu uso da magia, sabe? Mas é meio injusto como as coisas funcionam. Nós dimensais precisamos passar nos três desafios para que consigam ficar em Belfex. Já os senavelitas daqui geralmente aprendem magia na escola, mas muitos possuem um P.I. capaz de sobressair os níveis escolares. Então eles se desenvolvem aqui. Isso é como uma faculdade. Quem passa aqui, tem diversas vantagens na carreira. 
+Foi quando Velho-Sábio olhou para eles com uma ternura quase casual.
 
-Banjo olhou ao redor, ainda deslumbrado, e não conseguiu conter a curiosidade.
+– Vocês se importam se eu cantar uma coisa?
 
-— Eu mal consigo acreditar que estou num lugar assim. Parece um sonho.
+Bruno abriu a boca para dizer algo irônico, mas Breno fez que sim com a cabeça, e ele desistiu.
 
-Shirley assentiu, sorrindo.
+O mago fechou os olhos e começou. A voz era firme e rica, e correu pela sala como um rio calmo. Aos poucos as luzes diminuíram, e de cada canto da casa começaram a subir pontinhos de luz, como vaga-lumes, que flutuavam sobre a mesa, entre os rostos dos irmãos.
 
-— É o sonho de muitos de nós, pode ter certeza.
+"Quando o sol se esconde e a chuva vem cair,
+há uma luz pequena que não quer partir.
+Não nasceu do fogo, não nasceu do mar:
+nasceu de quem fica quando é hora de ficar.
 
-Bruno, sempre sarcástico, deu um meio sorriso.
+O vento abre estradas, a terra guarda o chão,
+a água lembra tudo, o fogo pede direção.
+Mas nenhuma força, por maior que seja,
+vale sem um lar onde alguém a proteja.
 
-— Vamos ver se não vira pesadelo também, né?
+Se a sombra um dia te chamar pelo nome,
+responde com a luz que o escuro não consome.
+Há sempre uma janela acesa no caminho:
+ninguém atravessa a noite sozinho."
 
-Então ele avistou uma garota ao fundo, e ele com um brilho curioso nos olhos, se inclinou para Eshley.
+A melodia deslizou pela sala como uma brisa morna. Breno sentiu os ombros se soltarem. Beatriz fechou os olhos, com um meio sorriso. Banjo apoiou o queixo na mesa, hipnotizado. Até Bruno, que tinha começado a noite fazendo piada, ouvia em silêncio, com os olhos grudados no velho.
 
-— E aquela garota ali — ele perguntou, apontando discretamente para uma figura ao longe isolada, que exalava confiança — Quem é?
+Quando a canção acabou, o silêncio caiu como um cobertor. As luzinhas ficaram um tempo paradas no ar e depois subiram, uma a uma, até o teto, onde se encaixaram entre as estrelas.
 
-Eshley seguiu o olhar dele e sorriu de um jeito doce, mas com um toque de sinceridade afiada.
+– O que é isso que a gente tem? – perguntou Banjo, num fio de voz. – Essa... coisa.
 
-— Ah, aquela é Brenda — respondeu Eshley, baixinho. — Cachorro disse que ela é… bem, digamos que é um pouco metida. 
+– Aqui a chamam de M.A. – respondeu Velho-Sábio. – Magia Absoluta. Cada pessoa tem a sua, e não existem duas iguais. – Ele sorriu. – Mas isso a gente aprende devagar. Primeiro, comam.
 
-— Você falou com um cachorro? — perguntou Bruno. 
+Comeram. Foi o jantar mais comprido da vida deles, com mais risos do que palavras. Mais tarde, no quarto, Beatriz encostou a testa na janela. Lá fora, a noite de Belfex tinha uma lua só, grande e quase dourada, e a cidade respirava luz.
 
-— Cachorro é um dos aprendizes… vai conhecer ele ainda — disse Eshley, rindo. 
+– Você viu o teto? – cochichou Banjo, deitado de barriga para cima. – As luzinhas da canção ficaram lá.
 
-Bruno ergueu as sobrancelhas e olhou para Brenda, interessado, mas tentando disfarçar. Antes que ele pudesse responder, uma garota de olhos grandes e curiosos, com cabelos lisos e escuros que caiam até os ombros, surgiu ao lado de Eshley. Ela tinha um sorriso tímido, mas caloroso, como quem estava mais confortável sendo observadora do que o centro das atenções. 
+Era verdade. Entre as constelações, quatro estrelas novas brilhavam bem juntinhas, e nenhum dos irmãos as reconhecia de manhã. Breno olhou para elas por um bom tempo. Depois olhou para a mesinha ao lado da cama, onde o rádio do pai, morno, respirava devagar.
 
-— Ah, essa é minha melhor amiga, Maria — disse Eshley, puxando-a gentilmente para mais perto do grupo. — Maria, esses são os novos aprendizes.
-
-Maria fez um leve aceno com a cabeça, seus olhos brilhando com uma mistura de nervosismo e curiosidade. Havia algo genuíno em sua expressão, uma gentileza que contrastava com a intensidade daquele ambiente.
-
-— O-olá. Espero que vocês… se acostumem rápido por aqui. — Sua voz era baixa e hesitante, como se tivesse muito a dizer, mas preferisse escolher bem as palavras.
-
-Bruno, com um sorriso brincalhão, lançou um olhar para o colar que Maria usava, um detalhe que logo chamou sua atenção. 
-
-— Belo colar! Foi combinado? — perguntou, referindo-se ao fato de que Maria e Eshley usavam peças semelhantes.
-
-Os colares eram simples, mas carregavam um charme peculiar. Cada um tinha um pequeno pingente de cristal esverdeado em forma de gota, envolto por um fino fio dourado que parecia pulsar levemente sob a luz mágica do ambiente. 
-
-Maria abaixou os olhos para o colar, tocando-o com dedos delicados antes de responder.
-
-— Eu trouxe da 3ª dimensão — disse ela, com um sorriso tímido e ligeiramente nervoso. — Eu trouxe para dar a alguém que… fizesse amizade comigo aqui. — Seus olhos encontraram os de Beatriz, e ela continuou com um tom mais suave. — É que… não tenho muitos amigos na 3ª dimensão, sabe.
-
-— Ele é lindo! — exclamou Beatriz, com um sorriso brilhante e sincero.
-
-Maria corou levemente, apertando o colar entre os dedos antes de murmurar:
-
-— Obrigada…
-
-O momento de leveza foi interrompido por passos firmes que ecoaram pela sala, cortando a conversa. A porta principal se abriu, revelando um homem alto de porte imponente. Sua figura irradiava autoridade, e seu olhar severo parecia pesar sobre todos no recinto. Ele usava um manto adornado com detalhes dourados que brilhavam discretamente sob a luz, e cada movimento seu exalava um senso de propósito.
-
-Havia algo em sua presença que exigia respeito imediato, como se ele carregasse consigo o peso de responsabilidades maiores do que qualquer um ali podia compreender.
-
-— Garmand! — sussurrou alguém atrás de Breno, com um tom que misturava admiração e cautela, como se o nome carregasse uma importância quase mítica.
-
-Garmand lançou um olhar avaliador pelo grupo de aprendizes, e sua expressão se suavizou em um sorriso formal enquanto ele falava:
-
-— Sejam bem-vindos, jovens dimensais e não-dimensais. Meu nome é Garmand, e durante esta semana, estarei encarregado de guiá-los em seus primeiros passos aqui em Tayo. — Ele fez uma breve pausa, permitindo que todos absorvessem suas palavras. — Como sabem, cada um de vocês está aqui para ser testado. Seus tutores vão te treinar e preparar para três desafios. Dimensais que passarem nos três desafios, poderão permanecer em Belfex. E para todos, dimensais e não dimensais, quem vencer os desafios, provará ser um senavelita poderoso, o que lhe garantirá um futuro brilhante. 
-
-Cada aprendiz parecia absorver as palavras de Garmand com diferentes reações.  Então um segundo homem entrou no saguão. Ele era alto e magro, com uma barba curta e um queixo pontudo, além de um manto preto e adornos de prata, que pendiam como correntes nas mangas. Seus olhos eram frios, com uma intensidade quase ameaçadora, e ele tinha uma expressão que oscilava entre o calculista e o desdenhoso. 
-
-— Dos mentores, o primeiro que vou apresentar é William McCroys — disse Garmand.
-
-Bruno observava McCroys com um interesse misturado a desconfiança. Então se inclinou para Emiris e sussurrou: 
-
-— Esse cara parece o Jafar. 
-
-Emiris olhou para ele, confuso, e Bruno ignorou. Tinha esquecido que ele estava em outra dimensão, e ali as pessoas não conheciam o Jafar. Então os olhos de McCroys se viraram neles, com um brilho enigmático. Os gêmeos Erick e Nicolas, que estavam ao lado de McCroys, lançaram um olhar desafiador aos irmãos, como se estivessem ansiosos para medir forças.
-
-McCroys deu um leve sorriso, que mais parecia uma ameaça, e inclinou a cabeça em um aceno quase imperceptível na direção deles.
-
-Bruno, com um leve desconforto no olhar, murmurou para os irmãos:
-
-— Esses caras me parecem problema. 
-
-Garmand continuou apresentando os tutores, e ao final das apresentações, McCroys deu um último olhar penetrante a eles antes de se afastar com os gêmeos ao seu lado, deixando uma sensação inquietante que reverberava no ar.
-
-
+Quando enfim adormeceu, não sonhou com nada.

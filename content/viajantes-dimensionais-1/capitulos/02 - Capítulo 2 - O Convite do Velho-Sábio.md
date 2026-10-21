@@ -1,295 +1,174 @@
-Sonhos são incríveis, nos levam para os mais distantes lugares, para as maiores aventuras. Banjo sempre tivera uma imaginação gigantesca. Usava-a para criar histórias, inventar desculpas e muitas vezes mentir a si mesmo. Sua baixa autoestima sempre foi validada pela sua pouca crença. Em contrapartida, sua imaginação era a fuga que tinha da realidade para a fantasia, uma chance que dava a si mesmo de que em algum universo escondido por aí, ele teria algum valor. No entanto, um velho sábio lhe disse uma vez que a imaginação é muito mais poderosa e perigosa que a realidade. Enquanto estava perdido entre o mundo real e a fantasia, Banjo jurou ouvir vozes próximas. 
 
-– Você tem certeza que eles tocaram nela? – perguntou a primeira voz. 
+Sonhos são incríveis. Levam a gente aos lugares mais distantes e às maiores aventuras. Banjo sempre tivera uma imaginação gigante. Usava-a para criar histórias, inventar desculpas e, muitas vezes, para mentir para si mesmo. Era a fuga que ele tinha da realidade, a chance de que, em algum universo escondido por aí, ele valesse alguma coisa. No entanto, um velho sábio lhe disse uma vez que a imaginação é muito mais poderosa e perigosa que a realidade.
 
-– É claro que sim, eles tocaram – respondeu uma segunda voz – As consequências é que serão inesperadas. Se eles manifestarem algum tipo de anormalidade, vou estar atento. 
+Foi com a imaginação ainda no escuro que Banjo abriu os olhos. Demorou para entender onde estava. Quando enfim se lembrou da bolinha, da luz e do raio, levantou-se depressa e chamou pelos irmãos.
 
-Banjo demorou para abrir os olhos. As vozes que ele ouvira mais cedo já tinham desaparecido há quase meia hora. Assim que ele acordou, imediatamente começou a tentar entender onde estava e o que tinha acontecido. Quando finalmente se lembrou de tudo o que acontecera, rapidamente se levantou no escuro e chamou pelos irmãos. 
+– Banjo? – Bruno foi o primeiro a responder. – Onde a gente tá?
 
-– Banjo? – Bruno foi o primeiro a responder – onde a gente tá? 
+– Na caverna. O Breno e a Beatriz, onde estão?
 
-– Na caverna. O Breno e a Beatriz, onde eles estão? 
+– Não sei. Não consigo ver nada.
 
-– Não sei. Não consigo ver nada nessa escuridão. 
+– Ai... acho que pisei em alguém. Pelo rosto, parece o Breno – disse Banjo, tateando.
 
-– Ai... acho que pisei em alguém... pelo rosto... parece o Breno – respondeu Banjo tateando o rosto do irmão. 
+– BEATRIZ! – gritou Bruno.
 
-– BEATRIZ! – gritou Bruno. 
+– Hmm... – gemeu a menina, como quem acorda de uma soneca longa demais. – Tá doendo tudo. Meu pescoço, minha cabeça.
 
-– Hmm... – gemeu a menina parecendo que estava acordando de um coma. 
+– Temos que sair daqui, ou vamos perder o ônibus – alertou Bruno.
 
-– Tá tudo bem? 
+Breno foi o último a acordar. Banjo precisou sacudi-lo duas vezes. Quando finalmente se sentou, cambaleando, a primeira coisa que ele fez foi apalpar a mochila. O rádio do pai estava lá dentro, mudo, mas quente, como se tivesse acabado de ser desligado.
 
-– Não... está doendo tudo... meu pescoço, minha cabeça... – respondeu a menina. 
+A esfera azul não brilhava mais. Era só uma bolinha escura e comum no fundo da caverna, e nenhum deles teve coragem de tocá-la outra vez. Subiram pelo buraco com Breno servindo de escada e Bruno reclamando do joelho a cada degrau.
 
-– Temos que sair dessa caverna, ou vamos perder o ônibus – alertou Bruno. 
+Quando chegaram ao parque, o céu estava baixo e cinzento, e o ônibus ainda esperava.
 
-– Breno, Breno, acorda – disse Banjo o sacudindo. 
+– Mas onde vocês estavam?! – A professora Anilda contava cabeças pela terceira vez, aliviada e furiosa ao mesmo tempo.
 
-– O quê – disse o garoto, a voz sonolenta. 
+– Nos perdemos na mata – disse Breno, e era quase verdade.
 
-– A gente precisa sair daqui – disse Banjo – vamos perder o ônibus. 
+No fundo do ônibus, Pedro Porrada e a gangue os fuzilaram com os olhos. Pedro passou o dedo pelo pescoço e apontou para Breno. Breno fingiu não ver. Perto da janela, Jennifer acenou para ele com um sorriso torto, e por um segundo ele esqueceu que tinha acabado de viver a tarde mais esquisita da vida.
 
-Breno não respondeu, ainda estava imerso em seus sonhos. Foi então que se lembrou do passeio, da bolinha, da luz e de ter perdido a consciência. Imediatamente ele se levantou, cambaleando e ofegante. 
+Naquela noite, colocou o rádio na prateleira do quarto e ficou olhando para ele por muito tempo. Não tocava. Mas a carcaça continuava morna.
 
-– A gente tá naquela caverna? – perguntou Beatriz – Vocês também dormiram?
 
-– Vamos embora – falou ele ao perceber onde estavam. 
+Na manhã seguinte, chovia de novo.
 
-– A gente tá naquela caverna? – perguntou Beatriz – Vocês também dormiram?
+– Coma alguma coisa, Bia – disse Melissa, sentando-se ao lado da amiga antes do coral. Beatriz estava deitada sobre os braços na mesa da sala de aula, esperando a professora. Desde que chegara à escola, o lanche continuava intocado na mochila.
 
-– Não consigo ver nada – disse Bruno. 
+Melissa era a melhor amiga de Beatriz desde a primeira série. Falava rápido, perguntava demais e achava que qualquer silêncio era um problema pessoal.
 
-Então uma forte luz branca surgiu na frente deles. Com as costas das mãos, os garotos cobriram o rosto e recuaram enquanto a luz lentamente diminuía. Lentamente os irmãos puderam distinguir do meio da luz, um vulto de uma pessoa que segurava algo na mão. 
+– Não tô com fome – respondeu Beatriz. – Só queria que parasse de chover.
 
-– Quem é você? – perguntou Breno. 
+– Pela previsão, o sol vai continuar escondido por um tempo.
 
-– Os próximos me chamam de Velho-Sábio – disse o homem, a voz alta e forte. 
+– Por que o sol é tão idiota e fica se escondendo?
 
-– Velho-sábio? – riu Bruno enquanto aos poucos conseguia distinguir a figura de um homem velho, com uma barba até o peito, olhos azuis e cabelos longos. Em sua mão, havia um cajado de madeira com uma ponta luminosa, fonte de toda luz que os garotos a pouco viram. Agora a ponta do cajado iluminava apenas o suficiente para que os garotos pudessem ver o velho e constatar que ainda estavam na caverna misteriosa. 
+– Bom dia, crianças – disse a professora Marlene da porta. – Quem vai para o coral, venha comigo. Quem não vai, o professor Rubens já está chegando.
 
-– Não deveria rir das pessoas desse modo, Bruno – disse o homem. 
+Os alunos do coral seguiram a professora pelo corredor. Beatriz sentiu uma pontada na cabeça e parou, com a mão na testa.
 
-O garoto tirou o sorriso do rosto, e ergueu uma sobrancelha. 
+– O que foi? – perguntou Melissa.
 
-– Me conhece? – o garoto perguntou. 
+– Dói.
 
-– Ainda não, mas podemos nos conhecer logo em breve – disse o velho. 
+– É melhor avisar a professora.
 
-– Chega dessa palhaçada, precisamos sair daqui, senhor, nosso ônibus está nos esperando, e precisamos sair daqui antes que ele parta – disse Breno. 
+– Não precisa. Vai passar.
 
-– Ele já partiu – falou o velho – há exatamente uma hora. 
+Ela abriu os olhos a tempo de ver alguém cair do outro lado do pátio.
 
-– O quê? – indagaram os quatro em sincronia. 
+– Aquele não é seu irmão? – perguntou Melissa.
 
-– Mas fiquem despreocupados que já dei um jeito – falou o velho – afinal, vocês já estão em casa. 
+Era. Banjo estava estatelado no chão molhado, e os garotos que tinham acabado de atravessar o pé na frente dele riam sem parar.
 
-– Em casa? Não moramos nessa caverna – resmungou Bruno. 
+– Fala pro seu irmão, aquele do soco, que na saída ele vai se ver comigo – disse Pedro Porrada, de longe.
 
-– Que caverna? – perguntou o velho. 
+– Esses moleques são muito folgados – disse Melissa.
 
-O garoto virou seu rosto e notou que ao redor de si não havia mais paredes úmidas ou objetos estranhos. Ele via o armário da cozinha, a mesa, assim como os quadros dos garotos que Frank pendurara na parede. Eles estavam de volta ao bairro do Antártica. 
+– Se eu tivesse o tamanho deles, batia até ficarem azuis – rosnou Beatriz, correndo para ajudar. – Banjinho, tá tudo bem?
 
-– Mas como é que isso é possível? Estávamos na caverna agora? – perguntou Breno olhando ao redor. 
+– Estou ótimo, não tá vendo? – respondeu o garoto, sem olhar para ela. – Eu só queria sumir daqui.
 
-– Uau! – disse Banjo com um sorriso – Como fez isso? 
+– Eu sei, Banjinho.
 
-– Não há uma explicação lógica no mundo de vocês. Mas no nosso, chamamos simplesmente de magia. 
+Foi então que algo pousou na mão dele. Um marimbondo, parado de frente, como se o analisasse. Beatriz tentou espantá-lo, mas Banjo a impediu.
 
-– Magia? – riu Bruno – está brincando que essa parada existe? 
+– Não. Ele só ataca se você mexer com ele.
 
-– Ah existe. Mas não é comum no mundo de vocês. 
+Banjo estendeu a mão devagar, e o marimbondo caminhou pelos dedos. De perto, dava para ver suas perninhas finas e seus olhos escuros. Banjo sorriu para ele. O inseto se virou e levantou voo, e a maior surpresa foi que, quando atingiu o ar, já não estava sozinho. Dezenas de marimbondos saíram do telhado do pátio, como uma nuvem escura, e seguiram juntos em direção a Pedro.
 
-– Nosso mundo? Quer dizer que veio de outro planeta? – perguntou Banjo, animado – você já encontrou o Bad Rock alguma vez no espaço? 
+Os gritos foram gerais. Os alunos correram, a gangue de Pedro também. Pedro, que estava mais perto, tentou se esconder atrás de uma lixeira, escorregou na lama e acabou se trancando no banheiro, enquanto a nuvem zumbia do outro lado da porta. Banjo correu atrás deles, com Beatriz gritando seu nome.
 
-– Ahm, não. A realidade que vocês conhecem é apenas uma dimensão entre milhares, bilhares, infinitas... em nosso mundo classificamos sua realidade como a 3ª dimensão, um universo paralelo ao nosso, e de fácil travessia. 
+– Chega – sussurrou ele, sem saber por quê.
 
-– Dimensão? Espera, quer dizer que você vem de outra dimensão? Está brincando? – falou Bruno. 
+A nuvem parou. Esperou um segundo, como quem pede licença, e se desfez no ar.
 
-Velho-Sábio ergueu seu cajado, e da ponta dele, imagens se projetaram no ar exibindo diversos mundos, com diversas formas de vida diversas, das mais parecidas com os animais conhecidos até as mais abstratas como um ser semelhante a uma minhoca gigante e ereta que jorrava um líquido com as cores do arco-íris por um buraco em seu topo. Uma espécie de cachorro com um apêndice na frente do rosto que descia como uma tromba de elefante, saltou pelos ares, passou em volta da pequena Beatriz, que caiu aos risos, enquanto ele saltava sobre seu ombro e seus braços. 
+– O que está acontecendo? – O diretor Everton, de cabelo crespo e grisalho, chegou ofegante.
 
-– Eu estou aqui basicamente para convidá-los a ingressar em nosso mundo – disse o velho enquanto toda a ilusão desaparecia – o objeto no qual tocaram recentemente chama-se Estírio. Ele é um objeto mágico extremamente sagrado, responsável por escolher pessoas deste mundo para irem ao nosso. 
+– Um menino passou cercado de marimbondos – disse a professora Marlene, apavorada.
 
-– Então nós fomos escolhidos – concluiu Breno – para irmos para outra dimensão?
+– Foram marimbondos – confirmou Banjo, com a cara mais inocente do mundo.
 
-– Vocês e outros muitos dimensais. Basicamente eu estou aqui para lhes perguntar se querem ou não ir. A decisão precisa vir de vocês. Caso optem por ir, irei buscá-los e me encarrego de cuidar de vocês e lhes explicar tudo sobre o nosso mundo, mas caso optem por ficar, entenderei da mesma forma, e a magia de vocês deverá ser enviada de volta para o estírio. 
+O diretor bateu na porta do banheiro. Depois de alguns instantes, ela se abriu devagarinho, e Pedro Porrada saiu, molhado de lama dos pés à cabeça, pálido, com uma única picada no meio da testa que já inchava como um terceiro olho. Houve murmúrios, risinhos e gente demais se aproximando para ver.
 
-– A nossa magia? 
+– Para a enfermaria, agora – ordenou o diretor, levando Pedro pelo ombro. – E vocês, voltem para as aulas!
 
-– Ah sim, o estírio tornou vocês capazes de processar e manipular a magia de nosso mundo. O próprio mundo de vocês possui uma energia mágica pela qual podem até usá-la, mas geralmente só é possível controlá-la com muito treino. 
+– Caramba! – disse Bruno, aparecendo ao lado de Banjo. – O que foi que aconteceu?
 
-– Certo, e quando vamos ir pra lá? – perguntou Banjo, animado. 
+– O Banjo fez isso – cochichou Beatriz.
 
-– Espere, espere! Isso tudo parece ser fantástico. Mas as coisas não funcionam assim – começou Breno – você nos diz que magia é real, quer nos levar para outra dimensão para que vivamos lá, mas e nossa vida aqui? 
+– Shhh. Eu não fiz nada – disse Banjo.
 
-– É um sacrifício que teriam de fazer. Se forem para lá, podem nunca mais voltar para suas vidas de antes – disse o velho. 
+– O marimbondo pousou em você antes, e depois todos voaram pra cima do Pedro. Acha isso normal? Desde a caverna as coisas estão esquisitas.
 
-– Tá, então nós vamos! – afirmou Banjo. 
+– Se você estiver certa, maninha, eu quero aprender a fazer isso também – riu Bruno. – Tenho uma lista de pessoas que merecem uma visitinha dos marimbondos. Começa no Pedro e termina no professor de matemática.
 
-– Não é você quem decide Banjo – falou Breno. 
+Beatriz soltou uma risadinha, no instante em que Breno chegava.
 
-– E muito menos você – resmungou Bruno. 
+– Vocês viram isso?
 
-– Eu sou o mais velho, tenho de decidir por vocês. 
+– Mais do que vimos, caro irmão. Nós fizemos isso – orgulhou-se Bruno.
 
-– É o mais babaca, isso sim, vamos ir, velho – disse Bruno. 
+– O quê? Do que está falando?
 
-– Todos? Porque como o estírio escolheu aos quatro, eu só posso levá-los se os quatro concordarem em ir. 
+– O Banjoca chamou os bichos pra cima do Pedro. Foi poético, como um espetáculo shakespeariano – disse Bruno, com a mão no peito, numa péssima imitação de alguém com dores.
 
-Banjo e Bruno imediatamente olharam para Breno. O garoto pensou e refletiu sobre a decisão que estava tomando. O mundo já era perigoso sem magia e dimensões, se ele optasse por ir, isso traria ainda mais chances de algo de ruim acontecer com os irmãos, e a culpa seria dele. 
+– Não foi de propósito – disse Banjo. – Quer dizer, nem tenho certeza se fui eu.
 
-– Olha... – ele começou – foi um prazer... mas não iremos. Infelizmente perdemos nossos pais recentemente. Meus irmãos não sabem o que é bom para eles mesmos. O mundo é muito perigoso e eles ainda são muito novos. 
+– Acho melhor ficarmos quietos sobre isso por enquanto – disse Breno, baixando a voz. – Na saída a gente conversa.
 
-– Não é justo! – falou Beatriz – você ouviu o que o senhor falou, ele vai cuidar de nós enquanto estivermos na outra dimensão. 
+Ele foi para a sala, e Beatriz também. No corredor, deu de cara com Melissa, que levou um susto.
 
-– Ele vai cuidar da gente, e quem é ele, Beatriz. Um homem que acabamos de conhecer, e que nem sabemos direito se tudo o que ele fala é verdade – brandiu Breno – chega, nos deixe em paz! 
+– Mel, onde você estava?
 
-– DEIXA DE SER ESTÚPIDO! – Bruno o empurrou. Breno se preparou para revidar, mas sentiu seus membros travarem. 
+A amiga parecia atordoada.
 
-– Eu sinto muito pelos seus pais – disse o mago com pesar. Então seu cajado começou a brilhar. Breno ainda tentava se mover, mas seu corpo parecia congelado – Eu já entendi o recado. A mente às vezes nos incita a seguir pelo que é real. Mas a mesma mente é aquela que nos faz sonhar pela noite. Ela nos planta ideias, e nos prende em sonhos que funcionam como prazeres momentâneos que são muito mais fáceis de encarar do que a vida real. Mas a total ausência de uma boa imaginação também é falha, trazendo excesso de realidade para a nossa vida, nos tornando completamente céticos e descrentes. O equilíbrio da vida não está em separar os pensamentos reais daqueles imaginados, e sim em escolher os que queremos que sejam reais e os que queremos manter apenas na imaginação. De qualquer forma, se em algum momento mudar de ideia, rapaz, diga junto aos seus irmãos, a palavra Pirulito. 
+– Eu, é... nada... só que... Desde quando o seu irmão é encantador de marimbondos? E que papo era aquele de caverna?
 
-O velho assentiu para os garotos, e então seguiu para a porta do banheiro. 
+– Você tava espionando a gente?
 
-– Aí é o banheiro – disse Breno – a saída é... 
+– Não! Eu só... ouvi demais. Estava perto porque sou sua amiga.
 
-Mas antes que terminasse, o garoto ouviu o som da descarga e um barulho forte, então correu para verificar o que tinha se passado. Ao acender a luz, constatou que o banheiro estava vazio, mas havia água espalhada pelas paredes e pelo chão, e além do vaso estar aberto, o papel higiênico estava em cima de toda a aguaceira. 
+– Não mente pra mim, Mel. Você faz isso com todo mundo. Mas... mesmo sendo minha melhor amiga, não sei se posso te contar a verdade.
 
-– Eu não entendo como você consegue ser tão babaca – falou Bruno por trás de Breno – você está realmente tão contente com sua vida que foi capaz de ignorar tudo o que o velho nos disse? 
+– É exatamente por isso que tem que contar. Senão vou ficar horas pensando nisso, vou perder o apetite, não vou dormir essa noite...
 
-– Pela primeira vez e última na vida, eu concordo com o Bruno. Você foi muito idiota, Breno – disse Banjo. 
+– Deixa de drama – disse Beatriz, com um risinho, e hesitou antes de continuar. – Ontem, no passeio, a gente achou uma caverna. Tinha uma bolinha estranha lá dentro, com uma luz azul. A gente encostou nela e, desde então, acontecem coisas. Tipo magia.
 
-– Não, eu não fui – respondeu Breno – Nossos pais morreram, a única pessoa que podemos confiar para cuidar de nós é o tio Frank. A nossa realidade é essa. E não um lugar onde existe magia e magos. É isso o que vivemos, e é isso que vamos viver. 
+Melissa olhou para ela por um bom tempo.
 
-– Isso não significa que seja isso que queiramos viver – disse Beatriz se virando e saindo, decepcionada. 
+– Uma bolinha azul deu magia pra vocês.
 
-– Está brincando! Esse cara é um imbecil mesmo – falou Bruno, seguindo para seu quarto. 
+– Eu sei que parece maluquice.
 
-– Desculpa, Breno. Mas você estragou tudo – falou, por fim Banjo, saindo. 
+– Tá. – Melissa estufou o peito. – Eu acredito em você. Por que eu não acreditaria na minha melhor amiga?
 
-Breno ficou ali parado, na porta do banheiro, pensativo, antes de finalmente começar a secar a água espalhada. Alguns minutos mais tarde, Frank chegou falando no telefone com a polícia. Ao vê-los em casa, sua reação foi tanto de alívio quanto de ódio. 
+– Não sei. Porque eu mesma não acreditaria.
 
-– POR QUE VIERAM SOZINHOS PARA CASA? EU DISSE QUE OS BUSCARIA. E NEM SEQUER SE DERAM O TRABALHO DE ME LIGAR PARA AVISAR. Eu estava maluco atrás de vocês, vocês... vocês... – Frank tentou se tranquilizar, respirou fundo e então continuou – é a última vez que deixo vocês saírem sozinhos. 
+– Eu acredito – repetiu Melissa, com firmeza demais para ser verdade, e Beatriz teve vontade de rir.
 
-Nenhum dos garotos o respondeu, afinal, ninguém saberia como explicar que um velho lhes trouxe da caverna até a casa deles magicamente. A situação só tinha ficado ainda pior. Além de não poderem ir para outra dimensão, ficariam trancados em casa, podendo sair apenas para ir à escola. 
+– Por favor, Mel, não conta pra ninguém.
 
+– Eu? Sou um túmulo.
 
+Beatriz tinha certeza de que ela não era, mas ficou feliz por ter uma amiga que fingia tão bem.
 
-– Coma alguma coisa, Bia – disse Melissa, colega de Beatriz antes da aula de coral começar. Beatriz estava deitada sobre os braços na mesa da sala de aula aguardando a professora chegar. Desde que chegara na escola, não comera nada, seu lanche estava intocado em sua mochila. 
 
-– Não to com fome – respondeu ela – só queria que parasse de chover. Que esse tempo melhorasse. 
+No coral, Beatriz se juntou às colegas ao fundo. A maioria olhava para ela de cima a baixo, como sempre, mas Bia não ligava. Só não suportava cantar várias vezes a mesma coisa. Era o que o tio queria para ajudá-la a fazer amigos, e era também a coisa mais entediante do mundo.
 
-– Pelo que vi na previsão, o sol ainda vai ficar escondido por um tempo – respondeu Melissa. 
+– Beatriz, está fazendo errado, precisa soltar do diafragma – disse a professora Marlene. – Desse jeito vai se cansar muito mais rápido. De novo.
 
-– Por que o sol é tão idiota e fica se escondendo? – indagou ela. 
+A professora deu as costas, e Bia revirou os olhos para Melissa, que respondeu com uma careta. No segundo teste, ela acertou. No terceiro, sentiu um enjoo e uma pressão na cabeça. Parou de cantar, apoiou a mão na testa e fechou os olhos.
 
-– Bom dia, crianças – disse-lhes a professora Marlene – aqueles que vão para o coral, podem vir comigo, os que não vão, aguardem que o professor Rubens está chegando? 
+Havia um nó quente no peito, do mesmo lugar onde moravam as saudades. Foi crescendo, subindo pela garganta, e ela percebeu que o ar da sala estava ficando abafado, como se alguém tivesse ligado um forno.
 
-Os alunos do coral assentiram, e seguiram a professora para fora da sala de aula. Pouco depois de saírem da sala, Beatriz sentiu algumas pontadas na cabeça que a fez parar e colocar a mão sobre a testa. 
+– Bia? – sussurrou Melissa.
 
-– O que foi? – perguntou-lhe Melissa. 
+O primeiro estouro veio do lustre. Pop. Uma lâmpada se partiu em mil pedacinhos e choveu vidro fino no chão. Pop, pop, pop. Uma atrás da outra, o lustre inteiro foi apagando como uma fileira de velas. Os papéis de partitura nas mãos das meninas começaram a encaracolar nas pontas, escurecendo. A vidraça embaçou por dentro, o ar tremeu sobre o piso e um cheiro de pão queimado encheu a sala.
 
-– Dói – respondeu a menina, os olhos fechados enquanto a cabeça continuava a doer. 
+Quando Beatriz abriu os olhos, estava no meio de um círculo vazio. Todas as meninas tinham se encostado nos cantos. O piano estava intacto, mas o lustre era só um esqueleto de fios,. Todas olhavam para ela.
 
-– É melhor avisar pra professora que não está bem – aconselhou-a Melissa. 
+Todas, menos Melissa, que olhava para o lustre, depois para a amiga, e sussurrou, de boca aberta:
 
-– Não precisa. Eu vou ficar bem – disse a menina tornando a abrir os olhos a ponto de ver alguém caindo ao chão do outro lado do pátio. 
-
-– Aquele não é seu irmão? – perguntou Melissa. Banjo estava caído, enquanto os garotos que tinham acabado de colocar o pé em sua frente, riam descontroladamente. 
-
-– Fala pro seu irmãozinho mais velho que na saída ele vai se ver comigo – disse Pedro Porrada no meio dos garotos. 
-
-– Esses moleques são muito folgados – disse Melissa. 
-
-– Se eu tivesse o tamanho deles, eu bateria neles até eles ficarem azuis – falou Beatriz cerrando os punhos enquanto corria para ajudar o irmão – Banjinho, ta tudo bem?
-
-– Estou ótimo, não está vendo? – disse o garoto grosseiramente – quero que o mundo se exploda, eu não aguento mais. A gente podia estar longe daqui agora. 
-
-– Eu sei Banjinho, mas o Breninho falou que essa é a nossa vida...
-
-– E desde quando o Breno manda? O tio é que é nosso responsável, não ele – resmungou Banjo nervoso. Enquanto ainda estava terminando de falar, algo lhe chamou a atenção. Ao seu lado, um marimbondo estava parado de frente para ele como se o analisasse. Beatriz fez com a mão para espantá-lo, mas Banjo a impediu. 
-
-– Não – disse ele – ele só ataca se você mexer com ele. 
-
-O garoto estendeu sua mão lentamente e o marimbondo pousava lentamente em sua mão
-
-– Solta esse bicho, Banjo, ele vai te picar – disse Beatriz, se afastando. 
-
-Banjo deu um sorriso para o inseto que parou em sua mão por um período. O garoto olhou o marimbondo bem de perto, podendo enxergar suas perninhas e seus olhos escuros. Então o inseto se virou e levantou voo. A maior surpresa estava no fato de que quando ele atingiu os ares, já não estava sozinho. Dezenas de outros marimbondos voavam com ele, todos em direção ao pátio da escola. Beatriz gritou e os outros alunos se assustaram, correndo da multidão desenfreada de insetos que seguia pátio abaixo. Banjo imediatamente correu atrás dos insetos, o que fez a irmã gritar pelo seu nome, apavorada. 
-
-Banjo alcançou o pátio da escola a ponto de ver um garoto gritando e correndo enquanto os insetos o cercavam e picavam. O rapaz se sacudia e agitava as mãos desesperadamente, chegando inclusive a tirar a camisa para afastar os bichos que tinham entrado por dentro de seu uniforme. Desesperado, ele correu até o banheiro e fechou a porta, o mais rápido que pode. Os insetos, ao ver que não tinham como entrar, se dispeçaram. 
-
-– O que está acontecendo? – perguntou o diretor Everton, um homem de meia idade, de cabelos curtos crespos e grisalhos. 
-
-– Um rapaz passou correndo aqui cercado por insetos – disse a professora Marlene, apavorada. 
-
-– Eram marimbondos – disse-lhes Banjo. 
-
-– E onde está o garoto? 
-
-– Correu pro banheiro – disse a professora. 
-
-O diretor imediatamente seguiu até a porta do banheiro e bateu fortemente. 
-
-– Garoto, pode sair. É o diretor – disse o homem. O garoto não a abriu, então o diretor bateu novamente – GAROTO...
-
-Finalmente a porta se abriu, e lentamente o garoto saiu de lá de dentro. Houveram muitos murmúrios e muita gente se aproximando para ver de perto Pedro Porrada com o rosto, os braços e o tronco todo coberto de picadas. O garoto olhou para todos presentes e em seguida se virou para o diretor. Então caiu ao chão, desacordado, fazendo os murmúrios aumentarem. O diretor imediatamente gritou para que ligassem para a ambulância, enquanto carregava o garoto com a ajuda de outro professor, até a secretaria. 
-
-– Caramba! – disse Bruno, ao lado de Banjo – o que foi que aconteceu? 
-
-– O Banjo fez isso – disse Beatriz surgindo do lado dos irmãos. 
-
-– Shhh – disse Banjo – Eu não fiz nada. 
-
-– O marimbondo pousou em você antes, e depois voou com os outros pra cima dele. Acha isso normal? Lembra do que o velho falou? Sobre coisas anormais acontecerem? 
-
-– Se você estiver certa, maninha... eu quero aprender a fazer isso também – riu Bruno – Tem muita gente que quero que os marimbondos ataquem por mim. 
-
-– Bruno... e se realmente fui eu? E se... eu matei o Pedro Porrada? – indagou Banjo, preocupado. 
-
-– Estaria fazendo um favor pra humanidade – disse o irmão. 
-
-Beatriz deu uma risadinha, no instante em que Breno chegava. 
-
-– Vocês viram isso? – ele perguntou. 
-
-– Mais do que vimos, meu caro irmão. Nós fizemos isso – orgulhou-se Bruno. 
-
-– O quê? Do que está falando? – indagou Breno. 
-
-– O Banjoca aí atiçou com a magia dele os bichos pra cima do Pedro. Foi poético como assistir a um espetáculo de teatro shakespereano – falou Bruno a mão sob o peito em uma terrível imitação teatral de alguém com dores. 
-
-– Não foi de propósito – falou Banjo – quero dizer, não tenho certeza se fui eu que fiz isso. 
-
-– Acho melhor ficarmos quietos sobre isso por enquanto – disse Breno – não sabemos se o Pedro vai sobreviver. 
-
-– O garoto está bem, está respirando, só desmaiou pelo choque – disse o diretor para todos os curiosos do lado de fora – agora voltem para as suas aulas, já.
-
-– Acho que isso responde sua dúvida – disse Beatriz. 
-
-– É, não foi dessa vez que conseguimos eliminar o inimigo – decepcionou-se Bruno. 
-
-– É melhor irmos pra aula, na saída conversamos sobre isso – disse Breno, deixando os irmãos. Beatriz assentiu e então saiu, dando de cara com Melissa, tomando um susto. 
-
-– Mel, onde você estava? – perguntou Beatriz. A garota parecia espantada e surpresa com algo. 
-
-– Eu, é... eu... não... eu...
-
-– Por que está nervosa? – perguntou Beatriz. 
-
-– Eu... é... nada... só que... Desde quando o seu irmão é um encantador de marimbondos? E que papo era aquele de magia? – Beatriz ficou em choque com as dúvidas da amiga. 
-
-– Você estava... espionando a nossa conversa? – indagou a menina. 
-
-– Não... eu só... ouvi demais. Estava perto de você, porque é minha amiga, e por sinal... ouvi vocês conversando... eu jamais iria lhe espionar. 
-
-– Não mente pra mim Mel, você faz isso com todo mundo. Mas... mesmo sendo minha melhor amiga, não sei se posso te contar a verdade. 
-
-– É exatamente por isso que tem que me contar a verdade. Sou sua melhor amiga – disse Melissa – Senão vou ficar por horas pensando nisso, vou perder o apetite, não vou conseguir dormir essa noite...
-
-– Deixa de drama – disse Beatriz com um risinho, hesitando antes de falar – Acontece que ontem no passeio, nós fomos parar na floresta. Aí encontramos uma caverna e dentro dela havia uma pequena bolinha estranha com uma luz azul. Nós encostamos nela e aparentemente ganhamos poderes. Tipo magia. Um velho mago que nos disse. 
-
-Com certeza Melissa não acreditaria na história dela, mas Beatriz não era do tipo que conseguia guardar segredos por muito tempo, tendo diversos segredos trocados com a amiga.
-
-– Entendi... um velho mago disse que vocês têm poderes. E foi uma bolinha com uma luz azul que lhes deu isso?
-
-– Olha, eu entendo se não quiser acreditar, mas...
-
-– Eu acredito em você. Por que eu não acreditaria em minha melhor amiga? 
-
-– Não sei, talvez porque eu mesma não acreditaria se alguém me contasse uma história dessas. 
-
-– Não acreditaria em mim? 
-
-Definitivamente ela não acreditaria, mas que bom que sua amiga pensava diferente. 
-
-– Claro que acreditaria, Mel. Bom, eu acho que ainda vão acontecer muitas coisas estranhas comigo ou com meus irmãos. Se presenciar algo anormal, você já sabe o que é. Ah, e por favor, Mel, não conte a ninguém sobre isso. 
-
-Beatriz estava mais do que certa. Ao chegar no coral, se juntou às colegas ao fundo. Parecia que nenhuma delas gostava da menina, visto que sempre a olhavam de cima pra baixo, mas Bia não ligava muito para isso. Ela só não gostava de ficar ali cantando, várias e várias vezes a mesma coisa. Isso a entediava demais, e não estava a ajudando em nada a estreitar laços, razão pela qual seu tio lhe colocara na turma. 
-
-– Beatriz, está fazendo errado, precisa soltar do diafragma, desse jeito vai se cansar muito mais rápido – disse a professora Marlene – Vamos tentar mais uma vez. 
-
-A professora deu as costas e Bia olhou para Melissa que lhe deu um sorriso, enquanto ela revirava os olhos. 
-
-Nos dois testes seguintes, e a menina conseguiu fazer certo, mas ao fim da terceira vez, a menina sentiu um enjoo forte e sua cabeça começou a doer. Antes que terminassem a repetição, a menina parou de cantar, colocou a mão sobre a cabeça e sentiu um embrulho no estômago. Beatriz fechou os olhos e respirou fundo, com fortes pontadas na cabeça. Então ela ouviu um som ensurdecedor, além de gritos das meninas e sons de coisas quebrando. Quando ela abriu os olhos, sua boca abriu em conjunto com a surpresa de ver o piano na lateral da sala rachado ao meio, os saxofones e os demais instrumentos de sopro que deveriam estar na parede, agora estavam atirados ao chão, e o belo lustre localizado no teto estava estilhaçado ao chão com vidro espalhado por toda a sala. Todas as meninas estavam encostadas nos cantos da sala, exceto Beatriz. E por alguma razão supostamente obvia, todas olhavam para ela. 
-
-
+– Tá. Agora eu acredito de verdade.

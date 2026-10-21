@@ -1,467 +1,295 @@
-O próximo treino dos garotos começou em uma sala situada um andar acima. A cada passo que davam, a atmosfera mudava levemente, e era como se a própria sala estivesse se ajustando para o que estava por vir. O ambiente era espaçoso e simples à primeira vista, mas ao redor das paredes havia painéis lisos que pareciam vibrar, prontos para transformar o ambiente conforme a necessidade. No centro, uma leve névoa se erguia do chão, dando um ar misterioso e calmo, enquanto uma série de luzes sutis no teto criava padrões que se moviam lentamente, como estrelas que giravam acima deles.
 
-Velho-Sábio se posicionou no centro e fez um gesto para que os garotos se aproximassem.
+O treino da tarde começou numa sala um andar acima. Era ampla e quase simples, com painéis lisos nas paredes que vibravam baixinho, como bichos de pelo esticado. No chão, uma névoa rasteira subia devagar, e no teto luzes minúsculas desenhavam constelações que giravam sem pressa.
 
-— Bem, hoje vocês vão começar a explorar a própria essência da magia dentro de cada um. — Ele disse, olhando cada um nos olhos. — Diferente dos senavelitas que nascem aqui em Belfex, vocês, como dimensais, têm a magia concentrada em habilidades específicas, despertadas pelo toque do estírio. A partir de agora, é essencial que vocês descubram o que essas habilidades são.
+Velho-Sábio ficou no centro e estendeu a mão para que os irmãos se aproximassem.
 
-Ele fez uma pausa e perguntou:
+– Hoje, cada um vai conhecer o que traz dentro. Alguma coisa estranha aconteceu com vocês desde que chegaram, não foi?
 
-— Vocês notaram alguma coisa estranha em si desde o toque do estírio? Algo incomum?
+Eles se entreolharam. Breno foi o primeiro.
 
-Os irmãos se entreolharam antes de responder. Breno foi o primeiro a falar.
+– Na aula de história, tentei virar a página de um livro e a minha mão atravessou. Como se ele fosse fumaça. Ou eu fosse.
 
-— Bem… teve um momento em que tentei tocar um livro, mas minha mão parecia passar direto por ele. Era como se o livro fosse um fantasma, ou talvez eu fosse o fantasma.
+– Interessante – disse o velho. – Você pode ter domínio sobre a própria densidade. Com treino, passará por coisas sólidas como se fossem ar.
 
-— Muito interessante, Breno — disse Velho-Sábio, ponderando com um olhar avaliador. — Pode ser que você tenha o poder de alterar sua densidade ou tangibilidade. Isso significa que, com treino, você poderá passar por objetos sólidos como se fosse parte do ar.
+Bruno cruzou os braços, fingindo displicência.
 
-Breno piscou, absorvendo a ideia, e sentiu um misto de admiração e receio ao imaginar o que mais seria capaz de fazer.
+– O volante de um carro ficou grudado na minha mão e congelou. Não sei o que foi.
 
-Em seguida, Bruno, com seu jeito sarcástico, disse:
+– Um controle natural sobre o frio. – Velho-Sábio sorriu. – Grande poder pede grande autocontrole, Bruno.
 
-— Eu lembro de ter tocado no volante de um carro, e ele grudou na minha mão. Mas, depois de alguns segundos, o volante congelou. Não sei de onde veio isso… não sei se foi um tipo de reação minha, mas acho que tem a ver com isso. 
+Banjo ergueu a mão, tímido.
 
-— Ah, interessante! — Velho-Sábio sorriu. — Parece que você pode ter um controle natural sobre o frio. Se é isso mesmo, Bruno, você terá um grande poder à sua disposição, e que exigirá muito autocontrole.
+– Eu... consigo falar com bicho. Ou eles me entendem. Os marimbondos, o Pitu, da Eshley...
 
-Banjo, com um olhar hesitante mas curioso, falou:
+– O Aquaman de Belfex! – gargalhou Bruno. – Vai que serve contra uma horda de pombos.
 
-— Eu… bom, só consigo lembrar de algo estranho com animais. Parecia que consegui falar com eles… como o bichinho da Eshley e os bichos que aticei em frente à escola. Eles… eles realmente pareciam me entender.
+– Não subestime – disse Velho-Sábio, sem tirar o sorriso. – Entender outras formas de vida é mais difícil do que parece, Banjo. Pode ser muito mais do que conversa.
 
-Bruno riu imediatamente, apontando para o irmão.
+Beatriz falou em seguida, com o queixo erguido.
 
-— Então, deixa eu ver se entendi — disse ele, debochado. — Você é tipo o Aquaman de Belfex? Seu poder especial é bater papo com os bichinhos? Vai que isso vem a calhar com uma horda de ratos… ou pombos.
+– Eu estourei todas as lâmpadas do lustre do coral. E esquentei a sala inteira.
 
-Banjo revirou os olhos, mas Velho-Sábio deu uma risada contida e olhou para Bruno com uma expressão calma.
+O mago a observou por um instante mais longo do que o dos outros.
 
-— Não subestime, Bruno. Comunicação com os animais pode ser uma habilidade extremamente útil e, com o tempo, você vai entender o quão complexo é se conectar com outras formas de vida. Banjo, isso pode ser mais do que uma conversa; você pode vir a controlar, entender e aprender com os animais ao seu redor.
+– Seu dom ainda não escolheu uma forma, Beatriz. Pode ser algo mais sutil. Ou maior do que parece.
 
-Banjo sorriu, sentindo-se um pouco mais animado e menos ofendido pelas provocações do irmão.
+Ela fez um bico, mas o sorriso desafiador voltou.
 
-Por fim, Velho-Sábio se virou para Beatriz e a encarou por um momento.
+– Então vamos descobrir.
 
-— Bom… eu destruí a sala do coral… 
+Ele bateu o cajado no chão. As paredes giraram, abriram-se, e a sala se desdobrou em quatro paisagens, uma em cada canto.
 
-— Beatriz — disse ele, pensativo — ainda não consegui entender exatamente qual a sua habilidade. Pode ser que seja mais sutil… algo que ainda não se revelou.
+Num deles, uma duna alaranjada se estendia sob um sol baixo, e no meio dela flutuava um bloco de pedra do tamanho de um armário. No outro, uma geleira azulada refletia uma aurora tímida, com uma poça de água parada no centro. No terceiro, uma clareira de musgo macio, com árvores de troncos curvos. O último era a borda de um vulcão adormecido, e um rio de brasa corria lá embaixo, muito devagar, como um pensamento.
 
-Beatriz ficou um pouco desapontada, mas logo seu rosto se iluminou.
+– A magia se aprende no corpo e no lugar certo – disse o velho. – Cada um no seu.
 
-— Então, vamos descobrir, certo? — respondeu ela com um sorriso desafiador.
+Breno foi para a duna. Velho-Sábio se pôs ao lado dele.
 
-Velho-Sábio assentiu, satisfeito com a atitude dela.
+– Atravesse o bloco sem tocá-lo. Imagine que o seu corpo pode se misturar com o ar. Não empurre a pedra. Dissolva-se nela.
 
-— Isso mesmo. Vamos fazer alguns testes hoje, e cada um de vocês terá a chance de experimentar o próprio poder.
+Breno fechou os olhos e estendeu a mão. Encontrou uma superfície dura e fria. Respirou fundo e tentou de novo. De novo, pedra. Na terceira vez, ouviu um zumbido grave, tão baixo que sentiu mais nos dentes do que nos ouvidos. A mão afundou até o pulso. Por um segundo, ele sentiu a pedra por dentro: fria, lenta, antiga, como um sono de séculos.
 
-Pouco após ele terminar de falar, as paredes giraram e se expandiram, criando um espaço amplo e vazio, quase como um campo de treinamento no meio de um deserto. Em cada canto, surgiram pequenas estruturas e plataformas, todas feitas de um material que parecia alternar entre sólido e líquido, dependendo do ângulo em que eles olhavam.
+– Consegui! – gritou, e o zumbido sumiu. A mão voltou a ser mão. Ele tentou de novo e o bloco o impediu. Breno ficou olhando para a pedra, com a testa franzida. Era como um quebra-cabeça que mudava de forma toda vez que ele achava ter entendido.
 
-Ele olhou para os quatro, seus olhos brilhando com uma intensidade que mostrava que esse treinamento não seria fácil.
+Na geleira, Bruno pisou no gelo com ar de quem já sabia o que fazer.
 
-— Canalizar a magia é como acender uma chama, e o combustível está dentro de cada um de vocês. Agora, para cada um será um desafio diferente, pois suas habilidades e limites também são diferentes. Vocês precisam aprender a sentir essa energia, a chamá-la quando necessário.
+– Está vendo a poça? – disse Velho-Sábio. – Congele só o centro. O resto, não.
 
-Ele começou com Breno.
+Bruno estendeu a mão. Um tilintar cristalino soou, como um sino de gelo, e a poça inteira congelou de uma vez. Ele puxou a mão, mas a geada já corria pelo chão, subia, enroscava-se, e uma torre de gelo se ergueu do tamanho de uma criança, depois de duas, com ameias e uma escadinha, cada degrau tilintando uma nota.
 
-— Breno, o que você experimentou com o livro… atravessá-lo sem intenção… isso indica que sua habilidade está ligada à tangibilidade e densidade. Vamos começar com uma tarefa que exige controle absoluto.
+– Só um pedacinho, só um pedacinho – resmungou. – Ótimo. Agora é um castelo.
 
-Velho-Sábio estendeu a mão, e um bloco de pedra enorme apareceu diante de Breno, flutuando sobre o chão.
+– Pequeno. Comece muito pequeno – disse o velho, achando graça. – O frio é uma centelha, não uma tempestade.
 
-— Eu quero que você atravesse esse bloco sem o tocar, mas controlando sua densidade. Imagine que seu corpo pode mudar de estrutura, ser algo que se mistura ao ar, ao espaço ao redor. Não tente empurrar o bloco, mas sim… se dissolver dentro dele. Essa tarefa exigirá concentração absoluta. E lembre-se: o bloco pode parecer simples, mas ele responde aos seus esforços. Qualquer descontrole e ele endurecerá ainda mais.
+Na clareira, Banjo ficou sozinho, com Velho-Sábio observando de longe. Entre as raízes de uma árvore, escondida, havia uma criaturinha que parecia um misto de roedor e pássaro, de penas macias e patas finas.
 
-Breno respirou fundo, olhando para o bloco, tentando imaginar seu corpo se tornando tão leve quanto o ar. Ele fechou os olhos e tentou visualizar o que Velho-Sábio dizia, mas ao estender a mão, encontrou apenas a superfície dura e fria da pedra.
+– Não force – disse o mago. – Apenas sinta o que ela sente.
 
-— Vai ser mais difícil do que pensei… — murmurou ele, mas persistiu, concentrando-se de novo.
+Banjo se agachou. Respirou. Ouviu um sussurro baixinho, como muita gente falando ao mesmo tempo, e sentiu a clareira inteira inclinar-se na direção dele. A criaturinha subiu pelo seu dedo, quentinha, e o encarou com olhos de miçanga. Banjo sorriu.
 
-Velho-Sábio, em seguida, olhou para Bruno.
+Foi aí que um vento invisível passou pela clareira. Não mexeu uma folha. Mas atirou a criatura para o alto, num giro, e ela bateu numa árvore, quicou e caiu no musgo. Por um segundo, Banjo prendeu a respiração. Depois a criaturinha sacudiu as penas, soltou um assobio ofendido e sumiu correndo entre as raízes, inteira.
 
-— Agora, Bruno, você me disse que sentiu frio em suas mãos, que o volante do carro ficou congelado enquanto você o segurava. A sua habilidade está conectada ao frio, ao gelo. — Ele sorriu levemente, mas seus olhos estavam atentos. — Quero que concentre essa sensação de frio em um único ponto, na ponta dos dedos, mas sem deixá-la escapar. Olhe para aquela poça d'água ali — ele apontou para uma pequena poça no chão. — Quero que você congele apenas o centro dela.
+– Eu... eu não fiz isso – balbuciou Banjo, com o coração batendo na garganta.
 
-Bruno estendeu a mão com confiança, mas ao tentar se concentrar, sua mão toda ficou fria, e a poça d’água começou a congelar por completo. Ele tentou parar, mas acabou formando uma camada espessa de gelo que se espalhou, se estendendo para fora do seu controle. Ele puxou a mão para trás, frustrado.
+– Não era só conversa o que você tinha, Banjo – disse Velho-Sábio, com a mão em seu ombro. – O que você tem é maior. Eu ainda não sei quanto.
 
-— Oh, meio que quase deu certo — disse Bruno. 
+Banjo fez que sim, sem conseguir responder.
 
-— Falta controle, meu jovem — disse Velho-Sábio. — Não deixe o frio te controlar, ou ele sairá de controle. Comece pequeno, muito pequeno, e só expanda quando puder manter o domínio. Se precisar, feche os olhos e imagine o frio como uma faísca, uma centelha dentro de você.
+No vulcão, Beatriz estava de frente para uma pilha de pedras sobre uma plataforma.
 
-Banjo foi o próximo.
+– Bagunce isso. Só um pouco. Não use as mãos.
 
-— Você, Banjo, o amigo dos animais — disse Velho-Sábio, sorrindo levemente. — Sua habilidade é rara, especialmente para dimensais. Mas essa comunicação deve partir de um lugar muito profundo e tranquilo. Ali… — Ele apontou para uma pequena criatura que parecia uma mistura de roedor e pássaro, escondida entre as pedras. — Tente se conectar com ele, sem forçar. Apenas sinta o que ele sente.
+Beatriz se concentrou. A pilha não se mexeu. Ela cerrou os dentes, os olhos fixos, e sentiu o nó quente no peito subir, mas a pilha continuava ali, imóvel e orgulhosa.
 
-Banjo respirou fundo, olhando para a criaturinha curiosa. Fechou os olhos e tentou se concentrar, tentando imaginar o que seria estar no lugar daquele animal. Por um segundo, ele quase sentiu a criatura relaxar e se aproximar. Mas então, um pensamento invadiu sua mente, um ruído de fundo o desconcentrou, e o animal fugiu para um canto, deixando Banjo sem entender o que havia dado errado.
+– Não é justo – murmurou. – Parece que nada responde.
 
-— A comunicação não é apenas sobre o que você quer, Banjo, mas sobre o que o outro está pronto para receber — explicou Velho-Sábio. — E os animais… bem, eles são como espelhos das suas emoções.
+Foi quando o ar em volta dela esquentou. Um estalo, como o de uma brasa se partindo, e um cheiro de pão queimado subiu da plataforma. Uma rachadura fina correu pela pedra do meio, e acima dela uma das luzes do teto estourou, pop, soltando uma chuva de faíscas.
 
-Velho-Sábio olhou para Beatriz com uma expressão pensativa e falou:
+Beatriz se encolheu. O mago observava com a cabeça inclinada.
 
-— Beatriz, sua magia parece estar ligada a algo mais… instável. Talvez uma energia caótica, difícil de controlar. Vamos começar pequeno. Eu quero que você tente bagunçar esse espaço aqui — ele apontou para uma pequena pilha de pedras organizadas sobre uma plataforma baixa. — Não precisa pensar em destruí-las, apenas em mexer nelas, desorganizá-las um pouco. Não use as mãos, só a mente.
+– Quando o dom escolher a forma, ele escolhe. Não adianta puxar. – Ele sorriu. – Mas ele já está olhando pra você, Beatriz.
 
-Beatriz respirou fundo e se concentrou, fixando o olhar nas pedras. Ela tentou imaginar a energia fluindo de dentro dela para as pedras, como se pudesse mexer nelas com a própria força da vontade. Por alguns segundos, pareceu que uma leve vibração passava entre as pedras, mas, antes que pudesse se concentrar o suficiente, a energia sumiu. A pilha continuava estática, intacta.
+Num intervalo, Bruno olhou para o castelo torto e para a duna ao lado, e teve uma ideia.
 
-— Não é justo, — Beatriz murmurou, frustrada. — É como se nada dentro de mim respondesse direito.
+– Breno, vem aqui. Não pensa. Só vem.
 
-Velho-Sábio deu um leve sorriso de encorajamento.
+Antes que o irmão respondesse, ele encostou a mão na areia. O tilintar do sino de gelo correu pela duna inteira, e a areia virou um escorregador de cristal, comprido, brilhante, que descia em curva até os pés da geleira. Banjo foi o primeiro a se jogar, com um grito de alegria. Beatriz foi atrás, rindo, com o capuz lilás voando. Bruno desceu de pé, com os braços abertos, num equilíbrio perfeito. E Breno, depois de contar até três, deslizou sentado, com a cara mais séria do mundo, até a hora em que o zumbido grave subiu no peito dele e ele atravessou, sem querer, um monte de neve fofa, saindo do outro lado coberto de gelo e gargalhando.
 
-— Calma, Beatriz. As energias caóticas são sempre complicadas, mas uma hora elas respondem. Tudo tem seu tempo. Lembrem-se de sentir a magia antes de usá-las. 
+Era a primeira vez, desde a caverna, que Breno ria assim. Os irmãos ficaram olhando, e ninguém disse nada, para não estragar.
 
-Enquanto Beatriz continuava tentando, Velho-Sábio observou os outros garotos. Breno, após inúmeras tentativas, finalmente conseguiu atravessar parcialmente o bloco de pedra. Sentiu como se seu corpo perdesse a densidade, e com isso, parte dele passou direto pela superfície da pedra. Ele olhou para o Velho-Sábio, encantado, como se tivesse acabado de descobrir um segredo antigo.
+Foi assim por horas. Breno atravessou o bloco duas vezes e perdeu três. Bruno fez dezenas de torres, uma delas com uma bandeira. Banjo sentou-se no musgo e ficou escutando, sem tentar nada. Beatriz fez rachaduras, faíscas, uma xícara de calor no ar, e nenhuma pedra voou. Quando enfim o cansaço chegou, chegou de uma vez só: as pernas pesaram, as cabeças latejaram, e o estômago de Banjo roncou tão alto que o vulcão pareceu responder.
 
-— Consegui! — disse Breno, com um sorriso triunfante.
+– Posso... dar uma pausa? – pediu Breno, sentando-se na duna.
 
-Mas ao tentar novamente, o bloco o deteve. Ele ficou intrigado, agora querendo entender o que diferenciava as tentativas bem-sucedidas das falhas. Esse enigma o fascinava.
+Velho-Sábio sorriu.
 
-Já Bruno continuava a ter dificuldades com seu controle sobre o frio. Ele se concentrou na poça, tentando congelar apenas um ponto, mas em vez disso, uma onda de gelo se espalhou pela superfície e começou a se erguer, formando quase uma mini torre de gelo, muito além do que ele pretendia.
+– Esse é o preço. A magia cobra fome, sono e cansaço. Quem a usa sem preparo pode se esgotar de um jeito que não volta. Por isso treinamos.
 
-— Só um pedacinho, só um pedacinho — resmungava ele, claramente frustrado com o próprio poder descontrolado.
+– E se a gente precisar numa luta? – perguntou Bruno, ainda fingindo que não estava exausto. – Sei lá. Quando não dá pra escolher.
 
-Banjo, por outro lado, olhava com atenção para a pequena criatura de penas e patas ágeis. Ele se agachou devagar e estendeu a mão, tentando sentir algo, uma conexão. Aos poucos, a criaturinha pareceu relaxar e começou a caminhar em sua direção, como se algo na presença de Banjo a atraísse. Ele sentia uma onda de ternura e fascinação, como se estivesse conectando-se com um pedaço vivo da natureza.
+– Por isso treinamos. Quem usa a magia com estratégia dura mais do que quem a usa com força. E ninguém é dono dela. Ela passa por nós. – Ele bateu o cajado no chão, e as quatro paisagens se dobraram uma sobre a outra, como páginas de um livro, até restar uma sala simples com uma mesa posta, uma travessa de bolinhos quentes e quatro copos de leite de amêndoa que borbulhavam. – Comam.
 
-A criaturinha chegou até sua mão e subiu em seu dedo com delicadeza, parecendo contente. Mas antes que Banjo pudesse reagir ou falar com ela, um vento repentino — ou algo mais invisível — atingiu a criatura, atirando-a violentamente contra uma árvore próxima. Ela bateu e caiu sem vida no chão. O sorriso no rosto de Banjo se desfez instantaneamente, e ele ficou paralisado, horrorizado.
+Foi o lanche mais silencioso e mais feliz do mundo. Banjo comeu seis bolinhos. Bruno admitiu que o castelo de gelo estava um pouco torto. Beatriz riu pela primeira vez em horas, e a plataforma do vulcão, lá ao fundo, soltou um suspiro quentinho, como um gato satisfeito.
 
-— O… o que aconteceu? — gaguejou, mal acreditando no que tinha visto.
 
-Velho-Sábio o observou em silêncio por um momento, com um olhar enigmático, antes de colocar a mão no ombro de Banjo.
+Quando saíram do prédio, nuvens baixas se juntavam no céu, e dois homens da Vigilância esperavam junto à porta, de braços cruzados, de uniformes cinza. Os olhos deles seguiram os irmãos até o dassi. Velho-Sábio devolveu o olhar sem dizer nada, e foi um olhar longo e frio, de quem guarda uma conta antiga.
 
-— Não é só isso que você possui, Banjo. Seu dom é maior do que essa comunicação.
+No caminho, Velho-Sábio parou diante de uma carrocinha que flutuava um palmo acima do calçamento. A vendedora, uma moça de tranças verdes, enchia casquinhas com bolas de um sorvete que parecia pedaço de nuvem.
 
-Banjo apenas assentiu, mas não conseguia esconder o medo que crescia em seu peito. O que mais poderia fazer? E que tipo de habilidade levaria a algo assim?
+– Sorvete de nuvem – disse o velho, e pagou com três pêndulos. – O sabor depende do humor de quem toma.
 
-Enquanto isso, Beatriz continuava frustrada com a dificuldade de seu treino. Por mais que tentasse, não conseguia que as pedras se movessem sequer um milímetro.
+O de Beatriz saiu rosa e tinha gosto de torta de maçã. O de Banjo mudava de sabor a cada lambida, e ele passou o caminho inteiro anunciando: "Agora é chocolate! Agora é laranja! Agora é... meia?". O de Bruno ficou azul-escuro e tinha o gosto de um dia de chuva olhando pela janela. Ele olhou para o sorvete por muito tempo e não reclamou.
 
-Bruno, ainda tentando controlar a poça, viu a pequena torre de gelo que ele criara e murmurou:
+Depois, atravessaram uma pequena praça, onde crianças e velhos se amontoavam em torno de uma senhora de xale turquesa, sentada num banquinho. A cada palavra que dizia, uma fumacinha prateada subia da boca dela e se desenhava no ar.
 
-— Ótimo, agora é um castelo de gelo. Perfeito — ele rolou os olhos, claramente exasperado.
+– ...e dizem que era um menino de outro mundo – contava a senhora, e a fumaça formou um garoto pequeno, de braços finos – com mais poder do que cabia no corpo. Ninguém lhe deu a mão. Ninguém lhe ensinou a segurar. E o poder, que ninguém segura, aprende a andar sozinho...
 
-Breno, que agora estava quase obcecado com o mistério de sua habilidade, continuava testando o bloco de pedra, ora conseguindo atravessá-lo parcialmente, ora falhando. Sentia-se dividido entre a frustração e a empolgação, como se estivesse diante de um quebra-cabeça que não parava de mudar.
+A fumaça se transformou numa sombra enorme, de asas, e as crianças soltaram um "oooh" encantado.
 
-Os garotos continuavam, tentando de novo e de novo acessar suas habilidades. Mas após um tempo, parecia que a cada tentativa, uma onda crescente de cansaço os dominava. Sentiam as pernas bambas, os braços pesados, e até mesmo as cabeças pareciam latejar. Finalmente, Breno, com um suspiro exausto, interrompeu:
+– O nome dele, meus pequenos, era...
 
-— Será que… podemos dar uma pausa? — perguntou, sem conseguir esconder o cansaço na voz.
+Nesse instante, o som de botas atravessou a praça. Três vigilantes de capa cinza passaram a passo regular, sem olhar para ninguém. Uma a uma, as janelas dos comerciantes foram se fechando em volta da praça, tum, tum, tum, e a senhora de xale parou no meio da frase. Sorriu, sem alegria, e passou o xale por cima da fumaça, apagando a sombra.
 
-Beatriz assentiu, ofegante, enquanto Banjo segurava o estômago, que roncava audivelmente. Bruno, que tentava disfarçar a exaustão, acabou se rendendo e se sentou no chão, limpando o suor da testa.
+– Hoje não – disse, baixinho. – Quem quiser, volte amanhã.
 
-Velho-Sábio observava tudo com uma expressão compreensiva. Ele sorriu levemente, depois deu um passo à frente e ergueu as mãos em um gesto pacificador.
+As crianças saíram, uma a uma, com a cabeça baixa. Banjo ficou olhando a praça se esvaziar.
 
-— Entendo que estejam exaustos — disse ele, com uma voz calma e acolhedora. — Estão descobrindo uma verdade importante sobre a magia. Ela exige um preço, sempre. Diferente do que talvez esperassem, a magia não é uma fonte inesgotável dentro de vocês, e sim uma energia que deve ser treinada e controlada como qualquer outra capacidade física ou mental.
+– Esse é o Korvo? – sussurrou. – O que o Denis falou?
 
-Ele fez uma pausa, olhando para cada um deles, como se quisesse garantir que entendessem a seriedade de suas palavras.
+– É – disse Velho-Sábio, ajustando o manto. – A lenda tem metade de verdade. E é a metade que dá medo.
 
-— A magia é como um músculo — continuou ele. — Vocês podem imaginá-la como algo que precisa ser exercitado para ganhar força e resistência. No começo, qualquer esforço parece esmagador, como levantar algo muito pesado quando ainda não estão prontos para isso. Mas, com o tempo, esse peso se torna mais suportável, e o esforço se torna mais natural.
+– Por que mandaram ela parar? – perguntou Breno.
 
-Os irmãos ouviram atentamente, absorvendo cada palavra. Velho-Sábio prosseguiu:
+– Ninguém mandou. Aqui, algumas coisas não precisam ser mandadas. – O velho olhou para as janelas fechadas. – Há quem prefira fechar as janelas a olhar pra fora.
 
-— Além do desgaste físico, há o cansaço mental e emocional. A magia exige concentração, foco. Quanto mais forte é o poder que invocam, mais atenção ele demanda. E quando digo que precisam de treino, isso não é só para controlar o que a magia faz. É para que possam resistir ao que ela consome de vocês em troca.
+O dassi chegou, suave, e os quatro entraram em silêncio. Pela primeira vez em Belfex, ninguém reparou no caminho.
 
-Ele fez uma pausa, dando tempo para que processassem essa ideia.
 
-— A fome, o sono, o cansaço que sentem agora são sinais de que sua energia foi drenada. Muitos aprendizes, quando começam a treinar, esquecem que, se tentarem usar demais a magia sem estarem preparados, acabam exaurindo tudo, até mesmo suas forças vitais. E em casos extremos, podem até não se recuperar desse desgaste.
+Em casa, Breno ficou parado diante da janela do quarto, com os punhos fechados.
 
-Banjo arregalou os olhos, claramente assustado com a ideia. Beatriz o encarou, surpresa, e Bruno, ainda tentando fingir que estava tudo sob controle, evitou o olhar do mago.
+– Ei, irmão. Tá tudo bem? – perguntou Banjo.
 
-Bruno franziu a testa, a curiosidade finalmente vencendo a exaustão.
+– Estou começando a achar que não foi uma boa ideia a gente ter vindo.
 
-— Mas, Velho-Sábio… e se a gente precisar usar a magia em uma situação em que não temos escolha? Como, sei lá, numa luta?
+– Como assim?
 
-O mago assentiu, compreendendo a pergunta.
+– Tem um mago perigoso à solta. Dizem que há décadas. Tem seguidores que fariam qualquer coisa. E nem todo mundo nos quer aqui, Banjo. Somos "dimensais". A qualquer momento alguém pode achar que a gente é culpado de alguma coisa. A gente tá correndo risco.
 
-— Justamente por isso precisam treinar. Quanto mais treinarem, mais estarão preparados para situações de risco sem serem pegos de surpresa pelo cansaço ou pelo medo. Mas lembrem-se: é mais seguro usar a magia com estratégia do que com força bruta. Porque quem tenta forçar a magia a fazer o que quer sem respeito, muitas vezes perde o controle. E o maior erro é pensar que somos donos da magia. Na verdade, ela é uma extensão do nosso ser, algo que nos atravessa, que flui por nós.
+– Mas a gente acabou de chegar! – disse Banjo. – E o Velho-Sábio cuida da gente.
 
-Beatriz olhou para ele, intrigada.
+– Isso aqui é um sonho, Breno! – Beatriz sentou-se na cama. – Eu nunca vi nada parecido. Eu não quero ir embora só porque existe uma ameaça longe da gente.
 
-— Então… é como se a magia fosse parte de nós e, ao mesmo tempo, algo maior que nós?
+– Vocês não estão entendendo...
 
-Velho-Sábio sorriu, satisfeito com a compreensão dela.
+Bruno, sentado no chão com as costas na cama, levantou os olhos.
 
-— Exatamente, Beatriz. A magia é algo que vem de vocês, mas também do mundo, das energias à sua volta. Aprender a canalizá-la significa aprender a respeitar esse equilíbrio entre o que vocês são e o que o mundo lhes oferece.
+– E aí você quer que a gente volte e finja que nada aconteceu? Gente perigosa tem em qualquer lugar, Breno. Em casa também tinha. E a gente vivia lá.
 
-Ele olhou para os quatro, com uma expressão de profunda seriedade.
+– Em casa a gente entendia como as coisas funcionavam. Aqui estamos perdidos!
 
-— É por isso que precisam se tornar fortes, não apenas fisicamente, mas também mentalmente. Isso é o que realmente vai permitir que usem a magia sem se perderem no caminho.
+– Belfex é enorme – disse Bruno, num meio sorriso. – Sério, é muita pretensão achar que o Korvo tem interesse específico em nós. Se você quer fugir de todo lugar que tem perigo, melhor se preparar pra não morar em lugar nenhum.
 
-Enquanto eles saíam do prédio, um grupo de nuvens carregadas começava a se acumular no céu, deixando o clima mais sombrio. Ao atravessarem a porta principal, os irmãos viram dois homens da Vigilância, com expressões duras e uniformes imponentes, observando-os fixamente. Os vigilantes mantinham os braços cruzados, e o olhar desconfiado deixava claro que não estavam apenas ali para patrulhar casualmente. Velho-Sábio lançou um rápido olhar para eles, um brilho sutil de desagrado em seus olhos.
+Beatriz ergueu o queixo.
 
-Sem dizer uma palavra, ele gesticulou para os irmãos, e juntos caminharam até um dassi estacionado logo à frente. Assim que se acomodaram e o veículo começou a levitar suavemente, Beatriz, ainda olhando para os vigilantes que ficaram para trás, sussurrou:
+– Eu não vou embora. Finalmente achei um lugar onde posso fazer coisas que nunca imaginei. Se a gente voltar agora, foi tudo em vão.
 
-— Por que aqueles caras estavam olhando feio pra gente?
+– Eu também não quero ir – completou Banjo. – Mesmo com o Korvo. Isso aqui é a nossa vida agora.
 
-— Eles são policiais, tem que olhar feio pra todo mundo, Beatriz — respondeu Breno. 
+Breno sentiu o peso dos três olhares. Respirou fundo, olhou para o rádio na mesinha e baixou a voz.
 
-Velho-Sábio suspirou, sua expressão se suavizando apenas um pouco enquanto olhava para os irmãos.
+– Tá bom. Mas escutem uma coisa. Se um dia eu disser que é hora de ir, a gente vai. Sem discutir.
 
-— Não exatamente, Breno — ele respondeu, sem rodeios. — A Vigilância está muito mais cautelosa ultimamente. Eles não estão apenas patrulhando. Estão desconfiados de tudo e todos, inclusive de novos senavelitas. O medo tem dominado o coração da cidade. 
+Houve um instante de silêncio.
 
-Banjo, intrigado, inclinou-se para a frente.
+– Fechado – disse Bruno, e estendeu a mão. Breno apertou. Beatriz e Banjo colocaram as mãos por cima, num montinho, e riram, sem saber por quê.
 
-— Medo? Medo do quê?
+Banjo se deitou, de olhos no teto estrelado. A discussão ecoava, mas, em vez de aflição, uma curiosidade quente tomava conta dele. Ele pensou no vento invisível e na criaturinha de penas, e em tudo o que ainda não sabia fazer. Pegou o copo d'água da mesinha e ficou olhando para ele, sem ver.
 
-Velho-Sábio hesitou, mas sabia que era hora de dar algumas respostas.
+"O que será que foi aquilo?", pensou. "Será que tem algo em mim que eu ainda não descobri? Algo que me torne..."
 
-— Medo de Korvo — disse ele, a voz baixa, quase um sussurro, como se o nome carregasse um peso por si só. 
+O raciocínio acabou num vazio. Banjo esticou a mão, e o copo não estava mais lá. Piscou, procurou ao redor, e viu o copo flutuando ao lado dele, girando devagar, oscilando de leve, como se estivesse pendurado num fio.
 
-— Korvo? — repetiu Banjo, enquanto Bruno, tentando manter a indiferença, parecia se lembrar de já ter ouvido o nome em algum lugar.
+– E-ei... – murmurou.
 
-Velho-Sábio continuou, com os olhos distantes, relembrando o passado sombrio.
+Beatriz espiou da cama ao lado, e seus olhos se arregalaram. Bruno e Breno se viraram ao mesmo tempo.
 
-— Décadas atrás, um jovem senavelita dimensal chegou a este mundo. Seu poder era grandioso, mas seu controle era nulo. Ele era impulsivo, movido pela ambição e por um entendimento distorcido da magia. Tentamos treiná-lo, mostrar-lhe os riscos, mas não conseguimos. Ele rejeitou tudo e fugiu, recusando-se a voltar para o mundo de vocês. Desde então, Korvo tem se escondido, reunindo seguidores. Ele não é só poderoso; ele tem uma causa.
+– Que irado – disse Bruno, rindo de nervoso. – O copo tá voando.
 
-— E qual é essa causa? — indagou Breno, atento.
+Banjo balançou a cabeça, sem piscar. Foi só um segundo. O copo perdeu o equilíbrio e despencou, e a água e os cacos se espalharam no chão com um tilintar agudo. Banjo deu um pulo.
 
-— Korvo é um mago negro perigoso e acredita que a magia deve ser livre, sem restrições, e que a magia negra, em particular, não é perigosa por si só. Ele prega que o verdadeiro poder vem não do que somos, mas do que estamos dispostos a fazer, sem limites ou moralidade. Para ele, a força define o valor de cada um.
+– Eu não fiz nada, juro! – gritou, mais confuso do que nunca.
 
-Bruno revirou os olhos, mas sua curiosidade estava evidente.
+A porta se abriu, e Velho-Sábio apareceu de pijama de lã, com o Coronel atrás. Olhou os cacos, olhou Banjo, olhou o lugar onde o copo tinha flutuado, e ficou um tempo calado, com uma ruga funda entre as sobrancelhas.
 
-— Mas vocês são magos — disse. — Por que não se juntam e capturam ele? São milhares contra um.
+– Foi o vento – disse Banjo, baixinho.
 
-Velho-Sábio suspirou, o olhar pensativo.
+– Foi, sim – respondeu o velho, sem acreditar em si mesmo. Estalou os dedos, e os cacos subiram do chão e voltaram a ser um copo cheio, que pousou na mesinha sem derramar uma gota. – Durmam.
 
-— Belfex é um lugar complexo, Bruno. O reino é composto de distritos que agem individualmente, cada um cuidando de seus próprios interesses. Eles preferem erguer muros e se proteger do que realmente enfrentar uma ameaça maior. Olhe para Tayo, por exemplo. É uma cidade extraordinária, mas está cada vez mais fechada para o mundo exterior. E a Vigilância, em vez de se focar em Korvo, prefere desconfiar dos novos dimensais, como vocês. 
+Fechou a porta devagar. Do lado de fora, ouviu-se um passo pensativo que demorou a se afastar.
 
-Breno franziu a testa, ainda mais confuso.
+Os quatro ficaram parados olhando os cacos. Depois Beatriz começou a rir, e Bruno também, e Banjo também, e por um momento a gente podia jurar que aquele era o quarto de qualquer casa, de qualquer mundo.
 
-— Isso não faz sentido. Por que se voltar contra nós e não contra ele?
 
-Velho-Sábio olhou para fora da janela do dassi, enquanto o veículo deslizava rapidamente pelo ar.
+À noite, enquanto jogavam Pedropone com Velho-Sábio, a campainha ecoou pela casa. O velho se levantou calmamente, com um olhar tranquilizador, e foi até a porta. Os garotos espiaram de longe.
 
-— Porque o medo é traiçoeiro, Breno. Ele obscurece a razão, torna as pessoas irracionais. A Vigilância acredita que restringindo a chegada de dimensais, diminuirão as chances de que algum deles se una a Korvo. Ou pior, que Korvo possa infiltrar seus seguidores aqui. Ele tem seguidores leais que ele mesmo nomeou como sua “Patrulha” e os manipula oferecendo poder em troca de submissão.
+Era Garmand, com Brenda atrás dele. A garota mantinha a cabeça baixa e as mãos nos bolsos, e olhava a sala de lado, como quem tenta decorar tudo sem ser notada. O Coronel, deitado perto da lareira, ergueu as orelhas e ficou observando, sem se levantar.
 
-— Isso é ridículo. Por que um dimensal teria mais chances de se aliar a essa causa do que um senavelita nascido aqui? 
+Bruno tentou disfarçar o interesse, mas os olhos dele voltavam para ela toda vez que ela desviava o rosto. Brenda parecia alheia, o que só piorava tudo.
 
-— Porque Korvo também é um dimensal. E a Vigilância vê os que vêm de fora com desconfiança, como possíveis simpatizantes. Mas o medo deles não é justificado, é apenas a decisão mais cômoda. Embora Tayo seja governada por Lucas Veline, o chefe governante, é a Vigilância que tem maior influência e que decide quem entra ou não.. 
+Depois dos cumprimentos formais, Garmand foi direto:
 
-Banjo, juntando as peças, se lembrou da mulher que os havia testado.
+– Tenho visto vigilantes rondando a minha casa. Hoje um deles estava perto da porta. Cada dia confio menos em deixá-la sozinha. – Olhou para Brenda por um segundo.
 
-— Aquela mulher, a que fez nosso teste… ela é a chefe dos vigilantes?
+– Não é só você – disse Velho-Sábio. – Tenho percebido a Vigilância nos observando mais. Há algo acontecendo, mas ainda não sei o quê.
 
-— Sim. Erla é a édion, a autoridade de maior escalão da vigilância — explicou Velho-Sábio.
+– A Vigilância está agindo de forma estranha – disse Garmand. – Poucos merecem confiança. E os rumores sobre Korvo e a Patrulha dele no leste crescem. O povo, com medo, apoia a Vigilância sem perguntar nada.
 
-Breno, pensativo, fez uma última pergunta.
+– Korvo é esperto. Não precisa aparecer pra mexer nas peças.
 
-— Se eles têm tanto medo de que um dimensal venha para causar problemas… por que ainda permitem que a gente venha? Por que deixaram a esfera nos trazer?
+– Por isso eu vim, Auream. Talvez seja hora de reativarmos as reuniões.
 
-Velho-Sábio sorriu tristemente.
+Velho-Sábio ergueu os olhos.
 
-— Porque ética e moralmente, os dimensais pertencem a este mundo. Além disos o estírio não pode ser controlado. Ele é um objeto mágico que aparece apenas para aqueles que têm magia a ser revelada dentro de si. É como se a própria magia os chamasse de volta. É nosso dever acolhê-los, e há um consenso em Belfex sobre isso. Tayo é a cidade responsável por trazê-los. Se decidir barrar os dimensais, Tayo terá que enfrentar os outros distritos.
+– Acha necessário?
 
-Os irmãos se entreolharam, apreensivos. Beatriz, com um tom de incredulidade, perguntou:
+– Acho inevitável. Korvo tem a Patrulha. Nós temos a Sociedade. Precisamos nos organizar antes que seja tarde.
 
-— Então… esse Korvo… ninguém sabe onde ele está?
+Brenda suspirou, entediada, e percebeu o olhar de Bruno. Ergueu as sobrancelhas com leve exasperação e olhou para outro canto. Bruno encarou o chão.
 
-Velho-Sábio balançou a cabeça lentamente.
+– Faz quase dez anos – murmurou Velho-Sábio, como se falasse sozinho.
 
-— Não. Korvo opera das sombras. Seu covil é desconhecido, e ele prefere que assim continue. Ele entende que o medo o protege. E enquanto os distritos de Belfex mantiverem seus olhos em si mesmos, Korvo continuará intocável.
+– E eu pensei nisso mais de dez vezes – disse Garmand. – Mas agora é diferente. Estamos no escuro. Precisamos saber em quem confiar.
 
-Um silêncio tenso pairou dentro do dassi, enquanto o veículo deslizava pelas ruas aéreas. De repente, ele entrou em queda livre mais uma vez, despencando com uma velocidade que fez os corações dos garotos pularem. O frio na barriga tomou conta de todos, e os irmãos se agarraram aos assentos, tensos. E então, com uma suavidade surpreendente, o dassi desacelerou, parando delicadamente diante da casa do Velho-Sábio. Assim que entrou em casa, Banjo correu para o banheiro, a urgência quase o fazendo tropeçar nos próprios pés. Quando finalmente voltou ao quarto, percebeu de imediato que algo estava errado. Breno estava parado junto à janela, de costas, com as mãos fechadas em punhos e o corpo rígido.
+O velho ficou em silêncio por um longo momento.
 
-— Ei, irmão… tá tudo bem? — perguntou Banjo, hesitante.
+– As circunstâncias pedem ação. Se continuarmos esperando, pode começar uma guerra civil em Tayo. A Sociedade talvez seja o melhor caminho.
 
-Breno soltou um suspiro tenso, virando-se lentamente. Seu rosto estava sério, os olhos pareciam perdidos.
+Garmand virou-se para os irmãos.
 
-— Estou começando a achar que não foi uma boa ideia termos vindo. Talvez tenhamos cometido um grande erro.
+– Quanto a vocês: nada do que ouviram aqui sai desta casa. Nem para os amigos do Edifício. É para a segurança de todos.
 
-Banjo piscou, surpreso.
+– Sim, senhor – respondeu Breno depressa, e os outros assentiram.
 
-— Como assim? Do que você tá falando?
+Garmand acenou para Brenda, que se levantou devagar e olhou uma última vez para a sala, e saíram. Quando a porta se fechou, Velho-Sábio ficou parado por um tempo. O Coronel foi até ele e encostou o focinho na perna do dono, e o mago afagou a cabeça do cachorro, distraído.
 
-— Banjo, a gente tá no meio de um lugar desconhecido onde tem um mago negro perigoso à solta. Um criminoso que tá há décadas por aí, se escondendo e ficando mais forte. E, além disso, nem todos nos querem aqui. Somos “dimensais”; sempre seremos vistos como suspeitos, como forasteiros. A qualquer momento, alguém pode achar que a gente é responsável por algo ruim… A gente tá correndo risco. 
+– Eu sei que vocês têm dúvidas – disse, enfim, e sentou-se no sofá. – A Sociedade de Tayo foi criada há muito tempo, por gente que queria o bem da cidade. Quando as ameaças passaram, deixamos de nos reunir. Agora as coisas estão mudando.
 
-— Mas, Breno… a gente acabou de chegar! Esse lugar… é fantástico. E o Velho-Sábio tá cuidando da gente, ele é forte! Não precisamos nos preocupar só porque existe um mago negro em algum lugar.
+Breno quis perguntar mais, mas o olhar do velho dizia que não era hora. Eles guardaram o tabuleiro em silêncio e, um a um, foram para o quarto. Só Bruno ficou no sofá, sozinho, pensando em tudo.
 
-Beatriz, deitada na cama, ergueu o corpo para olhar para os irmãos. Sua expressão era de surpresa e indignação.
+A tela grande se acendeu devagar.
 
-— O Banjo tá certo! Isso aqui é um sonho, Breno. Eu nunca vi nada parecido! Eu… eu não quero ir embora. Por que temos que fugir só por causa de uma ameaça que nem tá perto da gente?
+– Notei que você olhava bastante para a garota, Bruno.
 
-Breno passou a mão pelo rosto, exalando frustração.
+Ele piscou, desconcertado.
 
-— Vocês não estão entendendo a gravidade da situação! Korvo é um dos magos mais perigosos de Belfex, talvez o mais perigoso. O Velho-Sábio disse que ele tem seguidores, pessoas dispostas a fazer qualquer coisa por ele. Ele não usou as palavras, mas dá pra entender o que ele quis dizer… esses seguidores fariam o que fosse necessário pela causa que eles acreditam.
+– E daí? Ela é bonita. Qual o problema?
 
-Bruno, que estava sentado em silêncio até então, ergueu o olhar, lançando a Breno um olhar desafiador.
+– Bonita. Interessante palavra. Significa que ela te agrada pela aparência?
 
-— Ah, então você quer dizer que a gente devia simplesmente correr de volta pra casa e fingir que nada disso existiu? — ele disse, com um leve tom sarcástico. — Olha, Breno, assassinos e gente perigosa existem em qualquer lugar. Sabe quantas pessoas perigosas tem no nosso mundo? E mesmo assim a gente vive lá, não vive?
+– Ah, vai, Kali. Não precisa analisar tudo. Ela só chamou minha atenção. Coisa normal.
 
-Breno encarou o irmão com um olhar duro.
+– Você a ama, então?
 
-— Isso é diferente, Bruno. No nosso mundo, pelo menos a gente entende como as coisas funcionam. Aqui, estamos perdidos! Nem sabemos o que o Korvo quer realmente ou do que ele é capaz!
+Bruno arregalou os olhos, depois riu, desconfortável.
 
-Bruno deu de ombros, com um meio sorriso irônico.
+– Amar? Claro que não! Como eu amaria alguém que nem conheço?
 
-— Belfex é enorme. É muita pretensão achar que Korvo vai ter algum interesse específico em nós. E se você quer que a gente vá embora só porque tem um mago negro no mundo... — ele fez uma pausa, olhando para Beatriz e Banjo. — Então é melhor você se preparar pra não viver em lugar nenhum. Porque sempre vai ter perigo em qualquer lugar.
+– Entendo. – A voz de Kali ficou mais baixa. – O amor parece algo mais profundo. Eu nunca senti. Mas, observando vocês, tenho curiosidade. Os sentimentos parecem dar propósito às pessoas.
 
-Beatriz ergueu o queixo e falou:
+– Você é uma IA, Kali. Isso tá longe da sua realidade.
 
-— Eu não vou embora. Finalmente encontrei um lugar onde posso fazer coisas que nunca imaginei. A gente tá descobrindo tanta coisa... Se a gente voltar agora, é como se tivesse sido tudo em vão.
+– Talvez. – Houve uma pausa. – Poderia me ensinar como é amar?
 
-Banjo assentiu, apoiando a irmã.
+Bruno quase riu.
 
-— Eu também não quero ir, Breno. Mesmo com o Korvo, mesmo com a Vigilância. Isso aqui é nossa vida agora.
+– Eu te ensinar? Não tem como ensinar sentimento. Não é código. Não tem lógica.
 
-Breno sentiu o peso das palavras dos irmãos, mas sua expressão continuava tensa. Ele respirou fundo, tentando controlar a frustração.
+– Compreendo – disse Kali, num murmúrio. Havia algo quase triste no jeito como ela deixou o silêncio crescer.
 
-— Vocês é que sabem... — disse ele, em voz baixa.
+Bruno ficou quieto. Sentiu uma inquietação que não soube nomear e se levantou, evitando olhar a tela. Mas a luz dela o acompanhou até o fim do corredor, como quem espera por uma resposta que ainda não veio.
 
-Banjo, deitado, olhava para o teto estrelado. A discussão ecoava na cabeça dele, mas, em vez de aflição, uma certa curiosidade agora o envolvia. Ele começou a se perder nas novas possibilidades daquele mundo. Afinal, eles estavam em um lugar mágico, um lugar onde coisas impossíveis pareciam acontecer a cada instante.
+No quarto de Bruno, a porta estava encostada. Alguém tinha deixado uma fresta, e por ela entrou, pesado e silencioso, o Coronel. Subiu na cama sem pedir licença, deu três voltas e se deitou aos pés dele. Bruno ficou olhando para o teto, com a mão afundada no pelo morno do cachorro.
 
-Ele pensava em tudo o que tinha visto até agora: as criaturas estranhas, os caminhos de gravidade bizarra, em Velho-Sábio… a ideia de ter poderes o fascinava. Finalmente ele sentia que se encaixava no mundo. Não era apenas mais um que era zoado na escola. Uma faísca de emoção tomava conta dele. Ele queria aprender logo a falar com animais, e queria saber o que aconteceu com o pequenino em seu treinamento. 
+– Eu não chorei – murmurou.
 
-Banjo pegou o copo d’água que havia deixado do lado e o observou, distraído, os olhos desfocados, quase enxergando além daquilo.
-
-“O que será que foi aquilo?” pensou ele. “Será que tem algo em mim que ainda não descobri? Algo que me torne…”
-
-De repente, seu raciocínio foi interrompido pelo vazio. Ele esticou a mão onde, segundos antes, o copo estivera. Mas não havia nada. Banjo piscou, voltando à realidade, e procurou o copo ao redor, meio perdido.
-
-E então, ali ao lado, ele viu o copo flutuando no ar. Girando devagar, com uma leve oscilação, como se estivesse suspenso por um fio invisível.
-
-Banjo ficou paralisado, o coração acelerando.
-
-— E-ei... o que… — murmurou, a voz falhando, sem ter certeza se deveria falar ou ficar quieto.
-
-Beatriz, percebendo o tom dele, espiou da cama ao lado.
-
-— Banjo, o que foi? — perguntou, sem entender.
-
-Ele apenas apontou para o copo, boquiaberto. Os olhos de Beatriz seguiram o gesto, e ela imediatamente viu o copo flutuando ao lado dele.
-
-— O quê…? — ela sussurrou, e dessa vez sua voz também se entrecortou.
-
-Bruno e Breno perceberam o alvoroço e se viraram ao mesmo tempo. Bruno deu uma risada nervosa.
-
-— Que irado… o copo tá voando.
-
-Banjo apenas balançou a cabeça, mal piscando, ainda tentando absorver o que estava vendo. Mas, antes que pudessem falar ou fazer qualquer coisa, o copo perdeu o equilíbrio e caiu, se espatifando em pedaços que cobriram o chão com um tilintar agudo e uma poça de água.
-
-Banjo deu um pulo, o feitiço do momento quebrado junto com o copo. Ele olhou para os cacos, respirando fundo, como se tentasse entender o que acabara de acontecer.
-
-— Eu… eu não fiz nada, juro! — disse, parecendo mais confuso do que nunca.
-
-
-
-Pela noite, enquanto jogavam uma partida de Pedropone com Velho-Sábio, a campainha ecoou pela casa silenciosa, interrompendo os pensamentos dos irmãos. Velho-Sábio levantou-se calmamente e, com um olhar tranquilizador para eles, dirigiu-se à porta. Os garotos, sempre curiosos, espiaram à distância, tentando ouvir o que se passava.
-
-Ao abrir a porta, Velho-Sábio encontrou Garmand acompanhado de sua filha, Brenda. A garota mantinha a cabeça baixa, as mãos nos bolsos, lançando olhares discretos pela sala como se tentasse absorver cada detalhe sem ser notada. Coronel, deitado perto da lareira, ergueu as orelhas ao notar a chegada, mas permaneceu no lugar, apenas observando com curiosidade.
-
-Velho-Sábio cumprimentou os visitantes com uma leve inclinação de cabeça e fez um gesto para que entrassem. Garmand entrou com passos firmes, sua expressão séria refletindo a tensão que trazia consigo. Ele acenou brevemente para os garotos, sem palavras desnecessárias, enquanto Brenda apenas lançou um olhar rápido para eles antes de desviar a atenção para o ambiente.
-
-Bruno não conseguiu evitar olhar para ela, tentando disfarçar seu interesse com uma expressão casual, mas seus olhos sempre voltavam para a garota quando ela não estava olhando. Brenda, no entanto, parecia alheia à atenção, o que só aumentava a frustração de Bruno.
-
-Após trocarem cumprimentos formais, Garmand foi direto ao ponto. A seriedade em sua voz era evidente, assim como a preocupação que carregava.
-
-— Tenho notado vigilantes rondando minha casa. Hoje mesmo vi um deles próximo à porta. A cada dia confio menos em deixá-la — ele lançou um breve olhar para Brenda — sozinha.
-
-Velho-Sábio assentiu, cruzando os braços enquanto ponderava as palavras de Garmand.
-
-— Não é só você. Também percebi vigilantes nos observando com mais frequência. Há algo acontecendo, mas ainda não sei o que exatamente.
-
-Garmand apertou os lábios antes de continuar:
-
-— A vigilância está agindo de forma estranha e suspeita. Há poucos em quem podemos confiar. E, para piorar, os rumores sobre Korvo e seus seguidores no leste estão crescendo. O povo, tomado pelo medo, começa a apoiar cegamente a vigilância.
-
-— Korvo é esperto — disse Velho-Sábio, com um tom grave. — Ele não precisa aparecer para manipular as peças do tabuleiro. Sua patrulha faz esse trabalho por ele.
-
-Garmand concordou com um leve aceno e respirou fundo antes de falar novamente.
-
-— Era exatamente sobre isso que eu queria discutir, Auream. Talvez seja hora de reativarmos as reuniões.
-
-Velho-Sábio ergueu os olhos, a sugestão claramente despertando algo em sua mente.
-
-— Acha mesmo necessário?
-
-— Não apenas acho. É inevitável — respondeu Garmand, firme. — Korvo tem sua patrulha, e nós… temos a Sociedade. Precisamos nos organizar antes que seja tarde demais.
-
-Bruno, que tentava prestar atenção na conversa, desviou o olhar para Brenda novamente. Ela suspirou levemente, parecendo entediada, e quando percebeu o olhar insistente de Bruno, ergueu as sobrancelhas em uma expressão de leve exasperação antes de desviar o olhar para um canto da sala. Ele rapidamente voltou a encarar o chão, tentando esconder o desconforto.
-
-Velho-Sábio pareceu ponderar as palavras de Garmand.
-
-— Já fazem quase dez anos desde a última vez — comentou, a voz baixa, quase como se estivesse falando consigo mesmo.
-
-— E já houve mais de dez ocasiões em que considerei essa possibilidade — rebateu Garmand. — Mas agora é diferente. Lucas está perdido, e estamos no escuro. Precisamos saber em quem confiar. O que me diz?
-
-Velho-Sábio permaneceu em silêncio por um momento, seus olhos fixos no chão enquanto pensava. Quando finalmente falou, sua voz carregava um peso inconfundível.
-
-— As circunstâncias pedem ação. Se continuarmos apenas esperando, uma guerra civil pode começar em Tayo. A Sociedade talvez seja nossa melhor opção.
-
-Garmand então voltou seu olhar para os irmãos, que até então permaneciam atentos e em silêncio.
-
-— Quanto a vocês — disse ele, sua voz séria —, nada do que ouviram aqui deve ser mencionado a mais ninguém. Garanto a vocês uma passagem de volta à 3ª dimensão no dia seguinte se algo escapar daqui.
-
-— Sim, senhor — respondeu Breno rapidamente, com os outros irmãos assentindo em seguida.
-
-— Muito bem — continuou Garmand. — A cidade está em um momento delicado. Precisamos estar prontos para o que vier, todos nós.
-
-O ambiente ficou carregado por um silêncio tenso. Finalmente, Garmand fez um gesto para Brenda, indicando que era hora de partir. A garota se levantou devagar, lançando um último olhar à sala antes de seguir o pai.
-
-— Avisarei quando a reunião for marcada — encerrou Garmand, com um leve aceno para Velho-Sábio antes de sair.
-
-Enquanto a porta se fechava, Velho-Sábio permaneceu parado por alguns instantes, seus pensamentos claramente pesados. Coronel levantou-se e caminhou até ele, encostando o focinho em sua perna como se quisesse confortá-lo. O mago afagou o cachorro distraidamente enquanto os irmãos permaneciam sentados, a curiosidade sobre a tal "Sociedade de Tayo" queimando em suas mentes, mas o peso das advertências de Garmand os mantendo em silêncio. 
-
-Velho-Sábio, desafogou sua expressão distante, e voltou-se para os garotos, imediatamente notando a curiosidade em seus olhos. 
-
-— Já sei que tem dúvidas. E eu vou as esclarecer — O mago se dirigiu até o sofá e se sentou. —  A Sociedade de Tayo foi criada muitos anos atrás. Naquela época, havia um propósito claro, uma necessidade de unir aqueles que acreditavam no bem maior da cidade. Quando a situação melhorou e não havia mais grandes ameaças, deixamos a sociedade adormecida. Mas agora, as coisas estão mudando, e precisamos retomar o trabalho que começamos.
-
-Os garotos trocaram olhares, absorvendo cada palavra.
-
-— Esse grupo — continuou Velho-Sábio — já foi responsável por manter Korvo fora de Tayo.
-
-Breno franziu a testa, confuso e intrigado.
-
-— O que quer dizer com isso? — perguntou ele. — Por que Korvo já tentou entrar em Tayo? 
-
-Velho-Sábio suspirou, e uma expressão de pesar passou por seu rosto.
-
-— Vamos abrir o jogo aqui. — Ele fez uma pausa, fitando os garotos com uma expressão intensa. — Korvo acredita que os dimensais, como vocês, são os mais suscetíveis a aderir à sua causa. Para ele, vocês são uma fonte de poder em potencial que, se bem manipulada, pode fortalecer seu exército.
-
-Banjo engoliu em seco, um calafrio percorrendo sua espinha, enquanto Beatriz apertava os punhos, determinada a não se deixar intimidar. Já Bruno mantinha o olhar fixo e distante, absorvendo as informações com uma expressão indecifrável.
-
-— É por isso que a Vigilância se concentra tanto em vocês — explicou Velho-Sábio, a voz sombria. — Não porque vocês sejam culpados, mas porque, nas mãos erradas, seu potencial poderia ser a maior arma de Korvo contra todos nós.
-
-Um silêncio pesado pairou sobre o ambiente, cada um processando as implicações das palavras do mago. Por fim, Velho-Sábio tentou suavizar a tensão, esboçando um leve sorriso de encorajamento, embora o peso do que ele acabara de revelar permanecesse.
-
-Beatriz e Banjo evitaram olhar para Breno, que carregava uma expressão grave e contida, como se dissesse silenciosamente “Eu avisei que era perigoso.” Seu semblante transmitia um misto de receio e dúvida, refletindo o conflito interno entre sua responsabilidade de proteger os irmãos e o temor pelo que essa decisão significava para todos. 
-
-— Vamos, é melhor dormirem um pouco. Amanhã será um dia cheio.
-
-Eles assentiram, em silêncio, e começaram a guardar o tabuleiro do jogo. A sala foi ficando mais tranquila conforme os irmãos se dispersavam para seus quartos. Um por um, foram se retirando, até que restou apenas Bruno, sentado no sofá sozinho, pensando em tudo o que havia escutado naquela noite.
-
-Então a voz de Kali quebrou o silêncio, suave e gentil.
-
-— Notei que você estava olhando bastante para a garota, Bruno.
-
-Ele parou, surpreso e um pouco desconcertado, virando-se para encarar a tela.
-
-— E daí? Ela é... — Bruno hesitou, tentando soar despreocupado. — Ela é bonita, só isso. Qual o problema?
-
-Kali pausou, como se ponderasse a resposta, antes de replicar:
-
-— Bonita. Interessante escolha de palavra. Significa que ela te agrada, então? Em aparência?
-
-Bruno soltou uma risada curta e abafada, balançando a cabeça.
-
-— Ah, vai, Kali. Não precisa ficar analisando tudo. Ela só chamou a minha atenção, sabe? — Ele deu de ombros, tentando disfarçar o leve constrangimento. — Coisa normal.
-
-Kali ficou em silêncio, processando a resposta, e então perguntou com uma curiosidade genuína:
-
-— Você a ama, então?
-
-Bruno ficou momentaneamente sem palavras, arregalando os olhos.
-
-— Amar? — Ele soltou uma risada seca, visivelmente desconfortável. — Claro que não, Kali! Como eu poderia amar alguém que nem conheço? Só achei ela bonita, é só isso.
-
-Kali observou a reação dele e replicou com um tom calmo:
-
-— Entendo. O amor parece ser... algo mais profundo. Eu nunca senti isso. Mas vejo que, para vocês, é algo especial.
-
-Bruno bufou, cruzando os braços e desviando o olhar.
-
-— Especial? Sei lá, Kali. Você é uma IA. Acho que isso tá bem longe da sua realidade. Nem precisa entender essas coisas, na verdade.
-
-Kali fez uma pausa que parecia refletir, e sua voz soou mais suave:
-
-— É verdade, talvez eu não precise. Mas ao ver como vocês se relacionam, como se conectam... fico curiosa. Sentimentos como esses parecem dar propósito. Poderia me ensinar como é amar?
-
-Bruno riu, com um toque de impaciência.
-
-— Eu te ensinar a amar? Não dá pra você sentir essas coisas, nem entender. Não tem como ensinar sentimentos. Eles não são... código. Não têm uma lógica.
-
-Kali permaneceu em silêncio por um momento, antes de responder, quase num murmúrio:
-
-— Eu compreendo — Kali respondeu, deixando em seguida o silêncio preencher o espaço entre eles, mas havia algo quase... triste em sua resposta.
-
-Bruno ficou quieto, sentindo uma leve inquietação, mas evitou demonstrar. Virou-se, tentando conter a própria frustração, mas a sinceridade de Kali mexia com ele de um jeito que ele não sabia explicar. A luz da tela parecia acompanhar seu movimento, como se aguardasse algo mais dele.
-
-Bruno hesitou por um instante, sabendo que talvez tivesse sido rude, mas, teimoso, afastou-se da sala, o diálogo ainda ecoando em sua mente enquanto seguia para o quarto.
-
-
-
-
+O Coronel bufou, concordando, e fechou os olhos.

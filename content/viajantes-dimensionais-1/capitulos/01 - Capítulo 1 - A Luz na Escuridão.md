@@ -82,6 +82,8 @@ Banjo se encolheu debaixo do cobertor, mas mesmo assim foi se sentar perto do ir
 
 – Eu e o pai consertamos vários aparelhos juntos. Mas este aqui... não consigo achar o problema. Já vi o fusível, já vi se há oxidação, e o multímetro mostra que não passa corrente alguma por dentro dele.
 
+Ele abriu a tampa das pilhas pela décima vez. Embaixo dela, gravado no plástico, havia um símbolo minúsculo de linhas curvas que ele nunca soube o que significava.
+
 – Você acha que o tio vai deixar a gente ir pro passeio? – perguntou Beatriz, falando do passeio da escola ao Parque Estadual da Cantareira.
 
 – Sinceramente, não faço ideia. Espera, você quer ir pra esse passeio? – perguntou Breno, incrédulo.
