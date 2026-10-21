@@ -192,6 +192,7 @@
         +'<button id="openFeedbackHub" class="admin-home-card" type="button"><strong>💬 Feedback</strong><span>Comentários, respostas, reações e avaliações beta.</span><span id="adminHomeNewCount" class="admin-new-count" hidden></span></button>'
         +'<button id="openAnalyticsDashboard" class="admin-home-card" type="button"><strong>📊 Análises</strong><span>Comportamento geral de leitura, tempo, áudio e preferências.</span></button>'
         +'<button id="openPopupDashboard" class="admin-home-card" type="button"><strong>📣 Mensagens</strong><span>Envie recados, acompanhe leitura e reutilize modelos.</span></button>'
+        +'<button id="openContentSync" class="admin-home-card" type="button"><strong>🔄 Sincronizar conteúdo</strong><span>Atualize livros, capas e imagens de capítulos publicados.</span></button>'
       +'</div>'
       +'<footer class="admin-home-footer"><button id="authorAdminLogout" class="link-btn admin-home-logout" type="button">Sair do admin</button></footer>'
       +'</section>';
@@ -202,6 +203,7 @@
     el.querySelector("#openFeedbackHub").onclick=()=>{hideAdminHome();showFeedbackHub();};
     el.querySelector("#openAnalyticsDashboard").onclick=()=>{hideAdminHome();showAnalytics();};
     el.querySelector("#openPopupDashboard").onclick=()=>{hideAdminHome();window.PopupMessages?.openAdmin?.();};
+    el.querySelector("#openContentSync").onclick=()=>{if(!Comments?.isAdmin?.())return;hideAdminHome();document.dispatchEvent(new Event("lityra:admin-sync-open"));};
     el.onclick=e=>{if(e.target===el)hideAdminHome();};
   }
 

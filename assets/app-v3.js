@@ -66,13 +66,31 @@ const ART_BASE = "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/
 function bookArtMeta(bookId){
   return state.books.find(book=>book.id===bookId) || allBooksCache?.find(book=>book.id===bookId) || {};
 }
+const SYNC_ASSET_VERSION_KEY="lityra:asset-cache-version";
+function refreshedAssetUrl(src){
+  if(!src)return "";
+  let version="";
+  try{version=sessionStorage.getItem(SYNC_ASSET_VERSION_KEY)||"";}catch(_){}
+  if(!version)return src;
+  try{
+    const url=new URL(src,document.baseURI);
+    url.searchParams.set("lityra_sync",version);
+    return url.href;
+  }catch(_){return src;}
+}
 function coverUrl(bookId){
   const book=bookArtMeta(bookId);
-  return book.cover || ART_BASE + bookId + "/cover.webp";
+  return refreshedAssetUrl(book.cover || ART_BASE + bookId + "/cover.webp");
 }
-function chapterArtUrl(bookId, n){
+function chapterArtUrl(bookId,n){
   const book=bookArtMeta(bookId);
-  return (book.artBase || ART_BASE + bookId + "/") + "chapters/chapter-" + String(n).padStart(2,"0") + ".webp";
+  const chapter=state.currentBook?.id===bookId
+    ?state.currentBook.chapters?.find(ch=>Number(ch.n)===Number(n)):null;
+  const legacyBase=["ruinas-dos-ceus","guerras-de-sangue","dinastia-polar"].includes(bookId)
+    ?ART_BASE+bookId+"/":null;
+  const base=book.artBase || legacyBase;
+  const src=chapter?.art || (base?base+"chapters/chapter-"+String(n).padStart(2,"0")+".webp":"");
+  return refreshedAssetUrl(src);
 }
 function libraryText(value){
   return String(value ?? "").replace(/[&<>"']/g, char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
@@ -221,6 +239,17 @@ async function loadLibrary(){
   });
 }
 
+// Biblioteca publicada. A sincronização não altera o progresso de nenhum leitor.
+window.LityraContentAPI={
+  getBooks:()=>Array.isArray(allBooksCache)?allBooksCache.map(book=>({...book})):[],
+  async refresh(books){
+    if(!window.Comments?.isAdmin?.()||!Array.isArray(books))return false;
+    allBooksCache=books.map(book=>({...book}));
+    await loadLibrary();
+    return true;
+  }
+};
+
 // ---------------- Livro / capítulos ----------------
 async function openBook(bookId){
   if(!canOpenBook(bookId)){
@@ -367,7 +396,9 @@ async function openChapter(idx){
   }else{
     art.onerror = () => { art.hidden = true; };
     art.onload = () => { art.hidden = false; };
-    art.src = chapterArtUrl(book.id, ch.n);
+    const imageSrc=chapterArtUrl(book.id,ch.n);
+    if(imageSrc)art.src=imageSrc;
+    else art.removeAttribute("src");
   }
   showView("reader");
   const readerScroll=$("#readerScroll");

@@ -4,51 +4,62 @@
       "id": "ruinas-dos-ceus",
       "title": "Ruínas dos Céus",
       "subtitle": "Ciclo de Jesed — Livro 1",
-      "manifest": "data/ruinas-dos-ceus.json"
+      "manifest": "data/ruinas-dos-ceus.json",
+      "cover": "assets/covers/ruinas-dos-ceus.webp",
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/ruinas-dos-ceus/"
     },
     {
       "id": "guerras-de-sangue",
       "title": "Guerras de Sangue",
       "subtitle": "Ciclo de Jesed — Livro 2",
-      "manifest": "data/guerras-de-sangue.json"
+      "manifest": "data/guerras-de-sangue.json",
+      "cover": "assets/covers/guerras-de-sangue.webp",
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/guerras-de-sangue/"
     },
     {
       "id": "dinastia-polar",
       "title": "Dinastia Polar",
       "subtitle": "Ciclo de Jesed — Livro 3",
       "manifest": "data/dinastia-polar.json",
-      "signupAvailable": false
+      "signupAvailable": false,
+      "cover": "assets/covers/dinastia-polar.webp",
+      "artBase": "https://guyoshi.github.io/dimensoesinfinitassite/assets/books/ciclo-de-jesed/dinastia-polar/"
     },
     {
       "id": "herdeiros-das-cinzas",
       "title": "Herdeiros das Cinzas",
       "subtitle": "Ciclo de Jesed — Livro 4",
       "manifest": "data/herdeiros-das-cinzas.json",
-      "signupAvailable": false
+      "signupAvailable": false,
+      "cover": "assets/covers/herdeiros-das-cinzas.webp"
     },
     {
       "id": "diario-sobrenatural-1",
       "title": "Os Elos das Sombras",
       "subtitle": "Diário Sobrenatural — Livro 1",
-      "manifest": "data/diario-sobrenatural-1.json"
+      "manifest": "data/diario-sobrenatural-1.json",
+      "cover": "assets/covers/diario-sobrenatural-1.webp"
     },
     {
       "id": "diario-sobrenatural-2",
       "title": "A Alvorada das Ilusões",
       "subtitle": "Diário Sobrenatural — Livro 2",
-      "manifest": "data/diario-sobrenatural-2.json"
+      "manifest": "data/diario-sobrenatural-2.json",
+      "cover": "assets/covers/diario-sobrenatural-2.webp"
     },
     {
       "id": "spacetheft-1",
       "title": "A Lenda da Aurora",
       "subtitle": "Spacetheft — Livro 1",
-      "manifest": "data/spacetheft-1.json"
+      "manifest": "data/spacetheft-1.json",
+      "cover": "assets/covers/spacetheft-1.webp"
     },
     {
       "id": "viajantes-dimensionais-1",
       "title": "A Patrulha de Korvo",
       "subtitle": "Viajantes Dimensionais — Livro 1",
-      "manifest": "data/viajantes-dimensionais-1.json"
+      "manifest": "data/viajantes-dimensionais-1.json",
+      "cover": "assets/covers/viajantes-dimensionais-1.webp"
     },
     {
       "id": "a-uniao-1",
