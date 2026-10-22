@@ -306,9 +306,9 @@ Auream assentiu.
 
 – Disse, sim. Ontem à noite fui à casa de vocês porque soube que tinham encontrado o estírio. Aquela esfera azul da caverna, lembram? Quando vocês a tocaram, ela despertou uma magia que já estava em vocês. O contato deixou um registro aqui em Tayo. Foi assim que consegui encontrá-los.
 
-– Então foi por causa da bolinha que começaram a acontecer aquelas coisas? – perguntou Beatriz, olhando para as mãos.
+– Mas por que essa magia já estava na gente? – perguntou Beatriz, olhando para as mãos.
 
-– Foi depois daquele encontro que a magia de vocês despertou. E, sem saber controlá-la, é natural que tenham se assustado. Imagino que o acidente com o carro tenha sido suficiente para isso.
+– Vocês descendem de senavelitas, pessoas capazes de usar magia. A de vocês só despertou agora. E, sem saber controlá-la, é natural que tenham se assustado. Imagino que o acidente com o carro tenha sido suficiente para isso.
 
 Breno apertou os dedos na borda da mesinha.
 
