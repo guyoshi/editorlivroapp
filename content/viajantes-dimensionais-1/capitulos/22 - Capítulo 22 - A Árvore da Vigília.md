@@ -321,9 +321,15 @@ McCroys ficou olhando para ele. A boca dele fez um movimento estranho, como se t
 
 – Não é pena. É que eu estava errado.
 
-O silêncio que veio foi o mais comprido da escadaria. McCroys apertou o casaco no corpo, desviou os olhos para a praça e disse, devagar:
+– Claro que estava. – McCroys apertou o casaco no corpo. – Em vinte e nove anos, você é o primeiro a admitir isso sem que eu precisasse arrancar com tenaz. Alguém devia anotar a data.
 
-– Em vinte e nove anos, você é o primeiro a me dizer isso. – Pigarreou. – Guarde esse hábito, garoto. Vai precisar mais vezes do que imagina. – E, antes de se virar, acrescentou, quase sem mexer a boca: – Boa sorte lá na terceira dimensão. Não deixem que apaguem vocês.
+Bruno soltou uma risada pelo nariz, sem conseguir segurar.
+
+– Está rindo de quê?
+
+– Nada. É que o senhor é péssimo em aceitar desculpa.
+
+– Eu sou excelente em aceitar desculpa. Só nunca tive muita prática. – Pigarreou, desviou os olhos para a praça e baixou a voz, de má vontade: – Guarde esse hábito, garoto. Vai precisar mais vezes do que imagina. E, se contar a alguém que eu fui educado, nego tudo. – E, antes de se virar, acrescentou, quase sem mexer a boca: – Boa sorte lá na terceira dimensão. Não deixem que apaguem vocês.
 
 Foi embora de ombros retos, mas Bruno percebeu que eles estavam um pouco mais soltos do que antes. Nicolas ficou para trás.
 
