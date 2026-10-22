@@ -30,7 +30,7 @@ No fundo do ônibus, Pedro Porrada e a gangue os fuzilaram com os olhos. Pedro p
 
 Bruno apoiou dois dedos no vidro embaçado da janela. Quando os afastou, havia uma borda fina de gelo onde tocara. Esfregou o vidro com a manga e culpou o frio do ônibus. Não comentou com ninguém.
 
-Naquela noite, colocou o rádio na prateleira do quarto e ficou olhando para ele por muito tempo. Não tocava. Mas a carcaça continuava morna.
+Naquela noite, Breno colocou o rádio na prateleira do quarto e ficou olhando para ele por muito tempo. Não tocava. Mas a carcaça continuava morna.
 
 Na manhã seguinte, chovia de novo.
 
@@ -44,9 +44,21 @@ Melissa era a melhor amiga de Beatriz desde a primeira série. Falava rápido, p
 
 – Por que o sol é tão idiota e fica se escondendo?
 
-– Bom dia, crianças – disse a professora Marlene da porta. – Quem vai para o coral, venha comigo. Quem não vai, o professor Rubens já está chegando.
+Melissa empurrou a própria garrafinha de água para a amiga. Estava fria, com gotinhas escorrendo pelo plástico. Beatriz a segurou entre as mãos por um momento, mas não bebeu.
 
-Os alunos do coral seguiram a professora pelo corredor. Beatriz sentiu uma pontada na cabeça e parou, com a mão na testa. A folha de música que segurava na outra mão parecia quente demais para uma manhã fria. Trocou a partitura de mão, desconfiada.
+– Você não quer nem água?
+
+Beatriz devolveu a garrafa. Melissa tomou um gole e fez uma careta.
+
+– Ué. Tava geladinha agora.
+
+– Deve ter esquentado aqui na sala – disse Beatriz, sem dar muita atenção.
+
+– Nessa geladeira? – Melissa indicou a janela molhada de chuva, mas logo se distraiu com os passos do professor Rubens entrando na sala.
+
+As duas passaram a primeira aula copiando a matéria. Beatriz não conseguia se concentrar. Quando o sinal do recreio tocou, guardou o caderno depressa e pegou as partituras para o coral que teria em seguida.
+
+No corredor, sentiu uma pontada na cabeça e parou. O papel que apertava na outra mão parecia aquecido pelo sol, embora o dia continuasse cinzento.
 
 – O que foi? – perguntou Melissa.
 
@@ -56,7 +68,13 @@ Os alunos do coral seguiram a professora pelo corredor. Beatriz sentiu uma ponta
 
 – Não precisa. Vai passar.
 
-Ela abriu os olhos a tempo de ver alguém cair do outro lado do pátio.
+Melissa recolheu uma folha que Beatriz quase deixara cair e reparou que uma das pontas estava um pouco ondulada.
+
+– Molhou na chuva?
+
+– Acho que sim – respondeu Beatriz, apesar de a folha estar seca.
+
+Do lado de fora, o recreio seguia no pátio úmido. Beatriz ergueu os olhos a tempo de ver alguém cair perto dos bancos.
 
 – Aquele não é seu irmão? – perguntou Melissa.
 
@@ -90,73 +108,59 @@ A nuvem parou. Esperou um segundo, como quem pede licença, e se desfez no ar.
 
 – Eram marimbondos – corrigiu Banjo, com a cara mais inocente do mundo.
 
-O diretor bateu na porta do banheiro. Depois de alguns instantes, ela se abriu devagarinho, e Pedro Porrada saiu, molhado de lama dos pés à cabeça, pálido, com uma única picada no meio da testa que já inchava como um terceiro olho. Houve murmúrios, risinhos e gente demais se aproximando para ver.
+O diretor bateu na porta do banheiro. Depois de alguns instantes, ela se abriu devagarinho, e Pedro Porrada saiu, molhado de lama dos pés à cabeça, pálido, com uma única picada no meio da testa que já inchava como um terceiro olho.
 
-– Para a enfermaria, agora – ordenou o diretor, levando Pedro pelo ombro. – E vocês, voltem para as aulas!
+– Eu sou alérgico! – disse Pedro, apontando para a testa. – Sou alérgico a marimbondo!
+
+Os risinhos pararam. O diretor se abaixou para examiná-lo.
+
+– Está conseguindo respirar direito?
+
+– Tô! Mas tá inchando!
+
+– Vou ligar para seus pais agora – disse Everton, conduzindo-o para dentro do prédio. Virou-se para as crianças que ainda se amontoavam perto do banheiro. – E acabou o recreio! Todo mundo de volta para as salas de aula!
 
 – Caramba! – disse Bruno, aparecendo ao lado de Banjo. – O que foi que aconteceu?
 
-– Acho que o Banjo fez alguma coisa – cochichou Beatriz.
+– O marimbondo pousou em você antes – disse Beatriz, baixando a voz para os irmãos –, e depois todos voaram pra cima do Pedro. E você mandou eles pararem e eles... pararam. Acha isso normal?
 
-– Shhh. Eu não fiz nada – disse Banjo.
+– Eu não fiz nada! – respondeu Banjo, olhando para a porta por onde Pedro tinha saído. – Ele falou que é alérgico. E se passar mal de verdade?
 
-– O marimbondo pousou em você antes, e depois todos voaram pra cima do Pedro. Acha isso normal? Desde a caverna as coisas estão esquisitas.
+– Tomara que ele pague pelos pecados dele – disse Bruno, num tom solene demais para ser sério. Tentou sorrir, mas também olhou para a porta.
 
-– Claro, agora temos um encantador de marimbondos na família – disse Bruno, fazendo uma reverência exagerada. – Se for verdade, já tenho uma lista de pessoas que merecem uma visita. Começa no Pedro e termina no professor de matemática.
+– Bruno! – repreendeu Beatriz.
 
-Beatriz soltou uma risadinha, no instante em que Breno chegava.
+– Que foi? Eu nem cheguei perto daqueles bichos!
 
-– Vocês viram isso?
+– Eu só pedi pra eles pararem – disse Banjo. – Não sei por que pararam.
 
-– Vi a testa do Pedro. A Beatriz acha que o Banjoca comandou um exército de marimbondos.
+– Vocês viram isso? – perguntou Breno, chegando junto dos três.
 
-– O quê? Do que está falando?
+– Vi a testa do Pedro – disse Bruno. – E parece que agora o Banjoca é suspeito de comandar marimbondos.
 
-– Eles pararam quando o Banjo pediu – insistiu Beatriz.
+– Não tô dizendo que ele comandou – protestou Beatriz. – Só que os bichos pararam quando ele pediu.
 
-– Foi poético, como uma tragédia de teatro – disse Bruno, com a mão no peito, numa péssima imitação de alguém com dores. – Mas aposto que tinha um ninho naquele telhado.
+Breno olhou para o telhado, onde ainda havia alguns insetos voando. Era perfeitamente possível que tivessem saído de um ninho e se dispersado depois do susto.
 
-– Não mandei em nenhum bicho – disse Banjo. – Só pedi que parassem. E pararam. Não sei se foi por minha causa.
+– Aconteceu um ataque de marimbondos – disse ele. – O Pedro pode estar machucado. Não vamos brincar com isso.
 
-Breno olhou para o telhado, depois para o irmão. Queria acreditar na explicação de Bruno, mas lembrou da luz azul na caverna e do rádio tocando sozinho.
+– Não foi o que eu fiz – respondeu Banjo, ainda preocupado.
 
-– Acho melhor ficarmos quietos sobre isso por enquanto – disse, baixando a voz. – Na saída a gente conversa.
+O sinal tocou outra vez, e Breno apontou para o corredor.
 
-Ele foi para a sala, e Beatriz também. No corredor, deu de cara com Melissa, que levou um susto.
+– Vamos. O recreio acabou mesmo.
 
-– Mel, onde você estava?
+Melissa vinha atrás de Beatriz, com as partituras apertadas contra o peito.
 
-A amiga parecia atordoada.
+– Você viu a testa do Pedro? – perguntou ela. – Tomara que não seja uma alergia daquelas perigosas.
 
-– Eu, é... nada... só que... Desde quando o seu irmão é encantador de marimbondos? E que papo era aquele de caverna?
+– Também espero – respondeu Beatriz.
 
-– Você tava espionando a gente?
+– Deve ter ninho naquele telhado. O diretor vive falando que vai mandar alguém olhar.
 
-– Não! Eu só... ouvi demais. Estava perto porque sou sua amiga.
+Beatriz ia comentar que o irmão tinha pedido aos bichos que parassem. Mas, ao ver Melissa preocupada com Pedro, guardou a observação para si. Talvez fosse mesmo só um ninho.
 
-– Não mente pra mim, Mel. Você faz isso com todo mundo. Mas... mesmo sendo minha melhor amiga, não sei se posso te contar a verdade.
-
-– É exatamente por isso que tem que contar. Senão vou ficar horas pensando nisso, vou perder o apetite, não vou dormir essa noite...
-
-– Deixa de drama – disse Beatriz, com um risinho, e hesitou antes de continuar. – Ontem, no passeio, a gente achou uma caverna. Tinha uma bolinha estranha lá dentro, com uma luz azul. A gente encostou nela e, desde então, acontecem coisas esquisitas. Parece até magia. Eu sei como isso soa.
-
-Melissa olhou para ela por um bom tempo.
-
-– Uma bolinha azul deu magia pra vocês.
-
-– Eu não sei se deu alguma coisa. Só sei que tudo começou depois.
-
-– Tá. – Melissa estufou o peito. – Eu acredito em você. Por que eu não acreditaria na minha melhor amiga?
-
-– Não sei. Porque eu mesma não acreditaria.
-
-– Eu acredito – repetiu Melissa, com firmeza demais para ser verdade, e Beatriz teve vontade de rir.
-
-– Por favor, Mel, não conta pra ninguém.
-
-– Eu? Sou um túmulo.
-
-Beatriz tinha certeza de que ela não era, mas ficou feliz por ter uma amiga que fingia tão bem.
+A professora Marlene apareceu na porta da sala de música e chamou os alunos do coral. Beatriz seguiu a amiga, sentindo a cabeça latejar de novo.
 
 No coral, Beatriz se juntou às colegas ao fundo. A maioria olhava para ela de cima a baixo, como sempre, mas Bia não ligava. Só não suportava cantar várias vezes a mesma coisa. Era o que o tio queria para ajudá-la a fazer amigos, e era também a coisa mais entediante do mundo.
 
