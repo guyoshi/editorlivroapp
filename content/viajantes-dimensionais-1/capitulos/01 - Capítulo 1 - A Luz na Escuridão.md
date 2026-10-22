@@ -341,17 +341,17 @@ Pedro caminhou a passos curtos até ele e sorriu.
 
 – Desculpa? Acha que vou desculpar o soco que me deu, vacilão?
 
-Breno ia responder, mas um som assustador veio da mata, um som que eles só tinham escutado em filmes e documentários. Pedro e os outros se viraram para a floresta e recuaram. Antes que pudessem reagir, uma onça grande saltou de cima de uma árvore e pousou entre os irmãos e a gangue. Com o susto, Bruno caiu e sentiu uma dor forte no joelho.
+Breno ia responder, mas um galho estalou na mata, perto do rio. Uma onça-parda surgiu entre os arbustos, de pelo castanho e orelhas baixas. Parou ao perceber os garotos, tão surpresa quanto eles. Bruno recuou depressa, tropeçou e caiu, sentindo uma dor forte no joelho.
 
-– Eita! – exclamou Pedro, recuando.
+– Eita! – exclamou Pedro, dando um passo para trás.
 
-Os irmãos também se assustaram, mas a gangue estava ainda mais assustada. A onça estava virada para eles, de costas para os irmãos, como se os protegesse.
+A onça mostrou os dentes e soltou um rosnado baixo. Nenhum dos dois grupos se mexeu. Quando um dos amigos de Pedro pisou num galho seco, o animal virou a cabeça de repente para o barulho. Pedro aproveitou para recuar, puxando os outros. Breno também procurou uma saída. A onça não parecia distinguir um grupo do outro.
 
 Aproveitando o momento, Breno olhou para a estrutura de galhos sobre o rio e viu que era o único caminho que não passava pela onça nem pelos garotos. Fez sinal com a cabeça, e os irmãos obedeceram.
 
 Bruno foi na frente, equilibrando-se agachado. Banjo foi logo atrás. Breno atravessou segurando a mão de Beatriz, que relutou no começo, com medo, e só foi porque o irmão a convenceu. Ele depois se perguntou se tinha sido uma boa ideia, pois, se alguém tivesse caído, a responsabilidade seria dele, por ser o mais velho.
 
-Do outro lado, viram os garotos recuando da onça e correndo para dentro da mata. O animal urrou para eles e então se virou para os irmãos, como se dissesse: "A barra tá limpa". Eles continuaram correndo até parar para descansar, de novo no meio da mata.
+Do outro lado, viram Pedro e os amigos fugindo entre as árvores. A onça-parda continuava perto do rio, atenta aos movimentos e aos ruídos da mata. Nenhum dos irmãos esperou para descobrir para onde ela iria. Continuaram correndo até parar para descansar, de novo no meio da mata.
 
 – Já chega! – disse Breno. – Precisamos voltar.
 
