@@ -109,7 +109,7 @@ Quando se voltaram, o mago tinha sumido.
 
 O primeiro passo soou como o toque de uma taça. O segundo, de outra, mais aguda. Eles andavam como quem atravessa um sino, e a água tremia em anéis lentos que se afastavam, tocavam as bordas e voltavam maiores.
 
-– Banjo, você pisa forte demais! – cochichou Bruno.
+– Banjo, você anda igual a um elefante de chinelo! – cochichou Bruno.
 
 – E você anda feito um robô! Beatriz tá quase pisando no meu pé!
 
@@ -149,7 +149,7 @@ Voltaram de dassi, com as roupas pingando no assento e a cidade acendendo as luz
 
 – Ah, claro. A culpa é minha – disse Bruno, de braços cruzados.
 
-– Você nos abandonou lá no meio – disse Breno, seco. – Precisamos sincronizar.
+– Você nos abandonou lá no meio – disse Breno, seco. – Eu mandei esperar. Sou o mais velho, Bruno, e quando eu falo é pra valer. Precisamos sincronizar.
 
 – Sincronizar? Desde quando você é especialista em trabalho em equipe?
 
@@ -174,6 +174,12 @@ A chuva tamborilava no telhado da casa do Velho-Sábio, e a sala cheirava a made
 
 Banjo perdeu a primeira rodada. Seu mico foi soltar uma bolha de sabão a cada palavra que dissesse, e ele quis explicar a regra para os irmãos, o que durou uns três minutos e deixou a sala cheia de bolhas que estouravam em notinhas. Beatriz ganhou quatro rodadas seguidas e dançou a vitória. Breno calculava cada movimento em silêncio.
 
+Foi quando o Coronel apareceu sob a mesa com uma das torres de desafio na boca. A torre gritava que estava sendo sequestrada.
+
+– Coronel – disse Velho-Sábio, sem levantar os olhos da jogada. – Larga.
+
+O Coronel largou. A torre se recompôs, ajeitou o telhado e passou o resto da partida lançando olhares de desconfiança para baixo da mesa.
+
 Bruno ficou encostado na parede, de braços cruzados.
 
 – Vai jogar? – chamou Beatriz.
@@ -186,7 +192,7 @@ Quando a partida acabou, Breno foi tomar banho, Banjo e Beatriz foram atrás de 
 
 – Não estou triste.
 
-– Sua respiração e seus batimentos indicam tensão. E seus microgestos...
+– Sua respiração e seus batimentos indicam tensão. E seus pequenos gestos...
 
 – Eu sei o que meus gestos dizem – cortou ele. – E você é uma máquina. Não entende essas coisas.
 
@@ -220,7 +226,9 @@ Banjo, roxo até as orelhas, lambeu a ponta do dedo.
 
 Velho-Sábio balançou a cabeça, mas os olhos dele sorriam.
 
-– Da próxima vez, perguntem antes de mexer no desconhecido. Banho, vocês dois. A limpeza fica pra depois.
+Ele passou o dedo no cabelo de Bruno, provou a gosma e ficou pensativo.
+
+– Falta sal. Mas esse não é o ponto. Da próxima vez, perguntem antes de mexer no desconhecido. Banho, vocês dois. A limpeza fica pra depois.
 
 A limpeza, aliás, acabou sendo feita pela própria cozinha, que ao primeiro estalar dos dedos do mago esfregou o teto sozinha e escorreu a gosma pela pia, murmurando uma cantiga. Mais tarde, quando todos se sentaram à mesa para uma sopa, Velho-Sábio trouxe um prato de cograflor, um cogumelo branco de bolinhas vermelhas, e cada garfada tinha o gosto de uma lembrança de casa: bolo de aniversário, um domingo de chuva, o colo de alguém. Ninguém falou nada. Só Banjo repetiu duas vezes.
 
@@ -406,4 +414,4 @@ Breno fez que sim e limpou o rosto com a manga das vestes.
 
 – Breno – chamou o velho, antes de ele sair. – Você é um bom garoto. Mas corre o risco de se perder no caminho. Lembre-se: controle é o que permite usar a magia do jeito certo. E nós só controlamos aquilo que nos pertence.
 
-Breno assentiu mais uma vez e saiu. No fim do corredor, uma janela mostrava as pétalas da noite anterior ainda espalhadas pelos telhados, rosadas e azuis, como se a cidade tivesse sido enfeitada para uma festa.
+Breno assentiu mais uma vez e saiu. Na porta, encontrou uma xícara de chá fumegando no chão e o Coronel sentado ao lado, olhando para ela com muito respeito e nenhuma intenção de tocar. No fim do corredor, uma janela mostrava as pétalas da noite anterior ainda espalhadas pelos telhados, rosadas e azuis, como se a cidade tivesse sido enfeitada para uma festa.

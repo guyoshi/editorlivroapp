@@ -114,7 +114,7 @@ Korvo saiu da escuridão com as mãos nas costas. O terno estava impecável, exc
 
 – Qualquer um que atravesse essa porta encontra algo pior do que a morte. – Havia quase gentileza na voz dele. – Se for isso o que procuram, posso ser piedoso.
 
-A escuridão em volta se mexeu. Doze figuras surgiram em fileira, de olhar frio, e os irmãos reconheceram dois nomes antes de ver os rostos: Anasin, pálida e sorridente, e Saliens, de pele vermelha e chifres curvos. Entre eles, um homem alto de cabeça de serpente, com uma língua que provava o ar, e à volta deles, saindo de cada sombra, dezenas, centenas de seguidores encapuzados enchiam o salão como uma maré. Korvo levantou uma das mãos, e todos pararam ao mesmo tempo.
+A escuridão em volta se mexeu. Doze figuras surgiram em fileira, de olhar frio, e os irmãos reconheceram dois nomes antes de ver os rostos: Anasin, pálida e sorridente, e Saliens, de pele vermelha e chifres curvos. Entre eles, Naghar, o homem alto de cabeça de serpente, com uma língua que provava o ar, e à volta deles, saindo de cada sombra, dezenas, centenas de seguidores encapuzados enchiam o salão como uma maré. Korvo levantou uma das mãos, e todos pararam ao mesmo tempo.
 
 – Vocês têm uma centelha rara – disse ele aos irmãos. – Vão mesmo desperdiçá-la? Acreditam que são livres? São marionetes, e as cordas são tão finas que nem sentem. Seguem ordens. Dizem o que podem e o que não podem. Mas me digam: o que é mais perigoso, um homem que obedece às regras ou um homem que as escreve?
 
@@ -190,6 +190,36 @@ Quando a luz diminuiu, havia um homem no centro do salão, de pele escura e barb
 
 Das laterais do tribunal, entraram Garmand, Tango, Leon e Karol. Atrás deles vinham outros membros da Sociedade de Tayo: Mereditha, com as escamas brilhando, Seraphina Dalmora, de capa de seda escura, e Elowen, de postura firme. Ricochet Bombergue apareceu por último, ajeitando as colheres do cinto como quem chega a uma festa.
 
+Eles discutiam baixinho, e a discussão não parou nem diante de Korvo.
+
+– Eu disse que devíamos entrar pelo teto – sibilou Tango.
+
+– E eu disse que não – respondeu Garmand, sem olhar para ele.
+
+– Você diz não para tudo.
+
+– Eu digo não para as ideias ruins. Você tem muitas.
+
+Garmand parou ao lado de Velho-Sábio. A pena que anotava tudo sozinha, atrás da orelha dele, ficou imóvel pela primeira vez desde que os irmãos o conheciam.
+
+– Você está atrasado, Auream – murmurou.
+
+– Cheguei exatamente quando precisava.
+
+– Se sairmos vivos, você me deve um jantar. Um jantar de verdade, sem cebola.
+
+Mereditha, porém, não ouviu nada disso. Seus olhos âmbar corriam pelas celas ao fundo do tribunal, onde sombras encolhidas se mexiam atrás das grades, e as escamas dela estavam de um cinza apagado que os irmãos nunca tinham visto.
+
+– Os presos primeiro – disse, e começou a abrir caminho, em vez de ocupar o lugar que Garmand lhe tinha marcado. – Se a lenda era verdadeira, eles estão aqui há anos. Eu não vou deixar ninguém para trás, Garmand. Nem por ordem sua.
+
+– Mereditha, a formação...
+
+– Que a formação me alcance, então.
+
+Garmand fechou os olhos por um instante, como quem desiste de vencer uma discussão antiga, e acenou para Elowen acompanhá-la. Tango, ao passar por Bruno, deu um tapinha em sua cabeça.
+
+– Fica atrás de mim, isca. Eu sou mais bonito para ser acertado.
+
 – Impressionante – murmurou Korvo, olhando em volta. – Muito corajoso, descer aqui em menor número, diante da minha patrulha e de centenas de seguidores.
 
 – Menor número? – disse uma voz firme. – Nem tanto.
@@ -212,9 +242,9 @@ A batalha estourou de uma vez.
 
 Os seguidores se atiraram contra a Sociedade e a Vigilância. Garmand saltou para a frente, pisou o chão com o calcanhar e a gravidade dobrou: uma onda de pedra levantou os atacantes do chão e os derrubou como bonecos. Anasin deslizou pelas sombras, rápida demais para ser seguida, e lançou estacas de gelo negro contra Garmand, mas ele fez o ar em volta pesar e as estacas se desmancharam em pó antes de chegar.
 
-Karol deu um passo à frente, e raios azuis saltaram de suas mãos, estalando de um inimigo a outro, deixando uma fileira de seguidores tombados e fumegando. Leon varreu o ar com os braços, e um vento cortante levantou capas, escudos e espadas, arrastando-os pelo teto. Tango ergueu colunas de pedra do chão para bloquear os golpes e arremessou blocos do tamanho de carroças. Mereditha abriu os braços, e a água brotou do chão em uma parede que dividiu o salão ao meio. Quando um seguidor tentou atravessá-la, a água formou tentáculos que o prenderam e o jogaram contra a parede.
+Karol deu um passo à frente, e raios azuis saltaram de suas mãos, estalando de um inimigo a outro, deixando uma fileira de seguidores tombados e fumegando. Leon varreu o ar com os braços, e um vento cortante levantou capas, escudos e espadas, arrastando-os pelo teto. Tango ergueu colunas de pedra do chão para bloquear os golpes e arremessou blocos do tamanho de carroças. Mereditha, que já tinha arrancado as grades das celas, abriu os braços, e a água brotou do chão em uma parede que dividiu o salão ao meio e protegeu os presos às costas dela. Quando um seguidor tentou atravessá-la, a água formou tentáculos que o prenderam e o jogaram contra a parede.
 
-O homem de cabeça de serpente saltou sobre os vigilantes, soltando uma poeira esverdeada pela boca, e os que respiravam desabavam no chão, dormindo. Elowen respondeu com um clarão que o fez recuar, silvando. Ricochet apareceu ao lado dos irmãos, de bolsos cheios.
+Naghar saltou sobre os vigilantes, soltando uma poeira esverdeada pela boca, e os que respiravam desabavam no chão, dormindo. Elowen respondeu com um clarão que o fez recuar, silvando. Ricochet apareceu ao lado dos irmãos, de bolsos cheios.
 
 – Biscoitos! – anunciou, e atirou uma porção nas mãos de Banjo, de Bruno e de Breno, que pegaram sem entender. Com o dedo, ele estalou. Os biscoitos que passavam voando pela mão dele explodiram em faíscas coloridas, e meia dúzia de seguidores que se aproximavam foram jogados para trás, tossindo fumaça de canela. – Não são para comer, claro. Quer dizer, são. Mas não agora!
 
@@ -224,7 +254,7 @@ O homem de cabeça de serpente saltou sobre os vigilantes, soltando uma poeira e
 
 Ricochet abriu o casaco, e de dentro dele saiu um enxame de engenhocas de latão, com asas de metal e gemas azuis no peito. Elas zumbiram pelo ar, grudaram-se nas capas dos seguidores e explodiram em fumaça de canela, deixando uma fileira de homens tossindo e espirrando, sem entender por que estavam com tanta fome.
 
-No centro, Erla enfrentava Korvo. Era a luta de duas tempestades. O raio negro dele cortava a sala, e ela desviava; a luz dela o forçava a recuar, e ele respondia com a mão aberta, e as sombras do salão se erguiam em formas grotescas, de bocas famintas e de braços compridos, que cercaram Erla e se jogaram contra ela. Erla acendeu um campo de luz tão forte que as sombras viraram fumaça. Mas Korvo apenas sorriu. Estava testando. Ela estava dando tudo.
+No centro, Erla enfrentava Korvo. Era a luta de duas tempestades. O raio negro dele cortava a sala, e ela desviava. A luz dela o forçava a recuar, e ele respondia com a mão aberta. As sombras do salão se erguiam em formas grotescas, de bocas famintas e braços compridos, e cercaram Erla antes de se jogarem contra ela. Erla acendeu um campo de luz tão forte que as sombras viraram fumaça. Mas Korvo apenas sorriu. Estava testando. Ela estava dando tudo.
 
 – Isso é tudo que você tem, Erla? – Os olhos amarelos dele brilharam. – Luz vazia e desesperada.
 

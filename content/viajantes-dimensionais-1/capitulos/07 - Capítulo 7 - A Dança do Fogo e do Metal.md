@@ -1,6 +1,10 @@
 As semanas seguintes passaram sem que os irmãos percebessem, do jeito que passam as semanas boas.
 
-A manhã começava sempre igual. O despertador do teto estalava às sete, as constelações bocejavam e se apagavam, e do andar de baixo subia o cheiro de pão com canela e a voz de Kali, que desejava bom dia a um por um, com uma observação diferente para cada: o tempo lá fora, a chance de Bruno perder uma meia, a hora exata em que Banjo ia derrubar a geleia. Banjo derrubava, quase sempre. O Coronel esperava debaixo da mesa, de boca aberta, com a paciência de quem entende de geleia.
+A manhã começava sempre igual. O despertador do teto estalava às sete, e as constelações bocejavam e se apagavam. Do andar de baixo subia o cheiro de pão com canela e a voz de Kali, que desejava bom dia a um por um, com uma observação diferente para cada: o tempo lá fora, a chance de Bruno perder uma meia, a hora exata em que Banjo ia derrubar a geleia. Banjo derrubava, quase sempre. O Coronel esperava debaixo da mesa, de boca aberta, com a paciência de quem entende de geleia. Quando a paciência acabava, ele roubava um pão do cesto.
+
+– Coronel – dizia Velho-Sábio, do outro lado do jornal. – Larga.
+
+E o Coronel largava, com a cara de quem acabou de sofrer uma injustiça histórica.
 
 Depois vinham o Edifício Arcano, o elevador de vidro, as aulas. Aprenderam a ler os avisos das tapeçarias, a pedir licença antes de entrar numa porta que tinha opinião, a não olhar fixo para os quadros que olhavam de volta. Ao entardecer, no jardim da casa, Velho-Sábio treinava os quatro, e a grama mudava de cor conforme o humor de quem pisava. Breno aprendeu a firmar os pés. Bruno aprendeu que o gelo, quando ele estava distraído, virava escorregador. Beatriz aprendeu a acender uma vela sem acender a toalha. Banjo aprendeu que as folhas do jardim gostavam de conversa e perdeu uma tarde inteira ouvindo.
 
@@ -41,9 +45,13 @@ O sorriso de Velho-Sábio continuou no rosto, mas não chegou aos olhos.
 
 – Tenho muito respeito por você, Gary. Mas não vou aceitar. Se a Vigilância quer supervisionar meus aprendizes, que Erla venha pessoalmente.
 
-Gary olhou para o chão, desconfortável, e assentiu. Os irmãos trocaram olhares. Era a primeira vez que viam o velho mago falar assim com alguém, num tom duro e curto, como uma porta se fechando.
+Gary olhou para o chão, desconfortável, e assentiu.
 
-O elevador era uma bolha de vidro que subia por fora da torre, e durante o caminho Tayo se desenrolou lá embaixo como um tapete: telhados cor de ferrugem e de musgo, dassis cruzando entre as torres como contas prateadas num fio invisível, um bosque suspenso no meio da cidade onde crianças corriam sobre as copas. Banjo grudou a testa no vidro, como fazia todas as manhãs, e deixou a marca de nariz de sempre. Beatriz tirou o capuz lilás para ver melhor. Até Bruno, que jurava já ter se acostumado, ficou calado por três andares inteiros.
+– Sem ressentimentos – disse, e se abaixou diante de Banjo, com um meio sorriso cansado. – Ouvi dizer que você conversa com as folhas, rapaz. Tenho um sobrinho que adora essas coisas. Ele ia gostar de você.
+
+Banjo ficou vermelho até as orelhas e não soube o que responder, o que o tornou, por um momento, o aprendiz mais simpático de Tayo. Os irmãos trocaram olhares. Era a primeira vez que viam o velho mago falar assim com alguém, num tom duro e curto, como uma porta se fechando.
+
+O elevador era uma bolha de vidro que subia por fora da torre. Durante o caminho, Tayo se desenrolou lá embaixo como um tapete: telhados cor de ferrugem e de musgo, dassis cruzando entre as torres como contas prateadas num fio invisível, um bosque suspenso onde crianças corriam sobre as copas. Banjo grudou a testa no vidro, como fazia todas as manhãs, e deixou a marca de nariz de sempre. Beatriz tirou o capuz lilás para ver melhor. Até Bruno, que jurava já ter se acostumado, ficou calado por três andares inteiros.
 
 Quando as portas se abriram no terceiro piso, Banjo deu um passo à frente e parou, porque não havia chão.
 
@@ -195,7 +203,7 @@ Uma chama pequena e firme acendeu nas mãos dela. Dançou por um segundo, tímid
 
 Ele, já com a pele de volta ao normal, a levantou do chão num abraço.
 
-– Por hoje chega, garotos – disse Velho-Sábio, e a voz dele soou macia, quase paterna. – Vocês mostraram coragem e união, que é o que mais importa.
+– Por hoje chega, garotos – disse Velho-Sábio, e a voz dele soou macia, quase paterna. – Vocês mostraram coragem e união, que é o que mais importa. – E tirou o próprio manto e o pôs nos ombros de Beatriz, que ainda tremia, fingindo que era só para ajeitar a dobra.
 
 
 O refeitório do Edifício ficava num salão redondo com janelas gigantes que davam para o céu. Em cada mesa, uma lamparina flutuava a um palmo da toalha, e a luz dela mudava de cor conforme as conversas. Havia travessas fumegantes de legumes assados com um molho que cheirava a laranja, pães de casca crocante e jarras de um suco turquesa, que Banjo provou desconfiado e depois pediu mais duas vezes. Eshley, Maria, Shirley e Emiris já estavam sentados, cercados de tiras de papel colorido e potes de cola dourada.

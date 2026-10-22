@@ -15,7 +15,7 @@ Breno abriu os olhos, suado, com o coração socando as costelas. Por um segundo
 
 Como resposta, o teto pigarreou. Era um som pequeno, feito de muitas vozes finas. Breno puxou o cobertor por cima da cabeça, e o teto, ofendido, começou a assoviar.
 
-A casa do Velho-Sábio acordava como um bicho grande e bonachão. O chão do corredor brilhava como um rio ao sol, e Beatriz e Banjo descobriram, de meia, que dava para deslizar por ele de uma ponta à outra, com um som de sino a cada passo. Na terceira corrida, Beatriz decolou, bateu na parede e caiu sentada, rindo tanto que o chão soltou uma onda de bolhas coloridas. As bolhas subiram até o teto e estouraram em notinhas.
+A casa do Velho-Sábio acordava como um bicho grande e bonachão. O chão do corredor brilhava como um rio ao sol, e Beatriz e Banjo descobriram, de meia, que dava para deslizar por ele de uma ponta à outra, com um som de sino a cada passo. Na terceira corrida, Beatriz decolou, bateu na parede e caiu sentada, rindo tanto que o chão soltou uma onda de bolhas coloridas. "De novo! De novo!", pediu ela, e o chão, que era generoso, obedeceu. As bolhas subiram até o teto e estouraram em notinhas.
 
 – De novo! – gritaram os dois.
 
@@ -37,7 +37,7 @@ Lá embaixo, a cozinha já cheirava a pão quente. O pão, aliás, subia sozinho
 
 O Velho-Sábio tomava chá na ponta da mesa, lendo um jornal preso num gancho. A manchete mudava toda vez que ele piscava.
 
-– "Gato de Tayo ensina três filhotes a voar" – leu ele. Piscou. – "Previsão do humor: nuvens animadas até o fim da tarde." – Piscou de novo. – "Pêndulo sobe meio ponto." Hum.
+– "Gato de Tayo ensina três filhotes a voar" – leu ele. Piscou. – "Previsão do humor: nuvens animadas até o fim da tarde." – Piscou de novo. – "Pêndulo sobe meio ponto." Hum. – Piscou três vezes seguidas, procurando uma manchete melhor, e acabou lendo a mesma de antes, com cara de quem tinha perdido uma discussão com o jornal.
 
 – Previsão do humor? – perguntou Beatriz.
 
@@ -91,12 +91,18 @@ O Velho-Sábio ajustou o manto e olhou para os quatro com um ar de mistério.
 
 Os irmãos correram escada acima. Ouviram-se pés, risadas, uma porta batendo e, claro, o Coronel latindo em algum lugar entre os degraus.
 
+Um minuto depois, o cachorro desceu devagar, com um chinelo de Bruno pendurado na boca e o ar de quem não tinha nada a ver com aquilo.
+
+– Coronel – disse Velho-Sábio, sem tirar os olhos do jornal. – Larga.
+
+O Coronel largou. O chinelo ficou no tapete, babado e satisfeito. Do alto da escada, Bruno gritou que ia cobrar aquilo do seguro.
+
 
 O dassi esperava na porta, flutuando a um palmo do chão com uma suavidade quase elegante. Antes de entrar, Velho-Sábio deixou cair numa fenda do casco um pêndulo, a moeda de Tayo, vermelha e furada no meio. A moeda tilintou e o dassi estremeceu de satisfação.
 
 – O furo é para a sorte passar – explicou ele. – Entrem.
 
-A porta se derreteu e se moldou ao redor deles. O dassi disparou, fez uma curva fechada e mergulhou por caminhos suspensos, e os irmãos foram grudados nas plataformas, entre o susto e o deslumbramento. Na descida mais brusca, Bruno gritou:
+A porta se derreteu e se moldou ao redor deles. O dassi disparou, fez uma curva fechada e mergulhou por caminhos suspensos, e os irmãos foram grudados nas plataformas, entre o susto e o encanto. Na descida mais brusca, Bruno gritou:
 
 – Se a gente sobreviver a isso, qualquer treino vai parecer moleza!
 

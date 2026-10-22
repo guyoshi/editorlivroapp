@@ -70,6 +70,8 @@ Bruno abriu a boca, fechou, abriu de novo.
 
 – A verde! – disse Banjo. – Parece coisa de planta. Plantas são do bem.
 
+– Fala o cara que conversa com besouro – disse Bruno. – Mas tá, a gente testa a verde primeiro.
+
 Breno olhou para a pedra verde, deu de ombros e a atirou ao chão. No instante em que ela bateu nas rochas, uma onda invisível se espalhou, e o mundo ficou mudo. O vento parou de assoviar. Os passos desapareceram. Até a respiração deles sumiu.
 
 Banjo gritou, mas não saiu som nenhum. Fez gestos desesperados na direção da boca e das orelhas, de olhos arregalados. Bruno abria e fechava a boca, como um peixe. Breno ergueu as mãos para pedir calma, sem saber como dizer isso.
@@ -114,7 +116,7 @@ Como se tivesse ouvido, a criatura se desfez, de repente, deixando só uma onda 
 
 – Eu sei muito bem – disse Banjo, olhando para o céu. – Subi uns quinze metros.
 
-– As outras ficam fechadas até não haver outra saída – continuou Breno. – E aí a gente descobre na hora, com o risco que isso tiver. Entenderam?
+– As outras ficam fechadas até não haver outra saída – continuou Breno. – E aí a gente descobre na hora, com o risco que isso tiver. Sou o mais velho, Bruno. Quem decide aqui sou eu. Entenderam?
 
 Bruno ergueu as duas mãos.
 

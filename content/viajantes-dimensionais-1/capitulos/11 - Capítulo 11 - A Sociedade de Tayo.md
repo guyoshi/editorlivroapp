@@ -68,7 +68,7 @@ Beatriz piscou e deu um passo para trás.
 
 Os irmãos ficaram em silêncio, sem entender como aquela estranha mulher sabia dos pais deles. Antes que alguém perguntasse, passos pesados voltaram a ecoar pelo túnel, seguidos de cochichos. Figuras começaram a emergir das sombras e a encher o salão.
 
-Havia pelo menos uma dúzia, alguns de rostos rígidos e frios, outros preocupados, com olhos que se moviam rápido. Bruno segurou o ombro de Beatriz. Reconheceu rostos conhecidos do Edifício: Garmand, que avançava com a postura de quem guia, e Leon, de aparência simpática, que olhava como se enxergasse através das pessoas. Atrás deles vinha a tutora de Brenda, de postura impecável e fios grisalhos nos cabelos castanhos, e um homem careca, corpulento, a quem faltava um dos braços, com cicatrizes que contavam histórias que os irmãos não conheciam.
+Havia pelo menos uma dúzia, alguns de rostos rígidos e frios, outros preocupados, com olhos que se moviam rápido. Bruno segurou o ombro de Beatriz. Reconheceu rostos conhecidos do Edifício: Garmand, que avançava com a postura de quem guia, com uma pena que anotava sozinha flutuando atrás da orelha, e Leon, de aparência simpática, que olhava como se enxergasse através das pessoas e parecia pedir desculpa, com os ombros, pelo espaço que ocupava. Atrás deles vinha Karol, de postura impecável e fios grisalhos nos cabelos castanhos, que parecia incapaz de andar devagar, e um homem careca, corpulento, a quem faltava um dos braços, com cicatrizes que contavam histórias que os irmãos não conheciam.
 
 E uma mulher que ninguém ali conhecia: pálida, de cabelos prateados que flutuavam ao redor do rosto, em vestes de seda preta com detalhes dourados. Beatriz sentiu o estômago afundar, lembrando da mulher pálida da arquibancada, a que a olhara sem piscar antes da corrida. Mas esta tinha cabelos prateados, não negros, e não olhava ninguém. "Parece vilã de filme de fantasia", pensou. Ao passar, a mulher lançou um olhar rápido na direção de Beatriz, e dessa vez, por um instante, algo parecido com um sorriso passou por seus lábios.
 
@@ -116,9 +116,9 @@ Um murmúrio inquieto percorreu a sala.
 
 – Mas por que a Vigilância faria isso? – perguntou Tango, cruzando os braços. – O que a Erla ganharia eliminando você?
 
-– É óbvio – respondeu a tutora de Brenda. – Auream treina dimensais para lutar pelo bem. Isso ameaça quem quer manter o status quo.
+– É óbvio – respondeu Karol. – Auream treina dimensais para lutar pelo bem. Isso ameaça quem quer manter o status quo.
 
-– Isso não faz sentido! – exclamou a jovem de cabelos volumosos. – A Erla sempre foi nossa aliada e lutou contra Korvo no passado.
+– Isso não faz sentido! – exclamou Elowen, a jovem de cabelos volumosos, que acreditava em todo mundo até que provassem o contrário. – A Erla sempre foi nossa aliada e lutou contra Korvo no passado.
 
 – Não foi só o Auream – disse Garmand. – A Seraphina também foi atacada, há uma semana.
 
@@ -182,7 +182,7 @@ Mereditha se levantou, subitamente tomada por uma lembrança.
 
 – Vocês sabem o que se esconde sob a Central.
 
-– A prisão fechada há anos – disse a tutora de Brenda.
+– A prisão fechada há anos – disse Karol.
 
 – A prisão de onde o próprio Korvo fugiu sem deixar rastros. E a criatura. – Mereditha baixou a voz. – E se alguém estiver tentando reabrir a presália para libertá-lo? Se o fizerem, o monstro consumirá tudo e todos.
 
@@ -212,9 +212,11 @@ Todos se viraram. Bruno estava de pé, com os olhos fixos em Garmand.
 
 – Eu sou dimensal – insistiu Bruno. – Se os vigilantes querem tanto um dimensal, é mais fácil que baixem a guarda se acharem que podem me manipular. Podemos dar a entender que eu estou... descontrolado. Isso chamaria a atenção deles.
 
-Os membros se entreolharam, ponderando a ousadia. Tango se reclinou na cadeira.
+Os membros se entreolharam, ponderando a ousadia. Tango se reclinou na cadeira, que já estava equilibrada em duas pernas, para a visível irritação de Garmand.
 
 – Está sugerindo usar o próprio pescoço como isca, garoto? Bela ideia, se o objetivo for morrer antes de descobrirmos quem está por trás disso.
+
+– Tango tem razão – concordou Seraphina, com um sorriso mínimo. – É uma ideia terrível. Por isso mesmo pode funcionar.
 
 – Não sou tão fácil de derrubar quanto vocês pensam.
 
@@ -268,7 +270,13 @@ Os dois ficaram em silêncio, trocando olhares carregados de uma história que o
 
 – Alguma questão? Ótimo. A reunião está encerrada. Nos vemos no festival. Fiquem atentos.
 
-Os membros começaram a se dispersar. A jovem de cabelos volumosos lançou um sorriso caloroso aos irmãos ao passar, uma gentileza rara naquele ambiente sombrio. Mereditha se aproximou de Beatriz, abaixou-se à altura dela e passou a mão escamosa pelo rosto da menina. As escamas mudaram para um azul-claro, quase sorridente. Beatriz sorriu, tímida. Mereditha se afastou, e as cores se fecharam, de novo, num tom mais profundo.
+Garmand passou por Velho-Sábio e, sem dizer nada, endireitou a gola torta do manto dele, como quem faz isso há trinta anos. Velho-Sábio fingiu que não notou.
+
+Os membros começaram a se dispersar. Elowen parou diante dos irmãos e sorriu, uma gentileza rara naquele ambiente sombrio.
+
+– Eu sou a Elowen – disse, baixinho. – Se precisarem de qualquer coisa, comida, abrigo ou alguém para brigar com o Tango, é só chamar.
+
+Tango, de longe, fingiu que não ouviu. Mereditha se aproximou de Beatriz, abaixou-se à altura dela e passou a mão escamosa pelo rosto da menina. As escamas mudaram para um azul-claro, quase sorridente. Beatriz sorriu, tímida. Mereditha se afastou, e as cores se fecharam, de novo, num tom mais profundo.
 
 Bruno sentiu uma raiva crescer dentro de si. Como eles podiam ser tão cegos? O McCroys era o inimigo, mas se recusavam a ver.
 

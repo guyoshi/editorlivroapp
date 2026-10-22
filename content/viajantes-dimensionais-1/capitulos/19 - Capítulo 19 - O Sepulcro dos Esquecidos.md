@@ -34,7 +34,7 @@ As raízes acordaram devagar. Breno recuou, alarmado, quando elas se enrolaram e
 
 – Não lute! Eu acho que elas vão nos tirar daqui!
 
-As raízes os ergueram no ar e os levaram pelo interior do tronco, e Farol, que tinha dormido o tempo todo no peito de Banjo, espiou pela gola, viu que subiam sozinhos pelo ar e se agarrou com as quatro patas, apavorado, subindo e contornando cada obstáculo com uma delicadeza que ninguém esperava de uma árvore. Por onde passavam, outras raízes se mexiam, atentas. Numa abertura no alto, a luz fraca do lado de fora ofuscou os dois, e elas os depositaram numa das plataformas, ao redor da grande árvore. As algemas se desfizeram e voltaram para dentro da madeira, como se nunca tivessem existido.
+As raízes os ergueram no ar e os levaram pelo interior do tronco. Farol, que tinha dormido o tempo todo no peito de Banjo, espiou pela gola, viu que subiam sozinhos e se agarrou com as quatro patas, apavorado. As raízes contornavam cada obstáculo com uma delicadeza que ninguém esperava de uma árvore. Por onde passavam, outras raízes se mexiam, atentas. Numa abertura no alto, a luz fraca do lado de fora ofuscou os dois, e elas os depositaram numa das plataformas, ao redor da grande árvore. As algemas se desfizeram e voltaram para dentro da madeira, como se nunca tivessem existido.
 
 Breno olhou para o irmão, sem palavras.
 
@@ -132,7 +132,7 @@ Breno e Banjo obedeceram, disparando pelas pontes enquanto explosões iluminavam
 
 – Aonde vocês vão? – sibilou ele, num som de folha seca sendo pisada.
 
-Breno enfiou a mão no saquinho. Os dedos tremiam, e ele só sabia o que faziam as verdes, as laranjas e as vermelhas, e nenhuma delas servia contra um homem-serpente a um passo de distância. Pegou uma amarela, sem saber o que era, e a esmagou no chão.
+Breno enfiou a mão no saquinho. Os dedos tremiam, e ele só sabia o que faziam as verdes, as laranjas e as vermelhas, e nenhuma delas servia contra Naghar, o homem-serpente, a um passo de distância. Pegou uma amarela, sem saber o que era, e a esmagou no chão.
 
 Uma luz branca e intensa explodiu, e o homem-serpente rugiu, protegendo o rosto. Breno e Banjo também tiveram que fechar os olhos, e por um momento só viram manchas coloridas.
 

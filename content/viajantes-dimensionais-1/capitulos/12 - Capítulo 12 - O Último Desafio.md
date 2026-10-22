@@ -76,7 +76,7 @@ Beatriz se levantou depressa demais. Emiris ficou no banco, sozinho, os lábios 
 
 – Dos nossos pais.
 
-– O pai dele é da Vigilância – disse Bruno, num fio de voz. – Coincidência demais.
+– O pai dele é da Vigilância – disse Bruno, num fio de voz. – Depois do que aconteceu com o nosso dassi, não gosto dele fazendo perguntas sobre os nossos pais.
 
 – Ele só estava sendo simpático.
 
@@ -228,6 +228,16 @@ O karto saiu do aquário, atravessou um túnel escuro e emergiu numa explosão d
 Diante deles se erguia o Vórtice Monumental. Era uma construção colossal de cristal e metal, sustentada por colunas de cristal azul, com espirais de luz mágica girando em volta como se o próprio ar vibrasse de expectativa. O estádio tinha a forma de um enorme "+", e as arquibancadas flutuavam sustentadas apenas por feixes de energia. No centro, o campo era uma selva de pilares de alturas e materiais diferentes, alguns cobertos de musgo, outros com pequenas chamas azuis que dançavam ao sabor de um vento que ninguém via.
 
 
+Antes do portal, dois vigilantes de uniforme cinza conferiam nomes numa prancheta de cristal. Um deles, de olhos cansados e sorriso gentil, ergueu o rosto quando os irmãos se aproximaram.
+
+– Fulgor Dourado, certo? Eu sou o Gary. Já vi vocês no Edifício Arcano, mas nunca de perto. – Tirou do bolso um saquinho de balas de mel e estendeu a Banjo. – Para os nervos. Não contem para a Erla. Ela acha que doce é falta de disciplina.
+
+– O senhor é vigilante de verdade? – perguntou Bruno, aceitando duas balas em vez de uma.
+
+– Só quando alguém está olhando. – Gary deu de ombros, e Banjo riu. – Fiquem tranquilos. Eu mesmo organizei os turnos: cada um de vocês tem dois vigilantes de olho o tempo todo. Ninguém chega perto sem que eu saiba.
+
+Ele sorriu mais uma vez, desejou boa sorte, e a prancheta de cristal piscou, verde, para o próximo da fila.
+
 O portal de entrada tinha um "T" verde gravado sobre um círculo oval. Ao cruzá-lo, os irmãos sentiram um arrepio subir pela coluna. O ar estava carregado, como se o estádio estivesse vivo e os observasse. Um corredor iluminado por cristais flutuantes os conduziu para dentro. Nas paredes, murais de jogadores lendários se mexiam devagar, saltando, lançando Marqes, bloqueando golpes com muralhas de vento. A magia que eles usaram tinha deixado uma marca fraca, e a cada passo parecia que os murais respiravam.
 
 – Eu estou eletrizado – sussurrou Banjo. – E nervoso. As duas coisas ao mesmo tempo.
@@ -334,7 +344,7 @@ Os irmãos receberam os uniformes verdes. Bruno olhou o dele e sorriu, e Banjo l
 
 – Lembrem-se – disse Aradon, abrindo os braços –, este é um teste individual. Cada um será avaliado pelo que fizer em campo. Mostrem do que são feitos!
 
-Uma rajada de vento o ergueu e o levou até as arquibancadas. Não estavam lotadas, mas havia pelo menos cinquenta pessoas ali. Velho-Sábio, Garmand, Tango e Leon sentavam lado a lado, e os tutores dos demais aprendizes se espalhavam pelas cadeiras flutuantes. McCroys ocupou sozinho uma fileira inteira. As cadeiras ao redor continuaram vazias, e quem passava dava a volta por trás para não ter de passar por ele.
+Uma rajada de vento o ergueu e o levou até as arquibancadas. Não estavam lotadas, mas havia pelo menos cinquenta pessoas ali. Velho-Sábio, Garmand, Tango e Leon sentavam lado a lado. Garmand anotava tudo na pena que escrevia sozinha, Tango comia uma pipoca azul e oferecia a Leon, que recusava com educação, e Velho-Sábio segurava uma bandeirinha do Fulgor Dourado que jurava ter encontrado ali por acaso. Os tutores dos demais aprendizes se espalhavam pelas cadeiras flutuantes. McCroys ocupou sozinho uma fileira inteira. As cadeiras ao redor continuaram vazias, e quem passava dava a volta por trás para não ter de passar por ele.
 
 Banjo sorriu para os irmãos e gritou:
 

@@ -34,7 +34,7 @@ Quando se alinharam no campo, o Fulgor Dourado de verde e o Garras de Ferro de a
 
 – Que a partida comece! – gritou Aradon, erguendo o bastão.
 
-Uma barreira de luz se fechou em volta das Zonas de Coleta, e as Marqes brilharam lá dentro como estrelas presas num redemoinho. Emiris e Tessara tomaram suas posições, atentos. Cinquenta espectadores bateram palmas sobre as arquibancadas flutuantes. Velho-Sábio, Garmand, Tango e Leon ocupavam a primeira fileira, e Beatriz achou o rosto do mago entre todos, calmo demais para quem acompanhava uma partida. Mais acima, McCroys continuava sozinho, com um espaço vazio de cada lado. Perto dele, dois aprendizes da escola de Tayo seguravam uma faixa de TURBINA e discutiam, em voz alta, quem tinha mais chance entre os dezoito.
+Uma barreira de luz se fechou em volta das Zonas de Coleta, e as Marqes brilharam lá dentro como estrelas presas num redemoinho. Emiris e Tessara tomaram suas posições, atentos. Cinquenta espectadores bateram palmas sobre as arquibancadas flutuantes. Na lateral do campo, Gary, o vigilante das balas de mel, aplaudia com educação; mas, quando Emiris entrou em campo, as palmas dele ficaram um pouco mais fortes, como as de um tio coruja. Velho-Sábio, Garmand, Tango e Leon ocupavam a primeira fileira, e Beatriz achou o rosto do mago entre todos, calmo demais para quem acompanhava uma partida. Mais acima, McCroys continuava sozinho, com um espaço vazio de cada lado. Perto dele, dois aprendizes da escola de Tayo seguravam uma faixa de TURBINA e discutiam, em voz alta, quem tinha mais chance entre os dezoito.
 
 A primeira esfera azul acendeu quase antes que o som parasse.
 
@@ -217,7 +217,7 @@ Bruno e Breno olhavam para Beatriz sem conseguir falar. Ela estava de pé, sozin
 
 – Bea! – gritou Banjo, do outro lado, pulando sem parar. – Bea!
 
-No alto, entre os tutores, Garmand anotava algo numa folha. Tango ria sozinho. Só Velho-Sábio não sorria. Olhava a chama azul se desfazer com uma expressão que Beatriz, de tão longe, não soube ler. Brenda, presa até os joelhos de gelo, ficou observando a pequena garota. Lucía, de longe, ergueu o punho.
+No alto, entre os tutores, Garmand anotava algo numa folha. Tango ria sozinho. Karol gritava instruções para Brenda, que ninguém conseguia ouvir. Só Velho-Sábio não sorria. Olhava a chama azul se desfazer com uma expressão que Beatriz, de tão longe, não soube ler. Brenda, presa até os joelhos de gelo, ficou observando a pequena garota. Lucía, de longe, ergueu o punho.
 
 Mas ainda restavam segundos. Ferris, com a última energia nas pernas, saltou a lacuna final com a Marqe rumo a Denis. Nesse momento, na borda da Zona de Arremesso do Fulgor Dourado, Khalil, que não dissera uma palavra durante toda a partida, tirou um seixo do bolso e o atirou. O seixo cruzou trinta passos de pilares em linha reta, sem magia nenhuma, estalou na Marqe que Ferris carregava e a arrancou das mãos dele. Ela quicou duas vezes e despencou no buraco entre os pilares.
 

@@ -6,7 +6,7 @@ O rosto de Velho-Sábio se fechou.
 
 – Revistá-los? Por quê?
 
-– Na noite passada alguém invadiu os fundos da Central. – Erla fez uma pausa, deixando a frase pairar. – Nada foi roubado. Mas um anel foi encontrado na cena, um anel que não é daqui. Veio da terceira dimensão.
+– Na noite passada alguém invadiu os fundos da Central. – Erla fez uma pausa, deixando a frase pairar. – Nada foi roubado. Mas um anel foi encontrado na cena pelo vigilante Gary, um anel que não é daqui. Veio da terceira dimensão.
 
 Beatriz e Banjo se entreolharam. Bruno sustentou o olhar da édion, desafiador, e ela notou, e não se abalou.
 
@@ -19,6 +19,8 @@ Gary desviou o olhar. Erla se aproximou do mago, até ficar muito perto.
 Velho-Sábio não respondeu. Manteve o olhar sereno, e foi o silêncio dele que pesou mais.
 
 – Podem ir – disse Erla, afinal, com um aceno seco. – Mas se algo sair do controle, Auream, eu saberei.
+
+Quando ela se virou, Gary ficou um segundo para trás e fez um gesto discreto de desculpas para Banjo, que ainda segurava a mochila contra o peito. Depois correu atrás da chefe.
 
 No caminho até o ponto do dassi, a rua parecia mais longa do que de costume. Foi Breno quem rompeu o silêncio.
 
@@ -42,13 +44,13 @@ Em casa, Bruno e Banjo tiraram os sapatos no quarto, ainda calados. O cheiro de 
 
 – Pode ser. – Bruno cruzou os braços. – Eu ainda quero provas antes de contar pro Velho-Sábio.
 
-– EI, VOCÊS AÍ! – berrou Beatriz da cozinha. – LEVANTEM ESSAS BUNDAS E VENHAM AJUDAR! NINGUÉM AQUI É EMPREGADO DE NINGUÉM!
+– EI, PREGUIÇOSOS! – berrou Beatriz da cozinha, com uma colher de pau na mão. – VENHAM AJUDAR! NINGUÉM AQUI É EMPREGADO DE NINGUÉM!
 
 Os dois se olharam e riram. Foi um alívio, como abrir uma janela num quarto abafado.
 
 À tarde, Velho-Sábio os parabenizou pela corrida e avisou que o próximo desafio exigiria magia de verdade. Nas duas semanas seguintes, o treino foi intenso, e aconteceu o que costuma acontecer quando se treina bastante: os dedos ficaram mais firmes, as respostas mais rápidas. Breno aprendeu a atravessar uma parede sem pensar duas vezes. Bruno conseguiu segurar uma lasca de gelo por um minuto inteiro sem que virasse um castelo. Beatriz fez chamas pequenas e fiéis, que obedeciam a um assovio. Banjo fez folhas pousarem em fila na mesa da cozinha, uma ao lado da outra, como cartas de baralho.
 
-Entre uma aula e outra, a vida foi criando hábitos. Às quartas, Eshley e Maria apareciam lá em casa para desenhar lanternas, e a sala ficava coberta de papel dourado e de cola que cheirava a mel. O jantar de domingo continuou de pé, mesmo com todo mundo cansado, e foi num deles que Bruno ganhou a primeira partida de Pedropone contra o mago, com uma trapaça tão descarada que Velho-Sábio pagou o mico de bom grado, imitando uma volha por dois minutos inteiros. Kali pediu a gravação. Ninguém deixou. Todo mundo sabia que ela tinha feito uma mesmo assim.
+Entre uma aula e outra, a vida foi criando hábitos. Às quartas, Eshley e Maria apareciam lá em casa para desenhar lanternas, e a sala ficava coberta de papel dourado e de cola que cheirava a mel. O jantar de domingo continuou de pé, mesmo com todo mundo cansado. Foi num deles que Bruno ganhou a primeira partida de Pedropone contra o mago, com uma trapaça tão descarada que Velho-Sábio pagou o mico de bom grado, imitando uma volha por dois minutos inteiros. Kali pediu a gravação. Ninguém deixou. Todo mundo sabia que ela tinha feito uma mesmo assim. Velho-Sábio passou a deixar um bilhete na porta de cada quarto de manhã, com um desenho que se mexia. O de Breno dizia: "Durma mais." O de Beatriz tinha um coelho que acenava. O de Bruno dizia apenas: "Acorda. Você também." Bruno guardou o dele na gaveta e fingiu que nunca o tinha lido.
 
 A desconfiança de Bruno com o anel de McCroys ficou quieta nesse tempo, como brasa debaixo de cinza.
 
@@ -102,7 +104,7 @@ Bruno afundou. O pânico apertou o peito. A água era profunda, e, quando olhou 
 
 – Desculpa – disse, sem graça. – Era só pra mostrar. Mas só eu consigo. Talvez o meu M.A. não seja só gelo. Talvez seja água.
 
-– Irado – murmurou Banjo, ainda ofegante e já sorrindo, porque era impossível ficar bravo com uma descoberta daquelas.
+– Incrível – murmurou Banjo, ainda ofegante e já sorrindo, porque era impossível ficar bravo com uma descoberta daquelas.
 
 Bruno montou na lárida e, antes que alguém o impedisse, guiou-a para baixo da superfície. Fechou os olhos, tentou lembrar o que Velho-Sábio dizia: sentir a magia. E sentiu. Era uma correnteza que o empurrava por dentro, e a lárida disparou por baixo de todos, rápida como um peixe. Ele nadou mais de um minuto sem subir, sem sentir o pulmão apertar, até que uma força o empurrou para a superfície no meio de uma área de redemoinhos.
 
@@ -136,7 +138,7 @@ Era Beatriz, na lárida de Banjo, com uma chama azul intensa na mão. A bola de 
 
 Eles seguiram pelos caminhos estreitos até o rio se abrir de novo. Bruno, nadando, viu um brilho curioso no fundo. Uma escola de peixes cintilantes passou sobre ele, e bem lá embaixo apareceu algo que parecia a boca de uma caverna submersa. Ele seguiu os peixes até a superfície, onde eles começaram a voar, espalhando-se pelo ar como estrelas em miniatura. Bruno riu, encantado. Beatriz esticou a mão para tentar tocar um deles, que desviou com delicadeza e saltou para uma porção do rio mais acima, onde alguns aprendizes passavam de ponta-cabeça em relação a eles.
 
-– Tem uma caverna lá embaixo! – disse Bruno. – Acho que vou investigar.
+– Pô, tem uma caverna lá embaixo! – disse Bruno. – Bora investigar, véi?
 
 – EI. – Breno tocou o ombro dele. – Foco! Por favor!
 

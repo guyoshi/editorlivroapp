@@ -11,7 +11,7 @@ Eles se entreolharam. Breno foi o primeiro.
 
 – Interessante – disse o velho. – Você pode ter domínio sobre a própria densidade. Com treino, passará por coisas sólidas como se fossem ar.
 
-Bruno cruzou os braços, fingindo displicência.
+Bruno cruzou os braços, fingindo que não ligava.
 
 – O volante de um carro ficou grudado na minha mão e congelou. Não sei o que foi.
 
@@ -93,7 +93,7 @@ Num intervalo, Bruno olhou para o castelo torto e para a duna ao lado, e teve um
 
 – Breno, vem aqui. Não pensa. Só vem.
 
-Antes que o irmão respondesse, ele encostou a mão na areia. O tilintar do sino de gelo correu pela duna inteira, e a areia virou um escorregador de cristal, comprido, brilhante, que descia em curva até os pés da geleira. Banjo foi o primeiro a se jogar, com um grito de alegria. Beatriz foi atrás, rindo, com o capuz lilás voando. Bruno desceu de pé, com os braços abertos, num equilíbrio perfeito. E Breno, depois de contar até três, deslizou sentado, com a cara mais séria do mundo, até a hora em que o zumbido grave subiu no peito dele e ele atravessou, sem querer, um monte de neve fofa, saindo do outro lado coberto de gelo e gargalhando.
+Antes que o irmão respondesse, ele encostou a mão na areia. O tilintar do sino de gelo correu pela duna inteira, e a areia virou um escorregador de cristal, comprido, brilhante, que descia em curva até os pés da geleira. Banjo foi o primeiro a se jogar, com um grito de alegria. Beatriz foi atrás, rindo, com o capuz lilás voando. Bruno desceu de pé, com os braços abertos, num equilíbrio perfeito. E Breno, depois de contar até três, deslizou sentado, com a cara mais séria do mundo. Quando o zumbido grave subiu no peito dele, atravessou sem querer um monte de neve fofa e saiu do outro lado coberto de gelo, gargalhando.
 
 Era a primeira vez, desde a caverna, que Breno ria assim. Os irmãos ficaram olhando, e ninguém disse nada, para não estragar.
 
@@ -119,6 +119,8 @@ No caminho, Velho-Sábio parou diante de uma carrocinha que flutuava um palmo ac
 – Sorvete de nuvem – disse o velho, e pagou com três pêndulos. – O sabor depende do humor de quem toma.
 
 O de Beatriz saiu rosa e tinha gosto de torta de maçã. O de Banjo mudava de sabor a cada lambida, e ele passou o caminho inteiro anunciando: "Agora é chocolate! Agora é laranja! Agora é... meia?". O de Bruno ficou azul-escuro e tinha o gosto de um dia de chuva olhando pela janela. Ele olhou para o sorvete por muito tempo e não reclamou.
+
+O de Velho-Sábio ficou verde-acinzentado e tinha gosto de sopa de cebola. Ele tomou até o fim, com muita dignidade, e ninguém teve coragem de perguntar o que ele andava pensando.
 
 Depois, atravessaram uma pequena praça, onde crianças e velhos se amontoavam em torno de uma senhora de xale turquesa, sentada num banquinho. A cada palavra que dizia, uma fumacinha prateada subia da boca dela e se desenhava no ar.
 
@@ -199,11 +201,11 @@ Banjo balançou a cabeça, sem piscar. Foi só um segundo. O copo perdeu o equil
 
 – Eu não fiz nada, juro! – gritou, mais confuso do que nunca.
 
-A porta se abriu, e Velho-Sábio apareceu de pijama de lã, com o Coronel atrás. Olhou os cacos, olhou Banjo, olhou o lugar onde o copo tinha flutuado, e ficou um tempo calado, com uma ruga funda entre as sobrancelhas.
+A porta se abriu, e Velho-Sábio apareceu de pijama de lã, com o Coronel atrás, mordiscando a barra da calça. Olhou os cacos, olhou Banjo, olhou o lugar onde o copo tinha flutuado, e ficou um tempo calado, com uma ruga funda entre as sobrancelhas.
 
 – Foi o vento – disse Banjo, baixinho.
 
-– Foi, sim – respondeu o velho, sem acreditar em si mesmo. Estalou os dedos, e os cacos subiram do chão e voltaram a ser um copo cheio, que pousou na mesinha sem derramar uma gota. – Durmam.
+– Foi, sim – respondeu o velho, sem acreditar em si mesmo. – Coronel, larga. – Estalou os dedos, e os cacos subiram do chão e voltaram a ser um copo cheio, que pousou na mesinha sem derramar uma gota. – Durmam.
 
 Fechou a porta devagar. Do lado de fora, ouviu-se um passo pensativo que demorou a se afastar.
 
@@ -234,7 +236,7 @@ Velho-Sábio ergueu os olhos.
 
 – Acho inevitável. Korvo tem a Patrulha. Nós temos a Sociedade. Precisamos nos organizar antes que seja tarde.
 
-Brenda suspirou, entediada, e percebeu o olhar de Bruno. Ergueu as sobrancelhas com leve exasperação e olhou para outro canto. Bruno encarou o chão.
+Brenda suspirou, entediada, e percebeu o olhar de Bruno. Ergueu as sobrancelhas com leve impaciência e olhou para outro canto. Bruno encarou o chão.
 
 – Faz quase dez anos – murmurou Velho-Sábio, como se falasse sozinho.
 

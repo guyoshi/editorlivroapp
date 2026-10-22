@@ -86,7 +86,7 @@ Voltaram para casa de dassi. A cidade passava pelas janelas igual a sempre, e ao
 
 Depois de um banho quente e roupas limpas, os quatro se sentaram à mesa. Havia um banquete simples, e eles comeram como quem não via comida há uma semana. Só Beatriz beliscava devagar, com os olhos longe. Coronel, deitado debaixo da cadeira de Banjo, aceitava tudo o que caía.
 
-Velho-Sábio os observava da cabeceira, com um sorriso leve.
+Velho-Sábio os observava da cabeceira, com um sorriso leve. A barba de três pontas tinha mergulhado na sopa, e ele fingiu que era de propósito.
 
 – Vocês me surpreenderam. Eu sabia que eram fortes. Mas o que fizeram para salvar a irmã foi além do que eu poderia imaginar.
 
@@ -130,11 +130,13 @@ Bruno desviou o olhar. Mas um sorriso pequeno ficou nos cantos da boca, e demoro
 
 – Beatriz.
 
-Ela ergueu a cabeça. O anel estava na palma da mão dela, onde estivera desde a Presália. Velho-Sábio o pegou com cuidado e o devolveu ao dedo dela. A fumaça fina que ainda subia do cabelo de Beatriz sumiu de uma vez, e ela deixou os ombros caírem, como quem solta uma respiração que segurava há muito tempo.
+Ela ergueu a cabeça. O anel estava na palma da mão dela, onde estivera desde a Presália. Velho-Sábio olhou para ele, mas não o pegou.
 
-– Por enquanto, não o tire, Bia – disse ele, e dessa vez o olhar dele não era de brincadeira. – Em algum momento vamos conversar sobre o que ele guarda. Mas não hoje.
+– Eu tirei para salvar o Bruninho – disse Beatriz. – Se acontecer de novo, vou poder escolher?
 
-Beatriz assentiu, sem entender e sem querer perguntar.
+– Vai. Só quero que saiba o que ele guarda antes de escolher de novo. Por enquanto, peço que o use. Quando estivermos em segurança, conversamos.
+
+Beatriz passou o anel de volta para o dedo. A fumaça fina que ainda subia do cabelo dela sumiu de uma vez, e ela deixou os ombros caírem, como quem solta uma respiração que segurava há muito tempo. Mas continuou olhando para Velho-Sábio, à espera daquela conversa.
 
 – Breno. – O mago sorriu. – Seus irmãos são mais capazes do que você imagina. Eles não precisam de um líder. Precisam de um irmão.
 
@@ -395,7 +397,11 @@ Beatriz sorriu, e colocou o colar de volta. As duas se olharam, com um fio invis
 
 – Boa sorte – murmurou Shirley, com lágrimas escorrendo, enquanto eles se afastavam. A chuva de pétalas azuis seguiu os irmãos até a esquina e parou.
 
-A lua já subia quando chegaram em casa. Coronel veio correndo, abanando o rabo com tanta força que o corpo todo se movia junto, e Beatriz ajoelhou para abraçá-lo. Velho-Sábio fechou a porta e se virou para eles, e o brilho dos olhos verdes tinha algo de sábio e de triste ao mesmo tempo.
+A lua já subia quando chegaram em casa. Coronel veio correndo, abanando o rabo com tanta força que o corpo todo se movia junto, e Beatriz ajoelhou para abraçá-lo. Ele trazia na boca um chinelo de Velho-Sábio, que tinha sobrevivido a toda a semana de ausência.
+
+– Coronel – disse o mago, com a voz mais mole do que pretendia. – Larga.
+
+O Coronel largou, mas só depois de uma pausa respeitosa. Velho-Sábio fechou a porta e se virou para eles, e o brilho dos olhos verdes tinha algo de sábio e de triste ao mesmo tempo.
 
 – Vocês viveram mais do que qualquer um deveria. Mas amanhã cedo vão partir.
 
@@ -442,7 +448,7 @@ Ficaram acordados até tarde, trocando lembranças, rindo de algumas, calando em
 
  
 
-Na manhã seguinte, o sol atravessou as janelas e pintou a casa de dourado. Coronel dormia perto da porta, com um olho aberto, e os irmãos dobravam as roupas em silêncio, com o som baixinho do tecido e dos passos no assoalho.
+Na manhã seguinte, o sol atravessou as janelas e pintou a casa de dourado. Coronel dormia perto da porta, com um olho aberto e a alça da mochila de Banjo entre os dentes, e os irmãos dobravam as roupas em silêncio, com o som baixinho do tecido e dos passos no assoalho.
 
 Velho-Sábio os levou à Central de Teletransporte Dimensional, o salão que parecia desafiar o chão e o teto. Pontes flutuantes cruzavam o ar, criaturas de asa passavam pelo alto, e os portais prateados pulsavam em arcos esculpidos, como espelhos de água em pé. Tudo era tão vivo e tão bonito que Beatriz pensou que ia chorar só de olhar. Partir dali era como acordar no meio do melhor sonho e perceber que o despertador era de verdade.
 
@@ -456,7 +462,13 @@ Beatriz foi a primeira a se lançar nos braços dele.
 
 – Eu vou sentir tanta falta do senhor.
 
-– Eu também, pequena Bia. – Ele acariciou o cabelo dela e olhou para cada um, como quem guarda rostos num lugar seguro. Depois fez um sinal para o portal.
+– Eu também, pequena Bia. – Ele acariciou o cabelo dela e olhou para cada um, como quem guarda rostos num lugar seguro. Antes que se virassem, enfiou um pão de canela no bolso de cada um.
+
+– Por precaução.
+
+No bolso de Bruno, junto com o pão, havia um bilhete dobrado. Ele só leria no dia seguinte, e fingiria que não tinha chorado: "Acorda. Você também."
+
+Depois Velho-Sábio fez um sinal para o portal.
 
 Breno entrou primeiro, depois Bruno, depois Banjo, e por último Beatriz. O corpo deles foi esticado, torcido e comprimido ao mesmo tempo, uma sensação horrível e breve. Quando abriram os olhos, estavam na sala de casa.
 
@@ -464,10 +476,12 @@ Tudo era familiar e pequeno. O sofá gasto, a mesa de centro, o barulho dos pás
 
 – Vocês... estão aqui?
 
-Os irmãos se entreolharam. Banjo foi o primeiro a falar, com o sorriso mais inocente que conseguiu.
+Beatriz correu para ele. Frank a abraçou tão depressa que quase perdeu o equilíbrio. Os outros chegaram juntos, e por um momento os cinco ficaram enroscados no meio da sala. Banjo reconheceu o cheiro de café na camisa do tio. Bruno riu contra o ombro dele; Breno fechou os olhos e apertou os irmãos um pouco mais. Frank não pediu explicações. Passou a mão pelos cabelos de cada um, como se precisasse ter certeza de que eram reais.
+
+Quando enfim os soltou, Breno pousou o rádio do pai na mesa. Frank olhou para o aparelho e depois para os quatro. Banjo tentou sorrir.
 
 – A gente estava num dos meus melhores sonhos.
 
-Frank se levantou devagar, e o rosto dele mudou. Havia cansaço, alívio, e uma coisa a mais, que os quatro não conseguiram ler. Quando ele falou, a voz saiu baixa:
+O rosto de Frank mudou. Havia cansaço, alívio, e uma coisa a mais, que os quatro não conseguiram ler. Quando ele falou, a voz saiu baixa:
 
 – Então me contem... como foi a quarta dimensão?

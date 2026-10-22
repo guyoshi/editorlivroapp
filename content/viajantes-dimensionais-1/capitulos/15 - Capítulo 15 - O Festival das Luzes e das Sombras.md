@@ -92,7 +92,7 @@ Escreveu devagar, com a caneta cuidadosa, protegendo as palavras com a outra mã
 
 – Outras pessoas fazem aniversário hoje? – perguntou ela, inocente.
 
-– Não, querida. Esses são os primeiros balões do Festival das Luzes. Costumamos acender o céu na tarde do festival. – Velho-Sábio ajustou o chapéu. – E o seu será o primeiro desejo da noite. Um privilégio reservado às aniversariantes especiais.
+– Não, querida. Esses são os primeiros balões do Festival das Luzes. Costumamos acender o céu na tarde do festival. – Velho-Sábio ajustou o chapéu de plumas roxas, que ninguém tinha coragem de comentar. – E o seu será o primeiro desejo da noite. Um privilégio reservado às aniversariantes especiais.
 
 Beatriz levantou o braço e soltou o balão. Ele subiu balançando, como uma criatura viva, refletindo a luz nos olhos de todos. Foi ganhando altura, ficando menor, até se desfazer numa explosão suave de luz, como uma estrela recém-nascida entre as nuvens do fim de tarde.
 
@@ -164,10 +164,12 @@ O petrisco apareceu debaixo da mesa carregando um pedaço de madeira. Balançou 
 
 – Não liga, rapaz. Eu vou pensar num nome incrível. – Banjo o pegou no colo e olhou o irmão com ar de vitória. – Pelo menos ele não precisa de nome pra ser fofo e útil. Ao contrário de certas pessoas.
 
-– Coronel, tome conta da casa – disse Velho-Sábio, e o cachorro respondeu com um latido de sentinela.
+– Coronel, larga a capa e tome conta da casa – disse Velho-Sábio, e o cachorro soltou o tecido, ofendido, e respondeu com um latido de sentinela.
 
 
-Caminharam até a estação sob lâmpadas coloridas e projeções que dançavam nas fachadas. Os dassis estavam proibidos naquela noite, por causa dos balões no céu, e a viagem de túbula foi o melhor jeito de ver a cidade: cada rua com a sua cor, edifícios altos contando histórias em projeções, hologramas de constelações mexendo-se como vaga-lumes, uma área azul onde peixes de luz nadavam pelo ar e outra, vermelha, onde algo parecia bater no chão como um coração. Banjo não conseguiu falar nada durante a viagem inteira, de tanto que olhava. Bruno resmungou que aquilo "quase fazia esquecer o quanto a gente anda virando de cabeça para baixo".
+Caminharam até a estação sob lâmpadas coloridas e projeções que dançavam nas fachadas. Os dassis estavam proibidos naquela noite, por causa dos balões no céu. A viagem de túbula foi o melhor jeito de ver a cidade: cada rua com a sua cor, edifícios altos contando histórias em projeções, hologramas de constelações mexendo-se como vaga-lumes. Havia uma área azul onde peixes de luz nadavam pelo ar e outra, vermelha, onde algo parecia bater no chão como um coração.
+
+– Olha, olha, olha! – Beatriz puxava a manga de Breno com as duas mãos. – Os peixes estão olhando pra mim! Banjo não conseguiu falar nada durante a viagem inteira, de tanto que olhava. Bruno resmungou que aquilo "quase fazia esquecer o quanto a gente anda virando de cabeça para baixo".
 
 O karto parou numa grande praça, um mar de gente, barracas e luzes. No centro, uma torre branca de painéis de cristal dourado brilhava como um farol. Do alto, vinha o frescor da noite, e do chão o calor de milhares de pessoas, que juntos faziam a praça inteira cheirar a açúcar tostado.
 
@@ -188,6 +190,14 @@ Passou por eles um garoto com um cone de doces na mão e a cara de quem acabou d
 – Vi quatro vigilantes na saída leste. Quatro! Em dia de festa! – disse Denis, num sussurro de fofoca. – Dizem que o Becker, aquele conselheiro de cabelo de peruca, pressionou a Erla para reforçar os portões. Por que reforçar, se é festa? Eu vou descobrir.
 
 Foi embora lambendo o cone.
+
+Perto da saída leste, um vigilante de uniforme de gala tocou a aba do quepe para os irmãos. Era Gary, cansado como sempre, mas já com uma bala de mel estendida na direção de Banjo.
+
+– Divirtam-se. E não aceitem doce de estranhos. Os meus são exceção.
+
+– Tem vigilante demais hoje, né? – comentou Banjo.
+
+– Ordens de cima. – Gary suspirou. – Eu preferia estar em casa, com um livro ruim e uma sopa pior.
 
 – Ei, vocês! – Tango acenou de longe, com o sorriso que parecia iluminado por dentro. – Os heróis do Vórtice Monumental! Quem diria que estariam inteiros?
 
@@ -286,6 +296,8 @@ William McCroys vinha andando até ele, com os gêmeos ao lado.
 Bruno o encarou com os olhos estreitos. Velho-Sábio assentiu para o colega, que saiu.
 
 – Hoje vai ser um dia e tanto – disse Erick, ao passar por Bruno, rindo antes de se afastar.
+
+Mais atrás, no meio da multidão, Gary conversava com um vendedor de balões. Nicolas devolveu a ele um aceno de dois dedos, quase sem mexer a mão, e sumiu entre os foliões.
 
 – Como esses dois não foram eliminados? – sussurrou Bruno.
 
@@ -445,7 +457,7 @@ Banjo, com Farol brilhando no ombro, apontou para uma fileira de dassis parados 
 
 Tentaram abrir um por um. O primeiro piscou uma luz vermelha e soltou um apito de reclamação. O segundo não se mexeu. O terceiro abriu a porta ao toque de Breno, com um suspiro, como quem tinha desistido de discutir.
 
-– Isso é roubo – disse Bruno, já entrando.
+– Mano, isso é roubo – disse Bruno, já entrando.
 
 – Empréstimo.
 
@@ -553,7 +565,7 @@ Antes que dissesse mais, um estrondo ecoou. As enormes portas dos muros de Tayo 
 
 – As portas! – gritou Bruno, puxando Banjo.
 
-Gary, preso ao chão, sorriu de canto, só por um instante.
+Gary, preso ao chão, fechou os olhos por um instante, como quem respira aliviado.
 
 – Ordem da édion. Ninguém sai de Tayo esta noite.
 

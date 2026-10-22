@@ -151,6 +151,10 @@ Os irmãos se entreolharam. Nenhum deles conseguia falar. Do alto, a cidade acen
 
 – Hora de pegar nosso transporte – disse o Velho-Sábio, parando diante de um banco solitário, com uma placa de cartola em chamas. – Vamos de dassi.
 
+– Alguém leu o que está escrito na placa? – perguntou Banjo.
+
+– Eu só leio cardápio de pizza, mano – respondeu Bruno. – Se a placa está pegando fogo, eu acredito nela.
+
 – Dassi? – perguntou Banjo.
 
 – Um veículo que viaja pelos ares. Ele nos leva até a minha casa. Lá, vocês tomam um banho e descansam para amanhã.
@@ -210,6 +214,16 @@ O Coronel farejou a mão de Banjo e abanou o rabo devagar. Banjo se agachou, e o
 – Ele é um urso! – sussurrou Beatriz.
 
 – Muito mais tranquilo que os ursos – disse o velho.
+
+O Coronel deu a volta no mago e, sem a menor cerimônia, abocanhou a barra do manto dele.
+
+– Coronel. Larga – disse Velho-Sábio, sem nem olhar para baixo.
+
+O cachorro soltou, ofendido, sentou-se e examinou o céu como se nada tivesse acontecido. Dois passos depois, a barra do manto estava na boca dele outra vez.
+
+– Coronel.
+
+Bruno apertou os lábios para não rir. Banjo nem tentou.
 
 Por dentro, a casa era acolhedora e mágica. As paredes tinham figuras que se mexiam devagar, como numa dança. A sala principal era redonda, coberta por uma cúpula de vidro com o céu estrelado, e luzes pequenas flutuavam em volta, suaves e reconfortantes. No centro, uma tela retangular flutuava, emoldurada por um filete dourado gravado de símbolos astrais, com cristais pendurados na borda como pingentes. Uma onda de luz azul e dourada atravessava a tela devagar, pulsando com calma.
 

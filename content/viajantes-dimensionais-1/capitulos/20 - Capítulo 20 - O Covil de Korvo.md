@@ -176,6 +176,8 @@ Bruno apertou os punhos. Na cabeça dele, todos os olhares de desconfiança para
 
 – Foi para isso que eu me esforcei – disse Gary, quase carinhoso. – Alguns anos de trabalho, apenas para que um garoto achasse que via o que queria ver. E o meu filho ficou de olho em vocês. Eu tive que mexer alguns pauzinhos para ele continuar nos desafios depois de eliminado.
 
+Banjo olhou para Emiris. Viu, por um instante, o amigo que recortara lanternas com eles e prometera falar com o pai. Tinha sentido falta dele depois da eliminação. Agora não sabia se Emiris alguma vez tinha sido seu amigo.
+
 – O Garmand queria me expulsar – disse Emiris, ajeitando os óculos. – Pena para ele.
 
 – E por que o senhor fez isso tudo? – perguntou Breno. A raiva dele já não estava mais quente. Estava fria, o que era pior. – O senhor jurou proteger Tayo.
@@ -200,9 +202,15 @@ Os irmãos o reconheceram ao mesmo tempo. O zelador.
 
 – Gostaram da minha atuação? – perguntou ele, em tom suave. – Limpar paredes exige uma humildade que me faz bem. E fazer o papel de irmão... – O olhar dele pousou em Bruno. – Foi o papel mais fácil que já tive.
 
+Breno sentiu o estômago afundar. O Bruno do corredor escuro, de mãos nos bolsos, sem uma piada sequer. O que os empurrou para o portal.
+
+– Era você – disse Breno. – Você usou a cara do meu irmão.
+
+– Eu fui o seu irmão. Uma noite inteira. A voz, o jeito de andar, a postura de quem não leva nada a sério. – Korvo abriu as mãos, quase pedindo desculpas. – Só esqueci de uma coisa. O verdadeiro Bruno nunca ficaria tanto tempo sem fazer uma piada.
+
 – Ei! – Bruno deu um passo à frente. – Eu não tenho olheiras!
 
-– Tinha, ontem à noite – disse o homem, com um sorriso muito pequeno.
+– Tinha, ontem à noite – disse o homem, com um sorriso muito pequeno. – As minhas. Esqueci de escondê-las.
 
 Breno entendeu antes dos outros. O rosto de Bruno na beira do portal, calmo demais. Os olhos amarelos diante dele agora. As manchas escuras.
 

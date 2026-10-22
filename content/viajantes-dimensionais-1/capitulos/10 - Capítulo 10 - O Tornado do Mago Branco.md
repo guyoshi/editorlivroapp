@@ -50,7 +50,7 @@ No quarto dos irmãos, a noite foi de soluços abafados. Beatriz e Banjo se enco
 
 Mais tarde, Velho-Sábio bateu na porta.
 
-– Preciso resolver uma coisa com Garmand. Deixei o jantar pronto. Aconteça o que acontecer, ninguém sai de casa.
+– Preciso resolver uma coisa com Garmand. Deixei o jantar pronto, e o Coronel está de guarda. Ele é péssimo nisso, mas é sincero. Aconteça o que acontecer, ninguém sai de casa.
 
 Banjo e Beatriz foram para a cozinha. Bruno ficou deitado.
 
@@ -99,7 +99,7 @@ Bruno escutava, sem saber como reagir.
 Bruno quis responder, mas não conseguiu. Saiu do quarto sem olhar para ele, sentindo o olhar do mago nas costas. Não queria que ele visse a mistura de raiva, medo e incerteza que dançava em seu rosto.
 
 
-Na manhã seguinte, o céu mal tinha clareado quando Velho-Sábio acordou os irmãos.
+Na manhã seguinte, o céu mal tinha clareado quando Velho-Sábio acordou os irmãos. Havia uma xícara quente na mesinha de cada um, e o Coronel dormia sentado ao pé da cama de Banjo, como um guarda de honra cansado.
 
 – Levantem-se e arrumem-se. Temos algo importante a fazer.
 
@@ -153,11 +153,11 @@ Folhas e plantas se ergueram do chão, girando em espirais lentas. Elas se junta
 
 Banjo sentou-se numa pedra, de olhos arregalados.
 
-– Então uma senante e um velita se apaixonaram – disse o mago, e as folhas formaram dois vultos de mãos dadas. – Tiveram uma filha, Édelin Lys, a primeira senavelita. Nela, o poder dos senantes se misturou à destreza dos velitas. E o nascimento dela deu início a uma grande guerra, a Guerra do Gelo.
+– A guerra entre os dois povos durava muito tempo – disse o mago, e as folhas formaram dois exércitos frente a frente. – Foi no meio dela que viveu Édelin Lys, de sangue senante e velita, a primeira senavelita de que se tem notícia. Nela, o poder dos senantes se misturava à destreza dos velitas. E foi no tempo dela que veio a pior de todas as guerras, a Guerra do Gelo.
 
 – Que nome ótimo para uma guerra – murmurou Bruno.
 
-– Forças sombrias vieram do norte e trouxeram uma era de gelo sem precedentes. Senantes e velitas, que ainda se odiavam, perceberam que só juntos poderiam resistir. Neste castelo, em Laer Tayo, selaram o acordo. Os mais fortes de Belfex foram para o mar do norte e venceram. – A voz dele ficou mais baixa. – Mas o preço foi alto. Para vencer, os senantes tiveram de sacrificar a magia. Criaram um artefato, o estírio, que a guardou, e eles se tornaram homens sem magia.
+– Forças sombrias vieram do norte e trouxeram uma era de gelo sem precedentes. Senantes e velitas, que ainda se odiavam, perceberam que só juntos poderiam resistir. Neste castelo, em Laer Tayo, selaram o acordo. Os mais fortes de Belfex foram para o mar do norte e venceram. – A voz dele ficou mais baixa. – Mas o preço foi alto. Para vencer, os senantes tiveram de sacrificar a magia. Criaram, com a ajuda de Édelin, um artefato, o estírio, que guardou a magia deles. E eles se tornaram homens sem magia.
 
 As folhas formaram um globo pequeno, que pairou e se apagou.
 

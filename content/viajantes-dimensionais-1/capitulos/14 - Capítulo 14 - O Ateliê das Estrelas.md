@@ -59,7 +59,7 @@ Velho-Sábio os chamou com um gesto.
 A resposta curta fez os quatro se calarem. No dassi, Banjo ainda descreveu o jogo inteiro em voz baixa, até Bruno puxar a manga dele. Beatriz olhou pela janela, pensando no que poderia ter deixado o mago tão sério logo no dia em que ela tinha acertado.
 
 
-Quando chegaram, a casa os recebeu com o mesmo calor de sempre. A lareira estava acesa, o cheiro de pão quente subia da cozinha, e o Coronel veio balançando o rabo até as pernas deles. Só Velho-Sábio não combinava com a casa. Fechou a porta da sala devagar, girou o anel de metal que servia de tranca e ficou de costas por um momento, respirando fundo.
+Quando chegaram, a casa os recebeu com o mesmo calor de sempre. A lareira estava acesa, o cheiro de pão quente subia da cozinha, e o Coronel veio balançando o rabo até as pernas deles, com um chinelo de Velho-Sábio na boca, como oferenda. Só Velho-Sábio não combinava com a casa. Fechou a porta da sala devagar, girou o anel de metal que servia de tranca e ficou de costas por um momento, respirando fundo.
 
 – Tá tudo bem? – Bruno quebrou o silêncio, como sempre. – A gente ganhou, sabia? Acho que merecemos uma comemoração. Ou pelo menos um "parabéns".
 
@@ -344,6 +344,8 @@ A agitação foi interrompida quando Velho-Sábio parou diante de uma barraca el
 Por trás do balcão estava um homem de cabelo prateado penteado para trás, olhos marcados por uma sombra fina e túnica longa de veludo roxo, bordada em dourado como se tivesse estrelas costuradas.
 
 – Velho-Sábio, meu querido! – A voz era melodiosa e teatral. Ele abriu os braços, depois parou e olhou para os irmãos. – E estes são os prodígios?
+
+Enquanto Peryth falava, Velho-Sábio experimentou, muito sério, um chapéu de plumas roxas diante do espelho. Ninguém comentou. Ele pagou e saiu com o chapéu na cabeça, como se sempre tivesse sido dele.
 
 – Falaram de nós? – perguntou Banjo.
 

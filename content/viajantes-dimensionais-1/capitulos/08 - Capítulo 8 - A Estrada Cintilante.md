@@ -65,6 +65,12 @@ Houve um silêncio. Bruno ergueu os olhos para a tela.
 
 Velho-Sábio, na cabeceira, escondeu o sorriso na xícara.
 
+Antes de saírem, ele enfiou um pão de canela no bolso de cada um, "por precaução". O Coronel recebeu o dele direto na boca e, no caminho do portão, tentou ficar também com o de Bruno.
+
+– Larga – disse Velho-Sábio, de longe, sem olhar.
+
+O Coronel largou. Bruno guardou o pão mais fundo no bolso e agradeceu ao mago com um aceno de cabeça, em nome da dignidade de todos.
+
 O céu amanheceu limpo e azul, e as ruas de Tayo estavam cheias de gente com a cabeça para o alto. Pelo caminho, uma criança de patins flutuantes gritou "Boa sorte, dimensais!", e uma senhora da janela jogou um punhado de pétalas secas por cima do dassi deles.
 
 No último andar do Edifício Arcano, o salão tinha virado uma estação de lançamento. O teto era uma cúpula escura salpicada de luzes lentas, e linhas azuis e roxas corriam pelo chão como o mapa de uma estrada que só existia no ar. No centro, dez dassis de corrida esperavam em fila, versões achatadas e coloridas dos dassis prateados da cidade, com as bordas brilhando como vidro aceso.
@@ -185,7 +191,7 @@ Agora só faltava o verde de Ferris, longe na frente, e o preto dos gêmeos, que
 
 – Eu tenho uma ideia – disse. – Mas precisamos de sorte.
 
-Ele deixou a magia fluir, sentiu o zumbido grave subir no peito, acelerou e bateu de frente no dassi preto. O vermelho passou direto pelo veículo, atravessou o metal, a luz, os dois garotos de olhos esbugalhados, e saiu do outro lado.
+Ele deixou a magia fluir, sentiu o zumbido grave subir no peito, acelerou e bateu de frente no dassi preto. O vermelho passou direto pelo veículo, atravessou o metal, a luz, os dois garotos de olhos arregalados, e saiu do outro lado.
 
 – AÍ, APRENDAM ISSO! – berrou Beatriz, sacudindo o punho pela janela.
 
@@ -195,13 +201,13 @@ Do dassi verde desceu o garoto ruivo do capacete. Estava sozinho, sem equipe, e 
 
 – Quem é ele? – sussurrou Beatriz.
 
-– Não sei – respondeu Banjo, ainda ofegante. – Mas deve ser bom.
+– Não sei – respondeu Banjo, ainda ofegante. – Mas deve ser bom. Ele pilota como se a estrada soubesse o nome dele.
 
 Velho-Sábio se aproximou, orgulhoso, com o Coronel trotando ao lado dele, que ninguém tinha visto entrar. O cachorro foi direto em Banjo e lambeu a mão dele da ponta dos dedos ao cotovelo.
 
 – Vocês foram magníficos! – disse o mago, e deu um tapinha nas costas de Breno, que sorriu com o resto da adrenalina. – Quatro pilotos em um volante só e nenhum arranhão. Isso é coordenação.
 
-– A gente quase morreu quatro vezes – disse Beatriz.
+– A gente quase morreu quatro vezes, mas foi MUITO legal! – disse Beatriz, pulando no lugar.
 
 – E não morreu nenhuma – respondeu Tango, passando e bagunçando o cabelo dela. – Boa, pequena! Aquele fogo azul foi coisa de mestre.
 
@@ -242,4 +248,6 @@ As duas trocaram um olhar.
 
 – Ele nem teve chance – murmurou Eshley. – Mas é assim que funciona.
 
-A mesa ficou quieta. Beatriz baixou os olhos, e Banjo suspirou, entendendo, de repente, que aquilo não era só uma brincadeira de dassi. Os desafios decidiam quem ficava em Belfex e quem não ficava, e a ideia de perder aquele lugar pesou nele como um bloco.
+Banjo olhou para a cadeira vazia de Emiris. Na véspera, ele estivera ali, recortando lanternas com o grupo e se oferecendo para pedir ajuda ao pai quando Bruno ficou preocupado. Banjo ainda podia ouvir a voz dele no meio da conversa.
+
+A mesa ficou quieta. Beatriz baixou os olhos. Banjo entendeu, de repente, que aquilo não era só uma brincadeira de dassi. Emiris fazia falta, e na próxima prova a cadeira vazia podia ser a dele. Ou a de qualquer um dos irmãos. O segundo lugar não garantia nada.

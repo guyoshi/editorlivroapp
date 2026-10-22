@@ -338,7 +338,7 @@ Bruno olhou ao redor: o homem alto de cabeça de serpente, o rapaz de pele verme
 
 O sorriso de Anasin cresceu, mas os olhos dela esfriaram. Todos os encapuzados baixaram os capuzes. O homem tinha uma cabeça que era uma mistura grotesca de humano e cobra, com escamas que refletiam a lua. O outro tinha olhos de brasa, que pareciam atravessar Bruno por dentro.
 
-– Aquele é Saliens – disse Anasin, apontando o rapaz de chifres com o queixo. – E o nosso amigo ali não fala com estranhos. Ele é esperto, esse – acrescentou, para os outros, como quem conta uma piada particular. – Sim, garoto. Somos a Patrulha. E você está bem longe de casa.
+– Aquele é Saliens – disse Anasin, apontando o rapaz de chifres com o queixo. – E o nosso amigo ali é Naghar. Ele não fala com estranhos. Ele é esperto, esse – acrescentou, para os outros, como quem conta uma piada particular. – Sim, garoto. Somos a Patrulha. E você está bem longe de casa.
 
 Bruno forçou-se a ficar firme, embora o suor frio escorresse pela nuca.
 
