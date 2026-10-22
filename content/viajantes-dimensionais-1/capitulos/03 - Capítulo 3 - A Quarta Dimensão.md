@@ -232,17 +232,37 @@ Por dentro, a casa era acolhedora e mágica. As paredes tinham figuras que se me
 
 – Muito bem, Banjo. Vejo que a viagem foi intensa.
 
-– Você sabe de tudo? – perguntou Beatriz, fascinada.
+Banjo franziu a testa e olhou para os irmãos.
 
-– Tudo o que vocês precisarem saber, estarei aqui para ajudar.
+– Espera aí... Como você sabe meu nome?
 
-Bruno riu, debochado.
+– Eu conheço vocês, Banjo.
 
-– Uma tela que fala. Qual é o próximo truque, Kali? Vai fazer mágica?
+– Sabe o meu também? – perguntou Beatriz, aproximando-se da tela.
 
-– Muito prazer também, Bruno. Se precisar de mim, estarei aqui.
+– Claro. Você é Beatriz Lins, a caçula dos quatro irmãos.
 
-– Claro, claro. Espera... como você sabe meu nome?
+– Acertou! Que legal! – Beatriz abriu um sorriso e olhou para os irmãos, satisfeita, antes de se voltar para Kali. – E o que mais você sabe?
+
+– Muitas coisas, Beatriz. Conheço bastante sobre Belfex, Tayo e a magia deste mundo. Sempre que precisarem de alguma informação, estarei aqui para ajudar.
+
+Bruno soltou uma risada debochada.
+
+– Uau! Uma tela que fala e sabe o nome da gente. Que impressionante! – Ele cruzou os braços, com um sorriso provocador. – Vai me dizer que também sabe fazer magia?
+
+A onda de luz azul que atravessava a tela vacilou por um instante.
+
+– Não, Bruno. Isso eu não sei fazer.
+
+– Ah, então não é tão impressionante assim.
+
+– Muito prazer também, Bruno – respondeu Kali, com a mesma gentileza. – Se precisar de mim, estarei aqui.
+
+Bruno estreitou os olhos.
+
+– Ei, eu nem disse meu nome!
+
+– Nem precisava – respondeu Kali.
 
 – O Bruno está com ciúme porque não tem uma dessas em casa – provocou Beatriz.
 
