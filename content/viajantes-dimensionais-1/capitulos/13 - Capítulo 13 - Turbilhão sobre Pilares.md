@@ -205,7 +205,7 @@ Beatriz viu a Marqe cair. E, pela primeira vez, não pensou em nada. Ouviu o pr�
 
 Abriu as mãos, sem mirar a Marqe.
 
-O cheiro de pão queimado que a seguia a vida inteira mudou. Ficou de pão saindo do forno, quente e doce. Uma chama azul subiu das palmas, fina, calma, e se enrolou como uma fita em volta do pilar sob a Marqe, desenhando uma espiral ascendente de ar quente. A Marqe, que ia caindo, parou, subiu como uma lanterna soprada para o alto, atravessou a barreira de vento do estádio e entrou, devagar, na Zona de Arremesso do Fulgor Dourado.
+O cheiro de pão queimado que ela conhecia desde o coral mudou. Ficou de pão saindo do forno, quente e doce. Uma chama azul subiu das palmas, fina, calma, e se enrolou como uma fita em volta do pilar sob a Marqe, desenhando uma espiral ascendente de ar quente. A Marqe, que ia caindo, parou, subiu como uma lanterna soprada para o alto, atravessou a barreira de vento do estádio e entrou, devagar, na Zona de Arremesso do Fulgor Dourado.
 
 Aradon, nas arquibancadas, levantou meio corpo, pronto para gritar falta. Parou. Ar quente era ar, e a Marqe nunca fora tocada. Sentou-se de novo, com a boca aberta e um sorriso que não conseguiu esconder.
 

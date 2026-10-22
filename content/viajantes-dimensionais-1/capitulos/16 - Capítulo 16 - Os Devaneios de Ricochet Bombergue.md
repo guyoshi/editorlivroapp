@@ -18,13 +18,7 @@ Ninguém respondeu. Breno subiu na pedra mais alta que encontrou e examinou o ho
 
 – Eu tenho comentários. É diferente.
 
-Desceram. Estavam a poucos passos da pedra quando uma pétala roxa caiu devagar do céu limpo e pousou na cabeça de Banjo. Depois outra. Depois mais uma, uma chuvinha preguiçosa de flores, sem nenhuma árvore por perto.
-
-– Flores não caem do nada – disse Bruno, olhando para cima.
-
-– Essas caem – respondeu Banjo, encantado, tentando pegar uma no ar.
-
-Quando a chuva de pétalas passou, o estômago dele roncou tão alto que uma coisa grande e verde se mexeu entre as pedras. Era um besouro do tamanho de um cachorro, com a carapaça lisa como pedra polida e antenas que balançavam, curiosas. Ele os examinou por um instante, decidiu que não valiam o esforço e saiu andando, devagar, rumo ao nada.
+Desceram. Banjo revirou os bolsos à procura de comida, sem encontrar nem uma migalha. Entre as pedras, um besouro do tamanho de um cachorro saiu de uma fresta, com a carapaça lisa como pedra polida e antenas que balançavam, curiosas. Ele os examinou por um instante, decidiu que não valiam o esforço e saiu andando, devagar, rumo ao nada.
 
 – Estou com fome – anunciou Banjo, olhando o besouro se afastar com um interesse que deixou Bruno desconfiado.
 

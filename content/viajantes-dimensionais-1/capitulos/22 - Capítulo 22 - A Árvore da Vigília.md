@@ -92,7 +92,7 @@ Lioro olhou para Velho-Sábio.
 
 Banjo assentiu, sem saber o que sentir pelo garoto com quem havia dividido tantas tardes.
 
-Voltaram para casa de dassi. A cidade passava pelas janelas igual a sempre, e ao mesmo tempo tudo parecia diferente: as luzes mais frias, as ruas mais escuras, como se Tayo tivesse perdido uma camada de tinta.
+Voltaram para casa de dassi. Pelas janelas, viram fitas do festival ainda presas às fachadas e um balão murcho amarrado a um poste. Ninguém passava naquela rua.
 
 Depois de um banho quente e roupas limpas, os quatro se sentaram à mesa. Havia um banquete simples, e eles comeram como quem não via comida há uma semana. Só Beatriz beliscava devagar, com os olhos longe. Coronel, deitado debaixo da cadeira de Banjo, aceitava tudo o que caía.
 
@@ -512,7 +512,7 @@ No bolso de Bruno, junto com o pão, havia um bilhete dobrado. Ele só leria no 
 
 Depois Velho-Sábio fez um sinal para o portal.
 
-Breno entrou primeiro, depois Bruno, depois Banjo, e por último Beatriz. O corpo deles foi esticado, torcido e comprimido ao mesmo tempo, uma sensação horrível e breve. Quando abriram os olhos, estavam na sala de casa.
+Breno entrou primeiro, depois Bruno, depois Banjo, e por último Beatriz. A prata do arco se desfez em faixas de cor. Por um instante, viram ruas por cima, por baixo e por dentro dos mesmos prédios. Aquela cidade sumiu, e um campo de pontos vivos se abriu no lugar, vasto demais para saber onde acabava. Veio a escuridão. Sons próximos e distantes se misturaram enquanto os corpos se esticavam em direções impossíveis. Beatriz tentou alcançar Banjo, mas a distância entre os dois mudou antes que pudesse tocá-lo. Então o peso voltou aos pés. Quando abriram os olhos, estavam na sala de casa.
 
 Tudo era familiar e pequeno. O sofá gasto, a mesa de centro, o barulho dos pássaros lá fora. No sofá, com as mãos no rosto, estava Frank. Parecia não dormir há muitas noites. Ao ouvir o som, levantou a cabeça, de olhos arregalados.
 

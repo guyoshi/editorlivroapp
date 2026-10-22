@@ -300,6 +300,6 @@ Comeram. Foi o jantar mais comprido da vida deles, com mais risos do que palavra
 
 – Você viu o teto? – cochichou Banjo, deitado de barriga para cima. – As luzinhas da canção ficaram lá.
 
-Era verdade. Entre as constelações, quatro estrelas novas brilhavam bem juntinhas, e nenhum dos irmãos as reconhecia de manhã. Breno olhou para elas por um bom tempo. Depois olhou para a mesinha ao lado da cama, onde o rádio do pai, morno, respirava devagar.
+Era verdade. Entre as constelações, quatro estrelas novas brilhavam bem juntinhas, e nenhum dos irmãos as reconhecia de manhã. Breno olhou para elas por um bom tempo. Depois olhou para a mesinha ao lado da cama. O rádio do pai ainda estava morno.
 
 Quando enfim adormeceu, não sonhou com nada.

@@ -348,6 +348,8 @@ Beatriz segurou o riso. Banjo ergueu a cartolina e apontou, um por um, para os i
 
 – Dois: as lâmpadas do coral da Bia. Três: o Bruno congelou o volante. Quatro...
 
+– O volante grudou na minha mão – cortou Bruno. – Não sei como. "Congelei" é você que está dizendo.
+
 – Minha mão atravessou as páginas de um livro de história também – acrescentou Breno, quase sussurrando.
 
 – Pff. Você virou fantasma agora? – provocou Bruno, esfregando a palma da mão que ainda doía.
@@ -361,6 +363,8 @@ Beatriz segurou o riso. Banjo ergueu a cartolina e apontou, um por um, para os i
 Mas ninguém riu de verdade. Beatriz abraçou os joelhos.
 
 – Isso tudo depois de tocar naquela bolinha esquisita... Isso só prova algo... nós... temos... super poderes. 
+
+– Você deu um nome. Ainda não provou nada – disse Bruno.
 
 Banjo parecia encantado com o que acabara de dizer. 
 
@@ -428,7 +432,7 @@ Breno pensava nisso desde que o carro parou. Soltou a maçaneta e sentou-se um d
 
 – Como sabe do rádio?
 
-– Vocês podem não entender agora. Mas nem funciona pro que vocês acreditam que deve funcionar. 
+– Vocês podem não entender agora. Mas nem tudo funciona pro que vocês acreditam que deve funcionar. 
 
 O velho piscou e se levantou com um estalo de joelhos. Ao sair debaixo do beiral, ergueu o cajado. A chuva se abriu ao redor dele, deixando um círculo seco que acompanhou seus passos pelo quintal. A luz do cajado ficou do tamanho de um vagalume e se apagou entre as árvores. No mesmo instante, a chuva voltou a cair naquele pedaço do chão.
 
@@ -440,61 +444,49 @@ Breno ficou ali, sozinho, ouvindo a chuva, até os pés esfriarem por completo.
 
 Breno contou tudo, em voz baixa. Bruno disse que ele tinha sonhado. Banjo disse que ele não tinha sonhado. Beatriz não disse nada. Olhava para o rádio.
 
-Breno tirou o aparelho da prateleira. Estava morno, e zumbia tão baixinho que só dava para sentir na palma da mão. Embaixo da tampa das pilhas, o símbolo pequeno que ele nunca soube o que era parecia mais fundo, como se tivesse sido gravado de novo.
+Breno tirou o aparelho da prateleira. Estava morno, e zumbia tão baixinho que só dava para sentir na palma da mão. Abriu a tampa das pilhas. O símbolo pequeno que ele nunca soube o que era parecia mais fundo, como se tivesse sido gravado de novo.
 
 – Ele disse que não estava quebrado – falou Breno. – Que não funciona como a gente pensava.
 
-– E o que a gente faz? – perguntou Banjo.
+– O que você vai fazer? – perguntou Banjo.
 
 Breno demorou para responder.
 
-– Hoje foi o carro. Amanhã pode ser um de nós machucando o outro. Eu não vou esperar isso acontecer. Se aquele homem sabe como controlar essa magia, a gente precisa aprender. Mas vou ficar de olho nele.
+– Hoje foi o carro. Amanhã pode ser um de nós machucando o outro. Eu não vou esperar isso acontecer. Se aquele homem sabe como controlar essa magia, a gente precisa aprender. 
 
-– Você tá dizendo que a gente vai? – Banjo se ergueu na cama.
+– Você tá dizendo que a gente vai? Pra essa outra dimensão? – Banjo se ergueu na cama.
 
-– Estou dizendo que a gente precisa decidir junto. Eu não conheço aquele homem. Só sei o que aconteceu hoje.
+– Eu nem sei se essa dimensão existe. Estou dizendo que quero descobrir se ele falou a verdade. Não vou seguir um desconhecido no meio da noite.
 
 Bruno esfregou a palma ainda vermelha.
 
-– Também não confio nele. Mas o volante grudou na minha mão. Não dá pra fingir que foi um acidente normal.
+– Vocês estão todos malucos.
 
-– Eu quero entender o que aconteceu na caverna – disse Banjo. – E o que eu sinto perto das árvores.
+– Eu quero saber o que tem nessa outra dimensão – disse Banjo. – E por que sinto aquelas coisas perto das árvores.
 
 Beatriz ajeitou a pulseira de Melissa.
 
-– Eu tenho medo de ir. Só que tenho medo de ficar aqui e machucar alguém também.
+– Eu quero saber se alguém pode me ensinar a parar o calor antes que eu machuque alguém.
 
-– E o tio Frank? – perguntou Bruno. – Ele vai acordar e não encontrar ninguém.
+– Amanhã conversamos com o tio Frank – disse Breno. – Primeiro precisamos entender o que esse homem sabe.
 
-Breno olhou para a porta do quarto. Não tinha pensado que a escolha podia acontecer tão depressa.
+Ele colocou o rádio sobre a cama, entre os quatro.
 
-– Precisamos falar com ele. Mas antes quero saber o que vocês querem. Se um de nós não quiser ir, ninguém vai.
+– Na caverna, as luzes dele piscaram junto com a esfera – lembrou Banjo.
 
-Breno colocou o rádio sobre a cama, entre eles.
+Breno girou o botão de sintonia. Só ouviu um chiado baixo. Bruno ergueu a antena; nada mudou.
 
-– Vocês querem tentar? Os quatro?
+– O velho disse que ele não estava quebrado – falou Beatriz. – Talvez a gente esteja tentando do jeito errado.
 
-Banjo pousou a mão no rádio primeiro.
+Banjo encostou um dedo na lateral do aparelho. O chiado ficou mais forte. Beatriz pôs a mão ao lado da dele, e o símbolo brilhou azul.
 
-– Eu quero.
+– Olha só... – disse Bruno, segurando o rádio para examinar o símbolo.
 
-Beatriz colocou a mão sobre a dele.
+Breno estendeu a mão para ajudá-lo. No instante em que os quatro o tocaram, o rádio estalou. 
 
-– Se vocês forem comigo, eu também.
+– Espera... – Breno tentou afastar a mão.
 
-Bruno olhou para a palma vermelha, depois para os irmãos, e juntou a mão às deles.
-
-– Eu vou. Mas não vou tirar os olhos daquele velho.
-
-Por último, Breno cobriu as mãos dos três com a sua.
-
-– Então vamos juntos.
-
-O rádio estalou. Breno puxou a mão de volta.
-
-– Espera. O tio Frank...
-
-O chiado cresceu e se desfez em notas, e a música começou no meio, como se estivesse tocando em outro lugar desde sempre. O mesmo hit de Roxette que o pai adorava. Uma luz azul-clara subiu da cama e fez o quarto parecer feito de vidro. As paredes ficaram finas, o teto desapareceu e os irmãos sentiram os pés deixarem o colchão.
+O chiado cresceu e se desfez em notas, e a música começou no meio, como se estivesse tocando em outro lugar desde sempre. Era "Listen to Your Heart", do Roxette, a música que o pai adorava. Uma luz azul-clara subiu da cama e fez o quarto parecer feito de vidro. As paredes ficaram finas, o teto desapareceu e os irmãos sentiram os pés deixarem o colchão.
 
 Não houve queda. Houve uma subida suave, como a de quem mergulha no mar de olhos abertos.
 

@@ -321,7 +321,7 @@ Por último, aproximou-se de Beatriz e colocou um anel delicado no dedo dela.
 
 – Anel Orcidal. Ajuda a catalisar o seu poder. Impede que as chamas e o caos saiam do controle.
 
-Beatriz olhou para o anel, encantada, e sorriu, tímida.
+Beatriz ergueu a mão para ver o anel. A pulseira de Melissa deslizou pelo pulso. Ela sorriu, tímida.
 
 – Obrigada.
 

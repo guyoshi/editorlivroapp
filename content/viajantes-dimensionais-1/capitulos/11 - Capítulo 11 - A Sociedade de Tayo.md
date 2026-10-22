@@ -34,7 +34,7 @@ Os irmãos desceram atrás dele, por um túnel em espiral que parecia não ter f
 
 – Talvez a um encontro de vampiros – brincou Bruno, tentando esconder a própria inquietação.
 
-O túnel se alargou, e eles chegaram a um salão subterrâneo de colunas maciças e teto abobadado. No centro, uma roda de bancos de pedra esperava, e nas paredes, símbolos antigos pulsavam com uma luz fraca, como se respondessem ao mago. Beatriz tentou decifrá-los, mas a língua era antiga demais.
+O túnel se alargou, e eles chegaram a um salão subterrâneo de colunas maciças e teto abobadado. No centro, havia uma roda de bancos de pedra, gastos nas bordas onde muitas mãos tinham se apoiado. Num canto, um mapa de Tayo exibia caminhos riscados e corrigidos em tintas diferentes. Nas paredes, símbolos antigos pulsavam com uma luz fraca, como se respondessem ao mago. Beatriz tentou decifrá-los, mas a língua era antiga demais.
 
 – Alguém ainda usa esse lugar? – perguntou, e a voz dela ecoou.
 

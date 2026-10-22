@@ -20,7 +20,7 @@ Já lá dentro, Bruno finalmente perguntou, com a voz mais firme do que se senti
 
 – Velho-Sábio... eu fui eliminado, não fui?
 
-O mago o olhou com os olhos gentis, e uma tempestade parecida com a do lado de fora passou neles.
+O mago o olhou, sem responder de imediato.
 
 – Vamos falar disso em casa, Bruno.
 

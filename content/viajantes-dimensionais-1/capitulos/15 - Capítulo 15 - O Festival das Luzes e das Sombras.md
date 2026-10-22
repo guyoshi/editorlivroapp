@@ -393,7 +393,7 @@ A voz falhou, e ele respirou fundo para segurar as lágrimas. Sem mais palavras,
 
 – Beatriz! Responda! Por favor!
 
-Saiu da multidão numa rua estreita e silenciosa, iluminada por poucas luzes fracas. Os passos ecoavam. Cada sombra parecia um perigo escondido. Parou no meio da rua, ofegante, as mãos no cabelo.
+Saiu da multidão numa rua estreita, iluminada por poucas luzes fracas. Os passos ecoavam. Ao longe, o batuque do festival continuava, ainda alegre. Parou no meio da rua, ofegante, as mãos no cabelo.
 
 De repente, uma rajada de fogo cortou o ar. Breno recuou, pensando em Beatriz. Mas foi Erick quem surgiu da escuridão, com uma chama na mão e um sorriso cruel.
 

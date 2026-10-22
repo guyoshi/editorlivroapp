@@ -1,7 +1,7 @@
 
 A música cresceu.
 
-Começou no rádio, pequena e familiar, e foi se abrindo como uma flor. Outros instrumentos entraram, de lugares que não existiam, e a melodia se esticou até virar vento, e o vento até virar luz. Os irmãos subiam de mãos dadas por um corredor sem paredes, feito de cores que eles não saberiam nomear. Sentiram o corpo ficar comprido e curto ao mesmo tempo, como se fossem apenas uma ideia atravessando o espaço. Atravessaram uma camada fina, como um lençol de vidro líquido, que se rompeu num estalo de sino.
+Começou no rádio, pequena e familiar. Então vieram sons que nenhum instrumento parecia fazer, e o quarto perdeu as bordas. Os irmãos subiam de mãos dadas, embora já não houvesse cima. Num lampejo, viram uma cidade cujas casas mostravam por fora todos os cômodos fechados; no seguinte, criaturas luminosas nadavam num mar suspenso no escuro. Houve um lugar sem luz, atravessado por vozes de cores diferentes. Cada mundo sumia antes que conseguissem entender o que viam. Seus corpos pareceram se esticar em direções que não conheciam. Beatriz apertou a mão de Breno. Uma película fria se rompeu diante deles com um estalo de sino, e a música desapareceu.
 
 E então o peso voltou aos pés. Eles estavam de pé.
 
