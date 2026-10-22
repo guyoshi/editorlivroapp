@@ -63,7 +63,7 @@ Ou melhor, havia, mas lá embaixo, muito embaixo, escondido sob camadas de nuven
 
 – Amanhã?! – gritou Banjo, e o eco devolveu: manhã, manhã, manhã.
 
-– Não se assustem. Os primeiros desafios quase não exigem magia. Dominem o básico, e o resto vem. – Ele os distribuiu em pilares diferentes. – Encontrem uma posição estável, sintam o M.A. e deixem a magia fluir. Ela vem de dentro.
+– Não se assustem. Os primeiros desafios quase não exigem magia. Dominem o básico, e o resto vem. – Ele os distribuiu em pilares diferentes. – Encontrem uma posição estável, sintam a magia de vocês e deixem que ela flua. Ela vem de dentro.
 
 Bruno, em cima de um pilar que balançava, olhou para baixo e depois para o mestre.
 

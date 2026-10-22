@@ -140,6 +140,10 @@ As crianças saíram, uma a uma, com a cabeça baixa. Banjo ficou olhando a pra�
 
 – É – disse Velho-Sábio, ajustando o manto. – A lenda tem metade de verdade. E é a metade que dá medo.
 
+– Ela disse que o poder aprendeu a andar sozinho – lembrou Banjo. – Isso acontece mesmo?
+
+– A magia não anda sozinha – disse Velho-Sábio. – Mas quem deixa de escutá-la pode acabar obedecendo a ela. Korvo chama isso de liberdade.
+
 – Por que mandaram ela parar? – perguntou Breno.
 
 – Ninguém mandou. Aqui, algumas coisas não precisam ser mandadas. – O velho olhou para as janelas fechadas. – Há quem prefira fechar as janelas a olhar pra fora.
@@ -147,7 +151,25 @@ As crianças saíram, uma a uma, com a cabeça baixa. Banjo ficou olhando a pra�
 O dassi chegou, suave, e os quatro entraram em silêncio. Pela primeira vez em Belfex, ninguém reparou no caminho.
 
 
-Em casa, Breno ficou parado diante da janela do quarto, com os punhos fechados.
+Em casa, Kali acendeu a tela da sala quando os irmãos entraram. As roupas amassadas e os passos lentos dispensavam perguntas sobre o treino.
+
+– Primeira aula de arcanismo concluída – disse ela, mais baixo que de costume.
+
+– Arcanismo é o nome do treino? – perguntou Banjo.
+
+– É o estudo e a prática da magia. M.A. significa Magia Arcana: o tipo de magia que cada pessoa usa. Pode ser elemental, cinestésica ou de outra natureza.
+
+– E como vocês sabem se alguém já domina a própria magia? – perguntou Bruno.
+
+– Pelo Índice Arcano. Ele mede o controle que a pessoa tem sobre a própria magia, não a força do feitiço. Valores entre 0,2 e 0,3 são comuns. Chegar a 1 é raríssimo; o índice sobe devagar, com muito treino.
+
+Banjo se virou para Velho-Sábio, que pousava o cajado junto à porta.
+
+– Velho-Sábio, o que é esse Índice Arcano, afinal? Aquele menino da história perdeu o controle?
+
+– É um jeito de medir quem conduz quem. Errar um feitiço, como vocês erraram hoje, não torna ninguém mau. Mas quem se entrega à magia e deixa que ela escolha em seu lugar pode ver o índice cair abaixo de zero. É o caminho da magia negra. – O velho olhou para as mãos de Banjo. – Hoje você ouviu aquela criaturinha, mas se assustou com a força que veio depois. Primeiro aprenda a reconhecer a sua magia. Os números podem esperar.
+
+Breno subiu para o quarto e ficou parado diante da janela, com os punhos fechados.
 
 – Ei, irmão. Tá tudo bem? – perguntou Banjo.
 

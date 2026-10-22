@@ -332,9 +332,9 @@ Beatriz franziu a testa, com o nome da mãe girando dentro dela.
 
 – Que aqueles que a trouxeram prometeram treiná-la e aceitá-la como igual. Mas tiveram medo de que a luz dela ofuscasse a deles. Então a mandaram de volta.
 
-– Mentira – disse Breno. – O Velho-Sábio disse que ela escolheu voltar.
+– Mentira – disse Breno. – O Velho-Sábio disse que ela recusou você e voltou depois.
 
-– Escolheu? – Korvo soltou uma risada curta, sem alegria. – Você escolheria voltar depois de tudo o que viu aqui? Não dê ouvidos ao velho, garoto. Ele guarda mais segredos do que você pode imaginar. Ninguém é só preto ou só branco. – Voltou os olhos amarelos para Beatriz. – Sua mãe foi retirada daqui. Um farol que ameaçava brilhar mais que os outros. E vocês, filhos dela, trazem isso no sangue.
+– Voltou? – Korvo soltou uma risada curta, sem alegria. – Você acredita mesmo que ela deixaria tudo isso para trás? Não dê ouvidos ao velho, garoto. Ele guarda mais segredos do que você pode imaginar. Ninguém é só preto ou só branco. – Voltou os olhos amarelos para Beatriz. – Sua mãe foi retirada daqui. Um farol que ameaçava brilhar mais que os outros. E vocês, filhos dela, trazem isso no sangue.
 
 – Nossa mãe está morta! – gritou Bruno, avançando um passo. – Se ela era tudo isso, por que você não a salvou?
 
@@ -417,6 +417,8 @@ Banjo olhou para o lago. Ele nunca tinha tentado aquilo. Respirou, lembrou-se de
 A coluna engoliu o lugar onde Korvo estava. Ele cambaleou e caiu de joelhos.
 
 – É isso aí! – gritou Banjo, e a voz dele saiu fininha.
+
+O sorriso durou pouco. Os joelhos cederam, e ele se apoiou na pedra mais próxima. Parecia ter carregado o lago nos braços, embora nem o tivesse tocado.
 
 Mas a água parou no ar. Korvo, de joelhos, abriu a mão, e a coluna inteira se desfez em milhares de gotas verdes, suspensas como estrelas num céu escuro. Ele se levantou, limpou a manga do terno, e as gotas caíram ao redor, chiando.
 

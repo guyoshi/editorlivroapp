@@ -294,7 +294,7 @@ Quando a canção acabou, o silêncio caiu como um cobertor. As luzinhas ficaram
 
 – O que é isso que a gente tem? – perguntou Banjo, num fio de voz. – Essa... coisa.
 
-– Aqui a chamam de M.A. – respondeu Velho-Sábio. – Magia Absoluta. Cada pessoa tem a sua, e não existem duas iguais. – Ele sorriu. – Mas isso a gente aprende devagar. Primeiro, comam.
+– Magia – respondeu Velho-Sábio. – Cada um de vocês vai descobrir o próprio jeito de usá-la. – Ele sorriu. – Mas isso a gente aprende devagar. Primeiro, comam.
 
 Comeram. Foi o jantar mais comprido da vida deles, com mais risos do que palavras. Mais tarde, no quarto, Beatriz encostou a testa na janela. Lá fora, a noite de Belfex tinha uma lua só, grande e quase dourada, e a cidade respirava luz.
 
