@@ -282,11 +282,7 @@ Bruno tentou soltar o volante para abrir a porta, mas o gelo tinha derretido e g
 
 – Ei, ei, ei! Sai! Sai!
 
-– Bruno... o volante tá grudado em você – sussurrou Banjo.
-
-– Eu senti o calor de novo – disse Beatriz, agarrada ao braço de Breno. – Foi por minha causa?
-
-Breno quis dizer que não, mas também não sabia como tinham atravessado a árvore. Quando olhou para o tio pelo retrovisor, viu uma sombra de compreensão passar pelo rosto dele, rápida demais, antes de ele desviar o olhar.
+Breno olhou para o tio pelo retrovisor, viu uma sombra de compreensão passar pelo rosto dele, rápida demais, antes de ele desviar o olhar.
 
 – Todos estão bem? – perguntou Frank, com a voz vacilante.
 
@@ -302,13 +298,13 @@ Os irmãos saíram do carro, atordoados. Bruno pigarreou, balançando o volante 
 
 Breno puxou, e com um estalo o volante saiu da base do carro, mas continuou colado na mão do irmão. Bruno olhou para o volante, depois para os irmãos.
 
-– O que tá acontecendo com a gente? – perguntou, tentando manter o tom leve.
+– O que tá acontecendo? – perguntou, tentando manter o tom leve.
 
 A floresta ao redor era densa e úmida, com uma neblina fina deslizando pelo chão. Banjo, que sempre se perdia nos próprios pensamentos, andava devagar em volta do carro quando sentiu uma inquietação que não era sua. Vinha das árvores: um medo leve, misturado a algo que parecia um pedido de ajuda.
 
 Ele parou. As árvores balançavam sem vento. Banjo tentou entender aquela sensação e foi se afastando dos irmãos, atento ao que vinha da mata.
 
-– Banjo! Para de namorar as árvores e vem logo! – gritou Bruno, balançando o volante.
+– Banjo! Para de namorar as árvores e vem aqui me ajudar! – gritou Bruno, balançando o volante.
 
 Banjo piscou, voltando a si. A sensação diminuiu quando se afastou das árvores, mas não desapareceu por completo.
 
@@ -330,33 +326,11 @@ O policial balançou a cabeça, pediu um guincho pelo rádio e ofereceu uma caro
 
 Em casa, foi preciso uma hora, sabão, óleo de cozinha e muita paciência de Frank para soltar o volante da mão de Bruno. Quando saiu, Bruno ficou olhando para a palma vermelha.
 
-– Desculpa, tio – disse, baixinho, sem o sarcasmo de sempre. – Eu não queria estragar o carro.
-
-Frank passou a mão pelos cabelos dele e não respondeu.
-
 Na hora do jantar, Frank tentou falar do acidente como se tivesse sido apenas um susto.
 
-– Depois de um susto daqueles, a gente começa a ligar coisas que talvez não tenham relação – disse, sem encará-los. – O calor, o gelo, a árvore...
+– Depois de um susto daqueles, o que importa é que estamos todos bem. O guincho vai cuidar do carro. Bruno está bem. É nisso que precisamos pensar agora.
 
-Banjo franziu a testa. Queria contar tudo ao tio, mas era como se algo o impedisse.
-
-– É difícil encarar a realidade – disse Beatriz, em voz baixa – quando parece que a realidade tá brincando com a gente.
-
-– O guincho vai cuidar do carro. Bruno está bem. É nisso que precisamos pensar agora.
-
-– E se acontecer de novo? – perguntou Breno. – Você quer que a gente finja que nada aconteceu?
-
-– Eu quero que vocês fiquem seguros – respondeu Frank, contendo a voz. – Não sei o que houve, mas sair atrás de respostas hoje só vai piorar as coisas.
-
-– Então não vai nos ajudar a entender?
-
-Frank o encarou em silêncio por um instante e baixou os olhos para o prato.
-
-– Pronto, virou reunião de emergência – murmurou Bruno. – Cadê a sobremesa?
-
-Ninguém riu. Os quatro se levantaram da mesa quase juntos e foram para o quarto de Banjo, deixando Frank sozinho com o garfo na mão.
-
-Banjo apagou a luz e acendeu uma lanterna, de um jeito que iluminava apenas o centro do quarto. No chão, havia uma pilha de coisas inusitadas: uma caixa de cereal vazia, um guarda-chuva dobrado, um gibi de capa rasgada e uma pedra do parque. Também havia uma cartolina com letras grandes: REUNIÃO SECRETA DE ALTA IMPORTÂNCIA MÁGICA.
+Ninguém jantou muito bem nessa noite. De volta ao quarto, Banjo apagou a luz e acendeu uma lanterna, de um jeito que iluminava apenas o centro do quarto. No chão, havia uma pilha de coisas inusitadas: uma caixa de cereal vazia, um guarda-chuva dobrado, um gibi de capa rasgada e uma pedrar do parque. Também havia uma cartolina com letras grandes: REUNIÃO SECRETA DE ALTA IMPORTÂNCIA MÁGICA.
 
 – Sério, Banjo? – Bruno cruzou os braços. – Uma caixa de cereal e uma pedra? Você quer fazer magia ou coleta de lixo?
 
@@ -372,7 +346,7 @@ Beatriz segurou o riso. Banjo ergueu a cartolina e apontou, um por um, para os i
 
 – Não prova nada – interrompeu Bruno.
 
-– Dois: as lâmpadas da Bia. Três: o Bruno congelou o volante. Quatro: o Breno atravessou uma árvore. Cinco...
+– Dois: as lâmpadas do coral da Bia. Três: o Bruno congelou o volante. Quatro...
 
 – Minha mão atravessou as páginas de um livro de história também – acrescentou Breno, quase sussurrando.
 
@@ -386,11 +360,15 @@ Beatriz segurou o riso. Banjo ergueu a cartolina e apontou, um por um, para os i
 
 Mas ninguém riu de verdade. Beatriz abraçou os joelhos.
 
+– Isso tudo depois de tocar naquela bolinha esquisita... Isso só prova algo... nós... temos... super poderes. 
+
+Banjo parecia encantado com o que acabara de dizer. 
+
 – Eu não quero quebrar mais nada. Hoje, só de cantar, quase destruí a sala toda. E se eu machucar alguém?
 
-– A gente podia descobrir como controlar – disse Banjo. – Procurar quem saiba. E descobrir o que fez o carro saltar.
+– A gente podia descobrir como controlar – disse Banjo. – e poderiamos usar pra ajudar as pessoas e os bichinhos.
 
-– Não sabemos quem saiba, Banjo – disse Breno. – E não sabemos o que a gente iria encontrar. Aqui, ao menos, a gente conhece o chão em que pisa. Eu sugiro que a gente não faça nada por enquanto. Ninguém conta nada pra ninguém.
+– Não sabemos o que é isso, Banjo – disse Breno. – E eu sugiro que a gente não faça nada por enquanto. Ninguém conta nada pra ninguém.
 
 Beatriz ajeitou a pulseira de Melissa e ficou olhando para o nó de fios coloridos, sem dizer nada.
 
@@ -402,9 +380,11 @@ Antes de apagar a luz, Frank apareceu na porta do quarto dos meninos e deu boa n
 
 Breno acordou no meio da noite com a sensação de que alguém o chamava. Não era uma voz. Era só a certeza de que havia alguém no quintal.
 
-Desceu descalço. A chuva tinha parado, e a neblina cobria a grama como leite. Na escada dos fundos, sentado com um cajado entre os joelhos, havia um homem velho. Tinha a pele morena, a barba dividida em três pontas e olhos verdes que pareciam guardar um pouco de luz. A ponta do cajado brilhava baixinho, como uma lanterna de acampamento.
+Desceu descalço. A chuva tinha parado, e a neblina cobria a grama como leite. 
 
-– Boa noite, Breno. Não se assuste. Não vim buscar ninguém.
+Travou quando viu. Na escada dos fundos, sentado com um cajado entre os joelhos, havia um homem velho. Tinha a pele morena, a barba dividida em três pontas e olhos verdes que pareciam guardar um pouco de luz. A ponta do cajado brilhava baixinho, como uma lanterna de acampamento.
+
+– Boa noite, rapaz. 
 
 – Quem é você?
 
@@ -412,11 +392,11 @@ Desceu descalço. A chuva tinha parado, e a neblina cobria a grama como leite. N
 
 – Velho-Sábio? – Breno quase riu, apesar do susto, mas o homem parecia sério demais para uma piada.
 
-– Seu dia foi movimentado. Marimbondos, lâmpadas, um volante...
+– O dia de vocês foi movimentado. Marimbondos, lâmpadas, um volante congelado...
 
-– Como você sabe?
+– Como você sabe? 
 
-– Quando uma coisa pequena toca outra, o resto cai como dominó. Vocês tocaram numa bolinha de luz. Chamamos aquilo de estírio. – O velho olhou para as estrelas escondidas atrás da neblina. – Ele aparece quando entende que chegou a hora de alguém despertar a própria magia. Não dá para escolher o momento nem obrigá-lo a surgir.
+– Quando uma coisa pequena toca outra, o resto cai como dominó. Vocês tocaram numa bolinha de luz. A qual chamamos de estírio. – O velho olhou para as estrelas escondidas atrás da neblina. – Ele aparece quando entende que chegou a hora de alguém despertar a própria magia. Não dá para escolher o momento nem obrigá-lo a surgir. 
 
 – E como você descobriu que fomos nós?
 
