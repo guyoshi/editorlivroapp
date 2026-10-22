@@ -262,7 +262,7 @@ O Velho-Sábio os levou por um corredor onde o chão brilhava como um rio sob as
 
 – Espero que isso os faça sentir em casa – disse o Velho-Sábio.
 
-Banjo largou a mochila na cama mais próxima e ficou olhando para o teto. As constelações se moviam devagar, trocando estrelas de lugar.
+Banjo foi até a cama mais próxima e ficou olhando para o teto. As constelações se moviam devagar, trocando estrelas de lugar.
 
 – Elas são de verdade? – perguntou.
 
