@@ -260,73 +260,197 @@ A onda de luz azul que atravessava a tela vacilou por um instante.
 
 O Velho-Sábio os levou por um corredor onde o chão brilhava como um rio sob as estrelas. As estantes estavam cheias de frascos coloridos que vibravam quando alguém os olhava. Num quarto grande, havia quatro camas lado a lado, e no teto, constelações se mexiam devagar, trocavam de cor, corriam de um lado a outro, como se o céu estivesse vivo.
 
-– Espero que isso os faça sentir em casa – disse ele.
+– Espero que isso os faça sentir em casa – disse o Velho-Sábio.
 
-Breno colocou o rádio na mesinha ao lado da cama. Ele respirava devagarinho, como uma coisa adormecida.
+Banjo largou a mochila na cama mais próxima e ficou olhando para o teto. As constelações se moviam devagar, trocando estrelas de lugar.
 
-O Velho-Sábio reparou no aparelho, mas não se despediu. Encostou o cajado na parede e sentou-se na beirada de uma das camas.
+– Elas são de verdade? – perguntou.
 
-– Eu disse que responderia quando chegássemos. O que vocês querem saber primeiro?
+– São luzes. Mas não contem isso a elas, ou vão ficar ofendidas.
 
-– Foi o senhor que fez o rádio nos trazer? – Breno perguntou. – A gente ia conversar com o tio Frank amanhã. Ele nem sabe onde estamos.
+Bruno soltou uma risada.
 
-– Eu queria que viessem, mas não escolhi a hora. A passagem se abriu quando os quatro tocaram o rádio. Devia ter explicado melhor que isso podia acontecer. Sinto muito pelo seu tio.
+– O senhor tá dizendo que até o teto tem sentimentos?
 
-Breno manteve os olhos nele. Era a primeira vez que o velho admitia ter errado.
+– Ainda não descobri. Ele nunca me responde quando pergunto.
 
-– Tá, Belfex é o quê? E Tayo? – perguntou Bruno.
+O Coronel entrou atrás deles, farejou os pés das camas e se deitou junto à porta. Beatriz se sentou num dos colchões e apertou o travesseiro contra o peito. Depois de tudo o que tinham visto naquele dia, estava começando a acreditar que poderiam descansar ali.
 
-– Belfex é este mundo, na quarta dimensão. Tayo é a cidade que viram lá fora. A Kali chamou vocês de dimensais porque vieram de outra dimensão. Se eu aparecesse na Terra, o dimensal seria eu.
+Breno colocou o rádio do pai na mesinha ao lado da cama. O Velho-Sábio acompanhou o movimento com os olhos, encostou o cajado na parede e puxou uma cadeira.
 
-Banjo abriu um sorriso, mas Beatriz ainda olhava para as próprias mãos.
+– Acho que lhes devo algumas explicações – disse ele, sentando-se. – Começando por mim. Meu nome é Auream Vetus. Vocês ouviram Erla me chamar assim lá na Central. Sou um mago e moro nesta cidade há muito tempo. Também ensino jovens a lidar com a própria magia.
 
-– Aquela esfera da caverna... Foi ela que fez isso com a gente?
+– E por que todo mundo chama o senhor de Velho-Sábio? – perguntou Beatriz.
 
-– O estírio acordou uma magia que já existia em vocês. Vocês descendem de senavelitas, gente capaz de usar magia. Agora precisam aprender a controlá-la, para que ninguém se machuque.
+– O velho é fácil de explicar. O sábio ainda estou tentando merecer.
 
-– Então você é um mago? – Banjo perguntou.
+Banjo riu. Até Breno, que permanecia de pé ao lado da mesinha, sorriu.
 
-– Sou. Amanhã vou levá-los ao Edifício Arcano. Há outros jovens aprendendo lá, e vou começar a ensinar vocês.
+– A cidade que vimos lá fora se chama Tayo – continuou o mago. – É uma das cidades mais importantes de Belfex. Belfex é o nome deste mundo, na quarta dimensão. Vocês vieram da Terra, da terceira.
 
-– E depois? A gente pode ficar em Tayo? – perguntou Banjo.
+– Então a gente tá mesmo em outro universo? – Banjo perguntou, quase sem voz.
 
-– Se quiserem ficar em Belfex, terão de passar por três desafios. Vou prepará-los; isso não começa amanhã. Há tempo para aprender e conhecer a cidade. – Ele olhou de um rosto para outro. – E para decidirem se querem fazer daqui um lar.
+– Em outra dimensão. Sei que é difícil acreditar, mesmo depois de terem atravessado uma.
 
-– E se a gente não conseguir? – perguntou Beatriz.
+– Difícil é acreditar que aquele negócio voador não matou a gente – disse Bruno. – O motorista devia estar dormindo.
 
-– Terão de voltar para casa. Mas vocês ainda nem começaram. Primeiro vamos descobrir o que cada um consegue fazer.
+– O dassi não tem motorista, Bruno.
 
-Breno puxou o rádio para mais perto. Banjo já espiava as constelações do teto; Bruno fingia não prestar atenção, mas tinha se sentado na cama mais próxima.
+– Piorou bastante.
 
-– E se a gente quiser ir embora antes dos desafios?
+O velho riu, e Beatriz riu junto. Breno, porém, continuava olhando para o rádio.
 
-– Eu os levo de volta. – O Velho-Sábio se levantou e pegou o cajado. – Não precisam decidir esta noite. Se precisarem de mim, é só bater na porta no final do corredor.
+– O senhor disse que explicaria por que estamos aqui.
 
-Assim que o velho saiu, Banjo se virou para os irmãos.
+Auream assentiu.
 
-– Vocês têm noção de onde a gente está? Parece um sonho. Não parece real!
+– Disse, sim. Ontem à noite fui à casa de vocês porque soube que tinham encontrado o estírio. Aquela esfera azul da caverna, lembram? Quando vocês a tocaram, ela despertou uma magia que já estava em vocês. O contato deixou um registro aqui em Tayo. Foi assim que consegui encontrá-los.
 
-– Eu nunca pensei que um lugar assim existisse – disse Beatriz, com os olhos no teto estrelado. – Nem em sonho.
+– Então foi por causa da bolinha que começaram a acontecer aquelas coisas? – perguntou Beatriz, olhando para as mãos.
 
-– É impressionante, eu admito – disse Breno. – Mas é bem maior do que eu esperava. Vou esperar pra ver no que vai dar.
+– Foi depois daquele encontro que a magia de vocês despertou. E, sem saber controlá-la, é natural que tenham se assustado. Imagino que o acidente com o carro tenha sido suficiente para isso.
 
-– Esperar pra ver? – Bruno riu. – Estamos num mundo onde as pessoas voam e tem bichos de três metros andando na rua, e o Velho-Sábio diz que a gente pode aprender magia! – Ele desviou o olhar, deixando escapar a empolgação. – Mas claro, só se o nosso grande irmão aprovar.
+Breno apertou os dedos na borda da mesinha.
 
-– Eu não falei que a gente não vai. Vamos ver como é amanhã.
+– Foi. Eu achei que a gente fosse morrer.
 
-– Não seja chato, Breno! – Beatriz o empurrou de leve. – Aproveita enquanto estamos aqui!
+– Eu sei. Foi por isso que ofereci ajuda. Queria que conhecessem Belfex e descobrissem o que são capazes de fazer. Mas esperava que tivessem tempo de conversar antes de decidir vir.
 
-Banjo olhava ao redor, radiante.
+– A gente nem decidiu – disse Bruno. – Só encostou no rádio e, de repente, estava voando pelo quarto.
 
-– Eu nunca me senti tão feliz assim desde que o papai e a mamãe... – Ele parou, e a expressão suavizou, mas logo sorriu de novo. – É como se tudo o que eu sempre imaginei pudesse ser real.
+– Foi o rádio que abriu a passagem? – perguntou Banjo.
 
-Bruno, num raro momento de sinceridade, bateu de leve no ombro dele.
+– Foi o que trouxe vocês até aqui – respondeu o velho, lançando um olhar para o aparelho. – Não fui eu quem os tirou de casa esta noite.
 
-– Talvez a gente tenha encontrado o lugar certo pra começar de novo.
+– E o nosso tio? – Breno perguntou. – A gente ia falar com ele amanhã. Ele nem sabe onde estamos.
 
-Beatriz sorriu, de coração aquecido.
+O sorriso de Auream desapareceu.
 
-– Então acho que já é hora do nosso "começo de novo" – disse, com um sorriso travesso.
+– Sinto muito, Breno. Eu devia ter explicado melhor que uma viagem poderia acontecer. Imagino como Frank deve estar preocupado.
+
+– Então podemos voltar? – Beatriz perguntou, mais baixo.
+
+– Se quiserem. Nenhum de vocês é obrigado a ficar. Eu os ajudo a voltar para casa quando decidirem. – Ele olhou para os quatro. – Só peço que não tomem uma decisão depois de um dia tão cansativo. Descansem primeiro.
+
+Banjo se ajeitou na beirada da cama.
+
+– Mas, se a gente ficar... o que vamos fazer?
+
+– Primeiro, aprender. Há outros jovens em Tayo que também estão descobrindo como usar magia. Alguns vieram de outras dimensões, como vocês. Outros nasceram aqui. Amanhã vou apresentá-los a esse lugar e aos aprendizes.
+
+– Tipo uma escola de magia? – Banjo se endireitou.
+
+– Com aulas, colegas e algumas coisas que vocês certamente vão preferir às aulas da Terra.
+
+– Tem prova? – Bruno perguntou.
+
+– Tem, sim.
+
+– Sabia. Não dá pra fugir.
+
+– As provas são importantes – continuou o velho. – Quem vem de outra dimensão e deseja viver em Belfex precisa passar por algumas avaliações. Vocês terão um período para aprender e se preparar, assim como os outros jovens que vão participar. Se conseguirem passar, poderão ficar aqui e continuar os estudos.
+
+Beatriz abraçou o travesseiro com mais força.
+
+– Então a gente poderia morar em Tayo?
+
+– Poderia, se essa for a vontade de vocês.
+
+– Mas a gente não sabe fazer magia direito – disse Breno.
+
+– É justamente por isso que vão aprender. Eu serei o tutor de vocês. Vou acompanhá-los nos treinos e fazer o possível para que estejam preparados. Não espero que saibam tudo no primeiro dia.
+
+– Nem no segundo? – perguntou Bruno.
+
+– No segundo talvez eu já espere que você pare de reclamar tanto.
+
+Beatriz caiu na risada. Bruno abriu a boca para responder, mas acabou sorrindo também.
+
+– E se a gente não passar? – Breno insistiu.
+
+– Então voltam para casa. Quero que saibam disso desde o começo. Mas ninguém precisa se preocupar com o resultado esta noite.
+
+Banjo olhou novamente para as constelações.
+
+– O senhor consegue fazer qualquer magia?
+
+– Qualquer uma? Não. Mas aprendi algumas coisas ao longo dos anos.
+
+Auream ergueu o cajado. Um ponto de luz dourada nasceu na ponta e se dividiu em quatro. As pequenas luzes passearam pelo quarto, contornando as camas, até se reunirem no ar e formarem a figura de um cachorro. O Coronel levantou a cabeça, avistou o outro cão e soltou um latido indignado. A figura luminosa correu pelo teto, perseguida pelos olhos dele, antes de se desfazer numa chuva de pontos brilhantes.
+
+Banjo aplaudiu. Beatriz esticou as mãos, e uma das últimas luzes pousou em seu dedo, quentinha, antes de desaparecer.
+
+– Faz de novo! – pediu ela.
+
+– Se eu começar a atender a todos os pedidos, vocês nunca vão dormir.
+
+– Essa foi melhor que a flor que saiu andando – comentou Bruno.
+
+– A flor não concordaria com você – disse o velho, levantando-se.
+
+Ele pegou o cajado e foi até a porta. O Coronel se ergueu imediatamente para acompanhá-lo.
+
+– Fiquem à vontade. Há água no corredor, e Kali pode ajudá-los se precisarem de alguma coisa. Amanhã conversamos mais. Ah, e tentem não deixar meias espalhadas pelo chão.
+
+– Por quê? – perguntou Banjo.
+
+O Coronel passou por eles com a ponta de uma coberta entre os dentes.
+
+– Ele costuma achar que são presentes. Coronel, larga.
+
+O cachorro soltou a coberta e saiu atrás do dono. Os irmãos ainda estavam rindo quando o Velho-Sábio fechou a porta.
+
+Banjo se jogou de costas numa das camas. As constelações continuavam se movendo sobre eles.
+
+– Vocês têm noção de onde a gente tá? Parece um sonho!
+
+– Se for um sonho, eu quero conhecer o resto – disse Beatriz. – A cidade, as pessoas, tudo!
+
+– Eu quero aprender a fazer aquilo com as luzes – Banjo disse, erguendo a mão para o teto. – Imagina o que mais dá pra fazer.
+
+– Eu só quero descobrir o que consigo fazer sem congelar alguma coisa por acidente – respondeu Bruno.
+
+Breno ficou encostado na mesinha, observando os três. Era estranho ouvi-los falar daquele jeito. Fazia muito tempo que não ficavam tão animados com alguma coisa.
+
+– Ainda precisamos pensar no tio Frank – lembrou ele.
+
+– Eu sei – disse Beatriz. – Mas a gente pode conhecer a escola amanhã, né?
+
+– Podemos. Só não vamos esquecer que ainda temos uma casa pra voltar.
+
+Banjo virou a cabeça na direção dele.
+
+– Mas você viu Tayo, Breno? Como pode existir um lugar desses e ninguém na Terra saber?
+
+– Eu não faço ideia – Breno admitiu.
+
+– Vai ver ninguém acredita quando alguém conta – disse Bruno. – Eu mesmo não acreditaria se o Banjo chegasse falando de um teto cheio de estrelas que se mexem.
+
+– Você nunca acredita em nada que eu falo!
+
+– E olha que dessa vez você acertou.
+
+Beatriz riu. Banjo puxou o travesseiro para debaixo da cabeça e ficou quieto por alguns instantes.
+
+– Queria que o papai e a mamãe pudessem ver isso – disse, olhando para o teto.
+
+Ninguém respondeu de imediato.
+
+– Eu também – Beatriz murmurou.
+
+Breno olhou para o rádio na mesinha. A música do pai os trouxera até ali, e agora o aparelho repousava em silêncio, como se não tivesse feito nada.
+
+– O papai ia adorar esse lugar – disse Banjo. – E a mamãe também.
+
+– Eles iam achar que a gente tava inventando tudo – Bruno respondeu, num tom mais baixo. – Até verem o Coronel.
+
+Beatriz sorriu.
+
+– A mamãe ia querer levar ele pra casa.
+
+– Ia nada. O bicho ocupa a cama inteira – disse Bruno.
+
+Os quatro riram. Banjo ficou observando as estrelas até uma delas se afastar das outras e desaparecer atrás de uma nuvem pequenina. Ainda tinha um monte de perguntas, mas, pela primeira vez naquele dia, não sentiu pressa de fazê-las.
 
 Bruno saiu do quarto, alegando que precisava ir ao banheiro. Ao passar pela sala, ouviu um sussurro e parou. Não havia ninguém. Só a tela grande, pulsando.
 
