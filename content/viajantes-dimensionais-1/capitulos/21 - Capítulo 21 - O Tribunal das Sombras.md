@@ -224,7 +224,7 @@ Garmande fechou os olhos por um instante, como quem desiste de vencer uma discus
 
 – Menor número? – disse uma voz firme. – Nem tanto.
 
-Erla emergiu da escuridão do lado oposto, de uniforme impecável. Atrás dela, em fileiras organizadas, centenas de vigilantes de armadura marchavam para o tribunal e formavam uma linha cerrada de escudos. Erla parou ao lado de Velho-Sábio e olhou para Korvo sem piscar.
+Erla emergiu da escuridão do lado oposto, de uniforme impecável. Atrás dela, em fileiras organizadas, centenas de vigilantes de armadura, com a árvore da Vigilância gravada nos escudos, marchavam para o tribunal e formavam uma linha cerrada. Erla parou ao lado de Velho-Sábio e olhou para Korvo sem piscar.
 
 – Você pode ter comprado algumas mentes. Mas a Vigilância não se curva a você. Enquanto eu estiver no comando. O seu covil foi descoberto. Entregue-se.
 
