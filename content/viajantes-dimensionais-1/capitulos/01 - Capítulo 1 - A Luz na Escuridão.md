@@ -188,7 +188,7 @@ Breno tirou um chiclete do bolso para melhorar o hálito e caminhou atrás da ga
 
 – Ei – disse. – Menina.
 
-Jennifer se virou e deu um sorriso tímido.
+Tamires se virou e deu um sorriso tímido.
 
 – É... você é da sala do Bruno, não é?
 
@@ -200,7 +200,7 @@ Jennifer se virou e deu um sorriso tímido.
 
 – Ele é, sim. Não se preocupe. Eu estava aqui notando que... desde que chegamos... você tem um sorriso muito lindo.
 
-– Você notou isso desde que chegamos? Você é muito meigo – riu Jennifer. Breno riu também e então faltou assunto. Ele ficou olhando para ela, nervoso, até que ela disse: – Que tal a gente ir ali no canto conversar?
+– Você notou isso desde que chegamos? Você é muito meigo – riu Tamires. Breno riu também e então faltou assunto. Ele ficou olhando para ela, nervoso, até que ela disse: – Que tal a gente ir ali no canto conversar?
 
 Aliviado, ele aceitou. Foram até uma pedra grande atrás de algumas árvores, onde, depois de pouco assunto, acabaram se beijando. O vento balançava os cabelos dela, o dia estava frio e era uma razão a mais para ficarem abraçados. O coração de Breno batia tão forte que ele teve certeza de que ela ouviria.
 
@@ -208,7 +208,7 @@ Quando terminaram, os dois começaram a rir.
 
 – Foi meu primeiro beijo – riu Breno.
 
-– Eu percebi pelos olhos abertos. Você tem que fechar enquanto beija – disse Jennifer.
+– Eu percebi pelos olhos abertos. Você tem que fechar enquanto beija – disse Tamires.
 
 – Desculpe. Eu sei disso. Só me esqueci.
 
@@ -216,11 +216,11 @@ Quando terminaram, os dois começaram a rir.
 
 – É verdade? Você lembra do seu?
 
-Jennifer abriu a boca para responder, mas alguém gritou o nome de Breno. Ele correu até a estrada do outro lado das árvores e viu a irmã vindo em sua direção.
+Tamires abriu a boca para responder, mas alguém gritou o nome de Breno. Ele correu até a estrada do outro lado das árvores e viu a irmã vindo em sua direção.
 
 – Breno, Breno, o Banjo se meteu numa briga! Tem uns moleques querendo bater nele!
 
-Breno olhou para Jennifer, e ela inclinou a cabeça para que ele fosse resolver o problema. Ele correu com a irmã, e Beatriz o guiou pela floresta em frente ao parquinho.
+Breno olhou para Tamires, e ela inclinou a cabeça para que ele fosse resolver o problema. Ele correu com a irmã, e Beatriz o guiou pela floresta em frente ao parquinho.
 
 – O Banjo tá lá dentro? Eu não disse pra vocês não saírem do parquinho?
 
