@@ -28,6 +28,8 @@ Por sorte conseguiram se guiar até o parque. O céu continuava baixo e cinzento
 
 No fundo do ônibus, Pedro Porrada e a gangue os fuzilaram com os olhos. Pedro passou o dedo pelo pescoço e apontou para Breno. Breno fingiu não ver. Perto da janela, Tamires acenou para ele com um sorriso torto, e por um segundo ele esqueceu que tinha acabado de viver a tarde mais esquisita da vida.
 
+Bruno apoiou dois dedos no vidro embaçado da janela. Quando os afastou, havia uma borda fina de gelo onde tocara. Esfregou o vidro com a manga e culpou o frio do ônibus. Não comentou com ninguém.
+
 Naquela noite, colocou o rádio na prateleira do quarto e ficou olhando para ele por muito tempo. Não tocava. Mas a carcaça continuava morna.
 
 Na manhã seguinte, chovia de novo.
@@ -44,7 +46,7 @@ Melissa era a melhor amiga de Beatriz desde a primeira série. Falava rápido, p
 
 – Bom dia, crianças – disse a professora Marlene da porta. – Quem vai para o coral, venha comigo. Quem não vai, o professor Rubens já está chegando.
 
-Os alunos do coral seguiram a professora pelo corredor. Beatriz sentiu uma pontada na cabeça e parou, com a mão na testa.
+Os alunos do coral seguiram a professora pelo corredor. Beatriz sentiu uma pontada na cabeça e parou, com a mão na testa. A folha de música que segurava na outra mão parecia quente demais para uma manhã fria. Ela mudou a folha de mão.
 
 – O que foi? – perguntou Melissa.
 
@@ -94,27 +96,31 @@ O diretor bateu na porta do banheiro. Depois de alguns instantes, ela se abriu d
 
 – Caramba! – disse Bruno, aparecendo ao lado de Banjo. – O que foi que aconteceu?
 
-– O Banjo fez isso – cochichou Beatriz.
+– Acho que o Banjo fez alguma coisa – cochichou Beatriz.
 
 – Shhh. Eu não fiz nada – disse Banjo.
 
 – O marimbondo pousou em você antes, e depois todos voaram pra cima do Pedro. Acha isso normal? Desde a caverna as coisas estão esquisitas.
 
-– Se você estiver certa, maninha, eu quero aprender a fazer isso também – riu Bruno. – Tenho uma lista de pessoas que merecem uma visitinha dos marimbondos. Começa no Pedro e termina no professor de matemática.
+– Claro, agora temos um encantador de marimbondos na família – disse Bruno, fazendo uma reverência exagerada. – Se for verdade, já tenho uma lista de pessoas que merecem uma visita. Começa no Pedro e termina no professor de matemática.
 
 Beatriz soltou uma risadinha, no instante em que Breno chegava.
 
 – Vocês viram isso?
 
-– Mais do que vimos, caro irmão. Nós fizemos isso – orgulhou-se Bruno.
+– Vi a testa do Pedro. A Beatriz acha que o Banjoca comandou um exército de marimbondos.
 
 – O quê? Do que está falando?
 
-– O Banjoca chamou os bichos pra cima do Pedro. Foi poético, como uma tragédia de teatro – disse Bruno, com a mão no peito, numa péssima imitação de alguém com dores.
+– Eles pararam quando o Banjo pediu – insistiu Beatriz.
 
-– Não foi de propósito – disse Banjo. – Quer dizer, nem tenho certeza se fui eu.
+– Foi poético, como uma tragédia de teatro – disse Bruno, com a mão no peito, numa péssima imitação de alguém com dores. – Mas aposto que tinha um ninho naquele telhado.
 
-– Acho melhor ficarmos quietos sobre isso por enquanto – disse Breno, baixando a voz. – Na saída a gente conversa.
+– Não mandei em nenhum bicho – disse Banjo. – Só pedi que parassem. E pararam. Não sei se foi por minha causa.
+
+Breno olhou para o telhado, depois para o irmão. Queria acreditar na explicação de Bruno, mas lembrou da luz azul na caverna e do rádio tocando sozinho.
+
+– Acho melhor ficarmos quietos sobre isso por enquanto – disse, baixando a voz. – Na saída a gente conversa.
 
 Ele foi para a sala, e Beatriz também. No corredor, deu de cara com Melissa, que levou um susto.
 
@@ -132,13 +138,13 @@ A amiga parecia atordoada.
 
 – É exatamente por isso que tem que contar. Senão vou ficar horas pensando nisso, vou perder o apetite, não vou dormir essa noite...
 
-– Deixa de drama – disse Beatriz, com um risinho, e hesitou antes de continuar. – Ontem, no passeio, a gente achou uma caverna. Tinha uma bolinha estranha lá dentro, com uma luz azul. A gente encostou nela e, desde então, acontecem coisas. Tipo magia.
+– Deixa de drama – disse Beatriz, com um risinho, e hesitou antes de continuar. – Ontem, no passeio, a gente achou uma caverna. Tinha uma bolinha estranha lá dentro, com uma luz azul. A gente encostou nela e, desde então, acontecem coisas esquisitas. Parece até magia. Eu sei como isso soa.
 
 Melissa olhou para ela por um bom tempo.
 
 – Uma bolinha azul deu magia pra vocês.
 
-– Eu sei que parece maluquice.
+– Eu não sei se deu alguma coisa. Só sei que tudo começou depois.
 
 – Tá. – Melissa estufou o peito. – Eu acredito em você. Por que eu não acreditaria na minha melhor amiga?
 
@@ -178,7 +184,7 @@ A única reação que teve foi rir.
 
 – Nenhum, professor. Cansaço.
 
-Esfregou os olhos e tentou de novo. O livro, agora sólido, virou a página como se nada tivesse acontecido. Talvez fosse só cansaço mesmo. Ou a pressão de ser o irmão mais velho, que estava começando a mexer com a cabeça dele. Mas ele não acreditou nisso nem por um segundo.
+Esfregou os olhos e tentou de novo. O livro, agora sólido, virou a página como se nada tivesse acontecido. Breno examinou as folhas, procurando algum rasgo ou uma explicação para o que vira. Não encontrou nada. Talvez fosse só cansaço, ou a pressão de cuidar dos irmãos desde a morte dos pais. Repetiu isso para si mesmo até o fim da aula, sem conseguir parar de olhar para as próprias mãos.
 
 Quando o sinal tocou, encontrou os irmãos no portão. Banjo chutava pedrinhas, perdido em pensamentos. Bruno ensaiava uma pose de quem não se importava com nada. Beatriz estava encostada no muro, mais pálida que o normal. A escola inteira só falava do lustre do coral. A diretoria decidira que tinha sido um curto-circuito, mas ninguém conseguia explicar o cheiro de pão queimado.
 
@@ -196,7 +202,7 @@ Beatriz sorriu pela primeira vez no dia e deixou que a amiga amarrasse o fio no 
 
 – Acho que comi alguma coisa estragada – murmurou ela, abraçando a si mesma. – Tô meio enjoada.
 
-– Tá falando sério ou só tentando escapar do coral? – provocou Bruno, mas sem a confiança de sempre.
+– Tá falando sério ou só tentando escapar do coral? – provocou Bruno, mas sem a confiança de sempre. Desde o intervalo, repetia que o lustre só tinha sofrido um curto-circuito, embora ninguém tivesse pedido sua opinião.
 
 O carro de Frank chegou, e todos se espremeram no banco de trás. Breno ficou ao lado de Beatriz e segurou a mão dela. Conforme subiam pela estrada sinuosa em direção à casa, o mal-estar da menina piorou. Ela fechava os olhos e respirava fundo, como se estivesse se segurando.
 
@@ -250,15 +256,13 @@ Breno puxou, e com um estalo o volante saiu da base do carro, mas continuou cola
 
 – O que tá acontecendo com a gente? – perguntou, tentando manter o tom leve.
 
-A floresta ao redor era densa e úmida, com uma neblina fina deslizando pelo chão. Banjo, que sempre se perdia nos próprios pensamentos, andava devagar em volta do carro quando ouviu um sussurro. Era frágil e delicado, e parecia vir de muito perto.
+A floresta ao redor era densa e úmida, com uma neblina fina deslizando pelo chão. Banjo, que sempre se perdia nos próprios pensamentos, andava devagar em volta do carro quando sentiu uma inquietação que não era sua. Vinha das árvores: um medo leve, misturado a algo que parecia um pedido de ajuda.
 
-– Ele pode nos ouvir... Ele consegue nos entender...
-
-Ele parou. As árvores balançavam sem vento. As vozes se entrelaçaram num coro, pedindo ajuda, e Banjo foi se afastando dos irmãos como se alguém o puxasse pela mão.
+Ele parou. As árvores balançavam sem vento. Banjo tentou entender aquela sensação e foi se afastando dos irmãos, atento ao que vinha da mata.
 
 – Banjo! Para de namorar as árvores e vem logo! – gritou Bruno, balançando o volante.
 
-Banjo piscou, voltando a si. As vozes ficaram para trás, mas ainda murmuravam no fundo da cabeça dele.
+Banjo piscou, voltando a si. A sensação diminuiu quando se afastou das árvores, mas não desapareceu por completo.
 
 Uma luz azul e vermelha piscava morro acima. Um carro de polícia.
 
@@ -272,7 +276,7 @@ O policial olhou para a árvore, para os garotos, e por fim para a mão de Bruno
 
 – Só um acessório a mais – disse Bruno, erguendo o braço e sorrindo.
 
-O policial balançou a cabeça, pediu um guincho pelo rádio e ofereceu uma carona. Durante o trajeto, ninguém falou nada. Breno olhava para o volante na mão do irmão e pensava que sabia o que aquilo era. Beatriz estava encolhida, ainda com a sensação de que os pais continuavam por perto. Banjo olhava pela janela, ouvindo ecos cada vez mais distantes.
+O policial balançou a cabeça, pediu um guincho pelo rádio e ofereceu uma carona. Durante o trajeto, ninguém falou nada. Breno olhava para o volante na mão do irmão. Tentara explicar o gelo pelo frio e o salto do carro pelo susto, mas nenhuma explicação dava conta de terem atravessado um tronco e deixado a traseira presa nele. Olhou para as próprias mãos, lembrando as páginas do livro de história. Beatriz estava encolhida, ainda com a sensação de que os pais continuavam por perto. Banjo olhava pela janela, com a inquietação da mata ainda presa no peito.
 
 Em casa, foi preciso uma hora, sabão, óleo de cozinha e muita paciência de Frank para soltar o volante da mão de Bruno. Quando saiu, Bruno ficou olhando para a palma vermelha.
 
@@ -318,11 +322,11 @@ Beatriz segurou o riso. Banjo ergueu a cartolina e apontou, um por um, para os i
 
 – O Breno atravessou o livro de história também – lembrou Breno, quase sussurrando.
 
-– Pff. Você virou fantasma agora? – provocou Bruno.
+– Pff. Você virou fantasma agora? – provocou Bruno, esfregando a palma da mão que ainda doía.
 
-– Tô falando sério. E eu acho que a gente já sabe o que é isso.
+– Tô falando sério. Na aula, achei que estava imaginando. Depois daquele carro... não sei mais o que pensar.
 
-– Cinco – insistiu Banjo – eu escuto as árvores.
+– Cinco – insistiu Banjo – eu sinto umas coisas quando chego perto das árvores. Como se elas estivessem tentando me contar alguma coisa.
 
 – Essa não é uma evidência, Banjo, é um sinal de que você precisa dormir.
 
