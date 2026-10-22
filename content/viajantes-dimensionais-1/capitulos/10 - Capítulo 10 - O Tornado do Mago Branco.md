@@ -256,7 +256,7 @@ No andar de cima, no salão de espera, erguia-se no centro uma árvore majestosa
 
 – A Árvore da Vigília – disse Velho-Sábio. – Ela está aqui há séculos e se tornou o símbolo da Vigilância. Reparem nas árvores bordadas nos uniformes. Suas raízes representam o compromisso dos vigilantes com a cidade. É o coração da Central.
 
-Banjo parou, hipnotizado. As folhas balançavam sem vento, e o som delas parecia um sussurro. Ele deu alguns passos, e uma sensação estranha subiu por dentro, nem medo nem curiosidade, algo no meio. Era como se a árvore o observasse. Por um instante, ouviu algo leve, quase uma voz, mas sem palavras. Os dedos formigaram.
+Banjo parou, hipnotizado. As folhas balançavam sem vento, e o som delas parecia um sussurro. Ele deu alguns passos, e uma sensação estranha subiu por dentro, nem medo nem curiosidade, algo no meio. Não eram palavras ou pensamentos; era um sentimento vindo da natureza, cálido e difícil de entender. Os dedos formigaram.
 
 – Vamos, Banjoca! – chamou Bruno.
 

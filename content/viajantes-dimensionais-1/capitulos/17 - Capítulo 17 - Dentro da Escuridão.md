@@ -12,21 +12,19 @@ A Floresta de Elthenor começou de repente, como uma parede. As árvores eram al
 
 Em poucos minutos, os dois mais velhos dormiam. Banjo não conseguia. Farol, aninhado no colarinho dele, estava inquieto, com as orelhas enormes viradas para trás e a cauda apagada. Era a primeira vez que Banjo via o petrisco sem brilho nenhum. Ele não gostava daquele sinal.
 
-Foi então que ouviu.
+Foi então que sentiu.
 
-Uma voz baixa, quase um sussurro de vento. Vinha das árvores. Banjo se sentou, de olhos arregalados.
+Um medo que não era dele. Veio de repente, frio e urgente, como se a mata inteira tivesse prendido a respiração. Banjo se sentou, de olhos arregalados.
 
 – Quem está aí?
 
-Silêncio. Ele se deitou de novo, fechou os olhos, e a voz voltou, mais clara. Não era humana. Parecia uma canção muito antiga, quase cantada, e cada sílaba soava como folha roçando em folha. Banjo se levantou sem fazer barulho e seguiu o som, passando entre troncos que pareciam se inclinar sobre ele.
+Ninguém respondeu. Ele se deitou de novo, fechou os olhos, e a sensação voltou, mais forte. Não havia palavras. Era a natureza se expressando daquele jeito estranho que ele começava a perceber: sentimentos, tão nítidos quanto os seus, embora não fossem seus. Banjo se levantou sem fazer barulho e seguiu a impressão, passando entre troncos que pareciam se inclinar sobre ele.
 
-A voz parou. Outra surgiu, mais grave, vinda do fundo de uma árvore enorme e torta, de raízes como garras e um tronco que se enrolava em si mesmo. As reentrâncias da casca formavam um rosto, com dois buracos fundos no lugar dos olhos. Banjo esperava um monstro. Mas os olhos, apesar de serem de madeira, pareciam muito assustados.
+Parou diante de uma árvore enorme e torta, de raízes como garras e um tronco que se enrolava em si mesmo. As reentrâncias da casca formavam um rosto, com dois buracos fundos no lugar dos olhos. Banjo esperava um monstro, mas encontrou apenas madeira antiga. Encostou a mão no tronco.
 
-– Eles estão aqui – sussurrou a árvore, com um tremor que fazia as folhas se agitarem. – Sentem o cheiro... as bestas cinzentas...
+O medo veio mais forte. Junto dele, a sensação de algo pesado rondando a floresta, farejando entre as raízes. Banjo pensou nos irmãos adormecidos perto do rio. Não sabia como, mas tinha certeza de que havia alguma coisa caçando naquela noite.
 
-– As... bestas?
-
-– Vocês não deviam estar aqui, pequeno. Eles saíram para a caça. Sentem o medo de longe. Estão indo atrás dos outros dois.
+– As bestas cinzentas... – murmurou, lembrando-se dos avisos de Ricochet.
 
 Banjo não esperou mais. Girou nos calcanhares e correu, tropeçando em raízes, com a floresta inteira parecendo se fechar em um túnel escuro. Atrás dele, folhas farfalhavam e algo pesado se movia. Ao chegar ao acampamento, sacudiu Bruno com as duas mãos.
 
@@ -36,7 +34,7 @@ Banjo não esperou mais. Girou nos calcanhares e correu, tropeçando em raízes,
 
 Um rugido profundo e visceral cortou a noite, vindo de todos os lados ao mesmo tempo. O chão vibrou. Bruno se sentou de uma vez. Breno já estava de pé.
 
-– Eu ouvi a árvore! – sussurrou Banjo. – Ela disse que eles estão vindo!
+– Eu senti na floresta! – sussurrou Banjo. – Tem alguma coisa vindo atrás da gente!
 
 Outro rugido, mais perto. Depois, o estalo seco de galhos quebrando sob um peso enorme.
 
