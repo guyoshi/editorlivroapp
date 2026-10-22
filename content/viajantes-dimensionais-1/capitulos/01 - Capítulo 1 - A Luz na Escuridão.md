@@ -248,7 +248,7 @@ Breno ficou sem reação. Não esperava que a irmã atiçasse a briga, e os garo
 
 Breno respirou fundo e se controlou, os punhos cerrados.
 
-– Ei, ei, ei, ei, ei... – disse uma voz vinda da direção do parquinho. Era Bruno. – Pedro, não vale a pena bater no Banjo, ele não agride nem uma mosca. Ainda é uma criança.
+– Ei, ei, ei, ei, ei... – disse uma voz vinda da direção do parquinho. Era Bruno tirando os fones do ouvido, as mãos estendidas. – Pedro, não vale a pena bater no Banjo, ele não agride nem uma mosca. Ainda é uma criança.
 
 – Ué, não foi você que nos disse agora mesmo onde ele estava? Queríamos só fazer uma brincadeira com ele.
 
@@ -262,15 +262,17 @@ Breno respirou fundo e se controlou, os punhos cerrados.
 
 – Por que o quê? Agora preciso ter razão pra responder a alguém, idiota?
 
-– Deixa meu irmão ir embora e esquecemos tudo, Pedro – disse Bruno, aproximando-se com um sorrisinho forçado. – Pode ficar em paz, ninguém vai te importunar.
+Então virou-se a Pedro de novo. 
+
+– Deixa meu irmão ir embora e esquecemos tudo, Pedro – disse Bruno, aproximando-se com um sorrisinho forçado. – Pode ficar em paz, ninguém vai lembrar disso. 
 
 Pedro parou na frente dele e o encarou de cima a baixo.
 
-– Ô esquisito, tu é um garoto engraçado. E meu punho tá aqui, louco pra bater num garoto assim.
+– Ô esquisito, tu é um garoto engraçado. E meu punho tá aqui, louco pra bater em você.
 
-Beatriz, enquanto Pedro encarava o irmão, puxou Banjo para fugirem e chutou a perna de um dos garotos. Ele só a empurrou, e ambos caíram no chão.
+Ele não viu, enquanto Pedro encarava o irmão, Beatriz chutou a perna de um dos garotos e puxou Banjo para fugirem. Pedro a empurrou, e ambos caíram no chão.
 
-– Pedro, assim não, alguém vai acabar machucado – disse Bruno, recuando de cabeça baixa.
+– Pedro, assim não, alguém vai acabar machucado – disse Bruno, com um sorriso falso.
 
 – Ei – falou Breno, antes de finalmente descarregar o punho na cara do garoto.
 
@@ -306,7 +308,7 @@ Os dois se viraram e correram o mais rápido que puderam, seguindo os irmãos pe
 
 – VACILÕES! – berrou Pedro, correndo atrás deles com os outros.
 
-O vento estava forte, e os garotos cobriam os rostos para que os galhos não os ferissem. Banjo e Bruno iam à frente, Breno e a caçula atrás. Beatriz precisou ser ajudada duas vezes por Breno entre os galhos. Quando um dos garotos se aproximou, Bruno pegou uma pedra do chão e arremessou nele.
+O vento estava forte, e os garotos cobriam os rostos para que os galhos não os ferissem. Banjo e Bruno iam à frente, Breno recuou para acompanhar a caçula. Beatriz precisou ser ajudada duas vezes por Breno entre os galhos. Quando um dos garotos se aproximou, Bruno pegou uma pedra do chão e arremessou nele.
 
 Nenhum deles sabia até onde correriam, e o destino resolveu a dúvida levando-os às margens de um rio de águas fortes.
 
@@ -318,7 +320,7 @@ Nenhum deles sabia até onde correriam, e o destino resolveu a dúvida levando-o
 
 Uma movimentação na floresta anunciou a chegada de Pedro e da gangue, que pararam de correr e começaram a rir.
 
-– Vocês correm, mas até foi bom. Aqui longe de todo mundo, posso dar uma lição em vocês sem ninguém atrapalhar.
+– Que bom que correram. Aqui longe de todo mundo, posso dar uma lição em vocês sem ninguém atrapalhar.
 
 Breno pensou em apanhar algo para bater nos garotos, mas, por incrível que pareça, foi Banjo quem tomou uma atitude. Entrou na frente dos irmãos, com as mãos tremendo, e fechou a cara para Pedro.
 
