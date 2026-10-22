@@ -1,295 +1,268 @@
-Na manhã seguinte, Velho-Sábio conduziu os irmãos até o prédio de treinamento, o semblante sério e determinado. O clima estava um pouco mais tenso do que de costume, e os garotos notaram isso assim que chegaram à entrada principal. O mago parecia em silêncio profundo, e eles decidiram não interromper seus pensamentos.
+Na manhã seguinte, o céu de Tayo estava cor de pêssego e as ruas cheiravam a pão de mel. Velho-Sábio caminhou calado até o Edifício Arcano, o cajado batendo no calçamento num ritmo lento, e os irmãos acharam melhor não interromper os pensamentos dele.
 
-Ao passar pelas portas imensas, Banjo notou os gêmeos Erick e Nicolas, que entravam no elevador acompanhados do mentor William McCroy, o homem de olhos penetrantes e frios. 
+Tayo, porém, não estava calada. Num poste, um homem de colete listrado anunciava a previsão do dia, olhando para o céu com uma lupa de latão:
 
-Ao entrarem mais no prédio, encontraram um dos vigilantes responsáveis pelos novos senavelitas. Ele era alto, com cabelo grisalho cortado rente, e usava o uniforme da vigilância com uma postura firme, porém acolhedora. A expressão em seu rosto mostrava traços de uma vida dura, de alguém que havia enfrentado desafios imensos, mas que ainda carregava uma simpatia genuína, especialmente ao ver Velho-Sábio.
+– Nuvens de bom humor até o meio-dia, meus senhores! Depois, mau humor leve, com chance de garoa emburrada. Levem casaco!
 
-— Velho-Sábio, sempre um prazer — disse Gary com um sorriso leve, apertando a mão do mago com uma força respeitosa. — Como estão seus novos aprendizes? Estão prontos para o que vem hoje?
+– E se elas mudarem de ideia? – perguntou Banjo.
 
-Velho-Sábio manteve a expressão séria ao apertar a mão de Gary, mas um lampejo de apreço brilhou em seu olhar.
+– Mudam sempre, rapaz. Por isso eu cobro só meio pêndulo! – O homem tocou o chapéu. – Que a luz te encontre!
 
-— Sempre prontos, Gary. É raro te ver fora da central. Parece que estão a trabalho por aqui hoje — disse o mago, dando uma olhada discreta para o andar de cima, onde outros vigilantes caminhavam em patrulha.
+– Que a luz te encontre – respondeu Banjo, sem pensar, e depois ficou muito satisfeito consigo mesmo pelo resto do quarteirão.
 
-Gary suspirou, os olhos demonstrando uma fadiga que ia além do físico.
+No saguão, um homem alto, de cabelo grisalho cortado rente, esperava ao lado do elevador. Usava o uniforme cinza da Vigilância com uma postura firme e, ao mesmo tempo, quase acolhedora. Tinha o rosto de quem já enfrentou coisas demais e ainda assim sabe sorrir.
 
-— Sim, minha equipe está em uma operação aqui. Enquanto o Cap. Marcus está cuidando da segurança da central. 
+– Velho-Sábio, sempre um prazer – disse ele, apertando a mão do mago. – Como estão os novos aprendizes?
 
-— É bom tomar um sol às vezes. Mas posso perguntar, a razão de estarem com uma operação aqui? Ocorreu alguma coisa? — perguntou o mago. 
+– Prontos, Gary. É raro te ver fora da Central.
 
-— É só uma medida para garantir segurança — explicou, com uma voz compreensiva. — Aliás, receio que não tenha problema caso acompanhemos seus aprendizes hoje, certo? Vamos avaliar como eles estão indo no treinamento, só para nos certificarmos de que estão no caminho certo.
+– Minha equipe está numa operação aqui perto, enquanto o Capitão Marcus cuida da segurança lá dentro. – Gary suspirou, e o cansaço dele parecia ir além do corpo. – Só uma medida de rotina. Aliás, não se importaria se acompanhássemos o treino de hoje, não é? Só para ver se estão no caminho certo.
 
-Velho-Sábio respirou fundo, visivelmente contido, mas sua expressão indicava sua irritação.
+O sorriso de Velho-Sábio continuou no rosto, mas não chegou aos olhos.
 
-— Tenho muito respeito por você, Gary. Mas não estou inclinado ao seu pedido. Se a vigilância insiste em supervisionar meus aprendizes, que Erla venha pessoalmente — disse, com um tom firme que ele raramente usava.
+– Tenho muito respeito por você, Gary. Mas não vou aceitar. Se a Vigilância quer supervisionar meus aprendizes, que Erla venha pessoalmente.
 
-Gary olhou para o lado, claramente desconfortável, mas assentiu. Velho-Sábio voltou-se para os garotos, que o observavam atentamente, curiosos com a tensão entre ele e Gary. Sem dizer mais nada, o mago lhes fez um sinal para segui-lo.
+Gary olhou para o chão, desconfortável, e assentiu. Os irmãos trocaram olhares. Era a primeira vez que viam o velho mago falar assim com alguém, num tom duro e curto, como uma porta se fechando.
 
-No terceiro piso, a sala de treinamento se transformou em algo verdadeiramente espetacular: um desfiladeiro vasto e profundo, com pontes estreitas e sinuosas que conectavam pilares de rocha flutuantes. Ao redor deles, uma névoa azulada pairava suavemente, refletindo pequenas partículas brilhantes, dando a impressão de que estavam num vale etéreo suspenso entre o céu e a terra. A altura parecia infinita, e cada pilar oscilava levemente, testando seu equilíbrio e concentração a cada passo.
+O elevador era uma bolha de vidro que subia por fora da torre, e durante o caminho Tayo se desenrolou lá embaixo como um tapete: telhados cor de ferrugem e de musgo, dassis cruzando entre as torres como contas prateadas num fio invisível, um bosque suspenso no meio da cidade onde crianças corriam sobre as copas. Banjo grudou a testa no vidro e deixou uma marca de nariz. Beatriz tirou o capuz lilás para ver melhor. Até Bruno, que jurava já ter se acostumado, ficou calado por três andares inteiros.
 
-Velho-Sábio os posicionou em pontos distintos da sala, observando-os com olhos atentos e sérios. Sua presença parecia dominar o ambiente, como se estivesse totalmente em controle daquele cenário.
+Quando as portas se abriram no terceiro piso, Banjo deu um passo à frente e parou, porque não havia chão.
 
-— Vocês precisam dominarem o básico de suas habilidades ainda hoje — anunciou ele com uma voz calma, mas firme. — Porque amanhã será o primeiro desafio.
+Ou melhor, havia, mas lá embaixo, muito embaixo, escondido sob camadas de nuvens. O andar inteiro virara um desfiladeiro. Pilares de rocha flutuavam em volta, grandes como prédios, ligados por pontes estreitas e sinuosas que balançavam com o vento. Uma névoa azulada pairava no ar, cheia de partículas que cintilavam como poeira de estrela, e cada pilar oscilava de leve, devagar, como um barco ancorado.
 
-— Amanhã? — indagou Banjo surpreso — mas…
+– Que lugar é esse? – sussurrou Beatriz, agarrada ao braço de Breno.
 
-— Não se preocupe com o nível de vocês. Apenas dominem o básico. Inicialmente os desafios não exigirão habilidades mágicas — disse o mago.
+– O lugar onde vocês vão aprender o básico ainda hoje – disse Velho-Sábio, e a voz dele ecoou pelo vale. – Porque amanhã é o primeiro desafio.
 
-Os garotos pareciam aflitos. Não tinham pensado nos desafios, achavam que ainda demorariam. Mas sendo amanhã, a pressão era imensa. 
+– Amanhã?! – gritou Banjo, e o eco devolveu: manhã, manhã, manhã.
 
-— Encontrem uma posição estável, sintam o M.A. dentro de vocês e deixem a magia fluir. Ela precisa vir de dentro. 
+– Não se assustem. Os primeiros desafios quase não exigem magia. Dominem o básico, e o resto vem. – Ele os distribuiu em pilares diferentes. – Encontrem uma posição estável, sintam o M.A. e deixem a magia fluir. Ela vem de dentro.
 
-Bruno olhou em volta, inquieto, enquanto equilibrava-se num dos pilares oscilantes.
+Bruno, em cima de um pilar que balançava, olhou para baixo e depois para o mestre.
 
-— Não acha o lugar um pouco... arriscado? — ele perguntou, lançando um olhar cauteloso para a altura que se estendia abaixo deles.
+– Não acha o lugar um pouquinho... arriscado?
 
-Velho-Sábio soltou uma risada suave, agitando levemente seu cajado. Num instante, Bruno foi erguido no ar e projetado para frente, caindo em direção ao desfiladeiro com um grito de puro desespero.
+Velho-Sábio riu baixinho e girou o cajado. Bruno foi erguido no ar como um pacote, projetado para a frente e arremessado no abismo, com um grito que dobrou de volume a cada metro.
 
-Beatriz, Banjo e Breno correram até a beira do pilar, o coração batendo forte, mas ao olharem para baixo, viram apenas o vazio e a névoa espessa.
+Os três correram até a beirada do pilar. Só viram o vazio e a névoa.
 
-— NUNCA MAIS FAÇA ISSO OUTRA VEZ! — berrou Bruno atrás deles, ainda ofegante, com os olhos arregalados. Ele se aproximava cambaleando, tentando recuperar o fôlego.
+– NUNCA MAIS FAÇA ISSO! – berrou Bruno, atrás deles, cambaleando ponte adentro, de olhos arregalados e cabelo em pé. Tinha reaparecido do outro lado, pálido.
 
-Beatriz e Banjo riram, aliviados e divertidos, enquanto Bruno ainda olhava para Velho-Sábio com uma expressão de puro horror.
+Beatriz e Banjo caíram na gargalhada. Bruno olhou para o mestre com o mais puro horror.
 
-— Relaxem, crianças. — Velho-Sábio sorriu, divertido. — Isso tudo aqui é tecnicamente falso. Não há nada mortal para temerem. Agora comecem a praticar!
+– Relaxem, crianças – disse Velho-Sábio, divertido. – Tudo isto é, tecnicamente, falso. Não há nada mortal aqui. Agora, pratiquem!
 
-Os irmãos se espalharam na plataforma suspensa, cada um com uma mistura de ansiedade e tensão estampada no rosto. Beatriz, especialmente, tremia ao se dar conta da altura em que estavam. O chão abaixo parecia distante e indistinto, oculto sob camadas de nuvens. Ela respirava fundo, tentando segurar o medo que insistia em crescer em seu peito.
 
-Breno, percebendo o nervosismo da irmã, se aproximou e segurou-a pelos ombros, tentando estabilizá-la.
+Beatriz não estava rindo. Ela tinha se sentado no meio da ponte, com os joelhos junto ao peito, e olhava só para os próprios sapatos.
 
-— Não, Breninho, aqui em cima não! — Beatriz sussurrou, a voz trêmula, enquanto olhava para os próprios pés, evitando o abismo.
+– Aqui em cima não, Breninho – sussurrou. – Eu não consigo.
 
-Breno manteve a voz firme e calma, tentando transmitir segurança.
+Breno se agachou ao lado dela.
 
-— Calma, Bia. Estamos bem seguros aqui. E, olha, estou com você. Não vai acontecer nada.
+– Calma, Bia. A gente está seguro. E eu estou aqui.
 
-Beatriz assentiu, respirando fundo, mas ainda com o coração disparado. Lembrava-se do que Velho-Sábio dissera antes do treinamento: ela precisava de emoções intensas para desbloquear sua habilidade. E, embora a ideia de mexer com fogo lhe trouxesse uma excitação nova, a altura tornava a experiência muito mais aterrorizante.
+– Velho-Sábio disse que o meu dom precisa de emoção forte – ela murmurou. – Mas só o que eu sinto é medo.
 
-Enquanto isso, Breno observava atentamente, tentando decifrar o que mais poderia ajudá-la a se conectar com essa energia.
+– Então tenta outra coisa. Pensa em algo que te tire do sério.
 
-— Vamos tentar algo diferente — sugeriu ele, ainda segurando-a firmemente. — Pense em alguma coisa que realmente mexa com você, algo que te tire do sério. Quem sabe isso ajude.
+Ela fechou os olhos. Pensou no Bruno chamando-a de maninha na frente dos outros, e nada. Pensou na altura, e o estômago virou. Abriu os olhos, desanimada.
 
-Ela fechou os olhos, tentando buscar dentro de si uma emoção forte o suficiente para liberar essa energia, mas o medo da altura ainda falava mais alto. Inspirando fundo, abriu os olhos e encarou Breno.
+– E se não for a emoção certa?
 
-— Breno, eu… eu não sei se consigo. E se não for essa a emoção certa? — perguntou Beatriz, os olhos cheios de dúvida.
+Breno sorriu, aquele sorriso paciente de irmão mais velho, e se levantou.
 
-Breno esboçou um sorriso compreensivo e balançou a cabeça.
+– Confia em mim. Se não funcionar, eu tento atravessar você.
 
-— Confia em mim. Vamos descobrir juntos. E se não funcionar… — Ele deu um passo para trás e se preparou para a própria tentativa. — Vou tentar atravessar você.
+– O quê? Tem certeza?
 
-Beatriz o olhou, um pouco confusa e ainda assustada.
+Ele deu alguns passos para trás, tomou impulso e correu. Quando encostou nela, esperou o zumbido grave subir no peito, aquela vibração que ele já conhecia. Mas o zumbido veio tarde. Breno bateu na irmã como num muro e os dois caíram de joelhos, e a ponte inteira gemeu e oscilou.
 
-— Tem certeza disso?
+– Ai! – Breno massageou o ombro.
 
-Breno assentiu, confiante. Ele deu alguns passos para trás e, numa corrida rápida, se lançou na direção dela, tentando concentrar seu próprio poder para se tornar intangível. No entanto, ao tocar Beatriz, sentiu uma resistência inesperada. Em vez de passar através dela, ele se chocou contra a irmã, fazendo ambos caírem de joelhos na ponte, que oscilou perigosamente sob o impacto.
+– Muito bem, Breno! – gritou Bruno, de longe. – Quase atravessou o chão também!
 
-— Ai! — Breno gemeu, massageando o ombro enquanto Beatriz tentava se levantar, os olhos arregalados e o corpo tenso.
+– Concentração – disse Velho-Sábio, aproximando-se. – Sinta a resistência antes de avançar. E você, Beatriz, não force. O seu dom é feito de imprevisto. Use isso a seu favor.
 
-Ao fundo, Bruno e Banjo observavam, rindo da cena.
+Beatriz se levantou, trêmula, com as mãos para trás.
 
-— Muito bem, Breno! Quase atravessou o chão também — provocou Bruno, soltando uma risada.
+– Chega. Eu não vou ser cobaia. Vou sair daqui!
 
-— Concentração, Breno — disse Velho-Sábio, aproximando-se. — Tente sentir a resistência antes de avançar. E, Beatriz, tente focar nas sensações. Sua habilidade é algo ligado ao caos, ao imprevisto. Use essa incerteza a seu favor.
+Deu um passo largo demais, tropeçou na ponta da própria bota e se desequilibrou. Breno esticou o braço para segurá-la. E foi aí que algo estalou dentro dela, como uma brasa se partindo.
 
-Beatriz, ainda trêmula, soltou as mãos de Breno e começou a dar alguns passos hesitantes na ponte, querendo sair dali.
+As mãos dela foram para trás, tentando agarrar o ar, e o ar respondeu. Uma onda de calor encheu a ponte, o cheiro de pão queimado subiu até o céu, e uma rajada de fogo saiu das palmas de Beatriz, vivo e vermelho, direto no peito do irmão.
 
-— Dessa vez eu não vou ser cobaia não. Vou sair daqui! — declarou, dando um passo mais largo, mas logo se desequilibrou e tropeçou.
+Breno levantou os braços no instinto. O fogo bateu nele e se espalhou, e a pele dele começou a mudar. O brilho foi se firmando, duro, liso, de um prateado que refletia as chamas como um espelho.
 
-Breno esticou o braço para segurá-la, e então, sem aviso, algo dentro de Beatriz pareceu despertar. No desespero de tentar se equilibrar, suas mãos se moveram involuntariamente para trás, e uma onda de calor envolveu o ar ao redor dela. De repente, uma rajada de fogo disparou de suas mãos, vibrante e intensa, como uma força incontrolável. O calor brilhou ao redor dela, subindo em direção a Breno, que mal teve tempo de se proteger.
+– Cara... – sussurrou Banjo. – O que aconteceu?
 
-Instintivamente, ele ergueu os braços para se defender. Quando o fogo o atingiu, seu corpo começou a mudar. 
+Beatriz estava parada, de olhos arregalados, olhando para o irmão mais velho, que agora parecia uma estátua de prata.
 
-— Cara… o que aconteceu? — murmurou Banjo, boquiaberto.
+– Breno! Você tá... todo metal!
 
-Beatriz estava estática, os olhos arregalados enquanto observava o irmão mais velho, que agora parecia um reflexo prateado, quase sobrenatural. Sua pele tinha adquirido um brilho metálico, sua textura mudando até ficar resistente e dura como titânio. 
+Breno olhou para os próprios braços e flexionou os dedos, devagar. Um zumbido grave e profundo ecoou dentro dele, como um sino enorme tocando num lugar muito fundo.
 
-— Breno… você… está todo prateado! — exclamou, ainda assustada, mas com um brilho de realização nos olhos.
+– Acho que a minha pele virou um tipo de metal – murmurou, fascinado. – Bia, olha. Eu me vejo no meu braço.
 
-Breno olhou para os próprios braços, flexionando os dedos com uma expressão fascinada.
+Velho-Sábio se aproximou com um sorriso orgulhoso.
 
-— Acho que… acho que minha pele se transformou em um tipo de metal — disse ele, admirado com o reflexo das chamas que ainda dançavam em sua superfície. — Isso é… incrível.
+– A sua densidade, Breno, não serve só para atravessar as coisas. Também serve para endurecer. E você, Beatriz... – Ele inclinou a cabeça. – O seu fogo está vivo. Aceite que ele é seu.
 
-Velho-Sábio observava com um sorriso satisfeito, aproximando-se devagar, os olhos brilhando com um toque de orgulho.
+Beatriz ainda tremia.
 
-— Parece que fizemos progresso. Sua habilidade de alterar a densidade não apenas permite que você se torne intangível, Breno, mas também resistente, como um metal. E você, Beatriz… sua habilidade envolve o caos e o calor. As chamas fazem parte de você.
+– Eu achei que tinha machucado o Breninho.
 
-Ainda assim, Beatriz parecia nervosa.
+– Eu tô ótimo, maninha – disse Breno, e abriu os braços para abraçá-la. Mas o corpo de metal pesava como uma bigorna, e a ponte, que já estava cansada, deu um estalo seco.
 
-— Eu… ache que tinha machucado o Breninho — ela disse. 
+– Ah, não – disse Beatriz.
 
-— Eu to bem, maninha — sisse Breno, se aproximando da irmã para cumprimentá-la. Mas o peso de seu corpo metálico fez com que a ponte cedesse subitamente. A estrutura oscilou perigosamente e, com um estalo alto, começou a se partir.
+A ponte se partiu em duas. Os dois despencaram, gritando, no meio de uma chuva de lascas de pedra e uma rajada de fogo que subiu para o céu, e foram engolidos pela névoa. Banjo e Bruno ficaram olhando, boquiabertos, no pilar.
 
-— Ah, não! — gritou Beatriz, enquanto sentia o chão desaparecer sob seus pés.
+Poucos segundos depois, a sala os devolveu aos pés de Velho-Sábio, ofegantes, encharcados de suor, com os cabelos grudados no rosto. Beatriz soltou um soluço e se agarrou ao irmão.
 
-A ponte se desfez em pedaços, e os dois irmãos despencaram no abismo, apenas para serem engolidos pelo espaço vazio abaixo. Um grito de pura adrenalina e medo ecoou, misturado com uma rajada de fogo que subiu para o céu.
+– Eu não quero mais brincar disso – disse, chorosa.
 
-Poucos segundos depois, a sala os devolveu magicamente ao chão, onde caíram aos pés de Velho-Sábio, encharcados de suor e visivelmente abalados. Beatriz começou a soluçar, as lágrimas correndo pelo rosto enquanto se agarrava ao braço de Breno.
+– Tudo bem, Bia – disse Breno, ainda prateado, e a abraçou, e o abraço fez um tilintar de metal estranhamente reconfortante. – Por hoje já deu.
 
-— Eu não quero mais brincar disso — disse ela, a voz tremendo.
+Foi Banjo quem quebrou o silêncio. Ele ainda estava no pilar, de olhos redondos, e gritou lá de cima:
 
-Breno, ainda ofegante, esboçou um sorriso fraco e a puxou para um abraço, tentando acalmá-la.
+– Breninho de ferro! Posso te pendurar na janela? Assim a gente vai ter uma varanda de metal em casa!
 
-— Tudo bem, Bia. Por hoje, já deu.
+Beatriz soltou uma risada molhada, espirrando lágrimas. Breno revirou os olhos, mas uma das pontas da boca dele subiu. Bruno bufou, tentando segurar, e perdeu.
 
-Enquanto Bruno se concentrava na tarefa dada por Velho-Sábio — reunir partículas de água da atmosfera e convertê-las em gelo — seu olhar ficava cada vez mais determinado. Mas, por mais que tentasse, ele só conseguia formar uma fina camada de gelo, que logo derretia em suas mãos. Ele bufou, frustrado, e olhou de lado, percebendo que seus irmãos pareciam progredir mais facilmente.
+– Ei, pelo menos agora ele serve de despertador – disse. – É só bater na cabeça dele. Dóim!
 
-Velho-Sábio, observando seu esforço, se aproximou e colocou uma mão firme em seu ombro, os olhos penetrantes.
+Em um minuto, os quatro estavam rindo, sem conseguir parar, até a barriga doer.
 
-— Bruno, você pode usar essa habilidade como um projétil em uma luta, mas isso exige precisão. Estabilizar o gelo é o primeiro passo para torná-lo sólido o bastante.
+Foi só depois que Banjo e Beatriz inventaram o jogo. Um pedaço de pão tinha sobrado do café da manhã no bolso do casaco de Banjo, e ele o fez subir no ar, girando devagar como uma folha. Beatriz fechou um olho, apontou o dedo e soltou uma faísca minúscula. O pão deu um estalinho, dourou dos dois lados e caiu direto na mão dela, quentinho, com cheiro de torrada.
 
-Bruno franziu a testa, os olhos fixos no mestre.
+– Dá mais um! – pediu Banjo.
 
-— Luta? Pra quê eu precisaria lutar? — perguntou, a irritação evidente na voz.
+Em poucos minutos, a ponte, que a sala tinha refeito sozinha com um suspiro de pedra, era uma pequena cozinha voadora. Banjo lançava pedacinhos de coisas pelo ar, Beatriz acertava, e um pássaro de nevoeiro, que ninguém soube de onde veio, pousou no pilar para ver se sobrava alguma coisa. Bruno ficou olhando de longe, com os braços cruzados, tentando parecer entediado. Quando o pão acertou a cabeça dele, ele aceitou a derrota e entrou na brincadeira.
 
-Velho-Sábio fez uma pausa, seu semblante ficando mais grave.
+– Isso é uma torrada de guerra – declarou, mordendo. – Tá crua no meio.
 
-— Espero que nunca precise. Mas, se chegar esse momento, é essencial que você saiba como se defender.
+– Reclama pro cozinheiro – disse Beatriz.
 
-Do outro lado da sala, Banjo se remexia inquieto, observando seus irmãos enquanto tentava, frustrado, invocar algum sinal de habilidade em si mesmo. Ele não sentia nada diferente, e isso só aumentava a frustração quando pegava Bruno o olhando de relance, com um sorriso zombeteiro.
+– Cozinheira. E eu cobro caro.
 
-— E aí, Banjo! Vai falar com o copo ou com uma planta? — Bruno provocou, erguendo uma sobrancelha com um sorrisinho.
+Velho-Sábio, na pedra, fingiu que dormia, para ninguém ver que estava sorrindo.
 
-Banjo corou, apertando os punhos, mas antes que pudesse responder, Breno interveio com firmeza.
 
-— Chega! Isso aqui não é uma brincadeira, Bruno — ele disse, com um olhar sério.
+Na hora do descanso, Velho-Sábio sentou-se numa pedra e deixou que treinassem sozinhos. Bruno insistia em juntar as gotas de água da névoa e transformá-las em gelo, mas tudo o que conseguia era uma fina película que derretia na mão. Depois de várias tentativas, uma poça enorme se espalhou, quase prendendo os sapatos dele ao chão.
 
-Bruno revirou os olhos, sem se dar por vencido.
+– Qual é a dificuldade disso? Só um pouco de controle! – resmungou.
 
-— Ah, claro, o “chefe” tá falando. Sempre o responsável. — Ele balançou a cabeça, sarcasmo pingando de cada palavra. — Só porque eu não fico aqui puxando o saco de todo mundo, isso não quer dizer que eu não esteja levando a sério.
+– Controle leva tempo – disse o mago, sem se levantar. – O gelo é uma centelha, Bruno. Não uma tempestade.
 
-Velho-Sábio observou a troca, então ergueu a voz, seu tom calmo e firme, mas com um toque de reprovação.
+Banjo se sentou no chão, de pernas cruzadas, olhando um besouro azul passear por uma fenda de pedra. Pensava no copo da noite anterior, e nas palavras de Velho-Sábio: que o que ele tinha era maior. Contou a ele, baixinho, o que tinha acontecido no quarto.
 
-— Vocês precisam aprender a trabalhar juntos. Essas discussões... são suas fraquezas. 
+– Hmm... Aereplórium – murmurou o mago, como quem fala com um velho conhecido. – Vamos testar. Tente levantar aquela pedrinha, Banjo. Com a mente.
 
-Banjo respirou fundo, tentando conter a raiva, e então, lembrando-se de algo estranho que aconteceu na noite anterior, olhou para Velho-Sábio.
+Banjo olhou para a pedra lisa e escura. Fechou os olhos, abriu, apertou as sobrancelhas. Nada.
 
-— Velho-Sábio, ontem, enquanto eu estava no quarto, o copo de água que estava ao meu lado… ele começou a flutuar, como se eu tivesse feito isso sem querer. Acha que isso pode significar alguma coisa?
+Velho-Sábio ergueu o cajado, e uma chama suave brotou na ponta, quente e dourada. Banjo recuou por instinto, o coração disparou, e alguma coisa subiu por dentro dele, um sussurro que ele já tinha ouvido na clareira. A pedra se desprendeu do chão e ficou pairando, redonda e tranquila, entre ele e o fogo.
 
-Velho-Sábio o olhou com interesse, o brilho de uma ideia surgindo em seus olhos.
+– Eu... – Banjo engoliu em seco. – Eu fiz isso?
 
-— Hmm… Aereplórium. Acho que estou começando a entender. Vamos testar, Banjo. Tente mover aquela pequena pedra ali na frente — ele disse, apontando para uma pedra lisa e escura no chão. — Use sua mente, concentre-se profundamente.
+– Fez. Telecinese – disse Velho-Sábio, apagando a chama. – Você se liga às coisas à sua volta, e se liga mais forte quando algo o assusta. Isso é um perigo e é um tesouro. Vamos cuidar dele juntos.
 
-Banjo assentiu, respirando fundo. Ele fixou o olhar na pedra, mas por mais que tentasse, nada parecia acontecer. Fechou os olhos, tentando se lembrar da sensação que sentiu com o copo flutuando, tentando recriar aquele momento. Mas ainda assim, a pedra permaneceu imóvel.
+Banjo passou o resto da tarde fazendo folhas flutuarem e pousarem de volta como se fossem penas. Às vezes uma voltava para o chão antes da hora e ele pedia desculpas, sem saber para quem.
 
-Velho-Sábio se aproximou, ficando de lado com um leve sorriso.
+Quando o cansaço bateu, bateu de uma vez só: os braços de Bruno latejavam, os joelhos de Breno tremiam, e o estômago de Banjo roncou tão alto que o desfiladeiro inteiro respondeu com um eco. Beatriz, que tinha se afastado para não queimar ninguém, ergueu as mãos para o teto, que agora imitava um céu estrelado, e fechou os olhos. Respirou fundo. Deixou o calor circular pelos braços até as palmas.
 
-— Às vezes, é no momento de perigo que o verdadeiro poder se revela — ele murmurou. 
+Uma chama pequena e firme acendeu nas mãos dela. Dançou por um segundo, tímida, e então subiu em direção às estrelas falsas, iluminando o rosto dos quatro. Não era a rajada descontrolada de antes, mas algo menor e inteiro, que ela tinha escolhido.
 
-Antes que Banjo pudesse entender o que ele queria dizer, Velho-Sábio levantou seu cajado, e uma chama suave, mas intensa, brotou na ponta, lançando uma luz quente que fez Banjo recuar por instinto. A tensão o tomou de surpresa, e uma onda de adrenalina percorreu seu corpo. De repente, ele sentiu uma energia pulsar, quase como um reflexo, e a pedra ergueu-se lentamente no ar, pairando entre ele e a chama.
+– Eu consegui – sussurrou. – Breninho, eu consegui!
 
-Banjo piscou, sem acreditar, enquanto a pedra flutuava diante de seus olhos. Velho-Sábio assentiu com aprovação.
+Ele, já com a pele de volta ao normal, a levantou do chão num abraço.
 
-— Você possui uma habilidade de telecinesia, Banjo. Sua ligação com os objetos ao redor é forte, especialmente em momentos de tensão.
+– Por hoje chega, garotos – disse Velho-Sábio, e a voz dele soou macia, quase paterna. – Vocês mostraram coragem e união, que é o que mais importa.
 
-Banjo olhou para ele, incrédulo, mas Velho-Sábio apenas deu um leve sorriso, deixando o mistério no ar.
 
-O treinamento continuou com intensidade, o tempo se arrastando entre tentativas e erros. Banjo se concentrou, praticando com objetos menores, como pequenas pedras e folhas, fazendo-os flutuar e depois abaixando-os lentamente. Cada vez que a energia fluía, ele se sentia mais confiante, embora o esforço começasse a cobrar seu preço. Suas mãos tremiam, e o cansaço era palpável, mas a determinação era ainda maior.
+O refeitório do Edifício ficava num salão redondo com janelas gigantes que davam para o céu. Em cada mesa, uma lamparina flutuava a um palmo da toalha, e a luz dela mudava de cor conforme as conversas. Havia travessas fumegantes de legumes assados com um molho que cheirava a laranja, pães de casca crocante e jarras de um suco turquesa, que Banjo provou desconfiado e depois pediu mais duas vezes. Eshley, Maria, Shirley e Emiris já estavam sentados, cercados de tiras de papel colorido e potes de cola dourada.
 
-Enquanto isso, Breno, ao lado, tentava alternar entre tangibilidade e resistência. Às vezes, seu corpo se tornava resistente como metal, brilhando como prata; outras vezes, ele se sentia leve, intangível, capaz de atravessar objetos. Contudo, o controle ainda era incerto, e ele acabava alternando entre os dois estados de forma abrupta, o que o deixava ainda mais exausto.
+– Que a luz te encontre, Bia! – disse Shirley, estendendo uma tira. – Vem ajudar!
 
-Bruno, por outro lado, continuava com dificuldades. Em uma tentativa de congelar uma pequena área de água no chão, acabou criando uma poça de gelo enorme que quase cobriu seus pés. O gelo se espalhou de forma descontrolada, e ele bufou, frustrado.
+– O que é isso? – perguntou Banjo, sentando-se e pegando um pedaço de papel que fazia cócegas nos dedos.
 
-— Qual é a dificuldade disso? Só um pouco de controle! — resmungou Bruno, enquanto Velho-Sábio se aproximava com um sorriso calmo.
+– Lanternas para o Festival das Luzes – explicou Eshley, dobrando uma com cuidado. – Daqui a umas semanas toda a cidade solta luzes no céu, uma de cada pessoa. A gente vai fazer as nossas na aula de artes. Cada lanterna sobe com um desejo, mas não pode contar o desejo para ninguém, senão ele não se realiza.
 
-— Bruno, controle leva tempo. Sinta a magia fluit. 
+– E o que acontece se alguém contar? – perguntou Bruno, que tinha acabado de chegar, mas ainda estava de olho em outra coisa.
 
-— Eu já to sentindo essa magia há horas. Meus braços estão todos doendo — ele resmungou com sarcasmo.
+– A luz cai, tonto – disse Shirley, rindo. – Uma vez o Denis contou o dele, e a lanterna caiu na cabeça do vizinho.
 
-Beatriz afastou-se um pouco dos irmãos para que não ferisse ninguém e ergueu as mãos para o alto, como se chamasse o céu estrelado para se juntar a ela. Concentrando-se, fechou os olhos e murmurou para si mesma, sentindo a energia circular por suas mãos, quente e viva. Foram alguns minutos tentando, até que finalmente uma pequena chama irrompesse de suas palmas, dançando delicadamente antes de disparar em direção ao céu. A chama subiu, iluminando suavemente o ambiente ao redor e refletindo no rosto surpreso e encantado de cada um dos irmãos.
+– Em compensação, o vizinho ficou famoso – acrescentou Maria.
 
-— Isso foi incrível, Bia! — disse Banjo, com um sorriso largo e animado.
+Beatriz, radiante, não conseguia ficar quieta.
 
-Beatriz, ainda rindo, virou-se para Breno, e sem hesitar, o abraçou forte, como se toda a felicidade e o orgulho precisassem ser compartilhados naquele instante.
+– Vocês não vão acreditar no que eu consegui! Uma chama de verdade! Pra cima!
 
-— Eu consegui, Breninho. EU CONSEGU! — ela murmurou, emocionada.
+– Sério? – Eshley arregalou os olhos. – Eu ainda estou em objetos pequenos. Nada de fogo.
 
-Breno retribuiu o abraço, sorrindo com um toque de orgulho no olhar.
+– Eu ainda não consegui mover nem uma brisa – confessou Maria. – Meu M.A. é o ar, mas ele não me escuta.
 
-Velho-Sábio, observando a cena com um sorriso satisfeito, cruzou os braços e anunciou em um tom sereno, mas caloroso:
+– Ele vai escutar – disse Banjo, com um sorriso. – Comigo foi assim. Hoje levantei uma pedra. Como se fosse normal as coisas voarem ao meu redor.
 
-— Por hoje, é o suficiente, garotos. Vocês mostraram progresso, coragem e, acima de tudo, união. Nosso treino está encerrado.
+Emiris sorriu, mas o sorriso parecia emprestado.
 
-Após o treino intenso, os irmãos desceram para o refeitório, onde encontraram seus colegas Eshley, Maria, Shirley e Emiris já sentados em uma das mesas, envolvidos em uma conversa animada. Beatriz, ainda radiante com o sucesso de sua habilidade recém-descoberta, não conseguiu conter sua empolgação.
+– Eu fiz luz na mão – falou. – Dizem que é difícil. Estou indo bem.
 
-— Vocês não vão acreditar no que eu consegui fazer! — disse Beatriz, se sentando e gesticulando com entusiasmo. — Eu consegui soltar uma chama de verdade! Tipo, uma chama de verdade mesmo, pra cima!
+Para provar, abriu a palma, e um ponto dourado, pequeno e firme, acendeu ali, como um vaga-lume obediente. Os olhos de Beatriz brilharam.
 
-Eshley, surpresa e admirada, sorriu.
+Bruno não viu nada disso. Tinha visto, pela janela do salão, uma capa escura virando no corredor.
 
-— Sério? Isso é incrível, Bia! Eu mal consigo imaginar como deve ser sentir esse tipo de energia. Meu treino foi muito mais básico — comentou, rindo. — Ainda estou na parte de controle de objetos pequenos. Nada tão emocionante quanto fogo!
 
-Maria assentiu, um pouco envergonhada.
+McCroys caminhava sem pressa, como quem sabe exatamente para onde vai. Bruno se levantou da mesa com uma desculpa qualquer e foi atrás, sem fazer barulho, encostando-se nas paredes.
 
-— É, eu também não fiz nada tão impressionante. Meu M.A. envolve o ar. Eu consigo mover o ar. Ou deveria… mas não estou tendo sucesso — ela olhou para Beatriz, meio que inspirada e um pouco intimidada.
+Os corredores ficavam mais vazios a cada esquina, e mais silenciosos. As lamparinas diminuíam, os quadros pareciam fechar os olhos. Bruno entrou numa passagem estreita e, de repente, percebeu que tinha perdido o homem de vista.
 
-Shirley riu, olhando para Banjo.
+Então ouviu uma voz baixa, que ele não esperava. Espiou pela quina.
 
-— E você, Banjo? Aposto que foi uma coisa legal também, né?
+No fim do corredor, McCroys estava de joelhos no chão de pedra. Diante dele, um menino pequeno, de uns oito anos, com o uniforme de aprendiz dos primeiros anos, soluçava segurando uma lanterna de papel rasgada ao meio. McCroys não disse nada. Pegou a lanterna, passou a ponta dos dedos pela rasgadura, e o papel se fechou sozinho, liso como novo. Depois ele tocou a ponta do papel, e uma luz minúscula, cor de mel, acendeu lá dentro.
 
-Banjo deu de ombros, mas um sorriso genuíno escapou.
+O menino fungou, sorriu e saiu correndo. McCroys continuou ajoelhado por um instante, olhando para a mão vazia, com um semblante que Bruno nunca tinha visto nele: cansado, quase triste.
 
-— Além de falar com os animais… parece que eu consigo fazer algumas coisas flutuarem. Hoje foi uma pedrinha, mas não sei como. É engraçado — ele deu uma risada. — Nunca achei que fosse tão… natural, sabe? Como se fosse normal as coisas voarem ao seu redor.
+Depois se levantou, alisou a capa, e disse sem se virar:
 
-Emiris assentiu, os olhos cheios de admiração.
+– Pode sair daí, rapaz.
 
-— Eu consegui fazer luz em minha mão — ele comentou, mas seu tom não parecia convincente, como se apenas quisesse comentar algo para se enturmar. — Dizem que não é algo fácil. To tendo bastante progresso. 
+Bruno congelou. Saiu devagar, com a nuca arrepiada.
 
-Beatriz o parabenizou, empolgada.
+– É de se perguntar – disse McCroys, e o rosto dele era o de sempre agora, frio, de meio sorriso cínico – o que faz um rapaz como você me seguindo pelos corredores. Algo em minha presença é tão intrigante assim?
 
-Enquanto a conversa sobre o treinamento fervilhava entre os colegas, Bruno notou William McCroys passando pelo corredor ao lado do refeitório. Havia algo de intimidante na figura do mago: sua expressão severa, o olhar cortante que parecia perscrutar cada canto ao redor, quase como se buscasse sinais de ameaça. Movido pela curiosidade e sem avisar ninguém, Bruno se levantou e, de maneira discreta, começou a segui-lo.
+– Eu só... estava...
 
-McCroys caminhava com passos firmes e calculados, desaparecendo nos corredores menos movimentados do prédio. Bruno fez o possível para não chamar atenção, mantendo-se a uma distância segura, mas a cada passo os corredores ficavam mais vazios, o ambiente mais silencioso, quase opressivo, até que ele percebeu que havia perdido McCroys de vista. O ar parecia pesar ao redor, e a sensação de isolamento cresceu, fazendo-o se sentir um tanto vulnerável.
+– Estava me espionando. – McCroys se aproximou, a voz baixa e controlada. – Sei reconhecer quando alguém não tem potencial para crescer e desperdiça tempo se metendo onde não deve. – Ele inclinou-se. – A Vigilância anda atenta aos dimensais, garoto. Alguns têm sido observados de perto. Atitudes suspeitas, como bisbilhotar o que os outros fazem, como fez com os meus aprendizes, podem fazer parecer que alguém está envolvido em práticas que preferimos manter sob estrito controle.
 
-Após algumas tentativas de refazer o caminho, Bruno virou uma esquina e quase deu um salto ao dar de cara com William McCroys, que o encarava com um meio sorriso cínico.
+Ele sabe que eu vi os gêmeos, pensou Bruno, e a espinha gelou.
 
-— É de se perguntar — McCroys disse, sua voz suave mas carregada de ironia — o que faz um rapaz como você me seguindo pelos corredores? Algo em minha presença é tão intrigante assim?
+– Cuidado – disse McCroys, endireitando-se. – A curiosidade é uma faca de dois gumes. Um conselho de quem entende as consequências de mexer com o que está além do próprio alcance.
 
-Bruno congelou por um momento, tentando disfarçar a apreensão que se formava em seu rosto. 
+Foi embora sem olhar para trás. Bruno ficou parado no corredor frio, com a cabeça cheia de perguntas. Qual era o rosto verdadeiro? O do homem de joelhos ou o da ameaça? Ele não sabia, e isso o incomodou mais do que a ameaça.
 
-— Ou talvez — McCroys continuou, a voz baixa e controlada — você ache que eu não percebo quando alguém tenta… espionar o que faço. Sei muito bem reconhecer quando alguém não possui o potencial para crescer e, em vez disso, desperdiça seu tempo se metendo onde não deve.
 
-Bruno sentiu um frio na espinha, mas manteve-se em silêncio. Ele percebeu que William falava com um tom estudado, como se cada palavra fosse calculada para transmitir o que desejava sem dizer diretamente o que pensava.
+Quando voltou ao refeitório, os amigos já tinham ido embora, restando só Beatriz, Banjo e Emiris, ainda cercados de papel dourado. Bruno se sentou ao lado da irmã e resumiu o que tinha visto, sem falar da lanterna: McCroys sabia dos gêmeos, tinha ameaçado, falava de consequências.
 
-— Deixe-me dizer algo, garoto — McCroys inclinou-se levemente para ele, sua voz baixa, quase um sussurro ameaçador. — A Vigilância está… bastante atenta em dimensais. Alguns — ele lançou um olhar afiado para Bruno — têm sido observados de perto. Atitudes suspeitas como as suas, bisbilhotando nos lugares errados, como fez com os gêmeos, podem dar a impressão de que alguém está envolvido em… práticas que preferimos manter sob estrito controle.
+– Magia negra é estritamente proibida – disse Emiris, assustado. – Tem certeza do que viu?
 
-Bruno engoliu em seco, com um pensamento pulsando em sua mente: Então ele sabe que eu vi os gêmeos usando magia negra. 
+– Uma fumaça escura, dias atrás. Eu sei o que vi. Falei com o Breno e ele acha que estou inventando.
 
-— Cuidado, rapaz — McCroys endireitou-se, o olhar sério e carregado de uma ameaça sutil. — A curiosidade é uma faca de dois gumes. Um conselho de alguém que entende bem as consequências de mexer com forças além do próprio alcance.
+– Meu pai trabalha na Vigilância – disse Emiris, baixando a voz. – Posso pedir que ele fique de olho no McCroys. Não custa tentar.
 
-Bruno não disse nada, tentando esconder o receio. William lançou-lhe um último olhar, avaliando-o de cima a baixo, antes de virar e continuar seu caminho pelos corredores, deixando Bruno parado, os pensamentos acelerados.
+Bruno assentiu. Olhou para os lados e continuou, devagar:
 
-Quando Bruno finalmente retornou ao refeitório, avistou Beatriz, Banjo e Emiris sentados juntos em uma mesa. Ele caminhou até eles, com a expressão ainda marcada pelo encontro com McCroys, e se sentou ao lado de Beatriz. Ela e Banjo perceberam imediatamente que algo o perturbava, mas antes que pudessem fazer perguntas, Bruno começou a falar.
+– E se ele estiver recrutando dimensais? Para alguma coisa maior. Talvez até a Patrulha de Korvo.
 
-— Eu acho que aquele McCroys… — ele parou, respirando fundo. — Eu acho que ele tá ensinando magia negra para os gêmeos. 
+O nome fez Beatriz empalidecer, e Banjo largou o papel que dobrava.
 
-— Magia negra? — perguntou Banjo, assustado. 
+– Se for isso – sussurrou Banjo –, a gente precisa contar ao Velho-Sábio.
 
-— Shh — Bruno pediu que falasse mais baixo — Eu vi eles mexendo com algo estranho ontem… uma substância escura, que parecia uma fumaça negra.
+– Ainda não. Preciso de provas.
 
-Beatriz arregalou os olhos, alarmada. 
+Ninguém disse mais nada por um momento. Na mesa ao lado, uma lanterna terminada subiu do tampo e ficou pairando acima deles, balançando como um balão preguiçoso, com a luz dourada acesa lá dentro.
 
-— Magia Negra é estritamente proibida — disse Emiris — tem certeza do que viu? 
+Banjo esticou a mão e a lanterna veio até ela.
 
-Bruno assentiu, nervoso. Banjo parecia curioso, mas ao mesmo tempo desconfiado.
+– Quem fez essa? – perguntou.
 
-— Precisamos falar com o Breno. 
-
-Bruno bufou, visivelmente frustrado.
-
-— Eu já tentei. Ele acha que eu tô inventando coisas. Mas eu sei o que vi. Aqueles gêmeos estão fazendo algo estranho, e McCroys com certeza tá envolvido. Eu o segui pelos corredores… as palavras que ele usou… algo como ele entender bem as consequências de mexer com algo além do próprio alcance. Algo como… magia negra. 
-
-Emiris inclinou-se para frente, preocupado.
-
-— Bom, meu pai é da Vigilância. Talvez eu consiga fazer com que ele fique de olho em McCroys. Não custa tentar, né?
-
-Bruno assentiu, pensativo. Ele olhou para os lados, como se procurasse alguma pista ou alguém observando, e então continuou:
-
-— E se… — Bruno começou, mas não sabia se continuava. Então, os olhares ansiosos dos irmãos o obrigaram a continuar — E se ele estiver recrutando dimensais. Talvez pra… sei lá… pra fazer parte de alguma coisa maior. Talvez até da Patrulha do Korvo.
-
-O nome de Korvo deixou Beatriz pálida.
-
-— Você acha que ele… que ele trabalha pro Korvo? — ela perguntou, nervosa. — E que ele tá tentando fazer a gente… ou outros dimensais… se aliar a ele?
-
-Bruno deu de ombros, embora a apreensão fosse visível em seu rosto.
-
-— Eu não sei. Mas, honestamente? Eu odeio dizer isso, mas talvez o Breno esteja certo em achar que aqui é perigoso pra gente. 
-
-
+Ninguém sabia. A lanterna ficou ali um instante, quente, quieta, e então subiu, subiu até o teto alto do refeitório, e se apagou sozinha.

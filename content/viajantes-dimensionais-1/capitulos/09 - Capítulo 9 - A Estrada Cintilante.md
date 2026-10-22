@@ -1,309 +1,245 @@
-Breno acordou com o corpo pesado e o coração acelerado, o pesadelo ainda impregnado em sua mente como uma sombra teimosa. O céu lá fora ainda estava escuro, e a casa silenciosa parecia amplificar a sensação de vazio. Ele sentiu um impulso de se levantar, como se andar pela casa o ajudasse a afastar o peso daquela lembrança perturbadora.
+O corredor de pedra úmida estava ali de novo, com o silêncio que engolia os passos e o frio que subia pelas pernas. No fim, a porta alta, a mão de metal, o crânio de olhos vazios. Dessa vez Breno não hesitou. Empurrou a madeira gelada, atravessou o campo de árvores mortas, debaixo do sol branco que não esquentava nada, e os corvos fugiram do jeito que fogem de uma tempestade.
 
-Ao chegar à cozinha, acendeu a luz e tomou um susto ao ver Velho-Sábio sentado à mesa, envolto em sombras suaves, uma xícara de chá nas mãos. O mago ergueu o olhar e sorriu levemente.
+A figura sem rosto esperava no meio do campo. Parada, pela primeira vez, a poucos passos dele. Breno sentiu os joelhos virarem água.
 
-— Está sem sono, Breno? — perguntou ele, num tom gentil que parecia acolher sem invadir.
+– Breno – disse a figura.
 
-Breno hesitou, sentindo uma ponta de constrangimento. Tentou um sorriso tímido, mas suas palavras saíram baixas, quase um sussurro.
+A voz era baixa e arrastada, e ele a conhecia. Não sabia de onde, mas conhecia, do jeito que se conhece o cheiro de uma casa antiga. Levantou os olhos, devagar, para o lugar onde deveria haver um rosto. Havia um capuz, e sob ele a curva de um queixo, e um brilho, uma coisa branca e fina que podia ser um sorriso, e...
 
-— Tive um pesadelo...
+Acordou com um arquejo, de olhos abertos para o teto escuro, onde as constelações dormiam em desenho de estrela comum. A casa estava em silêncio. Os irmãos respiravam fundo nas camas. Breno ficou um tempo ouvindo o próprio coração e, quando percebeu que não ia dormir, desceu.
 
-O mago assentiu com compreensão, como se as palavras de Breno não precisassem de mais explicações.
+A cozinha de Velho-Sábio era a parte da casa que ficava acordada de madrugada. Uma luz cor de mel vinha de uma lamparina em forma de pera, a chaleira cantarolava baixinho sobre o fogão apagado, e um pote de vidro na prateleira guardava um punhado de luzíria adormecida, que piscava devagar como quem sonha. Debaixo da mesa, o Coronel levantou uma orelha, olhou para Breno e voltou a dormir.
 
-— Antes pesadelos enquanto dorme, do que enquanto acordado, não? — murmurou Velho-Sábio, com um olhar pensativo.
+Velho-Sábio estava à mesa, de roupão de lã, com uma xícara fumegante entre as mãos e um livro aberto que ele não parecia ler. Ergueu o rosto e sorriu, sem se surpreender, como se tivesse ouvido a escada ranger antes mesmo de Breno descer.
 
-O comentário ficou ecoando no silêncio da cozinha, e Breno sentiu que a presença do Velho-Sábio lhe trazia um tipo de conforto difícil de explicar. Eles ficaram em silêncio, apenas o leve vapor do chá subindo entre eles. O mago o observou por mais alguns instantes, como quem tentava decifrar as sombras no olhar de Breno, até finalmente quebrar o silêncio.
+– Sem sono, Breno?
 
-— Breno… posso lhe fazer uma pergunta um pouco… indelicada?
+– Tive um pesadelo – disse ele, em voz baixa.
 
-Breno, já hesitante pela própria conversa, não soube exatamente o que responder. Ele assentiu devagar, com um misto de receio e curiosidade.
+Quase acrescentou "de novo", e a palavra ficou presa na garganta. Pensou em contar do corredor, da porta, da voz que dissera o seu nome. Mas, à luz da lamparina, com a chaleira cantarolando, tudo aquilo parecia pequeno demais para ser dito em voz alta, e grande demais para ser esquecido.
 
-Velho-Sábio olhou para ele com ternura e, com uma voz baixa e respeitosa, perguntou:
+O mago assentiu e empurrou uma segunda xícara na direção dele, que já estava cheia, como se a casa tivesse avisado. Cheirava a canela e hortelã.
 
-— Como seus pais morreram?
+– Antes pesadelos enquanto dorme do que enquanto acordado, não? – murmurou.
 
-Breno sentiu um aperto no peito. A pergunta, mesmo que feita com cuidado, trouxe de volta uma avalanche de sentimentos que ele vinha evitando. Precisava de um momento para organizar as palavras, para conseguir revisitar aquelas lembranças. Ficou um instante em silêncio, tentando reunir forças para falar.
+Breno se sentou, segurou a xícara com as duas mãos, e o calor foi subindo pelos braços. Ficaram um tempo em silêncio, ouvindo a chaleira. Velho-Sábio o observava de lado, com o jeito de quem tenta ler sombras num rosto.
 
-— Eu… eu não sei direito — começou, encarando o chão. — Aquela noite... eles disseram que iriam dar uma volta, juntos. Era algo que eles faziam de vez em quando. Eu sabia que gostavam de ficar ao ar livre, conversando, se desligando um pouco de tudo. Minha mãe estava sorrindo, como sempre. Meu pai… ele me olhou e disse pra cuidar dos meus irmãos.
+– Posso fazer uma pergunta indelicada?
 
-Breno fez uma pausa, a voz falhando por um instante. Ele continuou.
+Breno assentiu.
 
-— Eu brinquei, disse que eles sabiam se cuidar e que não precisavam de mim. — Ele riu sem humor, encarando o vazio. — Minha mãe riu, como se aquilo fosse só mais uma piada boba, e me deu um abraço. Foi o último.
+– Como seus pais morreram?
 
-Ele respirou fundo, tentando manter a voz firme.
+O aperto no peito veio de uma vez. Mas era madrugada, a cozinha era quente, e a pergunta tinha sido feita com tanto cuidado que Breno percebeu que podia responder.
 
-— Eles saíram, e nós subimos para o quarto para ir dormir. Era tarde. Só que naquela noite… eles não voltaram. Foi o Bruno que me acordou, de madrugada. Disse que tinha algo errado, que eles ainda não tinham voltado.
+– Eu não sei direito – começou, olhando o chá. – Naquela noite eles disseram que iam dar uma volta. Faziam isso de vez em quando. Minha mãe estava sorrindo, como sempre. Meu pai olhou pra mim e pediu pra eu cuidar dos meus irmãos. Eu brinquei. Disse que eles sabiam se cuidar e que não precisavam de mim. – Ele riu sem humor. – Minha mãe riu e me deu um abraço. Foi o último.
 
-Velho-Sábio assentiu, o olhar atento, respeitoso.
+A xícara tremeu um pouco. Velho-Sábio esperou.
 
-— Eu olhei pela janela e vi… luzes. Luzes vermelhas e azuis iluminando a rua, as janelas… uma cena que eu nunca pensei que fosse ver ali, na nossa casa. Eu saí, e, quando abri a porta, havia policiais do lado de fora. Dois corpos cobertos em macas... e eram eles. Os policiais disseram que os dois foram encontrados caídos na porta. Causa da morte? Infarto. Um em seguida do outro. Eu... eu não entendi como isso poderia ter acontecido. Ninguém entendeu.
+– Eles não voltaram. O Bruno me acordou de madrugada, dizendo que tinha algo errado. Pela janela eu vi luzes vermelhas e azuis na nossa rua. Quando abri a porta, havia dois corpos cobertos, em macas. Eram eles. Os policiais disseram que foi infarto, um logo depois do outro, na porta de casa. Ninguém entendeu. – Ele engoliu em seco. – Eu não deixei o Banjo e a Beatriz saírem do quarto. Mas eles souberam. E eu vi como eles choraram. Aquilo acabou comigo.
 
-As lágrimas começaram a escorrer, Breno tentou continuar, mas a voz falhou. Velho-Sábio esperou, respeitoso, até que Breno retomasse.
+As lágrimas vieram sem pedir licença. Velho-Sábio deixou que viessem. Pousou uma mão firme no ombro dele.
 
-— Banjo e Beatriz... não deixei que eles saíssem de casa. Eu sabia que… que aquilo podia ser perigoso para eles. Mas… quando souberam, eu vi… vi o jeito que eles ficaram. O jeito que eles choraram. Aquilo… aquilo acabou comigo.
+– Sinto muito, Breno. É mais do que qualquer um deveria carregar sozinho. Mas seus pais ficariam orgulhosos de quem vocês são. Sabe que força é essa que eu vejo em você? – Breno negou. – São seus irmãos. É por eles que você anda.
 
-Breno engoliu em seco, sentindo a dor que guardava há tanto tempo. Velho-Sábio, sem dizer nada, pousou uma mão firme e confortante em seu ombro.
+Breno sorriu, um sorriso molhado e torto.
 
-— Sinto muito, Breno. Essa dor… é mais do que qualquer um deveria carregar sozinho. Mas seus pais… eles estariam imensamente orgulhosos de quem vocês são. Eu vejo muita força em você. Uma força que não é só física ou mágica, mas que vem do coração. Sabe que força é essa?
+– Obrigado, Velho-Sábio.
 
-Breno negou com a cabeça, os olhos cheios de lágrimas.
+– Termine o chá. Ele ajuda a dormir.
 
-— Seus irmãos. Eles são o que lhe movem, Breno. Eles são sua força.
+Breno terminou, subiu a escada devagar e se deitou. Quando já estava quase dormindo, ouviu, lá embaixo, um estalo de cadeira e passos lentos de alguém que demorava a ir para a cama, e se sentiu menos sozinho.
 
-Breno assentiu, com os olhos ainda brilhando. Ele respirou fundo, secou as lágrimas e sorriu, ainda que fosse um sorriso triste.
 
-— Obrigado… Velho-Sábio.
+O café da manhã do primeiro desafio foi o mais silencioso desde que tinham chegado. A mesa estava posta como sempre, com pão quente, geleia de uma fruta que parecia pôr-do-sol, ovos mexidos que se desmanchavam em nuvem, mas ninguém tinha fome. Banjo empurrava um pedaço de pão de um lado para o outro do prato. Beatriz mordia a unha. Bruno bebia o suco com uma calma tão fingida que derramou metade na toalha.
 
-O mago acenou com a cabeça e o observou enquanto Breno se retirava, mais calmo, de volta ao quarto. Ao deitar-se, sua mente voltou àquele dia terrível. Aquele era o verdadeiro pesadelo que Breno tinha que encarar acordado todos os dias. 
+– Boa sorte nos desafios, irmãos Lins – disse a tela na parede, com a voz de Kali. – Pelas minhas estimativas, a chance de um de vocês cair de um dassi hoje é de quarenta e dois por cento.
 
+– Kali! – reclamou Beatriz.
 
+– Mas a sorte é um conceito que ainda não entendo – continuou ela. – Vocês dizem "boa sorte" como quem deseja uma coisa que não pode ser medida. Quero aprender a desejar assim. Boa sorte.
 
-Ao amanhecer, os irmãos acordaram com um misto de expectativa e nervosismo. Após um café da manhã rápido, seguiram até o Edifício Arcano, para realizar o primeiro desafio. O momento havia chegado, e o ambiente estava carregado de tensão.
+Houve um silêncio. Bruno ergueu os olhos para a tela.
 
-Ao chegar ao andar superior, os irmãos foram surpreendidos pela mudança dramática do cenário. Diferente dos ambientes mais naturais dos outros andares, este andar parecia ter sido projetado para lembrar uma estação de lançamento futurista. As paredes eram feitas de um material translúcido e refletiam diferentes tons de luz conforme mudavam de ângulo, como se estivessem imersas em uma aurora artificial. Linhas de néon azul e roxo cruzavam as paredes e o chão, formando uma espécie de mapa de rotas aéreas que pareciam pulsar com uma energia própria. O teto era alto e abobadado, projetado para parecer o céu estrelado, mas em vez de estrelas, eram pequenos pontos de luz que se moviam lentamente, criando uma sensação de espaço profundo e misterioso.
+– Obrigado, Kali – disse, sem sarcasmo, e ele mesmo pareceu surpreso.
 
-No centro do salão estavam dispostos dez dassis coloridos enfileirados, cada um mais impressionante que o outro. Os veículos flutuavam levemente acima do solo, suas bordas emitindo um brilho sutil que lembrava a textura do vidro, mas com uma aura pulsante que fazia parecer que eram feitos de pura energia. Eles tinham um design aerodinâmico, com contornos curvos e painéis luminosos ao longo das laterais, cada um mais reluzente que o outro.
+Velho-Sábio, na cabeceira, escondeu o sorriso na xícara.
 
-Ao redor dos dassis, uma grande quantidade de aprendizes já se reunia, incluindo rostos familiares como Eshley, Maria, e os gêmeos Erick e Nicolas, que pareciam se destacar por suas expressões de pura competitividade e tensão. Alguns outros colegas trocavam olhares nervosos, enquanto uns poucos, mais confiantes, verificavam suas vestimentas e equipamentos. Atrás de todos, os tutores e espectadores formavam um arco, acompanhando a cena com olhares atentos, e cada passo dos aprendizes reverberava no chão metálico, ecoando pela sala e aumentando a atmosfera de expectativa.
+O céu amanheceu limpo e azul, e as ruas de Tayo estavam cheias de gente com a cabeça para o alto. Pelo caminho, uma criança de patins flutuantes gritou "Boa sorte, dimensais!", e uma senhora da janela jogou um punhado de pétalas secas por cima do dassi deles.
 
-A iluminação ambiente era suave, mas poderosa, como se o próprio andar estivesse energizado pelo evento. Tudo no local indicava que aquele desafio não era apenas uma corrida, mas uma prova para medir o potencial de cada um deles.
+No último andar do Edifício Arcano, o salão tinha virado uma estação de lançamento. O teto era uma cúpula escura salpicada de luzes lentas, e linhas azuis e roxas corriam pelo chão como o mapa de uma estrada que só existia no ar. No centro, dez dassis de corrida esperavam em fila, versões achatadas e coloridas dos dassis prateados da cidade, com as bordas brilhando como vidro aceso.
 
-Bruno notou o olhar hostil dos gêmeos e retribuiu com um sorriso irônico, enquanto Breno observava tudo com atenção. Foi então que Garmand surgiu entre eles, impondo uma presença firme e carregada de expectativa.
+Os aprendizes formavam grupos ao redor deles. Eshley e Maria, os gêmeos Erick e Nicolas, Shirley, Denis, Emiris, Brenda, Dam e Yuri. Um pouco afastado, sozinho, um garoto alto e ruivo com um capacete debaixo do braço olhava os dassis como quem olha para um cavalo velho conhecido. Atrás de todos, os tutores e uma pequena multidão formavam um arco de olhares. Das sacadas laterais, vendedores de pipoca de nuvem erguiam cestas, e um cartaz flutuante anunciava, em letras que mudavam de cor, a "Grande Corrida dos Aprendizes: apostas abertas até o primeiro raio".
 
-— Bem-vindos ao primeiro desafio — anunciou Garmand, sua voz projetando-se pelo salão. — Hoje, vocês serão testados em coordenação e trabalho em equipe. — Ele fez uma pausa, lançando um olhar sério para cada grupo. — Esta prova envolve o uso de tecnologia. Vocês precisarão completar uma corrida de dassis, seguindo uma estrada de luz que se estende por dentro de Tayo.
+– Gente – sussurrou Eshley, apertando as mãos de Maria –, eu vou vomitar.
 
-Alguns dos aprendizes se entreolharam, intrigados. Uma corrida era bem diferente dos treinamentos de magia que estavam acostumados.
+– Vomita para o lado – aconselhou Shirley. – Os tutores estão de roupa nova.
 
-— Vocês vão competir com seus grupos — continuou Garmand. — Cada grupo será representado por seus respectivos tutores. Os dois últimos colocados serão eliminados. E se forem dimensais… voltarão para sua casa. 
+– Eu estou bem – disse Denis, o rosto verde. – Eu estou ótimo. Alguém sabe que o Ferris Cotton nunca perdeu uma corrida em Tayo? Dizem que o pai dele o treina desde os cinco anos, em segredo, num telhado de Neredis, de olhos vendados. Dizem que ele dorme em cima do dassi.
 
-Garmand olhou para os irmãos que trocaram olhares, sentindo a pressão aumentar. Logo, um tutor de pele escura, robusto e animado se aproximou, trazendo para eles as vestimentas de segurança para a corrida.
+– Dizem, dizem – resmungou Hudson. – Quem diz?
 
-— Pra quem não me conhece, me chamo Tango. Devo recomendá-los vestir a proteção, pessoal! — exclamou ele, entregando a cada um, um conjunto de trajes projetados para a velocidade. As roupas tinham um brilho metálico, mas eram incrivelmente leves, ajustando-se ao corpo com uma tecnologia que lembrava uma segunda pele. As cores variavam em tons metálicos de azul e prata, com detalhes em neon que brilhavam sutilmente. O capacete tinha um visor que se ajustava automaticamente, proporcionando uma visão nítida e permitindo ao usuário ver perfeitamente a estrada de luz nos céus. Os capacetes também eram equipados com um sistema de áudio, para comunicação durante a corrida.
+– Todo mundo! – respondeu Denis, ofendido.
 
-Assim que vestiram a proteção, os painéis frontais dos dassis se acenderam, e um vídeo começou a ser reproduzido em um holograma no visor de seus capacetes, com uma animação alegre e colorida. Uma voz doce e animada ecoou pelo visor, explicando as regras.
+– Bem-vindos ao primeiro desafio – anunciou Garmand, e a voz dele rolou pelo salão. – Hoje o teste é de coordenação e trabalho em equipe. Uma corrida de dassis por uma estrada de luz que atravessa Tayo. Magia é permitida, mas o dassi é o corpo de vocês, e vocês vão ter de pilotá-lo. Os dois últimos serão eliminados. E os dimensais eliminados... voltam para casa.
 
-— Para controlar o dassi, toquem na projeção de direção, que irá aparecer assim que se acomodarem nos assentos — dizia a voz no vídeo com uma doçura animada, enquanto um holograma mostrava a palma da mão repousando sobre um pequeno painel oval que parecia brilhar com um azul suave. — Esse é o Comando de Controle: basta pressionar suavemente para ativar o modo de condução.
+Os irmãos se entreolharam. Um homem robusto de pele escura, risada fácil e braços cheios de roupas brilhantes se aproximou deles.
 
-Ao tocarem o Comando de Controle, o volante holográfico surgiria diante deles, mas ao invés de girá-lo como um volante tradicional, o piloto precisava inclinar levemente a estrutura de controle para os lados, inclinando o corpo para a direita ou esquerda, como se estivesse deslizando. Quanto mais inclinado, mais acentuada a curva, dando uma sensação de voo ao invés de direção mecânica.
+– Pra quem não me conhece, sou o Tango! – disse ele. – Vistam a proteção, pessoal!
 
-— Para acelerar — continuava a voz, enquanto o vídeo mostrava um piloto empurrando os dois polegares para frente no painel —, basta pressionar para a frente com os polegares. Quanto mais força aplicarem, maior será a aceleração. Mas cuidado! O dassi responde de forma quase instantânea, então mantenham as mãos e o corpo firmes!
+As roupas eram leves como pensamento, prateadas e azuis, e se ajustavam ao corpo como uma segunda pele. Os capacetes tinham visores que mostravam a estrada e um pequeno holograma com uma animação sorridente, que explicou tudo em menos de um minuto: inclinar o corpo para virar, empurrar os polegares para acelerar, afastar as mãos para frear, puxar as alças para subir. Soltar o comando era queda livre. E o botão ao lado do assento fechava um cinto de luz.
 
-A frenagem também tinha seu próprio comando diferenciado: o vídeo mostrava um piloto afastando levemente as mãos do Comando de Controle, enquanto uma barra luminosa vermelha surgia nas bordas do volante holográfico.
+– Cinto? – perguntou Banjo.
 
-— Para desacelerar ou frear, basta afastar as mãos e pressionar suavemente a barra de desaceleração que aparecerá nos lados. E lembrem-se: os dassis não possuem freios bruscos como os veículos terrestres.
+– A gente andou em dassi a semana inteira sem cinto – murmurou Bruno.
 
-— Para subir, basta puxar levemente as alças laterais do Comando de Controle, localizadas logo abaixo de suas mãos — instruía a voz alegre. A animação mostrava o piloto segurando as laterais do volante holográfico e puxando-as para cima. — Ao fazer isso, o dassi começará a ganhar altitude, respondendo à intensidade do movimento. Quanto mais puxarem, mais rápido ele subirá!
+– Provavelmente o dassi segurava a gente por vontade própria – disse Breno, com uma risadinha nervosa.
 
-Para descer, o processo era inverso:
+Foi quando Beatriz, passando entre os espectadores, sentiu um olhar na nuca. Virou-se. Entre as pessoas, uma mulher pálida, de cabelos prateados e vestido preto, olhava para ela sem piscar, sem sorrir, sem desviar, e foi como se alguém lhe passasse um dedo gelado pela espinha. Beatriz piscou, e a mulher desapareceu entre os ombros da multidão.
 
-— Agora, para descer — continuou a voz —, empurrem suavemente as alças para baixo. A pressão e a inclinação farão com que o dassi comece a descer em um ângulo controlado.
+Eles se acomodaram no dassi vermelho. Breno assumiu o comando, ainda relutante. Bruno ia se sentar ao lado dele quando Beatriz entrou na frente.
 
-O vídeo também abordava como controlar quedas livres de maneira segura e suave, ideal para fazer manobras arriscadas, como descer rapidamente para alcançar ruas específicas:
+– Deixa que eu vou na frente. Lembra o que aconteceu da última vez que você encostou num volante?
 
-— Durante a corrida, se precisarem descer em queda livre, basta soltar completamente as mãos do Comando de Controle. Isso colocará o dassi em modo de queda, permitindo um descenso rápido. No entanto, para controlar e parar suavemente, toquem novamente no volante holográfico quando estiverem próximos ao nível desejado. O dassi estabilizará automaticamente e reduzirá a velocidade gradualmente até parar no ar, permitindo que vocês se realinhem à estrada de luz ou façam uma curva mais precisa.
+– Tudo bem – disse Bruno. – Mas se você congelar de medo aí, não reclama.
 
-O vídeo reforçava que essas manobras precisavam de prática e concentração:
+Banjo, no banco de trás, pulava de animação. As paredes do salão se abriram devagar, revelando um corredor de luz que serpenteava por Tayo e sumia no céu. A contagem regressiva começou, e os motores vibraram como feras presas a uma corda.
 
-— Lembrem-se, pilotos, que o modo de queda livre exige atenção! Sempre mantenham os olhos na estrada e estejam prontos para retomar o controle assim que atingirem a altitude desejada.
+Zero.
 
-Por fim, o cinto de segurança apareceu como um botão ao lado de cada assento, com uma instrução adicional para prender-se ao veículo. Ao toque, uma faixa luminosa surgia, envolvendo o piloto de forma confortável, mas firme, emitindo um leve sinal sonoro que indicava a segurança ativa.
+Todos dispararam. Menos o vermelho, que, por culpa de uma tremedeira nos polegares de Breno, deu um tranco para trás.
 
-— E o mais importante — concluiu a voz no vídeo, com um tom sério que contrastava com o tom divertido de antes —, mantenham-se na estrada de luz! Ela é sua rota segura. Desvios podem levar a colisões ou terrenos não autorizados. Boa sorte, pilotos!
+– BRENO! – gritaram três vozes.
 
-As imagens mostravam uma animação de um aprendiz apertando um botão ao lado do assento, ativando cintos que se prendiam automaticamente sobre o corpo.
+– Foi sem querer! – Ele corrigiu e jogou o dassi para frente.
 
-— Não se esqueçam de apertar o botão de segurança ao lado do assento! — continuou a voz alegre. — Ele garantirá que estejam firmemente protegidos durante a corrida. Os dassis são projetados para suportar impactos, então não se preocupem! Divirtam-se, e que vença o melhor grupo!
+Os dassis entraram em Tayo como flechas coloridas. Contornaram torres, mergulharam em descidas de embrulhar o estômago, cruzaram pontes de luz. Nas sacadas, a plateia sacudia lenços coloridos, e de um telhado-jardim subiu uma revoada de papagaios de papel que acompanhou a corrida por um quarteirão, rindo. Bruno, no banco de trás, fechou os olhos, sentiu o ar frio no rosto, com cheiro de ferro e chuva, e começou a antecipar as curvas antes de Breno. Banjo, grudado na janela, sussurrava para o dassi: "devagar na descida, aqui o vento muda", e o dassi, sem que ninguém soubesse como, obedecia. Cada curva abria uma paisagem nova, mas ninguém tinha tempo de olhar. À frente, o dassi amarelo de Eshley e Maria ziguezagueava, e uma rajada de gelo bateu na lateral dele, arremessando cristais pela pista.
 
-Ao final, a voz dava uma última recomendação:
+– Estão atacando! – gritou Bruno, vendo o dassi preto dos gêmeos, com Nicolas debruçado na janela e um sorriso de gelo no rosto. Ao lado dele, Erick já preparava chamas.
 
-— Com todas essas manobras à disposição, vocês têm o controle total do dassi. Façam bom uso e divirtam-se, mas mantenham-se atentos!
+– Alguém avisou que era corrida de sobrevivência?! – berrou Banjo.
 
-Os irmãos trocaram olhares surpresos; não tinham ideia de que deveriam usar cinto em todos os passeios de dassi que haviam feito até ali. Breno deu uma risadinha nervosa.
+A estrada de luz subiu, íngreme, e se enfiou numa tempestade. O mundo ficou escuro. Trovões estouravam como tambores, raios iluminavam a pista em lampejos, a chuva escorria no vidro. Breno desviava dos relâmpagos como podia, com a língua entre os dentes.
 
-Ao redor, outros espectadores se reuniam, incluindo Velho-Sábio, McCroys, e os demais tutores. O clima no local era de tensão e expectativa, com todos os olhares fixos nos jovens aprendizes.
+Atrás deles, o dassi roxo de Shirley, Denis e Hudson tremia como uma folha. Shirley estendeu a mão para fora, e um bando de pássaros brotou das nuvens, circulando o dassi como um escudo. Os gêmeos viram e lançaram fogo, e os pássaros se espalharam em penas e gritos.
 
-Enquanto caminhava na direção do dassi confiado a eles, o de cor vermelha, Beatriz percebeu algo estranho. No meio da multidão, uma mulher pálida, de expressão inabalável, o observava fixamente. Ela não desviava o olhar, e ela sentiu um calafrio percorrer sua espinha.
+– Sem querer ofender, mas isso é covardia! – disse Beatriz.
 
-Os irmãos acomodaram-se no dassi vermelho, ajustando rapidamente os cintos enquanto Tango dava as últimas instruções. Breno, ainda relutante, pegou o volante, e Bruno parecia pronto para sentar-se ao lado dele, mas foi interrompido.
+Mais adiante, o dassi azul de Emiris atravessava uma zona de raios. Emiris tentou invocar eletricidade para afastá-los, perdeu o controle, e um raio acertou a lateral do veículo, que despencou com as vozes se perdendo na tempestade. Banjo e Beatriz ficaram de boca aberta. Lá embaixo, uma rede de nuvem prateada brotou do nada e embalou o dassi azul, que balançou como uma rede de dormir. Nada de mais grave. Mas estava fora da corrida.
 
-— Deixa que eu fico na frente — pediu Beatriz, com um leve sorriso nervoso. — Lembram o que aconteceu da última vez que o Bruno encostou no volante?
+Breno guiou o dassi até a borda da tempestade, passando por vários que se perderam. Quando saíram das nuvens, a estrada voltou a descer em direção às ruas da cidade.
 
-Bruno bufou, mas cedeu o lugar.
+– Preparados para o mergulho? – gritou Bruno, com uma pontinha de medo na voz.
 
-— Tudo bem, mas se você for congelar de medo aí, não reclame — provocou.
+O dassi mergulhou entre os prédios. Eles passaram tão perto das janelas espelhadas que viram o próprio rosto esticado pela velocidade, depois cruzaram um portão de vidro, entraram num grande saguão de colunas e escadarias, e a pista virou uma série de rampas e curvas que se entrelaçavam como um cesto.
 
-Banjo, empolgado, murmurava para si mesmo no banco de trás, quase que pulando de animação, enquanto as luzes ao redor da pista começavam a brilhar intensamente. Ao fecharem as portas, as paredes da frente do prédio se abriram, revelando uma passagem iluminada por luzes de LED que serpenteavam pela cidade e, ao longe, desapareciam no céu.
+O dassi laranja apareceu ao lado deles. Dam, no volante, riu para os irmãos.
 
-A contagem regressiva começou. Os motores dos dassis ao redor vibravam de forma ameaçadora, como feras à espera de um comando. Quando a contagem chegou a zero, os veículos dispararam. Ou, quase todos.
+– Vão comer poeira!
 
-Breno, nervoso, acidentalmente colocou o dassi em marcha a ré, fazendo o veículo dar um tranco para trás. Os irmãos soltaram gritos de surpresa e indignação, e Breno rapidamente corrigiu o erro, jogando o dassi para a frente.
+Breno deu uma guinada e fechou a passagem no último segundo. Atrás deles, ouviu-se o estalo de fogo e gelo ao mesmo tempo. O dassi preto dos gêmeos vinha chegando, jogando explosões que ricocheteavam nas colunas, e os irmãos conseguiram desviar por pouco. Logo depois o dassi roxo surgiu, com o saguão cheio de pássaros que batiam nas janelas.
 
-— Isso! Agora sim! — gritou Banjo, tentando encorajar o irmão, enquanto o dassi vermelho avançava, alcançando a pista principal.
+– Aí, Banjo! Boa hora pra ser o rei das aves! – gritou Bruno.
 
-Assim que saíram do prédio, a estrada de luz levou-os direto para o coração da cidade de Tayo. Os dassis dispararam pelas ruas iluminadas, contornando os altos edifícios com curvas fechadas e mergulhando em descidas vertiginosas. Cada curva e subida trazia uma nova visão deslumbrante da cidade, mas não havia tempo para admirar o cenário. Breno segurava firme o volante, o olhar fixo à frente, enquanto os outros dassis se espalhavam pela pista, cada um tentando ganhar vantagem.
+– Xô, xô! – Banjo pôs os braços para fora e agitou-os, sem acreditar que fosse funcionar, e os pássaros, para a surpresa dele, abriram uma passagem e deixaram o dassi vermelho passar.
 
-À frente, o dassi amarelo de Eshley e Maria ziguezagueava pelo caminho, com Eshley tentando manter a direção enquanto Maria lutava para invocar uma barreira de vento em torno do veículo. Antes que pudessem estabilizar-se, uma rajada de gelo atravessou a lateral, arremessando cristais congelados no caminho deles.
+Depois do saguão veio uma descida íngreme, um salto em rampa de luz, e um túnel subterrâneo onde Breno errou a curva e o dassi deu um loop completo de 360 graus.
 
-— Eles estão atacando! — gritou Bruno, espiando pela janela e avistando os gêmeos Erick e Nicolas no dassi preto, com sorrisos ameaçadores enquanto preparavam a próxima ofensiva.
+– VAI MAIS DEVAGAR! – berrou Beatriz.
 
-Beatriz se encolheu instintivamente, e Banjo olhou ao redor, alarmado.
+– VAI MAIS RÁPIDO! – berrou Bruno.
 
-— Alguém devia ter avisado que ia ser uma corrida de sobrevivência! — ele gritou, segurando-se ao assento enquanto o dassi vermelho chacoalhava com a turbulência do percurso.
+Quando saíram do giro, o dassi vermelho derrapou, escorregou para fora da pista e ficou suspenso sobre o vazio. Beatriz cobriu os olhos. Banjo, com o coração na boca, ergueu as mãos e puxou, com toda a vontade, o dassi laranja de Yuri e Dam, que passava ao lado. Os dois veículos bateram de leve, como bolas de bilhar, e o impacto empurrou o vermelho de volta ao caminho.
 
-Mais à frente, a estrada de luz levava direto para uma subida íngreme que se perdia nas nuvens escuras acima. As luzes ao redor da pista refletiam na superfície escura das nuvens, criando uma espécie de corredor cintilante que parecia engolir os dassis à medida que avançavam.
+– Ei! – gritou Dam, de dentro do laranja.
 
-— Vamos pra dentro das nuvens? Não acredito nisso! — gritou Beatriz, os olhos arregalados enquanto observava a tempestade.
+– Valeu, Banjinho! – riu Beatriz, com o rosto ainda coberto.
 
-Assim que penetraram na escuridão, os trovões soaram como explosões, fazendo os veículos tremerem. Raios cortavam o céu, iluminando a pista de maneira irregular e assustadora. Gotas grossas de chuva começaram a bater no para-brisa, dificultando a visão.
+O dassi branco de Brenda surgiu na frente deles e uma névoa espessa cobriu o para-brisa de Breno.
 
-— Segurem firme! — Breno gritou, lutando para manter o controle enquanto o dassi era sacudido violentamente. Ele ajustou a direção, desviando dos relâmpagos que pareciam surgir a cada instante.
+– Não consigo ver nada!
 
-Atrás deles, o dassi roxo com Shirley, Denis e Hudson lutava para se manter na pista, sendo sacudido como uma folha de papel na tempestade. Shirley, concentrada, estendeu as mãos para fora da janela, invocando um enxame de pássaros que surgiram das nuvens, circundando o dassi e criando uma espécie de proteção. No entanto, ao ver o enxame, os gêmeos no dassi preto dispararam chamas contra eles, fazendo os pássaros se dispersarem e o dassi roxo perder o equilíbrio.
+– Vai pra direita! Agora esquerda! – gritou Bruno, guiando-o de olhos fechados, só pelo palpite.
 
-Mais adiante, o dassi azul atravessou uma zona de raios. Os irmãos puderam ver Emiris em seu interior. Em meio a uma tentativa desesperada de invocar eletricidade para afastar os relâmpagos, Emiris perdeu o controle, e um raio atingiu a lateral do dassi, que começou a despencar em queda livre gritando, a voz deles se perdendo na tempestade. Breno desviou para a esquerda, tentando não olhar, mas Banjo e Beatriz ficaram boquiabertos com a visão.
+Quando a névoa passou, estavam de volta à superfície, e a linha de chegada brilhava ao longe. O dassi verde disparava em primeiro. O branco de Brenda ficava em segundo, depois o preto dos gêmeos. O vermelho vinha logo atrás.
 
-— A gente vai cair desse jeito! — exclamou Banjo, aterrorizado.
+– Não vamos perder pra esses dois – rosnou Bruno.
 
-Com um esforço imenso, Breno guiou o dassi até o limite da tempestade, conseguindo ultrapassar a maioria dos outros dassis que se perderam em meio às nuvens escuras. Assim que saíram das nuvens, a estrada de luz voltou a guiá-los, agora os levando para baixo, em direção às ruas da cidade novamente. Mas o caos estava longe de terminar.
+– Acelera, Breno! – gritou Banjo.
 
-— Preparados para o mergulho? — gritou Bruno, tentando soar destemido, mas com uma pontinha de receio. Eles inclinaram-se, descendo com velocidade em direção à cidade, e a adrenalina tomava conta de todos.
+Eles se aproximaram do dassi preto, e Erick lançou uma saraivada de bolas de fogo que formou uma cortina incandescente na frente deles. O calor encheu a cabine. Banjo tapou o rosto com o braço.
 
-Assim que o dassi vermelho começou a descer em alta velocidade em direção à cidade, os irmãos sentiram um frio na barriga, mergulhando direto para as rotas estreitas atrás dos prédios. A pista de luz cintilante os guiava por curvas impossíveis, e Breno, com as mãos firmes no volante, tentava manter o controle. Mas cada curva fechada os jogava para um lado, fazendo o veículo deslizar perigosamente.
+– Desse jeito a gente perde!
 
-Eles passaram tão perto das janelas espelhadas dos prédios que podiam ver seus próprios reflexos esvoaçando enquanto deslizavam. Em um dado momento, a pista de luz se dividiu, os forçando a entrar em um edifício pelas portas automáticas de vidro. Lá dentro, a trilha de LEDs os conduziu para uma área ampla com colunas brilhantes e escadarias largas. As luzes piscavam no chão, indicando a direção para uma série de rampas e curvas que se entrelaçavam como uma pista de obstáculos.
+– Não – sussurrou Beatriz.
 
-— Isso está ficando cada vez mais louco! — gritou Bruno, segurando-se enquanto Breno fazia uma curva apertada para desviar de uma escadaria.
+Ela esticou as mãos para o vidro. Sentiu o calor responder, aquele estalo de brasa que já conhecia, e o cheiro de pão queimado encheu a cabine. As bolas de fogo hesitaram no ar. Então elas giraram, devagar, como se Beatriz as convidasse a dançar, e voltaram na direção dos gêmeos, só que agora azuis, intensas, tão quentes que o ar ficou torto à volta delas.
 
-O dassi laranja apareceu de repente ao lado deles avançando com uma tentativa audaciosa de ultrapassá-los pela lateral estreita do corredor. Dam, que dirigia o carro acompanhado de Yuri, com um sorriso provocador, virou-se para eles e gritou:
+O dassi preto girou descontrolado, e os gêmeos perderam o rumo. O vermelho passou voando, e o dassi branco de Brenda, que se desviava do fogo azul, derrapou, rodou e ficou para trás, soltando fumaça.
 
-— Vocês vão comer poeira!
+– Beatriz! – gritou Banjo. – Você viu o que fez?!
 
-Breno apertou os olhos, determinado. Com um movimento habilidoso, ele deu uma guinada no volante, conseguindo bloquear a passagem de Dam no último segundo. Mas a alegria foi interrompida quando, atrás deles, ouviram o som ameaçador de fogo e gelo sendo conjurados ao mesmo tempo.
+– Eu... não faço ideia! – ela respondeu, rindo e chorando ao mesmo tempo.
 
-— Ah, não… os gêmeos! — exclamou Banjo, virando-se e vendo o dassi preto vindo na direção deles, com Erick e Nicolas jogando uma combinação de gelo e chamas que ricocheteavam nas paredes, criando obstáculos perigosos na pista.
+Agora só faltava o verde de Ferris, longe na frente, e o preto dos gêmeos, que se recuperava e fechava o caminho. Breno encarou o dassi de Erick e Nicolas, que balançava a poucos metros.
 
-Eles conseguiram desviar por pouco das explosões, mas os gêmeos usaram o caos para ultrapassá-los, passando por eles com sorrisos vitoriosos. Logo atrás, Shirley, Denis e Hudson no dassi roxo surgiram com um enxame de pássaros invocado por Shirley, que preenchia o corredor e dificultava a visão dos competidores.
+– Eu tenho uma ideia – disse. – Mas precisamos de sorte.
 
-— Aí Banjo, era uma boa hora pra você dar uma de Aquaman das aves — disse Bruno. 
+Ele deixou a magia fluir, sentiu o zumbido grave subir no peito, acelerou e bateu de frente no dassi preto. O vermelho passou direto pelo veículo, atravessou o metal, a luz, os dois garotos de olhos esbugalhados, e saiu do outro lado.
 
-— Segurem-se! — gritou Breno, passando com dificuldade por entre o enxame. Banjo e Beatriz gritavam, enquanto os pássaros esvoaçavam ao redor das janelas, batendo com força.
+– AÍ, APRENDAM ISSO! – berrou Beatriz, sacudindo o punho pela janela.
 
-— Sho, sho — Banjo disse, colocando os braços para fora tentando afugentar as aves. Não sabia muito bem se elas obedeceriam, mas era o que podia fazer naquele momento. 
+Bruno uivou de alegria. Eles cruzaram a linha de chegada em segundo lugar, com o dassi preto logo atrás, rodando em círculos, e se jogaram para fora do veículo, rindo, abraçados, trêmulos.
 
-Quando finalmente saíram do edifício, a pista de luz os conduziu em uma descida vertiginosa que dava para as ruas movimentadas da cidade, mergulhando novamente entre os prédios. O dassi derrapou nas curvas fechadas, e Breno teve que desviar rapidamente dos carros que ainda circulavam na rua, o que fez os irmãos segurarem a respiração. Eles saltaram sobre uma rampa de luz, ganhando uma vantagem momentânea, mas logo foram alcançados novamente pelos competidores.
+Do dassi verde desceu o garoto ruivo do capacete. Estava sozinho, sem equipe, e não parecia surpreso com a própria vitória.
 
-A pista então mudou abruptamente, direcionando-os para um túnel subterrâneo. Breno seguiu os LEDs, mas em uma curva fechada, ele girou o volante com força demais, fazendo o dassi girar em um loop de 360 graus que deixou todos atordoados gritando em desespero.
+– Quem é ele? – sussurrou Beatriz.
 
-— Breno! VAI MAIS DEVAGAR — gritou Beatriz, as mãos segurando a janela, enquanto o dassi terminava o loop e voltava ao caminho certo.
+– Não sei – respondeu Banjo, ainda ofegante. – Mas deve ser bom.
 
-— VAI MAIS RÁPIDO! — disse Bruno ao olhar que dois dassis pareciam o alcançar. 
+Velho-Sábio se aproximou, orgulhoso, com o Coronel trotando ao lado dele, que ninguém tinha visto entrar. O cachorro foi direto em Banjo e lambeu a mão dele da ponta dos dedos ao cotovelo.
 
-Ao saírem do giro, eles avistaram a luz dos outros veículos piscando à frente. O dassi amarelo de Eshley e Maria estava a poucos metros, com Maria tentando desesperadamente criar uma barreira de ar para se proteger dos gêmeos, que agora lançavam ataques diretos com bolas de gelo que ricocheteavam nas paredes estreitas, até que um deles os atingisse. O dassi vermelho derrapou, deslizando perigosamente para fora da pista.
+– Vocês foram magníficos! – disse o mago, e deu um tapinha nas costas de Breno, que sorriu com o resto da adrenalina. – Quatro pilotos em um volante só e nenhum arranhão. Isso é coordenação.
 
-— Ai, não! — gritou Beatriz, cobrindo os olhos ao ver o chão distante lá embaixo.
+– A gente quase morreu quatro vezes – disse Beatriz.
 
-Foi então que Banjo teve uma ideia desesperada. Ele concentrou toda a sua energia e, com um movimento decidido, ergueu as mãos, puxando o dassi laranja de Yuri e Dam para perto deles. Usando sua telecinese, ele manobrou o carro adversário para estabilizar o próprio dassi e trazê-los de volta ao percurso.
+– E não morreu nenhuma – respondeu Tango, passando e bagunçando o cabelo dela. – Boa, pequena! Aquele fogo azul foi coisa de mestre.
 
-— Boa Banjinho! — gritou Beatriz, rindo de nervoso.
+Beatriz ficou do tamanho de um dassi. Banjo cutucou Bruno com o cotovelo:
 
-— Qual o objetivo desses caras? Ganhar a corrida ou derrubar o maior número de participantes? — indagou Bruno. 
+– Você viu a cara dos gêmeos quando o Breno atravessou eles?
 
-Eles passaram por mais alguns corredores subterrâneos, desviando de tubos de vapor e passagens estreitas. Em uma curva crítica, o dassi branco de Brenda surgiu à frente deles. Brenda usou sua habilidade de magia para conjurar uma névoa que cobriu o para-brisa do dassi vermelho, dificultando a visão de Breno.
+– Vi. – Bruno sorriu para o chão. – Vou lembrar disso quando tiver um dia ruim.
 
-— Não consigo ver nada! — exclamou Breno, tentando limpar o vidro, mas sem sucesso.
+Logo atrás dele, William McCroys observava os irmãos com a frieza de sempre.
 
-Banjo estendeu a mão, tentando abrir a janela para desfazer a névoa, mas era inútil. Beatriz tapava os olhos, e Bruno tentava guiar Breno:
+– Segundo lugar – disse, seco. – Uma colocação decente.
 
-— Vai pra direita! Agora esquerda! Cuidado, não sai da pista!
+Bruno olhou feio para ele, e foi quando percebeu, no dedo do homem, um anel negro e chamativo, que parecia sugar a luz à volta.
 
-Quando finalmente saíram da névoa, já estavam de volta à superfície. A pista agora os levava em direção ao horizonte, onde o prédio de partida surgia ao longe. Eles podiam ver a linha de chegada e os dassis que estavam à frente. O dassi verde estava em primeiro, Brenda em segundo, os gêmeos em terceiro eles logo atrás, em quarto.
 
-— Não vamos perder para esses dois — murmurou Bruno. 
+No refeitório, a empolgação ainda corria solta. Eshley e Maria vieram com os olhos brilhando.
 
-— Vamos, Breno! — gritou Banjo, os olhos brilhando de adrenalina. — Acelera!
+– Vocês viram quem venceu? – perguntou Beatriz, puxando uma cadeira.
 
-Breno acelerou o máximo que pôde, sentindo o motor rugir em resposta. As luzes da cidade passavam em um borrão ao redor, e ele fixou o olhar na pista à frente. No dassi preto, os gêmeos Erick e Nicolas trocavam sorrisos maliciosos ao verem a aproximação dos irmãos. Em um movimento súbito, Nicolas estendeu a mão para fora e invocou uma bola de fogo intensa, que zuniu em direção ao dassi vermelho.
+– O Ferris Cotton – disse Eshley. – Um dos doze filhos de Pierre Cotton, o senavelita mais forte vivo.
 
-— Fogo! — alertou Bruno, enquanto uma rajada de chamas explodia contra o para-brisa, preenchendo a cabine com um brilho intenso e calor sufocante.
+– Ele é bom mesmo – disse Maria. – A gente o viu criar uma bolsa de ar dentro da tempestade e atravessar tudo.
 
-Breno tentou manter o controle, mas os gêmeos continuaram a lançar uma sequência de bolas de fogo, que se acumulavam como uma cortina incandescente à frente deles, quase impedindo a visão.
+– Eu avisei – disse Denis, aparecendo com uma bandeja e puxando uma cadeira sem pedir. – Mas o melhor vocês não sabem. Agora há pouco vi o pai do Emiris no corredor, aquele de uniforme da Vigilância, falando com o Garmand em voz baixa. Saiu de lá com uma cara de pedra. Eu acho que...
 
-— Desse jeito, vamos perder! — exclamou Banjo, desesperado, tapando o rosto com o braço para se proteger do calor.
+– Denis – cortou Eshley.
 
-Bruno xingou baixo, tentando enxergar entre as chamas. Mas antes que pudessem perder a esperança, Beatriz respirou fundo:
+– Eu só estou dizendo!
 
-— Não… não vamos perder! — ela murmurou para si mesma.
+Bruno olhou ao redor e franziu a testa.
 
-Com uma concentração que jamais sentira antes, ela estendeu as mãos para o vidro, e, ao fazê-lo, as últimas bolas de fogo atiradas contra eles pareceram hesitar por um segundo. Beatriz fechou os olhos, como se estivesse conectada ao calor, e de repente, a energia mudou. As chamas começaram a girar e, com um movimento suave das mãos, ela as direcionou de volta para o dassi preto dos gêmeos, mas dessa vez como uma chama azul, intensa e feroz.
+– Cadê o Emiris?
 
-A bola de fogo azul cortou o ar com uma força incontrolável, colidindo contra o carro dos gêmeos, que tentaram em vão desviar. O impacto fez o dassi preto girar descontroladamente, e eles quase perderam o controle. A manobra os deixou atordoados, e os irmãos aproveitaram para ultrapassá-los, agora em terceiro lugar.
+As duas trocaram um olhar.
 
-Logo à frente, o dassi branco de Brenda continuava, mas com dificuldade. Os gêmeos, irritados por terem sido atacados, lançaram uma última rajada de fogo em sua direção. Brenda tentou desviar, mas o fogo a atingiu na lateral do carro, fazendo-o balançar. Ela perdeu o controle, e o dassi branco ficou para trás, deixando uma fumaça densa enquanto os irmãos a ultrapassavam.
+– Caíram na tempestade – disse Maria, baixinho. – Foram eliminados, ele e o parceiro. O parceiro volta pra terceira dimensão amanhã, pelo que o Leon disse. Já o Emiris é daqui, então só volta pra casa.
 
-— Não… — murmurou Bruno, com um misto de surpresa e apreensão.
+– Ele nem teve chance – murmurou Eshley. – Mas é assim que funciona.
 
-Agora, só restavam Ferris, disparado em primeiro no dassi verde, e os gêmeos em segundo, seguidos de perto pelos irmãos em terceiro. A pista de luz os guiava para a linha de chegada, e Breno, determinado a garantir sua posição, acelerou ainda mais, com os outros agarrados ao que podiam dentro do dassi.
-
-— Estamos quase lá! — gritou Bruno, mas a voz dele era abafada pelo rugido do motor e a pressão do vento. Eles tentavam ultrapassar o dassi dos gêmeos, mas eles fechavam o caminho. 
-
-— Não vamos conseguir passar deles! — disse Beatriz, frustrada.
-
-— Eu tenho uma ideia… mas vamos precisar de um pouco de sorte — murmurou Breno, com um brilho nos olhos.
-
-Quando se aproximaram do dassi dos gêmeos, ele se concentrou e buscou deixar a magia fluir por si. Então acelerou em direção ao dassi dos gêmeos e ao tocá-los… o dassi vermelho dos irmãos passou diretamente pelo veículo, os atravessando, deixando-os para trás com expressões chocadas.
-
-— Ei! Aprendam isso, babacas! — gritou Beatriz contente, provocando-os.
-
-Bruno riu de alegria e eles cruzaram a linha de chegada em segundo lugar, exaustos, mas vitoriosos, com o dassi preto dos gêmeos logo atrás. 
-
-Assim que o dassi parou, todos se abraçaram, contentes e animados. Quando saíram dos veículos, Breno notou um garoto alto e ruivo saindo do dassi verde à frente deles, o único competidor que havia os ultrapassado. Estava sozinho, sem equipe, e não parecia surpreso com sua vitória.
-
-Beatriz olhou para ele, impressionada.
-
-— Quem será ele? — perguntou, quase em um sussurro.
-
-Banjo, ainda recuperando o fôlego, respondeu:
-
-— Não sei… mas ele deve ser bom.
-
-Enquanto os irmãos comemoravam com abraços e risadas, a energia entre eles era contagiante. Velho-Sábio se aproximou com um sorriso orgulhoso, fazendo um leve aceno de cabeça.
-
-— Vocês foram magníficos, garotos. Parabéns! — disse ele, a voz cheia de orgulho, e deu um tapinha encorajador nas costas de Breno, que sorriu, ainda com a adrenalina correndo.
-
-Logo atrás dele, William McCroys surgiu, observando-os com a costumeira expressão séria. Ele fez um breve aceno com a cabeça, parabenizando-os com uma frieza que contrastava com o entusiasmo ao redor.
-
-— Terceiro lugar… uma colocação decente. — disse ele secamente, sem qualquer sorriso.
-
-olhou feio para o homem e notou de relance um anel negro e chamativo no dedo dele. 
-
-
-
-No refeitório, a empolgação do momento continuava, e não demorou muito para que Eshley e Maria se aproximassem deles, com olhares brilhantes.
-
-— Vocês viram quem venceu? — perguntou Beatriz, quase sem fôlego, enquanto puxava uma cadeira ao lado de Eshley e Maria.
-
-— Aquele ruivo… Ferris, certo? — respondeu Maria.
-
-Eshley assentiu, visivelmente impressionada.
-
-— Sim, o próprio Ferris Cotton. — Ela pausou, como se o nome já explicasse tudo, mas diante do silêncio curioso dos irmãos, continuou. — Ele é um dos doze filhos de Pierre Cotton, o senavelita mais forte vivo atualmente.
-
-Beatriz arregalou os olhos, claramente impactada pela informação.
-
-— Ele é realmente bom. Quero dizer, um bom motorista. Não sei se é bom de magia — comentou, ainda tentando entender a magnitude do que tinha acabado de ouvir.
-
-— Ah ele é. A gente o viu criar uma bolsa de ar dentro da tempestade, e cruzá-la inteira — disse Eshley. 
-
-No entanto, Bruno olhou ao redor e notou uma ausência. Ele franziu a testa, confuso.
-
-— Onde está o Emiris?
-
-Maria trocou um olhar com Eshley antes de responder, o semblante um pouco triste.
-
-— Eles caíram na tempestade… foram eliminados. O parceiro dele volta para a terceira dimensão amanhã, pelo que Leon nos disse. Já Emiris… bom, ele é daqui, então só deve voltar pra casa — disse Maria, balançando a cabeça.
-
-— Ele não teve muita chance… — murmurou Eshley. — Mas é assim que funciona.
-
-A notícia caiu como um peso sobre a mesa. Beatriz baixou os olhos, um pouco desapontada, enquanto Banjo suspirava, parecendo perceber naquele momento que esses desafios ditariam o destino deles em Belfex. 
-
-
+A mesa ficou quieta. Beatriz baixou os olhos, e Banjo suspirou, entendendo, de repente, que aquilo não era só uma brincadeira de dassi. Os desafios decidiam quem ficava em Belfex e quem não ficava, e a ideia de perder aquele lugar pesou nele como um bloco.

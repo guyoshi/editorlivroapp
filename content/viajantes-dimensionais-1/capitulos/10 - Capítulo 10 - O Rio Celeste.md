@@ -1,507 +1,285 @@
-Quando saíram do prédio, Velho-Sábio e os irmãos caminharam em direção à saída, prontos para voltar para casa. Mas ao chegarem à porta, foram surpreendidos por uma figura rígida e imponente, esperando por eles. Erla, a édion da Vigilância, estava acompanhada de Gary e outros vigilantes, todos em posição séria e alerta. Seus olhares eram avaliativos, frios, e nada simpáticos. A expressão de Velho-Sábio fechou-se ao ver a mulher à frente deles, o cenho franzido em clara desconfiança.
+Na manhã seguinte à corrida, quando saíram do Edifício Arcano, os irmãos e Velho-Sábio encontraram a saída bloqueada por uma figura rígida e imponente. Erla Diggs, édion da Vigilância, esperava com os braços cruzados, ladeada por Gary e por outros vigilantes de uniforme cinza. O olhar dela passeou pelos quatro como uma régua.
 
-— Boa tarde, Auream — começou Erla, cruzando os braços, os olhos penetrantes pousando em cada um dos irmãos. — Precisamos revistar os dimensais.
+– Bom dia, Auream. Precisamos revistar os dimensais.
 
-Velho-Sábio ergueu uma sobrancelha, sua expressão se tornando mais sombria, mas ele manteve a compostura.
+O rosto de Velho-Sábio se fechou.
 
-— Revistá-los? O que está acontecendo aqui, Erla? — Sua voz era firme, mas com um toque de irritação.
+– Revistá-los? Por quê?
 
-Erla manteve-se impassível, mas não respondeu imediatamente. Em vez disso, acenou para Gary, que deu um passo à frente, dirigindo-se aos irmãos com uma expressão profissional.
+– Na noite passada alguém invadiu os fundos da Central. – Erla fez uma pausa, deixando a frase pairar. – Nada foi roubado. Mas um anel foi encontrado na cena, um anel que não é daqui. Veio da terceira dimensão.
 
-— Estou revistando todos os dimensais porque ontem à noite houve um incidente. — Ela fez uma pausa, deixando as palavras pairarem no ar. — Alguém invadiu os fundos da central da Vigilância. 
+Beatriz e Banjo se entreolharam. Bruno sustentou o olhar da édion, desafiador, e ela notou, e não se abalou.
 
-Os irmãos se entreolharam, apreensivos. Velho-Sábio cruzou os braços, observando Erla com uma mistura de irritação e ceticismo.
+– Um anel – repetiu Velho-Sábio. – E a senhora acha que é de um dos meus aprendizes? Eles passaram a noite em casa, sob os meus olhos. E, nos últimos dias, sob os olhos dos seus próprios agentes.
 
-— Invadiram a central? — indagou ele, em tom incrédulo. — Posso perguntar quando exatamente aconteceu essa invasão? E o que foi levado? Porque, se não me engano, meus aprendizes estavam sob a vigilância constante de seus agentes, o que, sem dúvida, pode ser comprovado.
+Gary desviou o olhar. Erla se aproximou do mago, até ficar muito perto.
 
-O toque de ironia em sua voz era sutil, mas cortante. Gary, ao ouvir a indireta, desviou o olhar, mas Erla manteve a compostura, embora seu olhar tenha endurecido ainda mais.
+– Se está defendendo-os e eles cometeram um crime, torna-se cúmplice.
 
-— Nada foi roubado— respondeu ela, o tom controlado. — Não parecia haver intenção de roubo. — Ela pausou, observando cada um dos garotos com olhos críticos. — Talvez o invasor tenha deixado algo. Um sinal. Ou procurado por uma informação específica. Quem poderia saber?
+Velho-Sábio não respondeu. Manteve o olhar sereno, e foi o silêncio dele que pesou mais.
 
-Beatriz e Banjo trocaram olhares preocupados, mas Bruno não desviou o olhar, fitando Erla desafiadoramente. Ela percebeu, mas não se abalou, e continuou:
+– Podem ir – disse Erla, afinal, com um aceno seco. – Mas se algo sair do controle, Auream, eu saberei.
 
-— Durante a invasão, um anel foi encontrado na cena. Um anel que não pertence daqui. Ele foi trazido da 3ª dimensão. 
+No caminho até o ponto do dassi, a rua parecia mais longa do que de costume. Foi Breno quem rompeu o silêncio.
 
-Velho-Sábio bufou, visivelmente exasperado, mas manteve o tom controlado.
+– O que foi aquilo, Velho-Sábio?
 
-— Um anel? — ele perguntou, curioso. 
+– O que eu temo há tempos. A situação dos dimensais só piora. – O mago suspirou. – Me intriga como alguém entrou na Central. Desde que a presália foi lacrada, há mais de vinte anos, a segurança de lá só aumentou.
 
-— Um anel que pode pertencer a um dimensal. Talvez um dos seus — disse Erla. 
+– Presália? – perguntou Beatriz.
 
-— Se está insinuando que meus aprendizes estão envolvidos… além de serem inocentes, eu os mantenho sob constante supervisão. Não há qualquer indício de que estivessem ausentes do treinamento, nem que tenham deixado o prédio.
+– Uma prisão secreta sob a Central, nos túneis antigos. Foi fechada. Hoje os prisioneiros vão para a Santaguarda, ao sul de Tayo. – Ele olhou para o horizonte. – O medo faz as pessoas tomarem decisões cruéis, Beatriz. E confiar exige coragem. Erla, por exemplo, não confia em ninguém. Mas, se ainda existe decência na Vigilância, é em parte por causa dela.
 
-Erla estreitou os olhos e caminhou até estar bem próxima do mago. 
+– E se ela mudar de lado? – perguntou Bruno.
 
-— Sabe que se estiver defendendo-os e eles cometeram um crime… torna-se cúmplice — disse ela em tom misto entre ameaça. 
+– Então a gente vai observar e compreender antes de julgar. É isso que a prudência faz. – Velho-Sábio sorriu, cansado. – Vamos para casa. Eu prometi um almoço.
 
-Velho-Sábio não respondeu. Manteve-se parado, o olhar sereno. 
+Em casa, Bruno e Banjo tiraram os sapatos no quarto, ainda calados. O cheiro de especiarias e legumes cozidos subia da cozinha, com o som de panelas e risadas de Beatriz e Breno ajudando com o almoço.
 
-— Muito bem! — Ela assentiu lentamente, mas não sem deixar uma sombra de advertência no olhar. — Voltem para casa. Se algo sair do controle Auream, eu saberei. 
+– Aquele anel... – murmurou Bruno. – Eu vi um anel preto no dedo do McCroys ontem.
 
-Com um último olhar avaliativo, Erla fez sinal para que os vigilantes recuassem, e o grupo se afastou sem mais palavras.
+– Mas pode ser de qualquer dimensal – disse Banjo. – Não somos os únicos que trazem coisas de casa.
 
-No caminho para o ponto do dassi, um silêncio tenso dominava o ar. O olhar distante de cada um revelava os pensamentos tumultuados que tentavam processar. Beatriz foi a primeira a romper o silêncio, a voz baixa e incerta:
+– Pode ser. – Bruno cruzou os braços. – Eu ainda quero provas antes de contar pro Velho-Sábio.
 
-Os garotos caminhavam pelas ruas ao lado de Velho-Sábio, ainda atordoados com o que havia acontecido.
+– EI, VOCÊS AÍ! – berrou Beatriz da cozinha. – LEVANTEM ESSAS BUNDAS E VENHAM AJUDAR! NINGUÉM AQUI É EMPREGADO DE NINGUÉM!
 
-— Velho-Sábio… o que foi aquilo? — perguntou Breno, olhando para trás como se ainda esperasse ver os vigilantes em seus calcanhares.
+Os dois se olharam e riram. Foi um alívio, como abrir uma janela num quarto abafado.
 
-Velho-Sábio suspirou, os olhos estreitos, pensativo.
+À tarde, Velho-Sábio os parabenizou pela corrida e avisou que o próximo desafio exigiria magia de verdade. Nos dois dias seguintes, o treino foi intenso, e aconteceu o que costuma acontecer quando se treina bastante: os dedos ficaram mais firmes, as respostas mais rápidas. Breno aprendeu a atravessar uma parede sem pensar duas vezes. Bruno conseguiu segurar uma lasca de gelo por um minuto inteiro sem que virasse um castelo. Beatriz fez chamas pequenas e fiéis, que obedeciam a um assovio. Banjo fez folhas pousarem em fila na mesa da cozinha, uma ao lado da outra, como cartas de baralho.
 
-— Aquilo era o que eu venho temendo a tempos. A situação em relação aos dimensais só vem piorando — respondeu ele. — O que me trás a mente uma questão. A central vigilante é como uma fortaleza? Me pergunto como alguém conseguiria entrar sem ser visto? Desde que a presália foi fechada, a segurança lá só aumentou.
+No terceiro dia, Velho-Sábio os levou de volta ao prédio. As portas do andar designado se abriram para um grande salão de teto abobadado, que imitava o céu do meio-dia, e uma brisa fresca atravessava o espaço de ponta a ponta. A luz vinha de cristais flutuantes, azuis como água rasa.
 
-— Presália? — questionou Beatriz, franzindo a testa.
+E, no centro, flutuando no ar, esperavam as láridas celestes.
 
-Velho-Sábio assentiu e hesitou como se fosse entrar num assunto delicado.
+Eram raias enormes, quase translúcidas, com um par de chifrinhos no focinho e duas asas largas, onduladas, que se moviam sem pressa. As caudas eram compridas, sem ferrão, e quando elas se mexiam o salão ecoava um som baixinho, como um coro distante. Os olhos eram de um verde profundo e inteligente. Sob as bocas, um par de tentáculos finos tocava o ar como antenas, e as pontas brilhavam mais forte quando um aprendiz se aproximava.
 
-— Há mais de vinte anos, existia uma prisão secreta sob a central da Vigilância. Foi construída nos antigos túneis, que existem ali há milênios. Era um lugar sombrio onde os prisioneiros eram deixados por si. Mas, eventualmente, foi fechada por motivos de segurança. Eles lacraram a entrada, e os novos prisioneiros passaram a ser levados para a Santaguarda, a sul de Tayo.
+– Elas são lindas – sussurrou Beatriz.
 
-Breno engoliu em seco e olhou para ele com olhos arregalados.
+– Oi – disse Banjo, baixinho, para a mais próxima.
 
-— E os outros prisioneiros? Os que estavam lá dentro?
+A lárida virou o corpo inteiro para ele, devagar, e inclinou os olhos verdes na direção do seu rosto. Banjo soube na hora que era aquela.
 
-Velho-Sábio olhou para eles, um semblante sombrio em seus olhos. 
+Garmand chamou os aprendizes.
 
-— Permaneceram presos — respondeu Velho-Sábio, sua voz baixa. — Sem saída, sem chances de sobreviver. 
+– Desta vez não é uma corrida. O objetivo é chegar ao fim do percurso montados em uma lárida, seguindo um rio que flutua no céu. Magia é permitida, com cautela.
 
-Banjo balançou a cabeça, indignado.
+Karol, a tutora de Brenda, deu um passo à frente. Era uma mulher de postura impecável, olhos afiados e voz clara, que mesmo dura parecia encorajar.
 
-— Isso é horrível! 
+– Mantenham a calma e uma postura equilibrada. Elas sentem a energia de vocês e reagem a ela. Segurem-se nas cordas ao longo do dorso, e, se precisarem, puxem de leve para direcioná-las. Movimentos bruscos desestabilizam a criatura. – Ela montou em uma, que a aceitou sem hesitar. – Se alguém desistir no meio, deve se atirar nos ares. Será eliminado. E, se for dimensal, voltará para a sua dimensão.
 
-Velho-Sábio assentiu, um olhar sombrio em seu rosto.
+– Atenção! – continuou Garmand. – Em poucos segundos, as láridas vão sair pela janela e levá-los ao rio. O rio é o ponto de partida e de chegada. Quem cruzar o arco final montado em uma lárida terá concluído a prova. Quem não cruzar, ou chegar sem lárida, será eliminado.
 
-— Muitas vezes, Banjo, o medo faz as pessoas tomarem decisões cruéis e injustas. Elas se esquecem de que quem está do outro lado, seja culpado ou inocente, ainda é um ser vivo. Confiar nas intenções dos outros exige coragem, especialmente quando somos constantemente lembrados de que nem todos têm boas intenções.
+As láridas se agitaram quando a contagem terminou, como se sentissem a partida. Com um movimento suave, elas se lançaram pela grande janela aberta e mergulharam em direção às nuvens, levando os aprendizes. O ar fresco bateu nos rostos. O céu estava encoberto por uma camada tão densa que não se via a própria mão.
 
-Beatriz olhou para ele, os olhos refletindo uma mistura de surpresa e reflexão.
+Então a nuvem se abriu.
 
-— Confiar em alguém... é sempre um risco, não é?
+Diante deles se estendia um rio celeste, de águas cristalinas e azuladas, flutuando no céu. Ele se enrolava em curvas e loops como uma fita sem fim, subindo por cima de si mesmo, descendo por baixo, desafiando a lógica e a gravidade. As láridas pousaram na água ao lado de uma ilhota de areia e começaram a nadar, com as barbatanas ondulando em sintonia com a corrente.
 
-Velho-Sábio sorriu levemente.
+– Então, gostaram do show da última corrida? – disse uma voz debochada. Nicolas, numa lárida a alguns metros, sorria. Erick vinha ao lado. – Parece que deram sorte.
 
-— Confiança não é nada mais do que uma escolha, e muitas vezes as expectativas podem ser a causa das maiores decepções. Quando esperamos que o outro nos ofereça o que faríamos por ele, esquecemos que cada um tem suas motivações, seus medos. Erla, por exemplo, não confia em ninguém. Ela sempre dizia que morreria por seus homens, mas até mesmo seu discurso tem se inflamado. Porque nem todos fariam o mesmo por ela, e ela sabe disso. 
+– Sorte é acordar de manhã e ver sua cara no espelho – retrucou Bruno. – Vocês dois precisam de dois cérebros para chegar à metade do que eu faço com um.
 
-Os garotos continuaram andando em silêncio, absorvendo as palavras de Velho-Sábio enquanto a cidade ao redor parecia cada vez mais distante. Ao se aproximarem do ponto de dassi, Banjo finalmente se manifestou, com uma voz hesitante:
+Nicolas estreitou os olhos. Antes que respondesse, o sinal soou. As láridas deram um impulso, e com um gesto discreto da mão de Nicolas, uma camada de gelo se formou em volta da montaria de Bruno. A água travou, a lárida empacou, e ele foi arremessado para trás, caindo na água.
 
-— Essa Erla… podemos mesmo confiar nela? Me pareceu que ela queria nos incriminar — perguntou Beatriz. 
+Bruno afundou. O pânico apertou o peito. A água era profunda, e, quando olhou para baixo, viu o céu azul embaixo dos pés, porque o rio simplesmente flutuava no ar. Mas então notou algo estranho. A água não pesava. Ele se mexia como se estivesse em terra firme. Impulsionou o corpo, subiu à superfície e encontrou os irmãos preocupados.
 
-Velho-Sábio parou por um momento, observando o horizonte.
+– BRUNO! Tá tudo bem? – Breno estava quase pulando para ajudá-lo.
 
-— Erla é uma peça crucial na Vigilância. Se ainda existe alguma decência naquele sistema, é por causa dela. Sem Erla, Tayo já teria se tornado um lugar muito mais sombrio. Ela tenta manter a ordem e a justiça, mesmo quando as circunstâncias exigem medidas impopulares.
+– Aquele idiota! – Bruno cuspiu água. – Mas descobri uma coisa. Eu não sinto a água, Breno. É como se eu me movesse aqui embaixo do mesmo jeito que me movo em cima.
 
-— Mas e se ela… mudar de lado? — perguntou Bruno, a voz carregada de ceticismo.
+– Essa água deve ser encantada – disse Banjo.
 
-Velho-Sábio suspirou, um misto de tristeza e compreensão em sua expressão.
+– Experimenta!
 
-— Vivemos em um tempo, Bruno, onde é difícil confiar plenamente em alguém. Erla faz o que acha necessário, mas há forças, tanto dentro quanto fora da Vigilância, que a pressionam. É preciso ser prudente. Confiar é importante, mas nunca devemos nos esquecer de observar e compreender as ações.
+– Não é uma boa ideia sair das láridas – avisou Breno.
 
-Eles entraram no dassi, os pensamentos pesando sobre os ombros de cada um.
+– É rápido! – Bruno agarrou o braço de Banjo e o puxou para baixo. Banjo se debateu, em pânico, e engoliu água. Bruno percebeu na hora que o efeito era só dele, e subiu com o irmão, que tossia e xingava.
 
+– Desculpa – disse, sem graça. – Era só pra mostrar. Mas só eu consigo. Talvez o meu M.A. não seja só gelo. Talvez seja água.
 
+– Irado – murmurou Banjo, ainda ofegante e já sorrindo, porque era impossível ficar bravo com uma descoberta daquelas.
 
-Assim que chegaram à casa de Velho-Sábio, os irmãos se dispersaram pela casa, tentando absorver tudo o que havia acontecido naquele dia. Enquanto Bruno e Banjo estavam no quarto, ainda tentando digerir tudo o que tinham passado, o cheiro de especiarias e vegetais cozidos vinha da cozinha, onde Beatriz e Breno ajudavam Velho-Sábio com o almoço. O som de panelas e risadas ecoava pela casa, mas o ambiente leve e doméstico não parecia acalmar as inquietações de Bruno.
+Bruno montou na lárida e, antes que alguém o impedisse, guiou-a para baixo da superfície. Fechou os olhos, tentou lembrar o que Velho-Sábio dizia: sentir a magia. E sentiu. Era uma correnteza que o empurrava por dentro, e a lárida disparou por baixo de todos, rápida como um peixe. Ele nadou mais de um minuto sem subir, sem sentir o pulmão apertar, até que uma força o empurrou para a superfície no meio de uma área de redemoinhos.
 
-Ele olhou para Banjo, os olhos ainda fixos no chão enquanto tirava os sapatos.
+Os outros aprendizes chegavam, lutando contra as correntezas que giravam em torno da área, puxando-os para as bordas do rio. Breno segurava as cordas com força. Beatriz estava branca de tensão.
 
-— Aquele anel… — começou Bruno, em um tom baixo, quase desconfiado — A quem será que pertencia? 
+– SEGURA, MANINHA! – gritou ele.
 
-Banjo hesitou por um segundo, e então respondeu:
+No meio do turbilhão, Beatriz perdeu o controle, e a lárida a derrubou. Ela foi arrastada pela água, mas Banjo, num impulso, estendeu a mão e a puxou com o seu M.A. para perto, até agarrá-la pela mão. Beatriz subiu na lárida dele, e quando olhou à procura da sua, ela tinha sumido.
 
-— A qualquer dimensal que viva cá. Não somos os únicos que trazemos pertences da 3ª dimensão. 
+– Obrigada, Banjinho!
 
-Bruno estreitou os olhos. 
+– Vamos, maninha! – gritou ele, enquanto as raias afundavam e subiam. Era difícil se controlar.
 
-— Os gêmeos… eles são dimensais…
+Bruno cruzou a área dos redemoinhos e entrou numa zona onde o rio estreitava, obrigando-o a guiar a lárida por trilhas finas de água. Qualquer deslize o jogaria no céu. À frente, Yuri balançava na beira do abismo, e uma rajada de fogo o atingiu em cheio. Erick, com um sorriso cruel, controlava as chamas, que lambiam a água em torno de Yuri. A lárida dele parou num caminho paralelo ao de Bruno, com um abismo de ar entre os dois.
 
-— Ta… eles, e muitos outros… por que acha que eles tentariam invadir a central da vigilância? 
+– Hora de o bisbilhoteiro cair – disse.
 
-— McCroys pode ter mandado — respondeu Bruno, a voz baixa, como se cada palavra fosse uma conclusão inevitável. — Ele deve estar planejando algo. Deve haver algo na vigilância que ele quer. 
+Bruno não tinha saída. Desviou de uma rajada por pouco.
 
-— Perai. Isso é muito sério Bruno. Então você acha que McCroys… está por trás dessa invasão? 
+– TEM MEDO DE FOGO, BRUNO?
 
-— É um palpite — Bruno cruzou os braços, o olhar endurecido. 
+– E VOCÊ? – gritou uma voz próxima.
 
-Banjo o olhou por um momento, absorvendo as palavras.
+Era Beatriz, na lárida de Banjo, com uma chama azul intensa na mão. A bola de fogo cruzou o ar e acertou a lárida de Erick, que subiu fora de controle e despencou do rio. Erick ficou preso numa tira de água, no meio do caminho, sem montaria, urrando de raiva.
 
-— Mas… você não acha que está indo longe demais? Quer dizer, ele é só um dos tutores. Eles não colocariam um cara desses como tutor… colocariam? — Banjo disse, tentando convencer a si mesmo. 
+– HAHA, SEU BABACA! – gritou Bruno, com os olhos faiscando, e seguiu com os irmãos.
 
-— Não podemos confiar em ninguém Banjo — disse Bruno com um suspiro forçado — exceto em nós mesmos. Eu sei que parece exagero, mas McCroys me disse que sabia quando alguém “não tinha potencial para crescer”. 
+– Bruno, dessa vez espera a gente – pediu Breno. – Precisamos ir juntos.
 
-Banjo estreitou os olhos, sentindo um arrepio.
+– Concordo – disse Bruno, sarcástico. Mas dessa vez ele quase quis dizer isso.
 
-— Isso… soa como uma ameaça.
+Eles seguiram pelos caminhos estreitos até o rio se abrir de novo. Bruno, nadando, viu um brilho curioso no fundo. Uma escola de peixes cintilantes passou sobre ele, e bem lá embaixo apareceu algo que parecia a boca de uma caverna submersa. Ele seguiu os peixes até a superfície, onde eles começaram a voar, espalhando-se pelo ar como estrelas em miniatura. Bruno riu, encantado. Beatriz esticou a mão para tentar tocar um deles, que desviou com delicadeza e saltou para uma porção do rio mais acima, onde alguns aprendizes passavam de ponta-cabeça em relação a eles.
 
-Bruno assentiu.
+– Tem uma caverna lá embaixo! – disse Bruno. – Acho que vou investigar.
 
-— Exatamente. E ele fez questão de lembrar que a Vigilância está “de olho” nos dimensais suspeitos. Ele está jogando um jogo, Banjo, e quer nos manipular pra que a Vigilância desconfie de nós. Isso faz sentido, principalmente agora que ele deve estar em contato com Korvo e quer gente ao seu lado.
+– EI. – Breno tocou o ombro dele. – Foco! Por favor!
 
-Banjo se aproximou mais, olhando ao redor para garantir que ninguém estivesse ouvindo.
+– O objetivo é chegar ao final, Breno, mas não tem tempo limite. E se tiver algo lá embaixo que ajude?
 
-— Espera? Korvo? — indagou ele —agora você acha que ele está envolvido com Korvo? 
+– Eu vou com ele – disse Banjo antes que Breno respondesse.
 
-— Banjo, os aprendizes dele são dimensais estavam usando magia negra. Qual explicação melhor você tem, senão a de que ele está os treinando para agregarem a tal patrulha de Korvo?
+Breno abriu a boca para resmungar e acabou dizendo apenas:
 
-— Se você estiver certo… isso é muito sério, Bruno. A gente tem que contar isso pro Velho-Sábio.
+– Não demorem.
 
-Bruno hesitou, sentindo uma pontada de dúvida.
+Banjo pulou para a lárida de Bruno, e os dois mergulharam. A caverna era pequena, de entrada estreita. Ao atravessá-la, sentiram como se passassem por uma bolha de sabão, e do outro lado havia uma câmara seca, com musgo luminoso nas paredes, que lançava uma luz esverdeada e fazia as sombras dançarem.
 
-— Velho-Sábio é nossa única chance aqui, mas eu não acho que devemos falar com ele ainda. Preciso ter mais certezas. Quando eu contar pra ele, vou levá-lo provas, o suficiente para que ele veja que eu descobri tudo sobre esse cara. 
+– Cuida da lárida, Banjo – murmurou Bruno, e avançou sozinho.
 
-Banjo ficou em silêncio, considerando as palavras do irmão. Finalmente, respirou fundo e olhou nos olhos de Bruno.
+Uma sensação estranha subiu pela espinha. O ar ficou denso. Ele parou, o coração mais forte, e viu, em uma saliência da parede, pontos afiados que pareciam dentes. Ao focar melhor, percebeu que eram garras, longas, detalhadas, completamente imóveis, até que um dedo do tamanho da sua mão se mexeu, arranhando a pedra com um som rascante. Ele recuou, tropeçou em outra garra e caiu, e o barulho ecoou pela caverna.
 
-— Eu ainda acho melhor contar para o Velho-Sábio — disse Banjo. 
+Um rugido profundo respondeu. Duas esferas âmbar se abriram diante dele, iluminando tudo com um brilho predatório.
 
-Bruno negou, tentando mascarar a tensão com uma expressão de determinação.
+A criatura emergiu das sombras. Era colossal, coberta de escamas que refletiam o musgo, com tentáculos musculosos nas costas e uma boca cheia de dentes serrilhados. As barbatanas se abriram em manchas vermelhas, que pulsavam como um alerta.
 
-— Lembre-se que McCroys é um dos tutores. Se ele achar que estamos arrumando confusão… pode nos mandar embora. 
+– Banjo, corre! – gritou Bruno.
 
-De repente, uma voz alta e familiar ecoou pela casa:
+Ele correu até a entrada e se atirou na água com o irmão. A criatura os perseguiu, as garras saindo da caverna como lanças. Os dois emergiram na lárida de Bruno, e Banjo saltou de volta para a de Beatriz.
 
-— EI, VOCÊS AÍ! — gritou Beatriz da cozinha. — LEVANTEM ESSAS BUNDAS E VENHAM AJUDAR! NINGUÉM AQUI É EMPREGADO DE NINGUÉM, NÃO!
+– O que foi? – perguntou ela.
 
-Os dois irmãos trocaram um olhar breve e depois riram, deixando um pouco da tensão se dissipar. 
+– CORRAM! – berrou Bruno. – SÉRIO, CORRAM!
 
-— Acho melhor a gente ir antes que ela venha até aqui — disse Banjo, sorrindo levemente.
+A água atrás deles explodiu, e a criatura emergiu num rugido que sacudiu o rio inteiro. Eshley, que passava perto, arregalou os olhos. Denis, que chegava naquele momento, soltou um grito agudo. A criatura o agarrou com uma garra e o puxou para dentro da água, em um turbilhão. Segundos depois, uma bolha enorme subiu à superfície, brilhando, com Denis dentro dela, de olhos arregalados e as mãos no vidro. A bolha flutuou para longe, para fora do rio, e se perdeu entre as nuvens, levando o dono para uma eliminação sem arranhões e com muito a contar.
 
-Bruno revirou os olhos, mas um leve sorriso escapou de seus lábios enquanto ele seguia Banjo em direção à cozinha. 
+– MINHA NOSSA! – gritou Breno. Os quatro incitaram as láridas, e a criatura emergiu de novo, com uma velocidade absurda.
 
+– ACELEREM! – gritou Bruno.
 
+Eles serpentearam por entre as curvas do rio, e a fera deslizava atrás, a silhueta preenchendo o horizonte.
 
+– À esquerda! – gritou Breno, e todos puxaram as cordas, colando-se na parede do rio. A criatura passou direto, rugindo de frustração, e voltou a girar o corpo logo em seguida.
 
+À frente, o rio entrava num loop, passando por dentro de um braço de si mesmo.
 
-Durante a tarde, Velho-Sábio se reuniu com os irmãos e os parabenizou pelo desempenho na corrida.
+– Vamos saltar! – gritou Bruno.
 
-— Vocês foram muito bem, garotos — o mago sorriu para eles — Estou realmente impressionado em como conseguiram se sair tão bem em tão pouco tempo. 
+Breno entendeu na hora. Posicionou a lárida no centro, acelerou ao máximo e, quando chegaram ao loop, os irmãos se atiraram do braço do rio e despencaram em queda livre até o rio de baixo. Por um segundo, o tempo pareceu congelar. A criatura passou direto pelo rio acima, rugindo. Bruno viu que Banjo tinha soltado a lárida e se atirou na água para ajudá-lo. Todos emergiram juntos e respiraram fundo.
 
-Os irmão sorriram em resposta. 
+– Ufa – disse Beatriz.
 
-— O próximo desafio, no entanto, vai exigir mais de vocês — ele avisou, olhando para cada um com um olhar firme. — Vocês precisarão de um domínio mais sólido dos seus M.A.s. A magia precisa fluir de vocês com mais precisão. Então, vamos trabalhar nisso.
+– Que coisa incrível! – disse uma voz distante. Maria chegava na sua lárida. – Vocês deram um baile no monstro!
 
-Nos dois dias seguintes, o treinamento intensificou-se. No prédio de treino, os irmãos praticavam incansavelmente sob a supervisão de Velho-Sábio. Breno aperfeiçoava sua habilidade de intangibilidade, tentando usá-la sem hesitar. Bruno tentava estabilizar o gelo com mais precisão, e Beatriz praticava conjurar chamas menores e controladas. Banjo, ainda descobrindo mais sobre sua telecinese, fazia pequenos objetos flutuarem, aumentando seu controle gradualmente. Os dias de prática exaustiva trouxeram progresso e uma nova confiança para cada um.
+– Isso não foi incrível, Maria, foi assustador – respondeu Banjo.
 
-No terceiro dia, Velho-Sábio os levou de volta ao prédio. Quando chegaram ao andar designado para o segundo desafio, as portas se abriram para revelar um grande salão iluminado por cristais flutuantes que banhavam tudo em uma luz azulada. O teto do andar era abobadado, imitando o céu diurno, e uma leve brisa atravessava o ambiente, criando uma atmosfera quase surreal.
+Mas não houve tempo para respirar aliviados. Uma sombra passou por cima deles, e a besta caiu na água com um estrondo, criando uma onda enorme que os empurrou para longe. Maria não teve tempo de reagir. A lárida dela foi lançada para o alto, e ela, com um grito, caiu do rio em direção às nuvens.
 
-Todos os aprendizes estavam reunidos, cada grupo posicionado junto a seus tutores. Os rostos eram uma mistura de expectativa e nervosismo. E, à frente deles, flutuavam as criaturas mais exóticas e fascinantes que já haviam visto: raias enormes e elegantes, mas claramente diferentes de qualquer criatura conhecida.
+– NÃO! – gritou Beatriz.
 
-Essas raias possuíam corpos quase translúcidos, com pequenos chifres em seus rostos e duas “asas” ao invés de uma. Sua calda também era bem mais longa, e não possuía o típico ferrão das raias. Seus corpos eram largos, lisos e úmidos. 
+Lá embaixo, as nuvens se abriram como uma almofada e embalaram a menina, que desceu de bunda no meio delas, de olhos arregalados e ainda segurando uma corda.
 
-As extremidades das raias eram mais longas e flexíveis, ondulando suavemente e emitindo um som suave, quase como um eco distante, sempre que se moviam. Seus olhos, de um verde profundo, pareciam quase entender tudo ao redor, observando os aprendizes com uma inteligência silenciosa. E logo abaixo das bocas, havia um par de tentáculos finos que pareciam captar as energias ao redor, como se estivessem em constante sintonia com o ambiente.
+– Eu estou bem! – gritou ela, de lá de baixo. – ESTOU BEM!
 
- 
+– Que filha da mãe insistente! – xingou Breno, olhando para a besta.
 
-Algumas raias passavam perto dos aprendizes, atraídas pelas faíscas mágicas que cada um emanava, captando as vibrações com curiosidade. Quando se aproximavam demais, as pontas de seus tentáculos vibravam levemente, emitindo um brilho mais intenso.
+A criatura avançava em zigue-zague, aprendendo o ritmo deles. Beatriz lançou bolas de fogo, e elas iluminaram o rio, mas não adiantaram nada. A fera mergulhou e voltou com um salto, quase alcançando-os.
 
-Velho-Sábio se aproximou, observando as reações dos aprendizes diante das láridas celestes. Ele então explicou:
+– Isso não está funcionando – murmurou Banjo, olhando a criatura com atenção. Havia algo nos olhos dela que ele não conseguia ignorar. – Vou tentar do meu jeito.
 
-— Para o segundo desafio, vocês terão usarão como montaria, estas criaturas. As láridas celestes são seres mágicos incríveis, os quais vocês usarão para alcançar o destino de vocês. 
+– Do seu jeito o quê? – perguntou Breno.
 
-Ele olhou para os aprendizes reunidos, um brilho de expectativa em seus olhos.
+– Eu vou falar com ela.
 
-— Mas evitem as perder, pois elas costumam se apavorar quando estão sozinhas, e fogem. Agora, se não se importam, escolham suas láridas. 
+– Tá louco? Ela vai te matar!
 
-Os irmãos se entreolharam, absorvendo o que Velho-Sábio acabara de dizer. Beatriz, encantada com o brilho suave das raias, deu um passo à frente, determinada a escolher uma. Bruno, apesar de seu sarcasmo usual, olhava para a criatura com um misto de curiosidade e desafio. Breno mantinha o olhar atento, já se concentrando para controlar sua intangibilidade, enquanto Banjo observava cada movimento da lárida mais próxima, fascinado com o leve rastro que ela deixava ao se mover.
+– Se continuarmos assim, ela vai pegar todos nós! – respondeu Banjo, soltando as cordas. Ficou de pé na lárida e encarou a fera, que emergiu de novo, com as barbatanas abertas como asas e os olhos âmbar fixos nele.
 
-— Oi — Banjo tentou se comunicar com ela. 
+Ele levantou as mãos, com a voz calma e firme, por cima do barulho da água.
 
-A lárida, virou para si, como se lhe entendesse e ele sabia que era aquela que ele escolheria. 
+– Ei... pare, por favor. Não queremos te machucar. Só estamos passando.
 
-As láridas flutuavam delicadamente pelo ar, era lindo e fascinante observá-las. 
+A criatura parou, hesitante. Os olhos, antes inflamados, se encheram de algo mais difícil de olhar: uma dor funda, uma mágoa antiga. Ela inclinou a cabeça, abriu a boca, e uma voz gutural saiu dela.
 
-Garmand chamou todos os aprendizes para se reunirem, sua voz ecoando no amplo salão onde estavam. Ele observou cada rosto, com um olhar firme e determinado, antes de finalmente explicar o desafio.
+– Vocês me ferem. Vocês todos... machucam as águas onde eu vivo. Não há paz para mim.
 
-— Desta vez, não será uma corrida. — Garmand fez uma pausa, esperando que todos assimilassem suas palavras. — O objetivo aqui é alcançar o final do percurso montados em uma dessas láridas celestes. Vocês seguirão por um rio flutuante, montados nelas. Mais uma vez, magia é permitida, mas usem-na com cautela.
+Banjo sentiu um peso no peito, como se a dor dela passasse para ele.
 
-Ao lado dele, Karol, a tutora de Brenda, avançou. Ela era uma mulher de postura impecável, com olhos afiados e uma expressão imperturbável. Sua voz era forte, clara, carregada de autoridade, mas ao mesmo tempo possuía um tom encorajador.
+– Eu prometo que não vamos te machucar. Talvez a gente possa te ajudar.
 
-— Para montar nas láridas, mantenham a calma e uma postura equilibrada. Essas criaturas sentem a energia de vocês e reagirão à maneira como as tratam. — Ela se aproximou de uma das láridas, demonstrando o que dizia. Com uma leve inclinação, subiu com destreza na criatura, que não hesitou em aceitá-la. — Observem. Elas possuem estas cordas ao longo do dorso. É nelas que vocês devem se segurar, e, se precisarem, podem puxá-las levemente para direcioná-la. Mas cuidado: movimentos bruscos ou perda de controle podem desestabilizá-las.
+Ele deu um passo na direção dela. Ela recuou, e a desconfiança voltou aos olhos.
 
-Os aprendizes observavam com atenção. Alguns já demonstravam sinais de nervosismo, enquanto outros olhavam suas láridas com determinação. As cordas ao longo do dorso da criatura eram firmes e teciam padrões que pareciam se entrelaçar, formando um sistema de segurança para que os aprendizes pudessem se agarrar.
+– Senavelitas mentem. Vocês sempre mentem!
 
-Karol completou as instruções:
+Ela avançou, com a boca escancarada, e Bruno se lançou sobre Banjo, puxando-o para o lado. A mordida passou a um palmo do ombro dele, e os dois caíram de volta na lárida.
 
-— Caso alguém desista durante o percurso, deve se atirar nos ares. Isso indica que está desistindo e será eliminado. Caso seja um dimensal, ser eliminado, significa retornar para sua dimensão. 
+– Você tá maluco, Banjo?! – gritou Bruno, mal escondendo o alívio.
 
-Enquanto Karol falava, Breno passava os olhos pelos aprendizes e notava falta de alguém ali… A garota, Isabelle, se não estava enganado. Será que ela também tinha sido eliminada no primeiro desafio?
+Banjo ficou em silêncio, atordoado, enquanto retomavam o caminho. A criatura mergulhou de novo, e eles sabiam que ela voltaria.
 
-— Preparem-se. Em poucos segundos, suas láridas sairão pela janela e vão levá-los diretamente até o rio. Este é o ponto de partida e de chegada. O rio se estende em loops e curvas sobre o céu, e todos precisarão segui-lo até o fim. Assim que cruzarem o arco de chegada montados em uma lárida, terão concluído o desafio. Caso não atinjam esse quesito, serão eliminados. 
+A água explodiu, e as láridas foram jogadas para lados diferentes. Bruno encontrou Breno nadando, furioso.
 
-Ele então começou a fazer a contagem regressiva. Os garotos montaram em suas láridas, e se prepararam. Beatriz tinha seu coração acelerado de medo. Quando o tempo se esgotou, as láridas se agitaram, como se sentissem a energia da partida. Com um movimento suave, elas se lançaram para fora da grande janela aberta, levando os aprendizes em uma descida suave pelos ares. À medida que saíam do prédio, o ar fresco batia no rosto de cada um, e a vastidão das nuvens os envolveu. 
+– Isso é culpa sua, Bruno! Você não devia ter ido àquela caverna, eu avisei!
 
-As criaturas começaram a subir rapidamente em direção às nuvens. O céu estava encoberto por uma densa camada nublada, e os aprendizes mal conseguiam enxergar um palmo adiante. A sensação era de que estavam mergulhando no desconhecido, e o silêncio ao redor só aumentava a tensão.
+– Cala a boca, cabeça de metal. Se não fosse por mim, nosso irmão já estava eliminado.
 
-De repente, como se surgisse do nada, um vasto rio de águas cristalinas apareceu diante deles. Suas águas brilhavam com uma tonalidade azul-celeste, emitindo uma luz suave. O rio flutuava no céu, criando um circuito mágico de pura beleza. Ao longo do percurso, o rio se curvava, formando complexas voltas e loops, como uma fita de Möbius que parecia desafiar a gravidade e a lógica. Os aprendizes perceberam que teriam que seguir pelo caminho do rio, passando por baixo e por cima, enquanto ele se entrelaçava em um espetáculo visual impressionante.
+Breno abriu a boca para responder, mas uma figura passou rápida ao lado deles. Era Ferris Cotton, deslizando pela água sem esforço, como se fizesse parte dela. Lançou-lhes um olhar frio e calculista e seguiu em alta velocidade. Bruno sentiu um misto de admiração e rivalidade.
 
-As láridas pousaram suavemente nas águas flutuantes, ao lado de uma pequena ilhota de areia e assim que tocaram a superfície, a leveza da água permitiu que elas começassem a nadar. As criaturas deslizaram com graça, suas barbatanas se movendo em sintonia com a corrente do rio, enquanto os aprendizes tentavam manter-se firmes nas cordas aguardando o sinal de partida. 
+– Olha ali! – gritou Breno, apontando para cima.
 
-Os aprendizes seguravam firmemente as cordas de suas montarias, trocando olhares tensos e determinados. De repente, um tom de deboche quebrou o silêncio: 
+Numa faixa invertida do rio, Banjo e Beatriz passavam de cabeça para baixo, acenando desesperadamente. Banjo subiu de pé na lárida e estendeu a mão, tentando usar a telecinese para levitá-los até lá. Bruno e Breno sentiram seus corpos subirem com as láridas, mas a tensão foi demais e todos despencaram na água com um splash.
 
-— Então, gostaram do show da última corrida? — Nicolas perguntou com um sorriso malicioso. — Parece que deram sorte da última vez. 
+Um cardume de peixes luminosos deslizou ao lado deles, mais colorido que o anterior. Quando os peixes tocavam a pele dos irmãos, faíscas azuis se acendiam e piscavam no ritmo da respiração. Eles riram, esquecendo por um segundo o perigo, e Beatriz esticou as mãos como quem toca uma chuva.
 
-Bruno se virou e viu o garoto em uma lárida, há alguns metros dele. Erick ao seu lado, então falou: 
+Então Bruno percebeu, por baixo da água, que aquilo não era mais um cardume. Empurrou Breno para longe no mesmo instante em que a criatura subia com a boca aberta, os olhos brilhando de ódio. A lárida de Breno não estava mais lá. Ele estava sozinho na água.
 
-— O bisbilhoteiro jamais ganharia se fosse sozinho. É como uma criança curiosa que se perde nos próprios passos. Mas não se preocupe, agora é nossa vez de dar o show.
+– Vamos! – Bruno puxou Breno pela mão para a sua lárida. Mergulharam, e a criatura os seguiu. Breno, até aquele momento, não tinha entendido como funcionava a habilidade nova de Bruno. Agora via com clareza. Bruno manipulava a água para empurrar a lárida como uma correnteza. A criatura continuava atrás deles.
 
-	Nicolas riu, lançando um olhar de desprezo aos irmãos. Bruno, porém, não deixou barato.
+Quando estavam fundo o bastante, Bruno deu um impulso forte e subiu a toda a velocidade, saltando da água ao lado de Banjo e Beatriz, que ainda dividiam uma só lárida.
 
-— Vocês são tão espertos que precisam de dois cérebros pra chegar a metade do que eu faço com um — retrucou, o sarcasmo estampado em seu rosto. — E quanto ao "show", a gente chama isso de treinamento. Vocês deviam experimentar um dia.
+– Ali! É a ilha! – gritou Banjo.
 
-Nicolas estreitou os olhos, mas antes que pudesse responder, o sinal soou, e as láridas deram um impulso repentino. Assim que se lançaram à pista, Nicolas fez um movimento sutil com a mão, e uma camada de gelo emergiu ao redor das láridas dos irmãos. A água congelou instantaneamente, travando a montaria de Bruno, que perdeu o equilíbrio e foi jogado para trás, caindo direto na água.
+Eles viram a ilhota de areia onde tudo tinha começado. Estavam perto do fim.
 
-Bruno afundou com força, tentando se orientar na água, mas logo percebeu que estava perto do fundo. A sensação era estranha e assustadora; porque o fundo dava direto no céu, como se a água estivesse literalmente suspensa no ar. Por um breve momento, o pânico tomou conta, mas, então, notou algo surpreendente: A água ao seu redor parecia diferente, mais leve e quase sem resistência. Movendo-se com facilidade, Bruno impulsionou o corpo para cima, emergindo na superfície, onde encontrou os irmãos, que o aguardavam preocupados.
+Mas, assim que avançaram juntos, a figura de Nicolas e Erick surgiu na frente, montados numa só lárida, cheios de presunção.
 
-— BRUNO… ta tudo bem? — perguntou Breno, com os olhos arregalados que parecia já estar se preparando para salvar o irmão.
+– Vocês estão acabados! – zombou Nicolas, com estacas de gelo se formando ao seu lado, enquanto Erick acendia uma chama na palma da mão. – Já era para vocês terem caído.
 
-— Aquele idiota… — disse Bruno, irritado. — Ao menos eu descobri uma coisa. De alguma forma… não sinto como se estivesse debaixo d’água. É como se eu me movesse lá, como me movo aqui em cima. 
+Erick disparou fogo, e Nicolas lançou uma lâmina de gelo. Beatriz e Bruno reagiram, mas os contra-ataques erraram o alvo e só espirraram água. Os gêmeos gargalharam. Então a criatura saltou do rio de cima para o deles, com os olhos fixos nos gêmeos, e os gêmeos tentaram desviar, mas ela era ágil.
 
-— Essa água deve ser encantada para permitir isso — deduziu Banjo, intrigado. 
+Bruno viu a chance. Respirou fundo, concentrou toda a sua força e estendeu a mão. Uma onda gelada partiu dele, atingiu a criatura e os gêmeos, e em um instante a fera estava envolta em cristais, um bloco gigante que refletia as luzes do rio. Erick e Nicolas tropeçaram nos fragmentos, a lárida deles foi arremessada para longe, e os dois afundaram, sem conseguir reagir.
 
-— Experimente! — disse Bruno — Vamos, temos tempo, não é uma corrida. 
+– O que foi isso, Bruno? – perguntou Breno, com orgulho discreto.
 
-— Não acho uma boa sairmos de nossas láridas — disse Breno. 
+O gelo começou a rachar, e Bruno olhou para os irmãos.
 
-— É rápido! — disse Bruno. Banjo começou a descer, mas Bruno rapidamente o puxou para o fundo. 
+– VÃO! – disse, soltando a sua lárida para Breno. – Eu vou segurá-lo. Eu alcanço vocês.
 
-Banjo se desesperou e o pânico lhe fez se agitar rapidamente. Bruno percebeu que os efeitos da água eram diferentes no irmão, o que só podia significar uma coisa. Bruno emergiu, segurando Banjo, que tossiu, xingando o irmão enquanto voltava para sua lárida. 
+Breno agarrou a lárida e, com os dois irmãos mais novos, seguiu para o arco final. Atrás deles, Bruno atirava cortinas de gelo a cada segundo para manter a criatura no lugar. Quando viu que estavam a uma distância segura, mergulhou e nadou o mais depressa que podia. Houve um estrondo e a criatura se libertou, mas eles já estavam longe.
 
-— Sou eu — disse Bruno — eu consigo me mover pela água como me movo na terra. Quero dizer… como se não houvesse água. 
+Banjo, na lárida, olhou para trás uma última vez. A fera, no meio do rio, não os perseguia. Estava parada, com os olhos fixos neles, e havia nela algo que lembrava uma tristeza imensa. Ele prometeu a si mesmo, sem saber a quem, que voltaria.
 
-— Então você não sente a resistência da água? — perguntou Breno. 
+Quando cruzaram o arco de chegada, os irmãos se jogaram na areia da ilhota, exaustos e triunfantes. Bruno saiu da água logo depois, ofegante, e se deixou cair ao lado deles.
 
-— Não faço ideia do que isso significa. Talvez meu M.A. não seja exclusivamente de gelo, e sim água. Isso é muito irado! 
+– Parabéns a todos pelo desafio – disse a voz de Garmand. Ele estava de pé diante deles, de braços cruzados. – Para três de vocês.
 
-Bruno montou novamente em sua lárida, mas, dessa vez, com um novo plano em mente. Ele inclinou-se para baixo, guiando a lárida para mergulhar novamente nas águas encantadas e seguiu o percurso por debaixo d'água. 
+– Três? – perguntou Beatriz.
 
-— BRUNO! — gritou Breno, mas o irmão não o ouviu. 
+– Bruno, você chegou sem lárida. As regras eram claras: era preciso chegar em uma lárida. Isso significa que você foi eliminado.
 
-Bruno seguiu por baixo da água, e se concentrou para que conseguisse nadar. O que Velho-Sábio dizia mesmo? Sentir a magia? Ele fechou os olhos, e então sentiu. Era como se uma correnteza o impulsionasse para frente. Sua raia estava nadando extremamente rápido por baixo de todos os outros. Seu fôlego também parecia diferente. Ele estava há mais de um minuto nadando e ainda não tinha subido. Então de repente, ele sentiu um impulso extremamente forte que o empurrou para o lado. Isso o obrigou a subir para a superfície. Ao colocar sua cabeça para fora, viu que estava no centro de uma área onde haviam correntezas diversas que circulavam a área puxando-os para as bordas do rio. Os outros aprendizes começavam a chegar e passavam por dificuldades tentando desviar das correntes fortes. 
+As palavras caíram como um peso. Bruno piscou, atordoado.
 
-Quando Breno alcançou as correntes com seus irmãos, ele segurou com força as cordas de sua montaria, tentando manter o controle, enquanto Beatriz parecia estar no limite da tensão, agarrada ao dorso da lárida com todas as suas forças.
+– Eliminado? – murmurou, incrédulo.
 
-— SEGURE-SE MANINHA! — gritou Breno para a irmã. 
-
-No meio do turbilhão, Beatriz soltou um grito ao perder o controle de sua lárida, que desestabilizou-se e a derrubou. Ela começou a ser arrastada pela correnteza, mas Banjo, num impulso rápido, estendeu a mão e a puxou com seu M.A. para perto, agarrando sua mão. Ela então se equilibrou em sua própria lárida. Os dois agora estavam juntos, tentando não perder o controle em meio à turbulência. Beatriz olhou à procura de sua lárida, mas ela tinha desaparecido. 
-
-— Obrigada, Banjinho! — Beatriz disse, respirando fundo, ainda com o coração acelerado.
-
-— Vamos MANINHA! — gritou Banjo, enquanto eles cruzavam as correntezas. Às vezes suas raias afundavam, e eles tinham de subir novamente. Estava realmente difícil se controlar ali. 
-
-Bruno passou a área das correntezas e alcançou uma zona onde o caminho estreitou-se, obrigando-o a guiar as láridas por trilhas finas de água, onde qualquer deslize poderia lançá-lo diretamente ao céu. Bruno notou que Yuri, mais à frente, parecia ter dificuldades para manter o equilíbrio, balançando perigosamente à beira da queda. 
-
-De repente, uma rajada de fogo cruzou o percurso, acertando a lárida de Yuri em cheio, e ele quase foi jogado para fora. Erick, com um sorriso cruel, controlava as chamas, que lambiam a água ao redor de Yuri. A lárida de Erick parou em um caminho estreito paralelo ao de Bruno, deixando um abismo entre eles. 
-
-— Hora do bisbilhoteiro cair — disse ele se preparando para um ataque. 
-
-Bruno não tinha saída. Não havia como mergulhar, pois não havia porção de rio o suficiente abaixo de si para que ele descesse. O que ele pode fazer foi desviar de uma rajada de fogo que quase o atingiu. 
-
-— TEM MEDO DO FOGO, BRUNO? — riu Erick. 
-
-— E você? — gritou uma voz próxima a eles. 
-
-Bruno se virou a ponto de ver Beatriz, na mesma lárida de Banjo, com uma chama, de um azul intenso saindo de sua mão. A bola de fogo avançou pelo ar com velocidade, acertando a lárida de Erick e levantando-a para cima, fora do controle. Erick gritou em fúria enquanto a sua lárida foi empurrada para o alto, desestabilizada, e logo caiu para trás, despencando do rio celeste. Erick ficou sozinho preso no meio do caminho no rio, qualquer movimento o faria cair. 
-
-— HAHA, seu babaca! — gritou Bruno, com os olhos faiscando de emoção, enquanto ele prosseguia, junto aos irmãos e Breno que vinha logo atrás.
-
-Erick, agora sem sua montaria, observou os irmãos com um olhar de puro ódio, gritando xingamentos enquanto eles continuavam no percurso.
-
-— Bruno, vê se dessa vez nos espera —disse Breno —precisamos andar juntos. 
-
-— Eu concordo — disse Bruno, sarcástico. Ele não queria andar com os irmãos, mas entendeu que quase foi derrubado se não fosse pela irmã. 
-
-Eles seguiram pelos caminhos estreitos até que o rio se alargasse novamente e eles tornassem a ter espaço. Enquanto o garoto nadava, no entanto, ele viu um brilho curioso no fundo. 
-
-— Eu já volto! — disse ele aos irmãos e antes que alguém se manifestasse, ele mergulhou. 
-
-Ao descer, avistou uma escola de peixes brilhantes passando sobre ele. Bem no fundo, Bruno avistou algo curioso. Parecia uma caverna submersa. Sua atenção então voltou aos pequenos peixes que subiam, e Bruno decidiu acompanhá-los até a superfície. Para sua surpresa, ao chegarem à superfície, os peixes começaram a voar, cintilando no céu como estrelas em miniatura. Bruno riu, encantado, observando-os se espalharem pelo ar com leveza, assim como seus irmãos. Beatriz esticou a mão para os céus, para tentar tocar em um deles, mas eles desviaram da garota com delicadeza, saltando sobre uma outra porção do rio que se encontrava metros acima deles, onde alguns aprendizes cruzavam de ponta-cabeça em relação a eles. 
-
-— Tem algo lá em baixo! — disse Bruno aos irmãos — me parece uma entrada. 
-
-— Não sei ao certo — disse ele — mas acho que vou investigar. 
-
-— EI — Breno tocou em seu ombro — foco! Por favor! 
-
-— Breno, nosso objetivo é chegar até o final. Não temos tempo limite para isso. E se encontrarmos algo lá em baixo que nos ajude com nosso objetivo? — perguntou Bruno. 
-
-— Eu vou com ele — disse Banjo antes que Breno pudesse responder. 
-
-Breno abriu a boca para resmungar, mas apenas disse:
-
-— Não demorem! 
-
-Bruno assentiu. Banjo saltou de sua lárida para a de Bruno e ambos mergulharam para o fundo. Em pouco tempo eles podiam vê-la. Uma pequena caverna. A passagem era estreita, e ao ultrapassá-la, sentiram como se saíssem de uma bolha, alcançando uma câmara seca dentro da caverna. 
-
-Bruno observava a caverna com curiosidade, sentindo que havia algo mais escondido nas sombras. Ele avançou lentamente, seus passos ecoando no chão úmido da câmara enquanto absorvia os detalhes. As paredes eram cobertas de musgo luminescente, lançando uma luz esverdeada que parecia dançar nas superfícies irregulares, criando sombras que se moviam com o menor dos gestos.
-
-Banjo esperava perto da entrada, atento à lárida que remexia-se, agitada, como se sentisse que havia algo fora do comum ali.
-
-— Cuide dela, Banjo. Eu quero ver o que mais tem aqui — murmurou Bruno, fixando o olhar em uma pequena passagem à sua direita.
-
-Ele avançou alguns passos, quando uma estranha sensação de inquietação lhe percorreu a espinha. A caverna parecia mais escura à medida que avançava, e, de repente, o ar ficou denso, pesado, como se algo invisível o estivesse observando. Ele parou, o coração batendo mais forte, e olhou ao redor, tentando discernir algum movimento nas sombras.
-
-Foi então que ele viu. Pequenos pontos afiados, quase como dentes, despontavam de uma protuberância na parede, mas, ao focar melhor, percebeu que não eram dentes… eram garras. Longas, afiadas e incrivelmente detalhadas. As garras estavam completamente imóveis, como se fossem parte da caverna, até que um dedo, do tamanho de sua mão, se mexeu, arranhando levemente a parede com um som rascante. Ele recuou um passo, tentando manter a calma, mas seu pé tropeçou em algo duro. Uma outra garra, o que o fez cair no chã, o que ecoou por toda a caverna.
-
-Um som profundo, como um rugido abafado, ecoou em seguida. Banjo, na entrada, olhou para Bruno, alarmado.
-
-— O que é isso? — disse ele em um sussurro enquanto algo se levantava.
-
-Bruno ficou imóvel, seus olhos arregalados, enquanto duas enormes esferas âmbar se abriram à sua frente, iluminando o ambiente com um brilho sombrio e predatório. Ele prendeu a respiração, mas, antes que pudesse fazer qualquer movimento, a criatura emergiu das sombras.
-
-A besta era colossal, coberta por escamas brilhantes que refletiam o brilho esverdeado do musgo. Tentáculos largos e musculosos saíam de suas costas, ondulando pelo ar e terminando em pontas afiadas como lanças. Os olhos âmbar eram fixos e intensos, cada piscada lenta e calculada. Suas mandíbulas se abriram, revelando uma fileira de dentes serrilhados que estalavam de forma ameaçadora, e suas barbatanas se expandiram, revelando manchas vermelhas que pulsavam como se alertassem sobre sua fúria.
-
-Sem pensar duas vezes, Bruno recuou, tentando não fazer nenhum movimento brusco. Ele lançou um rápido olhar para a entrada, calculando a distância para a saída. Banjo observava de longe, com olhos arregalados, segurando-se firme na lárida que agora parecia igualmente agitada, quase como se percebesse o perigo que se aproximava.
-
-— Banjo… corre! — Bruno gritou, mas não foi rápido o suficiente para evitar o movimento da criatura, que se lançou em sua direção.
-
-Em um impulso desesperado, Bruno correu em direção a Banjo, que já estava subindo na lárida. Bruno se jogou na água, com o irmão enquanto a criatura os perseguia, suas garras afiadas se projetando como lanças para fora da caverna enquanto eles avançavam. Eles emergiram juntos na lárida de Bruno, e Banjo imediatamente saltou de volta para sua lárida onde Beatriz estava. 
-
-— Ei, o que foi? — perguntou ela. 
-
-— Ta tudo bem? — indagou Breno. 
-
-— CORRAM! — disse Bruno —SÉRIO, CORRAM! 
-
-De repente, a água atrás deles explodiu, e a criatura emergiu com um rugido ameaçador. Eshley, que passava próximo a eles naquele momento, arregalou os olhos, e Denis, que chegava naquele instante, também viu a monstruosidade. Antes que Denis pudesse reagir, a criatura o agarrou com suas garras afiadas e, em um movimento rápido e brutal, o puxou para baixo da água, onde sumiu em um turbilhão de escuridão.
-
-Os irmãos presenciaram a cena, paralisados pelo choque e horror.
-
-— MINHA NOSSA! — gritou Breno, a voz tremendo de pânico. Os quatro se apressaram, incitando as láridas a avançarem o mais rápido que podiam.
-
-A criatura emergiu da água com uma explosão, espirrando ondas que quase desequilibraram a lárida. Seus olhos brilhavam de raiva, e ela avançava com uma velocidade surpreendente, a boca escancarada em um rugido que ecoava pelo rio celestial. Bruno olhou para os irmãos, o rosto pálido.
-
-— ACELEREM! — ele gritou, o pânico tomando conta de sua voz.
-
-Os garotos firmaram as mãos nas cordas, guiando suas láridas pelos braços de água enquanto a criatura se aproximava cada vez mais. As láridas se lançaram pelo rio, serpenteando entre as curvas com os garotos tentando ao máximo manter o controle. A fera deslizava atrás deles, sua silhueta enorme e ameaçadora preenchendo a visão do horizonte, cada vez mais próxima.
-
-— Desviem! À esquerda! — gritou Breno, e todos puxaram suas cordas, inclinando suas láridas para a esquerda, quase encostando na parede líquida do rio. Eles se apertaram contra o curso da água, e a criatura passou direto pela curva, rugindo de frustração ao perder o ângulo. No entanto, em segundos, ela girou o corpo e voltou a persegui-los.
-
-Beatriz olhou para Bruno, o rosto marcado ploela tensão.
-
-— Tem que haver uma saída, Breno! Ela vai nos alcançar!
-
-Bruno olhou ao redor, tentando pensar em alguma estratégia. À frente, o rio celestial passava por dentro de um loop de um outro braço do rio. Era a chance deles. 
-
-— Vamos saltar! — gritou ele. 
-
-Breno entendeu imediatamente, posicionando a lárida no centro e acelerando o máximo possível em direção à divisão. Eles seguiram em direção ao loop, a criatura lhes seguindo, e quando alcançaram o loop, eles se atiraram para fora do braço, caindo em queda livre até o rio abaixo, despistando a criatura, que passou direto pelo rio acima. Eles caíram como em um mergulho, sentindo o peso do corpo puxá-los, e, por um segundo, o tempo pareceu congelar. Bruno percebeu que Banjo tinha largado sua lárida, e rapidamente se moveu pela água para ajudar o irmão. Assim que todos subiram para a superfície, respiraram fundo, aliviados. 
-
-— Ufa — disse Beatriz, cansada.
-
-— Que coisa incrível! — disse uma voz distante se aproximando.
-
-Maria chegava com sua lárida celestial. 
-
-— Vocês deram um baile no monstro — disse ela sorrindo para eles.
-
-— Isso não foi nada incrível, Maria. Foi assustador, isso sim — disse Banjo. 
-
-Mas eles nem tiveram tempo de respirar aliviados, pois uma estranha sombra começou a passar por eles. Ao olharem para cima, girando em pleno ar, a besta caiu na água com um estrondo, criando uma onda que os empurrou para longe. Maria não teve nem tempo de reagir, a criatura caindo ao seu lado, o que a fez perder o controle e ser atirada para fora do rio, caindo em direção às nuvens, seu grito se distanciando cada vez mais. 
-
-—  NÃO! — disse Beatriz, olhando para a colega, desaparecendo nas nuvens. 
-
-Breno, lutando para manter o controle da lárida, virou para os irmãos.
-
-— Que filha da mãe insistente!
-
-Imediatamente eles seguiram pelo rio, correndo pelo loop de 360 graus que o rio fazia ao redor do braço em que estavam antes. A criatura agora parecia ainda mais furiosa. Ela avançava em zigue-zague, se aproximando com mais estratégia, quase como se tivesse aprendido a seguir o ritmo deles.
-
-— Beatriz, usa seu fogo! — gritou Bruno.
-
-Beatriz estendeu as mãos, invocando uma chama intensa, e lançou-a na direção da criatura. As bolas de fogo iluminaram o rio, criando um espetáculo de luz, mas isso nem sequer causava cócegas na criatura, que rosnava com ainda mais raiva. Ela afundou e subiu com um salto, atingindo a superfície da água e quase os alcançando com as garras afiadas.
-
-Banjo olhou ao redor, percebendo que suas chances de fuga estavam se esgotando rapidamente. Suas láridas estavam sendo empurradas para uma parte estreita do rio, onde não teriam espaço para manobrar.
-
-— Isso não está funcionando… — murmurou Banjo, seus olhos fixos na criatura que os seguia implacavelmente. — Vou tentar do meu jeito.
-
-Ele virou-se para os irmãos, a decisão já tomada.
-
-— Eu vou falar com ela.
-
-— Tá louco? — gritou Breno. — Ela vai te matar!
-
-— Se continuarmos assim, ela vai acabar pegando todos nós! — argumentou Banjo, sua voz decidida.
-
-Sem dar tempo para que os irmãos protestassem, ele soltou as cordas e ficou de pé na lárida, olhando diretamente para a criatura. A fera emergiu mais uma vez, as barbatanas abertas como asas ameaçadoras, os olhos âmbar fixos em Banjo.
-
-Com as mãos levantadas, ele falou em um tom calmo e firme, que se sobrepôs ao rugido da água ao redor.
-
-— Ei… pare, por favor! — Banjo chamou, colocando o máximo de sinceridade na voz. — Não queremos te machucar! Só estamos passando por aqui.
-
-A criatura parou, hesitando. Seus olhos, antes inflamados de fúria, agora pareciam cheios de algo mais: uma dor contida, uma mágoa profunda. Banjo segurou o olhar da fera, tentando mostrar que suas palavras eram verdadeiras.
-
-A fera inclinou a cabeça para ele e abriu a boca, e então, para surpresa de todos, uma voz gutural saiu dela.
-
-— Vocês… me ferem. Vocês todos… machucam as águas onde eu vivo. Não há paz para mim.
-
-Banjo sentiu um peso em seu peito, uma compreensão do sofrimento daquela criatura.
-
-— Eu prometo que não vamos te machucar. Talvez... talvez possamos te ajudar.
-
-Ele deu um passo lento na direção dela, tentando se aproximar. Mas, antes que pudesse estender a mão, a criatura voltou a recuar, seus olhos brilhando de desconfiança.
-
-— Senavelitas mentem. Vocês sempre mentem! — rugiu ela, avançando em sua direção, a boca cheia de dentes serrilhados, pronta para atacá-lo.
-
-Em um movimento rápido, Bruno se lançou em direção ao irmão e o puxou para o lado, evitando por um triz o ataque da criatura. Ambos caíram de volta na lárida, o coração acelerado e o corpo ainda tremendo pelo perigo.
-
-— Você tá maluco, Banjo? — gritou Bruno, tentando esconder o alívio por tê-lo salvado a tempo.
-
-Banjo ficou em silêncio, atordoado, enquanto eles retomavam o trajeto o mais rápido que podiam. A criatura rugiu novamente, mergulhando na água atrás deles, e todos sabiam que precisavam escapar antes que ela tivesse uma nova chance de atacá-los.
-
-Então a criatura saltou mergulhou mais uma vez. Foram segundos antes que ela surgisse novamente e causasse uma onde que empurrasse cada lárida para uma direção, desorientando os garotos. Bruno, lutando para se orientar em meio ao caos, encontrou Breno, que nadava em sua direção com um olhar furioso. Ambos olharam ao redor, mas não encontraram a besta. 
-
-— Isso é sua culpa, Bruno! — gritou Breno, a voz repleta de frustração e medo. — Você não devia ter ido àquela caverna, eu te avisei…
-
-— Ora cale a boca, cabeça de metal, se não fosse por mim, nosso irmão já estava eliminado. 
-
-Breno abriu a boca para responder, mas sua atenção foi atraída por uma figura rápida que passou ao lado deles. Era Ferris, que os observou brevemente com um olhar frio e calculista antes de continuar em alta velocidade, deslizando pela água como se fosse parte dela. A habilidade de Ferris com sua raia era evidente, e Bruno sentiu um misto de admiração e rivalidade ao vê-lo se afastar.
-
-— Olha ali! — gritou Breno, apontando para cima.
-
-Acima deles, em uma faixa invertida do rio, Banjo e Beatriz passavam de cabeça para baixo, gritando e acenando desesperadamente. Banjo, tentando ajudá-los, subiu de pé na raia, estendendo a mão na tentativa de usar sua telecinese para levitá-los até o nível deles. Concentrou-se, e por um breve momento, Bruno e Breno sentiram seus corpos subir com suas láridas. Mas a tensão foi demais, e ambos perderam o equilíbrio, caindo de volta na água com um grande splash.
-
-— Banjo! Beatriz! — Breno gritou, o desespero evidente na voz. 
-
-De repente, o cardume de peixes luminosos deslizou pela água ao lado deles novamente, cercando os irmãos. Este cardume, no entanto possuía cores vivas, e cintilantes. Quando os peixes tocavam suas peles, uma espécie de faísca azul se acendia, e as luzes piscavam ao ritmo de suas respirações. Os irmãos ficaram encantados, rindo em meio ao medo, esquecendo-se por um momento do perigo.
-
-— Isso é… incrível! — Beatriz exclamou, maravilhada, enquanto os peixes pareciam criar uma dança ao redor dela.
-
-Então Bruno viu por debaixo da água algo que de fato não era um cardume. Imediatamente ele avançou para cima de Breno e o empurrou para longe da criatura que subiu tentando abocanhá-los movendo-se com uma ferocidade descomunal e os olhos brilhando com um ódio profundo. A lárida de Breno, não estava mais lá, Breno estava agora sozinho na água. 
-
-— Vamos! — Bruno gritou, puxando Breno pela mão para que subisse em sua lárida. Ele então mergulhou fundo, e a criatura lhes seguiu. Até aquele momento, Breno não tinha percebido como a habilidade nova de Bruno fiuncionava. Mas agora podia ver claramente, o quão rápido ele conseguia se deslocar pela águia. Bruno parecia manipular a água para que sua lárida nadasse mais rápido. A criatura, no entanto, continuava a segui-los. 
-
-Quando sentiu que haviam descido o suficiente, Bruno deu um impulso forte e subiu com tudo, nadando a toda velocidade em direção à superfície. Ele e Breno dispararam da água, saltando para o lado de Banjo e Beatriz, que ainda estavam montados em uma só lárida.
-
-— Ali, é a ilha!— disse Banjo com firmeza. Os garotos viraram o rosto e avistaram a ilha onde haviam começado o desafio. Estavam perto de concluir o desafio. 
-
-Porém assim que começaram a avançar juntos, a figura de Nicolas e Erick surgiu pelo caminho, montados em uma única lárida. Nicolas riu com escárnio, observando o grupo com um olhar de desdém.
-
-— Vocês estão acabados — ele zombou, uma chama se formando nas palmas das suas mãos enquanto Nicolas criava estacas de gelo ao seu lado. — Já era para vocês ter caído. 
-
-Com um gesto rápido, Erick disparou uma bola de fogo, enquanto Nicolas lançava uma lâmina de gelo em direção aos irmãos. Beatriz e Bruno reagiram instantaneamente, tentando contra-atacar com suas próprias magias, mas as rajadas erraram o alvo, apenas espirrando água ao redor.
-
-Os gêmeos gargalharam, claramente se divertindo ao vê-los lutando para se defender. Mas, antes que pudessem lançar um novo ataque, a criatura saltou do outro rio para o que estavam, os olhos focados em Nicolas e Erick. Eles tentaram se desviar, mas o monstro era ágil e astuto, lançando-se na direção deles com as garras estendidas.
-
-Bruno viu a oportunidade e respirou fundo, concentrando toda sua força. Ele estendeu a mão e, com um esforço tremendo, liberou uma onda gelada que atingiu a criatura e os gêmeos. Em um instante, o monstro foi envolto em cristais de gelo, paralisado em um bloco que refletia as luzes da pista, cintilando com intensidade. Erick e Nicolas foram pegos de surpresa e acabaram tropeçando nos fragmentos de gelo flutuantes; a raia deles foi arremessada para longe, e os dois afundaram na água, incapazes de reagir.
-
-Breno olhou para Bruno, os olhos cheios de gratidão e admiração.
-
-— O que foi isso, Bruno? — disse ele, assentindo com um orgulho discreto.
-
-O gelo da criatura começou a desfazer e Bruno olhou para os irmãos. 
-
-— VÃO! — disse ele, soltando sua raia para o irmão mais velho — eu vou tentar segurá-lo por um tempo. Eu alcanço vocês. 
-
-Sem perder tempo, Breno agarrou firme na raia de Bruno,  e junto dos outros dois irmãos, seguiram em direção ao arco final. Banjo e Beatriz seguravam-se como podiam na raia, enquanto Breno olhava para trás para ver se o irmão estava lhes acompanhando. Bruno atirava cortinas de gelo a cada segundos nadados para manter a criatura no lugar. Quando percebeu que estava na distância segura, mergulhou e começou a nadar o mais depressa que podia. Houve um estrondo e a criatura se libertou daquele gelo. Mas felizmente eles estavam longe. 
-
-Quando finalmente cruzaram a linha de chegada, os irmãos se deitaram nas areias, exaustos, mas triunfantes, respirando fundo enquanto trocavam olhares de alívio e alegria.
-
-— Parabéns a todos pelo desafio… — disse a voz de Garmand. O senavelita estava parado ali, olhando para eles — Para os três. 
-
-— Três? — perguntou Beatriz.
-
-— Bruno, você chegou sem a nenhuma lárida. As regras eram claras. Era preciso chegar no destino em uma lárida. Isso significa que você foi eliminado.
-
-As palavras de Garmand caíram como um peso sobre eles. Bruno piscou, surpreso e atordoado, tentando processar o que havia acabado de ouvir.
-
-— Eliminado? — ele murmurou, incrédulo.
-
-Os irmãos ficaram em silêncio, o triunfo de antes se transformando em um momento sombrio, enquanto processavam o que significaria Bruno ter sido eliminado. 
-
-
+Os irmãos ficaram em silêncio, e o triunfo de antes se transformou numa sombra, enquanto entendiam o que aquilo significava.
