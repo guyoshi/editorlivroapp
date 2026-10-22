@@ -10,8 +10,6 @@ Depois disso, o rádio nunca mais tocou.
 
 Desde o acidente, os irmãos Lins moravam na casa do tio Frank, no interior, longe da cidade grande, do barulho dos carros e dos shoppings de que tanto gostavam. Frank fazia o que podia, e até virou taxista para ajudar a pagar as contas. Mas a fiação da casa era velha, o chuveiro desarmava se alguém demorasse demais no banho, e o luto estava em todos os cantos. A pequena Beatriz não tinha mais a mãe para ler livros para ela. O pequeno Banjo não tinha mais o pai para levá-lo ao trabalho. Os dias eram longos e as noites ainda mais.
 
-
-
 Na manhã de 25 de abril, cinco dias antes do seu aniversário, Breno se levantou e foi preparar o café da manhã. Fritou os ovos para comer com a gema mole, como sempre preferiu. Foi então que ouviu um barulho vindo do banheiro. A porta estava entreaberta e a luz apagada. Ele empurrou a porta, acendeu a luz e deu de cara com a irmã, que se assustou e largou a tesoura e um tufo de cabelo.
 
 – O que você está fazendo? – perguntou Breno, apanhando a tesoura do chão.
@@ -58,7 +56,7 @@ Beatriz o puxou para falar baixinho no seu ouvido.
 
 Banjo tinha mesmo problemas para controlar o xixi durante a noite, aos 12 anos, e isso o envergonhava demais. Breno preferiu não responder à irmã e apenas lançou a ela um sorriso forçado.
 
-Quando Banjo saiu do banheiro, de cabeça baixa e já enrolado no cobertor de bordado de animais selvagens que carregava desde pequeno, evitou olhar para todos.
+Quando Banjo saiu do banheiro, de cabeça baixa e já enrolado no cobertor de bordado de animais selvagens que carregava desde pequeno, evitou olhar para todos. 
 
 – Ninguém falou nada, né? – perguntou, quase sem voz.
 
@@ -70,7 +68,7 @@ Lá fora o dia amanhecera nublado, com uma garoa fina e gelada que fazia os vidr
 
 – Aí, Maria-chatice, não vai comer nada não? – chamou Breno.
 
-– Não enche! – resmungou Bruno, colocando os fones de ouvido e ligando o videogame em forma de cubo que ganharam dos pais no último Natal que passaram juntos. Em seguida, tirou um dos fones só para falar: – E alguém avise ao Banjo que o banheiro não é uma moradia.
+– Não enche! – resmungou Bruno, colocando os fones de ouvido e ligando o Nintendo 64 que ganharam dos pais no último Natal que passaram juntos. Em seguida, tirou um dos fones só para falar: – E alguém avise ao Banjo que o banheiro não é uma moradia.
 
 Banjo se encolheu debaixo do cobertor, mas mesmo assim foi se sentar perto do irmão para vê-lo jogar, como sempre fazia.
 

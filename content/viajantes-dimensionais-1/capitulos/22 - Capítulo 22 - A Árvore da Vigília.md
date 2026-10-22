@@ -126,9 +126,7 @@ Velho-Sábio se virou para Banjo.
 
 – Eu sei, Banjo. Você não arrancou a vitalidade da árvore. Sentiu os sentimentos da natureza e conduziu para Bruno a energia que chegou até você. Foi a sua magia que moveu as raízes. A árvore não tinha magia própria, nem falava como nós. – O mago sorriu com tristeza. – Não sabemos se ela respondeu ao seu pedido ou se você percebeu algo que já estava ali. Mas você não a forçou.
 
-Banjo olhou para a palma da mão, lembrando o calor que sentira. O sorriso não veio inteiro.
-
-Banjo ficou vermelho até as orelhas, mas o sorriso não veio inteiro. Esfregou a palma da mão, lembrando a aspereza da casca e os galhos secos. Bruno, ainda de cobertor nos ombros, levantou o copo.
+Banjo ficou vermelho até as orelhas, mas o sorriso não veio inteiro. Esfregou a palma da mão, lembrando o calor que sentira e a aspereza da casca sob os dedos. Bruno, ainda de cobertor nos ombros, levantou o copo.
 
 – Você deve a vida ao seu irmão, Bruno – disse Velho-Sábio.
 
