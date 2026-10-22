@@ -392,7 +392,7 @@ Desceu descalço. Ao abrir a porta dos fundos, recebeu no rosto uma rajada de á
 
 – O dia de vocês foi movimentado. Marimbondos, lâmpadas, um volante congelado...
 
-Breno segurou a maçaneta. O acidente podia ter chegado aos ouvidos de qualquer um. Mas o velho continuou:
+Breno segurou a maçaneta. Como ele sabia daquilo? Então o velho continuou:
 
 – E aquela esfera azul que encontraram na caverna.
 
@@ -400,9 +400,9 @@ Breno recuou para dentro de casa. Nem Frank sabia da esfera.
 
 – Quem contou sobre a caverna?
 
-– Ninguém daqui. Aquela esfera se chama estírio.
+– Ninguém daqui. Chamamos a esfera de estírio.
 
-– Isso não explica como achou a nossa casa.
+– Do quê? 
 
 – Quando vocês tocaram no estírio, um sinal chegou ao lugar de onde venho. Foi assim que os encontrei.
 
@@ -410,27 +410,27 @@ Breno recuou para dentro de casa. Nem Frank sabia da esfera.
 
 – Outra dimensão.
 
-Um trovão estourou sobre a casa. Breno pensou nos irmãos dormindo e resistiu à vontade de subir para acordá-los.
+Um trovão estourou sobre a casa. Breno quis dizer que aquilo era impossível. Lembrou do carro atravessado na árvore e ficou calado. Pensou nos irmãos dormindo e resistiu à vontade de subir para acordá-los.
 
-– Mais alguém sabe?
+– O que era aquela esfera? 
 
-– Sim. Não sei quem mais virá por causa disso.
+– Um objeto mágico que despertou em vocês algo que estava adormecido.
 
-– E você quer o quê?
+– Então isso que tem acontecido... Quem é você, afinal? 
 
-– Que aprendam a controlar o que despertou. De onde venho, há quem possa ensinar vocês. Hoje foi um volante. Da próxima vez, alguém pode se machucar.
+– Alguém que pode ajudar vocês a aprender a controlar o que despertou. De onde venho, há quem possa ensinar vocês. Vocês tiveram sorte no acidente. Mas podem não ter sorte da próxima vez. 
 
 Breno pensava nisso desde que o carro parou. Soltou a maçaneta e sentou-se um degrau abaixo do velho, onde a chuva já alcançava seus pés.
 
-– Se eu pedisse pra você nos levar...
+– E por que está me dizendo isso? 
 
-– Só se os quatro quiserem. Não vou separar vocês. – Ele sorriu. – E, Breno, seu rádio nunca esteve quebrado.
+– Porque quero levá-los para o meu mundo, mas só se os quatro quiserem. Não vou separar vocês. – Ele sorriu e hesitou. – E, Breno, seu rádio nunca esteve quebrado.
 
 – Como sabe do rádio?
 
-– Há coisas que só funcionam quando chega a hora delas.
+– Vocês podem não entender agora. Mas nem funciona pro que vocês acreditam que deve funcionar. 
 
-O velho se levantou com um estalo de joelhos. Saiu debaixo do beiral, e a chuva o engoliu quase de imediato. A luz do cajado recuou pelo quintal, ficou do tamanho de um vagalume e se apagou entre as árvores.
+O velho piscou e se levantou com um estalo de joelhos. Ao sair debaixo do beiral, ergueu o cajado. A chuva se abriu ao redor dele, deixando um círculo seco que acompanhou seus passos pelo quintal. A luz do cajado ficou do tamanho de um vagalume e se apagou entre as árvores. No mesmo instante, a chuva voltou a cair naquele pedaço do chão.
 
 Breno ficou ali, sozinho, ouvindo a chuva, até os pés esfriarem por completo.
 
@@ -442,35 +442,59 @@ Breno contou tudo, em voz baixa. Bruno disse que ele tinha sonhado. Banjo disse 
 
 Breno tirou o aparelho da prateleira. Estava morno, e zumbia tão baixinho que só dava para sentir na palma da mão. Embaixo da tampa das pilhas, o símbolo pequeno que ele nunca soube o que era parecia mais fundo, como se tivesse sido gravado de novo.
 
-– Ele disse que não estava quebrado – falou Breno. – Que estava esperando.
+– Ele disse que não estava quebrado – falou Breno. – Que não funciona como a gente pensava.
 
-– Esperando o quê? – perguntou Banjo.
+– E o que a gente faz? – perguntou Banjo.
 
 Breno demorou para responder.
 
-– Hoje foi o volante. Amanhã podia ser um de nós machucando o outro. Eu fiquei tentando proteger vocês de tudo, mas não dá pra proteger vocês disso. A gente precisa aprender a controlar. Eu preciso aprender.
+– Hoje foi o carro. Amanhã pode ser um de nós machucando o outro. Eu não vou esperar isso acontecer. Se aquele homem sabe como controlar essa magia, a gente precisa aprender. Mas vou ficar de olho nele.
 
-– Você tá dizendo que a gente vai? – Banjo pulou na cama.
+– Você tá dizendo que a gente vai? – Banjo se ergueu na cama.
 
-– Estou dizendo que só vamos se for os quatro. Ou ninguém.
+– Estou dizendo que a gente precisa decidir junto. Eu não conheço aquele homem. Só sei o que aconteceu hoje.
 
-– Eu sempre quis ir – disse Bruno. – Só falei o contrário pra encher o saco.
+Bruno esfregou a palma ainda vermelha.
 
-– Eu tenho medo – disse Beatriz. – Mas com vocês, tenho menos.
+– Também não confio nele. Mas o volante grudou na minha mão. Não dá pra fingir que foi um acidente normal.
 
-Breno colocou o rádio sobre a cama, entre eles. Beatriz colocou a mão em cima. Depois Banjo, depois Bruno, que revirou os olhos antes de pousar a mão como quem ri de si mesmo. Por último, Breno, que respirou fundo.
+– Eu quero entender o que aconteceu na caverna – disse Banjo. – E o que eu sinto perto das árvores.
 
-– Sim? – perguntou ele.
+Beatriz ajeitou a pulseira de Melissa.
 
-– Sim – disse Beatriz.
+– Eu tenho medo de ir. Só que tenho medo de ficar aqui e machucar alguém também.
 
-– Siiiim! – disse Banjo.
+– E o tio Frank? – perguntou Bruno. – Ele vai acordar e não encontrar ninguém.
 
-– Sim, óbvio – disse Bruno.
+Breno olhou para a porta do quarto. Não tinha pensado que a escolha podia acontecer tão depressa.
 
-– Sim – disse Breno.
+– Precisamos falar com ele. Mas antes quero saber o que vocês querem. Se um de nós não quiser ir, ninguém vai.
 
-O rádio estalou. O chiado cresceu e se desfez em notas, e a música começou no meio, como se estivesse tocando em outro lugar desde sempre. O mesmo hit de Roxette que o pai adorava. Uma luz azul-clara subiu da cama e fez o quarto parecer feito de vidro. As paredes ficaram finas, o teto desapareceu e os irmãos sentiram os pés deixarem o colchão.
+Breno colocou o rádio sobre a cama, entre eles.
+
+– Vocês querem tentar? Os quatro?
+
+Banjo pousou a mão no rádio primeiro.
+
+– Eu quero.
+
+Beatriz colocou a mão sobre a dele.
+
+– Se vocês forem comigo, eu também.
+
+Bruno olhou para a palma vermelha, depois para os irmãos, e juntou a mão às deles.
+
+– Eu vou. Mas não vou tirar os olhos daquele velho.
+
+Por último, Breno cobriu as mãos dos três com a sua.
+
+– Então vamos juntos.
+
+O rádio estalou. Breno puxou a mão de volta.
+
+– Espera. O tio Frank...
+
+O chiado cresceu e se desfez em notas, e a música começou no meio, como se estivesse tocando em outro lugar desde sempre. O mesmo hit de Roxette que o pai adorava. Uma luz azul-clara subiu da cama e fez o quarto parecer feito de vidro. As paredes ficaram finas, o teto desapareceu e os irmãos sentiram os pés deixarem o colchão.
 
 Não houve queda. Houve uma subida suave, como a de quem mergulha no mar de olhos abertos.
 
