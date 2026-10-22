@@ -398,7 +398,7 @@ Antes que ele terminasse, Banjo pisou em falso e escorregou para dentro de um bu
 
 – Breninho, não sei se é uma boa ideia entrar aí – disse Beatriz, agarrando a manga dele. – Isso está me assustando.
 
-Nas paredes não havia desenhos nem sinal de que alguém tivesse passado por ali. Só pedras úmidas, musgo e algumas raízes pendendo do teto. A luz azul se espalhava pelas rochas, suave, como se viesse de um pedaço de céu escondido no chão.
+Nas paredes haviam pedras úmidas, musgo e algumas raízes pendendo do teto. A luz azul se espalhava pelas rochas, suave, como se viesse de um pedaço de céu escondido no chão.
 
 – Que lugar é esse?
 

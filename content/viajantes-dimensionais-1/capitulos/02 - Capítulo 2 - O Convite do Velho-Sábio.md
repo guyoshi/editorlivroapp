@@ -1,4 +1,3 @@
-
 Sonhos são incríveis. Levam a gente aos lugares mais distantes e às maiores aventuras. Banjo sempre tivera uma imaginação gigante. Usava-a para criar histórias, inventar desculpas e, muitas vezes, para mentir para si mesmo. Era a fuga que ele tinha da realidade, a chance de que, em algum universo escondido por aí, ele valesse alguma coisa. No entanto, um velho sábio lhe disse uma vez que a imaginação é muito mais poderosa e perigosa que a realidade.
 
 Foi com a imaginação ainda no escuro que Banjo abriu os olhos. Demorou para entender onde estava. Quando enfim se lembrou da bolinha, da luz e do raio, levantou-se depressa e chamou pelos irmãos.
@@ -19,18 +18,17 @@ Foi com a imaginação ainda no escuro que Banjo abriu os olhos. Demorou para en
 
 Breno foi o último a acordar. Banjo precisou sacudi-lo duas vezes. Quando finalmente se sentou, cambaleando, a primeira coisa que ele fez foi apalpar a mochila. O rádio do pai estava lá dentro, mudo, mas quente, como se tivesse acabado de ser desligado.
 
-No lugar onde a esfera azul estivera, havia apenas pedras úmidas. A bolinha tinha desaparecido. Banjo procurou entre as rochas, mas não encontrou nem um reflexo azul. Subiram pelo buraco com Breno servindo de escada e Bruno reclamando do joelho a cada degrau.
+No lugar onde a esfera azul estivera, havia apenas pedras úmidas. A bolinha tinha desaparecido. Banjo procurou entre as rochas, mas não encontrou nem um reflexo azul. Subiram pelo buraco com Breno servindo de escada e Bruno reclamando do joelho.
 
-Quando chegaram ao parque, o céu estava baixo e cinzento, e o ônibus ainda esperava.
+Por sorte conseguiram se guiar até o parque. O céu continuava baixo e cinzento, e o ônibus por sorte ainda esperava.
 
-– Mas onde vocês estavam?! – A professora Anilda contava cabeças pela terceira vez, aliviada e furiosa ao mesmo tempo.
+– Mas... onde vocês estavam?! – A professora Anilda contava cabeças pela terceira vez, aliviada e furiosa ao mesmo tempo.
 
 – Nos perdemos na mata – disse Breno, e era quase verdade.
 
-No fundo do ônibus, Pedro Porrada e a gangue os fuzilaram com os olhos. Pedro passou o dedo pelo pescoço e apontou para Breno. Breno fingiu não ver. Perto da janela, Jennifer acenou para ele com um sorriso torto, e por um segundo ele esqueceu que tinha acabado de viver a tarde mais esquisita da vida.
+No fundo do ônibus, Pedro Porrada e a gangue os fuzilaram com os olhos. Pedro passou o dedo pelo pescoço e apontou para Breno. Breno fingiu não ver. Perto da janela, Tamires acenou para ele com um sorriso torto, e por um segundo ele esqueceu que tinha acabado de viver a tarde mais esquisita da vida.
 
 Naquela noite, colocou o rádio na prateleira do quarto e ficou olhando para ele por muito tempo. Não tocava. Mas a carcaça continuava morna.
-
 
 Na manhã seguinte, chovia de novo.
 
@@ -80,15 +78,15 @@ Banjo estendeu a mão devagar, e o marimbondo caminhou pelos dedos. De perto, da
 
 Os gritos foram gerais. Os alunos correram, a gangue de Pedro também. Pedro, que estava mais perto, tentou se esconder atrás de uma lixeira, escorregou na lama e acabou se trancando no banheiro, enquanto a nuvem zumbia do outro lado da porta. Banjo correu atrás deles, com Beatriz gritando seu nome.
 
-– Chega – sussurrou ele, sem saber por quê.
+– Parem! – sussurrou ele, sem saber por quê.
 
 A nuvem parou. Esperou um segundo, como quem pede licença, e se desfez no ar.
 
 – O que está acontecendo? – O diretor Everton, de cabelo crespo e grisalho, chegou ofegante.
 
-– Um menino passou cercado de marimbondos – disse a professora Marlene, apavorada.
+– Um menino passou cercado de abelhas – disse a professora Marlene, apavorada.
 
-– Foram marimbondos – confirmou Banjo, com a cara mais inocente do mundo.
+– Eram marimbondos – corrigiu Banjo, com a cara mais inocente do mundo.
 
 O diretor bateu na porta do banheiro. Depois de alguns instantes, ela se abriu devagarinho, e Pedro Porrada saiu, molhado de lama dos pés à cabeça, pálido, com uma única picada no meio da testa que já inchava como um terceiro olho. Houve murmúrios, risinhos e gente demais se aproximando para ver.
 
@@ -154,7 +152,6 @@ Melissa olhou para ela por um bom tempo.
 
 Beatriz tinha certeza de que ela não era, mas ficou feliz por ter uma amiga que fingia tão bem.
 
-
 No coral, Beatriz se juntou às colegas ao fundo. A maioria olhava para ela de cima a baixo, como sempre, mas Bia não ligava. Só não suportava cantar várias vezes a mesma coisa. Era o que o tio queria para ajudá-la a fazer amigos, e era também a coisa mais entediante do mundo.
 
 – Beatriz, está fazendo errado, precisa soltar do diafragma – disse a professora Marlene. – Desse jeito vai se cansar muito mais rápido. De novo.
@@ -172,7 +169,6 @@ Quando Beatriz abriu os olhos, estava no meio de um círculo vazio. Todas as men
 Todas, menos Melissa, que olhava para o lustre, depois para a amiga, e sussurrou, de boca aberta:
 
 – Tá. Agora eu acredito de verdade.
-
 
 Foi só depois do almoço, na aula de história, que Breno percebeu que havia algo errado consigo. Ele tentou folhear o livro e a mão atravessou as páginas, como se o livro fosse feito de fumaça.
 
@@ -306,7 +302,6 @@ Frank o encarou em silêncio por um instante e baixou os olhos para o prato.
 
 Ninguém riu. Os quatro se levantaram da mesa quase juntos e foram para o quarto de Banjo, deixando Frank sozinho com o garfo na mão.
 
-
 Banjo apagou a luz e acendeu uma lanterna, de um jeito que iluminava apenas o centro do quarto. No chão, havia uma pilha de coisas inusitadas: uma caixa de cereal vazia, um guarda-chuva dobrado, um gibi de capa rasgada e uma pedra do parque. Também havia uma cartolina com letras grandes: REUNIÃO SECRETA DE ALTA IMPORTÂNCIA MÁGICA.
 
 – Sério, Banjo? – Bruno cruzou os braços. – Uma caixa de cereal e uma pedra? Você quer fazer magia ou coleta de lixo?
@@ -344,7 +339,6 @@ Banjo abaixou a cabeça. Beatriz deu um sorriso encorajador para ele, e Bruno de
 – Vamos, sr. Porta-voz dos espíritos. Você vai dormir.
 
 Antes de apagar a luz, Frank apareceu na porta do quarto dos meninos e deu boa noite. O olhar dele pousou, por um segundo longo demais, no rádio que Breno tinha deixado sobre a prateleira. Depois, fechou a porta.
-
 
 Breno acordou no meio da noite com a sensação de que alguém o chamava. Não era uma voz. Era só a certeza de que havia alguém no quintal.
 
@@ -395,7 +389,6 @@ Breno sabia disso. Pensava nisso desde que o carro parou. Sentou-se um degrau ab
 O velho se levantou com um estalo de joelhos. A luz do cajado foi recuando pelo quintal, ficou do tamanho de um vagalume e se apagou entre as árvores.
 
 Breno ficou ali, sozinho, até os pés congelarem.
-
 
 – Acordem – sussurrou ele, voltando ao quarto.
 
