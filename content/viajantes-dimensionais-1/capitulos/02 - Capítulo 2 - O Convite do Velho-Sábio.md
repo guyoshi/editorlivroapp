@@ -19,7 +19,7 @@ Foi com a imaginação ainda no escuro que Banjo abriu os olhos. Demorou para en
 
 Breno foi o último a acordar. Banjo precisou sacudi-lo duas vezes. Quando finalmente se sentou, cambaleando, a primeira coisa que ele fez foi apalpar a mochila. O rádio do pai estava lá dentro, mudo, mas quente, como se tivesse acabado de ser desligado.
 
-No lugar onde a esfera azul estivera, havia apenas pedras úmidas. A bolinha tinha desaparecido. Banjo procurou entre as rochas, mas não encontrou nem um reflexo azul. Subiram pelo buraco com Breno servindo de escada e Bruno reclamando do joelho a cada degrau.
+A esfera azul não brilhava mais. Era só uma bolinha escura e comum no fundo da caverna, e nenhum deles teve coragem de tocá-la outra vez. Subiram pelo buraco com Breno servindo de escada e Bruno reclamando do joelho a cada degrau.
 
 Quando chegaram ao parque, o céu estava baixo e cinzento, e o ônibus ainda esperava.
 
@@ -362,11 +362,7 @@ Desceu descalço. A chuva tinha parado, e a neblina cobria a grama como leite. N
 
 – Como você sabe?
 
-– Quando uma coisa pequena toca outra, o resto cai como dominó. Vocês tocaram numa bolinha de luz. Chamamos aquilo de estírio. – O velho olhou para as estrelas escondidas atrás da neblina. – Ele aparece quando entende que chegou a hora de alguém despertar a própria magia. Não dá para escolher o momento nem obrigá-lo a surgir.
-
-– E como você descobriu que fomos nós?
-
-– Na quarta dimensão, há uma cidade chamada Tayo. Lá ficam registrados todos os que o estírio toca. Foi assim que encontrei vocês. E não fui o único a saber.
+– Quando uma coisa pequena toca outra, o resto cai como dominó. Vocês tocaram numa bolinha de luz. – O velho olhou para as estrelas escondidas atrás da neblina. – Não foi por acaso, Breno. E não fui o único a perceber.
 
 – Como assim?
 
