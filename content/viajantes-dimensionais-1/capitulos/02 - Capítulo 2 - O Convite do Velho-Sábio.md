@@ -96,11 +96,11 @@ Foi então que algo pousou na mão dele. Um marimbondo, parado de frente, como s
 
 Banjo estendeu a mão devagar, e o marimbondo caminhou pelos dedos. De perto, dava para ver suas perninhas finas e seus olhos escuros. Banjo sorriu para ele. O inseto se virou e levantou voo, e a maior surpresa foi que, quando atingiu o ar, já não estava sozinho. Dezenas de marimbondos saíram do telhado do pátio, como uma nuvem escura, e seguiram juntos em direção a Pedro.
 
-Os gritos foram gerais. Os alunos correram, a gangue de Pedro também. Pedro, que estava mais perto, tentou se esconder atrás de uma lixeira, escorregou na lama e acabou se trancando no banheiro, enquanto a nuvem zumbia do outro lado da porta. Banjo correu atrás deles, com Beatriz gritando seu nome.
+Os gritos foram gerais. Os alunos correram, a gangue de Pedro também. Pedro, que estava mais perto, tentou se esconder atrás de uma lixeira, escorregou na lama e acabou se trancando no banheiro, enquanto a nuvem zumbia do outro lado da porta. Banjo correu atrás dos insetos. Beatriz o alcançou perto do banheiro, chamando seu nome.
 
 – Parem! – sussurrou ele, sem saber por quê.
 
-A nuvem parou. Esperou um segundo, como quem pede licença, e se desfez no ar.
+Os marimbondos continuaram zunindo por um instante, rodopiaram junto à porta e se espalharam pelo pátio, até desaparecerem entre o telhado e as árvores. Banjo ficou olhando. Talvez o vento os tivesse afastado. Ainda assim, não entendeu por que pedira aquilo.
 
 – O que está acontecendo? – O diretor Everton, de cabelo crespo e grisalho, chegou ofegante.
 
@@ -166,9 +166,15 @@ No coral, Beatriz se juntou às colegas ao fundo. A maioria olhava para ela de c
 
 – Beatriz, está fazendo errado, precisa soltar do diafragma – disse a professora Marlene. – Desse jeito vai se cansar muito mais rápido. De novo.
 
-A professora deu as costas, e Bia revirou os olhos para Melissa, que respondeu com uma careta. No segundo teste, ela acertou. No terceiro, sentiu um enjoo e uma pressão na cabeça. Parou de cantar, apoiou a mão na testa e fechou os olhos.
+A professora deu as costas, e Bia revirou os olhos para Melissa, que respondeu com uma careta. Quando a menina apoiou a partitura no colo, Melissa reparou que outra ponta do papel se curvara. Aproximou os dedos e os afastou imediatamente.
 
-Havia um nó quente no peito, do mesmo lugar onde moravam as saudades. Foi crescendo, subindo pela garganta, e ela percebeu que o ar da sala estava ficando abafado, como se alguém tivesse ligado um forno.
+– Tá quente – murmurou.
+
+Beatriz pegou a folha. Não parecia tão quente assim. Talvez Melissa tivesse as mãos frias.
+
+No segundo teste, ela acertou. No terceiro, sentiu um enjoo e uma pressão na cabeça. Parou de cantar, apoiou a mão na testa e fechou os olhos.
+
+Havia um nó quente no peito, do mesmo lugar onde moravam as saudades. Foi crescendo, subindo pela garganta, e ela percebeu que o ar da sala estava ficando abafado, como se alguém tivesse ligado um forno. Melissa afrouxou a gola da blusa. As meninas mais próximas também começaram a se abanar.
 
 – Bia? – sussurrou Melissa.
 
@@ -176,9 +182,51 @@ O primeiro estouro veio do lustre. Pop. Uma lâmpada se partiu em mil pedacinhos
 
 Quando Beatriz abriu os olhos, estava no meio de um círculo vazio. Todas as meninas tinham se encostado nos cantos. O piano estava intacto, mas o lustre era só um esqueleto de fios. Todas olhavam para ela.
 
-Todas, menos Melissa, que olhava para o lustre, depois para a amiga, e sussurrou, de boca aberta:
+A professora Marlene mandou todos saírem da sala, tomando cuidado com os cacos de vidro. No corredor, algumas meninas falavam de um curto-circuito. Outras reclamavam do calor. Beatriz não conseguia parar de tremer.
 
-– Tá. Agora eu acredito de verdade.
+Melissa se aproximou e segurou a mão da amiga. Soltou-a quase imediatamente.
+
+– Bia, você tá muito quente. Tá com febre?
+
+– Não sei. Minha cabeça tá doendo.
+
+Melissa olhou para a partitura que Beatriz ainda segurava. As pontas estavam escurecidas.
+
+– Primeiro minha água ficou morna. Depois esse papel esquentou. E agora as lâmpadas... – Ela abaixou a voz. – Você sentiu alguma coisa antes?
+
+– Calor. Muito calor.
+
+– Eu também senti. Mas... por que perto de você?
+
+Beatriz encarou a amiga, assustada.
+
+– Você acha que fui eu?
+
+– Eu não sei. Talvez seja só um curto-circuito, como estão dizendo. Só que as folhas também ficaram queimadas. E a sua mão...
+
+– Mel, eu não fiz nada.
+
+– Eu sei que você não fez de propósito – respondeu Melissa, com cuidado. – Você tá sentindo isso desde quando?
+
+Beatriz hesitou. Lembrou da esfera azul, dos irmãos caídos no chão da caverna e do rádio que voltara a tocar.
+
+– Ontem a gente achou uma caverna na mata. Tinha uma bolinha brilhante lá dentro. Nós encostamos nela e... aconteceu uma coisa muito estranha.
+
+Melissa franziu a testa.
+
+– Você tá falando que uma bolinha fez isso tudo?
+
+– Não. Eu nem sei se uma coisa tem a ver com a outra. Só sei que desde ontem não tô me sentindo bem.
+
+Melissa encostou de leve os dedos na testa dela.
+
+– Então você tem que contar pro seu tio. Ou pra um médico.
+
+– Eu vou falar com ele. Só... não conta dessa caverna pra ninguém, por favor. Nem eu sei explicar.
+
+– Eu? Sou um túmulo.
+
+Beatriz quis sorrir, mas estava assustada demais. Melissa continuou ao seu lado até que a professora mandou as duas para a próxima aula. Não tinham encontrado explicação nenhuma.
 
 Foi só depois do almoço, na aula de história, que Breno percebeu que havia algo errado consigo. Ele tentou folhear o livro e a mão atravessou as páginas, como se o livro fosse feito de fumaça.
 
@@ -206,7 +254,7 @@ Beatriz sorriu pela primeira vez no dia e deixou que a amiga amarrasse o fio no 
 
 – Acho que comi alguma coisa estragada – murmurou ela, abraçando a si mesma. – Tô meio enjoada.
 
-– Tá falando sério ou só tentando escapar do coral? – provocou Bruno, mas sem a confiança de sempre. Desde o intervalo, repetia que o lustre só tinha sofrido um curto-circuito, embora ninguém tivesse pedido sua opinião.
+– Tá falando sério ou só tentando escapar do coral? – provocou Bruno, mas sem a confiança de sempre. Desde que soubera do lustre, repetia que tinha sido um curto-circuito, embora ninguém tivesse pedido sua opinião.
 
 O carro de Frank chegou, e todos se espremeram no banco de trás. Breno ficou ao lado de Beatriz e segurou a mão dela. Conforme subiam pela estrada sinuosa em direção à casa, o mal-estar da menina piorou. Ela fechava os olhos e respirava fundo, como se estivesse se segurando.
 
