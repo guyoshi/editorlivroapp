@@ -394,6 +394,8 @@ Mas ninguém riu de verdade. Beatriz abraçou os joelhos.
 
 – Não sabemos quem saiba, Banjo – disse Breno. – E não sabemos o que a gente iria encontrar. Aqui, ao menos, a gente conhece o chão em que pisa. Eu sugiro que a gente não faça nada por enquanto. Ninguém conta nada pra ninguém.
 
+Beatriz ajeitou a pulseira de Melissa e ficou olhando para o nó de fios coloridos, sem dizer nada.
+
 Banjo abaixou a cabeça. Beatriz deu um sorriso encorajador para ele, e Bruno deu um tapinha nas costas dele.
 
 – Vamos, sr. Porta-voz dos espíritos. Você vai dormir.
