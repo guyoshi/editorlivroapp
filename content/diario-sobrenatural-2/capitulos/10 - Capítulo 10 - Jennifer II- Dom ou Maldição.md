@@ -24,9 +24,7 @@ Encostado à parede, agachado no chão, havia um garoto com mais ou menos a minh
 
 — Oi, Matheus… o que está fazendo no meu quarto? — eu perguntei, tentando manter aquela educação automática que os adultos ensinavam.
 
-— Eu… não sei. Acho que estou perdido — disse ele.
-
-— Não. Estou só perdido — ele falou, como se “perdido” fosse um lugar onde a gente mora.
+— Eu… não sei. Estou só perdido — ele falou, como se “perdido” fosse um lugar onde a gente mora.
 
 — Meus pais não me deixam sair daqui.
 
@@ -334,9 +332,9 @@ Peguei o telefone e liguei.
 
 — Digamos que… eu a segui. Mas não sou desse tipo. Só fiz porque ela está se envolvendo com meu primo Jason, e eu quero saber bem onde ela mora pra jogar uma bomba na casa dela caso ela magoar o coração do meu priminho querido. Mas e aí… pensou em alguma história convincente?
 
-— Na verdade, não. Eu estou ligando porque eu não vou usar história alguma. Eu estou disposta contando exatamente tudo o que aconteceu. Toda a verdade.
+— Na verdade, não. Eu estou ligando porque eu não vou usar história alguma. Eu estou disposta a contar exatamente tudo o que aconteceu. Toda a verdade.
 
-— Jennifer… você me contou o que diz ser a verdade, e se eu não fosse um pouco mente aberta, juro que riria de você e acharia que estava inventando uma história maluca para inocentar seu… irmão…
+— Jennifer… você me contou o que diz ser a verdade, e se eu não fosse um pouco de mente aberta, juro que riria de você e acharia que estava inventando uma história maluca para inocentar seu… irmão…
 
 — Não interessa o que eles pensem. Se quer uma história, você a terá. Mas será a história verdadeira.
 

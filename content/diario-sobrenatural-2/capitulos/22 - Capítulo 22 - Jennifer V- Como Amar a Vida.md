@@ -1,6 +1,6 @@
-O silêncio da casa da Sra. Olívia era denso. A chuva tamborilava contra as janelas e o som constante fazia o tempo se arrastar. Eu estava deitada, inquieta, no quarto envolto em sombras, com a sensação de algo iminente.
+O silêncio da casa da Sra. Olívia era denso. A chuva tamborilava contra as janelas e o som constante fazia o tempo se arrastar. Sem luz elétrica, a escuridão ali não era a de uma casa à noite: era a de um lugar que tinha todo o tempo do mundo. A vela do criado-mudo tinha derretido até o toco, e a sombra dela tremia na parede, mesmo sem vento. Eu estava deitada, inquieta, no quarto envolto em sombras, com a sensação de algo iminente. Em algum ponto do forro, um peso leve rolou de uma ponta à outra e parou.
 
-Levantei e desci as escadas, obedecendo à minha bexiga. Mas o andar de baixo era um corredor estreito, cercado por grades enferrujadas que se estendiam até onde a vista alcançava. O chão estava coberto por um líquido viscoso e frio que engolia meus passos, e o ar tinha cheiro de carne queimada e decomposição.
+Levantei e saí do quarto, obedecendo à minha bexiga. Mas o corredor da casa tinha mudado: era estreito, cercado por grades enferrujadas que se estendiam até onde a vista alcançava. O chão estava coberto por um líquido viscoso e frio que engolia meus passos, e o ar tinha cheiro de carne queimada e decomposição.
 
 Mais adiante, um corpo em chamas alaranjadas estalava e lançava sombras dançantes nas paredes. O calor parecia real.
 
@@ -10,7 +10,7 @@ Nas sombras atrás de mim, algo branco se destacou. Apertei os olhos e vi, pelo 
 
 O grito que tentei soltar foi abafado, e acordei com o coração disparado e o corpo coberto de suor frio. O quarto estava em silêncio, a chuva menos densa do que de madrugada.
 
-Pedro dormia ao meu lado, mas Filipo estava sentado em sua cama, olhando para mim. Se levantou com rapidez.
+Pedro dormia ali perto, mas Filipo estava sentado em sua cama, olhando para mim. Se levantou com rapidez.
 
 — Pesadelo? — Filipo perguntou, a voz baixa.  
 
@@ -44,11 +44,11 @@ Contei o que Filipo me disse e o que sonhei. A Sra. Olívia não demonstrou rea�
 
 — Você já aprendeu uma forma. Equilíbrio espiritual. E agora... precisa aprender a usar sua vitalidade — disse a Sra. Olívia. 
 
-Terminado o chá, a Sra. Olívia me levou para a sala e me sentou no sofá.
+Terminado o chá, a Sra. Olívia me levou para a sala, acendeu uma vela em cada canto, mesmo de manhã, e me sentou no sofá. O salão cheirava a cera e a terra molhada, e os espelhos cobertos de preto pareciam escutar.
 
-— Vitalidade é, como o nome diz, o que é vital para a vida. Sem ela não podemos viver — começou ela. 
+— Escute — começou ela, baixando a voz até a chuva quase cobri-la. — Vitalidade é, como o nome diz, o que é vital para a vida. Sem ela não podemos viver. 
 
-A Sra. Olívia pegou um vaso no armário e o pousou na mesa à minha frente. Despejou um pó dentro e ateou fogo. Chamas azuis se ergueram no ar.
+A Sra. Olívia abriu um armário que rangeu como gente, tirou de dentro um vaso escuro e o pousou na mesa à minha frente. Despejou um pó dentro e ateou fogo. Chamas azuis se ergueram no ar.
 
 — O termo vitalidade era usado para pessoas vivas até os primeiros estudos espirituais começarem a compreender as forças sobrenaturais da forma que elas funcionam. Quando você morre, sua alma carrega sua vitalidade consigo. Isso significa que espíritos também possuem essa força de vida. E é dessa força que os demônios se alimentam. Se você consegue controlar sua vitalidade, bloquear, transformá-la... você se torna impenetrável. O que eu vou te passar aqui, é apenas teórico para mim. Eu não tenho forças o suficiente para controlar a minha vitalidade, mas você sendo uma selifa, com certeza consegue. 
 
@@ -116,7 +116,7 @@ Sra. Olívia sorriu para mim e também se levantou.
 
 Estava cansada, e aquilo que a Sra. Olívia me disse surgia como facas ricocheteando em meu cérebro. Quando eu achava que minha vida tinha um sentido, ela deixava de ter. 
 
-Após o almoço, decidi sair para tomar um ar do lado de fora. Pedro ficou dentro de casa assistindo TV. E enquanto eu descansava perto de uma árvore, Filipo se sentava do meu lado. 
+Após o almoço, decidi sair para tomar um ar do lado de fora. Pedro ficou dentro de casa, no sofá, lendo um gibi velho que achou numa gaveta, à luz de uma vela que fazia questão de acender em pleno dia. E enquanto eu descansava perto de uma árvore, Filipo se sentava do meu lado. 
 
 — Ainda não está com a cara boa — ele me disse — ainda é o pesadelo? 
 
@@ -450,4 +450,3 @@ Hesitei antes de me expressar.
 
 Ela se aproximou de mim e me beijou mais uma vez. Mas dessa vez, diferente da loucura de antes, tivemos todo o tempo do mundo para saborear o momento. Minha respiração era diferente ali, meu coração batia diferente, eu nunca tinha sentido aquilo antes. A única coisa que eu queria era passar o resto da minha vida debaixo daquela ponte sentindo aquilo.
 
- 

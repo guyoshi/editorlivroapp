@@ -241,7 +241,7 @@ Quando me afastei, ele sorriu com triunfo.
 
 Eu sorri e assenti de volta. 
 
-— Eu só… tive um dia difícil—falei. 
+— Eu só… tive um dia difícil — falei. 
 
 Ele pareceu gostar disso. Gostou demais. Passou por mim, caminhando em direção ao corredor, e antes de subir parou, como se se lembrasse de algo importante.
 

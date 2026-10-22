@@ -40,7 +40,7 @@ Minha mãe apareceu com aquela cara de “Pedro, pelo amor de Deus, é cedo”, 
 
 — Igual a semana passada, ou a anterior, ou aquela vez que a diretora me ligou dizendo que você estava tentando entrar pelos fundos porque já tinham fechado o portão.
 
- — Você tem que agradecer que eu queria entrar. A maioria quer fugir — falei, a boca cheia de pasta. 
+— Você tem que agradecer que eu queria entrar. A maioria quer fugir — falei, a boca cheia de pasta. 
 
 Quando terminei, fui pro quarto, vesti o uniforme do colégio Joana Andrade, enfiei o caderno na mochila e desci. 
 
@@ -150,7 +150,7 @@ Eu virei devagar.
 
 — Balofo — ele falou, e deu um passo, achando que estava arrasando. 
 
-Em situações normais, eu ironizaria e iria embora. Mas eu já estava exausto. Era sempore a mesma coisa. Trocava de escola, mas pareciam ser sempre os mesmos idiotas.
+Em situações normais, eu ironizaria e iria embora. Mas eu já estava exausto. Era sempre a mesma coisa. Trocava de escola, mas pareciam ser sempre os mesmos idiotas.
 
 — Anda vendo muitos fantasmas, bolinha?
 

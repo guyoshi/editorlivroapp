@@ -523,7 +523,7 @@ Glenda, finalmente, resolveu falar, com aquele tom de falsa casualidade que ela 
 
 — Você tá bonita hoje, Priscila. — ela disse, e eu senti o veneno doce no elogio. — Quase nem parece a mesma pessoa da hamburgueria.
 
-— E você tá igual. — eu respondi, sem olhar para ela. —A mesma cobra venenosa de sempre.
+— E você tá igual. — eu respondi, sem olhar para ela. — A mesma cobra venenosa de sempre.
 
 Ela riu como se eu tivesse feito piada.
 

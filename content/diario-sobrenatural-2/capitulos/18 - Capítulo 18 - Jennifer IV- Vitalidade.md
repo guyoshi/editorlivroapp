@@ -1,323 +1,341 @@
-A manhã surgiu limpa e serena. Nada de pesadelos, nem visões. Tudo estava tranquilo. Raios de sol entravam pelas frestas das cortinas na frente da janela. O dia parecia bonito e ensolarado. Me levantei e vi que Pedro ainda dormia. Filipo, no entanto, já estava de olhos abertos. 
+A manhã chegou limpa. Nada de pesadelos, nada de visões. Raios de sol atravessavam as frestas das cortinas pesadas da janela em fios finos, e o resto do quarto continuava em penumbra, como se a casa não tivesse combinado com o dia. Levantei devagar. Pedro ainda dormia no colchão do chão, de boca aberta, com a bombinha embaixo do queixo. Filipo, na cama ao lado, estava de olhos abertos, fixos no teto.
 
-— Acordou faz tempo? — perguntei a ele. 
+— Acordou faz tempo? — perguntei, baixo.
 
-— Não dormi quase nada — falou Filipo — qualquer ruído, vento, qualquer coisa... me fazia me lembrar do Cara-de-Larva. 
+— Não dormi quase nada — ele disse. — Qualquer ruído me fazia lembrar do Cara-de-Larva. O vento, o telhado, aquele negócio de vidrinho no portão. — Esfregou o rosto. — Você ouviu?
 
-Podia ver nos olhos de Filipo que ele estava cansado e amedrontado. Eu tinha dó dele, mesmo após tudo o que ele fez. Entendia claramente que assim como Junior e Kelly, ele tinha sido manipulado pelos demônios. Me virei para ele e falei:
+— Ouvi — respondi. — Achei que era o vento.
 
-— Se for verdade que a alma de seu pai foi devorada pelo Cara-de-Larva... então, quando o derrotarmos, conseguiremos tirá-lo de lá, certo? 
+— Eu também.
 
-— Eu não sei. Só sei que ele não vai mais voltar, Jennifer — Filipo me disse — Eu vou derrotar este monstro e vou libertar sua alma se for possível... mas ainda assim... eu nunca mais vou tê-lo de volta. 
+Nenhum dos dois acrescentou nada. Do lado de fora, nas gaiolas do salão, os passarinhos continuavam calados.
 
-— Como tem a certeza disso? — perguntou Jennifer — ele pode escolher não continuar. 
+Havia sombras fundas sob os olhos de Filipo, e um jeito de segurar os próprios ombros, como quem teme que se soltem. Eu tinha dó dele, mesmo depois de tudo. Entendia que, como Junior e Kelly, ele tinha sido manipulado pelos demônios. Sentei na beira da cama.
 
-— E ficará aqui no mundo dos mortais para sempre? Que alma escolheria isso? 
+— Se a alma do seu pai realmente foi devorada pelo Cara-de-Larva — falei —, então, quando a gente o derrotar, talvez consiga tirá-lo de lá. Certo?
 
-— A alma de um pai que ama o filho. Além disso, se Olívia estiver certa e eu ser uma selifa, isso significa que minhas habilidades ainda não são compreendidas. Pode ser que eu consiga o trazer de volta para você de alguma forma. 
+— Eu não sei. Só sei que ele não vai voltar, Jennifer. Eu vou derrotar esse monstro, e se der, libero a alma dele. Mas ainda assim eu nunca mais vou tê-lo de volta.
 
-Filipo não respondeu, apenas desceu os cabelos sobre a mão. 
+— Como você tem tanta certeza? Ele pode escolher não ir embora.
 
-— Eu sei a imagem que ele passou para vocês... mas ele seria capaz de qualquer coisa por nós. 
+— E ficar aqui, entre os mortos, para sempre? Que alma escolheria isso?
 
-— Inclusive atirar num adolescente? — perguntou a voz de Pedro. Não tinha reparado que ele já tinha acordado. 
+— A de um pai que ama o filho. — Dei de ombros. — E se a Olívia estiver certa e eu for uma selifa, ninguém sabe até onde isso vai. Pode ser que eu consiga trazê-lo de volta para você, de alguma forma.
 
-— Ele nunca quis te matar — falou Filipo — As pessoas fazem coisas ruins quando estão desesperadas. Isso não significa que elas sejam ruins. 
+Filipo não respondeu. Passou a mão pelos cabelos, devagar.
 
-Aquelas palavras pareceram atingir Pedro com força, e vi em seus olhos o reflexo de seu passado. 
+— Sei a imagem que ele deixou para vocês — disse por fim. — Mas ele seria capaz de qualquer coisa por nós dois.
 
-Me levantei e saí do quarto, me retirando daquele clima pesado. Não havia nenhuma alma por ali, só as árvores distantes e o céu azul. De alguma forma, Olívia tinha transformado sua casa em uma fortaleza contra espíritos. 
+— Inclusive atirar num adolescente? — perguntou a voz de Pedro, rouca de sono. Eu não tinha reparado que ele tinha acordado.
 
-Assim que cheguei na cozinha, me deparei com ela. A Sra. Olívia estava na porta, olhando para fora, os cabelos soltos, enquanto o vento os remexia. 
+— Ele nunca quis te matar — Filipo falou. — As pessoas fazem coisas ruins quando estão desesperadas. Isso não faz delas pessoas ruins.
 
-— Bom dia! — disse-me a senhora. 
+A frase atingiu Pedro com mais força do que ele deixou transparecer. Vi o reflexo de alguma coisa antiga passar pelos olhos dele e sumir. Levantei e saí do quarto, para largar aquele clima pesado lá dentro.
 
-— Bom dia Sra. Olívia — falei — como está? 
+O corredor estava como na noite anterior: retratos de olhos fundos, portas fechadas, a fita vermelha na maçaneta da porta que não se abria. De dia, as velas apagadas tinham o aspecto de dentes. Passei sem encostar em nada.
 
-— Espiritualmente incomodada — ela me respondeu. 
+Na cozinha encontrei a Sra. Olívia parada na porta dos fundos, olhando para fora, os cabelos soltos mexidos pelo vento. A lamparina da noite ainda ardia na mesa, em pleno dia, com a chama reta.
 
-— Como? — perguntei. 
+— Bom dia, menina.
 
-— A sua presença é realmente inquietante. Eles ficam olhando para cá, como se você fosse uma entidade. 
+— Bom dia, Sra. Olívia. Como a senhora está?
 
-Caminhei até a porta e olhei para o quintal. Os olhos que não tinha notado, estavam lá, mas distantes, escondidos entre as árvores mais longínquas de meu campo de visão. 
+— Espiritualmente incomodada — ela respondeu, sem se virar.
 
-— Sempre foi assim — respondi. 
+— Como assim?
 
-— Não é à toa. Eles têm medo de você. 
+— A sua presença inquieta, Jennifer. Eles ficam olhando para cá, como se você fosse uma entidade.
 
-— Medo? — indaguei — como é que um morto teria medo de um vivo? 
+Cheguei até a porta e olhei o quintal. Os olhos que eu não tinha notado estavam lá, longe, escondidos entre as árvores mais distantes do meu campo de visão, onde acabava o muro de pedra e começava o mato. Quietos. Nenhum se aproximava.
 
-— Já te disse que uma médium do seu tipo é um elo entre os mundos. Você é uma distorção entre o que se chama de vivo ou morto. 
+— Sempre foi assim — falei.
 
-— O que isso quer dizer? — perguntei. 
+— Não é à toa. Eles têm medo de você.
 
-— Isso quer dizer que deve tomar cuidado com as suas habilidades — disse a Sra. Olívia — venha cá, vamos tomar um chá. 
+— Medo? Como um morto teria medo de um vivo?
 
-Caminhei para dentro enquanto a Sra. Olívia me preparava um chá quente. Sentei no sofá e vi Pedro descendo as escadas.
+A Sra. Olívia finalmente se virou. Baixou a voz até onde a gente é obrigada a se inclinar para ouvir.
 
-— Como foi sua noite? — Pedro me perguntou se sentando ao meu lado — algum pesadelo? 
+— Já lhe disse: uma médium do seu tipo é um elo entre os mundos. Você não é viva nem morta como eles entendem. É uma fresta. E com fresta, menina, a gente aprende a ter respeito: é por ela que entra o frio.
 
-— Não — respondi — uma noite normal. 
+— E isso quer dizer o quê?
 
-— Meus pais devem estar malucos — disse Pedro — acha melhor eu ligar para eles? 
+— Que tem de tomar cuidado com o que você é. — Ela mancou até o fogão de lenha. — Venha. Vamos tomar um chá antes que o dia esfrie.
 
-— Quer que eu seja sincera? — perguntei — não acho. Quanto mais longe eles ficarem de você, mais seguros estão. Nesse momento é melhor que ninguém saiba onde estamos. 
+Sentei no sofá do salão, onde os panos pretos ainda cobriam os espelhos e o pêndulo marcava um tique-taque que parecia ouvir a gente. Pedro desceu a escada, esfregando os olhos, e sentou ao meu lado.
 
-— Então foi por isso que... — Pedro parou, e então mudou de assunto, em outro tom — Bom dia Sra. Olívia. 
+— Como foi sua noite? Algum pesadelo?
 
-— Por isso que o quê? — perguntei. 
+— Não. Uma noite normal.
 
-— Esqueci do que eu estava falando — disse Pedro — minha cabeça anda maluca. 
+— Meus pais devem estar malucos. Acha melhor eu ligar para eles?
 
-Ele não tinha esquecido nada. Pedro não sabia mentir. Pelo menos, eu sabia bem quando ele estava tentando disfarçar. 
+— Quer que eu seja sincera? — Hesitei. — Não acho. Quanto mais longe ficarem de você, mais seguros. Por ora é melhor ninguém saber onde estamos.
 
-Olhei para a janela, e uma brisa fina me atingiu. A brisa carregava uma tranquilidade serena que me fez relaxar os músculos e encostar minhas costas no sofá. 
+— Então foi por isso que... — Pedro parou, e mudou de assunto, num tom diferente. — Bom dia, Sra. Olívia.
 
-— É boa a sensação, não é? — perguntou a Sra. Olívia me trazendo um chá. 
+— Por isso o quê? — perguntei.
 
-— Obrigado! — respondi — Mas de que sensação fala? 
+— Esqueci o que eu ia falar. A cabeça anda maluca.
 
-— Sei que sentiu isso. Esse lugar está livre de qualquer espírito, maldição ou entidade maligna. Por isso é muito mais comum sentirmos isso. 
+Ele não tinha esquecido nada. Pedro nunca soube mentir; eu sabia muito bem quando ele disfarçava.
 
-— Está falando da brisa? — perguntei — sempre achei que isso era normal. 
+Uma brisa fina entrou por alguma fresta e me alcançou. Tinha uma serenidade estranha, que me fez soltar os músculos e encostar as costas no sofá.
 
-— Que brisa? — perguntou Pedro. 
+— É boa a sensação, não é? — perguntou a Sra. Olívia, trazendo o chá.
 
-— O que você não sentiu não foi uma brisa. E sim a energia espiritual. Algo que tudo e todos temos. A energia espiritual está sempre vagando por aí, pelo ar. Uma selifa consegue compreendê-la e usá-la ao seu favor. Desde uma simples formiga, até as gigantescas sequoias, tudo possui energia espiritual. Acontece que de todas as espécies, os humanos são os únicos que não aceitam a morte. E por isso às vezes se perdem de seus caminhos. 
+— Obrigada. Mas de que sensação a senhora fala?
 
-— Quando você diz que eles perdem seus caminhos... para onde exatamente eles vão? — perguntei. 
+— Sei que sentiu. Este lugar está livre de qualquer espírito, maldição ou entidade maligna, e por isso essa sensação é mais comum aqui.
 
-— Se eu soubesse, nao estaria aqui agora conversando com você. Ninguém sabe o que vem após a morte. Eu só não acho que a linda história de um paraíso perfeito se encaixa em nosso mundo. Não sei. Eu acredito que toda energia é renovada. Nossa energia renasce... talvez não da mesma forma. 
+— A brisa? — perguntei. — Sempre achei que isso era normal.
 
-— Não da mesma forma? Então se eu morrer, posso renascer como uma árvore? 
+— Que brisa? — disse Pedro.
 
-— Ou uma águia, ou um golfinho, ou alguma criatura daqui há centenas de milhares de anos. A vida de todos é importante, por isso devemos compartilhar o mundo. 
+— O que ela sentiu não foi uma brisa, menino — respondeu a Sra. Olívia, e se sentou na cadeira de balanço, de frente para nós, com as mãos nos joelhos e a vela ao lado. — Foi energia espiritual. Algo que tudo e todos têm. Ela vaga pelo ar, o tempo todo. Uma selifa consegue compreendê-la e usá-la a seu favor. Da formiga à sequoia, tudo possui. Só que, de todas as espécies, os humanos são os únicos que não aceitam a morte. E por isso se perdem do caminho.
 
-A Sra. Olívia me chamou com as mãos e se dirigiu até a porta enquanto eu bebia meu chá. A segui e saímos para fora. 
+O pêndulo bateu um tique. Ela esperou o próximo antes de continuar.
 
-O terreno da casa dela era plano e podia ver bem melhor ao redor agora de dia. As árvores se escondiam atrás das cercas no horizonte e uma pequena lagoa repousava ao lado da casa dela. Caminhamos juntas até a parte de trás da casa, onde avistei uma égua branca dentro de um pequeno estábulo. 
+— Se perdem — repeti. — Para onde vão?
 
-— Que linda! — exclamei encantada com o animal. 
+— Se eu soubesse, não estaria aqui. Ninguém sabe o que vem depois. Só não acredito que a história bonita de um paraíso arrumado caiba neste mundo. Acredito que toda energia se renova. Talvez não da mesma forma.
 
-— Essa é a Leila. A primeira coisa que comecei a perceber quando via os espíritos, era que eu era capaz de sentir suas vitalidades — disse a Sra. Olívia, se aproximando da égua e a tocando — vamos, experimente. 
+— Então, se eu morrer, posso renascer como árvore? — Pedro disse.
 
-Hesitante, me aproximei de Leila e ergui a mão, tocando de leve em seu rosto. Seus grandes olhos me encantaram, nunca tinha tocado em um cavalo antes. 
+— Ou águia. Ou golfinho. Ou alguma coisa daqui a centenas de milhares de anos. — A boca dela se curvou de leve. — Toda vida importa. Por isso a gente divide o mundo.
 
-— Feche os olhos e sinta a respiração dela. Os batimentos — disse a Sra. Olívia — sua energia. 
+Ela se levantou, fez sinal com a mão e foi até a porta dos fundos. Terminei o chá e a segui.
 
-Obedeci e fechei meus olhos. Podia ouvir a respiração de Leila e sentir levemente seus batimentos pelas pontas dos dedos. Mas apenas alguns segundos tocando a égua, senti novamente aquela brisa a que eu estava tão habituada, mas nunca imaginei se tratar de algo assim. 
+O terreno era plano, e de dia pude ver melhor o entorno: o muro baixo de pedra, as árvores escondidas atrás de cercas no horizonte, uma lagoa pequena ao lado da casa, de água parada e escura como um espelho sem pano. Atrás da casa havia um estábulo, e dentro dele uma égua branca.
 
-— Eu sinto — disse, de olhos ainda fechados — mas não sei o que isso significa. 
+— Que linda! — exclamei.
 
-— Vitalidade é a força que todas as almas possuem. E é o alimento preferido dos demônios. Todos nós, criaturas vivas somos suscetíveis a ser possuídos pelos demônios. Eles se alimentam de nossa vitalidade até nos esgotar. 
+— É a Leila. A primeira coisa que percebi, quando comecei a ver espíritos, foi que eu também sentia as vitalidades — disse a Sra. Olívia, tocando o pescoço da égua. — Vá. Experimente.
 
-— Se você é capaz de sentir toda essa vitalidade... será capaz de sentir quando um demônio está se aproximando. Demônios são como uma anti-vitalidade. Você sente como se toda energia estivesse sendo sugada para um único ponto, frio e sombrio. Os animais podem não se comportar direito, as pessoas podem perder a noção de muitas coisas.
+Hesitei e levantei a mão até o rosto dela. Nunca tinha tocado num cavalo. Os olhos de Leila eram grandes e molhados, mas não olhavam para mim. Olhavam por cima do meu ombro, para o mato.
 
-Isso me fez me lembrar do ano anterior, os ratos, os pássaros que Junior e Kelly mencionaram no diário e os outros animais que nos atacaram.
+— Feche os olhos. Sinta a respiração dela, o pulso. A energia.
 
-— Os demônios que nos atacaram no ano passado usavam espíritos para nos atingir. A garota tinha controle sobre os animais. Ela fazia com que eles nos atacassem. Seus olhos embranqueciam. 
+Obedeci. Ouvi a respiração larga, senti o pulso nas pontas dos dedos. Em poucos segundos, voltou aquela brisa a que eu era tão acostumada e que nunca imaginei ser algo assim.
 
-Sra. Olívia pensou e olhou em meus olhos. 
+— Sinto — falei, de olhos fechados. — Mas não sei o que significa.
 
-— Ao possuir a vitalidade de um espírito, os demônios projetam seus medos, anseios, memórias, tudo o que aquela vida viveu, em uma força maligna. Talvez a garota que me diz tenha tido experiências muito ruins com esses animais... ou ela era apaixonada por eles. Algum sentimento forte estava envolvido. Você precisa fortalecer sua alma. Para que nenhum demônio consiga usar seus sentimentos mais fortes contra aqueles que estão próximos a você, como fizeram comigo e com muitos outros. 
+— Vitalidade é a força que todas as almas possuem. É o alimento preferido dos demônios. Todos nós, criaturas vivas, podemos ser possuídos. Eles se alimentam da nossa vitalidade até nos esgotar. — Ela falava devagar, com pausas calculadas, como quem conta uma história antiga para crianças e quer que elas durmam com a luz acesa. — E quem aprende a sentir toda essa vitalidade aprende também a sentir quando um demônio se aproxima. Demônio é uma anti-vitalidade. Sente-se como se toda a energia do lugar escorresse para um único ponto, frio e escuro. Os bichos ficam esquisitos. As pessoas perdem a noção das coisas.
 
-— Lamento, mas os demônios irão se decepcionar comigo. Não tenho sentimentos fortes com nada. Minha vida foi sempre uma droga. Nunca tive amigos. Só ano passado que eu finalmente conheci o Pedro e a sua neta... foi que eu realmente senti que tinha amigos.
+Lembrei do ano passado: os ratos, os pássaros que Junior e Kelly citaram no diário, os animais que nos atacaram.
 
-— Nossas memórias são traiçoeiras, Jennifer. Tenho certeza que se buscar fundo, achará alguma alegria ou trauma que possa ser usado contra você. Me diga. 
+— Os demônios do ano passado usavam espíritos para nos atingir — contei. — Uma garota tinha controle sobre os animais. Fazia com que eles atacassem a gente. Os olhos dela embranqueciam.
 
-Pensei bem no que me acontecera até então. Então a lembrança de minha mãe me veio na mente. 
+A Sra. Olívia olhou dentro dos meus olhos.
 
-— Tem um sim — falei — minha mãe... ano passado... morreu em um acidente de carro. 
+— Ao tomar a vitalidade de um espírito, o demônio projeta nela os medos, os desejos, as memórias, tudo o que aquela vida viveu, em força maligna. Talvez essa menina tenha sofrido com bichos. Ou os amava demais. Algum sentimento forte estava lá. — Ela inclinou a cabeça. — E por isso você precisa fortalecer a sua alma, Jennifer. Para nenhum demônio usar o que você sente contra os que estão perto de você, como fizeram comigo, e com tantos outros.
 
-A lembrança me trouxe dor. 
+— Os demônios vão se decepcionar comigo — falei. — Não tenho sentimentos fortes por nada. Minha vida sempre foi uma droga. Nunca tive amigos. Só no ano passado, quando conheci o Pedro e a sua neta, foi que senti que tinha.
 
-— Sinto muito, menina — lamentou a senhora — Haverá um momento em que você terá a chance de rever sua mãe. Mas não será ela. Eles tentarão usar isso contra você. Fuja, fuja de qualquer sentimento forte. Isso enfraquecerá você. 
+— Nossa memória é traiçoeira. Se você buscar fundo, vai achar uma alegria ou um trauma que sirva de isca. Me diga.
 
-Leila moveu sua cabeça para o lado e relinchou inquieta, se virando para o outro lado. 
+Pensei. Então a lembrança da minha mãe chegou antes que eu a chamasse.
 
-— Fiz alguma coisa errada? — perguntei. 
+— Tem — falei. — Minha mãe. Morreu no ano passado, num acidente de carro.
 
-— Não — respondeu a senhora — Leila está assim desde que chegaram. Há muita presença espiritual ao redor de nós. E ela sente isso. 
+A dor veio inteira, como se esperasse a porta aberta.
 
-Sra. Olívia colocou a mão sobre Leila e fechou os olhos. 
+— Sinto muito, menina — disse a Sra. Olívia, mais baixo. — Um dia você vai ter a chance de rever sua mãe. Mas não será ela. Eles vão tentar usar isso contra você. Fuja de qualquer sentimento forte. Isso a enfraquece.
 
-— Tudo no mundo busca o perfeito equilíbrio. Equilíbrio significa anular qualquer oposto. O medo com a coragem, o ódio com o amor. E o desespero... com a tranquilidade — a égua se acalmou e a Sra. Olívia abriu seus olhos — uma médium pode equilibrar a energia de uma alma com a sua própria. E isso pode ser usado tanto como defesa quanto como ataque. 
+Leila mexeu a cabeça e relinchou, inquieta, virando o corpo para o outro lado.
 
-A Sra. Olívia soltou a mão de Leila e ela novamente começou a se mexer, inquieta. Em seguida a senhora olhou para mim, esperando que eu agisse. Não sabia como faria aquilo, mas apenas a imitei. Coloquei a mão sobre a égua e fechei meus olhos. Uma sensação ruim percorreu minha espinha e meu coração começou a acelerar imediatamente. Minha cabeça doeu e um peso imenso caiu sobre o corpo, me fazendo cambalear enquanto tudo escurecia. 
+— Fiz algo errado?
 
-— Eu sei — disse uma voz me acordando — é difícil. 
+— Não. Leila está assim desde que vocês chegaram. Há muita presença ao nosso redor, e ela sente. — A senhora pousou a mão na égua e fechou os olhos. — Tudo no mundo busca o equilíbrio. Equilíbrio é anular o oposto: o medo com a coragem, o ódio com o amor, o desespero com a calma.
 
-Abri os olhos e vi a Sra. Olívia me erguendo para que me levantasse. 
+A égua se acalmou. A Sra. Olívia abriu os olhos.
 
-— Leila estava com medo, você precisa sentir o oposto do medo para que consiga equilibrar. Senão, absorverá todo o medo dela. 
+— Uma médium pode equilibrar a energia de uma alma com a sua. Serve de defesa e de ataque.
 
-— Aquilo foi horrível! — falei. 
+Ela soltou Leila, que voltou a se agitar, e olhou para mim, esperando. Não sabia como fazer aquilo, só a imitei. Pus a mão no pescoço da égua e fechei os olhos. Uma sensação ruim subiu pela espinha, meu coração disparou, a cabeça latejou, um peso enorme caiu sobre o meu corpo e o mundo escureceu.
 
-— É claro que foi horrível. Vamos entrar um pouco. Vou fazer mais um pouco de chá para você — disse a senhora. 
+— Eu sei — disse uma voz me puxando de volta. — É difícil.
 
-Quando entramos na casa, vi que Filipo já havia descido, e estava sentado no sofá. Pedro, que comia alguns biscoitos da cozinha, correu ao meu encontro. 
+Abri os olhos e vi a Sra. Olívia me levantando do chão de palha.
 
-— E aí, como foi? — perguntou ele. 
+— Leila estava com medo. Você tem de sentir o oposto do medo para equilibrar. Senão absorve tudo.
 
-— Algumas coisas com energia vem e energia vai. Nada demais — respondi. 
+— Foi horrível — falei.
 
-Pedro assentiu, parecendo distraído. Então, como se estivesse explodindo de ansiedade, ele se virou para mim e perguntou, baixo, para que apenas eu ouvisse. 
+— Claro que foi. Vamos entrar. Faço mais chá.
 
-— Quem é que vai vir aqui hoje às seis? 
+Quando voltamos, Filipo estava no sofá, e Pedro, que comia biscoitos na cozinha, veio ao meu encontro.
 
-— Como? — perguntei. 
+— E aí? Como foi?
 
-— No telefone. Eu vi suas mensagens. Não queria ter visto, mas é que... achei que meus pais podiam estar tentando falar comigo... então peguei para ver...
+— Energia que vem, energia que vai. Nada demais.
 
-— Não é ninguém importante — falei o interrompendo — quero dizer, é uma garota que conheci alguns dias atrás quando visitei o Vini na prisão. 
+Pedro assentiu, distraído. Então, como se estivesse prestes a explodir, perguntou baixo, só para mim:
 
-Pedro continuou olhando para mim esperando uma resposta mais clara. 
+— Quem é que vai te encontrar hoje às seis?
 
-— Ela é jornalista, pelo que entendi. E buscava uma matéria impactante para apresentar. Queria falar sobre o que houve em Vila Velha. 
+— Como?
 
-— O quê? Ela quer revelar tudo para todo mundo? — perguntou Pedro, surpreso. 
+— No telefone. Eu vi as suas mensagens. Não queria ter visto, mas achei que meus pais podiam estar tentando falar comigo, então peguei para olhar.
 
-— Basicamente. Mas não sei se é uma boa — falei. 
+— Não é ninguém importante — respondi, cortando. — É uma garota que conheci há alguns dias, quando fui visitar o Vini na prisão.
 
-— Se sua amiga quer uma matéria impactante, sugiro que ela vá com uma câmera para Alvorada Alegre — disse Filipo que até então não tinha percebido estar pando de nossa conversa. Parece que estávamos falando alto demais. 
+Pedro continuou me olhando, esperando uma resposta melhor.
 
-— Por que eu a mandaria para Alvorada Alegre? Não é lá o covil do monstro que quer nos matar? — perguntei. 
+— É jornalista, pelo que entendi. Quer uma matéria impactante. Quer falar do que aconteceu em Vila Velha.
 
-— Se conseguíssemos um registro do que tem lá, poderíamos atrair mais pessoas para a cidade. Curiosos, entusiastas, a polícia... e poderíamos tentar resgatar minha irmã. 
+— O quê? Ela quer contar tudo para todo mundo?
 
-— Acha sensato mandar mais pessoas para aquela cidade? — perguntou Pedro — a Sra. Olívia disse que aquele lugar é amaldiçoado. Quem garante que os que entrarem lá sairão vivos? 
+— Basicamente. Mas não sei se é boa ideia.
 
-— Talvez ele tenha razão — falei — se queremos que o mundo saiba do mal, precisamos ir para a origem dele. E tudo nos leva para essa cidade. Mas... não vou enviar a Glenda para correr este risco. 
+— Se a sua amiga quer matéria impactante, sugiro que vá com uma câmera para Alvorada Alegre — disse Filipo, que eu não tinha percebido escutando. Falávamos alto demais.
 
-— O nome dela é Glenda? — perguntou Pedro. 
+— Por que eu mandaria a moça para Alvorada Alegre? Não é lá o covil do monstro que quer nos matar?
 
-— É... — respondi, forçando um sorriso. 
+— Se a gente tivesse um registro do que tem lá, atrairia gente para a cidade. Curiosos, entusiastas, a polícia. E dava para tentar resgatar minha irmã.
 
-— Ok — disse Pedro, desconfiado — e você viu essa Glenda quantas vezes mesmo? 
+— Você acha sensato mandar mais gente para aquela cidade? — perguntou Pedro. — A Sra. Olívia disse que o lugar é amaldiçoado. Quem garante que quem entrar sai vivo?
 
-— Uma vez. Mas já nos falamos pelo telefone — respondi. 
+— Talvez ele tenha razão — falei. — Se a gente quer que o mundo saiba do mal, tem de ir à origem. E tudo nos leva àquela cidade. Mas não vou mandar a Glenda correr esse risco.
 
-— Uma vez? E acha certo sair para encontrá-la quando estamos sendo seguidos por uma criatura? Você a contou sobre o diário que o Junior escreveu? Quem lhe garante que essa Glenda não tem lá um demônio dentro dela, ou pior, que o Cara-de-Larva não esteja lá fora apenas lhe esperando para roubar sua alma. 
+— O nome dela é Glenda? — Pedro perguntou.
 
-Desviei o olhar de meu amigo.
+— É — respondi, com um sorriso forçado.
 
-— Tudo bem. Você tem razão. Fui irresponsável — falei — eu só... estou um pouco cansada de tudo isso. Eu queria viver, ter amigos... 
+— Ok. — Ele me olhou desconfiado. — E você viu essa Glenda quantas vezes mesmo?
 
-— Você tem amigos. O que eu sou? — indagou Pedro. 
+— Uma. Mas a gente já se falou por telefone.
 
-— Você é meu amigo... mas é que... 
+— Uma? E acha certo sair para encontrar uma pessoa que viu uma vez, quando tem uma criatura atrás da gente? Você contou do diário do Junior? Quem garante que essa Glenda não tem um demônio dentro dela, ou pior, que o Cara-de-Larva não está lá fora só esperando você sair para roubar sua alma?
 
-De fato, aquele “mas é que” poderia ter sido omitido, pois vi a expressão de decepção de meu amigo. 
+Desviei o olhar.
 
-— Tudo bem. Já entendi. Está cansada desse gordo chato — disse Pedro. Eu não sabia se ele estava falando sério ou zoando. Mas o deixei ir para a sala enquanto via Filipo apertar os lábios sem saber o que dizer naquele momento. 
+— Tudo bem. Você tem razão. Fui irresponsável. Eu só... Estou cansada de tudo isso. Queria viver, ter amigos...
 
-Sra. Olívia demorou para entrar. Quando finalmente chegou à cozinha, me fez mais um pouco de chá e preparou o almoço para nós. 
+— Você tem amigos. O que eu sou? — Pedro disse.
 
-Mais tarde tentamos mais uma vez trabalhar nossas energias, sentadas na sala, de mãos dadas. Ela me disse para anular qualquer sentimento que me atingisse. Era estranho senti-los repentinamente, e difícil anulá-los. Por volta das cinco da tarde, minha concentração já não era das melhores. Ansiava pelas seis horas, e meus olhos se abriam a cada minuto para verificar o tempo.
+— Você é meu amigo. Mas é que...
 
-Pouco antes das seis, me levantei e disse que queria descansar. Foram quase três horas de prática, eu realmente estava cansada, mas acima de tudo, ansiosa. Subi para o quarto e encontrei Pedro e Filipo, um em cada cama, distantes, sem se falar. 
+Aquele "mas é que" devia ter ficado de fora. Vi a decepção no rosto dele antes de terminar a frase.
 
-Antes de responder, fechei os olhos por um segundo e vi uma caminhonete velha avançando por uma estrada escura, com um farol só, e um homem de manga rasgada ao volante, sangrando devagar. A imagem durou o tempo de um suspiro.
+— Tudo bem. Entendi. Cansada desse gordo chato.
 
-— E aí, conseguiu desenvolver algo? — perguntou Pedro. 
+Não sei se ele falava sério ou zoava. Deixei que fosse para a sala. Filipo apertou os lábios, sem saber o que dizer.
 
-— Nada. Esse negócio de energia espiritual é complicado. Mas deve ser o começo. Creio que vou melhorar. 
+A Sra. Olívia demorou a entrar. Quando chegou, fez mais chá e preparou o almoço. À tarde tentamos de novo trabalhar nossas energias, sentadas na sala, de mãos dadas, cada vela com uma sombra torta atrás. Ela mandou anular qualquer sentimento que me atingisse. Era estranho senti-los de repente, e difícil anular. Perto das cinco, minha concentração tinha ido embora. Eu ansiava pelas seis, e meus olhos se abriam a cada minuto para olhar o pêndulo.
 
-— Ah vai. Mesmo não me considerando um amigo, eu estou aqui e te apoio — falou Pedro, mas minha concentração estava no rádio em cima do rack, que exibia 18 horas. Pedro notou minha distração, e ligou os pontos.
+Pouco antes das seis, disse que queria descansar. Foram quase três horas de prática, eu estava exausta, mas acima de tudo ansiosa. Voltei ao quarto e encontrei Pedro e Filipo, um em cada ponta, distantes, sem se falar.
 
-— Não está pensando em sair, não é? — perguntou ele — já te disse que é arriscado. 
+Antes de responder qualquer coisa, fechei os olhos por um segundo e vi uma caminhonete velha avançando por uma estrada escura, com um farol só, e um homem de manga rasgada ao volante, sangrando devagar. A imagem durou o tempo de um suspiro.
 
-— Não — falei, refletindo. 
+— E aí, conseguiu desenvolver alguma coisa? — Pedro perguntou.
 
-Pedro continuou me olhando, mas ignorei. Estava cansada e entediada. Decidi descer e beber um copo de água. Na cozinha olhei o relógio: seis e dez. Pela janela vi uma luz na estrada. Era ela. Hesitei, pensei bem, e decidi voltar para a cama.
+— Nada. Esse negócio de energia espiritual é complicado. Mas deve ser o começo. Vou melhorar.
 
-Antes de ir dormir, liguei o celular do médico no carregador, na tomada ao lado da cama, e li a mensagem que estava lá.
+— Vai, sim. Mesmo não me considerando amigo, eu tô aqui e te apoio — disse Pedro. Mas minha atenção estava no relógio de corda da cabeceira, que marcava dezoito horas. Ele notou e ligou os pontos.
 
-“18hrs então!”, “Tem um carro te esperando aí fora”. E então mais uma mensagem chegou “Você não vem?”. 
+— Você não vai sair, não é? Já te disse que é arriscado.
 
-Não respondi, apenas larguei o celular e me deitei na cama. Pedro enquanto escovava os dentes, me observava tentando disfarçar. Mas ele era péssimo nisso. 
+— Não — respondi, pensando.
 
-— Posso usar por um instante? — perguntou Pedro apontando para o celular, assim que se sentou em sua cama. 
+Ele continuou me olhando. Ignorei. Desci até a cozinha para beber água e olhei o relógio da parede: seis e dez. Pela janela vi uma luz na estrada, lá embaixo, um carro que subiu um trecho e parou. Era ela. Hesitei, pensei bem, e voltei para o quarto.
 
-— Quer ler minhas conversas de novo? — perguntei. 
+Na casa da Sra. Olívia não havia tomada nenhuma. O único fio da propriedade ficava no estábulo, ligado a uma bateria velha de caminhão, e ela fazia questão de que ele ficasse longe da casa. Eu tinha levado o celular do médico até lá depois do almoço, e agora fui buscá-lo, com uma lanterna de querosene na mão. O estábulo, no fim da tarde, era uma boca escura. Leila, no fundo, não se mexeu quando passei. Estava de pé, de cabeça baixa, imóvel, com os olhos abertos. Peguei o celular depressa e saí sem olhar para trás.
 
-— Não. Só quero mandar uma mensagem pra uma amiga — disse ele. 
+De volta ao quarto, li a mensagem que esperava ali.
 
-— Uma amiga? — indaguei 
+"18hrs então!", "Tem um carro te esperando aí fora". E depois outra: "Você não vem?".
 
-— Mel Jones, conheci na internet, peguei o número dela e andamos conversando até hoje — disse Pedro. 
+Não respondi. Larguei o celular e me deitei. Pedro, escovando os dentes, me observava, tentando disfarçar e falhando.
 
-— E aí? Que tipo de coisas vocês conversam? — perguntei, com um sorriso. 
+— Posso usar um instante? — perguntou ele, apontando para o aparelho, assim que sentou na cama.
 
-A expressão de Pedro mudou, vi um sorriso como nunca tinha visto naqueles lábios. 
+— Quer ler minhas conversas de novo?
 
-— Música, jogos... coisas românticas. Eu to apaixonado por ela, Jenni. 
+— Não. Só mandar mensagem para uma amiga.
 
-— Apaixonado por uma menina que conheceu na internet? — perguntei — e ainda quer questionar eu ir me encontrar com uma conhecida que conheci pessoalmente? 
+— Uma amiga?
 
-— É diferente, eu a amo, e você e essa conhecida... por que tanto o interesse nela? — perguntou Pedro. 
+— A Mel Jones. Conheci pela internet. Peguei o número dela e a gente tem conversado até hoje.
 
-— Eu já te disse, ela pode nos ajudar a revelar a verdade sobre esses monstros — respondi. 
+— E sobre o que vocês conversam? — perguntei, com um sorriso.
 
-— E isso não podia esperar? Até você terminar esse treinamento, pelo menos? — perguntou Pedro. 
+A expressão dele mudou. Vi um sorriso que nunca tinha visto naquele rosto.
 
-— Sim, pode... E de onde é essa sua amiga? — perguntei, mudando de assunto. 
+— Música, jogos, a vida. Acho que tô gostando dela, Jenni.
 
-— Ela... é de... São Roque — disse Pedro, pausadamente, sem me olhar. 
+— Gostando de uma menina que conheceu na internet? E ainda queria me questionar por encontrar uma conhecida que vi pessoalmente?
 
-— Não é tão longe. Se sairmos vivos dessa, vou com você até lá pra você conhecer sua Mel Jones — falei, rindo lhe entregando o celular. 
+— É diferente. Por que tanto interesse nela?
 
-— Combinado — disse Pedro pegando o celular de minha mão. 
+— Já falei. Ela pode ajudar a revelar a verdade sobre esses monstros.
 
-Olhei para a cama ao fundo e avistei Filipo deitado de costas para nós, solitário. Me levantei e caminhei até ele. 
+— E isso não podia esperar até você terminar o treinamento?
 
-— Ei — falei — Não vi você jantar. Vai dormir sem comer nada? 
+— Podia, sim. — Mudei de assunto. — E de onde é essa sua amiga?
 
-— Não to com fome — ele me respondeu. 
+— De... São Roque — disse Pedro, devagar, sem me olhar.
 
-Pensei no que poderia falar. Então decidi lhe perguntar. 
+— Não é longe. Se a gente sair vivo dessa, vou com você até lá conhecer a sua Mel Jones — falei, rindo, e entreguei o celular.
 
-— Como é sua irmã? 
+— Combinado.
 
-Filipo não me respondeu de imediato. Mas logo ele se virou na cama e olhou para mim. 
+Olhei para a cama do fundo e vi Filipo deitado de costas para nós, sozinho. Levantei e fui até ele.
 
-— Ela é maluca — eu realmente não esperava aquele comentário, mas era puramente expressivo — Como qualquer criança. Adora correr, pular, brincar. Ela adorava bonecas. Tinha uma coleção delas em casa. Ela costumava maquiá-las, fazer desenhos em seus rostos. Era o hobby dela. Ela nunca foi de ficar na rua. 
+— Ei. Não te vi jantar. Vai dormir sem comer?
 
-— Que legal! Ela deve ser uma graça — falei. Filipo deu um sorriso forçado — Ela deve estar bem. Crianças são espertas, ligeiras. 
+— Sem fome — respondeu.
 
-— Ela é esperta sim — Filipo me disse — esperta até demais. 
+Pensei no que dizer e acabei perguntando:
 
-— O que realmente aconteceu na cidade? Quero dizer... como foi que vocês se separaram? — perguntei. 
+— Como é a sua irmã?
+
+Demorou. Depois ele se virou na cama e olhou para mim.
+
+— Maluca. — Eu não esperava aquilo, mas foi dito com tanto carinho que entendi. — Como qualquer criança. Adora correr, pular. Tinha uma coleção de bonecas. Maquiava todas, desenhava no rosto delas. Era o hobby dela. Nunca foi de ficar na rua.
+
+— Que legal. Deve ser uma graça. — Ele deu um sorriso forçado. — Ela deve estar bem. Criança é esperta, ligeira.
+
+— É esperta, sim. Esperta até demais.
+
+— O que aconteceu de verdade na cidade? Como vocês se separaram?
 
 Filipo ficou com o olhar perdido.
 
-— Foi numa manhã comum. Eu estava em casa com meu avô, meu pai no trabalho, a Manu na escola. Então o céu escureceu e uma névoa desceu na rua. A Manu chegou em casa machucada, com medo, sem conseguir dizer o que tinha visto.
+— Foi numa manhã comum. Meu pai no trabalho, a Manu na escola, eu em casa com meu avô. Então o céu escureceu e uma névoa desceu na rua. A Manu chegou em casa machucada, com medo, sem conseguir dizer o que tinha visto.
 
-Ele fez uma pausa. Os olhos estavam fixos em algum ponto distante, a memória o arrastando de volta.
+Ele fez uma pausa. Os olhos fixos em algum ponto distante, a memória arrastando.
 
-— Meu pai voltou correndo. Foi aí que a coisa apareceu dentro da sala. O Cara-de-Larva. Pegou a Manu pelo pescoço e levou ela. Meu avô morreu ali, tentando segurar aquilo.
+— Meu pai voltou correndo. Foi aí que a coisa apareceu dentro da sala. O Cara-de-Larva. Pegou a Manu pelo pescoço e levou.
 
-— Meu pai e eu nos refugiamos na igreja, com os outros, até fugirmos pela névoa, sem a Manu. Quando acordamos, estávamos na estrada, diante do arco da cidade. Nunca mais conseguimos entrar. Todas as vezes... nos encontrávamos com ele. Ele não quer que ninguém entre nem saia de lá.
+— E o seu avô? Ontem você disse que a coisa o matou.
 
-Ele olhou para mim, seus olhos cheios de uma determinação cansada.
+Ele demorou a responder. Quando o fez, falou olhando as próprias mãos.
 
-— Por isso precisamos de uma selifa que pudesse derrotar o Cara-de-Larva, para resgatarmos minha irmã.
+— Ontem eu disse o que era mais fácil de dizer. — A voz saiu seca, sem tremer. — Meu avô morreu naquela sala, naquela manhã. Eu estava lá. É só isso que eu consigo falar por enquanto.
 
-Olhei para ele e me movi para pegar em sua mão. Ele não resistiu, então toquei nela. 
+Não perguntei mais. Alguma coisa nele me avisou que era uma porta que só abria por dentro.
 
-— Eu sinto muito por tudo o que passou. Mas não está sozinho nessa. Eu vou treinar e te ajudar a salvar sua irmã. E vamos matar essa criatura. 
+— Meu pai e eu fugimos para a igreja, com os outros, e depois pela névoa, sem a Manu. Quando acordamos, estávamos na estrada, diante do arco da cidade. Nunca mais conseguimos entrar. Todas as vezes a gente encontrava ele. Ele não quer que ninguém entre nem saia de lá.
 
-Filipo não me respondeu. Seus olhos pareciam desesperançosos, e cansados. 
+Os olhos dele voltaram para mim, cheios de uma determinação cansada.
 
-— Eu só não me esqueço da última coisa que ela me disse. 
+— Por isso precisávamos de uma selifa que pudesse derrotá-lo, para resgatar minha irmã.
 
-— O quê? — perguntei, curiosa. 
+Peguei a mão dele. Filipo não resistiu.
 
-— Minha irmã. Quando entramos na escola, ela se virou para mim... e disse... — Filipo hesitou, como se aquilo fosse estranho de se dizer — ela disse “A cabra está aqui”. 
+— Sinto muito por tudo o que você passou. Mas não está sozinho. Vou treinar e te ajudar a salvá-la. E a gente vai matar essa criatura.
 
-— O quê? — perguntei com uma careta — vocês criavam cabras? 
+Ele não respondeu. Os olhos pareciam sem esperança, e muito cansados.
 
-— Não Jennifer. Nunca criamos cabras. Acontece que a cabra é um relacionado a um símbolo do mal, do satanismo ao ocultismo. Não é algo bom — falei. 
+— Eu não esqueço a última coisa que ela me disse.
 
- 
+— O quê?
+
+— Minha irmã. Quando a levei para a escola, de manhã, ela se virou para mim, no portão, e disse... — Filipo hesitou, como se aquilo fosse estranho de repetir. — "A cabra está aqui."
+
+— O quê? — fiz uma careta. — Vocês criavam cabras?
+
+— Não, Jennifer. Nunca criamos cabras. — Os olhos dele não saíram da parede. — A cabra é um símbolo do mal. Do satanismo, do ocultismo. Não é coisa boa.
+
+Lá fora, o vento passou as unhas pelas telhas, devagar, de uma ponta à outra. Nenhum de nós disse nada. Eu apaguei a vela.

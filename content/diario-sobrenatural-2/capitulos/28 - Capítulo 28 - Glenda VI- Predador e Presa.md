@@ -392,9 +392,11 @@ O celular de Diego estava no bolso da bermuda dele, no chão. Peguei com nojo co
 
 Eu iria levar aquilo à polícia? Um dia, talvez. Primeiro, eu precisava que o meu primo soubesse quem era o pai dele antes de ouvir qualquer outra versão. Escolhi três imagens, as que não deixavam margem para dúvida, e as enviei ao número de Jason a partir do telefone de Diego. Sem mensagem, sem explicação. Uma foto. Depois outra. E outra. Em algum lugar da cidade, o telefone do meu primo iria vibrar no meio de um jantar.
 
+Pensei no Lucas. Durante dois anos o Jason tinha guardado a memória do irmão como quem guarda uma coisa frágil dentro de uma casa que o pai ocupava. Eu estava tirando esse peso dele, e sabia que ia doer antes de aliviar.
+
 Guardei o aparelho na mochila: ainda ia precisar dele. Depois eu pensaria no que dizer à polícia.
 
-Voltei ao meu quarto, peguei minha mochila, o notebook, as poucas coisas que eu nunca tinha desfeito completamente, como quem já tinha decidido há muito tempo que ia partir. Desci pela escada de serviço. A casa estava em silêncio, o tipo de silêncio que parece de gente dormindo e é de gente que não vai acordar nunca mais.
+Voltei ao meu quarto, peguei minha mochila, o notebook, as poucas coisas que eu nunca tinha desfeito completamente, como quem já tinha decidido há muito tempo que ia partir. Desci pela escada de serviço. Na cozinha, parei diante do pote de farinha onde D. Tereza escondia o troco da feira e deixei lá dentro todo o dinheiro vivo que eu tinha, dobrado num envelope, com um bilhete: *Não venha segunda. Fique longe desta casa, e leve isto. O que fizeram com a sua mão não vai se repetir. Sinto muito por não ter dito antes. G.* A casa estava em silêncio, o tipo de silêncio que parece de gente dormindo e é de gente que não vai acordar nunca mais.
 
 Na garagem, as lâmpadas frias zumbiam sobre os nove carros enfileirados. Na parede, ao lado do elevador, o quadro de chaves. Tirei as do utilitário de estribos cromados, o único dos nove que eu reconhecia de uma filmagem granulada. Parei diante deles, com as chaves na mão. Os faróis apagados me olhavam de volta.
 

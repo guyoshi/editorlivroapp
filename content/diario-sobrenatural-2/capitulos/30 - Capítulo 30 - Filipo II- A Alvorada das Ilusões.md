@@ -1,4 +1,4 @@
- Contei na ordem em que aconteceu, porque a ordem é a única coisa que nunca me falhou. A estrada passava pelos faróis, o Pedro olhava para a frente, e eu falei como quem lê um mapa em voz alta, sem pular nenhuma esquina.
+Contei na ordem em que aconteceu, porque a ordem é a única coisa que nunca me falhou. A estrada passava pelos faróis, o Pedro olhava para a frente, e eu falei como quem lê um mapa em voz alta, sem pular nenhuma esquina.
 
 Eu estava sentado na mesa do quarto, com o livro de astronomia aberto na parte das estrelas variáveis, tentando entender por que algumas delas pareciam pulsar como se estivessem vivas. Gostava dessa parte. Estrelas que não se contentavam em brilhar do mesmo jeito para sempre faziam mais sentido para mim do que as fixas, previsíveis, que fingiam estabilidade enquanto queimavam por dentro.
 
@@ -234,7 +234,7 @@ O único olho dela se estreitou.
 
 — Então vocês viram.
 
-— Viram o quê? —indagou meu pai. 
+— Viram o quê? — indagou meu pai. 
 
 O silêncio que se seguiu confirmou tudo.
 
@@ -280,7 +280,7 @@ Meu pai se aproximou, se apoiando no banco para não cair, o rosto manchado de s
 
 Segui adiante, analisando os símbolos à margem do texto. O nome do condenado aparecia poucas vezes, sempre acompanhado da palavra pecador, mas havia também selos que pareciam mais recentes do que o resto do livro. Não eram de punição comum. Eram selos de contenção, de limite.
 
-— Pai…— comecei. — Isso aqui… diz que esse ser… esse… Cara-de-Larva… possui um selo de contenção forte… 
+— Pai… — comecei. — Isso aqui… diz que esse ser… esse… Cara-de-Larva… possui um selo de contenção forte… 
 
 — O que significa? — perguntou meu pai. 
 
@@ -288,7 +288,7 @@ Segui adiante, analisando os símbolos à margem do texto. O nome do condenado a
 
 Meu pai passou a mão pelo rosto.
 
-— O vô me explicou uma vez… que há vários tipos de entidades diferentes. E que os úncos capazes de compreendê-las seria… 
+— O vô me explicou uma vez… que há vários tipos de entidades diferentes. E que os únicos capazes de compreendê-las seria… 
 
 — Seria o quê? 
 
@@ -302,7 +302,7 @@ Hesitei antes de responder. Não porque não sabia o que dizer, mas porque tenta
 
 — Não, chega Filipo. Não vou confiar a vida da sua irmã em um mito. 
 
-— Não é um mito… — falei — Eu li… um artigo em um blog… dias atrás… um rapaz… ele disse que tinha uma amiga que podia ver os mortos. Em todos os lugares… isso não é comum, nem pra um médium. 
+— Não é um mito… — falei — Eu li… um artigo em um blog… semanas atrás… um rapaz… ele disse que tinha uma amiga que podia ver os mortos. Em todos os lugares… isso não é comum, nem pra um médium. 
 
 Enquanto falava, folheava mais algumas páginas até encontrar algo diferente: um encantamento. O Caminho das Sombras. Um portal feito de névoa capaz de atravessar domínios selados, acompanhado de uma advertência escrita em letras maiores que o resto do texto, alertando que o tempo não acompanhava quem ousasse atravessar.
 
@@ -334,4 +334,4 @@ O mundo pareceu afundar sobre si mesmo. O som desapareceu, o frio virou pressão
 
 Quando acordei, o sol batia direto no rosto. Estávamos caídos à beira de uma estrada, diante de um arco grande onde havia os dizeres “Bem-Vindo a Alvorada Alegre”. Minhas mãos estavam vazias: o livro tinha ficado para trás, aberto na rua de pedra, onde caiu quando meu pai me puxou.
 
-Parei de falar aí. Tinha contado tudo o que sabia contar, e o que faltava era o que eu fizera depois, que eu não queria dizer ainda. No para-brisa, a estrada seguia reta, e no fim dela os faróis começaram a iluminar, pouco a pouco, um arco de pedra com letras que eu conhecia de cor. O Pedro não tinha dito uma palavra desde o começo. Continuou calado quando as letras ficaram legíveis, e eu diminuí a velocidade até a de quem chega. 
+Parei de falar aí. Tinha contado tudo o que sabia contar. No para-brisa, a estrada seguia reta, e no fim dela os faróis começaram a iluminar, pouco a pouco, um arco de pedra com letras que eu conhecia de cor. O Pedro não tinha dito uma palavra desde o começo. Continuou calado quando as letras ficaram legíveis, e eu diminuí a velocidade até a de quem chega. 

@@ -134,7 +134,7 @@ Eu não esperei resposta.
 
 Virei as costas, peguei a mala, destranquei a porta e deixei a chave na entrada, como quem fecha um capítulo sem cerimônia.
 
-	São Paulo não abraça ninguém
+*São Paulo não abraça ninguém*
 
 Eu tinha uns cem reais, tirados de um cofre ridículo. Fui até o ponto, esperei dar cinco da manhã e peguei o ônibus pro centro de São Paulo, onde ia “arrumar emprego”.
 
@@ -192,7 +192,7 @@ Eu prometi a mim mesma que nunca mais me debruçaria sobre homem nenhum como se 
 
 E, mesmo assim, eu comecei a girar em torno de uma pessoa só.
 
-	Jason
+*Jason*
 
 — Entrou mais um cliente, vai atender, Priscila — o Seu Estevan mandou.
 
@@ -254,7 +254,7 @@ Fui pro balcão e comecei a preparar. O Seu Estevan fez questão de entregar o p
 
 Quando saí do trabalho, fui cobrar o pagamento do Seu Estevan. Ele pediu pra eu aguentar mais um dia. Assenti com os dentes cerrados, peguei minhas coisas e fui embora.
 
-	Uma cidade inteira, e o vidro me traindo
+*Uma cidade inteira, e o vidro me traindo*
 
 No caminho de casa, um carro escuro acendeu o farol e me deu um susto. Eu ignorei e continuei. Virei numa esquina, andei mais duzentos metros e ouvi de novo o som de motor.
 

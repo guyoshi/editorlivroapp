@@ -64,7 +64,7 @@ Houve um hiato. Ouvimos apenas a chuva bater na telha.
 
 — Eu fugi de Vila Velha para não me lembrar mais. Mas vocês aqui me fizeram resgatar todo aquele sentimento de novo — disse Priscila enquanto lágrimas desciam de seu rosto. 
 
-— Me desculpe. Mas não estamos aqui para lhe revirar o passado. Queremos resolver o presente — disse Jennifer. Estamos sendo perseguidos por uma criatura. Não sei bem o que ela é, mas o chamamos de cara-de-larva? 
+— Me desculpe. Mas não estamos aqui para lhe revirar o passado. Queremos resolver o presente — disse Jennifer. — Estamos sendo perseguidos por uma criatura. Não sei bem o que ela é, mas o chamamos de cara-de-larva? 
 
 — Cara-de-Larva? Que porra de nome ridículo é esse? — perguntou Priscila. 
 
@@ -138,9 +138,9 @@ Sorri para ela, então Jennifer abriu a porta. Abri o guarda-chuva e saímos os 
 
 Seguimos até a avenida principal, onde apanhamos um taxi até o endereço que Priscila nos passou. Vi Jennifer digitando uma mensagem no celular. Em meia hora chegamos. Mesmo tendo sido rápido, eu adormeci no caminho. Estava exausto. E embora tivéssemos comido algo no hospital, estávamos famintos.
 
-O taxi nos deixou em frente a dois portões de ferro enferrujados, diante de um caminho que levava a uma casa de pedras antiga no meio das árvores. Tudo completamente escuro, só víamos graças aos faróis do carro. A chuva tinha se dissipado, para nossa sorte; só uma pequena garoa perdurava.
+O taxi nos deixou em frente a dois portões de ferro enferrujados, diante de um caminho de cascalho que subia entre as árvores até uma casa de pedras, antiga, mais alta do que larga. Tudo completamente escuro, só víamos graças aos faróis do carro, e quando eles viraram e foram embora, levaram junto a última coisa conhecida do mundo. A chuva tinha se dissipado, para nossa sorte; só uma garoa fina perdurava, caindo sem barulho nas folhas. Não havia um poste, um fio, um único ponto de luz elétrica até onde a vista alcançava. Só o mato, alto, respirando.
 
-Quando o taxi foi embora, ficamos no escuro. A lua cheia era nossa única luz, mesmo oculta por algumas nuvens de chuva.
+Quando o taxi foi embora, ficamos no escuro. A lua cheia era nossa única luz, mesmo oculta por algumas nuvens de chuva. Presos nos galhos, ao lado do portão, balançavam vidrinhos azuis e pedaços de osso amarrados em barbante, batendo uns nos outros com um tilintar que eu preferi achar que era o vento.
 
 — Ela vive aqui no meio do nada — perguntei — como ela faz pra ir no mercado, ou no médico? 
 
@@ -178,7 +178,7 @@ Antes que Filipo continuasse, ouvimos um cachorro latir.
 
 — BOA NOITE! — gritou Jennifer enquanto andávamos. 
 
-O cachorro continuava latindo. Pouco tempo depois, vimos uma luz fraca se acender dentro da casa. Então a porta se abriu, e de lá, saiu uma senhora de cabelos grisalhos, soltos ao vento, segurando uma velha vela a querosene. Fazia muito tempo que não via uma daquelas. 
+O cachorro continuava latindo. Pouco tempo depois, vimos uma luz fraca nascer numa janela, e andar. Passou de janela em janela, devagar, como se quem a carregava soubesse exatamente a que horas a gente ia chegar. Então a porta se abriu, e de lá saiu uma senhora de cabelos grisalhos, soltos ao vento, segurando uma lamparina a querosene. Fazia muito tempo que eu não via uma daquelas. A chama não se mexia com o vento. Isso eu só notei depois. 
 
 — Olá boa noite — disse Jennifer — desculpa aparecer assim de repente. 
 
@@ -214,7 +214,7 @@ A senhora passou a mão sobre o rosto e sacudiu a cabeça. Parecia estar conside
 
 Fomos até ela, passamos o portão e o fechamos. Passamos ao lado da Princesa. Que dogzinho lindo: mesmo no escuro, a lua brilhava em seus pelos bem cuidados.
 
-Assim que a senhora abriu a porta, entramos num salão grande com uma lareira apagada e diversas velas espalhadas. Pelo jeito não havia luz elétrica. Havia plantas por toda parte e algumas gaiolas com passarinhos. Embora a casa fosse antiga, estava muito bem polida.
+Assim que a senhora abriu a porta, o cheiro nos recebeu primeiro: cera, incenso, terra molhada e uma coisa doce por baixo, de fruta esquecida. Entramos num salão grande, de pé-direito alto, com uma lareira apagada e velas por toda parte, em pires, em garrafas, em cima de livros, pingando cera velha em camadas. Nenhuma lâmpada, nenhum fio. Havia plantas por toda parte e gaiolas com passarinhos que dormiam de cabeça enfiada na asa, todos virados para a mesma parede. Os espelhos estavam cobertos com panos pretos. Em cima da lareira, uma fileira de potes de vidro com água turva, sal e coisas que eu não quis olhar de perto, e ao lado deles o crânio pequeno de algum bicho, limpo, polido, com uma vela acesa dentro. No canto, um relógio de pêndulo marcava o tempo com um tique-taque tão alto que parecia de outra casa. Embora a casa fosse antiga, estava muito bem polida. Tudo ali fora arrumado por alguém que sabia exatamente onde cada coisa ficava no escuro.
 
 — Estão com fome? — perguntou a senhora, fechando a porta. À luz das velas, podia ver melhor seu rosto. Ela não parecia ser muito velha, usava uma roupa cinzenta e agora eu reparava que era manca.
 
@@ -228,7 +228,13 @@ Jennifer olhou para mim, com aquela cara de quem pede modos, mas naquele momento
 
 Eu queria chá... 
 
-A senhora foi até a cozinha enquanto olhávamos a coleção de passarinhos. A casa era fria, e como ainda estávamos um pouco molhados da chuva, o frio era ainda mais intenso.
+A senhora foi até a cozinha, e o passo dela, um e meio, um e meio, foi sumindo pelo corredor enquanto olhávamos a coleção de passarinhos. A casa era fria, e como ainda estávamos um pouco molhados da chuva, o frio era ainda mais intenso.
+
+— Ela não tem luz elétrica? — sussurrei. — Nem uma lâmpada?
+
+— Pedro — a Jennifer disse, no tom de quem pede para não tocar em nada.
+
+— Aqui não entra fio — a voz da senhora respondeu, da cozinha, como se ela estivesse do meu lado. — Fio é estrada, menino. E o que quer vir, vem por estrada.
 
 Quando a senhora voltou, com uma bandeja com fatias de bolo cortados, olhou para o sofá e acenou com a cabeça. 
 
@@ -259,6 +265,8 @@ Não sabia quem ia começar a explicar, mas quando eu ia abrir a boca, Jennifer 
 — Porque selifas não costumam viver muito — respondeu Filipo — é por isso que são raras. Elas são muito procuradas por entidades e demônios. Porque podem ser usadas como porta de passagem entre mundos. 
 
 — Epa, calma aí. Essa história de selifas não viverem muito, por acaso vocês já viram alguma selifa antes, para falar isso? Ou se baseiam em histórias contadas? — perguntei. 
+
+A senhora ficou um tempo olhando a chama mais próxima. Quando falou, falou devagar, e baixo, de um jeito que obrigava a gente a se inclinar para ouvir.
 
 — Minha melhor amiga era uma selifa — falou a senhora — O nome dela era Sara. Quando éramos jovens, um demônio a usou para alcançar nosso plano... eu perdi pessoas que eu amava. Inclusive a Sara. Ela só tinha 15. 
 
@@ -314,7 +322,7 @@ Quando olhei para a senhora, vi que ela parecia ter se lembrado de algo. Levanto
 
 Jennifer olhou para Filipo e assentiu para a senhora. 
 
- — Essa mulher deve ter sido atacada por esta criatura. Este tal Cara-de-Larva. Ele não pode ser um demônio. Não sei como poderia lhes ajudar neste caso. Mas acho que podemos começar do princípio — ela se virou para Filipo — O que mais vocês sabem sobre esse ser? 
+— Essa mulher deve ter sido atacada por esta criatura. Este tal Cara-de-Larva. Ele não pode ser um demônio. Não sei como poderia lhes ajudar neste caso. Mas acho que podemos começar do princípio — ela se virou para Filipo — O que mais vocês sabem sobre esse ser? 
 
 — Filipo me disse que o nome dele era Charlie. E que ele teve uma morte cruel — falei — ele foi devorado vivo por larvas.
 
@@ -330,7 +338,7 @@ Filipo então continuou:
 
 — Ele leu em voz alta, e a coisa que veio levou a vida dele na nossa frente. Os órgãos de meu avô foram parando, e nós o perdemos. Desde então eu e meu pai tentamos descobrir o que era aquilo... mas nessa luta, minha irmã ficou aprisionada na cidade. E eu e meu pai não conseguimos mais entrar lá.
 
-— Então foi seu avô quem libertou o Cara-de-Larva? E como foi... que você me encontrou? — perguntou Pedro — Como foi que você foi parar na minha escola? 
+— Então foi seu avô quem libertou o Cara-de-Larva? E como foi... que você me encontrou? — perguntei — Como foi que você foi parar na minha escola? 
 
 — Eu já tinha lido seu blog antes de me apresentar — falou Filipo — tinha ouvido de um incidente em Vila Velha, e achávamos que teria algo a ver com sua história. 
 
@@ -376,7 +384,7 @@ A senhora se virou para mim, os olhos arregalados.
 
 — Não... disse criatura de sombras? O demônio que enfrentaram... como o chamavam. 
 
-— Agoro — disse Jennifer. 
+— Agouro — disse Jennifer. 
 
 A senhora arregalou ainda mais os olhos desfocados, pensativos. 
 
@@ -392,7 +400,23 @@ A senhora arregalou ainda mais os olhos desfocados, pensativos.
 
 — O Agouro? — sussurrei em uma retórica. 
 
-— Azazel. O Agouro. Eu perdi quase todos os meus amigos... inclusive a Sara. Minha melhor amiga... éramos, na verdade, mais do que amigas. Eu a amava. E por mais que demorasse, ela me correspondeu. Em nossa primeira viagem com o carro de meu pai, saímos com alguns amigos à noite para festejar. Tivemos um acidente. Sara teve o pescoço perfurado... e todos ficamos sozinhos no meio da mata. Eu sentia tanta dor por perdê-la que gritei para poder vê-la de novo com vida. Então o demônio surgiu. Azazel. Ele disse que poderia me ajudar, mas que em troca eu deveria dar o meu sangue. Eu aceitei, e milagrosamente Sara voltou à vida. Mas nosso relacionamento não durou muito. Eu tinha me tornado paranoica, com medo de perdê-la novamente, e isso nos afastou. Até que uma noite chuvosa, depois de uma discussão, Sara saiu de minha casa e, ao atravessar a rua, um caminhão desgovernado veio e... Eu a perdi mais uma vez. Pedi ajuda ao Agouro novamente, mas dessa vez não tive respostas. Achei que o pagamento tinha sido aquele... até que meu neto perdesse a vida. Quando Enzo morreu, eu me lembrei do que o demônio tinha dito: que meu sangue seria a troca. E eu o vi em meus espelhos, na noite em que perdi meu netinho, me observando.
+— Azazel. O Agouro. — A senhora disse o nome devagar, como quem prova uma coisa azeda. — Eu perdi quase todos os meus amigos... inclusive a Sara. Minha melhor amiga... éramos, na verdade, mais do que amigas. Eu a amava. E por mais que demorasse, ela me correspondeu.
+
+A chama da vela mais próxima encolheu um pouco, e a voz dela desceu junto.
+
+— Foi numa noite escura como esta. Em nossa primeira viagem com o carro de meu pai, saímos com alguns amigos para festejar. Tivemos um acidente. Sara teve o pescoço perfurado... e todos ficamos sozinhos no meio da mata.
+
+Ela deixou o silêncio crescer. No canto, o pêndulo marcou três tiques e pareceu esperar.
+
+— Eu sentia tanta dor por perdê-la que gritei. Gritei para poder vê-la de novo com vida. E o mato inteiro ficou quieto, e do quieto ele surgiu. Azazel. Disse que poderia me ajudar, mas que em troca eu deveria dar o meu sangue. Eu aceitei, e milagrosamente Sara voltou à vida.
+
+Os passarinhos se mexeram nas gaiolas, todos de uma vez, e voltaram a dormir.
+
+— Mas nosso relacionamento não durou muito. Eu tinha me tornado paranoica, com medo de perdê-la novamente, e isso nos afastou. Até que uma noite chuvosa, depois de uma discussão, Sara saiu de minha casa e, ao atravessar a rua, um caminhão desgovernado veio e... — Ela parou. Ninguém pediu o fim da frase. — Eu a perdi mais uma vez. Pedi ajuda ao Agouro novamente, mas dessa vez não tive respostas. Achei que o pagamento tinha sido aquele... até que meu neto perdesse a vida. Quando Enzo morreu, eu me lembrei do que o demônio tinha dito: que meu sangue seria a troca. E eu o vi em meus espelhos, na noite em que perdi meu netinho, me observando.
+
+— Por isso os panos — a Jennifer disse, baixo.
+
+A senhora não respondeu. Olhou para o espelho coberto mais próximo e demorou um pouco antes de desviar o olhar.
 
 — Eu não acredito... — falei — então... tudo começou com o pacto que a senhora fez? 
 
@@ -400,7 +424,7 @@ A senhora arregalou ainda mais os olhos desfocados, pensativos.
 
 — Não era culpa dela... era minha... 
 
-— E por que nunca disse a verdade? — perguntou Pedro — Kelly está morta porque tentou pedir desculpas para o irmão que achou que tinha morrido por culpa dela. E agora descobrimos que foi tudo em vão? 
+— E por que nunca disse a verdade? — perguntei — Kelly está morta porque tentou pedir desculpas para o irmão que achou que tinha morrido por culpa dela. E agora descobrimos que foi tudo em vão? 
 
 — Eu não imaginei que ela faria isso — falou senhora olhando para o chão, os olhos lacrimejando. 
 
@@ -420,7 +444,7 @@ A senhora claramente parecia abalada ao revirar aquelas lembranças.
 
 — A resposta está com ela — disse a senhora, apontando para Jennifer — você é uma selifa. Uma médium extremamente poderosa. Você tem o poder de viajar entre os mundos... e até levar alguém consigo. Mas para isso... precisa aprender a arte de ser uma selifa. Eu posso ajudá-la... posso lhe ensinar o que sei... mas eu sugiro que deixe seus amigos irem embora.
 
-— O quê? Como assim? — perguntou Pedro. 
+— O quê? Como assim? — perguntei. 
 
 — Eu vou te ajudar a fortalecer a mente e a alma... mas quando eles virem que não conseguem te ferir, eles vão tentar de outras formas. As pessoas que você mais ama. E somos capazes de fazer grandes burradas por quem amamos. 
 
@@ -432,7 +456,7 @@ Jennifer olhou para mim e para Filipo antes de se virar para a senhora.
 
 — Eu agradeço a gentileza e hospitalidade, senhora... 
 
-— Olívia — disse a senhora, agora finalmente posso parar de chamá-la de senhora após os meus verbos de elocução. 
+— Olívia — disse a senhora. 
 
 — Obrigado, senhora Olívia — agradeci também. Filipo olhava para o chão. Estava triste porque perdeu o pai? Pois deveria ter pensado antes de mentir para mim. 
 
@@ -440,9 +464,13 @@ Jennifer olhou para mim e para Filipo antes de se virar para a senhora.
 
 — Sim — Jennifer respondeu — Quando eu dormi da última vez... ele conseguiu nos encontrar. Quem garante que ele não o fará dessa vez? 
 
-— Ah não. Ele não irá lhes encontrar aqui. Essa casa está muito bem protegida contra eles. Amanhã, quando tiver um tempo, vou lhe explicar como se proteger. Agora... é melhor descansarem. Devem estar exaustos.
+— Ah não. Ele não irá lhes encontrar aqui. Essa casa está muito bem protegida contra eles. Os panos, o sal, os vidrinhos no portão, a falta de fio, tudo tem seu porquê. Amanhã, quando tiver um tempo, vou lhe explicar como se proteger. Agora... é melhor descansarem. Devem estar exaustos.
 
-Todos se levantaram e a Sra. Olívia nos guiou por um corredor escuro, à luz de velas, até um dos quartos ao fundo. Ao abrir a porta, sentimos o cheiro dos incensos espalhados pelos móveis. A senhora acendeu as velas do ambiente. Além das duas camas de solteiro, havia algumas gaiolas de passarinho vazias no chão.
+Todos se levantaram e a Sra. Olívia nos guiou por um corredor escuro, à luz de velas. Havia retratos nas paredes, de gente de olhos fundos que não acompanhava a chama, e portas fechadas dos dois lados, uma delas com uma fita vermelha amarrada na maçaneta.
+
+— Essa não se abre — disse a senhora, sem se virar. — E se ouvirem algum barulho de noite, é o vento. Ou o telhado. Casa velha fala.
+
+Ela nos levou escada acima, até um dos quartos ao fundo. Ao abrir a porta, sentimos o cheiro dos incensos espalhados pelos móveis. A senhora acendeu as velas do ambiente. Além das duas camas de solteiro, havia algumas gaiolas de passarinho vazias no chão.
 
 — Minhas netas dormiam aqui quando vinham para cá — disse a Sra. Olívia — tirem um dos colchões da cama. Há cobertores nos armários. Fiquem à vontade. 
 
@@ -468,7 +496,7 @@ Jennifer assentiu e arrumamos nossas camas. Estava bastante frio, e dormir numa 
 
 — Durma pensando em uma lembrança boa. Em momentos bons que teve com alguém. Mas não deixe que essa lembrança se torne triste — aconselhou-a Filipo. 
 
-Jennifer não respondeu, mas concluí que tinha assimilado. Eu lutei para dormir. A imagem do Cara-de-Larva, as larvas espalhadas pelo chão, todas aquelas coisas assustadoras me apavoravam. O peito começou a chiar, e tomei uma dose da bombinha debaixo do cobertor, para ninguém ouvir. O tempo todo eu abria os olhos procurando algo ou alguém, até que notei uma luz no quarto. Vinha de um pequeno ponto luminoso na cama de Jennifer. Levantei, ajoelhei ao lado da cama e vi que era o celular que tínhamos roubado. Roubar é uma palavra forte, cara... nós pegamos emprestado.
+Jennifer não respondeu, mas concluí que tinha assimilado. Eu lutei para dormir. A imagem do Cara-de-Larva, as larvas espalhadas pelo chão, todas aquelas coisas assustadoras me apavoravam. O peito começou a chiar, e tomei uma dose da bombinha debaixo do cobertor, para ninguém ouvir. O tempo todo eu abria os olhos procurando algo ou alguém. A casa não dormia. O vento passava as unhas pelas telhas, devagar, de uma ponta à outra do telhado, e parava. Em algum lugar acima do forro, alguma coisa rolou e foi encontrar a parede. Uma vez, uma tábua do corredor gemeu sob um peso, um passo e meio, um passo e meio, e eu pensei na Olívia, e tive vergonha de ter pensado. Do lado de fora, o tilintar dos vidrinhos do portão veio subindo o caminho até a janela e foi embora de novo. Casa velha fala, eu disse a mim mesmo, três vezes, como se a casa precisasse ouvir. Foi então que notei uma luz no quarto. Vinha de um pequeno ponto luminoso na cama de Jennifer. Levantei, ajoelhei ao lado da cama e vi que era o celular que tínhamos roubado. Roubar é uma palavra forte, cara... nós pegamos emprestado.
 
 A luz tinha se acendido, pois havia uma mensagem nova. De alguém não salvo nos contatos. Quando abri a mensagem vi escrito: 
 
@@ -498,7 +526,7 @@ Quem estará onde? Ao terminar de ler a mensagem, voltei e vi que havia outras d
 
 As mensagens seguintes de Jennifer demoravam para ser enviadas, enquanto a resposta costumava ser quase instantânea. 
 
-“Eu te chamei porque estou em São Paulo. E sei que você mora por aqui“
+“Eu te chamei porque estou em São Paulo. E sei que você mora por aqui”
 
 “Eu sabia que tinha te atingido naquele dia. Onde você está? Posso ir te buscar?”
 

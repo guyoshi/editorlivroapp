@@ -172,7 +172,7 @@ Eu fiquei ali, num misto de ódio e vergonha. Olhei para o Sr. Estevan sem saber
 
 Eu não consegui acreditar. Desempregada. Num segundo eu tinha trabalho, no outro eu era “problema”. Senti os olhos encherem de lágrimas e sacudi a cabeça, como se negar pudesse mudar o fato. Não mudou.
 
-Saí do restaurante e fui direto para casa, arrasada. A chuva forte me enxarcou inteira. O cabelo colava no rosto, a roupa pesava, e por dentro eu parecia um balão cheio demais prestes a estourar. Eu tinha vontade de quebrar alguma coisa. De preferência a cara da Glenda, mas me contentei em andar mais rápido.
+Saí do restaurante e fui direto para casa, arrasada. A chuva forte me encharcou inteira. O cabelo colava no rosto, a roupa pesava, e por dentro eu parecia um balão cheio demais prestes a estourar. Eu tinha vontade de quebrar alguma coisa. De preferência a cara da Glenda, mas me contentei em andar mais rápido.
 
 Quando passei perto da escola, a meio caminho de casa, ouvi passos à esquerda. Virei e vi a rua deserta. Aí uma luz forte surgiu na avenida: um carro se aproximando. Jason? Aquele tipo de carro, os vidros escuros… podia ser.
 

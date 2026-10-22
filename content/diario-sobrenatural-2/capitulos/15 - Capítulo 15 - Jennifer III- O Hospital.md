@@ -20,7 +20,7 @@ Fiquei furiosa. Não porque eu não compreendesse a dor dele, mas porque havia u
 
 A palavra caiu na sala. Eu sabia o cheiro daquilo. Não era enxofre, nem fogo, nem “inferno” como as pessoas imaginam. Era ausência. Era roubo.
 
-— Você tem noção de que a notícia vai espalhar, não tem? A polícia vai querer saber o que aconteceu. E quando perguntarem, ninguém vai acreditar que um monstro apareceu e engoliu o seu pai vivo. Eles vão assimilar que você foi até a minha casa com o carro do seu pai e tentou me matar. E eu não vou negar.
+— Você tem noção de que a notícia vai espalhar, não tem? A polícia vai querer saber o que aconteceu. E quando perguntarem, ninguém vai acreditar que um monstro apareceu e engoliu o seu pai vivo. Eles vão concluir que você foi até a minha casa com o carro do seu pai e tentou me matar. E eu não vou negar.
 
 Eu tentei manter a minha mente no que era imediato: Pedro. Estável, disseram? Estável é uma palavra que os médicos usam quando querem que você aceite “quase”. E eu não queria “quase”. A ansiedade fez o que sempre faz comigo quando a realidade começa a escorregar: os meus dedos bateram um no outro, um hábito que eu odiava por me denunciar.
 
@@ -230,15 +230,15 @@ Pedro se ergueu na cama, abrupto.
 
 — O que você faz aqui?
 
-— Tudo bem. Ele não é nosso inimigo. A irmã dele está presa em Alvorada Alegre, e só consegue sair se derrotarmos o Cara-de-Larva. Ele quer o mesmo que nós: destruir estes monstros.
+— Tudo bem — eu disse. — Ele não é nosso inimigo. A irmã dele está presa em Alvorada Alegre, e só sai de lá se derrotarmos o Cara-de-Larva.
 
-— Por que você não me disse a verdade desde o começo? Por que mentiu para mim? Fingiu a minha amizade?
+Pedro olhou para ele sem piscar, o tempo de uma respiração.
 
-— Eu não tinha escolha. O meu pai não confia em pessoas. Ele não queria que contássemos a ninguém sobre Alvorada.
+— Agora não — disse. — A gente conversa depois.
 
-— E por quê? — Pedro perguntou.
+— Tá — o Filipo respondeu, e engoliu o resto. Depois, mais baixo: — A cidade está isolada do mundo, Pedro. O Cara-de-Larva prende vivos e mortos lá dentro. Só isso. O resto eu conto quando você quiser ouvir.
 
-— Porque não é só a minha irmã que está presa lá dentro. A cidade está completamente isolada do mundo. O Cara-de-Larva está aprisionando vivos e mortos naquele lugar.
+Pedro não respondeu. Virou o rosto para a janela.
 
 — Consegue levantar?
 

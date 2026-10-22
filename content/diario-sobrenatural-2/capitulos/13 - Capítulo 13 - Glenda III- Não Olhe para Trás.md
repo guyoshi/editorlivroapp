@@ -225,9 +225,9 @@ Um facão do tamanho do meu tronco na mão. Pingando sangue.
 
 Cabeça careca. Olhos completamente brancos. Pele em carne viva, com ossos expostos em alguns pontos, como se o corpo tivesse sido montado e desmontado várias vezes. Sem lábios, os dentes pontudos totalmente à mostra.
 
-O pânico não veio como grito. Veio como choque eléctrico nas pernas. Eu gritei mesmo assim porque gritar, às vezes, chama gente.
+O pânico não veio como grito. Veio como choque elétrico nas pernas. Eu gritei mesmo assim porque gritar, às vezes, chama gente.
 
-Ele ergueu o facão. Eu caí no chão no exacto instante em que a lâmina acertou o piso, e o barulho do impacto atravessou o corredor como um trovão dentro de casa. Ele respirava pesado e gritava a cada passo, com pressa de me acertar, com fome.
+Ele ergueu o facão. Eu caí no chão no exato instante em que a lâmina acertou o piso, e o barulho do impacto atravessou o corredor como um trovão dentro de casa. Ele respirava pesado e gritava a cada passo, com pressa de me acertar, com fome.
 
 Eu corri para a escada, e ele veio atrás, esbarrando em tudo. Quando senti a lâmina cortar o ar perto de mim, eu me abaixei e caí de novo. A filmadora voou da minha mão, bateu em algo, e eu não parei para ver se quebrou.
 
@@ -269,7 +269,7 @@ Ele foi até uma gaveta na cozinha, sem pressa. Quem tem poder nunca tem pressa.
 
 — E por que você estava correndo desesperada? — ele perguntou. — Quem vai nos matar?
 
-Eu precisava de uma explicação que não parecesse loucura e que, ao mesmo tempo, não me colocasse como ameaça. Algo que deixasse Diego no papel de protector. Homens como ele gostam desse papel.
+Eu precisava de uma explicação que não parecesse loucura e que, ao mesmo tempo, não me colocasse como ameaça. Algo que deixasse Diego no papel de protetor. Homens como ele gostam desse papel.
 
 — Eu… achei que tinha alguém aqui dentro. Achei que… alguém tinha invadido a casa. Eu corri e caí.
 
@@ -303,7 +303,7 @@ Na porta do meu quarto, Diego segurou a minha mão antes que eu entrasse. Sorriu
 
 Ele estava perto demais. O rosto dele desceu, e veio de novo a vontade de me afastar, o corpo tentando me salvar. Mas eu não me afastei.
 
-Fechei os olhos quando senti os lábios dele nos meus, a barba arranhando a pele, o beijo como um acto de posse disfarçado de carinho. Eu não retribuí. Eu não neguei. Eu fiquei imóvel, porque imobilidade, naquele momento, era estratégia. E estratégia era tudo o que eu tinha.
+Fechei os olhos quando senti os lábios dele nos meus, a barba arranhando a pele, o beijo como um ato de posse disfarçado de carinho. Eu não retribuí. Eu não neguei. Eu fiquei imóvel, porque imobilidade, naquele momento, era estratégia. E estratégia era tudo o que eu tinha.
 
 Ele se afastou, se manteve ali olhando para mim por alguns segundos e disse, com uma naturalidade assustadora:
 

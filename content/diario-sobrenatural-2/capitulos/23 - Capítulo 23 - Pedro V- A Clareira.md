@@ -30,7 +30,7 @@ Ele virou para mim com um olhar que não era só raiva. Era desespero disfarçad
 
 Aquilo me pegou num lugar que não era justo, mas que doeu do mesmo jeito.
 
-— Seu pai morreu… — eu começou, tentando manter a calma, mas já sentindo o coração acelerar. — Seu pai morreu porque… foi idiota. E agora você aqui acha que gritar com a Jennifer vai ressuscitar ele ou abrir um portal direto pra tua irmã?
+— Seu pai morreu… — eu comecei, tentando manter a calma, mas já sentindo o coração acelerar. — Seu pai morreu porque… foi idiota. E agora você aqui acha que gritar com a Jennifer vai ressuscitar ele ou abrir um portal direto pra tua irmã?
 
 Ele apertou o maxilar.
 
@@ -204,7 +204,7 @@ Ela soltou o ar devagar.
 
 — Porque amar… me faz me apegar à pessoa. E eu sei que no final… essa pessoa se vai. Como todas as outras. 
 
-— E eu não quero sentir isso de novo.— ela completou. — Não depois do que senti com minha mãe. 
+— E eu não quero sentir isso de novo. — ela completou. — Não depois do que senti com minha mãe. 
 
 Eu fiquei olhando pra ela, e senti uma tristeza estranha. Não pena. Tristeza real. Porque Jennifer merecia muito mais do que viver com medo da própria humanidade.
 
@@ -260,15 +260,15 @@ Sentei na minha cama, longe da dele, e fiquei olhando pro chão. O celular da Je
 
 Guardei o celular no bolso antes que a razão resolvesse aparecer tarde demais. Mel Jones estava ali conosco? E queria me ver?
 
-Desci as escadas devagar, evitando fazer barulho. O corredor parecia mais estreito, mais longo. A casa da Sra. Olívia tinha aquele ar de lugar que respira por conta própria, mas naquele momento parecia estar prendendo o ar.
+Peguei o toco de vela da cozinha e desci as escadas devagar, protegendo a chama com a mão, evitando fazer barulho. O corredor parecia mais estreito, mais longo. A casa da Sra. Olívia tinha aquele ar de lugar que respira por conta própria, mas naquele momento parecia estar prendendo o ar.
 
-O porão ficava atrás de uma porta antiga, quase invisível se tu não soubesse onde olhar. Abri com cuidado. O cheiro veio primeiro: terra úmida, ferro velho, algo antigo demais para ter nome. A luz fraca da lâmpada pendurada piscou quando pisei no último degrau.
+O porão ficava atrás de uma porta antiga, quase invisível se tu não soubesse onde olhar. Abri com cuidado. O cheiro veio primeiro: terra úmida, ferro velho, algo antigo demais para ter nome. A chama se dobrou toda para um lado quando pisei no último degrau, como se alguma coisa lá embaixo tivesse inspirado.
 
 O celular vibrou de novo.
 
 “Mais fundo. Perto da parede do fundo.”
 
-Andei com passos curtos, o corpo inteiro tenso. O chão de terra batida estava frio mesmo através do tênis. A lâmpada balançou levemente, embora não houvesse vento algum ali.
+Andei com passos curtos, o corpo inteiro tenso. O chão de terra batida estava frio mesmo através do tênis. A chama deitou de leve, embora não houvesse vento algum ali.
 
 “Você precisa desenterrar. Só assim posso aparecer.”
 
@@ -286,7 +286,7 @@ Era um objeto pequeno, envolto num pano antigo, já gasto pelo tempo. Quando des
 
 Então a casa estalou.
 
-As luzes piscaram uma vez. Duas. Três. E se apagaram.
+A chama se dobrou uma vez. Duas. Três. E se apagou.
 
 — Mel? — chamei, agora mais alto, a voz tremendo apesar do esforço.
 

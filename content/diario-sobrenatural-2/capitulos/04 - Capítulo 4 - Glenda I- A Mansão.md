@@ -38,7 +38,7 @@ Quando meus pais anunciaram que eu ficaria com o Diego, eu relutei, claro. Mas o
 
 No táxi, eu gravei um diário em vídeo no meu estilo. Um tipo de registro que parece espontâneo para quem assiste e calculado para quem faz. 
 
-A câmara tremia porque eu segurava com uma mão só, encostando o aparelho no vidro do carro para disfarçar.
+A câmera tremia porque eu segurava com uma mão só, encostando o aparelho no vidro do carro para disfarçar.
 
 — Oi… Glenda aqui, começando meu… diário em vídeo pessoal — eu disse, e dei um sorrisinho de quem está brincando com a própria vida. — Se você estiver assistindo isso, pode significar duas coisas: ou eu estou viva… ou eu estou morta. Eu prefiro a primeira opção. Não estou com vontade de morrer, obrigada.
 
@@ -316,7 +316,7 @@ Eu sorri na medida certa.
 
 — Com certeza — eu disse, e levantei. — Obrigada. De verdade.
 
-Voltei para a mansão e contei ao Jason. Ele me abraçou com uma alegria honesta que não imaginava recever dele. 
+Voltei para a mansão e contei ao Jason. Ele me abraçou com uma alegria honesta que não imaginava receber dele. 
 
 À noite, no quarto, eu abri o notebook e entrei no meu e-mail. Nada. Eu precisava de uma pauta. Algo com dentes.
 

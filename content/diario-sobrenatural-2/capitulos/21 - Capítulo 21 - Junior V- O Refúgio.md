@@ -136,7 +136,7 @@ A mulher cega inclinou ligeiramente a cabeça, e quando falou, não houve hesita
 
 — São imagens — disse ela. — Ecos.
 
-— Ilusões— corrigiu alguém.
+— Ilusões — corrigiu alguém.
 
 — O demônio usa essas formas — continuou mulhendo cega — para tentar nos atrair. 
 
@@ -234,7 +234,7 @@ Levantei do chão, devagar, com o cuidado de não fazer barulho desnecessário. 
 
 Quando urinei, as minhas mãos tremiam. Não era medo direto. Era o meu corpo respondendo a um perigo que a minha cabeça já não conseguia nomear.
 
-No espelho, por uma fracção de segundo, eu achei que vi outra coisa por trás de mim. Não uma pessoa inteira. Um recorte. Um movimento em excesso. Como quando a televisão pega mal e a imagem repete uma sombra.
+No espelho, por uma fração de segundo, eu achei que vi outra coisa por trás de mim. Não uma pessoa inteira. Um recorte. Um movimento em excesso. Como quando a televisão pega mal e a imagem repete uma sombra.
 
 Me aproximei do vidro e forcei os olhos a focar. O meu rosto estava pálido, suado. Olheiras profundas. A boca seca.
 

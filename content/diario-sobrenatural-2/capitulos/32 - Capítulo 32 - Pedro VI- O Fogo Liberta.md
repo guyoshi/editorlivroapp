@@ -293,6 +293,8 @@ Eu ouvi aquilo e uma coisa dentro de mim virou, devagar, como chave numa fechadu
 
 Ela tinha me usado. Repeti a palavra para mim, devagar, e o peito fechou, e a bombinha ficou onde estava.
 
+E não era a primeira vez. Ela já tinha me feito quebrar a proteção da casa da Olívia, e eu tinha chamado aquilo de confiança, porque confiança era o nome mais bonito que eu tinha à mão.
+
 O Cara-de-Larva tinha parado. Não por causa das palavras, acho, mas por causa do nome. Virou a massa de larvas, devagar, na direção do Junior, e ficou assim um segundo inteiro, a cabeça inclinada, como cachorro que reconhece um assobio de dono antigo.
 
 — E a Manu? — o Filipo perguntou.
@@ -324,6 +326,48 @@ Eu virei. Via os bancos, os mortos de costas, as velas apagadas. Via o Cara-de-L
 — Não tem ninguém, Junior. Tem gente morta sentada. — Falei devagar, como se fala com quem está num parapeito. — A Kelly não está aqui.
 
 — Eu sei. — Ele não tirou os olhos do ponto onde ela estava. — Tem uma sala de aula inteira.
+
+Ele puxou o braço. Não com força: do jeito de quem pede licença. Fiquei com a mão no ar, no lugar onde o braço dele estava.
+
+— Junior.
+
+— É rápido.
+
+Deu um passo na direção do corredor central, onde para ele havia carteiras e para mim havia só um banco apodrecido com uma vela morta em cima. Os mortos não viraram a cabeça. O Cara-de-Larva, lá na frente, também não: tinha parado de novo, com a massa inclinada, como quem decide esperar.
+
+— Oi — o Junior disse.
+
+Falou baixo, para a altura de uma menina de catorze anos. Eu nunca o tinha visto olhar para ninguém daquele jeito, nem para mim, nem para a Lídia. Era um olhar sem defesa nenhuma.
+
+— Eu sei que não é você. A Kelly de verdade nunca chamou ninguém duas vezes. — A voz falhou, e ele esperou ela voltar. — Mas a igreja escolheu o seu rosto porque era o único que ia me fazer parar. Funcionou. Olha, eu parei.
+
+Ficou calado um tempo. Pelo jeito do queixo, a resposta que ele ouvia não era boa.
+
+— Eu fui no seu túmulo — ele disse. — Disse que precisava parar de te usar para me destruir. Você não ouviu, você já não estava lá, eu sei. Eu disse e continuei. Todo dia. Eu falava o seu nome como quem aperta um hematoma para ver se ainda dói. Dói. Sempre doeu. Eu não precisava conferir.
+
+Eu tinha a bombinha na mão e não lembrava de ter pegado.
+
+— Eu falei que você nasceu para brilhar. Eu acho isso até hoje. Só que eu transformei isso numa desculpa. Se a Kelly se apagou, eu não podia ter mais nada. Nem amigo, nem sol, nem sala de aula. — Respirou. — Isso nunca foi por você. Era mais fácil sofrer por você do que viver por mim.
+
+Ele olhava para um ponto no ar com a cara toda molhada. Não limpou.
+
+— Não vou ficar aí com as crianças. Não vou ficar pagando. Você ia odiar. Ia dizer que eu estou sendo dramático. — Riu, um som curto e molhado, que quase foi tosse. — Ia me dar um tapa na nuca e dizer que eu estou sendo dramático.
+
+Eu tive que olhar para o chão. Não tinha graça nenhuma, e ainda assim eu quase ri junto, por causa do jeito que ele disse "tapa na nuca", como quem lembra de uma coisa pequena, de uma coisa de verdade.
+
+— Eu vou carregar você — ele continuou. — Mas não como uma corrente. Vou carregar o que você foi. Alguém que ria muito alto no corredor e levava bronca por isso. É isso que eu quero lembrar. Do sexto andar eu não quero mais lembrar. Eu vou ter que lembrar, eu sei. Mas não vou mais morar lá.
+
+Silêncio. Alguma coisa mudou na sala de aula que só ele via, porque os ombros dele desceram, devagar, como quem larga um peso que carregou por tempo demais para lembrar que era peso.
+
+— Se você é ela, vai. Pode ir. Não precisa mais me esperar. — A voz quebrou de vez. — E se não é, a igreja que se vire comigo.
+
+Ouvi uma coisa que nunca tinha ouvido na vida: o barulho de um prédio inteiro, muito longe, parando de gemer. Devia ser a minha cabeça. As velas apagadas continuaram apagadas. Mas por um instante o ar da igreja ficou mais leve, como o ar de uma sala depois que alguém sai.
+
+Eu esperava ouvir aquilo do Junior havia quase um ano. Tinha ensaiado em voz alta, no banho, o que eu ia responder. Ele dizia agora para o ar, e não para mim, e eu fiquei com raiva de ter precisado que ele dissesse. Ao mesmo tempo, a raiva escorria, sem eu pedir. Eu puxei o braço dele de volta. Ele veio.
+
+— Pronto — ele disse.
+
+— Pronto — eu disse, que foi tudo o que consegui.
 
 Cada um tinha a sua igreja. A dele era a escola do sexto andar. A minha ainda era essa, a podre, e eu não sabia por quanto tempo ia durar. O Cara-de-Larva bateu o pé, outro TUM entrou na minha cabeça como um prego, e a pedra do piso se ergueu em ondas.
 
@@ -531,7 +575,11 @@ O Junior não respondeu. Tinha se deitado de lado na terra, abraçado nos joelho
 
 Menti um pouco, porque eu não tinha certeza, e porque às vezes é isso que a gente faz por quem ficou.
 
-— Eu vi a Kelly — ele disse, depois de um tempo, para o céu. — Entre as crianças. Só chamava o meu nome. — Respirou. — Ela sabe onde dói.
+— Eu falei com a Kelly — ele disse, depois de um tempo, para o céu. — Não era ela. Eu sei. Mas falei. — Respirou. — Disse que ia parar de usar ela para me destruir. Já tinha dito uma vez, no cemitério. Dessa vez eu acho que foi para valer.
+
+— Eu ouvi.
+
+— Eu sei.
 
 — Eu vi a cozinha da minha mãe — eu falei. — O ar entrava fácil.
 

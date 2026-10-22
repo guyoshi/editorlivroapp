@@ -250,7 +250,7 @@ Jason sorriu. O corpo dele se movia cansado, mas leve. Feliz. Era irritante ver 
 
 — Eu era péssimo? Suas amigas eram todas loucas. A começar pela Camila. Ela dizia que eu tinha que beijar girando a língua o tempo todo. Eu sentia que estava beijando uma máquina de lavar.
 
-— A Camila dizia mesmo que você não sabia beijar — eu ri. — Mas a questão é, Jason, que eu te ajudei a escolher as garotas porque eu sei as garotas que prestam. Eu conheço as falsas e as mentirosas, as que escondem as coisas. E eu não quero ver meu primuxo de coração partido.
+— A Camila dizia mesmo que você não sabia beijar — eu ri. — Mas a questão é, Jason, que eu te ajudei a escolher as garotas porque eu sei as garotas que prestam. Eu conheço as falsas e as mentirosas, as que escondem as coisas. E eu não quero ver meu priminho de coração partido.
 
 — Tá, tá. Vou começar a escolher o seu tipo de companhia também.
 

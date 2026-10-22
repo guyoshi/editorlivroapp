@@ -262,7 +262,7 @@ Alberto ergueu uma sobrancelha, medindo a seriedade.
 
 Ele não fez pergunta moral. Só respirou e assentiu.
 
-— Você trouxe teu RG?
+— Você trouxe seu RG?
 
 Entreguei.
 
@@ -420,7 +420,7 @@ Ela estendeu a mão. Eu apertei por educação, mas a mão dela tinha uma firmez
 
 Glenda inclinou a cabeça, divertida.
 
-— Irmã, é? Pela tua forma de falar, eu diria que tá mais pra namorada.
+— Irmã, é? Pelo seu jeito de falar, eu diria que tá mais pra namorada.
 
 Eu tirei o RG falso e coloquei sobre a mesa, com o “Silva” visível.
 
@@ -448,7 +448,7 @@ Glenda nem piscou ao responder, e eu entendi que aquilo não era informação: e
 
 Glenda fingiu procurar no caderno como quem escolhe palavras.
 
-— Você quer saber se ela sente algo? Sinceramente… ela nem mencionou que foi tua namorada. Não parece sentir falta alguma.
+— Você quer saber se ela sente algo? Sinceramente… ela nem mencionou que foi sua namorada. Não parece sentir falta alguma.
 
 Eu vi o golpe acontecer. Vi a pele dele tremer antes da lágrima existir. E eu vi Glenda escrever como quem faz um corte limpo, sem tremor na mão.
 
@@ -546,7 +546,7 @@ Glenda respondeu sem remorso.
 
 Aquilo me quebrou. Ela achava que ele era inocente? Ela alcançou minha lateral com passos tranquilos.
 
-— Eu tenho uma semana pra fechar essa matéria — ela disse. — Isso pode salvar teu amigo. Se vocês conseguirem uma versão que substitua o improvável por circunstância aceitável… me liga.
+— Eu tenho uma semana pra fechar essa matéria — ela disse. — Isso pode salvar seu amigo. Se vocês conseguirem uma versão que substitua o improvável por circunstância aceitável… me liga.
 
 Ela arrancou uma folha do caderno, escreveu um número e me entregou. Depois sorriu e foi embora.
 

@@ -584,6 +584,10 @@ Ela já tinha se virado.
 
 Foi um movimento simples. Ela se virou de costas para a gente, para o fundo do corredor onde o fogo desenhava uma boca enorme, e ergueu a mão direita, com a palma aberta, como quem para o trânsito. O fio no pulso esticou.
 
+E eu vi. Eu, que em todo aquele tempo só tinha visto o que a Jennifer precisava apontar. Foi só um segundo, como quando o olho se acostuma com o escuro e o quarto aparece inteiro: ao lado dela, um de cada lado, havia dois que estavam ali desde o começo. Um homem com um buraco no pescoço, onde faltava um pedaço. Uma mulher com metade do rosto aberta num ângulo que rosto nenhum devia ter. Eu nunca os tinha visto na vida. Pelo jeito de ficar, bem perto, sem tocar, como quem segura a porta para ela não bater, eles a conheciam desde sempre.
+
+A Jennifer não olhou para eles. Não precisava: sabia que estavam ali, do jeito que a gente sabe de uma mão conhecida nas costas. Agora o homem pôs a mão aberta no ombro direito dela, e a mulher no esquerdo. A Jennifer ficou um pouco mais alta.
+
 A mancha escura nas chamas, que tinha começado a fechar em volta de dois pontos vermelhos, parou.
 
 Parou como se centenas de mãos tivessem agarrado todos os seus lados ao mesmo tempo. Eu vi os contornos dela vibrarem, tremerem, tentarem avançar um centímetro e voltarem. Ouvi a Jennifer dizer, baixo, só uma palavra, que não era para nós:
@@ -634,6 +638,8 @@ Eu me levantei.
 
 Fiquei um tempo parada diante da porta menor, a pequena, a de ferro com a janelinha de guarda, de onde a gente tinha saído. A fumaça saía por ela em fios espessos. Olhei para dentro: um corredor laranja, um buraco de calor, um fundo que eu não podia mais ver. Fiquei esperando alguém sair por ali. Esperei. Esperei mais.
 
-Eu tinha perguntas demais para que alguma coisa coubesse na minha boca. O que ela quis dizer com "longe de alguma coisa". Onde estava o Pedro, e se a gente podia contar a ele, e como. Se tinha corpo. Se tinha fim. Se ela ainda estava lá, segurando.
+Pensei, sem querer, no papelzinho. Na estante do meu apartamento, dobrado em quatro dentro da apostila de Hotelaria, na página das regras de etiqueta à mesa. Fazia dias que eu passava por ele de lado. Pensei sem vontade nenhuma, e isso me surpreendeu mais do que qualquer coisa daquela noite. Eu tinha passado horas entre gente que descansou fácil, de olhos abertos e boa educação, numa paz que alguém fabricou para elas, e agora estavam todas deitadas no chão de uma penitenciária. Minha avó dissera: *o que parece fácil demais quase sempre cobra depois.* A cobrança dela tinha um preço menor, mas era o mesmo tipo de conta. Quando eu voltasse, ia abrir a apostila, pegar o papel e descer na descarga. Não era promessa, nem coragem. Era só uma dívida que eu decidi, de pé, na terra, de vestido rasgado, não abrir.
+
+Eu tinha perguntas demais para que alguma coisa coubesse na minha boca. O que ela quis dizer com "longe de alguma coisa". Onde estava o Pedro, e se a gente podia contar a ele, e como. Se tinha corpo. Se tinha fim. Se ela ainda estava lá, segurando, e se não estava sozinha. Eu tinha visto os dois. Quis acreditar nisso.
 
 A porta menor ficou aberta. Ninguém saiu por ela.

@@ -374,7 +374,7 @@ Entrei no meu quarto e tranquei a porta com o clique mais baixo possível, como 
 
 Sentei na cama, puxei o notebook e abri com pressa controlada, dedos rápidos, respiração baixa. 
 
-Pesquisei no nome do parque, procurei notícias relacionadas, procurei boletins de ocorrência, fóruns, qualquer coisa que mencionasse “rua de serviço”, “desaparecimento em Morumbi”, “rua Alfredo Volpi“. As palavras iam se repetindo e se misturando na minha cabeça. Não havia relato algum. 
+Pesquisei no nome do parque, procurei notícias relacionadas, procurei boletins de ocorrência, fóruns, qualquer coisa que mencionasse “rua de serviço”, “desaparecimento em Morumbi”, “rua Alfredo Volpi”. As palavras iam se repetindo e se misturando na minha cabeça. Não havia relato algum. 
 
 O celular vibrou em cima da cama. Eu nem olhei, já sabia que era a ansiedade do meu corpo tentando inventar urgência. Ignorei. Continuei a pesquisa. E foi aí que o calendário na parede, do lado da escrivaninha, me acertou como um soco silencioso. Eu tinha esquecido dele de propósito. 
 
