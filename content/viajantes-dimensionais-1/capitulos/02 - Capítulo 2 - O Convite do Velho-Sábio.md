@@ -206,7 +206,7 @@ Beatriz encarou a amiga, assustada.
 
 – Mel, eu não fiz nada.
 
-– Não estou dizendo que foi você – respondeu Melissa, com cuidado. – Mas desde quando tá sentindo esse calor?
+– Não estou dizendo que foi você – respondeu Melissa, com cuidado. – Mas... cara... isso é muito estranho. Eu te juro, minha água estava geladinha quando te dei... 
 
 Beatriz hesitou. Lembrou da esfera azul, dos irmãos caídos no chão da caverna e do rádio que voltara a tocar.
 
@@ -214,17 +214,15 @@ Beatriz hesitou. Lembrou da esfera azul, dos irmãos caídos no chão da caverna
 
 Melissa franziu a testa.
 
-– Você tá falando que uma bolinha fez isso tudo?
-
-– Não. Eu nem sei se uma coisa tem a ver com a outra. Só sei que desde ontem não tô me sentindo bem.
+– Não sei o que exatamente, mas acho que levei um choque. Eu nem sei se uma coisa tem a ver com a outra. Só sei que desde ontem não tô me sentindo bem.
 
 Melissa encostou de leve os dedos na testa dela.
 
-– Então você tem que contar pro seu tio. Ou pra um médico.
+– Você já contou pro seu tio? Ou pra um médico?
 
-– Eu vou falar com ele. Só... não conta dessa caverna pra ninguém, por favor. Nem eu sei explicar.
+– Não. Eu vou falar com ele. Só... não conta dessa caverna pra ninguém, por favor. Nem eu sei explicar.
 
-– Eu? Sou um túmulo.
+– Ahm... não sei se é uma boa não contar, mas... conte comigo! Sou um túmulo. 
 
 Beatriz quis sorrir, mas estava assustada demais. Melissa continuou ao seu lado até que a professora mandou as duas para a próxima aula. Não tinham encontrado explicação nenhuma.
 
@@ -254,7 +252,7 @@ Beatriz sorriu pela primeira vez no dia e deixou que a amiga amarrasse o fio no 
 
 – Acho que comi alguma coisa estragada – murmurou ela, abraçando a si mesma. – Tô meio enjoada.
 
-– Tá falando sério ou só tentando escapar do coral? – provocou Bruno, mas sem a confiança de sempre. Desde que soubera do lustre, repetia que tinha sido um curto-circuito, embora ninguém tivesse pedido sua opinião.
+– Tá falando sério ou só tentando escapar do coral? – provocou Bruno. 
 
 O carro de Frank chegou, e todos se espremeram no banco de trás. Breno ficou ao lado de Beatriz e segurou a mão dela. Conforme subiam pela estrada sinuosa em direção à casa, o mal-estar da menina piorou. Ela fechava os olhos e respirava fundo, como se estivesse se segurando.
 
