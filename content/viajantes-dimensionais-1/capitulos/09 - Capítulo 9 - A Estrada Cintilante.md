@@ -53,7 +53,7 @@ Breno terminou, subiu a escada devagar e se deitou. Quando já estava quase dorm
 
 O café da manhã do primeiro desafio foi o mais silencioso desde que tinham chegado. A mesa estava posta como sempre, com pão quente, geleia de uma fruta que parecia pôr-do-sol, ovos mexidos que se desmanchavam em nuvem, mas ninguém tinha fome. Banjo empurrava um pedaço de pão de um lado para o outro do prato. Beatriz mordia a unha. Bruno bebia o suco com uma calma tão fingida que derramou metade na toalha.
 
-– Boa sorte nos desafios, irmãos Lins – disse a tela na parede, com a voz de Kali. – Pelas minhas estimativas, a chance de um de vocês cair de um dassi hoje é de quarenta e dois por cento.
+– Boa sorte nos desafios, irmãos Lins – disse a tela flutuante, com a voz de Kali. – Pelas minhas estimativas, a chance de um de vocês cair de um dassi hoje é de quarenta e dois por cento.
 
 – Kali! – reclamou Beatriz.
 

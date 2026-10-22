@@ -4,7 +4,7 @@ A manhã começava sempre igual. O despertador do teto estalava às sete, as con
 
 Depois vinham o Edifício Arcano, o elevador de vidro, as aulas. Aprenderam a ler os avisos das tapeçarias, a pedir licença antes de entrar numa porta que tinha opinião, a não olhar fixo para os quadros que olhavam de volta. Ao entardecer, no jardim da casa, Velho-Sábio treinava os quatro, e a grama mudava de cor conforme o humor de quem pisava. Breno aprendeu a firmar os pés. Bruno aprendeu que o gelo, quando ele estava distraído, virava escorregador. Beatriz aprendeu a acender uma vela sem acender a toalha. Banjo aprendeu que as folhas do jardim gostavam de conversa e perdeu uma tarde inteira ouvindo.
 
-Aos domingos havia jantar, e o jantar era ordem de Velho-Sábio. Nada de treino, nada de Edifício, nada de pergunta difícil. Todo mundo cozinhava alguma coisa, quase todo mundo queimava alguma coisa, e a mesa ficava comprida de tanta gente: os quatro, o mago, o Coronel e, na tela da parede, uma Kali que fingia não ter fome.
+Aos domingos havia jantar, e o jantar era ordem de Velho-Sábio. Nada de treino, nada de Edifício, nada de pergunta difícil. Todo mundo cozinhava alguma coisa, quase todo mundo queimava alguma coisa, e a mesa ficava comprida de tanta gente: os quatro, o mago, o Coronel e, na tela flutuante, uma Kali que fingia não ter fome.
 
 – Eu poderia provar? – perguntou ela no primeiro domingo, olhando a travessa.
 

@@ -54,7 +54,7 @@ Era uma criatura enorme, de ombros musculosos e braços grossos, que se apoiava 
 
 A cabeça se ergueu, farejou o ar, e a criatura se lançou sobre eles com uma velocidade que não combinava com o tamanho. Breno entrou na frente dos irmãos e virou metal, com o zumbido grave que fazia quando se transformava, mas não a tempo de evitar o impacto. Os dentes rasparam o corpo metálico com um guincho de arrepiar, e o téorix o ergueu e o arremessou contra uma árvore.
 
-Banjo e Bruno correram para ele. Bruno estendeu uma mão, e o ar ao redor tilintou, frio, como gelo batendo em cristal: um muro translúcido se ergueu entre eles e a criatura. Por um instante, só se ouvia a respiração dos três. Através do gelo, o vulto cinzento rondava, as garras arranhando a superfície, procurando um jeito de contornar.
+Banjo e Bruno correram para ele. Bruno estendeu uma mão. A primeira tentativa só deixou uma geada fina no chão, e ele xingou baixinho. Então lembrou o que o treino ensinava: não mandar no frio, sentir o frio. Fechou os olhos por meio segundo, e o ar ao redor tilintou, como gelo batendo em cristal: um muro translúcido se ergueu entre eles e a criatura. Por um instante, só se ouvia a respiração dos três. Através do gelo, o vulto cinzento rondava, as garras arranhando a superfície, procurando um jeito de contornar.
 
 – Corram! – gritou Breno.
 
@@ -82,25 +82,17 @@ O maior téorix inclinou a cabeça. Banjo ouviu, no fundo da mente, o que a cria
 
 – Banjo, isso não está funcionando! – alertou Bruno.
 
-Breno enfiou a mão no bolso, tateou o saquinho de gemas e parou. A verde. Era a única que calava tudo, a única que teria resolvido aquilo. E ela tinha virado pó numa tarde qualquer, por pura curiosidade.
+Breno enfiou a mão no bolso e tateou o saquinho de gemas. Os dedos reconheceram a verde antes de ele pensar, e ainda havia uma. Os téorixes não enxergavam, só ouviam. Silêncio era exatamente o que eles precisavam.
 
-– Aquela que eu precisava, eu gastei – murmurou, sentindo o estômago afundar.
+– Cheguem perto de mim! – disse, e atirou a pedra aos pés dos três.
 
-– Breno... – começou Bruno.
+A onda invisível se espalhou, e o mundo ficou mudo. O rosnado sumiu. Os passos sumiram. Até o coração de Banjo, que ele sentia como um tambor, parou de fazer barulho. Os téorixes estacaram, as orelhas girando, girando, sem achar nada onde se agarrar. Um deles farejou o ar a menos de dois metros e seguiu adiante, perdido.
 
-– Eu sei. Eu sei.
+Mas o silêncio da gema era pequeno, do tamanho de uma sala, e eles estavam de costas para a rocha. Bastava um téorix dar mais um passo para tropeçar neles. Breno apontou o chão e depois o fundo da clareira, fora da bolha, e articulou com os lábios, sem som: "A pedrinha."
 
-Não era hora de testar uma pedra no escuro, sem saber se ia ajudar ou piorar. Ele precisava de outra ideia, e rápido. E o conselho do Ricochet voltou à mente: o silêncio é o seu melhor amigo.
+Banjo entendeu e fechou os olhos. Lembrou-se do que tinha aprendido em Tayo: não empurrar a pedra com a cabeça, mas sentir a pedra e querer que ela fosse. O medo, porém, apertava tudo por dentro, e a pedrinha só tremeu no chão, sem sair do lugar. Banjo respirou fundo, soltou o ar devagar e pensou nela como num bichinho que queria ver correr. Dessa vez ela se soltou, subiu e foi parar bem longe, do lado oposto da clareira, batendo numa árvore. Os téorixes viraram todas as cabeças ao mesmo tempo e saíram numa corrida desengonçada na direção do barulho. Uma segunda pedra, uma terceira, e o bando inteiro se afastou, rosnando.
 
-– Parem – sussurrou, tão baixo que quase não se ouvia. – Parem de respirar alto. Eles não enxergam. Eles seguem o som.
-
-Os três se encolheram contra a rocha, de mãos na boca. Os téorixes avançaram, as orelhas girando, farejando. Um passou a menos de dois metros. Banjo sentia o próprio coração como um tambor que todo mundo podia escutar. Farol, escondido, nem tremia.
-
-– Banjo – articulou Breno, só com os lábios. – A pedrinha.
-
-Banjo entendeu. Fechou os olhos. Uma pedra se soltou do chão, subiu, e foi parar bem longe, do lado oposto da clareira, batendo numa árvore. Os téorixes viraram todas as cabeças ao mesmo tempo e saíram numa corrida desengonçada na direção do barulho. Uma segunda pedra, uma terceira, e o bando inteiro se afastou, rosnando.
-
-– Agora – sussurrou Breno.
+Breno fez sinal com a cabeça: agora.
 
 Contornaram a parede de rocha na ponta dos pés, passo por passo, até que o som do rio voltou a dominar tudo. Só então correram. Correram até os pulmões arderem, e se encostaram em árvores, ofegantes, sujos de terra e de suor.
 

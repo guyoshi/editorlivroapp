@@ -211,7 +211,7 @@ O Coronel farejou a mão de Banjo e abanou o rabo devagar. Banjo se agachou, e o
 
 – Muito mais tranquilo que os ursos – disse o velho.
 
-Por dentro, a casa era acolhedora e mágica. As paredes tinham figuras que se mexiam devagar, como numa dança. A sala principal era redonda, coberta por uma cúpula de vidro com o céu estrelado, e luzes pequenas flutuavam em volta, suaves e reconfortantes. No centro, uma tela grande flutuava, pulsando com uma luz calma.
+Por dentro, a casa era acolhedora e mágica. As paredes tinham figuras que se mexiam devagar, como numa dança. A sala principal era redonda, coberta por uma cúpula de vidro com o céu estrelado, e luzes pequenas flutuavam em volta, suaves e reconfortantes. No centro, uma tela retangular flutuava, emoldurada por um filete dourado gravado de símbolos astrais, com cristais pendurados na borda como pingentes. Uma onda de luz azul e dourada atravessava a tela devagar, pulsando com calma.
 
 – Esta é a Kali – disse o Velho-Sábio. – Minha assistente. Muitos magos têm uma.
 

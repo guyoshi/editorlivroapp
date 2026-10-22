@@ -2,9 +2,9 @@ Breno acordou com o corpo dolorido pelo chão frio e úmido da cela. Esfregou os
 
 – Bruno? – A voz voltou fininha, devolvida pelas raízes. – Banjo! Cadê o Bruno?
 
-Banjo levantou a cabeça, piscando, e olhou ao redor, ainda sem entender. Breno foi até o canto e viu o que fez o coração dele apertar: o saquinho de gemas, jogado no chão, aberto. Dentro, só duas pedras. A azul e a amarela.
+Banjo levantou a cabeça, piscando, e olhou ao redor, ainda sem entender. Breno foi até o canto e viu o que fez o coração dele apertar: o saquinho de gemas, jogado no chão, aberto. Estava mais leve do que devia. Breno despejou-o na palma e contou: verdes, laranjas, vermelhas, azuis, amarelas. Nenhuma roxa.
 
-– Ele saiu daqui – disse, pegando o saquinho. – Sozinho. E levou a roxa.
+– Ele saiu daqui – disse, guardando as pedras. – Sozinho. E levou as roxas.
 
 – A roxa é a que joga pra cima – lembrou Banjo, de olhos arregalados. – Ele subiu pelo teto!
 
@@ -56,7 +56,7 @@ Um pedaço de madeira em chamas caiu quase em cima deles. Mais adiante, uma pont
 
 – E agora? – perguntou Breno.
 
-Banjo respirou fundo. Estendeu as mãos para a ponte caída, com as veias dos braços saltando de esforço, e a estrutura de madeira se ergueu devagar, flutuando como se fios invisíveis a puxassem. Com um último movimento, ele a encaixou no lugar.
+Banjo respirou fundo. Estendeu as mãos para a ponte caída e tentou erguê-la à força, e a madeira só gemeu. Lembrou então da lição: sentir a madeira antes de pedir que ela se movesse. Parou de empurrar, encostou a mente nas fibras, com as veias dos braços saltando de esforço, e a estrutura se ergueu devagar, flutuando como se fios invisíveis a puxassem. Com um último movimento, ele a encaixou no lugar.
 
 – Corre!
 
@@ -132,7 +132,7 @@ Breno e Banjo obedeceram, disparando pelas pontes enquanto explosões iluminavam
 
 – Aonde vocês vão? – sibilou ele, num som de folha seca sendo pisada.
 
-Breno enfiou a mão no saquinho. Só havia duas pedras, e ele não sabia o que nenhuma das duas fazia. A amarela estava mais perto. Esmagou-a no chão.
+Breno enfiou a mão no saquinho. Os dedos tremiam, e ele só sabia o que faziam as verdes, as laranjas e as vermelhas, e nenhuma delas servia contra um homem-serpente a um passo de distância. Pegou uma amarela, sem saber o que era, e a esmagou no chão.
 
 Uma luz branca e intensa explodiu, e o homem-serpente rugiu, protegendo o rosto. Breno e Banjo também tiveram que fechar os olhos, e por um momento só viram manchas coloridas.
 
@@ -188,11 +188,11 @@ Não houve tempo de responder. Dos dois lados, entre as árvores, outras figuras
 
 Correram. O pântano engolia o som dos passos deles e devolvia só o ruído molhado dos perseguidores. Farol saltava de árvore em árvore na frente, a cauda acesa, indicando o caminho. De repente, uma das criaturas pulou de trás de uma raiz, e Breno puxou Banjo para o lado no último segundo, os dois rolando na água. Outra surgiu do lado esquerdo. Banjo se agarrou numa raiz.
 
-Breno enfiou a mão no saquinho e puxou a última pedra: a azul. Não sabia o que ela fazia. Podia ser inútil. Podia ser pior. Atirou-a contra uma árvore, e o impacto foi imediato: uma esfera invisível de energia envolveu os dois. A criatura que avançava bateu nela e foi jogada para trás, com um grito.
+Breno enfiou a mão no saquinho e puxou uma pedra ao acaso. Vermelha. Atirou-a na água, e ela afundou com um glub, soltando um fiapo de fumaça que a água engoliu. Nada aconteceu. Puxou outra, vermelha também, e a jogou contra um tronco: uma nuvem rubra subiu, e as criaturas tossiram, mas atravessaram a fumaça como se ela fosse névoa de manhã. Restava tatear de novo. Breno pegou uma pedra que não conhecia, azul, e a atirou contra uma árvore. O impacto foi imediato: uma esfera invisível de energia envolveu os dois. A criatura que avançava bateu nela e foi jogada para trás, com um grito.
 
 – É um campo de força? – sussurrou Banjo.
 
-As criaturas arranhavam a barreira, que vibrava a cada golpe. À volta, as silhuetas se multiplicavam, os olhos pálidos brilhando. Breno olhou para o saquinho. Estava vazio. Tinham acabado as pedras. A esfera enfraquecia aos poucos, e ninguém sabia quanto tempo ainda aguentaria.
+As criaturas arranhavam a barreira, que vibrava a cada golpe. À volta, as silhuetas se multiplicavam, os olhos pálidos brilhando. Breno olhou para o saquinho. Ainda havia pedras, mas no escuro ele já não distinguia uma da outra, e atirar a errada agora podia custar o pouco tempo que a esfera lhes dava. A esfera enfraquecia aos poucos, e ninguém sabia quanto tempo ainda aguentaria.
 
 Só então Breno viu a perna de Banjo: três arranhões fundos nas canelas, onde as garras haviam passado, sangrando devagar. Tirou do bolso o frasquinho de Ricochet. Havia um dedinho de mel cor-de-rosa. Passou-o nos arranhões, e a pele se fechou diante deles, como se alguém passasse a mão sobre tinta molhada.
 

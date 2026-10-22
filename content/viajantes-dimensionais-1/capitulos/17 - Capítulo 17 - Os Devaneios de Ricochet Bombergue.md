@@ -54,13 +54,13 @@ Subiram e desceram colinas durante horas. Quando o sol já pendia para o oeste, 
 
 – Tem uma coisa que a gente precisa resolver. As gemas.
 
-Breno hesitou, mas abriu o saquinho que Velho-Sábio lhe entregara. Seis pedras ásperas rolaram para a palma de sua mão: verde, laranja, vermelha, azul, roxa e amarela.
+Breno hesitou, mas abriu o saquinho que Velho-Sábio lhe entregara. Pedras ásperas rolaram para a palma de sua mão, em seis cores: verde, laranja, vermelha, azul, roxa e amarela. E havia mais de uma de cada.
 
-– Seis – contou ele. – Cada uma tem uma função, e o Velho-Sábio disse que a gente descobre testando. Mas aposto que cada uma só funciona uma vez. Se eu testar todas, não sobra nenhuma.
+– Quinze – contou ele. – Três verdes, três laranjas, três vermelhas, duas azuis, duas roxas e duas amarelas. Cada cor tem uma função, e o Velho-Sábio disse que a gente descobre testando. Mas aposto que cada pedra só funciona uma vez.
 
 – E se uma for exatamente o que a gente precisa, e a gente não souber? – insistiu Bruno. – Eu não quero descobrir o que uma pedra faz no meio de uma emergência.
 
-– Você prefere descobrir agora e ficar sem ela?
+– Quinze não é infinito. Cada teste é uma pedra a menos para quando a gente precisar de verdade.
 
 Bruno abriu a boca, fechou, abriu de novo.
 
@@ -110,11 +110,11 @@ O ogro olhou para aquela coisinha brilhante. Inclinou a cabeça. E Farol, para s
 
 Como se tivesse ouvido, a criatura se desfez, de repente, deixando só uma onda de calor no ar. Farol caiu de pé na grama, sacudiu o pelo e voltou ao ombro de Banjo, com ar de quem resolveu um problema doméstico.
 
-– Pronto. Duas pedras a menos – disse Breno, de dentes cerrados, pegando o saquinho das mãos de Bruno. – A verde cala. A laranja chama um ogro de pedra que não ataca, mas eu não sei se obedece. As outras ficam fechadas. A roxa a gente já viu o que faz, ela empurra pra cima.
+– Pronto. Duas pedras a menos – disse Breno, de dentes cerrados, pegando o saquinho das mãos de Bruno. – A verde cala. A laranja chama um ogro de pedra que não ataca, mas eu não sei se obedece. A roxa a gente já viu o que faz, ela empurra pra cima.
 
 – Eu sei muito bem – disse Banjo, olhando para o céu. – Subi uns quinze metros.
 
-– As outras quatro só serão usadas quando não houver outra saída – continuou Breno. – E aí a gente descobre na hora, com o risco que isso tiver. Entenderam?
+– As outras ficam fechadas até não haver outra saída – continuou Breno. – E aí a gente descobre na hora, com o risco que isso tiver. Entenderam?
 
 Bruno ergueu as duas mãos.
 
@@ -234,7 +234,7 @@ E correu em direção a uma das sombras, desaparecendo na névoa.
 
 – Bruno! Para!
 
-O pânico subiu pelo peito de Breno como uma água fria. Foi então que ele sentiu um cheiro, doce e químico, que parecia entrar direto na cabeça, como se fosse o combustível dos medos. Fechou os olhos, fez um esforço tremendo, e a pele começou a endurecer, virando metal brilhante, com aquele zumbido grave que ele já conhecia. O medo se foi. No lugar dele ficou uma clareza fria, e as sombras se dissolveram como fumaça.
+O pânico subiu pelo peito de Breno como uma água fria. Foi então que ele sentiu um cheiro, doce e químico, que parecia entrar direto na cabeça, como se fosse o combustível dos medos. Fechou os olhos e lembrou o que tinha aprendido: o metal vinha de dentro, de sentir o corpo inteiro, e não de querer com raiva. Na primeira tentativa, só os dedos esfriaram. Fez um esforço tremendo, respirou fundo, e a pele começou a endurecer, virando metal brilhante, com aquele zumbido grave que ele já conhecia. O medo se foi. No lugar dele ficou uma clareza fria, e as sombras se dissolveram como fumaça.
 
 Ergueu Banjo no ombro e correu na direção em que Bruno sumira. Encontrou o irmão encolhido contra uma pedra, de olhos arregalados, incapaz de se mover. Ajoelhou-se e pôs a mão de metal no ombro dele.
 
@@ -300,7 +300,7 @@ Breno subiu os degraus irregulares e bateu. O vento parou, e até a luz de Farol
 
 Os irmãos trocaram olhares. Entraram.
 
-Por dentro, a casa era pior. Candelabros pendiam do teto em alturas diferentes, alguns com chamas verdes, e as paredes eram forradas de papéis rabiscados com mapas e esquemas incompreensíveis. Uma mesa longa transbordava de frascos, ferramentas e biscoitos em forma de engrenagem e de osso. Pequenas máquinas de latão, do tamanho de joaninhas, com asinhas e gemas azuis e verdes no peito, zumbiam pelo ar sem destino aparente.
+Por dentro, a casa era pior. Candelabros pendiam do teto em alturas diferentes, alguns com chamas verdes, e as paredes eram forradas de papéis rabiscados com mapas e esquemas incompreensíveis. Uma mesa longa transbordava de frascos, ferramentas e biscoitos em forma de engrenagem e de osso. Pequenas engenhocas de latão, do tamanho de joaninhas, com asas de metal e gemas azuis e verdes no peito, zumbiam pelo ar sem destino aparente.
 
 Banjo foi direto para um pedestal onde repousava uma luva metálica com garras finas e estendeu a mão.
 
@@ -308,7 +308,7 @@ Banjo foi direto para um pedestal onde repousava uma luva metálica com garras f
 
 Banjo pulou para trás. No canto, uma cortina de colheres tilintou, foi empurrada para o lado, e um homem surgiu.
 
-Tinha cabelos castanhos e desgrenhados, com mechas verdes e douradas trançadas ao acaso e adornadas de contas de madeira que tilintavam a cada movimento. Os olhos eram azuis e muito acesos, os de quem não dorme há anos ou tem energia demais para precisar disso. Sorria de orelha a orelha, mostrando dentes um pouco tortos, e as sobrancelhas subiam e desciam como se cada palavra fosse parte de uma peça. Vestia um casaco longo e remendado, com bolsos cheios de tubos e ferramentas, um cachecol verde, colheres penduradas no cinto e um pingente de caveira na mão, que ele apertava a toda hora, como amuleto.
+Tinha cabelos castanhos e desgrenhados, com mechas verdes trançadas ao acaso e adornadas de contas de madeira que tilintavam a cada movimento, e a barba por fazer. Os olhos eram azuis e muito acesos, os de quem não dorme há anos ou tem energia demais para precisar disso. Sorria de orelha a orelha, mostrando dentes um pouco tortos, e as sobrancelhas subiam e desciam como se cada palavra fosse parte de uma peça. Vestia um casaco longo e remendado, com bolsos cheios de tubos e ferramentas, um cachecol verde, botas de cadarço, colheres penduradas no cinto e um pingente de caveira no pescoço, que ele apertava a toda hora, como amuleto.
 
 – O que temos aqui? Intrusos? Não! Convidados? Hmm, talvez! – Ele se inclinou sobre Banjo. – E você! Tocando em tudo! É esse tipo de curiosidade que começa as histórias. Ou termina. Depende do dedo.
 

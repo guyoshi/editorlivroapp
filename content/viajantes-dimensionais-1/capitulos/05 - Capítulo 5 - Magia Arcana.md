@@ -168,7 +168,7 @@ Um garoto de cabelos cacheados e óculos grandes demais se aproximou, tropeçand
 
 Banjo e Beatriz trocaram um olhar. Era como descobrir que o mundo inteiro era uma grande casa de primos distantes.
 
-Uma garota de capuz com estampa de estrelas aproximou-se com um sorriso aberto.
+Uma garota de pele morena e cabelos castanhos e cacheados aproximou-se com um sorriso aberto, envolta numa capa verde-azulada bordada de estrelas e luas.
 
 – Eu sou a Eshley! De Neredis. Vocês já ouviram falar do dromodur? É uma criatura feita de sombra que rouba a voz de quem mente.
 
@@ -176,7 +176,7 @@ Uma garota de capuz com estampa de estrelas aproximou-se com um sorriso aberto.
 
 – Se depender do meu irmão, ele leva um pra casa – disse Bruno.
 
-Ao lado dela, uma garota de olhos grandes e cabelo liso, tímida, acenou com a mão.
+Ao lado dela, uma garota de cabelos escuros e ondulados, óculos redondos, olhos verde-oliva e uma capa verde, tímida, acenou com a mão.
 
 – Essa é minha melhor amiga, a Maria – disse Eshley.
 
@@ -188,7 +188,7 @@ Foi aí que dois garotos mais altos se aproximaram, com sorrisos enviesados.
 
 – Dimensais novos, hein? – disse um deles. – Vamos ver quanto tempo vocês duram.
 
-– Pare de bancar o durão, Erick – cortou uma garota de rabo de cavalo e cachos, rindo. – Ele e o Nicolas apanharam do Ferris no último treino. Eu sou a Shirley. Não liguem pra eles.
+– Pare de bancar o durão, Erick – cortou uma garota de rabo de cavalo ruivo-dourado e cacheado, de sardas no rosto e olhos azul-esverdeados, rindo. – Ele e o Nicolas apanharam do Ferris no último treino. Eu sou a Shirley. Não liguem pra eles.
 
 Os gêmeos fecharam a cara e se afastaram. Bruno os acompanhou com os olhos.
 

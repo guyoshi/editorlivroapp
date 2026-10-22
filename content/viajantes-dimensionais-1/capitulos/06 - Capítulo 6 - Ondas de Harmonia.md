@@ -3,7 +3,7 @@ No dia seguinte, o refeitório do Edifício Arcano cheirava a canela quente e a 
 
 Os quatro irmãos se juntaram a uma mesa onde Eshley, Maria e Emiris já conversavam, de cabeças coladas.
 
-– Venham! – chamou Eshley, ajeitando os óculos. – Estou contando pra eles como foi que cheguei aqui.
+– Venham! – chamou Eshley, ajeitando a capa de estrelas. – Estou contando pra eles como foi que cheguei aqui.
 
 – Eu sou dimensal – disse ela, quando todos se sentaram. – Moro com a minha avó, em Neredis. Meus pais morreram quando eu era pequena. A vovó também foi chamada, há muito tempo, mas não passou nos desafios. Ela me ensinou tudo o que sabia sobre este mundo, bem baixinho, pra que eu nunca esquecesse. – Sorriu, com os olhos brilhando. – Estar aqui é o sonho dela. E o meu.
 

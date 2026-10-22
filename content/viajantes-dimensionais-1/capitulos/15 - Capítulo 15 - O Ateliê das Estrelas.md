@@ -303,7 +303,7 @@ A Bruno deu um chapéu preto com bordas prateadas.
 
 Para Breno, um saquinho de pedras coloridas.
 
-– Gemas de Ravelis. Cada uma tem uma função mágica. Qual é qual, você descobre testando. – O mago tirou da manga uma pedra roxa, igual a uma das do saquinho, e atirou no chão perto de Banjo, que foi erguido para o alto, gritando.
+– Gemas de Ravelis. Há mais de uma de cada cor, e cada uma tem uma função mágica. Qual é qual, você descobre testando. – O mago tirou da manga uma pedra roxa, igual a uma das do saquinho, e atirou no chão perto de Banjo, que foi erguido para o alto, gritando.
 
 – UAAAH!
 

@@ -102,7 +102,7 @@ Todos riram, e ela deu um empurrão no irmão.
 
 – Você é impossível, Bruno!
 
-Lá dentro, uma voz carinhosa saiu da tela da parede.
+Lá dentro, uma voz carinhosa saiu da tela flutuante.
 
 – Feliz aniversário, Beatriz. Espero que o seu dia seja tão brilhante quanto você.
 

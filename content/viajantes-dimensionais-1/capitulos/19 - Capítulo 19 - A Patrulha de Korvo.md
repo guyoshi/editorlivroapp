@@ -46,7 +46,7 @@ Os irmãos seguiram as duas aracnas pelos corredores úmidos, iluminados só por
 
 Bruno e Breno se entreolharam. Bruno cochichou "ótimo" e passou a andar um passo mais perto de Banjo.
 
-O caminho era comprido, e Faka tagarelava sem parar. Contou como tinha capturado um lagarto das cavernas de duas caudas, "com um nó tão perfeito que até a rainha ficou impressionada, não que eu esteja me gabando", e andou de costas durante metade da história, sem tropeçar uma única vez. Num trecho largo, cheio de poças, Bruno estendeu a mão para uma delas e a água se transformou num piso liso e brilhante.
+O caminho era comprido, e Faka tagarelava sem parar. Contou como tinha capturado um lagarto das cavernas de duas caudas, "com um nó tão perfeito que até a rainha ficou impressionada, não que eu esteja me gabando", e andou de costas durante metade da história, sem tropeçar uma única vez. Num trecho largo, cheio de poças, Bruno estendeu a mão para uma delas, sentiu o frio subir pelo braço, como tinha aprendido, e a água se transformou num piso liso e brilhante.
 
 – Vem, Banjo!
 
@@ -284,11 +284,11 @@ Banjo sorriu, aliviado. Breno continuou desconfiado, mas calou. Um por um, os ir
 
 Bruno esperou. Quando teve certeza de que todos dormiam, aproximou-se de Breno, devagar, e esticou a mão para o bolso. Os dedos tocaram o saquinho de gemas. Breno se mexeu, murmurou algo, franziu o rosto. Bruno congelou, com o coração disparado, e esperou. Depois puxou o saco de vez.
 
-Com as palmas, porque as algemas atrapalhavam, abriu o saco. Sobraram três pedras: azul, roxa e amarela. Pegou a roxa.
+Com as palmas, porque as algemas atrapalhavam, abriu o saco e despejou as pedras no chão, sob a luz verde das plantinhas. Separou as roxas, duas, e as guardou no bolso.
 
-– É essa – sussurrou. – Só preciso de um impulso.
+– Essas – sussurrou. – Só preciso de um impulso.
 
-Deixou o saco aberto ao lado de Breno, com a azul e a amarela dentro. Olhou uma vez para os irmãos adormecidos. Ia buscar a irmã sozinho. Ia mostrar a todos que não era só o irmão piadista. Posicionou os pés, respirou fundo e jogou a pedra no chão.
+Recolheu o resto das pedras de volta para o saco e o deixou aberto ao lado de Breno. Olhou uma vez para os irmãos adormecidos. Ia buscar a irmã sozinho. Ia mostrar a todos que não era só o irmão piadista. Posicionou os pés, respirou fundo e jogou uma das roxas no chão.
 
 Um impacto silencioso. Bruno foi lançado para cima com uma força que ele nem imaginava, o ar chicoteando o rosto. Agarrou uma das grossas raízes do teto, os dedos escorregando, e se pendurou ali, ofegante. Escalou. Viu uma brecha estreita e foi se arrastando até ela, pela madeira áspera e molhada.
 
@@ -368,6 +368,6 @@ Bruno fixou o ponto no escuro. Endireitou o corpo e forçou um sorriso irônico.
 
 – O convite é irresistível. Mas estou numa missão de resgate.
 
-Antes que alguém se mexesse, ele girou, correu e se atirou na água do pântano. Nadou com toda a velocidade, deslizando pela água escura como se fosse parte dela, sem olhar para trás, em direção ao ponto distante, em direção ao resgate da irmã.
+Antes que alguém se mexesse, tirou a outra roxa do bolso e a atirou aos pés. O impulso o lançou num arco por cima das cabeças encapuzadas, e ele caiu na água do pântano, longe, num estrondo de espuma. Nadou com toda a velocidade, deslizando pela água escura como se fosse parte dela, sem olhar para trás, em direção ao ponto distante, em direção ao resgate da irmã.
 
 Anasin continuou parada, observando-o se afastar. Não reagiu. Só um sorriso pequeno ficou nos lábios dela, como quem já sabia como terminava a história.

@@ -56,7 +56,7 @@ Na manhã do segundo desafio, Velho-Sábio os levou de volta ao prédio. As port
 
 E, no centro, flutuando no ar, esperavam as láridas celestes.
 
-Eram raias enormes, quase translúcidas, com um par de chifrinhos no focinho e duas asas largas, onduladas, que se moviam sem pressa. As caudas eram compridas, sem ferrão, e quando elas se mexiam o salão ecoava um som baixinho, como um coro distante. Os olhos eram de um verde profundo e inteligente. Sob as bocas, um par de tentáculos finos tocava o ar como antenas, e as pontas brilhavam mais forte quando um aprendiz se aproximava.
+Eram raias enormes, quase translúcidas, com um par de chifrinhos na testa e duas asas largas, em que a luz corria ondulada como água, e que se moviam sem pressa. As caudas eram compridas, sem ferrão, e quando elas se mexiam o salão ecoava um som baixinho, como um coro distante. Os olhos eram de um verde profundo e inteligente. Sob as bocas, um par de tentáculos finos tocava o ar como antenas, e as pontas douradas brilhavam mais forte quando um aprendiz se aproximava.
 
 – Elas são lindas – sussurrou Beatriz.
 
