@@ -1,519 +1,373 @@
-As teias que prendiam Breno e Bruno começaram a se desfazer, arrancadas com cuidado, mas firmeza, pelas patas das Aracnas. Cada fio fibroso parecia resistir antes de finalmente ceder, emitindo um som seco que ecoava na caverna. Quando a luz suave das teias revelou os dois irmãos, Bruno se pôs de pé imediatamente, os punhos cerrados e a energia mágica já cintilando em suas mãos. Breno, por sua vez, ativou seu poder, transformando-se em metal em um instante, os músculos rígidos e prontos para reagir.
+As teias que prendiam Breno e Bruno foram arrancadas com cuidado pelas patas das aracnas. Cada fio resistia antes de ceder, com um estalo seco que ecoava na câmara. Quando a luz suave revelou os dois, Bruno já estava de pé, com os punhos cerrados e o ar à volta dele começando a tilintar de frio. Breno virou metal num instante, com o zumbido grave que fazia quando se transformava.
 
-— Esperem! — gritou Banjo, correndo para ficar entre os irmãos e as Aracnas.
+– Esperem! – gritou Banjo, correndo para se pôr entre os irmãos e as aracnas.
 
-Bruno hesitou, mas manteve a postura defensiva, seus olhos ainda fixos nas criaturas. Breno não voltou à forma humana, mas parou de avançar.
+Bruno hesitou. Breno parou de avançar, mas não voltou à forma de carne.
 
-— Onde estamos, Banjo? — Bruno rosnou, sem tirar os olhos das gigantescas Aracnas que cercavam a câmara — e por que estamos cercados de… aranhas gigantes? 
+– Onde estamos, Banjo? – rosnou Bruno, sem tirar os olhos das criaturas imensas que cercavam a câmara. – E por que estamos cercados de aranhas gigantes?
 
-— São aracnas. São amigas. Elas vão nos ajudar! — respondeu Banjo, sua voz firme, mas com uma pitada de urgência. 
+– São aracnas. São amigas. Elas vão nos ajudar!
 
-Breno e Bruno trocaram olhares rápidos, desconfiados, mas recuaram levemente. Lanigiah, a gigantesca rainha, inclinou-se para frente, sua sombra cobrindo todo o trio. 
+Lanigiah se inclinou, e a sombra dela cobriu os três.
 
-— UOU! — exclamou Bruno ao notar o tamanho da rainha. 
+– UOU – disse Bruno, olhando para cima.
 
-Lanigiah então se dirigiu à Banjo, sua voz suave, porém imponente, preencheu o ar:
+– Você tem um coração grande, Banjo – disse a rainha, e a voz suave encheu a câmara. – Poucos enfrentariam tantas inseguranças e ainda assim escolheriam voltar. – Os oito olhos escuros se voltaram para os mais velhos. – Ele é sábio. Deveria ser o líder de vocês.
 
-— Você tem um coração grande, Banjo. Poucos enfrentariam tantas inseguranças e ainda assim escolheriam voltar. Isso é bom... e admirável. — Seus olhos brilhantes se voltaram para os irmãos mais velhos. — Ele é sábio, deveria ser o líder de vocês. 
+– É – respondeu Bruno, com um sorriso muito falso. – Vamos pensar no caso, rainha aranha.
 
-— É — Bruno começou, com um sorriso falso — Vamos pensar no caso, rainha aranha. 
+Banjo sorriu, tímido e vermelho. Breno, ainda esfregando os braços doloridos da teia, só ergueu uma sobrancelha.
 
-Banjo sorriu timidamente, mas manteve a postura firme diante de seus irmãos.
+Lanigiah apontou uma pata para um dos túneis.
 
-Lanigiah ergueu uma de suas patas dianteiras, apontando para um dos túneis que se estendiam para longe da câmara. 
+– Há um caminho até o Pântano de Mortem, onde vivem os Obbs. São nervosos e muito territoriais. Se quiserem passar pelas terras deles, falem a verdade sobre o motivo da visita. Não tentem enganá-los.
 
-— Há um caminho que os levará até o Pântano dos Ossos, lar dos Obbs. Eles são criaturas nervosas e extremamente territorialistas. Se quiserem passar pelas terras deles, falem a verdade sobre o motivo de sua presença. Não tentem enganá-los ou irritá-los. Isso só causará problemas.
+– Obrigado, Lanigiah – disse Banjo. – A gente vai ter cuidado.
 
-Banjo assentiu e deu um passo à frente, com uma expressão de gratidão sincera.
+– Nos veremos de novo, rapaz.
 
-— Obrigado, Lanigiah. Nós seremos cuidadosos.
+Ela bateu as patas no chão, e Faka se aproximou, ao lado de uma aracna mais velha e mais calada.
 
-A rainha inclinou a cabeça em um gesto quase maternal.
+– Elas vão guiar vocês pelos túneis. Sigam-nas, e estarão seguros.
 
-—Nos encontraremos de novo, rapaz! 
+Faka estava tão orgulhosa de ter sido escolhida que quase não cabia dentro do próprio pelo.
 
-Ela estalou suas patas no chão, e Faka, ao lado de outra aracna maior, se aproximou.
+– Vamos, passarinho!
 
-— Elas os guiarão pelos túneis até a saída. Sigam-nas, e estarão seguros.
+Os irmãos seguiram as duas aracnas pelos corredores úmidos, iluminados só por Farol, que ia na frente com a cauda erguida e já se achava o dono da expedição. Bruno esperou a primeira curva.
 
-Banjo olhou para Faka, que parecia orgulhosa de ter sido escolhida, seus olhos brilhando com entusiasmo.
+– Ei. O que você falou pras aranhas pra elas ajudarem a gente? Foi a surpresa do ano.
 
-— Vamos lá, passarinho! — disse Faka, apontando com uma de suas patas na direção do túnel.
+– Eu só fui eu – respondeu Banjo, tentando parecer modesto e falhando completamente.
 
-Os irmãos seguiram as duas Aracnas, com um último olhar para Lanigiah, que observou em silêncio até que desaparecessem na escuridão dos corredores úmidos.
+– Eu só me lembro de oito olhos enormes na minha frente e depois de um branco – disse Breno, com o canto da boca já subindo. – O resto eu perdi.
 
-Enquanto caminhavam pelos túneis iluminados apenas por Farol, Bruno quebrou o silêncio.
+– Vocês só estão vivos porque a rainha gostou dele – comentou Faka, alegre. – A maioria dos desafortunados, ela devora.
 
-— Aí… o que você falou pras aranhas pra elas nos ajudar? — Ele olhou para Banjo. — Tipo… você convencê-las a nos ajudar foi a surpresa do ano.
+Bruno e Breno se entreolharam. Bruno cochichou "ótimo" e passou a andar um passo mais perto de Banjo.
 
-— Eu só fui eu — respondeu Banjo, tentando soar modesto, mas claramente orgulhoso.
+O caminho era comprido, e Faka tagarelava sem parar. Contou como tinha capturado um lagarto das cavernas de duas caudas, "com um nó tão perfeito que até a rainha ficou impressionada, não que eu esteja me gabando", e andou de costas durante metade da história, sem tropeçar uma única vez. Num trecho largo, cheio de poças, Bruno estendeu a mão para uma delas e a água se transformou num piso liso e brilhante.
 
-Breno, ainda esfregando os braços doloridos de onde a teia o apertou, olhou para Banjo com um meio sorriso. 
+– Vem, Banjo!
 
-— Eu só me lembro de ver oito olhos enormes na minha frente antes de desmaiar. O resto é um borrão. 
+Banjo patinou de meias pelo corredor, de braços abertos, e Farol correu atrás dele, escorregando e rodopiando. Breno pôs a mão no rosto e depois, sem aviso, escorregou também, de metal e tudo, com um som que fez Faka cair de barriga para cima, rindo.
 
-Banjo respondeu com um pequeno sorriso.
+– Vocês são muito mais divertidos que as minhas irmãs!
 
-— Relaxa. Já passamos por coisa pior. Além disso, a rainha era gente boa. 
+Quando o gelo derreteu, Banjo, ainda ofegante, fez uma pergunta que vinha segurando.
 
-Faka interrompeu, virando a cabeça para olhar para eles.
+– Vocês nunca sobem à superfície?
 
-— Devo dizer que vocês só estão vivos porque a rainha gostou de você. A maioria dos desafortunados, ela devora. — ela disse em tom alegre o que fez Breno e Bruno se entreolharem. 
+Faka parou. As patas dianteiras tocaram a parede, como se procurassem as palavras.
 
-Enquanto seguiam pelos túneis sinuosos, Faka tagarelava alegremente, suas patas ágeis guiando o grupo com facilidade, acompanhada da outra aracna mais velha. 
+– Eu sempre sonhei em ver o céu. O sol, as estrelas. Deve ser maravilhoso. Mas as aracnas não vivem lá em cima por um motivo. Tem muita maldade.
 
-— Vocês sabiam que uma vez eu capturei um lagarto das cavernas com duas caudas? — disse ela, virando a cabeça para olhar os irmãos enquanto caminhava de costas. — Ele tentou escapar, mas eu fiz um nó tão perfeito na teia que até Lanigiah ficou impressionada! Quer dizer, não que eu esteja me gabando ou algo assim...
+– E os nossos túneis chegam a qualquer lugar de Belfex – acrescentou Nafa, a mais velha, com uma voz de pedra. – Só evitamos algumas regiões. Onde vivem... outras criaturas.
 
-Bruno trocou um olhar divertido com Banjo, que parecia fascinado com as histórias de Faka. Breno, sempre atento, seguia em silêncio, mantendo os olhos nas sombras ao redor.
+– Quem sabe um dia eu fujo! – Faka se animou de novo. – E se eu tivesse asas? Eu voando! Ficaria incrível, né?
 
-— Vocês só vivem aqui embaixo? Não costumam ir à superfície? — perguntou Banjo, curioso.
+– Uma aranha voadora – disse Bruno. – O pesadelo de todo mundo que tem medo de aranha.
 
-Faka hesitou, parando por um instante. Suas patas dianteiras tocaram a parede do túnel, como se ela estivesse tentando encontrar as palavras certas.
+A luz do dia chegou em feixes finos, e com ela um ar pesado e úmido, de madeira velha, folha podre e água corrente. Os túneis os deixaram numa plataforma de pedra, à beira de um rio sinuoso que cortava um pântano sombrio. Troncos imensos, de raízes mergulhadas na água escura, formavam à frente uma floresta de mangues e musgo.
 
-— Eu gostaria... sempre sonhei em ver o céu, o sol, as estrelas. Deve ser maravilhoso lá em cima. Mas... as Aracnas não vivem na superfície por um motivo. Há muita maldade lá. Aqui embaixo, estamos protegidas. É nosso lar, mesmo que seja escuro e frio.
+E nas árvores havia uma cidade.
 
-— Além disso, nossos túneis são profundos. Conseguimos ir para qualquer lugar de Belfex pelo subterrâneo — disse a outra aracna. 
+Era a cidade mais bonita que Banjo já tinha visto. Os troncos, grossos como casas e altos demais para se ver o fim, eram cercados por plataformas de madeira que subiam em espiral e se ligavam por pontes de corda. Das janelas pequenas escapavam luzes amarelas, e lanternas balançavam em cada corrimão. Flores azul-esverdeadas brilhavam entre as raízes e nas águas, e canoas deslizavam devagar, remadas por pessoinhas pequenas, que carregavam cestos e fardos nas costas.
 
-— Verdade Nafa — riu Faka — Por aqui chegamos a qualquer lugar. Há aracnas espalhadas por baixo de toda Belfex. 
+– Isso é incrível – sussurrou Banjo.
 
-— Não só aracnas — disse a outra aracna de nome Nafa — há regiões em que não costumamos popular, porque possuem… outras… criaturas. 
+– Bem-vindos a Pinesoto, território dos Obbs – disse Faka, recuando. – Meu trabalho termina aqui.
 
-— Sim. É verdade! — disse Faka, voltando então ao assunto. — Mas quem sabe? Talvez um dia eu fuja para a superfície! Talvez eu até possa voar. O que vocês acham? Eu com asas? Ficaria incrível, né?
+– Obrigado, Faka. Por tudo.
 
-— Uma aranha voadora? Definitivamente seria o pesadelo dos aracnofóbicos— brincou Bruno, arrancando risadas de Banjo.
+Ela torceu duas patas, tímida.
 
-Finalmente, o túnel começou a se abrir, e a luz do dia entrou em feixes tênues, anunciando a saída. O ar tornou-se pesado e úmido, trazendo consigo o cheiro forte de madeira envelhecida, folhas apodrecidas e o leve aroma de água corrente. Eles emergiram em uma plataforma natural de pedra às margens de um rio sinuoso que cortava o pântano sombrio à frente. A floresta parecia quase viva, um emaranhado de troncos imensos e raízes submersas na água pantanosa. O cheiro forte de terra úmida, musgo e matéria em decomposição pairava no ar, misturado ao som de água gotejando e de insetos ecoando na penumbra.
+– Foi bom conhecer você, passarinho. – E sumiu túnel adentro, deixando um farfalhar de pernas e uma última risadinha.
 
-Mas o que realmente capturou seus olhares foi a cidade primitiva que surgia entre as árvores gigantescas. Os troncos grossos e retorcidos, cobertos por musgo, flores selvagens e líquens brilhantes, erguiam-se até alturas inimagináveis. Durante toda a extensão desses troncos, plataformas de madeira circulavam suas bases, subindo em espirais ou conectadas por pontes de corda, formando um intricado labirinto de caminhos aéreos. Cada plataforma era equipada com pequenas entradas que levavam ao interior das árvores, onde luzes amareladas escapavam pelas janelas rudimentares, sugerindo que as árvores também eram habitadas por dentro.
+Os irmãos olharam o pântano. Sobre a água, entre as árvores, voavam criaturas parecidas com libélulas, mas do tamanho de gaivotas, de asas transparentes que brilhavam em azul e verde, num zumbido constante.
 
-As bases das árvores estavam parcialmente submersas na água escura e densa do pântano, e raízes grossas emergiam como labirintos, criando caminhos e esconderijos. Pequenas canoas improvisadas deslizavam pela água pantanosa, conduzidas por Obbs, que remavam com bastões rústicos, enquanto outros carregavam objetos pesados em suas costas ou transportavam cestos pendurados em suas mãos ágeis.
+– Chegamos – disse Breno. – A gente pergunta pros Obbs se viram alguém por aqui.
 
-A floresta-pântano era escura, mesmo sob a luz do dia. As árvores imensas formavam um teto quase impenetrável de folhas que bloqueavam grande parte da luz, deixando a maior parte da paisagem imersa em sombras. A pouca claridade vinha de algumas raras plantas bioluminescentes espalhadas pelas raízes, pelos troncos e até mesmo nas águas do pântano. Pequenos pontos de luz verde-azulada piscavam aqui e ali, dando ao lugar um ar mágico, mas ao mesmo tempo opressivo. E, é claro, as luzes vindo das lanternas que muitos Obbs carregavam, além das luzes no interior dos troncos das árvores. 
+Desceram pelas pedras escorregadias da margem. Banjo ia na frente, de queixo caído, com Farol no ombro, cauda acesa e orelhas em pé, tão encantado quanto ele. Foi por isso que ninguém viu a primeira libélula descer em silêncio, de asas abertas, direto sobre o petrisco.
 
-Banjo ficou boquiaberto, olhando a cena com olhos arregalados.
+– EI!
 
-— Isso é... incrível, — sussurrou ele, com um toque de admiração.
+Banjo estendeu a mão, e a libélula foi arremessada para o lado por uma rajada invisível, rodando no ar. Ele agarrou Farol com a outra mão e o apertou contra o peito. A segunda libélula, que vinha atrás, ficou parada, tentando entender o que tinha acontecido, e depois voltou para o alto, como se nada tivesse acontecido.
 
-— Bem-vindos ao território dos Obbs, — disse Faka, recuando levemente. — Meu trabalho termina aqui. Vou deixá-los sozinhos.
+– O que foi? – perguntou Bruno, virando-se.
 
-Banjo olhou para ela, com uma expressão de gratidão.
+– Vocês não viram? – Banjo estava furioso. – Aquele inseto gigante queria comer o Farol!
 
-— Obrigado, Faka. Por tudo.
+– Aquilo é uma libélula, Banjo.
 
-Ela balançou suas patas em um gesto quase tímido.
+– Uma libélula do tamanho de uma águia que queria comer o Farol!
 
-— Foi bom conhecer você, passarinho. 
+Farol, nos braços dele, cuspiu uma faísca para o céu, ofendido, e se enrolou no pescoço de Banjo como um cachecol brilhante. Bruno segurou o riso por quase dois segundos.
 
-Com um último olhar, Faka virou-se e desapareceu de volta pelo túnel, deixando os irmãos a sós. 
+Foi então que, como se nascessem das raízes e da lama, pequenos seres robustos emergiram à volta deles, com lanças longas apontadas para os três.
 
-— Bom, é isso — disse Breno — Chegamos no pântano. 
+Eram os Obbs. Tinham mais ou menos um metro de altura, a pele terrosa, marcada como casca de árvore, olhos grandes e brilhantes, roupas de folhas e fibras, e lanças enfeitadas com penas e musgo.
 
-— E agora? —  perguntou Banjo. 
+– Parados! – gritou um deles, com voz rouca. – Quem são vocês, e o que querem em nossa aldeia?
 
-— Podemos perguntar pra esses tais Obbs… se eles viram alguém por essas bandas recentemente. Não devem haver muitos senavelitas por aqui — deduziu Breno.  
+Os irmãos ergueram as mãos. Um Obb corpulento e mal-encarado apontou a lança para Breno.
 
-Os irmãos desceram cuidadosamente pelas pedras escorregadias à margem do rio, onde a água pantanosa e densa refletia as sombras das árvores imensas acima. O som de seus passos sobre as pedras era abafado pela vegetação úmida.
+– Devem ser seguidores do mago negro! Espiões!
 
-De repente, como se surgissem da própria terra, pequenos seres robustos emergiram das raízes e da lama. Eles se moviam com uma agilidade impressionante, apontando lanças longas e rudimentares, mas afiadas, diretamente para os três. Eram os Obbs.
+– Não somos nada disso – respondeu Breno, firme. – Estamos tentando salvar a nossa irmã. Precisamos passar pelo pântano. Só isso.
 
-Os Obbs eram pequenos, com cerca de um metro de altura, suas peles em tons terrosos cobertas por marcas naturais que lembravam cascas de árvores. Seus olhos eram grandes e brilhantes, refletindo um misto de desconfiança e ferocidade. Usavam roupas simples feitas de folhas, fibras e pedaços de couro, e suas armas de madeira e pedra pareciam primordiais, mas eficientes. As lanças que seguravam eram decoradas com penas e musgo.
+Um Obb mais alto que os outros ergueu a mão, e o grupo se calou. Era atarracado, de cabelos escuros e encaracolados, já grisalhos nas têmporas, barba curta e uma capa de folhas sobre os ombros. Na mão, uma lança com a ponta cravejada de cristais verdes.
 
-— Parados! — gritou um dos Obbs, sua voz rouca e cortante. — Quem são vocês e o que fazem em nossa aldeia?
+– Sou Seti, líder de guerra de Pinesoto.
 
-Os irmãos levantaram as mãos instintivamente. Breno, sempre atento, deu um passo à frente, mas foi interrompido quando outro Obb, mais robusto e mal-encarado, apontou sua lança diretamente para ele. 
+– Eu sou... ahn... Bruno – respondeu Bruno, com um sorriso forçado. – Líder dos meus irmãos.
 
-— Eles devem ser seguidores do mago negro! Espiões enviados para acabar conosco, — rosnou o Obb, com os olhos brilhando de desconfiança.
+– Vocês podem nos ajudar a achar nossa irmãzinha? – perguntou Banjo.
 
-— Não somos nada disso, — respondeu Breno, sua voz firme. — Estamos apenas tentando salvar nossa irmã. Precisamos passar pelo pântano, é só isso. Não queremos causar problemas. 
+Seti os examinou por um longo instante. Depois se virou para os outros.
 
-Os Obbs trocaram olhares desconfiados, mas um deles, mais alto e com uma postura imponente, ergueu a mão, silenciando o grupo. Ele tocava um pequeno amuleto pendurado em seu pescoço e sua lança era adornada com pedras brilhantes. 
+– Amarrem-nos.
 
-— Sou Seti, líder de guerra de Pinesoto — disse ele, sua voz grave e autoritária. 
+Alguns Obbs ergueram as mãos e as agitaram, e os galhos das árvores próximas se torceram, crescendo depressa, e se fecharam como algemas ao redor dos pulsos dos três. Banjo tentou protestar e foi calado por um puxão. Um Obb soprou um instrumento de bambu, um som alto e oco que atravessou o pântano, e lá do alto vieram as respostas.
 
-— Ah… eu sou… ahm… Bruno… líder… dos… meus irmãos — disse Bruno, com um sorriso forçado. 
+– Levem-nos ao Grande Pai Gaia.
 
-— Poderiam nos ajudar a achar nossa irmãzinha? — perguntou Banjo. 
+Subiram por uma ponte que balançava a cada passo. Os Obbs paravam o trabalho nas plataformas para olhar, curiosos e desconfiados, e Banjo, mesmo preso, não conseguiu deixar de reparar nas lanternas, nos elevadores de corda e cesto, nas portinhas no tronco. As libélulas gigantes voavam em círculos, e uma delas pousou num corrimão, bem perto, observando Farol com um interesse suspeito. Banjo puxou o petrisco mais para dentro da gola e lançou à libélula o olhar mais severo que conseguiu fazer.
 
-Seti olhou para eles, os julgando, então virou-se para os demais. 
+A maior árvore da cidade tinha um tronco moldado como uma porta imensa, entalhada com padrões geométricos e símbolos desconhecidos. Dentro, o espaço parecia uma catedral viva, com um chão de madeira polida que brilhava como se houvesse seiva correndo por baixo, paredes curvas entalhadas com batalhas e festas dos Obbs, e, no centro, um cristal verde enorme que pulsava como um coração. Pilares cobertos de líquens e flores azuis iluminavam tudo com uma luz suave. Pelas galerias que subiam em círculos, dezenas de Obbs observavam em silêncio.
 
-— Amarrem-nos!
+No fundo, num trono de raízes entrelaçadas, estava um Obb maior que os outros, de uns 1,50 m. Tinha a pele marrom-escura, cabelos brancos e cacheados, barba branca e olhos de um verde intenso. Raízes pareciam crescer ao longo dos braços e dos ombros dele. Usava uma coroa de folhas douradas e segurava um bastão de raiz retorcida, com um cristal verde na ponta.
 
-Ao som de um gesto de Seti, alguns Obbs próximos levantaram seus braços e agitaram as mãos. Como se a própria floresta respondesse, galhos de árvores próximas se retorceram e cresceram rapidamente, formando algemas naturais e robustas ao redor dos braços de Breno, Bruno e Banjo.
+– Grande Pai, peço licença – disse um Obb magro, que Banjo tinha ouvido ser chamado de Boty. – Encontramos estes senavelitas perto da caverna a oeste.
 
-— Esperem, nós só queremos... — começou Banjo, mas foi calado pelo puxão de um dos Obbs.
+Gaia olhou para os garotos e sorriu de leve, o que não os tranquilizou.
 
-Um Obb soprou um instrumento feito de bambu, emitindo um som alto e oco que reverberou pelo pântano. Da cidade suspensa acima, outros Obbs responderam com o mesmo som, confirmando que o alerta havia sido recebido.
+– Não é comum encontrar senavelitas por aqui – começou ele, numa voz rouca, como um trovão abafado. – Por que vieram às terras dos Obbs?
 
-— Vamos leva-los ao Grane Pai Gaia — ordenou-os Seti. 
+– Procuramos a nossa irmã – disse Breno, com respeito. – Ela foi sequestrada em Tayo e levada para o pântano. Só queremos achá-la.
 
-Os irmãos foram conduzidos por uma ponte de madeira que balançava levemente com o movimento. A cidade parecia ainda maior à medida que eles subiam. Os Obbs que trabalhavam nas plataformas paravam suas tarefas para observar os visitantes com olhares curiosos, mas cheios de desconfiança. Alguns carregavam cestos com alimentos, ferramentas rudimentares ou fibras para tecer, enquanto outros transportavam pequenos barris em elevadores improvisados de corda e madeira.
+Gaia o mediu em silêncio. Um conselheiro cochichou em seu ouvido, e ele assentiu devagar.
 
-Por entre as árvores, grandes criaturas semelhantes a libélulas de cores vibrantes e asas transparentes voavam em círculos, pousando ocasionalmente em galhos ou plataformas. O zumbido de suas asas era o único som que interrompia o silêncio desconfortável entre os irmãos e seus guardiões.
+– Não sei onde está a sua irmã. Mas há um mal crescendo a leste que nos preocupa.
 
-As pontes e passarelas interligavam as árvores, cada uma com uma arquitetura única, mas todas compartilhando o mesmo estilo rudimentar. Pequenas portas e janelas pontilhavam os troncos, revelando um leve brilho amarelado do interior das casas.
+– Mal? – Banjo engoliu em seco.
 
-Finalmente, eles foram conduzidos até a maior árvore do grupo, cujo tronco parecia ter sido moldado naturalmente para abrigar uma entrada impressionante. Uma porta larga, feita de madeira entalhada com padrões geométricos e símbolos desconhecidos, estava aberta, revelando um interior iluminado por luzes que brilhavam em tons suaves de azul e verde.
+– Existe um lugar no pântano que chamamos de Sepulcro dos Esquecidos.
 
-Os irmãos trocaram olhares apreensivos enquanto eram empurrados para dentro. Ao entrarem no tronco imenso, os irmãos foram surpreendidos pelo que viram. O interior da árvore era vasto e impressionante, quase como uma catedral natural. O chão era composto de uma madeira polida que brilhava suavemente, como se houvesse vida correndo por suas veias. As paredes curvas do tronco eram adornadas com entalhes detalhados, representando cenas da história dos Obbs: batalhas, rituais, celebrações, e imagens de criaturas fantásticas.
+O salão ficou mudo. As luzes do cristal pareceram brilhar mais forte.
 
-No centro do espaço, uma luz verde brilhava de um cristal gigantesco embutido no chão, irradiando energia que parecia pulsar como um coração. Ao redor do cristal, pilares naturais se erguiam, cobertos de líquens e flores bioluminescentes, que iluminavam o ambiente com uma aura suave e misteriosa.
+– É um lugar amaldiçoado, onde a morte dança com a vida. Poucos que entram voltam para contar. Todas as noites, nossa cidade ergue as pontes e apaga as luzes. Assim, lá no alto, o mal que às vezes vem de lá não nos encontra.
 
-No fundo do salão, em um trono esculpido diretamente do tronco da árvore, estava um Obb maior que os outros de sua espécie, com cerca de um metro e meio. Seu corpo parecia fundido com a natureza, como se raízes tivessem crescido ao longo de seus braços e ombros. Sua pele era de um tom marrom profundo, quase como casca de árvore, e seus olhos brilhavam com um verde intenso, irradiando sabedoria e autoridade. Ele usava uma coroa de folhas douradas e musgo, e segurava um bastão feito de uma única raiz torcida, adornado com cristais verdes.
+– E que mal é esse? – perguntou Bruno, com a voz um pouco mais fina do que gostaria.
 
-— Grande Pai, peço sua licença. Encontramos esses senavelitas na entrada da caverna a oeste — disse Boty. 
+– Os devorantes. Eles caçam tudo o que respira.
 
-Gaia olhou fixamente aos garotos e sorriu. 
+Breno respirou fundo.
 
-— Não é comum encontrarmos senavelitas por aqui — Gaia começou, sua voz rouca ecoando como um trovão abafado. — Por que vieram às terras dos Obbs?
+– Já enfrentamos muitas coisas nesses dias. Se nos disser onde fica o Sepulcro, saímos agora mesmo.
 
-Breno levantou a cabeça, mantendo uma postura respeitosa apesar da tensão palpável no ar.
+Gaia ergueu a mão, e Breno calou.
 
-— Estamos procurando nossa irmã. Ela foi sequestrada em Tayo e levada para o pântano. Não queremos causar problemas, só queremos encontrá-la.
+– Não é tão simples. Primeiro, eu não posso deixar vocês partirem.
 
-Gaia permaneceu imóvel, como se estivesse medindo as palavras de Breno. Seus olhos estreitaram-se ligeiramente enquanto ele fazia um gesto para um de seus conselheiros, que se aproximou e cochichou algo em seu ouvido. O grande pai assentiu lentamente, antes de voltar seu olhar penetrante para os irmãos.
+– Como?!
 
-— Não sei onde sua irmã deve estar. Mas há um mal crescente ao leste, que tem nos preocupado. 
+– A história é convincente. Mas meu povo já sofreu demais com o mago negro e os aliados dele. E se for uma armadilha? Meu dever é proteger Pinesoto. – Ele bateu o bastão no chão, e as raízes do salão se mexeram como serpentes adormecidas. – Vocês passarão a noite em nossas raízes. Amanhã, decidirei.
 
-— Mal? — perguntou Banjo, engolindo em seco, os olhos arregalados.
+– NÃO! – gritou Breno, tentando virar metal. Nada aconteceu. A algema de galho puxava a força dele como uma esponja.
 
-Gaia inclinou a cabeça para o lado, como se ponderasse por um momento. Seus longos dedos, cobertos de musgo, tamborilaram no bastão que segurava.
+Foram levados por escadas internas até uma câmara formada por raízes grossas, que se mexiam devagar, como serpentes. Algumas formavam celas, e as entradas se abriam e fechavam ao gesto dos guardas. Quando os três entraram, a parede de raízes se fechou atrás deles.
 
-— Há um lugar no pântano que conhecemos como Sepulcro dos Esquecidos. 
+– Boa sorte amanhã – disse Boty, com um sorriso sarcástico.
 
-O silêncio tomou conta do salão, pesado e cheio de significado. Bruno franziu o cenho. Gaia se inclinou para frente em seu trono, e as luzes do cristal atrás dele pareceram brilhar com mais intensidade. Sua voz tornou-se ainda mais grave, quase um sussurro carregado de autoridade.
+Os irmãos se sentaram no chão úmido. A luz verde das plantinhas nas paredes fazia sombras inquietas.
 
-— É um lugar amaldiçoado que os Obbs evitam. É uma terra onde a morte dança com a vida. Um mal imenso habita aquelas terras, e poucos que ousam entrar voltam para contar a história.
+– Que ótimo – disse Bruno. – Mais um dia perdido.
 
-Ele fez uma pausa, o bastão em sua mão batendo levemente no chão. As raízes ao redor vibraram com o impacto.
+– Esse seria um bom momento pra você usar os seus poderes, Breno. Atravessa a gente por essas raízes.
 
-— Todas as noites, nossa cidade ergue as pontes e apagamos nossas luzes. Assim, nas alturas, estamos seguros. E o mal que por vezes vem de lá não nos encontra. 
+– Você acha que eu não tentei? Essas algemas bloqueiam tudo. – Ele ergueu os pulsos. – Eu nem consigo me transformar.
 
-— E o que é esse mal? — perguntou Bruno, sua voz falhando levemente enquanto ele tentava parecer firme.
+Banjo passou a mão em Farol, que tremia no colo dele, e olhou para o teto de raízes.
 
-Gaia olhou para ele com olhos penetrantes.
+– A gente vai ficar presos aqui?
 
-— São conhecidos como Devorantes — respondeu ele com solenidade. — Eles caçam qualquer coisa que respire. Para eles, carne e sangue são um banquete sem fim.
+– Por enquanto – respondeu Breno. – Mas vamos achar uma saída. Sempre achamos.
 
-Os irmãos trocaram olhares tensos, o terror crescendo em seus corações. Breno respirou fundo, controlando o pânico.
+Passos leves chegaram. Seti apareceu entre as sombras, com uma bandeja de casca de árvore, e a depositou diante da parede, onde as raízes a puxaram para dentro. O olhar dele era sério, mas não hostil.
 
-— Já enfrentamos muitas coisas nesses dias. É só nos dizer a direção do Sepulcro dos Esquecidos, e sairemos de sua cidade agora atrás de nossa irmã — disse Breno, tentando soar determinado.
+Na bandeja havia uma tigela com esferas gelatinosas e alaranjadas, que brilhavam na luz fraca. Banjo pegou uma e a mordeu.
 
-Gaia levantou a mão, silenciando-o imediatamente. O movimento foi lento, mas carregado de autoridade.
+– Hum. Salgada. E por dentro é crocante. É gostoso, até.
 
-— Não e tão simples. Primeiro, eu ainda não posso deixá-los ir.
+– Banjoca, deixa eu ver. – Bruno provou, e o rosto dele se iluminou. – Comida de Obb até que é boa! Breno, experimenta!
 
-Breno franziu o cenho, surpreso.
+Breno desconfiou, mas o estômago roncava havia horas. Provou. Seti esperou que os três terminassem de engolir.
 
-— Como? — perguntou ele.
+– Que bom que gostaram das nossas ovas de insetos em conserva. É uma especialidade.
 
-Gaia inclinou-se para trás em seu trono, cruzando os dedos ossudos.
+O silêncio durou quase um minuto. Bruno congelou com uma esfera na mão. Banjo olhou para Seti, horrorizado.
 
-— A história de vocês é convincente, mas meu povo já sofreu demais com as ações do mago negro e de seus aliados. Não confiamos facilmente em ninguém de fora.
+– O quê?!
 
-Breno cerrou os punhos, a frustração evidente em seu rosto.
+– Ovas de insetos? A gente comeu... inseto em conserva?
 
-— Por favor! — ele insistiu, quase gritando. — A vida de minha irmã está em jogo! Você precisa nos deixar ir!
+Seti deu de ombros.
 
-Gaia manteve-se impassível.
+– Qual o problema? É nutritivo, e saboroso.
 
-— E se estiver me enganando, senavelita? — ele rebateu. — E se isso for uma armadilha? Meu dever é proteger Pinesoto e meu povo. Não importa quão verdadeira sua causa possa parecer.
+Breno hesitou um instante, depois pegou mais algumas.
 
-Ele ergueu o bastão e bateu-o no chão novamente. As raízes ao redor do salão responderam, movendo-se como serpentes adormecidas.
+– Nojento ou não, continua delicioso.
 
-— Vocês passarão a noite em nossas raízes. Amanhã, decidirei o que fazer.
+Seti balançou a cabeça, com um misto de pena e conflito.
 
-— NÃO! — Breno gritou, tentando transformar-se em metal, mas sentiu suas forças sendo drenadas. A algema de raiz ao redor de seu braço parecia absorver qualquer tentativa de magia, deixando-o impotente.
+– Vocês, senavelitas, são peculiares. Sinto pela sua irmã. Eu acredito em vocês. Mas...
 
-Os irmãos foram puxados de volta pelos guardas, que os conduziram para uma plataforma menor conectada a escadas que desciam profundamente pelo interior da árvore. À medida que desciam, o ar ficava mais úmido e o ambiente mais escuro, iluminado apenas por pequenas lâmpadas primitivas.
+– Se acredita, ajude a gente – disse Breno.
 
-No final da descida, chegaram a uma câmara cavernosa formada pelas grossas raízes da árvore. As raízes pareciam vivas, movendo-se lentamente como serpentes adormecidas. Algumas delas formavam celas naturais, com entradas que se fechavam e abriam conforme os Obbs controlavam.
+– Gaia é o Grande Pai. Ele protege a nossa aldeia. – Seti olhou para o chão, os braços cruzados, como quem se protege. – Eu entendo mais do que você imagina. Já perdi gente para os devorantes e para o mago negro. Sei como é se sentir impotente. Mas a minha lealdade é para o meu povo. – Respirou fundo. – Comam e descansem. Amanhã Gaia talvez decida a favor de vocês.
 
-— Entrem, — ordenou um dos guardas, agitando a mão. As raízes se moveram, abrindo uma passagem para os irmãos.
+E saiu, e a madeira rangeu até que ele sumiu pelas raízes.
 
-Breno hesitou, mas uma lança apontada para seu peito o fez seguir em frente. Assim que todos estavam dentro, as raízes se fecharam, formando uma barreira densa e quase impenetrável.
+– Ele não vai ajudar – murmurou Bruno. – A gente vai ficar aqui refletindo sobre a vida, deitado em raiz fria.
 
-— Boa sorte amanhã — disse Boty, com um sorriso sarcástico antes de se afastar.
+– Refletindo – repetiu Breno, de repente. – Bruno, o cristal de reflexão. Vê o que ele tem pra mostrar.
 
-Os irmãos se sentaram no chão úmido, o som abafado das raízes se movendo ao redor os envolvendo. A luz verde e fraca de pequenas plantas bioluminescentes nas paredes criava sombras inquietantes. O ambiente era úmido, com o cheiro forte de terra molhada e madeira velha.
+Bruno hesitou, com a mão sobre o chapéu. Tirou o pequeno cristal, e as facetas pegaram a luz fraca da cela. Aos poucos ele brilhou, e uma imagem se formou.
 
-Bruno olhou ao redor, inquieto, e depois para Breno.
+Beatriz estava sentada numa caverna escura, de chão cheio de pedras e teias finas que brilhavam à luz de uma tocha longínqua. O rosto sujo, as roupas amassadas, mas sem ferimentos. Só cansaço nos olhos.
 
-— Que ótimo! Vamos perder mais um dia. 
+Uma voz fria, como gelo se partindo, ecoou pelas paredes.
 
-Breno não tinha palavras para usar naquele momento. Apenas respirou fundo, e pensou.
+– Então... são quatro.
 
-— Acho que essa seria uma boa hora pra usar seus poderes, não é Breno? Atravessa a gente por essas raízes. — A voz de Bruno estava carregada de impaciência.
+– Sim – respondeu Beatriz, calma e firme.
 
-Breno suspirou, balançando a cabeça.
+– Comece pelo mais velho.
 
-— Acha que eu não tentei? Desde lá de cima, quando o grande pai deles nos prendeu. Mas essas algemas... — Ele levantou o braço, mostrando os troncos grossos que se ajustavam firmemente ao redor de seus pulsos. — Elas bloqueiam minha magia. Eu não consigo me transformar nem atravessar nada. 
+Ela apertou os punhos e demorou a responder.
 
-Banjo, sentado no chão com as pernas cruzadas, passou a mão pelo pequeno Farol que estava em seu colo. O animalzinho parecia tão nervoso quanto eles, tremendo ligeiramente enquanto olhava ao redor.
+– Breno. Ele é forte, mas tem um coração pesado. Carrega mais do que devia, tentando proteger todo mundo.
 
-— Então vamos ficar presos aqui? — perguntou Banjo, tentando não soar desesperado.
+– Um coração grande – repetiu a voz, arrastando as palavras. – E o próximo?
 
-— Por enquanto, sim, — respondeu Breno, cruzando os braços. — Mas vamos achar uma saída. Sempre achamos.
+Beatriz olhou para o chão, como se precisasse de coragem para cada palavra.
 
-O som de passos leves os tirou da conversa. Seti apareceu entre as sombras, carregando uma bandeja feita de casca de árvore. Ele se aproximou lentamente, os olhos expressando algo entre culpa e resignação.
+– Banjo. Criativo. Inocente. Mas não é um lutador. Nunca foi alguém que... você precisaria temer.
 
-— Trouxe algo para vocês comerem — disse Seti, colocando a bandeja no chão na frente das raízes. Essas imediatamente puxaram a bandeja para dentro da prisão. Seti os olhava com a expressão séria, mas não hostil.
+A voz soltou uma risada baixa, cheia de escárnio.
 
-Bruno e Banjo inclinaram-se curiosos, examinando uma bacia cheia de pequenas esferas gelatinosas alaranjadas mergulhadas em um líquido viscoso, que brilhavam à luz suave do ambiente.  
+– E o outro?
 
-— Bem... a fome é tanta, que nem vou questionar. — Banjo pegou uma das esferas entre os dedos e, sem hesitar muito, colocou na boca. Ele mastigou lentamente, seus olhos se arregalando — Bom…  Salgado, o interior é crocante... e... é gostoso, até. — Ele começou a pegar mais, agora com entusiasmo.
+Beatriz apertou os lábios. Respirou fundo, e a voz saiu devagar, escolhida.
 
-Bruno observou Banjo, relutante, mas a curiosidade venceu. Ele pegou uma das esferas e deu uma mordida hesitante. Logo, seu rosto se iluminou.
+– O Bruno é o palhaço do grupo. Sempre tentando ser engraçado, mas raramente é levado a sério. A gente... não costuma contar com ele.
 
-— É, Banjoca! Comida Obb até que é boa! — Ele sorriu, pegando mais algumas. — Breno, experimenta!
+O silêncio que veio depois foi mais pesado que as palavras.
 
-Breno olhou para eles, desconfiado, mas sua barriga roncava há horas. Ele precisava se alimentar. Então colocou algumas esferas na boca.
+– Uma peça inútil no tabuleiro, então – disse a voz, e a satisfação quase não se escondia. – Talvez eles venham buscar você.
 
-— Gostaram? — perguntou ele, casualmente.
+Beatriz desviou os olhos, desconfortável, e a imagem se apagou. O cristal se partiu na mão de Bruno. As palavras ficaram, martelando: a gente não costuma contar com ele.
 
-Bruno, com a boca cheia, apenas assentiu. Banjo, ainda mastigando, deu um sorriso animado.
+– O que você viu? – perguntou Breno.
 
-— São incríveis! 
+Bruno engoliu o nó que subiu pela garganta.
 
-Seti esperou até que ambos tivessem acabado de engolir para responder.
+– Ela está bem. Está em uma caverna. Amanhã a gente acha.
 
-— Que bom que gostou de nossas ovas de insetos em conserva. É uma especialidade Obb. 
+– Tem certeza? O que mais?
 
-O silêncio que se seguiu foi quase palpável. Bruno congelou no meio de pegar mais uma esfera. Banjo largou a que tinha na mão, olhando horrorizado para Seti. Até mesmo Breno deixou cair um pouco do que mastigava, no chão. 
+– Nada. Nada além disso.
 
-— O... o quê?! — exclamou Banjo, seus olhos arregalados.
+Banjo sorriu, aliviado. Breno continuou desconfiado, mas calou. Um por um, os irmãos se deitaram, e a cela ficou só com a água que pingava das raízes. Farol dormia no peito de Banjo, de cauda apagada.
 
-Bruno engoliu em seco, seu rosto lentamente assumindo uma expressão de nojo.
+Bruno esperou. Quando teve certeza de que todos dormiam, aproximou-se de Breno, devagar, e esticou a mão para o bolso. Os dedos tocaram o saquinho de gemas. Breno se mexeu, murmurou algo, franziu o rosto. Bruno congelou, com o coração disparado, e esperou. Depois puxou o saco de vez.
 
-— Ovas... de insetos? Você está dizendo que a gente acabou de comer... insetos em conserva? — perguntou Bruno, encarando Seti.
+Com as palmas, porque as algemas atrapalhavam, abriu o saco. Sobraram três pedras: azul, roxa e amarela. Pegou a roxa.
 
-Seti deu de ombros, como se aquilo fosse óbvio.
+– É essa – sussurrou. – Só preciso de um impulso.
 
-— E qual o problema? Um prato nutritivo e... saboroso. — Ele disse como se não entendesse o espanto.
+Deixou o saco aberto ao lado de Breno, com a azul e a amarela dentro. Olhou uma vez para os irmãos adormecidos. Ia buscar a irmã sozinho. Ia mostrar a todos que não era só o irmão piadista. Posicionou os pés, respirou fundo e jogou a pedra no chão.
 
-Banjo colocou a mão na barriga, olhando para Bruno.
+Um impacto silencioso. Bruno foi lançado para cima com uma força que ele nem imaginava, o ar chicoteando o rosto. Agarrou uma das grossas raízes do teto, os dedos escorregando, e se pendurou ali, ofegante. Escalou. Viu uma brecha estreita e foi se arrastando até ela, pela madeira áspera e molhada.
 
-— Ai, meu Deus... nós comemos insetos! — disse ele, horrorizado.
+Emergiu no ar do pântano, sob uma lua alta. Sem hesitar, pulou na água. Era fria, mas ele nadava com facilidade, deixando para trás a aldeia, as plataformas e as árvores altas, até chegar à margem, perto da boca da caverna de onde tinham saído. Ali se sentou no chão úmido e abraçou os joelhos. A solidão do pântano era imensa, mas não doía tanto quanto as palavras na cabeça dele.
 
-Breno, depois de um momento de hesitação, deu um sorriso e pegou mais algumas esferas.
+Ele é dispensável. A gente não costuma contar com ele.
 
-— Bom, nojento ou não, ainda é delicioso. — Ele colocou-as na boca.
+Chorou sem tentar segurar. As lágrimas eram quentes contra o frio.
 
-Seti balançou a cabeça, o olhar carregado de um misto de compaixão e conflito.
+Quando enfim se levantou, com os olhos vermelhos, estava no meio da noite densa. Procurou um sinal, uma direção para o Sepulcro. E o silêncio foi quebrado por passos leves, quase sem som, no chão mole.
 
-— Vocês senavelitas são mesmo... peculiares. Sabem... sinto muito pela irmã de vocês. É uma história triste. Eu acredito em vocês, de verdade. Mas...
+Ele se virou. Sombras emergiram da escuridão e o cercaram num círculo apertado. Figuras de vestes escuras, algumas corpulentas, outras de capuz, e o ar à volta delas era mais frio do que o gelo dele. A que mais chamou a atenção de Bruno foi uma jovem de cabelos negros e ondulados, longos até os ombros, olhos escuros e calmos demais, pele clara e um manto de capuz. Ela carregava uma lâmina curta, que reluziu ao luar, e um sorriso pequeno que misturava gentileza e ameaça.
 
-Breno ergueu o olhar para Seti, sua expressão endurecida.
+Bruno recuou, levando as mãos à frente, e ela se moveu rápido. Mas em vez de atacá-lo, a lâmina cortou as algemas de raiz dos pulsos dele, que caíram no chão sem barulho.
 
-— Se acredita em nós, então nos ajude. 
+– Quem são vocês? – perguntou Bruno, erguendo os punhos, com mais firmeza do que sentia.
 
-Seti desviou o olhar, visivelmente desconfortável. Ele cruzou os braços, como se tentasse proteger a si mesmo do peso das palavras de Breno.
+– Por que está triste, garoto?
 
-— Não é tão simples, — disse ele, a voz carregada de hesitação. — Gaia é o Grande pai. Ele protege nossa aldeia, nosso povo.
+– É pessoal!
 
-Breno se inclinou para frente, seu tom agora mais incisivo.
+– Eu acho que você está passando por algo difícil. Tem muita força aí dentro, muita sabedoria, mas é tanta coisa que fica pesado carregar sozinho. – A voz dela era calma e serena. – Seus irmãos se importam com você, mas você fica sempre menor diante deles. Existe quem trate você como igual.
 
-— Por favor. Nos ajude!
+– Se afaste! – disse Bruno, quando ela chegou mais perto.
 
-Seti ficou em silêncio por um momento, encarando o chão. 
+A mulher inclinou a cabeça e riu, um som baixo e quase bonito, que arrepiou a nuca dele. Os outros ficavam em silêncio, mas a presença deles pesava no ar.
 
-— Eu... entendo mais do que você imagina, — murmurou ele, seu tom agora mais suave. — Já perdi pessoas para os devorantes. Para o pântano. E também para o mago negro. Sei como é sentir-se impotente. Mas minha lealdade é para com meu Grande Pai e meu povo. Gaia é cauteloso porque o mal nos cerca. Um mal que a sua espécie costuma carregar. 
+– Tão jovem e tão valente. Eu me chamo Anasin. O que faz aqui, perdido em território Obb?
 
-— Ela é tudo o que temos. — Sua voz estava tensa, quase trêmula. — Perdemos nossos pais. Somos tudo o que resta um para o outro. 
+– Como você sabe dos meus irmãos?
 
-Seti respirou fundo, como se carregasse um peso imenso.
+– Eu os vi chegar. Costumamos passar por essas terras. Mas não é comum ver senavelitas tão jovens. Uma missão, não é? Que interessante.
 
-— Comam e descansem. — Ele gesticulou para a bandeja. — Amanhã, talvez Gaia tome uma decisão favorável.
+– É uma missão de família.
 
-Seti deu as costas e saiu lentamente, a madeira rangeu sob seus passos até ele desaparecer pelas raízes que formavam a porta da prisão.
+Ela sorriu e se aproximou. Quando Bruno recuou, ela se abaixou e pousou a faca no chão.
 
-O silêncio que se seguiu era opressor. Apenas o som de respirações pesadas preenchia o ar. Banjo estava sentado, mexendo na bandeja de comida, enquanto Breno parecia perdido em pensamentos.
+– Não tenha medo. Não vou fazer mal a você.
 
-— Ele não vai nos ajudar — murmurou Bruno, mais para si mesmo do que para os outros — vamos ficar aqui refletindo nossas vidas deitados em raízes frias. 
+Bruno cedeu um passo. Anasin chegou bem perto e tocou o rosto dele com a ponta dos dedos. De repente ele estava num sonho. Viu os últimos dias passarem, rápidos, desde que saíram de Tayo: os téorixes, a caverna, Pinesoto, e no meio das imagens, dois olhos, cada um com uma mancha escura em volta. A mulher abriu os olhos, e lançou a ele um olhar curioso.
 
-Breno imediatamente olhou para ele.
+– Sabe quem somos?
 
-— Refletindo? Bruno, os cristais da reflexão — sugeriu Breno abruptamente, sua voz cortando o silêncio — Veja o que ele tem pra mostrar. 
+Bruno olhou ao redor: o homem alto de cabeça de serpente, o rapaz de pele vermelha e chifres curvos, os magos de capuz. Juntou as peças.
 
-Bruno hesitou por um momento, sua mão pairando sobre o chapéu arcanum. Ele retirou o pequeno cristal translúcido de dentro, segurando-o com firmeza. A luz fraca na prisão refletia em suas facetas, criando um brilho fraco e inquietante. Aos poucos, a superfície começou a emitir um brilho suave, e uma imagem se formou.
+– Vocês são a Patrulha de Korvo.
 
-Beatriz estava sentada em uma caverna escura, o ambiente ao redor úmido e opressor. O chão era coberto por pedras irregulares e teias de aranha finas que reluziam à luz bruxuleante de uma tocha distante. O rosto de Beatriz estava sujo, suas roupas amassadas, mas ela não parecia ferida. Apesar disso, havia um cansaço evidente em seus olhos.
+O sorriso de Anasin cresceu, mas os olhos dela esfriaram. Todos os encapuzados baixaram os capuzes. O homem tinha uma cabeça que era uma mistura grotesca de humano e cobra, com escamas que refletiam a lua. O outro tinha olhos de brasa, que pareciam atravessar Bruno por dentro.
 
-Uma voz fria e ameaçadora ecoou pela caverna, reverberando nas paredes como se o espaço inteiro estivesse sussurrando.
+– Aquele é Saliens – disse Anasin, apontando o rapaz de chifres com o queixo. – E o nosso amigo ali não fala com estranhos. Ele é esperto, esse – acrescentou, para os outros, como quem conta uma piada particular. – Sim, garoto. Somos a Patrulha. E você está bem longe de casa.
 
-— Então... vocês são quatro. — A voz parecia deslizar como gelo quebrando. 
+Bruno forçou-se a ficar firme, embora o suor frio escorresse pela nuca.
 
-Beatriz respirou fundo, como se escolhesse cuidadosamente suas palavras.
+– Onde está a minha irmã?
 
-— Sim, somos quatro, — disse ela, mantendo um tom calmo, mas firme.
+– Está bem. Protegida.
 
-A voz permaneceu em silêncio por um momento, antes de continuar com uma insistência cortante.
+– Protegida por quem?
 
-— Comece pelo mais velho.
+– Pelo maior mago que já existiu. Ele a ensina. Cuida dela.
 
-Beatriz apertou os punhos, a hesitação dançando em seus olhos. Após um momento, ela respondeu.
+– Korvo – disse Bruno, quase cuspindo o nome. – Ele está longe de ser o maior mago do mundo. É um assassino.
 
-— Breno. Ele é o mais velho. Forte, mas… ele tem um coração pesado. Ele carrega mais do que deveria, sempre tentando proteger a todos. — Sua voz se endureceu levemente.
+Anasin sorriu de novo, quase terna, como uma mãe diante de uma criança teimosa.
 
-— Ele deve ter um coração grande — murmurou a voz, arrastando a palavra como um predador avaliando sua presa. — E o próximo?
+– Como envenenaram a sua cabeça. Korvo é um líder. Ele nos guia pelo caminho da magia. E está ansioso para conhecer vocês. Vê muito potencial. – Ela começou a andar ao redor dele, girando a faca nos dedos como um brinquedo. – Você sente que tem muito a mostrar, não sente? Mas regras morais desnecessárias seguram você. Eu sentia isso também, até me arrancarem as correntes.
 
-Beatriz desviou o olhar para o chão, como se reunir coragem fosse necessário a cada palavra.
+Bruno fingiu ponderar, olhando para o chão. Quando ergueu os olhos, já tinha decidido.
 
-— Banjo... ele é criativo. Inocente. Mas não é um lutador, — disse ela, pausando brevemente. — Ele nunca foi alguém que... você deveria temer.
+– E onde está o Korvo?
 
-A voz soltou algo que parecia uma risada baixa e perturbadora, carregada de escárnio.
+Anasin apontou a faca para um ponto distante do pântano, onde o escuro era mais espesso, com uma névoa baixa que fazia o lugar parecer errado.
 
-— E o outro? — pressionou a voz, agora mais perto.
+– Na parte mais escura do pântano, onde a luz quase não chega ao chão. – Ela sorriu de novo, e agora havia algo mais sombrio. – Era para lá que você ia, não era?
 
-Beatriz apertou os lábios, claramente relutante, mas falou mesmo assim, sua voz trêmula de esforço.
+Bruno fixou o ponto no escuro. Endireitou o corpo e forçou um sorriso irônico.
 
-— Bruno... ele é... — Ela hesitou, seu olhar fixo em um ponto distante, a respiração visivelmente pesada. — Ele é o palhaço do grupo. Sempre tentando ser engraçado... mas raramente é levado a sério. Geralmente, a gente... não costuma contar com ele. 
+– O convite é irresistível. Mas estou numa missão de resgate.
 
-O silêncio que se seguiu foi mais pesado do que as palavras. A tensão na sala aumentou enquanto a voz permaneceu quieta, como se processasse o que ouvira.
+Antes que alguém se mexesse, ele girou, correu e se atirou na água do pântano. Nadou com toda a velocidade, deslizando pela água escura como se fosse parte dela, sem olhar para trás, em direção ao ponto distante, em direção ao resgate da irmã.
 
-— Uma peça inútil no tabuleiro, então — disse finalmente, a satisfação mal disfarçada em seu tom. — Talvez eles venham lhe buscar. 
-
-Beatriz respirou fundo, desviando o olhar para o chão, claramente desconfortável, mas aliviada por a voz não continuar pressionando.
-
-De repente, o brilho do cristal apagou-se abruptamente, e a visão terminou. Bruno piscou, ainda segurando o fragmento, sua mente girando com o que acabara de testemunhar. As palavras de Beatriz ecoavam em sua mente como um martelo em uma bigorna: "Geralmente, a gente não costuma contar com ele."
-
-Ele sentiu um nó apertar-se em sua garganta, mas manteve a expressão neutra enquanto seu cristal se partia. 
-
-— O que foi? O que você viu? — perguntou Breno, sua voz carregada de preocupação.
-
-Bruno respirou fundo, tentando esconder o que realmente sentia. Ele olhou para os irmãos e forçou um tom neutro.
-
-— Ela está bem. Está esperando por nós... em uma caverna. — Ele fez uma pausa, engolindo o nó na garganta. — Amanhã, vamos encontrá-la.
-
-Banjo sorriu aliviado, mas Breno ainda parecia cético.
-
-— Tem certeza? O que mais tinha na visão? — insistiu Breno.
-
-— Nada. Nada além disso, — respondeu Bruno, desviando o olhar.
-
-Os irmãos se calaram, cada um perdido em seus pensamentos, enquanto Bruno continuava lutando contra a dúvida e a dor causadas pelas palavras de Beatriz. 
-
-Ele esperou até que o silêncio tomasse conta da cela, suas respirações misturando-se ao som abafado da água gotejando das raízes acima. O ambiente era úmido e opressor, e mesmo sob as sombras, ele podia ver as grossas raízes entrelaçando-se no teto, desaparecendo na escuridão. Seus irmãos estavam deitados, exaustos, cada um perdido em sonhos ou pesadelos.
-
-Bruno respirou fundo, o silêncio opressor da cela parecia pesar sobre ele. Seus olhos varreram o ambiente, certificando-se de que seus irmãos ainda estavam dormindo. A luz fraca das plantas bioluminescentes iluminava o espaço apenas o suficiente para que ele visse Breno deitado perto de uma das grossas raízes que formavam a prisão.
-
-Com cuidado, Bruno se aproximou, do irmão mais velho, que dormia profundamente, o rosto relaxado apesar do desconforto evidente do lugar. Bruno hesitou, mas sabia que não tinha escolha.
-
-O garoto estendeu a mão em direção ao bolso de Breno e seus dedos tocaram o tecido do saco de gemas raveli. Mas no momento em que ele o puxou para fora, Breno se mexeu. Bruno congelou, o coração disparando. Breno murmurou algo ininteligível, seu rosto franzindo brevemente, mas ele não acordou.
-
-Bruno segurou a respiração, tentando manter a calma. Ele recuou por um instante, observando para ter certeza de que Breno não abriria os olhos. Quando teve certeza, ele voltou a puxar o saco de gemas, finalmente conseguindo retirá-lo do bolso do irmão.
-
-As algemas de raízes ao redor de seus pulsos dificultavam o movimento, mas ele usou as palmas para abrir o saco com cuidado, revelando as gemas brilhantes. Cada uma reluzia suavemente em tons únicos, parecendo pulsar com uma energia própria. Seus olhos pousaram na gema roxa.
-
-— É essa — murmurou baixinho, quase inaudível, enquanto seus dedos agarravam a gema — Só preciso de um impulso. 
-
-Com um último olhar para seus irmãos adormecidos, Bruno pegou a gema roxa e a segurou com força. Ele iria trás da irmã sozinho. Iria mostrar a todos que ele não era apenas o irmão piadista. Ele respirou fundo, ajustou a posição de seus pés e, num movimento rápido, atirou a gema no chão diante de si.
-
-Um impacto silencioso reverberou pelo espaço, e em um instante, Bruno foi lançado para cima com uma força impressionante. O ar chicoteava seu rosto enquanto ele subia rapidamente, e ele estendeu as mãos, agarrando-se a uma das grossas raízes que se estendiam como teias no teto. Seus dedos escorregaram por um momento antes de finalmente encontrar uma firmeza. Ele pendurou-se ali, respirando com dificuldade, sentindo o coração martelar no peito.
-
-Apoiando-se com dificuldade, ele usou sua força para puxar o corpo para cima, escalando a raiz grossa e resistente. De repente, viu uma abertura — uma brecha estreita que parecia levar para fora. Com cuidado, ele se arrastou até ela, sentindo a textura áspera e molhada da madeira sob suas mãos.
-
-Bruno emergiu na superfície, o ar do pântano invadindo seus pulmões. A lua brilhava alta no céu. Sem hesitar, ele se jogou na água do pântano, seu corpo cortando a superfície com facilidade. A água lamacenta era fria, mas Bruno se deslocava por ela com facilidade. 
-
-Ele nadou rápido, deixando para trás a aldeia dos Obbs, as plataformas de madeira e as árvores altas. Suas mãos e pés empurravam a água com força, guiando-o de volta para a entrada da caverna de onde haviam saído antes. A familiaridade do lugar trouxe uma sensação de alívio momentâneo, mas quando ele chegou à margem, o peso de tudo o que havia acontecido caiu sobre ele.
-
-Bruno saiu da água, sentou-se no chão úmido e abraçou os joelhos. A solidão e o silêncio do pântano eram esmagadores, mas não tão dolorosos quanto as palavras que ecoavam em sua mente.
-
-"Ele é dispensável. Geralmente a gente não costuma contar com ele."
-
-Suas mãos apertaram os joelhos enquanto as lágrimas começaram a escorrer por seu rosto. Ele não tentou segurá-las. Elas eram quentes, em contraste com o frio do pântano ao seu redor. 
-
-A noite estava densa, o ar úmido do pântano dificultava a respiração de Bruno. Ele se levantou lentamente, seus olhos vermelhos atentos à escuridão ao redor. Então começou a procurar um sinal, algo que indicasse para onde poderia ser a direção do Sepulcro dos Esquecidos. Mas o silêncio opressor ao seu redor de repente foi quebrado por um som suave — passos leves, quase imperceptíveis, mas que ecoaram no chão pantanoso.
-
-Ele congelou, virando-se rapidamente. Sombras emergiram da escuridão, cercando-o em um círculo apertado. Eram figuras estranhas e ameaçadoras, envoltas em vestes escuras. O ar ao redor deles parecia mais frio, carregado de uma presença opressiva.
-
-Alguns deles eram corpulentos, outros usavam capuzes que escondiam seus rostos. Mas a que mais chamou sua atenção foi uma jovem mulher de pele pálida, quase translúcida, com olhos intensos e perturbadoramente calmos. Seu cabelo negro caía em ondas suaves sobre seus ombros, e ela carregava uma presença que misturava delicadeza e ameaça.
-
-Bruno recuou instintivamente ao ver a lâmina curta reluzir na mão da mulher. O movimento dela foi rápido, preciso, mas, para sua surpresa, ela não o atacou. Em vez disso, a faca cortou as raízes mágicas que envolviam seus pulsos. As algemas de madeira caíram ao chão com um som abafado, e Bruno olhou para suas mãos, surpreso e confuso. 
-
-— Quem são vocês? — Bruno perguntou, sua voz firme, enquanto seu coração batia rápido em seu peito. Ele ergueu os punhos, preparado para se defender, mesmo que não soubesse como.
-
-– Por que está triste, garoto? – perguntou a mulher. 
-
-– É pessoal! – disse Bruno, recuando. 
-
-– Eu acho que está passando por algo difícil. Há muita coisa aí dentro, muita força, muita sabedoria, mas é tanta coisa, que é difícil lidar sozinho – falou a mulher, a voz calma e serena. 
-
-Bruno não respondeu, então a mulher continuou. 
-
-– Seus irmãos se importam com você, mas é menor perante eles. Existe alguém que pode te tratar como um igual, jamais te colocando abaixo de outro ser. Você só precisa aceitar que aquilo que dizem que é mais poderoso que nós, na verdade faz parte de nós. Sem ele, não somos nada.
-
-– Se afaste! – disse Bruno quando a mulher se aproximou mais. 
-
-A mulher inclinou a cabeça, seus olhos nunca deixando os de Bruno. Ela riu, um som baixo e quase encantador, mas havia algo na risada que fez os pelos da nuca dele se arrepiarem. Os outros mantinham-se em silêncio, mas sua presença era sufocante.
-
-— Tão jovem e tão... valente — disse ela, sua voz suave e melódica, como uma música perturbadora. Ela começou a girar a faca nos dedos, como se fosse um brinquedo.
-
-A mulher parou, levantando a faca como se estivesse considerando algo, e então inclinou o corpo levemente para frente, um gesto que parecia íntimo e ameaçador ao mesmo tempo.
-
-— Eu me chamo Anasin — disse a mulher — O que faz por aqui, perdido em território Obb? 
-
-— Como sabe de meus irmãos? — perguntou Bruno. 
-
-— Eu os vi quando chegaram. Costumamos passar por essas terras. Mas não é comum ver outros senavelitas por aqui, principalmente tão jovens — disse ela. 
-
-— Uma missão? — perguntou ela — Que interessante. Deve ser uma missão interessante, por estar tão longe de terras senavelitas. 
-
-— É uma missão de família — disse Bruno. 
-
-Anasin sorriu para ele e se aproximou. Bruno recuou e Anasin sorriu. 
-
-— Não tenha medo — disse ela se abaixando e pousando a faca no chão — não vou te fazer mal. 
-
-Bruno cedeu e deu espaço para que Anasin se aproximasse. Ela chegou bem perto de seu rosto e ergueu sua mão, tocando no rosto de Bruno. Imediatamente ele sentiu como se tivesse entrado em um sonho, onde ele viu diversos momentos de sua aventura desde que saíram de Tayo, passando pelos Téorixes, até o momento em Pinesoto. Porém no meio da visão, ele viu dois olhos, cercados por uma mancha escura em cada um. A mulher se afastou, abrindo os olhos, lançando-lhe um olhar curioso. 
-
-— Sabe quem nós somos? 
-
-Bruno apertou os punhos, começando a conectar os pontos. Ele olhou para os outros ao redor: o homem com cabeça de cobra, o ser com feições demoníacas, os magos de aparência sinistra, e começou a juntar as peças do quebra-cabeça.
-
-— Vocês são da patrulha de Korvo, não são? — disse ele finalmente, sua voz carregada de desconfiança.
-
-O sorriso da mulher se alargou, mas seus olhos ficaram ainda mais gelados. Então todos os encapuzados tiraram seus capuzes. Um deles era um homem alto, cuja cabeça era uma grotesca mistura de humano e cobra, suas escamas refletindo a luz da lua. O outro tinha feições demoníacas, com pele vermelha, chifres curvados e olhos incandescentes que pareciam penetrar na alma de Bruno.
-
-— Ele é esperto, — disse Anasin, olhando para os outros como se estivesse compartilhando uma piada interna. Depois, voltou-se para Bruno, aproximando-se o suficiente para que ele sentisse o cheiro de algo metálico e doce no ar. — Sim, garoto. Somos a patrulha. E você... parece estar bem longe de casa.
-
-Bruno se forçou a ficar firme, embora pudesse sentir o suor frio escorrendo por sua nuca.
-
-— Onde está minha irmã? — ele perguntou, sua voz carregada de tensão.
-
-A mulher deu um passo à frente, erguendo lentamente a mão como se fosse tocá-lo. Bruno tentou recuar, mas ela parou a poucos centímetros de seu rosto.
-
-— Sua irmã... está bem — ela murmurou, cada palavra arrastada. — Está protegida. 
-
-Bruno respirou fundo, forçando-se a relaxar.
-
-— Protegida por quem? Onde ela está?
-
-Anasin deu um passo mais próximo, sua voz assumindo um tom quase maternal.
-
-— Ela está com o maior mago que já existiu. Ele a está ensinando... cuidando dela.
-
-— Korvo — ele disse, quase cuspindo o nome — Ele está longe de ser o maior mago que já existiu. É um assassino. 
-
-A mulher sorriu mais uma vez, mas agora havia algo quase carinhoso em seu tom, como uma mãe repreendendo uma criança.
-
-— Um assassino? — indagou ela, sorrindo com satisfação. — Como envenenaram sua mente, garoto. Korvo é um líder. Ele nos guia em nosso caminho através da magia. E está ansioso para conhecê-los sabia. Ele vê muito potencial em vocês. 
-
-Ela começou a andar ao redor de Bruno, a faca ainda balançando em sua mão, como se estivesse brincando.
-
-— Você sente isso, não sente? Que tem um enorme potencial para mostrar para os outros, mas que é limitado por regras morais desnecessárias. Eu sentia isso também. Mas tive minhas correntes arrancadas. 
-
-Bruno fingiu ponderar, olhando para o chão como se estivesse considerando as palavras dela. Então, ele ergueu os olhos.
-
-— E onde Korvo está? — perguntou, agora tentando soar interessado, mesmo que a desconfiança estivesse estampada em sua voz.
-
-A mulher parou, apontando com a faca para uma região distante do pântano, onde a escuridão parecia ainda mais densa. Uma leve névoa pairava sobre a área, e algo sobre o lugar parecia errado.
-
-— Na área mais escura do pântano. Onde a luz dificilmente chega ao solo — Ela sorriu novamente, mas desta vez havia algo mais sombrio em sua expressão — era para lá que você estava indo, não era? 
-
-Bruno fixou o olhar no local que ela indicava. Ele se endireitou, forçando um sorriso irônico.
-
-— O convite é irresistível. Mas estou em uma missão de resgate no momento. 
-
-Antes que eles pudessem reagir, Bruno agarrou uma gema roxa que trouxe consigo no bolso e a apertou. A gema lançou-o no ar, e ele mergulhou direto na água do pântano. Seu corpo deslizou pela água com facilidade, como se ele fosse parte dela, enquanto deixava os estranhos para trás. Ele nadou velozmente pelas águas pantanosas sem olhar para trás, em direção à área escura, em direção ao resgate de sua irmã. Anasin continuou parada o observando se afastar, sem reagir, apenas com um pequeno sorriso no rosto, como se planejasse algo. 
-
-
+Anasin continuou parada, observando-o se afastar. Não reagiu. Só um sorriso pequeno ficou nos lábios dela, como quem já sabia como terminava a história.

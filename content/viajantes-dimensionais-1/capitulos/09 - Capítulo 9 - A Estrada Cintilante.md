@@ -95,7 +95,7 @@ As roupas eram leves como pensamento, prateadas e azuis, e se ajustavam ao corpo
 
 – Provavelmente o dassi segurava a gente por vontade própria – disse Breno, com uma risadinha nervosa.
 
-Foi quando Beatriz, passando entre os espectadores, sentiu um olhar na nuca. Virou-se. Entre as pessoas, uma mulher pálida, de pele quase translúcida, cabelos negros em ondas e vestido escuro, olhava para ela sem piscar, sem sorrir, sem desviar, e foi como se alguém lhe passasse um dedo gelado pela espinha. Beatriz piscou, e a mulher desapareceu entre os ombros da multidão.
+Foi quando Beatriz, passando entre os espectadores, sentiu um olhar na nuca. Virou-se. Entre as pessoas, uma mulher pálida, de cabelos negros em ondas, olhos escuros e vestido escuro, olhava para ela sem piscar, sem sorrir, sem desviar, e foi como se alguém lhe passasse um dedo gelado pela espinha. Beatriz piscou, e a mulher desapareceu entre os ombros da multidão.
 
 Eles se acomodaram no dassi vermelho. Breno assumiu o comando, ainda relutante. Bruno ia se sentar ao lado dele quando Beatriz entrou na frente.
 

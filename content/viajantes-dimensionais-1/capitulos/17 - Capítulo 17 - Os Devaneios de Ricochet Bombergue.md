@@ -350,7 +350,7 @@ Ele vasculhou uma prateleira de frascos, engrenagens e um globo ocular de brinqu
 
 – Mel de trolhos? – repetiu Banjo.
 
-– Que tipo de gente vocês são?! Feito pelos próprios trolhos! Fecha machucados, apaga queimaduras, cura pele... – Ele ergueu um dedo. – E é um ótimo protetor solar.
+– Que tipo de gente vocês são?! Feito pelos próprios trolhos! Fecha arranhões e cortes pequenos, alivia queimaduras, cura pele... – Ele ergueu um dedo. – E é um ótimo protetor solar.
 
 – Não somos daqui – disse Bruno.
 

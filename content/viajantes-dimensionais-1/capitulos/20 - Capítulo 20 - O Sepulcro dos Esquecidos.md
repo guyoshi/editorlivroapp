@@ -1,335 +1,255 @@
-Breno acordou abruptamente, sentindo o corpo dolorido pelo chão frio e úmido da cela de raízes. Ele esfregou os olhos, a mente ainda nebulosa, até perceber algo errado. Olhou ao redor e viu que Bruno não estava lá.
+Breno acordou com o corpo dolorido pelo chão frio e úmido da cela. Esfregou os olhos, ainda nebuloso, até perceber que alguma coisa estava errada. O espaço ao lado dele estava vazio.
 
-— Bruno? — chamou, sua voz ecoando suavemente pelas paredes de madeira. Ele se levantou rapidamente, vasculhando o espaço. — Banjo! Cadê o Bruno?
+– Bruno? – A voz voltou fininha, devolvida pelas raízes. – Banjo! Cadê o Bruno?
 
-Banjo, ainda deitado, levantou a cabeça com uma expressão confusa, piscando algumas vezes antes de entender o que estava acontecendo.
+Banjo levantou a cabeça, piscando, e olhou ao redor, ainda sem entender. Breno foi até o canto e viu o que fez o coração dele apertar: o saquinho de gemas, jogado no chão, aberto. Dentro, só duas pedras. A azul e a amarela.
 
-— Ele... ele não está aqui? — murmurou, levantando-se apressadamente.
+– Ele saiu daqui – disse, pegando o saquinho. – Sozinho. E levou a roxa.
 
-Breno olhou para o chão e viu algo que fez seu coração apertar: o saco de gemas raveli estava jogado, aberto, e algumas das gemas estavam espalhadas.
+– A roxa é a que joga pra cima – lembrou Banjo, de olhos arregalados. – Ele subiu pelo teto!
 
-— Ele... — disse Breno, abaixando-se para pegar o saco. — Ele saiu daqui... sozinho. Ele usou as gemas. 
+Antes que alguém pensasse numa resposta, um estrondo sacudiu as raízes. Poeira caiu do teto, e os dois perderam o equilíbrio. Depois veio o instrumento dos Obbs, o mesmo de ontem, mas agora agudo e rápido, quase em pânico.
 
-Banjo, agora mais alerta, olhou ao redor, inquieto. Antes que pudessem pensar em uma resposta, um estrondo reverberou pelo ambiente, sacudindo as raízes ao redor deles. As paredes tremeram, e poeira caiu do teto da cela. Breno e Banjo perderam momentaneamente o equilíbrio, segurando-se nas raízes para não cair.
+– Isso não me parece nada bom – disse Breno, apertando os punhos. – Bruno, o que você fez?
 
-— O que foi isso? — perguntou Banjo, alarmado.
+– A gente precisa sair daqui, Breno.
 
-Outro som veio, desta vez mais distinto: o instrumento dos Obbs. Mas o som era diferente do que ouviram antes, mais agudo e rápido, quase frenético. 
+– Como? Essas algemas bloqueiam tudo. – Ele socou a parede de madeira. – E o Bruno está lá fora.
 
-— Isso não me parece nada bom — disse ele, apertando os punhos. — Bruno... o que você fez?
+Banjo olhou para as raízes que fechavam a cela, e uma ideia foi se formando no rosto dele.
 
-— Ele deve ter usado as gemas roxas. Uma daquelas que me atirou para cima na feira. Mas ele não deixou mais nenhuma — deduziu Banjo, vasculhando as gemas no saco. — Precisamos sair daqui, Breno.
+– Talvez a árvore possa ajudar.
 
-Breno passou as mãos pelo cabelo, frustrado, tentando pensar. Olhou para a única entrada e saída da cela, cercada pelas raízes espessas que ainda os prendiam. Ele socou a parede de madeira.
+– A árvore? Banjo, a gente está preso POR ela.
 
-— Como? Essas algemas... elas bloqueiam nossos poderes. — Ele olhou para Banjo, sua voz carregada de preocupação. — E Bruno está lá fora.
+Banjo não ouviu. Aproximou-se da parede, estendeu uma mão trêmula e tocou a madeira áspera e viva, de olhos fechados. Nada aconteceu. Depois, sob os dedos dele, uma vibração fraca, como um coração enorme que se lembrava de como bater.
 
-Banjo olhou para as raízes que os cercavam, franzindo o cenho como se uma ideia estivesse se formando.
+Uma voz muito antiga, grave e quase sem som, subiu em sua mente. Era mais vagarosa que a árvore assustada da floresta, e muito mais cansada.
 
-— Talvez... talvez a árvore possa nos ajudar — disse ele, hesitante.
+– Por favor – sussurrou Banjo. – A gente precisa de ajuda.
 
-— A árvore? — Breno o olhou incrédulo. — Banjo, estamos presos POR ela.
+As raízes acordaram devagar. Breno recuou, alarmado, quando elas se enrolaram em seus tornozelos e pulsos.
 
-Banjo ignorou a reação do irmão e se aproximou das raízes, estendendo uma das mãos trêmulas. Ele respirou fundo, fechando os olhos e tocando a superfície áspera e viva da madeira. Por um momento, nada aconteceu. Mas então, algo estranho começou a mudar. Banjo sentiu uma vibração fraca sob seus dedos, como se a árvore estivesse... respondendo.
+– Banjo, o que você fez?!
 
-Uma voz baixa e quase imperceptível parecia ecoar em sua mente, indistinta, mas carregada de uma energia antiga e sábia. Ele sussurrou, quase para si mesmo.
+– Não lute! Eu acho que elas vão nos tirar daqui!
 
-— Por favor... nos ajude.
+As raízes os ergueram no ar e os levaram pelo interior do tronco, e Farol, que tinha dormido o tempo todo no peito de Banjo, espiou pela gola, viu que subiam sozinhos pelo ar e se agarrou com as quatro patas, apavorado, subindo e contornando cada obstáculo com uma delicadeza que ninguém esperava de uma árvore. Por onde passavam, outras raízes se mexiam, atentas. Numa abertura no alto, a luz fraca do lado de fora ofuscou os dois, e elas os depositaram numa das plataformas, ao redor da grande árvore. As algemas se desfizeram e voltaram para dentro da madeira, como se nunca tivessem existido.
 
-As raízes ao redor começaram a se mexer lentamente, como se despertassem de um sono profundo. Breno deu um passo para trás, alarmado.
+Breno olhou para o irmão, sem palavras.
 
-— Banjo, o que você fez? — perguntou, enquanto as raízes se enrolavam em torno de seus tornozelos e pulsos.
+– Eu acho que a árvore foi com a minha cara – disse Banjo, sem fôlego, e deu um tapinha agradecido no tronco antes de se virar.
 
-Antes que pudesse reagir, as raízes agarraram ambos, apertando firmemente, mas sem machucar. Breno gritou, tentando resistir, mas Banjo permaneceu calmo, sentindo que aquilo não era hostil.
+Foi então que viram a cidade.
 
-— Breno, não lute! — disse Banjo, a voz urgente, mas confiante. — Acho que elas vão nos tirar daqui!
+Chamas riscavam o céu do pântano, e as sombras dançavam nas árvores imensas. As plataformas tremiam com explosões, as pontes balançavam, ou eram cortadas, e as lanternas se apagavam uma a uma. Gritos caíam junto com as tábuas e se perdiam antes de chegar à água. Banjo preferiu não olhar para baixo.
 
-As raízes ergueram os dois no ar, atravessando o espaço confinado da cela com movimentos ágeis e fluidos. Breno tentou usar seus poderes de metal novamente, mas ainda estavam bloqueados pelas algemas. Ele apenas respirou fundo e confiou no irmão mais novo.
+– O que está acontecendo?
 
-As raízes os carregaram pelos corredores sinuosos do tronco da árvore, subindo e contornando obstáculos com uma precisão impressionante. Pelo caminho, eles viram outras raízes se movendo, como se a própria árvore estivesse viva e atenta ao que acontecia.
+– Aquilo é magia negra. – Breno viu homens de roupas escuras lançando energia preta das mãos. – São seguidores de Korvo.
 
-Quando chegaram a uma abertura no alto, a luz fraca do exterior invadiu o espaço, ofuscando-os momentaneamente. As raízes emergiram de um buraco na árvore e os depositaram suavemente no chão, em cima de uma das plataformas ao redor da grande árvore. Assim que estavam a salvo, as raízes recuaram rapidamente, desaparecendo de volta na árvore, assim como as algemas que os prendiam. 
+Correram pelas plataformas instáveis. Por toda parte, os Obbs resistiam. Galhos das árvores maiores se estendiam como chicotes vivos, empurrando os invasores, e raízes gigantes emergiam do chão para prender os pés deles ou jogá-los longe. Perto dali, um grupo de Obbs uniu os poderes e ergueu uma cúpula de madeira sobre uma família que tentava fugir, e um instante depois uma explosão desfez o escudo. Banjo estendeu as mãos por instinto, mas Breno o puxou.
 
-Breno olhou para Banjo, ainda tentando processar o que havia acontecido.
+– Não dá tempo! A gente precisa seguir!
 
-— Como... você fez isso? — perguntou, sua voz carregada de incredulidade.
+Um pedaço de madeira em chamas caiu quase em cima deles. Mais adiante, uma ponte estava partida, e o vão se abria escuro entre as plataformas.
 
-Banjo, ainda ofegante e surpreso consigo mesmo, apenas deu de ombros com um sorriso hesitante.
+– E agora? – perguntou Breno.
 
-— Acho que a árvore gostou de mim.
+Banjo respirou fundo. Estendeu as mãos para a ponte caída, com as veias dos braços saltando de esforço, e a estrutura de madeira se ergueu devagar, flutuando como se fios invisíveis a puxassem. Com um último movimento, ele a encaixou no lugar.
 
-Ao olhar para frente, foram imediatamente envolvidos pelo caos que tomava conta da cidade dos Obbs. Chamas iluminavam o céu escuro do pântano, lançando sombras dançantes sobre as árvores gigantescas. As plataformas tremiam com o impacto de explosões próximas, enquanto pontes balançavam perigosamente ou eram cortadas, desabando com Obbs que caíam gritando em direção à água pantanosa.
+– Corre!
 
-— O que está acontecendo? — perguntou Banjo, com os olhos arregalados, observando a destruição ao redor.
+Atravessaram, quase caindo. Breno agarrou a mão de Banjo no fim e o puxou para a plataforma, e os dois ficaram ofegantes, com a madeira rangendo sob os pés. A outra ponta da ponte já ardia.
 
-Breno olhou ao redor e viu homens que usavam roupas escuras atirando uma energia negra pelas mãos. Magia a qual era extremamente poderosa. O gaeroto cerrou os punhos, a mandíbula tensa.
+Um som seco de madeira arranhada chegou até eles, sutil no começo, depois mais alto, até arrepiar a espinha dos dois. Uma figura atravessou as chamas, como se fosse feita delas.
 
-— Aquilo é magia negra. São seguidores de Korvo. Precisamos sair daqui. 
+Era um rapaz alto, de pele vermelha que brilhava como brasa quase apagada, com cabelos negros e longos, dois chifres curvos e olhos laranja como carvões acesos. Os dedos eram finos, de garras negras que raspavam a madeira. Atrás dele, uma cauda terminada em lâmina ondulava devagar, e à volta flutuavam lanças de sombra, apontadas para a noite.
 
-Os dois começaram a correr pelas plataformas instáveis. Por toda parte, os Obbs lutavam bravamente. Galhos das árvores maiores se estendiam como chicotes vivos, empurrando os inimigos. Outros Obbs erguiam raízes gigantes do solo, prendendo os pés dos invasores ou lançando-os para longe.
+– Então – disse, e a voz grave vibrou na madeira – aqui estão vocês.
 
-Em uma área próxima, Banjo viu um grupo de Obbs unindo forças para criar um escudo de madeira em forma de cúpula sobre uma família que tentava escapar. Um instante depois, uma explosão desintegrou o escudo, jogando-os para trás. Banjo estendeu as mãos instintivamente, mas Breno o puxou.
+Breno se pôs à frente de Banjo.
 
-— Não temos tempo! Precisamos seguir em frente!
+– Quem é você?
 
-Eles quase foram atingidos por um pedaço de madeira em chamas que caiu de uma plataforma acima. Banjo tropeçou, mas se levantou rapidamente, ofegante.
+– Eu é que deveria perguntar. Mas já que insiste... me chamam de Saliens. – O sorriso lento mostrou dentes afiados.
 
-Uma das pontes à frente estava quebrada, deixando um enorme vão entre as plataformas.
+– O que você quer?
 
-— E agora? — perguntou Breno, olhando ao redor.
+– Viemos convidar vocês. Meu mestre viu vocês. Sabe quem são. E está... curioso.
 
-Banjo respirou fundo, concentrando-se. Ele estendeu as mãos em direção à ponte caída, as veias de seus braços saltando com o esforço. Lentamente, a estrutura de madeira começou a se erguer, flutuando no ar como se estivesse sendo puxada por fios invisíveis. Com um último movimento, Banjo ajustou a ponte no lugar.
+– O que fizeram com a minha irmã?
 
-— Corre! — gritou ele.
+– Quer encontrá-la? É só vir com a gente.
 
-Eles atravessaram a ponte improvisada, correndo, quase caindo no processo. Banjo quase caiu, mas o irmão, lhe segurou a mão e lhe ajudou a subir. Os garotos recuperaram o fôlego, a madeira rangendo sob seus pés enquanto olhavam ao redor, tentando planejar o próximo passo. A outra extremidade da madeira estava em chamas. 
+– Ir com vocês? – disse Banjo, com a voz mais forte do que esperava. – Acha que somos idiotas?
 
-De repente, um som seco de madeira sendo arranhada ecoou próximo a eles. Era sutil no início, mas foi ficando mais alto, mais próximo, até que um calafrio percorreu a espinha dos irmãos. Banjo virou-se instintivamente, agarrando o braço de Breno.
+Saliens ignorou Banjo e se inclinou até que os olhos de brasa ficassem na altura dos de Breno.
 
-— Você ouviu isso? — sussurrou Banjo, os olhos arregalados.
+– O herói da família. Sempre tentando proteger todo mundo. Todo herói tem uma fraqueza.
 
-Breno não teve tempo de responder. Uma figura atravessou as chamas da outra extremidade, como se fosse parte dela. Ele apareceu de forma quase sobrenatural, a luz do fogo formando sua silhueta grotesca.
+– Onde está a minha irmã?
 
-A criatura era alta, imponente, com pele avermelhada que parecia brilhar fracamente como brasas em um fogo prestes a apagar. Seus olhos brilhavam em um tom laranja intenso, como carvões vivos, e dois chifres curvados se projetavam de sua cabeça. Seus braços longos terminavam em mãos com dedos finos e garras negras, que raspavam levemente a madeira da árvore em que estavam, produzindo um som agudo e perturbador.
+– Junto do meu mestre. E o seu irmão, a caminho de encontrá-los. – Ele esperou, observando os dois. – Ele traiu vocês. Disse que estavam na cidade, e entregou vocês para ganhar tempo. Ouvi dizer que ele é assim: independente, não se importa com os outros. Quer salvar a irmã sozinho, para ficar com o crédito.
 
-— Então... — a criatura começou, sua voz profunda reverberando pela madeira e pelo ar ao redor. — Aqui estão vocês.
+A frase bateu em Breno e em Banjo como um soco. Breno sentiu a raiva atingir o limite.
 
-Banjo deu um passo involuntário para trás, enquanto Breno se posicionava na frente dele, os punhos cerrados.
+– Você não conhece o meu irmão. Nem a mim!
 
-— Quem é você? — exigiu Breno, sua voz firme, mas com um toque de tensão.
+A pele dele virou metal, e Breno se atirou à frente, rachando a madeira sob os pés. Saliens recebeu o golpe com um sorriso largo, como se estivesse esperando. Os dois caíram da plataforma, quebraram duas pontes e mergulharam no pântano com um estrondo, mais de dez metros abaixo.
 
-A figura inclinou a cabeça, observando-os como um predador observa sua presa antes do ataque. Um sorriso lento se espalhou pelo rosto do ser, revelando dentes afiados.
+– Breno! – gritou Banjo.
 
-— Eu sou aquele que deveria estar fazendo a pergunta. — Ele deu um passo adiante, os chifres quase raspando uma das cordas que sustentavam a ponte. — Mas já que insiste... Me chamam de Saliens.
+Embaixo, Breno emergiu e avançou, mas Saliens o agarrou pelo pescoço debaixo d'água, tão forte que mesmo o metal doeu. Breno se soltou, subiu à superfície, engolindo ar, já de volta à forma normal. Saliens estava a poucos metros, ainda sorrindo.
 
-— O que você quer? — perguntou Breno, sem recuar.
+– Agora é a minha vez.
 
-Saliens inclinou-se ligeiramente para frente, como se estivesse confidenciando um segredo.
+A água sob os pés de Breno recuou, até que mal lhe cobria os tornozelos. Ao longe, no fundo da cidade, uma muralha líquida enorme começou a se erguer, engolindo a paisagem. Os Obbs, nas plataformas, gritaram ao vê-la.
 
-— Viemos convidá-los. Meu mestre viu vocês. Ele sabe quem vocês são. E, honestamente, ele está... curioso.
+– O que os heróis fazem mesmo? – perguntou Saliens, enquanto a onda começava a avançar, arrancando pontes e plataformas, derrubando árvores com suas raízes.
 
-O tom de sua voz era quase casual, mas carregava uma ameaça implícita que fez Banjo apertar o braço do irmão com força.
+Foi quando galhos imensos irromperam do solo e das árvores, entrelaçados como serpentes, formando barreiras contra a onda. Banjo olhou para cima e viu Gaia, de pé na plataforma mais alta, com as mãos erguidas e a coroa de folhas balançando ao vento. Os troncos se dobravam e viravam muros e escudos vivos, e a muralha de água começou a ceder e a cair em chuva sobre o pântano.
 
-— O que fizeram com minha irmã? — rosnou Breno, avançando um passo.
+– Incrível! – exclamou Banjo.
 
-Saliens riu baixo, um som que parecia ecoar pelas cordas e galhos ao redor, como se a própria floresta estivesse zombando deles.
+Mas um dos magos de capuz lançou um raio de energia escura contra o líder dos Obbs. Gaia o desviou com um escudo de troncos, e Saliens aproveitou. Uma onda de choque saiu dele e atingiu o Grande Pai, que perdeu o controle dos galhos e caiu da plataforma.
 
-— Quer se encontrar com ela? — Ele sorriu — É só vir conosco. 
+Gaia caiu sobre o gelo que um dos magos formara na água e ainda conseguiu se erguer num joelho. Levantou a mão, e as raízes da ponte carregaram os Obbs mais próximos para longe, até a margem. Saliens desceu sobre o gelo, sem pressa.
 
-Banjo deu um passo à frente, a raiva misturada ao medo em sua voz.
+– Os heróis sempre ficam para trás – disse, e lançou outra onda de choque.
 
-— Ir com vocês? Acha que somos idiotas? 
+Gaia não gritou. Sorriu para Seti, e o corpo do Grande Pai se desfez em folhas e sementes, que o vento espalhou sobre a água. Banjo sentiu a floresta inteira suspirar. Boty apanhou uma semente na palma da mão. Então os Obbs começaram a gritar.
 
-Saliens o ignorou, voltando sua atenção para Breno.
+– PELO GRANDE PAI! – rugiu Seti, de uma plataforma perto de Breno, os olhos cheios de fúria, e raízes grossas surgiram do solo e avançaram para Saliens.
 
-— Você é o mais velho, então. Sempre tentando ser o herói. Sabe de uma coisa. Heróis sempre tem uma fraqueza. — Ele deu um passo mais próximo, inclinando-se até que seus olhos brilhantes estivessem no mesmo nível dos de Breno. — Se quiser sobreviver, é preciso deixar essas fraquezas, é preciso ser forte. 
+Seti, Boty e outros Obbs uniram os poderes, e as árvores ao redor responderam, saindo da lama como serpentes gigantes para prender os braços, as pernas e até a cauda do demônio. Ele foi erguido no ar, rugindo, com cada membro esticado, enquanto tentava arrebentar as amarras. A onda de água se desfez no pântano. Banjo conseguiu içar Breno com a telecinese até uma ponte ainda inteira.
 
-Breno cerrou os punhos, sentindo o calor familiar de sua transformação começando a tomar conta de seu corpo.
+A vitória durou pouco. Uma mulher saiu da sombra, de cabelos negros ondulados e olhos frios, e a mão dela já estava cheia de energia escura. Atacou um dos Obbs que seguravam o tronco, e ele gritou e perdeu a concentração. Um braço de Saliens se soltou, e Saliens riu, triunfante.
 
-— Onde está minha irmã? — exigiu ele novamente, sua voz um grunhido de fúria contida.
+– Corram! – gritou Seti, apontando para uma zona escura do pântano. – Salvem-se e encontrem a sua irmã!
 
-Saliens deu um sorriso quase paternal, mas seus olhos eram puro desprezo.
+Breno e Banjo obedeceram, disparando pelas pontes enquanto explosões iluminavam o céu e árvores queimavam. Uma explosão passou tão perto que os dois se atiraram ao chão, cobertos de lascas. Ao se levantarem, estavam diante de um homem alto, de cabeça de serpente, com a boca aberta num sorriso.
 
-— Junto ao meu mestre. E seu irmão está a caminho indo ao encontro deles. — Ele fez uma pausa dramática, observando a reação de Breno e Banjo. — Ele traiu todos vocês. Disse que estavam na cidade. Lhes entregou para que tivesse tempo. É claro que ele iria bancar o herói e entrega-los. Ouvi falar que ele era assim. Independente. Não se importa com os outros.. Quer salvar sua irmã sozinha para receber todo o crédito para si. 
+– Aonde vocês vão? – sibilou ele, num som de folha seca sendo pisada.
 
-A implicação foi como um soco no estômago de ambos os irmãos. Breno sentiu sua raiva atingir o limite.
+Breno enfiou a mão no saquinho. Só havia duas pedras, e ele não sabia o que nenhuma das duas fazia. A amarela estava mais perto. Esmagou-a no chão.
 
-— Você não conhece meu irmão. Nem a mim! — Ele rugiu, sua pele imediatamente assumindo o brilho metálico de sua transformação. Sem pensar, ele lançou-se para frente, o impacto de seu movimento rachando a madeira sob seus pés.
+Uma luz branca e intensa explodiu, e o homem-serpente rugiu, protegendo o rosto. Breno e Banjo também tiveram que fechar os olhos, e por um momento só viram manchas coloridas.
 
-Saliens sorriu amplamente, como se estivesse esperando por isso. Ele recebeu o golpe de Breno, ambos caindo da plataforma, despencando por mais de dez metros. No caminho, quebraram duas pontes antes de mergulharem com um estrondo na água pantanosa abaixo.
+– Não enxergo! – gritou Banjo.
 
-Banjo gritou pelo irmão, mas não teve tempo de pensar. Ele viu o impacto da queda lançar ondas pela água, enquanto os sons da batalha ao redor continuavam. Breno emergiu rapidamente, avançando para cima de Saliens, que gargalhava como se estivesse se divertindo.
+Então uma centelha dourada pousou no ombro dele e puxou a ponta da camisa.
 
-Saliens agarrou-lhe pelo pescoço debaixo d’água, o que mesmo em sua forma metálica lhe fez perder o fôlego. Então Breno lhe golpeou, e se soltou, subindo até a superfície respirando fundo, em sua forma normal. Ao olhar para frente, viu que Saliens estava há apenas alguns metros, sorrindo para ele.
+– Farol!
 
-— Agora... é minha vez.
+Guiados pela luz do petrisco, que dava um passo, esperava e dava outro, os dois correram às cegas, de mãos dadas. Breno bateu de frente num tronco.
 
-A água aos seus pés começou a recuar. O líquido sob os pés de Breno ficou tão rasa que ele mal conseguia equilibrar-se. Então ao perceber, viu uma grande muralha gigante de líquido se formando no fundo da cidade, uma muralha que parecia engolir a paisagem. Os Obbs, ainda lutando nas plataformas, começaram a gritar ao ver a parede de água se formando nos fundos da cidade.
+– Árvore! – avisou Banjo, tarde demais.
 
-— O que os heróis fazem mesmo? — indagou Saliens, sua voz ecoando com poder enquanto a onda gigante começava a avançar, destruindo tudo em seu caminho.
+– Eu sei! – disse Breno, de nariz dolorido, mudando de direção. Quando o mundo voltou a ter forma, ele ainda esfregava o rosto.
 
-Os gritos dos Obbs podiam ser ouvidos ao longe, enquanto pontes e plataformas eram destruídas. Árvores gigantes eram arrancadas de suas raízes, e o pântano transformava-se em um turbilhão de caos. A onda crescia, implacável, ameaçando acabar com tudo que cruzava seu caminho.
+Dentro do pântano, a escuridão parecia tragar os sons. A água chegava aos tornozelos, e uma névoa fria rastejava como dedos invisíveis. Breno enroscou a blusa num galho e a rasgou, e só então reparou que, até aquele momento, as roupas de Peryth não tinham um único furo. Gritou entre uma passada e outra:
 
-De repente, enormes galhos começaram a emergir do solo pantanoso e das árvores ao redor, contorcendo-se e entrelaçando-se como serpentes gigantescas. Eles cresceram rapidamente, formando barreiras maciças e trançadas que se erguiam contra a muralha de água.
+– Bruno!
 
-Os irmãos olharam para cima e avistaram o Grande Pai Gaia em pé sobre uma das plataformas mais altas. Ele estava com as mãos erguidas, as árvores ao seu redor pareciam responder à sua presença e os troncos se dobravam e se transformavam em armas e escudos vivos que tentavam conter o avanço da onda.
+– Breno, pare de gritar! – Banjo agarrou o braço dele. – Tem algo errado. As árvores estão muito silenciosas.
 
-— Incrível! — exclamou Banjo, impressionado.
+Era verdade. Nenhuma voz. Nenhum sussurro. Banjo, que ouvia tudo o que crescia, ouviu uma coisa que nunca tinha ouvido: medo, em todas as raízes ao mesmo tempo.
 
-Gaia gesticulava com força, como se puxasse os troncos e galhos diretamente com as mãos, cada movimento criando novas extensões que desviavam ou absorviam parte do impacto da água. A muralha começou a enfraquecer, e partes dela começaram a se desmanchar. O pântano aos poucos se preenchia novamente, a água caindo como uma tempestade invertida em direção ao solo.
+Num trecho de água rasa, encoberto por folhas e lama, jazia o corpo de um animal grande, do tamanho de um urso, cheio de marcas de dentes. Banjo desviou o rosto.
 
-Mas o esforço de Gaia não passou despercebido. De uma das plataformas, um dos magos conjurou uma magia negra. Um raio de energia escura disparou em direção ao líder Obb. Gaia conseguiu reagir rapidamente, formando um escudo feito de troncos entrelaçados que absorveu o impacto, mas antes que ele pudesse contra-atacar, Saliens voltou sua atenção para ele.
+– Seja lá o que fez isso – murmurou Breno –, não trabalhava sozinho.
 
-Uma onda de choque emanou dele, atravessando o ar e atingindo Gaia com força brutal. O Grande pai gritou de dor, suas mãos perdendo momentaneamente o controle dos galhos que seguravam a onda. Ele tentou agarrar-se em um dos troncos próximos enquanto caía, mas Saliens, com um movimento rápido, cortou os galhos com um golpe de suas garras. Gaia despencou da plataforma.
+Ele ficou um instante olhando a água escura.
 
-— Não! — gritou Banjo, observando o grande pai cair.
+– Eu devia ter percebido, Banjo. Ontem, na cela, o Bruno ficou quieto demais depois do cristal. Eu perguntei, ele disse que não era nada, e eu deixei passar. – A voz dele falhou. – Eu sempre acho que protejo todo mundo e não enxergo o que está na minha frente.
 
-No último momento, um dos magos negros transformou a água abaixo em gelo. Gaia caiu pesadamente, batendo as costas no gelo sólido. Um grito de dor ecoou pela floresta, enquanto os Obbs em todas as plataformas começaram a gritar, desesperados. Um silêncio transcorreu, antes que as vozes furiosas dos Obbs surgissem. 
+Banjo hesitou e pôs a mão no braço do irmão.
 
-— PELO GRANDE PAI — rugiu Seti, em uma plataforma próxima a Breno. Seus olhos estavam cheios de fúria, e sua magia explodiu ao redor, invocando raízes grossas do solo que avançaram em direção a Saliens.
+– Ele não entregou a gente, Breno. O Bruno é chato, mas nunca largaria nós dois.
 
-Seti, Boty, e outros Obbs uniram seus poderes e as árvores ao redor responderam, emergindo como serpentes gigantes para prender os membros de Saliens. Galhos e troncos envolveram seus braços, pernas e até mesmo sua cauda, puxando-o para cima. A criatura rugia, sua força bruta tentando quebrar as amarras, mas os Obbs seguravam com determinação. Saliens foi erguido no ar, cada um de seus membros esticado dolorosamente enquanto ele gritava de raiva.
+– Eu sei – disse Breno. – Eu sei.
 
-A onda de Saliens finalmente se desfez, a água caindo de volta ao pântano, restaurando sua profundidade. Breno, ainda na água, sentiu seu corpo ser erguido por Banjo, até uma das pontes ainda intacta.
+Mas as palavras de Saliens continuavam ali, como farpas, e ele não soube dizer se falava para Banjo ou para si mesmo.
 
-No entanto, a vitória momentânea foi interrompida por uma nova presença. A mulher pálida surgiu das sombras, seus olhos frios fixando-se em um dos Obbs que segurava um dos troncos que prendia Saliens. Ela avançou com graça letal, sua mão envolta em energia negra, e atacou o Obb. Ele gritou, sua concentração se quebrando, e o tronco que ele controlava caiu, libertando um dos braços de Saliens.
+Farol, no ombro de Banjo, pulou para uma árvore próxima, cheio de pressa, e parou num galho, olhando fixo para a frente. Ao longe veio o som de algo sendo arrastado na água, depois passos espaçados e pesados.
 
-Saliens rugiu triunfante, rasgando as amarras restantes com sua força renovada.
+Uma mão magra, de dedos compridos, saiu de trás de uma árvore e agarrou o braço de Banjo. Ele gritou. Breno o puxou para trás, e a mão se soltou. A figura saiu lentamente do escuro.
 
-— Corram! — gritou Seti, apontando em direção a uma zona escura do pântano. — Salvem-se e encontrem sua irmã!
+Era magra e comprida, de pele cinza-esverdeada, braços tão longos que as mãos tocavam a água, olhos fundos e pálidos e roupas em farrapos. Andava curvada, quase de quatro, e a boca se abria num sorriso sem lábios. Veio rápida demais.
 
-Breno e Banjo obedeceram, disparando pelas pontes enquanto explosões mágicas iluminavam o céu ao redor. As árvores queimavam em algumas áreas, e pedaços das plataformas desmoronavam. Os Obbs lutavam com tudo o que tinham, suas raízes e troncos atacando os seguidores de Korvo em todas as direções.
+Breno se pôs à frente e virou metal, e o impacto o empurrou para trás. Ele empurrou a criatura de volta para a água. Banjo ergueu um galho grosso com a telecinese e o atirou contra ela, que caiu, mas voltou a se levantar quase na mesma hora, torcendo o corpo em ângulos que não deviam existir.
 
-Enquanto corriam, uma explosão próxima quase os atingiu, jogando estilhaços de madeira ao redor. Eles se abaixaram a tempo, mas ao se levantarem, ficaram cara a cara com outra figura sinistra. Um ser com cabeça de cobra estava no caminho, sua boca aberta em um sorriso macabro.
+– Breno, o Grande Pai disse que eles caçam tudo o que respira – sussurrou Banjo, segurando o braço dele.
 
-— Aonde vocês estão indo? — ele sibilou, sua voz como o som de folhas secas sendo esmagadas.
+Não houve tempo de responder. Dos dois lados, entre as árvores, outras figuras surgiam, dezenas, e logo centenas, num enxame lento e silencioso.
 
-Breno não hesitou. Ele tirou uma gema amarela do saco e a esmagou no chão. Uma luz intensa explodiu, cegando o mago de cobra. Ele rugiu, segurando o rosto enquanto os irmãos aproveitavam a distração para correr.
+– Corra! – gritou Breno.
 
-Sem olhar para trás, os irmãos correram pelo pântano, o silêncio quebrado apenas pelo som de seus passos rápidos e respirações ofegantes. O ambiente ao redor ficava cada vez mais denso e opressivo, com as árvores grossas e retorcidas bloqueando quase toda a luz que ainda restava. A água pantanosa, que chegava até seus tornozelos, era fria e coberta por uma névoa que parecia rastejar como dedos invisíveis. Farol seguia na frente, saltando de árvore em árvore, indicando o caminho na escuridão.
+Correram. O pântano engolia o som dos passos deles e devolvia só o ruído molhado dos perseguidores. Farol saltava de árvore em árvore na frente, a cauda acesa, indicando o caminho. De repente, uma das criaturas pulou de trás de uma raiz, e Breno puxou Banjo para o lado no último segundo, os dois rolando na água. Outra surgiu do lado esquerdo. Banjo se agarrou numa raiz.
 
-Breno enroscou sua blusa em um dos galhos, o que acabou rasgando o tecido dela. As vestes compradas no ateliê das estrelas tinham durado bem. Até então, mesmo depois de tudo o que passaram, não tinham um único rasgo. O material de Peryth era de qualidade. Enquanto corria, o garoto gritava entre o esforço das passadas:
+Breno enfiou a mão no saquinho e puxou a última pedra: a azul. Não sabia o que ela fazia. Podia ser inútil. Podia ser pior. Atirou-a contra uma árvore, e o impacto foi imediato: uma esfera invisível de energia envolveu os dois. A criatura que avançava bateu nela e foi jogada para trás, com um grito.
 
-— Bruno! 
+– É um campo de força? – sussurrou Banjo.
 
-Banjo então notou algo estranho no ar agarrou o braço de Breno, puxando-o para desacelerar.
+As criaturas arranhavam a barreira, que vibrava a cada golpe. À volta, as silhuetas se multiplicavam, os olhos pálidos brilhando. Breno olhou para o saquinho. Estava vazio. Tinham acabado as pedras. A esfera enfraquecia aos poucos, e ninguém sabia quanto tempo ainda aguentaria.
 
-— Breno, pare de gritar! — ele sussurrou, o tom preocupado. — Tem algo de errado aqui. As árvores… estão muito silenciosas. 
+Só então Breno viu a perna de Banjo: três arranhões fundos nas canelas, onde as garras haviam passado, sangrando devagar. Tirou do bolso o frasquinho de Ricochet. Havia um dedinho de mel cor-de-rosa. Passou-o nos arranhões, e a pele se fechou diante deles, como se alguém passasse a mão sobre tinta molhada.
 
-Breno, com o rosto marcado pela tensão, olhou para Banjo, mas assentiu com relutância. Sua voz ainda tinha um tom baixo de frustração.
+– Obrigado, Ricochet – murmurou Banjo, com um sorriso trêmulo, apalpando a perna.
 
-— Eles estão perto, Banjo. Eu sinto isso. 
+– Se a gente sair daqui, eu mesmo levo mais um pote para ele.
 
-Banjo lançou um olhar ao redor, seus olhos arregalados examinando as sombras distorcidas das árvores. O silêncio absoluto era desconcertante, interrompido apenas pelo som da água gorgolejando ao redor de seus pés.
+A esfera começou a tremer. Quando enfim desapareceu, os irmãos viram uma brecha entre as criaturas, e Breno puxou Banjo na direção dela. Correram de novo, mais assustados, com o arrastar atrás deles cada vez mais perto. Um som de passos rápidos veio da direção oposta. Breno se virou, pronto para atacar, com Banjo às costas.
 
-— Eu sei, Breno — disse Banjo, nervoso. — Mas também sei que há criaturas nessa floresta. Os Obbs nos alertaram sobre elas. 
+– Ei! Sou eu! – gritou uma voz conhecida, e Bruno emergiu da neblina, com o rosto sério, mas inteiro.
 
-O ar ao redor parecia ficar mais denso a cada passo. As árvores do pântano eram retorcidas, com raízes expostas que pareciam mãos deformadas saindo da água. A escuridão do lugar parecia engolir qualquer luz, exceto pelo brilho pálido da lua que mal conseguia atravessar as folhas acima e a luz que Farol emitia, agora no ombro de Banjo, com seus olhos arregalados enquanto olhava ao redor. Era evidente que até ele sentia que algo estava errado.
+Breno e Banjo soltaram o ar de uma só vez, e Breno o abraçou.
 
-De repente, Banjo parou e fez sinal para Breno, apontando para algo mais à frente. Um cheiro insuportável atingiu os dois antes mesmo de se aproximarem. Era uma mistura de carne apodrecida e sangue seco que fez seus estômagos revirarem. Na água rasa, parcialmente encoberto por folhas e lama, jazia o cadáver de uma criatura grandiosa. Seu corpo maciço, de pelo grosso e olhos mortos, era maior do tamanho de um urso pardo. Talvez fosse algum tipo de predador local, mas agora estava reduzido a um monte de carne mutilada e cheia de marcas de dentes.
+– Onde você estava?
 
-— O que é isso? — sussurrou Banjo, engolindo em seco e apertando os braços ao redor do próprio corpo como se buscasse proteção.
+– Achei o covil do Korvo. – Bruno apontou para a frente. – A gente não tem muito tempo. Me sigam.
 
-Breno agachou-se ao lado do cadáver, segurando o próprio nariz para conter o fedor. Ele tocou uma das feridas profundas no flanco da criatura, onde grandes marcas de dentes expunham os ossos abaixo.
+– Você disse que... – Breno se calou. Saliens falava, e a boca dele dizia mentiras. Bruno estava ali, vivo, com as olheiras fundas de quem não dormiu. Breno afastou o pensamento. – Vamos.
 
-— Seja lá o que fez isso... — murmurou ele, a voz carregada de tensão. — Não parecia trabalhar sozinho. 
+Bruno já corria. Atrás deles, os devorantes voltavam, de todos os lados. Farol, no ombro de Banjo, tinha as orelhas coladas na cabeça e soltou um rosnadinho. Banjo o apertou.
 
-Banjo deu um passo para trás, instintivamente segurando Farol, que havia saltado para seus braços, ainda inquieto.
+– Ele está com medo dos devorantes – disse, baixinho.
 
-— Você acha que ele está por perto? — perguntou Banjo, a voz trêmula.
+Bruno virou-se e estendeu a mão. O chão atrás deles congelou numa muralha de gelo que fechou o caminho, e outras criaturas ficaram presas até os joelhos em blocos brancos. Era uma magia forte e perfeita.
 
-Breno não respondeu. Ele se levantou lentamente, olhando ao redor. O pânico começou a crescer dentro dele enquanto sua mente conectava os pontos. Ele olhou para Banjo, os olhos arregalados.
+– Anda logo!
 
-— BRUNO! Onde você está?!
+– Isso foi incrível – disse Banjo, correndo ao lado de Breno. – Mas, sei lá, a gente estava preocupada com você, e você aparece e vira herói de filme.
 
-Banjo correu para ele, segurando seu braço com força.
+– Eu sempre fui um herói de filme. Vocês é que nunca repararam – disse Bruno, sem olhar para trás.
 
-— Pare, Breno! — sussurrou ele, o tom carregado de urgência. — Não sabemos o que pode estar ouvindo isso. Por favor, fique quieto.
+Breno quase sorriu. Era a cara dele.
 
-Breno apertou os punhos, lutando para conter o grito que ainda queria sair. Ele respirou fundo, tentando se acalmar, e acenou com a cabeça para Banjo.
+Atravessaram árvores retorcidas e raízes que emergiam da água como mãos. Bruno liderava, com confiança, travando cada devorante que se aproximava com um bloco de gelo. Por fim, parou diante de uma abertura escondida entre rochas e musgo, atrás de uma árvore gigante cujas raízes desciam como cortinas.
 
-Eles continuaram avançando, mas o silêncio ao redor parecia quase ensurdecedor. O som de seus passos na água pantanosa era como um tambor monótono. As árvores altas e escuras pareciam se fechar ao redor deles, suas sombras alongando-se de maneira perturbadora. O ar ficou mais pesado, trazendo um cheiro metálico que se misturava à podridão do lugar.
+– Aqui. Rápido.
 
-Farol, que estava no ombro de Banjo, de repente saltou para uma árvore próxima, seus movimentos rápidos e inquietos. Ele parou em um galho baixo, olhando fixamente para algo à frente. 
+Entraram. O barulho dos perseguidores foi ficando longe. A caverna era úmida, de estalactites afiadas penduradas no teto, e cheirava a terra molhada. Fendas brilhavam no chão. No fundo, uma luz azulada tremia nas paredes, e as sombras dançavam.
 
-— Farol, o que foi? — perguntou Banjo, a voz hesitante enquanto dava um passo à frente.
+Era o Sepulcro dos Esquecidos. Banjo encostou a mão na árvore da entrada e sentiu as raízes mudas, como se tivessem desistido de falar.
 
-Breno, atento ao comportamento do pequeno companheiro, parou também, franzindo o cenho enquanto tentava enxergar através da névoa densa do pântano. O som de algo sendo arrastado pela água tornou-se mais claro, seguido por passos espaçados e pesados, que criavam leves ondulações no chão encharcado.
+Eles sabiam, sem que ninguém dissesse. O ar tinha um peso que vinha de baixo, de séculos, como se a caverna guardasse tudo o que o mundo preferia deixar para trás. Pilares de pedra negra e pontuda se erguiam do chão, entre poças de água parada que refletiam o azul. Pequenos estilhaços de rocha flutuavam no ar, girando devagar. E no centro, onde o teto e o chão pareciam se esquecer um do outro, havia uma fenda.
 
-De repente, algo aconteceu. Banjo sentiu uma pressão no braço e imediatamente gritou. Uma mão esquelética, grotesca e coberta por carne em decomposição, tinha surgido de trás de uma árvore e tinha o agarrado. Os dedos ossudos se cravaram em sua pele como garras, o toque gelado e úmido. O som de seu grito ecoava pelo pântano como um alerta de pânico enquanto ele tentava se soltar. 
+Não era uma construção nem uma obra de mãos. Era uma ruptura no próprio mundo, como se o espaço tivesse sido rasgado, com bordas irregulares que ondulavam num azul prateado, como chamas líquidas. Lá dentro não havia chão nem teto, só um redemoinho de azul e roxo, em que pontinhos de luz giravam como estrelas. O ar vibrava com um zumbido, quase um coro de milhares de vozes, muito longe.
 
-Breno se virou instantaneamente, sua expressão transformada em choque e adrenalina. Ele avançou, puxando Banjo para trás com força, e a mão da criatura lhe soltou. Mas antes que pudessem respirar aliviados, um som gutural profundo e ameaçador ecoou das sombras.
+Banjo chegou mais perto, de olhos arregalados, com Farol apertado nos braços.
 
-A figura grotesca surgiu lentamente, como se estivesse saboreando o medo que provocava. Seu corpo estava em carne viva, pulsando com veias escuras, e seus olhos inexistentes pareciam perfurar as almas dos irmãos. A mandíbula sem lábios revelava dentes irregulares, enquanto um líquido escuro pingava de seu sorriso ameaçador.
+– O que é isso?
 
-Antes que pudessem reagir, a criatura soltou um grunhido gutural e avançou com uma velocidade perturbadora, suas pernas deformadas empurrando-a para frente como um predador faminto.
+Bruno, parado de costas para eles, virou-se devagar, e a luz azul desenhou o rosto dele.
 
-Breno mal teve tempo de reagir. Ele empurrou Banjo para trás e se colocou à frente, preparando-se para o impacto, instintivamente se transformando em metal bloqueando o ataque inicial da criatura. O impacto fez com que ele escorregasse para trás, mas conseguiu empurrar o monstro com força, jogando-o na água.
+– Parece um portal.
 
-— Breno?! — gritou Banjo, tentando se equilibrar na água — Lembra-se do que o Gaia disse? Que eles se alimentam de carne e sangue? — sussurrou Banjo, segurando o braço de Breno com força.
+A voz dele estava firme. Breno olhou para o irmão. Sob os olhos de Bruno havia olheiras escuras, que a luz azul fazia parecer mais fundas do que eram. Culpa do cansaço, pensou. Ele não dormia direito havia dois dias.
 
-Breno não respondeu. Estava coberto de suor, seus olhos analisando o ambiente ao redor. A criatura não ficou no chão. Ela se levantou quase instantaneamente, o corpo se contorcendo em ângulos impossíveis, antes de lançar-se novamente contra Breno. Dessa vez, Banjo ergueu um galho grosso com sua telecinese e o jogou com força contra a criatura, fazendo-a cair.
+– Bruno – começou, mas Farol, no ombro de Banjo, soltou um rosnado, e a frase morreu.
 
-— Não é o suficiente! — Breno gritou, segurando outro galho como uma arma improvisada. Ele golpeou a criatura repetidamente, até que finalmente parou de se mover.
+Bruno se moveu rápido demais. Com um golpe forte, empurrou os dois irmãos pela borda da fenda. Os dois caíram para trás, e um puxão violento os sugou, e o último pensamento de Breno foi o rosto de Bruno, calmo, olhando para eles.
 
-Os dois irmãos respiraram fundo, mas o silêncio não voltou. Em vez disso, o som de passos arrastados cresceu ao redor deles, vindo de todas as direções. Banjo virou-se, e seus olhos se arregalaram quando viu dezenas de figuras semelhantes emergindo das sombras. Logo, elas eram centenas, movendo-se em um enxame grotesco e implacável.
-
-— Corra! — gritou Breno, puxando Banjo.
-
-O pântano parecia engolir o som de seus passos, abafando tudo, exceto o ruído grotesco e úmido das criaturas que os perseguiam. Breno segurava o braço de Banjo com força, enquanto Farol saltava de árvore em árvore à frente, seus movimentos frenéticos indicando o desespero do momento. A luz natural era escassa, filtrada pelas copas densas, e a escuridão parecia conspirar com os Devorantes, ocultando-os até que fosse tarde demais.
-
-De repente, um som de respiração pesada e garras arrastando-se pela terra molhada se aproximou demais. Breno virou-se rapidamente e viu uma das criaturas saindo das sombras, correndo de quatro como um animal selvagem, um sorriso involuntário formado em seu rosto assustador. Breno puxou Banjo para o lado no último segundo, fazendo ambos tropeçarem para fora do caminho da investida da criatura.
-
-Eles rolaram pelo chão encharcado, a água pantanosa molhando suas vestes. Banjo levantou-se primeiro, puxando Farol de volta para seu ombro, enquanto Breno procurava desesperadamente algo no saco de gemas raveli. Ele tirou uma gema vermelha e a lançou no chão. O impacto contra a água do pântano resultou em um pequeno estalo, mas nada mais. O silêncio após o fracasso foi interrompido pelo som de uma respiração grotesca e irregular. Uma segunda criatura emergiu do lado esquerdo, avançando rapidamente, e Banjo gritou, agarrando uma raiz próxima para puxar-se para trás.
-
-Breno rapidamente agarrou a gema vermelha da água, ajustando seu alvo. Ele atirou-a contra uma árvore próxima. O impacto gerou uma explosão repentina, fumaça densa se espalhando rapidamente ao redor. Aproveitando a distração, os irmãos se moveram para trás de um tronco grosso, seus corpos pressionados contra a casca áspera enquanto tentavam controlar a respiração.
-
-A fumaça densa da explosão da gema vermelha envolvia tudo ao redor, transformando o pântano em um labirinto de sombras e silhuetas indistintas. Breno e Banjo se encostaram a um tronco de árvore retorcido, tentando recuperar o fôlego. A fumaça abafava os sons, mas não conseguia ocultar completamente o farfalhar das criaturas movendo-se na água próxima, seus passos úmidos e irregulares misturando-se com respirações guturais e rosnados baixos.
-
-Breno segurou o braço de Banjo, seus olhos fixos em algo à frente. Um vulto alto e grotesco passou lentamente, sua forma visível apenas quando as ondulações da fumaça se dissipavam momentaneamente. A criatura estava a poucos metros deles, suas pernas longas e deformadas movendo-se com um andar irregular. Breno rapidamente levou a mão à boca de Banjo, abafando um possível som de pânico. Banjo fechou os olhos com força, segurando Farol contra o peito enquanto seu corpo tremia incontrolavelmente.
-
-Os passos da criatura diminuíram, o vulto desaparecendo na fumaça mais espessa. Breno manteve-se imóvel, escutando atentamente. Os sons gradualmente se tornaram mais distantes, e por um breve momento, o silêncio reinou. Ele soltou Banjo, que abriu os olhos devagar, com lágrimas nos cantos. Farol se mexeu no ombro de Banjo, inquieto, mas calmo o suficiente para indicar que o perigo parecia ter passado.
-
-Breno fez um gesto para que continuassem. Eles se levantaram, movendo-se cuidadosamente por entre as árvores, tentando não fazer barulho. Mas o momento de alívio durou pouco.
-
-De repente, algo emergiu da fumaça com um som violento. Uma mão grotesca agarrou a perna de Banjo, suas garras deformadas cravando-se em sua pele. Banjo gritou em desespero enquanto a criatura o puxava com força, arrastando-o pela água pantanosa. Suas unhas lutavam para agarrar o chão lamacento, mas não conseguiam tração. Farol saltou de seu ombro para uma árvore próxima, piando em pânico.
-
-— Breno! Me ajuda! — gritou Banjo, sua voz desesperada.
-
-Breno virou-se rapidamente, seus olhos arregalados ao ver o irmão sendo arrastado pela criatura, cujos olhos vazios brilhavam com uma fome aterrorizante. Sem hesitar, ele correu atrás deles, seus passos pesados espirrando água enquanto ele se transformava em metal no meio da corrida. O som de seus passos metálicos ecoou pelo pântano enquanto ele saltava, seu corpo pesado e brilhante colidindo contra a criatura com um impacto surdo.
-
-A força do salto de Breno derrubou a criatura, que soltou um grito gutural. Breno agarrou Banjo pela cintura e o ergueu, afastando-o das garras que ainda tentavam alcançá-lo. O sangue escorria da perna de Banjo, onde as garras tinham deixado cortes profundos, tingindo a água ao redor de vermelho. A criatura recuperou-se rapidamente, soltando um rugido feroz. A adrenalina percorria suas veias enquanto ele tirava outra gema do saco. Dessa vez, era azul.
-
-Com a mão tremendo, ele lançou a gema em outra árvore próxima. O impacto foi imediato. Uma esfera invisível de energia cercou os irmãos. A criatura imediatamente bateu contra ele e foi jogado para trás com um grito gutural, como se tivesse sido eletrocutada. A criatura se recuperou rapidamente, rosnando enquanto arranhava a barreira, mas não conseguia atravessá-la.
-
-— É um campo de força? — perguntou Banjo. 
-
-Breno e Banjo permaneceram imóveis dentro da esfera, ouvindo o som de unhas afiadas raspando contra a barreira, que vibrava levemente com cada ataque. A escuridão ao redor parecia pulsar com os movimentos das outras criaturas, cujas silhuetas grotescas agora cercavam a esfera, seus olhos vazios brilhando com uma fome sem fim. A esfera parecia oferecer uma proteção momentânea, mas os irmãos sabiam que não duraria para sempre.
-
-Eles se mantiveram em silêncio, tentando não atrair mais atenção. Banjo apertava Farol contra o peito, enquanto Breno observava, calculando o próximo movimento. Quando o campo de força finalmente começou a enfraquecer, eles viram uma brecha entre as criaturas. Assim que a barreira desapareceu completamente, Breno puxou Banjo, e ambos dispararam em direção à abertura, correndo novamente pelo pântano, agora ainda mais aterrorizados pelo som incessante das criaturas que os perseguiam de perto. Breno ainda segurava Banjo, tentando avaliar os ferimentos na perna do irmão. Eles se afastaram, o som das criaturas parecia estar distante, mas ainda audível, o pântano pulsando com uma tensão sufocante. De repente, um som de passos rápidos veio da direção oposta. Breno imediatamente se virou, preparando-se para atacar, com Banjo atrás de si.
-
-— Ei! Sou eu! — gritou Bruno, emergindo da neblina com o rosto sério, mas intacto.
-
-Breno e Banjo suspiraram de alívio, e Breno imediatamente abraçou o irmão. 
-
-— Onde você estava? — perguntou Breno, tentando manter a voz firme.
-
-— Eu encontrei o covil de Korvo, — disse Bruno, ignorando a pergunta e apontando para uma direção à frente. — Não temos muito tempo. Precisam me seguir agora.
-
-Sem esperar por uma resposta, Bruno começou a correr. Breno, ainda segurando Banjo, hesitou, mas seguiu o irmão. As sombras no pântano pareciam se mover novamente, e logo os sons dos Devorantes retornaram. Eles estavam vindo de outras direções. Estavam tentando cercá-los.
-
-Bruno virou-se rapidamente, criando estacas de gelo que dispararam no ar e acertaram os Devorantes que avançavam mais próximos, suas cabeças grotescas sendo perfuradas e seus corpos caindo pesadamente na água.
-
-— Anda logo! — gritou Bruno, derrubando outra criatura com um golpe de gelo preciso.
-
-Banjo, ainda apoiado em Breno, olhou para o irmão mais novo com admiração e surpresa. 
-
-— Isso foi incrível, mas nojento — Banjo disse.
-
-Eles continuaram correndo, atravessando árvores retorcidas e raízes que emergiam da água. Bruno liderava o caminho com confiança, eliminando qualquer Devorante que tentasse alcançá-los como se já soubesse exatamente como pará-los. A cada criatura que os surpreendia, um golpe de gelo os parava, perfurava ou congelava. Finalmente, Bruno parou em frente a uma caverna estreita, escondida por entre as rochas e musgo.
-
-— Aqui, rápido! — Bruno disse, entrando primeiro.
-
-Os irmãos seguiram em frente, o som dos Devorantes ficando cada vez mais distante à medida que avançavam pela caverna. O interior era úmido e sombrio, com estalactites pendendo do teto e um cheiro forte de terra molhada preenchendo o ar. A escuridão era quebrada apenas por uma luz azulada ao fundo, tremulando suavemente e projetando sombras que pareciam dançar nas paredes irregulares.
-
-Quando se aproximaram, os irmãos pararam abruptamente, o coração acelerando ao verem a origem daquela luz. Não era uma estrutura construída ou algo que parecia ter sido projetado por mãos humanas — era uma fenda. Uma ruptura no próprio tecido da realidade, como se o espaço tivesse sido rasgado por uma força imensurável. As bordas da fenda eram irregulares, oscilando com um brilho azul prateado, como chamas líquidas que se moviam ao redor da abertura.
-
-Dentro da fenda, não havia chão ou teto visíveis, apenas um vazio pulsante de energia azul e roxa que parecia se estender para além da compreensão. O ar ao redor da ruptura vibrava, emitindo um som baixo, quase imperceptível, como o zumbido de milhares de vozes sussurrando ao longe.
-
-O chão perto da fenda estava coberto por rachaduras e fissuras, como se a abertura tivesse desestabilizado a própria caverna. Um calor leve misturado com um frio penetrante emanava do espaço ao redor, causando arrepios na pele dos irmãos.Banjo se aproximou hesitante, seus olhos arregalados enquanto examinava a estranha estrutura. Ele segurou Farol em seus braços, como se o pequeno companheiro pudesse protegê-lo de alguma forma.
-
-— O que é isso? — perguntou Banjo, sua voz baixa e cheia de cautela.
-
-Bruno, parado à frente deles, virou-se lentamente, seus olhos escuros contrastando com a luz emitida pela estrutura.
-
-— Parece… um portal — respondeu ele, com um tom que misturava urgência e autoridade. 
-
-Breno franziu o cenho aproximando-se do portal com desconfiança. Algo em toda a situação parecia errado. Ele virou o olhar para Bruno, que agora parecia um pouco diferente. Sob seus olhos, manchas escuras formavam contornos quase demoníacos.
-
-— Bruno... — Breno começou, mas antes que pudesse terminar, Bruno moveu-se rápido demais. 
-
-Com um golpe forte, Bruno empurrou os irmãos, que caíram para trás, e sentiram seus corpos sendo puxados por uma força extrema, antes de tudo escurecer. 
-
-
-
-
+Depois, tudo escureceu.
