@@ -46,7 +46,7 @@ Melissa era a melhor amiga de Beatriz desde a primeira série. Falava rápido, p
 
 – Bom dia, crianças – disse a professora Marlene da porta. – Quem vai para o coral, venha comigo. Quem não vai, o professor Rubens já está chegando.
 
-Os alunos do coral seguiram a professora pelo corredor. Beatriz sentiu uma pontada na cabeça e parou, com a mão na testa. A folha de música que segurava na outra mão parecia quente demais para uma manhã fria. Trocou a partitura de mão, desconfiada.
+Os alunos do coral seguiram a professora pelo corredor. Beatriz sentiu uma pontada na cabeça e parou, com a mão na testa. A folha de música que segurava na outra mão parecia quente demais para uma manhã fria. Ela mudou a folha de mão.
 
 – O que foi? – perguntou Melissa.
 
