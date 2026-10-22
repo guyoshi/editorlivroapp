@@ -11,7 +11,8 @@
   const BOOK_ROOTS = {
     "ruinas-dos-ceus": "Ciclo de Jesed/1 - Ruínas dos Céus/00 - Texto",
     "guerras-de-sangue": "Ciclo de Jesed/2 - Guerras de Sangue/00 - Texto",
-    "dinastia-polar": "Ciclo de Jesed/3 - Dinastia Polar/00 - Texto"
+    "dinastia-polar": "Ciclo de Jesed/3 - Dinastia Polar/00 - Texto",
+    "viajantes-dimensionais-1": "Viajantes Dimensionais/1 - A Patrulha de Korvo/00 - Texto"
   };
 
   let edit = null;
