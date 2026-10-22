@@ -8,7 +8,7 @@ Num canto, Eshley abraçava Maria com tanta força que as duas tremiam.
 
 Maria sorriu entre as lágrimas, tentando parecer forte.
 
-– Tá tudo bem. Esses dias foram os melhores da minha vida. – O olhar dela encontrou o de Bruno, que a observava de longe, e ela deu um aceno pequeno, como quem diz "valeu".
+– Tá tudo bem. Essas semanas foram as melhores da minha vida. – O olhar dela encontrou o de Bruno, que a observava de longe, e ela deu um aceno pequeno, como quem diz "valeu".
 
 Bruno não tinha contado a ninguém que também fora eliminado. A notícia pesava nos ombros dele, mas havia uma teimosia nos olhos que gritava "não acabou". Ele não se permitia aceitar a ideia de voltar para casa.
 

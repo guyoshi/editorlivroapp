@@ -1,3 +1,9 @@
+A semana entre o segundo desafio e o último passou devagar, do jeito esticado de quando todo mundo espera por uma coisa que não sabe nomear. Breno acordava antes do despertador e conferia, sem querer, se os irmãos ainda estavam nas camas. Beatriz treinava as chamas no jardim até o sol sumir. Banjo escrevia num caderno novo o nome de todas as folhas que conversavam com ele, e a lista já passava de trinta. Bruno ensinou ao teto da cozinha um refrão de rock da terceira dimensão, e dali em diante a gosma era esfregada ao som de guitarras que ninguém sabia de onde vinham. Velho-Sábio fingiu não ouvir.
+
+Na quinta à noite, ele serviu o jantar mais simples de todos, sopa e pão, e disse apenas:
+
+– Durmam bem. O que vier, vocês já têm.
+
 A sexta-feira amanheceu clara e silenciosa. No pátio do Edifício Arcano, os aprendizes que restavam formavam grupos pequenos e falavam baixo, e todos olhavam, de tempos em tempos, para a porta por onde Garmand ia sair. Ninguém sabia qual seria o último desafio. "Todo ano é diferente", repetiam os senavelitas. "E nunca avisam."
 
 Depois da reunião da Sociedade, ninguém tinha voltado ao assunto. Mas Bruno não tirava os olhos da mão de McCroys, que conversava com os gêmeos do outro lado do pátio. O dedo continuava sem anel, e a pele ali ficara mais clara, marcando o lugar onde ele estivera. Erick percebeu o olhar e devolveu uma careta. Bruno virou o rosto primeiro, e isso o irritou mais do que a careta.

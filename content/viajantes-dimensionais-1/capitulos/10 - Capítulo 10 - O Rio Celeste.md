@@ -10,7 +10,7 @@ O rosto de Velho-Sábio se fechou.
 
 Beatriz e Banjo se entreolharam. Bruno sustentou o olhar da édion, desafiador, e ela notou, e não se abalou.
 
-– Um anel – repetiu Velho-Sábio. – E a senhora acha que é de um dos meus aprendizes? Eles passaram a noite em casa, sob os meus olhos. E, nos últimos dias, sob os olhos dos seus próprios agentes.
+– Um anel – repetiu Velho-Sábio. – E a senhora acha que é de um dos meus aprendizes? Eles passaram a noite em casa, sob os meus olhos. E, nas últimas semanas, sob os olhos dos seus próprios agentes.
 
 Gary desviou o olhar. Erla se aproximou do mago, até ficar muito perto.
 
@@ -46,9 +46,13 @@ Em casa, Bruno e Banjo tiraram os sapatos no quarto, ainda calados. O cheiro de 
 
 Os dois se olharam e riram. Foi um alívio, como abrir uma janela num quarto abafado.
 
-À tarde, Velho-Sábio os parabenizou pela corrida e avisou que o próximo desafio exigiria magia de verdade. Nos dois dias seguintes, o treino foi intenso, e aconteceu o que costuma acontecer quando se treina bastante: os dedos ficaram mais firmes, as respostas mais rápidas. Breno aprendeu a atravessar uma parede sem pensar duas vezes. Bruno conseguiu segurar uma lasca de gelo por um minuto inteiro sem que virasse um castelo. Beatriz fez chamas pequenas e fiéis, que obedeciam a um assovio. Banjo fez folhas pousarem em fila na mesa da cozinha, uma ao lado da outra, como cartas de baralho.
+À tarde, Velho-Sábio os parabenizou pela corrida e avisou que o próximo desafio exigiria magia de verdade. Nas duas semanas seguintes, o treino foi intenso, e aconteceu o que costuma acontecer quando se treina bastante: os dedos ficaram mais firmes, as respostas mais rápidas. Breno aprendeu a atravessar uma parede sem pensar duas vezes. Bruno conseguiu segurar uma lasca de gelo por um minuto inteiro sem que virasse um castelo. Beatriz fez chamas pequenas e fiéis, que obedeciam a um assovio. Banjo fez folhas pousarem em fila na mesa da cozinha, uma ao lado da outra, como cartas de baralho.
 
-No terceiro dia, Velho-Sábio os levou de volta ao prédio. As portas do andar designado se abriram para um grande salão de teto abobadado, que imitava o céu do meio-dia, e uma brisa fresca atravessava o espaço de ponta a ponta. A luz vinha de cristais flutuantes, azuis como água rasa.
+Entre uma aula e outra, a vida foi criando hábitos. Às quartas, Eshley e Maria apareciam lá em casa para desenhar lanternas, e a sala ficava coberta de papel dourado e de cola que cheirava a mel. O jantar de domingo continuou de pé, mesmo com todo mundo cansado, e foi num deles que Bruno ganhou a primeira partida de Pedropone contra o mago, com uma trapaça tão descarada que Velho-Sábio pagou o mico de bom grado, imitando uma volha por dois minutos inteiros. Kali pediu a gravação. Ninguém deixou. Todo mundo sabia que ela tinha feito uma mesmo assim.
+
+A desconfiança de Bruno com o anel de McCroys ficou quieta nesse tempo, como brasa debaixo de cinza.
+
+Na manhã do segundo desafio, Velho-Sábio os levou de volta ao prédio. As portas do andar designado se abriram para um grande salão de teto abobadado, que imitava o céu do meio-dia, e uma brisa fresca atravessava o espaço de ponta a ponta. A luz vinha de cristais flutuantes, azuis como água rasa.
 
 E, no centro, flutuando no ar, esperavam as láridas celestes.
 

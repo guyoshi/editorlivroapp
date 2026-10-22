@@ -6,7 +6,7 @@ Breno foi o primeiro a falar, com a voz mais firme do que se sentia.
 
 – Ótimo plano – disse Bruno, de braços cruzados. – Esperar sempre dá certo. Vamos perder logo no começo e economizar tempo.
 
-Breno respirou fundo, contou até três e não respondeu. Era sempre assim nos últimos dias. Bruno sabia exatamente onde apertar, e Breno sabia exatamente onde doía.
+Breno respirou fundo, contou até três e não respondeu. Era sempre assim nas últimas semanas. Bruno sabia exatamente onde apertar, e Breno sabia exatamente onde doía.
 
 – Os dois têm razão em parte – interveio Lucía, firme, passando os olhos verdes por todos. – A gente abre defendendo e ataca na primeira brecha. Eu uso meu vento para desequilibrar os Vardeks deles e abrir caminho para os Drakons.
 

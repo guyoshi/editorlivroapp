@@ -91,7 +91,7 @@ As roupas eram leves como pensamento, prateadas e azuis, e se ajustavam ao corpo
 
 – Cinto? – perguntou Banjo.
 
-– A gente andou em dassi a semana inteira sem cinto – murmurou Bruno.
+– A gente andou em dassi quase um mês inteiro sem cinto – murmurou Bruno.
 
 – Provavelmente o dassi segurava a gente por vontade própria – disse Breno, com uma risadinha nervosa.
 

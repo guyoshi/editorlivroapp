@@ -1,4 +1,23 @@
-Na manhã seguinte, o céu de Tayo estava cor de pêssego e as ruas cheiravam a pão de mel. Velho-Sábio caminhou calado até o Edifício Arcano, o cajado batendo no calçamento num ritmo lento, e os irmãos acharam melhor não interromper os pensamentos dele.
+As semanas seguintes passaram sem que os irmãos percebessem, do jeito que passam as semanas boas.
+
+A manhã começava sempre igual. O despertador do teto estalava às sete, as constelações bocejavam e se apagavam, e do andar de baixo subia o cheiro de pão com canela e a voz de Kali, que desejava bom dia a um por um, com uma observação diferente para cada: o tempo lá fora, a chance de Bruno perder uma meia, a hora exata em que Banjo ia derrubar a geleia. Banjo derrubava, quase sempre. O Coronel esperava debaixo da mesa, de boca aberta, com a paciência de quem entende de geleia.
+
+Depois vinham o Edifício Arcano, o elevador de vidro, as aulas. Aprenderam a ler os avisos das tapeçarias, a pedir licença antes de entrar numa porta que tinha opinião, a não olhar fixo para os quadros que olhavam de volta. Ao entardecer, no jardim da casa, Velho-Sábio treinava os quatro, e a grama mudava de cor conforme o humor de quem pisava. Breno aprendeu a firmar os pés. Bruno aprendeu que o gelo, quando ele estava distraído, virava escorregador. Beatriz aprendeu a acender uma vela sem acender a toalha. Banjo aprendeu que as folhas do jardim gostavam de conversa e perdeu uma tarde inteira ouvindo.
+
+Aos domingos havia jantar, e o jantar era ordem de Velho-Sábio. Nada de treino, nada de Edifício, nada de pergunta difícil. Todo mundo cozinhava alguma coisa, quase todo mundo queimava alguma coisa, e a mesa ficava comprida de tanta gente: os quatro, o mago, o Coronel e, na tela da parede, uma Kali que fingia não ter fome.
+
+– Eu poderia provar? – perguntou ela no primeiro domingo, olhando a travessa.
+
+– Poderia, se tivesse boca – disse Bruno.
+
+– Então provarei pelos olhos de vocês. Me contem o gosto.
+
+Contaram. Foi a primeira vez que alguém descreveu um purê de tubérculo como "um abraço morno com pedacinhos", e Kali anotou a frase.
+
+Tayo, aos poucos, deixou de ser um mapa e virou um bairro. Beatriz sabia qual padeiro dava um pão a mais, Banjo cumprimentava o homem da previsão do tempo pelo nome, Bruno tinha opinião sobre todos os dassis da rua, e Breno, que detestaria admitir, já não procurava as saídas quando entrava num lugar novo.
+
+
+Numa dessas manhãs, perto do fim da terceira semana, o céu de Tayo estava cor de pêssego e as ruas cheiravam a pão de mel. Velho-Sábio caminhou calado até o Edifício Arcano, o cajado batendo no calçamento num ritmo lento, e os irmãos acharam melhor não interromper os pensamentos dele.
 
 Tayo, porém, não estava calada. Num poste, um homem de colete listrado anunciava a previsão do dia, olhando para o céu com uma lupa de latão:
 
@@ -24,7 +43,7 @@ O sorriso de Velho-Sábio continuou no rosto, mas não chegou aos olhos.
 
 Gary olhou para o chão, desconfortável, e assentiu. Os irmãos trocaram olhares. Era a primeira vez que viam o velho mago falar assim com alguém, num tom duro e curto, como uma porta se fechando.
 
-O elevador era uma bolha de vidro que subia por fora da torre, e durante o caminho Tayo se desenrolou lá embaixo como um tapete: telhados cor de ferrugem e de musgo, dassis cruzando entre as torres como contas prateadas num fio invisível, um bosque suspenso no meio da cidade onde crianças corriam sobre as copas. Banjo grudou a testa no vidro e deixou uma marca de nariz. Beatriz tirou o capuz lilás para ver melhor. Até Bruno, que jurava já ter se acostumado, ficou calado por três andares inteiros.
+O elevador era uma bolha de vidro que subia por fora da torre, e durante o caminho Tayo se desenrolou lá embaixo como um tapete: telhados cor de ferrugem e de musgo, dassis cruzando entre as torres como contas prateadas num fio invisível, um bosque suspenso no meio da cidade onde crianças corriam sobre as copas. Banjo grudou a testa no vidro, como fazia todas as manhãs, e deixou a marca de nariz de sempre. Beatriz tirou o capuz lilás para ver melhor. Até Bruno, que jurava já ter se acostumado, ficou calado por três andares inteiros.
 
 Quando as portas se abriram no terceiro piso, Banjo deu um passo à frente e parou, porque não havia chão.
 
@@ -185,7 +204,7 @@ O refeitório do Edifício ficava num salão redondo com janelas gigantes que da
 
 – O que é isso? – perguntou Banjo, sentando-se e pegando um pedaço de papel que fazia cócegas nos dedos.
 
-– Lanternas para o Festival das Luzes – explicou Eshley, dobrando uma com cuidado. – Daqui a umas semanas toda a cidade solta luzes no céu, uma de cada pessoa. A gente vai fazer as nossas na aula de artes. Cada lanterna sobe com um desejo, mas não pode contar o desejo para ninguém, senão ele não se realiza.
+– Lanternas para o Festival das Luzes – explicou Eshley, dobrando uma com cuidado. – Daqui a umas três semanas toda a cidade solta luzes no céu, uma de cada pessoa. A gente vai fazer as nossas na aula de artes. Cada lanterna sobe com um desejo, mas não pode contar o desejo para ninguém, senão ele não se realiza.
 
 – E o que acontece se alguém contar? – perguntou Bruno, que tinha acabado de chegar, mas ainda estava de olho em outra coisa.
 

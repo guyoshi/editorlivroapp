@@ -376,7 +376,7 @@ Foi então que um homem de cabelo castanho-escuro e barba aparada se aproximou, 
 
 – E então, como estão se saindo? – Leon olhou para os irmãos, com interesse genuíno.
 
-– Não fomos bem no primeiro desafio – respondeu Banjo. – Mas a gente não sabe nada de magia.
+– Não fomos bem no Desafio da Harmonia – respondeu Banjo. – Mas a gente não sabe nada de magia.
 
 – É normal. O Velho-Sábio é um dos melhores senavelitas que já conheci. Vocês vão longe com ele.
 

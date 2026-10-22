@@ -120,7 +120,7 @@ Velho-Sábio entrou carregando um bolo montado como chamas vivas, em camadas de 
 
 Fez um gesto com o bastão, e velas finas flutuaram em volta do bolo, formando um círculo perfeito, cada uma com uma chama pequena e intensa. Os irmãos cantaram os parabéns, desafinados e calorosos, a voz grave de Breno contrastando com a empolgação de Banjo e o tom ligeiramente fora do coro de Bruno. Velho-Sábio entrou também, com a voz rouca. Kali tentou acompanhar, completamente por fora. O Coronel andava de um para o outro atrás de algo para comer.
 
-Beatriz fechou os olhos e soprou as velas, uma a uma. Cada chama apagava com suavidade, como uma dança chegando ao fim. Todos aplaudiram e foram abraçá-la.
+Beatriz fechou os olhos e soprou as velas, uma a uma. Cada chama apagava com suavidade, como uma dança chegando ao fim. Todos aplaudiram e foram abraçá-la. Era domingo, e aos domingos a mesa da casa ficava comprida. Desde a primeira semana tinha sido assim, e ninguém lembrava quando aquilo deixara de ser regra para virar costume.
 
 – O bolo tá bonito – disse Banjo, já de olho na primeira fatia.
 

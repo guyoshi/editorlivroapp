@@ -221,7 +221,7 @@ Bruno deu um sorriso pequeno e foi para a cozinha, onde o cheiro de massa fresca
 
 Breno passou a mão no cabelo.
 
-– Eu te devo desculpas pelo jeito que te tratei nos últimos dias. Peguei pesado.
+– Eu te devo desculpas pelo jeito que te tratei nas últimas semanas. Peguei pesado.
 
 Bruno levantou uma sobrancelha, sem parar de mastigar.
 

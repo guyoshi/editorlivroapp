@@ -206,7 +206,7 @@ Passos firmes ecoaram pelo salão. A porta principal se abriu e um homem alto, d
 
 – Garmand – sussurrou alguém.
 
-– Bem-vindos, dimensais e não dimensais – disse ele, olhando todos de cima, mas com um sorriso formal. – Esta semana, eu os guio nos primeiros passos. Seus tutores os preparam para três desafios. Quem passar nos três, entre os dimensais, poderá permanecer em Belfex. Quem vencer entre todos, prova ser um senavelita de verdade.
+– Bem-vindos, dimensais e não dimensais – disse ele, olhando todos de cima, mas com um sorriso formal. – Nas próximas semanas, eu os guio nos primeiros passos. Seus tutores os preparam para três desafios, um depois do outro. Quem passar nos três, entre os dimensais, poderá permanecer em Belfex. Quem vencer entre todos, prova ser um senavelita de verdade.
 
 Um segundo homem entrou no salão. Era alto e magro, de barba curta, queixo pontudo e manto preto cheio de correntes de prata penduradas nas mangas. Os olhos eram frios e pareciam medir cada pessoa.
 
