@@ -192,7 +192,7 @@ Breno enfiou a mão no saquinho e puxou uma pedra ao acaso. Vermelha. Atirou-a n
 
 – É um campo de força? – sussurrou Banjo.
 
-As criaturas arranhavam a barreira, que vibrava a cada golpe. À volta, as silhuetas se multiplicavam, os olhos pálidos brilhando. Breno olhou para o saquinho. Ainda havia pedras, mas no escuro ele já não distinguia uma da outra, e atirar a errada agora podia custar o pouco tempo que a esfera lhes dava. A esfera enfraquecia aos poucos, e ninguém sabia quanto tempo ainda aguentaria.
+As criaturas arranhavam a barreira, que vibrava a cada golpe. À volta, as silhuetas se multiplicavam, os olhos pálidos brilhando. Breno olhou para o saquinho. Ainda havia cinco, contadas pelo toque: uma verde, duas laranjas, uma azul e uma amarela. Mas no escuro ele já não distinguia uma da outra, e atirar a errada agora podia custar o pouco tempo que a esfera lhes dava. A esfera enfraquecia aos poucos, e ninguém sabia quanto tempo ainda aguentaria.
 
 Só então Breno viu a perna de Banjo: três arranhões fundos nas canelas, onde as garras haviam passado, sangrando devagar. Tirou do bolso o frasquinho de Ricochet. Havia um dedinho de mel cor-de-rosa. Passou-o nos arranhões, e a pele se fechou diante deles, como se alguém passasse a mão sobre tinta molhada.
 

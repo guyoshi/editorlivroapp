@@ -1,653 +1,467 @@
-Breno caiu pesadamente no chão, seu corpo metálico voltando ao normal enquanto a exaustão o dominava. Ele ofegava, sentindo cada músculo pulsar de dor, enquanto o som dos passos de Saliens ecoava como marteladas contra a pedra.
+Breno bateu no chão com um estalo, e o metal foi se desfazendo de cima para baixo até restar só o garoto, ofegante, com cada músculo gritando. Tentou se levantar. As pernas não obedeceram.
 
-O demônio caminhava com calma, seus chifres reluzindo sob a luz pálida que atravessava o buraco acima. Seus olhos brilhavam com uma malícia sádica enquanto ele se aproximava de Breno.
+O barulho de passos lentos chegou antes de Saliens. Ele atravessou a poeira com calma, e os chifres dele brilharam sob a luz fria que entrava pelo buraco no teto.
 
-— Você não deveria ter aceitado vir para este mundo, garoto — disse ele, a voz profunda ressoando como um trovão abafado. — Não são fortes o suficiente. Nem merecem o poder que têm. 
+– Vocês não deveriam ter vindo a este mundo, garoto. – A voz grave rolava como um trovão distante. – Não são fortes o bastante. Nem merecem o que carregam.
 
-Breno tentou se mover, mas seu corpo estava pesado demais. A visão de Saliens o fez sentir uma mistura de desespero e raiva. Ele apertou os punhos, mas não conseguia reunir forças para reagir.
+Breno cerrou os punhos. Não tinha nada dentro dele para reagir.
 
-— Eu vou matar seus irmãos, um por um. E você vai assistir cada um deles sangrar. 
+– Seus irmãos vão ser os próximos. Um por um. E você vai assistir.
 
-O demônio parou ao lado de Breno e o garoto pôde ver, detrás da criatura, uma luz branca surgir. Saliens notou o incidente e virou-se rapidamente, um rosnado profundo escapando de sua garganta.
+Saliens parou ao lado dele. Foi então que Breno viu, atrás do demônio, uma luz branca crescer devagar, como o nascer do sol.
 
-Velho-Sábio ergueu o cajado, e uma onda de energia emanou dele, varrendo a poeira e criando um campo de força que afastou Breno e os detritos ao redor.
+Saliens se virou, rosnando. Velho-Sábio estava ali, com o cajado erguido, e uma onda de energia varreu a poeira e empurrou Breno para longe, para dentro de um círculo de calma.
 
-— Você está bem, Breno?
+– Está bem, Breno?
 
-Breno assentiu e levantou-se com ajuda do mago. Então Saliens atacou, lançando lâminas negras que rasgavam o ar. O Velho-Sábio contra-atacou movendo a mão livre, criando escudos de luz que repeliam os ataques com facilidade liberando passagem para que Breno subisse na montanha de detritos. Cada impacto nos escudos ressoava como trovões, faíscas roxas e douradas iluminando o espaço.
+Breno só conseguiu assentir. Velho-Sábio o ajudou a se levantar e, com a outra mão, lançou escudos de luz que repeliram as lâminas negras de Saliens, uma a uma, em estalos de trovão. Raízes subiram do chão e envolveram as pernas do demônio, mas ele as queimou com uma explosão de fogo escuro.
 
-Velho-Sábio avançou, girando o cajado e conjurando raízes que emergiram do chão, enrolando-se nas pernas de Saliens e o imobilizando. Mas o demônio rugiu, usando uma explosão de magia ígnea para queimar as raízes e liberar-se.
+– As trevas vão vencer, velho!
 
-— As trevas vão dominar, velho — gritou Saliens, lançando uma onda de energia que despedaçou parte dos destroços ao redor.
+Velho-Sábio bateu o cajado no chão. Um vento gelado rugiu pelo entulho e empurrou Saliens para trás. Estalactites de gelo despencaram do teto, e o demônio se jogou de lado para desviar. Quando tentou se levantar, o ar em volta dele se curvou: a gravidade o prendeu num redemoinho, levantou-o e o pressionou contra a parede.
 
-Velho-Sábio recuou para trás, erguendo o cajado novamente. Ele bateu o cajado contra o chão, e o ar ao redor pareceu congelar por um momento antes de uma tempestade de vento surgir, empurrando Saliens para trás. O demônio se agarrou ao chão, suas mãos cravando-se nos detritos, enquanto resistia à força da tempestade.
+– Você é diferente dele, Saliens – disse Velho-Sábio, com a voz tranquila. – Mas é tão tolo quanto. Acha que Korvo se importa com você? Ele não se importa com ninguém.
 
-Em seguida, o Velho-Sábio invocou estalactites de gelo que caíram do teto, forçando Saliens a desviar com movimentos rápidos. Mas ele não teve tempo de descansar, pois uma onda de luz surgiu logo em seguida, queimando a escuridão ao seu redor.
+Um feixe de luz dourada empurrou o demônio para dentro da escuridão, e o silêncio caiu sobre as ruínas.
 
-Saliens rugiu em frustração e lançou uma esfera de trevas que explodiu no chão perto do Velho-Sábio, criando uma cratera. Mas o mago já havia desaparecido, surgindo do outro lado com um movimento ágil. 
+Velho-Sábio subiu o entulho atrás de Breno. Lá em cima, junto ao buraco, Bruno estava caído, cercado por Banjo e Beatriz, e Leon, que acabava de acordar, com a mão na cabeça e culpa nos olhos.
 
-— Você é diferente dele, Saliens. Mas é tão tolo quanto. Acha que Korvo lhe ajudará a alcançar seus objetivos… Mas Korvo é egocêntrico. Ele não se importa de verdade com ninguém. Muito menos com você — disse Velho-Sábio, antes de invocar uma barreira gravitacional que prendeu o demônio em um redemoinho, levantando-o no ar e esmagando-o contra as paredes.
+– Perdão, Velho-Sábio. Eu não consegui protegê-los.
 
-Saliens tentou resistir, mas o poder do Velho-Sábio era avassalador. Com um último movimento, o mago conjurou um feixe de luz que empurrou o demônio para a escuridão.
+O mago olhou para Bruno. O garoto respirava com dificuldade, pálido, e a mancha escura em volta do peito dele tinha crescido. Velho-Sábio fechou os olhos por um instante e uma lágrima desceu pelo rosto dele.
 
-Velho-Sábio subiu atrás de Breno, que estava ao lado do irmão ferido. Bruno estava caído no chão, cercado por Banjo, Beatriz, e Leon, que ainda parecia abalado.
+– Ele foi amaldiçoado – murmurou.
 
-— Desculpe, Velho-Sábio, — disse Leon, a voz cheia de culpa. — Eu não consegui protegê-los.
+– O que isso quer dizer? – Breno agarrou o braço dele. – Ele está morrendo? O senhor tem que saber de alguma coisa. Faça alguma coisa!
 
-Velho-Sábio olhou para Bruno, respirando com dificuldade, e assentiu.
+Velho-Sábio não respondeu, e esse silêncio doeu mais do que qualquer palavra. Banjo apertou os punhos contra os olhos, soluçando.
 
-— Vamos levá-lo daqui.
+– Fica com a gente, Bruno. Fica com a gente...
 
-A pedra flutuava com firmeza, subindo pelo buraco no teto, levando-os para um corredor iluminado por lâmpadas mágicas. O ar ali era fresco, contrastando com a umidade e o caos da caverna que haviam deixado para trás.
+Velho-Sábio ergueu Bruno nos braços. Uma pedra grande se soltou do entulho e subiu flutuando até o buraco, levando todos para um corredor de mármore branco, de lâmpadas mágicas e de ar fresco. Atrás deles, o tribunal e a Presália inteira continuavam rugindo, mas ali tudo estava silencioso demais.
 
-Eles seguiram pelo corredor em silêncio, Velho-Sábio carregando Bruno nos braços, o corpo do garoto estava flácido, e sua respiração irregular era quase inaudível. Breno, Beatriz, e Banjo caminhavam logo atrás, os passos ecoando pelo chão de mármore branco.
+O corredor se abriu num salão enorme, o coração da Central Vigilante. No meio dele, com raízes grossas que pareciam sustentar o prédio inteiro, erguia-se a Árvore da Vigília, de folhas amarelas e brilhantes.
 
-O corredor os levou até um salão extenso e majestoso. Eles estavam no coração da central vigilante. O ambiente era surpreendentemente silencioso, e o som distante das batalhas parecia agora apenas ecos de um pesadelo. No centro, a árvore da vigília, a grande árvore com folhas amarelas brilhantes se destacava, suas raízes grossas e entrelaçadas pareciam segurar todo o peso do salão. 
+– Velho-Sábio, por favor – disse Beatriz, com a voz embargada. – Ajude o Bruninho.
 
-Beatriz interrompeu o silêncio, sua voz tremendo, as lágrimas escorrendo de seus olhos.
+Foi então que Banjo ouviu. Uma voz calma como o vento nas folhas, que não era de ninguém e estava dentro da cabeça dele: Traga-o até mim.
 
-— Velho-Sábio... Você precisa ajudá-lo. Precisa ajudar o Bruninho. 
+Banjo virou o rosto. Ninguém tinha ouvido. A voz repetiu, mais firme, quase uma ordem. Ele se levantou como num sonho e caminhou até a árvore, e as folhas se mexeram sem vento, respondendo.
 
-Velho-Sábio olhou para Bruno em seus braços. Seus olhos brilharam com um misto de dor e resignação. Ao examinar o ferimento, ele notou algo que fez seu semblante endurecer: uma mancha negra crescia ao redor da ferida.
+– Tragam ele aqui! – gritou, a voz tremendo, mas firme. – Para perto da árvore!
 
-Ele fechou os olhos e suspirou profundamente, uma lágrima deslizando por seu rosto.
+Velho-Sábio olhou nos olhos do garoto e não perguntou nada. Carregou Bruno até as raízes. Banjo pôs uma mão no tronco áspero e a outra no peito de Bruno, e fechou os olhos.
 
-— Ele foi amaldiçoado... — murmurou, sua voz carregada de um pesar que fez Breno explodir.
+– Por favor, salve o meu irmão.
 
-— O que isso significa, Velho-Sábio? —  perguntou, olhando o mago nos olhos, que levantou o olhar para ele, mas não o respondeu — Ele está morrendo! Faça alguma coisa! Tem que saber algo que possa ajudá-lo! — gritou Breno, desesperado.
+O salão ficou tão quieto que dava para ouvir a luz. Depois, as raízes se mexeram. Saíram do chão devagar, como serpentes douradas, e envolveram Bruno com delicadeza, erguendo-o no ar. Por um momento, ele desapareceu dentro de uma gaiola de madeira viva, e as folhas amarelas começaram a cair, uma por uma, até o chão ficar coberto de ouro. Os galhos secaram. As raízes que seguravam Bruno perderam a cor, e Banjo caiu de joelhos, chorando.
 
-Velho-Sábio continuou em silêncio. Era como se ele soubesse que não houvesse nada a fazer, mas não quisesse contá-los. Aquele silêncio enlouquecia Breno. A tensão no ar era quase sufocante, com o silêncio preenchido apenas pelo som fraco da respiração irregular de Bruno.
+– Não... o que está acontecendo?
 
-Banjo, ajoelhado ao lado do irmão ferido, tremia. Ele apertava os punhos contra os olhos, tentando conter as lágrimas, mas falhava miseravelmente.
+Quando as raízes se soltaram, Bruno despencou, e Breno o apanhou antes que tocasse o chão.
 
-— Fica com a gente, Bruno... Fica com a gente… — murmurou ele, soluçando, enquanto Beatriz se ajoelhava ao seu lado, segurando seu ombro, tentando confortá-lo.
+– Bruno?
 
-Então uma voz calma, quase como um sussurro carregado pelo vento, preencheu sua mente. Banjo congelou, seu coração parando por um instante. Ele não conseguiu entender muito bem o que ela disse, mas levantou a cabeça, e olhou ao redor. Ninguém parecia ter ouvido aquilo. O salão permanecia silencioso. Ele balançou a cabeça, tentando afastar o pensamento, mas a voz veio novamente, dessa vez mais firme, dessa vez ele entendeu, quase como um comando: “Traga-o até mim.”
+Bruno abriu um olho. Depois o outro. Soltou um suspiro fraco, e um sorriso torto apareceu na boca dele.
 
-Banjo parou, sua respiração acelerada. Ele virou a cabeça, seguindo o som. Seus olhos se fixaram no centro do átrio, onde a árvore da vigília repousava. Ele se levantou lentamente, como se estivesse hipnotizado. Seus passos eram hesitantes, mas firmes, guiados por uma força que ele não compreendia. Banjo caminhou em direção à árvore, parando no meio do caminho. As folhas da árvore parecia balançar, mesmo sem vento algum, quase como se estivesse respondendo à sua presença. Ele olhou para ela, depois para o irmão caído. Então ele respirou fundo, virou-se e gritou para todos:
+– Não me beija, por favor.
 
-— Tragam ele aqui! — disse ele, sua voz tremendo, mas carregada de uma convicção que fez todos pararem. — Para perto dessa árvore.
+Breno olhou para o peito do irmão. A mancha tinha sumido. Nem uma cicatriz. Ele riu e chorou ao mesmo tempo e o abraçou com tanta força que Bruno reclamou.
 
-Velho-Sábio estreitou os olhos, avaliando o garoto. Ele hesitou por um momento, mas algo nos olhos de Banjo o convenceu. Sem uma palavra, ele pegou Bruno novamente e caminhou com passos firmes até a árvore.
+– Eu te amo, irmão.
 
-Banjo estava ao lado de Velho-Sábio quando chegaram à base da grande árvore. Ele tocou o tronco áspero com uma mão, enquanto colocava a outra no peito de Bruno. Fechando os olhos, sua voz saiu quase como um murmúrio.
+– Também te amo, cabeça de ferro. Agora, solta, está me amassando.
 
-— Por favor... por favor, salve meu irmão. 
+Banjo olhou a árvore, seca e imóvel, de galhos nus e retorcidos, e sussurrou:
 
-O salão ficou completamente silencioso, como se até mesmo o tempo tivesse parado.
+– Obrigado.
 
-Então, as raízes começaram a se mover. Elas deslizaram lentamente para fora do chão, como serpentes vivas, brilhando com um tom dourado fraco. Todos recuaram instintivamente, mas Banjo permaneceu firme, olhando para a árvore com um misto de reverência e medo. As raízes se entrelaçaram ao redor de Bruno, levantando-o suavemente no ar.
+Leon olhou para Velho-Sábio.
 
-Por um momento, o garoto foi engolido pelas raízes fortes que o ergueram nas alturas. Então, de repente, as folhas amarelas começaram a cair, os galhos a secar, e um cheiro de decomposição preencheu o ar. As raízes que envolviam Bruno começaram a apodrecer, e a própria árvore parecia estar morrendo.
+– E Korvo? Onde ele está?
 
-Banjo caiu de joelhos, chorando novamente.
+– Fugiu. – O mago se apoiou no cajado, e de repente parecia muito cansado. – Capturamos alguns seguidores, mas ele e a Patrulha escaparam. Erla e os outros estão vasculhando tudo, mas não acredito que ele reapareça tão cedo.
 
-— Não... o que está acontecendo?— ele sussurrou, sua voz quase inaudível.
+Voltaram para casa de dassi. A cidade passava pelas janelas igual a sempre, e ao mesmo tempo tudo parecia diferente: as luzes mais frias, as ruas mais escuras, como se Tayo tivesse perdido uma camada de tinta.
 
-Finalmente, as raízes se retraíram, deixando Bruno cair. Breno correu e o segurou antes que ele atingisse o chão. 
+Depois de um banho quente e roupas limpas, os quatro se sentaram à mesa. Havia um banquete simples, e eles comeram como quem não via comida há uma semana. Só Beatriz beliscava devagar, com os olhos longe. Coronel, deitado debaixo da cadeira de Banjo, aceitava tudo o que caía.
 
-— Bruno... — ele disse, sacudindo-o levemente.
+Velho-Sábio os observava da cabeceira, com um sorriso leve.
 
-Bruno abriu os olhos devagar, piscando algumas vezes antes de soltar um suspiro fraco. Um sorriso brincalhão surgiu em seus lábios.
+– Vocês me surpreenderam. Eu sabia que eram fortes. Mas o que fizeram para salvar a irmã foi além do que eu poderia imaginar.
 
-— Não me beija, por favor. 
+Ele deixou o cajado apoiado na mesa e os olhos verdes pousaram em cada um deles.
 
-Breno olhou para a ferida do irmão. Ela tinha desaparecido. Imediatamente deu um sorriso aliviado, abraçando o irmão com força.
+– Gabrielle teria muito orgulho.
 
-— Eu te amo, irmão. 
+O nome da mãe deles caiu na sala como uma pedra na água. Breno ergueu os olhos, as mãos fechadas.
 
-— É… eu também te amo cabeça de ferro! — disse Bruno, a voz se recuperando. 
+– Velho-Sábio. A nossa mãe voltou porque quis? Ou foi mandada?
 
-Banjo sorriu, animado e olhou para a árvore da vigília, agora completamente morta. Ele limpou as lágrimas do rosto e sussurrou:
+O mago suspirou e se inclinou para a frente.
 
-— Obrigado...
+– Nem uma coisa nem outra. Ela não queria voltar. E não foi mandada. Voltou porque sentiu que precisava. Estava grávida, Breno. De você.
 
-Leon olhou para Velho-Sábio, suas sobrancelhas franzidas em preocupação.
+O silêncio foi grande. Breno piscou, tentando entender.
 
-— O que houve lá embaixo? Onde está Korvo? — perguntou, tentando esconder a tensão em sua voz.
+– Ela sabia que seria perigoso ficar aqui, com Korvo à procura dela. Voltou para proteger você. – Velho-Sábio sorriu com tristeza. – Eu lhes contei só o que podiam suportar, até hoje. Sei que não foi justo. Mas perguntem sempre que quiserem. Agora vocês podem.
 
-Velho-Sábio suspirou, apoiando-se levemente em seu cajado.
+Breno assentiu devagar, e uma lágrima desceu pelo rosto dele.
 
-— Korvo fugiu. — Sua voz era grave, mas firme. — Tentamos segurar seus aliados. Conseguimos capturar alguns, mas ele e sua Patrulha escaparam. Erla e os outros estão vasculhando os arredores, mas não acredito que ele reapareça. 
+Velho-Sábio se virou para Banjo.
 
-Os irmãos trocaram olhares, o peso da batalha ainda presente em seus rostos. Sem mais palavras, Velho-Sábio conduziu o grupo para sua casa, em um dassi. A viagem foi estranha. Depois de tudo o que passaram, a calmaria parecia não fazer sentido. Até mesmo a visão de Tayo parecia estar diferente agora. A cidade parecia agora mais misteriosa, mais escura e menos bonita. 
+– O que você fez com a árvore foi extraordinário. Nem eu consigo.
 
-Após um banho quente e roupas limpas, os garotos se sentaram à mesa. Um banquete simples os aguardava, mas para eles parecia um luxo há muito perdido.
+– Mas eu não fiz nada! Foi a árvore que o curou.
 
-Breno, Bruno e Banjo comeram com uma voracidade que mostrava o quanto haviam passado fome. Apenas Beatriz comeu moderadamente; seus olhos estavam distantes, refletindo tudo o que havia acontecido.
+– A árvore ofereceu a força. Foi você que a passou para o seu irmão. Isso exige uma ligação e um controle que eu nunca vi em ninguém. – Sorriu. – Você é especial, Banjo.
 
-Velho-Sábio, sentado à cabeceira, os observava com um sorriso leve.
+Banjo ficou vermelho até as orelhas, e Bruno, ainda de cobertor nos ombros, levantou o copo.
 
-— Vocês me surpreenderam hoje. — começou, sua voz cortando o silêncio reconfortante. — Eu sabia que eram fortes, mas o que fizeram para salvar sua irmã foi além do que eu poderia imaginar.
+– Você deve a vida ao seu irmão, Bruno – disse Velho-Sábio.
 
-O cajado do mago repousava ao seu lado. Os olhos verdes e penetrantes dele pousando nos irmãos, um por um. Ele parecia ponderar, como se pesasse cuidadosamente as palavras antes de dizê-las.
+– Estou anotando – respondeu Bruno. – Pago em favores. Principalmente lavar a louça dele.
 
-— Gabrielle ficaria orgulhosa de vocês. — disse ele, sua voz carregada de um peso quase palpável. O nome de sua mãe foi como um raio, prendendo a atenção de todos. — Ela era uma mulher incrível, com um potencial raro. Sua coragem, sua vontade de agir... tudo isso... eu vejo em vocês.
+Todos riram. Velho-Sábio esperou o riso passar.
 
-Breno levantou o olhar, suas mãos fechadas em punho sobre a mesa. Ele hesitou por um instante, antes de deixar a pergunta escapar.
+– Bruno, não é só humor o que tem por trás desse sarcasmo. Há muita coragem ali. Nunca duvide disso. A coragem não é a ausência de medo, é a decisão de seguir em frente apesar dele.
 
-— Velho-Sábio... nossa mãe... ela voltou porque quis... ou ela foi mandada de volta?
+Bruno desviou o olhar. Mas um sorriso pequeno ficou nos cantos da boca, e demorou a sair.
 
-Velho-Sábio suspirou, seu rosto assumindo uma expressão de profunda tristeza. Ele se inclinou para frente, como se estivesse compartilhando um segredo enterrado por muito tempo.
+– Beatriz.
 
-— Nenhum dos dois. Ela não queria voltar. E também não foi mandada de volta. Ela voltou, porque sentiu que era necessário. Ela voltou, porque engravidou… de você Breno. 
+Ela ergueu a cabeça. O anel estava na palma da mão dela, onde estivera desde a Presália. Velho-Sábio o pegou com cuidado e o devolveu ao dedo dela. A fumaça fina que ainda subia do cabelo de Beatriz sumiu de uma vez, e ela deixou os ombros caírem, como quem solta uma respiração que segurava há muito tempo.
 
-A declaração pairou no ar, e por um momento, ninguém soube o que dizer. Breno piscou, tentando absorver o impacto. Então Velho-Sábio continuou. 
+– Por enquanto, não o tire, Bia – disse ele, e dessa vez o olhar dele não era de brincadeira. – Em algum momento vamos conversar sobre o que ele guarda. Mas não hoje.
 
-— E ela sabia que seria perigoso permanecer aqui, especialmente com Korvo atrás dela. Ela voltou porque amava você o suficiente para sacrificar a própria liberdade, sua vida aqui, e tudo o que tinha construído. Ela sabia que proteger você significava afastar-se do mundo que ela amava. Gabrielle voltou porque queria proteger você, Breno.
+Beatriz assentiu, sem entender e sem querer perguntar.
 
-Breno sentiu seu coração se apertar. Banjo, ainda quieto após os eventos com a árvore, estava encolhido na cadeira. Velho-Sábio voltou seu olhar para ele. 
+– Breno. – O mago sorriu. – Seus irmãos são mais capazes do que você imagina. Eles não precisam de um líder. Precisam de um irmão.
 
-— O que você fez lá com a árvore, Banjo... foi extraordinário. — disse ele, sua voz cheia de admiração. — É uma magia que nem mesmo eu consigo realizar. Uma habilidade rara, não vista há milhares de anos.
+Breno engoliu em seco e assentiu.
 
-Banjo balançou a cabeça, confuso.
+– Amanhã vamos ver Lucas Veline, o governante. O que aconteceu hoje terá consequências. Por agora, descansem.
 
-— Mas... não fui eu. Foi a árvore. Ela o curou.
+Banjo ficou parado na porta da sala, com Farol enrolado nos ombros.
 
-Velho-Sábio sorriu suavemente.
+– Velho-Sábio. A gente não conseguiu salvar o Marcus.
 
-— A árvore cedeu sua força. Mas foi você quem transferiu essa vitalidade para seu irmão. Isso exige uma conexão profunda e um controle… que eu nunca vi em minha vida. Você é especial, Banjo. 
+O mago pousou a mão no ombro dele.
 
-Banjo sorriu, timidamente e Velho-Sábio olhou para Bruno, que estava recostado, ainda se recuperando, mas com um sorriso fraco.
+– Não. Mas você fez uma promessa a um homem que não tinha mais nada, e foi a única coisa bonita que alguém lhe deu naquele lugar. Isso não se perde.
 
-— Você deve sua vida ao seu irmão, Bruno. 
+Banjo piscou forte e foi dormir.
 
-A sala se encheu de risos leves, uma trégua temporária no meio de tantas revelações. Velho-Sábio, no entanto, não havia terminado. Ele olhou para Bruno com um olhar mais sério.
 
-— Aliás, Bruno. Você mostrou que não é apenas um cara engraçado. Por trás desse rostinho cheio de sarcasmo, há muita coragem. Não tenha dúvidas a respeito de você, rapaz. 
+ 
 
-Bruno levantou a sobrancelha, claramente esperando algo mais. Velho-Sábio sorriu e disse:
+Na manhã seguinte, a Torre Branca brilhava ao sol como uma pérola gigante, e os corredores de mármore refletiam os rostos assustados dos garotos. Quadros de antigos governantes os seguiam com os olhos. No elevador, de painéis de madeira escura e uma música baixa de cordas, Beatriz puxou a manga de Breno.
 
-— A coragem não é definida pela ausência de medo, mas pela decisão de avançar apesar dele. 
+– Eu não gostei daqui.
 
-Bruno desviou o olhar, o peso das palavras o atingindo, mas um pequeno sorriso surgiu em seus lábios.
+Ele não respondeu. Os ombros rígidos já diziam o mesmo.
 
-Velho-Sábio então se voltou para Beatriz. Seu olhar pousou no anel que brilhava em seu dedo.
+A sala do conselho tinha uma mesa oval e janelas do chão ao teto, com Tayo inteira por trás do vidro. Garmand e Erla já estavam sentados, e com eles dois homens que os irmãos não conheciam. Um tinha cabelos loiros e volumosos, tão arrumados que pareciam uma peruca, e roupas finas. O outro era magro, pálido, de queixo pontudo.
 
-— Guarde-o com cuidado, Beatriz. Você não precisa dele para ser forte, mas se em algum momento sentir que precisa, use-o. Não como dependência, mas como um lembrete de que sua força sempre esteve dentro de você.
+– Este é Chasen Becker, Alto Conselheiro de Estratégia – apresentou Velho-Sábio. – E este é Lucas Veline, o governante de Tayo.
 
-Finalmente, ele se virou para Breno.
+Lucas se levantou e cumprimentou cada um com um aceno. O olhar dele era firme, mas não frio.
 
-Beatriz assentiu, com olhos brilhando.
+– Bem-vindos, irmãos Lins. Quero dizer que o que vocês enfrentaram na Presália não é coisa que muitos sobrevivem.
 
-Por fim, ele olhou para Breno.
+Todos se sentaram. Breno explicou, de forma direta: a irmã sequestrada, a travessia, o Sepulcro, o portal, a Presália, Gary.
 
-— Breno, seus irmãos são mais capazes do que você imagina. Eles não precisam de um líder. Eles precisam de um irmão.
+– O Gary trabalhava para Korvo – completou. – Ele abriu a porta da Presália e deu acesso à cidade.
 
-Breno engoliu em seco, absorvendo as palavras. Velho-Sábio continuou.
+Bruno, que parecia segurar um grito há tempo, não aguentou.
 
-— Eu tenho certeza que Korvo percebeu isso hoje. Ele viu o que vocês podem fazer juntos. E eu também vejo. Se treinarem e confiarem uns nos outros, terão a força de um exército.
+– E incriminou o William McCroys! Plantou o anel dele na Central. Ele está preso por algo que não fez.
 
-O clima na sala ficou mais leve, mas Velho-Sábio parecia carregar algo mais em sua mente.
+A sala ficou quieta. Lucas trocou um olhar com Velho-Sábio.
 
-— Amanhã, teremos uma reunião com Lucas Veline, o chefe governante. O que aconteceu hoje terá repercussões. Mas por agora, descansem. Vocês merecem isso.
+– Então havia inimigos entre nós. E Korvo estava lá.
 
-Os irmãos assentiram, o peso de tudo o que ouviram os atingindo de maneiras diferentes. 
+– Estava – confirmou Breno.
 
+– E não os matou? – perguntou Becker, com um sorriso enviesado.
 
+– Ele não queria nos matar. Queria nos recrutar – respondeu Banjo, e se arrependeu no mesmo instante, ao ver Lucas e Becker se virarem para ele ao mesmo tempo.
 
-O clima leve da noite anterior rapidamente deu lugar a um ar de solenidade quando os irmãos foram levados para a Torre Branca, a sede do governo de Tayo. A estrutura imponente se erguia contra o céu, suas paredes brilhando como pérolas sob a luz do sol.
+– Recrutar – repetiu Lucas. – E o que vocês responderam?
 
-Dentro da torre, os corredores eram grandiosos, decorados com tapeçarias que contavam histórias de Tayo e quadros de antigos governantes, cada um carregando expressões austeras ou heroicas. Os olhos nos retratos pareciam seguir cada passo que eles davam, um lembrete silencioso do peso da história que permeava aquele lugar. O chão de mármore brilhava, polido ao ponto de refletir os rostos nervosos dos garotos.
+– Que não – disse Bruno. – Ele sequestrou a minha irmã. Humilhou o meu irmão. Quem tem um pingo de bom senso vê que ele está errado. Os seguidores dele o seguem por medo.
 
-Eles passaram por dezenas de vigilantes e seguranças, todos vestidos impecavelmente, com olhares atentos e sérios com seus uniformes reluzindo. O silêncio era quase palpável, quebrado apenas pelo som das botas dos irmãos ecoando nos corredores.
+– Ele é poderoso – disse Becker, batendo os dedos na mesa.
 
-Ao chegarem ao elevador, Velho-Sábio apertou um botão, e as portas se abriram suavemente. O interior era amplo e elegante, com painéis de madeira escura e um leve som de cordas tocando ao fundo. Conforme subiam, Beatriz puxou a manga de Breno, olhando para ele com uma mistura de nervosismo e curiosidade.
+Lucas olhou para Erla.
 
-— Eu não gostei daqui — sussurrou ela.
+– Como a Vigilância chegou até a Presália?
 
-Breno não respondeu, mas sua postura rígida mostrava que ele também sentia o peso daquele lugar.
+Erla inclinou o corpo para a frente.
 
-Quando o elevador parou, as portas se abriram para revelar um corredor longo e majestoso. No final dele, uma grande mesa oval ocupava o centro de uma sala iluminada por janelas que iam do chão ao teto, oferecendo uma vista panorâmica de Tayo.
+– Eu já notava comportamentos estranhos em alguns dos meus homens. Separei os que eu achava confiáveis dos que eu não achava, e esses últimos começaram a se expor. Quando alguém invadiu a Central e abriu a Presália, plantaram um anel da terceira dimensão para incriminar o professor McCroys. Antes de lacrarmos tudo, o capitão Marcus se ofereceu para entrar na prisão e descobrir o que planejavam. – A voz dela ficou mais pesada. – Ele levava um rastreador de emergência. Se encontrasse perigo, abriríamos a entrada para resgatá-lo. Mas Korvo o encontrou primeiro.
 
-Sentados à mesa estavam Garmand e Erla, junto com dois homens desconhecidos. O primeiro era um homem de meia-idade, com cabelos loiros volumosos que pareciam uma peruca bem cuidada, vestindo roupas finas que indicavam sua posição de destaque. O outro era magro, de pele pálida e um queixo pontudo que lhe dava uma aparência severa.
+Ela fez uma pausa curta.
 
-Velho-Sábio se aproximou, fazendo um gesto para os irmãos.
+– Marcus caiu.
 
-— Este é Chasen Becker, Alto Conselheiro de Estratégia do governo de Tayo, — apresentou o homem loiro. — E este é Lucas Veline, o chefe governante de Tayo.
+Todos se calaram. Becker bateu a palma na mesa.
 
-Lucas se levantou, cumprimentando cada um dos presentes com um leve aceno de cabeça. Seu olhar era intenso, mas não intimidador, sugerindo uma autoridade natural.
+– Imprudência! Mandar um homem sozinho a um presídio abandonado, um labirinto de armadilhas! A senhora o condenou, Erla.
 
-— Bem-vindos, irmãos Lins. — Sua voz era calma, mas carregava o peso da liderança. — Antes de tudo, quero parabenizá-los pela coragem demonstrada na Presália. O que vocês enfrentaram não é algo que muitos sobreviveriam.
+Os olhos de Erla endureceram, mas a voz saiu calma.
 
-Os irmãos trocaram olhares antes de assentirem. Lucas, então, gesticulou para que todos se sentassem.
+– Eu agi com as informações que tinha.
 
-— Agora, primeiramente, preciso entender… como vocês garotos foram parar lá dentro. — continuou ele, seu tom agora mais sério.
+– E os garotos? – Becker se virou. – Saíram da cidade no dia do Festival. Já considerou, Sra. Édion, que eles mesmos tenham aberto a Presália sob influência inimiga?
 
-Breno respirou fundo e começou a explicar.
+– Claro! – disse Bruno. – Nós quatro, adolescentes, planejamos tudo. Até soltar Korvo. Faz todo sentido!
 
-— Nossa irmã, Beatriz, foi sequestrada. Nós a seguimos até o Sepulcro dos Esquecidos e... — Ele hesitou por um momento, lembrando-se da escuridão daquele lugar. — Lá, encontramos um portal que nos levou diretamente à Presália. Era o covil de Korvo.
+Garmand interveio, com a calma de sempre.
 
-Beatriz apertou as mãos no colo, enquanto Bruno mantinha os olhos fixos na mesa.
+– Havia um relato de alguém que viu os garotos a caminho de Elthenor. Foi Ricochet Bombergue.
 
-Becker arqueou as sobrancelhas, um sorriso cético cruzando seu rosto.
+Becker soltou uma risada que parecia de escárnio.
 
-— Vocês foram até o Sepulcro? — disse ele, com um tom de desdém, arqueando as sobrancelhas. — Crianças atravessaram as Montanhas de Kargath, a Floresta de Elthenor e o Pântano de Mortem? 
+– Ricochet? O dos biscoitos? O que acha que o sol é feito de água? É em quem estamos confiando agora?
 
-Breno manteve a postura firme.
+– Ele estava certo – disse Garmand, impassível.
 
-— Foi o que fizemos. — Sua voz era calma, mas carregada de determinação. — E lá, descobrimos que Gary, um dos vigilantes, estava trabalhando com Korvo. Ele alienou outros vigilantes e abriu a porta da Presália, dando acesso à cidade para Korvo.
+– O que não impede os fatos. – Becker se inclinou para Lucas. – A Vigilância falhou: deixou um traidor em posição de confiança, mandou um capitão à morte, e conduziu uma operação que não capturou Korvo. Proponho uma reformulação completa da Central. Controle das notícias, para evitar pânico. Fechamento do Bazar do Oeste. E um pulso mais firme sobre a édion.
 
-Bruno, que parecia se segurar para falar, interrompeu.
+Erla não se mexeu. Depois tirou o broche de vigilante da capa e o colocou sobre a mesa, com um som metálico que ecoou pela sala.
 
-— Gary incriminou injustamente William McCroys. Ele está preso por algo que Gary fez. Foi tudo um engano.
+– Não será necessário. Eu renuncio.
 
-A sala ficou em silêncio. Lucas trocou um olhar com Velho-Sábio, claramente absorvendo as informações.
+Lucas abriu a boca, e ela levantou a mão.
 
-— Então tínhamos de fato inimigos entre nós — disse Lucas, cruzando as mãos sobre a mesa. — E dentro da presália… Korvo estava lá? 
+– Não é impulso. Eu já pensava nisso. – Olhou para Becker. – Talvez o senhor tenha razão. Talvez Tayo esteja melhor sem mim.
 
-— Sim — disse Breno. 
+– Erla... – começou Velho-Sábio.
 
-— E ele não os matou? — indagou Becker, causando uma certa tensão entre os garotos. 
+– Obrigada pelos anos de serviço – disse ela a Lucas, e saiu. As botas dela ecoaram no mármore até a porta fechar.
 
-— Korvo não nos queria mortos. Ele queria nos recrutar — disse Banjo, mas se arrependeu, pois pela reação de Becker e Lucas, percebeu que tinha caído em uma armadilha. 
+Ninguém falou. Becker ajeitou os papéis.
 
-— Recrutar, você diz? — perguntou Lucas — e o que vocês disseram? 
+– Uma decisão inevitável. Agora podemos avançar sem distrações. Precisamos de um novo édion imediatamente.
 
-— Que não — disse Bruno — Korvo sequestrou minha irmã, humilhou meu irmão… por mais manipulador que ele possa ser… qualquer um com bom senso percebe que ele está errado. Ele diz que tem um ideal, mas na verdade seus seguidores o seguem por medo. Porque ele é muito poderoso. 
+– O cargo ficará vago até o fim do inquérito – disse Lucas, sem olhar para ele.
 
-Becker inclinou-se na cadeira, seus dedos batendo levemente na madeira polida da mesa.
+Becker abriu a boca e a fechou. Lucas entrelaçou os dedos.
 
-— De fato, ele é poderoso. 
+– Korvo continua sendo a maior ameaça. E se ele quer esses garotos, eles não estarão seguros aqui. Terão que voltar à terceira dimensão. Amanhã cedo.
 
-Lucas assentiu lentamente, mas seus olhos voltaram-se para Erla.
+– O quê?! – Bruno se levantou, e a cadeira arrastou com um estrondo. – Nós enfrentamos ele! Mostramos que sabemos nos defender, e agora vocês nos mandam embora como se fôssemos o problema?
 
-— E como foi que a vigilância chegou à conclusão de que Korvo estava escondido na Presália? — perguntou.
+Breno pôs a mão no ombro dele, mas a voz também saiu dura.
 
-Erla inclinou-se levemente para frente, cruzando as mãos sobre a mesa.
+– Lucas, isso não faz sentido. A gente nunca se uniria a Korvo.
 
-— Desde o início, eu notei comportamentos incomuns em alguns de meus homens. Então tomei a decisão de separá-los: coloquei meus vigilantes mais confiáveis em um grupo, enquanto aqueles em quem eu tinha dúvidas foram designados a tarefas menos críticas. Com o tempo, esses últimos começaram a se expor, apresentando comportamentos que reforçaram minhas suspeitas. Um padrão começou a surgir.
+– Peço que reconsidere – disse Velho-Sábio. – Esses jovens provaram coragem e integridade. São senavelitas como nós. Eu mesmo os treinarei.
 
-Ela fez uma pausa, deixando as palavras penetrarem na mente de todos na sala.
+– Sua lealdade é admirável, Velho-Sábio, mas sua visão está nublada – interveio Becker. – Eles atraem Korvo. Tayo vem primeiro.
 
-— Uma das tarefas que admiti a eles foi vigiar os dimensais aprendizes, mas isso não deveria ser sua prioridade principal. No entanto, percebi um interesse excessivo e suspeito por parte deles. Não demorou para que isso culminasse na invasão à Central Vigilante. Os alarmes foram disparados e alguém abriu a entrada para a Presália.
+Lucas assentiu devagar, como se as palavras de Becker o empurrassem de leve. Bruno explodiu.
 
-Becker fez algumas anotações enquanto Lucas olhava para ela, esperando que continuasse. 
+– Vocês estão fazendo exatamente o que Korvo quer! Vocês e ele querem a mesma coisa dos dimensais: usar. Para os dois lados somos armas. Soldados esperando para serem recrutados. E, se não somos fortes o bastante, somos descartados.
 
-— Na cena encontramos um anel da 3ª dimensão. O anel foi plantado na cena com intuito de incriminar William McCroys. Meus homens mais confiáveis e eu conseguimos fechar a entrada novamente. Porém, antes disso, o capitão Marcus propôs entrar na prisão para tentar entender o que os invasores estavam planejando.
+O silêncio foi pesado como chumbo. Bruno olhou para Velho-Sábio, esperando uma bronca. O mago apenas o encarou, assentindo de leve.
 
-Lucas inclinou-se para frente, interessado.
+– Está ouvindo o garoto, Lucas?
 
-— E como esperavam trazê-lo de volta?
+Lucas hesitou, olhando a mesa. Garmand falou, sem levantar a voz:
 
-Erla hesitou antes de responder.
+– As decisões de um líder nunca são fáceis, governante. Mas ouvir muitas vozes pode abafar a sua. Às vezes, o certo e o seguro não são a mesma coisa.
 
-— Ele tinha consigo um dos nossos dispositivos de rastreamento de emergência. Nosso plano era monitorar seus movimentos. Se ele localizasse o perigo, poderia sinalizar, e abriríamos a entrada para resgatá-lo.
+Lucas piscou, atingido por algo. Mas Becker já tinha batido as mãos na mesa.
 
-A atmosfera na sala ficou densa, Erla estava entrando em um assunto que mexia com suas emoções, por mais imperceptível que parecesse.
+– Encerramos por hoje.
 
-— Continue, Erla. — pediu o governante.
+Lucas assentiu e se levantou.
 
-Erla respirou fundo.
+– Está decidido. Eles partem amanhã. Haverá um inquérito sobre a Vigilância.
 
-— Marcus era um dos meus homens mais corajosos. Ele sabia dos riscos e confiava em nossa estratégia. Ficamos atentos à entrada, prontos para reagir a qualquer sinal dele.
+No corredor, os irmãos seguiram Velho-Sábio em silêncio. Bruno bufava a cada passo.
 
-Ela fez uma pausa antes de continuar, sua voz assumindo um tom mais pesado.
+– O problema não são vocês – disse o mago. – É o medo. Lucas não está cego por maldade. Está com medo, e Becker sabe disso.
 
-— Infelizmente, ele encontrou Korvo antes que pudéssemos resgatá-lo. E foi assassinado.
+Passaram por Erla, encostada numa parede de pedra, de braços cruzados. Os olhos dela estavam molhados, e ela parecia menor do que nunca.
 
-A sala ficou em silêncio por um momento antes de Becker interromper.
+– Erla? – chamou Beatriz.
 
-— Imprudente! — disse ele, batendo na mesa com a palma aberta. — Enviar um homem para um presídio abandonado, um labirinto mortal, e ainda mais sozinho, foi uma decisão irresponsável, Erla. Você basicamente o enviou para a morte.
+– Eu falhei com Marcus – disse ela, num sussurro. – E falhei com Tayo. Eu protegi esta cidade a vida inteira, e ela foi aberta por dentro, por gente da minha própria casa.
 
-Os olhos de Erla endureceram, mas sua voz permaneceu calma.
+– Você não é a única responsável – disse Breno, dando um passo à frente. – Korvo mexe com a cabeça das pessoas, faz acreditar numa ilusão. E ele não tomou Tayo. Foi você quem descobriu o covil dele. Você não falhou, Erla. Ele falhou.
 
-— As coisas começaram a piorar no dia do Festival das Luzes. Uma explosão ocorreu próxima ao muro leste de Tayo. Enviei homens para investigar, mas percebi que um de meus principais homens, Gary, não estava na central. Quando finalmente o encontrei, ele estava próximo aos muros, alegando que os irmãos Lins haviam ido atrás da irmã sequestrada, acusando William McCroys de estar por trás disso.
+Erla ergueu os olhos. Pela primeira vez, um sorriso pequeno e cansado apareceu no rosto dela.
 
-— Então os garotos saíram da cidade no dia do festival… — começou ele, um tom acusatório em sua voz. — Mas… já considerou, Sra. Édion, que os garotos pudessem ter invadido a Central Vigilante e eles mesmos tivessem aberto a Presália sob influência inimiga? Não seria essa uma possibilidade?
+– O nosso mundo é muito maior do que Tayo, garotos. Eu ter deixado o cargo não significa que desisti de lutar.
 
-Breno cruzou os braços, claramente irritado.
+Breno assentiu. Os irmãos se despediram com um aceno, e ela ficou ali sozinha, com a mão no lugar onde o broche costumava estar.
 
-— E por que faríamos isso? — rebateu ele, o tom desafiador.
+Quando chegaram ao pé da Torre, uma porta lateral se abriu e William McCroys saiu, desgrenhado e ainda de barba por fazer, ladeado por Erick e Nicolas. Pareciam ter dormido pouco. Os gêmeos o olhavam de um jeito diferente, como quem enfim escolheu um lado.
 
-Beatriz lançou um olhar cortante para Becker, enquanto Bruno, mesmo com o semblante cansado, não pôde evitar um sorriso sarcástico.
+Bruno parou no meio da escada. Velho-Sábio chegou ao lado dele.
 
-— Com certeza, nós, um bando de adolescentes planejamos tudo isso. Inclusive planejamos soltar Korvo na cidade, olha só… — disse Bruno. — Faz todo o sentido.
+– Ele foi solto hoje cedo. Erick e Nicolas depuseram a favor dele. – Fez uma pausa. – Bruno, você não sabe tudo sobre William.
 
-Antes que Becker pudesse responder, Garmand interveio, com sua voz calma, mas carregada de autoridade.
+– Eu sei que ele é um dimensal – disse Bruno, de olhos fixos nos três.
 
-— Havia um relato. Um informante nos avisou que encontrou com os garotos no caminho para a floresta de Elthenor.
+– Chegou muito jovem, vindo da terceira dimensão, sem ninguém. Foi chamado de intruso, de perigo, de ameaça. Durante anos achavam que ele era um espião, mesmo sem prova nenhuma. Sofreu mais do que eu gostaria de contar. Foi ficando duro para que não o machucassem. – O mago olhou para a figura de casaco comprido. – Ficou assim. Mas nunca fez mal a nenhum aprendiz.
 
-Becker arqueou uma sobrancelha.
+Bruno lembrou. O terraço no primeiro dia, com McCroys sozinho na ponta de uma mesa, mastigando pão, com um passarinho pousado ao lado dele que não se importava com mais ninguém. E o corredor do refeitório: McCroys de joelhos diante de um menino de oito anos, consertando uma lanterna de papel rasgada com a ponta dos dedos. Ele nunca tinha contado aquilo a ninguém. Parecia um segredo que não era seu, e que agora ele entendia.
 
-— Um informante, é? E qual o nome dessa fonte confiável?
+Desceu os degraus devagar e parou a dois passos de McCroys. Os gêmeos fecharam a cara. McCroys ergueu uma sobrancelha.
 
-Garmand não hesitou.
+– Eu estava errado – disse Bruno. – Sobre o senhor. Eu desconfiei, e foi injusto. Desculpa.
 
-— Ricochet Bombergue.
+McCroys ficou olhando para ele. A boca dele fez um movimento estranho, como se tivesse esquecido o jeito de se mexer para responder.
 
-Ao ouvir o nome, Becker não conseguiu conter um riso abafado de deboche, cruzando os braços e recostando-se na cadeira.
+– Não preciso de pena, Lins.
 
-— Ricochet Bombergue? — ele disse, com um tom cheio de escárnio. — O dos biscoitos? Aquele que acha que o sol é feito de água? Esse é o homem em quem estamos confiando agora?
+– Não é pena. É que eu estava errado.
 
-Garmand permaneceu impassível, mas Lucas tomou a palavra, seu olhar se estreitando.
+O silêncio que veio foi o mais comprido da escadaria. McCroys apertou o casaco no corpo, desviou os olhos para a praça e disse, devagar:
 
-— E por que você prendeu McCroys?
+– Em vinte e nove anos, você é o primeiro a me dizer isso. – Pigarreou. – Guarde esse hábito, garoto. Vai precisar mais vezes do que imagina. – E, antes de se virar, acrescentou, quase sem mexer a boca: – Boa sorte lá na terceira dimensão. Não deixem que apaguem vocês.
 
-Erla continuou:
+Foi embora de ombros retos, mas Bruno percebeu que eles estavam um pouco mais soltos do que antes. Nicolas ficou para trás.
 
-— Quando ele me disse isso, verifiquei que o anel encontrado na central no dia da invasão pertencia a ele. Então sim, o detive como suspeito. Mas minhas suspeitas sobre Gary não cessaram. Ele frequentemente desaparecia dentro da Central Vigilante, mesmo sem sair do prédio. Não pude deixar de associar esses comportamentos ao padrão que já havia observado no grupo suspeito. Mas eu estava errada. 
+– Gary nos mandou dizer aquilo, no festival. Que Korvo tinha levado a Beatriz para o Pântano de Mortem. A gente achou que era fofoca. – Engoliu em seco. – Desculpa. Pelo que causou.
 
-— Você agiu com base nas informações que tinha, Erla. Mas ainda assim, as consequências foram graves. Gary terá que responder por tudo isso. 
+– A gente se vê – disse Erick, bem baixo, e puxou o irmão pelo braço.
 
-Becker estreitou os olhos, inclinando-se ligeiramente para a frente na cadeira, como se fosse dizer algo, mas Erla imediatamente continuou. 
+Bruno ficou olhando, de boca meio aberta, até Banjo cutucá-lo.
 
-— Na segunda-feira, Velho-Sábio e Garmand vieram falar comigo sobre uma teoria. Quando Korvo escapou da Presália anos atrás, ele simplesmente apareceu fora da prisão, em Dunrah. Ninguém o viu saindo pela central, nem mesmo em Tayo, não houve sinais de fuga algum pela entrada principal. Era lógico deduzir que ele encontrou outra saída. 
+– Você pediu desculpas duas vezes em dois dias. Estou ficando preocupado.
 
-A sala ficou em silêncio por um momento. Até mesmo Becker parecia intrigado com a explicação. Lucas balançou a cabeça levemente, absorvendo a informação.
+– Cala a boca, Banjo.
 
-— Então a mesma rota que Korvo utilizou para fugir, ele utilizou para retornar à presália? O portal que vocês disseram, esteve aberto este tempo todo? — perguntou Lucas.
+Na praça central, o vento carregava um cheiro de pão doce. Sem as barracas e sem os balões, ela parecia imensa e vazia, e a fonte octogonal cantava sozinha sob o sol. Uma pétala azul caiu devagar do céu limpo e pousou no ombro de Beatriz. Depois outra, e outra, uma chuvinha silenciosa que ninguém soube explicar.
 
-— Não acredito que esteve aberto. Mas creio que ele deva ter conseguido reabri-lo — respondeu Erla. — Os garotos estavam seguindo para o sepulcro dos esquecidos, atrás da irmã. Com certeza estavam sendo atraídos para Korvo, e ele os levaria para seu covil. Quando Velho-Sábio propôs que investigássemos, ele pediu permissão para entrar na Presália. Concordei, mas apenas sob a condição de que montássemos uma operação completa. Não podíamos correr riscos.
+– Lá estão eles! – Eshley vinha correndo, de capa verde-azulada esvoaçando, com Shirley atrás. – A cidade inteira está falando de vocês!
 
-Ela pausou por um momento, seu olhar endurecendo.
+– Foram ao Sepulcro, salvaram a Beatriz, enfrentaram o Korvo! – Shirley parou, ofegante, de olhos brilhantes. – É sério isso? Como você está, Banjo?
 
-— Ontem, conduzi a operação com vigilantes e aliados. Não citarei todos os envolvidos, mas incluiu forças especializadas... — ela lançou um olhar rápido para Velho-Sábio. — ...e foi assim que encontramos os garotos, Korvo, sua patrulha e centenas de seguidores dentro da Presália.
+– Estou bem – disse Banjo, e o rosto dele ficou vermelho. – Foi difícil. Mas eu lembrei do que você disse, que eu era capaz. Acho que ajudou.
 
-Lucas esfregou o queixo, ponderando.
+Shirley corou até a raiz dos cabelos ruivos. Eshley trocou um olhar com ela e se virou para Bruno.
 
-— Então, vocês sabiam que havia algo grande acontecendo, mas mesmo assim não imaginavam a extensão do que encontrariam lá dentro. — Ele olhou para Velho-Sábio. — E o covil Korvo? Vocês descobriram, então?
+– Ficamos sabendo que o Erick e o Nicolas testemunharam a favor do McCroys. Ele vai ser solto logo.
 
-Velho-Sábio assentiu lentamente.
+– Já foi – disse Bruno. – Eu estava errado sobre ele. E sobre os gêmeos.
 
-— Sim. Ele se escondia na presália. Korvo transformou aquele lugar em algo ainda mais sombrio do que já era. 
+Eshley olhou para Beatriz.
 
-Becker lançou um olhar inquisitivo para Velho-Sábio.
+– E você, Bia? Está bem?
 
-— E o que houve com Korvo?
+Beatriz tocou o pingente verde no pescoço.
 
-Velho-Sábio endireitou-se e falou:
+– Estou ótima. Isso me ajudou a me sentir segura o tempo todo.
 
-— Korvo fugiu. Ele deve ter retornado ao portal pelo qual veio. Erla já comunicou Neredis sobre o ocorrido. Eles estão se mobilizando para localizar e destruir o portal.
+Eshley sorriu, mas olhou para trás de repente e viu Velho-Sábio esperando ao fim da praça.
 
-Lucas respirou fundo, apoiando as mãos na mesa.
+– Vocês têm que ir. Vamos combinar de conversar depois. Na praça Fugosa...
 
-— E quanto aos seguidores? — perguntou ele, olhando para Erla.
+– A gente não vai voltar, Eshley – disse Banjo, e as palavras saíram devagar. – Vão nos mandar de volta para a terceira dimensão. Amanhã cedo.
 
-— Alguns foram capturados, incluindo Gary — disse a édion — Mas a maioria fugiu, provavelmente utilizando a outra saída da Presália, no Sepulcro dos Esquecidos.
+Shirley ficou imóvel.
 
-Lucas ficou pensativo por alguns momentos, como se estivesse pesando suas opções. Mas antes que ele pudesse falar, Becker, que já parecia impaciente, interrompeu com sua voz cortante.
+– O quê? – A voz dela quebrou. – Como assim?
 
-— A édion falhou em diversos aspectos. Deixou um traidor em uma posição de confiança, enviou um capitão em uma missão suicida, e, acima de tudo, conduziu uma operação surpresa à base secreta do inimigo que nem sequer conseguiu capturar Korvo. 
+Antes que alguém respondesse, ela correu até Banjo e o abraçou com força, batendo nele com pequenos socos nas costas.
 
-Erla manteve-se imóvel, o queixo erguido, mas seus olhos mostravam o peso das palavras de Becker. Ele continuou:
+– Seu bobo! Eu gostava tanto de você. Você era meu melhor amigo!
 
-— Eu proponho uma reformulação completa da Central Vigilante. É evidente que a estrutura atual é insuficiente para lidar com ameaças como essa. Além disso, devemos adotar uma abordagem mais segura para os moradores de Tayo. As notícias sobre este incidente precisam ser controladas. Não podemos permitir que a população entre em pânico.
+Banjo fechou os olhos e a abraçou também.
 
-Lucas, embora visivelmente desconfortável com a intervenção de Becker, acenou lentamente com a cabeça.
+– Eu vou sentir a sua falta.
 
-— Você sugere uma reestruturação, então?
+Beatriz tirou o colar do pescoço e o estendeu para Eshley.
 
-Becker sorriu, satisfeito por ter o controle da situação.
+– Acho que preciso devolver...
 
-— Exatamente. E para começar, precisamos revisar toda a cadeia de comando. A édion Erla precisará de um pulso mais firme, ações supervisionadas pelo departamento de controle. 
+Eshley fechou a mão dela em volta do colar.
 
-Nesse momento, Erla deu um passo à frente. Sem dizer uma palavra, ela retirou o broche de Vigilante de sua capa e o colocou sobre a mesa com um som metálico que ecoou pela sala.
+– Não. A Maria pediu que você ficasse com ele. É seu agora.
 
-— Não será necessário. — disse ela, sua voz firme e sem traços de emoção. — Eu estou renunciando meu cargo.
+Beatriz sorriu, e colocou o colar de volta. As duas se olharam, com um fio invisível puxado entre elas.
 
-Todos na sala ficaram em silêncio. Lucas abriu a boca para protestar, mas Erla ergueu uma mão, silenciando-o.
+– Boa sorte – murmurou Shirley, com lágrimas escorrendo, enquanto eles se afastavam. A chuva de pétalas azuis seguiu os irmãos até a esquina e parou.
 
-— Esta decisão não é impulsiva. Eu já estava considerando isso. — Ela olhou diretamente para Becker — Talvez você tenha razão. Talvez eu tenha falhado. Então a cidade estará melhor sem mim. 
+A lua já subia quando chegaram em casa. Coronel veio correndo, abanando o rabo com tanta força que o corpo todo se movia junto, e Beatriz ajoelhou para abraçá-lo. Velho-Sábio fechou a porta e se virou para eles, e o brilho dos olhos verdes tinha algo de sábio e de triste ao mesmo tempo.
 
-Erla então virou-se para Lucas, seu tom suavizando ligeiramente.
+– Vocês viveram mais do que qualquer um deveria. Mas amanhã cedo vão partir.
 
-— Obrigado pela oportunidade. Sou grata pelos anos de serviço.
+Banjo começou a chorar sem fazer barulho. O mago se ajoelhou ao lado dele e pousou uma mão firme no ombro.
 
-Sem esperar resposta, ela caminhou em direção à saída, o som de suas botas ecoando pelo chão da sala silenciosa e sua capa balançava com os passos firmes. Quando a porta se fechou atrás dela, o silêncio tomou conta da sala.
+– Não é um adeus, Banjo. Essa guerra que está para começar, cedo ou tarde vai chegar até vocês. E, quando chegar, vocês estarão prontos. Mas agora precisam estar seguros. E a segurança de vocês está longe daqui.
 
-O governante apoiou os cotovelos nos braços da cadeira e cruzou os dedos diante do rosto. Ele parecia perdido em pensamentos, enquanto todos aguardavam que ele tomasse a palavra. Velho-Sábio manteve seus olhos acompanhando a porta pela qual Erla havia saído, como se pudesse ver além dela.
+Banjo assentiu, fungando.
 
-Becker quebrou o silêncio, sua voz fria, mas incisiva.
+– Existe um protocolo para quem deixa Belfex – continuou Velho-Sábio, endireitando-se. – Os M.A. de vocês seriam drenados de volta para o Estírio, como acontece com todo dimensal que parte. – Fez uma pausa e baixou a voz, com um sorrisinho quase conspiratório. – Mas eu não vou fazer isso. Pode ser que vocês precisem deles. Só peço uma coisa: não contem a ninguém. Na terceira dimensão, as pessoas não costumam lidar bem com quem congela coisas com as mãos.
 
-— Bem, foi uma decisão inevitável. Agora podemos avançar sem distrações.
+– Nem com quem derruba parede com a cara – acrescentou Bruno, apontando para Breno.
 
-Lucas lançou um olhar rápido para Becker, mas não disse nada. Ele respirou fundo, inclinando-se para a frente.
+– Nem com quem conversa com besouro – disse Breno.
 
-— Korvo continua sendo a maior ameaça que enfrentamos. — Ele fez uma pausa, seus olhos movendo-se para Velho-Sábio e depois para os irmãos. — E se ele quer os garotos, isso significa que eles não estarão seguros aqui. Não podemos arriscar a segurança de Tayo por causa de um ataque direcionado.
+– Eu converso com todos, na verdade – disse Banjo.
 
-Ele fez uma pausa longa, como se estivesse escolhendo cuidadosamente as palavras.
+Os quatro se entreolharam e, aos poucos, a tensão da sala foi se desmanchando em risadas pequenas. Velho-Sábio se levantou.
 
-— Eles terão que voltar para a 3ª dimensão.
+– Descansem. Amanhã é um novo dia.
 
-Bruno levantou-se de repente, a cadeira arrastando com um ruído alto que ecoou pela sala.
+Quando ele saiu, o silêncio ficou, quente e cansado. Beatriz suspirou.
 
-— O quê?! — gritou ele, os olhos brilhando de indignação. — Nós lutamos contra Korvo e suas forças lá embaixo! Nós mostramos que podemos nos defender, e agora você quer nos mandar embora como se fôssemos o problema? 
+– Parece que vivemos uma vida inteira nesses dias.
 
-Breno colocou uma mão no ombro de Bruno, tentando contê-lo, mas seu próprio tom era carregado de frustração.
+Bruno encostou na parede, rindo baixo.
 
-— Lucas, isso não faz sentido. Nós nunca nos uniremos a Korvo. Você acha que somos um risco? Nós enfrentamos ele e saímos vivos. Isso devia significar alguma coisa. 
+– Como dizem, não é o tempo que conta, é o que você faz com ele.
 
-Velho-Sábio deu um passo à frente, sua voz serena, mas firme.
+– Bruno – chamou a voz de Kali, saindo da tela flutuante. – Você está bem?
 
-— Lucas, peço que considere o que eles fizeram. Esses jovens provaram integridade, coragem e força. Não são apenas dimensais. São senavelitas como todos nós. Eles merecem viver aqui tanto quanto eu ou você. — Ele fez uma pausa, olhando diretamente para o chefe governante. — Treinarei-os pessoalmente. Garantirei que estarão prontos para enfrentar qualquer ameaça.
+– Ótimo, Kali. Por que não estaria?
 
-Lucas hesitou, claramente abalado pelas palavras do mago. Ele parecia estar considerando a proposta, mas Becker interveio com um tom calculado.
+– Eu soube que você se machucou. Fiquei preocupada.
 
-— Com todo respeito, Velho-Sábio, sua lealdade é admirável, mas sua visão está nublada. O bem-estar da cidade deve vir em primeiro lugar. Esses garotos atraem Korvo, e não podemos arriscar que ele use isso contra nós. — Becker olhou para Lucas com intensidade. 
+Bruno colocou a mão no peito e deu uma piscada para os irmãos.
 
-Lucas acenou com a cabeça lentamente, como se as palavras de Becker o empurrassem na direção desejada.
+– Nenhuma cicatriz, olha. Meus irmãos não vão se livrar de mim tão cedo. O que seria deles sem o meu humor ácido? Um bando de blocos de concreto.
 
-— Até o dia de amanhã, os garotos deverão deixar Belfex. — Ele fez uma pausa, evitando o olhar dos irmãos. — Além disso, fecharemos o bazar do oeste e fortaleceremos a entrada cidade até que possamos garantir a segurança total.
+– Você é engraçado – disse Kali, e a luz dela pulsou, doce e cálida.
 
-Bruno cerrou os punhos, a raiva explodindo em palavras.
+Ficaram acordados até tarde, trocando lembranças, rindo de algumas, calando em outras. Era uma sensação agridoce, de alívio e cansaço e de saudade antecipada. Mas pelo menos naquela noite estavam juntos, e isso bastava.
 
-— Vocês estão fazendo exatamente o que Korvo quer! — Ele olhou diretamente para Lucas, a voz carregada de frustração. — Nós não somos o problema aqui. Vocês e Korvo querem a mesma coisa com os dimensais: usá-los. Para vocês, somos apenas armas, exércitos esperando para serem recrutados. E se não somos fortes o suficiente, somos descartados. 
 
-O silêncio caiu na sala, pesado como chumbo. Bruno olhou para Velho-Sábio, esperando uma repreensão por sua explosão, mas o mago apenas o encarou, assentindo com leveza, uma aprovação silenciosa que deu força ao garoto.
+ 
 
-— Está ouvindo o garoto, Lucas? — disse ele. 
+Na manhã seguinte, o sol atravessou as janelas e pintou a casa de dourado. Coronel dormia perto da porta, com um olho aberto, e os irmãos dobravam as roupas em silêncio, com o som baixinho do tecido e dos passos no assoalho.
 
-Lucas hesitou enquanto Becker olhava para seus papéis, um sorriso sarcástico em seu rosto. Garmand, finalmente falou: 
+Velho-Sábio os levou à Central de Teletransporte Dimensional, o salão que parecia desafiar o chão e o teto. Pontes flutuantes cruzavam o ar, criaturas de asa passavam pelo alto, e os portais prateados pulsavam em arcos esculpidos, como espelhos de água em pé. Tudo era tão vivo e tão bonito que Beatriz pensou que ia chorar só de olhar. Partir dali era como acordar no meio do melhor sonho e perceber que o despertador era de verdade.
 
-— As decisões de um líder nunca são fáceis, Sr. Governante. Mas é importante lembrar que ouvir muitas vozes pode silenciar a sua própria. Às vezes, não se trata do que é mais seguro, mas do que é certo.
+Diante de um dos arcos, onde o prateado ondulava devagar como um lago ao vento, Velho-Sábio parou.
 
-Lucas piscou, como se as palavras tivessem atingido algo em seu interior. Mas antes que pudesse reagir, Becker bateu as mãos na mesa.
+– Lembrem-se – disse, olhando um a um e fixando os olhos neles por um instante a mais – vocês não têm mais poderes.
 
-— Vamos encerrar essa reunião. Ainda temos de tratar sobre a renúncia de Erla. Precisamos imediatamente encontrar um novo édion para o cargo. 
+Os irmãos entenderam. Assentiram em silêncio.
 
-Lucas assentiu, e se levantou, fazendo com que todos fizessem o mesmo em respeito. 
+Beatriz foi a primeira a se lançar nos braços dele.
 
-— Está decidido. 
+– Eu vou sentir tanta falta do senhor.
 
-Os irmãos, claramente frustrados, seguiram Velho-Sábio para fora da sala. O silêncio no corredor parecia tão denso quanto o peso nas costas dos irmãos enquanto eles seguiam Velho-Sábio. Breno andava à frente, os punhos cerrados, enquanto Bruno bufava em indignação.
+– Eu também, pequena Bia. – Ele acariciou o cabelo dela e olhou para cada um, como quem guarda rostos num lugar seguro. Depois fez um sinal para o portal.
 
-— Como ele pôde decidir isso? — murmurou Bruno, quebrando o silêncio. — Depois de tudo o que passamos.
+Breno entrou primeiro, depois Bruno, depois Banjo, e por último Beatriz. O corpo deles foi esticado, torcido e comprimido ao mesmo tempo, uma sensação horrível e breve. Quando abriram os olhos, estavam na sala de casa.
 
-— O problema não somos vocês, garotos. É o medo que eles têm de Korvo. — Velho-Sábio respondeu — Lucas está cego. E com Becker ao seu lado as coisas se agravam ainda mais. 
+Tudo era familiar e pequeno. O sofá gasto, a mesa de centro, o barulho dos pássaros lá fora. No sofá, com as mãos no rosto, estava Frank. Parecia não dormir há muitas noites. Ao ouvir o som, levantou a cabeça, de olhos arregalados.
 
-Beatriz segurava a mão de Banjo, tentando conter as lágrimas. Foi quando passaram por Erla, que estava encostada em uma parede de pedra, as mãos cruzadas e os olhos lacrimejando. Ela parecia menor do que nunca, sua figura rígida agora marcada por uma vulnerabilidade que raramente mostrava.
+– Vocês... estão aqui?
 
-— Erla? — chamou Beatriz, hesitante.
+Os irmãos se entreolharam. Banjo foi o primeiro a falar, com o sorriso mais inocente que conseguiu.
 
-Erla ergueu o olhar lentamente. Seu olhar, geralmente tão seguro, agora estava vazio. Ela se endireitou, cruzando os braços como se tentasse recuperar a compostura.
+– A gente estava num dos meus melhores sonhos.
 
-— Você está bem? — perguntou Velho-Sábio.
+Frank se levantou devagar, e o rosto dele mudou. Havia cansaço, alívio, e uma coisa a mais, que os quatro não conseguiram ler. Quando ele falou, a voz saiu baixa:
 
-— Não. Eu falhei com Marcus. — Sua voz era baixa, quase um sussurro. — E falhei com Tayo. Tayo estará melhor sem mim. 
-
-Velho-Sábio parou ao lado dela, inclinando a cabeça levemente.
-
-— Tayo não estará mais segura sem você. 
-
-Ela balançou a cabeça, a amargura em sua expressão era palpável.
-
-— Tayo nunca estará segura, Auream. — Sua voz ficou mais firme. — Mesmo com seus muros altos, ela é tão frágil quanto as pessoas que deveriam protegê-la. Eu protegi esta cidade por toda a minha vida, e agora... agora a vejo ser entregue tão facilmente. Vigilantes corruptos, traições dentro de nossas próprias fileiras... Eu não consegui impedir isso. Não consegui proteger meus homens. 
-
-Breno deu um passo à frente. 
-
-— Você não é a única responsável por tudo isso, Erla. — Sua voz era firme, mas carregava uma empatia evidente. — Eu vi do que Korvo é capaz de fazer. Ele desestabiliza a mente das pessoas, faz elas acreditarem em uma ilusão. E usa o medo para manter a lealdade de seus seguidores. Mas ele não tomou Tato. Foi você descobriu seu covil e capturou seus seguidores. Você não falhou. Korvo falhou.
-
-Erla ergueu os olhos lentamente, seus olhos marejados. Por um momento, o corredor silencioso parecia acolher apenas os dois, uma troca silenciosa de força e compreensão. Então, para surpresa de Breno e dos irmãos, um leve sorriso surgiu em seu rosto. Não era amplo, mas o suficiente para mostrar que suas palavras haviam encontrado um lugar. 
-
-— Nosso mundo é muito mais do que Tayo, garotos. Eu renunciar meu cargo, não significa que eu desisti de lutar. 
-
-Breno assentiu, incerto se deveria sorrir ou não. Velho-Sábio então fez um leve gesto com a mão, indicando que era hora de seguirem em frente. Os irmãos se despediram com olhares silenciosos, deixando Erla sozinha no corredor, suas botas ecoando enquanto se afastavam.
-
-Ao saírem da sede, o ar tardio de Tayo era fresco, quase calmante, uma pausa bem-vinda após a tensão da reunião. Eles se encontravam na praça central da cidade, um lugar que antes vibrava com vida e celebração. Agora, no silêncio da noite, a praça apresentava uma atmosfera completamente diferente.
-
-A praça, uma ampla área pavimentada com pedras brancas e detalhes em mármore azul, era adornada por fileiras de árvores alinhadas de maneira impecável, suas folhas brilhando sob a luz mágica das luminárias flutuantes que pairavam acima. No centro, uma grande fonte octogonal jorrava água cintilante, seus jatos se iluminando em tons suaves de dourado e prateado. Em contraste com a última vez que os irmãos estiveram ali — no Festival das Luzes —, a praça agora estava vazia, quase desolada. Não havia barracas coloridas, balões ou multidões de pessoas rindo e conversando. O eco de seus passos ressoava, quebrando o silêncio opressivo. Atrás deles, a imponente torre branca da sede do governo se erguia contra o céu estrelado, seu brilho frio refletido nas superfícies de vidro da cúpula que se localizava atrás dela. 
-
-A praça, que antes fervilhava de energia e alegria, agora parecia um lembrete melancólico da tensão que pairava sobre a cidade. Era como se o próprio coração de Tayo estivesse em espera, aguardando o próximo movimento que definiria seu destino. 
-
-De uma das ruas laterais, surgiram duas figuras familiares: Eshley e Shirley, correndo apressadas, os rostos iluminados pela surpresa e alívio ao avistarem os irmãos
-
-— Lá estão eles! — exclamou Eshley, acelerando o passo. — A cidade inteira está falando sobre o que aconteceu!
-
-Velho-Sábio, percebendo a aproximação das jovens, inclinou-se para os irmãos.
-
-— Vou deixá-los. Encontro vocês na saída da praça. — Ele seguiu em direção à rua principal, desaparecendo momentaneamente.
-
-— Vocês foram incríveis! — acrescentou Shirley, com um brilho nos olhos enquanto olhava para os irmãos. — Foram ao Sepulcro dos Esquecidos, salvaram Beatriz e ainda enfrentaram Korvo… Isso é… é incrível! — então se dirigiu a Banjo — como você está Banjo? 
-
-Banjo, que ainda carregava o peso dos eventos, sorriu timidamente, mas havia um toque de gratidão em seu olhar.
-
-— Poxa, as notícias correm rápido por aqui. Mas estou bem, Shirley. — Ele fez uma pausa, parecendo hesitar, mas então completou: — Foi difícil, mas… acho que a confiança que você teve em mim ajudou muito. Você acreditou que eu podia fazer algo importante... e estava certa.
-
-Shirley corou, seu sorriso largo transformando-se em algo mais contido e doce. Eshley trocou um olhar cúmplice com Shirley antes de intervir:
-
-— Ficamos sabendo que Erick e Nicolas testemunharam a favor de McCroys. Parece que ele vai ser solto logo.
-
-Bruno suspirou profundamente, antes de responder.
-
-— Eu estava enganado sobre ele. E sobre os gêmeos também. Eles realmente estavam sendo recrutados… mas recusaram Korvo. — Sua voz estava cheia de arrependimento.
-
-Shirley franziu o cenho, intrigada.
-
-— Estavam? — perguntou ela, curiosa.
-
-— Sim — explicou Banjo. — Pelo pai do Emiris. Ele era seguidor de Korvo.
-
-Eshley levou a mão à boca, horrorizada, e depois voltou seu olhar para Beatriz.
-
-— E você, Bia? Está bem?
-
-Beatriz tocou o colar que pendia em seu pescoço, seus dedos deslizando suavemente pelo pingente.
-
-— Estou ótima. Isso… isso me ajudou a me sentir segura.
-
-Eshley sorriu calorosamente, observando-a. Mas o momento foi interrompido quando ela notou Velho-Sábio ao longe, esperando pelos irmãos.
-
-— Vocês têm que ir, não é? — perguntou ela, um pouco desapontada. — Vamos combinar de conversar melhor depois. Que tal marcarmos algo na praça Fugosa?
-
-Antes que qualquer um pudesse responder, Banjo soltou um suspiro pesado, as palavras saindo devagar.
-
-— Não vamos voltar, Eshley. — Ele ergueu o olhar, sua expressão carregada de tristeza. — Eles vão nos mandar de volta para a 3ª dimensão.
-
-Shirley parou, piscando rapidamente como se tivesse ouvido errado.
-
-— O quê? — exclamou, sua decepção evidente. — Como assim?
-
-— Precisamos ir — disse Breno, tentando manter o tom firme, mas o peso da despedida era visível.
-
-De repente, Shirley correu para Banjo, seus olhos brilhando com lágrimas. Ela o abraçou com força, batendo levemente em suas costas com pequenos socos.
-
-— Seu idiota! Eu gostava tanto de você. Você era meu melhor amigo. — Sua voz era uma mistura de tristeza e frustração.
-
-Banjo, com os olhos marejados, fechou-os enquanto as palavras dela o atingiam. Ele retribuiu o abraço, sua voz saindo num sussurro quase inaudível.
-
-— Eu vou sentir sua falta. 
-
-Beatriz se aproximou de Eshley e tirou o colar de seu pescoço, segurando-o com cuidado.
-
-— Acho que preciso devolver isso… 
-
-Eshley colocou a mão na frente, interrompendo o gesto.
-
-— Não. Maria pediu para dar a você. É seu agora. — Sua voz era firme, mas havia um calor genuíno em suas palavras.
-
-Beatriz sorriu, relutante, mas colocou o colar de volta em seu pescoço. Ela olhou para Eshley e assentiu, como se um laço invisível tivesse sido fortalecido entre as duas.
-
-As meninas trocaram olhares com os irmãos mais velhos. Shirley, com lágrimas escorrendo pelo rosto, murmurou um "boa sorte" enquanto eles se afastavam. Velho-Sábio já os esperava na saída da praça, e o grupo seguiu, o silêncio preenchendo o espaço deixado pelas despedidas.
-
-A lua começava a surgir no céu de Tayo quando os irmãos chegaram à casa de Velho-Sábio. Assim que cruzaram o portão de entrada, foram recebidos por Coronel. Ele balançava o rabo vigorosamente, como se soubesse que os irmãos precisavam daquele conforto simples e genuíno. Beatriz ajoelhou-se para abraçar o cão, que deu uma lambida afetuosa em seu rosto.
-
-Velho-Sábio abriu a porta, gesticulando para que entrassem. A casa estava silenciosa, iluminada apenas pela luz suave de lâmpadas mágicas que flutuavam no ar. Os irmãos se acomodaram na sala enquanto o mago fechava a porta com um ar pesado. Ele virou-se para eles, os olhos brilhando com uma mistura de sabedoria e tristeza.
-
-— Eu sei que vocês enfrentaram muito, mais do que qualquer um deveria ter enfrentado — começou ele, sua voz carregada de emoção. — Mas, infelizmente, amanhã cedo terão de partir.
-
-O impacto daquelas palavras parecia esmagador. Banjo foi o primeiro a reagir, lágrimas escorrendo por seu rosto enquanto olhava para o mago.
-
-— Eu não acho justo… tirarem isso da gente — Ele engasgou, sem conseguir terminar a frase.
-
-Velho-Sábio aproximou-se, ajoelhando-se ao lado dele e colocando uma mão firme, mas gentil, em seu ombro.
-
-— Banjo, não é um adeus definitivo. — Sua voz era firme, mas cheia de compaixão. — Esta guerra que está prestes a começar... cedo ou tarde, vocês estarão no meio dela. E quando esse momento chegar, sei que vocês estarão prontos. Mas agora, precisam estar seguros. E a segurança de vocês está longe daqui.
-
-Banjo soluçou, mas balançou a cabeça em concordância. Velho-Sábio olhou para os outros irmãos, que permaneciam em silêncio, absorvendo as palavras.
-
-— Existe um protocolo para quando alguém deixa Belfex — continuou ele, o tom mais sério agora. — Seus M.A.s precisariam ser drenados de volta ao Estírio. — Ele fez uma pausa e, então, com um sorrisinho quase conspiratório, acrescentou em um tom baixo: — Mas não vou fazer isso. É mais seguro que vocês mantenham seus poderes. Pode ser que precisem deles.
-
-Os irmãos trocaram olhares, surpresos, mas profundamente gratos. 
-
-Velho-Sábio levantou-se, olhando para eles mais uma vez.
-
-— Descansem esta noite. Amanhã será um novo dia. — Com isso, ele deixou a sala, dando-lhes privacidade.
-
-O silêncio tomou conta do ambiente por alguns momentos até que Beatriz suspirou.
-
-— Parece que vivemos uma vida inteira nesses últimos dias.
-
-Bruno, encostado na parede, soltou uma risada curta.
-
-— Você está certa. Mas é como dizem: não é o tempo que conta, e sim o que você faz com ele. 
-
-Então a voz de Kali surgiu no ar.
-
-— Bruno. Você está bem? — perguntou ela.
-
-Bruno sorriu, tentando aliviar a tensão.
-
-— Estou ótimo, Kali. Por que não estaria? 
-
-— É que fiquei sabendo que você se machucou... fiquei preocupada. — Sua voz era suave, mas sincera.
-
-Bruno colocou a mão no próprio peito e piscou. 
-
-— Olha, nem uma cicatriz. Não precisa se preocupar. Meus irmãos não vão se livrar de mim tão cedo. O que seria deles sem meu humor ácido? Um bando de blocos de concreto. 
-
-— Você é engraçado! — disse a voz de Kali, docemente. 
-
-Os irmãos continuaram conversando, relembrando os eventos recentes, suas conquistas e os sacrifícios que fizeram. Havia um sentimento agridoce na sala, uma mistura de alívio, cansaço e incerteza sobre o que viria a seguir. Mas, pelo menos naquela noite, estavam juntos, e isso era tudo o que importava.
-
-
-
-Na manhã seguinte, os primeiros raios de sol atravessavam as janelas da casa de Velho-Sábio, preenchendo o ambiente com uma luz dourada. Coronel estava deitado perto da porta, observando calmamente enquanto os irmãos se preparavam para a despedida. O silêncio predominava, com apenas os sons suaves das roupas sendo dobradas e os passos hesitantes dos irmãos pelo chão de madeira.
-
-Velho-Sábio os guiou até a saída, sua expressão serena, mas os olhos denunciavam uma tristeza profunda.
-
-— Está na hora, meus jovens. — Sua voz era suave, mas carregada de um peso quase tangível.
-
-Eles seguiram pelas ruas da cidade até a Central de Teletransporte Dimensional, o salão imenso que parecia desafiar as leis da física, com caminhos flutuantes, criaturas aladas passando acima deles, e o brilho prateado dos portais pulsando com energia mágica. Tudo parecia tão vivo, tão surreal, mas deixar aquele lugar tão cedo, era como chegar à porta da Disneyland e descobrir que seu passaporte não é válido.
-
-Velho-Sábio os levou até um dos grandes arcos esculpidos, onde a superfície prateada líquida parecia ondular suavemente, convidando-os a atravessá-la.
-
-Ele se virou para eles, respirando fundo antes de falar:
-
-— Lembrem-se, vocês não têm mais poderes. — Ele enfatizou isso com um olhar significativo.
-
-Os irmãos assentiram, compreendendo o significado por trás de suas palavras. Beatriz, a mais jovem, foi a primeira a reagir, lançando-se nos braços do mago em um abraço apertado.
-
-— Eu vou sentir tanto a sua falta — disse ela, com a voz embargada.
-
-Velho-Sábio sorriu, acariciando o cabelo dela. 
-
-— Eu também vou, pequena Bia. 
-
-Ele olhou para cada um dos irmãos, como se quisesse memorizar seus rostos, e gesticulou para o portal. Breno deu o primeiro passo, seguido por Bruno, Banjo e, finalmente, Beatriz.
-
-Ao atravessarem o portal, sentiram seus corpos sendo esticados, torcidos e comprimidos ao mesmo tempo. Era uma sensação desconfortável, mas breve. Quando abriram os olhos, estavam de volta à sala de sua casa na 3ª dimensão.
-
-O ambiente era familiar e acolhedor. O sofá desgastado, os móveis simples e o som distante de pássaros do lado de fora eram um contraste marcante com a grandiosidade de Tayo. Sentado no sofá, com as mãos cobrindo o rosto, estava Frank. Ele parecia exausto, como se tivesse passado noites sem dormir.
-
-Ao ouvir o som da chegada, Frank levantou o rosto, seus olhos arregalados de surpresa.
-
-— Vocês... vocês estão aqui? — Sua voz estava cheia de incredulidade e alívio.
-
-Os irmãos trocaram olhares antes de Banjo responder, tentando aliviar o clima com um sorriso.
-
-— Estávamos em um dos meus melhores sonhos.
-
-Frank deu um passo à frente, mas suas palavras seguintes congelaram os irmãos no lugar:
-
-— Então me contem... como foi a 4ª dimensão? 
+– Então me contem... como foi a quarta dimensão?

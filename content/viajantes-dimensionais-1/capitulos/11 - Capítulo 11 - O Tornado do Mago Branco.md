@@ -84,7 +84,7 @@ O quarto era diferente do que ele esperava. Era vasto, aconchegante e antigo, co
 
 Ao lado da cama, um cubo prateado de um metro e meio de altura repousava no chão, com linhas brilhantes percorrendo a superfície. Bruno viu seu próprio reflexo ali, distorcido e fragmentado. Estendeu a mão e tocou o metal.
 
-Imagens invadiram a mente dele. Um jovem de uns dezoito anos, caído numa ruína, com os olhos escuros manchados como sombras e um olhar de ódio e dor. Em seguida, Velho-Sábio, mais jovem, flutuando numa noite iluminada por uma energia colossal que ele tentava conter com o cajado, enquanto atrás dele pessoas de rostos assustados buscavam proteção. Depois, um Velho-Sábio dez anos mais jovem do que o que conhecia, num espaço inteiramente branco, com a mão no peito, os olhos fechados, absorvendo uma notícia que mudaria tudo.
+Imagens invadiram a mente dele. Um jovem de uns dezoito anos, caído numa ruína, com um facão de cabo escuro preso ao cinto, os olhos manchados como sombras e um olhar de ódio e dor. Em seguida, Velho-Sábio, mais jovem, flutuando numa noite iluminada por uma energia colossal que ele tentava conter com o cajado, enquanto atrás dele pessoas de rostos assustados buscavam proteção. Depois, um Velho-Sábio dez anos mais jovem do que o que conhecia, num espaço inteiramente branco, com a mão no peito, os olhos fechados, absorvendo uma notícia que mudaria tudo.
 
 Bruno voltou ao quarto com o coração disparado e a cabeça girando. Ao levantar os olhos, viu Velho-Sábio parado à porta, o olhar triste e compreensivo.
 
