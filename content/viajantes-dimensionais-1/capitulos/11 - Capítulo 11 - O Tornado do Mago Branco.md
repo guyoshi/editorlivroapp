@@ -133,7 +133,7 @@ Garmand continuou a lista, e então disse:
 
 Os irmãos ficaram paralisados. Tinham certeza de que Emiris havia sido eliminado. No fundo do salão, o menino de cabelos claros empalideceu e olhou na direção da porta, onde um homem alto, de uniforme cinza da Vigilância, trocou com Garmand um aceno breve, sem sorrir. Emiris baixou os olhos, e as orelhas dele ficaram vermelhas. Os gêmeos Nicolas e Erick foram chamados em seguida, e Bruno apertou os dentes.
 
-– O último desafio será na sexta à noite – concluiu Garmand. – Será o mais difícil de todos. Boa sorte.
+– O último desafio será na sexta à tarde – concluiu Garmand. – Será o mais difícil de todos. Boa sorte.
 
 Os irmãos se abraçaram, rindo e se empurrando, e Banjo quase derrubou uma cadeira. Velho-Sábio os observou do fundo, com um sorriso caloroso que dizia mais do que palavras.
 
@@ -153,7 +153,7 @@ Folhas e plantas se ergueram do chão, girando em espirais lentas. Elas se junta
 
 Banjo sentou-se numa pedra, de olhos arregalados.
 
-– Então uma senante e um velita se apaixonaram – disse o mago, e as folhas formaram dois vultos de mãos dadas. – Tiveram uma filha, Édelin Fils, a primeira senavelita. Nela, o poder dos senantes se misturou à destreza dos velitas. E o nascimento dela deu início a uma grande guerra, a Guerra do Gelo.
+– Então uma senante e um velita se apaixonaram – disse o mago, e as folhas formaram dois vultos de mãos dadas. – Tiveram uma filha, Édelin Lys, a primeira senavelita. Nela, o poder dos senantes se misturou à destreza dos velitas. E o nascimento dela deu início a uma grande guerra, a Guerra do Gelo.
 
 – Que nome ótimo para uma guerra – murmurou Bruno.
 
@@ -169,7 +169,7 @@ Um silêncio profundo caiu sobre as ruínas.
 
 – Nosso mundo? – repetiu Breno.
 
-– Há muito tempo, Breno, os primeiros senantes vieram da Terra. E o estírio guardava um propósito oculto. Aos poucos, ele permitia que os descendentes deles recuperassem a força que os antepassados tinham. Entre esses antepassados, estavam os que chamamos de Primordiais. Magos de uma força única, que viveram junto a Édelin Fils, a Aereplórium, e até ao lendário Primus.
+– Há muito tempo, Breno, os primeiros senantes vieram da Terra. E o estírio guardava um propósito oculto. Aos poucos, ele permitia que os descendentes deles recuperassem a força que os antepassados tinham. Entre esses antepassados, estavam os que chamamos de Primordiais. Magos de uma força única, que viveram junto a Édelin Lys, a Aereplórium, e até ao lendário Primus.
 
 Banjo prendeu a respiração ao ouvir o nome Aereplórium, o mesmo que o mago tinha murmurado quando a pedra subira diante dele.
 

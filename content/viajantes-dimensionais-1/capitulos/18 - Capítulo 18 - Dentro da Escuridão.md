@@ -1,587 +1,371 @@
-Os irmãos seguiram o rio Tidan, acompanhando o som tranquilo da água corrente. O sol começava a desaparecer no horizonte, tingindo o céu com tons de laranja e roxo. O caminho pelo rio era irregular, com pedras escorregadias e trechos cobertos por vegetação rasteira. Eles caminhavam em silêncio, economizando energia e mantendo os ouvidos atentos a qualquer som incomum. 
+Os irmãos seguiram o rio Tidan durante toda a tarde, guiados pelo som manso da água. O sol afundou atrás das colinas, pintando o céu de laranja e roxo, e o caminho foi ficando mais irregular, com pedras escorregadias e vegetação rasteira que agarrava os tornozelos. Ninguém falava. Ricochet dissera que o silêncio seria o melhor amigo deles, e até Bruno, por uma vez, resolveu obedecer.
 
-— A floresta deve estar logo à frente, — disse Breno, olhando para as sombras densas que começavam a surgir no caminho.
+A Floresta de Elthenor começou de repente, como uma parede. As árvores eram altíssimas e retorcidas, com troncos grossos cobertos de musgo e raízes que se enroscavam umas nas outras sobre o chão forrado de folhas ruivas. Pequenos cogumelos brancos brilhavam nas cascas, como lanterninhas esquecidas, e uma neblina rasteira se arrastava entre as samambaias. Pelas frestas da copa dava para ver estrelas.
 
-Banjo, com Farol em seu ombro, chutava pedras distraidamente, tentando ignorar a sensação crescente de inquietação. Bruno seguia logo atrás, resmungando algo sobre como "essa aventura deveria incluir um descanso permanente em alguma cama confortável."
+– A gente dorme aqui – decidiu Breno, parando junto ao rio. – Sem fogueira. O Ricochet disse para não chamar atenção.
 
-Quando finalmente alcançaram a entrada da floresta, decidiram parar para descansar. As árvores altas e retorcidas formavam um teto natural, bloqueando grande parte do céu estrelado. A luz das estrelas que conseguia atravessar era refletida nos olhos brilhantes de Farol, que parecia ainda mais inquieto do que Banjo.
+– Dormir escondido, ele disse – resmungou Bruno, deitando-se de lado entre duas raízes. – Isso aqui não é exatamente escondido. É uma floresta de filme de terror.
 
-Breno montou uma pequena fogueira usando galhos secos, enquanto Bruno pegava algumas frutas de um arbusto próximo. Banjo ajudou a juntar mais madeira, mas não conseguia tirar os olhos das árvores à sua volta. Havia algo estranho naquela floresta; o ar parecia mais pesado, e os galhos das árvores pareciam se mover, mesmo sem vento.
+– Tenta descansar.
 
-Após uma refeição rápida, eles se acomodaram ao lado da fogueira. Breno insistiu em apagar as chamas antes de dormirem, lembrando do aviso de Ricochet sobre não atrair atenção indesejada.
+– Eu estou tentando. A floresta é que não colabora.
 
-— Amanhã cedo seguimos adiante — disse Breno, ajeitando-se contra o tronco de uma árvore.
+Em poucos minutos, os dois mais velhos dormiam. Banjo não conseguia. Farol, aninhado no colarinho dele, estava inquieto, com as orelhas enormes viradas para trás e a cauda apagada. Era a primeira vez que Banjo via o petrisco sem brilho nenhum. Ele não gostava daquele sinal.
 
-— Dormir escondidos, ele disse — murmurou Bruno, deitando-se de lado. — Isso não parece muito escondido.
+Foi então que ouviu.
 
-— Só tenta descansar, Bruno — respondeu Breno, sem paciência.
+Uma voz baixa, quase um sussurro de vento. Vinha das árvores. Banjo se sentou, de olhos arregalados.
 
-Logo, os dois adormeceram, deixando Banjo acordado, mexendo-se desconfortavelmente no lugar. Ele olhava para a escuridão ao redor, tentando ignorar a sensação crescente de que não estavam sozinhos. Então, ouviu.
+– Quem está aí?
 
-Uma voz. Baixa, sussurrada, como um vento murmurando segredos. Banjo olhou ao redor, confuso.
+Silêncio. Ele se deitou de novo, fechou os olhos, e a voz voltou, mais clara. Não era humana. Parecia uma canção muito antiga, quase cantada, e cada sílaba soava como folha roçando em folha. Banjo se levantou sem fazer barulho e seguiu o som, passando entre troncos que pareciam se inclinar sobre ele.
 
-— Quem está aí? — sussurrou ele, mas a única resposta foi um silêncio opressor.
+A voz parou. Outra surgiu, mais grave, vinda do fundo de uma árvore enorme e torta, de raízes como garras e um tronco que se enrolava em si mesmo. As reentrâncias da casca formavam um rosto, com dois buracos fundos no lugar dos olhos. Banjo esperava um monstro. Mas os olhos, apesar de serem de madeira, pareciam muito assustados.
 
-Ele tentou ignorar, fechando os olhos e respirando fundo, mas a voz voltou. Desta vez, mais clara. Não era uma voz humana, mas parecia cantar, quase em um tom hipnotizante. Banjo abriu os olhos, o coração batendo rápido. Ele se levantou, cuidadosamente, para não acordar os irmãos, e seguiu o som.
+– Eles estão aqui – sussurrou a árvore, com um tremor que fazia as folhas se agitarem. – Sentem o cheiro... as bestas cinzentas...
 
-As árvores pareciam se inclinar sobre ele enquanto caminhava, os galhos formando arcos grotescos acima de sua cabeça. A voz continuava, chamando-o suavemente, mas cada palavra parecia carregada de algo misterioso. Então, ela parou. Banjo parou também, os olhos arregalados, tentando entender o que estava acontecendo.
+– As... bestas?
 
-Uma nova voz emergiu das sombras, mais grave e próxima, fazendo os pelos da nuca de Banjo se arrepiarem. Ele se virou devagar, sentindo o coração pulsar nos ouvidos, e seus olhos se fixaram em uma grande árvore retorcida. Suas raízes se estendiam como garras que pareciam prontas para arrancar o solo, enquanto o tronco sinuoso era envolto por sombras que dançavam como se tivessem vida própria.
+– Vocês não deviam estar aqui, pequeno. Eles saíram para a caça. Sentem o medo de longe. Estão indo atrás dos outros dois.
 
-A voz, que parecia vir do fundo daquela árvore, sussurrou com um tom arrastado e maligno, cada sílaba parecendo escorrer como veneno.
+Banjo não esperou mais. Girou nos calcanhares e correu, tropeçando em raízes, com a floresta inteira parecendo se fechar em um túnel escuro. Atrás dele, folhas farfalhavam e algo pesado se movia. Ao chegar ao acampamento, sacudiu Bruno com as duas mãos.
 
-— Eles estão aqui... sentem o cheiro... as bestas cinzentas...
+– Acorda! Acorda, Bruno!
 
-Banjo deu um passo hesitante para trás, tentando controlar a respiração, que agora vinha em curtos arquejos. Ele piscou rapidamente, tentando entender o que estava vendo. As reentrâncias do tronco da árvore pareciam formar um rosto grotesco, com dois "olhos" afundados que brilhavam fracamente sob a luz filtrada da lua. Apesar de inanimados, aqueles olhos transmitiam algo quase humano... e se Banjo pudesse interpretar a expressão, ela era de puro medo.
+– Banjo... foi um pesadelo, né? Foi um pesadelo – murmurou Bruno, tentando afastá-lo.
 
-A voz continuou, mais baixa, mas com uma urgência que gelou o sangue de Banjo.
+Um rugido profundo e visceral cortou a noite, vindo de todos os lados ao mesmo tempo. O chão vibrou. Bruno se sentou de uma vez. Breno já estava de pé.
 
-— Vocês não deveriam estar aqui, pequeno... — A voz pareceu tremer, como se a própria árvore estivesse aterrorizada. — Eles estão vindo... sentem o medo... saíram para a caça... estão a caminho dos outros dois.
+– Eu ouvi a árvore! – sussurrou Banjo. – Ela disse que eles estão vindo!
 
-As palavras finais atravessaram Banjo como uma lâmina fria. Ele não pensou duas vezes. Girou nos calcanhares e correu, o pânico tomando conta de seus sentidos. A floresta, antes opressivamente silenciosa, parecia ganhar vida à medida que ele se afastava. O som de folhas farfalhando, galhos quebrando e algo pesado movendo-se nas sombras o seguia de perto. Ele tropeçou em uma raiz elevada, quase caindo, mas não parou. As árvores ao seu redor pareciam se fechar, formando um túnel escuro e sufocante.
+Outro rugido, mais perto. Depois, o estalo seco de galhos quebrando sob um peso enorme.
 
-Quando finalmente avistou o acampamento, seus irmãos ainda estavam deitados. Ele correu até Bruno, sacudindo-o com força.
+– Fiquem juntos – disse Breno, baixo. – Sem barulho.
 
-— Acorda! Bruno, acorda! — sussurrou ele, a voz trêmula e quase sem fôlego.
+A floresta, antes imóvel, tinha ficado viva. Passos surdos e espaçados se aproximavam, e Bruno apertou o braço de Banjo.
 
-Bruno abriu os olhos devagar, com uma expressão irritada.
+– Está sentindo o chão tremer?
 
-— Banjo, o que foi agora? Você teve um pesadelo, é isso? — murmurou, tentando afastar a mão de Banjo.
+Farol, no colarinho de Banjo, soltou um som minúsculo, como um aviso. Então um rosnado baixo e gutural brotou do escuro, e a lua, filtrada pelas folhas, mostrou o vulto.
 
-Antes que pudesse terminar a frase, um rugido profundo e visceral ecoou pela floresta. Era um som primordial, cheio de força e ameaça, que parecia vir de todos os lados ao mesmo tempo. A vibração passou pelo chão, e Bruno imediatamente se sentou, os olhos arregalados.
+Era uma criatura enorme, de ombros musculosos e braços grossos, que se apoiava nas quatro patas de garras escuras e curvas como foices. A pele era cinzenta, lisa, sem um único pelo, e dobrada em rugas profundas, como a de uma baleia fora d'água. A cabeça era comprida e romba, terminando num focinho achatado que se abria numa boca fina cheia de dentes afiados. Não tinha olhos. Só duas pregas de pele onde deveriam estar as orelhas, que giravam de um lado para o outro, captando cada respiração.
 
-Breno, já em alerta, se levantou rapidamente.
+– O téorix – sussurrou Bruno, sem fôlego. – O Ricochet falou dele.
 
-— O que foi isso? — perguntou Breno, os olhos percorrendo a escuridão ao redor.
+A cabeça se ergueu, farejou o ar, e a criatura se lançou sobre eles com uma velocidade que não combinava com o tamanho. Breno entrou na frente dos irmãos e virou metal, com o zumbido grave que fazia quando se transformava, mas não a tempo de evitar o impacto. Os dentes rasparam o corpo metálico com um guincho de arrepiar, e o téorix o ergueu e o arremessou contra uma árvore.
 
-Banjo apontou para a direção de onde viera, com a mão trêmula.
+Banjo e Bruno correram para ele. Bruno estendeu uma mão, e o ar ao redor tilintou, frio, como gelo batendo em cristal: um muro translúcido se ergueu entre eles e a criatura. Por um instante, só se ouvia a respiração dos três. Através do gelo, o vulto cinzento rondava, as garras arranhando a superfície, procurando um jeito de contornar.
 
-— Eu avisei! Eu ouvi... algo... e a árvore... ela falou comigo! — Banjo começou a falar, mas outro rugido interrompeu suas palavras, desta vez mais próximo, seguido de um som seco de galhos sendo quebrados e algo pesado movendo-se entre as árvores.
+– Corram! – gritou Breno.
 
-Breno estreitou os olhos, puxando os irmãos para junto dele, tentando esconder sua própria apreensão.
+Correram. Atrás deles, o muro rachou. Na frente, outros vultos cinzentos se moviam entre os troncos, de forma coordenada, tentando fechar um cerco. Banjo olhou para um lado e para o outro, ofegante, e tropeçou numa raiz. Quando se levantou, estava sozinho.
 
-— Fiquem juntos — Sua voz era firme, mas baixa, como se temesse que qualquer som pudesse atrair o que estivesse lá fora.
+O coração martelava. Os passos pesados vinham de todas as direções. A poucos metros, uma cabeça comprida se inclinou na direção dele, farejando, e Farol, sem pensar, acendeu todo o seu corpo, num clarão dourado.
 
-A floresta, antes imóvel e silenciosa, agora parecia viva. O farfalhar das folhas era acompanhado por estalos de madeira, como se algo grande e pesado se movesse entre os troncos. Passos surdos, espaçados e lentos ecoavam ao longe, mas ficavam cada vez mais próximos.
+Nada aconteceu. O téorix nem virou o rosto para a luz. Claro, pensou Banjo, num lampejo, ele não tem olhos. O brilho só mostrava onde estavam. Apertou Farol contra o peito, e o petrisco entendeu na hora: apagou-se, e ficou duro, quieto, escondido na dobra da jaqueta.
 
-— Bestas cinzentas... a árvore disse... — murmurou Banjo, a voz fraca e trêmula enquanto agarrava o braço de Breno com força.
+O hálito quente e podre do téorix passou pelo rosto de Banjo. A boca se abriu, cheia de dentes brilhantes. Banjo virou o rosto, e seus olhos caíram sobre uma pedrinha no chão. Concentrou-se com todas as forças. A pedra se levantou, tremendo, e voou alguns metros adiante, caindo com força sobre uma pilha de folhas secas. O barulho foi suficiente. A cabeça cinzenta girou, e o monstro foi atrás do som.
 
-— Banjo, para com isso. Tá me assustando mais do que esses sons — disse Bruno, embora sua tentativa de parecer confiante não conseguisse esconder o nervosismo em sua voz.
+Banjo correu. Quando já achava que nunca mais veria os irmãos, braços fortes o agarraram, e ele quase gritou.
 
-Breno, atento, colocou o dedo nos lábios, pedindo silêncio. Ele fixava os olhos na escuridão entre as árvores, tentando decifrar o que estava ali. O vento parecia ter parado, e o ar estava tão imóvel que até mesmo a respiração dos irmãos soava alta.
+– Sou eu! Sou eu! – sussurrou Breno, abraçando-o rapidamente. Bruno estava ao lado dele, branco de susto.
 
-Outro estalo de madeira, mais próximo dessa vez. Era como se algo muito grande estivesse esmagando galhos e troncos no caminho. A cada som, o trio se encolhia um pouco mais.
+Mal tiveram tempo de respirar. Outro rugido ecoou, e eles correram até dar de frente com uma parede de rocha, alta, irregular, impossível de escalar. Eram três contra a montanha. Os téorixes vinham logo atrás, chegando devagar à borda da clareira, de corpos tensos, as orelhas girando.
 
-— Vocês sentiram isso? — sussurrou Bruno, olhando ao redor. — Parece que o chão tá... vibrando.
+– Talvez eles estejam com medo – disse Banjo, desesperado. – Talvez a gente possa conversar!
 
-Banjo segurou Farol, que brilhava fraco em seu ombro, como se estivesse tentando se esconder. O pequeno animal soltou um som baixo, quase um aviso. Banjo engoliu seco.
+Breno o olhou como se ele tivesse sugerido jogar xadrez com uma avalanche, mas Banjo já tinha dado um passo à frente.
 
-De repente, um som novo surgiu. Não era o farfalhar ou os estalos de madeira. Era um rosnado baixo e gutural, que fazia o chão parecer vibrar ainda mais. Os irmãos congelaram, seus olhos tentando vasculhar a escuridão.
+– P-por favor – gaguejou. – A gente não quer briga. Só quer passar.
 
-A luz fraca da lua filtrada pelas folhas revelou o vulto de uma criatura alta, musculosa e coberta por uma pele cinzenta sem pelos. Parecia uma mistura grotesca de cão e urso, mas sem olhos. A cabeça longa e cheia de dentes afiados se movia como se estivesse farejando o ar, sentindo o cheiro de suas presas.
+O maior téorix inclinou a cabeça. Banjo ouviu, no fundo da mente, o que a criatura pensava. Não eram palavras. Era uma coisa só, enorme, vazia e quente: fome.
 
-Os irmãos congelaram.
+– Banjo, isso não está funcionando! – alertou Bruno.
 
-— Meu Deus... é o Téorix que Ricochet mencionou. — murmurou Bruno, a voz mal saindo.
+Breno enfiou a mão no bolso, tateou o saquinho de gemas e parou. A verde. Era a única que calava tudo, a única que teria resolvido aquilo. E ela tinha virado pó numa tarde qualquer, por pura curiosidade.
 
-O Téorix ergueu a cabeça, e soltou mais um rugido profundo, virando-se contra contra os garotos com uma velocidade assustadora.
+– Aquela que eu precisava, eu gastei – murmurou, sentindo o estômago afundar.
 
-Breno, em um reflexo desesperado, entrou na frente dos irmãos, transformou-se em metal, mas não foi rápido o suficiente para evitar o impacto. A criatura o atingiu com força, seus dentes afundando na superfície metálica, emitindo um som estridente de ranger. Breno gritou em dor, sentindo a pressão esmagadora, mesmo em sua forma endurecida. O Téorix o ergueu e o arremessou com brutalidade contra uma árvore próxima.
+– Breno... – começou Bruno.
 
-Banjo e Bruno correram até ele. Banjo ajudou a levantá-lo, enquanto Bruno estendeu uma mão trêmula e conjurou um muro de gelo com um movimento rápido. O muro ergueu-se alto, criando uma barreira entre eles e a criatura. Por um momento, tudo ficou quieto, exceto o som ofegante dos irmãos.
+– Eu sei. Eu sei.
 
-Então, através do gelo translúcido, o vulto do Téorix ficou visível. Ele rosnava baixo, rondando o muro, suas garras arranhando a superfície congelada enquanto tentava encontrar uma maneira de contorná-lo.
+Não era hora de testar uma pedra no escuro, sem saber se ia ajudar ou piorar. Ele precisava de outra ideia, e rápido. E o conselho do Ricochet voltou à mente: o silêncio é o seu melhor amigo.
 
-— Corram! — gritou Breno, puxando os irmãos.
+– Parem – sussurrou, tão baixo que quase não se ouvia. – Parem de respirar alto. Eles não enxergam. Eles seguem o som.
 
-Eles dispararam pela floresta, o som de galhos quebrando e folhas esmagadas ecoando ao redor. Mas a sensação de estarem sendo perseguidos não diminuía. As sombras ao redor pareciam se mover, e não demorou para que outros vultos cinzentos surgissem entre as árvores, movendo-se de forma coordenada, cercando-os.
+Os três se encolheram contra a rocha, de mãos na boca. Os téorixes avançaram, as orelhas girando, farejando. Um passou a menos de dois metros. Banjo sentia o próprio coração como um tambor que todo mundo podia escutar. Farol, escondido, nem tremia.
 
-Banjo olhou para os lados, ofegante, tentando acompanhar os irmãos. Mas em meio à correria e à escuridão, ele tropeçou em uma raiz e caiu. Quando se levantou, percebeu que os outros haviam desaparecido. Estava sozinho.
+– Banjo – articulou Breno, só com os lábios. – A pedrinha.
 
-Seu coração martelava no peito enquanto ele girava em seu lugar, os olhos vasculhando a escuridão. O som dos passos pesados e rosnados baixos estava por toda parte. Então, um movimento chamou sua atenção. A poucos metros de distância, uma criatura emergiu lentamente, sua cabeça longa inclinando-se em sua direção. Banjo prendeu a respiração enquanto ela avançava, farejando o ar.
+Banjo entendeu. Fechou os olhos. Uma pedra se soltou do chão, subiu, e foi parar bem longe, do lado oposto da clareira, batendo numa árvore. Os téorixes viraram todas as cabeças ao mesmo tempo e saíram numa corrida desengonçada na direção do barulho. Uma segunda pedra, uma terceira, e o bando inteiro se afastou, rosnando.
 
-Farol, que sempre ficava em seu ombro, mergulhou em suas vestes, tremendo de medo. Banjo tentou se mover para trás, mas o Téorix já estava muito próximo. A boca da criatura abriu-se, revelando dentes brilhantes e afiados. O hálito quente e pútrido atingiu Banjo como uma onda. Seu rosto virou lateralmente para evitar a visão da besta e seus olhos se encontraram com uma pequena pedra no chão. Banjo concentrou-se e, com dificuldades, o fez levitar alguns metros mais à frente e o jogou com força contra uma pilha de folhas secas. O som foi suficiente para atrair a atenção da criatura. O Téorix virou a cabeça abruptamente, para seguir para uma nova direção.
+– Agora – sussurrou Breno.
 
-Banjo, suado e ofegante, aproveitou a oportunidade para correr. Seus pés mal tocavam o chão enquanto ele se movia na direção em que havia visto os irmãos pela última vez. Após alguns minutos de desespero, ele foi capturado pelos braços de Breno, levando um susto. Ele e Bruno estavam igualmente apavorados, mas aliviados ao vê-lo.
+Contornaram a parede de rocha na ponta dos pés, passo por passo, até que o som do rio voltou a dominar tudo. Só então correram. Correram até os pulmões arderem, e se encostaram em árvores, ofegantes, sujos de terra e de suor.
 
-— Você tá bem? — perguntou Breno, puxando Banjo para um abraço rápido.
+– Nunca mais, Banjo – disse Bruno, passando a mão no rosto. – Nunca mais tente negociar com um monstro.
 
-Antes que pudessem responder, outro rugido ecoou. Eles continuaram correndo até que o caminho os levou a uma parede montanhosa em uma clareira. Era alta, irregular e impossível de escalar.
+– Eu só pensei que...
 
-— Não! — murmurou Bruno, olhando ao redor em pânico.
+– Falar com bicho não significa que dá pra conversar com qualquer coisa que só quer comer a gente – disse Breno. – Agora precisamos de um esconderijo. Rápido.
 
-Os Téorixes estavam se aproximando, os sons de seus passos pesados e rosnados guturais cada vez mais próximos.
+Seguiram a margem do rio, olhando para trás a cada galho que estalava, até que, depois de minutos que pareceram horas, viram uma abertura entre as pedras da montanha, escondida atrás de um véu de samambaias.
 
-— Talvez... talvez eles só estejam com medo. Talvez a gente possa falar com eles! — disse Banjo, desesperado.
+– Ali!
 
-Breno olhou para ele incrédulo, mas não disse nada. 
+Entraram agachados, a entrada estreita engolindo as sombras deles. Lá fora, passos pesados se aproximavam, e uma das criaturas tentou forçar a passagem. Uma pata enorme, de garras escuras, atravessou a abertura, arranhando as paredes de pedra e soltando lascas. Farol, tremendo, soltou um guincho baixo.
 
-Os Téorixes pararam na borda da clareira, seus corpos musculosos tensos. O maior deles rosnou, inclinando a cabeça para Banjo como se estivesse estudando-o.
+– Eles não passam – murmurou Bruno, sem muita certeza.
 
-— P-por fa-favor, a gente não qu-quer briga. Nós só-só que-queremos passar — gaguejou Banjo, tentando soar confiante.
+– E a gente não sai – respondeu Breno.
 
-As criaturas não responderam. O maior avançou um passo, mostrando os dentes brilhantes e afiados.
+Recuaram para dentro. O petrisco voltou a se acender, aos poucos, iluminando as paredes úmidas, e a temperatura despencou. O som do rio sumiu, trocado por um silêncio denso.
 
-— Banjo, isso não vai funcionar! — alertou Bruno
+– A gente espera aqui até o amanhecer – disse Breno, sentando numa pedra plana.
 
-Breno enquanto tocava nas vestes, sentiu o peso das gemas no bolso e, sem hesitar, puxou-as para si e segurou a gema verde. Era a única ideia que tinha. Quando um dos Téorixes avançou, ele esmagou a gema no chão.
+Banjo se virou para dizer que ia procurar um canto melhor e deu um passo em falso. O chão cedeu sob os pés dele, e ele deslizou pela fenda estreita, gritando.
 
-Imediatamente, um silêncio absoluto envolveu o grupo. Todos os sons desapareceram — as respirações ofegantes, os rosnados, até mesmo o som de folhas ao vento. Os Téorixes, confusos, pararam de repente. Sem seus sentidos auditivos para guiá-los, começaram a se mover de forma errática, farejando o ar desesperadamente.
+– Banjo!
 
-Breno fez um gesto para os irmãos, indicando que deviam se mover. Lentamente, eles começaram a contornar a parede montanhosa, aproveitando o silêncio para passar despercebidos. O silêncio finalmente se quebrou quando estavam longe o suficiente, e os sons da floresta voltaram gradualmente.
+Bruno chegou à borda e olhou. Lá embaixo, Banjo estava sentado, inteiro, assustado.
 
-Os irmãos só pararam de correr quando seus pulmões não suportaram mais o esforço. Ofegantes, se apoiaram contra as árvores próximas, com o som do rio ao fundo, tentando acalmar as batidas frenéticas de seus corações. Suas roupas estavam sujas de terra e suor, e os olhares assustados demonstravam que o pavor daquela noite ainda os acompanhava.
+– Eu tô bem! Eu acho!
 
-— Nunca mais, Banjo. Nunca mais tenta negociar com um monstro — disse Bruno, passando a mão no rosto e olhando severamente para o irmão mais novo.
+Farol soltou um brilho suave e iluminou o que havia lá embaixo: uma sala imensa, de paredes cobertas por musgo fosforescente que brilhava em tons de verde. Pilares de pedra se erguiam do chão como estalagmites deformadas, o teto era uma abóbada alta, salpicada de pequenos cristais como estrelas, e tudo tinha o ar de uma catedral antiga, esquecida. Breno e Bruno escorregaram pela fenda, e aterrissaram ao lado dele.
 
-Banjo abriu a boca, mas a voz saiu hesitante.
+– Por que você sempre arranja um jeito de se meter em confusão? – reclamou Breno.
 
-— Eu só... pensei que...
+– O que será que tem mais pra frente? – perguntou Banjo, já seguindo, com Farol no ombro.
 
-— Não tem o que pensar. Falar com os animais não significa que você pode negociar com algo que só quer matar — interrompeu Breno, ainda em alerta. — Agora precisamos achar um lugar seguro. E rápido.
+– Banjo, volta aqui!
 
-Os irmãos seguiram pela margem do rio, seus passos rápidos ecoando entre as árvores. A cada som atrás deles — um galho quebrando, um farfalhar de folhas — eles se viravam bruscamente, o medo pulsando no ar como uma presença viva. Finalmente, após alguns minutos que pareceram horas, avistaram a entrada de uma caverna escondida entre as pedras da montanha.
+– Sem ele a gente fica sem luz – observou Bruno, dando de ombros e indo atrás. – Além disso, não custa nada explorar uma cavernazinha.
 
-— Ali! Vamos! — sussurrou Breno, liderando o grupo.
+– Uma caverna numa dimensão que tem gente minúscula e urso gigante cego querendo nos comer! – Breno apertou o rosto com as mãos. – Por que eu sou o único lúcido aqui?
 
-Os três entraram rapidamente, suas sombras sendo engolidas pela escuridão da gruta. A abertura era estreita, forçando-os a se abaixarem enquanto avançavam. Do lado de fora, o som de passos pesados e respirações ruidosas se aproximava. Os Téorixes os seguiam.
+Andaram devagar, admirando as paredes. Banjo passou os dedos pelos cristais do teto. De repente, Farol saltou do ombro dele e disparou pela caverna, brilhando mais forte do que nunca.
 
-Um rosnado profundo ecoou pelo corredor da caverna, e uma das criaturas tentou forçar entrada. Suas garras enormes se estenderam pela abertura, arranhando as paredes de pedra em uma tentativa desesperada de alcançá-los. Farol, ainda escondido nas roupas de Banjo, soltou um guincho baixo, claramente apavorado. Os irmãos recuaram ainda mais, pressionando-se contra as paredes da gruta.
+– Farol! Volta!
 
-— Eles não conseguem passar — murmurou Bruno, embora sua voz tremesse. 
+Banjo correu atrás dele, por um corredor, depois outro, até encontrar o petrisco encolhido junto a uma pedra, tremendo. Pegou-o no colo.
 
-— E nem a gente pode sair — respondeu Breno, observando a criatura enquanto ela rosnava furiosamente, suas garras arranhando a pedra com força suficiente para arrancar lascas.
+– Calma, pequenino. O que foi?
 
-Os irmãos desceram mais fundo na caverna, com o pequeno Farol iluminando as paredes de pedra úmida. A temperatura caiu, e o som do rio lá fora foi substituído por um silêncio opressor, quebrado apenas por suas respirações.
+Só então olhou para trás. Os irmãos não estavam lá.
 
-— Vamos descansar aqui até o amanhecer, — disse Breno, se sentando em uma pedra plana. — É mais seguro do que lá fora.
+– Breno? Bruno? – O eco devolveu a voz dele, fina. – Viu o que você fez, Farol? Agora estamos perdidos.
 
-Bruno e Banjo concordaram, exaustos. Eles improvisaram um espaço para se sentarem, mas o chão era duro e frio, tornando o descanso desconfortável. Apesar disso, a adrenalina em seus corpos finalmente começou a diminuir. O chão irregular de pedra era coberto por uma fina camada de poeira, e o ar carregava o cheiro de terra antiga.
+Um som estranho veio do escuro. Farol se escondeu dentro da jaqueta. Banjo girou, e algo grande e peludo saiu das sombras sem fazer barulho nenhum: uma aranha do tamanho de um lobo, de corpo marrom-escuro e felpudo, patas longas com pontas em gancho, e uma fileira de olhos dourados que brilhavam como lanternas. Dois deles eram enormes, redondos, e olhavam fixo para ele.
 
-Banjo se virou para chamar os irmãos, mas deu um passo em falso. Seus pés escorregaram e Banjo soltou um grito enquanto deslizava por uma fenda estreita.
+Banjo gritou e correu. O corredor se estreitou, as garras estalaram na pedra atrás dele, e uma curva o levou direto a uma parede. Sem saída. Ele se virou, de costas para a pedra, e a aranha avançou, inclinando a cabeça como quem observa uma coisa nova. Abriu a boca, e ele viu pequenas presas.
 
-— Banjo! — gritou Breno, pulando em pé.
+– Por favor, não – sussurrou Banjo, apertando Farol contra o peito. – Não me devore...
 
-Bruno correu até a borda da fenda e olhou para baixo. Banjo estava no fundo, aparentemente ileso, mas visivelmente assustado.
+A aranha parou. Inclinou a cabeça de novo. E, de repente, soltou um chiado que se transformou em gargalhada. Rolou de barriga para cima, as patas se agitando no ar, rindo sem conseguir parar.
 
-— Eu tô bem! Eu acho... — disse Banjo, tentando se levantar.
+– Você... correndo! – conseguiu dizer, entre risos, numa vozinha clara e quase infantil. – Foi a coisa mais engraçada que eu já vi na vida!
 
-Farol, em sua jaqueta, soltou um brilho suave, iluminando a nova seção da caverna. As paredes aqui eram diferentes, cobertas de musgo fosforescente que brilhava fracamente em tons de verde. Pilares de pedra naturais se erguiam do chão como estalagmites deformadas, dando ao lugar uma aparência de catedral antiga e esquecida.
+Banjo ficou imóvel, de boca aberta. Nunca tinha visto nada tão aterrorizante se comportar de modo tão descontraído.
 
-— Que lugar é esse? — murmurou Banjo, olhando ao redor.
+– Você está rindo de mim?
 
-Breno e Bruno escorregaram pela mesma fenda, aterrissando com um baque ao lado de Banjo.
+– Claro que estou! Você parecia um passarinho tentando fugir de um vendaval! – A aranha se endireitou, enxugando um olho com a ponta de uma pata. – Eu sou a Faka. Uma aracna, óbvio. E você? Um humano pequenininho que se perdeu?
 
-— Por que você sempre acha um jeito de se meter em confusão? — reclamou Breno, espanando a sujeira de suas roupas.
+– Banjo. – Ele engoliu em seco. – Eu estou procurando os meus irmãos. Você viu dois garotos?
 
-— O que será que tem lá na frente? — perguntou Banjo, seguindo com Farol.
+Faka inclinou a cabeça, pensando.
 
-— Ei, Banjo, volte aqui! — pediu Breno. 
+– Hum. Se foram pegos pelas minhas irmãs, então devem estar com a rainha Lanigiah. Dependendo do humor dela, vira banquete.
 
-Mas Banjo não obedeceu. 
+– Banquete?
 
-—  Olha, sem ele, não temos luz. Então irmão, acho que vou com ele —  disse Bruno —  além disso, não custa nada explorar uma caverninha — disse Bruno com um sorriso travesso, ignorando o olhar repreensivo de Breno.
+– Se ela gostar deles, talvez deixe viver. Se não gostar... – Faka arregalou os oito olhos, animada, como se falasse de uma festa. – Aí ela devora.
 
-— Não custa nada! Uma caverna em outra dimensão. Uma dimensão onde há homenzinhos pequenos e ursos gigantes e cegos que nos caçam — resmungou Breno — por que eu tenho que ser o único lúcido aqui? 
+– O quê?! – O pânico voltou à voz de Banjo. – Você tem que me levar até ela!
 
-Eles começaram a andar lentamente, admirando o espaço ao redor. O teto da caverna era alto, pontilhado por pequenos cristais brilhantes que pareciam estrelas no céu. Banjo não pôde conter a curiosidade, passando os dedos por uma das formações.
+Os olhos dourados piscaram, um depois do outro. Ela sorriu, e o sorriso era ao mesmo tempo gentil e meio assustador.
 
-De repente, Farol saltou de sua jaqueta e correu para frente, emitindo um brilho mais forte do que o normal.
+– Quer mesmo? Pode virar banquete também.
 
-— Farol! Ei, volta aqui! — gritou Banjo, disparando atrás do pequeno animal.
+– Eu faço qualquer coisa para salvar meus irmãos. Por favor, Faka.
 
-Banjo seguiu pela caverna, correndo, até que encontrou Farol perto de uma formação rochosa, tremendo. Ele o pegou gentilmente, murmurando para acalmá-lo.
+Farol espiou pela gola da jaqueta, ainda desconfiado. Faka se aproximou, com ar de curiosidade infinita.
 
-— Tá tudo bem, pequenino. O que foi?
+– Que lindo! Uma luz que anda! Posso...?
 
-Quando se virou, percebeu que seus irmãos não estavam ali. Ele olhou ao redor, sentindo o pânico subir.
+Farol soltou uma faísca bem pequena, de aviso, e Faka deu um pulinho para trás, encantada, rindo. O petrisco, depois de pensar um instante, soltou outra faisquinha, mais amigável. Pareceu um acordo.
 
-— Breno? Bruno? — sua voz ecoou pela caverna. O eco de sua própria voz era a única resposta. — Viu o que você fez, Farol? Fez a gente se separar. 
+– Tudo bem, passarinho – disse Faka, dando um salto leve para trás. – Eu levo você. Vem comigo.
 
-Banjo começou a andar, sua respiração ficando mais rápida. Então ele ouviu um som estranho de algum lugar. Farol se escondeu em suas vestes, e ao virar-se para trás, uma figura grande e esguia emergiu das sombras. Era uma aranha do tamanho de um lobo, com olhos múltiplos brilhando como lanternas. Suas pernas longas e cobertas de pelos tocavam o chão com precisão, movendo-se de forma assustadoramente silenciosa.
+Banjo forçou um sorriso. Alguém costumava chamá-lo daquele jeito, e ouvir isso de uma aranha foi estranho e, por algum motivo, um pouco bom. Ajeitou Farol no ombro e seguiu Faka, rezando para que ela fosse aliada, e não só mais uma armadilha na caverna.
 
-Banjo grita e imediatamente corre através dos corredores estreitos da caverna, suas botas ecoando em cada passo enquanto o som das patas da aranha o seguia de perto. Ele podia ouvir o clique de suas mandíbulas e o arranhar das garras na pedra, cada vez mais perto. O brilho de Farol tremulava em seu peito, iluminando apenas o suficiente para mostrar o caminho adiante, mas também revelando o vulto da criatura na escuridão atrás dele.
+O corredor era úmido e cheirava a teia, um cheiro metálico e doce. Gotas pingavam das estalactites num ritmo constante, e a cada curva apareciam mais fios prateados, formando cortinas que tremiam ao menor ar. Cogumelos de um verde-azulado brilhavam entre as pedras. Faka ia na frente, saltitando, e a luz de Farol arrancava reflexos de cada fio.
 
-O túnel começou a se estreitar, e Banjo sentiu o pânico crescer. Ele virou uma última curva e deu de cara com uma parede de pedra. Sem saída.
+– Estamos quase – disse ela, baixando a voz. – Seja respeitoso.
 
-— Ah, não... não, não, não... — murmurou Banjo, girando para encarar a criatura que se aproximava.
+O corredor terminou de repente, e Banjo parou, sem ar.
 
-A aranha emergiu da escuridão, seus múltiplos olhos brilhando como lanternas. Suas patas longas e articuladas batiam contra a pedra com precisão assustadora. Ela inclinou a cabeça para ele, como se estivesse curiosa, antes de abrir suas mandíbulas com um clique assustador. Banjo recuou contra a parede, segurando Farol com força.
+Era uma câmara imensa, com um teto perdido no escuro e paredes que subiam em arcos, como as ruínas de um palácio antigo, cobertas de teias que brilhavam em prateado. No centro havia um altar de pedra preta, de degraus largos, também envolto em teia, que parecia pulsar. Entre os arcos, centenas de aracnas se moviam, algumas do tamanho de cavalos, e o som das patas delas sobre a pedra formava um tamborilar baixo e sem fim. Os olhos refletiam a luz de Farol, que se encolheu no ombro de Banjo e apagou de novo, uma centelha só.
 
-— Por favor, não... não me devore... — sussurrou ele, apertando Farol contra o peito.
+Várias aracnas imensas saíram das sombras e o cercaram. Banjo recuou, mas Faka o empurrou de leve com a pata.
 
-A aranha parou, inclinou a cabeça novamente e, de repente, soltou um som que Banjo não esperava. Primeiro, um chiado estranho, que logo se transformou em gargalhadas. Para o espanto de Banjo, a criatura se deitou de barriga para cima, suas patas enormes se contorcendo no ar enquanto ela ria incontrolavelmente.
+– Anda. Elas vão abrir caminho. Você está na presença da rainha.
 
-— Você... você correndo! Foi a coisa mais engraçada que já vi! — disse ela entre risos, sua voz surpreendentemente clara, mas carregada de um tom quase infantil.
+As aracnas se afastaram e formaram um corredor. Banjo caminhou, com os joelhos moles.
 
-Banjo ficou imóvel, completamente perplexo, enquanto a aranha continuava rindo. Ele nunca tinha visto algo tão aterrorizante se comportar de forma tão... descontraída.
+– Elas são muito maiores que você, Faka – sussurrou.
 
-— O quê...? Você... tá rindo de mim? — perguntou ele, sua voz incrédula.
+– Claro. Eu ainda sou filhote.
 
-A aranha se endireitou, ainda soltando pequenos risos. Seus múltiplos olhos brilharam enquanto ela o olhava de cima a baixo.
+No centro da câmara, o altar se moveu. Primeiro vieram as patas, grossas como troncos, de pelos negros que brilhavam, protegidas nas juntas por placas de ouro escuro. Depois o corpo, que parecia uma montanha viva. Na cabeça, uma coroa de pontas douradas, e sob ela oito olhos negros e profundos, que se fixaram em Banjo e o deixaram sem forças. Lanigiah, a rainha das aracnas, era a maior aranha que ele já tinha imaginado. Uma de suas patas, que terminava numa garra fina como uma mão, segurava fios que desciam do teto.
 
-— Claro que estou! Você parecia um passarinho tentando fugir de um vendaval. Muito engraçado!
+Mas a voz que saiu dela foi o contrário de tudo isso: suave, quase maternal, mas carregada de séculos.
 
-Banjo relaxou ligeiramente, embora seu coração ainda estivesse disparado.
+– Não é comum um senavelita andar tão fundo em minhas cavernas. Muitos entram. Poucos saem. Este é um lugar onde o tempo não tem pressa, e onde os perdidos permanecem para sempre.
 
-— Quem... quem e o que é você? — perguntou ele, tentando soar mais corajoso do que se sentia.
+Banjo respirou fundo.
 
-— Eu? Sou Faka! Uma Aracna, obviamente, — disse ela, gesticulando com uma de suas patas como se fosse óbvio. — E você? Um pequeno humano perdido?
+– Eu não vim para me perder. Eu vim salvar meus irmãos. Por favor, onde eles estão?
 
-— Eu sou Banjo, — respondeu ele, ainda cauteloso. — E eu estou procurando meus irmãos. Você os viu?
+A rainha inclinou a cabeça gigantesca. Então levantou a pata lentamente, e do teto desceram dois casulos grandes de teia, balançando, brancos e quase brilhantes por dentro. Banjo correu até eles.
 
-Faka inclinou a cabeça, pensativa, como se tentasse se lembrar.
+– Breno! Bruno!
 
-— Irmãos? Não vi ninguém por aqui, mas... se eles foram pegos pelas minhas irmãs, é provável que sejam o banquete da rainha Lanigia. 
+Ouviu movimentos fracos lá dentro. As teias eram grossas como cordas.
 
-Banjo sentiu um calafrio subir pela espinha.
+– Eles tentaram escapar – disse Lanigiah, num tom quase divertido. – Mas a magia deles não vale nada contra as teias das minhas filhas. Elas são quase impenetráveis.
 
-— Banquete da rainha? 
+– Por favor, não faça mal a eles. São minha família. Eu faço qualquer coisa.
 
-Faka arregalou os olhos brilhantes e respondeu animadamente, como se estivesse falando de uma festa.
+Os olhos dela o atravessaram.
 
-— Bem, se ela gostar deles, talvez deixe viver. Se não gostar... aí sim ela os devoraria. 
+– Sua determinação é admirável, pequeno senavelita. Mas palavras são frágeis como teia mal tecida. Para libertá-los, você precisará provar que é digno da minha ajuda.
 
-— O quê?! — Banjo deu um passo à frente, o pânico voltando à sua voz. — Você tem que me ajudar! Eu preciso chegar até a rainha!
+– Qual é o desafio? – perguntou ele, com a voz mais firme do que esperava.
 
-Faka o observou por um momento, seus olhos piscando em sucessão. Então, deu um sorriso que era ao mesmo tempo reconfortante e perturbador.
+Uma aracna pequena trouxe até o centro da câmara um objeto cristalino, que pulsava com uma luz interior. Lanigiah o empurrou com a pata até a frente dos pés de Banjo.
 
-— Você quer mesmo ir até lá? Pode se tornar banquete da rainha também… 
+– Isto é um Minori. Dentro dele há uma verdade que você esconde de si mesmo. Seu desafio é simples: olhe o cristal. Veja o que ele mostra. E aceite, sem desviar os olhos.
 
-— Eu faço qualquer coisa para salvar meus irmãos. Por favor, me ajude, Faka.
+– Só isso? Eu só... olho?
 
-Ela inclinou a cabeça novamente, claramente apreciando a determinação de Banjo. Após um momento de silêncio, ela deu um salto leve para trás, gesticulando com uma de suas patas.
+Ela riu, um som baixo e ondulante que fez as paredes vibrarem.
 
-— Tudo bem, passarinho. Eu vou te levar até a rainha. Venha comigo! 
+– Nada é tão simples quanto parece. Se você falhar, não serei eu quem o devorará, e sim as suas próprias sombras. Agora escolha: olhe, ou abandone seus irmãos ao destino que os espera.
 
-Banjo forçou um sorriso. Outra pessoa costumava lhe chamar de passarinho. Ele respirou fundo, ajustou Farol em seu ombro e seguiu Faka, rezando para que ela fosse sua aliada — e não mais uma armadilha na caverna.
+Farol se enrolou no pescoço de Banjo, quente. Banjo tomou fôlego.
 
-Banjo seguiu Faka pelos corredores da caverna, os passos ecoando no ambiente cada vez mais úmido. As paredes de pedra brilhavam com uma umidade viscosa, e o ar ficou mais pesado, carregado com o cheiro metálico e doce das teias. As gotas de água escorriam das estalactites, criando um som ritmado que apenas aumentava a atmosfera opressora do lugar.
+– Eu aceito.
 
-A pequena Aracna saltitava à frente, suas patas finas tocando o chão molhado com um leve som de estalo. A cada curva, Banjo notava a presença crescente de teias, formando cortinas translúcidas que reluziam à luz fraca emitida por Farol. Algumas pareciam frescas, enquanto outras estavam cobertas de poeira, indicando a antiguidade daquele lugar.
+Ajoelhou-se diante do cristal. Quando seus olhos encontraram a superfície brilhante, o mundo desapareceu. Ficou tudo escuro, e vozes distantes se aproximaram, sussurrando, ganhando forma.
 
-— Estamos quase lá, passarinho, — disse Faka, sua voz agora baixa e quase reverente. — Cuidado, e mantenha o respeito.
+O corredor da escola estava cheio de risadas e conversas, um zumbido constante. Banjo, num canto, segurava uma carta dobrada com cuidado. As mãos tremiam. Do outro lado, Iasmin, de cabelos castanhos e ondulados, conversava com as amigas. Ele atravessou o corredor como quem escala uma montanha.
 
-O corredor terminou abruptamente, abrindo-se em uma vasta câmara. A visão tirou o fôlego de Banjo. Era como entrar em um pesadelo.
+– Eu... fiz pra você – disse, quase sem voz.
 
-A caverna era colossal, o teto perdido na escuridão, e suas paredes cobertas de teias espessas que brilhavam com um tom prateado à luz difusa. As teias formavam padrões complexos, como se fossem tapeçarias antigas, e muitas delas balançavam levemente, sugerindo movimento ou presença. No centro da câmara, uma formação de pedra negra erguia-se como um altar, coberto por camadas de teias que pareciam pulsar como se estivessem vivas.
+Iasmin pegou a carta, leu, e o sorriso dela mudou para um sorriso debochado, que virou gargalhada.
 
-Entre as teias, centenas de Aracnas se moviam, suas patas longas e corpos brilhantes em tons escuros, algumas do tamanho de cavalos, outras tão grandes quanto pequenos carros. Seus olhos múltiplos refletiam a luz com um brilho ameaçador, e o som de suas patas ecoava pela câmara como um tambor sutil, mas incessante.
+– Gente, olhem! Ele escreveu uma carta! Que coisa mais brega!
 
-Faka parou abruptamente e olhou para Banjo.
+Ela ergueu o papel no alto, e outros alunos se viraram.
 
-— Chegamos. Não tenha medo... elas só vão atacar se você der motivos. — disse Faka, com um sorriso travesso em sua voz.
+– Ai, Banjo, que bebê. Você ainda brinca de desenho, não é? Vai crescer primeiro.
 
-Antes que Banjo pudesse responder, várias Aracnas enoClaro, rmes saíram das sombras, cercando-o. Ele instintivamente recuou, mas Faka o empurrou levemente com uma de suas patas.
+As amigas riram em coro. Banjo tentou ir embora, mas seus pés pareciam presos ao chão. Quando se mexeu, tropeçou no próprio sapato, e os livros se espalharam. As risadas aumentaram. Ele fechou os olhos, desejando desaparecer.
 
-— Ande. Elas abrirão caminho. Você está na presença da rainha.
+Quando os abriu, estava num parque, sob um céu cinza. Reconheceu o lugar: era onde ele e Bernardo planejavam aventuras. Bernardo estava lá, cercado por garotos mais velhos. Banjo correu na direção dele, segurando um papel.
 
-As Aracnas adultas, enormes e imponentes, abriram um corredor à sua frente. Banjo engoliu em seco e caminhou com passos hesitantes, sentindo os olhos brilhantes das criaturas fixos nele.
+– Bernardo! Terminei o mapa do tesouro!
 
-— Elas são muito maiores que você, Faka — sussurrou Banjo. 
+O sorriso dele morreu ao ver o rosto do amigo. Um dos garotos mais velhos cutucou Bernardo.
 
-— Claro, eu ainda sou filhote — Faka respondeu como se fosse óbvio. 
+– Esse aí é seu amigo? Parece um bebê.
 
-No centro da câmara, algo gigantesco começou a se mover. Primeiro, Banjo viu as patas: oito membros maciços, cada um tão grosso quanto troncos de árvores, que emergiam lentamente da escuridão. O corpo da criatura era incrivelmente grande, como se fosse uma montanha viva, coberta de pelos negros e brilhantes. Seus olhos, inúmeros e penetrantes, brilhavam como estrelas, fixando-se em Banjo com uma intensidade assustadora.
+Bernardo hesitou. Depois riu, uma risada sem alegria.
 
-Lanigiah, a rainha das Aracnas, era a maior aranha que Banjo já poderia imaginar. Sua presença preenchia a câmara, e apenas estar diante dela fazia os joelhos de Banjo tremerem.
+– Amigo? Eu só falava com ele porque era o único aqui. Mas ele é muito chato. Parece que não cresceu como os outros.
 
-Quando ela falou, sua voz foi um contraste absoluto com sua aparência. Era suave, quase maternal, mas carregava uma sabedoria profunda, como se ela tivesse vivido por eras.
+As palavras entraram em Banjo como gelo. Ele tentou falar e não conseguiu. Bernardo já tinha se virado, rindo com os outros. Banjo deu meia-volta, e os risos o seguiram.
 
-— Não é comum senavelitas caminharem tão fundo em minhas cavernas, — disse ela, cada palavra arrastada e melódica. — Muitos entram... poucos saem. Este é um lugar onde o tempo não se importa e onde os perdidos permanecem para sempre.
+A cena ganhou nova forma. Era a sala de jantar da antiga casa, de móveis simples e acolhedores, numa tarde cheia de tensão. Sobre a mesa, o relógio de bolso do pai, quebrado, com uma engrenagem solta. Banjo, encolhido numa cadeira. Breno, de pé, do outro lado.
 
-Banjo sentiu um frio percorrer sua espinha, mas respirou fundo e tentou se recompor.
+– Você não percebe, Banjo? Isso não é brincadeira. Você estragou o relógio do papai porque não leva nada a sério.
 
-— Eu não estou aqui para me perder. Eu estou aqui para salvar meus irmãos. Por favor, onde eles estão?
+Banjo lembrava: tinha pendurado o relógio num barbante e brincado de aventura no quintal, até tropeçar e deixá-lo cair.
 
-Lanigiah inclinou sua gigantesca cabeça levemente, como se estivesse estudando Banjo. Então, uma de suas patas subiu lentamente, tão alta que parecia tocar o teto invisível da caverna. Com um movimento delicado, ela puxou algo das teias acima. Lentamente, dois grandes casulos de teia começaram a descer do teto, balançando suavemente enquanto se aproximavam do chão.
+– Eu não queria...
 
-— Os seus irmãos, creio eu, — disse Lanigiah, com um tom quase brincalhão.
+– Você nunca pensa! Está sempre no seu mundinho! – Breno bateu as mãos na mesa. – Não dá pra contar com você. Nunca deu.
 
-Banjo correu até os casulos, seu coração disparado.
+Cada palavra caía como pedra. Quando Breno saiu, Banjo ficou sozinho, horas, tentando consertar o relógio com as mãos trêmulas.
 
-— Breno! Bruno! — ele gritou, tocando as teias que os envolviam. Ele pôde ouvir movimentos fracos de dentro, mas as teias eram tão grossas que parecia impossível rompê-las.
+Depois, o chão ficou cinza, e a paisagem desapareceu. Um campo sem fim, sem cor. Passos leves. Beatriz, olhando-o com um brilho frio, avaliador, que ele nunca tinha visto nos olhos dela.
 
-Lanigiah observou com calma, quase divertida.
+– Você nunca vai ser corajoso como o Bruno – disse ela. – Nunca vai ser forte como o Breno. E nunca vai ser querido como eu.
 
-— Eles tentaram escapar, mas... a magia deles é inútil contra as teias de minhas irmãs. Elas são quase impenetráveis — explicou ela, seus olhos brilhando como um desafio.
+– Bia... o que você está dizendo?
 
-— Por favor, não faça mal a eles, — pediu Banjo, sua voz desesperada. — Eles são minha família. Eu faço qualquer coisa.
+– Ninguém correria atrás de você.
 
-Lanigiah permaneceu em silêncio por um longo momento, seus olhos parecendo atravessar Banjo.
+A voz dela era indiferente, e por isso doía mais. Banjo caiu de joelhos. Imagens passaram em sua mente: as vezes em que errara, em que derrubara a coisa errada na hora errada. Eu só atrapalho, pensou. Sempre achou isso, bem no fundo, e agora estava ali, dito em voz alta.
 
-— Sua determinação é notável, pequeno senavelita. Mas para libertá-los, precisará provar que é digno de minha ajuda. 
+Mas o som das ondas do mar o levou para outro lugar.
 
-Banjo engoliu seco, suas mãos tremendo enquanto segurava Farol, que piscava nervosamente em sua jaqueta. 
+Banjo estava sentado na areia morna, sob um céu estrelado de verão. Tinha uns seis anos. Os dedos se enterravam na areia, e as lágrimas caíam sem ruído. Seus pais tinham levado a família à praia, e ao longe os irmãos brincavam e riam. Ele não conseguia se juntar a eles.
 
-Lanigiah inclinou sua gigantesca cabeça, observando Banjo com um olhar que parecia penetrar em sua alma. Sua voz suave ecoou pela câmara com uma calma inquietante.
+– Por que eu sou assim? – murmurou. – Eu só atrapalho.
 
-— Você diz que faria qualquer coisa por seus irmãos... mas palavras são frágeis como teias mal tecidas. Vamos ver se suas ações são tão fortes quanto o laço que você proclama.
+– Meu pequeno passarinho...
 
-Banjo respirou fundo, tentando manter a calma diante daquela presença esmagadora.
+Ele levantou o rosto. Sua mãe estava ali, com o cabelo balançando na brisa, e a mesma ternura de que ele se lembrava. Ela se ajoelhou na areia e o abraçou.
 
-— Qual é o desafio? — perguntou ele, com a voz mais firme do que esperava.
+– Mamãe?
 
-Lanigiah ergueu uma de suas patas maciças, gesticulando em direção ao fundo da caverna. De lá, uma pequena Aracna carregava algo brilhante em suas mandíbulas: um objeto cristalino e reluzente, que parecia pulsar com uma luz interna. A Aracna colocou o objeto delicadamente no centro da câmara, e Lanigiah o empurrou em direção a Banjo com uma de suas patas, parando a poucos centímetros de seus pés.
+– O que está fazendo aqui sozinho, meu passarinho?
 
-— Esta é a Minori — começou ela, sua voz cheia de gravidade. — Dentro dele está uma verdade, oculta por seus próprios medos e dúvidas. Seu desafio é simples: encare o cristal. Veja o que ele reflete. E aceite o que lhe for revelado, sem desviar o olhar.
+– Eu sou um problema. Cada um dos meus irmãos é bom em alguma coisa. E eu... sou só eu.
 
-Banjo franziu a testa, confuso.
+Ela segurou o rosto dele nas mãos.
 
-— Isso é tudo? Eu só... olho para ele?
+– Desde quando "só você" não é suficiente? Você é a cola que mantém seus irmãos juntos. Quando o mundo fica duro demais, é você quem lembra a eles que ainda existe beleza e bondade. Sua curiosidade, sua inocência e sua coragem de amar fazem de você o coração dessa família.
 
-Lanigiah riu, um som baixo e ondulante que ecoou pelas paredes da caverna.
+– O coração não é forte como o músculo do Breno, nem corajoso como o Bruno.
 
-— Nada é tão simples quanto parece, pequeno. Se você falhar, não será eu quem o devorará, mas suas próprias sombras. Agora, escolha. Olhe, ou abandone seus irmãos ao destino que os espera.
+– O coração é o que mantém tudo funcionando. Parece silencioso, mas sem ele não há vida. – Ela sorriu. – Você já é tudo isso, só por ser quem é.
 
-Banjo hesitou, olhando para o cristal. Ele parecia inofensivo, mas a intensidade da luz que emanava parecia chamar por algo dentro dele, algo que ele temia confrontar.
+Banjo chorou de novo, mas agora era saudade. Por um instante, quis que o tempo parasse e que o som das ondas o embalasse para sempre.
 
-— Eu aceito, — disse ele finalmente, dando um passo à frente.
+– Banjo – disse ela, afastando-o um pouco, e algo antigo passou pelos olhos dela. – Tudo isso foi para você descobrir o seu valor. Agora, meu passarinho, você tem uma escolha. Pode ficar aqui, comigo e com seu pai. Neste lugar você terá tudo o que sempre quis. Amor, segurança, um mundo todo seu. Nunca mais vai se sentir pequeno. E nós nunca vamos embora.
 
-Ele se ajoelhou diante do cristal, sentindo uma energia quente e pulsante que parecia puxá-lo. Quando seus olhos encontraram a superfície brilhante, o mundo ao seu redor desapareceu. Tudo ficou escuro, e ele estava sozinho. Ele se viu flutuando em um espaço vazio, onde apenas ecos de vozes distantes o cercavam. A princípio, eram apenas sussurros, mas logo começaram a tomar forma e volume.
+– E meus irmãos? – perguntou ele, hesitante.
 
-O corredor da escola estava cheio de alunos, risos e conversas se misturando em um zumbido constante. Banjo estava parado no canto, segurando uma pequena carta dobrada com cuidado. Suas mãos tremiam, e ele sentia o coração bater rápido no peito. Ele olhou para Iasmin, uma garota de cabelos castanhos ondulados e olhos brilhantes, conversando animadamente com um grupo de amigas.
+– Eles também estarão aqui.
 
-Respirando fundo, Banjo deu alguns passos à frente, cada movimento parecendo mais difícil do que escalar uma montanha. Quando finalmente chegou perto dela, os sons ao redor pareciam desaparecer. Ele ergueu a mão, oferecendo a carta.
+– Eu falo dos meus irmãos de verdade. Eles estão presos. E a Bia... precisamos salvá-la.
 
-— Eu... fiz pra você — disse ele, a voz quase inaudível.
+– Para viver essa vida, você teria que deixá-los. Suas memórias, seus problemas, suas dores ficariam para trás.
 
-Iasmin parou de rir, encarando-o com uma sobrancelha arqueada. Ela pegou a carta, mas com uma expressão de desinteresse, como se fosse um favor fazê-lo. Quando a abriu e leu, sua expressão mudou para um sorriso debochado, que logo se transformou em uma gargalhada cruel.
+Banjo recuou um passo. O mundo que ela descrevia era perfeito, o sonho que ele sempre tivera. Ele pensou em Breno, sempre forte e protetor. Em Bruno, com o humor ácido e a coragem inabalável. Em Beatriz, que precisava deles agora mais do que nunca. E sentiu, junto ao pescoço, um pontinho morno que pulsava no ritmo do seu coração: Farol.
 
-— Meu Deus, você é patético, Banjo. — Ela segurou a carta no alto, atraindo a atenção de outros alunos. — Gente, olhem isso! Ele escreveu uma carta de amor! Que coisa mais brega!
+– Mamãe, eu quero ficar com você. – A voz tremeu. – Mas eles precisam de mim.
 
-Banjo recuou, sentindo-se cada vez menor. As palavras dela eram como facas, cortando qualquer resquício de confiança que ele havia reunido. Então, Iasmin adicionou o golpe final:
+Ela não disse nada. Não havia julgamento nos olhos dela, só paciência. Abraçou-o mais uma vez, e Banjo sentiu o calor que não sentia havia meses. Por que viver na realidade, se podia viver na fantasia?
 
-— Você é nojento, Banjo. Só de pensar nisso, me dá arrepios. Eu quero um homem, não um garoto chorão.
+Ele apertou os punhos, as lágrimas escorrendo, e recuou.
 
-O riso ecoou no corredor, as amigas de Iasmin se juntando ao coro de zombarias. Banjo tentou se virar e sair, mas seus pés pareciam presos ao chão. Quando finalmente deu um passo, tropeçou no próprio sapato e caiu, os livros e papéis que carregava se espalhando pelo chão. As risadas ao redor se intensificaram, e ele podia sentir o olhar de todos sobre ele.
+– Eu não posso. Eu amo você, mamãe. E o papai. Mas eles são a minha família de verdade. Mesmo que eu ache que só atrapalho, eles ainda precisam de mim.
 
-Encolhido no chão, Banjo fechou os olhos, desejando desaparecer.
+Ela sorriu, cheia de orgulho. Banjo enxugou o rosto e endireitou os ombros, ainda trêmulo.
 
-Quando abriu os olhos novamente, Banjo estava em um parque. O céu estava cinza, o ambiente envolto em uma luz fria. Ele reconheceu o local imediatamente: era onde ele e Bernardo costumavam brincar e planejar aventuras. Bernardo estava mais à frente, mas não estava sozinho. Um grupo de adolescentes mais velhos estava ao seu redor, rindo e conversando.
+– Então qual é a sua escolha, meu bem?
 
-Banjo sentiu uma onda de alegria ao vê-lo. Ele correu em direção a Bernardo, segurando um pedaço de papel em mãos.
+– Eu escolho voltar.
 
-— Bernardo! Você não vai acreditar, eu terminei de desenhar aquele mapa de tesouro que a gente tava planejando!
+Ela assentiu, e segurou as mãos dele por um último instante. Então o rosto dela mudou. Era Lanigiah, olhando-o com curiosidade e algo parecido com admiração.
 
-O sorriso no rosto de Banjo desapareceu assim que ele notou a expressão de Bernardo. Não havia entusiasmo, apenas desconforto. Um dos adolescentes cutucou o ombro de Bernardo, olhando para Banjo com desdém.
+Ele estava de volta à câmara, ajoelhado diante do cristal, com o rosto molhado. Farol, enrolado no pescoço dele, fungava baixinho, a cauda iluminando as lágrimas, e lambeu a bochecha dele com a língua pequena e quente.
 
-— Esse daí é seu amigo? Parece um bebê.
+– Poucos escolhem voltar – disse a rainha, baixo.
 
-Bernardo hesitou. Banjo esperou por uma resposta que reafirmaria sua amizade, algo que o faria se sentir seguro novamente. Mas então, Bernardo riu, uma risada sem alegria, claramente forçada.
-
-— Amigo? Eu só falava com ele porque só tinha ele como companhia aqui na escola. Mas, sinceramente, ele é muito chato. Parece que ele não cresceu como os outros.
-
-Banjo sentiu um frio subir pela espinha. As palavras ecoaram em sua cabeça, cada uma mais dolorosa que a anterior. Ele tentou falar, mas a voz não saiu. Seus olhos se encheram de lágrimas enquanto ele olhava para Bernardo, que já havia se virado, rindo com os outros.
-
-— Ei, garoto, por que você ainda tá aqui? — disse um dos adolescentes mais velhos. — Vai brincar com seus desenhos, bebê.
-
-As palavras fizeram Banjo recuar, o coração apertado e a garganta seca. Ele tentou segurar as lágrimas, mas falhou. Sem saber o que fazer, ele se virou e começou a andar na direção oposta, os risos ainda ecoando em seus ouvidos.
-
-Então ele se viu com seus irmãos, Bruno e Breno, numa brincadeira que parecia inofensiva. Eles tinham encontrado um barranco coberto por pedras soltas e decidiram escalar uma pequena parte dele, desafiando uns aos outros sobre quem chegaria mais alto. A risada de Bruno ecoava enquanto ele liderava, com Breno logo atrás, observando os passos do irmão mais novo para evitar qualquer deslize. Banjo, no entanto, subia por último, hesitante, com as mãos suando e os olhos fixos no chão abaixo.
-
-— Anda logo, Banjo! Você tá atrasando a brincadeira! — gritou Bruno, rindo.
-
-— Eu tô indo, só... só tô sendo cuidadoso! — respondeu Banjo, tentando manter a calma enquanto suas mãos tremiam.
-
-Banjo deu um passo à frente, mas não percebeu uma pedra solta à sua frente. Ele tropeçou, perdendo o equilíbrio, e instintivamente tentou segurar algo para não cair. Sua mão agarrou o tornozelo de Bruno, que estava mais à frente. O puxão fez Bruno cambalear para trás, perdendo o equilíbrio completamente.
-
-— Bruno! — gritou Breno, percebendo que o irmão mais novo estava perigosamente próximo da borda do barranco.
-
-Breno se lançou para frente, agarrando Bruno no último segundo antes que ele caísse. A gravidade já puxava Bruno para baixo, e Breno precisou de toda a força para puxá-lo de volta. Os dois caíram no chão, ofegantes, enquanto Banjo estava paralisado, ainda na posição de onde tinha tropeçado.
-
-Bruno se levantou de um salto, seu rosto contorcido de raiva, enquanto Breno ainda tentava recuperar o fôlego.
-
-— Você é um IDIOTA! — gritou Bruno, avançando em direção a Banjo. — Você quase me matou!
-
-Banjo abriu a boca para falar, mas nenhuma palavra saiu. Ele tentou levantar as mãos em defesa, mas seu corpo parecia pesado, congelado pelo medo e pela culpa.
-
-— Por que você sempre tem que estragar tudo? — continuou Bruno, o rosto vermelho de raiva, seus punhos cerrados. 
-
-Breno se levantou, colocando uma mão no ombro de Bruno para tentar acalmá-lo.
-
-— Ei, Bruno. Ele não fez por mal. Foi um acidente — disse Breno, mas sua voz tinha um tom frio.
-
-Banjo finalmente encontrou forças para falar, mas sua voz saiu trêmula.
-
-— Eu... eu não queria... eu só... eu tropecei, eu juro...
-
-— Tropeçou? Claro que tropeçou! Você sempre tropeça, Banjo! Em tudo! — gritou Bruno, dando um passo para trás e jogando os braços para o alto. — É por isso que ninguém confia em você pra nada!
-
-Banjo sentiu as lágrimas queimarem seus olhos, mas tentou segurá-las. Ele não queria parecer ainda mais fraco na frente dos irmãos. Breno olhou para ele, e a expressão de decepção em seu rosto foi ainda pior do que as palavras de Bruno.
-
-— Vamos embora. Já tivemos emoção demais por hoje — disse Breno, virando-se para descer o barranco.
-
-Bruno seguiu logo atrás, ainda resmungando algo entre dentes. Banjo ficou parado por um momento, olhando para as mãos que tinham segurado Bruno. Ele queria gritar, pedir desculpas, mas sabia que nada do que dissesse mudaria o que tinha acontecido. 
-
-A cena ganhou forma ao redor de Banjo. Ele reconheceu a sala de jantar da antiga casa da família, cheia de móveis simples, mas acolhedores. Era uma memória de cerca de um ano atrás, quando todos ainda moravam juntos, antes de tudo desmoronar. A luz da tarde entrava pelas cortinas, mas o ambiente estava carregado de tensão.
-
-Banjo estava sentado à mesa, encolhido, enquanto Breno, de pé do outro lado, o encarava com uma mistura de frustração e decepção. Sobre a mesa, um pequeno relógio de bolso quebrado reluzia à luz. Era o relógio do pai deles, um objeto que ele costumava carregar consigo todos os dias.
-
-— Você não percebe, Banjo? — começou Breno, com a voz pesada de raiva contida. — Isso não é uma brincadeira. Você estragou o relógio do papai, porque não consegue levar nada a sério.
-
-Banjo abriu a boca para responder, mas nenhuma palavra saiu. Ele se lembrava do que havia acontecido: ele estava no quintal, brincando sozinho, perdido em sua imaginação, quando teve a ideia de usar o relógio para registrar o tempo de sua "grande aventura". Ele o prendeu a um pedaço de barbante, fingindo que era um artefato mágico que precisava ser salvo de monstros invisíveis. Foi divertido... até o momento em que tropeçou e caiu, o relógio raspando no chão, sua tampa se abrindo e uma das engrenagens se soltando.
-
-— Eu só... eu não queria... — começou Banjo, sua voz baixa e trêmula.
-
-Breno bateu as mãos na mesa, interrompendo-o. O som fez Banjo pular na cadeira.
-
-— Você nunca pensa, Banjo! Nunca! Está sempre no seu mundinho, brincando, sonhando... Você é infantil! É por isso que ninguém te leva a sério. Não dá pra contar com você. Nunca deu.
-
-Cada palavra era um golpe. Banjo sentiu o rosto queimar, as lágrimas brotando nos olhos. Ele tentou falar novamente, mas a culpa e a vergonha o sufocavam. Ele olhou para o relógio quebrado sobre a mesa, desejando poder voltar no tempo e corrigir seu erro.
-
-— Eu só queria... — ele sussurrou, mas Breno já estava se afastando, balançando a cabeça em frustração.
-
-— Queria o quê, Banjo? Que o mundo girasse ao seu redor? 
-
-Com isso, Breno saiu da sala, deixando Banjo sozinho com o relógio quebrado e suas próprias lágrimas silenciosas. Ele se lembrou de como ficou ali por horas, encarando o objeto, tentando consertá-lo com as mãos trêmulas, mas sem sucesso. Naquele dia, ele sentiu como se tivesse falhado não apenas com Breno, mas com toda a família.
-
-Banjo estava parado no meio de um campo que parecia não ter fim. O céu acima era de um cinza opressivo, como se o mundo inteiro tivesse sido drenado de cor. Ele ouviu passos leves atrás de si e virou-se, apenas para encontrar Beatriz. Sua irmã mais nova parecia exatamente como ele lembrava, mas havia algo nos olhos dela que o fez hesitar. Não era o brilho alegre que ele conhecia; era frio, avaliador.
-
-Ela cruzou os braços e inclinou a cabeça, analisando-o como se estivesse decidindo se ele valia algo.
-
-— Você nunca vai ser corajoso como o Bruno — começou ela, sua voz cortante como uma lâmina. — Nunca vai ser forte como o Breno.
-
-Banjo deu um passo para trás, sentindo o chão abaixo dele vacilar.
-
-— Bia... o que você está dizendo? — sua voz saiu em um sussurro, carregada de descrença.
-
-Beatriz continuou, ignorando a pergunta.
-
-— E, com certeza, nunca vai ser querido como eu.
-
-O sorriso dela era gelado, quase zombeteiro. Banjo sentiu o ar fugir de seus pulmões, como se cada palavra estivesse arrancando pedaços dele. Ele tentou falar, mas as palavras ficaram presas na garganta.
-
-Ela deu um passo à frente, reduzindo ainda mais a distância entre eles. Cada movimento dela parecia pesar uma tonelada sobre ele.
-
-— Você não faz diferença. — O tom dela era indiferente, quase cruel em sua simplicidade. — Sinceramente, se fosse você que tivesse sido levado, teria sido um favor pra todo mundo. Ninguém estaria preocupado em correr atrás de você, porque você não faz falta. 
-
-Banjo congelou. Ele tentou argumentar, tentou negar, mas a acusação dela era como um martelo esmagando qualquer resistência que ele pudesse ter.
-
-Imagens começaram a rodar em sua mente, memórias de momentos em que ele falhou, em que suas inseguranças o dominaram, em que ele sentiu que não era o suficiente. Ele se viu encolhendo diante do olhar de desdém de colegas de classe, tropeçando em palavras ao tentar se aproximar de alguém, derrubando algo importante na hora errada.
-
-As palavras de Beatriz ecoaram no ar ao redor dele, reverberando como trovões.
-
-— Você é não faz diferença... Um favor pra todo mundo...
-
-Banjo caiu de joelhos, o peso das palavras o esmagando. Ele sentiu as lágrimas queimarem em seus olhos antes de escorrerem pelo rosto. Era como se algo dentro dele estivesse se quebrando em pedaços pequenos demais para serem reconstruídos. Ele tentou cobrir os ouvidos, mas as vozes continuavam, insistentes e implacáveis.
-
-— Não! Eu... eu tentei... Eu... — as palavras saíram trêmulas, carregadas de desespero.
-
-Mas não houve resposta. Apenas o vazio ao redor e o som constante das palavras, como uma sentença que ecoava por sua mente. Ele se encolheu, abraçando os joelhos, as lágrimas escorrendo livremente agora. O peito doía, como se cada respiração fosse uma luta.
-
-Ele não era nada. 
-
-Ele era apenas... um peso. Sem ele, seus irmãos estariam bem melhor. Era como se no fundo, ele sempre acreditasse nisso, mas ali, naquele momento, ele tinha a certeza.
-
-Então o som das ondas do mar o levou para outro lugar. Banjo estava sentado na areia morna, as ondas quebrando suavemente sob o céu estrelado de verão. O som do mar era um pano de fundo constante, mas para ele, o silêncio parecia gritar mais alto. Seus dedos enterravam-se na areia, e lágrimas caíam silenciosas de seu rosto jovem. Ele tinha cerca de seis anos, pequeno demais para entender a dor que o consumia, mas grande o suficiente para sentir o peso dela.
-
-Era uma noite especial. Seus pais tinham levado a família para a praia, e os irmãos ainda brincavam ao longe, rindo e se desafiando. Mas Banjo não conseguia se juntar a eles. Ele havia se afastado, perdido em pensamentos que pareciam grandes demais para seu pequeno coração.
-
-— Por que eu sou assim? — murmurou para si mesmo, abraçando os joelhos. — Eu só atrapalho...
-
-Uma voz suave e familiar cortou o som das ondas.
-
-— Meu pequeno passarinho...
-
-Banjo congelou, seus olhos arregalados enquanto levantava o olhar. Ali, em pé diante dele, estava sua mãe. O cabelo dela balançava com a brisa leve da noite, e seu rosto tinha a mesma expressão de ternura que ele sempre se lembrava. Era como se a luz das estrelas estivesse refletida em seus olhos.
-
-— Mamãe...? — sua voz saiu como um sussurro trêmulo.
-
-Ela sorriu e se ajoelhou ao lado dele, como se não houvesse nada mais importante no mundo naquele momento.
-
-— O que você está fazendo aqui sozinho, meu passarinho?
-
-— Eu... eu sou um problema, mamãe. Eu só atrapalho... — Ele não conseguiu conter as lágrimas, e as palavras saíram entrecortadas. — Eles têm razão. Eu não faço a diferença.
-
-Ela o puxou para mais perto, envolvendo-o em um abraço suave, sua voz um calmante para seu coração inquieto.
-
-— Por que você acha isso, meu amor?
-
-Banjo fungou, enterrando o rosto em seu ombro.
-
-— Tudo o que eu faço dá errado. Eu sou estranho, inseguro. Eu nunca ajudo. Só complico as coisas. Cada um deles é excêntrico em algo. E eu... sou só eu.
-
-Ela se afastou apenas o suficiente para segurar seu rosto com as mãos, forçando-o a olhar para ela.
-
-— Banjo, desde quando "só você" não é suficiente? Você já parou para pensar em como você é especial de um jeito que ninguém mais é?
-
-Ele franziu o cenho, confuso.
-
-— Especial como? Eu sou atrapalhado. Eles nem me levam a sério.
-
-Ela riu suavemente, com um calor que parecia dissolver as nuvens escuras dentro dele.
-
-— Meu amor, você é a cola que mantém seus irmãos unidos. Quando o mundo parece duro demais, você é quem lembra a eles que ainda existe beleza e bondade. É sua curiosidade, sua inocência e sua coragem de amar que fazem de você o coração dessa família.
-
-Banjo piscou, sentindo uma leve esperança crescer em meio à dúvida.
-
-— Mas... o que isso realmente significa? O coração... não é como o músculo forte do Breno ou a coragem do Bruno. Como isso ajuda? 
-
-Ela inclinou a cabeça, seu sorriso suave mas cheio de certeza.
-
-— O coração é o que mantém tudo funcionando. Ele pode parecer silencioso, mas sem ele, não há vida. Você é quem faz seus irmãos acreditarem que vale a pena lutar. É você que dá vida ao que parece estar morto, meu pequeno passarinho. 
-
-Banjo hesitou, mas algo na forma como ela o olhava fazia com que ele se sentisse mais visto, mais amado, do que jamais havia sentido.
-
-— E se eu falhar, mamãe? Se eu não conseguir ser tudo isso?
-
-Ela apertou sua mão pequena na dela.
-
-— Banjo, você já é. Só por ser quem você é. Você vê as coisas que ninguém mais vê, e isso te torna o mais honesto, o mais verdadeiro de todos. O carinho que você emana é a maior força que você poderia ter. 
-
-Banjo começou a chorar de novo, mas dessa vez era de saudades. 
-
-— Eu te amo tanto, mamãe. — Ele soluçou, as palavras saindo com dificuldade.
-
-Ela o puxou para mais perto, beijando sua testa.
-
-— Eu também te amo, meu passarinho. Mais do que você jamais vai saber.
-
-Por um momento, ele quis que o tempo parasse. Que pudesse ficar ali com ela para sempre sentindo seu calor. O som das ondas era suave, embalando a cena como um sonho perfeito. Ele não queria que acabasse. Nunca mais.
-
-Sua mãe o afastou apenas o suficiente para olhar nos olhos dele, o sorriso suave permanecendo, mas seus olhos agora carregavam algo mais: um peso que parecia antigo e cheio de significado.
-
-— Banjo, o que você viu... tudo aquilo... foi para que você pudesse descobrir o seu real valor — disse ela, sua voz cheia de ternura. — E agora você já sabe. Mas agora, meu passarinho, você tem uma escolha.
-
-Banjo franziu o cenho, confuso.
-
-— Escolha? Que escolha?
-
-Ela acariciou sua bochecha com a palma da mão, como fazia quando ele era pequeno e estava assustado.
-
-— Você pode ficar aqui, comigo, com seu pai. Neste lugar, você terá tudo o que sempre quis. Amor, segurança, um mundo onde você é o centro de tudo. A sua mente cria isso aqui. Você pode moldar do jeito que você quiser. Finalmente um mundo todo seu. Aqui, você nunca vai se sentir pequeno ou deslocado. Você será amado por todos, reconhecido por seu talento e coragem. Será rico, forte, e nunca mais precisará lutar para ser aceito. E o mais importante... — ela pausou, o sorriso crescendo um pouco mais. — Eu e seu pai estaremos aqui. Sempre. Nunca iremos embora. Nunca te deixaremos.
-
-Banjo arregalou os olhos, suas palavras presas na garganta. Ele piscou, confuso, tentando processar o que ela estava dizendo.
-
-— Mas... e meus irmãos? Minha vida? — perguntou ele, hesitante.
-
-Ela inclinou a cabeça, seus olhos ainda cheios de amor, mas sua voz tornou-se mais firme.
-
-— Eles também estarão aqui, Banjo. 
-
-— Estou me referindo aos meus irmãos de verdade. Eles estão presos. E a Bia… precisamos salvá-la. 
-
-— Para isso você tem a outra escolha. Para viver essa vida, Banjo, você teria que deixá-los. Suas memórias, seus problemas, suas dores... tudo isso ficaria para trás. Você poderia criar seu próprio mundo, do jeito que sempre sonhou. Não haveria mais medo, nem sofrimento.
-
-Banjo deu um passo para trás, sentindo o coração apertar. Ele podia sentir a tentação crescendo dentro dele. O mundo que ela descrevia parecia perfeito, um sonho que ele sempre quis viver. Mas... seus irmãos. Ele pensou em Breno, sempre tão forte e protetor. Em Bruno, com seu humor ácido e sua coragem inabalável. Em Beatriz, que precisava deles agora mais do que nunca. Eles dependiam dele. 
-
-Ele olhou para a mãe, sua expressão cheia de dúvida e dor.
-
-— Mamãe… eu quero ficar com você… — sua voz tremeu. — Mas… eles precisam de mim. 
-
-Ela o observou em silêncio, deixando que ele pensasse. Não havia julgamento em seu olhar, apenas paciência. Então enfim o abraçou mais uma vez. Banjo sentiu mais uma vez aquele calor maternal que não sentia há meses. Por que viver na realidade, se poderia viver na fantasia? 
-
-Banjo apertou os punhos, lágrimas escorrendo por seu rosto, e então recuou.
-
-— Eu... eu não posso. Eu amo você, mamãe. E papai. E eu quero... eu quero tanto ficar aqui. Mas... eles são minha família. Minha família de verdade. Eles precisam de mim, mesmo que eu ache que não sou forte o suficiente. Mesmo que eu ache que eu só atrapalho... eles ainda precisam de mim.
-
-Ela sorriu, um sorriso cheio de orgulho e amor. Banjo enxugou as lágrimas e endireitou os ombros, embora ainda tremesse.
-
-— Então... qual é sua escolha, meu bem? — perguntou ela. 
-
-— Eu… eu escolho voltar. 
-
-Ela assentiu, suas mãos segurando as dele por um último momento. E então a face de sua mãe havia mudado. Era Lanigiah, olhando para ele com uma expressão de curiosidade e admiração. Ele estava de volta à caverna. 
-
-
+Banjo enxugou o rosto com a manga, olhou para os casulos que balançavam no alto e levantou-se.

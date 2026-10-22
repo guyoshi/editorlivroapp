@@ -1,679 +1,499 @@
-	Os irmãos explodiram em alegria ao som da trombeta que anunciava o fim da partida. Beatriz foi a primeira a comemorar, saltando de pilar em pilar ao encontro de Breno aterrissando desajeitadamente ao lado dele, que a segurou antes que ela caísse.
+Os irmãos explodiram em alegria ao som da trombeta. Beatriz desceu dos pilares como quem anda em cima de nuvem, e Breno a agarrou no ar antes que ela terminasse o último salto e a rodou duas vezes, sem se importar com o metal que ainda cobria os braços dele.
 
-	— Nós conseguimos! — gritou ela, rindo e ofegando, o rosto vermelho de esforço e emoção.
+– Nós conseguimos! – gritou ela, rindo e ofegando, o rosto vermelho de esforço e de emoção. – Eu consegui!
 
-	Bruno chegou logo atrás, com um sorriso convencido.
+– Maninha, aquela chama azul! – Bruno chegou atrás, com um sorriso do tamanho do estádio. – Eu quase fiz um discurso na hora. Quase.
 
-	— Aí maninha. Isso foi perfeito!
+– Você viu o tamanho daquele fogo? – Banjo pulava ao lado deles, com os cabelos grudados de suor. – Não, você viu? Parecia uma fita! Uma fita de fogo que subia!
 
-	Banjo, com os olhos brilhando, mal conseguia conter a empolgação.
+Beatriz ria tanto que não conseguia responder. Eshley a abraçou por trás, Shirley despencou em cima de Banjo, e Lucía, mais discreta, bateu com os nós dos dedos no ombro dela e disse apenas:
 
-	— Uhuu, você viu o tamanho daquele fogo. 
+– Bom.
 
-	Eles desceram juntos em direção ao centro da arena, onde Aradon, Velho-Sábio e os outros tutores esperavam. Beatriz sorriu para Velho-Sábio, esperando ver o orgulho nos olhos do mentor, mas sua expressão era séria, quase sombria. A jovem hesitou, o sorriso desaparecendo lentamente de seu rosto.
+De Lucía, aquilo valia uma medalha.
 
-	Aradon deu alguns passos à frente, sua presença dominando o espaço.
+Desceram juntos para o centro da arena, onde Aradon, Garmand e os tutores esperavam. Beatriz procurou Velho-Sábio, cheia de vontade de ver orgulho nos olhos dele. Mas ele estava com o rosto sério, quase sombrio, e o sorriso dela foi se apagando devagar.
 
-	— Parabéns a todos os jogadores! O esforço de todos foi impressionante, e o vencedor da partida de hoje é o Fulgor Dourado!
+Aradon deu um passo à frente.
 
-	Gritos de comemoração ecoaram do lado do Fulgor Dourado, enquanto o Garras de Ferro reagia com expressões mistas de frustração e resignação.
+– Parabéns a todos os jogadores! O esforço de vocês foi impressionante, e o vencedor da tarde é o Fulgor Dourado!
 
-	— Agora, cumprimentem seus oponentes. Pois a verdadeira força está em reconhecer o valor do outro.
+Os gritos do lado verde explodiram. Do lado azul, houve frustração e resignação misturadas.
 
-	Os jogadores se aproximaram uns dos outros, mas o clima ainda estava carregado de tensão. Bruno foi o primeiro a se dirigir a Erick e Nicolas, os dois rivais mais ferrenhos dos irmãos. Erick apertou a mão dele com um sorriso ameaçador.
+– Agora, cumprimentem seus adversários – continuou Aradon. – A verdadeira força está em reconhecer o valor do outro.
 
-	— Isso não vai ficar assim.
+Os jogadores se aproximaram uns dos outros, ainda carregados de tensão. Bruno foi o primeiro a procurar Erick e Nicolas, que apertaram a mão dele com cara de quem engole um limão.
 
-	Bruno, com um sorriso cheio de provocação, respondeu:
+– Isso não vai ficar assim – rosnou Erick.
 
-	— Ah, claro. Podemos marcar uma revanche pro próximo jogo… isso é, se vocês passarem neste. 
+– Claro que não. – Bruno sorriu. – Marcamos uma revanche no próximo jogo. Quer dizer, se vocês passarem neste.
 
-	Nicolas bufou, mas apertou a mão de Bruno sem dizer nada, claramente incomodado.
+Nicolas bufou, mas apertou a mão dele sem dizer nada.
 
-	Logo, Ferris se aproximou de Breno, seu olhar analítico avaliando o jovem que tinha sido parte da estratégia que o derrubou. Ele estendeu a mão. 
+Ferris estendeu a mão para Breno, com o olhar analítico de sempre.
 
-	— Foi uma boa estratégia. 
+– Foi uma boa estratégia.
 
-	Breno apertou a mão dele, surpreso pela honestidade do comentário.
+– A estratégia foi da Lucía – respondeu Breno, ainda surpreso com a honestidade.
 
-	— Você é incrível. Mas a estratégia foi de Lucía.
+Ferris sorriu, de leve, e assentiu para Lucía, que devolveu o aceno com a mesma economia. Brenda se aproximou de Bruno por último, o queixo erguido para disfarçar a mágoa.
 
-	Ferris deu um leve sorriso, e em seguida se virou para Lucía, assentindo para ela. Lucía retribuiu, e sorriu. 
+– Você jogou bem.
 
-	Brenda, claramente incomodada, aproximou-se de Bruno, o rosto exibindo uma mistura de frustração e constrangimento. Ela estendeu a mão com um ar de superioridade que não escondia totalmente a mágoa.
+– Você só precisa de um pouco mais de prática – disse Bruno, com o sorriso mais irritante que conseguiu. – Quem sabe na próxima você me derruba?
 
-	— Você jogou bem.
+Brenda corou, virou o rosto e tentou esconder o canto da boca, que escapava para cima.
 
-	Bruno, com um sorriso charmoso e despreocupado, respondeu:
+Garmand surgiu entre eles, e todos se calaram.
 
-	— Você só precisa de mais prática. Quem sabe na próxima você me derruba?
+– Parabéns. Mas lembrem-se: isto foi apenas uma parte da avaliação. Cada um será julgado individualmente, com uma pontuação extra para a equipe vencedora. Vocês saberão quem passou.
 
-	Brenda corou ligeiramente, mas virou o rosto, tentando esconder o sorriso que ameaçava escapar. 
+Velho-Sábio os chamou com um gesto.
 
-	Garmand surgiu em meio ao grupo, sua presença imponente fazendo todos se calarem.
+– Vamos. Está na hora.
 
-	— Parabéns a todos. Mas lembrem-se, isso foi apenas uma parte do desafio. A avaliação de vocês será feita individualmente e somada a uma pontuação extra para o time vencedor. Vocês logo saberão quem passou. 
+– Você viu, Velho-Sábio? Foi tudo perfeito! – começou Bruno, ainda cheio de energia.
 
-	Os jogadores assentiram, ainda processando o impacto da partida. Velho-Sábio, então, chamou os irmãos.
+– Conversamos em casa.
 
-	— Vamos. Está na hora de irmos.
+A resposta curta fez os quatro se calarem. No dassi, Banjo ainda descreveu o jogo inteiro em voz baixa, até Bruno puxar a manga dele. Beatriz olhou pela janela, pensando no que poderia ter deixado o mago tão sério logo no dia em que ela tinha acertado.
 
-	Os irmãos seguiram Velho-Sábio, ainda eufóricos, com exceção de Beatriz, que não conseguia tirar a expressão preocupada do rosto.
 
-	— Você viu aquilo, Velho-Sábio? Fizemos tudo perfeito! — exclamou Bruno, cheio de energia.
+Quando chegaram, a casa os recebeu com o mesmo calor de sempre. A lareira estava acesa, o cheiro de pão quente subia da cozinha, e o Coronel veio balançando o rabo até as pernas deles. Só Velho-Sábio não combinava com a casa. Fechou a porta da sala devagar, girou o anel de metal que servia de tranca e ficou de costas por um momento, respirando fundo.
 
-	Velho-Sábio olhou para ele e respondeu com firmeza:
+– Tá tudo bem? – Bruno quebrou o silêncio, como sempre. – A gente ganhou, sabia? Acho que merecemos uma comemoração. Ou pelo menos um "parabéns".
 
-	— Conversamos em casa.
+O mago se virou devagar.
 
-	A resposta foi curta, e isso deixou os irmãos desconfortáveis.
+– Foi incrível, sim. Sentem-se.
 
-	Eles entraram no Dassi, que os levaria de volta à casa do mago. Banjo estava completamente alucinado, descrevendo cada detalhe da partida.
+O tom grave fez até Bruno se calar. Os irmãos se acomodaram no sofá e nas cadeiras. Banjo apertou uma almofada contra o peito, e Beatriz puxou os joelhos para perto do corpo.
 
-	Bruno deu um sorriso de canto, enquanto Breno tentava manter o foco. Beatriz, no entanto, estava quieta, olhando para fora da janela do Dassi, seus pensamentos vagando sobre o que poderia ter deixado Velho-Sábio tão sério.
+– Velho-Sábio – disse Breno –, nós fizemos alguma coisa errada?
 
-	Quando chegaram à casa, o silêncio de Velho-Sábio era palpável, como se algo maior estivesse por vir.
+– Não é questão de certo ou errado. – O mago começou a andar pela sala. – O que vocês fizeram hoje foi além do que eu imaginava possível para o nível de vocês. Eu planejava treiná-los para sincronizar os poderes. Levaria meses. E hoje vocês mostraram algo que nem aprendizes avançados conseguem.
 
-	Velho-Sábio fechou a porta da sala devagar, girando o anel de metal que servia como tranca. Ele permaneceu de costas para os irmãos por um momento, respirando fundo, enquanto os quatro trocavam olhares nervosos. A energia da vitória ainda pulsava nos Lins, mas a seriedade do mago parecia apagar qualquer possibilidade de comemoração.
+Beatriz arriscou um sorriso, mas ele levantou a mão.
 
-	Bruno, como sempre, quebrou o silêncio primeiro.
+– E isso é preocupante.
 
-	— Tá tudo bem? A gente ganhou, sabia? Foi incrível lá fora! Acho que merecemos uma comemoração ou pelo menos um parabéns.
+– Preocupante? – Bruno cruzou os braços. – A gente vence uma partida e vira problema?
 
-	Velho-Sábio girou lentamente, seu olhar enigmático pousando em cada um deles.
+– Vocês começaram há muito pouco tempo e já mostram um domínio muito acima do normal. Isso chamou atenção. Muita atenção. E, neste momento, é a última coisa que eu queria.
 
-	— Foi incrível, sim. Sentem-se.
+– Ah, qual é! Tem gente muito mais forte que a gente lá. O Ferris quase acabou conosco no primeiro tempo.
 
-	O tom grave dele fez com que até mesmo Bruno se contivesse. Os irmãos se acomodaram no pequeno sofá e cadeiras ao redor da sala. Banjo brincava com uma almofada nervosamente, enquanto Beatriz puxava os joelhos para perto do peito, claramente incomodada com o clima pesado.
+– Ferris reprovou duas vezes, Bruno. Teve anos para treinar. Os senavelitas nativos aprendem desde pequenos. Vocês aprenderam semanas. – Ele parou diante deles. – E ainda assim, com um pouco de motivação e uma boa estratégia, superaram alguém como ele. Isso é impressionante. E perigoso.
 
-	Breno observou o mago atentamente.
+– Por que perigoso? – perguntou Beatriz, num fio de voz. – Não é bom sermos bons nisso?
 
-	— Velho-Sábio... o que aconteceu? Por que você está assim? Nós fizemos algo errado?
+Velho-Sábio se agachou à altura dela e pousou a mão em seu ombro.
 
-	O mago balançou a cabeça lentamente e começou a caminhar pela sala, como se organizasse os pensamentos.
+– Beatriz, sua mãe era uma senavelita extraordinária. Tão poderosa que Korvo percebeu, e tentou atraí-la. Ela recusou. E pouco depois voltou para a terceira dimensão, deixando para trás os poderes e o lugar onde nasceram. – Ele suspirou. – O resto da história, eu ainda não sei contar por inteiro.
 
-	— Não é uma questão de errado ou certo. O que vocês fizeram lá fora... foi além do que eu imaginava ser possível no nível de vocês.
+– Ela nunca nos disse – murmurou Beatriz.
 
-	Banjo piscou, confuso.
+– Mas isso não quer dizer que façam o mesmo com a gente – disse Bruno, de pé. – Por que estamos tanto no radar?
 
-	— Isso é ruim? Achei que queríamos ser bons nisso.
+– Porque vocês são dimensais talentosos, exatamente o que Korvo procura. E não é só ele. A Vigilância também vê o poder de vocês, e pode interpretá-lo como ameaça. Becker é capaz de pressionar o governo de Lucas Veline para criar um decreto que os mande para casa.
 
-	Velho-Sábio parou, virando-se para encará-los.
+Breno coçou a nuca.
 
-	— O que vocês mostraram hoje foi extraordinário. Eu planejava treinar vocês para sincronizar suas habilidades. Isso levaria tempo. Meses, talvez. E hoje, vocês demonstraram algo que nem mesmo aprendizes avançados conseguem fazer.
+– E o que fazemos?
 
-	Beatriz abriu um pequeno sorriso, mas o mago levantou uma mão, interrompendo qualquer celebração.
+– Há duas opções. Lidar com isso, sabendo que admiradores de Korvo e a própria Vigilância terão olhos em vocês, e eu estarei aqui para protegê-los e torná-los fortes. Ou voltar para a terceira dimensão, sem intenção de retornar, e abrir mão dos poderes.
 
-	— E isso é preocupante.
+O silêncio ficou denso. Breno baixou os olhos, e por um momento parecia pronto a decidir pelos quatro. Mas olhou para Bruno e balançou a cabeça.
 
-	O sorriso de Beatriz desapareceu imediatamente.
+– Não posso decidir pelos meus irmãos.
 
-	— Preocupante? — repetiu Bruno, cruzando os braços. — A gente vence uma partida e agora é preocupante?
+– Eu fico – disse Bruno, sem hesitar. – Se o senhor viu que está acima da média, imagina o que a gente faz com alguns meses de treino.
 
-	Velho-Sábio suspirou, cruzando os braços enquanto caminhava pela sala.
+– Preciso dizer alguma coisa? – perguntou Banjo, hesitante, e quando viu os olhares, assentiu. – Eu fico também.
 
-	— Porque o domínio da magia de vocês é muito acima do normal para aprendizes que começaram há tão pouco tempo. Isso chamou atenção... muita atenção. Muitos viram o que vocês fizeram hoje. Isso atrai muitos olhos para vocês. E, neste momento, isso é a última coisa que eu queria.
+Beatriz respirou fundo.
 
-	Bruno, sentado de forma relaxada, deu uma risada curta.
+– Eu fico. Quero ser forte como a mamãe era.
 
-	— Porque atrairíamos olhares dos outros? Ah, qual é! Tem gente muito mais forte que a gente lá. O Ferris, por exemplo... ele quase acabou com a gente no primeiro tempo.
+Velho-Sábio olhou para os quatro, e o rosto suavizou.
 
-	Velho-Sábio parou, olhando diretamente para Bruno.
+– Então está decidido. Mas agora não há margem para erro. Vocês andam sempre juntos, sempre se protegem. O treino será intenso. – Ele cruzou as mãos nas costas, e um sorriso raro se desenhou. – Amanhã vocês descansam. E no dia seguinte terão o privilégio de ir ao Festival das Luzes, um dos eventos mais belos de Tayo.
 
-	— Ferris reprovou duas vezes no passado, Bruno. Isso significa que ele teve muito mais tempo para treinar e se aperfeiçoar do que vocês. Além disso, os senavelitas nativos de Belfex são ensinados sobre magia desde pequenos. Vocês, por outro lado, começaram a aprender sobre seus poderes recentemente. Ainda assim, com um pouco de motivação e uma estratégia bem planejada no intervalo, vocês superaram alguém como Ferris. Isso é impressionante... e perigoso.
+– O que acontece lá? – perguntou Beatriz.
 
-	Beatriz, que estava sentada no canto, abraçando os joelhos, olhou para o mago com olhos curiosos.
+– A cidade inteira se enche de luzes flutuantes, música e dança. Muitos aproveitam para pensar nas vitórias e nos desafios do ano. Para vocês, será uma chance de conhecer um lado mais pacífico de Tayo.
 
-	— Mas por que isso é perigoso? Não é bom que sejamos bons nisso?
+– Isso não é só um jeito de nos manter ocupados enquanto os grandes decidem o que fazer com a gente? – provocou Bruno.
 
-	Velho-Sábio se agachou à altura dela, colocando uma mão gentil em seu ombro.
+– Um pouco de descanso é merecido – respondeu Velho-Sábio, olhando direto para ele. – E uma tradição que atravessa gerações tem sempre algo a ensinar.
 
-	— Beatriz, sua mãe era uma senavelita extremamente poderosa. Tão poderosa que chamou a atenção de Korvo no passado. Ele tentou persuadi-la a se juntar a ele. Quando ela recusou, teve de abdicar de todo o seu poder para voltar à terceira dimensão. Ela reprovou no teste não porque não era boa o suficiente, mas porque escolheu uma vida longe daqui, mas segura.
+Bruno bufou, mas Breno assentiu.
 
-	O rosto de Beatriz caiu, e ela murmurou:
+– Parece interessante. Vamos.
 
-	— Ela nunca nos contou...
 
-	Bruno, sentindo a tensão no ar, se levantou.
+Naquela noite, a casa estava em silêncio. Beatriz virou na cama pela quinta vez e desistiu. Em dois dias faria onze anos, e entre a vitória, a ansiedade e tudo o que o mago dissera, os olhos se recusavam a fechar.
 
-	— Tá, mas isso não significa que vão fazer o mesmo com a gente. Além disso, ainda tem um monte de gente mais forte que nós. Por que estamos tão no radar assim?
+Levantou-se e desceu à sala na ponta dos pés. A lareira ainda crepitava, e as sombras corriam pelas estantes. Beatriz passou os dedos pelas lombadas, e um livro chamou a atenção: capa de couro envelhecido com símbolos gravados à mão, um círculo dividindo uma chama e uma flor, e as letras douradas e desbotadas: "Crônicas de Belfex – Um Relato Entre as Sombras". No pé da capa, o nome Lirivane Valtheris.
 
-	Velho-Sábio suspirou profundamente.
+Ela o puxou com cuidado e se sentou no tapete, perto do fogo. As páginas eram densas, escritas numa língua que ela não reconhecia. Mas as letras estremeceram, se reorganizaram, e viraram palavras em português.
 
-	— Porque vocês são apenas dimensais talentosos, tudo o que Korvo quer. Entendem o que quero dizer? Não estou falando apenas de Korvo, mas também da vigilância. Eles vendo o seu poder, podem interpretá-los como uma ameaça e querer lhes enviar de volta. Becker pode facilmente interferir no governo de Lucas Veline, e criar um novo decreto que os envie para casa. 
+"No início, eu via os senantes como monstros. E talvez fossem. Mas naquele dia, naquela floresta, onde o crepitar das folhas secas ecoava mais alto do que os gritos da batalha ao longe, percebi que havia monstros de ambos os lados.
 
-	Breno coçou a nuca, claramente incomodado com o que ouvia.
+Era noite. A lua brilhava, pálida e indiferente, entre os galhos retorcidos que pareciam mãos estendidas para o céu. Eu estava acorrentada a uma árvore, junto de outros velitas capturados, com os punhos doendo. Os senantes que nos vigiavam riam entre si e apontavam lanças que refletiam o brilho gelado da lua. Em seus olhos, eu via apenas desprezo.
 
-	— Então, o que fazemos?
+Então os velitas ao meu lado, meus supostos aliados, começaram a se mexer de um jeito estranho. Um a um, soltaram as correntes com facilidade. Não era força, era plano. Eu entendi, tarde demais, que tudo aquilo era uma armadilha, e que os guardas tinham sido atraídos exatamente para ali.
 
-	Velho-Sábio hesitou por um momento, então se levantou, olhando para todos com seriedade.
+Os velitas avançaram contra os senantes sem honra nenhuma. Ouvi os gritos de pânico, mas não senti pena. Eu os odiava. Até que vi o velita que antes me sussurrara palavras de conforto arrastar um prisioneiro até mim, para que eu visse. Naquele momento, meus olhos se abriram para a verdade: não havia inocentes ali.
 
-	— Vocês têm duas opções. A primeira é lidar com isso. Enfrentar o fato de que admiradores de Korvo, e a própria vigilância estarão sempre de olhos e vocês. Eu estarei aqui, é claro, para protegê-los e torna-los fortes. A segunda... é voltar para a terceira dimensão, mas sem intenções de voltar. Abdicar de seus poderes para que sejam enviados de volta ao estírio.
+O céu foi rasgado por um brilho escarlate. Algo, ou alguém, descia como um meteoro, e uma onda de calor encheu a floresta.
 
-	O silêncio na sala era quase palpável. Breno, com os olhos baixos, parecia inclinado a tomar a decisão. Mas olhou para Bruno, suspirou e balançou a cabeça.
+Ela veio. Édelin.
 
-	— Ok... não posso decidir pelos meus irmãos.
+Uma figura pequena emergiu do fogo. Seu cabelo era de um ruivo tão escuro que a noite o fazia parecer negro, e as pontas crepitavam como brasas. Os olhos, escuros, pareciam enxergar além da carne. Um círculo de chamas se abriu ao redor dela, e os que armaram a emboscada recuaram, e depois fugiram, largando as lanças. Senti o calor na pele, mas não me queimei. Fui poupada.
 
-	Beatriz e Banjo olharam para ele, surpresos, e depois para Bruno, que finalmente quebrou o silêncio.
+Quando Édelin caminhou até mim, não consegui respirar. Era o peso da presença dela. Parecia uma divindade da destruição, mas também uma juíza imparcial. 'Você não pertence a isso', disse. A voz dela ecoou dentro de mim como uma profecia."
 
-	— Eu fico. Não importa o que aconteça, eu não vou desistir. Você disse que o que viu hoje está acima da média. Imagine o que poderemos fazer com alguns meses de treino. 
+Um ruído leve no corredor fez Beatriz fechar o livro de um golpe, como uma culpada. Velho-Sábio estava parado ali, com o rosto banhado pela luz do fogo.
 
-	Banjo, embora ainda hesitante, assentiu.
+– Tudo bem, pequena?
 
-	— Preciso dizer alguma coisa?
+– S-sim. Só estava curiosa. – Ela recolocou o livro na estante com pressa, mas a mente ainda estava presa à figura da floresta. Depois se virou, quase desafiadora. – Quem era Édelin?
 
-	Beatriz, ainda abraçada aos joelhos, respirou fundo.
+O mago pareceu medir a pergunta.
 
-	— Eu também fico. Quero aprender mais. Quero ser forte... como mamãe era.
+– Édelin Lys foi peça fundamental no fim do conflito entre velitas e senantes. Viveu há mais de mil anos.
 
-	Velho-Sábio observou os quatro por um momento, a expressão suavizando.
+– Ela tinha o fogo. – Beatriz estreitou os olhos. – No livro, ela parecia uma maga negra. Ou quase.
 
-	— Então é isso. Vocês decidiram ficar. Mas precisam entender que agora não há margem para erros. Vocês devem sempre estar juntos, sempre se protegerem. A partir de agora, o treinamento será intenso, e eu farei o possível para protegê-los. Mas a responsabilidade maior é de vocês. 
+– Há muitas versões daquele tempo, Beatriz. Quem escreve conta o que viu, do lugar onde estava. Dizem que a magia dela flertava com a escuridão. O que importa é o que ela fez com o poder.
 
-	Velho-Sábio pigarreou, chamando a atenção dos quatro irmãos que ainda estavam absorvendo tudo. Ele cruzou as mãos atrás das costas, sua postura severa suavizada por um pequeno sorriso, raro de se ver.
+Beatriz abraçou os joelhos.
 
-	— Amanhã, vocês descansarão — disse ele, sua voz grave e calma preenchendo o ambiente. — E, no dia seguinte, terão o privilégio de participar do Festival das Luzes. É um dos eventos mais belos de Tayo.
+– Ela controlava fogo e caos, como eu. No coral eu estourei tudo sem querer, e até hoje não entendi o que foi aquilo. Não foi só fogo, foi algo diferente. Você disse que o estírio guarda a magia dos antigos. E se o poder dela ficou lá, e eu o tenho? E se eu me tornar uma maga negra?
 
-	Os irmãos trocaram olhares, curiosos.
+Velho-Sábio puxou uma cadeira e se sentou à frente dela.
 
-	— Festival das Luzes? — perguntou Beatriz, inclinando a cabeça. — O que acontece lá?
+– Não posso afirmar isso, e histórias passam por muitas mãos antes de chegar até nós. Mas posso dizer o que vi hoje. – Ele sorriu devagar. – Vi uma menina de dez anos dar direção ao fogo. Não explodir, nem queimar: guiar. Isso é o contrário da escuridão.
 
-	— É um evento anual em que a cidade celebra a união e a magia que sustentam Belfex. — Ele fez uma pausa, como se buscasse as palavras certas. — As ruas se enchem de luzes flutuantes, música e danças. Mas não é apenas diversão. Muitos veem o festival como uma oportunidade para refletir sobre os desafios e vitórias do ano. E, para vocês, será uma chance de conhecer um lado mais pacífico de Tayo.
+Beatriz ficou muito quieta.
 
-	Banjo deu um leve sorriso, mas Bruno pareceu desconfiado.
+– Por que as pessoas escrevem histórias? – perguntou ele. – Para estudar os erros e acertos dos que vieram antes, e não repeti-los. Se Édelin errou, você agora sabe o que não fazer. O fogo é um poder perigoso, mas é ele que fica na lareira e nos aquece. Ele não é destruição, Beatriz. É transformação. O que ele vira depende de você.
 
-	— Isso não é só uma desculpa para nos manter ocupados enquanto os grandes decidem o que fazer com a gente, né? — ele provocou, cruzando os braços.
+Beatriz olhou para as chamas, e algo dentro dela se acomodou.
 
-	Velho-Sábio arqueou uma sobrancelha, mas manteve o tom paciente.
+– Obrigada. Eu acho.
 
-	— O Festival é mais do que uma celebração. É uma tradição que transcende gerações. E acredito que vocês podem aprender algo valioso ao participar. Além disso — ele olhou diretamente para Bruno —, um pouco de descanso é merecido depois desses desafios. 
+– Boa noite, pequena. Não demore a dormir.
 
-	Bruno bufou, mas Breno assentiu, sério.
+Ela subiu, mais leve. Mas sabia que as perguntas sobre Édelin ainda não tinham terminado.
 
-	— Parece interessante. Vamos, então.
 
-	Velho-Sábio apenas assentiu, dando-lhes um último olhar enigmático antes de sair da sala. Os irmãos foram para o quarto, cada um perdido em seus próprios pensamentos sobre o que o Festival poderia trazer.
+Bruno acordou antes de todo mundo, na manhã seguinte, com a barriga roncando e a janela do quarto cheia de nuvens cor-de-rosa, enfileiradas como ovelhas bem-comportadas. As nuvens de Tayo estavam de bom humor. Desceu o corredor de meia, deslizando no chão que brilhava como um rio ao sol, e ouviu a voz de Kali saindo da tela da parede.
 
-	A noite caiu, trazendo consigo o silêncio habitual da casa de Velho-Sábio. Beatriz, no entanto, não conseguia dormir. Dentro de dois dias ela finalmente completaria onze anos. A ansiedade aliado a tudo que Velho-Sábio lhe dissera, impedia seus olhos de se fecharem. 
+– Bom dia, Bruno. Dormiu bem?
 
-	A garota se levantou e seguiu para a sala. A lareira crepitava suavemente, lançando sombras nas paredes cobertas por estantes de livros. Beatriz entrou hesitante, os olhos brilhando de curiosidade enquanto passavam pelos títulos antigos e imponentes. Um em particular chamou sua atenção.
+– Dormi... acho. – Ele parou, coçando a cabeça. – Ei, Kali, posso te perguntar uma coisa estranha?
 
-	O livro estava em uma prateleira central, sua capa de couro envelhecido decorada com símbolos gravados à mão. O título reluzia em letras douradas desbotadas: “Crônicas de Belfex – Um Relato Entre as Sombras”. No centro, um círculo gravado dividia fogo e uma flor, e o nome Lirivane Valtheris estava discretamente inscrito na parte inferior.
+– Claro. O que você tem na cabeça?
 
-	Beatriz pegou o livro com cuidado, sentindo o peso da história em suas mãos. Ela se acomodou perto da lareira, abrindo o volume na metade. As páginas eram densas, e a escrita era estranha. Uma língua que ela não compreendia. Mas estranhamente, as letras diante de seus olhos, se reorganizaram e formaram palavras em português tornando tudo legível: 
+Bruno mexeu nos próprios dedos, o que era raro para quem se achava tão confiante.
 
-	
+– É sobre a Brenda. Eu... acho ela interessante. Bonita, poderosa, meio irritante, mas de um jeito que me dá vontade de irritar mais ainda. – Riu, nervoso. – Eu a derrubei no jogo e disse que na próxima ela podia ter uma chance. E, olha, ela não gostou nada. O que eu faço pra... sei lá... chegar mais perto?
 
-	“No início, eu via os senantes como monstros. E talvez eles fossem. Mas naquele dia, naquela floresta onde o crepitar das folhas secas sob os pés ecoava mais alto do que os gritos da batalha ao longe, percebi que havia monstros de ambos os lados.
+A tela demorou um pouco, o que nunca acontecia.
 
-	Era noite. A lua brilhava, pálida e indiferente, entre os galhos retorcidos que pareciam mãos estendidas ao céu. Eu estava acorrentada a uma árvore, junto a outros velitas capturados. Meus punhos doíam, a pele machucada pelas amarras. Os senantes que nos vigiavam eram brutais, riam entre si, apontando lanças que refletiam o brilho gélido da lua. Em seus olhos, eu via apenas desprezo, como se nossas vidas fossem menos que poeira.
+– Observei Brenda quando ela veio com o pai. Parecia altiva. – A voz de Kali baixou. – Mas acho que ela é fechada. Não deixa as pessoas se aproximarem. Talvez valorize alguém que mostre atenção constante, sem invadir. Elogios sutis. Reconhecer as habilidades dela.
 
-	Então, aconteceu. Os velitas que estavam ao meu lado, supostamente meus aliados, começaram a se mover de forma estranha. Um a um, eles romperam suas correntes com facilidade. Não era força bruta; era premeditado. Eu entendi, tarde demais, que tudo aquilo era uma armadilha.
+– Elogiar de leve? Sem exagero? – Bruno riu. – Bom, posso tentar. Já fiz isso com meu cabelo.
 
-	Os velitas atacaram os senantes com uma violência quase animalesca. Não havia honra, apenas sangue. Ouvi os gritos de pânico dos senantes, mas não senti compaixão. Eu os odiava. Mas então vi algo que mudou tudo. Um dos velitas—aquele que antes havia sussurrado palavras de conforto para mim—arrastou um dos prisioneiros senantes até onde eu estava. Ele o humilhou diante de mim, forçando-me a assistir enquanto golpeava o homem repetidamente.
+Fez menção de sair, mas voltou e olhou para a tela.
 
-	Meus olhos se abriram para a verdade. Não havia inocentes ali.
+– Você me pediu pra ensinar como é amar. Acho que a primeira coisa que você sente é vontade de estar perto, mesmo quando a pessoa te irrita. Quando tudo o que ela faz parece especial, até as coisas idiotas. Só de pensar nela, você sorri. – Parou. – É estranho, né?
 
-	O caos tomou conta da floresta. Era como se as sombras ao nosso redor se tornassem vivas, dançando e sussurrando. Então, de repente, o céu foi rasgado por um brilho escarlate. Algo, ou alguém, descia com a força de um meteoro, envolvendo tudo em uma onda de calor sufocante.
+– Estranho... e fascinante – respondeu Kali, quase num sussurro digital. – Obrigada por compartilhar.
 
-	Ela veio.
+Bruno deu um sorriso pequeno e foi para a cozinha, onde o cheiro de massa fresca já subia. A mesa estava posta com pães cinzentos, frutas exóticas e um bolo simples de aroma encantador. Debaixo da cadeira, o Coronel abriu um olho, avaliou se havia sobras e voltou a dormir. Bruno pegou um pedaço de pão. Pouco depois, Breno entrou, mais relaxado do que de costume.
 
-	Édelin.
+– Tudo certo?
 
-	Uma figura solitária emergiu do fogo. Seu cabelo era negro como a noite, mas parecia crepitar nas pontas como se as chamas fossem parte de seu ser. Seus olhos, porém, eram o que mais me marcou. Eles brilhavam, não com luz, mas com algo mais profundo. Um poder que parecia olhar para além da carne e enxergar diretamente na alma. Manchas escuras cercavam cada um de seus olhos, como cicatrizes de algo sombrio. Os velitas que haviam armado a emboscada foram os primeiros a cair. Eles nem sequer tiveram chance de reagir. Com um gesto de sua mão, ela os incinerou, suas cinzas sendo levadas pelo vento como se jamais tivessem existido. Os gritos foram horríveis. Eu senti o calor das chamas, mas não fui queimada. Ao contrário, fui poupada.
+– Por que não estaria? – Bruno mastigou.
 
-	Quando Édelin caminhou em minha direção, eu não consegui respirar. Não era apenas o calor; era o peso de sua presença. Ela parecia uma divindade da destruição, mas também uma juíza imparcial. ‘Você não pertence a isso,’ — disse ela, sua voz ecoando dentro de mim como uma profecia.”
+Breno passou a mão no cabelo.
 
-	
+– Eu te devo desculpas pelo jeito que te tratei nos últimos dias. Peguei pesado.
 
-	Beatriz mal teve tempo de registrar as últimas palavras da página que lia quando ouviu um leve ruído. Seu coração disparou, e ela fechou o livro rapidamente, como se fosse uma culpada descoberta. Ao levantar os olhos, encontrou Velho-Sábio parado no corredor, sua figura imponente emoldurada pela luz suave da lareira.
+Bruno levantou uma sobrancelha, sem parar de mastigar.
 
-	— Tudo bem, pequena? — perguntou ele, a voz tranquila, mas carregada de curiosidade.
+– Pegou. Mas foi um pouco merecido. – Sorriu rápido. – Eu também devia ter ouvido mais você.
 
-	Beatriz assentiu rapidamente, apertando o livro contra o peito.
+– Isso foi um pedido de desculpas?
 
-	— S-sim, só... só estava curiosa. — Ela levantou-se, recolocando o livro na estante com pressa, mas sua mente ainda estava presa à figura de Édelin.
+– Foi o mais perto que você vai ter de um.
 
-	Velho-Sábio arqueou uma sobrancelha ao observar o comportamento nervoso dela, mas não comentou. Ele deu um passo à frente, cruzando as mãos atrás das costas.
+Breno riu e balançou a cabeça.
 
-	— Não me parece bem, criança. Parece-me preocupada — disse ele, sua voz calmamente inquisitiva.
+Mais tarde, a casa inteira se reuniu na sala para uma partida de pedropone, com direito a trapaças, risadas e acusações cruzadas. O vencedor foi Breno, para espanto de todos. Bruno exigiu auditoria.
 
-	Beatriz hesitou, mas então se virou para ele com uma expressão inquisitiva, quase desafiadora.
+– Que tal darmos uma volta pela cidade hoje à tarde? – propôs Velho-Sábio, com um sorriso misterioso. – Precisamos comprar vestes para o festival.
 
-	— Quem era Édelin? — A pergunta saiu rápida, direta, como um raio.
+– Vamos de túbulas? – Banjo quase subiu na mesa.
 
-	Velho-Sábio parou, sua expressão mudou para algo mais pensativo, como se buscasse a melhor maneira de responder.
+– Claro.
 
-	— Édelin Fils foi uma peça fundamental no fim do conflito entre velitas e senantes — disse ele, pausando por um momento antes de continuar. — Ela viveu há mais de dois mil anos.
+Caminharam dez minutos até a estação por ruas animadas, onde comerciantes gritavam ofertas e crianças brincavam com brinquedos que flutuavam no ar. Já sem medo, de mãos soltas, os quatro fizeram a viagem de túbulas rindo, o cabelo de Beatriz cobrindo o rosto inteiro quando desembarcaram.
 
-	Beatriz estreitou os olhos, absorvendo cada palavra. Mas algo a incomodava.
+A visão que os esperava era de tirar o fôlego. O Bazar do Oeste se estendia por ruas estreitas e sinuosas, cheio de barracas coloridas que pareciam ter vida própria. Tecidos dançavam no ar. Lanternas flutuantes iluminavam cada esquina, mesmo em pleno dia. De um telhado qualquer, sem nuvem e sem janela, uma chuva fina de pétalas começou a cair por alguns passos e parou, sem explicação, como se alguém lá em cima tivesse espirrado primavera.
 
-	— Ela tinha o poder do fogo. Mas o usava para o mal. Ela era uma maga negra? — perguntou, sua voz carregada de uma inocência que fazia a pergunta soar ainda mais pesada.
+– Uau! – Beatriz apontava para um estande de vestidos que mudavam de cor ao toque.
 
-	Velho-Sábio hesitou. O peso da pergunta parecia maior do que ele esperava. Ele ajeitou a postura, olhando-a nos olhos.
+– Isso é incrível! – Banjo ria diante de um homem que esculpia gelo que nunca derretia.
 
-	— Há muitas histórias sobre aquele tempo, Beatriz. Muitas versões diferentes. O que sabemos é que Édelin era incrivelmente poderosa. Alguns dizem que sua magia flertava com a escuridão, mas... o que importa é como ela usou esse poder.
+Um vendedor espremeu uma fruta, e o suco explodiu na cara de Banjo. Ele gritou, depois riu com os outros. Bruno passou por uma barraca de ervas, e uma planta saltou da prateleira e grudou no braço dele.
 
-	Beatriz inclinou a cabeça, pensativa.
+– Velho-Sábio! – chamou ele, sacudindo o braço. – A planta me adotou!
 
-	— Ela controlava o fogo e o caos, como eu... — Sua voz vacilou ao final da frase. — Na aula de coral, eu destruí tudo, sem querer. Mas até hoje ainda não compreendi o que foi aquilo. Não foi o fogo, foi algo diferente. Você já nos tinha dito sobre Édelin. O poder dela estava no estírio? 
+– Bem-vindos ao Bazar do Oeste – disse o mago, com uma risada contida. – O maior mercado livre de Tayo. Muita coisa vem de Marador, a cidade do norte, onde estão os melhores tecelões e artesãos. E por mais bagunçado que pareça, a gente sempre acha algo de valor por um bom preço.
 
-	— Não posso confirmar isso, garota. Já fazem dois mil anos, e histórias, como sabe, passam pelas mãos de diversos homens. Nunca se deve acreditar 100% no que dizem os livros. 
+Breno quase tropeçou numa poça que um balde flutuante despejou no caminho, e os irmãos caíram na gargalhada. Mais à frente, Beatriz se aproximou de uma barraca de frutas, e do telhado de lona desceu, devagar, uma joaninha do tamanho de uma bandeja, de asas lustrosas e antenas que balançavam com curiosidade. Parou a um palmo do nariz dela e a examinou com os olhos pretos e redondos.
 
-	— Mas se ela deixou seus poderes lá… e eu os tenho… Eu feri o Breno com eles no treinamento…  e se… eu me tornar uma maga negra?
+Beatriz gritou e se escondeu atrás de Breno. A joaninha, ofendida, subiu de volta.
 
-	O mago suspirou e puxou uma cadeira próxima. Ele sentou-se, os olhos fixos nela, mas com uma suavidade que lhe dava conforto.
+– Ela só queria dizer oi – disse o vendedor, rindo.
 
-	— Beatriz, Édelin foi mais do que sua magia. Ela era uma guerreira, sim, mas também uma mulher com escolhas difíceis a fazer. — Ele fez uma pausa, buscando as palavras certas. — Se você herdou o poder dela, isso não significa que está destinada a seguir o mesmo caminho. O poder é apenas uma ferramenta. O que importa é como você escolhe usá-lo.
+– A garota do fogo azul tem medo de joaninha – comentou Bruno, de braços cruzados, com o prazer de quem espera por esse momento há semanas.
 
-	Beatriz cruzou os braços, franzindo o cenho.
+– Ela era do tamanho de uma bandeja!
 
-	— No livro, ela matou homens. Incinerou eles com o fogo dela... — Sua voz era um sussurro quase trêmulo. — Isso é ser uma guerreira memorável?
+– Uma bandeja simpática.
 
-	Velho-Sábio respirou fundo, desviando o olhar por um momento. Quando voltou a encará-la, havia uma seriedade em seu tom.
+Os irmãos notaram que alguns jovens senavelitas os observavam de soslaio, cochichando, mais curiosos do que hostis.
 
-	— Por que você acha que as pessoas escrevem histórias, Beatriz? — ele perguntou, retoricamente.
+– Estamos ficando famosos? – murmurou Bruno.
 
-	Ela ficou em silêncio, esperando a resposta.
+– Depois do jogo, não é surpresa – respondeu Breno.
 
-	— Histórias servem para muitas coisas, mas principalmente para ensinar. Elas são uma forma de estudar os erros e acertos do passado, para que possamos aprender com eles e não repeti-los. — Ele fez uma pausa, deixando que suas palavras se assentassem. — Se Édelin cometeu erros no uso de seu poder, isso não significa que você precisa seguir o mesmo caminho. Agora você sabe o que não deve fazer. 
+Velho-Sábio parou diante de uma barraca modesta, cheia de objetos intrigantes. O dono era um homem baixo e curvado, de barba que brilhava como estrelas e olhos de um azul profundo.
 
-	Beatriz olhou para ele, ainda incerta.
+– Mestre Arcus.
 
-	— O fogo é um poder perigoso — continuou ele. — Se usado de forma imprudente, pode destruir, tirar vidas. Mas, ao mesmo tempo, é ele que permanece ali na lareira e nos esquenta. O fogo não é destruição; ele é transformação. É a sua escolha como usar o que tem.
+– Auream Vetus, nosso Velho-Sábio! – respondeu o homem, com a voz rouca e amigável. – Bem de saúde, pelo que vejo.
 
-	Beatriz ficou pensativa por um momento, os olhos brilhando à luz da lareira. Então, para surpresa do mago, ela sorriu.
+– Uma perna às vezes obedece menos que a outra, mas seguimos firmes. Ainda tem itens raros?
 
-	— Obrigada... eu acho.
+– Sempre, meu caro. Sempre.
 
-	Velho-Sábio retribuiu o sorriso, genuíno desta vez.
+Depois de examinar algumas peças, Velho-Sábio voltou com presentes nas mãos.
 
-	— Boa noite, pequena. Vê se não demora a dormir. 
+– Estes são para vocês.
 
-	Beatriz assentiu e voltou para o quarto, sentindo-se um pouco mais leve. Mas dentro de si, sabia que as perguntas sobre Édelin ainda não tinham terminado.
+A Banjo entregou uma criatura parecida com um esquilo, de olhos grandes e brilhantes e cauda que cintilava como poeira de estrela.
 
-	
+– Um petrisco. Inteligente, obediente, entra em lugares onde você não consegue entrar. No escuro, é muito útil. E é uma ótima companhia.
 
-	O silêncio ainda pairava na casa de Velho-Sábio quando Bruno abriu os olhos na manhã seguinte. Ele olhou ao redor, tentando se lembrar de onde estava, e levantou-se antes de todos, a barriga roncando. Ao passar no corredor, ele ouviu a voz suave e familiar de Kali.
+O petrisco subiu no ombro de Banjo e, pelo jeito, já se considerava morador definitivo.
 
-	— Bom dia, Bruno. Dormiu bem?
+A Bruno deu um chapéu preto com bordas prateadas.
 
-	Bruno queria continuar até a cozinha, mas deu meia volta no corredor e seguiu até a sala para responder Kali enquanto se espreguiçava.
+– Chapéu do Arcanium. Tem um espaço mágico dentro, onde se guardam coisas. Mas cuidado para não esquecer nada lá.
 
-	— Bom dia, Kali. Dormi sim, acho... — Ele hesitou, sentando-se na cama e coçando a cabeça. Depois de alguns segundos, soltou um suspiro e continuou. — Ei, Kali, posso te perguntar uma coisa? É meio... estranho.
+– Por que eu usaria isso? – Bruno girou o chapéu nas mãos. – É feio.
 
-	A IA pausou, como se estivesse avaliando a pergunta antes mesmo de ouvi-la.
+– Combina com você – disse Beatriz, e todos riram. Bruno o colocou na cabeça, de má vontade, e ficou parecendo um personagem de teatro.
 
-	— Claro, Bruno. O que está em sua mente?
+Para Breno, um saquinho de pedras coloridas.
 
-	Bruno mexeu nos próprios dedos, algo incomum para alguém tão confiante, antes de falar.
+– Gemas de Ravelis. Cada uma tem uma função mágica. Qual é qual, você descobre testando. – O mago tirou da manga uma pedra roxa, igual a uma das do saquinho, e atirou no chão perto de Banjo, que foi erguido para o alto, gritando.
 
-	— É sobre a Brenda. Eu... acho que ela é interessante. Tipo, bonita, poderosa, meio irritante às vezes, mas de um jeito que... sei lá, me faz querer irritá-la mais. — Ele riu nervosamente. — Eu a derrotei no jogo, e meio que sugeri que da próxima vez ela poderia ter uma chance de ganhar. Mas, cara, ela não pareceu nada feliz com isso. O que você acha? O que eu faço para... sei lá, me aproximar dela?
+– UAAAH!
 
-	Kali demorou alguns segundos para responder, o que era incomum. Se Bruno não soubesse que ela era apenas um programa, poderia jurar que ela estava escolhendo as palavras cuidadosamente.
+Velho-Sábio usou o bastão para trazê-lo de volta ao chão, devagar.
 
-	— Brenda... — começou Kali, com um tom que sugeria uma análise objetiva, mas com um toque de hesitação. — Eu a observei na última vez que esteve aqui, com o pai dela. Ela parecia... altiva. Confiante. — Sua voz ficou um pouco mais baixa. — Mas acho que há algo mais. Ela é fechada. Não deixa que as pessoas se aproximem facilmente. Talvez ela valorize alguém que mostre... atenção constante, mas que não seja invasivo. Como... elogiá-la de forma sutil. Reconhecer as habilidades dela.
+– Funciona bem, não acha?
 
-	Bruno assentiu, ainda pensativo.
+Por último, aproximou-se de Beatriz e colocou um anel delicado no dedo dela.
 
-	— Então, elogiar de leve? Sem exagerar? — Ele riu baixinho. — Bom, eu posso tentar — ele iria sair, quando algo veio em sua cabeça e ele virou-se para Kali . — você disse-me que queria aprender como é amar alguém. Bom, acho que a primeira coisa que você sente quando ama, é uma vontade de estar com essa pessoa o tempo todo. Mesmo quando ela te irrita. Quando tudo o que ela faz parece especial... até as coisas mais idiotas. Tipo, só de pensar nela, você sorri. — Ele parou, pensando no que acabara de dizer. — É estranho, né?
+– Anel Orcidal. Ajuda a catalisar o seu poder. Impede que as chamas e o caos saiam do controle.
 
-	— Estranho... e fascinante — respondeu Kali, quase num sussurro digital. — Obrigada por compartilhar isso comigo.
+Beatriz olhou para o anel, encantada, e sorriu, tímida.
 
-	Bruno levantou-se, dando um pequeno sorriso para o teto, como se pudesse ver onde Kali estava "ouvindo". Ele desceu as escadas e foi para a cozinha, onde o cheiro de massa fresca o envolveu. Na mesa, havia uma variedade de alimentos: pães cinzas, algumas frutas exóticas, e um bolo simples, mas com um aroma encantador.
+– Obrigada.
 
-	Ele começou a comer, pegando um pedaço do pão cinzento, quando Breno entrou, parecendo um pouco mais relaxado do que de costume.
+Continuaram pelo bazar, e Banjo não parava de brincar com o petrisco, que pulava de um ombro ao outro, olhando tudo. Um vendedor de barba azulada os chamou:
 
-	— Tudo certo? — perguntou Breno, puxando uma cadeira.
+– Jovens senavelitas! Têm coragem de provar uma sepária?
 
-	Bruno deu de ombros, mastigando.
+Bruno mordeu uma e a cuspiu na hora.
 
-	— Sim. Por que não estaria?
+– Isso tem gosto de sabão!
 
-	Breno suspirou e passou a mão no cabelo.
+Bolhas saíram do nariz dele, e os irmãos caíram na risada.
 
-	— Por nada. Bom… Acho que... te devo desculpas pelo jeito que te tratei nos últimos dias. — Ele hesitou, parecendo desconfortável com a própria admissão. — Eu peguei pesado.
+– Fazemos sabão mágico com ela! – explicou o vendedor, rindo.
 
-	Bruno levantou uma sobrancelha, ainda mastigando, mas não perdeu a oportunidade de alfinetar.
+Mais adiante, uma senhora de uma barraca de tecidos puxou Beatriz pelo braço e lhe mostrou um vestido que mudava de cor conforme a luz.
 
-	— É, você pegou. Mas... foi meio merecido. — Ele deu um sorriso rápido antes de continuar. — Eu também deveria ter ouvido mais você. — A última parte saiu de um jeito quase orgulhoso, como se fosse difícil para ele admitir.
+– O brilho da minha querida combina com este.
 
-	Breno riu, balançando a cabeça.
+Banjo comentou que talvez fosse chamativo demais, e todos riram. No ar, outra rajada rápida de pétalas passou por cima deles e sumiu, desta vez rosa. Um besouro do tamanho de um gato dormia numa viga, de barriga para cima, e Beatriz, a três barracas dali, mudou de calçada só por precaução.
 
-	— Isso foi um pedido de desculpas?
+A agitação foi interrompida quando Velho-Sábio parou diante de uma barraca elegante: pilares de madeira polida, cristais cintilantes e um letreiro flutuante em dourado e lilás: "Ateliê das Estrelas".
 
-	— Foi o mais próximo que você vai ter de um — respondeu Bruno, com um sorriso brincalhão.
+– Ah, Peryth. Sempre uma presença inconfundível.
 
-	Mais tarde, os irmãos se reuniram na sala com Banjo e Beatriz. A garota estava extremamente ansiosa hoje, ela sabia o porquê. Amanhã seria seu aniversário. Velho-Sábio lhes propôs uma partida de pedropone e todos jogaram. A competição foi acirrada, cheia de risadas e provocações, o vencedor dessa vez foi Breno, o que pegou a todos de surpresa.
+Por trás do balcão estava um homem de cabelo prateado penteado para trás, olhos marcados por uma sombra fina e túnica longa de veludo roxo, bordada em dourado como se tivesse estrelas costuradas.
 
-	— Bom, o que acham de hoje à tarde darmos uma volta pela cidade para comprar vestes para o festival de amanhã — disse ele, um sorriso misterioso dançando em seu rosto.
+– Velho-Sábio, meu querido! – A voz era melodiosa e teatral. Ele abriu os braços, depois parou e olhou para os irmãos. – E estes são os prodígios?
 
-	— Vamos de túbulas? — Banjo perguntou, quase pulando de animação.
+– Falaram de nós? – perguntou Banjo.
 
-	— Claro, será uma experiência divertida — respondeu Velho-Sábio, rindo da empolgação do garoto.
+– Meu caro, metade da cidade fala! – Peryth piscou. – O Vórtice Monumental? Uma obra de arte! Mas escutem: viver em Belfex não é fácil. A glória pode ser um doce veneno.
 
-	Eles caminharam cerca de dez minutos até a estação das túbulas, passando por ruas animadas, onde comerciantes gritavam ofertas e crianças brincavam com brinquedos mágicos que flutuavam no ar. Ao chegar à estação, entraram no Karto, que os levou até uma área mais central da cidade. A segunda vez não foi menos emocionante que a primeira. Cada curva, cada elevação ou descida, deixava os garotos mais e mais emocionados. Os cabelos de Beatriz cobriam quase seu rosto todo quando eles saíram do Karto. 
+– Um doce veneno? – repetiu Beatriz.
 
-	Quando desembarcaram, a visão que os aguardava era de tirar o fôlego. Havia uma enorme feira que se estendia por ruas estreitas e sinuosas, com barracas coloridas que pareciam ter vida própria. Tecidos dançavam no ar como se tivessem mente própria, enquanto lanternas flutuantes iluminavam cada esquina, mesmo sob a luz do dia.
+– A fama atrai admiradores... e olhos perigosos. – Por um instante a brincadeira sumiu da voz dele. Depois voltou. – Mas falemos de coisas leves! Vieram escolher vestes para o Festival das Luzes. E o Festival pede estilo, e Peryth é o arquiteto do glamour!
 
-	— Uau! — Beatriz exclamou, maravilhada, enquanto seus olhos brilhavam ao ver um estande com vestidos que mudavam de cor ao toque das pessoas.
+Ele estalou os dedos, e peças de roupa flutuaram ao redor deles: túnicas que mudavam de cor, capas com bordados brilhantes, chapéus cintilantes de pequenas constelações.
 
-	— Isso é incrível! — Banjo disse, apontando para uma barraca onde um homem criava esculturas mágicas de gelo que não derretiam.
+Banjo pegou uma túnica verde-escura com folhas bordadas.
 
-	Banjo sorriu, fascinado, mas sua atenção foi rapidamente desviada quando um vendedor de frutas mágicas esguichou suco de uma fruta que explodiu em sua mão, molhando-o completamente.
+– Parece eu!
 
-	— Ei! — ele gritou, mas logo caiu na risada junto com os outros.
+– Absolutamente fabuloso! – aplaudiu Peryth. – E combina com seu companheiro. Um verdadeiro fashionista.
 
-	Bruno não escapou da confusão. Ao passar por uma barraca de ervas, uma planta saltou da prateleira e grudou em seu braço, se recusando a sair.
+Bruno vestiu uma capa azul-escura com detalhes dourados e girou.
 
-	— Velho-Sábio! — ele chamou por ajuda, tentando afastar a planta.
+– Que tal?
 
-	— Bem vindos ao Bazar do Oeste — respondeu o mago, com uma risada contida. — Ele é famoso em Tayo por ser o maior mercado livre da cidade. Muito daqui é trazido de Marador, a cidade do norte, onde os melhores tecelões e artesãos trabalham. E por mais bagunçada que pareça, você sempre encontra algo de valor por um bom preço.
+– Dramático, audacioso, um pouquinho exagerado... e perfeito para você!
 
-	Breno quase tropeçou em uma poça que surgira magicamente de um balde flutuante, o que fez os irmãos caírem na gargalhada. Apesar da bagunça, o clima era leve e divertido.
+– Eu sempre soube – disse Bruno, ajeitando o colarinho.
 
-	Conforme passeavam, os irmãos notaram que algumas pessoas no bazar os observavam de soslaio. Não eram olhares ameaçadores, mas havia curiosidade, especialmente de outros jovens senavelitas que pareciam cochichar entre si.
+Breno escolheu um colete cinza, de bordados escuros.
 
-	— Estamos ficando famosos? — Bruno murmurou para Breno.
+– Parece bom.
 
-	— Talvez. Depois do que fizemos no jogo, não é surpresa — respondeu o irmão mais velho, mantendo um tom discreto.
+– Meu caro, "parecer bom" não basta. Você precisa de algo que diga "eu sou uma muralha inabalável", como naquele jogo. Este colete diz isso. Simples, elegante, cheio de força.
 
-	Enquanto caminhavam, Velho-Sábio parou em frente a uma barraca modesta, mas cheia de objetos intrigantes. O dono da barraca era um homem baixo e curvado, com uma barba que brilhava levemente como estrelas e olhos de um azul profundo.
+Beatriz estava hipnotizada por um vestido vermelho-alaranjado que ondulava como fogo. Hesitou, e Peryth se inclinou ao nível dela.
 
-	— Mestre Arcus — disse Velho-Sábio atraindo o sorriso simpático do homem. 
+– Vá em frente, minha pequena estrela. Você é uma chama viva, e este vestido será sua dança de luzes. Mas lembre-se: é você quem dá vida à roupa, não o contrário. Confiança é o melhor acessório!
 
-	— Auream Vetus, nosso Velho-Sábio — respondeu Arcus, com uma voz rouca e amigável — Está muito bem, pelo que vejo. 
+Beatriz riu e desapareceu atrás de um biombo. Banjo experimentou um chapéu com asas de pássaro e fez um desfile.
 
-	— Uma perna às vezes não funciona tão bem quanto a outra, mas continuamos firmes. Diga-me, ainda tem alguns itens raros interessantes à venda? — perguntou Velho-Sábio.
+– Eu poderia te contratar como modelo – disse Peryth, com a mão no peito –, mas temo que você roubaria o show.
 
-	— Sempre tenho, meu caro. Sempre — respondeu Arcus.
+Quando Beatriz reapareceu, girando tímida no vestido, Banjo assobiou baixinho.
 
-	Após examinar algumas coisas, Velho-Sábio voltou para os garotos com presentes nas mãos. 
+– Bea, você vai incendiar o festival. Literalmente.
 
-	— Estes são para vocês. 
+Peryth fez ajustes imaginários na bainha e deu um passo atrás.
 
-	Ele se aproximou de Banjo primeiro e lhe entregou uma pequena criatura, parecida com um esquilo, mas com olhos grandes e brilhantes e uma cauda que cintilava como poeira estelar.
+– Uma obra-prima. Agora só falta um sorriso confiante.
 
-	— Este é um Petrisco. Ele é muito inteligente, obediente, e pode entrar em lugares que você não consegue. No escuro ele também pode ser muito útil. Além disso, é ótimo para companhia — disse o mago, enquanto o Petrisco subia no ombro de Banjo, provocando risadas. 
+Ela sorriu, dessa vez com firmeza.
 
-	Depois, virou-se para Bruno e entregou-lhe um chapéu preto com bordas prateadas.
+– O mundo não está preparado para você, querida.
 
-	— Este é um Chapéu do Arcanium. Ele tem um espaço mágico interno onde você pode guardar coisas. Mas cuidado para não esquecer coisas lá dentro. 
+Enquanto os outros ainda experimentavam peças, Peryth baixou a voz, sem o tom teatral.
 
-	Bruno pegou e girou o chapéu nos braços.
+– Eles são especiais, não são?
 
-	— Por que eu usaria isso? É feio. 
+– São. – Velho-Sábio assentiu, e uma sombra de preocupação passou por seus olhos. – Mas o mundo em que estão entrando não é tão colorido quanto estas roupas.
 
-	— Combina com você — riu Beatriz brincou, fazendo os irmãos rir. Bruno em seguida, colocou o chapéu na cabeça. 
+Peryth deu de ombros, com um suspiro dramático.
 
-	Para Breno, o presente foi um pequeno saco de pedras coloridas.
+– Então que eles brilhem mais forte. A luz é mais bela quando enfrenta a escuridão.
 
-	— Estas são Gemas de Ravelis. Cada uma tem uma função mágica. Qual é qual? Bem, você terá que testar. — O mago pegou uma pedra azul e jogou no chão perto de Banjo, que foi erguido para o alto, gritando.
+Finalmente todos estavam prontos. Peryth deu um passo atrás, admirando os quatro com um sorriso que misturava orgulho e melancolia.
 
-	— UAAAAH! — Banjo gritou, girando no ar até que Velho-Sábio usou seu bastão para trazê-lo de volta ao chão com segurança.
+– Agora sim, meus queridos. Vocês estão prontos para enfrentar o mundo.
 
-	— Funciona bem, não acha? — Velho-Sábio disse, rindo enquanto Breno examinava as pedras com curiosidade.
+Quando deixaram a barraca, ele murmurou para si mesmo, quase sem som:
 
-	Por fim, Velho-Sábio se aproximou de Beatriz e colocou um anel delicado em sua mão.
+– Que as estrelas guiem seus caminhos.
 
-	— Este é um Anel Orcidal. Ele ajudará você a catalisar seu poder. Impede que suas chamas e seu caos saiam do controle. 
+O comentário se perdeu no burburinho do bazar, mas Velho-Sábio pareceu ouvi-lo. Virou-se um instante, e os dois trocaram um olhar que dizia mais do que as palavras.
 
-	Beatriz olhou para o anel com admiração, sorrindo timidamente.
+Bruno e Breno ficaram para trás, enquanto Banjo e Beatriz exploravam as barracas.
 
-	— Obrigada, Velho-Sábio — disse ela colocando o anel no dedo.
+– Você lembra daquele domingo em que o pai nos obrigou a consertar a cerca? – perguntou Bruno, de repente.
 
-	Os irmãos seguiram pelo bazar, suas expressões misturando admiração e diversão enquanto exploravam cada canto daquele lugar mágico e vibrante. Banjo não parava de brincar com seu Petrisco, que parecia tão curioso quanto ele, pulando de um ombro para outro e observando tudo com olhos brilhantes.
+Breno sorriu de lado, com um olhar melancólico.
 
-	Enquanto seguiam, um vendedor de frutas mágicas os chamou:
+– Você inventou que tinha torcido o pulso pra fugir do trabalho.
 
-	— Ei, jovens senavelitas! Vocês têm coragem para experimentar uma sepária? — disse um homem corpulento, com barba longa e azulada que brilhava sob o sol.
+– Não foi preguiça, foi estratégia. – Bruno riu curto. – Mas ele não caiu. Me fez segurar a madeira enquanto você martelava.
 
-	— Sepária? — Beatriz perguntou, curiosa, mas cautelosa. Velho-Sábio assentiu e os garotos se aproximaram. 
+– E você reclamou o tempo todo.
 
-	— É uma fruta rara! — o homem respondeu, animado. — Mas cuidado, ela tem um gosto... único.
+– No fim, ele só queria que a gente aprendesse a trabalhar junto. – Bruno chutou uma pedrinha. – Acho que eles teriam gostado de ver a gente no jogo.
 
-	Bruno pegou uma e deu uma mordida, apenas para cuspir quase imediatamente.
+Andaram em silêncio por um tempo.
 
-	— Isso tem gosto de… sabão! — ele exclamou, quando bolhas de sabão saíam de seu nariz, fazendo os irmãos rir.
+– Ele estaria orgulhoso de nós, né? – perguntou Bruno, quase num sussurro.
 
-	— Fazemos sabão mágico com ela, jovem! — o vendedor respondeu, rindo alto. 
+– Com certeza.
 
-	Mais à frente, uma senhora idosa em uma barraca de tecidos puxou Beatriz pelo braço.
+Bruno assentiu, mas o rosto estava sombrio.
 
-	— Minha querida, você tem o brilho de alguém muito especial. Veja este vestido, combina perfeitamente com sua energia — disse ela, enquanto segurava um vestido que mudava de cor conforme os ângulos de luz.
+– Fico pensando no tio Frank.
 
-	Beatriz sorriu, mas logo Banjo interrompeu.
+O nome trouxe um peso novo entre eles. Breno respirou fundo.
 
-	— Ela é incrível, mas talvez isso seja um pouco chamativo demais, não acha? — ele brincou, fazendo todos rirem. 
+– A gente nunca pensou nisso, né? No que ele perdeu quando viemos pra cá.
 
-	Cada canto do bazar revelava novas surpresas. Lanternas flutuantes dançavam no ar, bancas repletas de objetos brilhantes e aromas doces os envolviam. A agitação foi interrompida quando Velho-Sábio parou abruptamente, seus olhos fixos em uma barraca distinta.
+– Não – admitiu Breno, baixo. – Mas ele queria ver a gente feliz. Sempre disse isso.
 
-	A estrutura era uma obra de arte em si: pilares de madeira polida, adornados com cristais cintilantes que refletiam as luzes do bazar, e um grande letreiro flutuante que brilhava em tons de dourado e lilás, com letras elegantes que diziam: "Ateliê das Estrelas".
+– Será que é justo? – Bruno parou de andar. – Se a gente ficar aqui, ele fica sozinho.
 
-	— Ah, claro, Peryth. Sempre uma presença inconfundível — disse Velho-Sábio, com um sorriso enigmático, guiando os irmãos até a entrada.
+Breno olhou para a confusão do bazar sem enxergar nada.
 
-	Por trás do balcão estava um homem de aparência magnética. Seu cabelo, um prateado impecavelmente penteado para trás, tinha um brilho quase etéreo sob as luzes da barraca. Seus olhos, marcados por uma sombra escura sutil e delineados com precisão, carregavam uma intensidade brincalhona, quase provocativa. Ele vestia uma túnica longa de veludo roxo, decorada com detalhes dourados que pareciam cintilar como estrelas.
+– Não sei. Talvez essa seja a nossa maneira de honrar o pai e ele. Fazer algo que valha a pena aqui.
 
-	— Velho-Sábio! Meu querido! — exclamou Peryth, sua voz melodiosa ecoando com uma teatralidade encantadora. Ele abriu os braços como se fosse abraçar a todos, mas parou para analisar os irmãos. — E estes… estes são os jovens prodígios que ouvi tanto falar?
+Bruno ponderou, e não respondeu. Um chuvisco de aplausos o interrompeu. As pessoas ao redor os reconheciam, apontavam, chamavam pelos nomes.
 
-	Os irmãos trocaram olhares incertos. Banjo, no entanto, sorriu, claramente encantado pela energia vibrante do homem.
+– São eles! Os irmãos do Vórtice Monumental!
 
-	— Falaram de nós? — perguntou Banjo.
+Um grupo de crianças os cercou, pedindo para ver de perto os "heróis do jogo". Banjo acenou, tímido e encantado. Beatriz escondeu o rosto com as mãos.
 
-	Peryth inclinou-se teatralmente sobre o balcão, apoiando o queixo nas mãos, estudando os quatro com olhos afiados.
+– Eu não sei lidar com isso!
 
-	— Meu caro, metade da cidade está comentando sobre vocês! — ele respondeu, piscando para Banjo. — O jogo no Vórtice Monumental? Uma obra de arte! Mas, me escutem, jovens... viver em Belfex não é fácil. A glória pode ser um doce veneno.
+Bruno ergueu a mão e acenou como uma celebridade.
 
-	— Um doce veneno? — Beatriz perguntou, confusa.
+– Não é nada demais, pessoal. Só fazemos o que fazemos de melhor.
 
-	— Sim, querida. A fama atrai admiradores... mas também atrai olhos perigosos. — Ele ergueu uma sobrancelha, o tom de brincadeira em sua voz desaparecendo momentaneamente, antes de sorrir novamente. — Mas falemos de coisas mais leves! Vocês vieram ao lugar certo. Vieram comprar vestes para o festival das luzes, certo? E o Festival das Luzes pede estilo, e Peryth é o arquiteto do glamour!
+– Brigar durante o jogo? – perguntou Breno.
 
-	Ele estalou os dedos, e imediatamente várias peças de roupa flutuaram no ar ao redor deles. Cada uma parecia feita para capturar atenção: túnicas que mudavam de cor, capas com bordados brilhantes, chapéus que cintilavam com pequenas constelações.
+– E ganhar, claro. – Bruno piscou.
 
-	— Vamos, vamos! Experimentem! — incentivou ele, gesticulando com entusiasmo.
+Pelo caminho, as pessoas os cumprimentavam, e até Velho-Sábio, que costumava manter um ar reservado, sorriu levemente.
 
-	Banjo agarrou uma túnica verde-escura com detalhes de folhas bordadas e a segurou na frente do corpo.
+Na volta, já num dassi, Banjo tagarelava sobre as roupas, e Beatriz mostrava o anel em silêncio. Bruno olhava pela janela as luzes de Tayo passarem como borrões.
 
-	— Eu gostei dessa! Parece... eu! — disse ele.
+– Velho-Sábio, deixa eu ver se entendi. Ontem o senhor disse que a gente não podia chamar atenção. E hoje estamos desfilando pela cidade como estrelas, e amanhã vamos ao festival mais cheio do ano. – Ele arqueou uma sobrancelha. – Isso não é meio... hipocrisia de mago?
 
-	Peryth aplaudiu, girando em torno de Banjo.
+O mago sorriu, com a serenidade de sempre.
 
-	— Absolutamente fabulosa, meu caro! Combina com sua energia jovial e... — Ele parou, observando Petrisco em seu ombro. — Ah! E com seu pequeno companheiro. Um verdadeiro fashionista, devo dizer.
+– Parece estranho, é verdade. Mas proteger não é isolar. Vocês vieram a Belfex para aprender e crescer, e isso inclui viver aqui, com tudo que ela oferece. Há diferença entre cautela e paranoia, Bruno. Evitar atenção demais é prudente. Trancar-se em casa, não. E nada vai acontecer com vocês enquanto eu estiver aqui.
 
-	Bruno pegou uma capa azul-escuro com detalhes dourados e experimentou, girando dramaticamente.
+– E se Korvo aparecer no festival? – perguntou Beatriz.
 
-	— Que tal? — perguntou ele, claramente se divertindo.
+– Korvo jamais entraria em Tayo sozinho. Temos centenas de magos poderosos na cidade.
 
-	— Dramático, audacioso, talvez um pouco exagerado... mas absolutamente perfeito para você! — Peryth respondeu, inclinando-se teatralmente, o que arrancou risadas dos irmãos.
+– Isso se ele estiver sozinho – disse Bruno. – Ele tem uma patrulha, certo?
 
-	Breno, mais sério, optou por um colete cinza com bordados escuros. Ele olhou para o espelho, ajustando a peça.
+– Korvo tem muitos alvos, e Tayo não é o único. A patrulha dele opera nas sombras, em vários lugares. Eu estou atento a qualquer coisa estranha, mas por ora não há motivo para pânico. Eu estarei lá. Garmand estará lá. E vocês estarão juntos, que é o mais importante.
 
-	— Parece bom. — Ele deu de ombros.
+As palavras do mago acalmaram Bruno, mas Breno ficou pensativo, olhando a cidade passar pela janela.
 
-	Peryth se aproximou, olhando-o com um ar crítico, antes de alisar o tecido no ombro de Breno.
 
-	— Meu caro, você não precisa de algo que só pareça bom. Você precisa de algo que diga... eu sou uma muralha inabalável. Como foi naquele jogo. E este colete faz isso. Simples, elegante, mas cheio de força.
+Naquela noite, Breno sonhou com o corredor.
 
-	Beatriz, por outro lado, ficou encantada com um vestido vermelho-alaranjado que parecia ondular como fogo sob a luz. Ela hesitou, mas Peryth a incentivou.
+Era o de sempre: a pedra úmida, o silêncio que engolia os passos, a porta alta e entalhada, a mão de metal segurando o crânio no lugar da maçaneta, o frio subindo pelas pernas, o rosnado no fundo da cabeça. Mas, dessa vez, ele chegou até ali sem parar. Estendeu a mão e tocou a madeira. E, pela primeira vez, olhou os entalhes com atenção.
 
-	— Vá em frente, minha querida. Você é uma chama viva, e este vestido será sua dança de luzes no festival. 
+Eram figuras retorcidas, sim, como sombras presas na madeira. Mas, no centro da porta, quase apagado pelo tempo, havia um círculo dividido ao meio: de um lado, uma chama; do outro, uma flor.
 
-	Ela sorriu, um pouco tímida, mas claramente animada. Beatriz segurou o vestido com cuidado, como se temesse que algo tão bonito fosse desmanchar em suas mãos.
+O rosnado cresceu. Breno quis recuar, e os pés não se mexeram. Do outro lado da porta, alguém inspirou fundo.
 
-	Peryth, notando sua hesitação, inclinou-se ao nível dela, com um sorriso encorajador e uma piscadela exagerada.
-
-	— Não se preocupe, minha pequena estrela. Este vestido foi feito para brilhar tanto quanto você. Mas lembre-se: é você quem dá vida à roupa, não o contrário. Confiança é o melhor acessório!
-
-	Beatriz riu, relaxando um pouco, e logo desapareceu atrás de um biombo improvisado para experimentar o vestido.
-
-	Enquanto isso, Banjo estava examinando um chapéu que parecia ter asas de pássaro. Ele o colocou e girou dramaticamente, fazendo um biquinho.
-
-	— Que tal? Posso lançar moda? — perguntou, fingindo desfilar.
-
-	Peryth soltou uma gargalhada teatral e colocou as mãos no peito.
-— Absolutamente fabuloso! Eu poderia te contratar como modelo, mas temo que você roubaria o show!
-
-	Bruno, do outro lado, estava ajustando sua capa roxa e observando Peryth com curiosidade.
-
-	— Você sempre foi assim… cheio de energia? — perguntou ele, com um sorriso travesso.
-
-	— Querido, energia é o que mantém o mundo girando! — respondeu Peryth, erguendo as mãos dramaticamente. — E se não posso mudar o mundo inteiro, pelo menos faço o bazar brilhar!
-
-	— E você faz isso muito bem — disse Velho-Sábio, entrando na conversa com um leve sorriso.
-
-	— Ah, Velho-Sábio, sempre tão diplomático — respondeu Peryth, virando-se para ele com uma reverência exagerada. — Mas me diga, meu querido, por que trouxe esses prodígios à minha humilde barraca? Planejando algo grandioso para o festival, talvez?
-
-	Velho-Sábio sorriu enigmaticamente.
-
-	— Talvez. Quem sabe?
-
-	Peryth estreitou os olhos, como se tentasse decifrar algo nos rostos dos jovens. Então, voltou sua atenção para Breno, que estava segurando um colete prateado com um olhar crítico.
-— E você, muralha silenciosa, o que acha disso?
-
-	— É… bom — respondeu Breno, dando de ombros.
-
-	Peryth bateu palmas, como se tivesse acabado de ouvir uma declaração revolucionária.
-
-	— Bom! Ah, meu querido, você tem o dom de simplificar a perfeição. Mas vamos lá, me diga: o que você realmente quer dizer?
-
-	Breno olhou para ele, meio perdido, e então para os irmãos, que estavam rindo.
-
-	— Acho que combina comigo.
-
-	— Combina perfeitamente, isso sim! — disse Peryth, apontando para ele como se estivesse declarando um veredito final. — Forte, discreto, mas com um toque de elegância. Exatamente como você.
-
-	Beatriz reapareceu, girando timidamente no vestido vermelho-alaranjado. Banjo foi o primeiro a reagir, assobiando baixo.
-
-	— Uau, Bea, parece que você vai incendiar o festival. Literalmente.
-
-	Beatriz deu uma risadinha, e Peryth aproximou-se, segurando as bordas do vestido enquanto fazia ajustes imaginários.
-
-	— Está perfeita! Uma verdadeira obra-prima, assim como eu planejei. — Ele deu um passo atrás, erguendo as mãos como se estivesse avaliando uma pintura. — Agora só falta um sorriso confiante para completar o visual.
-
-	Beatriz sorriu, dessa vez com mais segurança.
-
-	— Assim está melhor, minha querida. O mundo não estará preparado para você.
-
-	Enquanto os outros ainda experimentavam peças, Peryth observou Velho-Sábio discretamente.
-
-	— Eles são especiais, não são? — perguntou ele em um tom mais baixo, sem o habitual tom teatral.
-
-	Velho-Sábio assentiu, um brilho de preocupação em seus olhos.
-
-	— São. Mas o mundo em que estão entrando… não é tão colorido quanto essas roupas.
-
-	Peryth soltou um suspiro dramático e deu de ombros.
-
-	— Bem, se é assim, então que eles brilhem mais forte. Afinal, a luz é mais bela quando enfrenta a escuridão.
-
-	A interação continuou com os irmãos rindo, brincando e escolhendo peças que refletiam suas personalidades. Peryth, sempre com um comentário espirituoso ou uma sugestão inesperada, parecia estar no centro da alegria. A barraca tornou-se um pequeno refúgio de descontração em meio à agitação do bazar.
-
-	Finalmente, todos estavam prontos. Peryth deu um passo atrás, admirando-os.
-
-	— Agora, sim, meus queridos, vocês estão prontos para enfrentar o mundo — declarou ele, com um sorriso que parecia conter tanto orgulho quanto melancolia.
-
-	Enquanto deixavam a barraca, Peryth os acompanhou com o olhar, murmurando para si mesmo:
-
-	— Que as estrelas guiem seus caminhos.
-
-	O comentário foi abafado pelo burburinho do bazar, mas Velho-Sábio pareceu ouvi-lo. Ele virou-se brevemente para Peryth, trocando um olhar que dizia mais do que palavras poderiam expressar.
-
-	Os irmãos seguiram o caminho de volta pelo bazar. Breno e Bruno ficaram um pouco para trás, observando os arredores enquanto Banjo e Beatriz exploravam as bancas mais próximas.
-
-	— Você lembra daquele domingo, quando o pai colocou a gente para consertar aquela cerca? — perguntou Bruno de repente, quebrando o silêncio entre eles.
-
-	Breno sorriu de lado, mas com um olhar melancólico.
-
-	— Como esquecer? Você ficou com preguiça no meio do trabalho e disse que tinha torcido o pulso só para escapar.
-
-	— Ei, não foi preguiça, foi estratégia — respondeu Bruno, com um riso curto. — Mas ele não caiu nessa. Lembro de como ele me fez segurar a madeira enquanto você martelava.
-
-	— E você reclamou o tempo todo — completou Breno, balançando a cabeça.
-
-	— No final, ele só queria que a gente aprendesse a trabalhar juntos — disse Bruno — Acho que eles iriam ter gostado de nos ver no jogo. 
-
-	Os dois caminharam em silêncio por alguns momentos, deixando a memória de Jack preencher o espaço entre eles. Bruno chutou uma pequena pedra no caminho, seus olhos fixos no chão.
-
-	— Ele estaria orgulhoso de nós, né? — perguntou Bruno, quase num sussurro.
-
-	Breno parou de andar por um instante, olhando para o irmão.
-
-	— Com certeza, meu irmão.
-
-	Bruno assentiu, mas seu rosto estava sombrio.
-
-	— Fico pensando também no tio Frank.
-
-	O nome trouxe uma nova onda de peso entre eles. Breno suspirou profundamente. Bruno ergueu os olhos, inquieto.
-
-	— A gente nunca pensou nisso antes, né? No que ele perdeu quando viemos para cá.
-
-	— Não — admitiu Breno, com a voz baixa. — Mas… ele queria ver a gente feliz. Foi o que ele sempre disse.
-
-	— É, mas será que é justo? — questionou Bruno. Ele parou de andar e olhou para Breno, sua expressão cheia de dúvidas. — E se a gente ficar aqui? Ele vai continuar sozinho.
-
-	Breno cruzou os braços, olhando para a movimentação caótica do bazar, mas sem realmente enxergar nada.
-
-	— Não sei, Bruno. Mas talvez… talvez essa seja a nossa maneira de honrar ele e o pai. Fazer algo significativo aqui.
-
-	Bruno pareceu ponderar isso, mas não respondeu. Eles ficaram em silêncio, acompanhando os risos de Banjo e Beatriz à frente. Então, de repente, uma chuva de aplausos surgiu. As pessoas ao redor os reconheciam, apontando e chamando seus nomes.
-
-	— São eles! — exclamou uma voz feminina no meio da multidão. — Os irmãos do Vórtice Monumental!
-
-	— Vocês foram incríveis! — gritou outro, enquanto um grupo de crianças os cercava, pedindo para ver de perto os "heróis do jogo".
-
-	Banjo acenou timidamente, mas claramente encantado com a atenção.
-
-	— Isso é… diferente — disse ele, um sorriso nervoso no rosto.
-
-	Beatriz tentou esconder o rosto com as mãos, corando com o assédio.
-
-	— Eu não sei lidar com isso!
-
-	Bruno, por outro lado, ergueu a mão e acenou de forma exagerada, como se fosse uma celebridade. 
-
-	— Não é nada demais, pessoal. Só fizemos o que sabemos fazer de melhor!
-
-	Breno revirou os olhos, mas acabou sorrindo, contagiado pela alegria ao redor.
-
-	— E o que seria isso? Brigar durante o jogo?
-
-	— E ganhar, claro! — respondeu Bruno, piscando para o irmão.
-
-	O grupo foi abrindo caminho pela multidão, com pessoas os cumprimentando e elogiando a cada passo. Até Velho-Sábio, que geralmente mantinha um ar reservado, sorriu levemente com a demonstração de afeto.
-
-	De volta para casa, o grupo embarcou em um dassi, ainda animado pela energia vibrante do bazar. Banjo, sentado na frente, tagarelava sobre os detalhes das roupas que escolheram, enquanto Beatriz mostrava discretamente o anel que havia recebido de Velho-Sábio. Bruno, entretanto, estava mais pensativo, os olhos fixos na janela enquanto a cidade de Tayo passava como um borrão de luzes e movimento.
-
-	Finalmente, ele quebrou o silêncio, virando-se para Velho-Sábio, que estava calmamente observando os garotos.
-
-	— Velho-Sábio, deixa eu ver se entendi — começou Bruno, inclinando-se um pouco para frente. — Você disse que a gente não podia não chamar atenção por conta que agora muitos estariam de olhos em nós. E agora, do nada, estamos desfilando por Tayo como se fossemos as estrelas da cidade e ainda vamos ao festival mais lotado do ano? — Ele arqueou uma sobrancelha, cruzando os braços. — Isso não parece meio… como posso dizer… hipocrisia de mago?
-
-	O mago ergueu uma sobrancelha, pensativo, antes de responder com sua voz grave e serena.
-
-	— De fato, parece estranho, Bruno— disse ele, cruzando os dedos sobre o bastão que segurava. — Eu quero protegê-los, sim, mas protegê-los não significa isolá-los do mundo. Vocês vieram para Belfex para aprender, crescer e se tornarem quem estão destinados a ser. Isso inclui enfrentar desafios e também experimentar a vida daqui, com tudo que ela tem a oferecer.
-
-	Breno, do banco ao lado, se inclinou, interessado.
-
-	— Mas e se... algo der errado?
-
-	Velho-Sábio sorriu de leve, mas havia firmeza em seu olhar.
-
-	— Um pouco de risco é necessário para viver, Breno. Vocês não podem se esconder para sempre. Há uma diferença entre cautela e paranoia. Evitar atenção excessiva é prudente, mas não significa que devamos nos trancar dentro de casa. Vocês são incríveis e provaram isso no campo de Gímiga. Agora, provem isso para si mesmos. Além disso… — Ele fez uma pausa, olhando para todos os irmãos antes de continuar. — Nada vai acontecer com vocês enquanto eu estiver aqui.
-
-	Beatriz então perguntou: 
-
-	— E se Korvo ou esses vigilantes falsos aparecerem no festival?
-
-	Velho-Sábio deu uma risada curta, mas não de deboche, e sim de confiança.
-
-	— Korvo nunca apareceria em Tayo sozinho. Ele pode ser um mago poderoso, mas temos centenas de outros magos poderosos por aqui que dariam conta dele. 
-
-	— Isso se ele estiver sozinho. Mas ele tem uma patrulha, certo? Com os membros mais leais a ele — perguntou Bruno. 
-
-	— Entendam, garotos. Korvo tem muitos alvos, Tayo não é a única zona em que ele está de olho. Sua patrulha é composta pelos membros mais leais, e eles operam nas sombras em diversos locais. Eu estou de olho em qualquer movimentação estranha por aqui, mas por ora, não é necessário pânico. Porque vocês não estão sozinhos. Eu estarei lá. Garmand estará lá. E, mais importante, vocês estarão juntos. Um grupo unido é mais forte do que qualquer ameaça que possa surgir.
-
-	As palavras do mago fizeram Bruno relaxar um pouco, mas Breno continuava pensativo. Ele desviou o olhar para fora da janela, observando as luzes de Tayo passarem rapidamente.
-
-	
-
-
+Acordou com a luz da lua no teto. Banjo roncava baixinho na cama ao lado, e as constelações do teto cochichavam entre si, dando as horas em números minúsculos. Breno ficou olhando para elas até o coração desacelerar. Tinha certeza de que nunca tinha visto aquele círculo antes. E, ao mesmo tempo, tinha a sensação de que já sabia o que ele significava.
