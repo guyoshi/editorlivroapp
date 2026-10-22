@@ -4,7 +4,7 @@ Na quinta à noite, ele serviu o jantar mais simples de todos, sopa e pão, e di
 
 – Durmam bem. O que vier, vocês já têm.
 
-A sexta-feira amanheceu clara e silenciosa. No pátio do Edifício Arcano, os aprendizes que restavam formavam grupos pequenos e falavam baixo, e todos olhavam, de tempos em tempos, para a porta por onde Garmand ia sair. Ninguém sabia qual seria o último desafio. "Todo ano é diferente", repetiam os senavelitas. "E nunca avisam."
+A sexta-feira amanheceu clara e silenciosa. No pátio do Edifício Arcano, os aprendizes que restavam formavam grupos pequenos e falavam baixo, e todos olhavam, de tempos em tempos, para a porta por onde Garmande ia sair. Ninguém sabia qual seria o último desafio. "Todo ano é diferente", repetiam os senavelitas. "E nunca avisam."
 
 Depois da reunião da Sociedade, ninguém tinha voltado ao assunto. Mas Bruno não tirava os olhos da mão de McCroys, que conversava com os gêmeos do outro lado do pátio. O dedo continuava sem anel, e a pele ali ficara mais clara, marcando o lugar onde ele estivera. Erick percebeu o olhar e devolveu uma careta. Bruno virou o rosto primeiro, e isso o irritou mais do que a careta.
 
@@ -62,7 +62,7 @@ Eshley piscou, sem saber o que dizer, e trocou com Beatriz um olhar rápido, mei
 
 – É. Ele é muito... dedicado ao trabalho. – Ele esfregou as mãos, olhando para elas. – E os seus? Ouvi dizer que eles também já estiveram aqui. Na quarta dimensão.
 
-Beatriz sentiu o estômago afundar. Lembrou do que Velho-Sábio dissera depois da reunião: o que ouviram ficava com eles. E lembrou, sem saber bem por quê, do homem de uniforme cinza que trocara um aceno com Garmand no dia em que Emiris voltou.
+Beatriz sentiu o estômago afundar. Lembrou do que Velho-Sábio dissera depois da reunião: o que ouviram ficava com eles. E lembrou, sem saber bem por quê, do homem de uniforme cinza que trocara um aceno com Garmande no dia em que Emiris voltou.
 
 – Não sei de nada – disse, e achou a própria voz pequena demais. – Eles nunca contaram nada pra gente.
 
@@ -130,7 +130,7 @@ Banjo sentiu um nó na garganta. Sempre achara que só ele se sentia perdido, e 
 – Foi. – Ela deu de ombros, firme de novo. – Agora que você sabe, da próxima vez me conduz direito. E quem sabe usa essa confiança para conquistar alguém que faça o seu coração disparar de verdade.
 
 
-Quando a luz do pátio já tinha dourado e começado a esfriar, Garmand mandou chamar os dezoito. Subiram juntos pelo elevador de vidro, apertados, em silêncio, até o sétimo andar. Velho-Sábio foi com os irmãos e pôs a mão no ombro de Breno.
+Quando a luz do pátio já tinha dourado e começado a esfriar, Garmande mandou chamar os dezoito. Subiram juntos pelo elevador de vidro, apertados, em silêncio, até o sétimo andar. Velho-Sábio foi com os irmãos e pôs a mão no ombro de Breno.
 
 – Fiquem juntos. Usem tudo o que aprenderam. – A voz era calma, mas os olhos não estavam. – Já salvei vocês uma vez. Não posso prometer uma segunda.
 
@@ -140,7 +140,7 @@ Quando a luz do pátio já tinha dourado e começado a esfriar, Garmand mandou c
 
 O elevador se abriu num salão enorme, de teto de vidro, por onde entrava a luz do fim da tarde. Estantes de metal guardavam armaduras leves, uniformes dobrados e esferas que pulsavam, cada uma com um brilho próprio, como pequenos corações adormecidos. No chão de pedra polida, linhas e símbolos desenhavam um mapa que ninguém ali sabia ler. O ar tinha cheiro de couro e metal.
 
-Garmand subiu numa plataforma baixa.
+Garmande subiu numa plataforma baixa.
 
 – O último desafio será uma partida de Gímiga!
 
@@ -179,7 +179,7 @@ Lá fora, a cidade estava inteira em movimento. Andaram algumas quadras debaixo 
 
 – Uau – murmurou Beatriz.
 
-Garmand depositou algumas moedas vermelhas furadas numa máquina, e portas de vidro se abriram diante dele, como se o reconhecessem.
+Garmande depositou algumas moedas vermelhas furadas numa máquina, e portas de vidro se abriram diante dele, como se o reconhecessem.
 
 – Não se dispersem. As túbulas são rápidas, e... intensas.
 
@@ -189,7 +189,7 @@ Esperando a vez numa plataforma circular, rodeada de carrinhos que mudavam de co
 
 – Vocês não têm a menor ideia de como se joga, né? – disse ela, sem levantar a cabeça. – Dá pra ver de longe. Então escutem.
 
-Riscou um retângulo, um círculo em cada ponta e uma floresta de pontinhos no meio. Em dois minutos, com o giz e muita pressa, explicou o Gímiga: dois times de nove, cada um com uma Zona de Coleta, onde as Marqes ficam guardadas por um Zerak, e uma Zona de Arremesso, onde só o Zyron pode marcar ponto. Os Drakons são quatro atacantes que roubam Marqes do lado inimigo, pulando de pilar em pilar, e as atiram para o Zyron. Os três Vardeks defendem e recuperam o que for roubado. Só magia elemental, vento, água, fogo, terra, gelo, contra os jogadores. Nunca contra as Marqes nem contra os pilares. Quem quebra a regra leva o Congelamento Instantâneo, e o time inteiro fica parado por cinco segundos. A partida tem dois tempos.
+Riscou um retângulo, um círculo em cada ponta e uma floresta de pontinhos no meio. Em dois minutos, com o giz e muita pressa, explicou o Gímiga: dois times de nove, cada um com uma Zona de Coleta, onde as Marqes ficam guardadas por um Zerak, e uma Zona de Arremesso. O Zyron é especialista em marcar pontos, mas qualquer jogador pode arremessar. Os Drakons são quatro atacantes que roubam Marqes do lado inimigo, pulando de pilar em pilar, e as levam para a Zona de Arremesso. Os três Vardeks defendem e recuperam o que for roubado. Qualquer tipo de magia pode ser usado contra jogadores, desde que não os ponha em perigo grave. Não se pode mover uma Marqe diretamente com magia nem danificar os pilares. Quem quebra a regra leva o Congelamento Instantâneo, e o time inteiro fica parado por cinco segundos. A partida tem dois tempos.
 
 – É como pegar a bandeira – resumiu Banjo, impressionado.
 
@@ -230,11 +230,11 @@ Diante deles se erguia o Vórtice Monumental. Era uma construção colossal de c
 
 Antes do portal, dois vigilantes de uniforme cinza conferiam nomes numa prancheta de cristal. Um deles, de olhos cansados e sorriso gentil, ergueu o rosto quando os irmãos se aproximaram.
 
-– Fulgor Dourado, certo? Eu sou o Gary. Já vi vocês no Edifício Arcano, mas nunca de perto. – Tirou do bolso um saquinho de balas de mel e estendeu a Banjo. – Para os nervos. Não contem para a Erla. Ela acha que doce é falta de disciplina.
+– Fulgor Dourado, certo? Eu sou o Garien. Já vi vocês no Edifício Arcano, mas nunca de perto. – Tirou do bolso um saquinho de balas de mel e estendeu a Banjo. – Para os nervos. Não contem para a Erla. Ela acha que doce é falta de disciplina.
 
 – O senhor é vigilante de verdade? – perguntou Bruno, aceitando duas balas em vez de uma.
 
-– Só quando alguém está olhando. – Gary deu de ombros, e Banjo riu. – Fiquem tranquilos. Eu mesmo organizei os turnos: cada um de vocês tem dois vigilantes de olho o tempo todo. Ninguém chega perto sem que eu saiba.
+– Só quando alguém está olhando. – Garien deu de ombros, e Banjo riu. – Fiquem tranquilos. Eu mesmo organizei os turnos: cada um de vocês tem dois vigilantes de olho o tempo todo. Ninguém chega perto sem que eu saiba.
 
 Ele sorriu mais uma vez, desejou boa sorte, e a prancheta de cristal piscou, verde, para o próximo da fila.
 
@@ -334,7 +334,7 @@ Os irmãos se entreolharam ao ouvir os gêmeos. Bruno apertou os punhos.
 
 – É claro que esses dois iam parar no time adversário – murmurou.
 
-Breno, por outro lado, observou Ferris Cotton com curiosidade, lembrando do desempenho dele no desafio do rio. Um pouco mais atrás, o menino James, o mais novo dos dezoito, ajeitava o cabelo com uma pose de quem não sabia ainda o tamanho do jogo.
+Breno, por outro lado, observou Ferris Montfort com curiosidade, lembrando do desempenho dele no desafio do rio. Um pouco mais atrás, o menino James, o mais novo dos dezoito, ajeitava o cabelo com uma pose de quem não sabia ainda o tamanho do jogo.
 
 – Com o Ferris do outro lado, não vai ser fácil – disse Shirley.
 
@@ -344,7 +344,7 @@ Os irmãos receberam os uniformes verdes. Bruno olhou o dele e sorriu, e Banjo l
 
 – Lembrem-se – disse Aradon, abrindo os braços –, este é um teste individual. Cada um será avaliado pelo que fizer em campo. Mostrem do que são feitos!
 
-Uma rajada de vento o ergueu e o levou até as arquibancadas. Não estavam lotadas, mas havia pelo menos cinquenta pessoas ali. Velho-Sábio, Garmand, Tango e Leon sentavam lado a lado. Garmand anotava tudo na pena que escrevia sozinha, Tango comia uma pipoca azul e oferecia a Leon, que recusava com educação, e Velho-Sábio segurava uma bandeirinha do Fulgor Dourado que jurava ter encontrado ali por acaso. Os tutores dos demais aprendizes se espalhavam pelas cadeiras flutuantes. McCroys ocupou sozinho uma fileira inteira. As cadeiras ao redor continuaram vazias, e quem passava dava a volta por trás para não ter de passar por ele.
+Uma rajada de vento o ergueu e o levou até as arquibancadas. Não estavam lotadas, mas havia pelo menos cinquenta pessoas ali. Velho-Sábio, Garmande, Tango e Lioro sentavam lado a lado. Garmande anotava tudo na pena que escrevia sozinha, Tango comia uma pipoca azul e oferecia a Lioro, que recusava com educação, e Velho-Sábio segurava uma bandeirinha do Fulgor Dourado que jurava ter encontrado ali por acaso. Os tutores dos demais aprendizes se espalhavam pelas cadeiras flutuantes. McCroys ocupou sozinho uma fileira inteira. As cadeiras ao redor continuaram vazias, e quem passava dava a volta por trás para não ter de passar por ele.
 
 Banjo sorriu para os irmãos e gritou:
 

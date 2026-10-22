@@ -228,19 +228,19 @@ Fechou a porta devagar. Do lado de fora, ouviu-se um passo pensativo que demorou
 Os quatro ficaram parados olhando os cacos. Depois Beatriz começou a rir, e Bruno também, e Banjo também, e por um momento a gente podia jurar que aquele era o quarto de qualquer casa, de qualquer mundo.
 
 
-À noite, enquanto jogavam Pedropone com Velho-Sábio, a campainha ecoou pela casa. O velho se levantou calmamente, com um olhar tranquilizador, e foi até a porta. Os garotos espiaram de longe.
+À noite, enquanto jogavam Tepone com Velho-Sábio, a campainha ecoou pela casa. O velho se levantou calmamente, com um olhar tranquilizador, e foi até a porta. Os garotos espiaram de longe.
 
-Era Garmand, com Brenda atrás dele. A garota mantinha a cabeça baixa e as mãos nos bolsos, e olhava a sala de lado, como quem tenta decorar tudo sem ser notada. O Coronel, deitado perto da lareira, ergueu as orelhas e ficou observando, sem se levantar.
+Era Garmande, com Brenda atrás dele. A garota mantinha a cabeça baixa e as mãos nos bolsos, e olhava a sala de lado, como quem tenta decorar tudo sem ser notada. O Coronel, deitado perto da lareira, ergueu as orelhas e ficou observando, sem se levantar.
 
 Bruno tentou disfarçar o interesse, mas os olhos dele voltavam para ela toda vez que ela desviava o rosto. Brenda parecia alheia, o que só piorava tudo.
 
-Depois dos cumprimentos formais, Garmand foi direto:
+Depois dos cumprimentos formais, Garmande foi direto:
 
 – Tenho visto vigilantes rondando a minha casa. Hoje um deles estava perto da porta. Cada dia confio menos em deixá-la sozinha. – Olhou para Brenda por um segundo.
 
 – Não é só você – disse Velho-Sábio. – Tenho percebido a Vigilância nos observando mais. Há algo acontecendo, mas ainda não sei o quê.
 
-– A Vigilância está agindo de forma estranha – disse Garmand. – Poucos merecem confiança. E os rumores sobre Korvo e a Patrulha dele no leste crescem. O povo, com medo, apoia a Vigilância sem perguntar nada.
+– A Vigilância está agindo de forma estranha – disse Garmande. – Poucos merecem confiança. E os rumores sobre Korvo e a Patrulha dele no leste crescem. O povo, com medo, apoia a Vigilância sem perguntar nada.
 
 – Korvo é esperto. Não precisa aparecer pra mexer nas peças.
 
@@ -256,19 +256,19 @@ Brenda suspirou, entediada, e percebeu o olhar de Bruno. Ergueu as sobrancelhas 
 
 – Faz quase dez anos – murmurou Velho-Sábio, como se falasse sozinho.
 
-– E eu pensei nisso mais de dez vezes – disse Garmand. – Mas agora é diferente. Estamos no escuro. Precisamos saber em quem confiar.
+– E eu pensei nisso mais de dez vezes – disse Garmande. – Mas agora é diferente. Estamos no escuro. Precisamos saber em quem confiar.
 
 O velho ficou em silêncio por um longo momento.
 
 – As circunstâncias pedem ação. Se continuarmos esperando, pode começar uma guerra civil em Tayo. A Sociedade talvez seja o melhor caminho.
 
-Garmand virou-se para os irmãos.
+Garmande virou-se para os irmãos.
 
 – Quanto a vocês: nada do que ouviram aqui sai desta casa. Nem para os amigos do Edifício. É para a segurança de todos.
 
 – Sim, senhor – respondeu Breno depressa, e os outros assentiram.
 
-Garmand acenou para Brenda, que se levantou devagar e olhou uma última vez para a sala, e saíram. Quando a porta se fechou, Velho-Sábio ficou parado por um tempo. O Coronel foi até ele e encostou o focinho na perna do dono, e o mago afagou a cabeça do cachorro, distraído.
+Garmande acenou para Brenda, que se levantou devagar e olhou uma última vez para a sala, e saíram. Quando a porta se fechou, Velho-Sábio ficou parado por um tempo. O Coronel foi até ele e encostou o focinho na perna do dono, e o mago afagou a cabeça do cachorro, distraído.
 
 – Eu sei que vocês têm dúvidas – disse, enfim, e sentou-se no sofá. – A Sociedade de Tayo foi criada há muito tempo, por gente que queria o bem da cidade. Quando as ameaças passaram, deixamos de nos reunir. Agora as coisas estão mudando.
 

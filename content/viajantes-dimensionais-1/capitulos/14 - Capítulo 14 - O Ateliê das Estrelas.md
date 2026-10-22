@@ -12,7 +12,7 @@ Beatriz ria tanto que não conseguia responder. Eshley a abraçou por trás, Shi
 
 De Lucía, aquilo valia uma medalha.
 
-Desceram juntos para o centro da arena, onde Aradon, Garmand e os tutores esperavam. Beatriz procurou Velho-Sábio, cheia de vontade de ver orgulho nos olhos dele. Mas ele estava com o rosto sério, quase sombrio, e o sorriso dela foi se apagando devagar.
+Desceram juntos para o centro da arena, onde Aradon, Garmande e os tutores esperavam. Beatriz procurou Velho-Sábio, cheia de vontade de ver orgulho nos olhos dele. Mas ele estava com o rosto sério, quase sombrio, e o sorriso dela foi se apagando devagar.
 
 Aradon deu um passo à frente.
 
@@ -44,9 +44,9 @@ Ferris sorriu, de leve, e assentiu para Lucía, que devolveu o aceno com a mesma
 
 Brenda corou, virou o rosto e tentou esconder o canto da boca, que escapava para cima.
 
-Garmand surgiu entre eles, e todos se calaram.
+Garmande surgiu entre eles, e todos se calaram.
 
-– Parabéns. Mas lembrem-se: isto foi apenas uma parte da avaliação. Cada um será julgado individualmente, com uma pontuação extra para a equipe vencedora. Vocês saberão quem passou.
+– Parabéns. Mas lembrem-se: a vitória foi apenas uma parte da avaliação. Cada um foi observado individualmente, com uma pontuação extra para a equipe vencedora. – Garmande consultou as anotações que fizera durante a partida e chamou os aprovados, um por um. Breno, Bruno, Banjo e Beatriz ouviram os próprios nomes. Beatriz apertou a mão de Banjo, e ele a ergueu do chão num abraço.
 
 Velho-Sábio os chamou com um gesto.
 
@@ -95,7 +95,7 @@ Velho-Sábio se agachou à altura dela e pousou a mão em seu ombro.
 
 – Mas isso não quer dizer que façam o mesmo com a gente – disse Bruno, de pé. – Por que estamos tanto no radar?
 
-– Porque vocês são dimensais talentosos, exatamente o que Korvo procura. E não é só ele. A Vigilância também vê o poder de vocês, e pode interpretá-lo como ameaça. Becker é capaz de pressionar o governo de Lucas Veline para criar um decreto que os mande para casa.
+– Porque vocês são dimensais talentosos, exatamente o que Korvo procura. E não é só ele. A Vigilância também vê o poder de vocês, e pode interpretá-lo como ameaça. Beker é capaz de pressionar o governo de Lucan Veline para criar um decreto que os mande para casa.
 
 Breno coçou a nuca.
 
@@ -116,6 +116,12 @@ Beatriz respirou fundo.
 – Eu fico. Quero ser forte como a mamãe era.
 
 Velho-Sábio olhou para os quatro, e o rosto suavizou.
+
+– E agora? – perguntou Banjo. – Passamos. O que acontece com a gente?
+
+– As avaliações de integração ficaram para trás. Vocês podem permanecer em Belfex e seguir para os próximos ciclos de formação. Eu continuarei treinando os quatro. – Velho-Sábio deixou escapar um sorriso. – Vocês também pertencem a este mundo.
+
+Beatriz sorriu para os irmãos. Ainda havia perigo lá fora, mas ninguém podia tirar deles aquele instante.
 
 – Então está decidido. Mas agora não há margem para erro. Vocês andam sempre juntos, sempre se protegem. O treino será intenso. – Ele cruzou as mãos nas costas, e um sorriso raro se desenhou. – Amanhã vocês descansam. E no dia seguinte terão o privilégio de ir ao Festival das Luzes, um dos eventos mais belos de Tayo.
 
@@ -233,7 +239,7 @@ Bruno levantou uma sobrancelha, sem parar de mastigar.
 
 Breno riu e balançou a cabeça.
 
-Mais tarde, a casa inteira se reuniu na sala para uma partida de pedropone, com direito a trapaças, risadas e acusações cruzadas. O vencedor foi Breno, para espanto de todos. Bruno exigiu auditoria.
+Mais tarde, a casa inteira se reuniu na sala para uma partida de tepone, com direito a trapaças, risadas e acusações cruzadas. O vencedor foi Breno, para espanto de todos. Bruno exigiu auditoria.
 
 – Que tal darmos uma volta pela cidade hoje à tarde? – propôs Velho-Sábio, com um sorriso misterioso. – Precisamos comprar vestes para o festival.
 
@@ -295,7 +301,7 @@ O petrisco subiu no ombro de Banjo e, pelo jeito, já se considerava morador def
 
 A Bruno deu um chapéu preto com bordas prateadas.
 
-– Chapéu do Arcanium. Tem um espaço mágico dentro, onde se guardam coisas. Mas cuidado para não esquecer nada lá.
+– Chapéu Espaçado. Tem um espaço mágico dentro, onde se guardam coisas. Mas cuidado para não esquecer nada lá.
 
 – Por que eu usaria isso? – Bruno girou o chapéu nas mãos. – É feio.
 
@@ -473,7 +479,7 @@ Pelo caminho, as pessoas os cumprimentavam, e até Velho-Sábio, que costumava m
 
 Na volta, já num dassi, Banjo tagarelava sobre as roupas, e Beatriz mostrava o anel em silêncio. Bruno olhava pela janela as luzes de Tayo passarem como borrões.
 
-– Velho-Sábio, deixa eu ver se entendi. Ontem o senhor disse que a gente não podia chamar atenção. E hoje estamos desfilando pela cidade como estrelas, e amanhã vamos ao festival mais cheio do ano. – Ele arqueou uma sobrancelha. – Isso não é meio... hipocrisia de mago?
+– Velho-Sábio, deixa eu ver se entendi. Mais cedo o senhor disse que a gente não podia chamar atenção. E hoje estamos desfilando pela cidade como estrelas, e depois de amanhã vamos ao festival mais cheio do ano. – Ele arqueou uma sobrancelha. – Isso não é meio... hipocrisia de mago?
 
 O mago sorriu, com a serenidade de sempre.
 
@@ -485,7 +491,7 @@ O mago sorriu, com a serenidade de sempre.
 
 – Isso se ele estiver sozinho – disse Bruno. – Ele tem uma patrulha, certo?
 
-– Korvo tem muitos alvos, e Tayo não é o único. A patrulha dele opera nas sombras, em vários lugares. Eu estou atento a qualquer coisa estranha, mas por ora não há motivo para pânico. Eu estarei lá. Garmand estará lá. E vocês estarão juntos, que é o mais importante.
+– Korvo tem muitos alvos, e Tayo não é o único. A patrulha dele opera nas sombras, em vários lugares. Eu estou atento a qualquer coisa estranha, mas por ora não há motivo para pânico. Eu estarei lá. Garmande estará lá. E vocês estarão juntos, que é o mais importante.
 
 As palavras do mago acalmaram Bruno, mas Breno ficou pensativo, olhando a cidade passar pela janela.
 

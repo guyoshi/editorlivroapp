@@ -5,7 +5,7 @@ Os quatro irmãos se juntaram a uma mesa onde Eshley, Maria e Emiris já convers
 
 – Venham! – chamou Eshley, ajeitando a capa de estrelas. – Estou contando pra eles como foi que cheguei aqui.
 
-– Eu sou dimensal – disse ela, quando todos se sentaram. – Moro com a minha avó, em Neredis. Meus pais morreram quando eu era pequena. A vovó também foi chamada, há muito tempo, mas não passou nos desafios. Ela me ensinou tudo o que sabia sobre este mundo, bem baixinho, pra que eu nunca esquecesse. – Sorriu, com os olhos brilhando. – Estar aqui é o sonho dela. E o meu.
+– Eu sou dimensal – disse ela, quando todos se sentaram. – Moro com a minha avó, em Niterói, no Brasil. Meus pais morreram quando eu era pequena. A vovó também foi chamada, há muito tempo, mas não passou nos desafios. Ela me ensinou tudo o que sabia sobre este mundo, bem baixinho, pra que eu nunca esquecesse. – Sorriu, com os olhos brilhando. – Estar aqui é o sonho dela. E o meu.
 
 A mesa ficou em silêncio por um instante, e foi um silêncio bom, de quem respeita uma confissão. Maria pousou a mão no ombro da amiga.
 
@@ -45,7 +45,7 @@ Brenda parou e olhou para Bruno de cima a baixo, com um sorriso debochado.
 
 Foi embora com a bandeja flutuando atrás dela, como um cachorrinho obediente. Bruno ficou olhando.
 
-– Ela é difícil – cochichou Emiris. – Filha do Garmand. Não tem paciência com novatos.
+– Ela é difícil – cochichou Emiris. – Filha do Garmande. Não tem paciência com novatos.
 
 – Isso só deixa as coisas mais interessantes – resmungou Bruno.
 
@@ -170,7 +170,7 @@ Bruno deu de ombros e olhou as luzes passando.
 
 A chuva tamborilava no telhado da casa do Velho-Sábio, e a sala cheirava a madeira e chá. Sobre a mesa, um tabuleiro brilhava com runas pequenas, e figurinhas dançavam entre os quadrados.
 
-– Pedropone – anunciou Velho-Sábio. – Dados mágicos, pontes de enigma e torres de desafio. Quem perde paga um mico.
+– Tepone – anunciou Velho-Sábio. – Dados mágicos, pontes de enigma e torres de desafio. Quem perde paga um mico.
 
 Banjo perdeu a primeira rodada. Seu mico foi soltar uma bolha de sabão a cada palavra que dissesse, e ele quis explicar a regra para os irmãos, o que durou uns três minutos e deixou a sala cheia de bolhas que estouravam em notinhas. Beatriz ganhou quatro rodadas seguidas e dançou a vitória. Breno calculava cada movimento em silêncio.
 
@@ -352,9 +352,9 @@ Breno apertou os olhos. Por um momento pareceu que ia dizer algo duro. Em vez di
 Virou as costas e foi embora. Bruno ficou ali, com um nó na garganta.
 
 
-Na sala de espera dos aprendizes, havia sofás fundos e plantas que viravam as folhas atrás da luz. Beatriz e Banjo conversavam com Eshley e Maria, que falavam de saudade de Neredis.
+Na sala de espera dos aprendizes, havia sofás fundos e plantas que viravam as folhas atrás da luz. Beatriz e Banjo conversavam com Eshley e Maria. Eshley falava da saudade de Niterói.
 
-– Lá eu cuidava das volhas – disse Eshley, sorrindo. – São bichos tranquilos, tipo vacas, só que mais sentimentais. Parece que sentem o humor da gente. – Tirou do bolso um bichinho do tamanho de uma mão, peludo, de olhos enormes. – Este é o Pitu. Me ajuda a lembrar de casa.
+– Quando bate saudade, eu vou cuidar das volhas daqui – disse Eshley, sorrindo. – São bichos tranquilos, tipo vacas, só que mais sentimentais. Parece que sentem o humor da gente. – Tirou do bolso um bichinho do tamanho de uma mão, peludo, de olhos enormes. – Este é o Pitu. Me ajuda a lembrar de casa.
 
 Banjo se aproximou e passou a mão nas costas dele.
 
@@ -380,15 +380,15 @@ Foi então que um homem de cabelo castanho-escuro e barba aparada se aproximou, 
 
 – Oi, turma!
 
-– É o Leon, nosso tutor – disse Maria.
+– É o Lioro, nosso tutor – disse Maria.
 
-– E então, como estão se saindo? – Leon olhou para os irmãos, com interesse genuíno.
+– E então, como estão se saindo? – Lioro olhou para os irmãos, com interesse genuíno.
 
 – Não fomos bem no Desafio da Harmonia – respondeu Banjo. – Mas a gente não sabe nada de magia.
 
 – É normal. O Velho-Sábio é um dos melhores senavelitas que já conheci. Vocês vão longe com ele.
 
-Leon levou as garotas para o próximo treino. Banjo e Beatriz ficaram sorrindo, e a luz de Tayo derramava no chão uma poça de ouro.
+Lioro levou as garotas para o próximo treino. Banjo e Beatriz ficaram sorrindo, e a luz de Tayo derramava no chão uma poça de ouro.
 
 Enquanto isso, Breno estava no banheiro, olhando para o espelho. A voz de Bruno ainda ecoava. Seria ele, afinal, um líder? Ou só alguém que tentava segurar os cacos?
 

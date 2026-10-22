@@ -18,7 +18,7 @@ Beatriz assentiu, mas não acreditou. O anel estava no bolso do vestido, pesando
 
 Uma luz mágica se acendeu na parede e todos se encolheram. Um estalo metálico cortou o silêncio, e de dentro de um aparelho embutido na pedra, parecido com um rádio rudimentar, saiu uma voz cansada e rouca.
 
-– Sexto dia do quarto mês. Somos os últimos da Presália. Estamos com fome, estamos cansados, e ele continua atrás de nós. Suas sombras são tão escuras que nem a luz o revela. Nós não devíamos ter aberto a porta da Sala da Escuridão, mas abrimos. O Umbraath está solto. Se alguém ouvir isso, o único...
+– Sexto dia do quarto mês. Somos os últimos da Presália. Estamos com fome, estamos cansados, e ele continua atrás de nós. Suas sombras são tão escuras que nem a luz o revela. Nós não devíamos ter aberto a porta da Sala da Escuridão, mas abrimos. O Umbaros está solto. Se alguém ouvir isso, o único...
 
 O som foi cortado por um estrondo metálico e por algo que arranhava a pedra. Depois, silêncio.
 
@@ -188,19 +188,19 @@ Quando a luz diminuiu, havia um homem no centro do salão, de pele escura e barb
 
 – Você sabe que nem você acredita nisso. O poder o consumiu.
 
-Das laterais do tribunal, entraram Garmand, Tango, Leon e Karol. Atrás deles vinham outros membros da Sociedade de Tayo: Mereditha, com as escamas brilhando, Seraphina Dalmora, de capa de seda escura, e Elowen, de postura firme. Ricochet Bombergue apareceu por último, ajeitando as colheres do cinto como quem chega a uma festa.
+Das laterais do tribunal, entraram Garmande, Tango, Lioro e Karoli. Atrás deles vinham outros membros da Sociedade de Tayo: Mereditha, com as escamas brilhando, Serafira Dalmora, de capa de seda escura, e Elowen, de postura firme. Ricochet Bombergue apareceu por último, ajeitando as colheres do cinto como quem chega a uma festa.
 
 Eles discutiam baixinho, e a discussão não parou nem diante de Korvo.
 
 – Eu disse que devíamos entrar pelo teto – sibilou Tango.
 
-– E eu disse que não – respondeu Garmand, sem olhar para ele.
+– E eu disse que não – respondeu Garmande, sem olhar para ele.
 
 – Você diz não para tudo.
 
 – Eu digo não para as ideias ruins. Você tem muitas.
 
-Garmand parou ao lado de Velho-Sábio. A pena que anotava tudo sozinha, atrás da orelha dele, ficou imóvel pela primeira vez desde que os irmãos o conheciam.
+Garmande parou ao lado de Velho-Sábio. A pena que anotava tudo sozinha, atrás da orelha dele, ficou imóvel pela primeira vez desde que os irmãos o conheciam.
 
 – Você está atrasado, Auream – murmurou.
 
@@ -210,13 +210,13 @@ Garmand parou ao lado de Velho-Sábio. A pena que anotava tudo sozinha, atrás d
 
 Mereditha, porém, não ouviu nada disso. Seus olhos âmbar corriam pelas celas ao fundo do tribunal, onde sombras encolhidas se mexiam atrás das grades, e as escamas dela estavam de um cinza apagado que os irmãos nunca tinham visto.
 
-– Os presos primeiro – disse, e começou a abrir caminho, em vez de ocupar o lugar que Garmand lhe tinha marcado. – Se a lenda era verdadeira, eles estão aqui há anos. Eu não vou deixar ninguém para trás, Garmand. Nem por ordem sua.
+– Os presos primeiro – disse, e começou a abrir caminho, em vez de ocupar o lugar que Garmande lhe tinha marcado. – Se a lenda era verdadeira, eles estão aqui há anos. Eu não vou deixar ninguém para trás, Garmande. Nem por ordem sua.
 
 – Mereditha, a formação...
 
 – Que a formação me alcance, então.
 
-Garmand fechou os olhos por um instante, como quem desiste de vencer uma discussão antiga, e acenou para Elowen acompanhá-la. Tango, ao passar por Bruno, deu um tapinha em sua cabeça.
+Garmande fechou os olhos por um instante, como quem desiste de vencer uma discussão antiga, e acenou para Elowen acompanhá-la. Tango, ao passar por Bruno, deu um tapinha em sua cabeça.
 
 – Fica atrás de mim, isca. Eu sou mais bonito para ser acertado.
 
@@ -240,9 +240,9 @@ Tarde demais. Erla lançou uma onda de luz que iluminou o tribunal inteiro. Korv
 
 A batalha estourou de uma vez.
 
-Os seguidores se atiraram contra a Sociedade e a Vigilância. Garmand saltou para a frente, pisou o chão com o calcanhar e a gravidade dobrou: uma onda de pedra levantou os atacantes do chão e os derrubou como bonecos. Anasin deslizou pelas sombras, rápida demais para ser seguida, e lançou estacas de gelo negro contra Garmand, mas ele fez o ar em volta pesar e as estacas se desmancharam em pó antes de chegar.
+Os seguidores se atiraram contra a Sociedade e a Vigilância. Garmande saltou para a frente, pisou o chão com o calcanhar e a gravidade dobrou: uma onda de pedra levantou os atacantes do chão e os derrubou como bonecos. Anasin deslizou pelas sombras, rápida demais para ser seguida, e lançou estacas de gelo negro contra Garmande, mas ele fez o ar em volta pesar e as estacas se desmancharam em pó antes de chegar.
 
-Karol deu um passo à frente, e raios azuis saltaram de suas mãos, estalando de um inimigo a outro, deixando uma fileira de seguidores tombados e fumegando. Leon varreu o ar com os braços, e um vento cortante levantou capas, escudos e espadas, arrastando-os pelo teto. Tango ergueu colunas de pedra do chão para bloquear os golpes e arremessou blocos do tamanho de carroças. Mereditha, que já tinha arrancado as grades das celas, abriu os braços, e a água brotou do chão em uma parede que dividiu o salão ao meio e protegeu os presos às costas dela. Quando um seguidor tentou atravessá-la, a água formou tentáculos que o prenderam e o jogaram contra a parede.
+Karoli deu um passo à frente, e raios azuis saltaram de suas mãos, estalando de um inimigo a outro, deixando uma fileira de seguidores tombados e fumegando. Lioro varreu o ar com os braços, e um vento cortante levantou capas, escudos e espadas, arrastando-os pelo teto. Tango ergueu colunas de pedra do chão para bloquear os golpes e arremessou blocos do tamanho de carroças. Mereditha, que já tinha arrancado as grades das celas, abriu os braços, e a água brotou do chão em uma parede que dividiu o salão ao meio e protegeu os presos às costas dela. Quando um seguidor tentou atravessá-la, a água formou tentáculos que o prenderam e o jogaram contra a parede.
 
 Naghar saltou sobre os vigilantes, soltando uma poeira esverdeada pela boca, e os que respiravam desabavam no chão, dormindo. Elowen respondeu com um clarão que o fez recuar, silvando. Ricochet apareceu ao lado dos irmãos, de bolsos cheios.
 
@@ -260,7 +260,7 @@ No centro, Erla enfrentava Korvo. Era a luta de duas tempestades. O raio negro d
 
 Pelos cantos, a Patrulha de Korvo mostrava o que sabia. Uma mulher de olhos cobertos por uma faixa batia palmas, e cada palmada soltava um grito sem som que fazia os vigilantes largarem as armas e taparem os ouvidos. Um rapaz magro se desfez em fumaça preta, atravessou uma fileira de escudos e voltou a ser gente do outro lado, sorrindo. Um homem enorme, com os braços cobertos por placas de rocha escura, abria rachaduras no chão a golpes de punho. Os vigilantes saltavam as rachaduras em cadeia, e os orcídeos acesos nas mãos deles abriam escudos de luz azul no ar. Tango respondeu levantando do chão dois guerreiros de pedra, que seguraram o gigante pelos braços.
 
-Do lado dos garotos, Seraphina Dalmora conjurou correntes de luz que serpentearam pelo ar e se enroscaram nos braços de Saliens. O demônio rugiu, rasgou as correntes com as mãos e lançou lâminas negras que ricochetearam nas paredes. Garmand se pôs diante dela e fez as lâminas virarem de lado, cravando-se no chão. Saliens fez brotar espinhos do solo, e Garmand pisou forte, e a gravidade em volta do demônio aumentou até ele cair de joelhos. Seraphina juntou a luz num único feixe branco e o disparou no peito de Saliens, que bateu numa pilastra com tanta força que a pedra rachou. Mas ele se levantou, com os olhos ardendo.
+Do lado dos garotos, Serafira Dalmora conjurou correntes de luz que serpentearam pelo ar e se enroscaram nos braços de Saliens. O demônio rugiu, rasgou as correntes com as mãos e lançou lâminas negras que ricochetearam nas paredes. Garmande se pôs diante dela e fez as lâminas virarem de lado, cravando-se no chão. Saliens fez brotar espinhos do solo, e Garmande pisou forte, e a gravidade em volta do demônio aumentou até ele cair de joelhos. Serafira juntou a luz num único feixe branco e o disparou no peito de Saliens, que bateu numa pilastra com tanta força que a pedra rachou. Mas ele se levantou, com os olhos ardendo.
 
 – Fiquem juntos! – Velho-Sábio ergueu o cajado e criou uma cúpula de luz dourada em volta dos quatro irmãos. – Esta luta não é de vocês. Ainda não.
 
@@ -272,7 +272,7 @@ As chamas encolheram, mas não sumiram.
 
 Velho-Sábio olhou de lado para ela, e o rosto dele ficou sério. Não disse nada.
 
-Do outro lado da cúpula, Anasin ergueu os braços. Lobos feitos de pura escuridão saltaram das sombras, com olhos brilhantes, rodeando Karol. Karol desviou os primeiros com ondas de vento, mas Anasin invocou mais e mais, e Leon se juntou a ela com ciclones que desmanchavam as feras em nuvens de fumaça. Mas Gary apareceu por trás de Leon, chicotes negros nas mãos, e o forçou a se defender. Anasin derrubou Karol com uma emboscada: as sombras enroscaram-se nela como cobras. Karol caiu, lutando.
+Do outro lado da cúpula, Anasin ergueu os braços. Lobos feitos de pura escuridão saltaram das sombras, com olhos brilhantes, rodeando Karoli. Karoli desviou os primeiros com ondas de vento, mas Anasin invocou mais e mais, e Lioro se juntou a ela com ciclones que desmanchavam as feras em nuvens de fumaça. Mas Garien apareceu por trás de Lioro, chicotes negros nas mãos, e o forçou a se defender. Anasin derrubou Karoli com uma emboscada: as sombras enroscaram-se nela como cobras. Karoli caiu, lutando.
 
 Os irmãos ficaram sem proteção.
 
@@ -286,25 +286,25 @@ Anasin viu a oportunidade e veio caminhando, serena, com o sorriso de uma cobra 
 
 – Uau! – gritou Banjo.
 
-Leon derrotou Gary com um golpe de vento que o prendeu na parede e correu até os irmãos.
+Lioro derrotou Garien com um golpe de vento que o prendeu na parede e correu até os irmãos.
 
 – Precisamos sair daqui! – gritou. – Está perigoso demais!
 
 Um estrondo atrás dele o fez virar a cabeça. No centro do salão, Velho-Sábio enfrentava Korvo com o cajado erguido. As luzes dourada e negra se chocavam, e o tribunal inteiro tremia. Velho-Sábio bateu o cajado no chão, e raízes grossas romperam a pedra e subiram para prender os pés de Korvo, enquanto um vento gelado descia do teto e transformava o ar em estalactites de gelo, que despencaram sobre ele. Korvo apenas abriu a mão. As raízes apodreceram e viraram pó, e o gelo foi sugado para dentro de um redemoinho negro que crescia, devorando a luz do salão. Velho-Sábio fechou o punho no ar, e a gravidade do chão dobrou, prendendo o redemoinho no lugar. Uma estaca de trevas subiu aos pés dele, e ele a desfez com um estalo do cajado, mas o redemoinho já tinha se soltado e o teto começou a chover pedras. Velho-Sábio segurava a linha. Korvo, que parecia ter todo o tempo do mundo, empurrava um pouco mais.
 
-– Karol, Leon! – gritou o mago, sem desviar os olhos. – Levem os garotos daqui!
+– Karoli, Lioro! – gritou o mago, sem desviar os olhos. – Levem os garotos daqui!
 
-Karol, livre, e Leon cercaram os irmãos e abriram caminho entre os escombros. Breno olhou para trás, a cada passo. O poder dos dois era tão grande que doía olhar.
+Karoli, livre, e Lioro cercaram os irmãos e abriram caminho entre os escombros. Breno olhou para trás, a cada passo. O poder dos dois era tão grande que doía olhar.
 
 – Vamos, Breno! – Banjo o puxava pelo braço. – Não podemos parar!
 
 Subiram por corredores cada vez mais estreitos, tropeçando em pedaços de teto, até chegarem a um monte de entulho com um buraco no alto, por onde entrava uma luz fraca e fria.
 
-– A Central Vigilante! – disse Leon, apontando. – Por ali!
+– A Central Vigilante! – disse Lioro, apontando. – Por ali!
 
 Começaram a escalar, de pé e de mão, com a poeira grudando no suor. No topo do monte, uma explosão estourou a poucos metros, e a onda os arremessou para trás como folhas.
 
-Breno abriu os olhos devagar. Tudo era um borrão de pó. Leon estava caído perto dele, desacordado. Os irmãos estavam espalhados, atordoados. E a poucos passos, caminhando entre os destroços, vinha Saliens.
+Breno abriu os olhos devagar. Tudo era um borrão de pó. Lioro estava caído perto dele, desacordado. Os irmãos estavam espalhados, atordoados. E a poucos passos, caminhando entre os destroços, vinha Saliens.
 
 – Korvo tem um protocolo – disse o demônio, com um sorriso de dentes pontudos. – Nenhum convite é recusado. Quem não está conosco está contra nós.
 

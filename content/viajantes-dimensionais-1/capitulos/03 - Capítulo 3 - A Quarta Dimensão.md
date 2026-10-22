@@ -129,7 +129,7 @@ Banjo ergueu o rosto. Pela primeira vez, ele sorriu um pouco.
 
 – Então, Erla, eles passaram? – perguntou o Velho-Sábio.
 
-– Se o seu objetivo era impressionar, Auream, seria mais fácil escolher um dia em que Lucas estivesse por aqui. – Ela fitou os irmãos. – Passaram. Não os perca de vista.
+– Se o seu objetivo era impressionar, Auream, seria mais fácil escolher um dia em que Lucan estivesse por aqui. – Ela fitou os irmãos. – Passaram. Não os perca de vista.
 
 O velho assentiu, sorrindo, e fez sinal para que os garotos o seguissem.
 

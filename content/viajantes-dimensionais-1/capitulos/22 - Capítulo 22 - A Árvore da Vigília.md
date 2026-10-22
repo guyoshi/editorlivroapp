@@ -24,7 +24,7 @@ Velho-Sábio bateu o cajado no chão. Um vento gelado rugiu pelo entulho e empur
 
 Um feixe de luz dourada empurrou o demônio para dentro da escuridão, e o silêncio caiu sobre as ruínas.
 
-Velho-Sábio subiu o entulho atrás de Breno. Lá em cima, junto ao buraco, Bruno estava caído, cercado por Banjo e Beatriz, e Leon, que acabava de acordar, com a mão na cabeça e culpa nos olhos.
+Velho-Sábio subiu o entulho atrás de Breno. Lá em cima, junto ao buraco, Bruno estava caído, cercado por Banjo e Beatriz, e Lioro, que acabava de acordar, com a mão na cabeça e culpa nos olhos.
 
 – Perdão, Velho-Sábio. Eu não consegui protegê-los.
 
@@ -78,7 +78,7 @@ Banjo olhou a árvore, seca e imóvel, de galhos nus e retorcidos, e sussurrou:
 
 – Obrigado.
 
-Leon olhou para Velho-Sábio.
+Lioro olhou para Velho-Sábio.
 
 – E Korvo? Onde ele está?
 
@@ -144,7 +144,7 @@ Beatriz passou o anel de volta para o dedo. A fumaça fina que ainda subia do ca
 
 Breno engoliu em seco e assentiu.
 
-– Amanhã vamos ver Lucas Veline, o governante. O que aconteceu hoje terá consequências. Por agora, descansem.
+– Amanhã vamos ver Lucan Veline, o governante. O que aconteceu hoje terá consequências. Por agora, descansem.
 
 Banjo ficou parado na porta da sala, com Farol enrolado nos ombros.
 
@@ -165,39 +165,39 @@ Na manhã seguinte, a Torre Branca brilhava ao sol como uma pérola gigante, e o
 
 Ele não respondeu. Os ombros rígidos já diziam o mesmo.
 
-A sala do conselho tinha uma mesa oval e janelas do chão ao teto, com Tayo inteira por trás do vidro. Garmand e Erla já estavam sentados, e com eles dois homens que os irmãos não conheciam. Um tinha cabelos loiros e volumosos, tão arrumados que pareciam uma peruca, e roupas finas. O outro era magro, pálido, de queixo pontudo.
+A sala do conselho tinha uma mesa oval e janelas do chão ao teto, com Tayo inteira por trás do vidro. Garmande e Erla já estavam sentados, e com eles dois homens que os irmãos não conheciam. Um tinha cabelos loiros e volumosos, tão arrumados que pareciam uma peruca, e roupas finas. O outro era magro, pálido, de queixo pontudo.
 
-– Este é Chasen Becker, Alto Conselheiro de Estratégia – apresentou Velho-Sábio. – E este é Lucas Veline, o governante de Tayo.
+– Este é Cheisen Beker, Alto Conselheiro de Estratégia – apresentou Velho-Sábio. – E este é Lucan Veline, o governante de Tayo.
 
-Lucas se levantou e cumprimentou cada um com um aceno. O olhar dele era firme, mas não frio.
+Lucan se levantou e cumprimentou cada um com um aceno. O olhar dele era firme, mas não frio.
 
 – Bem-vindos, irmãos Lins. Quero dizer que o que vocês enfrentaram na Presália não é coisa que muitos sobrevivem.
 
-Todos se sentaram. Breno explicou, de forma direta: a irmã sequestrada, a travessia, o Sepulcro, o portal, a Presália, Gary.
+Todos se sentaram. Breno explicou, de forma direta: a irmã sequestrada, a travessia, o Sepulcro, o portal, a Presália, Garien.
 
-– O Gary trabalhava para Korvo – completou. – Ele abriu a porta da Presália e deu acesso à cidade.
+– O Garien trabalhava para Korvo – completou. – Ele abriu a porta da Presália e deu acesso à cidade.
 
 Bruno, que parecia segurar um grito há tempo, não aguentou.
 
 – E incriminou o William McCroys! Plantou o anel dele na Central. Ele está preso por algo que não fez.
 
-A sala ficou quieta. Lucas trocou um olhar com Velho-Sábio.
+A sala ficou quieta. Lucan trocou um olhar com Velho-Sábio.
 
 – Então havia inimigos entre nós. E Korvo estava lá.
 
 – Estava – confirmou Breno.
 
-– E não os matou? – perguntou Becker, com um sorriso enviesado.
+– E não os matou? – perguntou Beker, com um sorriso enviesado.
 
-– Ele não queria nos matar. Queria nos recrutar – respondeu Banjo, e se arrependeu no mesmo instante, ao ver Lucas e Becker se virarem para ele ao mesmo tempo.
+– Ele não queria nos matar. Queria nos recrutar – respondeu Banjo, e se arrependeu no mesmo instante, ao ver Lucan e Beker se virarem para ele ao mesmo tempo.
 
-– Recrutar – repetiu Lucas. – E o que vocês responderam?
+– Recrutar – repetiu Lucan. – E o que vocês responderam?
 
 – Que não – disse Bruno. – Ele sequestrou a minha irmã. Humilhou o meu irmão. Quem tem um pingo de bom senso vê que ele está errado. Os seguidores dele o seguem por medo.
 
-– Ele é poderoso – disse Becker, batendo os dedos na mesa.
+– Ele é poderoso – disse Beker, batendo os dedos na mesa.
 
-Lucas olhou para Erla.
+Lucan olhou para Erla.
 
 – Como a Vigilância chegou até a Presália?
 
@@ -209,7 +209,7 @@ Ela fez uma pausa curta.
 
 – Marcus caiu.
 
-Todos se calaram. Becker bateu a palma na mesa.
+Todos se calaram. Beker bateu a palma na mesa.
 
 – Imprudência! Mandar um homem sozinho a um presídio abandonado, um labirinto de armadilhas! A senhora o condenou, Erla.
 
@@ -217,41 +217,41 @@ Os olhos de Erla endureceram, mas a voz saiu calma.
 
 – Eu agi com as informações que tinha.
 
-– E os garotos? – Becker se virou. – Saíram da cidade no dia do Festival. Já considerou, Sra. Édion, que eles mesmos tenham aberto a Presália sob influência inimiga?
+– E os garotos? – Beker se virou. – Saíram da cidade no dia do Festival. Já considerou, Sra. Édion, que eles mesmos tenham aberto a Presália sob influência inimiga?
 
 – Claro! – disse Bruno. – Nós quatro, adolescentes, planejamos tudo. Até soltar Korvo. Faz todo sentido!
 
-Garmand interveio, com a calma de sempre.
+Garmande interveio, com a calma de sempre.
 
 – Havia um relato de alguém que viu os garotos a caminho de Elthenor. Foi Ricochet Bombergue.
 
-Becker soltou uma risada que parecia de escárnio.
+Beker soltou uma risada que parecia de escárnio.
 
 – Ricochet? O dos biscoitos? O que acha que o sol é feito de água? É em quem estamos confiando agora?
 
-– Ele estava certo – disse Garmand, impassível.
+– Ele estava certo – disse Garmande, impassível.
 
-– O que não impede os fatos. – Becker se inclinou para Lucas. – A Vigilância falhou: deixou um traidor em posição de confiança, mandou um capitão à morte, e conduziu uma operação que não capturou Korvo. Proponho uma reformulação completa da Central. Controle das notícias, para evitar pânico. Fechamento do Bazar do Oeste. E um pulso mais firme sobre a édion.
+– O que não impede os fatos. – Beker se inclinou para Lucan. – A Vigilância falhou: deixou um traidor em posição de confiança, mandou um capitão à morte, e conduziu uma operação que não capturou Korvo. Proponho uma reformulação completa da Central. Controle das notícias, para evitar pânico. Fechamento do Bazar do Oeste. E um pulso mais firme sobre a édion.
 
 Erla não se mexeu. Depois tirou o broche de vigilante da capa e o colocou sobre a mesa, com um som metálico que ecoou pela sala.
 
 – Não será necessário. Eu renuncio.
 
-Lucas abriu a boca, e ela levantou a mão.
+Lucan abriu a boca, e ela levantou a mão.
 
-– Não é impulso. Eu já pensava nisso. – Olhou para Becker. – Talvez o senhor tenha razão. Talvez Tayo esteja melhor sem mim.
+– Não é impulso. Eu já pensava nisso. – Olhou para Beker. – Talvez o senhor tenha razão. Talvez Tayo esteja melhor sem mim.
 
 – Erla... – começou Velho-Sábio.
 
-– Obrigada pelos anos de serviço – disse ela a Lucas, e saiu. As botas dela ecoaram no mármore até a porta fechar.
+– Obrigada pelos anos de serviço – disse ela a Lucan, e saiu. As botas dela ecoaram no mármore até a porta fechar.
 
-Ninguém falou. Becker ajeitou os papéis.
+Ninguém falou. Beker ajeitou os papéis.
 
 – Uma decisão inevitável. Agora podemos avançar sem distrações. Precisamos de um novo édion imediatamente.
 
-– O cargo ficará vago até o fim do inquérito – disse Lucas, sem olhar para ele.
+– O cargo ficará vago até o fim do inquérito – disse Lucan, sem olhar para ele.
 
-Becker abriu a boca e a fechou. Lucas entrelaçou os dedos.
+Beker abriu a boca e a fechou. Lucan entrelaçou os dedos.
 
 – Korvo continua sendo a maior ameaça. E se ele quer esses garotos, eles não estarão seguros aqui. Terão que voltar à terceira dimensão. Amanhã cedo.
 
@@ -259,35 +259,35 @@ Becker abriu a boca e a fechou. Lucas entrelaçou os dedos.
 
 Breno pôs a mão no ombro dele, mas a voz também saiu dura.
 
-– Lucas, isso não faz sentido. A gente nunca se uniria a Korvo.
+– Lucan, isso não faz sentido. A gente nunca se uniria a Korvo.
 
 – Peço que reconsidere – disse Velho-Sábio. – Esses jovens provaram coragem e integridade. São senavelitas como nós. Eu mesmo os treinarei.
 
-– Sua lealdade é admirável, Velho-Sábio, mas sua visão está nublada – interveio Becker. – Eles atraem Korvo. Tayo vem primeiro.
+– Sua lealdade é admirável, Velho-Sábio, mas sua visão está nublada – interveio Beker. – Eles atraem Korvo. Tayo vem primeiro.
 
-Lucas assentiu devagar, como se as palavras de Becker o empurrassem de leve. Bruno explodiu.
+Lucan assentiu devagar, como se as palavras de Beker o empurrassem de leve. Bruno explodiu.
 
 – Vocês estão fazendo exatamente o que Korvo quer! Vocês e ele querem a mesma coisa dos dimensais: usar. Para os dois lados somos armas. Soldados esperando para serem recrutados. E, se não somos fortes o bastante, somos descartados.
 
 O silêncio foi pesado como chumbo. Bruno olhou para Velho-Sábio, esperando uma bronca. O mago apenas o encarou, assentindo de leve.
 
-– Está ouvindo o garoto, Lucas?
+– Está ouvindo o garoto, Lucan?
 
-Lucas hesitou, olhando a mesa. Garmand falou, sem levantar a voz:
+Lucan hesitou, olhando a mesa. Garmande falou, sem levantar a voz:
 
 – As decisões de um líder nunca são fáceis, governante. Mas ouvir muitas vozes pode abafar a sua. Às vezes, o certo e o seguro não são a mesma coisa.
 
-Lucas piscou, atingido por algo. Mas Becker já tinha batido as mãos na mesa.
+Lucan piscou, atingido por algo. Mas Beker já tinha batido as mãos na mesa.
 
 – Encerramos por hoje.
 
-Lucas assentiu e se levantou.
+Lucan assentiu e se levantou.
 
 – Está decidido. Eles partem amanhã. Haverá um inquérito sobre a Vigilância.
 
 No corredor, os irmãos seguiram Velho-Sábio em silêncio. Bruno bufava a cada passo.
 
-– O problema não são vocês – disse o mago. – É o medo. Lucas não está cego por maldade. Está com medo, e Becker sabe disso.
+– O problema não são vocês – disse o mago. – É o medo. Lucan não está cego por maldade. Está com medo, e Beker sabe disso.
 
 Passaram por Erla, encostada numa parede de pedra, de braços cruzados. Os olhos dela estavam molhados, e ela parecia menor do que nunca.
 
@@ -337,7 +337,7 @@ Bruno soltou uma risada pelo nariz, sem conseguir segurar.
 
 Foi embora de ombros retos, mas Bruno percebeu que eles estavam um pouco mais soltos do que antes. Nicolas ficou para trás.
 
-– Gary nos mandou dizer aquilo, no festival. Que Korvo tinha levado a Beatriz para o Pântano de Mortem. A gente achou que era fofoca. – Engoliu em seco. – Desculpa. Pelo que causou.
+– Garien nos mandou dizer aquilo, no festival. Que Korvo tinha levado a Beatriz para o Pântano de Mortem. A gente achou que era fofoca. – Engoliu em seco. – Desculpa. Pelo que causou.
 
 – A gente se vê – disse Erick, bem baixo, e puxou o irmão pelo braço.
 
@@ -413,7 +413,7 @@ Banjo começou a chorar sem fazer barulho. O mago se ajoelhou ao lado dele e pou
 
 Banjo assentiu, fungando.
 
-– Existe um protocolo para quem deixa Belfex – continuou Velho-Sábio, endireitando-se. – Os M.A. de vocês seriam drenados de volta para o Estírio, como acontece com todo dimensal que parte. – Fez uma pausa e baixou a voz, com um sorrisinho quase conspiratório. – Mas eu não vou fazer isso. Pode ser que vocês precisem deles. Só peço uma coisa: não contem a ninguém. Na terceira dimensão, as pessoas não costumam lidar bem com quem congela coisas com as mãos.
+– Existe um protocolo para quem deixa Belfex – continuou Velho-Sábio, endireitando-se. – A magia de vocês seria drenada de volta para o Estírio, como acontece com todo dimensal que parte. – Fez uma pausa e baixou a voz, com um sorrisinho quase conspiratório. – Mas eu não vou fazer isso. Pode ser que vocês precisem dos poderes. Só peço uma coisa: não contem a ninguém. Na terceira dimensão, as pessoas não costumam lidar bem com quem congela coisas com as mãos.
 
 – Nem com quem derruba parede com a cara – acrescentou Bruno, apontando para Breno.
 
@@ -467,6 +467,16 @@ Beatriz foi a primeira a se lançar nos braços dele.
 – Eu também, pequena Bia. – Ele acariciou o cabelo dela e olhou para cada um, como quem guarda rostos num lugar seguro. Antes que se virassem, enfiou um pão de canela no bolso de cada um.
 
 – Por precaução.
+
+Beatriz segurou o pão ainda quente, mas não o guardou.
+
+– Quando o próximo ciclo começar, a gente não vai estar aqui, vai? Eu queria ver Eshley e os outros de novo no ano que vem.
+
+Velho-Sábio olhou para o portal, depois para ela. Um sorriso pequeno apareceu sob a barba.
+
+– Ainda temos um ano inteiro para descobrir por onde se volta.
+
+Beatriz sorriu também e guardou o pão no bolso.
 
 No bolso de Bruno, junto com o pão, havia um bilhete dobrado. Ele só leria no dia seguinte, e fingiria que não tinha chorado: "Acorda. Você também."
 

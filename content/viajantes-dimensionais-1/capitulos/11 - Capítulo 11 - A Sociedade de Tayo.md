@@ -68,7 +68,7 @@ Beatriz piscou e deu um passo para trás.
 
 Os irmãos ficaram em silêncio, sem entender como aquela estranha mulher sabia dos pais deles. Antes que alguém perguntasse, passos pesados voltaram a ecoar pelo túnel, seguidos de cochichos. Figuras começaram a emergir das sombras e a encher o salão.
 
-Havia pelo menos uma dúzia, alguns de rostos rígidos e frios, outros preocupados, com olhos que se moviam rápido. Bruno segurou o ombro de Beatriz. Reconheceu rostos conhecidos do Edifício: Garmand, que avançava com a postura de quem guia, com uma pena que anotava sozinha flutuando atrás da orelha, e Leon, de aparência simpática, que olhava como se enxergasse através das pessoas e parecia pedir desculpa, com os ombros, pelo espaço que ocupava. Atrás deles vinha Karol, de postura impecável e fios grisalhos nos cabelos castanhos, que parecia incapaz de andar devagar, e um homem careca, corpulento, a quem faltava um dos braços, com cicatrizes que contavam histórias que os irmãos não conheciam.
+Havia pelo menos uma dúzia, alguns de rostos rígidos e frios, outros preocupados, com olhos que se moviam rápido. Bruno segurou o ombro de Beatriz. Reconheceu rostos conhecidos do Edifício: Garmande, que avançava com a postura de quem guia, com uma pena que anotava sozinha flutuando atrás da orelha, e Lioro, de aparência simpática, que olhava como se enxergasse através das pessoas e parecia pedir desculpa, com os ombros, pelo espaço que ocupava. Atrás deles vinha Karoli, de postura impecável e fios grisalhos nos cabelos castanhos, que parecia incapaz de andar devagar, e um homem careca, corpulento, a quem faltava um dos braços, com cicatrizes que contavam histórias que os irmãos não conheciam.
 
 E uma mulher que ninguém ali conhecia: pálida, de cabelos prateados que flutuavam ao redor do rosto, em vestes de seda preta com detalhes dourados. Beatriz sentiu o estômago afundar, lembrando da mulher pálida da arquibancada, a que a olhara sem piscar antes da corrida. Mas esta tinha cabelos prateados, não negros, e não olhava ninguém. "Parece vilã de filme de fantasia", pensou. Ao passar, a mulher lançou um olhar rápido na direção de Beatriz, e dessa vez, por um instante, algo parecido com um sorriso passou por seus lábios.
 
@@ -78,7 +78,7 @@ Por fim, uma jovem de cabelos curtos e volumosos, de olhos âmbar cintilantes, d
 
 – Falta alguém – respondeu Bruno, apontando um espaço vazio na roda.
 
-– Quem mais estamos esperando? – perguntou Leon.
+– Quem mais estamos esperando? – perguntou Lioro.
 
 – Ricochet, é claro – disse Tango, com um sorriso sarcástico. – Quem mais?
 
@@ -100,7 +100,7 @@ O salão mergulhou num silêncio tenso. Velho-Sábio inspirou fundo.
 
 Um murmúrio de surpresa percorreu o salão. Os irmãos trocaram olhares confusos. Como aquelas pessoas conheciam os pais deles?
 
-Garmand limpou a garganta.
+Garmande limpou a garganta.
 
 – Boa noite a todos. A Sociedade de Tayo foi criada para fazer o que os governantes não fazem: proteger a cidade de ameaças que eles preferem ignorar ou fingir que não existem. Há dias venho notando um comportamento estranho entre os vigilantes. Algo que vai além do cumprimento do dever.
 
@@ -116,13 +116,13 @@ Um murmúrio inquieto percorreu a sala.
 
 – Mas por que a Vigilância faria isso? – perguntou Tango, cruzando os braços. – O que a Erla ganharia eliminando você?
 
-– É óbvio – respondeu Karol. – Auream treina dimensais para lutar pelo bem. Isso ameaça quem quer manter o status quo.
+– É óbvio – respondeu Karoli. – Auream treina dimensais para lutar pelo bem. Isso ameaça quem quer manter o status quo.
 
 – Isso não faz sentido! – exclamou Elowen, a jovem de cabelos volumosos, que acreditava em todo mundo até que provassem o contrário. – A Erla sempre foi nossa aliada e lutou contra Korvo no passado.
 
-– Não foi só o Auream – disse Garmand. – A Seraphina também foi atacada, há uma semana.
+– Não foi só o Auream – disse Garmande. – A Serafira também foi atacada, há uma semana.
 
-O anúncio caiu como uma bomba. Todos os olhos se voltaram para a mulher de cabelos prateados, que até então permanecia em silêncio. Seraphina se inclinou para a frente, e os olhos verdes cintilaram sob a luz.
+O anúncio caiu como uma bomba. Todos os olhos se voltaram para a mulher de cabelos prateados, que até então permanecia em silêncio. Serafira se inclinou para a frente, e os olhos verdes cintilaram sob a luz.
 
 – Foi um ataque rápido – começou, com uma voz fria e um leve tremor por baixo. – Eu tinha saído do centro comercial e andava por uma rua deserta. Senti uma presença estranha. Antes que reagisse, um mago encapuzado me atacou.
 
@@ -130,21 +130,21 @@ A sala ficou em silêncio mortal.
 
 – Ele usava um cajado negro. Tentou dominar minha mente com uma magia de controle. Eu resisti e contra-ataquei. Vocês sabem que não sou iniciante, mas aquele homem era extremamente forte. A Vigilância nunca o encontrou. Desde então, suspeito de todos.
 
-– Um usuário de magia negra – concluiu Garmand, em voz grave. – Eles usam cajados negros para direcionar a magia em outros indivíduos.
+– Um usuário de magia negra – concluiu Garmande, em voz grave. – Eles usam cajados negros para direcionar a magia em outros indivíduos.
 
-Leon se levantou, inquieto.
+Lioro se levantou, inquieto.
 
 – Estamos aqui discutindo a Erla e a Vigilância como se fossem inimigos, e o verdadeiro inimigo está do outro lado das montanhas. Korvo e as forças sombrias dele. Sabemos que ele se esconde no Pântano de Mortem. Basta agir.
 
-– Você fala do pântano que supostamente esconde o covil? – ironizou McCroys, com um olhar cínico. – Quer que abandonemos a cidade, atravessemos as montanhas Kargath e a floresta de Elthenor para procurar um covil secreto num pântano? São só rumores, Leon. Ninguém jamais confirmou que ele esteja lá. A Vigilância me abordou hoje com diversas perguntas. Não consigo sair de casa sem estar sendo seguido. É contra isso que devemos lutar.
+– Você fala do pântano que supostamente esconde o covil? – ironizou McCroys, com um olhar cínico. – Quer que abandonemos a cidade, atravessemos as montanhas Karagan e a floresta de Elthenor para procurar um covil secreto num pântano? São só rumores, Lioro. Ninguém jamais confirmou que ele esteja lá. A Vigilância me abordou hoje com diversas perguntas. Não consigo sair de casa sem estar sendo seguido. É contra isso que devemos lutar.
 
 Enquanto ele falava, Bruno notou a mão do homem e a marca clara na pele de um dos dedos, onde faltava um anel. Ele já estava procurando por isso, e as suspeitas dele estavam certas.
 
-Garmand bateu a mão no braço da cadeira, e todos se calaram.
+Garmande bateu a mão no braço da cadeira, e todos se calaram.
 
-– A Sociedade existe para proteger Tayo, Leon. A nossa luta é aqui dentro. Se a Vigilância está sendo usada para atacar um de nós, temos um problema sério.
+– A Sociedade existe para proteger Tayo, Lioro. A nossa luta é aqui dentro. Se a Vigilância está sendo usada para atacar um de nós, temos um problema sério.
 
-– Talvez Erla não saiba – sugeriu Seraphina. – A Vigilância pode estar sendo infiltrada por forças externas, alguém jogando em ambos os lados. Se Erla está comprometida em combater Korvo, ela não pode ser cúmplice. Mas isso não quer dizer que todos dentro da Vigilância pensem como ela. A corrupção pode estar se espalhando nas fileiras inferiores.
+– Talvez Erla não saiba – sugeriu Serafira. – A Vigilância pode estar sendo infiltrada por forças externas, alguém jogando em ambos os lados. Se Erla está comprometida em combater Korvo, ela não pode ser cúmplice. Mas isso não quer dizer que todos dentro da Vigilância pensem como ela. A corrupção pode estar se espalhando nas fileiras inferiores.
 
 – Ou é mais simples – disse Tango. – Ela pode só estar eliminando as ameaças internas antes que Korvo o faça. Se você não consegue controlar a situação, elimine a concorrência.
 
@@ -156,11 +156,11 @@ Os irmãos observavam em silêncio, tentando acompanhar o debate. Era difícil s
 
 – Sempre confiei na Erla – respondeu Velho-Sábio, num sussurro quase triste. – Ela foi uma das poucas dentro da Vigilância em quem acreditei. Mas hoje... não sei o que pensar. Gostaria de dizer que minha confiança continua íntegra, mas estaria mentindo.
 
-– Esta semana tivemos um caso estranho – disse Garmand. – Houve uma invasão na Central. Eles não encontraram nada conclusivo, exceto um anel de dimensal.
+– Esta semana tivemos um caso estranho – disse Garmande. – Houve uma invasão na Central. Eles não encontraram nada conclusivo, exceto um anel de dimensal.
 
 Sussurros ansiosos tomaram o salão.
 
-– Um dimensal infiltrado? – sussurrou Seraphina, com os olhos brilhando. – Isso não pode ser coincidência.
+– Um dimensal infiltrado? – sussurrou Serafira, com os olhos brilhando. – Isso não pode ser coincidência.
 
 Os irmãos se entreolharam, o pânico borbulhando. Beatriz apertou o braço de Breno, que balançou a cabeça, pedindo calma.
 
@@ -170,7 +170,7 @@ Os irmãos se entreolharam, o pânico borbulhando. Beatriz apertou o braço de B
 
 Bruno engoliu em seco. Sentiu o peso dos olhares caindo sobre ele e os irmãos.
 
-– E há mais – continuou Garmand. – Encontraram uma aracna no local.
+– E há mais – continuou Garmande. – Encontraram uma aracna no local.
 
 Os membros se entreolharam, alarmados.
 
@@ -182,7 +182,7 @@ Mereditha se levantou, subitamente tomada por uma lembrança.
 
 – Vocês sabem o que se esconde sob a Central.
 
-– A prisão fechada há anos – disse Karol.
+– A prisão fechada há anos – disse Karoli.
 
 – A prisão de onde o próprio Korvo fugiu sem deixar rastros. E a criatura. – Mereditha baixou a voz. – E se alguém estiver tentando reabrir a presália para libertá-lo? Se o fizerem, o monstro consumirá tudo e todos.
 
@@ -190,11 +190,11 @@ Mereditha se levantou, subitamente tomada por uma lembrança.
 
 – Como pode ter certeza? A presália existiu por anos, e muitos prisioneiros juravam ver uma criatura de trevas e grandes olhos brancos.
 
-– Não se deixe enganar por contos de fada – disse Garmand.
+– Não se deixe enganar por contos de fada – disse Garmande.
 
 Mereditha parecia desapontada, mas o pânico continuava nos olhos dela. Velho-Sábio encarava o nada.
 
-– Esses ataques não são aleatórios – disse Garmand, com urgência. – Estão mirando os senavelitas mais poderosos de Tayo. Precisamos de um plano para capturar um dos supostos traidores. Se pegarmos um, talvez descubramos quem puxa as cordas.
+– Esses ataques não são aleatórios – disse Garmande, com urgência. – Estão mirando os senavelitas mais poderosos de Tayo. Precisamos de um plano para capturar um dos supostos traidores. Se pegarmos um, talvez descubramos quem puxa as cordas.
 
 – Mas quem se arriscaria? – perguntou Tango. – Se nos revelarmos, damos ao inimigo o que ele quer.
 
@@ -202,7 +202,7 @@ O silêncio foi denso. Ninguém se ofereceu. Até que uma voz quebrou a tensão:
 
 – Eu vou.
 
-Todos se viraram. Bruno estava de pé, com os olhos fixos em Garmand.
+Todos se viraram. Bruno estava de pé, com os olhos fixos em Garmande.
 
 – Ficou maluco, Bruno? – sibilou Breno.
 
@@ -212,17 +212,17 @@ Todos se viraram. Bruno estava de pé, com os olhos fixos em Garmand.
 
 – Eu sou dimensal – insistiu Bruno. – Se os vigilantes querem tanto um dimensal, é mais fácil que baixem a guarda se acharem que podem me manipular. Podemos dar a entender que eu estou... descontrolado. Isso chamaria a atenção deles.
 
-Os membros se entreolharam, ponderando a ousadia. Tango se reclinou na cadeira, que já estava equilibrada em duas pernas, para a visível irritação de Garmand.
+Os membros se entreolharam, ponderando a ousadia. Tango se reclinou na cadeira, que já estava equilibrada em duas pernas, para a visível irritação de Garmande.
 
 – Está sugerindo usar o próprio pescoço como isca, garoto? Bela ideia, se o objetivo for morrer antes de descobrirmos quem está por trás disso.
 
-– Tango tem razão – concordou Seraphina, com um sorriso mínimo. – É uma ideia terrível. Por isso mesmo pode funcionar.
+– Tango tem razão – concordou Serafira, com um sorriso mínimo. – É uma ideia terrível. Por isso mesmo pode funcionar.
 
 – Não sou tão fácil de derrubar quanto vocês pensam.
 
 – Isso é loucura, Bruno! – a voz de Velho-Sábio subiu. – Eles não hesitarão em te matar se perceberem que é uma armadilha.
 
-– Às vezes um risco calculado é necessário – disse Seraphina, suave. – Se ele se oferece, talvez possamos usar isso.
+– Às vezes um risco calculado é necessário – disse Serafira, suave. – Se ele se oferece, talvez possamos usar isso.
 
 McCroys cruzou os braços, com um sorriso frio.
 
@@ -250,11 +250,11 @@ Breno puxou Bruno pelo ombro.
 
 – Não, Breno. Não vou ficar de braços cruzados enquanto todo mundo discute quem é a ameaça e a ameaça está bem na frente de todos.
 
-Garmand bateu a mão na mesa improvisada.
+Garmande bateu a mão na mesa improvisada.
 
 – Silêncio! Antes de acusar o McCroys, provem-se dignos de confiança, garotos. Ele tem razão: eu não arriscaria um aprendiz num plano assim. Mas podemos criar um plano de ação. O Festival das Luzes se aproxima. Será o evento mais movimentado do ano, e o lugar perfeito para um ataque silencioso no meio da multidão. Se esses falsos vigilantes têm alguma intenção, será nesse dia. Todos devem estar atentos e próximos uns dos outros, prontos para capturar qualquer vigilante que demonstre intenções traiçoeiras.
 
-Os membros assentiram, determinados e apreensivos. Garmand se virou para os irmãos.
+Os membros assentiram, determinados e apreensivos. Garmande se virou para os irmãos.
 
 – Quanto a vocês: tudo o que ouviram aqui é confidencial. Se algum dia traírem esse segredo... – ele deixou o silêncio crescer – eu mesmo cuido para que voltem para casa em condições piores do que vieram.
 
@@ -262,15 +262,15 @@ O aviso foi claro como cristal. Até Breno engoliu em seco.
 
 – Se fossem meus aprendizes, eu já os teria mandado todos de volta à terceira dimensão. Se Korvo colocar as mãos em qualquer um de vocês, não será bom para ninguém.
 
-– Eles passaram por todos os testes, Garmand – interrompeu Velho-Sábio, embora Bruno soubesse que não fora bem assim. – Merecem estar aqui tanto quanto qualquer outro dimensal.
+– Eles chegaram até aqui, Garmande – interrompeu Velho-Sábio. – Merecem a chance de concluir as avaliações como qualquer outro aprendiz.
 
-– Talvez, ao fazer isso, você os condene – retrucou Garmand. – Proteger alguém pode ser afastá-lo do perigo, Auream.
+– Talvez, ao fazer isso, você os condene – retrucou Garmande. – Proteger alguém pode ser afastá-lo do perigo, Auream.
 
-Os dois ficaram em silêncio, trocando olhares carregados de uma história que os irmãos não conheciam. Por fim, Garmand deu um passo para trás.
+Os dois ficaram em silêncio, trocando olhares carregados de uma história que os irmãos não conheciam. Por fim, Garmande deu um passo para trás.
 
 – Alguma questão? Ótimo. A reunião está encerrada. Nos vemos no festival. Fiquem atentos.
 
-Garmand passou por Velho-Sábio e, sem dizer nada, endireitou a gola torta do manto dele, como quem faz isso há trinta anos. Velho-Sábio fingiu que não notou.
+Garmande passou por Velho-Sábio e, sem dizer nada, endireitou a gola torta do manto dele, como quem faz isso há trinta anos. Velho-Sábio fingiu que não notou.
 
 Os membros começaram a se dispersar. Elowen parou diante dos irmãos e sorriu, uma gentileza rara naquele ambiente sombrio.
 

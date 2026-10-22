@@ -34,7 +34,7 @@ Quando se alinharam no campo, o Fulgor Dourado de verde e o Garras de Ferro de a
 
 – Que a partida comece! – gritou Aradon, erguendo o bastão.
 
-Uma barreira de luz se fechou em volta das Zonas de Coleta, e as Marqes brilharam lá dentro como estrelas presas num redemoinho. Emiris e Tessara tomaram suas posições, atentos. Cinquenta espectadores bateram palmas sobre as arquibancadas flutuantes. Na lateral do campo, Gary, o vigilante das balas de mel, aplaudia com educação; mas, quando Emiris entrou em campo, as palmas dele ficaram um pouco mais fortes, como as de um tio coruja. Velho-Sábio, Garmand, Tango e Leon ocupavam a primeira fileira, e Beatriz achou o rosto do mago entre todos, calmo demais para quem acompanhava uma partida. Mais acima, McCroys continuava sozinho, com um espaço vazio de cada lado. Perto dele, dois aprendizes da escola de Tayo seguravam uma faixa de TURBINA e discutiam, em voz alta, quem tinha mais chance entre os dezoito.
+Uma barreira de luz se fechou em volta das Zonas de Coleta, e as Marqes brilharam lá dentro como estrelas presas num redemoinho. Emiris e Tessara tomaram suas posições, atentos. Cinquenta espectadores bateram palmas sobre as arquibancadas flutuantes. Na lateral do campo, Garien, o vigilante das balas de mel, aplaudia com educação; mas, quando Emiris entrou em campo, as palmas dele ficaram um pouco mais fortes, como as de um tio coruja. Velho-Sábio, Garmande, Tango e Lioro ocupavam a primeira fileira, e Beatriz achou o rosto do mago entre todos, calmo demais para quem acompanhava uma partida. Mais acima, McCroys continuava sozinho, com um espaço vazio de cada lado. Perto dele, dois aprendizes da escola de Tayo seguravam uma faixa de TURBINA e discutiam, em voz alta, quem tinha mais chance entre os dezoito.
 
 A primeira esfera azul acendeu quase antes que o som parasse.
 
@@ -73,7 +73,7 @@ Breno, decidido a surpreender Denis na Zona de Arremesso, saltou para o pilar do
 
 – Isso é trapaça! – guinchou. – Amanhã a cidade inteira vai saber!
 
-Mas Ferris surgiu como uma sombra, lançou uma descarga elétrica no pilar de metal, e Breno sentiu a carga correr pelo corpo e foi arremessado dois pilares atrás, de barriga para baixo.
+Mas Ferris surgiu como uma sombra e lançou uma descarga elétrica curta contra Breno. A carga percorreu o metal de seu corpo e o fez perder o apoio; a rede de segurança o devolveu dois pilares atrás, de barriga para baixo.
 
 – Valeu, Ferris – disse Denis.
 
@@ -114,7 +114,7 @@ Pegou um pedaço de giz do bolso, o mesmo giz amarelo da estação, e riscou no 
 
 – E o que prende ele? – perguntou Beatriz.
 
-– Você, Beatriz. Um círculo de fogo ao redor do pilar dele. Shirley, você põe eletricidade sobre as chamas. – Lucía virou-se para os outros. – Banjo, nada de carregar o time. Atue de longe, derrube as plataformas deles, levante os Vardeks do chão. Eshley e Shirley cruzam pelo meio.
+– Você, Beatriz. Um círculo de fogo ao redor do pilar dele. Shirley, você põe eletricidade sobre as chamas. – Lucía virou-se para os outros. – Banjo, nada de carregar o time. Atue de longe, desequilibre os Vardeks, levante-os do chão. Eshley e Shirley cruzam pelo meio.
 
 – E se eu errar de novo? – disse Beatriz. – O fogo nunca faz o que eu quero.
 
@@ -169,7 +169,7 @@ Ferris olhou ao redor. Viu o fogo, as faíscas, as correntes fechadas, e por um 
 
 – É isso! – gritou Lucía.
 
-O Fulgor Dourado avançou. Shirley e Eshley passavam a Marqe uma para a outra por cima dos pilares, e Banjo e Beatriz mantinham os Vardeks inimigos à distância, ele levantando-os e ela soltando cortinas de fogo que forçavam Brenda e Xylar a recuar. Bruno prendeu Erick numa esfera de gelo e o fez rolar pelo campo, e Breno, de corpo metálico, tomou a Marqe de Nicolas e a jogou no buraco entre os pilares, que a devolveu à Zona de Coleta.
+O Fulgor Dourado avançou. Shirley e Eshley passavam a Marqe uma para a outra por cima dos pilares, e Banjo e Beatriz mantinham os Vardeks inimigos à distância, ele levantando-os e ela soltando cortinas de fogo que forçavam Brenda e Xylar a recuar. Bruno prendeu Erick por um instante numa esfera de gelo imóvel, e Breno, de corpo metálico, tomou a Marqe de Nicolas e a jogou no buraco entre os pilares, que a devolveu à Zona de Coleta.
 
 Quando o relógio marcou dois minutos, as esferas brilhavam em dezessete verdes e dezessete azuis.
 
@@ -217,7 +217,7 @@ Bruno e Breno olhavam para Beatriz sem conseguir falar. Ela estava de pé, sozin
 
 – Bea! – gritou Banjo, do outro lado, pulando sem parar. – Bea!
 
-No alto, entre os tutores, Garmand anotava algo numa folha. Tango ria sozinho. Karol gritava instruções para Brenda, que ninguém conseguia ouvir. Só Velho-Sábio não sorria. Olhava a chama azul se desfazer com uma expressão que Beatriz, de tão longe, não soube ler. Brenda, presa até os joelhos de gelo, ficou observando a pequena garota. Lucía, de longe, ergueu o punho.
+No alto, entre os tutores, Garmande anotava algo numa folha. Tango ria sozinho. Karoli gritava instruções para Brenda, que ninguém conseguia ouvir. Só Velho-Sábio não sorria. Olhava a chama azul se desfazer com uma expressão que Beatriz, de tão longe, não soube ler. Brenda, presa até os joelhos de gelo, ficou observando a pequena garota. Lucía, de longe, ergueu o punho.
 
 Mas ainda restavam segundos. Ferris, com a última energia nas pernas, saltou a lacuna final com a Marqe rumo a Denis. Nesse momento, na borda da Zona de Arremesso do Fulgor Dourado, Khalil, que não dissera uma palavra durante toda a partida, tirou um seixo do bolso e o atirou. O seixo cruzou trinta passos de pilares em linha reta, sem magia nenhuma, estalou na Marqe que Ferris carregava e a arrancou das mãos dele. Ela quicou duas vezes e despencou no buraco entre os pilares.
 

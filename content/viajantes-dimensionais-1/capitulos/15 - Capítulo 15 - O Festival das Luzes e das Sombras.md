@@ -173,7 +173,7 @@ Caminharam até a estação sob lâmpadas coloridas e projeções que dançavam 
 
 O karto parou numa grande praça, um mar de gente, barracas e luzes. No centro, uma torre branca de painéis de cristal dourado brilhava como um farol. Do alto, vinha o frescor da noite, e do chão o calor de milhares de pessoas, que juntos faziam a praça inteira cheirar a açúcar tostado.
 
-– Aquela é a Torre Branca, a sede do governo de Tayo – disse Velho-Sábio, com um respeito na voz. – Onde Lucas Veline toma as grandes decisões.
+– Aquela é a Torre Branca, a sede do governo de Tayo – disse Velho-Sábio, com um respeito na voz. – Onde Lucan Veline toma as grandes decisões.
 
 Atrás da torre se via a cúpula da Central, e encostado nela, o prédio da Vigilância, austero e escuro entre tanta cor. Em sua fachada, uma faixa cinza trazia um slogan em letras brancas: "Tayo primeiro."
 
@@ -187,17 +187,17 @@ Passou por eles um garoto com um cone de doces na mão e a cara de quem acabou d
 
 – Denis! – cumprimentou Banjo.
 
-– Vi quatro vigilantes na saída leste. Quatro! Em dia de festa! – disse Denis, num sussurro de fofoca. – Dizem que o Becker, aquele conselheiro de cabelo de peruca, pressionou a Erla para reforçar os portões. Por que reforçar, se é festa? Eu vou descobrir.
+– Vi quatro vigilantes na saída leste. Quatro! Em dia de festa! – disse Denis, num sussurro de fofoca. – Dizem que o Beker, aquele conselheiro de cabelo de peruca, pressionou a Erla para reforçar os portões. Por que reforçar, se é festa? Eu vou descobrir.
 
 Foi embora lambendo o cone.
 
-Perto da saída leste, um vigilante de uniforme de gala tocou a aba do quepe para os irmãos. Era Gary, cansado como sempre, mas já com uma bala de mel estendida na direção de Banjo.
+Perto da saída leste, um vigilante de uniforme de gala tocou a aba do quepe para os irmãos. Era Garien, cansado como sempre, mas já com uma bala de mel estendida na direção de Banjo.
 
 – Divirtam-se. E não aceitem doce de estranhos. Os meus são exceção.
 
 – Tem vigilante demais hoje, né? – comentou Banjo.
 
-– Ordens de cima. – Gary suspirou. – Eu preferia estar em casa, com um livro ruim e uma sopa pior.
+– Ordens de cima. – Garien suspirou. – Eu preferia estar em casa, com um livro ruim e uma sopa pior.
 
 – Ei, vocês! – Tango acenou de longe, com o sorriso que parecia iluminado por dentro. – Os heróis do Vórtice Monumental! Quem diria que estariam inteiros?
 
@@ -255,9 +255,9 @@ Banjo revirou os olhos, mas ainda sorriu para Shirley.
 
 No meio da multidão, pássaros luminosos voavam em círculos pelo céu, comandados por um homem alto de cabelo negro penteado para trás e olhos prateados, com um casaco de detalhes dourados e uma cartola de pena brilhante. Gesticulava como um maestro.
 
-– Tony Nickbrown – disse Velho-Sábio. – O maior ilusionista de Tayo.
+– Taony Nickbrown – disse Velho-Sábio. – O maior ilusionista de Tayo.
 
-Tony fez uma reverência exagerada.
+Taony fez uma reverência exagerada.
 
 – Ora, os prodígios do Vórtice Monumental! Que honra.
 
@@ -265,19 +265,19 @@ Tony fez uma reverência exagerada.
 
 – Jamais! Vocês brilharam. – Voltou-se para Velho-Sábio. – Sr. Velho-Sábio.
 
-– Tony. Seu filho também brilhou na partida.
+– Taony. Seu filho também brilhou na partida.
 
 – Filho? – perguntou Bruno.
 
-– O pequeno James, o mais novo do outro time. Meu pequeno. – Tony riu. – Não passou, infelizmente. Ano que vem tentamos de novo.
+– O pequeno James, o mais novo do outro time. Meu pequeno. – Taony riu. – Não passou, infelizmente. Ano que vem tentamos de novo.
 
 – Ah, o garotinho dos truques de luz! – lembrou Banjo.
 
-Tony abriu uma bolsa de couro e entregou a cada irmão um cristal translúcido, de uma cor diferente.
+Taony abriu uma bolsa de couro e entregou a cada irmão um cristal translúcido, de uma cor diferente.
 
 – Cristais de Reflexão. Mostram o que vocês não conseguem ver sozinhos, seja um perigo escondido ou algo no próprio coração. Mas funcionam uma só vez, e um reflexo errado engana tanto quanto ilumina.
 
-– São bonitos – disse Beatriz. – Obrigada, Sr. Tony.
+– São bonitos – disse Beatriz. – Obrigada, Sr. Taony.
 
 O ilusionista fez outra reverência e voltou a conduzir os pássaros.
 
@@ -297,13 +297,13 @@ Bruno o encarou com os olhos estreitos. Velho-Sábio assentiu para o colega, que
 
 – Hoje vai ser um dia e tanto – disse Erick, ao passar por Bruno, rindo antes de se afastar.
 
-Mais atrás, no meio da multidão, Gary conversava com um vendedor de balões. Nicolas devolveu a ele um aceno de dois dedos, quase sem mexer a mão, e sumiu entre os foliões.
+Mais atrás, no meio da multidão, Garien conversava com um vendedor de balões. Nicolas devolveu a ele um aceno de dois dedos, quase sem mexer a mão, e sumiu entre os foliões.
 
 – Como esses dois não foram eliminados? – sussurrou Bruno.
 
 – Boa pergunta – respondeu Banjo.
 
-Adiante, encontraram Garmand, que conversava com Velho-Sábio, e sua filha Brenda ao lado. Ela estava deslumbrante, num vestido azul-escuro bordado de fios prateados que brilhavam à luz do festival, mangas largas como cascatas, cabelo preso num penteado cheio de pedrinhas mágicas. Mesmo parada, tinha ar de quem achava o resto do mundo um tanto entediante.
+Adiante, encontraram Garmande, que conversava com Velho-Sábio, e sua filha Brenda ao lado. Ela estava deslumbrante, num vestido azul-escuro bordado de fios prateados que brilhavam à luz do festival, mangas largas como cascatas, cabelo preso num penteado cheio de pedrinhas mágicas. Mesmo parada, tinha ar de quem achava o resto do mundo um tanto entediante.
 
 Beatriz, distraída, olhou para um canto da multidão e viu uma mulher pálida, de cabelos negros em ondas e vestido escuro, parada longe, olhando para ela sem piscar. Era a mesma da arquibancada, e dessa vez não havia ninguém entre as duas. Quando Beatriz piscou, ela tinha sumido.
 
@@ -343,7 +343,7 @@ Em seguida veio um silêncio assustador, e todas as luzes do festival se apagara
 
 – Fiquem perto de mim!
 
-Brenda recuou, sem dizer nada, e Garmand a segurou pelo braço.
+Brenda recuou, sem dizer nada, e Garmande a segurou pelo braço.
 
 Banjo sentiu algo no ombro e viu o petrisco, brilhando intensamente como uma pequena estrela.
 
@@ -365,7 +365,7 @@ Os irmãos se viraram, e a preocupação cresceu de uma vez.
 
 Velho-Sábio lançou um olhar assustado.
 
-– Fiquem com o Garmand! Eu vou atrás dela.
+– Fiquem com o Garmande! Eu vou atrás dela.
 
 E desapareceu na escuridão.
 
@@ -373,7 +373,7 @@ Tango surgiu correndo, ofegante.
 
 – A cidade foi invadida. A saída leste está aberta, mas a Vigilância já vai consertar. Fiquem juntos, longe de qualquer confusão.
 
-Garmand se aproximou dele para conversar, e os irmãos se entreolharam, alarmados.
+Garmande se aproximou dele para conversar, e os irmãos se entreolharam, alarmados.
 
 – Não, não... A Bia está sozinha – murmurou Breno, com a voz trêmula.
 
@@ -387,9 +387,9 @@ Garmand se aproximou dele para conversar, e os irmãos se entreolharam, alarmado
 
 A voz falhou, e ele respirou fundo para segurar as lágrimas. Sem mais palavras, virou-se e correu.
 
-– Pai, ele está fugindo! – gritou Brenda, puxando o braço de Garmand.
+– Pai, ele está fugindo! – gritou Brenda, puxando o braço de Garmande.
 
-– Ei! Volte aqui! – gritou Garmand, mas Breno já se perdia no meio da multidão, empurrando gente no caminho.
+– Ei! Volte aqui! – gritou Garmande, mas Breno já se perdia no meio da multidão, empurrando gente no caminho.
 
 – Beatriz! Responda! Por favor!
 
@@ -533,15 +533,15 @@ Os três saltaram. Durante a queda, Bruno estendeu as mãos e conjurou uma rampa
 
 – Vamos pro portão... – disse Breno, ofegante, tentando se levantar.
 
-Mas os dassis escuros pararam em volta deles, e uma luz branca os cegou. Homens e mulheres de uniforme cinza e preto, com o emblema da Vigilância, desceram dos veículos. À frente, Gary avançava, o bastão encantado na mão e o rosto sem nenhuma expressão.
+Mas os dassis escuros pararam em volta deles, e uma luz branca os cegou. Homens e mulheres de uniforme cinza e preto, com o emblema da Vigilância, desceram dos veículos. À frente, Garien avançava, o bastão encantado na mão e o rosto sem nenhuma expressão.
 
-– Em nome da édion Erla Diggs, vocês estão detidos. Voo ilegal, roubo de veículo e invasão de área restrita. – Estalou os dedos, e algemas de luz se fecharam nos pulsos de Breno. – Ninguém sai de Tayo esta noite.
+– Em nome da édion Erla Digan, vocês estão detidos. Voo ilegal, roubo de veículo e invasão de área restrita. – Estalou os dedos, e algemas de luz se fecharam nos pulsos de Breno. – Ninguém sai de Tayo esta noite.
 
 – Não somos seu inimigo – disse Breno, e tentou dar um passo à frente, mas as algemas o puxaram de volta.
 
 – Havia um espião nesta cidade! – disse Bruno. – William McCroys. Ele sequestrou nossa irmã. Ela está lá fora, e a gente precisa ir atrás!
 
-– Acusar um membro da Sociedade sem prova é grave, garoto. – Gary nem piscou. – Digam isso na Central. Levem-nos.
+– Acusar um membro da Sociedade sem prova é grave, garoto. – Garien nem piscou. – Digam isso na Central. Levem-nos.
 
 Dois vigilantes seguraram Banjo pelos braços. Farol rosnou no ombro dele, brilhando como uma brasa. Nesse instante, um clarão branco rasgou a escuridão. Um pássaro de luz, majestoso, surgiu entre eles e a Vigilância.
 
@@ -549,11 +549,11 @@ Dois vigilantes seguraram Banjo pelos braços. Farol rosnou no ombro dele, brilh
 
 O pássaro soltou um grito cristalino que ecoou pela noite, e explodiu, empurrando os vigilantes para trás. A explosão não tocou os irmãos. No meio das chamas brancas, Velho-Sábio ergueu o bastão, e as algemas dos três caíram no chão como pulseiras de vidro.
 
-– Velho-Sábio – disse Gary, a voz falhando por um instante. Depois ordenou: – O senhor está obstruindo a Vigilância. Detenham-no!
+– Velho-Sábio – disse Garien, a voz falhando por um instante. Depois ordenou: – O senhor está obstruindo a Vigilância. Detenham-no!
 
 O mago desenhou um círculo no ar, e uma onda de energia empurrou os vigilantes ainda mais para trás. Correntes de luz prenderam as mãos deles ao chão, e uma barreira translúcida se ergueu em volta dos irmãos.
 
-– Vocês precisam voltar agora – disse Velho-Sábio, sem tirar os olhos de Gary. – Estão chamando atenção demais. Vamos chamar a Sociedade de Tayo e depois procurar Beatriz.
+– Vocês precisam voltar agora – disse Velho-Sábio, sem tirar os olhos de Garien. – Estão chamando atenção demais. Vamos chamar a Sociedade de Tayo e depois procurar Beatriz.
 
 – Não! – A resposta de Breno veio como um trovão. – O Erick disse que ela foi levada pro covil do Korvo!
 
@@ -565,7 +565,7 @@ Antes que dissesse mais, um estrondo ecoou. As enormes portas dos muros de Tayo 
 
 – As portas! – gritou Bruno, puxando Banjo.
 
-Gary, preso ao chão, fechou os olhos por um instante, como quem respira aliviado.
+Garien, preso ao chão, fechou os olhos por um instante, como quem respira aliviado.
 
 – Ordem da édion. Ninguém sai de Tayo esta noite.
 

@@ -37,15 +37,15 @@ No saguão, um homem alto, de cabelo grisalho cortado rente, esperava ao lado do
 
 – Velho-Sábio, sempre um prazer – disse ele, apertando a mão do mago. – Como estão os novos aprendizes?
 
-– Prontos, Gary. É raro te ver fora da Central.
+– Prontos, Garien. É raro te ver fora da Central.
 
-– Minha equipe está numa operação aqui perto, enquanto o Capitão Marcus cuida da segurança lá dentro. – Gary suspirou, e o cansaço dele parecia ir além do corpo. – Só uma medida de rotina. Aliás, não se importaria se acompanhássemos o treino de hoje, não é? Só para ver se estão no caminho certo.
+– Minha equipe está numa operação aqui perto, enquanto o Capitão Marcus cuida da segurança lá dentro. – Garien suspirou, e o cansaço dele parecia ir além do corpo. – Só uma medida de rotina. Aliás, não se importaria se acompanhássemos o treino de hoje, não é? Só para ver se estão no caminho certo.
 
 O sorriso de Velho-Sábio continuou no rosto, mas não chegou aos olhos.
 
-– Tenho muito respeito por você, Gary. Mas não vou aceitar. Se a Vigilância quer supervisionar meus aprendizes, que Erla venha pessoalmente.
+– Tenho muito respeito por você, Garien. Mas não vou aceitar. Se a Vigilância quer supervisionar meus aprendizes, que Erla venha pessoalmente.
 
-Gary olhou para o chão, desconfortável, e assentiu.
+Garien olhou para o chão, desconfortável, e assentiu.
 
 – Sem ressentimentos – disse, e se abaixou diante de Banjo, com um meio sorriso cansado. – Ouvi dizer que você conversa com as folhas, rapaz. Tenho um sobrinho que adora essas coisas. Ele ia gostar de você.
 

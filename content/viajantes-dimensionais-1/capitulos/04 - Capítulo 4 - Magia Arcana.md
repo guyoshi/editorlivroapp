@@ -176,7 +176,7 @@ Banjo e Beatriz trocaram um olhar. Era como descobrir que o mundo inteiro era um
 
 Uma garota de pele morena e cabelos castanhos e cacheados aproximou-se com um sorriso aberto, envolta numa capa verde-azulada bordada de estrelas e luas.
 
-– Eu sou a Eshley! De Neredis. Vocês já ouviram falar do dromodur? É uma criatura feita de sombra que rouba a voz de quem mente.
+– Eu sou a Eshley! De Niterói, no Brasil. Vocês já ouviram falar do dromodur? É uma criatura feita de sombra que rouba a voz de quem mente.
 
 – A gente ainda não viu nenhum – respondeu Banjo, empolgado.
 
@@ -210,9 +210,9 @@ Mais ao fundo, uma garota de postura elegante observava tudo, sozinha.
 
 Passos firmes ecoaram pelo salão. A porta principal se abriu e um homem alto, de manto com detalhes dourados, entrou. Os murmúrios morreram.
 
-– Garmand – sussurrou alguém.
+– Garmande – sussurrou alguém.
 
-– Bem-vindos, dimensais e não dimensais – disse ele, olhando todos de cima, mas com um sorriso formal. – Nas próximas semanas, eu os guio nos primeiros passos. Seus tutores os preparam para três desafios, um depois do outro. Quem passar nos três, entre os dimensais, poderá permanecer em Belfex. Quem vencer entre todos, prova ser um senavelita de verdade.
+– Bem-vindos, dimensais e não dimensais – disse ele, olhando todos de cima, mas com um sorriso formal. – Todos os anos recebemos uma nova turma. Os dimensais passam por três avaliações de integração: quem as conclui pode permanecer em Belfex e seguir para os ciclos de formação, sem refazer as provas de entrada. Os jovens daqui também participam para avançar na formação. Nas próximas semanas, seus tutores os prepararão para os três desafios, um depois do outro. Quem se destacar entre todos mostrará o que é capaz de fazer como senavelita.
 
 Um segundo homem entrou no salão. Era alto e magro, de barba curta, queixo pontudo e manto preto cheio de correntes de prata penduradas nas mangas. Os olhos eram frios e pareciam medir cada pessoa.
 
@@ -228,7 +228,7 @@ Bruno suspirou. Tinha esquecido de que estava em outra dimensão. Mas o olhar de
 
 – Esses caras me parecem problema – murmurou para os irmãos.
 
-Garmand apresentou os outros tutores, um por um, e ao final McCroys se retirou com os gêmeos, deixando no ar uma sensação gelada.
+Garmande apresentou os outros tutores, um por um, e ao final McCroys se retirou com os gêmeos, deixando no ar uma sensação gelada.
 
 Mais tarde, na hora do almoço, os aprendizes se espalharam pelo terraço, entre mesas compridas e risadas. Banjo, com um prato na mão, procurava onde sentar quando viu McCroys. Ele estava sozinho, numa ponta da mesa mais distante, mastigando um pedaço de pão. Ninguém se sentava perto dele. Um passarinho de penas azuis pousou no cotovelo do mago, e McCroys, sem olhar, partiu um pedacinho do pão e o deixou no tampo da mesa.
 

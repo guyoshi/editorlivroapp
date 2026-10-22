@@ -1,4 +1,4 @@
-No salão do prédio, ninguém falava alto. O anúncio de Garmand sobre as eliminações ainda pairava no ar como uma poeira pesada, e as pessoas se dividiam em grupos pequenos, sussurrando. Ao fundo, Erick e Nicolas entraram numa lárida improvisada, de cabelos molhados e ar presunçoso, depois de terem arranjado algum jeito de chegar à linha de chegada.
+No salão do prédio, ninguém falava alto. O anúncio de Garmande sobre as eliminações ainda pairava no ar como uma poeira pesada, e as pessoas se dividiam em grupos pequenos, sussurrando. Ao fundo, Erick e Nicolas entraram numa lárida improvisada, de cabelos molhados e ar presunçoso, depois de terem arranjado algum jeito de chegar à linha de chegada.
 
 Num canto, Eshley abraçava Maria com tanta força que as duas tremiam.
 
@@ -12,7 +12,7 @@ Maria sorriu entre as lágrimas, tentando parecer forte.
 
 Bruno não tinha contado a ninguém que também fora eliminado. A notícia pesava nos ombros dele, mas havia uma teimosia nos olhos que gritava "não acabou". Ele não se permitia aceitar a ideia de voltar para casa.
 
-Leon, o tutor de Maria, apoiou a mão no ombro da menina e a conduziu para a saída, onde a tempestade trovejava. Eles sumiram no corredor, e o silêncio deixou um vazio. Antes de virar a esquina, Maria se virou, olhou para os irmãos e levantou a mão fechada, com uma pétala azul nos dedos, a única coisa que ia levar daquele mundo.
+Lioro, o tutor de Maria, apoiou a mão no ombro da menina e a conduziu para a saída, onde a tempestade trovejava. Eles sumiram no corredor, e o silêncio deixou um vazio. Antes de virar a esquina, Maria se virou, olhou para os irmãos e levantou a mão fechada, com uma pétala azul nos dedos, a única coisa que ia levar daquele mundo.
 
 Velho-Sábio apareceu logo depois, sem fazer perguntas, e acenou para que o seguissem. Do lado de fora, a chuva caía com força, e o céu era uma massa escura de trovões. Ele ergueu o cajado, e uma barreira translúcida os envolveu, desviando cada gota, que escorria pelas bordas como pequenas ondas de luz líquida. Andaram em silêncio debaixo dela, até o dassi.
 
@@ -50,7 +50,7 @@ No quarto dos irmãos, a noite foi de soluços abafados. Beatriz e Banjo se enco
 
 Mais tarde, Velho-Sábio bateu na porta.
 
-– Preciso resolver uma coisa com Garmand. Deixei o jantar pronto, e o Coronel está de guarda. Ele é péssimo nisso, mas é sincero. Aconteça o que acontecer, ninguém sai de casa.
+– Preciso resolver uma coisa com Garmande. Deixei o jantar pronto, e o Coronel está de guarda. Ele é péssimo nisso, mas é sincero. Aconteça o que acontecer, ninguém sai de casa.
 
 Banjo e Beatriz foram para a cozinha. Bruno ficou deitado.
 
@@ -107,9 +107,9 @@ Ninguém teve coragem de perguntar o quê. Banjo, de olhos vermelhos, já se des
 
 – Eu não quero ir embora – sussurrou Banjo.
 
-O dassi parou. Para a surpresa deles, estavam de novo diante do prédio de treinamento. Velho-Sábio disse apenas "Vamos", e subiram de elevador a um andar superior, onde Garmand e vários aprendizes aguardavam numa sala clara. O coração de Bruno bateu mais forte ao ver a expressão severa do tutor.
+O dassi parou. Para a surpresa deles, estavam de novo diante do prédio de treinamento. Velho-Sábio disse apenas "Vamos", e subiram de elevador a um andar superior, onde Garmande e vários aprendizes aguardavam numa sala clara. O coração de Bruno bateu mais forte ao ver a expressão severa do tutor.
 
-– Hoje anuncio os aprendizes que passaram nos dois primeiros desafios e participarão do último – disse Garmand. – É uma honra.
+– Hoje anuncio os aprendizes que passaram nos dois primeiros desafios e participarão do último – disse Garmande. – É uma honra.
 
 Ele começou a citar nomes. Brenda, Isabelle, Ferris. Depois:
 
@@ -127,13 +127,13 @@ Breno respirou como se tivesse tirado uma rocha das costas.
 
 – É... – Bruno tentou parecer casual. – Vocês não durariam muito sem mim.
 
-Garmand continuou a lista, e então disse:
+Garmande continuou a lista, e então disse:
 
 – Emiris.
 
-Os irmãos ficaram paralisados. Tinham certeza de que Emiris havia sido eliminado. No fundo do salão, o menino de cabelos claros empalideceu e olhou na direção da porta, onde um homem alto, de uniforme cinza da Vigilância, trocou com Garmand um aceno breve, sem sorrir. Emiris baixou os olhos, e as orelhas dele ficaram vermelhas. Os gêmeos Nicolas e Erick foram chamados em seguida, e Bruno apertou os dentes.
+Os irmãos ficaram paralisados. Tinham certeza de que Emiris havia sido eliminado. No fundo do salão, o menino de cabelos claros empalideceu e olhou na direção da porta, onde um homem alto, de uniforme cinza da Vigilância, trocou com Garmande um aceno breve, sem sorrir. Emiris baixou os olhos, e as orelhas dele ficaram vermelhas. Os gêmeos Nicolas e Erick foram chamados em seguida, e Bruno apertou os dentes.
 
-– O último desafio será na sexta à tarde – concluiu Garmand. – Será o mais difícil de todos. Boa sorte.
+– O último desafio será na sexta à tarde – concluiu Garmande. – Será o mais difícil de todos. Boa sorte.
 
 Os irmãos se abraçaram, rindo e se empurrando, e Banjo quase derrubou uma cadeira. Velho-Sábio os observou do fundo, com um sorriso caloroso que dizia mais do que palavras.
 
@@ -185,7 +185,7 @@ Breno cerrou os punhos.
 
 Velho-Sábio sustentou o olhar deles, sem raiva.
 
-– Em Belfex há, sim, um desejo genuíno de acolher os dimensais. Mas toda causa atrai ambições. Os desafios existem em parte para identificar os mais fortes. Aqueles que treinam com vocês, como a filha de Garmand, se destacaram na escola e foram transferidos para o Edifício Arcano. Mas a dimensão deles é esta. Quem perde continua aqui e volta à escola. Vocês, não. – Ele suspirou. – Não sou eu quem define as regras. Se pudesse, mudaria.
+– Em Belfex há, sim, um desejo genuíno de acolher os dimensais. Mas toda causa atrai ambições. Os desafios existem em parte para identificar os mais fortes. Aqueles que treinam com vocês, como a filha de Garmande, se destacaram na escola e foram transferidos para o Edifício Arcano. Mas a dimensão deles é esta. Quem perde continua aqui e volta à escola. Vocês, não. – Ele suspirou. – Não sou eu quem define as regras. Se pudesse, mudaria.
 
 – Mas o que essas provas testam? – perguntou Bruno. – Uma corrida? Um nado? Mal usamos magia.
 
@@ -197,7 +197,7 @@ Velho-Sábio sustentou o olhar deles, sem raiva.
 
 – Por que não nos disse antes? – perguntou Breno.
 
-– Porque uma lição só é absorvida quando se descobre por si mesmo. – Ele baixou os olhos. – A verdade sobre os desafios não é contada a ninguém. Eu mesmo não deveria saber, mas soube, e achei justo que vocês soubessem. Foi por isso que insisti para que Garmand deixasse você continuar, Bruno. Talvez um de vocês seja um Primordial. Talvez todos. Mas depois de tudo o que eu disse, a decisão é de vocês.
+– Porque uma lição só é absorvida quando se descobre por si mesmo. – Ele baixou os olhos. – A verdade sobre os desafios não é contada a ninguém. Eu mesmo não deveria saber, mas soube, e achei justo que vocês soubessem. Foi por isso que insisti para que Garmande deixasse você continuar, Bruno. Talvez um de vocês seja um Primordial. Talvez todos. Mas depois de tudo o que eu disse, a decisão é de vocês.
 
 As folhas caíram no chão.
 
@@ -246,7 +246,7 @@ Em alguns minutos chegaram à cúpula do centro de transporte interdimensional. 
 
 – O que traz você aqui, Velho-Sábio? – perguntou um deles. – Depois da invasão, a segurança foi reforçada.
 
-– Vim ver a Sra. Erla Diggs, édion.
+– Vim ver a Sra. Erla Digan, édion.
 
 Os vigilantes trocaram um olhar e, resignados, abriram o portão. Lá dentro, corredores de mármore refletiam uma luz fria. Guardas marchavam em fileiras, com bastões que emitiam um leve zumbido. Em um salão, hologramas flutuavam sobre mesas, exibindo mapas de Tayo com pontos que piscavam, e uma parede inteira de tela mostrava a cidade em tempo real. Tudo era impressionante, mas nada era caloroso.
 
@@ -318,7 +318,7 @@ Algo mudou rápido no semblante dela, e logo voltou ao controle de sempre.
 
 Velho-Sábio ficou em silêncio por um instante.
 
-– Não feche os olhos como Lucas, Erla. Você é um dos poucos pilares que ainda sustentam esta cidade. E é uma mulher esperta. Não se deixe enganar.
+– Não feche os olhos como Lucan, Erla. Você é um dos poucos pilares que ainda sustentam esta cidade. E é uma mulher esperta. Não se deixe enganar.
 
 Erla o estudou.
 

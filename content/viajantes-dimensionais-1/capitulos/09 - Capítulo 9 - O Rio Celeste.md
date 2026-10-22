@@ -1,4 +1,4 @@
-Na manhã seguinte à corrida, quando saíram do Edifício Arcano, os irmãos e Velho-Sábio encontraram a saída bloqueada por uma figura rígida e imponente. Erla Diggs, édion da Vigilância, esperava com os braços cruzados, ladeada por Gary e por outros vigilantes de uniforme cinza. O olhar dela passeou pelos quatro como uma régua.
+Na manhã seguinte à corrida, quando saíram do Edifício Arcano, os irmãos e Velho-Sábio encontraram a saída bloqueada por uma figura rígida e imponente. Erla Digan, édion da Vigilância, esperava com os braços cruzados, ladeada por Garien e por outros vigilantes de uniforme cinza. O olhar dela passeou pelos quatro como uma régua.
 
 – Bom dia, Auream. Precisamos revistar os dimensais.
 
@@ -6,13 +6,13 @@ O rosto de Velho-Sábio se fechou.
 
 – Revistá-los? Por quê?
 
-– Na noite passada alguém invadiu os fundos da Central. – Erla fez uma pausa, deixando a frase pairar. – Nada foi roubado. Mas um anel foi encontrado na cena pelo vigilante Gary, um anel que não é daqui. Veio da terceira dimensão.
+– Na noite passada alguém invadiu os fundos da Central. – Erla fez uma pausa, deixando a frase pairar. – Nada foi roubado. Mas um anel foi encontrado na cena pelo vigilante Garien, um anel que não é daqui. Veio da terceira dimensão.
 
 Beatriz e Banjo se entreolharam. Bruno sustentou o olhar da édion, desafiador, e ela notou, e não se abalou.
 
 – Um anel – repetiu Velho-Sábio. – E a senhora acha que é de um dos meus aprendizes? Eles passaram a noite em casa, sob os meus olhos. E, nas últimas semanas, sob os olhos dos seus próprios agentes.
 
-Gary desviou o olhar. Erla se aproximou do mago, até ficar muito perto.
+Garien desviou o olhar. Erla se aproximou do mago, até ficar muito perto.
 
 – Se está defendendo-os e eles cometeram um crime, torna-se cúmplice.
 
@@ -20,7 +20,7 @@ Velho-Sábio não respondeu. Manteve o olhar sereno, e foi o silêncio dele que 
 
 – Podem ir – disse Erla, afinal, com um aceno seco. – Mas se algo sair do controle, Auream, eu saberei.
 
-Quando ela se virou, Gary ficou um segundo para trás e fez um gesto discreto de desculpas para Banjo, que ainda segurava a mochila contra o peito. Depois correu atrás da chefe.
+Quando ela se virou, Garien ficou um segundo para trás e fez um gesto discreto de desculpas para Banjo, que ainda segurava a mochila contra o peito. Depois correu atrás da chefe.
 
 No caminho até o ponto do dassi, a rua parecia mais longa do que de costume. Foi Breno quem rompeu o silêncio.
 
@@ -50,7 +50,7 @@ Os dois se olharam e riram. Foi um alívio, como abrir uma janela num quarto aba
 
 À tarde, Velho-Sábio os parabenizou pela corrida e avisou que o próximo desafio exigiria magia de verdade. Nas duas semanas seguintes, o treino foi intenso, e aconteceu o que costuma acontecer quando se treina bastante: os dedos ficaram mais firmes, as respostas mais rápidas. Breno aprendeu a atravessar uma parede sem pensar duas vezes. Bruno conseguiu segurar uma lasca de gelo por um minuto inteiro sem que virasse um castelo. Beatriz fez chamas pequenas e fiéis, que obedeciam a um assovio. Banjo fez folhas pousarem em fila na mesa da cozinha, uma ao lado da outra, como cartas de baralho.
 
-Entre uma aula e outra, a vida foi criando hábitos. Às quartas, Eshley e Maria apareciam lá em casa para desenhar lanternas, e a sala ficava coberta de papel dourado e de cola que cheirava a mel. O jantar de domingo continuou de pé, mesmo com todo mundo cansado. Foi num deles que Bruno ganhou a primeira partida de Pedropone contra o mago, com uma trapaça tão descarada que Velho-Sábio pagou o mico de bom grado, imitando uma volha por dois minutos inteiros. Kali pediu a gravação. Ninguém deixou. Todo mundo sabia que ela tinha feito uma mesmo assim. Velho-Sábio passou a deixar um bilhete na porta de cada quarto de manhã, com um desenho que se mexia. O de Breno dizia: "Durma mais." O de Beatriz tinha um coelho que acenava. O de Bruno dizia apenas: "Acorda. Você também." Bruno guardou o dele na gaveta e fingiu que nunca o tinha lido.
+Entre uma aula e outra, a vida foi criando hábitos. Às quartas, Eshley e Maria apareciam lá em casa para desenhar lanternas, e a sala ficava coberta de papel dourado e de cola que cheirava a mel. O jantar de domingo continuou de pé, mesmo com todo mundo cansado. Foi num deles que Bruno ganhou a primeira partida de Tepone contra o mago, com uma trapaça tão descarada que Velho-Sábio pagou o mico de bom grado, imitando uma volha por dois minutos inteiros. Kali pediu a gravação. Ninguém deixou. Todo mundo sabia que ela tinha feito uma mesmo assim. Velho-Sábio passou a deixar um bilhete na porta de cada quarto de manhã, com um desenho que se mexia. O de Breno dizia: "Durma mais." O de Beatriz tinha um coelho que acenava. O de Bruno dizia apenas: "Acorda. Você também." Bruno guardou o dele na gaveta e fingiu que nunca o tinha lido.
 
 A desconfiança de Bruno com o anel de McCroys ficou quieta nesse tempo, como brasa debaixo de cinza.
 
@@ -66,15 +66,15 @@ Eram raias enormes, quase translúcidas, com um par de chifrinhos na testa e dua
 
 A lárida virou o corpo inteiro para ele, devagar, e inclinou os olhos verdes na direção do seu rosto. Banjo soube na hora que era aquela.
 
-Garmand chamou os aprendizes.
+Garmande chamou os aprendizes.
 
 – Desta vez não é uma corrida. O objetivo é chegar ao fim do percurso montados em uma lárida, seguindo um rio que flutua no céu. Magia é permitida, com cautela.
 
-Karol, a tutora de Brenda, deu um passo à frente. Era uma mulher de postura impecável, olhos afiados e voz clara, que mesmo dura parecia encorajar.
+Karoli Morger, a tutora de Brenda, deu um passo à frente. Era uma mulher de postura impecável, olhos afiados e voz clara, que mesmo dura parecia encorajar.
 
 – Mantenham a calma e uma postura equilibrada. Elas sentem a energia de vocês e reagem a ela. Segurem-se nas cordas ao longo do dorso, e, se precisarem, puxem de leve para direcioná-las. Movimentos bruscos desestabilizam a criatura. – Ela montou em uma, que a aceitou sem hesitar. – Se alguém desistir no meio, deve se atirar nos ares. Será eliminado. E, se for dimensal, voltará para a sua dimensão.
 
-– Atenção! – continuou Garmand. – Em poucos segundos, as láridas vão sair pela janela e levá-los ao rio. O rio é o ponto de partida e de chegada. Quem cruzar o arco final montado em uma lárida terá concluído a prova. Quem não cruzar, ou chegar sem lárida, será eliminado.
+– Atenção! – continuou Garmande. – Em poucos segundos, as láridas vão sair pela janela e levá-los ao rio. O rio é o ponto de partida e de chegada. Quem cruzar o arco final montado em uma lárida terá concluído a prova. Quem não cruzar, ou chegar sem lárida, será eliminado.
 
 As láridas se agitaram quando a contagem terminou, como se sentissem a partida. Com um movimento suave, elas se lançaram pela grande janela aberta e mergulharam em direção às nuvens, levando os aprendizes. O ar fresco bateu nos rostos. O céu estava encoberto por uma camada tão densa que não se via a própria mão.
 
@@ -240,7 +240,7 @@ A água explodiu, e as láridas foram jogadas para lados diferentes. Bruno encon
 
 – Cala a boca, cabeça de metal. Se não fosse por mim, nosso irmão já estava eliminado.
 
-Breno abriu a boca para responder, mas uma figura passou rápida ao lado deles. Era Ferris Cotton, deslizando pela água sem esforço, como se fizesse parte dela. Lançou-lhes um olhar frio e calculista e seguiu em alta velocidade. Bruno sentiu um misto de admiração e rivalidade.
+Breno abriu a boca para responder, mas uma figura passou rápida ao lado deles. Era Ferris Montfort, deslizando pela água sem esforço, como se fizesse parte dela. Lançou-lhes um olhar frio e calculista e seguiu em alta velocidade. Bruno sentiu um misto de admiração e rivalidade.
 
 – Olha ali! – gritou Breno, apontando para cima.
 
@@ -278,7 +278,7 @@ Banjo, na lárida, olhou para trás uma última vez. A fera, no meio do rio, nã
 
 Quando cruzaram o arco de chegada, os irmãos se jogaram na areia da ilhota, exaustos e triunfantes. Bruno saiu da água logo depois, ofegante, e se deixou cair ao lado deles.
 
-– Parabéns a todos pelo desafio – disse a voz de Garmand. Ele estava de pé diante deles, de braços cruzados. – Para três de vocês.
+– Parabéns a todos pelo desafio – disse a voz de Garmande. Ele estava de pé diante deles, de braços cruzados. – Para três de vocês.
 
 – Três? – perguntou Beatriz.
 

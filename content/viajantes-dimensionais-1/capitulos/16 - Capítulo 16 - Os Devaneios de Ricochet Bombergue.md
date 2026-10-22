@@ -168,7 +168,7 @@ Foi Bruno quem começou a rir primeiro, apontando os dois: o tio bravo chutando 
 
 Mas a noite caíra de vez, e uma chuva fina chegou junto com um vento gelado. Os irmãos encontraram uma grande rocha que se debruçava sobre o chão como um telhado, e se enfiaram ali debaixo. Banjo se enrolou no chão. Bruno encostou as costas na pedra e esfregou os braços. Farol deu duas voltas e deitou-se sobre os pés dos três, abrindo a cauda como um cobertor de luz. O frio recuou na hora.
 
-Breno, porém, não dormiu. A chuva escorria pela borda da pedra, e ele tirou do bolso o cristal de reflexão que Tony Nickbrown lhe dera. Ele brilhava com um tom azulado, fraco, sob a luz da lua.
+Breno, porém, não dormiu. A chuva escorria pela borda da pedra, e ele tirou do bolso o cristal de reflexão que Taony Nickbrown lhe dera. Ele brilhava com um tom azulado, fraco, sob a luz da lua.
 
 – O que você tem pra me mostrar? – sussurrou, quase sem voz.
 
@@ -184,7 +184,7 @@ O cristal rachou na mão de Breno e se partiu em pedacinhos que caíram entre se
 
 – Quem?
 
-– Não deu para ver. Só uma sombra, e nada que mostre onde ela está. – Ele olhou para os cacos. – O Tony avisou que cada cristal só funciona uma vez.
+– Não deu para ver. Só uma sombra, e nada que mostre onde ela está. – Ele olhou para os cacos. – O Taony avisou que cada cristal só funciona uma vez.
 
 – Será que é verdade o que você viu? – perguntou Banjo.
 

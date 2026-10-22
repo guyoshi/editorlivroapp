@@ -78,7 +78,7 @@ Bruno olhou para o bicho no pescoço e depois para Breno.
 
 Breno ficou quieto. Os ombros dele foram descendo devagar, e o metal derreteu de volta em pele.
 
-– O falso nos fez acreditar que você tinha ido contar tudo à Patrulha – disse. – Que eles tinham destruído Pinesotto por sua causa. Que Gaia... – A voz falhou. – Eles mataram o Grande Pai.
+– O falso nos fez acreditar que você tinha ido contar tudo à Patrulha – disse. – Que eles tinham destruído Pinesoto por sua causa. Que Gaia... – A voz falhou. – Eles mataram o Grande Pai.
 
 O rosto de Bruno se fechou. A brincadeira sumiu dele de uma vez.
 
@@ -146,13 +146,13 @@ Os irmãos se viraram. Das sombras saiu uma figura conhecida.
 
 – Feliz em ver seus amigos, filho?
 
-– Gary? – Breno franziu a testa. – O que o senhor faz aqui? E o Emiris é... seu filho?
+– Garien? – Breno franziu a testa. – O que o senhor faz aqui? E o Emiris é... seu filho?
 
 – Eu disse que meu pai era da Vigilância – falou Emiris, dando de ombros.
 
 – Tem um monte de vigilantes em Tayo! – Bruno abriu os braços. – Ninguém ia imaginar!
 
-Gary riu, baixo, quase sem vontade.
+Garien riu, baixo, quase sem vontade.
 
 – Vocês não precisam ser resgatados. Estão exatamente onde deveriam estar.
 
@@ -160,29 +160,29 @@ Houve um silêncio estranho. Breno sentiu o estômago se fechar, devagar, como u
 
 – O que quer dizer com isso?
 
-– Desde que pisaram em Tayo, todos os passos de vocês foram anotados – continuou Gary. – Eu organizei os turnos dos vigilantes que os acompanhavam, e cada detalhe chegou a Korvo. Foi o que me deu a honra de abrir a porta dos fundos da Central e deixar sua irmã ser levada.
+– Desde que pisaram em Tayo, todos os passos de vocês foram anotados – continuou Garien. – Eu organizei os turnos dos vigilantes que os acompanhavam, e cada detalhe chegou a Korvo. Foi o que me deu a honra de abrir a porta dos fundos da Central e deixar sua irmã ser levada.
 
 – O anel – disse Bruno de repente, com a voz baixa. – O anel preto que eu vi no dedo do McCroys. O que acharam na Central.
 
-– Eu o plantei lá – confirmou Gary, com um aceno quase educado. – Pedi aos gêmeos que me trouxessem o anel dele. Eles não sabiam para quê. Achavam que era um favor, uma prova de lealdade.
+– Eu o plantei lá – confirmou Garien, com um aceno quase educado. – Pedi aos gêmeos que me trouxessem o anel dele. Eles não sabiam para quê. Achavam que era um favor, uma prova de lealdade.
 
 – Os gêmeos trabalham pra você?
 
-– Já tentei. Ensinei magia negra a eles, porque vi potencial. Mas na hora de ficar do nosso lado, no festival, os dois recusaram. – Gary franziu o nariz, como se falasse de dois alunos preguiçosos. – Eu poderia ter me livrado deles, mas o tempo era curto. Mandei apenas que repetissem a vocês uma frase, aquela de que Korvo levou a sua irmã para o Pântano de Mortem. Eles pensaram que era só fofoca.
+– Já tentei. Ensinei magia negra a eles, porque vi potencial. Mas na hora de ficar do nosso lado, no festival, os dois recusaram. – Garien franziu o nariz, como se falasse de dois alunos preguiçosos. – Eu poderia ter me livrado deles, mas o tempo era curto. Mandei apenas que repetissem a vocês uma frase, aquela de que Korvo levou a sua irmã para o Pântano de Mortem. Eles pensaram que era só fofoca.
 
 Bruno apertou os punhos. Na cabeça dele, todos os olhares de desconfiança para o McCroys voltaram em fila, um por um.
 
 – Eu estava errado – murmurou. – Sobre ele. Sobre os dois.
 
-– Foi para isso que eu me esforcei – disse Gary, quase carinhoso. – Alguns anos de trabalho, apenas para que um garoto achasse que via o que queria ver. E o meu filho ficou de olho em vocês. Eu tive que mexer alguns pauzinhos para ele continuar nos desafios depois de eliminado.
+– Foi para isso que eu me esforcei – disse Garien, quase carinhoso. – Alguns anos de trabalho, apenas para que um garoto achasse que via o que queria ver. E o meu filho ficou de olho em vocês. Eu tive que mexer alguns pauzinhos para ele continuar nos desafios depois de eliminado.
 
 Banjo olhou para Emiris. Viu, por um instante, o amigo que recortara lanternas com eles e prometera falar com o pai. Tinha sentido falta dele depois da eliminação. Agora não sabia se Emiris alguma vez tinha sido seu amigo.
 
-– O Garmand queria me expulsar – disse Emiris, ajeitando os óculos. – Pena para ele.
+– O Garmande queria me expulsar – disse Emiris, ajeitando os óculos. – Pena para ele.
 
 – E por que o senhor fez isso tudo? – perguntou Breno. A raiva dele já não estava mais quente. Estava fria, o que era pior. – O senhor jurou proteger Tayo.
 
-– E protejo. Protejo o que Tayo deveria ser. – Gary levantou o queixo. – Uma cidade livre, que não tenha medo de quem ela mesma criou. Vocês pensam que lutam pelo bem. Mas lutam para manter tudo exatamente como está.
+– E protejo. Protejo o que Tayo deveria ser. – Garien levantou o queixo. – Uma cidade livre, que não tenha medo de quem ela mesma criou. Vocês pensam que lutam pelo bem. Mas lutam para manter tudo exatamente como está.
 
 – Essa porta que Korvo queria que o senhor abrisse – disse Breno, devagar. – Para onde ela dava?
 
@@ -192,9 +192,9 @@ Breno olhou em volta: as portas de ferro comidas pela ferrugem, o cheiro, os oss
 
 – A Presália – sussurrou. – A prisão velha, embaixo da Central. Estamos debaixo de Tayo.
 
-– E o covil de Korvo sempre esteve debaixo do nariz de Erla – completou Gary, sorrindo. – E quando ele me chamar para a Patrulha, eu serei o primeiro a...
+– E o covil de Korvo sempre esteve debaixo do nariz de Erla – completou Garien, sorrindo. – E quando ele me chamar para a Patrulha, eu serei o primeiro a...
 
-Um som baixo e constante o interrompeu. Passos, lentos, com um tilintar leve de metal, vindos do corredor por onde Marcus tinha fugido. Gary calou. O sorriso dele diminuiu, e Emiris abaixou os olhos, como um cachorro quando o dono chega.
+Um som baixo e constante o interrompeu. Passos, lentos, com um tilintar leve de metal, vindos do corredor por onde Marcus tinha fugido. Garien calou. O sorriso dele diminuiu, e Emiris abaixou os olhos, como um cachorro quando o dono chega.
 
 O homem que surgiu era alto e esguio. Vestia um terno escuro e impecável, e o cabelo, penteado para trás, brilhava como tinta. Tinha olhos de um amarelo profundo, e em volta deles, manchas escuras, como sombras que nunca iam embora. O pano ainda estava em sua mão.
 
@@ -230,7 +230,7 @@ Korvo se endireitou e deu um passo para o lado, com um gesto quase de cortesia.
 
 – Sua irmã está bem. Sigam por aquele corredor. No final, vão encontrá-la.
 
-Os irmãos se entreolharam. Eram quatro contra um, em um lugar que era dele, e todos sabiam disso. Breno engoliu em seco e seguiu, com os outros atrás, passando por Gary e por Emiris sem olhar.
+Os irmãos se entreolharam. Eram quatro contra um, em um lugar que era dele, e todos sabiam disso. Breno engoliu em seco e seguiu, com os outros atrás, passando por Garien e por Emiris sem olhar.
 
 O corredor levou a uma câmara iluminada por tochas. No meio dela havia uma mesa posta, com pão, frutas e água, e um colchão com um cobertor limpo, tão arrumado que parecia trazido de outro mundo.
 
@@ -302,7 +302,7 @@ Banjo levantou os olhos direto para Bruno.
 
 – Você... – Banjo hesitou. – Estava num lugar de pedras quebradas. Eu e a Bia no chão. O Breno chorando. E você de pé, com as mãos... escuras.
 
-– Chega – disse Breno, de repente. – Os cristais não revelam nada. O Tony avisou para ter cuidado com o que a gente vê neles.
+– Chega – disse Breno, de repente. – Os cristais não revelam nada. O Taony avisou para ter cuidado com o que a gente vê neles.
 
 Bruno ficou desconfortável, mas não perguntou mais.
 
@@ -368,7 +368,7 @@ Breno sentiu isso no estômago. Nada do que treinaram em Tayo, nem do que fizera
 
 As palavras bateram em Breno com a força de um soco. Ele abriu a boca, e nada saiu.
 
-– Eu vi o que os seguidores dele fizeram – disse, por fim, a voz quase rouca. – Eles destruíram Pinesotto, Bia. Mataram o Grande Pai. Isso não é liberdade. É controle, só que com outra roupa.
+– Eu vi o que os seguidores dele fizeram – disse, por fim, a voz quase rouca. – Eles destruíram Pinesoto, Bia. Mataram o Grande Pai. Isso não é liberdade. É controle, só que com outra roupa.
 
 Bruno se aproximou da irmã e se ajoelhou diante dela, segurando as mãos dela entre as suas. Pela primeira vez em muito tempo, ele não tinha nenhuma piada pronta.
 

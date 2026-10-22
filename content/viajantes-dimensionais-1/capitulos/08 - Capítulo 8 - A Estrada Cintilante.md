@@ -81,13 +81,13 @@ Os aprendizes formavam grupos ao redor deles. Eshley e Maria, os gêmeos Erick e
 
 – Vomita para o lado – aconselhou Shirley. – Os tutores estão de roupa nova.
 
-– Eu estou bem – disse Denis, o rosto verde. – Eu estou ótimo. Alguém sabe que o Ferris Cotton nunca perdeu uma corrida em Tayo? Dizem que o pai dele o treina desde os cinco anos, em segredo, num telhado de Neredis, de olhos vendados. Dizem que ele dorme em cima do dassi.
+– Eu estou bem – disse Denis, o rosto verde. – Eu estou ótimo. Alguém sabe que o Ferris Montfort nunca perdeu uma corrida em Tayo? Dizem que o pai dele o treina desde os cinco anos, em segredo, num telhado de Neredis, de olhos vendados. Dizem que ele dorme em cima do dassi.
 
 – Dizem, dizem – resmungou Hudson. – Quem diz?
 
 – Todo mundo! – respondeu Denis, ofendido.
 
-– Bem-vindos ao primeiro desafio – anunciou Garmand, e a voz dele rolou pelo salão. – Hoje o teste é de coordenação e trabalho em equipe. Uma corrida de dassis por uma estrada de luz que atravessa Tayo. Magia é permitida, mas o dassi é o corpo de vocês, e vocês vão ter de pilotá-lo. Os dois últimos serão eliminados. E os dimensais eliminados... voltam para casa.
+– Bem-vindos ao primeiro desafio – anunciou Garmande, e a voz dele rolou pelo salão. – Hoje o teste é de coordenação e trabalho em equipe. Uma corrida de dassis por uma estrada de luz que atravessa Tayo. Magia é permitida, mas o dassi é o corpo de vocês, e vocês vão ter de pilotá-lo. Os dois últimos serão eliminados. E os dimensais eliminados... voltam para casa.
 
 Os irmãos se entreolharam. Um homem robusto de pele escura, risada fácil e braços cheios de roupas brilhantes se aproximou deles.
 
@@ -228,11 +228,11 @@ No refeitório, a empolgação ainda corria solta. Eshley e Maria vieram com os 
 
 – Vocês viram quem venceu? – perguntou Beatriz, puxando uma cadeira.
 
-– O Ferris Cotton – disse Eshley. – Um dos doze filhos de Pierre Cotton, o senavelita mais forte vivo.
+– O Ferris Montfort – disse Eshley. – Um dos doze filhos de Pierre Montfort, o senavelita mais forte vivo.
 
 – Ele é bom mesmo – disse Maria. – A gente o viu criar uma bolsa de ar dentro da tempestade e atravessar tudo.
 
-– Eu avisei – disse Denis, aparecendo com uma bandeja e puxando uma cadeira sem pedir. – Mas o melhor vocês não sabem. Agora há pouco vi o pai do Emiris no corredor, aquele de uniforme da Vigilância, falando com o Garmand em voz baixa. Saiu de lá com uma cara de pedra. Eu acho que...
+– Eu avisei – disse Denis, aparecendo com uma bandeja e puxando uma cadeira sem pedir. – Mas o melhor vocês não sabem. Agora há pouco vi o pai do Emiris no corredor, aquele de uniforme da Vigilância, falando com o Garmande em voz baixa. Saiu de lá com uma cara de pedra. Eu acho que...
 
 – Denis – cortou Eshley.
 
@@ -244,7 +244,7 @@ Bruno olhou ao redor e franziu a testa.
 
 As duas trocaram um olhar.
 
-– Caíram na tempestade – disse Maria, baixinho. – Foram eliminados, ele e o parceiro. O parceiro volta pra terceira dimensão amanhã, pelo que o Leon disse. Já o Emiris é daqui, então só volta pra casa.
+– Caíram na tempestade – disse Maria, baixinho. – Foram eliminados, ele e o parceiro. O parceiro volta pra terceira dimensão amanhã, pelo que o Lioro disse. Já o Emiris é daqui, então só volta pra casa.
 
 – Ele nem teve chance – murmurou Eshley. – Mas é assim que funciona.
 
