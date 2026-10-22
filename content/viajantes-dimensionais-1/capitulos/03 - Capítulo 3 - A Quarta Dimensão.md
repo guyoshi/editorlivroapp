@@ -326,7 +326,7 @@ Breno apertou os dedos na borda da mesinha.
 
 O sorriso de Auream desapareceu.
 
-– Sinto muito, Breno. Eu devia ter explicado melhor que uma viagem poderia acontecer. Imagino como Frank deve estar preocupado.
+– Sinto muito, Breno. Eu devia ter explicado melhor que uma viagem poderia acontecer. Imagino como ele deve estar preocupado.
 
 – Então podemos voltar? – Beatriz perguntou, mais baixo.
 
