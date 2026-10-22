@@ -118,7 +118,7 @@ Velho-Sábio entrou carregando um bolo montado como chamas vivas, em camadas de 
 
 – Para a nossa chama viva.
 
-Fez um gesto com o bastão, e velas finas flutuaram em volta do bolo, formando um círculo perfeito, cada uma com uma chama pequena e intensa. Os irmãos cantaram os parabéns, desafinados e calorosos, a voz grave de Breno contrastando com a empolgação de Banjo e o tom ligeiramente fora do coro de Bruno. Velho-Sábio entrou também, com a voz rouca. Kali tentou acompanhar, completamente por fora. O Coronel andava de um para o outro atrás de algo para comer.
+Fez um gesto com o bastão, e velas finas flutuaram em volta do bolo, formando um círculo perfeito, cada uma com uma chama pequena e intensa. Os irmãos cantaram os parabéns, desafinados e calorosos, a voz grave de Breno contrastando com a empolgação de Banjo e o tom ligeiramente fora do coro de Bruno. Velho-Sábio entrou também, com a voz rouca. Kali tentou acompanhar, completamente por fora. Coronel andava de um para o outro atrás de algo para comer.
 
 Beatriz fechou os olhos e soprou as velas, uma a uma. Cada chama apagava com suavidade, como uma dança chegando ao fim. Todos aplaudiram e foram abraçá-la. Era domingo, e aos domingos a mesa da casa ficava comprida. Desde a primeira semana tinha sido assim, e ninguém lembrava quando aquilo deixara de ser regra para virar costume.
 
@@ -142,7 +142,7 @@ Velho-Sábio apareceu com uma capa azul-escura bordada de constelações.
 
 – Boa sorte no festival, garotos! – desejou a voz de Kali.
 
-O Coronel rodeou as pernas de Beatriz, quase a derrubando, e se sentou com a postura de sentinela ao lado do mago.
+Coronel rodeou as pernas de Beatriz, quase a derrubando, e se sentou com a postura de sentinela ao lado do mago.
 
 – Sempre pontual – comentou Velho-Sábio. – Queria garantir que ninguém esquecesse de se despedir dele.
 
@@ -247,7 +247,7 @@ Shirley riu alto.
 
 Banjo sorriu de volta, pequeno, mas sincero. Nesse momento Bruno apareceu de testa franzida.
 
-– O Velho-Sábio disse pra não se afastar, cabeça de vento! – Segurou o braço do irmão. – Se perdermos vocês aqui, é por sua conta.
+– Velho-Sábio disse pra não se afastar, cabeça de vento! – Segurou o braço do irmão. – Se perdermos vocês aqui, é por sua conta.
 
 Banjo revirou os olhos, mas ainda sorriu para Shirley.
 
@@ -377,7 +377,7 @@ Garmande se aproximou dele para conversar, e os irmãos se entreolharam, alarmad
 
 – Não, não... A Bia está sozinha – murmurou Breno, com a voz trêmula.
 
-– O Velho-Sábio foi atrás dela – disse Bruno, tentando soar confiante. – Ele vai achá-la.
+– Velho-Sábio foi atrás dela – disse Bruno, tentando soar confiante. – Ele vai achá-la.
 
 – Eu sabia que algo assim ia acontecer. A gente não devia ter ficado aqui! – A voz de Breno subiu, no limite.
 

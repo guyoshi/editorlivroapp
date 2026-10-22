@@ -24,7 +24,7 @@ O mago o olhou, sem responder de imediato.
 
 – Vamos falar disso em casa, Bruno.
 
-Em casa, os irmãos se sentaram na sala, e Velho-Sábio se acomodou no sofá à frente deles, com o Coronel ao lado. O cachorro tentou lamber a mão de Bruno, que a recolheu, sem querer ser incomodado.
+Em casa, os irmãos se sentaram na sala, e Velho-Sábio se acomodou no sofá à frente deles, com Coronel ao lado. O cachorro tentou lamber a mão de Bruno, que a recolheu, sem querer ser incomodado.
 
 – Cada desafio tem regras claras – começou o mago. – Elas existem para testar a adaptação, a perseverança e a responsabilidade. Falhar em um deles é voltar. É uma regra antiga. – Ele olhou diretamente para Bruno. – Como você não cruzou o arco em uma lárida, Bruno, deverá voltar para a terceira dimensão.
 
@@ -50,7 +50,7 @@ No quarto dos irmãos, a noite foi de soluços abafados. Beatriz e Banjo se enco
 
 Mais tarde, Velho-Sábio bateu na porta.
 
-– Preciso resolver uma coisa com Garmande. Deixei o jantar pronto, e o Coronel está de guarda. Ele é péssimo nisso, mas é sincero. Aconteça o que acontecer, ninguém sai de casa.
+– Preciso resolver uma coisa com Garmande. Deixei o jantar pronto, e Coronel está de guarda. Ele é péssimo nisso, mas é sincero. Aconteça o que acontecer, ninguém sai de casa.
 
 Banjo e Beatriz foram para a cozinha. Bruno ficou deitado.
 
@@ -84,7 +84,7 @@ O quarto era diferente do que ele esperava. Era vasto, aconchegante e antigo, co
 
 Ao lado da cama, um cubo prateado de um metro e meio de altura repousava no chão, com linhas brilhantes percorrendo a superfície. Bruno viu seu próprio reflexo ali, distorcido e fragmentado. Estendeu a mão e tocou o metal.
 
-Imagens invadiram a mente dele. Um jovem de uns dezoito anos, caído numa ruína, com um facão de cabo escuro preso ao cinto, os olhos manchados como sombras e um olhar de ódio e dor. Em seguida, Velho-Sábio, mais jovem, flutuando numa noite iluminada por uma energia colossal que ele tentava conter com o cajado, enquanto atrás dele pessoas de rostos assustados buscavam proteção. Depois, um Velho-Sábio dez anos mais jovem do que o que conhecia, num espaço inteiramente branco, com a mão no peito, os olhos fechados, absorvendo uma notícia que mudaria tudo.
+Imagens invadiram a mente dele. Um jovem de uns dezoito anos, caído numa ruína, com um facão de cabo escuro preso ao cinto, os olhos manchados como sombras e um olhar de ódio e dor. Em seguida, Velho-Sábio, mais jovem, flutuando numa noite iluminada por uma energia colossal que ele tentava conter com o cajado, enquanto atrás dele pessoas de rostos assustados buscavam proteção. Depois, Velho-Sábio, dez anos mais jovem do que aquele que conhecia, num espaço inteiramente branco, com a mão no peito, os olhos fechados, absorvendo uma notícia que mudaria tudo.
 
 Bruno voltou ao quarto com o coração disparado e a cabeça girando. Ao levantar os olhos, viu Velho-Sábio parado à porta, o olhar triste e compreensivo.
 
@@ -99,7 +99,7 @@ Bruno escutava, sem saber como reagir.
 Bruno quis responder, mas não conseguiu. Saiu do quarto sem olhar para ele, sentindo o olhar do mago nas costas. Não queria que ele visse a mistura de raiva, medo e incerteza que dançava em seu rosto.
 
 
-Na manhã seguinte, o céu mal tinha clareado quando Velho-Sábio acordou os irmãos. Havia uma xícara quente na mesinha de cada um, e o Coronel dormia sentado ao pé da cama de Banjo, como um guarda de honra cansado.
+Na manhã seguinte, o céu mal tinha clareado quando Velho-Sábio acordou os irmãos. Havia uma xícara quente na mesinha de cada um, e Coronel dormia sentado ao pé da cama de Banjo, como um guarda de honra cansado.
 
 – Levantem-se e arrumem-se. Temos algo importante a fazer.
 
@@ -224,7 +224,7 @@ Velho-Sábio sorriu, vendo o brilho nos olhos deles.
 
 O caminho de volta começou com uma leveza que durou pouco. Tayo brilhava abaixo e os irmãos, cansados, olhavam a paisagem pela janela. Foi aí que, num segundo de silêncio, um veículo apareceu pela direita, numa velocidade assustadora, e bateu em cheio no dassi deles.
 
-O impacto foi brutal. O dassi girou, perdeu o controle, e o céu e a cidade trocaram de lugar numa espiral. Beatriz gritou. Banjo agarrou o assento. Os vidros estalaram, o banco congelou, e cacos flutuaram entre eles, porque os poderes dos irmãos escapavam com o pânico. Breno olhou para o Velho-Sábio, desesperado.
+O impacto foi brutal. O dassi girou, perdeu o controle, e o céu e a cidade trocaram de lugar numa espiral. Beatriz gritou. Banjo agarrou o assento. Os vidros estalaram, o banco congelou, e cacos flutuaram entre eles, porque os poderes dos irmãos escapavam com o pânico. Breno olhou para Velho-Sábio, desesperado.
 
 O mago estava de olhos semicerrados, concentrado, com o cajado firme numa das mãos. Ele o apontou para os céus, e uma energia colossal saiu dele. As nuvens acima começaram a se mover.
 

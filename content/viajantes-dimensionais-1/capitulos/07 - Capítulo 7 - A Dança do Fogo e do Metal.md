@@ -1,14 +1,14 @@
 As semanas seguintes passaram sem que os irmãos percebessem, do jeito que passam as semanas boas.
 
-A manhã começava sempre igual. O despertador do teto estalava às sete, e as constelações bocejavam e se apagavam. Do andar de baixo subia o cheiro de pão com canela e a voz de Kali, que desejava bom dia a um por um, com uma observação diferente para cada: o tempo lá fora, a chance de Bruno perder uma meia, a hora exata em que Banjo ia derrubar a geleia. Banjo derrubava, quase sempre. O Coronel esperava debaixo da mesa, de boca aberta, com a paciência de quem entende de geleia. Quando a paciência acabava, ele roubava um pão do cesto.
+A manhã começava sempre igual. O despertador do teto estalava às sete, e as constelações bocejavam e se apagavam. Do andar de baixo subia o cheiro de pão com canela e a voz de Kali, que desejava bom dia a um por um, com uma observação diferente para cada: o tempo lá fora, a chance de Bruno perder uma meia, a hora exata em que Banjo ia derrubar a geleia. Banjo derrubava, quase sempre. Coronel esperava debaixo da mesa, de boca aberta, com a paciência de quem entende de geleia. Quando a paciência acabava, ele roubava um pão do cesto.
 
 – Coronel – dizia Velho-Sábio, do outro lado do jornal. – Larga.
 
-E o Coronel largava, com a cara de quem acabou de sofrer uma injustiça histórica.
+E Coronel largava, com a cara de quem acabou de sofrer uma injustiça histórica.
 
 Depois vinham o Edifício Arcano, o elevador de vidro, as aulas. Aprenderam a ler os avisos das tapeçarias, a pedir licença antes de entrar numa porta que tinha opinião, a não olhar fixo para os quadros que olhavam de volta. Ao entardecer, no jardim da casa, Velho-Sábio treinava os quatro, e a grama mudava de cor conforme o humor de quem pisava. Breno aprendeu a firmar os pés. Bruno aprendeu que o gelo, quando ele estava distraído, virava escorregador. Beatriz aprendeu a acender uma vela sem acender a toalha. Banjo aprendeu que as folhas do jardim gostavam de conversa e perdeu uma tarde inteira ouvindo.
 
-Aos domingos havia jantar, e o jantar era ordem de Velho-Sábio. Nada de treino, nada de Edifício, nada de pergunta difícil. Todo mundo cozinhava alguma coisa, quase todo mundo queimava alguma coisa, e a mesa ficava comprida de tanta gente: os quatro, o mago, o Coronel e, na tela flutuante, uma Kali que fingia não ter fome.
+Aos domingos havia jantar, e o jantar era ordem de Velho-Sábio. Nada de treino, nada de Edifício, nada de pergunta difícil. Todo mundo cozinhava alguma coisa, quase todo mundo queimava alguma coisa, e a mesa ficava comprida de tanta gente: os quatro, o mago, Coronel e, na tela flutuante, uma Kali que fingia não ter fome.
 
 – Eu poderia provar? – perguntou ela no primeiro domingo, olhando a travessa.
 
@@ -282,7 +282,7 @@ Bruno assentiu. Olhou para os lados e continuou, devagar:
 
 O nome fez Beatriz empalidecer, e Banjo largou o papel que dobrava.
 
-– Se for isso – sussurrou Banjo –, a gente precisa contar ao Velho-Sábio.
+– Se for isso – sussurrou Banjo –, a gente precisa contar a Velho-Sábio.
 
 – Ainda não. Preciso de provas.
 

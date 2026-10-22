@@ -433,7 +433,7 @@ A lua já subia quando chegaram em casa. Coronel veio correndo, abanando o rabo 
 
 – Coronel – disse o mago, com a voz mais mole do que pretendia. – Larga.
 
-O Coronel largou, mas só depois de uma pausa respeitosa. Velho-Sábio fechou a porta e se virou para eles, e o brilho dos olhos verdes tinha algo de sábio e de triste ao mesmo tempo.
+Coronel largou, mas só depois de uma pausa respeitosa. Velho-Sábio fechou a porta e se virou para eles, e o brilho dos olhos verdes tinha algo de sábio e de triste ao mesmo tempo.
 
 – Vocês viveram mais do que qualquer um deveria. Mas amanhã cedo vão partir.
 

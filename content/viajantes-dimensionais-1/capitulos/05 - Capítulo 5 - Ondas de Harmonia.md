@@ -57,9 +57,9 @@ E saiu rindo.
 
 – Quem é Korvo? – perguntou Banjo.
 
-– Quem é esse cara? – perguntou Bruno ao mesmo tempo, querendo dizer Denis.
+– Então esse era o Cachorro? – perguntou Bruno ao mesmo tempo.
 
-– O maior fofoqueiro de Tayo – disse Shirley, com a boca cheia. – Discrição aqui é tudo, pra manter alianças. E ele é tudo menos discreto.
+– É. O maior fofoqueiro de Tayo – disse Shirley, com a boca cheia. – Discrição aqui é tudo, pra manter alianças. E ele é tudo menos discreto.
 
 Ninguém respondeu à pergunta de Banjo. Mas, por um instante, o nome ficou pairando sobre a mesa, e Eshley olhou para as próprias mãos.
 
@@ -168,17 +168,17 @@ Todos riram baixinho, sem querer. Bruno também, por um segundo. Depois desviou 
 Bruno deu de ombros e olhou as luzes passando.
 
 
-A chuva tamborilava no telhado da casa do Velho-Sábio, e a sala cheirava a madeira e chá. Sobre a mesa, um tabuleiro brilhava com runas pequenas, e figurinhas dançavam entre os quadrados.
+A chuva tamborilava no telhado da casa de Velho-Sábio, e a sala cheirava a madeira e chá. Sobre a mesa, um tabuleiro brilhava com runas pequenas, e figurinhas dançavam entre os quadrados.
 
 – Tepone – anunciou Velho-Sábio. – Dados mágicos, pontes de enigma e torres de desafio. Quem perde paga um mico.
 
 Banjo perdeu a primeira rodada. Seu mico foi soltar uma bolha de sabão a cada palavra que dissesse, e ele quis explicar a regra para os irmãos, o que durou uns três minutos e deixou a sala cheia de bolhas que estouravam em notinhas. Beatriz ganhou quatro rodadas seguidas e dançou a vitória. Breno calculava cada movimento em silêncio.
 
-Foi quando o Coronel apareceu sob a mesa com uma das torres de desafio na boca. A torre gritava que estava sendo sequestrada.
+Foi quando Coronel apareceu sob a mesa com uma das torres de desafio na boca. A torre gritava que estava sendo sequestrada.
 
 – Coronel – disse Velho-Sábio, sem levantar os olhos da jogada. – Larga.
 
-O Coronel largou. A torre se recompôs, ajeitou o telhado e passou o resto da partida lançando olhares de desconfiança para baixo da mesa.
+Coronel largou. A torre se recompôs, ajeitou o telhado e passou o resto da partida lançando olhares de desconfiança para baixo da mesa.
 
 Bruno ficou encostado na parede, de braços cruzados.
 
@@ -386,7 +386,7 @@ Foi então que um homem de cabelo castanho-escuro e barba aparada se aproximou, 
 
 – Não fomos bem no Desafio da Harmonia – respondeu Banjo. – Mas a gente não sabe nada de magia.
 
-– É normal. O Velho-Sábio é um dos melhores senavelitas que já conheci. Vocês vão longe com ele.
+– É normal. Velho-Sábio é um dos melhores senavelitas que já conheci. Vocês vão longe com ele.
 
 Lioro levou as garotas para o próximo treino. Banjo e Beatriz ficaram sorrindo, e a luz de Tayo derramava no chão uma poça de ouro.
 
@@ -414,4 +414,4 @@ Breno fez que sim e limpou o rosto com a manga das vestes.
 
 – Breno – chamou o velho, antes de ele sair. – Você é um bom garoto. Mas corre o risco de se perder no caminho. Lembre-se: controle é o que permite usar a magia do jeito certo. E nós só controlamos aquilo que nos pertence.
 
-Breno assentiu mais uma vez e saiu. Na porta, encontrou uma xícara de chá fumegando no chão e o Coronel sentado ao lado, olhando para ela com muito respeito e nenhuma intenção de tocar. No fim do corredor, uma janela mostrava as pétalas da noite anterior ainda espalhadas pelos telhados, rosadas e azuis, como se a cidade tivesse sido enfeitada para uma festa.
+Breno assentiu mais uma vez e saiu. Na porta, encontrou uma xícara de chá fumegando no chão e Coronel sentado ao lado, olhando para ela com muito respeito e nenhuma intenção de tocar. No fim do corredor, uma janela mostrava as pétalas da noite anterior ainda espalhadas pelos telhados, rosadas e azuis, como se a cidade tivesse sido enfeitada para uma festa.

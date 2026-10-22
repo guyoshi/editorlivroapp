@@ -11,7 +11,7 @@ Banjo tirou de dentro do caderno um desenho dos quatro, de mãos dadas, diante d
 
 – Obrigado – disse, baixinho.
 
-– Assopra logo – pediu Bruno. – Antes que o Coronel resolva fazer aniversário também.
+– Assopra logo – pediu Bruno. – Antes que Coronel resolva fazer aniversário também.
 
 Breno riu, apagou a vela e dividiu o pão com os três. Velho-Sábio, do outro lado da mesa, não perguntou por que ele estava com os olhos úmidos.
 
@@ -195,7 +195,7 @@ Breno subiu para o quarto e ficou parado diante da janela, com os punhos fechado
 
 – Tem um mago perigoso à solta. Dizem que há décadas. Tem seguidores que fariam qualquer coisa. E nem todo mundo nos quer aqui, Banjo. Somos "dimensais". A qualquer momento alguém pode achar que a gente é culpado de alguma coisa. A gente tá correndo risco.
 
-– Mas a gente acabou de chegar! – disse Banjo. – E o Velho-Sábio cuida da gente.
+– Mas a gente acabou de chegar! – disse Banjo. – E Velho-Sábio cuida da gente.
 
 – Isso aqui é um sonho, Breno! – Beatriz sentou-se na cama. – Eu nunca vi nada parecido. Eu não quero ir embora só porque existe uma ameaça longe da gente.
 
@@ -233,7 +233,7 @@ Banjo balançou a cabeça, sem piscar. Foi só um segundo. O copo perdeu o equil
 
 – Eu não fiz nada, juro! – gritou, mais confuso do que nunca.
 
-A porta se abriu, e Velho-Sábio apareceu de pijama de lã, com o Coronel atrás, mordiscando a barra da calça. Olhou os cacos, olhou Banjo, olhou o lugar onde o copo tinha flutuado, e ficou um tempo calado, com uma ruga funda entre as sobrancelhas.
+A porta se abriu, e Velho-Sábio apareceu de pijama de lã, com Coronel atrás, mordiscando a barra da calça. Olhou os cacos, olhou Banjo, olhou o lugar onde o copo tinha flutuado, e ficou um tempo calado, com uma ruga funda entre as sobrancelhas.
 
 – Foi o vento – disse Banjo, baixinho.
 
@@ -246,7 +246,7 @@ Os quatro ficaram parados olhando os cacos. Depois Beatriz começou a rir, e Bru
 
 À noite, enquanto jogavam Tepone com Velho-Sábio, a campainha ecoou pela casa. O velho se levantou calmamente, com um olhar tranquilizador, e foi até a porta. Os garotos espiaram de longe.
 
-Era Garmande, com Brenda atrás dele. A garota mantinha a cabeça baixa e as mãos nos bolsos, e olhava a sala de lado, como quem tenta decorar tudo sem ser notada. O Coronel, deitado perto da lareira, ergueu as orelhas e ficou observando, sem se levantar.
+Era Garmande, com Brenda atrás dele. A garota mantinha a cabeça baixa e as mãos nos bolsos, e olhava a sala de lado, como quem tenta decorar tudo sem ser notada. Coronel, deitado perto da lareira, ergueu as orelhas e ficou observando, sem se levantar.
 
 Bruno tentou disfarçar o interesse, mas os olhos dele voltavam para ela toda vez que ela desviava o rosto. Brenda parecia alheia, o que só piorava tudo.
 
@@ -284,7 +284,7 @@ Garmande virou-se para os irmãos.
 
 – Sim, senhor – respondeu Breno depressa, e os outros assentiram.
 
-Garmande acenou para Brenda, que se levantou devagar e olhou uma última vez para a sala, e saíram. Quando a porta se fechou, Velho-Sábio ficou parado por um tempo. O Coronel foi até ele e encostou o focinho na perna do dono, e o mago afagou a cabeça do cachorro, distraído.
+Garmande acenou para Brenda, que se levantou devagar e olhou uma última vez para a sala, e saíram. Quando a porta se fechou, Velho-Sábio ficou parado por um tempo. Coronel foi até ele e encostou o focinho na perna do dono, e o mago afagou a cabeça do cachorro, distraído.
 
 – Eu sei que vocês têm dúvidas – disse, enfim, e sentou-se no sofá. – A Sociedade de Tayo foi criada há muito tempo, por gente que queria o bem da cidade. Quando as ameaças passaram, deixamos de nos reunir. Agora as coisas estão mudando.
 
@@ -322,8 +322,8 @@ Bruno quase riu.
 
 Bruno ficou quieto. Sentiu uma inquietação que não soube nomear e se levantou, evitando olhar a tela. Mas a luz dela o acompanhou até o fim do corredor, como quem espera por uma resposta que ainda não veio.
 
-No quarto de Bruno, a porta estava encostada. Alguém tinha deixado uma fresta, e por ela entrou, pesado e silencioso, o Coronel. Subiu na cama sem pedir licença, deu três voltas e se deitou aos pés dele. Bruno ficou olhando para o teto, com a mão afundada no pelo morno do cachorro.
+No quarto de Bruno, a porta estava encostada. Alguém tinha deixado uma fresta, e por ela entrou, pesado e silencioso, Coronel. Subiu na cama sem pedir licença, deu três voltas e se deitou aos pés dele. Bruno ficou olhando para o teto, com a mão afundada no pelo morno do cachorro.
 
 – Eu não chorei – murmurou.
 
-O Coronel bufou, concordando, e fechou os olhos.
+Coronel bufou, concordando, e fechou os olhos.

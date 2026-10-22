@@ -24,7 +24,7 @@ Banjo tinha um sorriso enorme no rosto e os olhos brilhando, como quem está exa
 
 Breno se virou. O homem que aparecera sob a chuva estava ali, apoiado no cajado, com o ar de quem os esperava havia algum tempo.
 
-– É ele – disse aos irmãos. – O Velho-Sábio.
+– É ele – disse aos irmãos. – Velho-Sábio.
 
 Bruno olhou para o desconhecido e depois para o salão. De boca aberta, tentou dizer alguma coisa e só conseguiu fazer um som.
 
@@ -34,7 +34,7 @@ Por cima da cabeça do velho, letras de luz giravam num arco imenso de metal lí
 
 – Belfex – leu Beatriz, devagar, e a palavra pareceu ter gosto.
 
-– Bem-vindos – disse o Velho-Sábio, sorrindo.
+– Bem-vindos – disse Velho-Sábio, sorrindo.
 
 – Que lugar é esse? – perguntou ela.
 
@@ -44,7 +44,7 @@ Breno olhava para o arco que eles tinham acabado de atravessar. Ele ainda ondula
 
 Um estrondo cortou o salão. Algo passou dentro de um dos tubos transparentes, brilhando como uma estrela fugaz, e os irmãos se encolheram.
 
-– Isso é um trem das túbulas – riu o Velho-Sábio. – Muito mais rápido que um dassi. Mas esse é um passeio para outro dia.
+– Isso é um trem das túbulas – riu Velho-Sábio. – Muito mais rápido que um dassi. Mas esse é um passeio para outro dia.
 
 – Tem um trem dentro do tubo de vidro? – perguntou Banjo, extasiado.
 
@@ -56,7 +56,7 @@ Ele enfiou a mão no bolso e abriu os dedos, mostrando uma pequena flor amarela.
 
 – Acho que as meninas daqui não gostam de ganhar flor – comentou Bruno.
 
-Beatriz caiu na gargalhada, a primeira em semanas, e o Velho-Sábio riu junto, com a barba de três pontas balançando.
+Beatriz caiu na gargalhada, a primeira em semanas, e Velho-Sábio riu junto, com a barba de três pontas balançando.
 
 – Vamos, estamos atrasados.
 
@@ -74,17 +74,17 @@ Andar ali era uma experiência. Cada passo os lançava em ângulos diferentes. O
 
 – Eu não vou me acostumar com isso – murmurou, agarrado à beirada do caminho.
 
-– Com o tempo, você se acostuma – disse o Velho-Sábio.
+– Com o tempo, você se acostuma – disse Velho-Sábio.
 
 No caminho, algumas pessoas acenavam, como se estivessem habituadas a receber viajantes. Banjo e Beatriz acenavam de volta. Bruno e Breno mantinham a postura, atentos a tudo. Depois de uma curva vertical, o caminho desceu até o solo do salão e parou diante de uma porta flutuante, marcada com o desenho de uma árvore de raízes abertas.
 
-– Estes são os vigilantes, a polícia de Tayo – avisou o Velho-Sábio, baixando a voz. – Não provoquem ninguém.
+– Estes são os vigilantes, a polícia de Tayo – avisou Velho-Sábio, baixando a voz. – Não provoquem ninguém.
 
 Do outro lado, um grupo de homens com uniformes vermelho-escuros e dourados esperava em fileira, sob a luz avermelhada das câmeras.
 
 – Encostem-se na parede – disse um deles, com cara de poucos amigos.
 
-– Peço que o teste seja feito por alguém de confiança – pediu o Velho-Sábio, num tom gentil, mas firme.
+– Peço que o teste seja feito por alguém de confiança – pediu Velho-Sábio, num tom gentil, mas firme.
 
 – Isso não será possível. Está falando com um capitão da vigilância.
 
@@ -94,7 +94,7 @@ Uma mulher surgiu de dentro da parede. Atravessou-a como se fosse fumaça. Tinha
 
 – Deixe comigo, capitão Marcus. – Ela virou-se para o velho com um olhar de poucos amigos. – Vai treinar jovens dimensais de novo, Auream?
 
-– A gente se aposenta, volta, se aposenta de novo – respondeu o Velho-Sábio, dando de ombros. – Como vai, Erla?
+– A gente se aposenta, volta, se aposenta de novo – respondeu Velho-Sábio, dando de ombros. – Como vai, Erla?
 
 – Com todos os membros no lugar, como vê.
 
@@ -128,7 +128,7 @@ Erla o encarou por um momento e se inclinou.
 
 Banjo ergueu o rosto. Pela primeira vez, ele sorriu um pouco.
 
-– Então, Erla, podemos seguir? – perguntou o Velho-Sábio.
+– Então, Erla, podemos seguir? – perguntou Velho-Sábio.
 
 – Se o seu objetivo era impressionar, Auream, seria mais fácil escolher um dia em que Lucan estivesse por aqui. – Ela fitou os irmãos. – Não os perca de vista.
 
@@ -136,9 +136,9 @@ O velho assentiu, sorrindo, e fez sinal para que os garotos o seguissem.
 
 De volta ao salão sob a cúpula, Banjo tentava esquecer o campo escuro. Um homem passou por eles com os braços cheios de caixas. Ergueu dois dedos, e as caixas saíram de suas mãos, empilharam-se no ar e seguiram atrás dele. Ninguém ao redor pareceu achar estranho. Banjo parou para olhar; quando voltou a andar, já pensava nas caixas, não no coelho.
 
-No centro do salão, um caminho de luz subia quase na vertical até o alto da cúpula. O Velho-Sábio entrou nele e chamou os irmãos. Banjo agarrou o braço de Bruno no primeiro passo. No segundo, o chão do salão já parecia uma parede atrás deles, mas seus pés continuavam firmes. Subiram entre tubos de plasma e pessoas que desciam na direção contrária, algumas de ponta-cabeça em relação a eles. Lá no alto, as placas de vidro da cúpula se apartaram diante deles. O caminho prosseguia do lado de fora. O vento tocou o rosto de Beatriz, e ela viu a cidade.
+No centro do salão, um caminho de luz subia quase na vertical até o alto da cúpula. Velho-Sábio entrou nele e chamou os irmãos. Banjo agarrou o braço de Bruno no primeiro passo. No segundo, o chão do salão já parecia uma parede atrás deles, mas seus pés continuavam firmes. Subiram entre tubos de plasma e pessoas que desciam na direção contrária, algumas de ponta-cabeça em relação a eles. Lá no alto, as placas de vidro da cúpula se apartaram diante deles. O caminho prosseguia do lado de fora. O vento tocou o rosto de Beatriz, e ela viu a cidade.
 
-– Sejam bem vindos à Cidade de Tayo – disse o Velho-Sábio.
+– Sejam bem vindos à Cidade de Tayo – disse Velho-Sábio.
 
 Tayo se estendia em todas as direções, colorida como um quadro que ainda estava sendo pintado. Os prédios eram altos e curvos, enrolados em espirais, torcendo-se uns sobre os outros em ângulos que desafiavam tudo o que os irmãos sabiam. Em algumas torres, camadas inteiras serviam de jardim, com árvores de folhas azuis e fontes que flutuavam no ar. Caminhos de luz serpenteavam entre os edifícios, cruzando-se em pontos onde as pessoas trocavam de rumo com um passo. Placas luminosas anunciavam, em letras que mudavam de cor, cremes que esticavam os braços como elásticos e capacetes que mostravam o que havia atrás das paredes. 
 
@@ -150,7 +150,7 @@ Uma coisa redonda, sem rodas e com faróis nas laterais, passou tão perto que B
 
 – Ei, olha a boca! – advertiu Beatriz, rindo.
 
-– Tayo é o coração de Belfex – disse o Velho-Sábio, com orgulho na voz. – E vai se tornar o novo lar de vocês se quiserem.
+– Tayo é o coração de Belfex – disse Velho-Sábio, com orgulho na voz. – E vai se tornar o novo lar de vocês se quiserem.
 
 Os irmãos se entreolharam. Nenhum deles conseguia falar. 
 
@@ -158,7 +158,7 @@ Os irmãos se entreolharam. Nenhum deles conseguia falar. 
 
 Do alto, a cidade acendia suas primeiras luzes. Pontinhos amarelos e azuis foram surgindo em todo lugar, como vagalumes acordando um a um.
 
-– Hora de pegar nosso transporte – disse o Velho-Sábio, parando diante de um banco solitário, com uma placa de cartola em chamas. – Vamos de dassi.
+– Hora de pegar nosso transporte – disse Velho-Sábio, parando diante de um banco solitário, com uma placa de cartola em chamas. – Vamos de dassi.
 
 – Alguém leu o que está escrito na placa? – perguntou Banjo.
 
@@ -168,11 +168,11 @@ Do alto, a cidade acendia suas primeiras luzes. Pontinhos amarelos e azuis foram
 
 – Um veículo que viaja pelos ares. Ele nos leva até a minha casa. Lá, vocês tomam um banho e descansam para amanhã.
 
-Um dassi chegou flutuando e pousou na plataforma. Era redondo, prateado e translúcido, como uma gota de mercúrio, e sem portas. Um lado derreteu e se moldou numa entrada. Dentro, no lugar de bancos, havia plataformas flutuantes que se amoldavam ao corpo de cada passageiro. No painel, pendurado por um fio, balançava um pingente em forma de T verde, cercado por um anel amarelo inclinado. O Velho-Sábio pagou a passagem: enfiou uma moeda vermelha, furada no meio, na ranhura do painel. A entrada se fechou, e o dassi levantou voo sozinho. À medida que subia, o casco perdia o brilho prateado e ficava transparente, deixando o céu e a cidade à vista.
+Um dassi chegou flutuando e pousou na plataforma. Era redondo, prateado e translúcido, como uma gota de mercúrio, e sem portas. Um lado derreteu e se moldou numa entrada. Dentro, no lugar de bancos, havia plataformas flutuantes que se amoldavam ao corpo de cada passageiro. No painel, pendurado por um fio, balançava um pingente em forma de T verde, cercado por um anel amarelo inclinado. Velho-Sábio pagou a passagem: enfiou uma moeda vermelha, furada no meio, na ranhura do painel. A entrada se fechou, e o dassi levantou voo sozinho. À medida que subia, o casco perdia o brilho prateado e ficava transparente, deixando o céu e a cidade à vista.
 
 – Por que a gente está aqui, afinal? – perguntou Breno.
 
-O Velho-Sábio olhou para a cidade lá embaixo.
+Velho-Sábio olhou para a cidade lá embaixo.
 
 – Quando chegarmos, eu respondo. Por enquanto, só olhem.
 
@@ -180,13 +180,13 @@ E eles olharam. A cúpula da Central diminuiu atrás deles. As torres de Tayo pa
 
 – Olha! Ele está voando com a gente! – Banjo se levantou da plataforma e encostou a mão no casco transparente.
 
-– Sente-se, Banjo – pediu o Velho-Sábio. – É mais seguro. 
+– Sente-se, Banjo – pediu Velho-Sábio. – É mais seguro. 
 
 Banjo obedeceu, ainda olhando para o pássaro. No instante seguinte, o dassi disparou como uma flecha. A pressão grudou todos nas plataformas. Banjo soltou um grito agudo, Beatriz se encolheu rindo de pavor, e Bruno abriu a boca num misto de riso e desespero.
 
 – Ah, não! Isso não é possível!
 
-O Velho-Sábio batia a cabeça de leve no ritmo de uma canção que só ele ouvia.
+Velho-Sábio batia a cabeça de leve no ritmo de uma canção que só ele ouvia.
 
 – Relaxem. É apenas o modo rápido.
 
@@ -200,19 +200,19 @@ O dassi parou a poucos centímetros do chão e aterrissou numa rua tranquila, de
 
 Quando o dassi partiu, Bruno soltou um grito agudo. Percebeu os risos dos irmãos, endireitou-se, corou e conferiu se mais alguém tinha visto.
 
-A rua era silenciosa, mas viva em pequenos detalhes. As árvores balançavam sem vento. Uma casa tinha janelas que piscavam como olhos sonolentos e emitia um zumbido baixinho. Em outra, portas de cristal liberavam um cheiro doce de pão fresco e flores. O Velho-Sábio parou diante de um portão e o abriu sem tocar.
+A rua era silenciosa, mas viva em pequenos detalhes. As árvores balançavam sem vento. Uma casa tinha janelas que piscavam como olhos sonolentos e emitia um zumbido baixinho. Em outra, portas de cristal liberavam um cheiro doce de pão fresco e flores. Velho-Sábio parou diante de um portão e o abriu sem tocar.
 
 O jardim era um espetáculo próprio. Plantinhas saltitavam no chão como se dançassem. Uma árvore pequena balançava frutos azulados que brilhavam como estrelas em miniatura. Um arbusto soltava faíscas que sumiam no ar, e uma flor luminosa se curvou para observar os visitantes.
 
-– Esse é o Coronel – disse o Velho-Sábio, afagando um cachorro enorme de pelagem branca e amarelada, que apareceu atrás de Banjo. Os olhos do cão eram cansados e sábios. – Um velho amigo.
+– Ele se chama Coronel – disse Velho-Sábio, afagando um cachorro enorme de pelagem branca e amarelada, que apareceu atrás de Banjo. Os olhos do cão eram cansados e sábios. – Um velho amigo.
 
-O Coronel farejou a mão de Banjo e abanou o rabo devagar. Banjo se agachou, e o cachorro encostou a cabeça enorme no ombro dele, como se o conhecesse desde sempre.
+Coronel farejou a mão de Banjo e abanou o rabo devagar. Banjo se agachou, e o cachorro encostou a cabeça enorme no ombro dele, como se o conhecesse desde sempre.
 
 – Ele é um urso! – sussurrou Beatriz.
 
 – Muito mais tranquilo que os ursos – disse o velho.
 
-O Coronel deu a volta no Velho-Sábio e, sem a menor cerimônia, abocanhou a barra do manto dele.
+Coronel deu a volta no Velho-Sábio e, sem a menor cerimônia, abocanhou a barra do manto dele.
 
 – Coronel. Larga – disse Velho-Sábio, sem nem olhar para baixo.
 
@@ -224,7 +224,7 @@ Bruno apertou os lábios para não rir. Banjo nem tentou.
 
 Por dentro, a casa era acolhedora e mágica. As paredes tinham figuras que se mexiam devagar, como numa dança. A sala principal era redonda, coberta por uma cúpula de vidro com o céu estrelado, e luzes pequenas flutuavam em volta, suaves e reconfortantes. No centro, uma tela retangular flutuava, emoldurada por um filete dourado gravado de símbolos astrais, com cristais pendurados na borda como pingentes. Uma onda de luz azul e dourada atravessava a tela devagar, pulsando com calma.
 
-– Esta é a Kali – disse o Velho-Sábio. – Minha assistente. Ela me ajuda a cuidar da casa e a acompanhar o que acontece em Tayo.
+– Esta é a Kali – disse Velho-Sábio. – Minha assistente. Ela me ajuda a cuidar da casa e a acompanhar o que acontece em Tayo.
 
 – Sejam bem-vindos, jovens dimensais – disse uma voz feminina, calorosa e quase maternal. – Espero que aproveitem a estadia.
 
@@ -258,9 +258,9 @@ A onda de luz azul que atravessava a tela vacilou por um instante.
 
 – O Bruno está com ciúme porque não tem uma dessas em casa – provocou Beatriz.
 
-O Velho-Sábio os levou por um corredor onde o chão brilhava como um rio sob as estrelas. As estantes estavam cheias de frascos coloridos que vibravam quando alguém os olhava. Num quarto grande, havia quatro camas lado a lado, e no teto, constelações se mexiam devagar, trocavam de cor, corriam de um lado a outro, como se o céu estivesse vivo.
+Velho-Sábio os levou por um corredor onde o chão brilhava como um rio sob as estrelas. As estantes estavam cheias de frascos coloridos que vibravam quando alguém os olhava. Num quarto grande, havia quatro camas lado a lado, e no teto, constelações se mexiam devagar, trocavam de cor, corriam de um lado a outro, como se o céu estivesse vivo.
 
-– Espero que isso os faça sentir em casa – disse o Velho-Sábio.
+– Espero que isso os faça sentir em casa – disse Velho-Sábio.
 
 Banjo foi até a cama mais próxima e ficou olhando para o teto. As constelações se moviam devagar, trocando estrelas de lugar.
 
@@ -274,41 +274,35 @@ Bruno soltou uma risada.
 
 – Ainda não descobri. Ele nunca me responde quando pergunto.
 
-O Coronel entrou atrás deles, farejou os pés das camas e se deitou junto à porta. Beatriz se sentou num dos colchões e apertou o travesseiro contra o peito. Depois de tudo o que tinham visto naquele dia, estava começando a acreditar que poderiam descansar ali.
+Coronel entrou atrás deles, farejou os pés das camas e se deitou junto à porta. Beatriz se sentou num dos colchões e apertou o travesseiro contra o peito. Depois de tudo o que tinham visto naquele dia, estava começando a acreditar que poderiam descansar ali.
 
-Breno colocou o rádio do pai na mesinha ao lado da cama. O Velho-Sábio acompanhou o movimento com os olhos, encostou o cajado na parede e puxou uma cadeira.
+Breno colocou o rádio do pai na mesinha ao lado da cama. Velho-Sábio acompanhou o movimento com os olhos, encostou o cajado na parede e puxou uma cadeira.
 
-– Acho que lhes devo algumas explicações – disse ele, sentando-se. – Começando por mim. Meu nome é Auream Vetus. Vocês ouviram Erla me chamar assim lá na Central. Sou um mago e moro nesta cidade há muito tempo. Também ensino jovens a lidar com a própria magia.
+– Acho que lhes devo algumas explicações – disse ele, sentando-se. – A cidade que vimos lá fora se chama Tayo. É uma das cidades mais importantes de Belfex. Belfex é o nome deste mundo, na quarta dimensão. Vocês vieram da Terra, da terceira.
 
-– E por que todo mundo chama o senhor de Velho-Sábio? – perguntou Beatriz.
+– Então a gente tá tipo em outro universo? – Banjo perguntou, quase sem voz.
 
-– O velho é fácil de explicar. O sábio ainda estou tentando merecer.
+– Em outra dimensão. Aqui, a magia é comum. Para nós, magos, é como o ar que vocês respiram. 
 
-Banjo riu. Até Breno, que permanecia de pé ao lado da mesinha, sorriu.
+– Mago? O senhor é um mago?
 
-– A cidade que vimos lá fora se chama Tayo – continuou o mago. – É uma das cidades mais importantes de Belfex. Belfex é o nome deste mundo, na quarta dimensão. Vocês vieram da Terra, da terceira.
+–  Sou um senavelita. 
 
-– Então a gente tá mesmo em outro universo? – Banjo perguntou, quase sem voz.
+– O que é isso? 
 
-– Em outra dimensão. Sei que é difícil acreditar, mesmo depois de terem atravessado uma.
+–  Um mago que controla Magia Arcana. 
 
-– Difícil é acreditar que aquele negócio voador não matou a gente – disse Bruno. – O motorista devia estar dormindo.
-
-– O dassi não tem motorista, Bruno.
-
-– Piorou bastante.
-
-O velho riu, e Beatriz riu junto. Breno, porém, continuava olhando para o rádio.
+Breno continuava olhando para o rádio.
 
 – O senhor disse que explicaria por que estamos aqui.
 
 Auream assentiu.
 
-– Disse, sim. Ontem à noite fui à casa de vocês porque soube que tinham encontrado o estírio. Aquela esfera azul da caverna, lembram? Quando vocês a tocaram, ela despertou uma magia que já estava em vocês. O contato deixou um registro aqui em Tayo. Foi assim que consegui encontrá-los.
+– Disse, sim. Ontem à noite fui à casa de vocês porque soube que tinham encontrado o estírio. Aquela esfera azul da caverna, lembram? Quando vocês a tocaram, ela despertou uma magia... que já estava em vocês há muito muito tempo. O contato deixou um registro aqui em Tayo. Foi assim que consegui encontrá-los.
 
-– Mas por que essa magia já estava na gente? – perguntou Beatriz, olhando para as mãos.
+– Muito tempo? Como assim, essa magia já estava na gente? – perguntou Beatriz, olhando para as mãos.
 
-– Vocês descendem de senavelitas, pessoas capazes de usar magia. A de vocês só despertou agora. E, sem saber controlá-la, é natural que tenham se assustado. Imagino que o acidente com o carro tenha sido suficiente para isso.
+– Vocês descendem de senavelitas antigos que foram para a terceira dimensão. Não são todos os descendentes de senavelitas que manifestam o dom da magia, mas ora ou outra aparece um novo. O estírio os encontrou, pois sentiu que vocês tinha uma magia para despertar. É complicado quando ele aparece de repente, pois obter a magia assim sem saber controlá-la, geralmente é perigoso. Imagino que o acidente com o carro tenha assustado vocês.
 
 Breno apertou os dedos na borda da mesinha.
 
@@ -316,59 +310,49 @@ Breno apertou os dedos na borda da mesinha.
 
 – Eu sei. Foi por isso que ofereci ajuda. Queria que conhecessem Belfex e descobrissem o que são capazes de fazer. Mas esperava que tivessem tempo de conversar antes de decidir vir.
 
-– A gente nem decidiu – disse Bruno. – Só encostou no rádio e, de repente, estava voando pelo quarto.
+– A gente nem decidiu – disse Bruno. – Só encostou no rádio e, de repente, estava voando pelo quarto. 
 
-– Foi o rádio que abriu a passagem? – perguntou Banjo.
+– Como sabia do rádio? – perguntou Breno – ele... era do meu pai. 
 
-– Foi o que trouxe vocês até aqui – respondeu o velho, lançando um olhar para o aparelho. – Não fui eu quem os tirou de casa esta noite.
+Velho-Sábio o olhou nos olhos por um instante. 
+
+– Sim. O caminho para a 4ª dimensão geralmente é incerto. A magia aparece onde menos esperamos. Mas bons senavelitas podem sentir a magia. Onde quer que esteja. 
 
 – E o nosso tio? – Breno perguntou. – A gente ia falar com ele amanhã. Ele nem sabe onde estamos.
 
 O sorriso de Auream desapareceu.
 
-– Sinto muito, Breno. Eu devia ter explicado melhor que uma viagem poderia acontecer. Imagino como ele deve estar preocupado.
+– Sinto muito, Breno. Eu devia ter explicado melhor que uma viagem poderia acontecer. Imagino como ele deve estar preocupado. Mas eu falo com ele. Vou tentar não preocupá-lo. 
 
-– Então podemos voltar? – Beatriz perguntou, mais baixo.
+Bruno por um instante imaginou um velho barbudo aparecendo para avisar pro tio deles que seus sobrinhos tinham ido pra outra dimensão fazer magia, e não imaginou uma reação muito positiva vinda do tio. 
 
-– Se quiserem. Nenhum de vocês é obrigado a ficar. Eu os ajudo a voltar para casa quando decidirem. – Ele olhou para os quatro. – Só peço que não tomem uma decisão depois de um dia tão cansativo. Descansem primeiro.
+– Bom, por fim, nenhum de vocês é obrigado a ficar. Eu os ajudo a voltar para casa quando decidirem. – Ele olhou para os quatro. – Se não gostarem daqui e não quiserem ser senavelitas... são livres pra voltar á vida antiga. 
 
 Banjo se ajeitou na beirada da cama.
 
-– Mas, se a gente ficar... o que vamos fazer?
+– Não quero voltar à vida antiga. 
 
-– Primeiro, aprender. Há outros jovens em Tayo que também estão descobrindo como usar magia. Alguns vieram de outras dimensões, como vocês. Outros nasceram aqui. Amanhã vou apresentá-los a esse lugar e aos aprendizes.
+– Eu também não – disse Beatriz. 
 
-– Tipo uma escola de magia? – Banjo se endireitou.
+Bruno e Breno não responderam e Velho-Sábio continuou. 
 
-– Com aulas, colegas e algumas coisas que vocês certamente vão preferir às aulas da Terra.
+– Para ficar aqui, vocês devem primeiro aprender a usar a magia. Há outros jovens em Tayo que também estão descobrindo seus dons. Alguns vieram de outras dimensões, são dimensais, como vocês. Outros nasceram aqui. Amanhã vou apresentá-los a esse lugar e aos aprendizes.
 
-– Tem prova? – Bruno perguntou.
+– A gente vai aprender a usar magia? – Banjo se animou.
 
-– Tem, sim.
-
-– Sabia. Não dá pra fugir.
-
-– As provas são importantes – continuou o velho. – Quem vem de outra dimensão e deseja viver em Belfex precisa passar por algumas avaliações. Vocês terão um período para aprender e se preparar, assim como os outros jovens que vão participar. Se conseguirem passar, poderão ficar aqui e continuar os estudos.
+– Vão aprender a usar a magia que vocês possuem em si. E no fim, farão algumas provações – continuou o velho. – Quem vem de outra dimensão e deseja viver em Belfex precisa passar por essas avaliações. Vocês terão um período para aprender e se preparar, assim como os outros jovens que vão participar. Se conseguirem passar, poderão ficar aqui e continuar a evoluir. 
 
 Beatriz abraçou o travesseiro com mais força.
 
-– Então a gente poderia morar em Tayo?
+– Isso parece um sonho.
 
-– Poderia, se essa for a vontade de vocês.
+Velho-Sábio sorriu. 
 
-– Mas a gente não sabe fazer magia direito – disse Breno.
+– Eu serei o tutor de vocês. Vou acompanhá-los nos treinos e fazer o possível para que estejam preparados. 
 
-– É justamente por isso que vão aprender. Eu serei o tutor de vocês. Vou acompanhá-los nos treinos e fazer o possível para que estejam preparados. Não espero que saibam tudo no primeiro dia.
+– E se a gente não passar nos testes? – Breno quebrou o clima.
 
-– Nem no segundo? – perguntou Bruno.
-
-– No segundo talvez eu já espere que você pare de reclamar tanto.
-
-Beatriz caiu na risada. Bruno abriu a boca para responder, mas acabou sorrindo também.
-
-– E se a gente não passar? – Breno insistiu.
-
-– Então voltam para casa. Quero que saibam disso desde o começo. Mas ninguém precisa se preocupar com o resultado esta noite.
+– Então... infelizmente vocês voltam para casa. É importante vocês saberem desde já que há essa opção. Mas ninguém precisa se preocupar com o resultado esta noite.
 
 Banjo olhou novamente para as constelações.
 
@@ -376,7 +360,7 @@ Banjo olhou novamente para as constelações.
 
 – Qualquer uma? Não. Mas aprendi algumas coisas ao longo dos anos.
 
-Auream ergueu o cajado. Um ponto de luz dourada nasceu na ponta e se dividiu em quatro. As pequenas luzes passearam pelo quarto, contornando as camas, até se reunirem no ar e formarem a figura de um cachorro. O Coronel levantou a cabeça, avistou o outro cão e soltou um latido indignado. A figura luminosa correu pelo teto, perseguida pelos olhos dele, antes de se desfazer numa chuva de pontos brilhantes.
+Auream ergueu o cajado. Um ponto de luz dourada nasceu na ponta e se dividiu em quatro. As pequenas luzes passearam pelo quarto, contornando as camas, até se reunirem no ar e formarem a figura de um cachorro. Coronel levantou a cabeça, avistou o outro cão e soltou um latido indignado. A figura luminosa correu pelo teto, perseguida pelos olhos dele, antes de se desfazer numa chuva de pontos brilhantes.
 
 Banjo aplaudiu. Beatriz esticou as mãos, e uma das últimas luzes pousou em seu dedo, quentinha, antes de desaparecer.
 
@@ -388,47 +372,41 @@ Banjo aplaudiu. Beatriz esticou as mãos, e uma das últimas luzes pousou em seu
 
 – A flor não concordaria com você – disse o velho, levantando-se.
 
-Ele pegou o cajado e foi até a porta. O Coronel se ergueu imediatamente para acompanhá-lo.
+Ele pegou o cajado e foi até a porta. Coronel se ergueu imediatamente para acompanhá-lo.
 
-– Fiquem à vontade. Há água no corredor, e Kali pode ajudá-los se precisarem de alguma coisa. Amanhã conversamos mais. Ah, e tentem não deixar meias espalhadas pelo chão.
+– Fiquem à vontade. Há comida na cozinha e Kali pode ajudá-los se precisarem de alguma coisa. Amanhã conversamos mais. Ah, e tentem não deixar meias espalhadas pelo chão.
 
 – Por quê? – perguntou Banjo.
 
-O Coronel passou por eles com a ponta de uma coberta entre os dentes.
+Coronel passou por eles com a ponta de uma coberta entre os dentes.
 
-– Ele costuma achar que são presentes. Coronel, larga.
+– Ele costuma sequestrá-las e escondê-las. Coronel, larga.
 
-O cachorro soltou a coberta e saiu atrás do dono. Os irmãos ainda estavam rindo quando o Velho-Sábio fechou a porta.
+O cachorro soltou a coberta e saiu atrás do dono. Os irmãos ainda estavam rindo quando Velho-Sábio fechou a porta.
 
 Banjo se jogou de costas numa das camas. As constelações continuavam se movendo sobre eles.
 
-– Vocês têm noção de onde a gente tá? Parece um sonho!
+– Vocês têm noção de onde a gente tá? Eu... isso é melhor do que qualquer sonho que já tive!
 
-– Se for um sonho, eu quero conhecer o resto – disse Beatriz. – A cidade, as pessoas, tudo!
+– Se for um sonho, eu nãom quero acordar – disse Beatriz. – Quero conhecer a cidade, as pessoas, usar magia, tudo!
 
-– Eu quero aprender a fazer aquilo com as luzes – Banjo disse, erguendo a mão para o teto. – Imagina o que mais dá pra fazer.
+– Eu quero aprender a fazer aquilo com as luzes – Banjo disse, erguendo a mão para o teto. – Imagina o que mais poderemos fazer.
 
-– Eu só quero descobrir o que consigo fazer sem congelar alguma coisa por acidente – respondeu Bruno.
+– Isso vai ser muito legal – respondeu Bruno com um sorriso de canto – usar magia. 
 
 Breno ficou encostado na mesinha, observando os três. Era estranho ouvi-los falar daquele jeito. Fazia muito tempo que não ficavam tão animados com alguma coisa.
 
-– Ainda precisamos pensar no tio Frank – lembrou ele.
-
-– Eu sei – disse Beatriz. – Mas a gente pode conhecer a escola amanhã, né?
-
-– Podemos. Só não vamos esquecer que ainda temos uma casa pra voltar.
+– Só não vamos nos animar tanto. Isso tudo é muito novo pra gente. E conhecemos o velho hoje. Não sabemos se é confiável. 
 
 Banjo virou a cabeça na direção dele.
 
-– Mas você viu Tayo, Breno? Como pode existir um lugar desses e ninguém na Terra saber?
+– Ele nos trouxe até aqui Breninho. Ele é poderoso. Não é malvado não – disse Beatriz. 
 
-– Eu não faço ideia – Breno admitiu.
+– Verdade, e você viu Tayo, Breno? Como pode existir um lugar desses e ninguém na Terra saber?
 
-– Vai ver ninguém acredita quando alguém conta – disse Bruno. – Eu mesmo não acreditaria se o Banjo chegasse falando de um teto cheio de estrelas que se mexem.
+– Eu não faço ideia – Breno admitiu – mas admiton que to impressionado. E com uma ansiedade enorme em conhecer mais. Só que...
 
-– Você nunca acredita em nada que eu falo!
-
-– E olha que dessa vez você acertou.
+–  Só que você é o irmão chato que tem que contrariar os mais novos – riu Bruno. 
 
 Beatriz riu. Banjo puxou o travesseiro para debaixo da cabeça e ficou quieto por alguns instantes.
 
@@ -442,31 +420,37 @@ Breno olhou para o rádio na mesinha. A música do pai os trouxera até ali, e a
 
 – O papai ia adorar esse lugar – disse Banjo. – E a mamãe também.
 
-– Eles iam achar que a gente tava inventando tudo – Bruno respondeu, num tom mais baixo. – Até verem o Coronel.
+– Eles iam achar que a gente tava inventando tudo – Bruno respondeu, num tom mais baixo. – Até verem Coronel.
+
+– Igual você, né? – disse Banjo. 
+
+– Eu não acreditaria em mim mesmo se contasse sobre este mundo – disse Bruno com um sorriso no rosto olhando para as constelações no teto. 
 
 Beatriz sorriu.
 
-– A mamãe ia querer levar ele pra casa.
+– A mamãe ia querer levar Coronel pra casa.
 
-– Ia nada. O bicho ocupa a cama inteira – disse Bruno.
+– Coitado. O bicho ia acabar tendo de costurar todas as roupas que rasgasse – disse Bruno.
 
 Os quatro riram. Banjo ficou observando as estrelas até uma delas se afastar das outras e desaparecer atrás de uma nuvem pequenina. Ainda tinha um monte de perguntas, mas, pela primeira vez naquele dia, não sentiu pressa de fazê-las.
 
-Bruno saiu do quarto, alegando que precisava ir ao banheiro. Ao passar pela sala, ouviu um sussurro e parou. Não havia ninguém. Só a tela grande, pulsando.
+Bruno saiu do quarto, alegando que precisava ir ao banheiro. Ao passar pela sala, ouviu um sussurro e parou. Não havia ninguém. Só a tela grande, pulsando. Num trecho escuro da tela, viu o cabelo amassado de um lado e tentou alisá-lo com a mão.
 
-– Bruno – disse Kali, em tom suave e provocativo. – Você se preocupa demais com o que os outros pensam, não acha?
+– O banheiro fica no corredor à esquerda – disse Kali. – Quer que eu acenda a luz?
 
-Ele piscou.
+Bruno tirou a mão do cabelo.
 
-– Como se uma tela pudesse entender alguma coisa sobre mim.
+– Eu sei encontrar um banheiro sozinho.
 
-– Uma tela? Achei que fosse mais esperto. Sei que quer aprender magia, mas sei também que quer isso pra provar aos outros que é importante. Talvez você queira se destacar, mas tenha medo de falhar.
+– Está bem. Se precisar de uma avaliação de como está seu cabelo, ou de qualquer outra coisa, pode me chamar.
 
-Bruno arregalou os olhos e ficou sem palavras por alguns segundos. Depois suspirou e se virou.
+– Não vou precisar.
 
-– Não vou perder meu tempo discutindo com uma tela.
+Ele deu dois passos, mas voltou o rosto para a tela.
 
-– Como quiser. Vou estar de olho em você. Pronta pra quando quiser discutir de novo.
+– E eu não estava me olhando.
+
+– Eu não disse que estava.
 
 Desconfiado, ele seguiu até a cozinha, onde encontrou Banjo bisbilhotando as prateleiras. As panelas tinham alças que lembravam gavinhas de plantas, e um pilão pairava sobre a bancada, moendo especiarias sozinho. No canto, um caldeirão borbulhava, e as especiarias piscavam em frascos como pequenas lanternas. Havia pães e frutas que brilhavam, cheirando a mel e canela. Pela janela em arco, via-se um parque nos fundos, com grama azul-esverdeada.
 
@@ -474,10 +458,10 @@ Desconfiado, ele seguiu até a cozinha, onde encontrou Banjo bisbilhotando as pr
 
 – E você tá sempre reclamando – respondeu Banjo, mordendo um pedaço de pão azulado.
 
-– Tá bom, mas admite que tudo aqui é meio estranho. Até aquela Kali.
+– Tá bom, mas admite que tudo aqui é meio maluco. Até aquela Kali.
 
 – Relaxa, Bruno. Come alguma coisa e para de ser implicante.
 
-Bruno riu e pegou uma fruta brilhante da prateleira, ainda pensando na conversa na sala. Kali tinha dito que ficaria de olho nele. Mas ele também ficaria de olho nela.
+Bruno riu e pegou uma fruta brilhante da prateleira. Enquanto Banjo vasculhava os armários, alisou a mecha rebelde mais uma vez.
 
 Do quarto, vinha o riso de Beatriz e a voz de Breno, o mais velho, dizendo que já estava na hora de dormir. E em cima da mesinha, no escuro, o rádio do pai respirava devagar.

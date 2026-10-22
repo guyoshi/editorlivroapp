@@ -50,7 +50,7 @@ Subiram e desceram colinas durante horas. Quando o sol já pendia para o oeste, 
 
 Breno hesitou, mas abriu o saquinho que Velho-Sábio lhe entregara. Pedras ásperas rolaram para a palma de sua mão, em seis cores: verde, laranja, vermelha, azul, roxa e amarela. E havia mais de uma de cada.
 
-– Quinze – contou ele. – Três verdes, três laranjas, três vermelhas, duas azuis, duas roxas e duas amarelas. Cada cor tem uma função, e o Velho-Sábio disse que a gente descobre testando. Mas aposto que cada pedra só funciona uma vez.
+– Quinze – contou ele. – Três verdes, três laranjas, três vermelhas, duas azuis, duas roxas e duas amarelas. Cada cor tem uma função, e Velho-Sábio disse que a gente descobre testando. Mas aposto que cada pedra só funciona uma vez.
 
 – E se uma for exatamente o que a gente precisa, e a gente não souber? – insistiu Bruno. – Eu não quero descobrir o que uma pedra faz no meio de uma emergência.
 
@@ -118,7 +118,7 @@ Bruno ergueu as duas mãos.
 
 O céu começava a escurecer quando Banjo avistou uma moita carregada de frutinhas coloridas, de cascas quase transparentes.
 
-– Frutos de luzíria! – exclamou, de olhos brilhando. – A gente comeu isso na casa do Velho-Sábio!
+– Frutos de luzíria! – exclamou, de olhos brilhando. – A gente comeu isso na casa de Velho-Sábio!
 
 – Aquela que bagunça as emoções? – desconfiou Bruno.
 

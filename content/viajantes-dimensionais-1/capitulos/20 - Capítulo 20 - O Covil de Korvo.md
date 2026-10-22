@@ -332,7 +332,7 @@ Beatriz franziu a testa, com o nome da mãe girando dentro dela.
 
 – Que aqueles que a trouxeram prometeram treiná-la e aceitá-la como igual. Mas tiveram medo de que a luz dela ofuscasse a deles. Então a mandaram de volta.
 
-– Mentira – disse Breno. – O Velho-Sábio disse que ela recusou você e voltou depois.
+– Mentira – disse Breno. – Velho-Sábio disse que ela recusou você e voltou depois.
 
 – Voltou? – Korvo soltou uma risada curta, sem alegria. – Você acredita mesmo que ela deixaria tudo isso para trás? Não dê ouvidos ao velho, garoto. Ele guarda mais segredos do que você pode imaginar. Ninguém é só preto ou só branco. – Voltou os olhos amarelos para Beatriz. – Sua mãe foi retirada daqui. Um farol que ameaçava brilhar mais que os outros. E vocês, filhos dela, trazem isso no sangue.
 

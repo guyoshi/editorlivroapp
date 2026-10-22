@@ -68,7 +68,7 @@ Beatriz sentiu o estômago afundar. Lembrou do que Velho-Sábio dissera depois d
 
 – Interessante. – Emiris se inclinou um pouco. – Mas você deve ter ouvido alguma coisa. Os nomes, onde...
 
-– Bia! – Bruno cruzou o pátio a passos largos, o cabelo ainda amassado do travesseiro. – O Velho-Sábio quer ver a gente.
+– Bia! – Bruno cruzou o pátio a passos largos, o cabelo ainda amassado do travesseiro. – Velho-Sábio quer ver a gente.
 
 Beatriz se levantou depressa demais. Emiris ficou no banco, sozinho, os lábios apertados como quem perdeu uma pergunta pela metade.
 
@@ -80,7 +80,7 @@ Beatriz se levantou depressa demais. Emiris ficou no banco, sozinho, os lábios 
 
 – Ele só estava sendo simpático.
 
-– Pode ser. – Bruno olhou por cima do ombro. – Mas o Velho-Sábio não me chamou. Eu inventei.
+– Pode ser. – Bruno olhou por cima do ombro. – Mas Velho-Sábio não me chamou. Eu inventei.
 
 Beatriz deu uma risada curta e soltou o ar. Ele tinha feito isso por ela, e os dois sabiam.
 

@@ -2,7 +2,7 @@ Ao saírem da Central da Vigilância, os irmãos seguiram Velho-Sábio em silên
 
 – Vocês acham que a Vigilância realmente tentou... – sussurrou Banjo para Bruno.
 
-– Não sei. Mas a forma como a Erla nos olhou... – Bruno olhou por cima do ombro, como se esperasse ver algo escondido. – Parecia que ela sabia mais do que admitiu. E acho que o Velho-Sábio também percebeu.
+– Não sei. Mas a forma como a Erla nos olhou... – Bruno olhou por cima do ombro, como se esperasse ver algo escondido. – Parecia que ela sabia mais do que admitiu. E acho que Velho-Sábio também percebeu.
 
 – Mas por que alguém quereria matá-lo?
 
@@ -228,7 +228,7 @@ McCroys cruzou os braços, com um sorriso frio.
 
 – O plano é brilhante, garoto. Mas o que nos garante que você não se voltará contra nós? Korvo é notoriamente persuasivo. Já vi você me seguindo pelos corredores. Eu sei o que vejo. E o que vejo em você são intenções sombrias, dúvidas que podem fazer você questionar a quem é leal. Um dos seus irmãos pode muito bem ter sido responsável pela tentativa de invasão.
 
-– Isso é mentira! – gritou Bruno, o rosto vermelho. – Eu nunca faria nada contra a Sociedade ou o Velho-Sábio!
+– Isso é mentira! – gritou Bruno, o rosto vermelho. – Eu nunca faria nada contra a Sociedade ou Velho-Sábio!
 
 – Não questione a lealdade dos meus aprendizes, McCroys – cortou Velho-Sábio, com a voz baixa e carregada de autoridade. – Sou eu que estou com eles o tempo todo, não você. Dou minha palavra que os irmãos Lins nada tiveram a ver com essa invasão.
 

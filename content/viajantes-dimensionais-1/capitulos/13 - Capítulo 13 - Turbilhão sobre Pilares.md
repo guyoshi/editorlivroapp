@@ -159,7 +159,7 @@ Mas Ferris continuava ali, tirando Marqes das mãos delas no último instante. E
 
 Bruno ergueu uma barreira de gelo à esquerda. Breno a atravessou como se não existisse, surpreendendo Ferris num corredor entre os pilares. Ferris recuou, desapareceu na luz e reapareceu na corrente da direita, a única livre. Lucía fechou o vento de uma vez, e a corrente se desfez em torno dele.
 
-Beatriz estava num pilar baixo, com as mãos trêmulas. Fechou os olhos por um segundo. Lembrou da voz do Velho-Sábio: aceite que ele é seu. Lembrou da canção que ele cantara na mesa, na casa dele: o fogo pede direção.
+Beatriz estava num pilar baixo, com as mãos trêmulas. Fechou os olhos por um segundo. Lembrou da voz de Velho-Sábio: aceite que ele é seu. Lembrou da canção que ele cantara na mesa, na casa dele: o fogo pede direção.
 
 Estalou uma brasa dentro dela. Dessa vez, o fogo não escapou. Foi saindo das palmas em fios laranja, um a um, mornos, obedientes, e deu uma volta inteira em torno do pilar de Ferris, fechando-se como um bracelete. O calor subiu devagar pelo ar, e as correntes de vento do estádio se curvaram em volta dele sem apagá-lo. Shirley passou a mão por cima, e faíscas dançaram pelo ar entre as chamas, num cercado de luz que fez o rosto de Ferris brilhar como um espelho.
 
