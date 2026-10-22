@@ -50,7 +50,7 @@ Melissa empurrou a própria garrafinha de água para a amiga. Estava fria, com g
 
 Beatriz devolveu a garrafa. Melissa tomou um gole e fez uma careta.
 
-– Ué. Tava geladinha agora.
+– Credo, isso ta quente. Tava geladinha agora mesmo.
 
 – Deve ter esquentado aqui na sala – disse Beatriz, sem dar muita atenção.
 
@@ -144,7 +144,7 @@ Breno olhou para o telhado, onde ainda havia alguns insetos voando. Era perfeita
 
 – Aconteceu um ataque de marimbondos – disse ele. – O Pedro pode estar machucado. Não vamos brincar com isso.
 
-– Não foi o que eu fiz – respondeu Banjo, ainda preocupado.
+– Não foi o que eu fiz – respondeu Banjo, mais para si do que pros irmãos, ainda preocupado.
 
 O sinal tocou outra vez, e Breno apontou para o corredor.
 
@@ -192,11 +192,11 @@ Melissa se aproximou e segurou a mão da amiga. Soltou-a quase imediatamente.
 
 Melissa olhou para a partitura que Beatriz ainda segurava. As pontas estavam escurecidas.
 
-– Primeiro minha água ficou morna. Depois esse papel esquentou. E agora as lâmpadas... – Ela abaixou a voz. – Você sentiu alguma coisa antes?
+– Primeiro minha água ficou morna. Depois esse papel esquentou. E agora as lâmpadas... – Ela abaixou a voz. – Você sentiu alguma coisa antes de... do que houve?
 
 – Calor. Muito calor.
 
-– Eu também senti. Mas... por que perto de você?
+– Eu também senti. Mas... parecia estar vindo do meu lado... onde você tava...
 
 Beatriz encarou a amiga, assustada.
 
