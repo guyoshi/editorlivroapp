@@ -27,7 +27,7 @@ Quando chegaram ao parque, o céu estava baixo e cinzento, e o ônibus ainda esp
 
 – Nos perdemos na mata – disse Breno, e era quase verdade.
 
-No fundo do ônibus, Pedro Porrada e a gangue os fuzilaram com os olhos. Pedro passou o dedo pelo pescoço e apontou para Breno. Breno fingiu não ver. Perto da janela, Jennifer acenou para ele com um sorriso torto, e por um segundo ele esqueceu que tinha acabado de viver a tarde mais esquisita da vida.
+No fundo do ônibus, Pedro Porrada e a gangue os fuzilaram com os olhos. Pedro passou o dedo pelo pescoço e apontou para Breno. Breno fingiu não ver. Perto da janela, Tamires acenou para ele com um sorriso torto, e por um segundo ele esqueceu que tinha acabado de viver a tarde mais esquisita da vida.
 
 Naquela noite, colocou o rádio na prateleira do quarto e ficou olhando para ele por muito tempo. Não tocava. Mas a carcaça continuava morna.
 
