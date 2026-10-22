@@ -256,14 +256,6 @@ A onda de luz azul que atravessava a tela vacilou por um instante.
 
 – Ah, então não é tão impressionante assim.
 
-– Muito prazer também, Bruno – respondeu Kali, com a mesma gentileza. – Se precisar de mim, estarei aqui.
-
-Bruno estreitou os olhos.
-
-– Ei, eu nem disse meu nome!
-
-– Nem precisava – respondeu Kali.
-
 – O Bruno está com ciúme porque não tem uma dessas em casa – provocou Beatriz.
 
 O Velho-Sábio os levou por um corredor onde o chão brilhava como um rio sob as estrelas. As estantes estavam cheias de frascos coloridos que vibravam quando alguém os olhava. Num quarto grande, havia quatro camas lado a lado, e no teto, constelações se mexiam devagar, trocavam de cor, corriam de um lado a outro, como se o céu estivesse vivo.
