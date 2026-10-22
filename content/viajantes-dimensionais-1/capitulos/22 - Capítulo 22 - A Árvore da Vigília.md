@@ -44,9 +44,9 @@ O corredor se abriu num salão enorme, o coração da Central Vigilante. No meio
 
 – Velho-Sábio, por favor – disse Beatriz, com a voz embargada. – Ajude o Bruninho.
 
-Foi então que Banjo sentiu algo correr por dentro, vindo da árvore. Não era bem uma voz, mas sua mente deu palavras àquela sensação: Traga-o até aqui.
+Foi então que Banjo sentiu algo vindo da árvore. Não era uma voz nem um pensamento. Era um sentimento difícil de separar do próprio desespero: uma tristeza profunda, atravessada por um calor que parecia acolhê-lo. Ele olhou para as folhas douradas. Não sabia se a natureza o chamava ou se era ele quem procurava uma resposta.
 
-Banjo virou o rosto. Ninguém mais pareceu sentir. A impressão voltou, mais forte. Ele se levantou como num sonho e caminhou até a árvore, com os dedos formigando.
+A sensação voltou, mais forte. Banjo se levantou como num sonho e caminhou até a árvore, com os dedos formigando.
 
 – Tragam ele aqui! – gritou, a voz tremendo, mas firme. – Para perto da árvore!
 
@@ -56,7 +56,9 @@ Velho-Sábio olhou nos olhos do garoto e não perguntou nada. Carregou Bruno at�
 
 – Por favor, salve o meu irmão.
 
-O salão ficou tão quieto que dava para ouvir a luz. Um calor correu entre as mãos de Banjo, do tronco ao peito do irmão. Depois, as raízes se mexeram. Saíram do chão devagar, como serpentes douradas, e envolveram Bruno com delicadeza, erguendo-o no ar. Por um momento, ele desapareceu dentro de uma gaiola de madeira viva, e as folhas amarelas começaram a cair, uma por uma, até o chão ficar coberto de ouro. Os galhos secaram. As raízes que seguravam Bruno perderam a cor, e Banjo caiu de joelhos, chorando.
+Não houve resposta em palavras. Veio apenas uma onda de calor pela palma de sua mão, uma sensação de acolhimento tão nítida que Banjo prendeu a respiração. Não precisou puxar nada. A vitalidade correu até ele, e ele a conduziu para Bruno, sem saber se tinha pedido aquilo ou se a árvore já lhe oferecia o que possuía.
+
+O salão ficou tão quieto que dava para ouvir a luz. Depois, as raízes se mexeram. Saíram do chão devagar, como serpentes douradas, e envolveram Bruno com delicadeza, erguendo-o no ar. Por um momento, ele desapareceu dentro de uma gaiola de madeira viva, e as folhas amarelas começaram a cair, uma por uma, até o chão ficar coberto de ouro. Os galhos secaram. As raízes que seguravam Bruno perderam a cor, e Banjo caiu de joelhos, chorando.
 
 – Não... o que está acontecendo?
 
@@ -118,11 +120,13 @@ Breno assentiu devagar, e uma lágrima desceu pelo rosto dele.
 
 Velho-Sábio se virou para Banjo.
 
-– O que você fez com a árvore foi extraordinário. Nem eu consigo.
+– O que aconteceu junto à árvore foi extraordinário. Nem eu conseguiria fazer aquilo.
 
-– Mas eu não fiz nada! Foi a árvore que o curou.
+– Mas eu não tirei nada dela! Eu senti... uma coisa. Pedi ajuda, e a força veio até mim.
 
-– A árvore não possuía magia, Banjo. Era viva, só isso. Você conduziu a energia dela para seu irmão. Foi a sua magia que fez as raízes se moverem. Isso exige uma ligação e um controle que eu nunca vi em ninguém. – Sorriu, com tristeza. – Você é especial, Banjo.
+– Eu sei, Banjo. Você não arrancou a vitalidade da árvore. Sentiu os sentimentos da natureza e conduziu para Bruno a energia que chegou até você. Foi a sua magia que moveu as raízes. A árvore não tinha magia própria, nem falava como nós. – O mago sorriu com tristeza. – Não sabemos se ela respondeu ao seu pedido ou se você percebeu algo que já estava ali. Mas você não a forçou.
+
+Banjo olhou para a palma da mão, lembrando o calor que sentira. O sorriso não veio inteiro.
 
 Banjo ficou vermelho até as orelhas, mas o sorriso não veio inteiro. Esfregou a palma da mão, lembrando a aspereza da casca e os galhos secos. Bruno, ainda de cobertor nos ombros, levantou o copo.
 
