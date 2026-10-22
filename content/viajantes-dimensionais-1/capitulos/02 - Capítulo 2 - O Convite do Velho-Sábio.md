@@ -34,7 +34,7 @@ Naquela noite, Breno colocou o rádio na prateleira do quarto e ficou olhando pa
 
 Na manhã seguinte, chovia de novo.
 
-– Coma alguma coisa, Bia – disse Melissa, sentando-se ao lado da amiga antes do coral. Beatriz estava deitada sobre os braços na mesa da sala de aula, esperando a professora. Desde que chegara à escola, o lanche continuava intocado na mochila.
+– Coma alguma coisa, Bia – disse Melissa, sentando-se ao lado da amiga antes da primeira aula. Beatriz estava deitada sobre os braços na mesa da sala de aula, esperando a professora. Desde que chegara à escola, o lanche continuava intocado na mochila.
 
 Melissa era a melhor amiga de Beatriz desde a primeira série. Falava rápido, perguntava demais e achava que qualquer silêncio era um problema pessoal.
 
@@ -206,7 +206,7 @@ Beatriz encarou a amiga, assustada.
 
 – Mel, eu não fiz nada.
 
-– Eu sei que você não fez de propósito – respondeu Melissa, com cuidado. – Você tá sentindo isso desde quando?
+– Não estou dizendo que foi você – respondeu Melissa, com cuidado. – Mas desde quando tá sentindo esse calor?
 
 Beatriz hesitou. Lembrou da esfera azul, dos irmãos caídos no chão da caverna e do rádio que voltara a tocar.
 
@@ -240,9 +240,9 @@ Esfregou os olhos e tentou de novo. O livro, agora sólido, virou a página como
 
 Quando o sinal tocou, encontrou os irmãos no portão. Banjo chutava pedrinhas, perdido em pensamentos. Bruno ensaiava uma pose de quem não se importava com nada. Beatriz estava encostada no muro, mais pálida que o normal. A escola inteira só falava do lustre do coral. A diretoria decidira que tinha sido um curto-circuito, mas ninguém conseguia explicar o cheiro de pão queimado.
 
-– Bia! – Melissa surgiu correndo, com a mochila batendo nas costas. – Fiz a aula de matemática inteira, escondida debaixo da carteira.
+– Bia! – Melissa surgiu correndo, com a mochila batendo nas costas. – Olha o que eu fiz escondida debaixo da carteira na aula de matemática.
 
-Era uma pulseira de fios coloridos, mal-ajambrada, com um nó um pouco maior que os outros.
+Mostrou uma pulseira de fios coloridos, mal-ajambrada, com um nó um pouco maior que os outros.
 
 – Pra você não esquecer de comer – disse Melissa. – Nem de mim.
 
@@ -370,9 +370,13 @@ Banjo apagou a luz e acendeu uma lanterna, de um jeito que iluminava apenas o ce
 
 Beatriz segurou o riso. Banjo ergueu a cartolina e apontou, um por um, para os itens escritos nela.
 
-– Evidência um: os marimbondos. Dois: as lâmpadas da Bia. Três: o Bruno congelou o volante. Quatro: o Breno atravessou uma árvore. Cinco...
+– Um: os marimbondos.
 
-– O Breno atravessou o livro de história também – lembrou Breno, quase sussurrando.
+– Não prova nada – interrompeu Bruno.
+
+– Dois: as lâmpadas da Bia. Três: o Bruno congelou o volante. Quatro: o Breno atravessou uma árvore. Cinco...
+
+– Minha mão atravessou as páginas de um livro de história também – acrescentou Breno, quase sussurrando.
 
 – Pff. Você virou fantasma agora? – provocou Bruno, esfregando a palma da mão que ainda doía.
 
