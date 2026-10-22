@@ -193,12 +193,6 @@ Bruno, sentado no chão com as costas na cama, levantou os olhos.
 
 – Belfex é enorme – disse Bruno, num meio sorriso. – Sério, é muita pretensão achar que o Korvo tem interesse específico em nós. Se você quer fugir de todo lugar que tem perigo, melhor se preparar pra não morar em lugar nenhum.
 
-Beatriz ergueu o queixo.
-
-– Eu não vou embora. Finalmente achei um lugar onde posso fazer coisas que nunca imaginei. Se a gente voltar agora, foi tudo em vão.
-
-– Eu também não quero ir – completou Banjo. – Mesmo com o Korvo. Isso aqui é a nossa vida agora.
-
 Breno sentiu o peso dos três olhares. Respirou fundo, olhou para o rádio na mesinha e baixou a voz.
 
 – Tá bom. Mas escutem uma coisa. Se um dia eu disser que é hora de ir, a gente vai. Sem discutir.

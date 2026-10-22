@@ -50,6 +50,8 @@ Banjo virou o rosto. Ninguém tinha ouvido. A voz repetiu, mais firme, quase uma
 
 – Tragam ele aqui! – gritou, a voz tremendo, mas firme. – Para perto da árvore!
 
+Breno deu um passo para o lado e, sem pedir explicações, abriu caminho para Banjo.
+
 Velho-Sábio olhou nos olhos do garoto e não perguntou nada. Carregou Bruno até as raízes. Banjo pôs uma mão no tronco áspero e a outra no peito de Bruno, e fechou os olhos.
 
 – Por favor, salve o meu irmão.
@@ -116,7 +118,7 @@ Velho-Sábio se virou para Banjo.
 
 – A árvore ofereceu a força. Foi você que a passou para o seu irmão. Isso exige uma ligação e um controle que eu nunca vi em ninguém. – Sorriu. – Você é especial, Banjo.
 
-Banjo ficou vermelho até as orelhas, e Bruno, ainda de cobertor nos ombros, levantou o copo.
+Banjo ficou vermelho até as orelhas, mas o sorriso não veio inteiro. Esfregou a palma da mão, lembrando a aspereza da casca e os galhos secos. Bruno, ainda de cobertor nos ombros, levantou o copo.
 
 – Você deve a vida ao seu irmão, Bruno – disse Velho-Sábio.
 
