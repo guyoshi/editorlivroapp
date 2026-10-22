@@ -122,7 +122,7 @@ As costas dele se enrijeceram, e ele ergueu um braço fino e pálido, apontando 
 
 Os irmãos seguiram o gesto e viram uma câmara cheia de portas de metal enferrujado, uma ao lado da outra, cada uma com uma pequena abertura no alto. Banjo espiou por uma delas, e só havia escuridão. Um calafrio subiu pelas costas dele.
 
-No fim do corredor, encostado a uma das portas, um homem estava ajoelhado de cabeça baixa. Vestia o que restava de um uniforme cinza, tão gasto que parecia feito de teia, com um broche de vigilante torto no colarinho. Estava magro, com mãos que tremiam, e ao ouvi-los ergueu o rosto. Tinha olhos arregalados de quem não dorme há muitos dias. Abriu a boca para falar, e nada saiu. Como se a voz tivesse sido tirada dele e guardada em algum lugar longe.
+No fim do corredor, encostado a uma das portas, um homem estava ajoelhado de cabeça baixa. Vestia o que restava de um uniforme cinza, tão gasto que parecia feito de teia, com um broche em forma de árvore, torto no colarinho. Estava magro, com mãos que tremiam, e ao ouvi-los ergueu o rosto. Tinha olhos arregalados de quem não dorme há muitos dias. Abriu a boca para falar, e nada saiu. Como se a voz tivesse sido tirada dele e guardada em algum lugar longe.
 
 – Ei – disse Banjo, e se agachou diante dele. – Calma. A gente não vai machucar o senhor.
 
