@@ -169,7 +169,7 @@ Um silêncio profundo caiu sobre as ruínas.
 
 – Nosso mundo? – repetiu Breno.
 
-– Há muito tempo, Breno, os primeiros senantes vieram da Terra. E o estírio guardava um propósito oculto. Aos poucos, ele permitia que os descendentes deles recuperassem a força que os antepassados tinham. Entre esses antepassados, estavam os que chamamos de Primordiais. Magos de uma força única, que viveram junto a Édelin Lys, a Aereplórium, e até ao lendário Primus.
+– Há muito tempo, Breno, os primeiros senantes vieram da Terra. E o estírio guardava um propósito oculto. Aos poucos, ele permitia que os descendentes deles recuperassem a força que os antepassados tinham. Não fica esperando num lugar fixo: surge por conta própria quando entende que chegou a hora de despertar a magia de alguém. Entre esses antepassados, estavam os que chamamos de Primordiais. Magos de uma força única, que viveram junto a Édelin Lys, a Aereplórium, e até ao lendário Primus.
 
 Banjo prendeu a respiração ao ouvir o nome Aereplórium, o mesmo que o mago tinha murmurado quando a pedra subira diante dele.
 
