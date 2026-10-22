@@ -170,7 +170,7 @@ Korvo desceu os degraus devagar, deixando o facão cravado na mesa, e parou dian
 
 Beatriz não respondeu. Ela se lembrava da sensação como se tivesse acontecido há um minuto: o fogo acordando, o mundo todo ficando pequeno, e o medo, o medo de ter sentido que podia fazer qualquer coisa. Ficou com as mãos geladas.
 
-– Você está certo sobre uma coisa, Korvo – disse Bruno, dando um passo à frente. A voz estava firme, apesar do tremor no queixo. – O poder importa. Mas não é ele que decide quem a gente é. É o que a gente faz com ele. Você chama isso de liberdade. Eu só vejo correntes. Você não quer nos libertar, quer nos fazer iguais a você. Presos num ego. Num medo de ser humano.
+– Você fala em liberdade, mas usou a minha cara para separar meus irmãos – disse Bruno, dando um passo à frente. A voz estava firme, apesar do tremor no queixo. – Agora quer dizer à Bia quem ela deve ser. Isso não é liberdade. Você só quer que todo mundo faça o que você manda.
 
 O sorriso de Korvo desapareceu devagar. Por um instante, o rosto dele ficou duro como pedra. Depois virou-se de costas.
 

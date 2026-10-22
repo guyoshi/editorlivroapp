@@ -124,7 +124,7 @@ Banjo ficou vermelho até as orelhas, e Bruno, ainda de cobertor nos ombros, lev
 
 Todos riram. Velho-Sábio esperou o riso passar.
 
-– Bruno, não é só humor o que tem por trás desse sarcasmo. Há muita coragem ali. Nunca duvide disso. A coragem não é a ausência de medo, é a decisão de seguir em frente apesar dele.
+– Na reunião da Sociedade, você se ofereceu para ser a isca. Eu disse não, e diria de novo. – Velho-Sábio olhou para Bruno. – Mas entendi por que levantou a mão: queria proteger seus irmãos. Não precisa esconder isso atrás de uma piada.
 
 Bruno desviou o olhar. Mas um sorriso pequeno ficou nos cantos da boca, e demorou a sair.
 
