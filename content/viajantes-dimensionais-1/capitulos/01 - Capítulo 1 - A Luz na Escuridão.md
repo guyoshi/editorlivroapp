@@ -426,17 +426,15 @@ Breno tirou a mochila e a abriu, espantado com o que viu. Dentro dela estava o r
 
 – Ainda acha que não é tecnologia dos Cosmkops? – perguntou Banjo, sorrindo.
 
-Do rádio, uma espécie de material nem líquido nem gasoso parecia sair e se deslocar devagar até a esfera.
+As luzes do rádio piscaram no mesmo ritmo do brilho da esfera.
 
-– Acha que podemos pegá-la? – perguntou Bruno.
+– Acha que podemos pegá-la? – perguntou Banjo.
 
-– Ficou maluco? Nem sabemos o que é isso. Pode ser radioativo. É melhor sairmos daqui.
+– Tá maluco? Olha a cor disso, deve ser radioativo! – disse Bruno.
 
 – Ela não parece perigosa – disse Beatriz. – É muito bonita. E fez o rádio do papai pegar.
 
-Os olhos de Banjo estavam vidrados no objeto.
-
-– Acho que... podemos... pegá-la – disse, estendendo a mão para tocar a esfera.
+Os olhos de Banjo estavam vidrados no objeto. Antes que alguém o impedisse, ele estendeu a mão para tocar a esfera.
 
 – NÃO ENCOSTE, BANJO! – gritou Breno.
 
