@@ -378,11 +378,9 @@ Banjo abaixou a cabeça. Beatriz deu um sorriso encorajador para ele, e Bruno de
 
 Antes de apagar a luz, Frank apareceu na porta do quarto dos meninos e deu boa noite. O olhar dele pousou, por um segundo longo demais, no rádio que Breno tinha deixado sobre a prateleira. Depois, fechou a porta.
 
-Breno acordou no meio da noite com a sensação de que alguém o chamava. Não era uma voz. Era só a certeza de que havia alguém no quintal.
+Breno acordou no meio da noite com a sensação de que alguém o chamava. Não era uma voz. Era só a certeza de que havia alguém no quintal. A chuva batia com força no telhado, e um trovão fez a janela tremer.
 
-Desceu descalço. A chuva tinha parado, e a neblina cobria a grama como leite. 
-
-Travou quando viu. Na escada dos fundos, sentado com um cajado entre os joelhos, havia um homem velho. Tinha a pele morena, a barba dividida em três pontas e olhos verdes que pareciam guardar um pouco de luz. A ponta do cajado brilhava baixinho, como uma lanterna de acampamento.
+Desceu descalço. Ao abrir a porta dos fundos, recebeu no rosto uma rajada de água fria. A chuva caía tão grossa que mal se viam as árvores. Sob o beiral, sentado na escada com um cajado entre os joelhos, havia um homem velho. Tinha a pele morena, a barba dividida em três pontas e olhos verdes que pareciam guardar um pouco de luz. A ponta do cajado brilhava baixinho, como uma lanterna de acampamento.
 
 – Boa noite, rapaz. 
 
@@ -394,41 +392,47 @@ Travou quando viu. Na escada dos fundos, sentado com um cajado entre os joelhos,
 
 – O dia de vocês foi movimentado. Marimbondos, lâmpadas, um volante congelado...
 
-– Como você sabe? 
+Breno segurou a maçaneta. O acidente podia ter chegado aos ouvidos de qualquer um. Mas o velho continuou:
 
-– Quando uma coisa pequena toca outra, o resto cai como dominó. Vocês tocaram numa bolinha de luz. A qual chamamos de estírio. – O velho olhou para as estrelas escondidas atrás da neblina. – Ele aparece quando entende que chegou a hora de alguém despertar a própria magia. Não dá para escolher o momento nem obrigá-lo a surgir. 
+– E aquela esfera azul que encontraram na caverna.
 
-– E como você descobriu que fomos nós?
+Breno recuou para dentro de casa. Nem Frank sabia da esfera.
 
-– Na quarta dimensão, há uma cidade chamada Tayo. Lá ficam registrados todos os que o estírio toca. Foi assim que encontrei vocês. E não fui o único a saber.
+– Quem contou sobre a caverna?
 
-– Como assim?
+– Ninguém daqui. Aquela esfera se chama estírio.
 
-– Há quem esteja de olho em vocês. Ainda não sei se com boas intenções.
+– Isso não explica como achou a nossa casa.
 
-Breno engoliu em seco.
+– Quando vocês tocaram no estírio, um sinal chegou ao lugar de onde venho. Foi assim que os encontrei.
 
-– O que está acontecendo com a gente?
+– Que lugar?
 
-– Existe um lugar onde isso que vocês têm tem nome, e gente que ensina a lidar. Aqui, sozinhos, vão aprender do jeito difícil. Hoje foi um volante. Amanhã pode ser alguém.
+– Outra dimensão.
 
-Breno sabia disso. Pensava nisso desde que o carro parou. Sentou-se um degrau abaixo do velho.
+Um trovão estourou sobre a casa. Breno pensou nos irmãos dormindo e resistiu à vontade de subir para acordá-los.
+
+– Mais alguém sabe?
+
+– Sim. Não sei quem mais virá por causa disso.
+
+– E você quer o quê?
+
+– Que aprendam a controlar o que despertou. De onde venho, há quem possa ensinar vocês. Hoje foi um volante. Da próxima vez, alguém pode se machucar.
+
+Breno pensava nisso desde que o carro parou. Soltou a maçaneta e sentou-se um degrau abaixo do velho, onde a chuva já alcançava seus pés.
 
 – Se eu pedisse pra você nos levar...
 
-– Não levo ninguém. A escolha é de vocês. Dos quatro, ou de nenhum. – Ele sorriu. – Mas seu rádio nunca esteve quebrado.
+– Só se os quatro quiserem. Não vou separar vocês. – Ele sorriu. – E, Breno, seu rádio nunca esteve quebrado.
 
 – Como sabe do rádio?
 
 – Há coisas que só funcionam quando chega a hora delas.
 
-– Que lugar é esse? O que tem lá?
+O velho se levantou com um estalo de joelhos. Saiu debaixo do beiral, e a chuva o engoliu quase de imediato. A luz do cajado recuou pelo quintal, ficou do tamanho de um vagalume e se apagou entre as árvores.
 
-– Isso não se explica, Breno. Se vive. As respostas ficam do outro lado.
-
-O velho se levantou com um estalo de joelhos. A luz do cajado foi recuando pelo quintal, ficou do tamanho de um vagalume e se apagou entre as árvores.
-
-Breno ficou ali, sozinho, até os pés congelarem.
+Breno ficou ali, sozinho, ouvindo a chuva, até os pés esfriarem por completo.
 
 – Acordem – sussurrou ele, voltando ao quarto.
 
