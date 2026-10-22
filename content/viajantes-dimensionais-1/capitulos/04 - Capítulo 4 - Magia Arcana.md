@@ -210,7 +210,7 @@ Mais ao fundo, uma garota de postura elegante observava tudo, sozinha.
 
 Passos firmes ecoaram pelo salão. A porta principal se abriu e um homem alto, de manto com detalhes dourados, entrou. Os murmúrios morreram.
 
-– Garmande – sussurrou alguém.
+– Garmande Koraveli – sussurrou alguém.
 
 – Bem-vindos, dimensais e não dimensais – disse ele, olhando todos de cima, mas com um sorriso formal. – Todos os anos recebemos uma nova turma. Os dimensais passam por três avaliações de integração: quem as conclui pode permanecer em Belfex e seguir para os ciclos de formação, sem refazer as provas de entrada. Os jovens daqui também participam para avançar na formação. Nas próximas semanas, seus tutores os prepararão para os três desafios, um depois do outro. Quem se destacar entre todos mostrará o que é capaz de fazer como senavelita.
 

@@ -45,7 +45,7 @@ Brenda parou e olhou para Bruno de cima a baixo, com um sorriso debochado.
 
 Foi embora com a bandeja flutuando atrás dela, como um cachorrinho obediente. Bruno ficou olhando.
 
-– Ela é difícil – cochichou Emiris. – Filha do Garmande. Não tem paciência com novatos.
+– Ela é difícil – cochichou Emiris. – Brenda Koraveli, filha do Garmande. Não tem paciência com novatos.
 
 – Isso só deixa as coisas mais interessantes – resmungou Bruno.
 

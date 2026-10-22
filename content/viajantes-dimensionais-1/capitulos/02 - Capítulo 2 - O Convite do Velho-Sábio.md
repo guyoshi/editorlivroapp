@@ -262,13 +262,13 @@ Frank olhou pelo retrovisor, com uma ruga de preocupação.
 
 – Quer que eu pare, Bia?
 
-– Não... Eu... – Os olhos de Beatriz estavam fixos num ponto distante da estrada, e algo neles mudou. – Eu sinto eles aqui. A mamãe e o papai.
+– Não... Espera... – Beatriz abriu os olhos e olhou para as próprias mãos. – Tá ficando quente de novo. Igual na sala do coral.
 
-O carro ficou em silêncio. Beatriz nunca tinha falado dos pais daquele jeito. Bruno desviou o olhar para a janela. Breno apertou a mão da irmã, procurando o que dizer, quando Bruno gritou:
+Banjo ergueu a mão para apoiar a irmã. Antes que a tocasse, o carro deu um salto, sem buraco nem lombada à vista. Os pneus perderam o asfalto, e Bruno gritou:
 
 – TIO!
 
-Frank pisou no freio, mas o carro pareceu ser arremessado para cima, num salto que levantou o estômago de todo mundo. Bruno, por puro instinto, esticou a mão até o volante, e a palma dele começou a soltar um frio estranho. Uma camada fina de gelo se espalhou pelo aro, firmando o volante.
+Frank pisou no freio, mas as rodas ainda giravam no ar. O carro caiu torto na estrada, lançando todos para o lado, e continuou deslizando. Bruno, por puro instinto, esticou a mão até o volante, e a palma dele começou a soltar um frio estranho. Uma camada fina de gelo se espalhou pelo aro, firmando o volante.
 
 Uma árvore enorme se aproximava depressa pela frente. Frank puxou o volante para desviar, mas ele não se mexia. Estava preso. Breno sentiu o pânico subir no peito e, sem pensar, agarrou o encosto do banco da frente.
 
@@ -284,19 +284,17 @@ Bruno tentou soltar o volante para abrir a porta, mas o gelo tinha derretido e g
 
 – Bruno... o volante tá grudado em você – sussurrou Banjo.
 
-– Eu senti – disse Beatriz, agarrada ao braço de Breno. – Eles estavam aqui com a gente.
+– Eu senti o calor de novo – disse Beatriz, agarrada ao braço de Breno. – Foi por minha causa?
 
-Breno sentiu uma pontada no peito. Queria confortar a irmã e não achava as palavras. Quando olhou para o tio pelo retrovisor, viu uma sombra de compreensão passar pelo rosto dele, rápida demais, antes de ele desviar o olhar.
+Breno quis dizer que não, mas também não sabia como tinham atravessado a árvore. Quando olhou para o tio pelo retrovisor, viu uma sombra de compreensão passar pelo rosto dele, rápida demais, antes de ele desviar o olhar.
 
 – Todos estão bem? – perguntou Frank, com a voz vacilante.
 
-– Acha que foi o papai e a mamãe que nos protegeram? – perguntou Banjo.
+– Como a gente passou por dentro da árvore? – perguntou Banjo.
 
-– Meninos... – Frank limpou a garganta. – Eu sei que é difícil dizer, mas seus pais não estão mais aqui.
+Frank limpou a garganta.
 
-– Eu senti eles, tio. Não estou louca.
-
-– Crianças, acidentes estranhos acontecem. O importante é que vocês estão bem.
+– Eu não sei. Primeiro saiam do carro; depois conversamos.
 
 Os irmãos saíram do carro, atordoados. Bruno pigarreou, balançando o volante ainda preso à mão.
 
@@ -318,7 +316,9 @@ Uma luz azul e vermelha piscava morro acima. Um carro de polícia.
 
 – Está tudo bem por aqui? – perguntou o policial, desconfiado, olhando para a traseira do carro fundida ao tronco.
 
-– Ah, sim, oficial. Tivemos um acidente estranho – disse Frank. – O carro escapou na curva, e... acabamos assim.
+Frank lançou um olhar breve aos irmãos antes de responder.
+
+– Ah, sim, oficial. Tivemos um acidente estranho. O carro escapou na curva, e... acabamos assim.
 
 O policial olhou para a árvore, para os garotos, e por fim para a mão de Bruno.
 
@@ -326,7 +326,7 @@ O policial olhou para a árvore, para os garotos, e por fim para a mão de Bruno
 
 – Só um acessório a mais – disse Bruno, erguendo o braço e sorrindo.
 
-O policial balançou a cabeça, pediu um guincho pelo rádio e ofereceu uma carona. Durante o trajeto, ninguém falou nada. Breno olhava para o volante na mão do irmão. Tentara explicar o gelo pelo frio e o salto do carro pelo susto, mas nenhuma explicação dava conta de terem atravessado um tronco e deixado a traseira presa nele. Olhou para as próprias mãos, lembrando as páginas do livro de história. Beatriz estava encolhida, ainda com a sensação de que os pais continuavam por perto. Banjo olhava pela janela, com a inquietação da mata ainda presa no peito.
+O policial balançou a cabeça, pediu um guincho pelo rádio e ofereceu uma carona. Durante o trajeto, ninguém falou nada. Breno olhava para o volante na mão do irmão. Não havia buraco na estrada que explicasse o salto do carro, muito menos terem atravessado um tronco e deixado a traseira presa nele. Olhou para as próprias mãos, lembrando as páginas do livro de história. Beatriz estava encolhida, tentando lembrar se o calor tinha vindo antes ou depois do salto. Banjo olhava pela janela, com a inquietação da mata ainda presa no peito.
 
 Em casa, foi preciso uma hora, sabão, óleo de cozinha e muita paciência de Frank para soltar o volante da mão de Bruno. Quando saiu, Bruno ficou olhando para a palma vermelha.
 
@@ -334,25 +334,25 @@ Em casa, foi preciso uma hora, sabão, óleo de cozinha e muita paciência de Fr
 
 Frank passou a mão pelos cabelos dele e não respondeu.
 
-Na hora do jantar, Frank tentou fazer a coisa soar normal.
+Na hora do jantar, Frank tentou falar do acidente como se tivesse sido apenas um susto.
 
-– Banjo, você sempre teve uma imaginação muito fértil – disse, sem encará-lo. – Mas talvez seja hora de olhar mais para a realidade. Quando a gente passa por uma perda, a mente às vezes tenta preencher as coisas com... fantasias.
+– Depois de um susto daqueles, a gente começa a ligar coisas que talvez não tenham relação – disse, sem encará-los. – O calor, o gelo, a árvore...
 
 Banjo franziu a testa. Queria contar tudo ao tio, mas era como se algo o impedisse.
 
 – É difícil encarar a realidade – disse Beatriz, em voz baixa – quando parece que a realidade tá brincando com a gente.
 
-– Bia, sentir a presença deles é só um jeito que a sua mente encontrou de lidar com isso...
+– O guincho vai cuidar do carro. Bruno está bem. É nisso que precisamos pensar agora.
 
-– Tio, ela não está inventando – interrompeu Breno. – Você quer que a gente esqueça o que sentimos e finja que nada aconteceu?
+– E se acontecer de novo? – perguntou Breno. – Você quer que a gente finja que nada aconteceu?
 
-– Eu estou escutando, Breno. Porque eu também perdi alguém. Vocês não são os únicos. – Frank respirou fundo. – Mas não fico fantasiando que ela ainda está por perto.
+– Eu quero que vocês fiquem seguros – respondeu Frank, contendo a voz. – Não sei o que houve, mas sair atrás de respostas hoje só vai piorar as coisas.
 
-– Talvez porque você não queira enxergar o que a gente está passando.
+– Então não vai nos ajudar a entender?
 
 Frank o encarou em silêncio por um instante e baixou os olhos para o prato.
 
-– Pronto, virou terapia – murmurou Bruno. – Bem-vindos ao jantar de autoajuda.
+– Pronto, virou reunião de emergência – murmurou Bruno. – Cadê a sobremesa?
 
 Ninguém riu. Os quatro se levantaram da mesa quase juntos e foram para o quarto de Banjo, deixando Frank sozinho com o garfo na mão.
 
@@ -388,7 +388,7 @@ Mas ninguém riu de verdade. Beatriz abraçou os joelhos.
 
 – Eu não quero quebrar mais nada. Hoje, só de cantar, quase destruí a sala toda. E se eu machucar alguém?
 
-– A gente podia descobrir como controlar – disse Banjo. – Procurar quem saiba. Talvez até respostas sobre... eles. Por que a Bia sentiu a mamãe e o papai.
+– A gente podia descobrir como controlar – disse Banjo. – Procurar quem saiba. E descobrir o que fez o carro saltar.
 
 – Não sabemos quem saiba, Banjo – disse Breno. – E não sabemos o que a gente iria encontrar. Aqui, ao menos, a gente conhece o chão em que pisa. Eu sugiro que a gente não faça nada por enquanto. Ninguém conta nada pra ninguém.
 
@@ -396,7 +396,7 @@ Beatriz ajeitou a pulseira de Melissa e ficou olhando para o nó de fios colorid
 
 Banjo abaixou a cabeça. Beatriz deu um sorriso encorajador para ele, e Bruno deu um tapinha nas costas dele.
 
-– Vamos, sr. Porta-voz dos espíritos. Você vai dormir.
+– Vamos, detetive das árvores. Você vai dormir.
 
 Antes de apagar a luz, Frank apareceu na porta do quarto dos meninos e deu boa noite. O olhar dele pousou, por um segundo longo demais, no rádio que Breno tinha deixado sobre a prateleira. Depois, fechou a porta.
 

@@ -324,9 +324,9 @@ Uma garota de cabelo azul-celeste, curto e espetado, cruzou os braços com um so
 
 Denis girou os olhos, decepcionado por não ter ficado com posição mais agressiva, mas endireitou a postura rapidinho.
 
-– Os Vardeks: Xylar, Brenda e Isabelle!
+– Os Vardeks: Zilar, Brenda e Isabelle!
 
-Xylar, de olhos prateados, acenou sério. Isabelle, a parceira de dassi de Brenda, respondeu com um aceno rápido. O olhar de Brenda cruzou o de Bruno no instante em que ele a procurou, e se desviou logo depois.
+Zilar, de olhos prateados, acenou sério. Isabelle, a parceira de dassi de Brenda, respondeu com um aceno rápido. O olhar de Brenda cruzou o de Bruno no instante em que ele a procurou, e se desviou logo depois.
 
 – E os Drakons: Nicolas, Erick, James e Ferris!
 

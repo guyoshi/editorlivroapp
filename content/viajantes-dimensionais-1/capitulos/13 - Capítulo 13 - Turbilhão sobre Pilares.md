@@ -169,11 +169,11 @@ Ferris olhou ao redor. Viu o fogo, as faíscas, as correntes fechadas, e por um 
 
 – É isso! – gritou Lucía.
 
-O Fulgor Dourado avançou. Shirley e Eshley passavam a Marqe uma para a outra por cima dos pilares, e Banjo e Beatriz mantinham os Vardeks inimigos à distância, ele levantando-os e ela soltando cortinas de fogo que forçavam Brenda e Xylar a recuar. Bruno prendeu Erick por um instante numa esfera de gelo imóvel, e Breno, de corpo metálico, tomou a Marqe de Nicolas e a jogou no buraco entre os pilares, que a devolveu à Zona de Coleta.
+O Fulgor Dourado avançou. Shirley e Eshley passavam a Marqe uma para a outra por cima dos pilares, e Banjo e Beatriz mantinham os Vardeks inimigos à distância, ele levantando-os e ela soltando cortinas de fogo que forçavam Brenda e Zilar a recuar. Bruno prendeu Erick por um instante numa esfera de gelo imóvel, e Breno, de corpo metálico, tomou a Marqe de Nicolas e a jogou no buraco entre os pilares, que a devolveu à Zona de Coleta.
 
 Quando o relógio marcou dois minutos, as esferas brilhavam em dezessete verdes e dezessete azuis.
 
-O Garras de Ferro reagiu com tudo o que restava. Isabelle ergueu uma tempestade de areia diante de Beatriz. Brenda e Xylar fecharam a passagem de Shirley e Eshley. Nicolas prendeu Lucía num bloco de gelo. Bruno, para ganhar tempo, lançou estacas de gelo aos pés de Erick, e o rival, furioso, atirou uma bola de fogo para ferir, e não para jogar.
+O Garras de Ferro reagiu com tudo o que restava. Isabelle ergueu uma tempestade de areia diante de Beatriz. Brenda e Zilar fecharam a passagem de Shirley e Eshley. Nicolas prendeu Lucía num bloco de gelo. Bruno, para ganhar tempo, lançou estacas de gelo aos pés de Erick, e o rival, furioso, atirou uma bola de fogo para ferir, e não para jogar.
 
 – Falta! – ecoou a voz de Aradon.
 
@@ -185,7 +185,7 @@ Beatriz pegou a Marqe que as meninas tinham perdido e correu com Banjo logo atr�
 
 – Desculpa, gata – disse ele, e sorriu de um jeito que quase parecia sincero.
 
-Isabelle e Xylar avançaram, e Bruno ergueu uma muralha de gelo diante deles. Xylar a pulverizou com uma descarga, e os fragmentos voaram. Banjo estendeu as mãos, parou os pedaços no ar e os lançou de volta. Xylar foi atingido no ombro, caiu de um pilar e sumiu da arena.
+Isabelle e Zilar avançaram, e Bruno ergueu uma muralha de gelo diante deles. Zilar a pulverizou com uma descarga, e os fragmentos voaram. Banjo estendeu as mãos, parou os pedaços no ar e os lançou de volta. Zilar foi atingido no ombro, caiu de um pilar e sumiu da arena.
 
 – Surpresa, amigo! – gritou Banjo.
 
