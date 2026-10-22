@@ -75,7 +75,7 @@ Andar ali era uma experiência. Cada passo os lançava em ângulos diferentes. O
 
 – Com o tempo, você se acostuma – disse o Velho-Sábio.
 
-No caminho, algumas pessoas acenavam, como se estivessem habituadas a receber viajantes. Banjo e Beatriz acenavam de volta. Bruno e Breno mantinham a postura, atentos a tudo. Depois de uma curva vertical, o caminho desceu até o solo do salão e parou diante de uma porta flutuante, marcada com o desenho de uma mão aberta e um olho.
+No caminho, algumas pessoas acenavam, como se estivessem habituadas a receber viajantes. Banjo e Beatriz acenavam de volta. Bruno e Breno mantinham a postura, atentos a tudo. Depois de uma curva vertical, o caminho desceu até o solo do salão e parou diante de uma porta flutuante, marcada com o desenho de uma árvore de raízes abertas.
 
 – Estes são os vigilantes, a polícia de Belfex – avisou o Velho-Sábio, baixando a voz. – Não provoquem ninguém.
 
@@ -89,7 +89,7 @@ Do outro lado, um grupo de homens com uniformes vermelho-escuros e dourados espe
 
 – Está falando com Auream Vetus – disse uma voz rouca. – O homem que salvou os seus antepassados na Aniquilação.
 
-Uma mulher surgiu de dentro da parede. Atravessou-a como se fosse fumaça. Tinha uns cinquenta anos, cabelos presos com raízes grisalhas e um cajado prateado de ponta brilhante. No peito, o mesmo broche de mão e olho.
+Uma mulher surgiu de dentro da parede. Atravessou-a como se fosse fumaça. Tinha uns cinquenta anos, cabelos presos com raízes grisalhas e um cajado prateado de ponta brilhante. No peito, um broche de prata trazia a mesma árvore gravada.
 
 – Deixe comigo, capitão Marcus. – Ela virou-se para o velho com um olhar de poucos amigos. – Vai treinar jovens dimensais de novo, Auream?
 

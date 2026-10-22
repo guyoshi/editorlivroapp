@@ -533,7 +533,7 @@ Os três saltaram. Durante a queda, Bruno estendeu as mãos e conjurou uma rampa
 
 – Vamos pro portão... – disse Breno, ofegante, tentando se levantar.
 
-Mas os dassis escuros pararam em volta deles, e uma luz branca os cegou. Homens e mulheres de uniforme cinza e preto, com o emblema da Vigilância, desceram dos veículos. À frente, Garien avançava, o bastão encantado na mão e o rosto sem nenhuma expressão.
+Mas os dassis escuros pararam em volta deles, e uma luz branca os cegou. Homens e mulheres de uniforme cinza e preto, com a árvore da Vigilância bordada no peito, desceram dos veículos. À frente, Garien avançava, o bastão encantado na mão e o rosto sem nenhuma expressão.
 
 – Em nome da édion Erla Digan, vocês estão detidos. Voo ilegal, roubo de veículo e invasão de área restrita. – Estalou os dedos, e algemas de luz se fecharam nos pulsos de Breno. – Ninguém sai de Tayo esta noite.
 

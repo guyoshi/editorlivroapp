@@ -1,4 +1,20 @@
 
+Naquela manhã, Breno completou anos. Tinha esquecido a data até Bruno empurrar um pão doce para ele, com uma vela torta espetada no meio.
+
+– Feliz aniversário, cabeça de ferro. O pão é seu. A vela é emprestada.
+
+– Vocês lembraram? – Breno olhou para os irmãos.
+
+– Claro que lembramos – respondeu Beatriz.
+
+Banjo tirou de dentro do caderno um desenho dos quatro, de mãos dadas, diante de uma cidade cheia de torres. Breno segurou a folha pelas bordas, com cuidado. Pensou nos aniversários em casa, na mãe trazendo o bolo, no pai fazendo piada com a idade dele. Pela primeira vez naquela manhã, não tentou esconder a saudade.
+
+– Obrigado – disse, baixinho.
+
+– Assopra logo – pediu Bruno. – Antes que o Coronel resolva fazer aniversário também.
+
+Breno riu, apagou a vela e dividiu o pão com os três. Velho-Sábio, do outro lado da mesa, não perguntou por que ele estava com os olhos úmidos.
+
 O treino da tarde começou numa sala um andar acima. Era ampla e quase simples, com painéis lisos nas paredes que vibravam baixinho, como bichos de pelo esticado. No chão, uma névoa rasteira subia devagar, e no teto luzes minúsculas desenhavam constelações que giravam sem pressa.
 
 Velho-Sábio ficou no centro e estendeu a mão para que os irmãos se aproximassem.

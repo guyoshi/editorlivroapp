@@ -1,4 +1,4 @@
-Na manhã seguinte à corrida, quando saíram do Edifício Arcano, os irmãos e Velho-Sábio encontraram a saída bloqueada por uma figura rígida e imponente. Erla Digan, édion da Vigilância, esperava com os braços cruzados, ladeada por Garien e por outros vigilantes de uniforme cinza. O olhar dela passeou pelos quatro como uma régua.
+Na manhã seguinte à corrida, quando saíram do Edifício Arcano, os irmãos e Velho-Sábio encontraram a saída bloqueada por uma figura rígida e imponente. Erla Digan, édion da Vigilância, esperava com os braços cruzados, ladeada por Garien e por outros vigilantes de uniforme cinza, com uma pequena árvore bordada no peito. O olhar dela passeou pelos quatro como uma régua.
 
 – Bom dia, Auream. Precisamos revistar os dimensais.
 
