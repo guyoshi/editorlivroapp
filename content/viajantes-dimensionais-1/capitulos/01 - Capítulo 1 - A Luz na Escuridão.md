@@ -388,9 +388,9 @@ Antes que ele terminasse, Banjo pisou em falso e escorregou para dentro de um bu
 
 – Tá tudo bem, Banjo? – perguntou Breno, empurrando Bruno para o lado.
 
-– Tá, só tá doendo... caramba! – A dor era grande, mas não anulava o espanto que ele sentiu ao olhar para o fundo da caverna. Uma luz forte e azul iluminava objetos estranhos: um pilar com uma corda serpenteando, algo como um grande espelho quebrado em forma de cilindro, e outras peças que eles não faziam ideia do que eram, espalhadas pelo chão e pelas mesas de pedra.
+– Tá, só tá doendo... caramba! – A dor era grande, mas não anulava o espanto que ele sentiu ao olhar para o fundo da caverna. Era um lugar pequeno, de paredes irregulares e chão pedregoso. Raízes finas atravessavam as rachaduras, gotas caíam do teto e o ar tinha cheiro de terra molhada. Nada ali parecia diferente de uma caverna comum. A não ser por uma luz azulada que agora brilhava perto da parede do fundo. Banjo tinha certeza de que aquele canto estava escuro quando caíra.
 
-– O que é tudo isso? – perguntou Beatriz.
+– De onde vem essa luz? – perguntou Beatriz.
 
 – Isso é coisa dos aliens de Cosmkop – disse Banjo.
 
@@ -398,11 +398,11 @@ Antes que ele terminasse, Banjo pisou em falso e escorregou para dentro de um bu
 
 – Breninho, não sei se é uma boa ideia entrar aí – disse Beatriz, agarrando a manga dele. – Isso está me assustando.
 
-Nas paredes havia estátuas de homens apoiados em bastões, todos com cara de mau. Ao fundo, uma estátua de uma criatura estranha, grande e larga, com pontas nas extremidades do rosto, olhos muito separados e uma boca tentacular.
+Nas paredes não havia desenhos nem sinal de que alguém tivesse passado por ali. Só pedras úmidas, musgo e algumas raízes pendendo do teto. A luz azul se espalhava pelas rochas, suave, como se viesse de um pedaço de céu escondido no chão.
 
 – Que lugar é esse?
 
-– Deve ser uma base secreta – disse Banjo, já de pé. – Antes de cair, não havia nada embaixo de mim. Devia ter mato cobrindo a entrada. Alguém colocou lá pra gente não entrar.
+– Eu juro que não tinha essa luz quando caí – disse Banjo, já de pé. – Ou será que bati a cabeça?
 
 – Fiquem aí – disse Breno. – Vou ver de onde vem essa luz.
 
@@ -410,9 +410,9 @@ Breno caminhou devagar, mas os irmãos o ultrapassaram, ainda mais curiosos.
 
 – O que eu disse pra vocês? – resmungou o mais velho.
 
-Banjo se ajoelhou diante da fonte de toda aquela luz e apertou os olhos.
+Banjo se ajoelhou diante da fonte de toda aquela luz e apertou os olhos. Entre duas pedras, sem pedestal nem suporte, havia uma esfera transparente do tamanho de uma bola de bilhar.
 
-– É uma bolinha. Muito linda! – exclamou, admirado. A esfera era transparente, e dentro dela um tipo de metal entre o líquido e o gasoso girava em movimento rotatório. Do núcleo vinha uma luz azulada, que iluminava todos eles.
+– É uma bolinha. Muito linda! – exclamou, admirado. Dentro dela, um tipo de metal entre o líquido e o gasoso girava devagar. Do núcleo vinha uma luz azulada, que iluminava os rostos dos quatro.
 
 – Estão ouvindo isso? – perguntou Beatriz.
 
