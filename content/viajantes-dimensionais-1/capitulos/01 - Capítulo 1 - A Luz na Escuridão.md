@@ -1,4 +1,3 @@
-
 Beatriz ainda estava acordada quando o telefone tocou. Era tarde demais para ser coisa boa.
 
 Da cozinha vinha o rádio do papai, baixinho, tocando Roxette, como ficava todas as noites até a família inteira voltar para casa. Ela ouviu os passos de Breno no corredor. Depois a voz dele, falhando, dizendo "sim", e "sim", e "onde?". Ouviu a porta bater e a casa ficar pequena demais para tanto silêncio.
@@ -9,10 +8,9 @@ Ninguém veio. Na cozinha, o rádio chiou, engasgou e se calou no meio de um ref
 
 Depois disso, o rádio nunca mais tocou.
 
-
 Desde o acidente, os irmãos Lins moravam na casa do tio Frank, no interior, longe da cidade grande, do barulho dos carros e dos shoppings de que tanto gostavam. Frank fazia o que podia, e até virou taxista para ajudar a pagar as contas. Mas a fiação da casa era velha, o chuveiro desarmava se alguém demorasse demais no banho, e o luto estava em todos os cantos. A pequena Beatriz não tinha mais a mãe para ler livros para ela. O pequeno Banjo não tinha mais o pai para levá-lo ao trabalho. Os dias eram longos e as noites ainda mais.
 
-Faltava àqueles garotos apenas um pouco de magia.
+
 
 Na manhã de 25 de abril, cinco dias antes do seu aniversário, Breno se levantou e foi preparar o café da manhã. Fritou os ovos para comer com a gema mole, como sempre preferiu. Foi então que ouviu um barulho vindo do banheiro. A porta estava entreaberta e a luz apagada. Ele empurrou a porta, acendeu a luz e deu de cara com a irmã, que se assustou e largou a tesoura e um tufo de cabelo.
 
@@ -139,7 +137,6 @@ Bruno tirou o copo do micro-ondas, passou pelos irmãos e subiu para o quarto. F
 – Está errado – disse Frank. – Enquanto tiverem um ao outro, ainda terão uma família. Família não é só sangue. É companheirismo e, acima de tudo, amor, nos melhores e nos piores momentos.
 
 Breno guardou aquelas palavras por um tempo. Frank tinha razão, mas tudo estava tão recente que soou como um "vivam e se amem" que qualquer parente diria.
-
 
 – Vai deixar sua irmã sozinha? – disse Gabrielle, enquanto caminhavam por uma avenida.
 

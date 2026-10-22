@@ -44,9 +44,9 @@ O corredor se abriu num salão enorme, o coração da Central Vigilante. No meio
 
 – Velho-Sábio, por favor – disse Beatriz, com a voz embargada. – Ajude o Bruninho.
 
-Foi então que Banjo ouviu. Uma voz calma como o vento nas folhas, que não era de ninguém e estava dentro da cabeça dele: Traga-o até mim.
+Foi então que Banjo sentiu algo correr por dentro, vindo da árvore. Não era bem uma voz, mas sua mente deu palavras àquela sensação: Traga-o até aqui.
 
-Banjo virou o rosto. Ninguém tinha ouvido. A voz repetiu, mais firme, quase uma ordem. Ele se levantou como num sonho e caminhou até a árvore, e as folhas se mexeram sem vento, respondendo.
+Banjo virou o rosto. Ninguém mais pareceu sentir. A impressão voltou, mais forte. Ele se levantou como num sonho e caminhou até a árvore, com os dedos formigando.
 
 – Tragam ele aqui! – gritou, a voz tremendo, mas firme. – Para perto da árvore!
 
@@ -56,7 +56,7 @@ Velho-Sábio olhou nos olhos do garoto e não perguntou nada. Carregou Bruno at�
 
 – Por favor, salve o meu irmão.
 
-O salão ficou tão quieto que dava para ouvir a luz. Depois, as raízes se mexeram. Saíram do chão devagar, como serpentes douradas, e envolveram Bruno com delicadeza, erguendo-o no ar. Por um momento, ele desapareceu dentro de uma gaiola de madeira viva, e as folhas amarelas começaram a cair, uma por uma, até o chão ficar coberto de ouro. Os galhos secaram. As raízes que seguravam Bruno perderam a cor, e Banjo caiu de joelhos, chorando.
+O salão ficou tão quieto que dava para ouvir a luz. Um calor correu entre as mãos de Banjo, do tronco ao peito do irmão. Depois, as raízes se mexeram. Saíram do chão devagar, como serpentes douradas, e envolveram Bruno com delicadeza, erguendo-o no ar. Por um momento, ele desapareceu dentro de uma gaiola de madeira viva, e as folhas amarelas começaram a cair, uma por uma, até o chão ficar coberto de ouro. Os galhos secaram. As raízes que seguravam Bruno perderam a cor, e Banjo caiu de joelhos, chorando.
 
 – Não... o que está acontecendo?
 
@@ -83,6 +83,12 @@ Lioro olhou para Velho-Sábio.
 – E Korvo? Onde ele está?
 
 – Fugiu. – O mago se apoiou no cajado, e de repente parecia muito cansado. – Capturamos alguns seguidores, mas ele e a Patrulha escaparam. Erla e os outros estão vasculhando tudo, mas não acredito que ele reapareça tão cedo.
+
+– E o Emiris? – perguntou Banjo, apertando Farol contra o peito.
+
+– A Vigilância o levou para ser interrogado – respondeu Velho-Sábio. – Erla quer descobrir até onde ele participou dos planos de Garien.
+
+Banjo assentiu, sem saber o que sentir pelo garoto com quem havia dividido tantas tardes.
 
 Voltaram para casa de dassi. A cidade passava pelas janelas igual a sempre, e ao mesmo tempo tudo parecia diferente: as luzes mais frias, as ruas mais escuras, como se Tayo tivesse perdido uma camada de tinta.
 
@@ -116,7 +122,7 @@ Velho-Sábio se virou para Banjo.
 
 – Mas eu não fiz nada! Foi a árvore que o curou.
 
-– A árvore ofereceu a força. Foi você que a passou para o seu irmão. Isso exige uma ligação e um controle que eu nunca vi em ninguém. – Sorriu. – Você é especial, Banjo.
+– A árvore não possuía magia, Banjo. Era viva, só isso. Você conduziu a energia dela para seu irmão. Foi a sua magia que fez as raízes se moverem. Isso exige uma ligação e um controle que eu nunca vi em ninguém. – Sorriu, com tristeza. – Você é especial, Banjo.
 
 Banjo ficou vermelho até as orelhas, mas o sorriso não veio inteiro. Esfregou a palma da mão, lembrando a aspereza da casca e os galhos secos. Bruno, ainda de cobertor nos ombros, levantou o copo.
 
@@ -129,6 +135,20 @@ Todos riram. Velho-Sábio esperou o riso passar.
 – Na reunião da Sociedade, você se ofereceu para ser a isca. Eu disse não, e diria de novo. – Velho-Sábio olhou para Bruno. – Mas entendi por que levantou a mão: queria proteger seus irmãos. Não precisa esconder isso atrás de uma piada.
 
 Bruno desviou o olhar. Mas um sorriso pequeno ficou nos cantos da boca, e demorou a sair.
+
+– Velho-Sábio... – Bruno coçou a nuca. – Por que o Garmande me deixou passar? Eu cheguei sem lárida. Ele tinha razão.
+
+– Tinha – respondeu o mago. – Você não cumpriu aquela regra. Mas entregou sua lárida ao Breno para que os outros chegassem e ficou sozinho enfrentando a criatura. Pedi a Garmande que levasse isso em conta. Ele aceitou rever sua avaliação, porque os desafios também medem coragem, controle e cooperação.
+
+– Então ele não teve pena de mim?
+
+– Deu a você uma chance de disputar a última prova, Bruno. Não uma aprovação automática. O resto você conquistou.
+
+Bruno ficou quieto por um instante.
+
+– Não conta pra ele, mas até que foi justo.
+
+Velho-Sábio sorriu e se virou para a caçula.
 
 – Beatriz.
 
@@ -233,7 +253,15 @@ Beker soltou uma risada que parecia de escárnio.
 
 – O que não impede os fatos. – Beker se inclinou para Lucan. – A Vigilância falhou: deixou um traidor em posição de confiança, mandou um capitão à morte, e conduziu uma operação que não capturou Korvo. Proponho uma reformulação completa da Central. Controle das notícias, para evitar pânico. Fechamento do Bazar do Oeste. E um pulso mais firme sobre a édion.
 
-Erla não se mexeu. Depois tirou o broche de vigilante da capa e o colocou sobre a mesa, com um som metálico que ecoou pela sala.
+Lucan olhou para os irmãos.
+
+– E ainda há a Árvore da Vigília. Vocês a destruíram. Ela estava de pé na Central havia séculos. Não tinha poder algum, mas era o símbolo da Vigilância. A mesma árvore que nossos homens carregam no uniforme. Agora está morta.
+
+– Foi para salvar a vida do Bruno! – protestou Beatriz.
+
+– Eu sei por que fizeram isso – respondeu Lucan. – Mas perdemos um capitão, descobrimos um traidor, Korvo fugiu e a Vigilância ficou sem o símbolo que a acompanhou por gerações. Tayo vai cobrar respostas.
+
+Erla não se mexeu. Depois tirou o broche em forma de árvore da capa e o colocou sobre a mesa, com um som metálico que ecoou pela sala.
 
 – Não será necessário. Eu renuncio.
 
