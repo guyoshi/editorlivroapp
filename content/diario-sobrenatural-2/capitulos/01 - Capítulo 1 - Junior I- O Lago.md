@@ -234,7 +234,7 @@ Pela primeira vez, aquela frase não me pareceu cinismo gratuito; era uma cicatr
 
 — Não é só você que não dorme. Às vezes eu saio e fico andando na rua, pensando. E hoje eu te vi sair sozinho.
 
-— Eu sei o quanto você sofreu — eu disse, e não era gentileza. Era verdade. — Eu li e reescrevi a sua parte no diário.
+— Eu sei o quanto você sofreu — eu disse, e não era gentileza. Era verdade. — Eu escrevi sobre você no meu diário. Mas só consegui contar o que vi. Sei que não chega perto de tudo que você passou.
 
 Jennifer me olhou com um cansaço que parecia antigo.
 
