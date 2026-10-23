@@ -473,9 +473,11 @@ Foi ele quem começou tudo.
 
 Quando ele saiu do porão, achando que tinha apagado a história, o Meu Senhor já estava lá. Alimentou-se das almas da minha família inteira: a da minha avó, a da minha mãe, a do meu pai, a do meu irmão, a minha. Cada uma virou um pedaço de poder, um demônio dos sentidos. Nossos Elos foram criados, objetos que nos prendiam ali e nos impediam de ir embora deste mundo.
 
-E, como prometeu, o Meu Senhor me deu “liberdade”. Eu podia controlar os animais. Podia deslizar pelos pensamentos das pessoas. Podia mexer naquilo que os humanos chamam de “consciência”. Em troca, virei serva. Um fantasma acorrentado a um demônio.
+E, como prometeu, o Meu Senhor me deu “liberdade”. Eu podia controlar os animais. Podia deslizar pelos pensamentos das pessoas. Podia mexer naquilo que os humanos chamam de “consciência”. Não era uma capacidade que tivesse nascido comigo. Entre os demônios dos sentidos, havia aquele que se agarrava à mente, e era por meio de mim que seu poder alcançava a cidade. Em troca, virei serva. Um fantasma acorrentado a um demônio.
 
-Passei décadas mexendo na mente dos moradores da cidade, apagando a casa da memória de todos. Os adultos podiam vê-la, até sair de lá feridos, mas eu empurrava a lembrança para outra explicação. Quando alguém começava a lembrar, eu fazia desviar. Esquecer. Trocar de assunto. Com crianças e adolescentes era mais difícil manter a mentira: alguns reconheciam o que tinham visto e voltavam, embora eu ainda pudesse alcançá-los pelos pais e pelos medos herdados.
+Passei décadas mexendo na mente dos moradores, apagando a casa da memória de todos. Os adultos podiam vê-la, até sair de lá feridos, mas eu empurrava a lembrança para outra explicação. Quando alguém começava a lembrar, eu fazia desviar. Esquecer. Trocar de assunto. Com crianças e adolescentes era mais difícil manter a mentira: alguns reconheciam o que tinham visto e voltavam, embora eu ainda pudesse alcançá-los pelos pais e pelos medos herdados. Não eram imunes. Eu é que nem sempre conseguia manter a mesma mentira na cabeça deles.
+
+O ursinho me prendia àquilo. Enquanto meu Elo permanecesse inteiro, o demônio podia usar minha consciência para confundir a dos outros. Se o elo se rompesse, esse domínio acabaria. Não significava que todos recuperariam de uma vez cada lembrança perdida. Significava que eu já não poderia continuar roubando as que restavam.
 
 A minha alma, entre todas as da casa, é uma das mais difíceis de controlar. Por isso às vezes eu escapo um pouco. Consigo avisar. Consigo ajudar. Foi assim que trouxe vocês para ver a verdade.
 

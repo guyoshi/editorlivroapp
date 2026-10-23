@@ -58,7 +58,7 @@ O jeito que ela respondeu não ajudou em nada.
 Aquela parte eu já suspeitava. Mas havia uma pergunta que não me deixava em paz desde a D. Maria Marques.
 
 – E por que nós lembramos das coisas e outras pessoas não? A D. Maria disse que você anotava tudo porque esquecia fácil. Ela também.
-– Adultos também veem, Jennifer. Alguns até sentem as garras na pele. O difícil é guardar o impossível depois: a lembrança se confunde, a pessoa chama de estresse ou sonho o que não consegue explicar. Anotar ajudava a mim e à Maria. Outros se agarram a um pacto, ou a uma desculpa. Vocês resistem melhor à confusão, mas não estão protegidos dela. É por isso que ainda conseguem enfrentar um demônio dentro de si sem se desfazer de vez. Por isso são mais valiosos. E, por isso, mais vulneráveis.
+– Adultos também veem, Jennifer. Alguns até sentem as garras na pele. O problema, nesta cidade, não está nos olhos. Há alguma coisa mexendo nas lembranças. A pessoa vê, se fere, volta para casa e, no dia seguinte, chama de estresse ou sonho aquilo que não consegue explicar. Anotar ajudava a mim e à Maria. Parece ser mais difícil confundir vocês, os mais jovens, mas não pense que estão protegidos. E não confunda isso com uma regra da idade. Uma coisa é o que um espírito consegue fazer com a cabeça das pessoas; outra é o que elas são capazes de ver.
 
 Ótimo. Ser “valiosa” para um demônio. Exatamente o tipo de elogio que eu queria.
 

@@ -21,7 +21,7 @@ A segunda-feira não foi normal. Normal, para mim, era passar a aula inteira em 
 – Entidade das Trevas – corrigiu Pedro, quase orgulhoso de usar o nome oficial.
 – Ela disse que precisamos destruir os Elos que prendem eles neste mundo – falei. – O que prende um espírito aqui?
 – Sei lá, talvez uma pessoa que eles amem muito – chutou Pedro.
-– Pode ser algo, como pode ser alguém – pensou Kelly em voz alta. – Vamos procurar sobre isso, e também entender por que nossa memória não é afetada. Vocês têm internet em casa?
+– Pode ser algo, como pode ser alguém – pensou Kelly em voz alta. – Vamos procurar sobre isso, e também entender por que a gente lembra do que os outros parecem esquecer. Vocês têm internet em casa?
 – Eu tenho – respondi.
 – Também – disse Junior.
 – Eu tenho na casa do Junior – completou Pedro.
