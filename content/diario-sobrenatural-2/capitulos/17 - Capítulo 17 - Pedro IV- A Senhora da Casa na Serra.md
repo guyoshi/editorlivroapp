@@ -400,7 +400,7 @@ A senhora arregalou ainda mais os olhos desfocados, pensativos.
 
 — O Agouro? — sussurrei em uma retórica. 
 
-— Azazel. O Agouro. — A senhora disse o nome devagar, como quem prova uma coisa azeda. — Eu perdi quase todos os meus amigos... inclusive a Sara. Minha melhor amiga... éramos, na verdade, mais do que amigas. Eu a amava. E por mais que demorasse, ela me correspondeu.
+— O Agouro. — A senhora disse o nome devagar, como quem prova uma coisa azeda. — Eu perdi quase todos os meus amigos... inclusive a Sara. Minha melhor amiga... éramos, na verdade, mais do que amigas. Eu a amava. E por mais que demorasse, ela me correspondeu.
 
 A chama da vela mais próxima encolheu um pouco, e a voz dela desceu junto.
 
@@ -408,7 +408,7 @@ A chama da vela mais próxima encolheu um pouco, e a voz dela desceu junto.
 
 Ela deixou o silêncio crescer. No canto, o pêndulo marcou três tiques e pareceu esperar.
 
-— Eu sentia tanta dor por perdê-la que gritei. Gritei para poder vê-la de novo com vida. E o mato inteiro ficou quieto, e do quieto ele surgiu. Azazel. Disse que poderia me ajudar, mas que em troca eu deveria dar o meu sangue. Eu aceitei, e milagrosamente Sara voltou à vida.
+— Eu sentia tanta dor por perdê-la que gritei. Gritei para poder vê-la de novo com vida. E o mato inteiro ficou quieto, e do quieto ele surgiu. O Agouro. Disse que poderia me ajudar, mas que em troca eu deveria dar o meu sangue. Eu aceitei, e milagrosamente Sara voltou à vida.
 
 Os passarinhos se mexeram nas gaiolas, todos de uma vez, e voltaram a dormir.
 

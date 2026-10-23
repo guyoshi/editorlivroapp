@@ -364,7 +364,7 @@ Ele assentiu.
 
 O velho abanou a cabeça, e o modo como ele fez isso não foi de discordância, foi de luto.
 
-— Não, vocês não o fizeram. Essas sombras vieram de algum lugar, e se o que diz for verdade, o Agouro é um dos sete principais demônios. Ele é um dos únicos que teria poder para trazê-los até aqui.
+— Não, vocês não o fizeram. Essas sombras vieram de algum lugar, e se o que diz for verdade, o Agouro é muito mais poderoso do que essas criaturas que rondam a cidade. Poucos teriam força para atraí-las até aqui.
 
 E foi então que o som veio.
 
@@ -408,7 +408,7 @@ Eu já sabia a resposta antes de perguntar, e mesmo assim perguntei.
 
 — O Agouro?
 
-— Em muitas histórias ele era chamado simplesmente de Azazel. A própria bíblia hebraica tem relatos dessa criatura há milênios. Seus mitos eram apenas histórias, trazidas por mentes que já tinham encontrado demônios mais fracos. Mas ele nunca caminhou entre nós. Não até o dia em que foi solto em Alvorada.
+— Ele já recebeu nomes que não pertencem a nenhuma língua que eu conheça. As histórias dos vivos misturaram essas criaturas a lendas e religiões antigas, mas nunca contaram a verdade toda. Eu o conheci como Agouro. E ele nunca tinha caminhado livremente entre nós. Não até aquele dia em Alvorada.
 
 Em Alvorada.
 
