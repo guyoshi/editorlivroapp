@@ -1,16 +1,20 @@
 
 
-Meu nome é Junior, mas isso pouco importa.
-Se este fosse um dos romances que eu invento, eu começaria descrevendo a minha aparência, meus dramas adolescentes e talvez um amor impossível. Mas este livro não é sobre mim.
+Abri o caderno de capa azul e fiquei olhando para a primeira página em branco. A cidade tinha voltado a fazer barulho do lado de fora: carros, crianças, uma televisão ligada na casa vizinha. Só eu parecia ter ficado preso naquela noite.
 
-É sobre a casa ao lado, sobre o que a gente viu e enfrentou e o que ninguém vai acreditar, e eu preciso contar antes que seja tarde demais.
+Meu nome é Junior. Sempre gostei de inventar histórias, mas dessa vez não havia nada para inventar. Eu precisava escrever o que tinha vivido, antes que a lembrança mudasse de forma ou que eu começasse a fingir que certas coisas não tinham acontecido.
+
+Escrevi duas palavras no alto da folha: *Diário Sobrenatural*.
 
 Ainda sinto o frio daquela noite. Às vezes, quando apago a luz do quarto, parece que a escuridão fica… olhando de volta. Cada sombra na parede é uma lembrança. E agora, pra completar, o Pedro já não está mais aqui. Às vezes ainda tenho vontade de pegar o telefone e chamar meu melhor amigo, como fazia antes. A Kelly também não está por perto, mas essa é outra história.
 
 Algumas pessoas vão embora de um jeito que a gente nunca consegue explicar direito.
 
+Encostei a ponta da caneta no papel e tentei decidir por onde começar. Não sabia o que tinha acontecido quando eu não estava presente, nem o que cada um guardara para si. Podia contar o que vi, o que descobri depois e, principalmente, o que fiz. Já era difícil o bastante.
+
 Tudo começou num domingo, pouco mais de uma semana antes do meu aniversário, em 2002.
-Acordei cedo, como sempre, e fui direto pro meu caderno de capa azul, todo rabiscado. Eu adorava escrever romances: mundos onde eu podia criar finais felizes, em que o bem vencia e ninguém saía ferido. (Quer dizer, os vilões saíam feridos, mas vilão não conta.) Como eu queria que este livro fosse só mais um desses. Mas não é.
+
+Naquela manhã, acordei cedo, como sempre, e fui direto pro meu caderno de capa azul, todo rabiscado. Eu adorava escrever romances: mundos onde eu podia criar finais felizes, em que o bem vencia e ninguém saía ferido. (Quer dizer, os vilões saíam feridos, mas vilão não conta.) Como eu queria que aquele ano tivesse sido só mais um desses. Mas não foi.
 
 Enquanto rabiscava umas ideias pro que seria o meu próximo “Capítulo 1”, algo chamou minha atenção pela janela.
 
