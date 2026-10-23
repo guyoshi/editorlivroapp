@@ -99,7 +99,7 @@ Os olhos dele estavam vermelhos, o rosto inchado, como se tivesse chorado mais d
 – Oi – falei.
 – Oi.
 
-Ele me estendeu dois cadernos grossos e uma pasta transparente cheia de folhas.
+Ele me estendeu um caderno grosso, envolto numa pasta transparente.
 
 – O que é isso?
 – Depois você lê. Vai saber o que fazer com isso.
@@ -126,29 +126,21 @@ Ele me olhou por alguns segundos. Havia nos olhos dele algo que eu nunca vira: �
 
 Virou as costas, cada passo um ponto final.
 
-Subi de novo e coloquei os diários e a pasta sobre a cama, como quem monta um altar. Por cima das folhas havia uma carta, com o nome do Pedro escrito. Abri e li:
+Subi de novo e tirei o caderno da pasta. Era o diário da Kelly. Reconheci o nome escrito na primeira página e parei um momento antes de continuar. Havia um bilhete curto dobrado na capa, dirigido a mim. A letra era da Priscila:
 
-“Tudo o que passamos vai deixar cicatrizes pro resto da vida.
-Estou te enviando esta carta junto ao diário da minha irmã e à descrição completa do Vinícius que a minha mãe colheu sobre o que aconteceu esses dias.
-Todos nós temos nossos pontos de vista e eu queria que você compartilhasse o seu.
-Quando escrever o que tem pra dizer, preciso que deixe tudo isso com a Jennifer.
-Ela vai saber o que fazer.
+“Jennifer,
+
+Eu não consigo ficar com o diário da Kelly agora. Pedi ao Pedro que levasse pra você antes de ir embora. Guarda por um tempo, por favor. Não quero perder mais nada dela.
 
 Priscila.”
 
-Abri o primeiro caderno. Era o diário da Kelly, com os registros dos últimos dias antes da mudança. O texto parava de repente, um dia antes de tudo desmoronar. O outro era da Priscila: os pensamentos dela, as versões dela, o jeito torto e vaidoso como via o mundo. As folhas soltas guardavam a descrição do Vinícius, apontamentos do Pedro, depoimentos e lembranças.
+Abri o diário. A Kelly tinha registrado os últimos dias antes da mudança e boa parte do que vivera em Vila Velha. Algumas páginas me faziam querer discutir com ela, como se pudesse ouvir a resposta. Outras mostravam uma menina bem diferente daquela que eu achava conhecer.
 
-Faltava alguém ali. Eu. Era o convite mais claro possível.
+Na contracapa havia uma folha dobrada. Do lado de fora, o nome do Junior. Eu não a abri. A Priscila também não devia ter conseguido.
 
-Peguei um caderno em branco e uma caneta, sentei na cama, respirei fundo e escrevi tudo o que lembrava desde o dia em que o bicho preto entrou na minha vida consciente. O buraco, os rostos tristes, a coleira no guarda-roupa da minha mãe, o sangue, o acidente, a casa, os gritos, a sensação de que a morte tinha endereço.
+Passei a noite acordada, pensando naquele caderno e no garoto que não conseguia olhar para ninguém desde a morte da Kelly. Junior sempre tinha escrito histórias. Talvez fosse a única maneira de conseguir contar a dele, sem esconder a parte que mais o machucava.
 
-Foram três dias escrevendo quase sem olhar o relógio. Quando terminei o último ponto final, minhas mãos doíam e os olhos ardiam. Passei as páginas devagar e notei algo estranho. Em algum momento, sem perceber, eu tinha continuado o diário da Kelly. Não com a minha voz, mas com a dela. Como se ela tivesse encostado a mão por cima da minha e escrito junto. Eu não sabia quando nem como as palavras vieram, só que vieram. E a letra, mesmo assim, era a minha.
-
-No fim havia um trecho endereçado a alguém.
-
-Olhei o conjunto: o diário da Kelly, o da Priscila, as folhas do Vinícius, os apontamentos ainda soltos do Pedro, a minha parte recém-acabada. E entendi o que fazer.
-
-Juntei as páginas com cuidado, como quem segura um corpo frágil. No dia seguinte dei bom dia ao meu pai, que tomava café olhando pela janela, e saí.
+Na manhã seguinte, dei bom dia ao meu pai, que tomava café olhando pela janela, coloquei o diário na pasta e saí.
 
 Fui até a rua da casa dos Marques. Parei diante do portão fechado, agora cercado de curiosidade alheia, polícia e boatos. Olhei as janelas escuras, as paredes que ainda pareciam sangrar lembranças.
 
@@ -212,32 +204,30 @@ Não disse mais nada. Havia coisas que nenhuma explicação podia consertar.
 
 Coloquei tudo no banco, entre nós.
 
-– Você precisa escrever sobre tudo isso, Junior. Esses diários têm a verdade dos últimos dias: a versão da Kelly, da Priscila, do Vinicius e a minha. Falta a sua. Se você escrever, isso pode contar a história de verdade. Pode até ajudar a inocentar o Vinicius.
+– Você precisa escrever sobre tudo isso, Junior. Do seu jeito. Eu sei que você gosta de inventar histórias, mas agora é a sua que está faltando. O que aconteceu com a Kelly, com você, com o Vini… Não precisa tentar contar o que não sabe. Só não deixa o que aconteceu desaparecer.
 
 Ele pegou o diário da Kelly e folheou. Reconheci o jeito dela ali: organizada, fria por fora, aos poucos amolecendo.
 
 – Você está me pedindo para escrever um livro.
-– Estou te pedindo para fazer o que você já faz. Só que agora com a nossa vida. Usa as anotações e escreve em nome de todos, sem esconder o que cada um fez.
+– Estou te pedindo para fazer o que você já faz. Só que sem inventar outro mundo pra fugir deste. Escreve o que você lembra, o que sentiu. Até o que você queria esquecer.
 – Por que eu deveria?
-– Vai para o final – falei, apontando com o queixo.
+– A Priscila encontrou uma coisa no final. — Apontei para a folha dobrada na contracapa. — Está com seu nome. Eu não li.
 
-Ele folheou até a última página, a que eu escrevi, mas que não era exatamente minha. Lá estava a mensagem:
+Junior desdobrou o papel devagar. A letra era da Kelly. Ele ficou um instante só olhando para ela, antes de começar a ler:
 
-“Desde aquele dia na escola em que te conheci, Junior, eu sabia que você ia ser importante pra mim.
+“Desde aquele dia na escola em que te conheci, Junior, você começou a ocupar um lugar na minha vida que eu não esperava.
 
-No começo, eu achei que ia te usar pra ter meu irmão de volta, porque eu nunca acreditei que fosse amar alguém de verdade.
+No começo, eu me aproximei de você pelo motivo errado. Eu achei que podia trazer meu irmão de volta e usei você pra tentar conseguir isso. Não sei nem como pedir desculpa por uma coisa dessas.
 
-Mas, no fim, eu não só te amei como te eternizei em mim.
+Mas eu me apaixonei de verdade. E tenho medo de que, depois de tudo, você nunca mais acredite em mim quando eu disser isso.
 
-Você conseguiu me fazer te amar, Junior. Pena que foi tarde demais.
+Eu queria ter te conhecido sem nenhum desses segredos. Queria que a gente tivesse tido mais tempo pra fazer coisas bobas, pra namorar sem pensar em nada, pra viver como qualquer casal da nossa idade.
 
-Mesmo que eu exista só na memória de alguns, só você vai se lembrar do que foi esse sentimento que a gente compartilhou por tão pouco tempo.
+Não sei o que vai acontecer quando tudo isso terminar. Talvez eu ainda consiga te dizer essas coisas olhando nos seus olhos. Se não conseguir, queria que soubesse: você me fez acreditar que eu ainda podia amar alguém.
 
-Você fez a minha existência valer a pena.
+Te amo, meu Pavãozinho.
 
-Te amo pra sempre,
-
-seu Pavãozinho.”
+Kelly.”
 
 As lágrimas dele caíram na página e borraram algumas letras. Ele apertou o diário contra o peito, como se quisesse impedir o mundo de arrancar aquelas palavras dele.
 
@@ -245,10 +235,28 @@ As lágrimas dele caíram na página e borraram algumas letras. Ele apertou o di
 
 Respirei fundo. Ali eu não podia mentir.
 
-– Porque você precisava ler a última página. E porque falta o que você viu naquela casa.
+– Porque você precisava ler o que ela mesma escreveu. E porque só você pode contar o que viveu naquela casa.
 
 Ele não respondeu. Ficou abraçado ao diário, chorando em silêncio. Pela primeira vez o choro dele não me irritou nem me deixou desconfortável. Era necessário.
 
 Sorri de leve, me levantei e saí da pracinha. Junior ficou no banco, com o diário da Kelly apertado contra o peito e o próprio caderno no colo.
 
 Quando olhei para trás, ele ainda estava ali, de cabeça baixa. Um brilho avermelhado atravessou por um instante a lente dos seus óculos. Pisquei, e o reflexo já tinha sumido. Continuei andando.
+
+---
+
+**Junior**
+
+Nos dias seguintes, voltei àquele caderno todas as noites. Não era como escrever meus romances. Neles, eu sabia o que os personagens precisavam fazer para chegar ao final. Naquele, eu sabia o que tinha acontecido e ainda assim não entendia como deixei chegar tão longe.
+
+Escrevi sobre a casa, sobre os Elos, sobre o medo de perder minha mãe. Escrevi o nome do Pedro e demorei antes de continuar. Tinha tanta coisa que eu queria dizer a ele e nenhuma que me parecesse suficiente. Quando cheguei à Kelly, a caneta parou mais vezes do que andou.
+
+Às vezes eu me lembrava de alguma coisa que alguém me contara. Anotava também, deixando claro o que eu tinha ouvido e o que tinha visto com meus próprios olhos. Não sabia todos os segredos de ninguém. E já tinha mentido o bastante pra mim mesmo para fingir que sabia.
+
+Na última página, escrevi o que aconteceu naquela noite. Não tirei meu nome de nenhuma parte. Depois fiquei olhando para a folha, esperando sentir que alguma coisa tinha terminado.
+
+Não senti.
+
+Fechei o caderno. Passei os dedos pelas duas palavras que havia escrito na capa: *Diário Sobrenatural*.
+
+Apaguei a luz da escrivaninha, mas deixei a do quarto acesa.

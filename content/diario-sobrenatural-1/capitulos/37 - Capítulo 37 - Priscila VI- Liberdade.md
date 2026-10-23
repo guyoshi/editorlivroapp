@@ -127,7 +127,7 @@ Saí e fui direto para a viatura da minha mãe, onde fiquei encarando os vidros 
 
 “Primeiro dia de aula. Conheci dois amigos, Junior (o magrinho) e Pedro (o mais gordinho). Estava indo pra casa quando um vira-lata preto começou a latir pra mim. Me assustei e corri atravessando a rua. Quando me dei por conta, um caminhão que quase havia me atropelado passou por cima do animal. Eu nunca vou conseguir esquecer essa cena horrorosa.”
 
-Fechei os olhos por um instante. Depois continuei folheando. Ela tinha escrito quase tudo: as coisas que vivemos nas últimas semanas estavam todas ali, em versões dela, com pensamentos que nunca me dissera. Passei a tarde lendo, parando só quando minha mãe veio com uma comida que recusei. Mais tarde ela me levou aos fundos da delegacia, onde havia um chuveiro, e tomei um banho longo, tentando tirar o sangue e o cheiro de fumaça da pele. A água descia quente, mas tudo dentro de mim continuava gelado. Quando enfim liberaram o corpo da Kelly, fomos ao cemitério.
+Fechei os olhos por um instante. Depois continuei folheando. Ela tinha escrito quase tudo: as coisas que vivemos nas últimas semanas estavam todas ali, em versões dela, com pensamentos que nunca me dissera. Presa à parte de trás do caderno, havia uma folha dobrada, com o nome do Junior escrito do lado de fora. Não abri. Havia coisas que eu não suportava descobrir naquele dia. Passei a tarde lendo, parando só quando minha mãe veio com uma comida que recusei. Mais tarde ela me levou aos fundos da delegacia, onde havia um chuveiro, e tomei um banho longo, tentando tirar o sangue e o cheiro de fumaça da pele. A água descia quente, mas tudo dentro de mim continuava gelado. Quando enfim liberaram o corpo da Kelly, fomos ao cemitério.
 
 
 

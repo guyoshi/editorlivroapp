@@ -302,7 +302,7 @@ As aranhas, os ratos e as baratas subiam pelo meu corpo, e eu só conseguia luta
 
 As mãos apertaram ainda mais. Eu não tinha força, física ou emocional, para tirá-la de cima de mim. Parte de mim pensou, por um segundo, que se eu morresse ali tudo acabaria: culpa, dor, decepção, perguntas.
 
-Mas, quando minha consciência começou a falhar, vi Pedro se levantando, tonto, e pegando o ursinho do chão. Ele saiu correndo. Kelly se virou para ele e gritou, me soltando, e o ar voltou aos meus pulmões num tranco doloroso. Sentei, tonto, a tempo de ver a chama azul envolvendo o ursinho na frente de Pedro. Os bichos se afastaram, como se algo os repelisse. Vinícius pegou a caixa e o isqueiro ao lado da pelúcia.
+Mas, quando minha consciência começou a falhar, vi Pedro se levantando, tonto, e pegando o ursinho do chão. Ele saiu correndo. Kelly se virou para ele e gritou, me soltando, e o ar voltou aos meus pulmões num tranco doloroso. Sentei, tonto, a tempo de ver a chama azul envolvendo o ursinho na frente de Pedro. Os bichos se afastaram, como se algo os repelisse. A pressão estranha dentro da minha cabeça cedeu. Ainda havia medo, dor e tudo o que eu não queria lembrar, mas já não sentia Ingrid empurrando imagens e sensações sobre mim. Vinícius pegou a caixa e o isqueiro ao lado da pelúcia.
 
 – VAMOS SAIR DAQUI! – gritou Pedro, levantando Kelly, que tinha apagado outra vez.
 
