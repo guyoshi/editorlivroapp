@@ -118,7 +118,7 @@ Bruno ergueu as duas mãos.
 
 O céu começava a escurecer quando Banjo avistou uma moita carregada de frutinhas coloridas, de cascas quase transparentes.
 
-– Frutos de luzíria! – exclamou, de olhos brilhando. – A gente comeu isso na casa de Velho-Sábio!
+– Frutos de luzíria! – exclamou, de olhos brilhando. – A gente comeu isso no refeitório do Edifício Arcano!
 
 – Aquela que bagunça as emoções? – desconfiou Bruno.
 
@@ -126,7 +126,7 @@ O céu começava a escurecer quando Banjo avistou uma moita carregada de frutinh
 
 Farol desceu do ombro, cheirou um dos frutos, torceu o focinho e espirrou uma faísca. Depois se sentou a um metro da moita, de costas, com a cauda enrolada nas patas, a imagem perfeita de quem avisou. Banjo, claro, não entendeu. Entregou uma fruta a cada irmão e mordeu a sua.
 
-Bruno suspirou, largando a fruta no chão.
+Bruno mordeu a fruta, fez uma careta e largou o resto no chão. Breno provou a sua com cautela.
 
 – Ugh. Isso aqui está chato. Eu estou chato. Vocês estão chatos. A viagem está chata. O mundo é chato.
 

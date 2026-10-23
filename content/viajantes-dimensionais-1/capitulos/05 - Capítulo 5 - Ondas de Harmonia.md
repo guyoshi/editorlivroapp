@@ -5,7 +5,7 @@ Os quatro irmãos se juntaram a uma mesa onde Eshley, Maria e Emiris já convers
 
 – Venham! – chamou Eshley, ajeitando a capa de estrelas. – Estou contando pra eles como foi que cheguei aqui.
 
-– Eu sou dimensal – disse ela, quando todos se sentaram. – Moro com a minha avó, em Niterói, no Brasil. Meus pais morreram quando eu era pequena. A vovó também foi chamada, há muito tempo, mas não passou nos desafios. Ela me ensinou tudo o que sabia sobre este mundo, bem baixinho, pra que eu nunca esquecesse. – Sorriu, com os olhos brilhando. – Estar aqui é o sonho dela. E o meu.
+– Moro com a minha avó, em Niterói, no Brasil – disse Eshley, quando todos se sentaram. – Meus pais morreram quando eu era pequena. A vovó também foi chamada, há muito tempo, mas não passou nos desafios. Ela me ensinou tudo o que sabia sobre este mundo, bem baixinho, pra que eu nunca esquecesse. – Sorriu, com os olhos brilhando. – Estar aqui é o sonho dela. E o meu.
 
 A mesa ficou em silêncio por um instante, e foi um silêncio bom, de quem respeita uma confissão. Maria pousou a mão no ombro da amiga.
 
@@ -21,7 +21,7 @@ Shirley chegou com a bandeja flutuando atrás dela, sentou ao lado de Eshley e o
 
 – Eu amo! – Banjo quase derrubou o copo. – Isso aqui parece uma história em quadrinhos de verdade!
 
-– Eu sei! Eu vim pra cá por causa disso. – Shirley juntou as mãos, empolgada. – Sou dimensal, de uma família de nerds. De Marvel a Star Wars, eu li tudo. E quando treino aqui, às vezes escuto o ritmo da magia, como uma música só nossa.
+– Eu sei! Eu vim pra cá por causa disso. – Shirley juntou as mãos, empolgada. – Minha família lá na Terra é cheia de nerds. De Marvel a Star Wars, eu li tudo. E quando treino aqui, às vezes escuto o ritmo da magia, como uma música só nossa.
 
 – Eu sempre achei que a magia devia ter uma batida! – disse Banjo. – Tipo uma energia que guia o corpo!
 
@@ -29,7 +29,7 @@ Shirley chegou com a bandeja flutuando atrás dela, sentou ao lado de Eshley e o
 
 Foi então que um garoto alto e magro, de chapéu laranja, sentou-se ao lado de Eshley sem pedir licença. Ela abaixou os olhos.
 
-– E aí, dimensais novos! Eu sou o Denis. Preparados pro desafio? Todo mundo aqui é concorrente, viu? Nada de amizade quando chegar a hora. – Sem esperar resposta, ele foi apontando com o garfo. – Aquela é a Isabelle, ela nunca toca em nada molhado, deve ser medo de água. O Khalil não fala com ninguém, tenho certeza de que veio de um lugar perigoso. O Yuri tem medo de tudo, vai ser o primeiro eliminado. E aqueles dois, o Kevin e a Yoko, vivem sussurrando. Tramando alguma coisa, com certeza.
+– E aí, os últimos a chegar! Eu sou o Denis. Preparados pro desafio? Todo mundo aqui é concorrente, viu? Nada de amizade quando chegar a hora. – Sem esperar resposta, ele foi apontando com o garfo. – Aquela é a Isabelle, ela nunca toca em nada molhado, deve ser medo de água. O Khalil não fala com ninguém, tenho certeza de que veio de um lugar perigoso. O Yuri tem medo de tudo, vai ser o primeiro eliminado. E aqueles dois, o Kevin e a Yoko, vivem sussurrando. Tramando alguma coisa, com certeza.
 
 Bruno olhou para Denis, meio impressionado, meio desconfiado. Era como assistir a um jornal da fofoca, com o apresentador sentado à mesa.
 
@@ -45,7 +45,7 @@ Brenda parou e olhou para Bruno de cima a baixo, com um sorriso debochado.
 
 Foi embora com a bandeja flutuando atrás dela, como um cachorrinho obediente. Bruno ficou olhando.
 
-– Ela é difícil – cochichou Emiris. – Brenda Koraveli, filha do Garmande. Não tem paciência com novatos.
+– Ela é difícil – cochichou Emiris. – Brenda Koraveli, filha do Garmande. Não tem paciência com quem ainda está aprendendo a se virar aqui.
 
 – Isso só deixa as coisas mais interessantes – resmungou Bruno.
 
@@ -59,7 +59,7 @@ E saiu rindo.
 
 – Então esse era o Cachorro? – perguntou Bruno ao mesmo tempo.
 
-– É. O maior fofoqueiro de Tayo – disse Shirley, com a boca cheia. – Discrição aqui é tudo, pra manter alianças. E ele é tudo menos discreto.
+– É. Chegou faz pouco e já quer ser o maior fofoqueiro de Tayo – disse Shirley, com a boca cheia. – Pena que não guarda segredo nenhum.
 
 Ninguém respondeu à pergunta de Banjo. Mas, por um instante, o nome ficou pairando sobre a mesa, e Eshley olhou para as próprias mãos.
 

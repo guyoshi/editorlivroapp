@@ -132,9 +132,9 @@ Breno sorriu de canto, relaxando pela primeira vez desde que chegaram.
 
 Velho-Sábio os levou a uma atendente alta, de cabelos prateados presos num coque elaborado e pele dourada. Usava um manto branco com bordados azul-claros que cintilavam, e dos brincos pendiam pequenas luzes que dançavam quando ela se mexia.
 
-– Auream, que prazer vê-lo – disse ela, com uma voz que parecia um sopro. – E estes são os novos?
+– Auream, que prazer vê-lo – disse ela, com uma voz que parecia um sopro. – E estes são os seus aprendizes?
 
-– São eles. Meus aprendizes, vindos da terceira dimensão. Breno, Bruno, Banjo e Beatriz.
+– São. Vieram da terceira dimensão: Breno, Bruno, Banjo e Beatriz.
 
 A atendente tocou algumas formas brilhantes no ar, e uma superfície espelhada se acendeu à frente dela.
 
@@ -158,57 +158,63 @@ Banjo olhou para os irmãos. Parecia que alguém tinha acabado de lhe contar um 
 
 Pegaram um corredor de paredes escuras e portas douradas, de onde vinham estalos baixos e contínuos, como se pequenas explosões estivessem sendo guardadas ali dentro. O elevador não tinha botões. Subiu sozinho, silencioso, numa luz de faixas que corriam pelas paredes, e quando as portas se abriram, mostrou um salão claro e vibrante, cheio de jovens.
 
-– Estes são os outros aprendizes – disse Velho-Sábio. – Alguns vieram de outras dimensões. Outros são filhos de senavelitas daqui. Eu volto mais tarde. Enturmem-se. 
+– Estes são os outros aprendizes – disse Velho-Sábio. – Alguns vieram de outras dimensões. Outros são filhos de senavelitas daqui. Eu volto mais tarde. Enturmem-se.
 
-E se afastou, deixando os quatro diante de uma plateia curiosa.
+Ele se afastou, e os quatro ficaram junto à porta, sem saber para que lado ir. Um garoto de cabelos cacheados e óculos grandes demais vinha na direção deles com dois copos nas mãos. Quase esbarrou em Banjo, mas conseguiu salvar os copos.
 
-Um garoto de cabelos cacheados e óculos grandes demais se aproximou, tropeçando um pouquinho.
+– Foi por pouco. Sou Emiris. Vocês acabaram de chegar, né?
 
-– Oi! Vocês são os novos, né? Eu sou o Emiris. Vocês são dimensais?
+– Dá pra perceber? – perguntou Breno.
 
-– Dimensais? – perguntou Beatriz se esquecendo do que significava isso.
+– Estão parados no único lugar por onde todo mundo passa. – Emiris sorriu e apontou para um espaço perto da janela. – Venham. Ali dá pra enxergar sem ser atropelado.
 
-– Vieram de outra dimensão. Tem bastante gente de lá aqui. O meu bisavô veio da terceira, aliás. Quase todo mundo em Belfex tem um parente de lá, se procurar bem.
+Banjo foi o primeiro a segui-lo. No caminho, Emiris perguntou se eles eram dimensais.
 
-Banjo e Beatriz trocaram um olhar. Era como descobrir que o mundo inteiro era uma grande casa de primos distantes.
+– Viemos da Terra – respondeu Beatriz.
 
-Uma garota de pele morena e cabelos castanhos e cacheados aproximou-se com um sorriso aberto, envolta numa capa verde-azulada bordada de estrelas e luas.
+– Então são. Meu bisavô veio de lá também.
 
-– Oiii... Eu sou a Eshley! De Niterói, no Brasil. Vocês já ouviram falar do dromodur? É uma criatura feita de sombra que rouba a voz de quem mente.
+– E você nunca foi pra lá? – perguntou Banjo.
 
-– A gente ainda não viu nenhum – respondeu Banjo, empolgado.
+– Não. Nem ele voltou. Mas vivia me contando como era a chuva de lá e os guarda-chuvas. – Emiris ajeitou os óculos. – Tenho certeza de que exagerava quando falava das enchentes.
 
-– Se depender do meu irmão, ele leva um pra casa – disse Bruno.
+Perto da janela, uma garota de pele morena e cabelos castanhos e cacheados abriu espaço entre os aprendizes. Sua capa verde-azulada, bordada de estrelas e luas, prendeu na quina de um banco. Ela puxou uma vez, sem sucesso.
 
-Ao lado dela, uma garota de cabelos escuros e ondulados, óculos redondos, olhos verde-oliva e uma capa verde, tímida, acenou com a mão.
+– Maria, me salva?
 
-– Essa é minha melhor amiga, a Maria – disse Eshley.
+A amiga, de cabelos escuros e ondulados, óculos redondos e olhos verde-oliva, soltou o tecido com cuidado. Usava uma capa verde e um colar com um cristal em forma de gota; a garota das estrelas trazia outro igual.
 
-– O-oi – disse Maria, baixinho. Usava um colar parecido com o de Eshley, com um pingente de cristal verde em forma de gota, que pulsava com uma luz fraca. 
+– Obrigada – a menina viu os irmãos, e se aproximou – Ei, oi. Eu sou a Eshley, e esta é a Maria – disse a primeira, já sorrindo para os irmãos. 
 
-– Belo colar! – elogiou Beatriz. 
+– Ahm, eu sou... Banjo – apresentou-se o garoto – e eles são...
 
-– Obrigada. Eu trouxe da terceira dimensão. Pra dar a alguém que quisesse ser minha amiga aqui. – Os olhos dela encontraram os de Beatriz. – Eu não tinha muitos amigos lá.
+– Bruno – apresentou-se o garoto – a pirralha é Beatriz e o cara-de-emburrado é o Breno. 
 
-– Ele é lindo! – disse Beatriz, e Maria sorriu de orelha a orelha.
+– É um prazer. São dimensais, também, não? Eu sou de Niterói! – Eshley abriu a boca para perguntar mais alguma coisa, mas Beatriz apontou para os colares.
 
-Foi aí que dois garotos mais altos se aproximaram, com sorrisos enviesados. Eram muito parecidos entre si, talvez gêmeos. 
+– Vocês combinaram?
 
-– Dimensais novos, hein? – disse um deles. – Vamos ver quanto tempo vocês duram.
+Maria tocou o pingente, que brilhou entre os dedos dela.
 
-– Pare de bancar o durão, Erick – cortou uma garota de rabo de cavalo ruivo-dourado e cacheado, de sardas no rosto e olhos azul-esverdeados, rindo. – Ele e o Nicolas apanharam do Ferris no último treino. Eu sou a Shirley. 
+– Eu trouxe os dois da Terra. Dei um pra Eshley quando a gente se conheceu.
 
-Os gêmeos fecharam a cara e se afastaram. Bruno os acompanhou com os olhos.
+– Ainda bem que ela tinha dois – disse Eshley. – Eu teria pedido o dela emprestado todos os dias.
 
-Mais ao fundo, uma garota de postura elegante observava tudo, sozinha.
+Maria riu baixinho. Beatriz se aproximou para ver o cristal, e Banjo começou a contar a Emiris como tinha sido a viagem de dassi. Não chegou ao fim: dois garotos mais altos pararam diante deles. Eram tão parecidos que Bruno olhou de um para o outro antes de decidir qual dos dois havia falado.
 
-– E quem é aquela? – perguntou Bruno, tentando parecer desinteressado.
+– Chegaram agora – disse o primeiro, com um sorriso enviesado. – Vamos ver quanto tempo duram.
 
-– A Brenda – cochichou Eshley. – O Cachorro disse que ela é meio metida.
+– Quatro de uma vez – disse o outro. – Talvez um chegue à última prova.
 
-– O Cachorro? Você conversa com um cachorro?
+O sorriso de Banjo sumiu. Breno deu um passo para perto dele, mas Bruno respondeu antes:
 
-– É um aprendiz – riu Eshley. – Você vai conhecer.
+– Vocês trabalham na recepção ou fazem isso de graça?
+
+– Estamos na mesma turma – retrucou o segundo garoto. – Só tivemos semanas a mais para treinar.
+
+– Pare de bancar o durão, Erick – disse uma garota de rabo de cavalo ruivo-dourado e cacheado, sardas e olhos azul-esverdeados. Ela se colocou ao lado de Beatriz. – Ele e o Nicolas apanharam do Ferris no último treino. Sou a Shirley, aliás.
+
+Erick fechou a cara. Nicolas o puxou pelo braço, sem tirar os olhos de Bruno, e os dois se afastaram. Eshley soltou o ar pelo nariz; Shirley deu de ombros, como se aquela cena já fosse conhecida. Mais ao fundo, uma garota de postura elegante observava o salão sozinha. Bruno percebeu que ela também tinha visto a discussão, mas ela desviou o olhar antes que ele pudesse sustentar o seu.
 
 Passos firmes ecoaram pelo salão. A porta principal se abriu e um homem alto, de manto com detalhes dourados, entrou. Os murmúrios morreram.
 
@@ -226,45 +232,81 @@ Os gêmeos se alinharam ao lado dele, e Bruno se inclinou para Emiris.
 
 – Quem? – perguntou Emiris, confuso.
 
-Bruno suspirou. Tinha esquecido de que estava em outra dimensão. Mas o olhar de McCroys tinha cruzado com o dele, e o homem inclinou a cabeça num aceno quase imperceptível. Bruno sentiu um arrepio.
+Bruno suspirou. Tinha esquecido de que estava em outra dimensão. Ao lado do novo tutor, os gêmeos ostentavam o mesmo sorriso com que tinham provocado Banjo.
 
-– Esses caras me parecem problema – murmurou para os irmãos.
+– Esses caras me parecem problema – murmurou para os irmãos. 
 
-Garmande apresentou os outros tutores, um por um, e ao final McCroys se retirou com os gêmeos, deixando no ar uma sensação gelada.
+Garmande apresentou os outros tutores, um por um. Quando terminou, os aprendizes começaram a conversar de novo, e McCroys saiu com os gêmeos.
 
-Mais tarde, na hora do almoço, os aprendizes se espalharam pelo terraço, entre mesas compridas e risadas. Banjo, com um prato na mão, procurava onde sentar quando viu McCroys. Ele estava sozinho, numa ponta da mesa mais distante, mastigando um pedaço de pão. Ninguém se sentava perto dele. Um passarinho de penas azuis pousou no cotovelo do mago, e McCroys, sem olhar, partiu um pedacinho do pão e o deixou no tampo da mesa.
+Mais tarde, no terraço do refeitório, Emiris chamou os irmãos para uma mesa onde Eshley, Maria e Shirley já almoçavam. Entre os pratos havia uma tigela de frutinhas que brilhavam como pequenas lanternas.
 
-Banjo piscou. Achou aquilo estranho e, ao mesmo tempo, quase bonito. Então Emiris chamou, e ele esqueceu.
+– A Shirley também veio da Terra? – perguntou Beatriz.
+
+– Nós três, sim – disse Eshley. – Emiris nasceu aqui.
+
+– E já conseguiu se perder neste prédio duas vezes – acrescentou Maria.
+
+– Uma – corrigiu Emiris. – Na outra, o elevador parou no andar errado.
+
+– E você achou que era o certo por uns dez minutos – disse Shirley.
+
+– Mas vocês já passaram pelos desafios? – perguntou Beatriz.
+
+– Nós três ainda vamos fazer os primeiros – disse Maria. – Eu cheguei algumas semanas antes de vocês, só isso.
+
+– Vocês chegaram por pouco – acrescentou Shirley. – O primeiro desafio já está perto. Se aparecessem depois dele, teriam de esperar a turma do ano que vem.
+
+Emiris apontou para a tigela de frutas, mudando de assunto. Eshley a empurrou para o meio da mesa.
+
+– Luzírias – disse Eshley, passando a tigela. – Cada cor mexe com uma emoção. Passa logo, eu prometo.
+
+– Você prometeu isso da última vez também – disse Maria.
+
+– E passou, não passou?
+
+Maria pegou uma verde. Logo todos tinham escolhido uma. Banjo e Eshley morderam as amarelas quase juntos, e os demais os imitaram. Eshley começou a rir primeiro; Banjo olhou para ela e não conseguiu perguntar do quê, porque já estava rindo também.
+
+Beatriz, que mordera uma vermelha, esperou que ele recuperasse o fôlego. Quando Banjo riu de novo, ela empurrou a cadeira para trás, zangada.
+
+– Você pode fazer isso mais longe do meu ouvido?
+
+– Eu nem cheguei perto – disse Banjo.
+
+– Pois agora chegou.
+
+Shirley, que também provara uma vermelha, afastou discretamente o próprio prato da borda da mesa. Beatriz a viu e afastou o seu mais ainda. As duas trocaram um olhar comprido, mas nenhuma disse nada.
+
+Bruno havia pegado uma azul-acinzentada, apesar de Eshley ter sugerido outra cor. Parou com um pedaço de pão entre os dedos e o contemplou como se tivesse feito alguma coisa irreparável ao parti-lo, uma tristeza no olhar. Emiris, que escolhera a mesma cor, pousou os óculos na mesa e ficou olhando através deles.
+
+– Ele vai ficar bem? – perguntou Breno, apontando para Bruno. Sua fruta verde o deixara com um sorriso que aparecia mesmo quando tentava escondê-lo.
+
+– Os dois vão – disse Maria. Ela também mordera uma verde e, pela primeira vez desde que se conheceram, falou sem baixar os olhos. – Emiris, põe os óculos. Você está olhando para o lado errado.
+
+Emiris obedeceu. Banjo precisou apoiar a testa na mesa. Quando o riso foi cedendo, Beatriz puxou a cadeira de volta, Bruno comeu o pão e Breno percebeu que ainda sorria. Eshley recolheu os caroços antes que alguém resolvesse provar outra.
+
+Bruno acompanhou com os olhos uma garota de postura elegante que atravessava o terraço sozinha. Era a mesma que os observara no salão.
+
+– Aquela é a Brenda – cochichou Eshley. – O Cachorro disse que ela é meio metida.
+
+– O Cachorro? Você conversa com um cachorro?
+
+– É um aprendiz – disse Eshley. – Você vai conhecer.
+
+– E o McCroys? – perguntou Bruno. – Os gêmeos saíram com ele. Alguém sabe o que fazem juntos?
+
+– Os gêmeos são aprendizes dele. O Cachorro jura que viu os três saindo de uma sala de treino depois que o Edifício fechou – disse Eshley. – Ninguém sabe o que fazem lá.
+
+– Isso quer dizer que o Cachorro também estava por aqui depois do edifício fechar, certo? – observou Emiris.
+
+Bruno olhou para a mesa mais distante. McCroys almoçava sozinho; ninguém se sentava perto dele. Um passarinho de penas azuis pousou no cotovelo do mago. Sem olhar para a ave, McCroys partiu um pedacinho do próprio pão e o deixou sobre a mesa. Então ergueu os olhos e encontrou os de Bruno. Sustentou o olhar por um instante, imóvel. Bruno baixou a cabeça para o prato com a sensação de que o homem tinha ouvido a conversa inteira.
+
+Depois do almoço, Velho-Sábio os levou a uma galeria acima das salas de treino. Lá embaixo, aprendizes mais adiantados passavam uma fita de água pelo ar, de mão em mão, sem deixar cair uma gota. A fita se rompeu quando chegou à última garota. Ela enxugou o rosto com a manga, respirou fundo e recomeçou; os outros esperaram por ela.
+
+Banjo se inclinou sobre o parapeito para ver melhor, e Breno o puxou pela gola. Bruno abriu a boca como se fosse comentar alguma coisa, mas a fita voltou a subir e ele ficou olhando. Os irmãos passaram o resto da tarde conhecendo o Edifício Arcano. Quando saíram, o sol já descia entre as torres de Tayo. Pegaram o dassi de volta; dessa vez, Banjo mal teve forças para apontar as criaturas que cruzavam o céu. Desceram perto da casa de Velho-Sábio, onde Coronel veio recebê-los à porta, farejando as roupas de cada um.
 
 Quando o relógio de estrelas formou os números do jantar no teto da casa, os irmãos chegaram à mesa com os pés doloridos e as cabeças cheias de cores.
 
-Sobre a mesa havia uma sopa dourada com folhinhas prateadas que cintilavam, um pão de casca macia e miolo crocante, levemente picante, e uma tigela de frutinhas coloridas que brilhavam como pequenas lanternas.
-
-– Luzíria – disse Velho-Sábio, com um sorriso intrigante. – Cada fruta traz uma emoção. Escolham uma e experimentem.
-
-Um a um, pegaram. Banjo foi o primeiro. A fruta dele brilhava amarelo, e assim que ele mordeu, começou a rir. Uma risada que subia do estômago e ia contagiando a mesa.
-
-– Isso é... isso é incrível! – conseguiu dizer.
-
-A fruta de Beatriz era vermelha. Ela mordeu e, em dois segundos, estava de cara fechada, punhos cerrados, olhos faiscando.
-
-– Por que eu tô tão irritada?! – disse, com a voz um pouco quente demais. Banjo riu ainda mais, o que só piorou. Uma luz vermelha pulsou no teto.
-
-Bruno revirou os olhos e mordeu a dele, azul-acinzentada. Os ombros caíram. O olhar foi para a janela.
-
-– Então... acho que isso é tristeza – murmurou, olhando os pedaços como se cada um contasse uma história.
-
-Por último, Breno provou uma verde. Uma alegria leve e sem motivo subiu pelo peito, e ele sorriu de um jeito largo e relaxado, que nenhum dos irmãos via havia muito tempo.
-
-– Nunca me senti assim, tão... feliz à toa.
-
-Velho-Sábio observava tudo com os olhos brilhando.
-
-– Às vezes a gente esquece de sentir uma emoção. A luzíria lembra.
-
-– Pois a próxima emoção que eu quero é calma – disse Beatriz, com os dentes cerrados. – Me passa mais uma dessas!
-
-Os irmãos explodiram em gargalhadas. Até Bruno, com a tristeza de fruta ainda no rosto, sorriu e teve que se virar. Coronel latiu debaixo da mesa, sem saber do que se tratava, mas feliz por participar.
+Sobre a mesa havia uma sopa dourada com folhinhas prateadas que cintilavam e um pão de casca macia e miolo crocante, levemente picante. Banjo tentou mostrar com as mãos como a fita de água atravessara a sala de treino. Na segunda curva, quase derrubou a sopa de Beatriz. Ela segurou a tigela antes que tombasse, e ele terminou a história com as mãos debaixo da mesa. Coronel aguardava por algum acidente mais proveitoso.
 
 Foi quando Velho-Sábio olhou para eles com uma ternura quase casual.
 
@@ -289,18 +331,26 @@ responde com a luz que o escuro não consome.
 Há sempre uma janela acesa no caminho:
 ninguém atravessa a noite sozinho."
 
-A melodia deslizou pela sala como uma brisa morna. Breno sentiu os ombros se soltarem. Beatriz fechou os olhos, com um meio sorriso. Banjo apoiou o queixo na mesa, hipnotizado. Até Bruno, que tinha começado a noite fazendo piada, ouvia em silêncio, com os olhos grudados no velho.
+A melodia deslizou pela sala como uma brisa morna. Breno sentiu os ombros se soltarem. Beatriz fechou os olhos, com um meio sorriso, e abriu devagar os dedos aquecidos. Banjo apoiou o queixo na mesa, hipnotizado; quando uma luz passou perto de sua mão, sentiu um formigamento que permaneceu mesmo depois que ela se afastou. Até Bruno ouvia em silêncio, com os olhos grudados no velho.
 
 Quando a canção acabou, o silêncio caiu como um cobertor. As luzinhas ficaram um tempo paradas no ar e depois subiram, uma a uma, até o teto, onde se encaixaram entre as estrelas.
 
-– O que é isso que a gente tem? – perguntou Banjo, num fio de voz. – Essa... coisa.
+Banjo olhou para a palma da mão.
 
-– Magia – respondeu Velho-Sábio. – Cada um de vocês vai descobrir o próprio jeito de usá-la. – Ele sorriu. – Mas isso a gente aprende devagar. Primeiro, comam.
+– De manhã, no espelho, ouvi aquele sussurro. Agora minha mão formigou quando o senhor cantou. O que foi aquilo?
 
-Comeram. Foi o jantar mais comprido da vida deles, com mais risos do que palavras. Mais tarde, no quarto, Beatriz encostou a testa na janela. Lá fora, a noite de Belfex tinha uma lua só, grande e quase dourada, e a cidade respirava luz.
+– Eu senti um calor também – disse Beatriz, abrindo os dedos outra vez.
+
+– Foi a magia de vocês – disse Velho-Sábio. – Eu conduzi as luzes, mas não pus esse calor nem esse formigamento em ninguém. A magia já estava aí; o estírio a despertou. Nem sempre ela aparece como um clarão. Às vezes vem como um som, um arrepio, alguma coisa que muda no corpo antes de ganhar forma no mundo.
+
+– E como a gente faz isso de novo? – perguntou Banjo.
+
+– Primeiro, aprendendo a reconhecer quando acontece. Depois, a conduzir sem forçar. É natural, mas leva tempo. – Velho-Sábio sorriu e empurrou a cesta de pão para o meio da mesa. – Amanhã começamos. Por hoje, terminem de comer.
+
+Voltaram a comer. Foi o jantar mais comprido da vida deles, com mais risos do que palavras. Mais tarde, no quarto, Beatriz encostou a testa na janela. Lá fora, a noite de Belfex tinha uma lua só, grande e quase dourada, e a cidade respirava luz.
 
 – Você viu o teto? – cochichou Banjo, deitado de barriga para cima. – As luzinhas da canção ficaram lá.
 
-Era verdade. Entre as constelações, quatro estrelas novas brilhavam bem juntinhas, e nenhum dos irmãos as reconhecia de manhã. Breno olhou para elas por um bom tempo. Depois olhou para a mesinha ao lado da cama. O rádio do pai ainda estava morno.
+Era verdade. Entre as constelações, quatro estrelas novas brilhavam bem juntinhas, e nenhum dos irmãos as reconhecia de manhã. Breno olhou para elas por um bom tempo. Depois olhou para o rádio do pai na mesinha ao lado da cama. 
 
 Quando enfim adormeceu, não sonhou com nada.
