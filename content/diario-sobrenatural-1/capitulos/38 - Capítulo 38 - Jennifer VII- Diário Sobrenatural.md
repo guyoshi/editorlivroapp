@@ -144,6 +144,10 @@ Na manhã seguinte, dei bom dia ao meu pai, que tomava café olhando pela janela
 
 Fui até a rua da casa dos Marques. Parei diante do portão fechado, agora cercado de curiosidade alheia, polícia e boatos. Olhei as janelas escuras, as paredes que ainda pareciam sangrar lembranças.
 
+Dois vizinhos conversavam junto ao muro. Um deles apontou para a janela de cima e disse que se lembrava de uma menina olhando para a rua, muitos anos antes. A mulher ao lado assentiu: também a tinha visto, mas, toda vez que tentava contar a alguém, acabava convencida de que sonhara. Agora os dois discutiam datas, tentando recuperar detalhes. Não parecia que a memória tivesse voltado inteira. Parecia que alguma coisa tinha parado de empurrá-la para longe.
+
+Pensei em Ingrid. No ursinho que tinha queimado. Ela já não podia fazer aquilo com a cabeça de ninguém.
+
 – Estão todos livres agora – murmurei.
 
 E estavam, eu podia sentir. Dezenas de olhos me olhavam dos cantos da rua, não brancos e vazios como antes, mas calmos. Gente que finalmente tinha deixado de ser coisa. Os rostos tristes que sempre me acompanharam pareciam menos pesados. Alguns até tinham algo parecido com um sorriso.
