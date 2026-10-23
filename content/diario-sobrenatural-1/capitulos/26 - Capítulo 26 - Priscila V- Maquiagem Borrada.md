@@ -237,7 +237,7 @@ Meus pais nos levaram até a escola, que já estava cheia, com “Everybody Want
 – Uou, resolveu tomar banho, é?
 – Adiantei o de sábado, meu anjo.
 – Por favor, não me chama de “meu anjo”.
-– Relaxe. Lúcifer era um anjo também, e também era meio malvado que nem você. O que tem nesse copo? – antes que eu perguntasse, ele encostou perto do meu ouvido: – Se você experimentar, descobre.
+– Relaxe. Até anjo tem cara de santo e faz besteira, imagina você. O que tem nesse copo? – antes que eu perguntasse, ele encostou perto do meu ouvido: – Se você experimentar, descobre.
 
 Bebi um gole. Vodka com refrigerante. Ardeu, mas desceu.
 

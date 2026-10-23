@@ -31,7 +31,7 @@ Ouvimos um galho se partindo à esquerda.
 
 – Ouviu isso?
 
-– Aham. É Lúcifer querendo puxar a gente pra baixo – murmurou Pedro.
+– Aham. É o capeta querendo puxar a gente pra baixo – murmurou Pedro.
 
 Esperamos. Nenhum outro som, só a chuva, o vento e a minha respiração acelerada. Seguimos floresta adentro, chamando a Kelly de tempos em tempos. O frio aumentava, e eu me arrependia de não ter trazido casaco.
 
