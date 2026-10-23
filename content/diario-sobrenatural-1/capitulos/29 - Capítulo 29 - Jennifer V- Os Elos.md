@@ -45,7 +45,7 @@ A palavra ficou suspensa entre nós. Morte.
 – A senhora não queria que eu me matasse? – perguntei, sem rodeios.
 – Eu não disse isso – respondeu, num tom neutro demais para o assunto. – Não tenho razão nenhuma para te impedir de fazer o que quiser. Mas existe algo aqui, como você já sabe, que nos prende entre a vida e a morte e não nos deixa ir embora.
 – Essa coisa é a força?
-– Ele tem muitos nomes – disse, e o jeito como falou “ele” me deu arrepios. – O mais antigo é Azazel. Aqui, os mortos o chamam de Agouro. É ele quem comanda os outros, e tem planos para os vivos e para os mortos. É ele que anda te visitando nos sonhos, Jennifer, por todos esses anos. Tem planos para você.
+– Ele tem muitos nomes – disse, e o jeito como falou “ele” me deu arrepios. – Não sei qual foi o primeiro. Aqui, os mortos o chamam de Agouro. É ele quem comanda os outros, e tem planos para os vivos e para os mortos. É ele que anda te visitando nos sonhos, Jennifer, por todos esses anos. Tem planos para você.
 – Então esse demônio é o mesmo Bicho Preto dos meus pesadelos de infância?
 – Sim e não.
 
@@ -53,7 +53,7 @@ O jeito que ela respondeu não ajudou em nada.
 
 – O Agouro raramente aparece diretamente. Usa outros demônios para controlar os mortos e manipular a mente dos vivos. É mais seguro assim para ele, e mais cruel para nós.
 – E o que ele quer, exatamente?
-– Abrir uma porta entre o mundo inferior e o mundo de vocês – disse, como se falasse de uma reforma de casa. – Para que outros demônios subam. E está muito perto de conseguir. Todo demônio precisa de um canal para agir, e Azazel procura uma alma viva capaz de abrir essa passagem. Não é qualquer alma que serve. Também não serve uma já comprometida com ele em outro pacto, nem uma que ele tomou à força. Precisa que a pessoa aceite se entregar por vontade própria. Os demônios dos sentidos lhe dão poder para alcançar os vivos, mas não substituem essa escolha.
+– Abrir uma porta entre o mundo inferior e o mundo de vocês – disse, como se falasse de uma reforma de casa. – Para que outros demônios subam. E está muito perto de conseguir. Todo demônio precisa de um canal para agir, e Agouro procura uma alma viva capaz de abrir essa passagem. Não é qualquer alma que serve. Também não serve uma já comprometida com ele em outro pacto, nem uma que ele tomou à força. Precisa que a pessoa aceite se entregar por vontade própria. Os demônios dos sentidos lhe dão poder para alcançar os vivos, mas não substituem essa escolha.
 
 Aquela parte eu já suspeitava. Mas havia uma pergunta que não me deixava em paz desde a D. Maria Marques.
 
@@ -63,7 +63,7 @@ Aquela parte eu já suspeitava. Mas havia uma pergunta que não me deixava em pa
 Ótimo. Ser “valiosa” para um demônio. Exatamente o tipo de elogio que eu queria.
 
 – E por que ele decidiu agir agora? Essa cidade está cheia de adolescentes há anos.
-– Azazel está mais fraco do que já foi – respondeu Luiza. – Precisa ter certeza de que qualquer energia que gastar vai valer a pena, senão sucumbe. Por muito tempo se limitou à casa dos Marques e a pequenas manipulações pela cidade, colhendo almas e estudando mentes. – Olhou para a lareira. – Recentemente sentiu algo diferente, uma alma viva com algo que as outras não tinham. Talvez fosse a chave do plano dele. Não sei se já a encontrou, mas isso bastou para que começasse a procurar.
+– Agouro está mais fraco do que já foi – respondeu Luiza. – Precisa ter certeza de que qualquer energia que gastar vai valer a pena, senão sucumbe. Por muito tempo se limitou à casa dos Marques e a pequenas manipulações pela cidade, colhendo almas e estudando mentes. – Olhou para a lareira. – Recentemente sentiu algo diferente, uma alma viva com algo que as outras não tinham. Talvez fosse a chave do plano dele. Não sei se já a encontrou, mas isso bastou para que começasse a procurar.
 – Então um de nós é a chave – concluí. – E se ele já sabe quem é, por que não nos leva simplesmente? Todos nós já entramos naquela casa pelo menos uma vez.
 – Para a porta ser aberta, a entrega precisa ser voluntária. A pessoa viva tem que aceitar o acordo com o Agouro. Entregar outra pessoa, ou matá-la, não faz essa escolha por ela.
 – E se ele entrar na cabeça de alguém? – perguntei. – Já vimos isso acontecer.
@@ -89,7 +89,7 @@ Abri a boca e fechei de novo. Não tinha pensado nessa parte.
 
 Soltei uma risada fraca, quase ridícula, porque era mais fácil rir do que admitir que ela tinha razão.
 
-– Para destruir os elos que sustentam o Agouro aqui, você precisa cobri-los com as cinzas do próprio Azazel. Pouco pó basta, se tocar o objeto. E então… – fez uma pausa – …o fogo liberta.
+– Para destruir os elos que sustentam o Agouro aqui, você precisa cobri-los com as cinzas do próprio Agouro. Pouco pó basta, se tocar o objeto. E então… – fez uma pausa – …o fogo liberta.
 
 A frase acendeu outra coisa na minha memória. A D. Maria comentara que alguém dissera as mesmas palavras.
 
@@ -126,7 +126,7 @@ No mesmo instante a lareira se apagou. O calor sumiu como se alguém tivesse pux
 
 Gritei e caí para trás. Estava de volta à minha cama, as pernas dobradas, o coração disparado, o corpo todo tremendo como depois de uma maratona no gelo. Só que o frio ainda estava lá. Ao mexer a perna, senti algo gelado no lençol. Neve. Passei os dedos pelos cabelos, úmidos e frios, e fiquei um bom tempo olhando para a palma da mão.
 
-Levantei num pulo, fui direto ao computador, liguei o monitor, esperei a CPU engatar e abri o navegador. Digitei “Azazel” na busca e apareceram páginas e mais páginas de textos esquisitos, teorias e fóruns estranhos, um deles dizendo que Azazel estava ligado ao pecado da Ira, o que fez sentido de um jeito torto. Depois pesquisei “Agouro demônio”, e os resultados foram mais específicos. Abri um texto que parecia mais completo:
+Levantei num pulo, fui direto ao computador, liguei o monitor, esperei a CPU engatar e abri o navegador. Pesquisei “demônios dos sentidos” e encontrei textos esquisitos, teorias e fóruns antigos. Vários misturavam crenças diferentes, sem chegar a um nome que eu pudesse reconhecer. Digitei também “Agouro demônio”, mas o pouco que apareceu era ainda mais confuso. Abri uma discussão que parecia trazer alguma coisa útil:
 
 O texto misturava lendas sobre demônios dos sentidos, espíritos presos e uma alma viva capaz de abrir uma passagem por vontade própria. Parecia repetir Luiza, quase palavra por palavra. Não sabia se aquilo era uma confirmação ou só mais uma história de internet. Mais abaixo havia imagens, algumas do diabo clássico de sempre, com chifres, cauda e pele vermelha, e uma que chamou minha atenção, um rascunho a lápis de uma criatura negra e sem rosto. Algo naquele desenho mexeu comigo de forma nojenta. Era a sombra dos meus sonhos, só que, no desenho, os olhos eram vermelhos, e os meus pesadelos preferiam branco. Branco demais. O ar ao redor ficou frio outra vez e ouvi aquele sussurro arranhado que já conhecia, então puxei o fio da tomada e desliguei o computador no susto, corri para a cama e me enfiei debaixo das cobertas, como se isso impedisse algum demônio do Apocalipse. O quarto ficou em silêncio, só a minha respiração nervosa e o relógio.
 
@@ -192,7 +192,7 @@ Junior suspirou. Os olhos dele estavam vermelhos, como se não tivesse dormido o
 
 – Descobri o que são os Elos e como destruir.
 
-Descemos para o pátio enquanto eu contava tudo: a floresta de neve, Luiza, Azazel, as cinzas, o Agouro, o nome do eletricista, a coleira no guarda-roupa da minha mãe.
+Descemos para o pátio enquanto eu contava tudo: a floresta de neve, Luiza, Agouro, as cinzas, o Agouro, o nome do eletricista, a coleira no guarda-roupa da minha mãe.
 
 – Então pode ser que o Alex saiba onde estão os outros Elos – concluiu Junior, segurando a coleira.
 – Não são só coleiras. Cada Elo é um objeto que pertenceu a um dos espíritos, e a coleira é do Ibliso. Mas você pode estar certo numa coisa: se o Alex colocou essa na minha casa, sabia o que fazia. Talvez porque soubesse que eu podia descobrir como destruí-la.
