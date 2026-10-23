@@ -154,6 +154,8 @@ A Manu olhou para os chinelos e sorriu. Um sorriso pequeno, agradecido demais pa
 
 Ela assentiu e calçou. Eu corri até a cozinha e peguei a chave do carro da minha mãe, que ficava pendurada ao lado da geladeira como se a casa fosse segura.
 
+Antes de sair, subi ao quarto e peguei uma mochila pequena. Enfiei nela o diário que tinha começado depois da morte da Kelly. Fazia tempo que eu terminara de contar aqueles dias, mas ainda abria o caderno quando precisava lembrar exatamente do que tinha acontecido. Não sei por que decidi levá-lo para uma viagem que, em teoria, acabaria naquela mesma tarde. Talvez porque a Manu tivesse dito o nome dela.
+
 Saímos.
 
 O carro estava ali, silencioso, como um cúmplice. Destranquei.
@@ -252,7 +254,7 @@ Eu travei.
 
 Pisei no freio com força, perdi a direção por um segundo e o carro deslizou na terra antes de parar. O motor morreu.
 
-Era um homem velho. Chapéu de vaqueiro. Barba falha. Roupa simples. Um rosto que carregava tempo e cansaço. A Manu estava tão assustada quanto eu. Eu soltei o cinto com a perna trémula e saí do carro.
+Era um homem velho. Chapéu de vaqueiro. Barba falha. Roupa simples. Um rosto que carregava tempo e cansaço. A Manu estava tão assustada quanto eu. Eu soltei o cinto com a perna trémula, puxei a mochila para o ombro e saí do carro.
 
 — Vocês não podem continuar — disse ele.
 

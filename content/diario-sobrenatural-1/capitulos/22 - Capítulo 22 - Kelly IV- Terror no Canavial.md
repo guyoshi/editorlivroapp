@@ -344,7 +344,7 @@ Olhei melhor e vi o que ela vira. Eles pareciam confusos, desconfortáveis com a
 
 – Lembra o que a Maria Marques falou – continuou Pri, baixo. – As pessoas que essa força…
 – Entidade das trevas – corrigiu Pedro, no automático.
-– …que essa coisa controla não conseguem ver ou entender o que acontece. E ela não quer que a gente se afaste. Então vamos voltar pra dentro.
+– …que essa coisa controla podem até ver, mas não entendem direito o que acontece. Depois parece que esquecem. E ela não quer que a gente se afaste. Então vamos voltar pra dentro.
 
 Assenti. Era uma prisão perfeita: pais como guardas, casa como cela. Olhei para os três, Junior, Pedro e Jennifer, e senti um aperto no peito.
 
