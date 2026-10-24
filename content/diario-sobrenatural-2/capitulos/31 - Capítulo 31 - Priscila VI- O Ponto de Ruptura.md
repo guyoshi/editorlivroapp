@@ -504,6 +504,8 @@ Olhei. No meio das chamas, onde a porta de serviço tinha sido, uma mancha escur
 
 — Eu não sei — a Jennifer respondeu, e a testa dela se franziu como quem olha um lugar longe. — Ele me quis aqui. Longe de alguma coisa. Eu senti. — Balançou a cabeça. — Eu não sei de quê.
 
+No fundo do corredor, a mancha escura parou de avançar por um instante. Depois voltou a se arrastar na nossa direção.
+
 Eu estava ajoelhada de frente para ela e tinha começado a entender onde ia dar.
 
 — O fio — eu disse.
