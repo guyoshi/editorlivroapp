@@ -358,13 +358,17 @@ Ele assentiu.
 
 — E o que é? — a Manu perguntou.
 
-— Eu não faço ideia. Mas agora tudo faz sentido. O Agouro estar de volta explica as sombras surgirem.
+— Eu não faço ideia. Mas agora tudo faz sentido. Varkhel estar de volta explica as sombras surgirem.
+
+— Varkhel? — perguntei.
+
+— É o nome pelo qual eu o conheci. O mesmo demônio que você chama de Agouro.
 
 — O Agouro não está mais aqui — eu disse, porque eu precisava acreditar nisso. — Ele queria abrir um portal para libertar outros demônios, mas não conseguiu. Nós o derrotamos.
 
 O velho abanou a cabeça, e o modo como ele fez isso não foi de discordância, foi de luto.
 
-— Não, vocês não o fizeram. Essas sombras vieram de algum lugar, e se o que diz for verdade, o Agouro é muito mais poderoso do que essas criaturas que rondam a cidade. Poucos teriam força para atraí-las até aqui.
+— Não, vocês não o fizeram. Essas sombras vieram de algum lugar, e se o que diz for verdade, Varkhel é muito mais poderoso do que essas criaturas que rondam a cidade. Poucos teriam força para atraí-las até aqui.
 
 E foi então que o som veio.
 
@@ -408,7 +412,7 @@ Eu já sabia a resposta antes de perguntar, e mesmo assim perguntei.
 
 — O Agouro?
 
-— Ele já recebeu nomes que não pertencem a nenhuma língua que eu conheça. As histórias dos vivos misturaram essas criaturas a lendas e religiões antigas, mas nunca contaram a verdade toda. Eu o conheci como Agouro. E ele nunca tinha caminhado livremente entre nós. Não até aquele dia em Alvorada.
+— Ele já recebeu nomes que não pertencem a nenhuma língua que eu conheça. As histórias dos vivos misturaram essas criaturas a lendas e religiões antigas, mas nunca contaram a verdade toda. Eu o conheci como Varkhel. E ele nunca tinha caminhado livremente entre nós. Não até aquele dia em Alvorada.
 
 Em Alvorada.
 
@@ -418,7 +422,7 @@ Em Alvorada.
 
 — Ele matou seus amigos? — a Manu perguntou.
 
-— Não, garota. Ele devorou a alma deles — Pollux disse, cabeça baixa. — Quando finalmente nos livramos do Agouro, tivemos paz, mesmo com consequências que nos perseguiriam pelo resto da vida. Mas parte de mim sabia que ele ainda estaria por aí de alguma forma. Que aquele pesadelo voltaria.
+— Não, garota. Ele devorou a alma deles — Pollux disse, cabeça baixa. — Quando finalmente nos livramos de Varkhel, tivemos paz, mesmo com consequências que nos perseguiriam pelo resto da vida. Mas parte de mim sabia que ele ainda estaria por aí de alguma forma. Que aquele pesadelo voltaria.
 
 Eu juntei as peças do que ele dizia com as minhas.
 
