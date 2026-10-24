@@ -252,7 +252,7 @@ Enquanto ele cavava, eu pensava em qual poderia ser o Elo na minha casa, a lente
 
 – É ela – murmurou Jennifer.
 
-Descemos os três na cova, e o cheiro não era agradável, mas eu tentava não pensar nisso. Jennifer me entregou a lanterna, se inclinou como se algo ali chamasse a atenção e enfiou a mão entre os ossos, puxando uma caixa velha e mofada, enrolada num pano encardido. Na hora em que ela pegou a caixa, senti um arrepio vindo de dentro, como se só de estar perto daquilo eu estivesse mais perto da morte. A caixa parecia viva, de um jeito muito errado. Ela desenrolou o pano e olhou para nós antes de abrir. Quando a tampa abriu, a lanterna começou a piscar e um vento gelado soprou do nada.
+Descemos os três na cova, e o cheiro não era agradável, mas eu tentava não pensar nisso. Jennifer me entregou a lanterna, se inclinou como se algo ali chamasse a atenção e enfiou a mão entre os ossos, puxando uma caixa velha e mofada, enrolada num pano encardido. Na hora em que ela pegou a caixa, senti um arrepio vindo de dentro, como se só de estar perto daquilo eu estivesse mais perto da morte. A caixa parecia viva, de um jeito muito errado. Ela desenrolou o pano e olhou para nós antes de abrir. Dentro havia um pó cinzento, com alguns grãos que refletiam a luz como pequenos cacos de vidro. Quando a tampa abriu de vez, a lanterna começou a piscar e um vento gelado soprou do nada.
 
 – É isso. São as cinzas que Luiza guardou contra ele. Não faço ideia de onde conseguiu.
 – E agora? – perguntou Vinicius.
