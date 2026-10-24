@@ -6,7 +6,7 @@ Mas a gente cresce, e quando a fruta da vida começa a amadurecer percebe que um
 
 Muita gente diz que é na adolescência que a vida começa de verdade. Eu discordo. Acho que é na adolescência que o mundo mostra que a festa já acabou faz tempo.
 
-Meu nome é Jennifer, e essa é a minha parte da história, escrita junto com outros cinco amigos, para contar como eu “morri” por dentro antes de entender direito o que é viver.
+Meu nome é Jennifer, e essa é a minha parte da história: como eu “morri” por dentro antes de entender direito o que é viver.
 
 
 
@@ -91,6 +91,8 @@ Ela abriu a boca e demorou a achar as palavras.
 
 – É um pesadelo realmente intrigante. Mas você não tinha outro sonho, algo mais feliz, pra desenhar? – insistiu, com um sorriso forçado.
 – Infelizmente, não.
+
+Não era bem verdade. Eu me lembrava de outro sonho, de quando já tinha começado a ver gente morta. Estava diante de uma superfície escura, lisa como vidro, que não refletia meu rosto. Uma mulher permanecia do outro lado, longe demais para que eu a reconhecesse. Ela ergueu a mão e eu encostei a minha na mesma altura. Senti seus dedos, embora houvesse alguma coisa entre nós. Acordei sem entender por que estava tão assustada. Nunca mais sonhei com aquela mulher, e não era dela que eu queria falar na frente da turma.
 
 Ela sorriu de novo e eu não correspondi. À esquerda dela, vi um espírito pálido batendo palmas. As mãos se moviam sem som nenhum, mas eu sentia a vibração no ar, e o silêncio era mais alto que qualquer aplauso. O sinal tocou assim que ela chegou à cadeira.
 
