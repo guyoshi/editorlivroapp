@@ -89,7 +89,7 @@ Abri a boca e fechei de novo. Não tinha pensado nessa parte.
 
 Soltei uma risada fraca, quase ridícula, porque era mais fácil rir do que admitir que ela tinha razão.
 
-– Para destruir os elos que sustentam o Agouro aqui, você precisa cobri-los com as cinzas do próprio Agouro. Pouco pó basta, se tocar o objeto. E então… – fez uma pausa – …o fogo liberta.
+– Para destruir os elos que sustentam o Agouro aqui, você precisa cobri-los com as cinzas do Agouro. É como sempre chamamos aquele pó. Pouco basta, se tocar o objeto. E então… – fez uma pausa – …o fogo liberta.
 
 A frase acendeu outra coisa na minha memória. A D. Maria comentara que alguém dissera as mesmas palavras.
 

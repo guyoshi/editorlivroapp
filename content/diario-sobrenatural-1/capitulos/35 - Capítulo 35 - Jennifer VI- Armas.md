@@ -60,7 +60,7 @@ Quase todas.
 
 Voltei ao lugar onde tinha caído e aproximei o isqueiro do chão. Ali estavam as cinzas que eu derrubara antes de atirar a caixa. Aquele resto ridículo, um punhado de pó, era agora nossa única chance de destruir os outros Elos. Luiza dissera que bastava encostar o pó em cada objeto; mesmo assim, contei mentalmente quantas vezes ainda precisaria abrir a caixa. Engraçado como o que sobra é justamente o que salva.
 
-Juntei o pó de volta na caixa vazia, grão por grão, e travei a tampa. Peguei o revólver, respirei fundo e fui mancando até a porta. Ao abri-la, ouvi um baque no andar de baixo, seguido de outro. A casa parecia um corpo enorme com os ossos estalando.
+Juntei o pó de volta na caixa vazia, grão por grão. Alguns, mais claros, pareciam pedacinhos de vidro misturados às cinzas. Travei a tampa. Peguei o revólver, respirei fundo e fui mancando até a porta. Ao abri-la, ouvi um baque no andar de baixo, seguido de outro. A casa parecia um corpo enorme com os ossos estalando.
 
 No fundo do corredor uma porta se abriu sozinha. Pensei no Agouro, lá dentro. Em outra situação eu teria curiosidade. Ali, só senti cansaço.
 
