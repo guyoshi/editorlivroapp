@@ -104,9 +104,7 @@ A resposta não veio do ar. Veio por dentro, entupindo a minha cabeça com uma c
 
 “Eu quero você, Jennifer”
 
-Eu reconheci o Agouro na mesma hora. Aquela voz sombria que vem da mente.
-
-As sombras se aproximaram. Uma delas tocou meu pulso e uma imagem atravessou a minha cabeça como um relâmpago: meu quarto, eu sentada no chão, os gritos dos meus pais no corredor, a porta batendo, a sensação de que o mundo inteiro era uma briga que eu nunca ia vencer. Outro relâmpago veio em seguida, mais duro: eu tentando fazer silêncio com a própria dor.
+Eu reconheci o Agouro na mesma hora. Aquela voz sombria que vem da mente. Houve um silêncio curto, como se a própria voz tivesse perdido alguma coisa de vista. Então as sombras se aproximaram. Uma delas tocou meu pulso e uma imagem atravessou a minha cabeça como um relâmpago: meu quarto, eu sentada no chão, os gritos dos meus pais no corredor, a porta batendo, a sensação de que o mundo inteiro era uma briga que eu nunca ia vencer. Outro relâmpago veio em seguida, mais duro: eu tentando fazer silêncio com a própria dor.
 
 Tentei me mexer de novo, porque eu não era mais aquela criança. Eu já tinha visto coisa demais pra me render tão rápido.
 

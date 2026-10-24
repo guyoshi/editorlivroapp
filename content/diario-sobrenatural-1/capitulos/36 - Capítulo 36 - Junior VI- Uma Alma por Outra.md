@@ -359,7 +359,7 @@ Olhei para a arma por alguns segundos, sentindo o peso dela se multiplicar.
 
 – JUNIOR! – gritou Pedro. – Seja lá o que ele tá falando na sua cabeça, não ouve! Ele tá tentando te enganar!
 
-Olhei para Pedro, depois para os outros. Ninguém conseguia se mexer. Priscila chorava, os olhos desesperados. Vinícius lutava para se soltar. Jennifer estava pálida, encostada, os olhos vermelhos. Mas, de todos ali, eu só conseguia olhar para Kelly, com os olhos presos nos meus, cheios de lágrimas, refletindo a primeira luz da manhã.
+Olhei para Pedro, depois para os outros. Ninguém conseguia se mexer. Priscila chorava, os olhos desesperados. Vinícius lutava para se soltar. Jennifer estava pálida, encostada, os olhos vermelhos. A sombra do Agouro se contraiu quando se voltou para ela. Por um instante pareceu observar alguma coisa que eu não via. Então virou a atenção para mim outra vez. Mas, de todos ali, eu só conseguia olhar para Kelly, com os olhos presos nos meus, cheios de lágrimas, refletindo a primeira luz da manhã.
 
 “O que você me diz?”, sussurrou o Agouro.
 
