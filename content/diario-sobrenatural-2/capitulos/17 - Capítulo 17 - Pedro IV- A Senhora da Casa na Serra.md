@@ -388,11 +388,11 @@ A senhora se virou para mim, os olhos arregalados.
 
 A senhora arregalou ainda mais os olhos desfocados, pensativos. 
 
-— Varkhel... — murmurou. 
+— O Agouro... — murmurou. 
 
 — Quem? — perguntei. 
 
-— Era assim que o conhecíamos em Alvorada. Vocês o chamam de Agouro. — A senhora baixou os olhos. — A culpa é minha. 
+— Eu o conheci há muitos anos, em Alvorada. Nunca imaginei ouvir esse nome de novo. — A senhora baixou os olhos. — A culpa é minha. 
 
 — Não, não é sua — disse Jennifer — a senhora não sabia de nada... 
 
@@ -404,7 +404,7 @@ A senhora arregalou ainda mais os olhos desfocados, pensativos.
 
 — O Agouro? — sussurrei em uma retórica. 
 
-— Varkhel. — A senhora disse o nome devagar, como quem prova uma coisa azeda. — Eu perdi quase todos os meus amigos... inclusive a Sara. Minha melhor amiga... éramos, na verdade, mais do que amigas. Eu a amava. E por mais que demorasse, ela me correspondeu.
+— O Agouro. — A senhora disse o nome devagar, como quem prova uma coisa azeda. — Eu perdi quase todos os meus amigos... inclusive a Sara. Minha melhor amiga... éramos, na verdade, mais do que amigas. Eu a amava. E por mais que demorasse, ela me correspondeu.
 
 A chama da vela mais próxima encolheu um pouco, e a voz dela desceu junto.
 
@@ -412,11 +412,11 @@ A chama da vela mais próxima encolheu um pouco, e a voz dela desceu junto.
 
 Ela deixou o silêncio crescer. No canto, o pêndulo marcou três tiques e pareceu esperar.
 
-— Eu sentia tanta dor por perdê-la que gritei. Gritei para poder vê-la de novo com vida. E o mato inteiro ficou quieto, e do quieto ele surgiu. Varkhel. Disse que poderia me ajudar, mas que em troca eu deveria dar o meu sangue. Eu aceitei, e milagrosamente Sara voltou à vida.
+— Eu sentia tanta dor por perdê-la que gritei. Gritei para poder vê-la de novo com vida. E o mato inteiro ficou quieto, e do quieto ele surgiu. O Agouro. Disse que poderia me ajudar, mas que em troca eu deveria dar o meu sangue. Eu aceitei, e milagrosamente Sara voltou à vida.
 
 Os passarinhos se mexeram nas gaiolas, todos de uma vez, e voltaram a dormir.
 
-— Mas nosso relacionamento não durou muito. Eu tinha me tornado paranoica, com medo de perdê-la novamente, e isso nos afastou. Até que uma noite chuvosa, depois de uma discussão, Sara saiu de minha casa e, ao atravessar a rua, um caminhão desgovernado veio e... — Ela parou. Ninguém pediu o fim da frase. — Eu a perdi mais uma vez. Pedi ajuda a Varkhel novamente, mas dessa vez não tive respostas. Achei que o pagamento tinha sido aquele... até que meu neto perdesse a vida. Quando Enzo morreu, eu me lembrei do que o demônio tinha dito: que meu sangue seria a troca. E eu o vi em meus espelhos, na noite em que perdi meu netinho, me observando.
+— Mas nosso relacionamento não durou muito. Eu tinha me tornado paranoica, com medo de perdê-la novamente, e isso nos afastou. Até que uma noite chuvosa, depois de uma discussão, Sara saiu de minha casa e, ao atravessar a rua, um caminhão desgovernado veio e... — Ela parou. Ninguém pediu o fim da frase. — Eu a perdi mais uma vez. Pedi ajuda ao Agouro novamente, mas dessa vez não tive respostas. Achei que o pagamento tinha sido aquele... até que meu neto perdesse a vida. Quando Enzo morreu, eu me lembrei do que o demônio tinha dito: que meu sangue seria a troca. E eu o vi em meus espelhos, na noite em que perdi meu netinho, me observando.
 
 — Por isso os panos — a Jennifer disse, baixo.
 
