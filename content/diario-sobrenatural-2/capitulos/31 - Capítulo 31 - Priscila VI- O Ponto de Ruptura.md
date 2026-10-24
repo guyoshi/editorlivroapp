@@ -590,7 +590,7 @@ E eu vi. Eu, que em todo aquele tempo só tinha visto o que a Jennifer precisava
 
 A Jennifer não olhou para eles. Não precisava: sabia que estavam ali, do jeito que a gente sabe de uma mão conhecida nas costas. Agora o homem pôs a mão aberta no ombro direito dela, e a mulher no esquerdo. A Jennifer ficou um pouco mais alta.
 
-A mancha escura nas chamas, que tinha começado a fechar em volta de dois pontos vermelhos, parou.
+A mancha escura nas chamas, que tinha começado a fechar em volta de dois pontos vermelhos, parou. Por um instante os pontos vermelhos se fixaram em Jennifer, e a mancha pareceu recuar, antes de voltar a se contorcer.
 
 Parou como se centenas de mãos tivessem agarrado todos os seus lados ao mesmo tempo. Eu vi os contornos dela vibrarem, tremerem, tentarem avançar um centímetro e voltarem. Ouvi a Jennifer dizer, baixo, só uma palavra, que não era para nós:
 
