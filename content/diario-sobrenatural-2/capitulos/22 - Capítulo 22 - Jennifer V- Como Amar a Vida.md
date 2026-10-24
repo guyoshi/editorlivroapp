@@ -76,17 +76,17 @@ Sra. Olívia olhou para mim e sorriu.
 
 — Sim — falei — usamos as cinzas do Agouro para matá-lo, ano passado.
 
-— Varkhel não morreu, Jennifer — disse a Sra. Olívia, usando aquele nome antigo que eu ouvira dela na primeira noite. — Vocês destruíram a forma que ele tinha assumido. 
+— O Agouro não morreu, Jennifer — disse a Sra. Olívia. — Vocês destruíram a forma que ele tinha assumido. 
 
 Ergui uma sobrancelha e a questionei: 
 
 — Claro que o matamos. Ele se incendiou, o vimos desaparecer. Cada elo pertencia a um espírito possuído por um demônio. E todos os demônios estavam de alguma forma ligados ao Agouro. Quando derrotamos todos, enfraquecemos o Agouro, então o queimamos. E ele morreu.
 
-— Pelo que sabemos, demônios não morrem como nós, querida. Não possuem a nossa vitalidade. Possuem outro tipo de força, que chamamos de essência demoníaca. Quando vocês libertaram os espíritos dos Elos, os demônios que dependiam deles perderam os hospedeiros e desapareceram. Quanto a Varkhel, pelo que você contou, ele ficou sem a força que aqueles vínculos lhe davam. Queimar a forma que ele assumiu não foi suficiente para acabar com sua existência. Foi isso que o enfraqueceu tanto.
+— Pelo que sabemos, demônios não morrem como nós, querida. Não possuem a nossa vitalidade. Possuem outro tipo de força, que chamamos de essência demoníaca. Quando vocês libertaram os espíritos dos Elos, os demônios que dependiam deles perderam os hospedeiros e desapareceram. Quanto ao Agouro, pelo que você contou, ele ficou sem a força que aqueles vínculos lhe davam. Queimar a forma que ele assumiu não foi suficiente para acabar com sua existência. Foi isso que o enfraqueceu tanto.
 
 — Está me dizendo... que a criatura pela qual lutamos ano passado continua viva? 
 
-— Demônios não são seres vivos como nós. Nunca soube de alguém que conseguisse provar que um deles morreu de verdade. Varkhel ainda existe, mas deve estar extremamente fraco, depois de tudo o que vocês destruíram.
+— Demônios não são seres vivos como nós. Nunca soube de alguém que conseguisse provar que um deles morreu de verdade. O Agouro ainda existe, mas deve estar extremamente fraco, depois de tudo o que vocês destruíram.
 
 — Então... tudo o que fizemos... foi em vão? — perguntei. 
 
