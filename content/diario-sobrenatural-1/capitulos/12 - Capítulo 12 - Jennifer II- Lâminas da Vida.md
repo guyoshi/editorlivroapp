@@ -14,7 +14,7 @@ Antes que eu pensasse muito, ouvi um som atrás da prateleira, do lado direito d
 
 Algo agarrou a minha perna com força brutal e me puxou. Gritei, tentei me segurar em qualquer coisa, mas só havia terra, e a dor queimava o tornozelo como garras cravadas. Olhei para baixo. Um rosto sem face, em carne viva, sem olhos, sem dentes, sem narinas, uma massa vermelha e pulsante com uma abertura que não sei se era boca, ferida ou as duas coisas.
 
-De repente eu estava em outro lugar. Tudo ficou branco, sem paredes, sem chão, sem teto, um limbo, e a uns cem metros uma mulher caminhava na minha direção.
+De repente eu estava em outro lugar. Tudo ficou branco, sem paredes, sem chão, sem teto, um limbo, e a uns cem metros uma mulher caminhava na minha direção. Por um instante me lembrei do sonho de infância em que havia uma mulher atrás de um vidro escuro, mas aquela era outra sensação. Não havia nada entre nós.
 
 – Quem é você? – perguntei.
 

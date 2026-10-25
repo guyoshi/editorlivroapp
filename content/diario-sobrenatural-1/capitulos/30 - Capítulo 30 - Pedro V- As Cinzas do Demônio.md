@@ -267,7 +267,7 @@ Subi atrás dela. Vinicius veio também, tirando um isqueiro do bolso.
 
 – Quando você falar.
 
-Jennifer se ajoelhou, abriu a caixa e inclinou para o pó cair sobre a coleira. Fiquei parado, suando frio, vendo o pó cair devagar. Pareceu levar horas, e quando finalmente começou a cair a lanterna apagou. Um vento gelado atravessou o cemitério e o isqueiro apagou também.
+Jennifer se ajoelhou, abriu a caixa e inclinou para o pó cair sobre a coleira. No meio das cinzas escuras, alguns grãos pareciam pedacinhos de vidro, refletindo a luz da lanterna. Fiquei parado, suando frio, vendo o pó cair devagar. Pareceu levar horas, e quando finalmente começou a cair a lanterna apagou. Um vento gelado atravessou o cemitério e o isqueiro apagou também.
 
 – Droga. Ele deve saber que queremos destruí-lo.
 – Ele quem? O cão?
