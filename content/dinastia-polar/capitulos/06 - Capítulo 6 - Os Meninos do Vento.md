@@ -14,6 +14,16 @@ Subiu sem tirar as botas e caiu na própria esteira, no quarto apertado que divi
 
 Foi a mão de Orel no ombro, pesada e cuidadosa ao mesmo tempo, que trouxe Kalan de volta. Orel tentou dizer alguma coisa sobre a hora, travou no meio da palavra, repetiu o começo do som duas vezes até que ela saísse inteira, e Kalan só assentiu e agradeceu com um aperto rápido no braço dele, sem fazer cerimônia com a demora, nunca fazia, e Orel parecia relaxar um pouco cada vez que alguém não fazia.
 
+No caminho de volta ao cais, Kalan encontrou Rovek sentado sobre um caixote, cercado por dois carregadores que riam dele. O velho remendava redes quando aparecia serviço e, havia semanas, repetia a mesma história a quem parasse para ouvir. Dizia que, numa noite em que as duas luas estavam visíveis, um rasgo de luz azul se abrira no ar entre os depósitos junto ao canal. De lá tinham saído dois rapazes com roupas que ele nunca vira, correndo como se estivessem fugindo de alguma coisa. Ao chegar à água, um deles estendera as mãos e fizera surgir uma faixa de gelo de uma margem à outra. O outro, antes de atravessar, erguera sem tocar uma lurélia-de-margem que se debatia na água e a deixara em segurança sobre o parapeito.
+
+— E depois? — perguntou um dos carregadores, segurando o riso.
+
+— Atravessaram. A luz fechou, e eles sumiram pelo outro lado do cais — respondeu Rovek.
+
+— Pois diga que voltem quando o sol esquentar. Gelo assim faria um favor aos nossos peixes.
+
+Os outros riram. Rovek tentou explicar de novo, mas já o chamavam de louco. Kalan passou por eles sem parar. Não acreditava na história, embora também não tivesse visto nada que a desmentisse. Havia coisas suficientes no cais que precisava entender sem acrescentar rapazes saindo do ar.
+
 De volta ao cais, Kalan empilhava caixas e repassava a conversa do dia anterior, ouvida diante do prédio administrativo. Algumas palavras voltavam fora de ordem: selos, reinspeção, a promessa de Alveris de continuar financiando Casas de Fé, grãos, remédios, como se estivesse apenas sendo generoso. Kalan tentava descobrir por que reinspeções e doações apareciam na mesma conversa. Talvez fosse só ganância, Alveris querendo pesar menos carga sob os olhos do Culto para lucrar mais rápido. Talvez fosse alguma rixa antiga com um inspetor específico, alguém que Alveris quisesse fora do caminho. Ou talvez, e essa ideia voltava com mais força do que as outras sem que Kalan soubesse dizer por quê, fosse maior do que dinheiro: um homem rico demais tentando tirar poder das mãos do soberano aos poucos, comprando pedaço por pedaço a autoridade que deveria pertencer só a Vetarius. Kalan detestou perceber que a hipótese lhe parecia plausível. 
 
 Foi por causa disso que errou a marcação de um lote inteiro de sacas, trocando o peso registrado na entrada por outro que nem existia, cabeça longe demais do cais para perceber o próprio erro até Cairon parar ao lado dele, olhar a prancheta, olhar as sacas, e olhar de volta para Kalan sem levantar a voz.
