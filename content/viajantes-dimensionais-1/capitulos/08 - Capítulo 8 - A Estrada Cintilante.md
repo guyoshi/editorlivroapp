@@ -228,7 +228,7 @@ No refeitório, a empolgação ainda corria solta. Eshley e Maria vieram com os 
 
 – Vocês viram quem venceu? – perguntou Beatriz, puxando uma cadeira.
 
-– O Ferris Montfort – disse Eshley. – Um dos doze filhos de Pierre Montfort, o senavelita mais forte vivo.
+– O Ferris Montfort – disse Eshley. – Um dos doze filhos de Kalev Montfort, o senavelita mais forte vivo.
 
 – Ele é bom mesmo – disse Maria. – A gente o viu criar uma bolsa de ar dentro da tempestade e atravessar tudo.
 
