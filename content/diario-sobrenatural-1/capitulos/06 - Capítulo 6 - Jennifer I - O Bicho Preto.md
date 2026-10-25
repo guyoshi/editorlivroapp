@@ -44,7 +44,11 @@ Olhei para o lado. Eles estavam lá, todos me encarando, um diferente do outro, 
 
 Na manhã seguinte me arrumei rápido. Meu pai sempre deixa pão na mesa quando volta da padaria, então tomei café, escovei os dentes, ajeitei o uniforme e saí. Na rua, grupos de jovens riam alto, abraçados, e eu nunca me encaixei naquele tipo de cena. A escola atende da quinta série ao terceiro colegial, e os professores, alguns tentam, outros desistiram faz tempo. Também, a inteligência deles é espremida todos os dias na cabeça de gente que não quer estar ali.
 
-A primeira aula era com a professora Marlene, de Artes, que pediu que tentássemos lembrar de um sonho e desenhar. Eu quase nunca lembro dos meus sonhos, eles vêm pela manhã como neblina e evaporam durante o dia se não forem segurados com força. Mas havia um, um pesadelo, que nunca desapareceu, não importava quanto tempo passasse, e foi esse que desenhei. Entreguei em alguns minutos. Havia uma menina nova na sala, não sabia o nome, mas percebi que era inteligente, porque respondia tudo que a professora perguntava.
+A primeira aula era com a professora Marlene, de Artes, que pediu que tentássemos lembrar de um sonho e desenhar. Eu quase nunca lembro dos meus sonhos, eles vêm pela manhã como neblina e evaporam durante o dia se não forem segurados com força. Mas havia um, um pesadelo, que nunca desapareceu, não importava quanto tempo passasse, e foi esse que desenhei.
+
+Não era o único sonho antigo de que me lembrava. Algum tempo depois que comecei a ver os mortos, sonhei com uma mulher atrás de uma superfície escura, lisa, que não refletia meu rosto. Ela ergueu a mão, e eu encostei a minha do outro lado. Senti seus dedos, apesar de haver alguma coisa entre nós. Não vi seu rosto. Acordei antes de entender como aquilo era possível. Nunca contei a ninguém; comparado ao Bicho Preto, parecia até um sonho bobo.
+
+Entreguei em alguns minutos. Havia uma menina nova na sala, não sabia o nome, mas percebi que era inteligente, porque respondia tudo que a professora perguntava.
 
 Ao meu lado, Pedro e Junior não paravam de conversar, como sempre, de jogos e de meninas. Eu já tinha desligado os ouvidos até uma frase me puxar de volta: o Junior contava que estava andando com a garota nova, Kelly, descobri depois, quando foram atacados por pássaros com olhos brancos.
 
