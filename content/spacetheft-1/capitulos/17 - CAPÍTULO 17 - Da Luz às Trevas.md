@@ -346,6 +346,8 @@ Buni, que estava inclinado sobre a mesa, olhando pelo vidro, endireitou-se lenta
 
 Hardman ajustou alguns botões no painel, verificando leituras e dados com uma concentração inquietante.
 
+– Isso não pode estar certo… – murmurou, batendo o dedo numa leitura que não parava de oscilar.
+
 – A gravidade nesses lugares é instável. E dependendo da densidade da nebulosa, pode haver fragmentos sólidos de gelo, rocha, ou até campos magnéticos que desorientam os sistemas. – disse Eric, com a voz mais baixa. – ou pior… podem haver formações estelares como a que vimos ou coisas piores lá dentro. 
 
 Eu bufei, tentando aliviar a tensão.

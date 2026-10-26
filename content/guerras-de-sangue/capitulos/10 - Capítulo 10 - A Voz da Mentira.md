@@ -36,7 +36,7 @@ A frase o deteve. Alyra pegou a mensagem e a estendeu. Daryon se aproximou. Seus
 
 Daryon leu. O sorriso desapareceu.
 
-— Rumores sempre vão existir — disse ele.
+— Rumores sempre vão existir — disse ele. — Nem toda mentira precisa ser inventada. Algumas só precisam ser contadas pela pessoa certa.
 
 Alyra riu pelo nariz.
 

@@ -464,7 +464,7 @@ Por que ela não tinha falado disso antes?, pensei.
 – Chega – resmungou Priscila. – D. Maria, existe alguma forma de acabar com isso e ficar livre?
 – Talvez. Luiza escrevia que, pra destruir um rei, primeiro você destrói o exército. Essa força usa os espíritos da minha família para estender seu poder pela cidade. Se forem libertos, ela enfraquece.
 – E como a gente liberta eles? – perguntei.
-– Quebrando os elos. Sabe aquelas histórias que uma velha conta para espantar criança da beira do poço? Havia mortos que eram chamados toda noite pelo nome, até esquecerem o próprio. Lu dizia que os da minha família estão assim: presos às coisas que deixaram. Enquanto houver elo, ele pode vestir essas almas como roupa e mandá-las bater à porta de vocês. Quando o elo arde, não há mais espírito cativo para ele chamar. O que acontece com a alma depois é assunto dela, não dele.
+– Quebrando os elos. Nem todos os mortos conseguem partir, menino. Sabe aquelas histórias que uma velha conta para espantar criança da beira do poço? Havia mortos que eram chamados toda noite pelo nome, até esquecerem o próprio. Lu dizia que os da minha família estão assim: presos às coisas que deixaram. Enquanto houver elo, ele pode vestir essas almas como roupa e mandá-las bater à porta de vocês. Quando o elo arde, não há mais espírito cativo para ele chamar. O que acontece com a alma depois é assunto dela, não dele.
 – Elo tipo o quê? – perguntou o Junior.
 – Não sei. Pode ser um objeto, uma lembrança material, algo que os prenda a este mundo. Lu acreditava que cada um deles tinha um.
 

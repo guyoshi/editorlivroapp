@@ -98,7 +98,7 @@ Selina cruzou os braços, e o julgamento na voz dela ficou mais afiado do que qu
 
 Por um instante, as mãos dele se fecharam junto ao corpo, e ele pareceu prestes a atravessar a sala até ela. Depois relaxou os ombros, devagar, como quem decide que raiva também é um luxo que já não pode se permitir.
 
-— Talvez eu realmente seja. Se isso a fizer feliz. Diga a Vetarius que recuso o convite. E que tenha boa sorte daqui pra frente.
+— Talvez eu realmente seja. Se isso a fizer feliz. Já entreguei o suficiente a Kaeliran. Diga a Vetarius que recuso o convite. E que tenha boa sorte daqui pra frente.
 
 Selina saiu sem se despedir, a porta batendo mais forte do que pretendia atrás dela. Montou no próprio tarrak com o mesmo movimento seco de quem descera dele minutos antes, ajustou as correias com dedos rápidos, quase raivosos, e só então deixou a respiração diminuir. Os cavaleiros, que esperavam em silêncio havia todo aquele tempo, endireitaram-se na sela ao vê-la montar.
 

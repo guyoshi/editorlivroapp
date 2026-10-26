@@ -48,7 +48,7 @@ Alyra fez uma cara de quem mastiga o próprio orgulho.
 
 — Você acredita mesmo no que ele dizia? Já ouviu as histórias da velha cuidadora? Ela falava as verdades que corriam nos corredores, rápidas como escutas-de-muro fugindo por dentro das rachaduras. Com certeza papai não apagava o fogo com terra. Ele era o fogo.
 
-— Alyra, pelas raízes, não mandarei homens atrás deles. Não teremos mais mortes. Não queremos guerra. Foram mais de quarenta ciclos do sol sem sangue derramado. Deve haver alguma outra forma.
+— Alyra, pelas raízes, não mandarei homens atrás deles. Ainda não sabemos quem fez isso. Se atacarmos sem descobrir a verdade, outros morrerão. Não teremos mais mortes. Não queremos guerra. Foram mais de quarenta ciclos do sol sem sangue derramado. Deve haver alguma outra forma.
 
 Alyra levantou de uma vez, o movimento rápido demais para ser só raiva.
 
@@ -58,7 +58,7 @@ Kaelina levantou o olhar finalmente.
 
 — Se este encontro proporcionasse a chance de acabarmos com este conflito, sim, por que não?
 
-— Porque não existe conflito. Só ataque unilateral. Eles mataram dois jovens nossos. Já pensou em como ficarão os pais e mães desses garotos ao saber que a Dinastia tem Vigias, muralhas e leis, mas não tem culpado nem condenado?
+— Porque não existe conflito. Só ataque unilateral. Eles mataram dois jovens nossos. E se esperarmos, vão acreditar que podem nos matar impunemente. Já pensou em como ficarão os pais e mães desses garotos ao saber que a Dinastia tem Vigias, muralhas e leis, mas não tem culpado nem condenado?
 
 O salão ficou tão quieto que dava para ouvir um pedaço de tecido roçando em outro. Foi aí que Daryon se mexeu, ocupando o espaço entre as duas sem parecer que estava se metendo. E então falou para Alyra.
 

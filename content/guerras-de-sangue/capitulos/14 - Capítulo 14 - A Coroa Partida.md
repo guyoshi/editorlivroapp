@@ -554,9 +554,11 @@ Alyra pegou um pano, limpou a boca e atirou-o dentro da bacia. Quando voltou a e
 
 — Estou cansada de te ver.
 
-A frase foi simples demais para não doer. Kaelina ficou onde estava por mais um instante. Quis dizer alguma coisa, mas não perguntou. Alyra apontou para a porta.
+A frase foi simples demais para não doer. Kaelina ficou onde estava por mais um instante. 
 
-— Sai, Kaelina.
+— Eu ainda sou sua irmã.
+
+— Então pare de ficar no meu caminho. — Alyra apontou para a porta. — Sai, Kaelina.
 
 Kaelina saiu. Na manhã seguinte, Kaelina encontrou o Salão das Soberanas já cheio. Além do Conselho havia chefes de passagem, capitães, fiscais de água, mestres de barril e representantes dos anéis.
 

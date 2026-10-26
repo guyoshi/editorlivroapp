@@ -40,6 +40,10 @@ Outro rugido, mais perto. Depois, o estalo seco de galhos quebrando sob um peso 
 
 – Fiquem juntos – disse Breno, baixo. – Sem barulho.
 
+Ele puxou Banjo e Bruno para perto, um de cada lado.
+
+– Ninguém vai ficar para trás.
+
 A floresta, antes imóvel, tinha ficado viva. Passos surdos e espaçados se aproximavam, e Bruno apertou o braço de Banjo.
 
 – Está sentindo o chão tremer?

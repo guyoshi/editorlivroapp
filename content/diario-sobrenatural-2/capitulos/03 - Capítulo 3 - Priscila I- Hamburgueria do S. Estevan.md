@@ -194,6 +194,8 @@ Mas ela não parou aí. Com a suavidade de quem sabe exatamente onde está a fer
 
 — Como ela morreu?
 
+— Você não sabe o que aconteceu naquela casa — respondi, mais baixo do que pretendia. — E não vai ser aqui que eu vou contar.
+
 — Glenda — Diego falou baixo, numa voz que não era bronca, era aviso. — Chega.
 
 Jason ficou rígido, como se aquela pergunta tivesse aberto uma gaveta que todo mundo finge trancada. Manuela apareceu com os pedidos e o mundo tentou disfarçar que estava acontecendo alguma coisa.

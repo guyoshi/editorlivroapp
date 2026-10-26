@@ -12,11 +12,11 @@ Nestira encolheu os ombros, apertando as mãos contra o peito.
 
 Mariv interveio, impaciente.
 
-— Eu acho que escolher ficar é escolher morrer devagar. Se não for hoje, será amanhã. Demos sorte ao pegar aqueles peixes antes de ontem… alimento o qual nos foi tirado. Mas todos sabemos que exploramos o suficiente dessa terra. Cada vez que vamos buscar frutas, temos que nos afastar mais.
+— Eu acho que escolher ficar é escolher morrer devagar. Se não for hoje, será amanhã. Demos sorte ao pegar aqueles peixes antes de ontem… alimento o qual nos foi tirado. Mas todos sabemos que exploramos o suficiente dessa terra. Cada vez que vamos buscar frutas, temos que nos afastar mais. Aqui embaixo, sobreviver exige mais do que esperança.
 
 Jokara assentiu, a mão sobre o ombro da irmã.
 
-— Talvez tenhas razão. Mas levar Platisa pode ser arriscar a vida dela. E deixá-la para trás… não é escolha.
+— Talvez tenhas razão. Mas levar Platisa pode ser arriscar a vida dela. E deixá-la para trás… não é escolha. Se deixarmos alguém para trás, o que vai restar de nós?
 
 Platisa, pálida, apoiada em Jokara, levantou os olhos com esforço.
 

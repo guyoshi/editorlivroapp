@@ -342,6 +342,10 @@ Bruno e Breno não responderam e Velho-Sábio continuou. 
 
 – Vão aprender a usar a magia que vocês possuem em si. E no fim, farão algumas provações – continuou o velho. – Quem vem de outra dimensão e deseja viver em Belfex precisa passar por essas avaliações. Vocês terão um período para aprender e se preparar, assim como os outros jovens que vão participar. Se conseguirem passar, poderão ficar aqui e continuar a evoluir. 
 
+Ele fez uma pausa curta, e o tom ficou mais baixo.
+
+– Mas quero ser honesto com vocês. Nem todos neste mundo desejam recebê-los. Alguns verão visitantes. Outros verão um problema. – Os olhos dele passaram pelos quatro. – Fiquem juntos, e vão aprender a distinguir uns dos outros.
+
 Beatriz abraçou o travesseiro com mais força.
 
 – Isso parece um sonho.

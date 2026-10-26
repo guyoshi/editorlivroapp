@@ -698,7 +698,11 @@ Gabasteri não discutiu. Amarrou a bolsa de comida, juntou as armas que estavam 
 
 — A partir de agora, a comida e as armas ficam comigo. Já que resolveram desobedecer, ninguém come esta noite.
 
-Então Gabasteri levou a bolsa e as armas para o outro lado do acampamento e as deixou junto de onde dormiria.
+— Isso não é proteger ninguém — disse Jokara. A voz saiu baixa, mas firme.
+
+Gabasteri parou por um instante, sem se virar.
+
+Depois levou a bolsa e as armas para o outro lado do acampamento e as deixou junto de onde dormiria.
 
 Jokara continuou ao lado de Mariv até a respiração dele desacelerar. Só então Nestira conseguiu se aproximar de verdade.
 

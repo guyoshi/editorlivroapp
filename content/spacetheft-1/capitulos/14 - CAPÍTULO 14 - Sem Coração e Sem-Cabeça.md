@@ -26,6 +26,14 @@ Olhei para baixo e vi que estava pisando em minhas vestes e estava nu.
 
 – Pra vocêr ver como estou puto com você, Jasmey – grunhiu Hardman – podíamos já estar partindo se não tivesse sido tão idiota. 
 
+– Você nunca pensa antes de agir?! – Hardman abriu os braços para o matagal vazio onde a nave deveria estar.
+
+– Pensar demais atrapalha – murmurei, sem muita convicção.
+
+– Atrapalha o quê, exatamente? Olha em volta.
+
+Olhei. Eu tinha perdido praticamente tudo: a nave, as roupas e o que restava da minha reputação. A parte boa? Ainda estava vivo.
+
 – Mas como é que uma mulher derrubou o Kord o O’reilly e o Buni? – indaguei. 
 
 – Aquelas pessoas na tenda, ontem a noite, eram todas aliadas dela. O roubo foi todo planejado. Fomos atacados assim que deixei-o a só. Deixaram o Kord desacordado e prenderam a mim, o Buni e ao O'reilly. A Vivian conseguiu fugir, mas logo voltou para nos soltar. Mas já era tarde. Eles levaram nossa nave. Nem você nem o Kord acordavam, e não tinha mais o que fazer... nos deitamos no chão e adormecemos. O O’reilly passou a noite choramingando, coitado. 

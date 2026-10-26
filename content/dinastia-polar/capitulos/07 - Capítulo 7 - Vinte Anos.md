@@ -152,7 +152,7 @@ Aquilo silenciou Vetarius por completo. Ele deu um riso sem graça, a taça para
 
 — Eu também aproveito a minha. Do jeito que me faz bem. 
 
-— Não adianta fugir, meu amigo. O que aconteceu, aconteceu. O que importa agora é o que vem depois. Precisamos controlar nosso próprio destino. Se os malditos Buldar decidirem que essa dependência toda de comida já não basta e resolverem que é hora de invadir nossas terras, você acha que sua casinha vai estar segura? Se os Quendrar decidirem abrir nossos portões, abusar das nossas mulheres, matar nossas crianças... como você ia viver com isso? O torneio é a nossa chance. Nossa chance de ter controle de verdade sobre a nossa própria vida.
+— Não adianta fugir, meu amigo. O que aconteceu, aconteceu. O que importa agora é o que vem depois. Precisamos controlar nosso próprio destino. Se os malditos Buldar decidirem que essa dependência toda de comida já não basta e resolverem que é hora de invadir nossas terras, você acha que sua casinha vai estar segura? Se os Quendrar decidirem abrir nossos portões, abusar das nossas mulheres, matar nossas crianças... como você ia viver com isso? O torneio é a nossa chance. Nossa chance de ter controle de verdade sobre a nossa própria vida. Kaeliran precisa de você, Dareth.
 
 Dareth olhou para ele por um longo instante.
 

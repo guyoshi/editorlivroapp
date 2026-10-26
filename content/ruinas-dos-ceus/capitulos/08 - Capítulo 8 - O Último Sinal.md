@@ -363,7 +363,7 @@ Efepar parou de sorrir.
 
 — Eu... só não sei o que pensar. É muito assustador. Pensar nisso.
 
-— Eu sei que é. Mas sabe o que me assusta mais? Não é o mundo cair. É todo mundo ver os sinais e continuar fingindo que está tudo bem. Como se uma das luas não tivesse quase apagado diante de todo mundo. Como se os ventos não estivessem errados. Como se as pedras não estivessem rachando!
+— Eu sei que é. Mas e se os sinais não forem apenas histórias? Sabe o que me assusta mais? Não é o mundo cair. É todo mundo ver os sinais e continuar fingindo que está tudo bem. Como se uma das luas não tivesse quase apagado diante de todo mundo. Como se os ventos não estivessem errados. Como se as pedras não estivessem rachando!
 
 Ele desviou o olhar.
 

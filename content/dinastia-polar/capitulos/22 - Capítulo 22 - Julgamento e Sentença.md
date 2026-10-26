@@ -500,7 +500,7 @@ Deixou a pergunta seguinte pairar sem precisar formulá-la inteira: se um escrib
 
 Hadris não se apressou em responder.
 
-— Documentos autênticos provam origem. Não provam reconhecimento. Neiva pediu, ela mesma, a própria desvinculação. Nenhum dos dois filhos foi jamais formalmente reconhecido como Polar. Nenhuma Casa os validou. A própria Ladira Polar, até onde este tribunal sabe, nunca os reconheceu publicamente antes deste caso.
+— Documentos autênticos provam origem. Não provam reconhecimento. Neiva pediu, ela mesma, a própria desvinculação. Nenhum dos dois filhos foi jamais formalmente reconhecido como Polar. Nenhuma Casa os validou. Aquilo que não pode ser provado não pode ser reconhecido. A própria Ladira Polar, até onde este tribunal sabe, nunca os reconheceu publicamente antes deste caso.
 
 — Ela os reconheceu — disse Selina. — Em particular. E depois entregou a neta aos Filhos da Raiz.
 

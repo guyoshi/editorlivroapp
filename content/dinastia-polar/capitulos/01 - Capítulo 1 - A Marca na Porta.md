@@ -148,6 +148,12 @@ Dessa vez a reação foi diferente. Alguns homens próximos de Elis murmuraram, 
 
 O Caminho ficou quieto.
 
+— Durante gerações, construímos algo que nenhuma guerra conseguiu destruir. Uma cidade que permanecerá depois de todos nós.
+
+Ele deixou a frase repetir-se pelas plataformas antes de continuar.
+
+— Mas uma cidade não deveria precisar sobreviver às guerras dos outros.
+
 — Há um mês, sentei-me com os representantes das outras nove dinastias em nossa Reunião Decenal.
 
 Um homem perto de Elis bufou.
