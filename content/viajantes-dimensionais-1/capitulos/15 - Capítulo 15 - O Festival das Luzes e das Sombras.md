@@ -481,6 +481,10 @@ Ele pisou, ou fez o que lhe pareceu pisar. O dassi saltou para cima como uma rol
 
 – Não existe outra esquerda!
 
+– Na corrida você fez aquela curva entre duas torres! – Bruno se agarrou ao banco. – Lembra? Olha o vão, não os balões!
+
+Breno reconheceu o intervalo entre os obstáculos e corrigiu a direção, como fizera na Estrada Cintilante. O dassi parou de oscilar por um instante.
+
 Foi então que o céu inteiro apareceu. Havia balões em todo lugar, enormes, de todas as cores, cada um com uma chama mansa dentro, e o dassi atravessava a floresta de luz como um peixe desengonçado. Breno desviou de um balão dourado, mergulhou sob um vermelho, subiu por um azul, e um balão rosa roçou o vidro da frente e estourou numa chuva de faíscas inofensivas que fez Banjo gritar e Bruno rir ao mesmo tempo.
 
 – Lindo! – gritou Banjo, abrindo um olho. – E completamente perigoso!
