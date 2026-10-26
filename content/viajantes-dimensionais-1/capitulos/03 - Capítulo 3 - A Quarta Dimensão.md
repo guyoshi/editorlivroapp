@@ -46,6 +46,8 @@ Um estrondo cortou o salão. Algo passou dentro de um dos tubos transparentes, b
 
 – Isso é um trem das túbulas – riu Velho-Sábio. – Muito mais rápido que um dassi. Mas esse é um passeio para outro dia.
 
+Por um instante, Banjo conseguiu distinguir pequenos carrinhos prateados dentro do tubo, abertos por cima, com fileiras de passageiros sentados. Pareciam vagões de mina inventados por alguém que jamais tivesse visto uma mina.
+
 – Tem um trem dentro do tubo de vidro? – perguntou Banjo, extasiado.
 
 Bruno, ainda de olho no arco, inclinou-se demais e quase perdeu o equilíbrio.
@@ -142,6 +144,8 @@ No centro do salão, um caminho de luz subia quase na vertical até o alto da c�
 
 Tayo se estendia em todas as direções, colorida como um quadro que ainda estava sendo pintado. Os prédios eram altos e curvos, enrolados em espirais, torcendo-se uns sobre os outros em ângulos que desafiavam tudo o que os irmãos sabiam. Em algumas torres, camadas inteiras serviam de jardim, com árvores de folhas azuis e fontes que flutuavam no ar. Caminhos de luz serpenteavam entre os edifícios, cruzando-se em pontos onde as pessoas trocavam de rumo com um passo. Placas luminosas anunciavam, em letras que mudavam de cor, cremes que esticavam os braços como elásticos e capacetes que mostravam o que havia atrás das paredes. 
 
+Mais além, três torres esguias se destacavam acima dos telhados, tão altas que suas pontas ainda recebiam sol enquanto as ruas começavam a escurecer. Entre elas e a praça distante, apareciam jardins, oficinas fumegantes e quarteirões de casas pequenas. Beatriz tentou acompanhar tudo com os olhos e não conseguiu.
+
 Do outro lado do caminho, uma menina soprava bolhas por um canudo de cristal. Cada bolha subia cantando duas ou três notas de uma melodia diferente, e estourava com um som de sininho. Uma delas pousou no ombro de Banjo e cantou uma música tão parecida com uma das canções que a mãe cantava que ele quase chorou. A menina riu, soprou outra e se afastou.
 
 Uma coisa redonda, sem rodas e com faróis nas laterais, passou tão perto que Banjo se abaixou, sentindo o vento no rosto.
@@ -176,7 +180,7 @@ Velho-Sábio olhou para a cidade lá embaixo.
 
 – Quando chegarmos, eu respondo. Por enquanto, só olhem.
 
-E eles olharam. A cúpula da Central diminuiu atrás deles. As torres de Tayo passaram à altura dos olhos e depois ficaram abaixo de seus pés; entre elas, dassis de todas as cores deslizavam por ruas invisíveis. Acima, as nuvens tinham as bordas violetas do fim do dia. Um bando de pássaros de asas translúcidas cruzou a frente do veículo, tão perto que Banjo viu o céu através das penas. Um deles acompanhou o dassi por alguns instantes e virou a cabeça para espiá-lo.
+E eles olharam. A cúpula da Central diminuiu atrás deles. As torres de Tayo passaram à altura dos olhos e depois ficaram abaixo de seus pés; entre elas, dassis de todas as cores deslizavam por ruas invisíveis. Por baixo de uma curva do trajeto, viram um parque com caminhos entre árvores imensas, uma rua cheia de letreiros coloridos e, mais longe, as três torres que haviam avistado da Central. Os veículos não precisavam de piloto: cada dassi seguia sua rota, desviando dos outros com uma segurança que, para Bruno, continuava parecendo uma péssima ideia. Acima, as nuvens tinham as bordas violetas do fim do dia. Um bando de pássaros de asas translúcidas cruzou a frente do veículo, tão perto que Banjo viu o céu através das penas. Um deles acompanhou o dassi por alguns instantes e virou a cabeça para espiá-lo.
 
 – Olha! Ele está voando com a gente! – Banjo se levantou da plataforma e encostou a mão no casco transparente.
 
@@ -200,7 +204,21 @@ O dassi parou a poucos centímetros do chão e aterrissou numa rua tranquila, de
 
 Quando o dassi partiu, Bruno soltou um grito agudo. Percebeu os risos dos irmãos, endireitou-se, corou e conferiu se mais alguém tinha visto.
 
-A rua era silenciosa, mas viva em pequenos detalhes. As árvores balançavam sem vento. Uma casa tinha janelas que piscavam como olhos sonolentos e emitia um zumbido baixinho. Em outra, portas de cristal liberavam um cheiro doce de pão fresco e flores. Velho-Sábio parou diante de um portão e o abriu sem tocar.
+A rua era silenciosa, mas viva em pequenos detalhes. As árvores balançavam sem vento. Uma casa tinha janelas que piscavam como olhos sonolentos e emitia um zumbido baixinho. Em outra, portas de cristal liberavam um cheiro doce de pão fresco e flores.
+
+– Este distrito se chama Brisália – contou Velho-Sábio. – Minha casa fica aqui há bastante tempo.
+
+Banjo olhou até o fim da rua, onde duas pessoas passavam com cestos e cumprimentavam o mago. Entre os telhados, uma faixa de água refletia as últimas luzes da tarde.
+
+– Tem um rio ali?
+
+– Um riacho. As crianças andam de bicicleta sobre a água num trecho dele.
+
+– Sobre a água? A gente pode ir lá depois?
+
+– Primeiro vamos entrar em casa – disse Breno, antes que o velho respondesse.
+
+Velho-Sábio sorriu para Banjo, como quem já tinha prometido a visita. Parou diante de um portão e o abriu sem tocar.
 
 O jardim era um espetáculo próprio. Plantinhas saltitavam no chão como se dançassem. Uma árvore pequena balançava frutos azulados que brilhavam como estrelas em miniatura. Um arbusto soltava faíscas que sumiam no ar, e uma flor luminosa se curvou para observar os visitantes.
 
