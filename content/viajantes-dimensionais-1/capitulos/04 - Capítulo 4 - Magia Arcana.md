@@ -44,11 +44,11 @@ Velho-Sábio tomava chá na ponta da mesa, lendo um jornal preso num gancho. A m
 
 Ela comeu. E, pela primeira vez em dias, o prato ficou vazio.
 
-Sob a mesa, algo pesado e quente se encostou nas pernas de Banjo. Era Coronel, com a cabeça enorme apoiada no joelho dele e os olhos cansados e sábios fixos na fruta. Banjo dividiu um fresno com ele, e o cachorro mastigou devagar, como quem aprecia. Um minuto depois, voltou arrastando uma meia azul no focinho e a depositou no colo de Banjo, como quem devolve um documento extraviado.
+Sob a mesa, algo pesado e quente se encostou nas pernas de Banjo. Era Átila, com o focinho apoiado no joelho dele e os olhos atentos fixos na fruta. Banjo dividiu um fresno com ele, e o cachorro mastigou devagar, como quem aprecia. Um minuto depois, voltou arrastando uma meia azul no focinho e a depositou no colo de Banjo, como quem devolve um documento extraviado.
 
 – Era a que eu tinha perdido! – Banjo abraçou o pescoço do cão. – Cachorro levado, foi você que pegou? 
 
-Coronel bufou, satisfeito, e se deitou em cima dos pés dele.
+Átila bufou, satisfeito, e se deitou em cima dos pés dele.
 
 Na sala, a tela grande se acendeu devagar.
 
@@ -84,13 +84,13 @@ Velho-Sábio ajustou o manto e olhou para os quatro com um ar de mistério.
 
 – Hoje vocês vão conhecer o Edifício Arcano. É onde se treina a magia em Tayo. Se precisarem escovar os dentes ou arrumar a roupa "apropriada", agora é a hora. Vamos pegar o dassi daqui a pouco.
 
-Os irmãos correram escada acima. Ouviram-se pés, risadas, uma porta batendo e, claro, Coronel latindo em algum lugar entre os degraus.
+Os irmãos correram escada acima. Ouviram-se pés, risadas, uma porta batendo e, claro, Átila latindo em algum lugar entre os degraus.
 
 Um minuto depois, o cachorro desceu devagar, com um chinelo de Bruno pendurado na boca e o ar de quem não tinha nada a ver com aquilo.
 
-– Coronel – disse Velho-Sábio, sem tirar os olhos do jornal. – Larga.
+– Átila – disse Velho-Sábio, sem tirar os olhos do jornal. – Larga.
 
-Coronel largou. O chinelo ficou no tapete, babado e satisfeito. Do alto da escada, Bruno gritou que ia cobrar aquilo do seguro.
+Átila largou. O chinelo ficou no tapete, babado e satisfeito. Do alto da escada, Bruno gritou que ia cobrar aquilo do seguro.
 
 Saíram pela rua ainda fresca de Brisália. Perto do Largo dos Ponteiros, uma mulher recolhia pequenas lanternas que tinham passado a noite presas aos galhos de uma árvore. Mais adiante, o cheiro de pão recém-saído do forno vinha de uma porta aberta. Beatriz diminuiu o passo; Breno precisou chamá-la duas vezes.
 
@@ -306,11 +306,11 @@ Bruno olhou para a mesa mais distante. McCroys almoçava sozinho; ninguém se se
 
 Depois do almoço, Velho-Sábio os levou a uma galeria acima das salas de treino. Lá embaixo, aprendizes mais adiantados passavam uma fita de água pelo ar, de mão em mão, sem deixar cair uma gota. A fita se rompeu quando chegou à última garota. Ela enxugou o rosto com a manga, respirou fundo e recomeçou; os outros esperaram por ela.
 
-Banjo se inclinou sobre o parapeito para ver melhor, e Breno o puxou pela gola. Bruno abriu a boca como se fosse comentar alguma coisa, mas a fita voltou a subir e ele ficou olhando. Os irmãos passaram o resto da tarde conhecendo o Edifício Arcano. Quando saíram, o sol já descia entre as torres de Tayo. Pegaram o dassi de volta; dessa vez, Banjo mal teve forças para apontar as criaturas que cruzavam o céu. Desceram perto da casa de Velho-Sábio, onde Coronel veio recebê-los à porta, farejando as roupas de cada um.
+Banjo se inclinou sobre o parapeito para ver melhor, e Breno o puxou pela gola. Bruno abriu a boca como se fosse comentar alguma coisa, mas a fita voltou a subir e ele ficou olhando. Os irmãos passaram o resto da tarde conhecendo o Edifício Arcano. Quando saíram, o sol já descia entre as torres de Tayo. Pegaram o dassi de volta; dessa vez, Banjo mal teve forças para apontar as criaturas que cruzavam o céu. Desceram perto da casa de Velho-Sábio, onde Átila veio recebê-los à porta, farejando as roupas de cada um.
 
 Quando o relógio de estrelas formou os números do jantar no teto da casa, os irmãos chegaram à mesa com os pés doloridos e as cabeças cheias de cores.
 
-Sobre a mesa havia uma sopa dourada com folhinhas prateadas que cintilavam e um pão de casca macia e miolo crocante, levemente picante. Banjo tentou mostrar com as mãos como a fita de água atravessara a sala de treino. Na segunda curva, quase derrubou a sopa de Beatriz. Ela segurou a tigela antes que tombasse, e ele terminou a história com as mãos debaixo da mesa. Coronel aguardava por algum acidente mais proveitoso.
+Sobre a mesa havia uma sopa dourada com folhinhas prateadas que cintilavam e um pão de casca macia e miolo crocante, levemente picante. Banjo tentou mostrar com as mãos como a fita de água atravessara a sala de treino. Na segunda curva, quase derrubou a sopa de Beatriz. Ela segurou a tigela antes que tombasse, e ele terminou a história com as mãos debaixo da mesa. Átila aguardava por algum acidente mais proveitoso.
 
 Foi quando Velho-Sábio olhou para eles com uma ternura quase casual.
 
