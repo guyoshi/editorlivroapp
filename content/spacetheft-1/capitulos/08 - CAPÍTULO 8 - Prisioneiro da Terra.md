@@ -38,7 +38,7 @@ Escalei umas pedras próximas e ganhei uma visão privilegiada do acampamento, d
 
 Enquanto isso, dois dos piratas se engalfinhavam por pedaços de carne, enquanto um terceiro aproveitava a distração para roubar justamente esses pedaços. “Que bando de desgraçados”, pensei, “sem honra, sem dignidade. Pelo menos os Dales brigavam por algo que valia a pena”.
 
-Percebi que falavam o idioma universal, então entendia tudo. As conversas eram dispersas: um lamentava que a mãe sentia sua falta, outro chorava por ter de matar o próprio irmão. Minha atenção se fixou quando a conversa virou para o prisioneiro. Um deles se agachou diante da figura amarrada e disse, com um sorriso cruel:
+Percebi que falavam o idioma universal, então entendia tudo. As conversas eram dispersas: um lamentava que a mãe sentia sua falta, outro chorava por ter de matar o próprio irmão. Minha atenção se fixou quando a conversa virou para o prisioneiro. Um deles se agachou diante da figura amarrada e disse, cruel:
 
 — Vai adorar essas terras, querida — provocou o homem — ficará aqui para sempre, devorada pelos selvagens locais, e seu nome será esquecido.
 
@@ -64,7 +64,7 @@ Eles iam mesmo investigar a origem do sinal e deixar a nave praticamente desprot
 
 — Ouvi seus passos. São silenciosos, mas excessivamente cautelosos. Não veio aqui para me resgatar, então só pode estar aqui para roubar a nave.
 
-Com um sorriso que prometia mais problemas do que soluções, aproximei-me e retirei o saco que cobria sua cabeça.
+Com uma cara que prometia mais problemas do que soluções, aproximei-me e retirei o saco que cobria sua cabeça.
 
 A mulher diante de mim tinha cabelos ruivos ardentes cortados pelos ombros, sobrancelhas densas e um olhar que não prometia boas-vindas.
 
@@ -116,7 +116,7 @@ Hesitei e olhei para a nave, verificando se algum dos piratas estava por perto. 
 
 — Difícil, com um homem desses por trás.
 
-Com um puxão mais forte, a corda se rompeu, afrouxando as demais voltas. Rapidamente desenrolei o restante e, assim que ela se viu livre, a mulher me ofereceu um sorriso malicioso e então disparou em fuga.
+Com um puxão mais forte, a corda se rompeu, afrouxando as demais voltas. Rapidamente desenrolei o restante e, assim que ela se viu livre, a mulher me lançou uma piscadela maliciosa e então disparou em fuga.
 
 — Puta que pariu, desgraçada! — murmurei, um riso de descrença me escapando, antes de me lançar em perseguição. Essa mulher era inacreditável.
 
@@ -134,7 +134,7 @@ Me agachei à sua frente, encarando-a diretamente nos olhos.
 
 — Não há fuga possível nesta nave. Ela obedece apenas ao seu capitão e vai para onde ele desejar.
 
-Um sorriso irônico esboçou-se em meu rosto.
+A ironia me escapou pelo canto da boca.
 
 — Você mentiu para mim — acusei, a tensão pulsando em minha voz.
 

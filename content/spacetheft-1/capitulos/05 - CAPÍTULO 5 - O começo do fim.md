@@ -225,7 +225,7 @@ A surpresa me fez recuar.
 
 — Eu tive lá minhas dúvidas ontem — respondeu ela — Mas realmente, por mais narcisista que você seja, não lhe vejo sacrificar um dos seus irmãos para conseguir isso. Você é bonzinho demais.
 
-— Jura que pensa isso sobre mim? — dei um sorriso irônico.
+— Jura que pensa isso sobre mim? — fiz uma careta irônica.
 
 — Dê um tempo a ele Jasmey. Deixe-o processar o que aconteceu. Deixe-o ter ódio de você. O tempo vai mostrar a ele a verdade — aconselhou ela, com uma serenidade que contrastava com a tempestade entre nós.
 
@@ -243,7 +243,7 @@ Foi então que Eric apareceu, com seu ar habitual de zombaria.
 
 Vi Amanda suspirar, de saco cheio.
 
-— Como andam suas namoradas, irmãzinha? — perguntou, com um sorriso brincalhão.
+— Como andam suas namoradas, irmãzinha? — perguntou, em tom brincalhão.
 
 — Melhor que os seus namorados — ela rebateu, o sarcasmo dançando em seus lábios.
 
@@ -351,7 +351,7 @@ Relaxei na sauna, meditando sobre os acontecimentos, e me armei para a missão, 
 
 A lembrança do orbe do Sr. Peron me fez pausar. Guardei-o no bolso e olhei para o lado, onde Vlad, o silencioso dos nove, me encarava. Vlad tinha cara de psicopata e era assustador encontrá-lo pelos corredores. Perdera a língua há muitos momentos. Ninguém sabe a história, só sabemos quem a arrancou.
 
-Rumo à doca, a escolha da nave, a Prosépina, me deixou boquiaberto. Klest, o dale da cicatriz na cara, expressou surpresa e admiração.
+Rumo à doca, a escolha da nave, a Prosépina, me deixou boquiaberto. Klest, o Dale da cicatriz na cara, expressou surpresa e admiração.
 
 — Está brincando que vamos ir na Prosépina? — indagou Klest boquiaberto.
 
@@ -431,7 +431,7 @@ Eles começaram a emitir os mesmos sons que tinha ouvido lá fora. Liguei imedia
 
 — Por favor, não faça mal ao nosso filho. Ele ainda não conheceu a vida... não conheceu o calor do sol ou o amor.
 
-Surpreso por sua noção de "amor", questionei:
+Surpreso por sua noção de “amor”, questionei:
 
 — Amor?
 
@@ -439,7 +439,7 @@ Surpreso por sua noção de "amor", questionei:
 
 Encarei o infante, visivelmente amedrontado, aninhado entre os braços de seus protetores. Com um suspiro, abaixei minha guarda e disse:
 
-— Não estou aqui para causar-lhes mal. Apenas busco informações. — Mostrei-lhes o holograma do "olho", projetando-o diante deles — Foi-me dito que pode servir como um mapa. Conhecem alguém capaz de decifrá-lo?
+— Não estou aqui para causar-lhes mal. Apenas busco informações. — Mostrei-lhes o holograma do “olho”, projetando-o diante deles — Foi-me dito que pode servir como um mapa. Conhecem alguém capaz de decifrá-lo?
 
 — Não conhecemos — disse um dos dekraazianos.
 
@@ -499,7 +499,7 @@ Então a entrada foi abruptamente invadida pela figura imponente de Jelles e Vla
 
 O silencioso Vlad obviamente não respondeu, apenas assentiu.
 
-— Executei meu trabalho com precisão, capitão — respondi, tentando mascarar a turbulência interna com um sorriso forçado.
+— Executei meu trabalho com precisão, capitão — respondi, tentando mascarar a turbulência interna com uma calma forçada.
 
 — E os eliminou como esperado? — Jelles sondou, sua curiosidade se voltando para os métodos que utilizei.
 

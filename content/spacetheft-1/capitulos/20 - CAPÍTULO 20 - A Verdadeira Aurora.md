@@ -28,7 +28,7 @@ Os olhos dele se arregalaram, a surpresa escancarada na expressão. Ele deu um m
 
 Sorri, inclinando a cabeça.
 
-Seu olhar desviou para o bracelete em seu pulso, que emitia um brilho azulado. Ele franziu a testa e virou a tela rapidamente para mim. No visor, uma explosão de imagens e textos coloridos: montagens dramáticas de mim lutando contra o Domongo, vídeos borrados de minhas lutas na Lebargan e até um trecho em loop de quando arranquei o olho de Genrir. Marcações como "&JasmeyVive", "&ALendaNuncaMorre" e "&PirataImortal" piscavam incessantemente, todas com milhares de reações.
+Seu olhar desviou para o bracelete em seu pulso, que emitia um brilho azulado. Ele franziu a testa e virou a tela rapidamente para mim. No visor, uma explosão de imagens e textos coloridos: montagens dramáticas de mim lutando contra o Domongo, vídeos borrados de minhas lutas na Lebargan e até um trecho em loop de quando arranquei o olho de Genrir. Marcações como “&JasmeyVive”, “&ALendaNuncaMorre” e “&PirataImortal” piscavam incessantemente, todas com milhares de reações.
 
 — Engraçado... você nem está logado na Unidale, Badrock, mas é o tópico mais quente por lá. Parece que ser uma lenda se espalha mais rápido do que uma praga.
 
@@ -90,9 +90,9 @@ Ele olhou para os guardas e fez um gesto curto.
 
 Eric não esboçou nenhuma reação além de um pequeno suspiro, fingindo exasperação.
 
-Nos separamos ali. Ele ficou ali, cercado de dales, e eu fui arrastado para o coração da Lebargan.
+Nos separamos ali. Ele ficou ali, cercado de Dales, e eu fui arrastado para o coração da Lebargan.
 
-Enquanto era levado, vi pelo canto do olho Amanda surgindo entre os dales, a expressão carregada de choque ao ver o irmão. Os cabelos estavam soltos, o olhar incrédulo enquanto tentava absorver a cena à sua frente.
+Enquanto era levado, vi pelo canto do olho Amanda surgindo entre os Dales, a expressão carregada de choque ao ver o irmão. Os cabelos estavam soltos, o olhar incrédulo enquanto tentava absorver a cena à sua frente.
 
 — Eric?
 
@@ -122,7 +122,7 @@ Amanda franziu a testa, claramente confusa, mas algo no tom dele fez com que ela
 
 Ela apenas deu um último olhar para o irmão antes de se afastar, a mente claramente fervendo com dúvidas.
 
-Os passos ecoavam pelo corredor metálico da Lebargan, cada batida contra o chão acompanhando a pulsação acelerada do meu peito. Vek e os outros dales me empurravam sem paciência, mas eu já não sentia as correntes. O que importava era o que estava além daquelas portas.
+Os passos ecoavam pelo corredor metálico da Lebargan, cada batida contra o chão acompanhando a pulsação acelerada do meu peito. Vek e os outros Dales me empurravam sem paciência, mas eu já não sentia as correntes. O que importava era o que estava além daquelas portas.
 
 A sala do capitão se abriu com um sibilo mecânico. Baixa iluminação, monitores holográficos projetando sombras angulares. No centro, numa cadeira de alto encosto, Jelles girava preguiçosamente um copo de necroriano. Seus olhos subiram até mim e seu olhar vacilou por um instante. Ele se levantou, caminhou até mim a passos curtos, bebeu o resto do necroriano e me olhou dos pés à cabeça. Estava a poucos centímetros. Se eu tivesse algo nas mãos, minha vingança estava feita. Então finalmente falou:
 
@@ -156,7 +156,7 @@ Ele me olhou de perto, sem pressa.
 
 Então ele me soltou. Mantive o olhar firme.
 
-— Você só esteve vivo este tempo todo porque eu quis. Eu sempre soube que era um fracasso, Badrock. Fraco. Uma doença na Lebargan. Os dales tinham razão. Você era meu queridinho. Até me trouxe ao meu tesouro. Não tenho como agradecê-lo. Talvez eu beba um necroriano em cima de seu cadáver.
+— Você só esteve vivo este tempo todo porque eu quis. Eu sempre soube que era um fracasso, Badrock. Fraco. Uma doença na Lebargan. Os Dales tinham razão. Você era meu queridinho. Até me trouxe ao meu tesouro. Não tenho como agradecê-lo. Talvez eu beba um necroriano em cima de seu cadáver.
 
 — Você diz que só estive vivo por sua conta, mas a verdade é que você só está aqui agora porque eu o salvei naquele asteroide, Jelles.
 
@@ -194,7 +194,7 @@ Olhei para ele, com uma pitada de descrença neste plano maluco dele.
 
 — E você realmente acha que pode domar isso?
 
-Ele abriu um sorriso satisfeito.
+Ele pareceu satisfeito.
 
 — Se não eu, então quem? O livro da verdade diz que a escuridão servirá a seu libertário. Eu irei o libertar. E ele servirá a mim.
 
@@ -222,7 +222,7 @@ Amanda hesitou antes de se recompor. Seu olhar se manteve firme, mas eu notei a 
 
 Jelles e Amanda se viraram para mim.
 
-— Você não sabia, mas foi feito de tolo este tempo todo Jelles. O seu fugitivo Eric, foi ele quem me tirou dos escombros quando tentou me matar da primeira vez. Foi ele quem dizia que eu deveria ser o capitão, era ele quem dizia a todos os dales que eu deveria ser seguido. Seu domínio está fragmentado graças a ele. E agora ouço que só eu serei incinerado. Porra, isso é injusto.
+— Você não sabia, mas foi feito de tolo este tempo todo Jelles. O seu fugitivo Eric, foi ele quem me tirou dos escombros quando tentou me matar da primeira vez. Foi ele quem dizia que eu deveria ser o capitão, era ele quem dizia a todos os Dales que eu deveria ser seguido. Seu domínio está fragmentado graças a ele. E agora ouço que só eu serei incinerado. Porra, isso é injusto.
 
 Ele me encarou, estreitando os olhos.
 
@@ -280,7 +280,7 @@ Mas Jelles não iria lutar. Ele recuou e apertou e então correu, apertando um b
 
 O metal do piso se partiu, e uma escotilha se abriu abaixo de mim. O vento sugou o ar da sala, e eu mal tive tempo de saltar para o lado antes de ser jogado para o vazio.
 
-Estava em uma sala escura. Quando as luzes se acenderam, me vi diante de meia dúzia de dales, que atacaram antes que eu pudesse reagir. Levei vários golpes e derrubei três; os outros me deram trabalho, principalmente o que tinha uma arma de choque. Passei por eles e fugi pelos corredores sob os alarmes. Ao dobrar uma esquina, dei de cara com um garotinho. Era Dock, o garoto a quem eu ensinara alguns golpes de espada um tempo atrás. E, adivinhe… ele carregava uma espada.
+Estava em uma sala escura. Quando as luzes se acenderam, me vi diante de meia dúzia de Dales, que atacaram antes que eu pudesse reagir. Levei vários golpes e derrubei três; os outros me deram trabalho, principalmente o que tinha uma arma de choque. Passei por eles e fugi pelos corredores sob os alarmes. Ao dobrar uma esquina, dei de cara com um garotinho. Era Dock, o garoto a quem eu ensinara alguns golpes de espada um tempo atrás. E, adivinhe… ele carregava uma espada.
 
 — Olá, garoto. Preciso que saia da minha frente. Não quero te machucar, ok? — perguntei, olhando para o jovem que um dia treinei.
 
@@ -365,15 +365,15 @@ Deixei o Vek de lado no chão, para ele não se engasgar com a própria raiva. F
 
 — A doca está bloqueada — disse Eric — eles estão lutando contra o tersário.
 
-— O plano deu certo então? — perguntou com um sorriso de lado observando que cada um possuía uma arma.
+— O plano deu certo então? — perguntou de lado, observando que cada um possuía uma arma.
 
-O’reilly abriu um sorriso presunçoso.
+O’reilly estufou o peito, presunçoso.
 
 — Ah, você teria adorado ver isso. Quando Eric trouxe os Dales para dentro da Princesa do Inverno, nós esperamos o momento certo... e soltamos o tersário. Foi lindo! — O’reilly gargalhou. — O monstro saiu como um meteoro ensandecido, rasgando a doca inteira e transformando tudo num pandemônio. Os Dales tentaram segurá-lo, e isso nos deu a brecha perfeita pra fugir. Até aproveitamos para apanhar algumas armas.
 
 O’reilly então entregou-me uma das armas.
 
-— E agora a maioria dos dales está ocupada tentando não ser destroçada por um predador cósmico — disse Eric.
+— E agora a maioria dos Dales está ocupada tentando não ser destroçada por um predador cósmico — disse Eric.
 
 A adrenalina ainda pulsava no meu peito, mas eu tinha descoberto algo que tinha que compartilhar com eles.
 
@@ -409,15 +409,13 @@ O’reilly sorriu, ajeitando o cinto.
 
 Eric não disse nada, mas seu olhar já me dizia que estava inclinado a concordar. Então vi Vivian, que até agora tinha se mantido em silêncio.
 
-Com os olhos fixos no chão cintilante do planeta, ela lentamente ergueu as mãos e fez um gesto amplo que abraçava a vastidão do planeta, depois tocou o coração e apontou para o gerbe, seus olhos brilhando com uma nova esperança. Hardman, lendo seus sinais, traduziu:
-
-— Ela sente que a Aurora é mais do que um tesouro. É um novo começo. Ela quer o gerbe para criar uma vida nova, um lugar seguro, não apenas para fugir. Ela está conosco pela esperança do tesouro, sim, mas também pela promessa de um futuro melhor, de um lugar para recomeçarmos, longe de toda essa violência.
+Vivian se ajoelhou, apoiou a palma aberta no gerbe e depois no peito. Ninguém precisou traduzir. Nem Hardman tentou. Era a primeira vez que eu via alguém querer um tesouro por um motivo que não coubesse numa taverna.
 
 Balancei a cabeça, bufando.
 
 — Então vamos pegar os gravitadores — respondi, derrotado.
 
-Seguimos pelos corredores, a nave tremendo ao nosso redor conforme os alarmes ecoavam. O cheiro metálico se misturava ao som de passos de dales correndo. O chão vibrava sob nossos pés, e cada curva parecia nos levar direto para mais problemas.
+Seguimos pelos corredores, a nave tremendo ao nosso redor conforme os alarmes ecoavam. O cheiro metálico se misturava ao som de passos de Dales correndo. O chão vibrava sob nossos pés, e cada curva parecia nos levar direto para mais problemas.
 
 O primeiro grupo surgiu de uma bifurcação, armas em mãos, rugindo ameaças antes de abrir fogo. Eram três. Nos jogamos contra as paredes enquanto disparos queimavam o ar. Eric revidou com precisão, acertando um dos piratas no ombro. Kord avançou como um animal, usando a própria arma como bastão para esmagar um inimigo contra a parede. Eu conhecia aquele, um bom rapaz. Pena que estávamos em lados opostos da batalha.
 
@@ -431,11 +429,11 @@ Avançamos, chutando portas, atravessando passagens de manutenção e desviando 
 
 Seguimos, dobrando uma esquina e demos de cara com uma barricada improvisada. Atrás dela, uma dúzia de Dales, armas erguidas, esperando. O líder, um sujeito alto com cicatrizes no rosto. Klest.
 
-— Vocês estão numa fortaleza de dales. Os maiores guerreiros da galáxia. Não vão escapar.
+— Vocês estão numa fortaleza de Dales. Os maiores guerreiros da galáxia. Não vão escapar.
 
 — Uma dúzia de Dales, mas o da frente é o alvo — O’reilly murmurou para si mesmo, seus olhos percorrendo a formação inimiga — Ele se posiciona como um escudo, mas é a cabeça da cobra. Se tirarmos o líder, a disciplina deles vacila — Sua voz, como um chicote, rosnou — Quem não vai escapar é você!
 
-Kord e Eric ergueram as armas, mas antes que alguém pudesse atirar, mais dales surgiram e se juntaram a eles.
+Kord e Eric ergueram as armas, mas antes que alguém pudesse atirar, mais Dales surgiram e se juntaram a eles.
 
 O silêncio foi cortado pelo som pesado da respiração de Buni.
 
@@ -463,7 +461,7 @@ Eu bati uma mão no ombro dele, rindo.
 
 — Agora me lembra de nunca te irritar.
 
-Ele sorriu, tímido.
+Ele baixou os olhos, tímido.
 
 Seguimos pelos corredores destroçados, atravessando o caminho finalmente livre. E então, lá estava ela: o arsenal 1.
 
@@ -471,5 +469,5 @@ Puxei a porta e entrei, varrendo o local com os olhos. Num caixote de confiscos,
 
 Levantei um deles, sentindo seu peso.
 
-— Agora sim — murmurei, sorrindo. — Vamos acabar com isso.
+— Agora sim — murmurei. — Vamos acabar com isso.
 

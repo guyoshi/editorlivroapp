@@ -46,11 +46,11 @@ Os alienígenas cessaram a agitação, mas continuaram vigilantes. A anatomia de
 
 — Vejam, esta arma que tenho é uma Incendiária, uma arma que dispara chamas. Acho que devem saber o que é fogo. Se eu atiro em vocês, não terão nem tempo de gritar. Seus corpos se carbonizam quase instantaneamente. Se há algum apreço por suas vidas, por esses tentáculos peculiares que gostam de usar para arremessar objetos, sugiro uma cooperação imediata.
 
-Um deles, impelido pelo medo, balbuciou: "Comer eu, comer você," recuando ainda mais, como se buscasse fundir-se à parede.
+Um deles, impelido pelo medo, balbuciou: “Comer eu, comer você,” recuando ainda mais, como se buscasse fundir-se à parede.
 
 — Não, criaturas como vocês não estão no meu cardápio... Mas isso pode mudar, caso decidam não colaborar — respondi, aumentando a pressão.
 
-— "Quero... ajuda. Preciso... ajuda — o outro tentou expressar, sua voz embargada pelo pavor.
+— Quero... ajuda. Preciso... ajuda — o outro tentou expressar, sua voz embargada pelo pavor.
 
 — Não são vocês que precisam de ajuda, sou eu. Eu preciso encontrar isto — esclareci, exibindo o pano com o desenho do objeto de minha busca, duvidando de sua capacidade de compreensão visual. Não tinha certeza se eles conseguiam enxergar luz, tomara que tenham evoluído essa habilidade.
 
@@ -70,7 +70,7 @@ A troca de olhares entre eles foi quase uma piada de circo, não fosse a situaç
 
 Resolvi mudar de tática. Aproximando-me do meu bracelete, ativei seu transmissor.
 
-— Vek, necessito de uma representação tridimensional do objeto. Estes 'homens-polvo' parecem incapazes de compreender um simples desenho.
+— Vek, necessito de uma representação tridimensional do objeto. Estes “homens-polvo” parecem incapazes de compreender um simples desenho.
 
 O bracelete é indissociável da existência Dale: linha de vida, comunicador e coleira. Indelével até o fim das nossas voltas, sob pena de morte. Se tentar arrancá-lo, ele libera uma toxina e você morre em poucos ectons. Nem é fácil tentar, pode apostar. Serve para não nos afastarmos do nosso povo e para sempre sabermos onde os colegas estão.
 
@@ -80,7 +80,7 @@ Finalmente, a conexão se estabeleceu, e o holograma do Olho que procurava brilh
 
 — Isso! Podem ver? Entendem o que é? — inquiri, esperançoso.
 
-As criaturas, agora fascinadas, iluminaram o holograma com suas estranhas bioluminescências. "Eu ver," disse um. "Eu também ver," ecoou o outro, confirmando a visão compartilhada. “O olho de um Domongo”, disse um deles.
+As criaturas, agora fascinadas, iluminaram o holograma com suas estranhas bioluminescências. “Eu ver,” disse um. “Eu também ver,” ecoou o outro, confirmando a visão compartilhada. “O olho de um Domongo”, disse um deles.
 
 — Domongo? Que merda é um Domongo? — indaguei.
 
@@ -90,9 +90,9 @@ As criaturas, agora fascinadas, iluminaram o holograma com suas estranhas biolum
 
 Os alienígenas apontaram os tentáculos para o céu. Saí e ergui o olhar: lá estava o imponente arco de pedra, coberto pelas nuvens roxas. Minha jornada me levaria às alturas.
 
-Voltei para dentro e encarei as criaturas com um sorriso forçado. Eles mal tinham me entendido no início e agora compreendiam cada palavra, cada ameaça. Sabiam que eu podia acabar com suas vidas, e eu sabia o que Jelles esperava de mim.
+Voltei para dentro e encarei as criaturas com cordialidade de vendedor. Eles mal tinham me entendido no início e agora compreendiam cada palavra, cada ameaça. Sabiam que eu podia acabar com suas vidas, e eu sabia o que Jelles esperava de mim.
 
-— Agradeço a cooperação. Mas, infelizmente, não posso deixar testemunhas — disse, com aquele tom de "foda-se, preciso seguir o manual" que Jelles tanto adorava. Internamente, dei um revirar de olhos. Quem eu estava enganando? Matar esses coitados por um protocolo estúpido? Nem fodendo. Apesar da minha natureza (que não é tão assassina quanto o capitão gostaria), fingi uma ameaça com a cara mais séria que consegui e ativei o imobilizador no bracelete, atingindo os seres com uma descarga que os fez colapsar, paralisados. Que se dane o código, o importante é a glória... e não ter sangue de inocente na minha ficha.
+— Agradeço a cooperação. Mas, infelizmente, não posso deixar testemunhas — disse, com aquele tom de “foda-se, preciso seguir o manual” que Jelles tanto adorava. Internamente, dei um revirar de olhos. Quem eu estava enganando? Matar esses coitados por um protocolo estúpido? Nem fodendo. Apesar da minha natureza (que não é tão assassina quanto o capitão gostaria), fingi uma ameaça com a cara mais séria que consegui e ativei o imobilizador no bracelete, atingindo os seres com uma descarga que os fez colapsar, paralisados. Que se dane o código, o importante é a glória... e não ter sangue de inocente na minha ficha.
 
 Gravei uma mensagem, mais para provar que fiz o trabalho sozinho do que por preocupação com o relatório:
 

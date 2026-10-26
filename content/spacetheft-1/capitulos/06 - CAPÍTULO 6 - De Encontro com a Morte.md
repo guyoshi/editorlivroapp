@@ -76,7 +76,7 @@ Com a voz elevada, anunciei minha presença
 
 Aguardei mais alguns segundos e os vi através da flora. Jelles apareceu na minha frente, com o olhar intrigado de uma criança curiosa.
 
-— Você sobreviveu — Jelles começou, com um sorriso forçado que mal disfarçava sua surpresa — que ótimo!
+— Você sobreviveu — Jelles começou, com uma cordialidade forçada que mal disfarçava sua surpresa — que ótimo!
 
 Silenciei, apenas encarando-o com uma expressão dura, enquanto os outros Dales se reuniam ao nosso redor, armas em punho.
 
@@ -102,9 +102,9 @@ Ri, não de humor, mas de descrença.
 
 — Na verdade, acho irônico. Você fala em seguir o código para manter a ordem. Mas esse mesmo código nos diz para nunca abandonarmos um irmão. E ambos já fizemos isso, não é verdade? Ambos devemos ser mortos então? Quem de vocês vai matar o capitão?
 
-O silêncio tomou conta do grupo; ninguém ousou se manifestar, todos presos na tensão do momento. De repente, Jelles tirou o olho do Domongo de suas vestes.
+O silêncio tomou conta do grupo; ninguém ousou se manifestar, todos presos na tensão do momento. De repente, Jelles tirou o Olho do Domongo de suas vestes.
 
-— Que tal uma mudança de planos? — propôs Jelles revelando um sorriso amarelo — Estamos aqui com armas apontadas para você. Pegue o olho e complete a missão. Depois, decidiremos seu destino.
+— Que tal uma mudança de planos? — propôs Jelles com um riso amarelo — Estamos aqui com armas apontadas para você. Pegue o olho e complete a missão. Depois, decidiremos seu destino.
 
 Jelles arremessou o olho em minha direção, e eu o apanhei.
 
@@ -144,7 +144,7 @@ As conversas cessaram quando cheguei a uma clareira onde uma assembleia de dekra
 
 Fui direto ao ponto, o braço ainda latejando.
 
-— Preciso da ajuda de vocês — comecei, mostrando o olho do Domongo, um pedido silencioso por compreensão.
+— Preciso da ajuda de vocês — comecei, mostrando o Olho do Domongo, um pedido silencioso por compreensão.
 
 — Este olho pode me levar até um lugar que conhecem como Aurora. Mas não sei ao certo como usá-lo. Vocês podem me mostrar?
 
@@ -242,7 +242,7 @@ Jelles se aproximou dos sobreviventes, sua estatura dominante forçando-os a olh
 
 — Vocês são fracos. E neste universo a espécie mais forte sempre devora as mais fracas. Aqueles que não buscam o governo são governados.
 
-Jelles olhou o abismo além do precipício e soltou um sorriso sarcástico.
+Jelles olhou o abismo além do precipício e soltou uma risada seca.
 
 — Um rio de metano, hein? Parece que escolheram um péssimo lugar para fazer sua última resistência. Péssimos guerreiros, sem dúvida.
 
@@ -270,7 +270,7 @@ Vek não iria me ouvir, eu sabia. Mas eu precisava alertá-lo disso, caso não s
 
 Vek se afastou com relutância, e eu ataquei Jelles com toda a fúria que acumulara. Cada soco que tentei acertar em sua face era frustração pura, mas Jelles, com a experiência de incontáveis batalhas, reagia com destreza inumana. O choque inicial nos levou ao chão, numa dança caótica de golpes e esquivas.
 
-Jelles me lançou ao chão com força descomunal e acertou meu estômago com um soco que roubou o ar dos pulmões. A dor só alimentou minha determinação: segurei o braço dele, inverti a posição e devolvi o soco com juros. Jelles recuou, o lábio sangrando, com um sorriso sinistro, um reconhecimento tácito do desafio que eu representava.
+Jelles me lançou ao chão com força descomunal e acertou meu estômago com um soco que roubou o ar dos pulmões. A dor só alimentou minha determinação: segurei o braço dele, inverti a posição e devolvi o soco com juros. Jelles recuou, o lábio sangrando, com um brilho sinistro nos olhos, um reconhecimento tácito do desafio que eu representava.
 
 Dei uma rasteira e o derrubei, mas Jelles era como uma serpente, ágil e letal, e me puxou para o chão, onde cada centímetro era disputado.
 

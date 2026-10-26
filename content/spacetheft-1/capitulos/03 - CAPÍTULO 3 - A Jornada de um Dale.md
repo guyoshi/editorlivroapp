@@ -14,7 +14,7 @@ Minha mente vagou para outra estranheza: a mensagem anônima que eu recebera no 
 
 Admito: odeio mistérios. Abri o decodificador de dados do bracelete, ferramenta que os Dales usavam nos registros de missões mais complexas, e inseri a sequência. Uma barra de progresso surgiu na tela holográfica. Observei, impaciente.
 
-Um zumbido suave preencheu o ar do quarto, e então, em letras brilhantes e concisas, a resposta surgiu: "Desacorrentar".
+Um zumbido suave preencheu o ar do quarto, e então, em letras brilhantes e concisas, a resposta surgiu: “Desacorrentar”.
 
 — Desacorrentar? — murmurei para mim mesmo, um riso sem humor escapando. — Desacorrentar o quê? Um preso? Uma garrafeira de necroriano? Que piada sem graça
 
@@ -54,7 +54,7 @@ O garoto assentiu.
 
 Ele não me respondeu. Apenas continuou empunhando a espada, me olhando nos olhos. Idiota.
 
-— É como acordar de um sonho. Mas te garanto, garoto, que a realidade é muito melhor do que seu melhor sonho. — Dei um pequeno sorriso. — Mas então, o que sabe sobre espadas?
+— É como acordar de um sonho. Mas te garanto, garoto, que a realidade é muito melhor do que seu melhor sonho. — Deixei o canto da boca subir. — Mas então, o que sabe sobre espadas?
 
 Ele hesitou antes de me responder.
 
@@ -76,7 +76,7 @@ E então deferi um golpe no rapaz, esperando que ele recuasse. Para minha surpre
 
 — Que porra de dança? — resmunguei, virando a cabeça para buscar o dono daquela afirmação ridícula — Você costuma decapitar seus inimigos em uma dança? Arrancar as tripas deles enquanto balança o corpo? Com a espada em mãos, você só vai ter duas coisas contigo: a morte, e aquela sensação deliciosa de que é o fodão da galáxia.
 
-Dei um sorriso malicioso, deixando a arrogância transparecer antes de meu rosto endurecer.
+Deixei a arrogância transparecer antes de meu rosto endurecer.
 
 — Mas cuidado, garoto. Não pode deixar essa sensação subir à cabeça. É importante saber quando usar essa porra... e quando deixá-la de lado.
 
@@ -96,7 +96,7 @@ O olhar feroz do garoto abrandou um pouco com meu aceno de aprovação, embora i
 
 As batalhas seguintes foram em duplas, mas os adversários cediam rápido diante de mim, até o duelo com Boriges. Treinar fortalecia meu ego. A cada aplauso, a cada grito do meu nome, a glória pulsava nas veias. Jasmey, Jasmey, Jasmey, gritavam. Eu era um astro, e o brilho dos holofotes era meu combustível. Que se foda a obediência, a regra, o capitão. A admiração deles, isso sim era poder.
 
-Algumas horas mais tarde, recebi uma mensagem do capitão para encontrá-lo na ponte da torre militar de Belzetar. No caminho, cruzei com Vek, que, com um sorriso malicioso, comentou:
+Algumas horas mais tarde, recebi uma mensagem do capitão para encontrá-lo na ponte da torre militar de Belzetar. No caminho, cruzei com Vek, que, com ar malicioso, comentou:
 
 — Tá todo mundo falando que você deu uma surra num garotinho, é isso mesmo?
 
@@ -182,7 +182,7 @@ Jelles voltou sua atenção à vastidão abaixo, antes de retirar algo de seu bo
 
 — É uma grande honra, mas... — tentei argumentar, buscando as palavras certas.
 
-— "Sim, capitão" — ele interrompeu, uma sombra de sorriso tocando seus lábios. — soa bonito, não é?
+— “Sim, capitão” — ele interrompeu, uma sombra de sorriso tocando seus lábios. — soa bonito, não é?
 
 Jelles guardou a chave nas vestes e se afastou, deixando-me sozinho sob o céu estrelado, pensativo. No dormitório, os questionamentos de Amanda e Vek me aguardavam, uma tempestade de surpresa e incredulidade.
 
@@ -194,7 +194,7 @@ Jelles guardou a chave nas vestes e se afastou, deixando-me sozinho sob o céu e
 
 — Somente se a capitã não despertar, e Jelles morrer — eu disse, minimizando a possibilidade.
 
-— Pensa, é só matar o Jelles. Com a Nastácia basta desligar os equipamentos — disse Vek, com um sorriso bobo.
+— Pensa, é só matar o Jelles. Com a Nastácia basta desligar os equipamentos — disse Vek, com cara de bobo.
 
 — Cale a boca Vek — disse Amanda precativa — se alguém nos ouve falando isso, somos retirados.
 

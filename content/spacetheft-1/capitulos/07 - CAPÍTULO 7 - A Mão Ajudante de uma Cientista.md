@@ -10,7 +10,7 @@ A dor pulsava no braço perdido, e, ao tentar aliviá-la, minha mão achou uma m
 
 — O que vocês fizeram comigo? — indaguei, ainda atônito, aos seres que me encaravam impassíveis.
 
-Foi então que uma voz se infiltrou em minha consciência, não através do ar, mas diretamente em minha mente. "Nós te salvamos", ela disse, uma presença invisível e onipresente.
+Foi então que uma voz se infiltrou em minha consciência, não através do ar, mas diretamente em minha mente. “Nós te salvamos”, ela disse, uma presença invisível e onipresente.
 
 Busquei pela origem dessa voz misteriosa, minha confusão se aprofundando.
 
@@ -124,7 +124,7 @@ Ela se aproximou, a distância entre nós diminuindo até que suas mãos alcanç
 
 — Não sou a ceifadora da vida, mas uma estudiosa da morte. Meu propósito é entender, não destruir. Foi com meu conhecimento sobre a morte que consegui te trazer de volta à vida.
 
-Isso me deixou desconfortável e ao mesmo tempo intrigado. Como uma garota de aparência tão jovem tinha tal conhecimento? Um sorriso me escapou, e me aproximei de uma mesa cheia de órgãos e membros de criaturas. Parte dela virou uma cadeira, convidando-me a sentar.
+Isso me deixou desconfortável e ao mesmo tempo intrigado. Como uma garota de aparência tão jovem tinha tal conhecimento? Segurei o riso e me aproximei de uma mesa cheia de órgãos e membros de criaturas. Parte dela virou uma cadeira, convidando-me a sentar.
 
 — Perdoe-me, meus móveis se adaptam às necessidades presentes. Imagino que esteja cansado. Sente-se.
 
@@ -134,11 +134,11 @@ Seu riso foi leve e repleto de graça.
 
 — “Jovem”? Aprecio o elogio. Mas, veja bem, minha existência se estende por quase duas eras.
 
-Minha surpresa foi inevitável, e com um sorriso cético, perguntei:
+Minha surpresa foi inevitável, e com ceticismo, perguntei:
 
 — Quase duas eras, é? E como seu corpo sobreviveu a todo esse tempo? E continua... ahm... tão bem conservado?
 
-— Ah, obrigada! — ela sorriu, divertida. — Como já disse, sou conhecida como A Engenheira por uma razão. Uso meu conhecimento para curar, para regenerar. Mais um dom do que uma habilidade.
+— Ah, obrigada! — ela achou graça. — Como já disse, sou conhecida como A Engenheira por uma razão. Uso meu conhecimento para curar, para regenerar. Mais um dom do que uma habilidade.
 
 — Está me dizendo que você pode curar seres biológicos e rejuvenescê-los?
 
@@ -148,7 +148,7 @@ Um latejar no braço me trouxe de volta à realidade. Olhei para a mulher, senti
 
 — Foi você quem me deu isso?
 
-Ela sorriu, orgulhosa.
+Ela ergueu o queixo, orgulhosa.
 
 — Optei por ele assim, em vez de reconstruir o original. Será muito mais útil, pode confiar. Confesso que sempre quis um para mim, mas meus trabalhos exigem uma delicadeza que um braço metálico não proporcionaria. Para um pirata audaz, sempre à beira de uma nova aventura, é perfeito — a Engenheira foi até uma poltrona e se sentou.
 
@@ -196,7 +196,7 @@ Ela virou-se, e seu olhar confirmou que ela sabia do que eu falava.
 
 — Aurora? Quer saber se é real e se sei como chegar lá? Infelizmente, não tenho respostas. Mas você tinha um artefato que poderia guiá-lo, não é?
 
-— O Olho de Domongo. Era você que Jelles procurava. Você pode usar o Olho para encontrar a Aurora.
+— O Olho do Domongo. Era você que Jelles procurava. Você pode usar o Olho para encontrar a Aurora.
 
 — Se o código genético do olho servir como um mapa, então sim.
 
@@ -226,7 +226,7 @@ Sorri com ironia. Ela sabia como chegar à Aurora e estava me contando isso. Por
 
 — O mesmo que fiz com você: trazê-lo de volta à vida. O coitadinho morreu há menos de uma hora. Esta espécie pode ser revivida nesse intervalo; depois disso, os danos são irreversíveis.
 
-Sorri e balancei a cabeça negativamente.
+Balancei a cabeça negativamente, achando graça.
 
 — Eu não tenho tempo pra isso, Engenheira. Preciso sair deste planeta e ir atrás do Jelles. Tenho algo pessoal a resolver com ele.
 

@@ -54,7 +54,7 @@ Alekta sorriu para mim... aquele sorriso que desarma. Em seguida, ela partiu pel
 
 Subi as escadas até a saída e desci os degraus de volta ao trabalho, quando as chicotadas voltaram a estalar, despertando em mim uma fúria instantânea.
 
-— Passou tempo demais no almoço, verme. Já deveria estar trabalhando — rosnou o homem, as tatuagens no rosto se contorcendo de desprezo. Um sorriso de deboche me veio aos lábios. Verme? Ele não sabia com quem estava falando.
+— Passou tempo demais no almoço, verme. Já deveria estar trabalhando — rosnou o homem, as tatuagens no rosto se contorcendo de desprezo. O deboche veio sozinho. Verme? Ele não sabia com quem estava falando.
 
 — Ei, cara-pintada — falei, subindo os degraus até ficar frente a frente com ele. Ele ergueu o chicote novamente, mas eu o segurei firme. — Quero deixar algo bem claro. É melhor não me provocar. Caso contrário, meu trabalho será lançar seu corpo no vácuo.
 
@@ -184,11 +184,11 @@ Hardman apanhou a pulseira e a examinou antes de se aproximar, falando baixo o s
 
 — Nunca precisei lutar contra Adornianos. Mas já construí armas poderosas para derrotá-los.
 
-— Ah, claro — falei com um sorriso sarcástico e, antes que Hardman dissesse algo, continuei: — Então você é um mecânico?
+— Ah, claro — falei com sarcasmo e, antes que Hardman dissesse algo, continuei: — Então você é um mecânico?
 
 — Modestamente, sim. Aliás, adorei seu braço, titânio com fibra de carbono para deixá-lo mais leve — comentou Hardman, segurando meu braço de metal e o virando nos dedos para analisá-lo melhor — O que te fez decidir fugir com Alekta? Você realmente confia nela?
 
-— E por que não confiaria? — perguntei, com um sorriso no rosto.
+— E por que não confiaria? — perguntei, descontraído.
 
 Hardman balançou a cabeça e apertou os lábios, com pesar nos olhos.
 
@@ -254,9 +254,9 @@ Ergui a pulseira; uma luz estranha emanou dela. Cheguei a um vasto salão replet
 
 — Filha de uma...
 
-— Modere a linguagem, Jasmey — Alekta repreendeu, com um sorriso sarcástico. — Não queremos adicionar mais um palavrão à sua extensa ficha criminal, não é?
+— Modere a linguagem, Jasmey — Alekta repreendeu, com sarcasmo. — Não queremos adicionar mais um palavrão à sua extensa ficha criminal, não é?
 
-Forcei um sorriso de deboche e olhei ao redor, buscando uma saída, sem sucesso. Estava cercado por piratas enfurecidos. Ouvi o som de metal no chão, o mesmo de antes. Nem precisei me virar: o capitão parou diante de mim, os olhos intimidadores cravados nos meus. Ao seu lado estava o homem de moicano vermelho.
+Forcei uma pose de deboche e olhei ao redor, buscando uma saída, sem sucesso. Estava cercado por piratas enfurecidos. Ouvi o som de metal no chão, o mesmo de antes. Nem precisei me virar: o capitão parou diante de mim, os olhos intimidadores cravados nos meus. Ao seu lado estava o homem de moicano vermelho.
 
 — Afaste-se, arquimestre — ordenou o capitão, fazendo com que o homem de moicano recuasse. — Você realmente tem coragem. Ou é muito idiota. Qual seu nome, homem?
 
@@ -286,13 +286,13 @@ Essa mentirosa... Ela havia me enganado sobre sua fuga. E como não encontraram 
 
 — Dois rebeldes capturados no mesmo dia. Devo oferecer a você a chance de se redimir, como fiz com a garota? Tenho meus momentos de misericórdia com alguns dos meus homens — disse o capitão, soltando uma risada sarcástica. — Diga-me, de onde você vem, Jasmey?
 
-— Sou um ex-dale de Lebargan — respondi.
+— Sou um ex-Dale de Lebargan — respondi.
 
 Risadas e murmúrios surgiram ao fundo.
 
-— Homens, qual a graça? — interrompeu o capitão, sorrindo com escárnio, revelando dentes deteriorados, entre eles um dourado que brilhava sob a luz tênue. — Temos aqui um ex-tripulante de nossa lendária Nastácia. Tão lendária que se tornou um mito para muitos. Diga-me, homem, Lebargan realmente existe?
+— Homens, qual a graça? — interrompeu o capitão, com escárnio, revelando dentes deteriorados, entre eles um dourado que brilhava sob a luz tênue. — Temos aqui um ex-tripulante de nossa lendária Nastácia. Tão lendária que se tornou um mito para muitos. Diga-me, homem, Lebargan realmente existe?
 
-— É claro que existe, porra. Já disse que sou um ex-dale. Eu cresci lá — retruquei.
+— É claro que existe, porra. Já disse que sou um ex-Dale. Eu cresci lá — retruquei.
 
 As gargalhadas se intensificaram, e o capitão Tzough juntou-se ao coro.
 
@@ -340,7 +340,7 @@ Tzough me encarou e sorriu, deixando-me confuso. Que história era essa de meu c
 
 — A lenda da Lebargan. Uma canção de ninar para crianças mimadas. Vocês se chamam piratas, mas se agarram a irmãozinhos e regras — Ele gesticulou para o caos ao redor — Aqui, não há luxo. Só o medo. Olhe para a sujeira, para os chicotes. Aqui, a galáxia nos conhece. Vocês são um mito que foge, nós somos a realidade que devora — provocou o capitão.
 
-Eu já não era mais um Dale, mas sabe quando alguém insulta seu irmão, e você se irrita, mesmo tendo feito o mesmo antes? Aquela regra de "Eu sou irmão, portanto posso" aplicava-se perfeitamente aqui.
+Eu já não era mais um Dale, mas sabe quando alguém insulta seu irmão, e você se irrita, mesmo tendo feito o mesmo antes? Aquela regra de “Eu sou irmão, portanto posso” aplicava-se perfeitamente aqui.
 
 — Os Dales são os maiores piratas que já existiram — afirmei com convicção.
 
@@ -370,7 +370,7 @@ Tzough pensou que eu seria apenas mais um de seus prisioneiros. Ele estava compl
 
 — Há algo que pode fazer Lebargan redimir-se aos seus olhos.
 
-O capitão me encarou com um sorriso intrigante.
+O capitão me encarou com um olhar intrigante.
 
 — Já ouviu falar da Aurora?
 

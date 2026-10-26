@@ -18,6 +18,10 @@ Hardman bufou, irritado, mas enfim continuou.
 
 — O plano é o seguinte — disse Hardman, martelando os ferros tortos dos vasos — alguns piratas estão voltando do saque em Korru. As portas e entradas precisam estar abertas quando eu ativar o Temparalizador. A bolha nos esconde até a garagem, mas há uma regra: fiquem DENTRO dela. Ninguém sai, ninguém toca em nada. Um toque, e tudo desmorona. Temos sessenta ectons para chegar à nave. Aí decolamos pelas portas abertas e seguimos para longe.
 
+— Em português, Hardman — pediu Kord.
+
+— Fiquem dentro da bolha. Não toquem em nada — disse Hardman, sem levantar os olhos do martelo.
+
 — Certo, mas precisamos de comida e armas. Podemos ficar à deriva no espaço por muito tempo — falei.
 
 — Kord já cuidou disso — disse Hardman. — Ele foi designado para uma manutenção em uma das naves há dois dias e levou algumas armas no saco de ferramentas. Quanto à comida, Buni roubou alguns pães no almoço de ontem. Estão bem embalados e guardados debaixo da nossa cama.
@@ -108,7 +112,7 @@ Olhei uma última vez para o capitão e vi uma curiosa arma em sua cintura. Eu s
 
 — Seu traidor, desgraçado! — gritou Hardman, ainda no impulso de tentar pegar o Temparalizador. Ao perceber que eu não estava mais ali, ele se virou, confuso, e me viu ao lado de Vivian, tentando entender como nós fomos parar ali.
 
-— Estão todos prontos? — perguntei com um sorriso, devolvendo o aparelho a Hardman.
+— Estão todos prontos? — perguntei, devolvendo o aparelho a Hardman.
 
 O soco que levei de Kord em seguida foi suficiente para me enfurecer.
 
@@ -130,7 +134,7 @@ Chegamos ao hall de saída. As portas, gigantescas e pesadas, já estavam escanc
 
 — Ok, portas abertas, como isso está tão fácil? — questionei, surpreso.
 
-— Eu cuidei disso — respondeu Kord com um sorriso. — A fiação do sistema das portas do hall atravessa as máquinas.
+— Eu cuidei disso — respondeu Kord, bem-humorado. — A fiação do sistema das portas do hall atravessa as máquinas.
 
 — Nada mal! — respondi.
 
@@ -144,7 +148,7 @@ No momento em que ele terminou de falar, eu senti o ar mudando, a temperatura os
 
 Nesse instante, próximo a um dos piratas armados, agi por instinto. Atirei-me sobre ele, arrebatando sua arma e disparei contra três piratas antes que pudessem reagir.
 
-— CORRAM! — gritou Hardman. Seguimos correndo para a nave que O'reilly indicou, desviando dos tiros inimigos. As portas da nave estavam abertas, então, ao entrarmos, me posicionei atrás da parede de metal, disparando contra qualquer inimigo que tentasse se aproximar. De repente, alguém apareceu ao meu lado, arma em punho. Virei-me rapidamente, mas vi que ela também mirava nos inimigos lá fora.
+— CORRAM! — gritou Hardman. Seguimos correndo para a nave que O’reilly indicou, desviando dos tiros inimigos. As portas da nave estavam abertas, então, ao entrarmos, me posicionei atrás da parede de metal, disparando contra qualquer inimigo que tentasse se aproximar. De repente, alguém apareceu ao meu lado, arma em punho. Virei-me rapidamente, mas vi que ela também mirava nos inimigos lá fora.
 
 — Olá, Jasmey — disse-me Alekta.
 
@@ -212,6 +216,8 @@ Hardman caiu no chão, arrastou-se até um banco e afivelou o cinto. Eu estava c
 
 Quando a nave parou de acelerar e o espaço-tempo ao redor era apenas dobrado, respirei fundo e relaxei. Buni, O’reilly e Kord fizeram o mesmo.
 
+Pela janela, as estrelas à frente se pintavam de azul e as de trás, de vermelho. Ninguém comentou.
+
 — Haha, conseguimos! — falou Hardman. — Seu filho da puta, você conseguiu!
 
 — Eu ouvi mesmo você falar um palavrão, Hardman? — perguntou Kord rindo.
@@ -234,7 +240,7 @@ Buni riu e me levantei do comando, olhando para todos. Hardman estava emocionado
 
 Kord desafivelou o cinto e caminhou lentamente até ela.
 
-— Bom. Ele realmente salvou a vida dela — disse Kord, parando em frente a Vivian com um sorriso. — Olá, eu me chamo Kord. Você é a Vivian, não é?
+— Bom. Ele realmente salvou a vida dela — disse Kord, parando em frente a Vivian de braços abertos. — Olá, eu me chamo Kord. Você é a Vivian, não é?
 
 Vivian não respondeu, parecia assustada. Percebi isso e caminhei até ela.
 
@@ -288,13 +294,13 @@ Levantei-me, irritado, e apontei minha arma para ele. Hardman imediatamente ergu
 
 — Repita o que você falou, seu saco de merda — falei em tom de ameaça.
 
-— Ei, ei, calma aí — disse Hardman — por favor, acabamos de fugir do inferno, e vocês já querem se matar? Sei que cada um tem seus planos pro futuro, mas acontece que somos seis, mas temos apenas uma nave. Por que vamos nos separar agora, se podemos nos unir? Não precisa ser permanente, mas, pelo menos, por enquanto, podemos ficar juntos. Acho que seria mais fácil para todos nós. E podemos decidir nossos próximos passos de forma pacífica.
+— Ei, ei, calma — disse Hardman. — Acabamos de fugir do inferno e já querem se matar? Somos seis e temos uma nave. Cada um tem seus planos, mas a gente decide junto. Por enquanto.
 
 Olhei para os outros dois, de braços cruzados, esperando suas reações.
 
 — E como vamos fazer isso? — perguntou Buni.
 
-— Tem uma forma que é útil e justa — disse Hardman. Ele caminhou até os armários e pegou um pedaço de papel, onde escreveu algo antes de amassar os papéis. — Em cada papel está a inicial de nossos nomes. Vou embaralhá-los, e sortearemos um. Cada um tem um objetivo. O nome sorteado dirá o que faremos primeiro.
+— Tem uma forma justa — disse Hardman. Pegou um papel, escreveu algo e o rasgou em pedaços. — Cada pedaço leva a inicial de um de nós. Sorteamos um, e o sorteado diz o que fazemos primeiro.
 
 — Que se dane essa merda. No primeiro lugar em que pisar, vou atrás de uma nave e parto sozinho atrás da Aurora — bradei.
 
@@ -324,7 +330,7 @@ Buni bateu palmas, animado enquanto eu bufei, irritado.
 
 — Ok — disse Hardman — então Buni... o que vai ser?
 
-— Um bordel... com garotas — disse ele, sorrindo.
+— Um bordel... com garotas — disse ele, animado.
 
 Todos se olharam naquele momento constrangedor.
 
@@ -396,7 +402,7 @@ Buni sacudiu a cabeça.
 
 — Desculpe, mas o cara nunca... espero que não seja precoce na primeira vez — falei.
 
-Vivian soltou um risinho e Kord me empurrou. Me virei, agressivo para ele, e sorri.
+Vivian soltou um risinho e Kord me empurrou. Me virei, agressivo para ele, e sustentei o olhar.
 
 — Não toque em mim outra vez — ameacei.
 
@@ -570,11 +576,11 @@ Quando o silêncio reinou, só o vento zunia ao redor. Hardman se espreguiçou e
 
 Buni respirou fundo, de olhos fechados, e deu os primeiros passos na superfície do planeta, antes de se ajoelhar e se deitar ao chão, sentindo a textura da terra sob seu corpo.
 
-O'Reilly deu saltos no ar, eufórico, enquanto Kord apenas fechava os olhos e respirava fundo. Hardman também parecia encantado.
+O’reilly deu saltos no ar, eufórico, enquanto Kord apenas fechava os olhos e respirava fundo. Hardman também parecia encantado.
 
 — Eu já tinha esquecido como é a sensação do vento batendo no rosto — murmurou Hardman, os olhos semicerrados enquanto uma brisa acariciava sua face.
 
 — Estamos livres, porra! — berrou Kord antes de soltar um grito de pura comemoração.
 
-Dei um sorriso de canto, observando-os desfrutarem da liberdade que lhes fora negada por tanto tempo.
+Fiquei de lado, observando-os desfrutarem da liberdade que lhes fora negada por tanto tempo.
 

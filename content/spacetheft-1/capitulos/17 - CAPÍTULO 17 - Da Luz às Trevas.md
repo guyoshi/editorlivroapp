@@ -1,12 +1,12 @@
 O espaço sempre teve aquele jeito de nos lembrar de como somos pequenos. Mas, claro, a Princesa do Inverno fazia questão de fazer o oposto. Seu interior era um luxo. Quase esquecia que, em algum momento, isso poderia explodir ou ser atingido por um asteroide. A vida sempre tem dessas. Um dia você tá fodendo, no outro tá explodindo no espaço.
 
-O quarto na Princesa do Inverno era tudo menos o que o nome sugeria. Não que eu estivesse reclamando: já dormi em lugares piores, tipo buracos em cavernas infestadas de insetos, mas, ainda assim, chamar aquilo de "quarto" era um exagero.
+O quarto na Princesa do Inverno era tudo menos o que o nome sugeria. Não que eu estivesse reclamando: já dormi em lugares piores, tipo buracos em cavernas infestadas de insetos, mas, ainda assim, chamar aquilo de “quarto” era um exagero.
 
 Eram duas camas. Uma pra Hardman, porque o cara era franzino e tinha prioridade por ser um gênio que, aparentemente, não conseguia consertar seu próprio sono. A outra era de Buni, porque, bom, ninguém tinha coragem de tirar o privilégio de dormir em uma cama do grandão tímido com uma risada que parecia um motor falhando. Eu, Eric, Kord e O’reilly? A gente dormia no chão. Cada um tinha seu canto improvisado com almofadas e cobertores finos que cheiravam levemente a óleo. Não era a cama de uma prostituta, mas dava pro gasto.
 
 O piso era uma chapa metálica recoberta por tapetes finos, mais para evitar o barulho do que pelo conforto. As paredes eram lisas, metálicas, com pequenos painéis de luz azulada, suficiente para não tropeçar em nada. Um monitor embutido era a única tecnologia que realmente funcionava ali, mostrando a frente da nave e o espaço lá fora, lembrando que, mesmo presos naquele cubículo, ainda viajávamos pelo cosmos.
 
-No canto oposto ao monitor, havia uma mesa estreita e dobrável, com ferramentas que Hardman insistia em deixar espalhadas, alegando que "trabalho organizado é trabalho improdutivo". Claro, eu sempre lembrava a ele que chutar uma chave inglesa no meio da noite não era exatamente eficiente também.
+No canto oposto ao monitor, havia uma mesa estreita e dobrável, com ferramentas que Hardman insistia em deixar espalhadas, alegando que “trabalho organizado é trabalho improdutivo”. Claro, eu sempre lembrava a ele que chutar uma chave inglesa no meio da noite não era exatamente eficiente também.
 
 Uma pequena estante, ou melhor, o que parecia um suporte improvisado, segurava algumas tralhas: uma lanterna que piscava mais do que iluminava, um pacote de ração de emergência (que ninguém queria abrir porque parecia mais velho que a nave), e um jogo de cartas que O’reilly insistia em usar para ganhar as moedas que sobravam do bolso de Buni.
 
@@ -70,7 +70,7 @@ O’reilly riu, mas era um riso melancólico.
 
 — Ser como sou foi o que me manteve são. Era o que fazia minha mãe sorrir, e se tem algo que aprendi na vida, é que precisamos de algo para nos agarrar quando tudo parece estar desmoronando. E para mim, é a fé no Divino Sacerdote que me mantém, um elo com o que é puro e inabalável.
 
-Eu dei um tapinha nas costas dele, mais como um gesto de "tá bom, chega de drama".
+Eu dei um tapinha nas costas dele, mais como um gesto de “tá bom, chega de drama”.
 
 — É como me sinto, quando canto — disse Kord.
 
@@ -90,6 +90,8 @@ Kord, do outro lado, riu baixo.
 
 Buni tentou se recompor, mas a risada escapava sempre que olhava para Vivian. Ela, por outro lado, pegou o pano da mão dele e começou a limpar, revirando os olhos de forma tão dramática que até Hardman olhou e fez sua própria careta em solidariedade.
 
+Buni ergueu a caixa de ferramentas com uma mão, a mesma que três de nós tínhamos arrastado, e a pôs no lugar sem reparar. Eu reparei. Guardei a informação para a próxima vez que ele me irritasse.
+
 — Vocês vivem de forma tão descompromissada — ele disse, finalmente, quase como um sussurro.
 
 Eu sabia que algo vinha. Hardman raramente falava daquele jeito, e, pela primeira vez, seus movimentos meticulosos no bracelete de Eric pareciam automáticos, como se ele estivesse em piloto automático. Eric, por outro lado, olhava de esguelha para as mãos de Hardman, claramente desconfortável com o silêncio e a precisão exagerada.
@@ -102,7 +104,7 @@ Eric, ainda preso ao bracelete, ergueu uma sobrancelha, como se quisesse contest
 
 Hardman pausou, ajustando uma ferramenta no bracelete. O clique seco do metal ecoou na cabine. Eric engoliu em seco, mas manteve-se imóvel.
 
-— Kaséia era linda — continuou com um breve sorriso. — Mas, para o meu pai, aquele paraíso era uma prisão. Quando meu avô morreu, ele herdou uma pequena fortuna. E decidiu que não ia fazer o mesmo que meu avô. Não ia passar a vida inteira trabalhando, sem ver nada do universo. Ele vendeu tudo, comprou uma nave, e nos levou para as estrelas. Ele, minha irmã mais nova e eu. Foi a melhor época da minha vida. Viajamos para lugares que pareciam saídos de contos de fadas. Meu pai dizia que tinha fontes confiáveis. Sempre que íamos procurar algo, encontrávamos. Foi através dele que ouvi falar da Aurora pela primeira vez. Ele dizia que era o lugar mais próximo do paraíso que alguém poderia encontrar no universo. Ele sempre quis nos levar para lá.
+— Kaséia era linda — continuou, mais leve. — Mas, para o meu pai, aquele paraíso era uma prisão. Quando meu avô morreu, ele herdou uma pequena fortuna. E decidiu que não ia fazer o mesmo que meu avô. Não ia passar a vida inteira trabalhando, sem ver nada do universo. Ele vendeu tudo, comprou uma nave, e nos levou para as estrelas. Ele, minha irmã mais nova e eu. Foi a melhor época da minha vida. Viajamos para lugares que pareciam saídos de contos de fadas. Meu pai dizia que tinha fontes confiáveis. Sempre que íamos procurar algo, encontrávamos. Foi através dele que ouvi falar da Aurora pela primeira vez. Ele dizia que era o lugar mais próximo do paraíso que alguém poderia encontrar no universo. Ele sempre quis nos levar para lá.
 
 Buni, que até então estava tentando não chamar atenção, soltou um som baixo, como um “hmm” curioso. Vivian o cutucou de leve, mas ele apenas deu de ombros e continuou ouvindo.
 
@@ -110,7 +112,7 @@ Buni, que até então estava tentando não chamar atenção, soltou um som baixo
 
 Hardman soltou um som que poderia ser uma risada, mas continuou sério.
 
-— Viajar com ele era como viver em uma história de aventura — Hardman disse, soltando um pequeno sorriso.
+— Viajar com ele era como viver em uma história de aventura — Hardman disse, relaxando os ombros.
 
 Ele parou de falar e também de mexer no bracelete. Ficou quieto por um momento, os olhos pesados.
 
@@ -172,7 +174,7 @@ Kord imediatamente estreitou os olhos, avançando um passo.
 
 — E o que você vai fazer com isso, Jasmey?
 
-Eu sorri, aquele sorriso que, pra quem me conhecia, significava: 'Não é da sua conta, seu intrometido'. Afinal, por que eu contaria meus planos a ele?
+Eu sorri, aquele sorriso que, pra quem me conhecia, significava: “Não é da sua conta, seu intrometido”. Afinal, por que eu contaria meus planos a ele?
 
 — Precaução, só isso.
 
@@ -200,7 +202,9 @@ Kord hesitou, os olhos arregalados.
 
 — Esse bracelete... — comecei, apontando para as luzes. — não é só um rastreador. Ele é uma máquina extremamente avançada. Mesmo que você jogue fora, a informação de cada um de nós já está registrada nos bancos da Lebargan. Eles sabem quem somos e estão vindo atrás de nós.
 
-Vivian cruzou os braços, seus olhos fixos no bracelete. Seu semblante dizia tudo: preocupação.
+Vivian apertou o próprio pulso, os olhos fixos nas luzes do bracelete. Seu semblante dizia tudo: preocupação.
+
+— E não adianta vigiar o horizonte — acrescentei. — A Lebargan se camufla no vazio. Quando alguém a vê, já está dentro dela.
 
 — Nossa única chance é chegar rápido na Aurora. Quando ele nos encontrar, eu irei derrotá-lo, tomarei a Lebargan, e darei a cada um de vocês uma nave nova. Poderão carregar muito mais gerbe cada um com sua própria nave, do que apenas nessa.
 
@@ -288,7 +292,7 @@ Ele olhou para mim, surpreso.
 
 — Quero que os propósitos se fodam. Mas podemos nos ajudar. Como uma família improvisada.
 
-Hardman sorriu, ligeiramente.
+Hardman relaxou, ligeiramente.
 
 — Bom, pelo menos isso é um começo.
 
@@ -336,6 +340,10 @@ O silêncio na cabine era palpável. Até Eric, geralmente o primeiro a soltar u
 
 — Nebulosas escuras são regiões densas de gás e poeira cósmica — disse Hardman. — Voar dentro delas é como dirigir no meio de uma neblina tóxica, só que em velocidade absurda. A nave vai depender exclusivamente dos sensores, porque a visibilidade é zero.
 
+— Em resumo? — pediu Kord.
+
+— Vamos voar cegos — traduzi, antes que Hardman abrisse a boca para outra aula.
+
 Buni, que estava inclinado sobre a mesa, olhando pelo vidro, endireitou-se lentamente, a preocupação óbvia em seu rosto. Vivian, ao lado dele, inclinou a cabeça, os olhos fixos na tela como se tentasse medir a dimensão daquilo.
 
 — É gigantesca... — murmurou Kord, cruzando os braços. Sua postura rígida não escondia a tensão no ar.
@@ -363,6 +371,8 @@ Buni soltou um som nervoso, algo entre um grunhido e um suspiro, enquanto Vivian
 Eu me inclinei, os olhos fixos naquilo.
 
 — Bom, vamos lá, Princesa do Inverno — murmurou Hardman. — Mostre que você pode enfrentar qualquer coisa.
+
+Um brilho rosado de gás incandescente tingiu as janelas por alguns segundos, o último luxo antes do escuro.
 
 A nave mergulhou numa escuridão tão densa que parecia sólida. Gases opacos envolveram o casco, a luz das estrelas desapareceu, e partículas de poeira cósmica passavam pelas janelas como fagulhas incandescentes.
 
@@ -392,7 +402,7 @@ Antes que eu pudesse responder, o formigamento se espalhou. Minhas pernas cedera
 
 — Puta que pariu! — resmunguei, tentando me levantar, mas meu corpo, o traidor, não me obedecia.
 
-Buni correu para tentar me ajudar, mas sua risada extravagante atrapalhou mais do que ajudou. Vivian, ao lado, cruzou os braços e balançou a cabeça com uma expressão de reprovação silenciosa, gesticulando rapidamente como se dissesse “Você só pode estar brincando comigo”.
+Buni correu para tentar me ajudar, mas sua risada extravagante atrapalhou mais do que ajudou. Vivian, ao lado, balançou a cabeça com uma expressão de reprovação silenciosa, gesticulando rapidamente como se dissesse “Você só pode estar brincando comigo”.
 
 Hardman bufou, colocando a garrafa de volta na prateleira com força.
 

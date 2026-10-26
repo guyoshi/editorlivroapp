@@ -32,11 +32,11 @@ Vek, ainda com as mãos pegajosas, aproximou-se relutante e ajeitou o chapéu so
 
 — Minhas missões são rápidas, a não ser que envolvam uma dama encantadora — retruquei, devolvendo o sorriso com um charme forçado.
 
-— Já ouvi dizer que seu 'talento' é tão pequeno quanto uma agulha — ela zombou, ainda sorrindo.
+— Já ouvi dizer que seu “talento” é tão pequeno quanto uma agulha — ela zombou, ainda sorrindo.
 
 — Já sentiu a picada aguda de uma agulha? — rebati, elevando uma sobrancelha em desafio.
 
-— Oh, eu pagaria para ver — ela riu, me dando um soco leve no braço. — E então, como foi "lá embaixo"?
+— Oh, eu pagaria para ver — ela riu, me dando um soco leve no braço. — E então, como foi “lá embaixo”?
 
 — Repugnante. Montei numa cobra voadora, quase caí, ganhei um olho. No fim das contas, um saldo positivo. — revelei, mostrando o olho grotesco que segurava. — Sim, eu matei a criatura. Tentou me devorar, mas falhou miseravelmente.
 
@@ -108,7 +108,7 @@ Jelles ainda me encarou, seu olhar penetrante buscando a verdade.
 
 — Bom trabalho, garoto. E você — sua atenção se voltou brevemente para Genrir, ainda se contorcendo de dor — volte ao trabalho.
 
-Jelles se afastou entre os Dales. Havia um quê de ameaça naquele sorriso, um lembrete de que, mesmo na calmaria, a tempestade nunca estava longe.
+Jelles se afastou entre os Dales. Havia um quê de ameaça naquela calma, um lembrete de que, mesmo na calmaria, a tempestade nunca estava longe.
 
 — Lembre ao seu irmão da reunião no salão do conselho. Cuidarei de avisar os outros — falei, virando-me para Amanda, cuja expressão misturava frustração e preocupação.
 
@@ -146,7 +146,7 @@ Sr. Peron baixou o olhar, conflito e gratidão misturando-se em seu semblante.
 
 — Seria uma honra estar ao seu lado neste momento, Sr. Peron.
 
-Ele sorriu, um gesto de reconhecimento e respeito mútuo. Peron havia sido uma lenda, um dos melhores Dales da Lebargan e, acima de tudo, um homem honroso, bondoso e gentil. Mas o tempo é um adversário que todos enfrentamos, e nas voltas de hoje ninguém mais o reconhecia.
+Ele assentiu, um gesto de reconhecimento e respeito mútuo. Peron havia sido uma lenda, um dos melhores Dales da Lebargan e, acima de tudo, um homem honroso, bondoso e gentil. Mas o tempo é um adversário que todos enfrentamos, e nas voltas de hoje ninguém mais o reconhecia.
 
 — É bom ter as pessoas certas ao seu lado no final — disse Sr. Peron.
 
@@ -274,7 +274,7 @@ Cap. Jelles então começou a caminhar entre nós, sua presença impondo uma qui
 
 — Detecto um vislumbre de compaixão em suas palavras?
 
-— Jamais, capitão. Foi apenas uma questão — Samara apressou-se a esclarecer, mascarando sua hesitação com um sorriso forçado.
+— Jamais, capitão. Foi apenas uma questão — Samara apressou-se a esclarecer, mascarando sua hesitação com uma risadinha nervosa.
 
 Com passos calculados, Cap. Jelles se aproximou de Samara, seus dedos deslizando pelos cabelos dela num gesto que oscilava entre a ameaça e o carinho.
 
@@ -282,7 +282,7 @@ Com passos calculados, Cap. Jelles se aproximou de Samara, seus dedos deslizando
 
 — Sim, capitão — Samara assentiu, uma nova resolução brilhando em seus olhos.
 
-— Se o Jasmey se afrouxar, pode deixar que eu cuido dos Dekraazianos, capitão — provocou Eric, um sorriso astuto nos lábios.
+— Se o Jasmey se afrouxar, pode deixar que eu cuido dos Dekraazianos, capitão — provocou Eric, com um brilho astuto no olhar.
 
 — Acho que tá na hora de eu afrouxar minha mão na sua cara, Eric — retruquei, a tensão entre nós palpável.
 

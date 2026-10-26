@@ -16,7 +16,7 @@ As armas estavam em mãos, agora era hora de seguir com o plano.
 
 — Eu sabia que era uma missão suicida — resmungou Kord — vocês nos condenaram. A todos nós.
 
-Se Jelles sabia que tentaríamos escapar por ali, os dales estariam esperando, armados até os dentes. Passei os dedos pela alça do Gravitador, sentindo o peso do dilema.
+Se Jelles sabia que tentaríamos escapar por ali, os Dales estariam esperando, armados até os dentes. Passei os dedos pela alça do Gravitador, sentindo o peso do dilema.
 
 Então, uma voz familiar surgiu do meio da penumbra.
 
@@ -52,7 +52,7 @@ Hardman cruzou os braços.
 
 — Ok, momentos de reencontro são adoráveis, mas eu só quero saber como diabos vamos sair daqui?
 
-Amanda sorriu, um brilho de confiança nos olhos.
+Amanda ergueu o queixo, um brilho de confiança nos olhos.
 
 — As barreiras da nave estão desativadas.
 
@@ -84,7 +84,7 @@ O grupo trocou olhares. Eric assentiu, estava acostumado com a câmara.
 
 — Como saberemos que vocês vão aparecer? — Kord questionou.
 
-Amanda sorriu de lado.
+Amanda assentiu de lado.
 
 — Não saberão. Somos piratas, querido.
 
@@ -133,6 +133,12 @@ O traje era leve e flexível, quase uma segunda pele, com um brilho sutil que le
 Eric passou um olhar rápido para Vivian, que já estava de capacete e pronta para seguir com o plano.
 
 — O segredo é que não há segredo. Quando a nave aparecer, esperamos a posição certa e aí é só ativar. Mas, lembrem-se, se abrirmos na hora errada, vamos ser jogados pelo espaço até a eternidade.
+
+Eric tirou o Olho do Domongo da bolsa e o estendeu a Vivian.
+
+— Ele só acende para você — disse. — Guarde, se eu não puder.
+
+Vivian o prendeu ao cinto e não disse nada.
 
 A tensão era quase insuportável. Fiquei observando a tela, os minutos passando lentamente, a mente em guerra com a chance de tudo dar errado. Mas não havia mais tempo para duvidar.
 
@@ -246,11 +252,13 @@ O nome da arma não fazia jus ao que ela era capaz de fazer. O Gravitador era um
 
 Apontamos os Gravitadores para o solo e ativamos.
 
-Os pulsos gravitacionais perfuraram o chão. O gerbe, apesar de incrivelmente denso, foi sendo arrancado em placas maciças que quebravam como vidro. Mesmo com o peso reduzido, o material ainda era absurdamente pesado para movermos sem esforço.
+Os pulsos gravitacionais perfuraram o chão, cada um devolvendo um coice seco nos braços e nos pés. O gerbe, apesar de incrivelmente denso, foi sendo arrancado em placas maciças que quebravam como vidro. Mesmo com o peso reduzido, o material ainda era absurdamente pesado para movermos sem esforço.
 
 Pensei em Zekko e no deserto que ele chamava de planeta. Extrair o gerbe era mais um dedo meu naquela ferida. Extraí mesmo assim.
 
 Começamos a arrastar os blocos até as naves, cada passo um esforço. O tempo parecia correr contra nós.
+
+Buni carregava dois blocos de uma vez, a risada saindo em soluços pelo rádio do capacete. Pela primeira vez, ninguém pediu que ele parasse.
 
 Após três idas, as duas naves pareciam cheias o suficiente. Olhei ao redor.
 
@@ -274,15 +282,17 @@ Então uma sombra começou a descer dos céus. Meus olhos se arregalaram para o 
 
 A Prosépina pousou com precisão calculada, erguendo redemoinhos dourados de poeira de gerbe. O brilho da anã branca projetava sombras alongadas no solo metálico. Duas outras naves menores pousaram atrás, formando um cerco que eliminava qualquer fuga fácil.
 
-A rampa desceu lentamente e os primeiros dales saíram, armados. Entre eles, rostos familiares: guerreiros que lutaram ao meu lado e agora apontavam armas para mim. Mas foi quando ele surgiu que o ar pareceu pesado demais.
+A rampa desceu lentamente e os primeiros Dales saíram, armados. Entre eles, rostos familiares: guerreiros que lutaram ao meu lado e agora apontavam armas para mim. Mas foi quando ele surgiu que o ar pareceu pesado demais.
 
 Jelles tinha a mesma postura impecável, a mesma confiança de sempre. O casco escuro do casaco quase tocava seus pés enquanto ele descia a rampa, cada passo carregado de domínio absoluto da situação.
+
+Vivian me cutucou nas costas e apontou o chão. A anã branca esticava nossas sombras por metros. A de Jelles não alcançava o gerbe. Fingi não ver; precisava dele falando.
 
 — Piratas sempre são atraídos pelo tesouro, não é verdade? — Sua voz carregava um tom de desprezo divertido, como se estivesse reencontrando um animal de estimação perdido.
 
 Cruzei os braços, sem tirar os olhos dele.
 
-— Estamos aqui Jelles, na frente dos dales e da Lebargan. É a melhor hora pra finalmente termos nosso segundo round. É hora de você provar se realmente merece ser o capitão da Lebargan.
+— Estamos aqui Jelles, na frente dos Dales e da Lebargan. É a melhor hora pra finalmente termos nosso segundo round. É hora de você provar se realmente merece ser o capitão da Lebargan.
 
 Jelles riu baixinho, balançando a cabeça.
 
@@ -298,13 +308,13 @@ Eu sentia o peso de suas palavras, mas minha paciência estava curta demais para
 
 — Você acha que pode ter controle das coisas, Jelles. Mas não tem. Nunca poderá controlar a mente das pessoas. Como nunca controlará esta criatura.
 
-Jelles abriu um sorriso.
+Jelles pareceu se divertir.
 
 — A Besta é minha. Assim como a Lebargan.
 
 Minha expressão não mudou, mas algo em meu peito se apertou.
 
-— Não. A Lebargan é dos dales. Sempre será.
+— Não. A Lebargan é dos Dales. Sempre será.
 
 — Chega desse discursinho de herói. Você não é um herói Jasmey. Você matou mais do que qualquer um pode imaginar. Direta e indiretamente, as pessoas ao seu redor, todas morrerão. Porque você sempre tenta ser o que não é — Ele ergueu o olhar para o céu, como se enxergasse além. — A sua morte seria um favor para os seus aliados.
 
@@ -334,7 +344,7 @@ Amanda olhou para mim, depois para Hardman, mas não disse nada. Hardman já est
 
 Os motores da Princesa do Inverno começaram a rugir, e eu soube que era o fim. Eles estavam indo embora.
 
-Jelles sorriu ao ver a cena.
+Jelles observou a cena, satisfeito.
 
 — Parece que ninguém se importa com você.
 
@@ -348,7 +358,7 @@ Jelles sorriu de lado, como se aquilo fosse exatamente o que ele esperava.
 
 — Parece que vamos ter uma bela vista.
 
-Os dales começaram a correr em direção às duas naves ao fundo. Mas eu não me mexi, tal como Jelles.
+Os Dales começaram a correr em direção às duas naves ao fundo. Mas eu não me mexi, tal como Jelles.
 
 Por muito tempo, pensei que a única forma de derrubar Jelles era enfiando um punho na cara dele até que ele parasse de respirar. Mas agora, olhando ao redor, vendo os olhos dos Dales fixos em nós, percebi que minha luta nunca foi contra um homem. Era pela liberdade.
 
@@ -370,7 +380,7 @@ Os Dales começaram a murmurar entre si. Até mesmo aqueles que estavam prontos 
 
 Mas antes que qualquer um pudesse reagir, o som de motores rugiu pelo ar.
 
-A Prosépina se ergueu do chão. Os dales estavam fugindo. O meu destino estava selado. Iria morrer ali naquele planeta. No entanto, a nave girou no ar e desceu diretamente na minha direção.
+A Prosépina se ergueu do chão. Os Dales estavam fugindo. O meu destino estava selado. Iria morrer ali naquele planeta. No entanto, a nave girou no ar e desceu diretamente na minha direção.
 
 Os primeiros tiros foram disparados, mas foi contra o casco da Prosépina que bloqueou os disparos contra mim, protegendo-me.
 
@@ -380,7 +390,7 @@ A comporta inferior se abriu e eu ouvi uma voz.
 
 O vento quente da propulsão quase arrancou o chapéu da minha mochila enquanto eu corria, pulando para dentro da nave. A comporta se fechou no instante em que novos tiros cortaram o ar onde eu estava segundos antes. Quase. Mas “quase” não mata um Dale.
 
-Lá dentro, Amanda estava nos controles, e Genrir, com seu sorriso torto, me observava.
+Lá dentro, Amanda estava nos controles, e Genrir, com seu jeito torto, me observava.
 
 — Vocês não fugiram com os outros? — murmurei, arfando.
 
@@ -411,6 +421,8 @@ Minhas mãos firmes sobre os comandos, respirei fundo antes de encará-la.
 — O que precisa ser feito.
 
 Sem dar espaço para mais perguntas, puxei os controles e a Prosépina disparou em direção à Lebargan. Os sistemas começaram a apitar em alerta, enquanto a gravidade oscilava violentamente com a proximidade do buraco negro recém-formado. No painel, indicadores piscavam em vermelho.
+
+Os visores escureceram sozinhos contra o clarão do disco que nascia, e o relógio da nave passou a discordar do meu bracelete por alguns segundos. Não era defeito. Era o buraco negro.
 
 — Isso é suicídio! — Genrir gritou, segurando-se na lateral da cabine enquanto a nave chacoalhava.
 
@@ -510,7 +522,7 @@ Quando ele foi me socar. Agarrei a mão com minha mão de metal e seu olhar vaci
 
 — Eu tenho que te agradecer, capitão — falei em tom de deboche, o olhando nos olhos — Você me deu um motivo… para lutar por minha vida. Uma única razão para chegar até aqui.
 
-Apertei a mão dele e o vi gritar de dor. Então o soquei a cara com minha mão de metal, e ele cambaleou para trás, o nariz quebrado. Me levantei. Estávamos nos fundos da nave, perto da comporta. Jelles limpou o sangue do rosto com as costas da mão e me encarou com um olhar furioso. Então sorri de lado e olhei para ele.
+Apertei a mão dele e o vi gritar de dor. Então o soquei a cara com minha mão de metal, e ele cambaleou para trás, o nariz quebrado. Me levantei. Estávamos nos fundos da nave, perto da comporta. Jelles limpou o sangue do rosto com as costas da mão e me encarou com um olhar furioso. Então olhei para ele.
 
 — Mas pra minha missão ser cumprida, Jelles, como você mesmo diz, não deve haver sobreviventes.
 

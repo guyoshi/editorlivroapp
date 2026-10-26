@@ -70,7 +70,7 @@ Parei por um, instante e juntei as pontas.
 
 — Sim. O Mestre é um mercador, eles são loucos por dinheiro e tesouros. Nada muito diferente de nós, não é Jasmey?
 
-— Ok, mas ainda acho seu plano maluco. Acha que pode tirar sua irmã de lá e lutar contra todos os seus irmãos? — perguntei, com um sorriso debochado.
+— Ok, mas ainda acho seu plano maluco. Acha que pode tirar sua irmã de lá e lutar contra todos os seus irmãos? — perguntei, em tom debochado.
 
 Eric pareceu extremamente desconfortável com a minha reação.
 
@@ -144,7 +144,7 @@ Olhei para a garota e vi que ela era persistente. Então Kord em um movimento r�
 
 — Shh — ela fez com a boca pedindo silêncio.
 
-Vivian encarou o olho por um instante, e por algum momento jurei ter visto pequenas partículas ou feixes de luz "dançar" dentro dos olhos dela. Foi então que algo curioso aconteceu. Da pupila do olho do Domongo, uma luz violeta surgiu, sutil, mas direta, apontando para o teto.
+Vivian encarou o olho por um instante, e por algum momento jurei ter visto pequenas partículas ou feixes de luz “dançar” dentro dos olhos dela. Foi então que algo curioso aconteceu. Da pupila do Olho do Domongo, uma luz violeta surgiu, sutil, mas direta, apontando para o teto.
 
 — O que é isso? — Eric começou.
 
@@ -266,7 +266,7 @@ Sorri, aquele tipo de sorriso que sabia que o irritava.
 
 Eric pensou, e então se virou para mim.
 
-— Eles parecem ser boa gente. Se o seu plano não der certo… você pode condená-los, sabe disso.
+— Eles parecem ser boa gente. Se o plano der errado, você os condena junto, sabe disso.
 
 — Ele vai dar certo. No final, eles vão agradecer a mim… vamos beber uma última vez, e poderei descansar com a mente tranquila — falei, me jogando na cama.
 
@@ -356,7 +356,7 @@ Ele sorriu, um sorriso cheio de dentes, e então perguntou com curiosidade exage
 
 — Mas me digam… como pretendem chegar até a Aurora? Seu amigo aí tem um mapa mágico ou algo assim?
 
-Suspirei, já cansado do tom teatral. Fiz sinal para Eric, que tirou o olho do Domongo da bolsa e o segurou na mão, firme.
+Suspirei, já cansado do tom teatral. Fiz sinal para Eric, que tirou o Olho do Domongo da bolsa e o segurou na mão, firme.
 
 Vivian, sempre atenta, estendeu a mão para tocá-lo, ativando novamente o feixe de fótons que iluminava o ambiente. Um traço púrpura disparou em direção ao teto, projetando o que parecia ser uma constelação de estrelas conectadas por linhas brilhantes.
 
@@ -424,7 +424,7 @@ Eu me joguei no assento do piloto antes que ele pudesse protestar mais, ajustei 
 
 Quando a nave decolou, senti o coração acelerar. Era como se o universo finalmente estivesse me chamando de volta. A gravidade diminuiu, e em instantes estávamos no espaço, cercados por um vazio pontilhado de estrelas.
 
-— É isso! — falei, um sorriso confiante no rosto. — Estamos indo para a Aurora — então continuei baixo para que só eu ouvisse — estou indo até você, Jelles.
+— É isso! — falei, a confiança estampada no rosto. — Estamos indo para a Aurora — então continuei baixo para que só eu ouvisse — estou indo até você, Jelles.
 
 Kord começou a cantarolar algo, Buni soltou sua risada característica, e Hardman suspirou dramaticamente, provavelmente pensando no caos que ainda estava por vir. Mas, pela primeira vez em muito tempo, senti que as coisas estavam dando certo.
 

@@ -128,9 +128,9 @@ Hardman olhou para O’reilly, como se a resposta fosse óbvia.
 
 — E como explicaria isso pra sua irmã depois? Que matou o amigo dela.
 
-— Amanda nem lembra mais de você. Ela como todos os outros acham que você foi um cretino e que desafiou toda a ordem dos dales.
+— Amanda nem lembra mais de você. Ela como todos os outros acham que você foi um cretino e que desafiou toda a ordem dos Dales.
 
-Embora aquele comentário tivesse mexido comigo, soltei um sorriso irônico e respondi:
+Embora aquele comentário tivesse mexido comigo, soltei uma risada irônica e respondi:
 
 — Errada ela não está.
 
@@ -144,7 +144,7 @@ Hardman pôs as mãos na testa e suspirou.
 
 — Olhe pra você, Hardman. Seria levado pro espaço facinho. Eric… já vimos o que nos custou deixar ele no comando. Talvez possamos chamar o Kord para cantar para o motor funcionar.
 
-— Eu tenho certeza que a canção de Kord seria o suficiente pra acordar este motor — disse O’reilly com um sorriso.
+— Eu tenho certeza que a canção de Kord seria o suficiente pra acordar este motor — disse O’reilly animado.
 
 Enquanto caminhávamos pelo corredor em direção às comportas da nave, ouvimos mais alguns sons metálicos estranhos. Dessa vez, até Hardman parecia preocupado.
 
@@ -267,6 +267,8 @@ Olhei ao redor, iluminando a escuridão com minha lanterna. Foi então que vi al
 — Esporo do quê? — perguntei, enquanto soltava o cabo do kit e o meu próprio.
 
 Buni então explicou:
+
+— Na fazenda tinha um livro sobre eles. Era o único. Li até desbotar.
 
 — Tersários vivem em meteoritos escuros. Eles depositam esporos em superfícies quentes para criar novos indivíduos. Se encontrou esporos... a mãe deles pode estar por aí.
 
@@ -434,7 +436,7 @@ Eric balançou a cabeça, incrédulo.
 
 — Você não conhece esse carinha, ele tem sempre uma boa ideia que envolva coisas pequenas e contidas — falei, ácido.
 
-Hardman ergueu uma sobrancelha para mim. Vivian cruzou os braços e lançou um olhar penetrante para Hardman, mas foi Buni, que estava parado ao lado, interveio.
+Hardman ergueu uma sobrancelha para mim. Vivian estreitou os olhos para Hardman, num olhar penetrante, mas foi Buni, parado ao lado, quem interveio.
 
 — Ele tem razão. — A voz de Buni era hesitante, mas ele parecia decidido a compartilhar sua opinião. — Se as condições forem mantidas, o tersário não poderá se mover.
 
@@ -442,7 +444,7 @@ Kord tocou no ombro do amigo.
 
 — Ei Buni — disse — Não tente bancar o herói de novo, ok.
 
-Buni deu um sorriso sem graça.
+Buni coçou a nuca, sem graça.
 
 — Vocês são meus amigos. Os únicos amigos que eu já tive na vida.
 
@@ -450,7 +452,7 @@ Kord não o respondeu, apenas sorriu para ele e deu-lhe alguns tapinhas nas cost
 
 Hardman olhou para mim, esperando a piada.
 
-— Ok, faz lá o que você tem que fazer — falei, e engoli o resto da frase antes que ele saísse. Ele percebeu e fingiu que não.
+— Vai lá fazer o que precisa — falei, e engoli o resto da frase antes que ele saísse. Ele percebeu e fingiu que não.
 
 Por fim, acabamos por seguir o plano de Hardman. Nos aproximamos do tersário congelado, começando o trabalho de movê-lo. A criatura era maior e mais pesada do que parecia, mesmo paralisada. Por sorte a cápsula de criogenia da Princesa do Inverno era extensa e larga. Ainda assim, encaixá-la lá foi um esforço monumental.
 

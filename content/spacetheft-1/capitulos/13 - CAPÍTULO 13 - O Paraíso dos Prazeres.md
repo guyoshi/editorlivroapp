@@ -30,7 +30,7 @@ No meio do caminho, Hardman se aproximou e disse baixo, só para mim:
 
 — Digitais? Isso quer dizer que se eu cortasse seu polegar, conseguiria controlar a nave, não é? — perguntei sarcasticamente.
 
-Hardman olhou para mim, surpreso, mas logo sorri, ironicamente.
+Hardman olhou para mim, surpreso, mas logo dei de ombros, irônico.
 
 — Eu estou brincando com você, meu amigo.
 
@@ -254,7 +254,7 @@ Luna olhou para mim e se sentou.
 
 — Tenho amigos também. Que fodem muito gostoso.
 
-Olhei para Hardman e sorri. O homem parecia não estar curtindo o momento.
+Olhei para Hardman, divertido. O homem parecia não estar curtindo o momento.
 
 — Não estou afim — resmungou Hardman.
 
@@ -294,7 +294,7 @@ Sorri. Sim. Sou totalmente seu. Luna me beijou e então se levantou de meu colo.
 
 — Temos de aproveitar a vida, não é? Nunca sabemos quando será nossa última vez — disse ela me mandando um beijo e saindo.
 
-Respirei fundo e sorri, olhando para Hardman que parecia enojado. Então ergui o braço para dar um tapa nas costas dele, mas ele segurou minha mão.
+Respirei fundo, olhando para Hardman que parecia enojado. Então ergui o braço para dar um tapa nas costas dele, mas ele segurou minha mão.
 
 — Vamos embora daqui! Já chega!
 
@@ -436,7 +436,7 @@ Buni não respondeu. Estava cabisbaixo. Assim que Vivian o viu, tratou de cobrir
 
 — Ei — O’reilly chamou a Hardman, o perguntando baixo — foi tão ruim assim?
 
-— Na verdade, nosso amigo acabou fazendo mais que o trabalho dele — falei sorrindo para Buni — não é Buni?
+— Na verdade, nosso amigo acabou fazendo mais que o trabalho dele — falei para Buni — não é Buni?
 
 Buni mais uma vez não respondeu. Apenas se sentou no chão e respirou fundo.
 
@@ -470,7 +470,7 @@ Esperamos por quase 160 ectons, observando a festa, com muita vontade de partici
 
 — Jasmey... — disse Hardman respirando fundo, buscando paciência — Eu não vou ficar aqui no frio, vou entrar na nave e amanhã procuramos algum material para usarmos na nave.
 
-— Lá está ela. Eu disse que ela viria — falei, sorrindo enquanto via, no meio do matagal, Luna caminhando em nossa direção.
+— Lá está ela. Eu disse que ela viria — falei, enquanto via, no meio do matagal, Luna caminhando em nossa direção.
 
 — Deu sorte — disse Hardman — se ela não viesse, eu amarraria você em um poste amanhã antes de partirmos e lhe deixaria aqui.
 
@@ -484,7 +484,7 @@ Olhei para Hardman, desconfiado.
 
 Olhei para Hardman, então segui na direção dela.
 
-— Já posso lhe pagar? — indaguei ao alcançá-la, com um sorriso.
+— Já posso lhe pagar? — indaguei ao alcançá-la.
 
 — É um homem ansioso. Quer pagar, antes de receber — disse Luna — aqui está.
 
@@ -566,7 +566,7 @@ Apanhei o doce de sua mão e olhei pra ele. Curioso, nunca tinha visto aquele ti
 
 A agarrei enquanto ela começava a beijar meu peito e ia subindo pelo pescoço.
 
-— Vai com calma, sereia-da-nebulosa, a noite é longa — falei lhe dando um sorriso.
+— Vai com calma, sereia-da-nebulosa, a noite é longa — falei, piscando para ela.
 
 — A frase certa é a noite é uma criança. Assim como você, meu pequeno pombinho — disse-me ela me olhando nos olhos enquanto seus dois olhos se dividiam e se separavam do rosto.
 

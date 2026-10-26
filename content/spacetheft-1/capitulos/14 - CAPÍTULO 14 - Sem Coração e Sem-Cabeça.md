@@ -78,6 +78,8 @@ Seguimos de volta para Geores. O dia estava mais quente que o anterior, e eu est
 
 Na cidade, procuramos nossos colegas por quase sessenta ectons, até encontrá-los numa feira, conversando com um comerciante de chapéu engraçado. Na verdade, Vivian conversava com o homem por sinais. Eu precisava aprender aquilo. Quando ela se afastou, virou-se para Hardman e explicou o que entendera, e Hardman nos explicou.
 
+Naquela tarde pedi a Vivian que me ensinasse um sinal, qualquer um, só para ter o que responder quando ela me xingasse. Ela me ensinou “obrigado”. Tentei devolver “idiota”. Ela repetiu o “obrigado” mais devagar, como se eu fosse a criança do grupo.
+
 — O homem disse que toda semana, naves saem de Moldar, uma cidade ao norte daqui, localizada no meio de um deserto que ela não conseguiu entender muito bem qual é. A próxima nave sai em quatro dias, e por coincidência hoje a noite sai um transporte para a cidade. Em três dias chegamos lá se pegarmos este transporte.
 
 — Dias... de quanto tempo estamos falando? — perguntei.
@@ -130,7 +132,7 @@ Buni parecia inquieto olhando para os lados.
 
 — Ainda pensando nela, irmão? — perguntei — ainda vão se reencontrar, pode ficar tranquilo.
 
-Olhei para Vivian e assenti para ela, me virando e entrando no bar com O'reilly.
+Olhei para Vivian e assenti para ela, me virando e entrando no bar com O’reilly.
 
 — Sejam bem-vindos ao Sem-cabeça — disse um alienígena estranho. Sua forma se assemelhava a um inseto, com um exoesqueleto e diversas cerdas no rosto, no lugar dos olhos. Havia uma cavidade bocal, mas tinha sido adaptada com alguns acessórios de metal para que ele pudesse se comunicar como nós falamos.
 
@@ -146,7 +148,7 @@ Segui pelo meio das pessoas até o balcão e esperei ser atendido. A atendente, 
 
 — O quê? — perguntei, mas a atendente saiu e voltou a conversar com seu cliente.
 
-Olhei para O'reilly e segui até a mesa do jogo, que estava no final. Enquanto observava, entendi como funcionava: cada jogador deslocava suas pedras por um tabuleiro; toda vez que uma pedra se aproximava, na horizontal, vertical ou diagonal, da pedra do adversário, esta era removida. Também se podia pular a pedra do adversário para eliminar as de trás. Três homens jogavam contra Quinn. Um deles estava com apenas mais três pedras e não demorou a ser eliminado.
+Olhei para O’reilly e segui até a mesa do jogo, que estava no final. Enquanto observava, entendi como funcionava: cada jogador deslocava suas pedras por um tabuleiro; toda vez que uma pedra se aproximava, na horizontal, vertical ou diagonal, da pedra do adversário, esta era removida. Também se podia pular a pedra do adversário para eliminar as de trás. Três homens jogavam contra Quinn. Um deles estava com apenas mais três pedras e não demorou a ser eliminado.
 
 — Mais um para a janta — disse Quinn com um sorriso bizarro. Seus dentes eram pontiagudos como o de carnívoros e sua língua era dividida ao meio.
 
@@ -184,13 +186,13 @@ Os irmãos se olharam, e então imediatamente correram, saltando sobre a mesa, d
 
 Nos viramos para frente e Quinn então me olhou.
 
-— Querem apostar? — Quinn perguntou me devorando com os olhos, assim como fez com O'reilly — as apostas são altas, meus lindos.
+— Querem apostar? — Quinn perguntou me devorando com os olhos, assim como fez com O’reilly — as apostas são altas, meus lindos.
 
 — Já entendi, diga-me seu preço e dizemos o nosso — falei.
 
 — Meu preço? Quero seus corações — disse ela.
 
-— Sem problemas... meu amigo aqui está solteiro — falei, colocando o braço em O'reilly.
+— Sem problemas... meu amigo aqui está solteiro — falei, colocando o braço em O’reilly.
 
 — Não é este tipo de coração que quero. Quero comer seus corações — disse ela sensualmente, passando a língua no lábio superior. Admito que aquilo me deu calafrios.
 
@@ -198,7 +200,7 @@ Nos viramos para frente e Quinn então me olhou.
 
 — É o meu preço. Geralmente quero apenas um bife, um pedaço de algum órgão... mas vocês... parecem ter um coração apetitoso.
 
-Olhei para O'reilly, que estava com seus olhos tensos. Eu ia responder, quando meu colega me puxou para trás.
+Olhei para O’reilly, que estava com seus olhos tensos. Eu ia responder, quando meu colega me puxou para trás.
 
 — Olha... não sei se é uma boa. Não dá pra sobreviver sem coração. Quero dizer, pra você que não tem um, deve ser fácil — disse ele, de costas para a mesa, de forma que apenas eu ouvisse.
 
@@ -258,7 +260,7 @@ Segui até a saída enquanto a fumaça começava a subir e saí, junto a uma mul
 
 — O que aconteceu lá dentro? — perguntou Hardman.
 
-— A mulher tentou comer meu coração — falei com um sorriso.
+— A mulher tentou comer meu coração — falei, tranquilo.
 
 — Seu coração? — indagou Hardman — que coração?
 

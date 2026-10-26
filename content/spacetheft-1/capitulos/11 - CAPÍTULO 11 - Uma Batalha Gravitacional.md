@@ -120,7 +120,7 @@ Voltei-me para os outros dois homens.
 
 — Pensei que fosse me chamar de mentiroso. A maioria aqui não acredita que a Lebargan seja real — respondi.
 
-— Eu achava que era um mito — confessou Leitham. — Mas já a vi uma vez, numa missão. Perseguia suspeitos que roubaram um artefato num planeta chamado Veren; vi quando entraram na nave, antes dela desaparecer. Era a maior que eu já tinha visto: toda dourada, lenta como uma baleia, com um farol vermelho no topo.
+— Eu achava que era um mito — confessou Leitham. — Mas já a vi uma vez, numa missão. Perseguia suspeitos que roubaram um artefato num planeta chamado Solmar; vi quando entraram na nave, antes dela desaparecer. Era a maior que eu já tinha visto: toda dourada, lenta como uma baleia, com um farol vermelho no topo.
 
 Ri pelo nariz. Dourada, lenta, com farol: ele tinha visto uma barcaça de festa, não a Lebargan. Deixei que continuasse.
 
@@ -148,7 +148,7 @@ Recuei e caminhei até as correntes, prendendo-as em minha perna. Assim que as l
 
 E le desprendeu minhas correntes, encarando-me fixamente enquanto eu me erguia.
 
-— Você provocou um verdadeiro caos aqui embaixo. Mas se tentar qualquer artimanha lá em cima, vamos usar suas entranhas para alimentar a tripulação — ameaçou, com um sorriso cruel.
+— Você provocou um verdadeiro caos aqui embaixo. Mas se tentar qualquer artimanha lá em cima, vamos usar suas entranhas para alimentar a tripulação — ameaçou, com crueldade.
 
 Fui então arrastado para o elevador, lançando um último olhar a Leitham e aos outros. Quando as portas se fecharam, permaneci imóvel, ouvindo a respiração pesada dos piratas enquanto ascendíamos.
 
@@ -160,7 +160,7 @@ Subitamente, uma sombra passou sobre mim, fazendo-me olhar para cima. Vi então 
 
 — E nosso acordo? — indaguei, tentando manter a calma.
 
-O capitão sorriu astucamente e circulou ao meu redor.
+O capitão circulou ao meu redor, astuto.
 
 — Realmente considerei sua oferta. Mas por que eu atacaria uma nave mais poderosa que a minha e arriscaria perder tudo? Tendo você e suas habilidades ao meu lado, por que eu faria isso?
 
@@ -182,7 +182,7 @@ Os homens então me arrastaram para fora da sala. Fui levado até as máquinas, 
 
 Ele me ordenou cuidar do motor de gravidade. Mantive as engrenagens girando, lubrificando, limpando resíduos e desemperrando rotores. Depois me juntei a outros para empurrar manualmente o motor das velas solares, parado. Por fim, passei o resto do tempo quebrando diamantes roubados em pedaços menores, uma das tarefas mais extenuantes que existem.
 
-Após o almoço me deparei com Hardman em um canto, e ele virou-se para mim, com um sorriso forçado.
+Após o almoço me deparei com Hardman em um canto, e ele virou-se para mim, com simpatia forçada.
 
 — Ela te traiu, não foi? — perguntou ele.
 
@@ -224,7 +224,7 @@ Olhei para ele, sério, e sacudi a cabeça em resposta.
 
 — Chega de conversa, voltem ao trabalho — ordenou um dos piratas, aproximando-se com um porrete espinhoso em mãos.
 
-Olhei para ele e lancei um sorriso sarcástico.
+Olhei para ele e lancei um olhar sarcástico.
 
 — Vai me obrigar? — desafiei.
 
@@ -260,7 +260,7 @@ Me aproximei de Hardman, ocupado enchendo filtros de água. Ele só me notou qua
 
 — Olá meu amigo Hardman, preciso falar com você — disse, tentando parecer casual.
 
-— Agora não, Jasmey, estou ocupado. Tenho que terminar de encher esses filtros — resmungou, despejando um balde de alumínio d'água num buraco no chão.
+— Agora não, Jasmey, estou ocupado. Tenho que terminar de encher esses filtros — resmungou, despejando um balde de alumínio d’água num buraco no chão.
 
 — Não é sobre isso... — hesitei, tentando formular as palavras certas. — Ouvi dizer que você sabe algo sobre a Aurora.
 
@@ -378,7 +378,7 @@ Virei-me para os inimigos e vi que, apesar de relutantes, logo abandonaram suas 
 
 — Olha só, capitão, eles são leais — disse Tzough ao capitão, que cuspia sangue. — Sabe, capitão, você começou bem. Seus homens lutaram bem. Mas sabe qual foi o seu erro? Ser o capitão dessa nave. Porque você é quem vai morrer primeiro.
 
-Tzough ergueu sua espada rapidamente e cortou a cabeça do capitão. Seu corpo caiu como uma marionete solta, enquanto o sangue escorria pelo convés da nave. Então Tzough se virou para sua tripulação e abriu os braços, gritando. A tripulação gritou de volta, erguendo suas espadas. A cena era tão fantástica que me arrancou um sorriso.
+Tzough ergueu sua espada rapidamente e cortou a cabeça do capitão. Seu corpo caiu como uma marionete solta, enquanto o sangue escorria pelo convés da nave. Então Tzough se virou para sua tripulação e abriu os braços, gritando. A tripulação gritou de volta, erguendo suas espadas. A cena era tão fantástica que me arrancou uma risada baixa.
 
 — Levem os inimigos para a prancha. E quanto à nave, saqueiem-na, roubem tudo o que puderem, e depois, vamos destruí-la.
 
@@ -398,7 +398,7 @@ Depois jogaram ao vazio os corpos dos mortos. Notei feridos por toda parte, aten
 
 Quando a prancha foi puxada de volta, Nosteratos imediatamente deu a ordem para que voltássemos ao trabalho, afirmando que os explosivos já haviam sido implantados. A Fera Sideral começou a se afastar da nave inimiga, e quando alcançamos uma distância segura, um brilho silencioso no espaço anunciou a destruição total do adversário.
 
-Enquanto caminhava em direção às máquinas, ouvi um "shhh" vindo de algum lugar. Olhei ao redor e vi a cabeça de Hardman espiando atrás de um dos pilares.
+Enquanto caminhava em direção às máquinas, ouvi um “shhh” vindo de algum lugar. Olhei ao redor e vi a cabeça de Hardman espiando atrás de um dos pilares.
 
 — Onde você esteve durante a luta? Se escondendo nas máquinas? — perguntei.
 
@@ -442,7 +442,7 @@ Dei um sorriso e tomei-a da mão dele, a guardando em minhas partes íntimas.
 
 — O que é isso? Deixa de ser nojento! — exclamou Hardman.
 
-— Te dou a certeza de que ninguém procurará aqui — respondi com um sorriso.
+— Te dou a certeza de que ninguém procurará aqui — respondi, achando graça.
 
 Pelo canto dos olhos, vi um dos piratas vindo em nossa direção, então tratei de me retirar e segui para as máquinas.
 

@@ -8,7 +8,7 @@ Ele deslizou sua espada curvada rente ao rosto de Alekta, quase acariciando sua 
 
 — Na verdade, fui eu quem a soltou — intervim rapidamente. — Não há necessidade de matá-la; eu a libertei porque queria levá-la comigo. Ela não tinha intenção de fugir, resistiu até o fim, mas eu a forcei.
 
-O pirata careca sorriu maliciosamente e caminhou até mim.
+O pirata careca caminhou até mim, malicioso.
 
 — Está me dizendo que Alekta teve a chance de fugir, mas se recusou? E que você tentou forçá-la? Meu amigo, domar uma fera seria mais fácil do que submeter essa mulher.
 
@@ -16,7 +16,7 @@ O pirata careca sorriu maliciosamente e caminhou até mim.
 
 — E você, quem é? — ele perguntou, parando a poucos centímetros de mim.
 
-— Medei — respondi, mantendo o sorriso sarcástico.
+— Medei — respondi, mantendo o sarcasmo.
 
 — Medei? — ele riu, desdenhoso. — Que diabos de nome é esse?
 
@@ -44,7 +44,7 @@ Foi um alívio o momento em que ouvi o motor de uma nave ligando. Como eu sentia
 
 — Então vamos voltar para a Fera — decidiu finalmente o homem careca.
 
-Os homens se acomodaram, e o de rabo-de-cavalo assumiu o controle. A partida foi abrupta: a nave subiu na diagonal, enfrentando a gravidade que tentava nos puxar de volta. Pelo vidro vi as nuvens escuras se aproximarem e as atravessamos, relâmpagos iluminando o interior em flashes. Do outro lado, o céu alaranjado, com o sol delineado por trás das nuvens. Os propulsores aceleraram rumo ao espaço, o laranja cedeu ao cinza e, enfim, ao negro profundo pontilhado de estrelas luminosas e acolhedoras. Sorri de alívio enquanto o piloto virava a nave para uma nova direção.
+Os homens se acomodaram, e o de rabo-de-cavalo assumiu o controle. A partida foi abrupta: a nave subiu na diagonal, enfrentando a gravidade que tentava nos puxar de volta. Pelo vidro vi as nuvens escuras se aproximarem e as atravessamos, relâmpagos iluminando o interior em flashes. Do outro lado, o céu alaranjado, com o sol delineado por trás das nuvens. Os propulsores aceleraram rumo ao espaço, o laranja cedeu ao cinza e, enfim, ao negro profundo pontilhado de estrelas luminosas e acolhedoras. Respirei aliviado enquanto o piloto virava a nave para uma nova direção.
 
 — Vamos ativar o motor de dobra — anunciou ele — o espaço à nossa frente está livre.
 
@@ -130,13 +130,13 @@ Olhei ao redor. Todos os olhares estavam fixos em mim. No entanto, o único que 
 
 — Os homens estavam famintos. Talvez devesse dar-lhes mais comida — sugeri.
 
-O capitão examinou a todos e, por fim, se virou para mim com um sorriso cínico no rosto.
+O capitão examinou a todos e, por fim, se virou para mim com ar cínico.
 
 — Você tem razão. Os homens estão famintos. Temos muita boca para pouca comida — observou o capitão, lançando um olhar primeiro aos homens e depois à sua fera.
 
 O animal pareceu captar a intenção em seu olhar e virou-se para a tripulação, avançando até eles e abocanhando dois homens em uma só mordida, engolindo-os ainda vivos.
 
-— Está resolvido. Agora temos comida para todos — declarou o capitão, com um sorriso sarcástico para mim, antes de desaparecer na escuridão de onde viera. Os outros homens, aterrorizados, correram para a saída, enquanto a criatura alada retomava o voo atrás do dono. Acompanhei a fuga e vi um rosto familiar. Fui até Alekta e disse:
+— Está resolvido. Agora temos comida para todos — declarou o capitão, com sarcasmo para mim, antes de desaparecer na escuridão de onde viera. Os outros homens, aterrorizados, correram para a saída, enquanto a criatura alada retomava o voo atrás do dono. Acompanhei a fuga e vi um rosto familiar. Fui até Alekta e disse:
 
 — Então eles não te mataram — falei — que ótimo. Minha história foi convincente.
 
@@ -180,7 +180,7 @@ Arqueei uma sobrancelha, questionando o que ela queria insinuar com aquilo.
 
 — Eu costumo ser bom na cama — brinquei — esse é o meu superpoder.
 
-Alekta estreitou os olhos e mordeu o lábio inferior, esboçando um sorriso malicioso.
+Alekta estreitou os olhos e mordeu o lábio inferior, com malícia.
 
 — O que fazia naquele planeta? — ela continuou a inquirir
 
@@ -194,7 +194,7 @@ Alekta sorriu, puxando-me então por um corredor oculto pouco antes de chegarmos
 
 — O que é isso, aonde está me levando? — perguntei, enquanto ela me guiava por uma escadaria até um corredor de celas, algumas abertas, outras fechadas. Ali o cheiro era menos pungente. Entramos numa das celas abertas, e Alekta me soltou, recostou-se nas grades e me observou com aqueles olhos penetrantes. Sorriu, desabotoou a blusa e avançou, deslizando as mãos por dentro da minha camisa.
 
-Deixei que ela prosseguisse, soltando lentamente os botões da minha calça. Tirei a camiseta e a joguei no chão. Era a minha vez de dominar. Segurei Alekta pelo maxilar, um sorriso de desafio.
+Deixei que ela prosseguisse, soltando lentamente os botões da minha calça. Tirei a camiseta e a joguei no chão. Era a minha vez de dominar. Segurei Alekta pelo maxilar, desafiador.
 
 — Toque em mim sem eu permitir... — Alekta recuou, seu olhar firme, mas então ela me surpreendeu, um brilho de perigo nos olhos. — e eu corto o seu pau fora.
 

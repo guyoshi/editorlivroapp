@@ -78,7 +78,7 @@ No mesmo instante, um grito agudo cortou o ar. Vimos um cínzedo, magro e desgre
 
 — Uou — disse Kord — isso é de fato, perturbador.
 
-— Podia dizer que isso não é algo que se vê todo dia, mas em Geores… isso é bem comum — respondi com um sorriso de lado.
+— Podia dizer que isso não é algo que se vê todo dia, mas em Geores… isso é bem comum — respondi de lado, convencido.
 
 Aquela cidade não se parecia nada com a maravilhosa Geores, mas havia ali um quê de Sumatram. Os rostos eram mal-encarados, porém bem mais diversos: enquanto lá havia muito mais humanos, aqui havia andróides, neptorianos, arquerianos e até cínzedos (Jelles disse para eu nunca mexer com esses aí).
 
@@ -88,7 +88,7 @@ Aquela cidade não se parecia nada com a maravilhosa Geores, mas havia ali um qu
 
 — Talvez pudéssemos só perguntar pra alguém — sugeri, apontando para uma morenaça de pele escura e cabelos vermelhos que parecia ter a chave de todos os segredos do universo. — Tipo aquela gostosura ali.
 
-Antes que ele pudesse me frear com um sermão sobre bom senso, já estava a caminho, peito estufado e sorriso confiante. Cheguei a poucos metros dela, pronto para soltar meu charme Dale. Ela se virou, e eu... por Trimonius, quase engoli a porra da minha língua!
+Antes que ele pudesse me frear com um sermão sobre bom senso, já estava a caminho, peito estufado e confiança de sobra. Cheguei a poucos metros dela, pronto para soltar meu charme Dale. Ela se virou, e eu... por Trimonius, quase engoli a porra da minha língua!
 
 Não era uma “gostosura”. Eram DUAS. Ou melhor, duas cabeças no mesmo corpo! Ambas me olhavam com olhos idênticos, exceto por um que era opaco, cego. Puta merda, Jasmey, seus padrões de “gostosura” acabaram de levar um tiro no escuro. Minha masculinidade chorou em silêncio.
 
@@ -212,7 +212,7 @@ O mais chocante eram os restos de máquinas espalhados no centro da arena, com m
 
 As máquinas lutavam ferozmente, e o tal Homem-Azul, humanoide de olhos vermelhos e cobertura de metal azul, estava na vantagem. O Máquina Fenomenal, um quadrúpede, tinha metade de uma perna e várias perfurações. A luta não durou: o Homem-Azul arrancou um membro do Máquina Fenomenal e o enfiou em sua cabeça, e ele parou de se mexer. O Homem-Azul se levantou, o crânio amassado mas o resto intacto, e a plateia vibrou e celebrou.
 
-Olhei sorrindo para Hardman, ele parecia incrédulo, e vi muito desconforto.
+Olhei divertido para Hardman, ele parecia incrédulo, e vi muito desconforto.
 
 — Isso é incrível, não é? — falei, emocionado.
 
@@ -238,7 +238,7 @@ Me virei para onde Vivian apontava e pude ver um homem forte, com um cabelo chei
 
 Olhei mais uma vez para o tal Mestre e notei que parecia extremamente concentrado na batalha.
 
-— Ele não me parece disposto a conversar com qualquer um. E os guardas não nos deixariam nos aproximar dele. Talvez pudéssemos causar um pouco de caos e se livrar dos guardas — falei com um sorriso — conseguem dar conta de dois deles, não?
+— Ele não me parece disposto a conversar com qualquer um. E os guardas não nos deixariam nos aproximar dele. Talvez pudéssemos causar um pouco de caos e se livrar dos guardas — falei, malandro — conseguem dar conta de dois deles, não?
 
 — Jasmey, por favor, não faça merda, lembre-se da Justa-Elétrica — pediu-me Hardman, mas era tarde. Antes que ele terminasse, eu saí e caminhei em direção aos guardas. Eu não iria roubar nada, então não tinha com o que me preocupar. Hardman ainda gritou por meu nome, mas o ignorei. Segui pelo meio dos espectadores fanáticos, gritando enquanto os finalistas se enfrentavam violentamente.
 
@@ -268,7 +268,7 @@ Antes que eu pudesse dizer algo, cada um dos meus “parceiros” me entregou, a
 
 — É melhor se afastar — ameacei-o.
 
-O homem ergueu um sorriso. Os dentes eram tão brancos que o ambiente pareceu se iluminar por um instante. Vivian fez uma careta e Kord ergueu as sobrancelhas.
+O homem ergueu o canto da boca. Os dentes eram tão brancos que o ambiente pareceu se iluminar por um instante. Vivian fez uma careta e Kord ergueu as sobrancelhas.
 
 — Seu amigo disse que vocês querem uma nave para sair daqui? Essa confusão que causaram foi apenas para conseguirem chegar em mim? — perguntou-me ele.
 

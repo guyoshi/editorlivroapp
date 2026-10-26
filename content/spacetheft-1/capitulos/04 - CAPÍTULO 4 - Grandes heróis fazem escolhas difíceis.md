@@ -86,7 +86,7 @@ Os dois viraram-se para mim, surpresos, enquanto mostrava o aviso em meu bracele
 
 — Então vá buscar — Vek sugeriu, protegendo a sua garrafa como um tesouro — espere, vou lá com você. Proteja isso com sua vida, amor — Vek entregou-lhe sua garrafa.
 
-Circulando o olhar pelo refeitório, logo notei Genrir isolado próximo à nossa mesa. Com um sorriso malicioso, chamei-o com um gesto casual. Era o payback. Ele me odiava, eu sabia, e isso só tornava o momento mais delicioso. Aquele tapa-olho era a prova viva da minha superioridade, e agora ele teria que me servir.
+Circulando o olhar pelo refeitório, logo notei Genrir isolado próximo à nossa mesa. Com ar malicioso, chamei-o com um gesto casual. Era o payback. Ele me odiava, eu sabia, e isso só tornava o momento mais delicioso. Aquele tapa-olho era a prova viva da minha superioridade, e agora ele teria que me servir.
 
 — E aí, Genrir, como vai esse olho? — provoquei, mal conseguindo conter o riso.
 
@@ -204,7 +204,7 @@ Ficamos um instante em silêncio, contemplando a nave.
 
 — Não, ele não disse isso — ri — eu realmente me gabo, mas não desmereço nenhum irmão meu. Pelo contrário, sempre estendo a mão para ajudar… mesmo a quem não me estendeu a mão antes.
 
-Ela me lançou um sorriso compreensivo, e logo Hella e Nemes se juntaram a nós, a mangueira devidamente preparada. Denio e Chesi chegaram logo após, garantindo que a tribritadeira estava pronta para a ação.
+Ela me lançou um olhar compreensivo, e logo Hella e Nemes se juntaram a nós, a mangueira devidamente preparada. Denio e Chesi chegaram logo após, garantindo que a tribritadeira estava pronta para a ação.
 
 — Vamos embarcar, equipe — comandou o Cap. Jelles, marcando nossa partida com uma ordem concisa.
 
@@ -220,7 +220,7 @@ Ectons depois, Jelles nos chamou e detalhou de novo a missão, enquanto a imagem
 
 — A tribritadeira deverá furar aquele pedaço — Jelles indicou na projeção — a cerca de cem metros de onde desceremos. É onde a camada de rocha é mais fraca. Alcançaremos a água em cerca de 180 ectons. Depois esperamos o tanque se expandir e a água se condensar lá dentro. Ao terminarmos, a mangueira deve ser bem enrolada e a tribritadeira levada de volta e firmada na nave. Jasmey e Saezi, fiquem atentos a qualquer perigo. A tarefa de vocês talvez seja a mais importante.
 
-— Vamos com tudo — Nemes comentou, um sorriso confiante iluminando seu rosto. Ele já parecia sonhar com a água que estávamos prestes a coletar.
+— Vamos com tudo — Nemes comentou, o rosto iluminado de confiança. Ele já parecia sonhar com a água que estávamos prestes a coletar.
 
 O deslocamento foi desacelerando, e o asteroide emergiu diante de nós, um gigante adormecido no cosmo.
 

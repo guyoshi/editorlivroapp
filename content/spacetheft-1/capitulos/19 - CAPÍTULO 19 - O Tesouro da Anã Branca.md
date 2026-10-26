@@ -20,6 +20,12 @@ Enquanto a Princesa do Inverno deslizava pelo espaço, a tensão na cabine se di
 
 A anã branca queimava ao longe como um farol solitário, e a luz dela criava sombras instáveis na cabine conforme a nave girava para se alinhar com a rota indicada pelo Olho do Domongo.
 
+— O planeta dá a volta na estrela em onze horas — disse Hardman, sem tirar os olhos dos instrumentos. — Um ano inteiro dura menos que uma noite de sono.
+
+— E o aniversário? — perguntou Kord.
+
+— Quando quiser. Hoje, se preferir.
+
 — Bom, já que ninguém vai morrer nos próximos minutos, acho que posso cochilar. — Cruzei os braços atrás da cabeça.
 
 — Aproveite, porque pode ser seu último cochilo — murmurou Kord, sem levantar os olhos do painel.
@@ -64,7 +70,7 @@ Suspirei.
 
 — Assim como seu cérebro — acrescentei, me espreguiçando.
 
-— Ah, claro, e quem é que ativou o bracelete e pode ter condenado todo mundo? — Ele cruzou os braços, lançando um sorriso presunçoso.
+— Ah, claro, e quem é que ativou o bracelete e pode ter condenado todo mundo? — Ele cruzou os braços, com ar presunçoso.
 
 — Quando sua vida corre risco o tempo todo, somos obrigados a agir estrategicamente, O’reilly. Mas você não entende esse conceito.
 
@@ -202,9 +208,9 @@ Mas eu não precisei falar nada, foi Eric quem continuou:
 
 — O suficiente para encher a nave de gerbe em pouco tempo — assenti — Mas para isso precisamos nos preparar. Não temos como enfrentar a Lebargan. Então temos que estar um passo à frente — eu disse.
 
-— Então o que fazemos? — perguntou O’reilly. — Esperamos você e o Eric voltarem com os gravitadores? Assim que os dales verem a Princesa do Inverno, eles imediatamente a destruirão. Para que não nos permita fugir.
+— Então o que fazemos? — perguntou O’reilly. — Esperamos você e o Eric voltarem com os gravitadores? Assim que os Dales verem a Princesa do Inverno, eles imediatamente a destruirão. Para que não nos permita fugir.
 
-— A nave vai ser levada para dentro de Aurora — respondi. — Os dales preferem capturar naves do que destruí-las.
+— A nave vai ser levada para dentro de Aurora — respondi. — Os Dales preferem capturar naves do que destruí-las.
 
 Hardman suspirou.
 
@@ -214,7 +220,7 @@ Hardman suspirou.
 
 — Não gosto disso — falou Kord.
 
-— E imagino que os dales são bem receptivos com traidores. Devem receber você e Eric de braços abertos. Como tem certeza que não tentarão lhes matar? — perguntou O’reilly.
+— E imagino que os Dales são bem receptivos com traidores. Devem receber você e Eric de braços abertos. Como tem certeza que não tentarão lhes matar? — perguntou O’reilly.
 
 — Eles não vão. Se você me trouxer como prisioneiro. Jelles irá adorar saber que ainda estou vivo — sorri.
 
@@ -248,7 +254,7 @@ Me virei para ele, erguendo uma sobrancelha. Nunca o vi gritar desse jeito. Na v
 
 Kord olhou para ele, então se virou para Vivian que assentiu para ele. Após hesitar, nervoso, ele abaixou a arma.
 
-— Que se foda. Vamos todos morrer nessa merda mesmo — resmungou Kord, guardando a arma, como eu fiz, com um sorriso sarcástico.
+— Que se foda. Vamos todos morrer nessa merda mesmo — resmungou Kord, guardando a arma, como eu fiz, com sarcasmo.
 
 O’reilly então olhou para o bracelete.
 
@@ -306,7 +312,7 @@ Eric respirou fundo, como se precisasse reunir paciência para me explicar o ób
 
 Soltei uma risada curta, sarcástica.
 
-— Ah, claro. Porque todos os dales têm um pôster meu colado na parede do dormitório, porque todos acreditam em mim, não é?
+— Ah, claro. Porque todos os Dales têm um pôster meu colado na parede do dormitório, defendem meu nome na Unidale e acreditam em mim, não é?
 
 Eric balançou a cabeça.
 
@@ -324,7 +330,7 @@ Fiquei esperando ele continuar.
 
 Eric bufou.
 
-— Nenhum pirata desafiou Jelles na frente de todo mundo como você fez. Você foi o primeiro a olhar nos olhos dele e dizer "não".
+— Nenhum pirata desafiou Jelles na frente de todo mundo como você fez. Você foi o primeiro a olhar nos olhos dele e dizer “não”.
 
 De repente, minha boca ficou seca.
 
@@ -450,7 +456,7 @@ Os três nos cercaram e empurraram para dentro da Orbe Azul. Samara arrancou o c
 
 Por um instante, me permiti sentir algo próximo de nostalgia.
 
-Não via a nave havia muito tempo, mas ela ainda era a mesma. Imponente. Oculta. Uma fortaleza invisível, uma fera silenciosa no vácuo.
+Não via a nave havia muito tempo, mas ela ainda era a mesma. Imponente. Oculta. Uma fortaleza invisível, uma fera silenciosa no vácuo. Fria como o próprio vácuo: sem calor para trair, sem luz para refletir.
 
 As velas solares absorviam a radiação do espaço, dando à nave energia quase inesgotável. O holograma do emblema pirata, o crânio ladeado por armas cruzadas, brilhava na proa como um desafio para o universo.
 
@@ -460,7 +466,7 @@ O interior da Orbe Azul ficou silencioso enquanto nos aproximávamos. Eu sentia 
 
 Finalmente, cruzamos a barreira quântica da Lebargan. O escudo vermelho iluminou a cabine, prenunciando nossa chegada. E então, como se o espaço dobrasse ao nosso redor, a nave revelou-se completamente. Mesmo depois de todo esse tempo, a Lebargan ainda conseguia impressionar.
 
-Me virei para Vek, forçando um sorriso.
+Me virei para Vek, forçando simpatia.
 
 — Vek meu amigo, sentiu saudade?
 

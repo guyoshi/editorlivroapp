@@ -18,7 +18,7 @@ O’reilly bufou uma risada.
 
 — É, ele está bem pessoal. Podemos jogá-lo de volta no espaço.
 
-— Podem tentar o quanto quiserem. Eu sempre volto — retruquei, esboçando um sorriso.
+— Podem tentar o quanto quiserem. Eu sempre volto — retruquei, disfarçando o medo.
 
 — Hah! Bom, dessa vez você só voltou por conta do grandalhão aqui — O’reilly apontou para Kord. — Foi ele quem te pescou no espaço antes que você virasse espaguete espacial.
 
@@ -98,7 +98,7 @@ A lupa parou.
 
 — No dia em que você contou de Kaséia — continuei. — A névoa verde. Eu sabia. A Lebargan carrega uma arma assim. Todo Dale dos nove sabe que ela existe. Eu nunca vi usarem. Nunca perguntei em quem.
 
-— E me consolou — disse Hardman. Repetiu minha frase sem ironia, o que foi pior do que com ironia: — "Deixa ele no chão e ande sobre ele."
+— E me consolou — disse Hardman. Repetiu minha frase sem ironia, o que foi pior do que com ironia: — “Deixa ele no chão e ande sobre ele.”
 
 — Foi um bom conselho — tentei.
 
@@ -136,15 +136,15 @@ Olhei para ela e ergui uma sobrancelha.
 
 Olhei para ela em resposta e hesitei.
 
-— Honre a memória do Sr. Peron e de todos os outros que nos deixaram. Destrua as correntes que prendem os dales.
+— Honre a memória do Sr. Peron e de todos os outros que nos deixaram. Destrua as correntes que prendem os Dales.
 
-Naquele momento, como um flash, a sequência de uns e zeros que recebi no bracelete e que eu havia decifrado como "DESACORRENTAR" ecoou em minha mente. Eu acho que sabia quem tinha me enviado aquela mensagem.
+Naquele momento, como um flash, a sequência de uns e zeros que recebi no bracelete e que eu havia decifrado como “DESACORRENTAR” ecoou em minha mente. Eu acho que sabia quem tinha me enviado aquela mensagem.
 
-Minha mão, quase que por instinto, foi até meu bolso e retirei de lá o orbe de vidro que o Sr. Peron havia me dado. Aquele objeto, que eu guardara como uma mera "lembrança que trouxera de Lebargan", reluzia em minha palma.
+Minha mão, quase que por instinto, foi até meu bolso e retirei de lá o orbe de vidro que o Sr. Peron havia me dado. Aquele objeto, que eu guardara como uma mera “lembrança que trouxera de Lebargan”, reluzia em minha palma.
 
-Com a palavra ressoando em meus pensamentos, apertava o orbe, concentrando minha intenção. Em um ato de pura intuição, como se estivesse destravando um segredo antigo, murmurei baixinho, quase inaudível, "DESACORRENTAR".
+Com a palavra ressoando em meus pensamentos, apertava o orbe, concentrando minha intenção. Em um ato de pura intuição, como se estivesse destravando um segredo antigo, murmurei baixinho, quase inaudível, “DESACORRENTAR”.
 
-A criatura em seu interior, que antes dançava, imediatamente se dissolveu. O próprio orbe pareceu desvanecer, não se desfazendo em pó, mas se reconfigurando. E, em seu lugar, surgiu uma chave velha e corroída, marcada com as iniciais "PR". Meus olhos se arregalaram. Igual. Não parecida: igual, até a ferrugem. A chave que Jelles havia exibido na torre de Belzetar, a "chave do poder absoluto na Lebargan". Jelles tinha uma. O Sr. Peron tinha a outra. E, pelo que eu sabia, mais ninguém sabia disso.
+A criatura em seu interior, que antes dançava, imediatamente se dissolveu. O próprio orbe pareceu desvanecer, não se desfazendo em pó, mas se reconfigurando. E, em seu lugar, surgiu uma chave velha e corroída, marcada com as iniciais “PR”. Meus olhos se arregalaram. Igual. Não parecida: igual, até a ferrugem. A chave que Jelles havia exibido na torre de Belzetar, a “chave do poder absoluto na Lebargan”. Jelles tinha uma. O Sr. Peron tinha a outra. E, pelo que eu sabia, mais ninguém sabia disso.
 
 — O que é isso? — perguntou Hardman se aproximando. Notei que todos estavam ao meu redor, olhando para a pequena chave, curiosos.
 
@@ -180,6 +180,8 @@ Amanda passou a mão sobre os olhos e deitou-se em meu ombro aos prantos. Então
 
 Amanda não me respondeu. Nem mesmo meus companheiros disseram nada naquele momento. Apenas olhei para a chave em minhas mãos. Eu não era do tipo que acreditava em destino, mas aquela merda estava ali por alguma razão.
 
+Vivian apertou o Olho do Domongo contra o peito. Apagado, agora que não havia mais nada para apontar.
+
 — Mesmo que Nastácia morra, haverá outro para ocupar seu lugar — disse Genrir — Sempre foi assim em toda a história da Lebargan.
 
 E foi naquele momento, olhando para a Lebargan se afastando, para a chave do Sr. Peron em minha mão, e para a dor de Amanda, que eu soube. Não haveria outro.
@@ -198,9 +200,11 @@ Não sei o que mais me surpreendeu, Hardman falar um palavrão ou ele decidir fi
 
 Genrir então se virou para mim.
 
-— Eu sempre te odiei, Badrock. Você sempre foi um merda para mim. Mas quando soube que morreu… percebi que foi só mais uma vítima de Jelles. Foi a primeira vez que vi alguém enfrentá-lo de verdade e não quebrar. Metade da Lebargan acredita em você, seu babaca. Não me pergunte por quê. É disso que os dales precisam.
+— Eu sempre te odiei, Badrock. Você sempre foi um merda para mim. Mas quando soube que morreu… percebi que foi só mais uma vítima de Jelles. Foi a primeira vez que vi alguém enfrentá-lo de verdade e não quebrar. Metade da Lebargan acredita em você, seu babaca. Não me pergunte por quê. É disso que os Dales precisam.
 
 Ouvir Genrir falando aquilo me fez soltar um sorriso incontrolável. Por fim olhei para Buni e Vivian, e os dois sorriram para mim.
+
+Buni olhou o vidro, onde a Lebargan sumia, e murmurou o nome da Madame. Ninguém riu. Nem eu, o que me preocupou.
 
 — Somos amigos. E amigos não abandonam os outros — disse Buni.
 
@@ -232,7 +236,7 @@ Olhei pelo vidro. Da Lebargan, que já começava a esticar o espaço para a dobr
 
 *Nem todo mundo*, Eric tinha dito. Eram três. Era pouco. Era mais confiança alheia do que eu tinha conseguido juntar na vida inteira, e eu não tinha pedido por nenhuma.
 
-Mas antes que eu pudesse responder, algo aconteceu. O buraco negro ao fundo pareceu de alguma forma crescer… mas em uma velocidade abismal. Seu tamanho duplicou, triplicou, ficou dez vezes maior em questão de segundos. Então vi detritos espaciais imediatamente ser sugados para seu disco de acreção dez vezes maior do que antes.
+Mas antes que eu pudesse responder, algo aconteceu. O buraco negro ao fundo pareceu de alguma forma acordar. O disco de acreção se acendeu, dez vezes mais brilhante, e o anel de luz torcida em volta dele se alargou em questão de segundos, como uma boca se abrindo. Então vi detritos espaciais serem sugados, em espiral, para dentro do disco.
 
 Meus olhos passaram por todos até pararem em Hardman.
 
