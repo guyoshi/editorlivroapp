@@ -226,21 +226,21 @@ Velho-Sábio sorriu para Banjo. Parou diante de um portão e o abriu sem tocar.
 
 O jardim era um espetáculo próprio. Plantinhas saltitavam no chão como se dançassem. Uma árvore pequena balançava frutos azulados que brilhavam como estrelas em miniatura. Um arbusto soltava faíscas que sumiam no ar, e uma flor luminosa se curvou para observar os visitantes.
 
-– Ele se chama Coronel – disse Velho-Sábio, afagando um cachorro enorme de pelagem branca e amarelada, que apareceu atrás de Banjo. Os olhos do cão eram cansados e sábios. – Um velho amigo.
+– Ele se chama Átila – disse Velho-Sábio, afagando um cachorro de porte médio, pelagem curta, branca e caramelo, focinho branco e orelhas castanhas caídas, que apareceu atrás de Banjo. Tinha olhos curiosos e jeito de quem esperava uma brincadeira. – Um velho amigo.
 
-Coronel farejou a mão de Banjo e abanou o rabo devagar. Banjo se agachou, e o cachorro encostou a cabeça enorme no ombro dele, como se o conhecesse desde sempre.
+Átila farejou a mão de Banjo e abanou o rabo devagar. Banjo se agachou, e o cachorro encostou o focinho na mão dele e, sem cerimônia, apoiou as patas dianteiras em seus joelhos, como se o conhecesse desde sempre.
 
-– Ele é um urso! – sussurrou Beatriz.
+– Que orelhas grandes! – disse Beatriz.
 
-– Muito mais tranquilo que os ursos – disse o velho.
+– E que vontade de aprontar – respondeu o velho.
 
-Coronel deu a volta no Velho-Sábio e, sem a menor cerimônia, abocanhou a barra do manto dele.
+Átila deu a volta no Velho-Sábio e, sem a menor cerimônia, abocanhou a barra do manto dele.
 
-– Coronel. Larga – disse Velho-Sábio, sem nem olhar para baixo.
+– Átila. Larga – disse Velho-Sábio, sem nem olhar para baixo.
 
 O cachorro soltou, ofendido, sentou-se e examinou o céu como se nada tivesse acontecido. Dois passos depois, a barra do manto estava na boca dele outra vez.
 
-– Coronel.
+– Átila.
 
 Bruno apertou os lábios para não rir. Banjo nem tentou.
 
@@ -296,7 +296,7 @@ Bruno soltou uma risada.
 
 – Ainda não descobri. Ele nunca me responde quando pergunto.
 
-Coronel entrou atrás deles, farejou os pés das camas e se deitou junto à porta. Beatriz se sentou num dos colchões e apertou o travesseiro contra o peito. Depois de tudo o que tinham visto naquele dia, estava começando a acreditar que poderiam descansar ali.
+Átila entrou atrás deles, farejou os pés das camas e se deitou junto à porta. Beatriz se sentou num dos colchões e apertou o travesseiro contra o peito. Depois de tudo o que tinham visto naquele dia, estava começando a acreditar que poderiam descansar ali.
 
 Breno colocou o rádio do pai na mesinha ao lado da cama. Velho-Sábio acompanhou o movimento com os olhos, encostou o cajado na parede e puxou uma cadeira.
 
@@ -386,7 +386,7 @@ Banjo olhou novamente para as constelações.
 
 – Qualquer uma? Não. Mas aprendi algumas coisas ao longo dos anos.
 
-Auream ergueu o cajado. Um ponto de luz dourada nasceu na ponta e se dividiu em quatro. As pequenas luzes passearam pelo quarto, contornando as camas, até se reunirem no ar e formarem a figura de um cachorro. Coronel levantou a cabeça, avistou o outro cão e soltou um latido indignado. A figura luminosa correu pelo teto, perseguida pelos olhos dele, antes de se desfazer numa chuva de pontos brilhantes.
+Auream ergueu o cajado. Um ponto de luz dourada nasceu na ponta e se dividiu em quatro. As pequenas luzes passearam pelo quarto, contornando as camas, até se reunirem no ar e formarem a figura de um cachorro. Átila levantou a cabeça, avistou o outro cão e soltou um latido indignado. A figura luminosa correu pelo teto, perseguida pelos olhos dele, antes de se desfazer numa chuva de pontos brilhantes.
 
 Banjo aplaudiu. Beatriz esticou as mãos, e uma das últimas luzes pousou em seu dedo, quentinha, antes de desaparecer.
 
@@ -398,15 +398,15 @@ Banjo aplaudiu. Beatriz esticou as mãos, e uma das últimas luzes pousou em seu
 
 – A flor não concordaria com você – disse o velho, levantando-se.
 
-Ele pegou o cajado e foi até a porta. Coronel se ergueu imediatamente para acompanhá-lo.
+Ele pegou o cajado e foi até a porta. Átila se ergueu imediatamente para acompanhá-lo.
 
 – Fiquem à vontade. Há comida na cozinha e Kali pode ajudá-los se precisarem de alguma coisa. Amanhã conversamos mais. Ah, e tentem não deixar meias espalhadas pelo chão.
 
 – Por quê? – perguntou Banjo.
 
-Coronel passou por eles com a ponta de uma coberta entre os dentes.
+Átila passou por eles com a ponta de uma coberta entre os dentes.
 
-– Ele costuma sequestrá-las e escondê-las. Coronel, larga.
+– Ele costuma sequestrá-las e escondê-las. Átila, larga.
 
 O cachorro soltou a coberta e saiu atrás do dono. Os irmãos ainda estavam rindo quando Velho-Sábio fechou a porta.
 
@@ -446,7 +446,7 @@ Breno olhou para o rádio na mesinha. A música do pai os trouxera até ali, e a
 
 – O papai ia adorar esse lugar – disse Banjo. – E a mamãe também.
 
-– Eles iam achar que a gente tava inventando tudo – Bruno respondeu, num tom mais baixo. – Até verem Coronel.
+– Eles iam achar que a gente tava inventando tudo – Bruno respondeu, num tom mais baixo. – Até verem Átila.
 
 – Igual você, né? – disse Banjo. 
 
@@ -454,7 +454,7 @@ Breno olhou para o rádio na mesinha. A música do pai os trouxera até ali, e a
 
 Beatriz sorriu.
 
-– A mamãe ia querer levar Coronel pra casa.
+– A mamãe ia querer levar Átila pra casa.
 
 – Coitado. O bicho ia acabar tendo de costurar todas as roupas que rasgasse – disse Bruno.
 
