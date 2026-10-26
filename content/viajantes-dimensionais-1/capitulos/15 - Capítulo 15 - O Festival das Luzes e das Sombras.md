@@ -465,9 +465,9 @@ Tentaram abrir um por um. O primeiro piscou uma luz vermelha e soltou um apito d
 
 – Se sobrar dassi pra devolver – murmurou Banjo, e se enfiou no banco de trás, abraçado a Farol. – Isso vai dar tão errado.
 
-Breno sentou à frente e tocou o painel. O dassi, que normalmente escolheria a rota sozinho, estava parado pelo bloqueio dos voos daquela noite. Sob a tela apagada, acendeu-se uma opção de condução manual de emergência. Breno tocou nela, e um volante azul surgiu no ar.
+Breno sentou à frente e alcançou os comandos do painel. O dassi estava programado para seguir as rotas sozinho, como qualquer outro da cidade, mas ele encontrou a opção de condução manual na parte dianteira e a ativou. A luz suave que iluminava o interior mudou para um azul mais intenso, e um volante luminoso surgiu diante dele.
 
-– Ah, ótimo – murmurou Bruno. – O modo que ninguém deveria usar.
+– Ah, ótimo – murmurou Bruno. – Agora a gente vai descobrir se você sabe dirigir isso.
 
 – Cintos! – lembrou, e o assento o envolveu com uma faixa de luz.
 
