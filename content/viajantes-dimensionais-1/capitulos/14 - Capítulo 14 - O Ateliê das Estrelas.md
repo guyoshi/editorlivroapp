@@ -251,7 +251,7 @@ Mais tarde, a casa inteira se reuniu na sala para uma partida de tepone, com dir
 
 – Claro.
 
-Caminharam dez minutos até a estação por ruas animadas, onde comerciantes gritavam ofertas e crianças brincavam com brinquedos que flutuavam no ar. Já sem medo, de mãos soltas, os quatro fizeram a viagem de túbulas rindo, o cabelo de Beatriz cobrindo o rosto inteiro quando desembarcaram.
+Caminharam dez minutos até a Estação Brisália, por ruas animadas onde comerciantes gritavam ofertas e crianças brincavam com brinquedos que flutuavam no ar. Beatriz reconheceu Pelan arrumando pães na vitrine e acenou sem parar de andar. Já sem medo, de mãos soltas, os quatro fizeram a viagem de túbulas rindo, o cabelo de Beatriz cobrindo o rosto inteiro quando desembarcaram. Do outro lado das janelas dos tubos passaram as três torres altas de Tayo, um emaranhado de oficinas e, por fim, ruas cada vez mais tomadas por letreiros de comércio.
 
 A visão que os esperava era de tirar o fôlego. O Bazar do Oeste se estendia por ruas estreitas e sinuosas, cheio de barracas coloridas que pareciam ter vida própria. Tecidos dançavam no ar. Lanternas flutuantes iluminavam cada esquina, mesmo em pleno dia. De um telhado qualquer, sem nuvem e sem janela, uma chuva fina de pétalas começou a cair por alguns passos e parou, sem explicação, como se alguém lá em cima tivesse espirrado primavera.
 
@@ -263,7 +263,7 @@ Um vendedor espremeu uma fruta, e o suco explodiu na cara de Banjo. Ele gritou, 
 
 – Velho-Sábio! – chamou ele, sacudindo o braço. – A planta me adotou!
 
-– Bem-vindos ao Bazar do Oeste – disse o mago, com uma risada contida. – O maior mercado livre de Tayo. Muita coisa vem de Marador, a cidade do norte, onde estão os melhores tecelões e artesãos. E por mais bagunçado que pareça, a gente sempre acha algo de valor por um bom preço.
+– Bem-vindos ao Bazar do Oeste – disse o mago, com uma risada contida. – O maior mercado livre de Tayo, aqui na Velha Rota. Muita coisa vem de Marador, a cidade do norte, onde estão os melhores tecelões e artesãos. E por mais bagunçado que pareça, a gente sempre acha algo de valor por um bom preço.
 
 Breno quase tropeçou numa poça que um balde flutuante despejou no caminho, e os irmãos caíram na gargalhada. Mais à frente, Beatriz se aproximou de uma barraca de frutas, e do telhado de lona desceu, devagar, uma joaninha do tamanho de uma bandeja, de asas lustrosas e antenas que balançavam com curiosidade. Parou a um palmo do nariz dela e a examinou com os olhos pretos e redondos.
 

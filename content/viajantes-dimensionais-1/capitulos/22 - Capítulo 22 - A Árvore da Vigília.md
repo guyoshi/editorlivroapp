@@ -261,6 +261,10 @@ Beker soltou uma risada que parecia de escárnio.
 
 – O que não impede os fatos. – Beker se inclinou para Lucan. – A Vigilância falhou: deixou um traidor em posição de confiança, mandou um capitão à morte, e conduziu uma operação que não capturou Korvo. Proponho uma reformulação completa da Central. Controle das notícias, para evitar pânico. Fechamento do Bazar do Oeste. E um pulso mais firme sobre a édion.
 
+– Fechar o Bazar do Oeste? – Garmande ergueu os olhos. – O comércio da Velha Rota alimenta muita gente. E não só quem tem uma banca lá.
+
+– A segurança de Tayo precisa vir antes do conforto dos comerciantes – respondeu Beker.
+
 Lucan olhou para os irmãos.
 
 – E ainda há a Árvore da Vigília. Vocês a destruíram. Ela estava de pé na Central havia séculos. Não tinha poder algum, mas era o símbolo da Vigilância. A mesma árvore que nossos homens carregam no uniforme. Agora está morta.

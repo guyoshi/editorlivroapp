@@ -167,11 +167,11 @@ O petrisco apareceu debaixo da mesa carregando um pedaço de madeira. Balançou 
 – Coronel, larga a capa e tome conta da casa – disse Velho-Sábio, e o cachorro soltou o tecido, ofendido, e respondeu com um latido de sentinela.
 
 
-Caminharam até a estação sob lâmpadas coloridas e projeções que dançavam nas fachadas. Os dassis estavam proibidos naquela noite, por causa dos balões no céu. A viagem de túbula foi o melhor jeito de ver a cidade: cada rua com a sua cor, edifícios altos contando histórias em projeções, hologramas de constelações mexendo-se como vaga-lumes. Havia uma área azul onde peixes de luz nadavam pelo ar e outra, vermelha, onde algo parecia bater no chão como um coração.
+Caminharam até a estação sob lâmpadas coloridas e projeções que dançavam nas fachadas. Os dassis estavam proibidos naquela noite, por causa dos balões no céu. A viagem de túbula foi o melhor jeito de ver a cidade: cada rua com a sua cor, edifícios altos contando histórias em projeções, hologramas de constelações mexendo-se como vaga-lumes. Quando passaram entre as Torres de Velur, a mais alta pareceu seguir subindo mesmo depois que o karto começou a descer. Adiante, as vitrines de um imenso centro comercial brilhavam atrás de jardins impecáveis, enquanto, noutra direção, a cidade se espalhava em pequenas ruas e telhados baixos. Havia uma área azul onde peixes de luz nadavam pelo ar e outra, vermelha, onde algo parecia bater no chão como um coração.
 
 – Olha, olha, olha! – Beatriz puxava a manga de Breno com as duas mãos. – Os peixes estão olhando pra mim! Banjo não conseguiu falar nada durante a viagem inteira, de tanto que olhava. Bruno resmungou que aquilo "quase fazia esquecer o quanto a gente anda virando de cabeça para baixo".
 
-O karto parou numa grande praça, um mar de gente, barracas e luzes. No centro, uma torre branca de painéis de cristal dourado brilhava como um farol. Do alto, vinha o frescor da noite, e do chão o calor de milhares de pessoas, que juntos faziam a praça inteira cheirar a açúcar tostado.
+O karto parou na Praça da Concórdia, um mar de gente, barracas e luzes. No centro, uma torre branca de painéis de cristal dourado brilhava como um farol. Do alto, vinha o frescor da noite, e do chão o calor de milhares de pessoas, que juntos faziam a praça inteira cheirar a açúcar tostado.
 
 – Aquela é a Torre Branca, a sede do governo de Tayo – disse Velho-Sábio, com um respeito na voz. – Onde Lucan Veline toma as grandes decisões.
 
@@ -465,7 +465,9 @@ Tentaram abrir um por um. O primeiro piscou uma luz vermelha e soltou um apito d
 
 – Se sobrar dassi pra devolver – murmurou Banjo, e se enfiou no banco de trás, abraçado a Farol. – Isso vai dar tão errado.
 
-Breno sentou no lugar do piloto e tocou o painel. Um volante azul acendeu no ar.
+Breno sentou à frente e tocou o painel. O dassi, que normalmente escolheria a rota sozinho, estava parado pelo bloqueio dos voos daquela noite. Sob a tela apagada, acendeu-se uma opção de condução manual de emergência. Breno tocou nela, e um volante azul surgiu no ar.
+
+– Ah, ótimo – murmurou Bruno. – O modo que ninguém deveria usar.
 
 – Cintos! – lembrou, e o assento o envolveu com uma faixa de luz.
 

@@ -1,6 +1,6 @@
 A noite terminou dentro de uma dobra de rocha, onde os três se encolheram sem conseguir dormir. Quando a luz chegou, veio fria e dourada, e mostrou o que a escuridão escondera.
 
-Atrás deles, o muro de Tayo atravessava o horizonte como uma cordilheira de pedra azul-acinzentada. O portão estava fechado, e as runas gravadas nele pulsavam devagar, como um coração grande demais para ser ouvido. Os irmãos ficaram um tempo olhando, sem dizer nada. Ali dentro estavam a cama de Banjo, a casa de Velho-Sábio, o café de Kali. Do lado de cá, havia o vento.
+Atrás deles, o muro de Tayo atravessava o horizonte como uma cordilheira de pedra azul-acinzentada. O portão estava fechado, e as runas gravadas nele pulsavam devagar, como um coração grande demais para ser ouvido. Os irmãos ficaram um tempo olhando, sem dizer nada. Ali dentro estavam a cama de Banjo, a casa de Velho-Sábio, o café de Kali, a padaria onde Beatriz sempre ganhava um pão a mais e as bicicletas que riscavam a água em Brisália. Do lado de cá, havia o vento.
 
 À frente, uma planície de colinas verde-douradas se estendia até onde a vista alcançava, salpicada de pedras enormes, como se alguém as tivesse derrubado do céu e esquecido de recolher. Entre elas, arbustos baixos de folhas duras exibiam pequenas flores roxas, e o vento passava assoviando por todas as frestas, num eco manso que parecia acompanhá-los.
 
