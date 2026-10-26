@@ -195,7 +195,7 @@ Riscou um retângulo, um círculo em cada ponta e uma floresta de pontinhos no m
 
 – É como pegar a bandeira com vento no meio – corrigiu Lucía, e apagou o desenho com o pé. – Mas parece que dá certo.
 
-O karto chegou com um zumbido suave. Os assentos de couro escuro se ajustaram aos corpos, e cintos de luz envolveram os irmãos como uma segunda pele.
+O karto chegou com um zumbido suave. Era um carrinho baixo, comprido e aberto na parte superior, com laterais de metal brilhante e rodas recolhidas que lembravam as de um vagão de mina futurista. Os assentos de couro escuro se ajustaram aos corpos, e cintos de luz envolveram os irmãos como uma segunda pele.
 
 – Isso parece coisa de ficção científica – disse Banjo.
 
@@ -211,7 +211,7 @@ Ao lado de Banjo sentou-se Shirley, de olhos vidrados, tremendo.
 
 Bruno e Breno ocuparam os dois últimos bancos. Atrás, Velho-Sábio embarcou em outro karto e acenou com a cabeça. Então o carrinho disparou.
 
-A aceleração foi tão súbita que Beatriz soltou um grito e Banjo, uma gargalhada. O mundo se virou num rio de cores. As luzes dos túneis passavam em faixas, e o karto subia, mergulhava, dava voltas por entre os prédios. Por um trecho, atravessou uma nuvem baixa e saiu do outro lado com a cabeça de toda a cidade a seus pés: telhados de cobre e jardins suspensos, pontes de luz, e o vulcão ao longe fumegando num céu cor de rosa.
+A aceleração foi tão súbita que Beatriz soltou um grito e Banjo, uma gargalhada. O mundo se virou num rio de cores. As luzes dos túneis passavam em faixas, e o karto subia, mergulhava, dava voltas por entre os prédios. Por uma abertura entre as torres, viram um trecho de ruas tomadas por letreiros luminosos e pinturas enormes nas paredes; até o começo da noite aquela parte de Tayo parecia preparada para uma festa. Por um trecho, atravessou uma nuvem baixa e saiu do outro lado com a cabeça de toda a cidade a seus pés: telhados de cobre e jardins suspensos, pontes de luz, e o vulcão ao longe fumegando num céu cor de rosa.
 
 – Meu estômago ficou lá atrás! – berrou Bruno, agarrado ao assento.
 
@@ -219,13 +219,13 @@ A aceleração foi tão súbita que Beatriz soltou um grito e Banjo, uma gargalh
 
 – SE DANÇAR FOSSE ASSIM, EU TERIA FICADO EM CASA!
 
-O karto entrou por uma abertura num prédio azul, e a luz mudou. Estavam dentro de um aquário gigante: o tubo atravessava a água, e dos dois lados criaturas marinhas de todas as cores flutuavam num balé lento, com as barrigas iluminadas. Beatriz grudou o rosto no vidro. Uma raia do tamanho de um dassi passou rente ao carrinho e a olhou diretamente com um olho dourado. Breno, que não falara nada até então, sussurrou:
+O karto entrou por uma abertura num prédio azul, e a luz mudou. O tubo atravessava uma galeria aquática, ladeada por reservatórios transparentes; peixes e criaturas marinhas de todas as cores flutuavam dos dois lados num balé lento, com as barrigas iluminadas. Beatriz grudou o rosto no vidro. Uma raia do tamanho de um dassi passou rente ao carrinho e a olhou diretamente com um olho dourado. Breno, que não falara nada até então, sussurrou:
 
 – Eu poderia morar aqui.
 
-O karto saiu do aquário, atravessou um túnel escuro e emergiu numa explosão de luz.
+O karto saiu da galeria, atravessou um túnel escuro e emergiu numa explosão de luz.
 
-Diante deles se erguia o Vórtice Monumental. Era uma construção colossal de cristal e metal, sustentada por colunas de cristal azul, com espirais de luz mágica girando em volta como se o próprio ar vibrasse de expectativa. O estádio tinha a forma de um enorme "+", e as arquibancadas flutuavam sustentadas apenas por feixes de energia. No centro, o campo era uma selva de pilares de alturas e materiais diferentes, alguns cobertos de musgo, outros com pequenas chamas azuis que dançavam ao sabor de um vento que ninguém via.
+Diante deles se erguia o Vórtice Monumental, no meio das fachadas iluminadas de Tayo Sul. Era uma construção colossal de cristal e metal, sustentada por colunas de cristal azul, com espirais de luz mágica girando em volta como se o próprio ar vibrasse de expectativa. O estádio tinha a forma de um enorme "+", e as arquibancadas flutuavam sustentadas apenas por feixes de energia. No centro, o campo era uma selva de pilares de alturas e materiais diferentes, alguns cobertos de musgo, outros com pequenas chamas azuis que dançavam ao sabor de um vento que ninguém via.
 
 
 Antes do portal, dois vigilantes de uniforme cinza conferiam nomes numa prancheta de cristal. Um deles, de olhos cansados e sorriso gentil, ergueu o rosto quando os irmãos se aproximaram.
