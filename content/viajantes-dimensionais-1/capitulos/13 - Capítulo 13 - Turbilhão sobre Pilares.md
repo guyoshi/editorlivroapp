@@ -143,7 +143,7 @@ Beatriz bufou e riu. Depois olhou para o irmão mais novo, que também tinha ca�
 – Um desastre que combina – disse ele, e estendeu o punho. Ela bateu o dela, e as duas mãos soltaram um estalinho de brasa e um sussurro de ar, como sempre que os dois se tocavam rindo.
 
 
-No segundo tempo, o Fulgor Dourado entrou em campo diferente. Breno atravessou um pilar como se fosse névoa e apareceu diante de Denis, que caiu sentado. Bruno ergueu uma rampa de gelo, e Shirley e Eshley usaram o impulso para cruzar uma plataforma e marcar. Uma esfera verde acendeu. Depois outra. Banjo, escondido nas sombras dos pilares, empurrou uma pedra, e Isabelle caiu de um pilar, sem se machucar. Lucía soprava rajadas de vento nas costas das duas meninas, e o time inteiro parecia respirar junto.
+No segundo tempo, o Fulgor Dourado entrou em campo diferente. Breno atravessou um pilar como se fosse névoa e apareceu diante de Denis, que caiu sentado. Bruno ergueu uma rampa de gelo, torta num dos lados, e Shirley e Eshley usaram o impulso para cruzar uma plataforma e marcar. Bruno precisou alisar a borda às pressas antes que alguém escorregasse. Uma esfera verde acendeu. Depois outra. Banjo, escondido nas sombras dos pilares, empurrou uma pedra, e Isabelle caiu de um pilar, sem se machucar. Lucía soprava rajadas de vento nas costas das duas meninas, e o time inteiro parecia respirar junto.
 
 Num salto, Breno segurou o pilar com o corpo de metal para Bruno usá-lo de trampolim, e Bruno, no ar, riu. Um riso de verdade, que não era deboche.
 
@@ -161,7 +161,7 @@ Bruno ergueu uma barreira de gelo à esquerda. Breno a atravessou como se não e
 
 Beatriz estava num pilar baixo, com as mãos trêmulas. Fechou os olhos por um segundo. Lembrou da voz de Velho-Sábio: aceite que ele é seu. Lembrou da canção que ele cantara na mesa, na casa dele: o fogo pede direção.
 
-Estalou uma brasa dentro dela. Dessa vez, o fogo não escapou. Foi saindo das palmas em fios laranja, um a um, mornos, obedientes, e deu uma volta inteira em torno do pilar de Ferris, fechando-se como um bracelete. O calor subiu devagar pelo ar, e as correntes de vento do estádio se curvaram em volta dele sem apagá-lo. Shirley passou a mão por cima, e faíscas dançaram pelo ar entre as chamas, num cercado de luz que fez o rosto de Ferris brilhar como um espelho.
+Estalou uma brasa dentro dela. Dessa vez, o fogo não escapou. Foi saindo das palmas em fios laranja, um a um, mornos, obedientes, e deu uma volta inteira em torno do pilar de Ferris, fechando-se como um bracelete. O calor subiu devagar pelo ar, e as correntes de vento do estádio se curvaram em volta dele sem apagá-lo. Por um instante, o círculo se abriu num ponto, e Beatriz teve de corrigir a chama com as duas mãos, mordendo o lábio para não perder a concentração. Shirley passou a mão por cima, e faíscas dançaram pelo ar entre as chamas, num cercado de luz que fez o rosto de Ferris brilhar como um espelho.
 
 – Agora ele vai ter que usar a técnica – murmurou Breno.
 
