@@ -30,7 +30,7 @@ No caminho até o ponto do dassi, a rua parecia mais longa do que de costume. Fo
 
 – Presália? – perguntou Beatriz.
 
-– Uma prisão secreta sob a Central, nos túneis antigos. Foi fechada. Hoje os prisioneiros vão para a Santaguarda, ao sul de Tayo. – Ele olhou para o horizonte. – O medo faz as pessoas tomarem decisões cruéis, Beatriz. E confiar exige coragem. Erla, por exemplo, não confia em ninguém. Mas, se ainda existe decência na Vigilância, é em parte por causa dela.
+– Uma prisão secreta sob a Central, nos túneis antigos. Foi fechada. Hoje os prisioneiros vão para a Santaguarda, a uns cento e cinquenta quilômetros ao sul de Tayo. – Ele olhou para o horizonte. – O medo faz as pessoas tomarem decisões cruéis, Beatriz. E confiar exige coragem. Erla, por exemplo, não confia em ninguém. Mas, se ainda existe decência na Vigilância, é em parte por causa dela.
 
 – E se ela mudar de lado? – perguntou Bruno.
 
@@ -50,7 +50,13 @@ Os dois se olharam e riram. Foi um alívio, como abrir uma janela num quarto aba
 
 À tarde, Velho-Sábio os parabenizou pela corrida e avisou que o próximo desafio exigiria magia de verdade. Nas duas semanas seguintes, o treino foi intenso, e aconteceu o que costuma acontecer quando se treina bastante: os dedos ficaram mais firmes, as respostas mais rápidas. Breno aprendeu a atravessar uma parede sem pensar duas vezes. Bruno conseguiu segurar uma lasca de gelo por um minuto inteiro sem que virasse um castelo. Beatriz fez chamas pequenas e fiéis, que obedeciam a um assovio. Banjo fez folhas pousarem em fila na mesa da cozinha, uma ao lado da outra, como cartas de baralho.
 
-Entre uma aula e outra, a vida foi criando hábitos. Às quartas, Eshley e Maria apareciam lá em casa para desenhar lanternas, e a sala ficava coberta de papel dourado e de cola que cheirava a mel. O jantar de domingo continuou de pé, mesmo com todo mundo cansado. Foi num deles que Bruno ganhou a primeira partida de Tepone contra o mago, com uma trapaça tão descarada que Velho-Sábio pagou o mico de bom grado, imitando uma volha por dois minutos inteiros. Kali pediu a gravação. Ninguém deixou. Todo mundo sabia que ela tinha feito uma mesmo assim. Velho-Sábio passou a deixar um bilhete na porta de cada quarto de manhã, com um desenho que se mexia. O de Breno dizia: "Durma mais." O de Beatriz tinha um coelho que acenava. O de Bruno dizia apenas: "Acorda. Você também." Bruno guardou o dele na gaveta e fingiu que nunca o tinha lido.
+Entre uma aula e outra, a vida foi criando hábitos. Às quartas, Eshley e Maria apareciam lá em casa para desenhar lanternas, e a sala ficava coberta de papel dourado e de cola que cheirava a mel. Num desses dias, os seis foram até o Parque do Arco Manso depois do lanche. Eshley tentou fazer uma pequena esfera luminosa atravessar os galhos de uma árvore, mas a esfera ficou presa e passou a iluminar um ninho vazio.
+
+– Agora ela é dona da árvore? – perguntou Beatriz.
+
+– Até eu descobrir como tirar – respondeu Eshley.
+
+Banjo estendeu a mão, e um galho se inclinou o suficiente para devolver a esfera. Maria aplaudiu. Bruno, que havia passado os últimos cinco minutos oferecendo soluções cada vez mais perigosas, declarou que a ideia dele era praticamente igual. Naquela noite, ainda havia papel dourado preso nos cabelos de Beatriz, e ninguém soube dizer de onde viera. O jantar de domingo continuou de pé, mesmo com todo mundo cansado. Foi num deles que Bruno ganhou a primeira partida de Tepone contra o mago, com uma trapaça tão descarada que Velho-Sábio pagou o mico de bom grado, imitando uma volha por dois minutos inteiros. Kali pediu a gravação. Ninguém deixou. Todo mundo sabia que ela tinha feito uma mesmo assim. Velho-Sábio passou a deixar um bilhete na porta de cada quarto de manhã, com um desenho que se mexia. O de Breno dizia: "Durma mais." O de Beatriz tinha um coelho que acenava. O de Bruno dizia apenas: "Acorda. Você também." Bruno guardou o dele na gaveta e fingiu que nunca o tinha lido.
 
 A desconfiança de Bruno com o anel de McCroys ficou quieta nesse tempo, como brasa debaixo de cinza.
 

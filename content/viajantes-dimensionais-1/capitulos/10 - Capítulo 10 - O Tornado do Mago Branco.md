@@ -137,7 +137,7 @@ Os irmãos ficaram paralisados. Tinham certeza de que Emiris havia sido eliminad
 
 Os irmãos se abraçaram, rindo e se empurrando, e Banjo quase derrubou uma cadeira. Velho-Sábio os observou do fundo, com um sorriso caloroso que dizia mais do que palavras.
 
-Do lado de fora, ele os levou a outro dassi, que subiu pelo ar até uma montanha ao sul de Tayo. A vegetação mudava à medida que subiam: árvores altas e retorcidas, de folhas amarelas e roxas que cintilavam ao sol, um perfume fresco de resina e flor. Pousaram num ponto onde o terreno se abria numa vista imensa. Lá embaixo, Tayo se estendia em todas as direções, e a cúpula da central interdimensional brilhava ao longe, cercada pelos imensos muros da cidade. Ao sul, a silhueta de um vulcão soltava uma fumaça leve.
+Do lado de fora, ele os levou a outro dassi, que subiu pelo ar até uma montanha ao sul de Tayo. A vegetação mudava à medida que subiam: árvores altas e retorcidas, de folhas amarelas e roxas que cintilavam ao sol, um perfume fresco de resina e flor. Pousaram num ponto onde o terreno se abria numa vista imensa. Lá embaixo, Tayo se estendia em todas as direções, e a cúpula da central interdimensional brilhava ao longe, cercada pelos imensos muros da cidade. Três torres muito altas recortavam o centro da paisagem, enquanto, além das muralhas, as ruas cediam lugar a estradas e vastas terras de cultivo. Ao sul, a silhueta de um vulcão soltava uma fumaça leve.
 
 – O senhor trouxe a gente aqui pra comemorar? – brincou Beatriz.
 
