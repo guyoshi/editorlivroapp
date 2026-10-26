@@ -20,7 +20,19 @@ Beatriz ergueu a cabeça do travesseiro.
 
 – E ele voa?
 
-– Quando precisa! Mas tem que ter alguém para chamar o nome dele.
+– Quando precisa! Mas tem que ter alguém para chamar o nome dele. E eu fiz uma música!
+
+Banjo começou a cantar, orgulhoso:
+
+Cachorro Átila, o mais feroz, o mais amigo, o mais veloz
+Ele é um cachorro muito bonzinho
+Tô falando sério ele é bonitinho
+Ele é um cachorro muito bonzinho
+Tô falando sério ele é bonitinho
+
+Bruno se virou na cama, rindo apesar do sono.
+
+– A gente entendeu que ele é bonitinho, Banjo. Agora dorme!
 
 Como se tivesse ouvido a deixa, Átila empurrou a porta com o focinho e entrou abanando o rabo. Banjo o abraçou e tentou erguê-lo; conseguiu levantá-lo só um pouco, soltando um gemido de esforço antes de se sentar com o cachorro no colo.
 
