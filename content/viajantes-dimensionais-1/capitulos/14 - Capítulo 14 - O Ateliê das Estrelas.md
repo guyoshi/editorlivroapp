@@ -190,9 +190,13 @@ Beatriz olhou para as chamas, e algo dentro dela se acomodou.
 
 – Obrigada. Eu acho.
 
-– Boa noite, pequena. Não demore a dormir.
+Ela se levantou, mas parou no primeiro degrau, com a mão no corrimão.
 
-Ela subiu, mais leve. Mas sabia que as perguntas sobre Édelin ainda não tinham terminado.
+– Velho-Sábio. A mamãe cantava quando eu tinha medo. Baixinho, no escuro. – Apertou a madeira. – Eu tinha esquecido a música. Aqui, às vezes, ela volta. Isso é bom ou é ruim?
+
+– Quem disse que você precisa escolher? – O mago sorriu com os olhos. – Lembrar dói e aquece, Bia. O fogo também, e ainda assim a gente senta perto dele.
+
+Ela assentiu. Subiu cantarolando três notas sem perceber, e dormiu mais leve. Mas sabia que as perguntas sobre Édelin ainda não tinham terminado.
 
 
 Bruno acordou antes de todo mundo, na manhã seguinte, com a barriga roncando e a janela do quarto cheia de nuvens cor-de-rosa, enfileiradas como ovelhas bem-comportadas. As nuvens de Tayo estavam de bom humor. Desceu o corredor de meia, deslizando no chão que brilhava como um rio ao sol, e ouviu a voz de Kali saindo da tela da parede.

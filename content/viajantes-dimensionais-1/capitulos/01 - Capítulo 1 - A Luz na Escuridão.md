@@ -100,7 +100,7 @@ Breno socou a parede, respirou fundo e guardou o rádio na mochila. Depois subiu
 
 Cada um tinha sua distração. Beatriz olhava as nuvens pela janela e assistia ao canal de esportes, algo que costumava fazer com o pai. Banjo lia os quadrinhos que ganhara dele, torcendo para que Bad Rock soltasse mais uma frase de efeito antes de derrotar um chefão alienígena. As distrações ajudavam o tempo a passar, mas deixavam todos sozinhos, cada um do seu jeito.
 
-Bruno, por trás das piadas, era quem menos conseguia se conter. No quarto, enquanto a chuva batia na janela, chorou escondido no lençol. Quando ouviu Frank chegar, ficou mais um instante deitado, esperando a voz não denunciar o choro. Nem ao tio saberia explicar a culpa que sentia.
+Bruno, por trás das piadas, era quem menos conseguia se conter. No quarto, enquanto a chuva batia na janela, chorou escondido no lençol. Quando ouviu Frank chegar, ficou mais um instante deitado, esperando a voz não denunciar o choro. Nem ao tio saberia explicar o que sentia.
 
 Frank chegou tarde da noite, e quando Bruno desceu, a janta já estava feita.
 

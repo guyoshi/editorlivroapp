@@ -118,6 +118,12 @@ O silêncio foi grande. Breno piscou, tentando entender.
 
 Breno assentiu devagar, e uma lágrima desceu pelo rosto dele.
 
+– Então eu pergunto – disse Bruno, sem a graça de sempre. – Os dois, na mesma noite, na porta de casa. Isso foi infarto mesmo?
+
+Velho-Sábio demorou a responder.
+
+– Faz muito tempo que me pergunto o mesmo, Bruno. – Os olhos verdes não se desviaram. – Ainda não sei. Mas vou descobrir, e vocês serão os primeiros a saber.
+
 Velho-Sábio se virou para Banjo.
 
 – O que aconteceu junto à árvore foi extraordinário. Nem eu conseguiria fazer aquilo.
@@ -475,7 +481,19 @@ Bruno colocou a mão no peito e deu uma piscada para os irmãos.
 
 – Você é engraçado – disse Kali, e a luz dela pulsou, doce e cálida.
 
-Ficaram acordados até tarde, trocando lembranças, rindo de algumas, calando em outras. Era uma sensação agridoce, de alívio e cansaço e de saudade antecipada. Mas pelo menos naquela noite estavam juntos, e isso bastava.
+Ficaram acordados até tarde, trocando lembranças, rindo de algumas, calando em outras. Era uma sensação agridoce, de alívio e cansaço e de saudade antecipada.
+
+Banjo, deitado de barriga para cima, falou para o teto:
+
+– Breno. Aquele relógio do pai. Eu nunca consegui consertar.
+
+Breno demorou a responder.
+
+– Eu sei. Voltei depois e vi você tentando. Fiquei na porta. Não entrei. – Respirou fundo no escuro. – Gritei com você porque não conseguia gritar com mais ninguém. Não foi você, Banjo. Nunca foi.
+
+Banjo não disse nada. Procurou a mão do irmão mais velho e a encontrou.
+
+Pelo menos naquela noite estavam juntos, e isso bastava.
 
 
  
@@ -518,7 +536,7 @@ Tudo era familiar e pequeno. O sofá gasto, a mesa de centro, o barulho dos pás
 
 – Vocês... estão aqui?
 
-Beatriz correu para ele. Frank a abraçou tão depressa que quase perdeu o equilíbrio. Os outros chegaram juntos, e por um momento os cinco ficaram enroscados no meio da sala. Banjo reconheceu o cheiro de café na camisa do tio. Bruno riu contra o ombro dele; Breno fechou os olhos e apertou os irmãos um pouco mais. Frank não pediu explicações. Passou a mão pelos cabelos de cada um, como se precisasse ter certeza de que eram reais.
+Beatriz correu para ele. Frank a abraçou tão depressa que quase perdeu o equilíbrio. Os outros chegaram juntos, e por um momento os cinco ficaram enroscados no meio da sala. Banjo reconheceu o cheiro de café na camisa do tio. Farol espiou pela gola dele e se escondeu de novo. Uma pétala azul se soltou do cabelo de Beatriz e pousou no ombro de Frank, que não percebeu. Bruno riu contra o ombro dele; Breno fechou os olhos e apertou os irmãos um pouco mais. Frank não pediu explicações. Passou a mão pelos cabelos de cada um, como se precisasse ter certeza de que eram reais.
 
 Quando enfim os soltou, Breno pousou o rádio do pai na mesa. Frank olhou para o aparelho e depois para os quatro. Banjo tentou sorrir.
 
@@ -527,3 +545,5 @@ Quando enfim os soltou, Breno pousou o rádio do pai na mesa. Frank olhou para o
 O rosto de Frank mudou. Havia cansaço, alívio, e uma coisa a mais, que os quatro não conseguiram ler. Quando ele falou, a voz saiu baixa:
 
 – Então me contem... como foi a quarta dimensão?
+
+Sobre a mesa, o rádio do pai chiou uma vez, baixinho, e Roxette recomeçou do meio, como se nunca tivesse parado. Frank olhou para ele. Não pareceu surpreso.
