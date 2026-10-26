@@ -219,7 +219,7 @@ A aceleração foi tão súbita que Beatriz soltou um grito e Banjo, uma gargalh
 
 – SE DANÇAR FOSSE ASSIM, EU TERIA FICADO EM CASA!
 
-O karto entrou por uma abertura num prédio azul, e a luz mudou. O tubo atravessava uma galeria aquática, ladeada por reservatórios transparentes; peixes e criaturas marinhas de todas as cores flutuavam dos dois lados num balé lento, com as barrigas iluminadas. Beatriz grudou o rosto no vidro. Uma raia do tamanho de um dassi passou rente ao carrinho e a olhou diretamente com um olho dourado. Breno, que não falara nada até então, sussurrou:
+O karto entrou por uma abertura num prédio azul, e a luz mudou. Era um pequeno aquário de Tayo, construído ao redor da rede de túbulas. Perto da estação interna, alguns visitantes desembarcavam para explorar os corredores; quem quisesse conhecê-lo precisava chegar por ali. O karto seguiu sem parar, atravessando uma galeria aquática ladeada por reservatórios transparentes; peixes e criaturas marinhas de todas as cores flutuavam dos dois lados num balé lento, com as barrigas iluminadas. Beatriz grudou o rosto no vidro. Uma raia do tamanho de um dassi passou rente ao carrinho e a olhou diretamente com um olho dourado. Breno, que não falara nada até então, sussurrou:
 
 – Eu poderia morar aqui.
 
