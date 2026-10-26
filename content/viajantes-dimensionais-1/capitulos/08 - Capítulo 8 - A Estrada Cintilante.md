@@ -119,7 +119,13 @@ Todos dispararam. Menos o vermelho, que, por culpa de uma tremedeira nos polegar
 
 – Foi sem querer! – Ele corrigiu e jogou o dassi para frente.
 
-Os dassis entraram em Tayo como flechas coloridas. Contornaram torres, mergulharam em descidas de embrulhar o estômago, cruzaram pontes de luz. Nas sacadas, a plateia sacudia lenços coloridos, e de um telhado-jardim subiu uma revoada de papagaios de papel que acompanhou a corrida por um quarteirão, rindo. Bruno, no banco de trás, fechou os olhos, sentiu o ar frio no rosto, com cheiro de ferro e chuva, e começou a antecipar as curvas antes de Breno. Banjo, grudado na janela, sussurrava para o dassi: "devagar na descida, aqui o vento muda", e o dassi, sem que ninguém soubesse como, obedecia. Cada curva abria uma paisagem nova, mas ninguém tinha tempo de olhar. À frente, o dassi amarelo de Eshley e Maria ziguezagueava, e uma rajada de gelo bateu na lateral dele, arremessando cristais pela pista.
+Os dassis entraram em Tayo como flechas coloridas. Contornaram torres, mergulharam em descidas de embrulhar o estômago, cruzaram pontes de luz. Nas sacadas, a plateia sacudia lenços coloridos, e de um telhado-jardim subiu uma revoada de papagaios de papel que acompanhou a corrida por um quarteirão, rindo. Bruno, no banco de trás, fechou os olhos, sentiu o ar frio no rosto, com cheiro de ferro e chuva, e começou a antecipar as curvas antes de Breno. Banjo, grudado na janela, sussurrava para o dassi: "devagar na descida, aqui o vento muda", e o dassi, sem que ninguém soubesse como, obedecia. Cada curva abria uma paisagem nova, mas ninguém tinha tempo de olhar. Por um instante, as três torres mais altas da cidade surgiram entre os prédios.
+
+– Os Três Mirantes! – gritou Banjo, apontando.
+
+– Banjo, olha pra frente! – Breno puxou os comandos para evitar uma curva fechada.
+
+À frente, o dassi amarelo de Eshley e Maria ziguezagueava, e uma rajada de gelo bateu na lateral dele, arremessando cristais pela pista.
 
 – Estão atacando! – gritou Bruno, vendo o dassi preto dos gêmeos, com Nicolas debruçado na janela e um sorriso de gelo no rosto. Ao lado dele, Erick já preparava chamas.
 

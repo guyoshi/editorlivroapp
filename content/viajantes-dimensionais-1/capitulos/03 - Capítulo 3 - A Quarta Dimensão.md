@@ -216,9 +216,13 @@ Banjo olhou até o fim da rua, onde duas pessoas passavam com cestos e cumprimen
 
 – Sobre a água? A gente pode ir lá depois?
 
-– Primeiro vamos entrar em casa – disse Breno, antes que o velho respondesse.
+– Podemos, sim, quando tivermos uma tarde livre – respondeu Velho-Sábio.
 
-Velho-Sábio sorriu para Banjo, como quem já tinha prometido a visita. Parou diante de um portão e o abriu sem tocar.
+– Então espero que a gente tenha muitas!
+
+– Primeiro vamos entrar em casa – disse Breno, chamando o irmão de volta à rua.
+
+Velho-Sábio sorriu para Banjo. Parou diante de um portão e o abriu sem tocar.
 
 O jardim era um espetáculo próprio. Plantinhas saltitavam no chão como se dançassem. Uma árvore pequena balançava frutos azulados que brilhavam como estrelas em miniatura. Um arbusto soltava faíscas que sumiam no ar, e uma flor luminosa se curvou para observar os visitantes.
 
