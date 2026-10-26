@@ -139,7 +139,7 @@ Bruno, com o cabelo pingando, evitava olhar para qualquer um. Breno secou o rost
 
 – Então... a gente tenta de novo? – perguntou Banjo.
 
-– Não – disse o velho, rindo baixinho.
+– Não – disse o velho, rindo baixinho. – Hoje vocês perceberam o erro. Amanhã retomaremos isso de outro jeito. Trabalhar juntos não se aprende numa tarde.
 
 Voltaram de dassi, com as roupas pingando no assento e a cidade acendendo as luzes lá embaixo. Ninguém olhou pela janela. Banjo foi o primeiro a falar.
 
