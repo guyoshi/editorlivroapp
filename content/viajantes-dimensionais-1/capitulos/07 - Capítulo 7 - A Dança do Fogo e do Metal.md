@@ -20,7 +20,7 @@ Contaram. Foi a primeira vez que alguém descreveu um purê de tubérculo como "
 
 Tayo, aos poucos, deixou de ser um mapa e virou um distrito com gente que os reconhecia. Em Brisália, Beatriz sabia que Pelan, da padaria, sempre dava um pão a mais; Banjo cumprimentava o homem da previsão do tempo pelo nome; Bruno tinha opinião sobre todos os dassis da rua; e Breno, que detestaria admitir, já não procurava as saídas quando entrava num lugar novo.
 
-Às vezes, depois das aulas, passavam pelo Largo dos Ponteiros, onde o relógio público mudava de cor e as crianças disputavam quem conseguiria fazê-lo tocar fora de hora. No Parque do Arco Manso, Banjo descobriu uma árvore que deixava as folhas cair apenas quando alguém lhe contava uma coisa engraçada. Bruno tentou fazê-la rir por dez minutos e saiu debaixo dela com um único graveto no cabelo. Beatriz conseguiu uma chuva de folhas contando que o irmão tinha medo de joaninhas. Bruno jurou que a árvore estava roubando.
+Às vezes, depois das aulas, passavam pelo Largo dos Ponteiros, onde o relógio público mudava de cor e as crianças disputavam quem conseguiria fazê-lo tocar fora de hora. No Parque do Arco Manso, Banjo descobriu uma árvore que deixava as folhas cair apenas quando alguém lhe contava uma coisa engraçada. Bruno tentou fazê-la rir por dez minutos e saiu debaixo dela com um único graveto no cabelo. Beatriz conseguiu uma chuva de folhas contando que o irmão tinha ensaiado uma reverência para o próprio reflexo. Bruno jurou que a árvore estava roubando.
 
 Numa tarde livre, Velho-Sábio cumpriu a promessa de levá-los ao Riacho de Lurim. Na margem, havia bicicletas estreitas de rodas azuladas. Quem pedalava seguia por cima da água, deixando dois riscos que desapareciam logo atrás.
 

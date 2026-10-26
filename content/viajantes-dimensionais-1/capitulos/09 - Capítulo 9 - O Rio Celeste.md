@@ -50,7 +50,7 @@ Os dois se olharam e riram. Foi um alívio, como abrir uma janela num quarto aba
 
 À tarde, Velho-Sábio os parabenizou pela corrida e avisou que o próximo desafio exigiria magia de verdade. Nas duas semanas seguintes, o treino foi intenso, e aconteceu o que costuma acontecer quando se treina bastante: os dedos ficaram mais firmes, as respostas mais rápidas. Breno aprendeu a atravessar uma parede sem pensar duas vezes. Bruno conseguiu segurar uma lasca de gelo por um minuto inteiro sem que virasse um castelo. Beatriz fez chamas pequenas e fiéis, que obedeciam a um assovio. Banjo fez folhas pousarem em fila na mesa da cozinha, uma ao lado da outra, como cartas de baralho.
 
-Entre uma aula e outra, a vida foi criando hábitos. Às quartas, Eshley e Maria apareciam lá em casa para desenhar lanternas, e a sala ficava coberta de papel dourado e de cola que cheirava a mel. Num desses dias, os seis foram até o Parque do Arco Manso depois do lanche. Eshley tentou fazer uma pequena esfera luminosa atravessar os galhos de uma árvore, mas a esfera ficou presa e passou a iluminar um ninho vazio.
+Entre uma aula e outra, a vida foi criando hábitos. Às quartas, Eshley e Maria apareciam lá em casa para desenhar lanternas, e a sala ficava coberta de papel dourado e de cola que cheirava a mel. Num desses dias, os seis foram até o Parque do Arco Manso depois do lanche. Eshley arremessou uma bolinha luminosa, das que tinham sobrado das lanternas, para ver se ela passava entre os galhos. A bolinha ficou presa e passou a iluminar um ninho vazio.
 
 – Agora ela é dona da árvore? – perguntou Beatriz.
 
