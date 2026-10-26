@@ -18,7 +18,21 @@ Aos domingos havia jantar, e o jantar era ordem de Velho-Sábio. Nada de treino,
 
 Contaram. Foi a primeira vez que alguém descreveu um purê de tubérculo como "um abraço morno com pedacinhos", e Kali anotou a frase.
 
-Tayo, aos poucos, deixou de ser um mapa e virou um bairro. Beatriz sabia qual padeiro dava um pão a mais, Banjo cumprimentava o homem da previsão do tempo pelo nome, Bruno tinha opinião sobre todos os dassis da rua, e Breno, que detestaria admitir, já não procurava as saídas quando entrava num lugar novo.
+Tayo, aos poucos, deixou de ser um mapa e virou um distrito com gente que os reconhecia. Em Brisália, Beatriz sabia que Pelan, da padaria, sempre dava um pão a mais; Banjo cumprimentava o homem da previsão do tempo pelo nome; Bruno tinha opinião sobre todos os dassis da rua; e Breno, que detestaria admitir, já não procurava as saídas quando entrava num lugar novo.
+
+Às vezes, depois das aulas, passavam pelo Largo dos Ponteiros, onde o relógio público mudava de cor e as crianças disputavam quem conseguiria fazê-lo tocar fora de hora. No Parque do Arco Manso, Banjo descobriu uma árvore que deixava as folhas cair apenas quando alguém lhe contava uma coisa engraçada. Bruno tentou fazê-la rir por dez minutos e saiu debaixo dela com um único graveto no cabelo. Beatriz conseguiu uma chuva de folhas contando que o irmão tinha medo de joaninhas. Bruno jurou que a árvore estava roubando.
+
+Numa tarde livre, Velho-Sábio cumpriu a promessa de levá-los ao Riacho de Lurim. Na margem, havia bicicletas estreitas de rodas azuladas. Quem pedalava seguia por cima da água, deixando dois riscos que desapareciam logo atrás.
+
+– Isso não afunda mesmo? – perguntou Breno, examinando as rodas.
+
+– Só se vocês pararem de pedalar e resolverem testar – respondeu Velho-Sábio, sentado num banco com Coronel.
+
+– Então o Bruno vai afundar primeiro – disse Beatriz.
+
+– Eu? Vou ser o primeiro a chegar! – Bruno montou e arrancou antes de ouvir o resto das instruções.
+
+Dez metros adiante, descobriu que fazer curva exigia diminuir a velocidade. A bicicleta girou, levantou uma cortina de água e o deixou encharcado, mas sentado e inteiro. Banjo passou por ele, rindo tanto que quase perdeu o equilíbrio. Breno foi atrás, devagar, com Beatriz pedalando ao lado. Na volta, os quatro ficaram na margem, comendo pãezinhos comprados de Pelan, enquanto as últimas bicicletas riscavam a água sob as luzes das árvores. Por alguns minutos, não houve prova, ameaça nem saudade que precisassem explicar. Só o riacho e as provocações de sempre.
 
 
 Numa dessas manhãs, perto do fim da terceira semana, o céu de Tayo estava cor de pêssego e as ruas cheiravam a pão de mel. Velho-Sábio caminhou calado até o Edifício Arcano, o cajado batendo no calçamento num ritmo lento, e os irmãos acharam melhor não interromper os pensamentos dele.
@@ -31,7 +45,7 @@ Tayo, porém, não estava calada. Num poste, um homem de colete listrado anuncia
 
 – Mudam sempre, rapaz. Por isso eu cobro só meio pêndulo! – O homem tocou o chapéu. – Que a luz te encontre!
 
-– Que a luz te encontre – respondeu Banjo, sem pensar, e depois ficou muito satisfeito consigo mesmo pelo resto do quarteirão.
+– Que a luz te encontre – respondeu Banjo, sem pensar, e depois ficou muito satisfeito consigo mesmo pelo resto do quarteirão. Já conhecia o caminho de Brisália até a estação e apontou o atalho para os irmãos antes que Velho-Sábio precisasse fazê-lo.
 
 No saguão, um homem alto, de cabelo grisalho cortado rente, esperava ao lado do elevador. Usava o uniforme cinza da Vigilância com uma postura firme e, ao mesmo tempo, quase acolhedora. Tinha o rosto de quem já enfrentou coisas demais e ainda assim sabe sorrir.
 

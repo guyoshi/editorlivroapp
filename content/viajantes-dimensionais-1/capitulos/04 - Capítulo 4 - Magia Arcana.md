@@ -92,6 +92,8 @@ Um minuto depois, o cachorro desceu devagar, com um chinelo de Bruno pendurado n
 
 Coronel largou. O chinelo ficou no tapete, babado e satisfeito. Do alto da escada, Bruno gritou que ia cobrar aquilo do seguro.
 
+Saíram pela rua ainda fresca de Brisália. Perto do Largo dos Ponteiros, uma mulher recolhia pequenas lanternas que tinham passado a noite presas aos galhos de uma árvore. Mais adiante, o cheiro de pão recém-saído do forno vinha de uma porta aberta. Beatriz diminuiu o passo; Breno precisou chamá-la duas vezes.
+
 O dassi parou no ponto, flutuando a um palmo do chão com uma suavidade quase elegante. Antes de entrar, Velho-Sábio deixou cair numa fenda do casco um pêndulo, a moeda de Tayo, vermelha e furada no meio. A moeda tilintou e o dassi estremeceu de satisfação.
 
 – O furo é para a sorte passar – explicou ele. – Entrem.
@@ -100,7 +102,7 @@ A porta se derreteu e se moldou ao redor deles. O dassi disparou, fez uma curva 
 
 – Se a gente sobreviver a isso, qualquer treino vai parecer moleza!
 
-Quando enfim o dassi estabilizou, Tayo se abriu embaixo deles como uma gaveta de brinquedos. Havia pontes que mudavam de cor, telhados luminosos, uma torre de relógio que dava as horas em espécie de hologramas. Beatriz colou o nariz no vidro. Banjo contou doze tipos de criaturas voando e desistiu no décimo terceiro. Até Bruno, que jurara não se impressionar, ficou calado.
+Quando enfim o dassi estabilizou, Tayo se abriu embaixo deles como uma gaveta de brinquedos. O veículo deixou para trás as ruas baixas de Brisália e cruzou uma área de praças e jardins até alcançar edifícios cada vez mais elegantes. Havia pontes que mudavam de cor, telhados luminosos, uma torre de relógio que dava as horas em espécie de hologramas. Beatriz colou o nariz no vidro. Banjo contou doze tipos de criaturas voando e desistiu no décimo terceiro. Até Bruno, que jurara não se impressionar, ficou calado.
 
 Quando o dassi pousou, eles estavam numa rua larga e barulhenta. O ar tinha cheiro de especiarias, frutas e metal quente das oficinas. Vendedores em bancas flutuantes anunciavam ofertas aos gritos, crianças corriam entre os passantes, e as risadas se misturavam ao tique-taque das engrenagens mágicas das lojas. Havia gente em capas, mantos e chapéus variados, com penduricalhos que tilintavam a cada passo.
 
@@ -113,6 +115,8 @@ Quando o dassi pousou, eles estavam numa rua larga e barulhenta. O ar tinha chei
 – Não é um rato, não é um coelho – corrigiu Beatriz, curvando-se para olhar. – É... uma coisa fofa.
 
 Nenhum dos três soube o nome daquilo. O bichinho abriu um olho, fez um barulhinho que parecia um chilreio, e voltou a dormir. Banjo teve que ser puxado pela capa para seguir os irmãos.
+
+– Chegamos a Sorevan – comentou Velho-Sábio, enquanto desciam. – Aqui fica o Edifício Arcano.
 
 À frente deles, o Edifício Arcano se erguia largo e brilhante, de paredes espelhadas que refletiam a cidade inteira, de cabeça para baixo.
 
