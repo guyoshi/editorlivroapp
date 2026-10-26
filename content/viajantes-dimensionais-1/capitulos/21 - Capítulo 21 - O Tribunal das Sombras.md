@@ -282,6 +282,10 @@ Três seguidores, um homem forte que conjurava chamas negras e uma mulher que se
 
 – Eu sei! – gritou Banjo, apagando a manga. – Fica atrás de mim!
 
+– Não assim! – Bruno se pôs ao lado dele. – Lembram da Gímiga? Primeiro a defesa. Depois a brecha.
+
+Breno assentiu e se firmou à frente, deixando espaço para os irmãos agirem. Banjo levantou uma placa de pedra caída para proteger Beatriz enquanto Bruno congelava o chão diante dos atacantes. Quando o homem das chamas negras perdeu o equilíbrio, Banjo puxou a pedra para o lado e abriu caminho para Breno avançar. Por alguns segundos, conseguiram impedir que os seguidores se aproximassem. Beatriz respirou fundo, as mãos ainda trêmulas, e conteve o fogo que ameaçava escapar outra vez.
+
 Anasin viu a oportunidade e veio caminhando, serena, com o sorriso de uma cobra que encontrou um ninho. Breno enfiou a mão no bolso, tateou e achou a laranja que restava. A última. Depois dela, só sobrariam a azul e a amarela. Atirou-a aos pés dela. O clarão iluminou a sala e o ogro de pedra surgiu, agarrou Anasin pelo braço e a ergueu, e a arremessou por cima das cabeças de uma dúzia de seguidores.
 
 – Uau! – gritou Banjo.
