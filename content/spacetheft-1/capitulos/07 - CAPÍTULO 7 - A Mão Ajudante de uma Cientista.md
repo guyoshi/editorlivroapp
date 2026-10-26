@@ -52,7 +52,7 @@ As criaturas se olharam e soltaram mais um som estranho.
 
 — Ah, esquece — respondi caminhando em direção à elas — me dão licença.
 
-Passei pelos dekraazianos e, atravessando um túnel escuro, cheguei ao mundo exterior: um jardim iluminado por flora azul luminescente que transformava a noite num espetáculo. Quando eu passava, as flores soltavam um pólen que se espalhava como vagalumes. O contraste com o chão negro era de conto de fadas. Sim, eu sei o que são contos de fadas. Mas depois de anos viajando o espaço, descobrimos que fadas não são só um conto.
+Passei pelos dekraazianos e, atravessando um túnel escuro, cheguei ao mundo exterior: um jardim iluminado por flora azul luminescente que transformava a noite num espetáculo. Quando eu passava, as flores soltavam um pólen que se espalhava como vagalumes. O contraste com o chão negro era de conto de fadas. Sim, eu sei o que são contos de fadas. Mas depois de momentos viajando o espaço, descobrimos que fadas não são só um conto.
 
 Os céus continuavam tão escuros quanto na minha chegada, só que mais silenciosos. Os trovões soavam distantes, e por algumas frestas dava para ver a luz do sol cruzando as nuvens laranjas.
 

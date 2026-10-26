@@ -1,4 +1,4 @@
-Percorremos a nebulosa escura por alguns dias, atentos a qualquer adversidade. Até que certo dia, enquanto discutíamos se baratas do mar eram venenosas ou não, um probleminha surgiu. O painel começou a piscar em vermelho e, por alguma razão, os motores cessaram, nos deixando vagar pela escuridão plena.
+Percorremos a nebulosa escura por algumas voltas, atentos a qualquer adversidade. Até que certo dia, enquanto discutíamos se baratas do mar eram venenosas ou não, um probleminha surgiu. O painel começou a piscar em vermelho e, por alguma razão, os motores cessaram, nos deixando vagar pela escuridão plena.
 
 — O que houve? — perguntou O’reilly, frustrado.
 
@@ -16,11 +16,11 @@ Eric hesitou enquanto mexia nos comandos da nave.
 
 Eric balançou a cabeça, os olhos fixos no painel.
 
-— A plena velocidade, sem os motores de dobra, levaríamos uns 3 milhões de anos para sair dessa nebulosa. Mas, claro, nossa energia acabaria antes. Talvez em umas... 30 voltas?
+— A plena velocidade, sem os motores de dobra, levaríamos uns 3 milhões de momentos para sair dessa nebulosa. Mas, claro, nossa energia acabaria antes. Talvez em umas... 30 voltas?
 
 O’reilly se inclinou para frente, apertando os punhos.
 
-— Certo, ótimo. Em trinta milhões de anos podemos evoluir para seres espaciais que enxergam radiação. Quem acha isso incrível levanta a mão. — Sua tentativa de humor foi recebida com olhares nada animados.
+— Certo, ótimo. Em trinta milhões de momentos podemos evoluir para seres espaciais que enxergam radiação. Quem acha isso incrível levanta a mão. — Sua tentativa de humor foi recebida com olhares nada animados.
 
 — Hardman! — reclamou Kord, se levantando com irritação — o que faremos?
 

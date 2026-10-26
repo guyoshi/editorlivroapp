@@ -297,7 +297,7 @@ Nos ajeitamos nas cadeiras, duas delas agora vazias. Jelles emergiu da sombra co
 
 — A Lebargan zarpou ao alvorecer da volta. Nosso destino é um planeta habitado por uma civilização ainda nas fases iniciais de desenvolvimento. Eles representam uma ameaça mínima comparada ao que podemos representar para eles — Jelles tomou seu assento, e o holograma exibiu um planeta tingido de laranja, orbitando uma estrela vermelha e diminuta. — Esta é uma missão de extrema importância, e por isso, necessito da elite. Jasmey, sei que acabou de retornar de uma operação, mas sua presença é novamente indispensável.
 
-Não era possível. Era a minha terceira missão naquela semana.
+Não era possível. Era a minha terceira missão naquele hepton.
 
 — Ta tudo bem, capitão, as costas ainda estão me aguentando — falei.
 
@@ -385,7 +385,7 @@ A atmosfera mergulhou em tons de laranja, e a fuselagem da Prosépina resplandec
 
 — Absoluta — Jelles retorquiu — Preparar para pouso em 60 ectons.
 
-Ao mergulharmos nas nuvens negras, a Prosépina foi sacudida por uma turbulência severa, e nos agarramos aos assentos. A entrada atmosférica sempre foi um dos momentos mais arriscados das missões, marcado pelo destino incerto de muitos companheiros. Depois de seis nectons de agitação, emergimos da camada de nuvens e revelamos a escuridão que envolvia o planeta.
+Ao mergulharmos nas nuvens negras, a Prosépina foi sacudida por uma turbulência severa, e nos agarramos aos assentos. A entrada atmosférica sempre foi um dos momentos mais arriscados das missões, marcado pelo destino incerto de muitos companheiros. Depois de seis ectons de agitação, emergimos da camada de nuvens e revelamos a escuridão que envolvia o planeta.
 
 Uma vegetação densa dominava a paisagem, um tapete uniforme de folhagem que raramente passava de um metro de altura. Os propulsores foram acionados, e a nave tocou suavemente o chão alienígena.
 

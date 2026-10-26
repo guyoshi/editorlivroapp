@@ -122,7 +122,7 @@ Enquanto retomava o caminho, a voz envelhecida, mas ainda vigorosa, do Sr. Peron
 
 — Ah, o notório Badrock — ele riu, um som carregado de lembranças e resignação.
 
-Ao me virar, vi Sr. Peron: a sabedoria dos anos misturada à sombra da despedida iminente.
+Ao me virar, vi Sr. Peron: a sabedoria de uma vida misturada à sombra da despedida iminente.
 
 — Sr. Peron, um prazer como sempre. Como está meu mestre ilustre?
 
@@ -186,7 +186,7 @@ Ele me deu um tapinha no ombro, um gesto de camaradagem.
 
 Com um último sorriso, Sr. Peron se afastou. Guardei o saco com cuidado.
 
-Ao chegar no salão do conselho, pendurei minha jaqueta marcada pelos recentes confrontos à entrada, vestindo apenas minha regata, que, apesar de outrora branca, agora narrava, em cada mancha e desgaste, os anos vividos na Lebargan.
+Ao chegar no salão do conselho, pendurei minha jaqueta marcada pelos recentes confrontos à entrada, vestindo apenas minha regata, que, apesar de outrora branca, agora narrava, em cada mancha e desgaste, os momentos vividos na Lebargan.
 
 A sala do conselho era o tipo de lugar onde até seus pensamentos suavam frio. As paredes pareciam ter olhos. E eles julgavam. Forte. O salão era grandioso e impenetrável, com duas portas robustas para que nenhum sussurro escapasse. As paredes de diamante, legado de Sacenis e da unificação das frotas Dale sob o estandarte da Lebargan, reluziam com o peso da história.
 
@@ -226,7 +226,7 @@ Nesse momento, Jelles revelou o olho, colocando-o sobre a mesa.
 
 — Sim — interveio Samara, sua curiosidade acadêmica despertando. — Relatos antigos descrevem o gerbe como o mineral mais precioso da galáxia, forjado junto ao início do universo. Sua raridade e valor são lendários.
 
-— Precisamente. O gerbe representa uma fortuna incomensurável. Uma única grama financiaria décadas de sustento, pesquisa e armamento.
+— Precisamente. O gerbe representa uma fortuna incomensurável. Uma única grama financiaria tempos de sustento, pesquisa e armamento.
 
 — Contos de fadas — desdenhou Fender, expressando o ceticismo de muitos. — Esse gerbe não existe. Muitos já perderam tudo em busca desse fantasma cósmico, sem nunca encontrá-lo.
 

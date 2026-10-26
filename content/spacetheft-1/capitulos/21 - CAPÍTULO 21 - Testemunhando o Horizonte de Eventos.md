@@ -100,7 +100,7 @@ Vivian ergueu a mão e apontou para os gravitadores.
 
 Amanda apanhou um dos Gravitadores, enquanto Eric e Kord seguravam os outros dois.
 
-— A gente se vê em alguns minutos.
+— A gente se vê em algumas dezenas de ectons.
 
 Os corredores inferiores da Lebargan eram uma colcha de retalhos de velhas naves unidas ao longo das eras, com cheiro de metal envelhecido e óleo lubrificante. Eu e Eric lideramos o grupo pelos labirintos de aço até a seção mais baixa.
 
@@ -140,11 +140,11 @@ Eric tirou o Olho do Domongo da bolsa e o estendeu a Vivian.
 
 Vivian o prendeu ao cinto e não disse nada.
 
-A tensão era quase insuportável. Fiquei observando a tela, os minutos passando lentamente, a mente em guerra com a chance de tudo dar errado. Mas não havia mais tempo para duvidar.
+A tensão era quase insuportável. Fiquei observando a tela, os ectons passando lentamente, a mente em guerra com a chance de tudo dar errado. Mas não havia mais tempo para duvidar.
 
 O vácuo era iminente, e nós prestes a cruzar a linha entre a vida e a morte, com a Lebargan atrás de nós.
 
-Ficamos imóveis, esperando que as naves se alinhassem. Durante minutos intermináveis, nada aconteceu. Só o som abafado da nave ao nosso redor.
+Ficamos imóveis, esperando que as naves se alinhassem. Durante ectons intermináveis, nada aconteceu. Só o som abafado da nave ao nosso redor.
 
 Então, pela janela, vi a primeira sombra se mover. A Princesa do Inverno apareceu diante de nós, acompanhada por outra nave. Eles estavam lá. A comporta exterior da Princesa do Inverno se abriu e aguardamos até que ela se alinhasse.
 
@@ -406,7 +406,7 @@ Então uma sombra negra colossal se ergueu das entranhas do planeta. Tentáculos
 
 Em um movimento rápido demais para algo daquela magnitude, a sombra se ergueu, atravessou o espaço e atingiu a anã branca.
 
-A estrela oscilou e então começou a se dobrar sobre si mesma. Uma força invisível sugou tudo ao seu redor. Luz foi arrancada de sua superfície. As chamas brancas se apagaram, sugadas para dentro da escuridão. A estrela implodiu e um buraco negro nasceu.
+A estrela oscilou, incapaz de sustentar o próprio peso somado ao daquilo, e então começou a se dobrar sobre si mesma. Uma força invisível sugou tudo ao seu redor. Luz foi arrancada de sua superfície. As chamas brancas se apagaram, sugadas para dentro da escuridão. A estrela implodiu e um buraco negro nasceu.
 
 A onda gravitacional varreu o espaço como um tsunami invisível, distorcendo a luz e arrancando naves de suas rotas. A Lebargan oscilou, os escudos pulsando em tentativas desesperadas de manter a estabilidade, enquanto alarmes disparavam em todas as frequências. Mas o que realmente me fez prender a respiração foi ver a Princesa do Inverno presa num escudo da Lebargan, uma prisão translúcida e cruel. Eles não tinham conseguido escapar.
 

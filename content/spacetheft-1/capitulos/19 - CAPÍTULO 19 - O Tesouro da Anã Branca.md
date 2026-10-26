@@ -14,19 +14,19 @@ Antes que ele terminasse, a Princesa do Inverno tremeu levemente, os sensores pi
 
 — Os sensores indicam um planeta — retrucou Eric, seco. — Mas ainda não conseguimos fazer a leitura dele. Pode ser que nem sequer tenha chão firme.
 
-O Olho do Domongo pulsava em cima da mesa, o laser cortando o espaço em direção à anã branca.
+O Olho do Domongo pulsava em cima da mesa, a projeção riscando o espaço em direção à anã branca.
 
 Enquanto a Princesa do Inverno deslizava pelo espaço, a tensão na cabine se dissipou num silêncio pesado. Até Eric e O’reilly pareciam cansados demais para continuar o embate verbal.
 
 A anã branca queimava ao longe como um farol solitário, e a luz dela criava sombras instáveis na cabine conforme a nave girava para se alinhar com a rota indicada pelo Olho do Domongo.
 
-— O planeta dá a volta na estrela em onze horas — disse Hardman, sem tirar os olhos dos instrumentos. — Um ano inteiro dura menos que uma noite de sono.
+— O planeta dá a volta na estrela em onze horas — disse Hardman, sem tirar os olhos dos instrumentos. — Um momento inteiro dura menos que uma noite de sono.
 
 — E o aniversário? — perguntou Kord.
 
 — Quando quiser. Hoje, se preferir.
 
-— Bom, já que ninguém vai morrer nos próximos minutos, acho que posso cochilar. — Cruzei os braços atrás da cabeça.
+— Bom, já que ninguém vai morrer nos próximos ectons, acho que posso cochilar. — Cruzei os braços atrás da cabeça.
 
 — Aproveite, porque pode ser seu último cochilo — murmurou Kord, sem levantar os olhos do painel.
 
@@ -60,7 +60,7 @@ E eu tinha que admitir, o planeta tinha algo estranhamente hipnótico. Sua super
 
 — Nunca vi algo assim antes — disse Hardman, quase num sussurro.
 
-Olhei para o Olho do Domongo. O feixe de laser que saía dele estava fixo no planeta, como se dissesse: Sim, é esse lugar. Se virem.
+Olhei para o Olho do Domongo. O feixe projetado que saía dele estava fixo no planeta, como se dissesse: Sim, é esse lugar. Se virem.
 
 Suspirei.
 
@@ -230,7 +230,7 @@ Hardman suspirou.
 
 Mas O’reilly foi interrompido pelo amigo.
 
-— EU PASSEI DEZ ANOS PRESO. Dez anos perdidos de minha vida. Não vou passar mais um minuto sequer. Sou um homem livre, finalmente — resmungou Kord.
+— EU PASSEI DEZ MOMENTOS PRESO. Dez momentos perdidos de minha vida. Não vou passar mais um ecton sequer. Sou um homem livre, finalmente — resmungou Kord.
 
 — Livre e sem dinheiro — falei — está pisando no maior tesouro da galáxia. Se abandonar aqui, outro irá encontrá-lo. E saberão que você foi o primeiro a pisar, e que foi embora sem nem sequer se aproveitar dele.
 
@@ -266,7 +266,7 @@ Balancei a cabeça.
 
 Todos ficaram em silêncio por um momento, sentindo o peso da situação.
 
-No horizonte, o brilho da anã branca sumiu de repente, sem transição, como se alguém apagasse as luzes, e deu lugar a um céu escuro e carregado.
+No horizonte, o brilho da anã branca sumiu de repente, sem transição, como se alguém apagasse as luzes, e a noite caiu de uma vez: a atmosfera rarefeita não tinha crepúsculo para amortecer a queda.
 
 — A Lebargan pode chegar a qualquer momento. E quando ela chegar, saberemos. Mas por enquanto, melhor voltarmos à nave — murmurei.
 

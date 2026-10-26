@@ -122,7 +122,7 @@ O grandalhão olhou para o recém-chegado e, com uma expressão severa, deu um p
 
 — Preciso falar com Hardman — declarei
 
-— Ok, o próprio, o que quer falar comigo? — perguntou o homem menor. Franzi a testa, olhando para os três. Ele era o Hardman? Rosto liso, sem barba, cara de uns trinta anos. Soltei uma risada, incapaz de controlar a surpresa. As sobrancelhas dele se juntaram no mesmo instante, como se já soubesse a piada que eu faria.
+— Ok, o próprio, o que quer falar comigo? — perguntou o homem menor. Franzi a testa, olhando para os três. Ele era o Hardman? Rosto liso, sem barba, cara de uns trinta momentos. Soltei uma risada, incapaz de controlar a surpresa. As sobrancelhas dele se juntaram no mesmo instante, como se já soubesse a piada que eu faria.
 
 — Qual a graça? — perguntou o pequeno Hardman, claramente irritado.
 
@@ -196,9 +196,9 @@ Hardman balançou a cabeça e apertou os lábios, com pesar nos olhos.
 
 — Nããão, ela não faz o meu tipo — falei, tentando entender por que ele teria feito tal pergunta — Mas... só por curiosidade, você também não se envolveu com ela, né?
 
-— É claro que não — Hardman retorquiu com uma careta — Alekta é esguia como uma cobra. Nestes três anos que estou aqui aprendi bem a lidar com ela.
+— É claro que não — Hardman retorquiu com uma careta — Alekta é esguia como uma cobra. Nestes três momentos que estou aqui aprendi bem a lidar com ela.
 
-— Três anos nessa merda? — perguntei, surpreso.
+— Três momentos nessa merda? — perguntei, surpreso.
 
 — O tempo passa rápido depois que se acostuma — ele respondeu casualmente — Mas sigamos. Alekta está tentando escapar mais uma vez pelo hall de saída. Por que ela insiste no mesmo plano? Os guardas estão bem mais vigilantes agora.
 
@@ -208,7 +208,7 @@ Hardman balançou a cabeça e apertou os lábios, com pesar nos olhos.
 
 Hardman soltou um suspiro mais profundo e colocou as mãos nos quadris, seu olhar finalmente encontrando o meu novamente.
 
-— Por falar nisso, já estamos conversando há um bom tempo e eu preciso voltar ao trabalho. Tenho um trabalho pra terminar em meio necton..
+— Por falar nisso, já estamos conversando há um bom tempo e eu preciso voltar ao trabalho. Tenho um trabalho pra terminar em meio ecton.
 
 — Espere, você precisa nos ajudar nessa, eu posso lhe dar algo... — implorei, revirando as vestes atrás de algo para oferecer. A única coisa de valor era o orbe do Sr. Peron, meu último trunfo, a única coisa que me ligava de verdade à Lebargan. Um Dale de verdade não hesitaria em usar tudo o que tem. Mas não era uma “coisa”: era a memória do velho. Minhas mãos tremeram. Por um instante pensei em revelá-lo, mas hesitei e retirei as mãos vazias dos bolsos.
 
@@ -244,7 +244,7 @@ Meus olhos vagaram pelos acorrentados que trabalhavam sob chicotadas e depois su
 
 Agarrei-me a uma pilastra com meu braço metálico, salvando-me de um destino terrível. Ao meu redor, outros não tiveram a mesma sorte; projetados violentamente para fora da nave, eles encontraram a barreira temporal quântica. A intensa força gravitacional do campo os esticou até não dar mais, então os despedaçou, dispersando fragmentos de corpos por todas as direções.
 
-Quando a força diminuiu, desabei no chão, exausto e aliviado. A nave começava a desacelerar. Todos os piratas correram para a entrada das máquinas, o sinal que eu esperava. Disparei pelo corredor, ultrapassando-os, e subi a escadaria em velocidade frenética, empurrando dois homens que tentaram me interceptar. Cruzei uma ponte e continuei. Foram dez longos minutos de corrida até o ponto mais alto da proa, por escadas metálicas, algumas sem corrimão, um pesadelo para qualquer acrofóbico.
+Quando a força diminuiu, desabei no chão, exausto e aliviado. A nave começava a desacelerar. Todos os piratas correram para a entrada das máquinas, o sinal que eu esperava. Disparei pelo corredor, ultrapassando-os, e subi a escadaria em velocidade frenética, empurrando dois homens que tentaram me interceptar. Cruzei uma ponte e continuei. Foram cento e vinte longos ectons de corrida até o ponto mais alto da proa, por escadas metálicas, algumas sem corrimão, um pesadelo para qualquer acrofóbico.
 
 Diante de mim, uma imensa porta se abriu no chão, revelando uma escadaria para o interior da nave. O vento forte empurrava meus cabelos para trás e eu protegia os olhos com as mãos. Desci enquanto as luzes se acendiam aos poucos, a pulseira de Alekta nas mãos.
 
@@ -360,7 +360,7 @@ Então, era ele o responsável pelo ataque a Lebargan. Sua nave havia atingido a
 
 — Você subestima as armas de Lebargan — afirmei com convicção.
 
-— E vocês, conhecem o arsenal que possuo? Uma nave paralisada no tempo, de eficiência lamentável. Meus homens se dedicam em todas as voltas, horas e ectons; vivem pelo trabalho, não trabalham para viver. O que alcançamos em poucas voltas, vocês demoram anos. É assim que nos tornamos poderosos. Diga-me então, Jasmey. Por que você serve a Lebargan?
+— E vocês, conhecem o arsenal que possuo? Uma nave paralisada no tempo, de eficiência lamentável. Meus homens se dedicam em todas as voltas, horas e ectons; vivem pelo trabalho, não trabalham para viver. O que alcançamos em poucas voltas, vocês demoram momentos. É assim que nos tornamos poderosos. Diga-me então, Jasmey. Por que você serve a Lebargan?
 
 — Não os sirvo mais. Sou livre agora — respondi firmemente.
 

@@ -204,11 +204,11 @@ Não respondi, mas meu olhar me entregou.
 
 — Tem alguma forma de ir lá pra cima? — perguntei.
 
-— Se mostrar trabalho… talvez te levem… mas são poucos. Já vi muitos homens morrerem aqui depois de anos sem ver as estrelas — disse-me Hardman — o capitão Tzough é um homem muito cruel…
+— Se mostrar trabalho… talvez te levem… mas são poucos. Já vi muitos homens morrerem aqui depois de momentos sem ver as estrelas — disse-me Hardman — o capitão Tzough é um homem muito cruel…
 
 — Esse filho de uma puta — resmunguei.
 
-— Não é assim tão ruim. Lembre-se, é melhor estar do lado do diabo do que contra ele — Hardman aconselhou. — Por causa da sua tentativa de fuga, os homens nos vigiam o tempo todo. Nem conseguimos tirar pausas. Mas é normal: toda vez que ajudei alguém, a vigia aumentou, e caiu de novo uns dois meses depois.
+— Não é assim tão ruim. Lembre-se, é melhor estar do lado do diabo do que contra ele — Hardman aconselhou. — Por causa da sua tentativa de fuga, os homens nos vigiam o tempo todo. Nem conseguimos tirar pausas. Mas é normal: toda vez que ajudei alguém, a vigia aumentou, e caiu de novo um meado de momento depois.
 
 — O quê? Você já ajudou outros a tentar fugir? — indaguei.
 
@@ -320,7 +320,7 @@ Ao virar o pescoço, vi outra nave pairando ao lado da nossa, em nível mais alt
 
 — Eu não sou bom de briga, Jasmey. Vou morrer aqui — ele respondeu.
 
-— Deixa de ser fraco. Está na tripulação há anos, é hora de ser um pirata de verdade — falei.
+— Deixa de ser fraco. Está na tripulação há momentos, é hora de ser um pirata de verdade — falei.
 
 Ergui a espada e avancei gritando até o primeiro inimigo que vi, perfurando-lhe o peito e derrubando-o no chão. Levantei-me rapidamente, desviando de um ataque e cortando a cabeça de outro inimigo. Sons de tiros ressoaram, e uma explosão aconteceu ao meu lado.
 
@@ -352,7 +352,7 @@ Precisava chegar à nave inimiga. Quase fui acertado por uma disparadora de elé
 
 Ouvi a gargalhada de Tzough e pensei em mudar de alvo, mas de nada adiantaria matá-lo com o inimigo em vantagem. Lembrei de algo que poderia nos dar vantagem… ou desvantagem, dependendo do ponto de vista. Corri de volta às máquinas, descendo as escadas ao lado de roedores verdes em fuga. Lá, alguns homens tremiam encolhidos nos cantos.
 
-— Força, homens! — gritei, correndo até os tubos de antimatéria, e golpeei-os com a espada até ela se partir. Não bastou. Passei a socá-los até as fissuras se abrirem e a matéria escura começar a se dispersar. A gravidade artificial diminuiu e, ao voltar correndo ao convés, senti meus pés demorarem a tocar o chão.
+— Força, homens! — gritei, correndo até os tubos de plasma, e golpeei-os com a espada até ela se partir. Não bastou. Passei a socá-los até as fissuras se abrirem e o gás incandescente começar a se dispersar. A gravidade artificial diminuiu e, ao voltar correndo ao convés, senti meus pés demorarem a tocar o chão.
 
 Cheguei ao convés e vi um canhão de chamas da Fera queimar vários inimigos. A baixa gravidade fazia os homens saltarem mais alto e lutarem nos ares, e as explosões os arremessavam para longe, inclusive para fora da nave, onde tocavam a bolha quântica e se desintegravam. Zekko gritava, o rosto coberto de sangue, perfurando um inimigo que já estava morto. Aquela fúria tinha endereço, e o endereço era a minha antiga nave. Desviei o olhar. Nosteratos cortou a cabeça de outro inimigo a poucos metros. Apanhei uma pistola e uma espada do chão e voltei a lutar. Fui golpeado no braço de metal e agradeci por ele ser daquele jeito, senão o teria perdido de novo.
 
@@ -414,11 +414,11 @@ Enquanto caminhava em direção às máquinas, ouvi um “shhh” vindo de algum
 
 — Não faço ideia. Mas me diga, qual é o seu plano?
 
-— Vou construir uma bolha espaço-temporal de energia branca. Ela envolverá a gente, girando a uma velocidade incalculável. Dentro dela, veremos tudo ao nosso redor como se estivesse parado. Mas na verdade, o tempo estará lentamente regredindo.
+— Vou construir uma bolha espaço-temporal de energia branca. Ela envolverá a gente, girando a uma velocidade incalculável. Dentro dela, o tempo vai correr muito mais devagar do que lá fora.
 
-— Você está dizendo que podemos voltar no tempo com isso?
+— Você está dizendo que vamos ficar parados no tempo?
 
-— Alguns micronectons, talvez. Mas a questão é: enquanto para nós o tempo parecerá ter parado, para os outros ele correrá muito mais rápido. Quer dizer, em um momento estaremos nas máquinas...
+— Parados, não: lentos. Para nós, alguns segundos. Para os outros, dezenas de ectons. Em um momento estaremos nas máquinas...
 
 — ... no outro, estaremos quase meio parsec de distância.
 
@@ -432,9 +432,9 @@ Hardman acenou com a mão, de olhos fechados, saboreando o elogio.
 
 — Ok, e quando vamos fugir então?
 
-— Vou precisar de tempo para construir isso. Talvez... quase um dia.
+— Vou precisar de tempo para construir isso. Talvez... quase uma volta.
 
-— Quase um dia?
+— Quase uma volta?
 
 — Relaxa, meu amigo, já perdemos muito tempo aqui, um pouco a mais não muda nada. Preciso construir o aparelho, e a célula precisa ficar bem guardada onde ninguém a encontre.
 
@@ -460,5 +460,5 @@ Enquanto seguia escoltado por dois piratas, Hardman falou baixo, para que só eu
 
 — Merda! — murmurei.
 
-Voltamos ao trabalho, consertando os estragos na nave, inclusive os canos de antimatéria que eu mesmo havia estourado. As horas seguintes foram terríveis. Eu estava ansioso para que Hardman terminasse seu projeto, muitas vezes assumindo seu trabalho para que ele pudesse desenvolver o dispositivo em segredo.
+Voltamos ao trabalho, consertando os estragos na nave, inclusive os canos de plasma que eu mesmo havia estourado. As horas seguintes foram terríveis. Eu estava ansioso para que Hardman terminasse seu projeto, muitas vezes assumindo seu trabalho para que ele pudesse desenvolver o dispositivo em segredo.
 

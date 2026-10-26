@@ -1,4 +1,4 @@
-Sentia falta das estrelas. Sentia falta do calor de um sol. E, principalmente, de uma boa comida e de uma bebida. Pelas minhas contas, eu me aproximava do fim do meu terceiro meado de momento naquele lugar ermo, e a solidão nunca tinha pesado tanto. Os desertos gelados de Dekraaz, com sua hostilidade implacável, eram o palco da minha travessia. Eu sobrevivia de plantas e de animais que conseguia abater, sem meios de fazer fogo: tudo cru e fresco. As plantas tinham gosto de urina, mas, em momentos de fome extrema, qualquer coisa vira tempero. Eu me adaptara até a passar quase 20 nectons sem respirar, para não gastar a máscara de filtro de gás, e improvisara uma mochila com as plantas locais e “garrafas” de barro para a água.
+Sentia falta das estrelas. Sentia falta do calor de um sol. E, principalmente, de uma boa comida e de uma bebida. Pelas minhas contas, eu me aproximava do fim do meu terceiro meado de momento naquele lugar ermo, e a solidão nunca tinha pesado tanto. Os desertos gelados de Dekraaz, com sua hostilidade implacável, eram o palco da minha travessia. Eu sobrevivia de plantas e de animais que conseguia abater, sem meios de fazer fogo: tudo cru e fresco. As plantas tinham gosto de urina, mas, em momentos de fome extrema, qualquer coisa vira tempero. Eu me adaptara até a passar quase 20 ectons sem respirar, para não gastar a máscara de filtro de gás, e improvisara uma mochila com as plantas locais e “garrafas” de barro para a água.
 
 O lado ruim de estar em território desconhecido é que você não conhece merda nenhuma. As tempestades elétricas de Dekraaz eram terríveis. Eu caminhava calmamente quando, de repente, meu corpo se eletrizava, os pelos se arrepiavam, o ambiente inteiro pulsava de energia estática. Durante as tempestades, fechava os olhos e avançava às cegas, o mais rápido possível, para fugir da nuvem carregada, enquanto calafrios percorriam cada centímetro do corpo. Pernas petrificadas, pescoço tenso: das sensações mais terríveis que já senti.
 
@@ -46,7 +46,7 @@ Percebi que falavam o idioma universal, então entendia tudo. As conversas eram 
 
 O homem cuspiu na prisioneira e a chutou. Então começou a rir bobamente, os dentes podres.
 
-— Ao menos vou poder foder ainda por muitos anos. Eu foderia com você, se não fosse tão repugnante — zombou o pirata.
+— Ao menos vou poder foder ainda por muitos momentos. Eu foderia com você, se não fosse tão repugnante — zombou o pirata.
 
 — Se ao menos seu pau levantasse por uma mulher — devolveu ela com um veneno na voz que me fez soltar um riso abafado. Essa mulher tinha garras. Gostei.
 
@@ -148,7 +148,7 @@ Inspirei profundamente, tentando conter a agitação que se espalhava pelo meu c
 
 Não a respondi. Estava com a cabeça cheia agora, irritado, cansado, faminto, a ponto de explodir.
 
-— Sou prisioneira há três anos. Todo esse tempo vivendo entre o lixo, torturada e humilhada. Eu só quero liberdade.
+— Sou prisioneira há três momentos. Todo esse tempo vivendo entre o lixo, torturada e humilhada. Eu só quero liberdade.
 
 Virei-me para encará-la nos olhos novamente.
 

@@ -12,7 +12,7 @@ Hardman estava ao lado, os olhos marejados, parecendo uma mistura de alívio e e
 
 Sorri de leve, sentindo a garganta seca.
 
-— Se eu disser que já estive pior, isso me dá um desconto pra ficar deitado mais cinco minutos?
+— Se eu disser que já estive pior, isso me dá um desconto pra ficar deitado mais sessenta ectons?
 
 O’reilly bufou uma risada.
 
@@ -122,7 +122,7 @@ Não tinha nada a responder. Isso é raro, e foi pior do que eu lembrava.
 
 — Combinado.
 
-— E me deixa sozinho um minuto.
+— E me deixa sozinho uns ectons.
 
 Deixei. Quando você erra e o outro tem razão, não resta muito além de sair do caminho.
 

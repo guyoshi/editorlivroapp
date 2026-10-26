@@ -1,8 +1,8 @@
-O deserto, que antes parecia uma monotonia cinzenta, revelava sua complexidade sob a luz das duas luas. Montanhas de gelo cintilavam a oeste, as cristas afiadas como dentes de um predador cósmico, enquanto vulcões pedregosos cuspiam fumaça a leste. A faixa habitável era uma fina linha onde a vida teimava em florescer. A diferença abrupta de temperatura criava tempestades elétricas que podiam liquefazer um corpo ao menor contato. Eu já enfrentara uma em Geores, mas a caminho de Moldar pegamos uma dez vezes pior. Tivemos de nos agachar sob a concha de aço que os vigias fechavam sobre o cardiçal, quase um abraço de ferro. Um dos homens faleceu no caminho, provavelmente por choque térmico, passando de uma onda de calor para uma geada em minutos. O cardiçal respirava fundo sob nós, como o bater de um coração gigantesco, e o cheiro quente e terroso de seu pelo lembrava que viajávamos numa besta orgânica, uma peculiaridade de Moldar que eu jamais esqueceria.
+O deserto, que antes parecia uma monotonia cinzenta, revelava sua complexidade sob a luz das duas luas. Montanhas de gelo cintilavam a oeste, as cristas afiadas como dentes de um predador cósmico, enquanto vulcões pedregosos cuspiam fumaça a leste. A faixa habitável era uma fina linha onde a vida teimava em florescer. A diferença abrupta de temperatura criava tempestades elétricas que podiam liquefazer um corpo ao menor contato. Eu já enfrentara uma em Geores, mas a caminho de Moldar pegamos uma dez vezes pior. Tivemos de nos agachar sob a concha de aço que os vigias fechavam sobre o cardiçal, quase um abraço de ferro. Um dos homens faleceu no caminho, provavelmente por choque térmico, passando de uma onda de calor para uma geada em algumas dezenas de ectons. O cardiçal respirava fundo sob nós, como o bater de um coração gigantesco, e o cheiro quente e terroso de seu pelo lembrava que viajávamos numa besta orgânica, uma peculiaridade de Moldar que eu jamais esqueceria.
 
 Percorremos o deserto por um bom tempo. O velho médico, calmo e misterioso, contava suas histórias, uma após a outra, sem que soubéssemos seu nome: um médico aposentado que dedicava seus últimos dias a vagar por mundos, colecionando histórias e males. O fedor de ozônio pós-tempestade ainda pairava no ar seco.
 
-Adormeci com a vibração do cardiçal e acordei sob um céu em mosaico de cinzas e púrpura pálido, onde duas luas distantes espreitavam, a luz fraca mal rompendo o véu de poeira. Insetos estridulavam como engrenagens enferrujadas no ar gelado, e o cardiçal seguia com seus longos passos, as patas maciças levantando pequenas nuvens de poeira iridescente. Virei-me e vi Vivian encolhida no canto, os olhos grandes e abertos, os fios ruivos e finos espalhados pelo rosto. Era magrinha e tinha feições de uma garota de uns quatorze anos. Difícil acreditar que já passara dos vinte.
+Adormeci com a vibração do cardiçal e acordei sob um céu em mosaico de cinzas e púrpura pálido, onde duas luas distantes espreitavam, a luz fraca mal rompendo o véu de poeira. Insetos estridulavam como engrenagens enferrujadas no ar gelado, e o cardiçal seguia com seus longos passos, as patas maciças levantando pequenas nuvens de poeira iridescente. Virei-me e vi Vivian encolhida no canto, os olhos grandes e abertos, os fios ruivos e finos espalhados pelo rosto. Era magrinha e tinha feições de uma garota de uns quatorze momentos. Difícil acreditar que já passara dos vinte.
 
 — Não consegue dormir? — perguntei à ela.
 
@@ -56,7 +56,7 @@ Eu tinha a leve impressão de que milhares de selvagens nos vigiavam, esperando 
 
 Mas felizmente, a noite correu bem, e não tivemos mais problemas. Exceto pelo fato de acordarmos com um grande pássaro colorido esquisito de duas cabeças que tentava abocanhar o chapéu de um dos colegas. O sol nascia no horizonte inundando os céus com uma cor roxa. Ah sim, era tudo muito lindo. Só não era perfeito porque uma vaca me roubou a nave na noite anterior.
 
-Na noite do terceiro dia, finalmente vi luzes ao fundo. Moldar não parecia tão massiva quanto Geores, mas parecia muito mais luxuosa. Havia grandiosas torres cilíndricas com grandes LEDs iluminando os arredores. Algumas pessoas voavam em aves pré-históricas, outras em veículos motorizados. Ao nos aproximarmos, vimos uma estrada que levava direto ao núcleo da cidade. O cardiçal nos deixou logo à entrada e desceu as costas para que desembarcássemos.
+Na noite da terceira volta, finalmente vi luzes ao fundo. Moldar não parecia tão massiva quanto Geores, mas parecia muito mais luxuosa. Havia grandiosas torres cilíndricas com grandes LEDs iluminando os arredores. Algumas pessoas voavam em aves pré-históricas, outras em veículos motorizados. Ao nos aproximarmos, vimos uma estrada que levava direto ao núcleo da cidade. O cardiçal nos deixou logo à entrada e desceu as costas para que desembarcássemos.
 
 — Sejam bem-vindos a Moldar — disse a familiar voz que tinha vindo do cardiçal na apresentação de nossa viagem — um dos maiores centros comerciais de eletrônicos de toda galáxia. Não deixem de conhecer a Rub-P-Lad, pioneira na tecnologia de resfriamento por pressão, ou a garagem de B-Se-Lei, onde podem testar equipamentos que os fazem enxergar além de seu espectro de cores habitual.
 
@@ -112,7 +112,7 @@ Não era uma “gostosura”. Eram DUAS. Ou melhor, duas cabeças no mesmo corpo
 
 — Boa pergunta. Caly, onde o jovem pode encontrar o Mestre Estelar?
 
-— Ele anda bem escondido ultimamente. Talvez... ele costumava frequentar o Ritmo da Morte aos terceiros dias. E olha só, hoje é o terceiro dia. Aliás, hoje é a terceira final anual das competições das máquinas. Certamente vocês o encontrarão por lá. É só procurar por um homem de grandes cabelos vermelhos.
+— Ele anda bem escondido ultimamente. Talvez... ele costumava frequentar o Ritmo da Morte às terceiras voltas. E olha só, hoje é a terceira volta. Aliás, hoje é a terceira final anual das competições das máquinas. Certamente vocês o encontrarão por lá. É só procurar por um homem de grandes cabelos vermelhos.
 
 — Ritmo da morte? — perguntou Kord.
 
@@ -356,7 +356,7 @@ Seguimos pela porta e o corredor à frente começou a se moldar, indicando nosso
 
 — Eu não durmo com ninguém — falei — se virem. Vou para minha cama. Boa noite!
 
-Entrei numa das portas enquanto eles se decidiam. Sobre a cama havia uma bandeja de insetos assados. Pareciam apetitosos e eu estava faminto: crocantes por fora, macios por dentro, desmanchavam na boca, deliciosos e apimentados. Já vira aqueles insetos à venda em Geores, mas nunca provara. Deitei, respirei fundo e apaguei a luz no interruptor. Fiquei por heptons ali, pensando, até minha bexiga mandar eu sair. Será que havia banheiro naquele hotel?
+Entrei numa das portas enquanto eles se decidiam. Sobre a cama havia uma bandeja de insetos assados. Pareciam apetitosos e eu estava faminto: crocantes por fora, macios por dentro, desmanchavam na boca, deliciosos e apimentados. Já vira aqueles insetos à venda em Geores, mas nunca provara. Deitei, respirei fundo e apaguei a luz no interruptor. Fiquei horas ali, pensando, até minha bexiga mandar eu sair. Será que havia banheiro naquele hotel?
 
 Levantei e abri a porta. Luzes apagadas em dois dos quartos, mas a do primeiro ainda acesa. Quem ainda não dormira? Talvez Hardman? Talvez eu tivesse sido bruto com eles, saindo daquela forma. Aproximei-me da porta e ouvi murmúrios. Encostei o ouvido nela.
 
@@ -412,7 +412,7 @@ Minha cabeça estava fervendo. O ódio era tanto que soquei a parede, deixando u
 
 Segui pelos corredores, o sangue fervendo, até meu quarto. Assim que entrei, atirei o abajur da parede ao chão e me sentei na cama, os cotovelos nos joelhos, sem acreditar que tinham me feito de trouxa.
 
-Passei alguns minutos refletindo e olhei pela janela, o cérebro quente se segurando para não ir quebrar a cara de Hardman, quando avistei um estranho vulto subindo pela parede em direção à janela do quarto dele, perpendicular à minha.
+Passei algumas dezenas de ectons refletindo e olhei pela janela, o cérebro quente se segurando para não ir quebrar a cara de Hardman, quando avistei um estranho vulto subindo pela parede em direção à janela do quarto dele, perpendicular à minha.
 
 — Mas quem... — falei, imediatamente saindo de meu quarto. Me encontrei com Vivian na porta e fiz com o dedo para que ela não fizesse ruído. Segui junto a ela de volta em direção ao quarto de Hardman.
 

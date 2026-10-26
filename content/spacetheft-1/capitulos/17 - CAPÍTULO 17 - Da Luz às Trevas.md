@@ -334,7 +334,7 @@ Hardman fez a mesma careta que sempre fazia quando fazia uma piada com ele, e aj
 
 A imagem da estrela se desfez no vidro e, em seu lugar, crescendo diante de nós, surgiu a nebulosa escura: uma muralha colossal de sombras, em tons de roxo e preto, entrecortada por filamentos luminosos que rasgavam a escuridão como veias de luz elétrica. Parecia pulsar, quase viva, como a respiração lenta de algo primordial. Adentrar ali era mais do que entrar numa nebulosa; era mergulhar na goela de um ser adormecido.
 
-— Vamos entrar nela em alguns minutos — disse Hardman.
+— Vamos entrar nela em algumas dezenas de ectons — disse Hardman.
 
 O silêncio na cabine era palpável. Até Eric, geralmente o primeiro a soltar uma piada ou provocação, estava calado, os olhos fixos no abismo que se aproximava.
 

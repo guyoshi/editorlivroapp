@@ -80,9 +80,9 @@ Na cidade, procuramos nossos colegas por quase sessenta ectons, até encontrá-l
 
 Naquela tarde pedi a Vivian que me ensinasse um sinal, qualquer um, só para ter o que responder quando ela me xingasse. Ela me ensinou “obrigado”. Tentei devolver “idiota”. Ela repetiu o “obrigado” mais devagar, como se eu fosse a criança do grupo.
 
-— O homem disse que toda semana, naves saem de Moldar, uma cidade ao norte daqui, localizada no meio de um deserto que ela não conseguiu entender muito bem qual é. A próxima nave sai em quatro dias, e por coincidência hoje a noite sai um transporte para a cidade. Em três dias chegamos lá se pegarmos este transporte.
+— O homem disse que todo hepton, naves saem de Moldar, uma cidade ao norte daqui, localizada no meio de um deserto que ela não conseguiu entender muito bem qual é. A próxima nave sai em quatro voltas, e por coincidência hoje a noite sai um transporte para a cidade. Em três voltas chegamos lá se pegarmos este transporte.
 
-— Dias... de quanto tempo estamos falando? — perguntei.
+— Voltas... de quanto tempo estamos falando? — perguntei.
 
 — Depende da duração da rotação deste planeta. Talvez uma hora espacial, mais ou menos.
 
@@ -118,7 +118,7 @@ Passamos alguns ectons procurando o Sem-cabeça até finalmente o encontrarmos n
 
 Olhamos um para o outro e vi que O’reilly segurava um sorriso.
 
-— Deixe comigo — disse ele — sou um excelente jogador. Fui mestre estrategista de uma nave por quase dez anos, além de ser campeão em mais de cinquenta jogos dos mais distantes cantos da galáxia, até mesmo derrotei um Noxiliano.
+— Deixe comigo — disse ele — sou um excelente jogador. Fui mestre estrategista de uma nave por quase dez momentos, além de ser campeão em mais de cinquenta jogos dos mais distantes cantos da galáxia, até mesmo derrotei um Noxiliano.
 
 — Está falando sério? — perguntei — tem certeza que consegue?
 
@@ -158,7 +158,7 @@ O homem que perdeu a aposta, recuou a cadeira e percebi que estava prestes a fug
 
 — Acalme-se irmão, vou ganhar por nós — disse ele.
 
-O perdedor assentiu e ficou na torcida para que o irmão ganhasse. Alguns minutos depois, o terceiro homem também foi eliminado, o que o fez respirar fundo e colocar a mão no peito. Vi Quinn passar a língua nos lábios enquanto olhava para ele.
+O perdedor assentiu e ficou na torcida para que o irmão ganhasse. Dezenas de ectons depois, o terceiro homem também foi eliminado, o que o fez respirar fundo e colocar a mão no peito. Vi Quinn passar a língua nos lábios enquanto olhava para ele.
 
 — Só tem mais um — disse ela.
 
@@ -292,11 +292,11 @@ Descemos as ruas com os bilhetes bem guardados em meu saco e, no cais, demos com
 
 — Ei — falei, o homem olhando para mim — como faço pra pegar o caminho pra Moldar. Eu e uns amigos aqui temos os bilhetes.
 
-— É bom se apressar, o Cardiçal sai em cinco minutos — disse o homem apontando para uma entrada por um arco ao fundo, onde havia um grupo reunido — a próxima viagem é só em 5 dias.
+— É bom se apressar, o Cardiçal sai em sessenta ectons — disse o homem apontando para uma entrada por um arco ao fundo, onde havia um grupo reunido — a próxima viagem é só em 5 voltas.
 
 Imediatamente nos viramos, enquanto Hardman agradecia o homem e pedia desculpas pela minha má educação, e nos dirigimos até o grupinho.
 
-No arco de embarque, uma tela suja trocou a propaganda de bebidas por um boletim: uma frota dale havia fechado o porto de Ruvin por três dias, “à procura de um ladrão”. Hardman me olhou. Eu olhei para a ponta da minha bota.
+No arco de embarque, uma tela suja trocou a propaganda de bebidas por um boletim: uma frota dale havia fechado o porto de Ruvin por três voltas, “à procura de um ladrão”. Hardman me olhou. Eu olhei para a ponta da minha bota.
 
 — Não tem nada a ver com a gente.
 

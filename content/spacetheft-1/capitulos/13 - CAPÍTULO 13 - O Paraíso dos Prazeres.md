@@ -288,7 +288,7 @@ Olhei para Hardman e então sorri para Luna.
 
 — A mais ou menos um quilômetro da entrada oeste da cidade.
 
-— Ah, que ótimo. Eles vão montar uma tenda ali perto essa noite. Podemos nos encontrar lá em alguns minutos, e eu entrego o material para vocês. Depois... você é meu.
+— Ah, que ótimo. Eles vão montar uma tenda ali perto essa noite. Podemos nos encontrar lá em uns trinta ectons, e eu entrego o material para vocês. Depois... você é meu.
 
 Sorri. Sim. Sou totalmente seu. Luna me beijou e então se levantou de meu colo.
 

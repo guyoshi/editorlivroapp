@@ -1,4 +1,4 @@
-Após quase um dia exaustivo, Hardman finalmente concluiu seu projeto. O rosto coberto de suor e fuligem, com um brilho de triunfo nos olhos. Trabalhara sem parar, soldando microcircuitos, recalibrando cristais de energia instáveis e programando sequências que faziam o dispositivo zumbir com uma promessa de poder invisível. Houve momentos em que o pequeno aparelho soltou faíscas ou superaqueceu a ponto de quase derreter, ameaçando entregar o plano. Hardman praguejava baixinho, mas, obcecado, sempre achava uma solução. Era uma dança entre a física quântica e a mecânica bruta, e Hardman era o maestro.
+Após quase uma volta exaustiva, Hardman finalmente concluiu seu projeto. O rosto coberto de suor e fuligem, com um brilho de triunfo nos olhos. Trabalhara sem parar, soldando microcircuitos, recalibrando cristais de energia instáveis e programando sequências que faziam o dispositivo zumbir com uma promessa de poder invisível. Houve momentos em que o pequeno aparelho soltou faíscas ou superaqueceu a ponto de quase derreter, ameaçando entregar o plano. Hardman praguejava baixinho, mas, obcecado, sempre achava uma solução. Era uma dança entre a física quântica e a mecânica bruta, e Hardman era o maestro.
 
 Kord, O’reilly e Buni já sabiam do plano e estavam empolgados. O’reilly não parava de repetir que finalmente reencontraria a mãe; sempre que dizia isso, prendia parte dos longos cabelos loiro-escuros num rabo de cavalo e abria aquele sorriso encantador sob a barba vistosa. Dava vontade de acreditar que sairíamos vivos dali.
 
@@ -24,7 +24,7 @@ Hardman bufou, irritado, mas enfim continuou.
 
 — Certo, mas precisamos de comida e armas. Podemos ficar à deriva no espaço por muito tempo — falei.
 
-— Kord já cuidou disso — disse Hardman. — Ele foi designado para uma manutenção em uma das naves há dois dias e levou algumas armas no saco de ferramentas. Quanto à comida, Buni roubou alguns pães no almoço de ontem. Estão bem embalados e guardados debaixo da nossa cama.
+— Kord já cuidou disso — disse Hardman. — Ele foi designado para uma manutenção em uma das naves há duas voltas e levou algumas armas no saco de ferramentas. Quanto à comida, Buni roubou alguns pães no almoço de ontem. Estão bem embalados e guardados debaixo da nossa cama.
 
 — Então é por isso que estava sentindo aquele cheiro delicioso — falei.
 
@@ -84,7 +84,7 @@ A criatura que Tzough montava urrou enquanto ele descia e caminhava na minha dir
 
 — Vamos, meu amigo — disse O’reilly. Atrás dele estavam Hardman, Buni e Kord.
 
-O Temparalizador, um rádio desengonçado nas mãos de Hardman, piscava com uma luz azulada intensa. Em um necton, o caos da Fera Sideral se dissolveu em um silêncio abafado e etéreo. Minha respiração soava alta, e o ar dentro da bolha semitransparente que nos envolvia parecia ter uma densidade diferente. Lá fora, os piratas de Tzough, no auge de sua fúria, estavam congelados como esculturas grotescas de carne e ódio. Um chicote pendia no ar, a centímetros da pele de um escravo. O grito de um trabalhador, com a boca aberta, estava suspenso no tempo, uma imagem muda e macabra.
+O Temparalizador, um rádio desengonçado nas mãos de Hardman, piscava com uma luz azulada intensa. Em um ecton, o caos da Fera Sideral se dissolveu em um silêncio abafado e etéreo. Minha respiração soava alta, e o ar dentro da bolha semitransparente que nos envolvia parecia ter uma densidade diferente. Lá fora, os piratas de Tzough, no auge de sua fúria, estavam congelados como esculturas grotescas de carne e ódio. Um chicote pendia no ar, a centímetros da pele de um escravo. O grito de um trabalhador, com a boca aberta, estava suspenso no tempo, uma imagem muda e macabra.
 
 — O que está acontecendo? — indaguei, confuso.
 
@@ -226,9 +226,9 @@ Pela janela, as estrelas à frente se pintavam de azul e as de trás, de vermelh
 
 Buni riu e me levantei do comando, olhando para todos. Hardman estava emocionado, as mãos no rosto. Todos pareciam muito aliviados.
 
-— Sete anos — disse O’reilly —, foram sete anos infernais dentro daquela nave.
+— Sete momentos — disse O’reilly —, foram sete momentos infernais dentro daquela nave.
 
-— Dez anos lá dentro, e eu não acredito que conseguimos — falou Kord, respirando fundo.
+— Dez momentos lá dentro, e eu não acredito que conseguimos — falou Kord, respirando fundo.
 
 — Jasmey, dá pra você prestar atenção em aonde estamos indo — disse Hardman preocupado — antes de mais nada precisamos aterrizar em um planeta para que eu possa remover o rastreador. Alekta tinha bloqueado os efeitos do rastreador, mas é temporário.
 
@@ -388,13 +388,13 @@ Buni balançou a cabeça.
 
 Buni já estava em lágrimas quando Kord passou o braço por ele.
 
-— Aí cara, você não é covarde. É um dos caras mais incríveis que eu conheço. Lembra do que te falei sobre o mundo ser muito cinza. Você às vezes me lembra de que ainda há cores. Ainda há pessoas boas. Esses quatro anos que passou na Fera, apenas serviram para te deixar ainda mais forte.
+— Aí cara, você não é covarde. É um dos caras mais incríveis que eu conheço. Lembra do que te falei sobre o mundo ser muito cinza. Você às vezes me lembra de que ainda há cores. Ainda há pessoas boas. Esses quatro momentos que passou na Fera, apenas serviram para te deixar ainda mais forte.
 
 — Tem que idade, Buni? — perguntei.
 
 — 38 — respondeu ele.
 
-— 38? — indaguei — está brincando que passou 38 anos sem nunca dar uma fodinha?
+— 38? — indaguei — está brincando que passou 38 momentos sem nunca dar uma fodinha?
 
 Buni sacudiu a cabeça.
 
@@ -526,7 +526,7 @@ Foi então que ouvi um som estranho vindo do painel. Uma luz azulada surgiu deba
 
 — Lá está ele — disse Hardman, olhando pelo vidro à nossa frente, um pequeno ponto escuro no meio da estrela amarela para a qual nos dirigíamos.
 
-Corri para olhar pelo vidro. A pequena Sumatram estava lá, a menos de alguns nectons de distância. Hardman acendeu as luzes e comecei a desligar alguns dos interruptores do motor de dobra.
+Corri para olhar pelo vidro. A pequena Sumatram estava lá, a menos de alguns ectons de distância. Hardman acendeu as luzes e comecei a desligar alguns dos interruptores do motor de dobra.
 
 — Desacelerando a dobra antes que a gente vire poeira nos detritos do sistema — falei.
 
@@ -538,11 +538,11 @@ Corri para olhar pelo vidro. A pequena Sumatram estava lá, a menos de alguns ne
 
 Vivian parecia desconfortável. Talvez não fosse acostumada com pousos.
 
-— Sumatram tem uma cartografia detalhada para entrada de naves — falei, buscando no sistema até o modelo tridimensional surgir em holograma sobre o painel. — Vamos para a cidade de Geores. Fica... exatamente aqui — marquei com a mão uma região perto de uma zona cinzenta no litoral. — É importante não nos afastarmos dessa zona: a rotação do planeta é de 90 graus: um lado frita, o outro congela. A zona do meio é a habitável.
+— Sumatram tem uma cartografia detalhada para entrada de naves — falei, buscando no sistema até o modelo tridimensional surgir em holograma sobre o painel. — Vamos para a cidade de Geores. Fica... exatamente aqui — marquei com a mão uma região perto de uma zona cinzenta no litoral. — É importante não nos afastarmos dessa zona: o planeta está travado pela maré: um lado fica sempre virado para a estrela e frita, o outro congela. A zona do meio é a habitável.
 
-— Acho que eu sei o que é um planeta com rotação de 90 graus — resmungou Hardman.
+— Acho que eu sei o que é um planeta travado pela maré — resmungou Hardman.
 
-— Não consigo acreditar que, depois de sete anos no espaço, finalmente vou pisar em terra — disse O’reilly.
+— Não consigo acreditar que, depois de sete momentos no espaço, finalmente vou pisar em terra — disse O’reilly.
 
 — É, não vejo a hora de sentir o calor de uma estrela novamente em meus ombros — disse Kord — tocar meus pés na grama, mergulhar em um rio de água.
 

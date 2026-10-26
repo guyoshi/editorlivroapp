@@ -86,7 +86,7 @@ Forcei-me a levantar e escolhi uma pedra mais leve. Juntei-me aos homens que sub
 
 — Vai trabalhar pra Fera Sideral agora. Tem chance de ficar aqui em cima. Mas se vacilar… você morre.
 
-Diminuí o passo por um instante e vi um homem de pele escura, carregando duas pedras de uma vez, sorrir para mim. Voltei à tarefa. Minutos depois, já estava exausto. Parei para descansar, mas, ao ver um dos homens do chicote lá embaixo, apressei o passo. No destino, havia um amontoado de pedras de titânio, que alguns homens carregavam até uma esteira rumo a uma máquina trituradora.
+Diminuí o passo por um instante e vi um homem de pele escura, carregando duas pedras de uma vez, sorrir para mim. Voltei à tarefa. Dezenas de ectons depois, já estava exausto. Parei para descansar, mas, ao ver um dos homens do chicote lá embaixo, apressei o passo. No destino, havia um amontoado de pedras de titânio, que alguns homens carregavam até uma esteira rumo a uma máquina trituradora.
 
 — Ei — chamei um dos carregadores, um homem careca com olhos fundos. — Pra que são esses titânios?
 

@@ -20,7 +20,7 @@ Antes de qualquer pergunta, estendi o braço e tirei o chapéu da cabeça dele.
 
 — Estava no gancho do hangar — Eric disse, sem pressa. — Você estava morto.
 
-— Eu estava *morto*, Eric, não doando minhas coisas. Qualquer pessoa decente espera um mês.
+— Eu estava *morto*, Eric, não doando minhas coisas. Qualquer pessoa decente espera um hepton.
 
 — Ficou bem em mim.
 
@@ -194,7 +194,7 @@ Então essa era a habilidade que a Engenheira tinha. Era assim que ela realizava
 
 Eric, que estava encostado na parede polindo uma pistola, levantou o olhar e caminhou lentamente até Hardman. Ele o encarou com desprezo.
 
-— O nosso mundinho fechado existe por mais de mil anos. E não interessa o quanto nos ataquem, sempre voltamos mais fortes.
+— O nosso mundinho fechado existe por mais de mil momentos. E não interessa o quanto nos ataquem, sempre voltamos mais fortes.
 
 Hardman arqueou as sobrancelhas e lançou uma de suas clássicas caretas, como se Eric tivesse acabado de sugerir algo ridículo.
 
@@ -386,7 +386,7 @@ Antes que eu pudesse continuar meu discurso, Eric entrou na cabine com a autorid
 
 — Eu assumo o comando.
 
-Eu ri alto, como se ele tivesse contado a piada do ano.
+Eu ri alto, como se ele tivesse contado a piada do momento.
 
 — Quando eu morrer, talvez. E mesmo assim, vou pilotar no meu velório.
 
