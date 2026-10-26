@@ -46,6 +46,18 @@ Banjo obedeceu, mas Átila permaneceu junto da cama, como se estivesse esperando
 
 Depois vinham o Edifício Arcano, o elevador de vidro, as aulas. Aprenderam a ler os avisos das tapeçarias, a pedir licença antes de entrar numa porta que tinha opinião, a não olhar fixo para os quadros que olhavam de volta. Ao entardecer, no jardim da casa, Velho-Sábio treinava os quatro, e a grama mudava de cor conforme o humor de quem pisava. Breno aprendeu a firmar os pés. Bruno aprendeu que o gelo, quando ele estava distraído, virava escorregador. Beatriz aprendeu a acender uma vela sem acender a toalha. Banjo aprendeu que as folhas do jardim gostavam de conversa e perdeu uma tarde inteira ouvindo.
 
+Mas os progressos não vieram de primeira. Breno atravessava a ponta dos dedos numa tábua e, na tentativa seguinte, batia a mão na madeira. Bruno recebia a tarefa de congelar uma gota e acabava cobrindo a tigela inteira de geada. Banjo tentava levantar uma folha sem erguer todas as outras; bastava Átila latir para perder a concentração. Beatriz conseguia manter uma chama pequena por alguns instantes, mas uma provocação do irmão fazia a luz crescer ou apagar.
+
+Velho-Sábio repetia os exercícios durante dias. Não permitia que aumentassem a força antes de conseguir manter o controle. Também os fazia conversar enquanto praticavam: uma pergunta inesperada era suficiente para quebrar o foco de quase todos.
+
+Certa tarde, proibiu qualquer magia e pediu apenas que atravessassem o jardim carregando copos cheios numa bandeja, sem deixar ninguém para trás. Breno tentou comandar o ritmo, Bruno saiu na frente e quase derrubou tudo. Foi Banjo quem encontrou o caminho mais regular; Beatriz sugeriu que andassem mais devagar. Só conseguiram na terceira tentativa.
+
+– O que mudou? – perguntou o mago.
+
+– A gente ouviu o Banjo – respondeu Bruno, contrariado.
+
+Banjo sorriu. Naquela noite, todos dormiram cedo, exaustos por uma tarefa que nem sequer precisava de magia.
+
 Noutra tarde, depois do treino, Banjo apareceu na sala com uma tira de papel macio presa à parte de trás da calça, balançando como um rabo.
 
 – Eu sou o cachorro Átila! – anunciou, correndo de quatro por um instante.

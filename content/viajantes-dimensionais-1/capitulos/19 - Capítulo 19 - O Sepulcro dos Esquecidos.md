@@ -216,7 +216,7 @@ Bruno já corria. Atrás deles, os devorantes voltavam, de todos os lados. Farol
 
 – Ele está com medo dos devorantes – disse, baixinho.
 
-Bruno virou-se e estendeu a mão. O chão atrás deles congelou numa muralha de gelo que fechou o caminho, e outras criaturas ficaram presas até os joelhos em blocos brancos. Era uma magia forte e perfeita.
+Bruno virou-se e estendeu a mão. O chão atrás deles congelou numa muralha de gelo que fechou o caminho, e outras criaturas ficaram presas até os joelhos em blocos brancos. Era uma magia forte, mas Bruno precisou apoiar uma mão no joelho para recuperar o fôlego. A muralha tinha irregularidades; ainda assim, bastava para retardar as criaturas.
 
 – Anda logo!
 

@@ -410,7 +410,7 @@ Uma esfera negra se formou na outra mão dele, pulsando, e Korvo se virou devaga
 
 – Pare! – gritou Bruno.
 
-Atirou estacas de gelo, uma atrás da outra. Elas se despedaçaram num campo roxo que envolveu Korvo, e os cacos brilharam no chão. Banjo levantou as pedras caídas e as atirou, todas de uma vez, e Korvo as desviou com um movimento de ombro, como se espantasse moscas. Beatriz juntou as mãos e lançou uma torrente de fogo. A fumaça cobriu o mago por completo.
+Atirou estacas de gelo, uma atrás da outra. Elas se despedaçaram num campo roxo que envolveu Korvo, e os cacos brilharam no chão. Banjo levantou as pedras caídas e as atirou, todas de uma vez. O esforço de controlar tantas ao mesmo tempo fez sua visão vacilar, e Korvo as desviou com um movimento de ombro, como se espantasse moscas. Beatriz juntou as mãos e lançou uma torrente de fogo. A fumaça cobriu o mago por completo.
 
 Banjo olhou para o lago. Ele nunca tinha tentado aquilo. Respirou, lembrou-se de que era preciso sentir antes de mandar, e sentiu o calor do líquido verde, a vontade preguiçosa dele de subir. O lago começou a ondular, depois se ergueu numa coluna enorme, e Banjo, com um grito, a atirou contra a fumaça.
 

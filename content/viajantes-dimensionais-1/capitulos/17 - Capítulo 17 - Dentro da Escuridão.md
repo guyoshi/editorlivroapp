@@ -56,7 +56,7 @@ Era uma criatura enorme, de ombros musculosos e braços grossos, que se apoiava 
 
 A cabeça se ergueu, farejou o ar, e a criatura se lançou sobre eles com uma velocidade que não combinava com o tamanho. Breno entrou na frente dos irmãos e virou metal, com o zumbido grave que fazia quando se transformava, mas não a tempo de evitar o impacto. Os dentes rasparam o corpo metálico com um guincho de arrepiar, e o téorix o ergueu e o arremessou contra uma árvore.
 
-Banjo e Bruno correram para ele. Bruno estendeu uma mão. A primeira tentativa só deixou uma geada fina no chão, e ele xingou baixinho. Então lembrou o que o treino ensinava: não mandar no frio, sentir o frio. Fechou os olhos por meio segundo, e o ar ao redor tilintou, como gelo batendo em cristal: um muro translúcido se ergueu entre eles e a criatura. Por um instante, só se ouvia a respiração dos três. Através do gelo, o vulto cinzento rondava, as garras arranhando a superfície, procurando um jeito de contornar.
+Banjo e Bruno correram para ele. Bruno estendeu uma mão. A primeira tentativa só deixou uma geada fina no chão, e ele xingou baixinho. Então lembrou o que o treino ensinava: não mandar no frio, sentir o frio. A primeira tentativa falhara justamente porque ele tentara obter de uma vez a mesma quantidade de gelo que conseguia produzir descansado. Fechou os olhos por meio segundo, e o ar ao redor tilintou, como gelo batendo em cristal: um muro translúcido se ergueu entre eles e a criatura. Por um instante, só se ouvia a respiração dos três. Através do gelo, o vulto cinzento rondava, as garras arranhando a superfície, procurando um jeito de contornar.
 
 – Corram! – gritou Breno.
 
