@@ -8,7 +8,7 @@ A voz era baixa e arrastada, e ele a conhecia. Não sabia de onde, mas conhecia,
 
 Acordou com um arquejo, de olhos abertos para o teto escuro, onde as constelações dormiam em desenho de estrela comum. A casa estava em silêncio. Os irmãos respiravam fundo nas camas. Breno ficou um tempo ouvindo o próprio coração e, quando percebeu que não ia dormir, desceu.
 
-A cozinha de Velho-Sábio era a parte da casa que ficava acordada de madrugada. Uma luz cor de mel vinha de uma lamparina em forma de pera, a chaleira cantarolava baixinho sobre o fogão apagado, e um pote de vidro na prateleira guardava um punhado de luzíria adormecida, que piscava devagar como quem sonha. Debaixo da mesa, Coronel levantou uma orelha, olhou para Breno e voltou a dormir.
+A cozinha de Velho-Sábio era a parte da casa que ficava acordada de madrugada. Uma luz cor de mel vinha de uma lamparina em forma de pera, a chaleira cantarolava baixinho sobre o fogão apagado, e um pote de vidro na prateleira guardava um punhado de luzíria adormecida, que piscava devagar como quem sonha. Debaixo da mesa, Átila levantou uma orelha, olhou para Breno e voltou a dormir.
 
 Velho-Sábio estava à mesa, de roupão de lã, com uma xícara fumegante entre as mãos e um livro aberto que ele não parecia ler. Ergueu o rosto e sorriu, sem se surpreender, como se tivesse ouvido a escada ranger antes mesmo de Breno descer.
 
@@ -65,11 +65,11 @@ Houve um silêncio. Bruno ergueu os olhos para a tela.
 
 Velho-Sábio, na cabeceira, escondeu o sorriso na xícara.
 
-Antes de saírem, ele enfiou um pão de canela no bolso de cada um, "por precaução". Coronel recebeu o dele direto na boca e, no caminho do portão, tentou ficar também com o de Bruno.
+Antes de saírem, ele enfiou um pão de canela no bolso de cada um, "por precaução". Átila recebeu o dele direto na boca e, no caminho do portão, tentou ficar também com o de Bruno.
 
 – Larga – disse Velho-Sábio, de longe, sem olhar.
 
-Coronel largou. Bruno guardou o pão mais fundo no bolso e agradeceu ao mago com um aceno de cabeça, em nome da dignidade de todos.
+Átila largou. Bruno guardou o pão mais fundo no bolso e agradeceu ao mago com um aceno de cabeça, em nome da dignidade de todos.
 
 O céu amanheceu limpo e azul, e as ruas de Tayo estavam cheias de gente com a cabeça para o alto. Pelo caminho, uma criança de patins flutuantes gritou "Boa sorte, dimensais!", e uma senhora da janela jogou um punhado de pétalas secas por cima do dassi deles. Mais adiante, quando passaram perto das vitrines de Sorevan, Bruno viu o próprio reflexo multiplicado entre os vidros e fingiu que estava cumprimentando uma multidão de admiradores. Beatriz o mandou parar de fazer pose.
 
@@ -209,7 +209,7 @@ Do dassi verde desceu o garoto ruivo do capacete. Estava sozinho, sem equipe, e 
 
 – Não sei – respondeu Banjo, ainda ofegante. – Mas deve ser bom. Ele pilota como se a estrada soubesse o nome dele.
 
-Velho-Sábio se aproximou, orgulhoso, com Coronel trotando ao lado dele, que ninguém tinha visto entrar. O cachorro foi direto em Banjo e lambeu a mão dele da ponta dos dedos ao cotovelo.
+Velho-Sábio se aproximou, orgulhoso, com Átila trotando ao lado dele, que ninguém tinha visto entrar. O cachorro foi direto em Banjo e lambeu a mão dele da ponta dos dedos ao cotovelo.
 
 – Vocês foram magníficos! – disse o mago, e deu um tapinha nas costas de Breno, que sorriu com o resto da adrenalina. – Quatro pilotos em um volante só e nenhum arranhão. Isso é coordenação.
 

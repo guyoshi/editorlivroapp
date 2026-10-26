@@ -118,7 +118,7 @@ Velho-Sábio entrou carregando um bolo montado como chamas vivas, em camadas de 
 
 – Para a nossa chama viva.
 
-Fez um gesto com o bastão, e velas finas flutuaram em volta do bolo, formando um círculo perfeito, cada uma com uma chama pequena e intensa. Os irmãos cantaram os parabéns, desafinados e calorosos, a voz grave de Breno contrastando com a empolgação de Banjo e o tom ligeiramente fora do coro de Bruno. Velho-Sábio entrou também, com a voz rouca. Kali tentou acompanhar, completamente por fora. Coronel andava de um para o outro atrás de algo para comer.
+Fez um gesto com o bastão, e velas finas flutuaram em volta do bolo, formando um círculo perfeito, cada uma com uma chama pequena e intensa. Os irmãos cantaram os parabéns, desafinados e calorosos, a voz grave de Breno contrastando com a empolgação de Banjo e o tom ligeiramente fora do coro de Bruno. Velho-Sábio entrou também, com a voz rouca. Kali tentou acompanhar, completamente por fora. Átila andava de um para o outro atrás de algo para comer.
 
 Beatriz fechou os olhos e soprou as velas, uma a uma. Cada chama apagava com suavidade, como uma dança chegando ao fim. Todos aplaudiram e foram abraçá-la. Era domingo, e aos domingos a mesa da casa ficava comprida. Desde a primeira semana tinha sido assim, e ninguém lembrava quando aquilo deixara de ser regra para virar costume.
 
@@ -142,13 +142,13 @@ Velho-Sábio apareceu com uma capa azul-escura bordada de constelações.
 
 – Boa sorte no festival, garotos! – desejou a voz de Kali.
 
-Coronel rodeou as pernas de Beatriz, quase a derrubando, e se sentou com a postura de sentinela ao lado do mago.
+Átila rodeou as pernas de Beatriz, quase a derrubando, e se sentou com a postura de sentinela ao lado do mago.
 
 – Sempre pontual – comentou Velho-Sábio. – Queria garantir que ninguém esquecesse de se despedir dele.
 
 Beatriz o abraçou, rindo.
 
-– Até mais tarde, Coronel.
+– Até mais tarde, Átila.
 
 Banjo procurava o petrisco pela sala, batendo palmas.
 
@@ -164,7 +164,7 @@ O petrisco apareceu debaixo da mesa carregando um pedaço de madeira. Balançou 
 
 – Não liga, rapaz. Eu vou pensar num nome incrível. – Banjo o pegou no colo e olhou o irmão com ar de vitória. – Pelo menos ele não precisa de nome pra ser fofo e útil. Ao contrário de certas pessoas.
 
-– Coronel, larga a capa e tome conta da casa – disse Velho-Sábio, e o cachorro soltou o tecido, ofendido, e respondeu com um latido de sentinela.
+– Átila, larga a capa e tome conta da casa – disse Velho-Sábio, e o cachorro soltou o tecido, ofendido, e respondeu com um latido de sentinela.
 
 
 Caminharam até a estação sob lâmpadas coloridas e projeções que dançavam nas fachadas. Os dassis estavam proibidos naquela noite, por causa dos balões no céu. A viagem de túbula foi o melhor jeito de ver a cidade: cada rua com a sua cor, edifícios altos contando histórias em projeções, hologramas de constelações mexendo-se como vaga-lumes. Quando passaram entre as Torres de Velur, a mais alta pareceu seguir subindo mesmo depois que o karto começou a descer. Adiante, as vitrines das Galerias de Miravélia, o imenso centro comercial daquele distrito, brilhavam atrás de jardins impecáveis, enquanto, noutra direção, a cidade se espalhava em pequenas ruas e telhados baixos. Havia uma área azul onde peixes de luz nadavam pelo ar e outra, vermelha, onde algo parecia bater no chão como um coração.

@@ -24,7 +24,7 @@ O mago o olhou, sem responder de imediato.
 
 – Vamos falar disso em casa, Bruno.
 
-Em casa, os irmãos se sentaram na sala, e Velho-Sábio se acomodou no sofá à frente deles, com Coronel ao lado. O cachorro tentou lamber a mão de Bruno, que a recolheu, sem querer ser incomodado.
+Em casa, os irmãos se sentaram na sala, e Velho-Sábio se acomodou no sofá à frente deles, com Átila ao lado. O cachorro tentou lamber a mão de Bruno, que a recolheu, sem querer ser incomodado.
 
 – Cada desafio tem regras claras – começou o mago. – Elas existem para testar a adaptação, a perseverança e a responsabilidade. Falhar em um deles é voltar. É uma regra antiga. – Ele olhou diretamente para Bruno. – Como você não cruzou o arco em uma lárida, Bruno, deverá voltar para a terceira dimensão.
 
@@ -50,7 +50,7 @@ No quarto dos irmãos, a noite foi de soluços abafados. Beatriz e Banjo se enco
 
 Mais tarde, Velho-Sábio bateu na porta.
 
-– Preciso resolver uma coisa com Garmande. Deixei o jantar pronto, e Coronel está de guarda. Ele é péssimo nisso, mas é sincero. Aconteça o que acontecer, ninguém sai de casa.
+– Preciso resolver uma coisa com Garmande. Deixei o jantar pronto, e Átila está de guarda. Ele é péssimo nisso, mas é sincero. Aconteça o que acontecer, ninguém sai de casa.
 
 Banjo e Beatriz foram para a cozinha. Bruno ficou deitado.
 
@@ -99,7 +99,7 @@ Bruno escutava, sem saber como reagir.
 Bruno quis responder, mas não conseguiu. Saiu do quarto sem olhar para ele, sentindo o olhar do mago nas costas. Não queria que ele visse a mistura de raiva, medo e incerteza que dançava em seu rosto.
 
 
-Na manhã seguinte, o céu mal tinha clareado quando Velho-Sábio acordou os irmãos. Havia uma xícara quente na mesinha de cada um, e Coronel dormia sentado ao pé da cama de Banjo, como um guarda de honra cansado.
+Na manhã seguinte, o céu mal tinha clareado quando Velho-Sábio acordou os irmãos. Havia uma xícara quente na mesinha de cada um, e Átila dormia sentado ao pé da cama de Banjo, como um guarda de honra cansado.
 
 – Levantem-se e arrumem-se. Temos algo importante a fazer.
 

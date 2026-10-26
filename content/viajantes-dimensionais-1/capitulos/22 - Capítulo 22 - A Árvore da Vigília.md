@@ -94,7 +94,7 @@ Banjo assentiu, sem saber o que sentir pelo garoto com quem havia dividido tanta
 
 Voltaram para casa de dassi. Pelas janelas, viram fitas do festival ainda presas às fachadas e um balão murcho amarrado a um poste. Ninguém passava naquela rua.
 
-Depois de um banho quente e roupas limpas, os quatro se sentaram à mesa. Havia um banquete simples, e eles comeram como quem não via comida há uma semana. Só Beatriz beliscava devagar, com os olhos longe. Coronel, deitado debaixo da cadeira de Banjo, aceitava tudo o que caía.
+Depois de um banho quente e roupas limpas, os quatro se sentaram à mesa. Havia um banquete simples, e eles comeram como quem não via comida há uma semana. Só Beatriz beliscava devagar, com os olhos longe. Átila, deitado debaixo da cadeira de Banjo, aceitava tudo o que caía.
 
 Velho-Sábio os observava da cabeceira, com um sorriso leve. A barba de três pontas tinha mergulhado na sopa, e ele fingiu que era de propósito.
 
@@ -439,11 +439,11 @@ Beatriz sorriu, e colocou o colar de volta. As duas se olharam, com um fio invis
 
 – Boa sorte – murmurou Shirley, com lágrimas escorrendo, enquanto eles se afastavam. A chuva de pétalas azuis seguiu os irmãos até a esquina e parou.
 
-A lua já subia quando chegaram em casa. Coronel veio correndo, abanando o rabo com tanta força que o corpo todo se movia junto, e Beatriz ajoelhou para abraçá-lo. Ele trazia na boca um chinelo de Velho-Sábio, que tinha sobrevivido a toda a semana de ausência.
+A lua já subia quando chegaram em casa. Átila veio correndo, abanando o rabo com tanta força que o corpo todo se movia junto, e Beatriz ajoelhou para abraçá-lo. Ele trazia na boca um chinelo de Velho-Sábio, que tinha sobrevivido a toda a semana de ausência.
 
-– Coronel – disse o mago, com a voz mais mole do que pretendia. – Larga.
+– Átila – disse o mago, com a voz mais mole do que pretendia. – Larga.
 
-Coronel largou, mas só depois de uma pausa respeitosa. Velho-Sábio fechou a porta e se virou para eles, e o brilho dos olhos verdes tinha algo de sábio e de triste ao mesmo tempo.
+Átila largou, mas só depois de uma pausa respeitosa. Velho-Sábio fechou a porta e se virou para eles, e o brilho dos olhos verdes tinha algo de sábio e de triste ao mesmo tempo.
 
 – Vocês viveram mais do que qualquer um deveria. Mas amanhã cedo vão partir.
 
@@ -502,7 +502,7 @@ Pelo menos naquela noite estavam juntos, e isso bastava.
 
  
 
-Na manhã seguinte, o sol atravessou as janelas e pintou a casa de dourado. Coronel dormia perto da porta, com um olho aberto e a alça da mochila de Banjo entre os dentes, e os irmãos dobravam as roupas em silêncio, com o som baixinho do tecido e dos passos no assoalho.
+Na manhã seguinte, o sol atravessou as janelas e pintou a casa de dourado. Átila dormia perto da porta, com um olho aberto e a alça da mochila de Banjo entre os dentes, e os irmãos dobravam as roupas em silêncio, com o som baixinho do tecido e dos passos no assoalho.
 
 Velho-Sábio os levou à Central de Teletransporte Dimensional, o salão que parecia desafiar o chão e o teto. Pontes flutuantes cruzavam o ar, criaturas de asa passavam pelo alto, e os portais prateados pulsavam em arcos esculpidos, como espelhos de água em pé. Tudo era tão vivo e tão bonito que Beatriz pensou que ia chorar só de olhar. Partir dali era como acordar no meio do melhor sonho e perceber que o despertador era de verdade.
 

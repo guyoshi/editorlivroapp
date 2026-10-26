@@ -1,14 +1,52 @@
 As semanas seguintes passaram sem que os irmãos percebessem, do jeito que passam as semanas boas.
 
-A manhã começava sempre igual. O despertador do teto estalava às sete, e as constelações bocejavam e se apagavam. Do andar de baixo subia o cheiro de pão com canela e a voz de Kali, que desejava bom dia a um por um, com uma observação diferente para cada: o tempo lá fora, a chance de Bruno perder uma meia, a hora exata em que Banjo ia derrubar a geleia. Banjo derrubava, quase sempre. Coronel esperava debaixo da mesa, de boca aberta, com a paciência de quem entende de geleia. Quando a paciência acabava, ele roubava um pão do cesto.
+A manhã começava sempre igual. O despertador do teto estalava às sete, e as constelações bocejavam e se apagavam. Do andar de baixo subia o cheiro de pão com canela e a voz de Kali, que desejava bom dia a um por um, com uma observação diferente para cada: o tempo lá fora, a chance de Bruno perder uma meia, a hora exata em que Banjo ia derrubar a geleia. Banjo derrubava, quase sempre. Átila esperava debaixo da mesa, de boca aberta, com a paciência de quem entende de geleia. Quando a paciência acabava, ele roubava um pão do cesto.
 
-– Coronel – dizia Velho-Sábio, do outro lado do jornal. – Larga.
+– Átila – dizia Velho-Sábio, do outro lado do jornal. – Larga.
 
-E Coronel largava, com a cara de quem acabou de sofrer uma injustiça histórica.
+E Átila largava, com a cara de quem acabou de sofrer uma injustiça histórica.
+
+Numa dessas noites, quando todos já tentavam dormir, Banjo se sentou na cama de repente.
+
+– Inventei uma brincadeira. Cachorro Átila!
+
+– Inventa amanhã – resmungou Bruno, virando para a parede.
+
+– É sobre um supercachorro que protege a cidade! Ele consegue achar qualquer pessoa, atravessar tempestades e salvar crianças de monstros gigantes.
+
+– Banjo, é hora de dormir – disse Breno, sem abrir os olhos.
+
+Beatriz ergueu a cabeça do travesseiro.
+
+– E ele voa?
+
+– Quando precisa! Mas tem que ter alguém para chamar o nome dele.
+
+Como se tivesse ouvido a deixa, Átila empurrou a porta com o focinho e entrou abanando o rabo. Banjo o abraçou e tentou erguê-lo; conseguiu levantá-lo só um pouco, soltando um gemido de esforço antes de se sentar com o cachorro no colo.
+
+– Cachorro Átila, ao resgate!
+
+Átila lambeu seu rosto. Beatriz caiu na risada. Até Bruno riu contra o travesseiro.
+
+– Resgata a gente do sono, então – pediu Breno. – E agora deita.
+
+Banjo obedeceu, mas Átila permaneceu junto da cama, como se estivesse esperando a próxima missão.
 
 Depois vinham o Edifício Arcano, o elevador de vidro, as aulas. Aprenderam a ler os avisos das tapeçarias, a pedir licença antes de entrar numa porta que tinha opinião, a não olhar fixo para os quadros que olhavam de volta. Ao entardecer, no jardim da casa, Velho-Sábio treinava os quatro, e a grama mudava de cor conforme o humor de quem pisava. Breno aprendeu a firmar os pés. Bruno aprendeu que o gelo, quando ele estava distraído, virava escorregador. Beatriz aprendeu a acender uma vela sem acender a toalha. Banjo aprendeu que as folhas do jardim gostavam de conversa e perdeu uma tarde inteira ouvindo.
 
-Aos domingos havia jantar, e o jantar era ordem de Velho-Sábio. Nada de treino, nada de Edifício, nada de pergunta difícil. Todo mundo cozinhava alguma coisa, quase todo mundo queimava alguma coisa, e a mesa ficava comprida de tanta gente: os quatro, o mago, Coronel e, na tela flutuante, uma Kali que fingia não ter fome.
+Noutra tarde, depois do treino, Banjo apareceu na sala com uma tira de papel macio presa à parte de trás da calça, balançando como um rabo.
+
+– Eu sou o cachorro Átila! – anunciou, correndo de quatro por um instante.
+
+Bruno soltou uma gargalhada. O verdadeiro Átila veio atrás dele, latindo e tentando alcançar o rabo improvisado.
+
+Breno ergueu os olhos do que estava lendo, impassível.
+
+– Banjo. Tira isso da bunda, cara.
+
+– Você não entende os super-heróis – respondeu Banjo, arrancando o papel antes que Átila conseguisse mordê-lo.
+
+Aos domingos havia jantar, e o jantar era ordem de Velho-Sábio. Nada de treino, nada de Edifício, nada de pergunta difícil. Todo mundo cozinhava alguma coisa, quase todo mundo queimava alguma coisa, e a mesa ficava comprida de tanta gente: os quatro, o mago, Átila e, na tela flutuante, uma Kali que fingia não ter fome.
 
 – Eu poderia provar? – perguntou ela no primeiro domingo, olhando a travessa.
 
@@ -26,7 +64,7 @@ Numa tarde livre, Velho-Sábio cumpriu a promessa de levá-los ao Riacho de Luri
 
 – Isso não afunda mesmo? – perguntou Breno, examinando as rodas.
 
-– Só se vocês pararem de pedalar e resolverem testar – respondeu Velho-Sábio, sentado num banco com Coronel.
+– Só se vocês pararem de pedalar e resolverem testar – respondeu Velho-Sábio, sentado num banco com Átila.
 
 – Então o Bruno vai afundar primeiro – disse Beatriz.
 

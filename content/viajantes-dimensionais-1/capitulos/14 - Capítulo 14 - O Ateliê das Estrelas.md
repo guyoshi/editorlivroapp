@@ -59,7 +59,7 @@ Velho-Sábio os chamou com um gesto.
 A resposta curta fez os quatro se calarem. No dassi, Banjo ainda descreveu o jogo inteiro em voz baixa, até Bruno puxar a manga dele. Beatriz olhou pela janela, pensando no que poderia ter deixado o mago tão sério logo no dia em que ela tinha acertado.
 
 
-Quando chegaram, a casa os recebeu com o mesmo calor de sempre. A lareira estava acesa, o cheiro de pão quente subia da cozinha, e Coronel veio balançando o rabo até as pernas deles, com um chinelo de Velho-Sábio na boca, como oferenda. Só Velho-Sábio não combinava com a casa. Fechou a porta da sala devagar, girou o anel de metal que servia de tranca e ficou de costas por um momento, respirando fundo.
+Quando chegaram, a casa os recebeu com o mesmo calor de sempre. A lareira estava acesa, o cheiro de pão quente subia da cozinha, e Átila veio balançando o rabo até as pernas deles, com um chinelo de Velho-Sábio na boca, como oferenda. Só Velho-Sábio não combinava com a casa. Fechou a porta da sala devagar, girou o anel de metal que servia de tranca e ficou de costas por um momento, respirando fundo.
 
 – Tá tudo bem? – Bruno quebrou o silêncio, como sempre. – A gente ganhou, sabia? Acho que merecemos uma comemoração. Ou pelo menos um "parabéns".
 
@@ -223,7 +223,7 @@ Fez menção de sair, mas voltou e olhou para a tela.
 
 – Estranho... e fascinante – respondeu Kali, quase num sussurro digital. – Obrigada por compartilhar.
 
-Bruno deu um sorriso pequeno e foi para a cozinha, onde o cheiro de massa fresca já subia. A mesa estava posta com pães cinzentos, frutas exóticas e um bolo simples de aroma encantador. Debaixo da cadeira, Coronel abriu um olho, avaliou se havia sobras e voltou a dormir. Bruno pegou um pedaço de pão. Pouco depois, Breno entrou, mais relaxado do que de costume.
+Bruno deu um sorriso pequeno e foi para a cozinha, onde o cheiro de massa fresca já subia. A mesa estava posta com pães cinzentos, frutas exóticas e um bolo simples de aroma encantador. Debaixo da cadeira, Átila abriu um olho, avaliou se havia sobras e voltou a dormir. Bruno pegou um pedaço de pão. Pouco depois, Breno entrou, mais relaxado do que de costume.
 
 – Tudo certo?
 
