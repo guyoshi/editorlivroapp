@@ -2746,3 +2746,7 @@ body.focus-mode .para-block > .reaction-summary{ display:none !important; }
 .library-series-title{margin:0;font-family:var(--serif);font-size:1.15rem;color:var(--ink);}
 .library-series-books{display:flex;flex-direction:column;gap:12px;}
 .library-series .book-card{width:100%;}
+
+/* Atualização discreta, com controles acessíveis e sem bloquear o leitor. */
+.lityra-update-banner{position:fixed;z-index:9999;left:12px;right:12px;bottom:max(12px,env(safe-area-inset-bottom));margin:auto;max-width:460px;padding:10px 12px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;border:1px solid var(--line);border-radius:12px;background:var(--bg-elev);color:var(--ink);box-shadow:0 4px 24px #0002;font:inherit;font-size:.84rem}
+.lityra-update-banner span{flex:1 1 130px}.lityra-update-banner button{border:1px solid var(--line);border-radius:8px;padding:7px 10px;color:var(--ink);background:var(--bg);cursor:pointer}.lityra-update-banner [data-update]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
