@@ -234,10 +234,35 @@ async function loadLibrary(){
       `).join("")}</div>
     </section>
   `).join("");
+  // querySelector (o seletor $) devolve apenas UM elemento, não uma lista.
+  // Usar $ para registrar TODOS os cartões; caso contrário .forEach lança
+  // TypeError, interrompe a biblioteca e impede inclusive o carregamento das capas.
   $(".book-card", listEl).forEach(card=>{
-    card.addEventListener("click", ()=> openBook(card.dataset.book));
+    card.addEventListener("click", async ()=>{
+      if(card.disabled) return;
+      card.disabled=true;
+      card.setAttribute("aria-busy","true");
+      try{
+        await openBook(card.dataset.book);
+      }catch(err){
+        console.error("Lityra: falha ao abrir o livro", card.dataset.book, err);
+        // Não deixar uma falha de rede/manifesto parecer um clique que não funciona.
+        const previous=card.nextElementSibling;
+        if(previous?.classList.contains("book-open-error")) previous.remove();
+        if(card.isConnected){
+          const hint=document.createElement("p");
+          hint.className="empty-hint book-open-error";
+          hint.setAttribute("role","alert");
+          hint.textContent="Não foi possível abrir o livro. Verifique a conexão e tente novamente.";
+          card.insertAdjacentElement("afterend",hint);
+        }
+      }finally{
+        card.disabled=false;
+        card.removeAttribute("aria-busy");
+      }
+    });
   });
-  // Capas são decorativas: só iniciar seus downloads depois de criar botões clicáveis.
+  // As capas são carregadas depois que TODOS os botões receberam seus eventos.
   const deferredCovers=$("img[data-src]",listEl);
   if("IntersectionObserver" in window){
     const observer=new IntersectionObserver(entries=>{
