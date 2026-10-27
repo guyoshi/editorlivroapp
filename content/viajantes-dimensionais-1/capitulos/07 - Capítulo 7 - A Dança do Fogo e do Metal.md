@@ -84,6 +84,20 @@ Tayo, aos poucos, deixou de ser um mapa e virou um distrito com gente que os rec
 
 Às vezes, depois das aulas, passavam pelo Largo dos Ponteiros, onde o relógio público mudava de cor e as crianças disputavam quem conseguiria fazê-lo tocar fora de hora. No Parque do Arco Manso, Banjo descobriu uma árvore que deixava as folhas cair apenas quando alguém lhe contava uma coisa engraçada. Bruno tentou fazê-la rir por dez minutos e saiu debaixo dela com um único graveto no cabelo. Beatriz conseguiu uma chuva de folhas contando que o irmão tinha ensaiado uma reverência para o próprio reflexo. Bruno jurou que a árvore estava roubando.
 
+Em outras tardes, saíam sem Velho-Sábio. Ele apenas lhes lembrava o caminho de volta e deixava a porta aberta até a hora do jantar. Breno insistia em saber aonde pretendiam ir, a que horas voltariam e por que Banjo precisava levar três pedaços de pão no bolso. Nem sempre adiantava: Bruno mudava de ideia na esquina, Beatriz queria entrar em alguma loja e Banjo parava para cumprimentar bichos que os outros sequer tinham notado.
+
+Certo dia, foram só os quatro ao Largo dos Ponteiros comprar alguma coisa para o lanche. Beatriz escolheu pãezinhos de Pelan, Bruno foi atrás de uma bebida gelada vendida numa banca e Banjo se distraiu com um animalzinho que dormia dentro de uma cesta de flores. Breno voltou duas vezes para chamá-lo. Quando finalmente se sentaram perto do relógio, Bruno percebeu que o irmão mais velho mal havia tocado no próprio pão.
+
+– Você acha que a cidade inteira vai engolir a gente se parar de vigiar? – perguntou.
+
+– Acho que você vai se perder se eu piscar – respondeu Breno.
+
+– Então pisca devagar – disse Beatriz, roubando um pedaço do pão dele.
+
+Banjo tentou contar uma história sobre a criatura da banca, mas se atrapalhou tanto que os quatro começaram a rir. Ficaram ali até o relógio mudar de cor. Voltaram para casa sozinhos, com algumas moedas a menos e nenhuma grande aventura para contar. Kali perguntou se tinham se comportado. Bruno disse que dependia de quem estivesse avaliando. Na cozinha, Átila apareceu para conferir os sacos de papel, e Velho-Sábio nem perguntou por onde tinham andado.
+
+Em outra saída, encontraram Eshley e Shirley perto do Parque do Arco Manso. Acabaram passando a tarde tentando inventar nomes para flores que mudavam de cor quando alguém espirrava. Eshley defendia nomes bonitos; Shirley inventava os mais absurdos. Beatriz ria até perder o ar, e Banjo tentou convencer uma flor a escolher o próprio nome. Não descobriram nada útil para os desafios. Foi justamente por isso que a tarde pareceu curta.
+
 Numa tarde livre, Velho-Sábio cumpriu a promessa de levá-los ao Riacho de Lurim. Na margem, havia bicicletas estreitas de rodas azuladas. Quem pedalava seguia por cima da água, deixando dois riscos que desapareciam logo atrás.
 
 – Isso não afunda mesmo? – perguntou Breno, examinando as rodas.

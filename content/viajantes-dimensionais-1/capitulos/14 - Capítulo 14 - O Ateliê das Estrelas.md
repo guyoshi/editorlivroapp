@@ -245,6 +245,12 @@ Breno riu e balançou a cabeça.
 
 Mais tarde, a casa inteira se reuniu na sala para uma partida de tepone, com direito a trapaças, risadas e acusações cruzadas. O vencedor foi Breno, para espanto de todos. Bruno exigiu auditoria.
 
+Kali fez a contagem mais uma vez, com toda a solenidade de quem anuncia um resultado histórico, e chegou à mesma conclusão. Banjo garantiu que Átila havia dado sorte ao vencedor porque dormira debaixo da cadeira de Breno. Bruno se ajoelhou diante do cachorro.
+
+– Traidor. E eu que divido comida com você.
+
+Átila lhe lambeu a mão, indiferente à acusação. Beatriz aproveitou a distração para esconder uma peça do jogo na manga, mas Kali anunciou imediatamente a localização exata dela. A gargalhada de Breno fez Bruno desistir, por aquela noite, de pedir outra partida.
+
 – Que tal darmos uma volta pela cidade hoje à tarde? – propôs Velho-Sábio, com um sorriso misterioso. – Precisamos comprar vestes para o festival.
 
 – Vamos de túbulas? – Banjo quase subiu na mesa.

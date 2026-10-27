@@ -121,6 +121,10 @@ Velho-Sábio sorriu.
 
 – Esse é o preço. A magia cobra fome, sono e cansaço. Quem a usa sem preparo pode se esgotar de um jeito que não volta. Por isso treinamos.
 
+– Mas eu consegui fazer um castelo inteiro – comentou Bruno.
+
+– E ainda não consegue congelar só o centro de uma poça. Produzir muita magia não é o mesmo que controlá-la. E mantê-la é outra dificuldade. Aprendam a diferença antes de tentar coisas maiores.
+
 – E se a gente precisar numa luta? – perguntou Bruno, ainda fingindo que não estava exausto. – Sei lá. Quando não dá pra escolher.
 
 – Por isso treinamos. Quem usa a magia com estratégia dura mais do que quem a usa com força. E ninguém é dono dela. Ela passa por nós. – Ele bateu o cajado no chão, e as quatro paisagens se dobraram uma sobre a outra, como páginas de um livro, até restar uma sala simples com uma mesa posta, uma travessa de bolinhos quentes e quatro copos de leite de amêndoa que borbulhavam. – Comam.

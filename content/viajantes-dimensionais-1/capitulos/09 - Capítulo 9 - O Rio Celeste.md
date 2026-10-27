@@ -118,7 +118,7 @@ Os outros aprendizes chegavam, lutando contra as correntezas que giravam em torn
 
 – SEGURA, MANINHA! – gritou ele.
 
-No meio do turbilhão, Beatriz perdeu o controle, e a lárida a derrubou. Ela foi arrastada pela água, mas Banjo, num impulso, estendeu a mão e a puxou com o seu M.A. para perto, até agarrá-la pela mão. Beatriz subiu na lárida dele, e quando olhou à procura da sua, ela tinha sumido.
+No meio do turbilhão, Beatriz perdeu o controle, e a lárida a derrubou. Ela foi arrastada pela água, mas Banjo, num impulso, estendeu a mão e a puxou com o seu M.A. para perto, até agarrá-la pela mão. O esforço fez seu braço tremer, e Banjo levou alguns segundos para recuperar o fôlego. Beatriz subiu na lárida dele, e quando olhou à procura da sua, ela tinha sumido.
 
 – Obrigada, Banjinho!
 
