@@ -1,7 +1,7 @@
 // Cache leve: guarda a casca do app pra abrir offline/instantâneo, e
 // guarda em cache (sem travar a rede) os textos e áudios de capítulo
 // conforme você vai abrindo — assim, na segunda vez, funcionam offline.
-const SHELL_CACHE = "jesed-shell-v115";
+const SHELL_CACHE = "jesed-shell-v116";
 const CONTENT_CACHE = "jesed-content-v2";
 const SHELL_FILES = [
   "./",
@@ -32,7 +32,10 @@ self.addEventListener("install", (event) => {
   event.waitUntil(
     caches.open(SHELL_CACHE).then((cache) => cache.addAll(SHELL_FILES)).catch(()=>{})
   );
-  self.skipWaiting();
+});
+
+self.addEventListener("message", event => {
+  if(event.data?.type === "LITYRA_APPLY_UPDATE") self.skipWaiting();
 });
 
 self.addEventListener("activate", (event) => {
@@ -41,12 +44,7 @@ self.addEventListener("activate", (event) => {
     await Promise.all(keys.filter(k=>k!==SHELL_CACHE&&k!==CONTENT_CACHE).map(k=>caches.delete(k)));
     await self.clients.claim();
 
-    // Uma nova versão precisa realmente chegar às abas/PWAs já abertas.
-    // Ao assumir o controle, recarrega cada janela uma única vez nesta ativação.
-    const windows=await self.clients.matchAll({type:"window",includeUncontrolled:true});
-    await Promise.all(windows.map(async client=>{
-      try{ await client.navigate(client.url); }catch(e){}
-    }));
+    // A aba ativa decide quando aplicar; não interromper leitura ou áudio.
   })());
 });
 
