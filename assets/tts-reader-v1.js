@@ -10,8 +10,9 @@ function splitText(raw){
  .replace(/\[([^\]]+)\]\([^)]+\)/g,"$1").replace(/^\s{0,3}#{1,6}\s+/gm,"")
  .replace(/^\s*>\s?/gm,"").replace(/^\s*[-*+]\s+/gm,"").replace(/[*_\x60]/g,"")
  .replace(/<[^>]*>/g,"").replace(/\r\n/g,"\n").trim();
- const out=[];
+ const out=[],paragraphStarts=[];
  for(const para of text.split(/\n\s*\n/)){
+   if(para.trim())paragraphStarts.push(out.length);
    let rem=para.replace(/\s*\n\s*/g," ").replace(/\s+/g," ").trim();
    while(rem){
      if(rem.length<=240){out.push(rem);break;}
@@ -20,7 +21,7 @@ function splitText(raw){
      out.push(rem.slice(0,cut).trim());rem=rem.slice(cut).trim();
    }
  }
- return out.filter(Boolean);
+ return {parts:out.filter(Boolean),paragraphStarts};
 }
 function keyFor(book,chapter){
  const owner=window.Comments?.isAdmin?.()?"admin":localStorage.getItem("jesed:readerId")||"guest";
@@ -34,12 +35,12 @@ function cancel(){token++;if(supported)try{synth.cancel();}catch(_){}}
 function stop(){if(!ch)return;playing=false;cancel();save();ch=null;emit("stop");}
 function prepare(book,chapter,raw){
  stop();if(!supported||!raw)return false;
- const parts=splitText(raw);if(!parts.length)return false;
+ const split=splitText(raw),parts=split.parts;if(!parts.length)return false;
  const key=keyFor(book,chapter),h=hash(String(raw));let old=null;
  try{old=JSON.parse(localStorage.getItem(key)||"null");}catch(_){}
  const valid=old?.hash===h&&Number.isInteger(old.index)&&old.index>=0&&old.index<parts.length;
  const index=valid?old.index:0,offset=valid?Math.min(parts[index].length-1,Math.max(0,Number(old.offset)||0)):0;
- ch={key,hash:h,parts,index,offset};playing=false;emit("ready");return true;
+ ch={key,hash:h,parts,paragraphStarts:split.paragraphStarts,index,offset};playing=false;emit("ready");return true;
 }
 function speakNext(){
  if(!ch||!playing)return;
@@ -56,7 +57,15 @@ function speakNext(){
 function play(){if(!supported||!ch)return false;if(playing)return true;if(ch.index>=ch.parts.length){ch.index=0;ch.offset=0;}playing=true;cancel();emit("play");speakNext();return true;}
 function pause(){if(!ch||!playing)return;playing=false;cancel();save();emit("pause");}
 function seek(p){if(!ch)return;const restart=playing;playing=false;cancel();ch.index=Math.min(ch.parts.length-1,Math.floor(Math.max(0,Math.min(1,Number(p)||0))*ch.parts.length));ch.offset=0;save();emit("progress");if(restart)play();}
-function back(){if(ch)seek(Math.max(0,ch.index-(ch.offset?0:1))/ch.parts.length);}
+function jumpParagraph(direction){
+ if(!ch)return;
+ const starts=ch.paragraphStarts||[0];
+ const current=starts.reduce((acc,v,i)=>v<=ch.index?i:acc,0);
+ const target=direction<0?starts[Math.max(0,current-(ch.index>starts[current]?0:1))]:starts[Math.min(starts.length-1,current+1)];
+ const restart=playing;playing=false;cancel();ch.index=target;ch.offset=0;save();emit("progress");if(restart)play();
+}
+function back(){jumpParagraph(-1);}
+function next(){jumpParagraph(1);}
 function reloadVoices(){
  if(!supported)return;voices=(synth.getVoices()||[]).filter(v=>/^pt(?:-|$)/i.test(v.lang)).sort((a,b)=>(a.lang.toLowerCase()==="pt-br"?0:1)-(b.lang.toLowerCase()==="pt-br"?0:1));
  const select=document.getElementById("ttsVoice");if(!select)return;select.replaceChildren();
@@ -72,5 +81,5 @@ function setup(){
  if(supported){reloadVoices();synth.addEventListener?.("voiceschanged",reloadVoices);}
 }
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",setup,{once:true});else setup();
-window.LityraTTS={supported,prepare,play,pause,stop,seek,back,status:()=>status()};
+window.LityraTTS={supported,prepare,play,pause,stop,seek,back,next,status:()=>status()};
 })();
