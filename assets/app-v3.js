@@ -237,7 +237,7 @@ async function loadLibrary(){
   // querySelector (o seletor $) devolve apenas UM elemento, não uma lista.
   // Usar $ para registrar TODOS os cartões; caso contrário .forEach lança
   // TypeError, interrompe a biblioteca e impede inclusive o carregamento das capas.
-  $(".book-card", listEl).forEach(card=>{
+  listEl.querySelectorAll(".book-card").forEach(card=>{
     card.addEventListener("click", async ()=>{
       if(card.disabled) return;
       card.disabled=true;
@@ -263,7 +263,7 @@ async function loadLibrary(){
     });
   });
   // As capas são carregadas depois que TODOS os botões receberam seus eventos.
-  const deferredCovers=$("img[data-src]",listEl);
+  const deferredCovers=listEl.querySelectorAll("img[data-src]");
   if("IntersectionObserver" in window){
     const observer=new IntersectionObserver(entries=>{
       for(const entry of entries){if(!entry.isIntersecting)continue;
