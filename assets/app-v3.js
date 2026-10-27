@@ -479,6 +479,7 @@ async function openChapter(idx){
     ttsMode=false;
     const opts=$("#ttsOptions");if(opts)opts.hidden=true;
     const back=$("#btnBack15");if(back){back.title="Voltar 15s";back.setAttribute("aria-label",back.title);}
+    const next=$("#btnNextPara");if(next)next.hidden=true;
     setNarrationAvailability(true);
     views.reader.classList.add("has-narration");
     player.src = resolve(ch.audio);
@@ -678,14 +679,15 @@ function renderTTSStatus(detail){
   if(now)now.textContent="Trecho "+Math.min(detail.count,detail.index+1);
   if(end)end.textContent="de "+detail.count;
   if(seek)seek.value=String(Math.round(detail.fraction*1000));
-  if(hint)hint.textContent=detail.error||"Leitura gratuita com a voz do aparelho. Pode ser interrompida com a tela bloqueada.";
+  if(hint)hint.textContent=detail.error||"A voz vem do dispositivo; alguns navegadores interrompem a narração com a tela bloqueada.";
 }
 function activateTTS(book,ch){
   const usable=!!window.LityraTTS?.prepare?.(book,ch,state.currentChapterRaw);
   ttsMode=usable;
-  const settings=$("#ttsOptions"),back=$("#btnBack15");
-  if(settings)settings.hidden=!usable;
-  if(back){back.title=usable?"Voltar um trecho":"Voltar 15s";back.setAttribute("aria-label",back.title);}
+  const settings=$("#ttsOptions"),back=$("#btnBack15"),next=$("#btnNextPara");
+  if(settings){settings.hidden=!usable;settings.open=false;}
+  if(next)next.hidden=!usable;
+  if(back){back.title=usable?"Voltar um parágrafo":"Voltar 15s";back.setAttribute("aria-label",back.title);}
   views.reader.classList.toggle("has-narration",usable);
   setNarrationAvailability(usable);
   if(!usable)return;
@@ -696,7 +698,7 @@ function activateTTS(book,ch){
       navigator.mediaSession.setActionHandler("play",()=>window.LityraTTS?.play());
       navigator.mediaSession.setActionHandler("pause",()=>window.LityraTTS?.pause());
       navigator.mediaSession.setActionHandler("seekbackward",()=>window.LityraTTS?.back());
-      navigator.mediaSession.setActionHandler("seekforward",()=>window.LityraTTS?.seek(Math.min(1,window.LityraTTS.status().fraction+.025)));
+      navigator.mediaSession.setActionHandler("seekforward",()=>window.LityraTTS?.next());
     }catch(_){/* Alguns navegadores não oferecem comandos externos para voz. */}
   }
 }
@@ -1003,6 +1005,7 @@ function initPlayerControls(){
   });
   $("#seek").addEventListener("change",event=>{if(ttsMode)window.LityraTTS?.seek(Number(event.target.value)/1000);});
   $("#btnBack15").addEventListener("click",()=>{if(ttsMode)window.LityraTTS?.back();else skip(-15);});
+  $("#btnNextPara")?.addEventListener("click",()=>{if(ttsMode)window.LityraTTS?.next();});
   let lastTTSPlaying=false;
   document.addEventListener("lityra:tts-state",event=>{
     const info=event.detail;
