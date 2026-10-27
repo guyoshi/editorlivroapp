@@ -224,7 +224,7 @@ async function loadLibrary(){
         <button class="book-card" data-book="${libraryText(b.id)}">
           <div class="book-cover">
             <span class="book-cover-fallback">${libraryText((b.title||"?").slice(0,1))}</span>
-            <img src="${libraryText(coverUrl(b.id))}" alt="" loading="lazy" onerror="this.remove()">
+            <img data-src="${libraryText(coverUrl(b.id))}" alt="" loading="lazy" decoding="async" fetchpriority="low" onerror="this.remove()">
           </div>
           <div class="book-info">
             <h3>${libraryText(b.title)}</h3>
@@ -234,9 +234,19 @@ async function loadLibrary(){
       `).join("")}</div>
     </section>
   `).join("");
-  $$(".book-card", listEl).forEach(card=>{
+  $(".book-card", listEl).forEach(card=>{
     card.addEventListener("click", ()=> openBook(card.dataset.book));
   });
+  // Capas são decorativas: só iniciar seus downloads depois de criar botões clicáveis.
+  const deferredCovers=$("img[data-src]",listEl);
+  if("IntersectionObserver" in window){
+    const observer=new IntersectionObserver(entries=>{
+      for(const entry of entries){if(!entry.isIntersecting)continue;
+        const img=entry.target;observer.unobserve(img);img.src=img.dataset.src;img.removeAttribute("data-src");
+      }
+    },{rootMargin:"160px"});
+    deferredCovers.forEach(img=>observer.observe(img));
+  }else deferredCovers.forEach(img=>{img.src=img.dataset.src;img.removeAttribute("data-src");});
 }
 
 // Biblioteca publicada. A sincronização não altera o progresso de nenhum leitor.
@@ -299,6 +309,9 @@ function renderBookView(){
     coverImg.hidden = true;
     coverImg.onload = () => { coverImg.hidden = false; };
     coverImg.onerror = () => { coverImg.hidden = true; };
+    coverImg.decoding="async";
+    coverImg.loading="lazy";
+    coverImg.fetchPriority="low";
     coverImg.src = coverUrl(book.id);
   }
 
@@ -1438,12 +1451,46 @@ document.addEventListener("beta:reader-access-change",async e=>{
   }
 });
 
-// ---------------- service worker ----------------
+// ---------------- atualizacoes PWA sem interromper a leitura ----------------
 if("serviceWorker" in navigator){
-  window.addEventListener("load", ()=>{
+  window.addEventListener("load",()=>{
     navigator.serviceWorker.register("assets/service-worker.js").then(reg=>{
-      reg.update().catch(()=>{});
-      setInterval(()=>reg.update().catch(()=>{}),300000);
+      let updateRequested=false;
+      let banner=null;
+      const dismiss=()=>{
+        banner?.remove();banner=null;
+      };
+      const showUpdate=()=>{
+        if(!reg.waiting||!navigator.serviceWorker.controller||banner)return;
+        banner=document.createElement("div");
+        banner.setAttribute("role","status");
+        banner.className="lityra-update-banner";
+        banner.innerHTML='<span>Nova versão pronta.</span><button type="button" data-update>Atualizar</button><button type="button" data-later>Depois</button>';
+        banner.querySelector("[data-update]").addEventListener("click",()=>{
+          updateRequested=true;
+          // Posições textuais e áudio são salvas pelos mecanismos existentes.
+          try{const a=document.getElementById("audioEl");if(a&&!a.paused)a.pause();}catch(_){}
+          window.LityraTTS?.pause?.();
+          reg.waiting?.postMessage({type:"LITYRA_APPLY_UPDATE"});
+        });
+        banner.querySelector("[data-later]").addEventListener("click",dismiss);
+        document.body.appendChild(banner);
+      };
+      const check=()=>{if(navigator.onLine!==false)reg.update().catch(()=>{});};
+      if(reg.waiting)showUpdate();
+      reg.addEventListener("updatefound",()=>{
+        const worker=reg.installing;
+        worker?.addEventListener("statechange",()=>{
+          if(worker.state==="installed")showUpdate();
+        });
+      });
+      navigator.serviceWorker.addEventListener("controllerchange",()=>{
+        if(updateRequested)location.reload();
+      });
+      check();
+      setInterval(check,300000);
+      document.addEventListener("visibilitychange",()=>{if(!document.hidden)check();});
+      window.addEventListener("online",check);
     }).catch(()=>{});
   });
 }
