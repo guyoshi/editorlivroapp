@@ -1,5 +1,17 @@
 A semana entre o segundo desafio e o último passou devagar, do jeito esticado de quando todo mundo espera por uma coisa que não sabe nomear. Breno acordava antes do despertador e conferia, sem querer, se os irmãos ainda estavam nas camas. Beatriz treinava as chamas no jardim até o sol sumir. Banjo escrevia num caderno novo o nome de todas as folhas que conversavam com ele, e a lista já passava de trinta. Bruno ensinou ao teto da cozinha um refrão de rock da terceira dimensão, e dali em diante a gosma era esfregada ao som de guitarras que ninguém sabia de onde vinham. Velho-Sábio fingiu não ouvir.
 
+Num dos dias daquela semana, os quatro saíram sozinhos para comprar o lanche no Largo dos Ponteiros. Velho-Sábio apenas pediu que voltassem antes do jantar. Breno perguntou três vezes aonde iriam; Bruno respondeu que era só uma padaria, e Beatriz lembrou que sabiam perfeitamente voltar para casa.
+
+Pelan lhes vendeu pãezinhos ainda quentes. Banjo se distraiu com uma criatura que dormia numa cesta de flores; Breno precisou chamá-lo de volta, enquanto Bruno escolhia uma bebida numa banca. Depois se sentaram perto do relógio, observando as crianças tentarem fazê-lo tocar fora de hora.
+
+– Você acha que a cidade vai engolir a gente se parar de vigiar? – Bruno perguntou a Breno.
+
+– Acho que você vai se perder se eu piscar.
+
+– Então pisca devagar – disse Beatriz, roubando um pedaço do pão dele.
+
+Banjo tentou contar a história da criatura da banca, mas se atrapalhou tanto que todos começaram a rir. Voltaram por conta própria, com moedas a menos e nada de extraordinário para relatar. Kali perguntou se tinham se comportado. Bruno respondeu que dependia de quem estivesse avaliando, e Átila examinou os sacos de papel em busca de migalhas.
+
 Na quinta à noite, ele serviu o jantar mais simples de todos, sopa e pão, e disse apenas:
 
 – Durmam bem. O que vier, vocês já têm.
