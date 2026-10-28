@@ -126,6 +126,12 @@ Todos se acomodaram. Mirel afastou a chaleira do fogo. Nestira deixou o tecido s
 
 “Em um ciclo muito antigo, havia um menino eterí conhecido por ser leve até entre os seus. No Primeiro Voo, enquanto os outros apenas aprendiam a confiar nas Correntes, ele parecia dançar com elas.
 
+Só ele sabia que, dias antes, tinha mentido.
+
+Havia uma fruta entoada, cantada pelos Oradores e guardada como oferenda às Correntes. O menino, curioso e com fome, comeu-a escondido. Quando perguntaram quem a pegara, respondeu que não sabia. Ninguém desconfiou de alguém tão leve.
+
+No começo, a mentira não pesava nada.
+
 Até que, num sopro qualquer, acordou pesado.
 
 As pernas e os ombros estavam bem. O peso vinha de outro lugar. Corria pior, ria menos e sua vintela já não subia como antes. Então percebeu pedras nos bolsos. Tirava uma, outra aparecia. Tirava duas, surgiam três.
@@ -134,13 +140,13 @@ Os pais o levaram a um velho Orador, que escutou seu peito e disse:
 
 — Pequeno vento… você carrega algo que não é seu. O que nos prende não são as pedras. É a mentira.
 
-O menino chorou e contou que havia comido escondido uma fruta entoada, oferecida aos Oradores. Quando perguntaram quem a pegara, ele mentiu.
+O menino chorou. Não precisou explicar qual era a mentira.
 
 — Não foi a fruta — disse o Orador. — Foi o silêncio depois dela.
 
 Levou o menino até a beira da ilha e pediu que colhesse uma folha qualquer. Ele escolheu uma gilesa comum.
 
-— O perdão não precisa ser belo. Só precisa ser sincero.
+— A mentira só pesa enquanto é guardada — disse o Orador. — E o perdão não precisa ser belo. Só precisa ser sincero.
 
 O menino fechou os olhos, contou a verdade ao Vazio e soltou a folha.
 
